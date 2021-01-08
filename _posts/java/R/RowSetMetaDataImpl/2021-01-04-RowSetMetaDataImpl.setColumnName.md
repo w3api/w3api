@@ -1,0 +1,44 @@
+---
+title: RowSetMetaDataImpl.setColumnName()
+permalink: Java/RowSetMetaDataImpl/setColumnName
+date: 2021-01-04
+key: JavaJava.R.RowSetMetaDataImpl
+category: java
+tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'metodo java', 'Java 1.5']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.R.RowSetMetaDataImpl.metodos valor="setColumnName" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public void setColumnName(int columnIndex, String columnName) throws SQLException
+~~~
+
+## Parámetros
+* **int columnIndex**,  {% include w3api/param_description.html metodo=_data parametro="int columnIndex" %}
+* **String columnName**,  {% include w3api/param_description.html metodo=_data parametro="String columnName" %}
+
+## Excepciones
+[SQLException](/Java/SQLException/)
+
+## Clase Padre
+[RowSetMetaDataImpl](/Java/RowSetMetaDataImpl/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.R.RowSetMetaDataImpl.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

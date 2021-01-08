@@ -1,0 +1,45 @@
+---
+title: GZIPInputStream.GZIPInputStream()
+permalink: Java/GZIPInputStream/GZIPInputStream
+date: 2021-01-04
+key: JavaJava.G.GZIPInputStream
+category: java
+tags: ['java se', 'java.util.zip', 'java.base', 'metodo java', 'Java 1.1']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.G.GZIPInputStream.constructores valor="GZIPInputStream" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public GZIPInputStream(InputStream in) throws IOException
+public GZIPInputStream(InputStream in, int size) throws IOException
+~~~
+
+## Parámetros
+* **int size**,  {% include w3api/param_description.html metodo=_data parametro="int size" %}
+* **InputStream in**,  {% include w3api/param_description.html metodo=_data parametro="InputStream in" %}
+
+## Excepciones
+[IllegalArgumentException](/Java/IllegalArgumentException/), [IOException](/Java/IOException/), [ZipException](/Java/ZipException/)
+
+## Clase Padre
+[GZIPInputStream](/Java/GZIPInputStream/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.G.GZIPInputStream.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

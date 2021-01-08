@@ -1,0 +1,37 @@
+---
+title: ProgressBar.getInitialFocusTraversable()
+permalink: Java/ProgressBar/getInitialFocusTraversable
+date: 2021-01-04
+key: JavaJava.P.ProgressBar
+category: java
+tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.P.ProgressBar.metodos valor="getInitialFocusTraversable" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+protected Boolean getInitialFocusTraversable()
+~~~
+
+## Clase Padre
+[ProgressBar](/Java/ProgressBar/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.P.ProgressBar.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

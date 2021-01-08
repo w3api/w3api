@@ -1,0 +1,43 @@
+---
+title: FontWeight.valueOf()
+permalink: Java/FontWeight/valueOf
+date: 2021-01-04
+key: JavaJava.F.FontWeight
+category: java
+tags: ['java se', 'javafx.scene.text', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.F.FontWeight.metodos valor="valueOf" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public static FontWeight valueOf(String name)
+~~~
+
+## Parámetros
+* **String name**,  {% include w3api/param_description.html metodo=_data parametro="String name" %}
+
+## Excepciones
+[NullPointerException](/Java/NullPointerException/), [IllegalArgumentException](/Java/IllegalArgumentException/)
+
+## Clase Padre
+[FontWeight](/Java/FontWeight/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.F.FontWeight.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

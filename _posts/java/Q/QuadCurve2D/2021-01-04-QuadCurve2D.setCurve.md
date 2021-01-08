@@ -1,0 +1,56 @@
+---
+title: QuadCurve2D.setCurve()
+permalink: Java/QuadCurve2D/setCurve
+date: 2021-01-04
+key: JavaJava.Q.QuadCurve2D
+category: java
+tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.2']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.Q.QuadCurve2D.metodos valor="setCurve" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public void setCurve(double[] coords, int offset)
+public abstract void setCurve(double x1, double y1, double ctrlx, double ctrly, double x2, double y2)
+public void setCurve(Point2D[] pts, int offset)
+public void setCurve(Point2D p1, Point2D cp, Point2D p2)
+public void setCurve(QuadCurve2D c)
+~~~
+
+## Parámetros
+* **double[] coords**,  {% include w3api/param_description.html metodo=_data parametro="double[] coords" %}
+* **double ctrly**,  {% include w3api/param_description.html metodo=_data parametro="double ctrly" %}
+* **double y1**,  {% include w3api/param_description.html metodo=_data parametro="double y1" %}
+* **Point2D[] pts**,  {% include w3api/param_description.html metodo=_data parametro="Point2D[] pts" %}
+* **double y2**,  {% include w3api/param_description.html metodo=_data parametro="double y2" %}
+* **double x2**,  {% include w3api/param_description.html metodo=_data parametro="double x2" %}
+* **int offset**,  {% include w3api/param_description.html metodo=_data parametro="int offset" %}
+* **double ctrlx**,  {% include w3api/param_description.html metodo=_data parametro="double ctrlx" %}
+* **Point2D p2**,  {% include w3api/param_description.html metodo=_data parametro="Point2D p2" %}
+* **Point2D p1**,  {% include w3api/param_description.html metodo=_data parametro="Point2D p1" %}
+* **double x1**,  {% include w3api/param_description.html metodo=_data parametro="double x1" %}
+* **QuadCurve2D c**,  {% include w3api/param_description.html metodo=_data parametro="QuadCurve2D c" %}
+* **Point2D cp**,  {% include w3api/param_description.html metodo=_data parametro="Point2D cp" %}
+
+## Clase Padre
+[QuadCurve2D](/Java/QuadCurve2D/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.Q.QuadCurve2D.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

@@ -1,0 +1,40 @@
+---
+title: WebHistory.setMaxSize()
+permalink: Java/WebHistory/setMaxSize
+date: 2021-01-04
+key: JavaJava.W.WebHistory
+category: java
+tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'JavaFX 2.2']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.W.WebHistory.metodos valor="setMaxSize" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public void setMaxSize(int value)
+~~~
+
+## Parámetros
+* **int value**,  {% include w3api/param_description.html metodo=_data parametro="int value" %}
+
+## Clase Padre
+[WebHistory](/Java/WebHistory/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.W.WebHistory.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

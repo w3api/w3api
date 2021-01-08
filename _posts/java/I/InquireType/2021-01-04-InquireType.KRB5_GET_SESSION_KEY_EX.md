@@ -1,0 +1,37 @@
+---
+title: InquireType.KRB5_GET_SESSION_KEY_EX
+permalink: Java/InquireType/KRB5_GET_SESSION_KEY_EX
+date: 2021-01-04
+key: JavaJava.I.InquireType
+category: java
+tags: ['java se', 'com.sun.security.jgss', 'jdk.security.jgss', 'campo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.I.InquireType.enumeraodos valor="KRB5_GET_SESSION_KEY_EX" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public static final InquireType KRB5_GET_SESSION_KEY_EX
+~~~
+
+## Clase Padre
+[InquireType](/Java/InquireType/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.I.InquireType.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

@@ -1,0 +1,41 @@
+---
+title: DragGestureEvent.toArray()
+permalink: Java/DragGestureEvent/toArray
+date: 2021-01-04
+key: JavaJava.D.DragGestureEvent
+category: java
+tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.D.DragGestureEvent.metodos valor="toArray" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public Object[] toArray()
+public Object[] toArray(Object[] array)
+~~~
+
+## Parámetros
+* **Object[] array**,  {% include w3api/param_description.html metodo=_data parametro="Object[] array" %}
+
+## Clase Padre
+[DragGestureEvent](/Java/DragGestureEvent/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.D.DragGestureEvent.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

@@ -1,0 +1,37 @@
+---
+title: MBeanServerNotificationFilter.getDisabledObjectNames()
+permalink: Java/MBeanServerNotificationFilter/getDisabledObjectNames
+date: 2021-01-04
+key: JavaJava.M.MBeanServerNotificationFilter
+category: java
+tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.M.MBeanServerNotificationFilter.metodos valor="getDisabledObjectNames" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public Vector<ObjectName> getDisabledObjectNames()
+~~~
+
+## Clase Padre
+[MBeanServerNotificationFilter](/Java/MBeanServerNotificationFilter/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.M.MBeanServerNotificationFilter.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

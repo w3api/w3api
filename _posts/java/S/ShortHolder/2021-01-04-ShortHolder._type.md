@@ -1,0 +1,37 @@
+---
+title: ShortHolder._type()
+permalink: Java/ShortHolder/_type
+date: 2021-01-04
+key: JavaJava.S.ShortHolder
+category: java
+tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.S.ShortHolder.metodos valor="_type" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public TypeCode _type()
+~~~
+
+## Clase Padre
+[ShortHolder](/Java/ShortHolder/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.S.ShortHolder.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

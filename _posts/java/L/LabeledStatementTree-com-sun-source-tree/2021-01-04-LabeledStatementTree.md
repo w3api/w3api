@@ -1,0 +1,36 @@
+---
+title: LabeledStatementTree
+permalink: Java/LabeledStatementTree-com-sun-source-tree
+date: 2021-01-04
+key: JavaJava.L.LabeledStatementTree-com-sun-source-tree
+category: java
+tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
+sidebar: 
+  nav: java
+---
+
+## Descripción
+{{site.data.Java.L.LabeledStatementTree-com-sun-source-tree.description }}
+
+## Sintaxis
+~~~java
+public interface LabeledStatementTree extends StatementTree
+~~~
+
+## Métodos
+* [getLabel()](/Java/LabeledStatementTree-com-sun-source-tree/getLabel)
+* [getStatement()](/Java/LabeledStatementTree-com-sun-source-tree/getStatement)
+
+## Ejemplo
+~~~java
+{{ site.data.Java.L.LabeledStatementTree-com-sun-source-tree.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.L.LabeledStatementTree-com-sun-source-tree.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

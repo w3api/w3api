@@ -1,0 +1,37 @@
+---
+title: JavaFileManager.Location
+permalink: Java/JavaFileManager/Location
+date: 2021-01-04
+key: JavaJava.J.JavaFileManager.Location
+category: java
+tags: ['java se', 'javax.tools', 'java.compiler', 'interface java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+## Descripción
+{{site.data.Java.J.JavaFileManager.Location.description }}
+
+## Sintaxis
+~~~java
+public static interface JavaFileManager.Location
+~~~
+
+## Métodos
+* [getName()](/Java/JavaFileManager/Location/getName)
+* [isModuleOrientedLocation()](/Java/JavaFileManager/Location/isModuleOrientedLocation)
+* [isOutputLocation()](/Java/JavaFileManager/Location/isOutputLocation)
+
+## Ejemplo
+~~~java
+{{ site.data.Java.J.JavaFileManager.Location.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.J.JavaFileManager.Location.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

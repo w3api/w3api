@@ -1,0 +1,45 @@
+---
+title: SNIHostName.SNIHostName()
+permalink: Java/SNIHostName/SNIHostName
+date: 2021-01-04
+key: JavaJava.S.SNIHostName
+category: java
+tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.8']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.S.SNIHostName.constructores valor="SNIHostName" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public SNIHostName(byte[] encoded)
+public SNIHostName(String hostname)
+~~~
+
+## Parámetros
+* **byte[] encoded**,  {% include w3api/param_description.html metodo=_data parametro="byte[] encoded" %}
+* **String hostname**,  {% include w3api/param_description.html metodo=_data parametro="String hostname" %}
+
+## Excepciones
+[NullPointerException](/Java/NullPointerException/), [IllegalArgumentException](/Java/IllegalArgumentException/)
+
+## Clase Padre
+[SNIHostName](/Java/SNIHostName/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.S.SNIHostName.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

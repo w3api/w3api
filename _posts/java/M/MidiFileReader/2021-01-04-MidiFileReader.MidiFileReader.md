@@ -1,0 +1,40 @@
+---
+title: MidiFileReader.MidiFileReader()
+permalink: Java/MidiFileReader/MidiFileReader
+date: 2021-01-04
+key: JavaJava.M.MidiFileReader
+category: java
+tags: ['java se', 'javax.sound.midi.spi', 'java.desktop', 'metodo java', 'Java 1.3']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.M.MidiFileReader.constructores valor="MidiFileReader" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public MidiFileReader()
+~~~
+
+## Excepciones
+[NullPointerException](/Java/NullPointerException/), [IOException](/Java/IOException/), [InvalidMidiDataException](/Java/InvalidMidiDataException/)
+
+## Clase Padre
+[MidiFileReader](/Java/MidiFileReader/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.M.MidiFileReader.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

@@ -1,0 +1,43 @@
+---
+title: ICC_ColorSpace.fromCIEXYZ()
+permalink: Java/ICC_ColorSpace/fromCIEXYZ
+date: 2021-01-04
+key: JavaJava.I.ICC_ColorSpace
+category: java
+tags: ['java se', 'java.awt.color', 'java.desktop', 'metodo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.I.ICC_ColorSpace.metodos valor="fromCIEXYZ" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public float[] fromCIEXYZ(float[] colorvalue)
+~~~
+
+## Parámetros
+* **float[] colorvalue**,  {% include w3api/param_description.html metodo=_data parametro="float[] colorvalue" %}
+
+## Excepciones
+[ArrayIndexOutOfBoundsException](/Java/ArrayIndexOutOfBoundsException/)
+
+## Clase Padre
+[ICC_ColorSpace](/Java/ICC_ColorSpace/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.I.ICC_ColorSpace.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

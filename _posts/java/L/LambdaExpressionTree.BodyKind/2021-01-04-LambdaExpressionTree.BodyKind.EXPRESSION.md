@@ -1,0 +1,37 @@
+---
+title: LambdaExpressionTree.BodyKind.EXPRESSION
+permalink: Java/LambdaExpressionTree/BodyKind/EXPRESSION
+date: 2021-01-04
+key: JavaJava.L.LambdaExpressionTree.BodyKind
+category: java
+tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'campo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.L.LambdaExpressionTree.BodyKind.enumeraodos valor="EXPRESSION" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public static final LambdaExpressionTree.BodyKind EXPRESSION
+~~~
+
+## Clase Padre
+[LambdaExpressionTree.BodyKind](/Java/LambdaExpressionTree/BodyKind/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.L.LambdaExpressionTree.BodyKind.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

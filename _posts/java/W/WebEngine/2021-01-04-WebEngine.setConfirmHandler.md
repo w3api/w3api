@@ -1,0 +1,41 @@
+---
+title: WebEngine.setConfirmHandler()
+permalink: Java/WebEngine/setConfirmHandler
+date: 2021-01-04
+key: JavaJava.W.WebEngine
+category: java
+tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'JavaFX 2.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.W.WebEngine.metodos valor="setConfirmHandler" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public final void setConfirmHandler(Callback<String,Boolean> handler)
+~~~
+
+## Parámetros
+* **Boolean&gt; handler**,  {% include w3api/param_description.html metodo=_data parametro="Boolean> handler" %}
+* **Callback&lt;String**,  {% include w3api/param_description.html metodo=_data parametro="Callback<String" %}
+
+## Clase Padre
+[WebEngine](/Java/WebEngine/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.W.WebEngine.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

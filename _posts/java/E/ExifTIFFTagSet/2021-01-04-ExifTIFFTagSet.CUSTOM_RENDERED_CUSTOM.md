@@ -1,0 +1,37 @@
+---
+title: ExifTIFFTagSet.CUSTOM_RENDERED_CUSTOM
+permalink: Java/ExifTIFFTagSet/CUSTOM_RENDERED_CUSTOM
+date: 2021-01-04
+key: JavaJava.E.ExifTIFFTagSet
+category: java
+tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.E.ExifTIFFTagSet.campos valor="CUSTOM_RENDERED_CUSTOM" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+static int CUSTOM_RENDERED_CUSTOM
+~~~
+
+## Clase Padre
+[ExifTIFFTagSet](/Java/ExifTIFFTagSet/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.E.ExifTIFFTagSet.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

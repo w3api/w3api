@@ -1,0 +1,46 @@
+---
+title: OffsetDateTime.with()
+permalink: Java/OffsetDateTime/with
+date: 2021-01-04
+key: JavaJava.O.OffsetDateTime
+category: java
+tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.O.OffsetDateTime.metodos valor="with" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public OffsetDateTime with(TemporalAdjuster adjuster)
+public OffsetDateTime with(TemporalField field, long newValue)
+~~~
+
+## Parámetros
+* **long newValue**,  {% include w3api/param_description.html metodo=_data parametro="long newValue" %}
+* **TemporalAdjuster adjuster**,  {% include w3api/param_description.html metodo=_data parametro="TemporalAdjuster adjuster" %}
+* **TemporalField field**,  {% include w3api/param_description.html metodo=_data parametro="TemporalField field" %}
+
+## Excepciones
+[UnsupportedTemporalTypeException](/Java/UnsupportedTemporalTypeException/), [DateTimeException](/Java/DateTimeException/), [ArithmeticException](/Java/ArithmeticException/)
+
+## Clase Padre
+[OffsetDateTime](/Java/OffsetDateTime/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.O.OffsetDateTime.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

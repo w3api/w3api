@@ -1,0 +1,47 @@
+---
+title: EventContext.addNamingListener()
+permalink: Java/EventContext/addNamingListener
+date: 2021-01-04
+key: JavaJava.E.EventContext
+category: java
+tags: ['java se', 'javax.naming.event', 'java.naming', 'metodo java', 'Java 1.3']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.E.EventContext.metodos valor="addNamingListener" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+void addNamingListener(String target, int scope, NamingListener l) throws NamingException
+void addNamingListener(Name target, int scope, NamingListener l) throws NamingException
+~~~
+
+## Parámetros
+* **NamingListener l**,  {% include w3api/param_description.html metodo=_data parametro="NamingListener l" %}
+* **Name target**,  {% include w3api/param_description.html metodo=_data parametro="Name target" %}
+* **int scope**,  {% include w3api/param_description.html metodo=_data parametro="int scope" %}
+* **String target**,  {% include w3api/param_description.html metodo=_data parametro="String target" %}
+
+## Excepciones
+[NamingException](/Java/NamingException/)
+
+## Clase Padre
+[EventContext](/Java/EventContext/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.E.EventContext.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

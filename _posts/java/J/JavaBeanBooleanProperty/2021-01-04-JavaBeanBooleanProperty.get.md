@@ -1,0 +1,40 @@
+---
+title: JavaBeanBooleanProperty.get()
+permalink: Java/JavaBeanBooleanProperty/get
+date: 2021-01-04
+key: JavaJava.J.JavaBeanBooleanProperty
+category: java
+tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.J.JavaBeanBooleanProperty.metodos valor="get" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public boolean get()
+~~~
+
+## Excepciones
+[UndeclaredThrowableException](/Java/UndeclaredThrowableException/)
+
+## Clase Padre
+[JavaBeanBooleanProperty](/Java/JavaBeanBooleanProperty/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.J.JavaBeanBooleanProperty.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

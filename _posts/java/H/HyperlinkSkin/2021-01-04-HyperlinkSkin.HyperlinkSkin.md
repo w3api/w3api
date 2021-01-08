@@ -1,0 +1,40 @@
+---
+title: HyperlinkSkin.HyperlinkSkin()
+permalink: Java/HyperlinkSkin/HyperlinkSkin
+date: 2021-01-04
+key: JavaJava.H.HyperlinkSkin
+category: java
+tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.H.HyperlinkSkin.constructores valor="HyperlinkSkin" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public HyperlinkSkin(Hyperlink control)
+~~~
+
+## Parámetros
+* **Hyperlink control**,  {% include w3api/param_description.html metodo=_data parametro="Hyperlink control" %}
+
+## Clase Padre
+[HyperlinkSkin](/Java/HyperlinkSkin/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.H.HyperlinkSkin.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

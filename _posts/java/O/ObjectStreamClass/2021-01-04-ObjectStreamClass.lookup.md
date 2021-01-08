@@ -1,0 +1,40 @@
+---
+title: ObjectStreamClass.lookup()
+permalink: Java/ObjectStreamClass/lookup
+date: 2021-01-04
+key: JavaJava.O.ObjectStreamClass
+category: java
+tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.O.ObjectStreamClass.metodos valor="lookup" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public static ObjectStreamClass lookup(Class<?> cl)
+~~~
+
+## Parámetros
+* **Class&lt;?&gt; cl**,  {% include w3api/param_description.html metodo=_data parametro="Class<?> cl" %}
+
+## Clase Padre
+[ObjectStreamClass](/Java/ObjectStreamClass/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.O.ObjectStreamClass.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

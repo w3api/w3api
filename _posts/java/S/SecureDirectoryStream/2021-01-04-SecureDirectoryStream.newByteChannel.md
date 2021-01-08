@@ -1,0 +1,45 @@
+---
+title: SecureDirectoryStream.newByteChannel()
+permalink: Java/SecureDirectoryStream/newByteChannel
+date: 2021-01-04
+key: JavaJava.S.SecureDirectoryStream
+category: java
+tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.S.SecureDirectoryStream.metodos valor="newByteChannel" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+SeekableByteChannel newByteChannel(T path, Set<? extends OpenOption> options, FileAttribute<?>... attrs) throws IOException
+~~~
+
+## Parámetros
+* **FileAttribute&lt;?&gt;... attrs**,  {% include w3api/param_description.html metodo=_data parametro="FileAttribute<?>... attrs" %}
+* **T path**,  {% include w3api/param_description.html metodo=_data parametro="T path" %}
+* **Set&lt;? extends OpenOption&gt; options**,  {% include w3api/param_description.html metodo=_data parametro="Set<? extends OpenOption> options" %}
+
+## Excepciones
+[ClosedDirectoryStreamException](/Java/ClosedDirectoryStreamException/), [SecurityException](/Java/SecurityException/), [IllegalArgumentException](/Java/IllegalArgumentException/), [UnsupportedOperationException](/Java/UnsupportedOperationException/), [FileAlreadyExistsException](/Java/FileAlreadyExistsException/), [IOException](/Java/IOException/)
+
+## Clase Padre
+[SecureDirectoryStream](/Java/SecureDirectoryStream/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.S.SecureDirectoryStream.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

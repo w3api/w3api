@@ -1,0 +1,35 @@
+---
+title: IOException
+permalink: Java/IOException
+date: 2021-01-04
+key: JavaJava.I.IOException
+category: java
+tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+## Descripción
+{{site.data.Java.I.IOException.description }}
+
+## Sintaxis
+~~~java
+public class IOException extends Exception
+~~~
+
+## Constructores
+* [IOException()](/Java/IOException/IOException/)
+
+## Ejemplo
+~~~java
+{{ site.data.Java.I.IOException.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.I.IOException.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

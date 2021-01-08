@@ -1,0 +1,37 @@
+---
+title: WatchEvent.context()
+permalink: Java/WatchEvent/context
+date: 2021-01-04
+key: JavaJava.W.WatchEvent
+category: java
+tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.W.WatchEvent.metodos valor="context" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+T context()
+~~~
+
+## Clase Padre
+[WatchEvent](/Java/WatchEvent/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.W.WatchEvent.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

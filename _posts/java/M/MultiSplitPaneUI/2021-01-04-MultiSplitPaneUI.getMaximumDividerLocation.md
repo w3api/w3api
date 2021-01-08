@@ -1,0 +1,40 @@
+---
+title: MultiSplitPaneUI.getMaximumDividerLocation()
+permalink: Java/MultiSplitPaneUI/getMaximumDividerLocation
+date: 2021-01-04
+key: JavaJava.M.MultiSplitPaneUI
+category: java
+tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.M.MultiSplitPaneUI.metodos valor="getMaximumDividerLocation" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public int getMaximumDividerLocation(JSplitPane a)
+~~~
+
+## Parámetros
+* **JSplitPane a**,  {% include w3api/param_description.html metodo=_data parametro="JSplitPane a" %}
+
+## Clase Padre
+[MultiSplitPaneUI](/Java/MultiSplitPaneUI/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.M.MultiSplitPaneUI.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

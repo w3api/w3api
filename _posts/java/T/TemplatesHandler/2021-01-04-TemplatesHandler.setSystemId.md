@@ -1,0 +1,40 @@
+---
+title: TemplatesHandler.setSystemId()
+permalink: Java/TemplatesHandler/setSystemId
+date: 2021-01-04
+key: JavaJava.T.TemplatesHandler
+category: java
+tags: ['java se', 'javax.xml.transform.sax', 'java.xml', 'metodo java', 'Java 1.4']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.T.TemplatesHandler.metodos valor="setSystemId" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+void setSystemId(String systemID)
+~~~
+
+## Parámetros
+* **String systemID**,  {% include w3api/param_description.html metodo=_data parametro="String systemID" %}
+
+## Clase Padre
+[TemplatesHandler](/Java/TemplatesHandler/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.T.TemplatesHandler.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

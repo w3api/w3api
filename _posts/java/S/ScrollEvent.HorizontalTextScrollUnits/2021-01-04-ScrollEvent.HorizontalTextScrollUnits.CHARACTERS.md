@@ -1,0 +1,37 @@
+---
+title: ScrollEvent.HorizontalTextScrollUnits.CHARACTERS
+permalink: Java/ScrollEvent/HorizontalTextScrollUnits/CHARACTERS
+date: 2021-01-04
+key: JavaJava.S.ScrollEvent.HorizontalTextScrollUnits
+category: java
+tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.S.ScrollEvent.HorizontalTextScrollUnits.enumeraodos valor="CHARACTERS" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public static final ScrollEvent.HorizontalTextScrollUnits CHARACTERS
+~~~
+
+## Clase Padre
+[ScrollEvent.HorizontalTextScrollUnits](/Java/ScrollEvent/HorizontalTextScrollUnits/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.S.ScrollEvent.HorizontalTextScrollUnits.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

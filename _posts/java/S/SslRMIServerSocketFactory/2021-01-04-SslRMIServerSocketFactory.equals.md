@@ -1,0 +1,40 @@
+---
+title: SslRMIServerSocketFactory.equals()
+permalink: Java/SslRMIServerSocketFactory/equals
+date: 2021-01-04
+key: JavaJava.S.SslRMIServerSocketFactory
+category: java
+tags: ['java se', 'javax.rmi.ssl', 'java.rmi', 'metodo java', 'Java 1.5']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.S.SslRMIServerSocketFactory.metodos valor="equals" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public boolean equals(Object obj)
+~~~
+
+## Parámetros
+* **Object obj**,  {% include w3api/param_description.html metodo=_data parametro="Object obj" %}
+
+## Clase Padre
+[SslRMIServerSocketFactory](/Java/SslRMIServerSocketFactory/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.S.SslRMIServerSocketFactory.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

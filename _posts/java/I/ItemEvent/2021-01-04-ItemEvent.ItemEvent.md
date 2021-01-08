@@ -1,0 +1,46 @@
+---
+title: ItemEvent.ItemEvent()
+permalink: Java/ItemEvent/ItemEvent
+date: 2021-01-04
+key: JavaJava.I.ItemEvent
+category: java
+tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.I.ItemEvent.constructores valor="ItemEvent" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public ItemEvent(ItemSelectable source, int id, Object item, int stateChange)
+~~~
+
+## Parámetros
+* **ItemSelectable source**,  {% include w3api/param_description.html metodo=_data parametro="ItemSelectable source" %}
+* **int id**,  {% include w3api/param_description.html metodo=_data parametro="int id" %}
+* **int stateChange**,  {% include w3api/param_description.html metodo=_data parametro="int stateChange" %}
+* **Object item**,  {% include w3api/param_description.html metodo=_data parametro="Object item" %}
+
+## Excepciones
+[IllegalArgumentException](/Java/IllegalArgumentException/)
+
+## Clase Padre
+[ItemEvent](/Java/ItemEvent/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.I.ItemEvent.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

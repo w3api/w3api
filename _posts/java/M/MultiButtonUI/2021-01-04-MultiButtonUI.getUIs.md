@@ -1,0 +1,37 @@
+---
+title: MultiButtonUI.getUIs()
+permalink: Java/MultiButtonUI/getUIs
+date: 2021-01-04
+key: JavaJava.M.MultiButtonUI
+category: java
+tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.M.MultiButtonUI.metodos valor="getUIs" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public ComponentUI[] getUIs()
+~~~
+
+## Clase Padre
+[MultiButtonUI](/Java/MultiButtonUI/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.M.MultiButtonUI.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

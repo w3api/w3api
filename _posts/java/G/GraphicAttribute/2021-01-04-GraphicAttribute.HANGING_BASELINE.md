@@ -1,0 +1,37 @@
+---
+title: GraphicAttribute.HANGING_BASELINE
+permalink: Java/GraphicAttribute/HANGING_BASELINE
+date: 2021-01-04
+key: JavaJava.G.GraphicAttribute
+category: java
+tags: ['java se', 'java.awt.font', 'java.desktop', 'campo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.G.GraphicAttribute.campos valor="HANGING_BASELINE" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+static int HANGING_BASELINE
+~~~
+
+## Clase Padre
+[GraphicAttribute](/Java/GraphicAttribute/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.G.GraphicAttribute.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

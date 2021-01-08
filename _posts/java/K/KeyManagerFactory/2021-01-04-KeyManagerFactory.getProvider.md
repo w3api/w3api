@@ -1,0 +1,37 @@
+---
+title: KeyManagerFactory.getProvider()
+permalink: Java/KeyManagerFactory/getProvider
+date: 2021-01-04
+key: JavaJava.K.KeyManagerFactory
+category: java
+tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.K.KeyManagerFactory.metodos valor="getProvider" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public final Provider getProvider()
+~~~
+
+## Clase Padre
+[KeyManagerFactory](/Java/KeyManagerFactory/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.K.KeyManagerFactory.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
