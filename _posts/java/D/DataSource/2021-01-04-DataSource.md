@@ -1,0 +1,16 @@
+---
+title: DataSource
+permalink: Java/DataSource/
+date: 2021-01-04
+key: JavaJava.D.DataSource
+category: java
+tags: ['java se']
+sidebar: 
+  nav: java
+---
+
+Existen varios clases con el nombre **DataSource**. ¿Cuál de ellas estás buscando?
+<ul>
+<li><a href="/Java/DataSource-javax-activation/">DataSource</a> en el paquete <strong>javax.activation</strong></li>
+<li><a href="/Java/DataSource-javax-sql/">DataSource</a> en el paquete <strong>javax.sql</strong></li>
+<ul>

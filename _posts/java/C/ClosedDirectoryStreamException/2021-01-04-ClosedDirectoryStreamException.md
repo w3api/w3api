@@ -1,0 +1,35 @@
+---
+title: ClosedDirectoryStreamException
+permalink: Java/ClosedDirectoryStreamException
+date: 2021-01-04
+key: JavaJava.C.ClosedDirectoryStreamException
+category: java
+tags: ['java se', 'java.nio.file', 'java.base', 'clase java', 'Java 1.7']
+sidebar: 
+  nav: java
+---
+
+## Descripción
+{{site.data.Java.C.ClosedDirectoryStreamException.description }}
+
+## Sintaxis
+~~~java
+public class ClosedDirectoryStreamException extends IllegalStateException
+~~~
+
+## Constructores
+* [ClosedDirectoryStreamException()](/Java/ClosedDirectoryStreamException/ClosedDirectoryStreamException/)
+
+## Ejemplo
+~~~java
+{{ site.data.Java.C.ClosedDirectoryStreamException.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.C.ClosedDirectoryStreamException.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
