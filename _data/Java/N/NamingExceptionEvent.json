@@ -1,0 +1,41 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "NamingExceptionEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "NamingException exc",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventContext source",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "dispatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NamingListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEventContext",
+            "description": ""
+        },
+        {
+            "nombre": "getException",
+            "description": ""
+        }
+    ]
+}

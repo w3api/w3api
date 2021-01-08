@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getCurrentServiceSelectors",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextServices bcs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> serviceClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextServices bcs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> serviceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object requestor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object serviceSelector",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "releaseService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextServices bcs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object requestor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object service",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

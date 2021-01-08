@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "KeyFactorySpi",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "engineGeneratePrivate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeySpec keySpec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGeneratePublic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeySpec keySpec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGetKeySpec",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> keySpec",
+                    "description": ""
+                },
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineTranslateKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

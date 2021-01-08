@@ -1,0 +1,135 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getClassLoadingMXBean",
+            "description": ""
+        },
+        {
+            "nombre": "getCompilationMXBean",
+            "description": ""
+        },
+        {
+            "nombre": "getGarbageCollectorMXBeans",
+            "description": ""
+        },
+        {
+            "nombre": "getMemoryManagerMXBeans",
+            "description": ""
+        },
+        {
+            "nombre": "getMemoryMXBean",
+            "description": ""
+        },
+        {
+            "nombre": "getMemoryPoolMXBeans",
+            "description": ""
+        },
+        {
+            "nombre": "getOperatingSystemMXBean",
+            "description": ""
+        },
+        {
+            "nombre": "getPlatformManagementInterfaces",
+            "description": ""
+        },
+        {
+            "nombre": "getPlatformMBeanServer",
+            "description": ""
+        },
+        {
+            "nombre": "getPlatformMXBean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> mxbeanInterface",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServerConnection connection",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPlatformMXBeans",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> mxbeanInterface",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServerConnection connection",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRuntimeMXBean",
+            "description": ""
+        },
+        {
+            "nombre": "getThreadMXBean",
+            "description": ""
+        },
+        {
+            "nombre": "newPlatformMXBeanProxy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mxbeanName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> mxbeanInterface",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServerConnection connection",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CLASS_LOADING_MXBEAN_NAME",
+            "description": ""
+        },
+        {
+            "nombre": "COMPILATION_MXBEAN_NAME",
+            "description": ""
+        },
+        {
+            "nombre": "GARBAGE_COLLECTOR_MXBEAN_DOMAIN_TYPE",
+            "description": ""
+        },
+        {
+            "nombre": "MEMORY_MANAGER_MXBEAN_DOMAIN_TYPE",
+            "description": ""
+        },
+        {
+            "nombre": "MEMORY_MXBEAN_NAME",
+            "description": ""
+        },
+        {
+            "nombre": "MEMORY_POOL_MXBEAN_DOMAIN_TYPE",
+            "description": ""
+        },
+        {
+            "nombre": "OPERATING_SYSTEM_MXBEAN_NAME",
+            "description": ""
+        },
+        {
+            "nombre": "RUNTIME_MXBEAN_NAME",
+            "description": ""
+        },
+        {
+            "nombre": "THREAD_MXBEAN_NAME",
+            "description": ""
+        }
+    ]
+}

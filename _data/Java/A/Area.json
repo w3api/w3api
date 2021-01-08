@@ -1,0 +1,191 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Area",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Shape s",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Area rhs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createTransformedArea",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Area other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exclusiveOr",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Area rhs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getBounds2D",
+            "description": ""
+        },
+        {
+            "nombre": "getPathIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform at",
+                    "description": ""
+                },
+                {
+                    "nombre": "double flatness",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intersect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Area rhs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intersects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "isPolygonal",
+            "description": ""
+        },
+        {
+            "nombre": "isRectangular",
+            "description": ""
+        },
+        {
+            "nombre": "isSingular",
+            "description": ""
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "subtract",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Area rhs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform t",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

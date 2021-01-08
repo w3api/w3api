@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ShapeGraphicAttribute",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Shape shape",
+                    "description": ""
+                },
+                {
+                    "nombre": "int alignment",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean stroke",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ShapeGraphicAttribute rhs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object rhs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAdvance",
+            "description": ""
+        },
+        {
+            "nombre": "getAscent",
+            "description": ""
+        },
+        {
+            "nombre": "getBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getDescent",
+            "description": ""
+        },
+        {
+            "nombre": "getOutline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform tx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "FILL",
+            "description": ""
+        },
+        {
+            "nombre": "STROKE",
+            "description": ""
+        }
+    ]
+}

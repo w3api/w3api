@@ -1,0 +1,147 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getMidiDevice",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MidiDevice.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMidiDeviceInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getMidiFileFormat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMidiFileTypes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Sequence sequence",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getReceiver",
+            "description": ""
+        },
+        {
+            "nombre": "getSequence",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSequencer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean connected",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSoundbank",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSynthesizer",
+            "description": ""
+        },
+        {
+            "nombre": "getTransmitter",
+            "description": ""
+        },
+        {
+            "nombre": "isFileTypeSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fileType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Sequence sequence",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "File out",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fileType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Sequence in",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

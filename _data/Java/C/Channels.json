@@ -1,0 +1,101 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "newChannel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newInputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AsynchronousByteChannel ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "ReadableByteChannel ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newOutputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AsynchronousByteChannel ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "WritableByteChannel ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newReader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharsetDecoder dec",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minBufferCap",
+                    "description": ""
+                },
+                {
+                    "nombre": "String csName",
+                    "description": ""
+                },
+                {
+                    "nombre": "ReadableByteChannel ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newWriter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharsetEncoder enc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minBufferCap",
+                    "description": ""
+                },
+                {
+                    "nombre": "WritableByteChannel ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "String csName",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ShortMessage",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int channel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int data2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int status",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int data1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int command",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "getChannel",
+            "description": ""
+        },
+        {
+            "nombre": "getCommand",
+            "description": ""
+        },
+        {
+            "nombre": "getData1",
+            "description": ""
+        },
+        {
+            "nombre": "getData2",
+            "description": ""
+        },
+        {
+            "nombre": "getDataLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int status",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMessage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int channel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int data2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int status",
+                    "description": ""
+                },
+                {
+                    "nombre": "int data1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int command",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ACTIVE_SENSING",
+            "description": ""
+        },
+        {
+            "nombre": "CHANNEL_PRESSURE",
+            "description": ""
+        },
+        {
+            "nombre": "CONTINUE",
+            "description": ""
+        },
+        {
+            "nombre": "CONTROL_CHANGE",
+            "description": ""
+        },
+        {
+            "nombre": "END_OF_EXCLUSIVE",
+            "description": ""
+        },
+        {
+            "nombre": "MIDI_TIME_CODE",
+            "description": ""
+        },
+        {
+            "nombre": "NOTE_OFF",
+            "description": ""
+        },
+        {
+            "nombre": "NOTE_ON",
+            "description": ""
+        },
+        {
+            "nombre": "PITCH_BEND",
+            "description": ""
+        },
+        {
+            "nombre": "POLY_PRESSURE",
+            "description": ""
+        },
+        {
+            "nombre": "PROGRAM_CHANGE",
+            "description": ""
+        },
+        {
+            "nombre": "SONG_POSITION_POINTER",
+            "description": ""
+        },
+        {
+            "nombre": "SONG_SELECT",
+            "description": ""
+        },
+        {
+            "nombre": "START",
+            "description": ""
+        },
+        {
+            "nombre": "STOP",
+            "description": ""
+        },
+        {
+            "nombre": "SYSTEM_RESET",
+            "description": ""
+        },
+        {
+            "nombre": "TIMING_CLOCK",
+            "description": ""
+        },
+        {
+            "nombre": "TUNE_REQUEST",
+            "description": ""
+        }
+    ]
+}

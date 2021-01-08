@@ -1,0 +1,131 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getContinuationContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CannotProceedException cpe",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInitialContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Hashtable<?",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> env",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getObjectInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Context nameCtx",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> environment",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object refInfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "Hashtable<?",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStateToBind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Context nameCtx",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> environment",
+                    "description": ""
+                },
+                {
+                    "nombre": "Hashtable<?",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getURLContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String scheme",
+                    "description": ""
+                },
+                {
+                    "nombre": "Hashtable<?",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> environment",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasInitialContextFactoryBuilder",
+            "description": ""
+        },
+        {
+            "nombre": "setInitialContextFactoryBuilder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InitialContextFactoryBuilder builder",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setObjectFactoryBuilder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectFactoryBuilder builder",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CPE",
+            "description": ""
+        }
+    ]
+}

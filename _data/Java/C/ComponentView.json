@@ -1,0 +1,131 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ComponentView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getAlignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimumSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modelToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "View p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "viewToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] bias",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

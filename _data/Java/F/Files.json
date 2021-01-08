@@ -1,0 +1,749 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "copy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path source",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path target",
+                    "description": ""
+                },
+                {
+                    "nombre": "CopyOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDirectories",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createLink",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path link",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path existing",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSymbolicLink",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path link",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createTempDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createTempFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String suffix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "delete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deleteIfExists",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exists",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "find",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BiPredicate<Path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxDepth",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileVisitOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "BasicFileAttributes> matcher",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path start",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFileAttributeView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<V> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFileStore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLastModifiedTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOwner",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPosixFilePermissions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isExecutable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isHidden",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isReadable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRegularFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSameFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSymbolicLink",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isWritable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lines",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset cs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "list",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "move",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path source",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path target",
+                    "description": ""
+                },
+                {
+                    "nombre": "CopyOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newBufferedReader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset cs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newBufferedWriter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset cs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newByteChannel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<? extends OpenOption> options",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDirectoryStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "DirectoryStream.Filter<? super Path> filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "String glob",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newInputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newOutputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "notExists",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "probeContentType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readAllBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readAllLines",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset cs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "String attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<A> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readSymbolicLink",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path link",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLastModifiedTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileTime time",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOwner",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UserPrincipal owner",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPosixFilePermissions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<PosixFilePermission> perms",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "walk",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxDepth",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileVisitOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "walkFileTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path start",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileVisitor<? super Path> visitor",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxDepth",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<FileVisitOption> options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] bytes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterable<? extends CharSequence> lines",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset cs",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

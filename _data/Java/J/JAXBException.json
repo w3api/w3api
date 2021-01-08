@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JAXBException",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "String errorCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable exception",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getErrorCode",
+            "description": ""
+        },
+        {
+            "nombre": "getLinkedException",
+            "description": ""
+        },
+        {
+            "nombre": "printStackTrace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrintWriter s",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintStream s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLinkedException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable exception",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

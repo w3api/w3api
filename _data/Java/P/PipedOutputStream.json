@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PipedOutputStream",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "PipedInputStream snk",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PipedInputStream snk",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,997 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "appendSVGPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String svgpath",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "applyEffect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Effect e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "arc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double centerX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double startAngle",
+                    "description": ""
+                },
+                {
+                    "nombre": "double radiusX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double length",
+                    "description": ""
+                },
+                {
+                    "nombre": "double centerY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double radiusY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "arcTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double radius",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "beginPath",
+            "description": ""
+        },
+        {
+            "nombre": "bezierCurveTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double yc1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double xc2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double yc2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double xc1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clearRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clip",
+            "description": ""
+        },
+        {
+            "nombre": "closePath",
+            "description": ""
+        },
+        {
+            "nombre": "drawImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double dh",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double dw",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double dy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double dx",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sw",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sh",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fill",
+            "description": ""
+        },
+        {
+            "nombre": "fillArc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double startAngle",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "ArcType closure",
+                    "description": ""
+                },
+                {
+                    "nombre": "double arcExtent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fillOval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fillPolygon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int nPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] yPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] xPoints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fillRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fillRoundRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double arcWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double arcHeight",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fillText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "double maxWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCanvas",
+            "description": ""
+        },
+        {
+            "nombre": "getEffect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Effect e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFill",
+            "description": ""
+        },
+        {
+            "nombre": "getFillRule",
+            "description": ""
+        },
+        {
+            "nombre": "getFont",
+            "description": ""
+        },
+        {
+            "nombre": "getFontSmoothingType",
+            "description": ""
+        },
+        {
+            "nombre": "getGlobalAlpha",
+            "description": ""
+        },
+        {
+            "nombre": "getGlobalBlendMode",
+            "description": ""
+        },
+        {
+            "nombre": "getLineCap",
+            "description": ""
+        },
+        {
+            "nombre": "getLineDashes",
+            "description": ""
+        },
+        {
+            "nombre": "getLineDashOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getLineJoin",
+            "description": ""
+        },
+        {
+            "nombre": "getLineWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getMiterLimit",
+            "description": ""
+        },
+        {
+            "nombre": "getPixelWriter",
+            "description": ""
+        },
+        {
+            "nombre": "getStroke",
+            "description": ""
+        },
+        {
+            "nombre": "getTextAlign",
+            "description": ""
+        },
+        {
+            "nombre": "getTextBaseline",
+            "description": ""
+        },
+        {
+            "nombre": "getTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Affine xform",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isPointInPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lineTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "moveTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y0",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "quadraticCurveTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double yc",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double xc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "restore",
+            "description": ""
+        },
+        {
+            "nombre": "rotate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double degrees",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "save",
+            "description": ""
+        },
+        {
+            "nombre": "scale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEffect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Effect e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFill",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Paint p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFillRule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FillRule fillRule",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFontSmoothingType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FontSmoothingType fontsmoothing",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGlobalAlpha",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double alpha",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGlobalBlendMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BlendMode op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLineCap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StrokeLineCap cap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLineDashes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double... dashes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLineDashOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double dashOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLineJoin",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StrokeLineJoin join",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLineWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double lw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMiterLimit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double ml",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStroke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Paint p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTextAlign",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextAlignment align",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTextBaseline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "VPos baseline",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Affine xform",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stroke",
+            "description": ""
+        },
+        {
+            "nombre": "strokeArc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double startAngle",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "ArcType closure",
+                    "description": ""
+                },
+                {
+                    "nombre": "double arcExtent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strokeLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strokeOval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strokePolygon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int nPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] yPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] xPoints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strokePolyline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int nPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] yPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] xPoints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strokeRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strokeRoundRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double arcWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double arcHeight",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strokeText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "double maxWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Affine xform",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "translate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

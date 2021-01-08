@@ -1,0 +1,137 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SecureRandom",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] seed",
+                    "description": ""
+                },
+                {
+                    "nombre": "SecureRandomSpi secureRandomSpi",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "generateSeed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int numBytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "SecureRandomParameters params",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInstanceStrong",
+            "description": ""
+        },
+        {
+            "nombre": "getParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getSeed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int numBytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "next",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int numBits",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] bytes",
+                    "description": ""
+                },
+                {
+                    "nombre": "SecureRandomParameters params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reseed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SecureRandomParameters params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSeed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long seed",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] seed",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

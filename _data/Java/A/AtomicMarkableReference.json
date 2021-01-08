@@ -1,0 +1,113 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AtomicMarkableReference",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "V initialRef",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean initialMark",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "attemptMark",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newMark",
+                    "description": ""
+                },
+                {
+                    "nombre": "V expectedReference",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newMark",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expectedMark",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newReference",
+                    "description": ""
+                },
+                {
+                    "nombre": "V expectedReference",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean[] markHolder",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getReference",
+            "description": ""
+        },
+        {
+            "nombre": "isMarked",
+            "description": ""
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newMark",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newReference",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newMark",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expectedMark",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newReference",
+                    "description": ""
+                },
+                {
+                    "nombre": "V expectedReference",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

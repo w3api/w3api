@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FilteredList",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<E> source",
+                    "description": ""
+                },
+                {
+                    "nombre": "Predicate<? super E> predicate",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPredicate",
+            "description": ""
+        },
+        {
+            "nombre": "predicateProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setPredicate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Predicate<? super E> predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FilteredImageSource",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ImageProducer orig",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageFilter imgf",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addConsumer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageConsumer ic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isConsumer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageConsumer ic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeConsumer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageConsumer ic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestTopDownLeftRightResend",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageConsumer ic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startProduction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageConsumer ic",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

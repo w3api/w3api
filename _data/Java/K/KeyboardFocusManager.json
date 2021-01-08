@@ -1,0 +1,477 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "KeyboardFocusManager",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addKeyEventDispatcher",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEventDispatcher dispatcher",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addKeyEventPostProcessor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEventPostProcessor processor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeListener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addVetoableChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "VetoableChangeListener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clearFocusOwner",
+            "description": ""
+        },
+        {
+            "nombre": "clearGlobalFocusOwner",
+            "description": ""
+        },
+        {
+            "nombre": "dequeueKeyEvents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component untilFocused",
+                    "description": ""
+                },
+                {
+                    "nombre": "long after",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "discardKeyEvents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dispatchEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AWTEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dispatchKeyEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "downFocusCycle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container aContainer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "enqueueKeyEvents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component untilFocused",
+                    "description": ""
+                },
+                {
+                    "nombre": "long after",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "firePropertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireVetoableChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "focusNextComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component aComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "focusPreviousComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component aComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getActiveWindow",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentFocusCycleRoot",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentKeyboardFocusManager",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultFocusTraversalKeys",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultFocusTraversalPolicy",
+            "description": ""
+        },
+        {
+            "nombre": "getFocusedWindow",
+            "description": ""
+        },
+        {
+            "nombre": "getFocusOwner",
+            "description": ""
+        },
+        {
+            "nombre": "getGlobalActiveWindow",
+            "description": ""
+        },
+        {
+            "nombre": "getGlobalCurrentFocusCycleRoot",
+            "description": ""
+        },
+        {
+            "nombre": "getGlobalFocusedWindow",
+            "description": ""
+        },
+        {
+            "nombre": "getGlobalFocusOwner",
+            "description": ""
+        },
+        {
+            "nombre": "getGlobalPermanentFocusOwner",
+            "description": ""
+        },
+        {
+            "nombre": "getKeyEventDispatchers",
+            "description": ""
+        },
+        {
+            "nombre": "getKeyEventPostProcessors",
+            "description": ""
+        },
+        {
+            "nombre": "getPermanentFocusOwner",
+            "description": ""
+        },
+        {
+            "nombre": "getPropertyChangeListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVetoableChangeListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "postProcessKeyEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processKeyEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component focusedComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "redispatchEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AWTEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeKeyEventDispatcher",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEventDispatcher dispatcher",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeKeyEventPostProcessor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEventPostProcessor processor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removePropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeListener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeVetoableChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "VetoableChangeListener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCurrentKeyboardFocusManager",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyboardFocusManager newManager",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultFocusTraversalKeys",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<? extends AWTKeyStroke> keystrokes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultFocusTraversalPolicy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FocusTraversalPolicy defaultPolicy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGlobalActiveWindow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Window activeWindow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGlobalCurrentFocusCycleRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container newFocusCycleRoot",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGlobalFocusedWindow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Window focusedWindow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGlobalFocusOwner",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component focusOwner",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGlobalPermanentFocusOwner",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component permanentFocusOwner",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "upFocusCycle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component aComponent",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "BACKWARD_TRAVERSAL_KEYS",
+            "description": ""
+        },
+        {
+            "nombre": "DOWN_CYCLE_TRAVERSAL_KEYS",
+            "description": ""
+        },
+        {
+            "nombre": "FORWARD_TRAVERSAL_KEYS",
+            "description": ""
+        },
+        {
+            "nombre": "UP_CYCLE_TRAVERSAL_KEYS",
+            "description": ""
+        }
+    ]
+}

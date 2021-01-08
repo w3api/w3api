@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MessageDigest",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "digest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] input",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] buf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getDigestLength",
+            "description": ""
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "isEqual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] digesta",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] digestb",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "update",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer input",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] input",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte input",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

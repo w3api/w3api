@@ -1,0 +1,325 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JMenuItem",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int mnemonic",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "actionPropertyChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Action action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addMenuDragMouseListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuDragMouseListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addMenuKeyListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuKeyListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "configurePropertiesFromAction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireMenuDragMouseDragged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuDragMouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireMenuDragMouseEntered",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuDragMouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireMenuDragMouseExited",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuDragMouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireMenuDragMouseReleased",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuDragMouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireMenuKeyPressed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuKeyEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireMenuKeyReleased",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuKeyEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireMenuKeyTyped",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuKeyEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccelerator",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getMenuDragMouseListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getMenuKeyListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getSubElements",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "init",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isArmed",
+            "description": ""
+        },
+        {
+            "nombre": "menuSelectionChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isIncluded",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "processKeyEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuSelectionManager manager",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "MenuElement[] path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processMenuDragMouseEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuDragMouseEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processMenuKeyEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuKeyEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processMouseEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "MenuSelectionManager manager",
+                    "description": ""
+                },
+                {
+                    "nombre": "MenuElement[] path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeMenuDragMouseListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuDragMouseListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeMenuKeyListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuKeyListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAccelerator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyStroke keyStroke",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setArmed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuItemUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ]
+}

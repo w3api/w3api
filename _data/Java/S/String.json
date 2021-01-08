@@ -1,0 +1,601 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "String",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] bytes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] codePoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] ascii",
+                    "description": ""
+                },
+                {
+                    "nombre": "String charsetName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "String original",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hibyte",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringBuilder builder",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringBuffer buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int count",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "charAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "chars",
+            "description": ""
+        },
+        {
+            "nombre": "codePointAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "codePointBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "codePointCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "codePoints",
+            "description": ""
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String anotherString",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareToIgnoreCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "concat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "contentEquals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringBuffer sb",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence cs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copyValueOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endsWith",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String suffix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object anObject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equalsIgnoreCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String anotherString",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String format",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale l",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "String charsetName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcEnd",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcBegin",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dstBegin",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] dst",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChars",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char[] dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcEnd",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcBegin",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dstBegin",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "indexOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intern",
+            "description": ""
+        },
+        {
+            "nombre": "isEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "join",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Iterable<? extends CharSequence> elements",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence... elements",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence delimiter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lastIndexOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "length",
+            "description": ""
+        },
+        {
+            "nombre": "matches",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String regex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "offsetByCodePoints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePointOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "regionMatches",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String other",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ooffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean ignoreCase",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char oldChar",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence replacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence target",
+                    "description": ""
+                },
+                {
+                    "nombre": "char newChar",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String regex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String replacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceFirst",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String regex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String replacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "split",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String regex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startsWith",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int toffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subSequence",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "substring",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toCharArray",
+            "description": ""
+        },
+        {
+            "nombre": "toLowerCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "toUpperCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "trim",
+            "description": ""
+        },
+        {
+            "nombre": "valueOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                },
+                {
+                    "nombre": "float f",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "long l",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CASE_INSENSITIVE_ORDER",
+            "description": ""
+        }
+    ]
+}

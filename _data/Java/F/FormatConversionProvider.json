@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FormatConversionProvider",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAudioInputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat targetFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioInputStream sourceStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSourceEncodings",
+            "description": ""
+        },
+        {
+            "nombre": "getTargetEncodings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat sourceFormat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTargetFormats",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat sourceFormat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isConversionSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat targetFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat sourceFormat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSourceEncodingSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat.Encoding sourceEncoding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isTargetEncodingSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "asMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean completion",
+                    "description": ""
+                },
+                {
+                    "nombre": "Optional<HttpResponse.BodyHandler<V>>> reqHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<HttpRequest",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "completion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CompletableFuture<Void> onComplete",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletableFuture<Void> onFinalPushPromise",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable t",
+                    "description": ""
+                },
+                {
+                    "nombre": "HttpRequest request",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onPushPromise",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HttpRequest pushPromise",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onRequest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HttpRequest request",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onResponse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HttpResponse<T> response",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

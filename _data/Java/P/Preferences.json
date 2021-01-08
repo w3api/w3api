@@ -1,0 +1,395 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Preferences",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "absolutePath",
+            "description": ""
+        },
+        {
+            "nombre": "addNodeChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NodeChangeListener ncl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addPreferenceChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PreferenceChangeListener pcl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "childrenNames",
+            "description": ""
+        },
+        {
+            "nombre": "clear",
+            "description": ""
+        },
+        {
+            "nombre": "exportNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream os",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exportSubtree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream os",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String def",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBoolean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean def",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getByteArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] def",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double def",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                },
+                {
+                    "nombre": "float def",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int def",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long def",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "importPreferences",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream is",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isUserNode",
+            "description": ""
+        },
+        {
+            "nombre": "keys",
+            "description": ""
+        },
+        {
+            "nombre": "name",
+            "description": ""
+        },
+        {
+            "nombre": "node",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pathName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nodeExists",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pathName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parent",
+            "description": ""
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putBoolean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putByteArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeNode",
+            "description": ""
+        },
+        {
+            "nombre": "removeNodeChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NodeChangeListener ncl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removePreferenceChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PreferenceChangeListener pcl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sync",
+            "description": ""
+        },
+        {
+            "nombre": "systemNodeForPackage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "systemRoot",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "userNodeForPackage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "userRoot",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "MAX_KEY_LENGTH",
+            "description": ""
+        },
+        {
+            "nombre": "MAX_NAME_LENGTH",
+            "description": ""
+        },
+        {
+            "nombre": "MAX_VALUE_LENGTH",
+            "description": ""
+        }
+    ]
+}

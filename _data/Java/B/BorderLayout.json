@@ -1,0 +1,231 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BorderLayout",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int hgap",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vgap",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addLayoutComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object constraints",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConstraints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHgap",
+            "description": ""
+        },
+        {
+            "nombre": "getLayoutAlignmentX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLayoutAlignmentY",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLayoutComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object constraints",
+                    "description": ""
+                },
+                {
+                    "nombre": "Container target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVgap",
+            "description": ""
+        },
+        {
+            "nombre": "invalidateLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutContainer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "maximumLayoutSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minimumLayoutSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preferredLayoutSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeLayoutComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHgap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int hgap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVgap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int vgap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "AFTER_LAST_LINE",
+            "description": ""
+        },
+        {
+            "nombre": "AFTER_LINE_ENDS",
+            "description": ""
+        },
+        {
+            "nombre": "BEFORE_FIRST_LINE",
+            "description": ""
+        },
+        {
+            "nombre": "BEFORE_LINE_BEGINS",
+            "description": ""
+        },
+        {
+            "nombre": "CENTER",
+            "description": ""
+        },
+        {
+            "nombre": "EAST",
+            "description": ""
+        },
+        {
+            "nombre": "LINE_END",
+            "description": ""
+        },
+        {
+            "nombre": "LINE_START",
+            "description": ""
+        },
+        {
+            "nombre": "NORTH",
+            "description": ""
+        },
+        {
+            "nombre": "PAGE_END",
+            "description": ""
+        },
+        {
+            "nombre": "PAGE_START",
+            "description": ""
+        },
+        {
+            "nombre": "SOUTH",
+            "description": ""
+        },
+        {
+            "nombre": "WEST",
+            "description": ""
+        }
+    ]
+}

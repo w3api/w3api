@@ -1,0 +1,75 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CertPathValidator",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "CertPathValidatorSpi validatorSpi",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultType",
+            "description": ""
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getRevocationChecker",
+            "description": ""
+        },
+        {
+            "nombre": "validate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CertPath certPath",
+                    "description": ""
+                },
+                {
+                    "nombre": "CertPathParameters params",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

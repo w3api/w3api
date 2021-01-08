@@ -1,0 +1,163 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "compare",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T o1",
+                    "description": ""
+                },
+                {
+                    "nombre": "T o2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "comparing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super U> keyComparator",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> keyExtractor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "comparingDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToDoubleFunction<? super T> keyExtractor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "comparingInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToIntFunction<? super T> keyExtractor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "comparingLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToLongFunction<? super T> keyExtractor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "naturalOrder",
+            "description": ""
+        },
+        {
+            "nombre": "nullsFirst",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super T> comparator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nullsLast",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super T> comparator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reversed",
+            "description": ""
+        },
+        {
+            "nombre": "reverseOrder",
+            "description": ""
+        },
+        {
+            "nombre": "thenComparing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super U> keyComparator",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> keyExtractor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super T> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenComparingDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToDoubleFunction<? super T> keyExtractor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenComparingInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToIntFunction<? super T> keyExtractor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenComparingLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToLongFunction<? super T> keyExtractor",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

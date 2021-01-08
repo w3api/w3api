@@ -1,0 +1,75 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createInputMethodJFrame",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean attachToInputContext",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createInputMethodWindow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean attachToInputContext",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dispatchInputMethodEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextHitInfo visiblePosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextHitInfo caret",
+                    "description": ""
+                },
+                {
+                    "nombre": "int committedCharacterCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "enableClientWindowNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean enable",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputMethod inputMethod",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

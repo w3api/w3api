@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GarbageCollectionNotificationInfo",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "GcInfo gcInfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "String gcName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String gcAction",
+                    "description": ""
+                },
+                {
+                    "nombre": "String gcCause",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "from",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CompositeData cd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGcAction",
+            "description": ""
+        },
+        {
+            "nombre": "getGcCause",
+            "description": ""
+        },
+        {
+            "nombre": "getGcInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getGcName",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "GARBAGE_COLLECTION_NOTIFICATION",
+            "description": ""
+        }
+    ]
+}

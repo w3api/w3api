@@ -1,0 +1,133 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ScriptEngineManager",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBindings",
+            "description": ""
+        },
+        {
+            "nombre": "getEngineByExtension",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String extension",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEngineByMimeType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEngineByName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String shortName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEngineFactories",
+            "description": ""
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerEngineExtension",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ScriptEngineFactory factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "String extension",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerEngineMimeType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ScriptEngineFactory factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerEngineName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ScriptEngineFactory factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBindings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Bindings bindings",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

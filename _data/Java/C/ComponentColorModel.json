@@ -1,0 +1,321 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ComponentColorModel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int transparency",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasAlpha",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bits",
+                    "description": ""
+                },
+                {
+                    "nombre": "int transferType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace colorSpace",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "coerceData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WritableRaster raster",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCompatibleSampleModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCompatibleWritableRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlpha",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object inData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlphaRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WritableRaster raster",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBlue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object inData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object pixel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] components",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDataElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int normOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] normComponents",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] components",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDataElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object pixel",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] normComponents",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] components",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rgb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int normOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGreen",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object inData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNormalizedComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object pixel",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] normComponents",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] components",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int normOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object inData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRGB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object inData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUnnormalizedComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int normOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] normComponents",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] components",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isCompatibleRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster raster",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isCompatibleSampleModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SampleModel sm",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

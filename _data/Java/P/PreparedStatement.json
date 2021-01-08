@@ -1,0 +1,529 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addBatch",
+            "description": ""
+        },
+        {
+            "nombre": "clearParameters",
+            "description": ""
+        },
+        {
+            "nombre": "execute",
+            "description": ""
+        },
+        {
+            "nombre": "executeLargeUpdate",
+            "description": ""
+        },
+        {
+            "nombre": "executeQuery",
+            "description": ""
+        },
+        {
+            "nombre": "executeUpdate",
+            "description": ""
+        },
+        {
+            "nombre": "getMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getParameterMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "setArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Array x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAsciiStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBigDecimal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBinaryStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBlob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inputStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Blob x",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBoolean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setByte",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCharacterStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setClob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Clob x",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Calendar cal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "long x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNCharacterStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNClob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "NClob value",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNull",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String typeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int sqlType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scaleOrLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object x",
+                    "description": ""
+                },
+                {
+                    "nombre": "SQLType targetSqlType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int targetSqlType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRef",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Ref x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowId",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowId x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "short x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSQLXML",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "SQLXML xmlObject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Calendar cal",
+                    "description": ""
+                },
+                {
+                    "nombre": "Time x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTimestamp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Timestamp x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Calendar cal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUnicodeStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setURL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL x",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

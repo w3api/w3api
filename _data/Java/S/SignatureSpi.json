@@ -1,0 +1,141 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SignatureSpi",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "engineGetParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGetParameters",
+            "description": ""
+        },
+        {
+            "nombre": "engineInitSign",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrivateKey privateKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "SecureRandom random",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineInitVerify",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PublicKey publicKey",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineSetParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String param",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameterSpec params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineSign",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] outbuf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer input",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineVerify",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] sigBytes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "appRandom",
+            "description": ""
+        }
+    ]
+}

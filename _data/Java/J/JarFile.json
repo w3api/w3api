@@ -1,0 +1,263 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JarFile",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Runtime.Version version",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean verify",
+                    "description": ""
+                },
+                {
+                    "nombre": "int mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "baseVersion",
+            "description": ""
+        },
+        {
+            "nombre": "entries",
+            "description": ""
+        },
+        {
+            "nombre": "getEntry",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZipEntry ze",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getJarEntry",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getManifest",
+            "description": ""
+        },
+        {
+            "nombre": "getVersion",
+            "description": ""
+        },
+        {
+            "nombre": "isMultiRelease",
+            "description": ""
+        },
+        {
+            "nombre": "runtimeVersion",
+            "description": ""
+        },
+        {
+            "nombre": "stream",
+            "description": ""
+        },
+        {
+            "nombre": "versionedStream",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CENATT",
+            "description": ""
+        },
+        {
+            "nombre": "CENATX",
+            "description": ""
+        },
+        {
+            "nombre": "CENCOM",
+            "description": ""
+        },
+        {
+            "nombre": "CENCRC",
+            "description": ""
+        },
+        {
+            "nombre": "CENDSK",
+            "description": ""
+        },
+        {
+            "nombre": "CENEXT",
+            "description": ""
+        },
+        {
+            "nombre": "CENFLG",
+            "description": ""
+        },
+        {
+            "nombre": "CENHDR",
+            "description": ""
+        },
+        {
+            "nombre": "CENHOW",
+            "description": ""
+        },
+        {
+            "nombre": "CENLEN",
+            "description": ""
+        },
+        {
+            "nombre": "CENNAM",
+            "description": ""
+        },
+        {
+            "nombre": "CENOFF",
+            "description": ""
+        },
+        {
+            "nombre": "CENSIG",
+            "description": ""
+        },
+        {
+            "nombre": "CENSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "CENTIM",
+            "description": ""
+        },
+        {
+            "nombre": "CENVEM",
+            "description": ""
+        },
+        {
+            "nombre": "CENVER",
+            "description": ""
+        },
+        {
+            "nombre": "ENDCOM",
+            "description": ""
+        },
+        {
+            "nombre": "ENDHDR",
+            "description": ""
+        },
+        {
+            "nombre": "ENDOFF",
+            "description": ""
+        },
+        {
+            "nombre": "ENDSIG",
+            "description": ""
+        },
+        {
+            "nombre": "ENDSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "ENDSUB",
+            "description": ""
+        },
+        {
+            "nombre": "ENDTOT",
+            "description": ""
+        },
+        {
+            "nombre": "EXTCRC",
+            "description": ""
+        },
+        {
+            "nombre": "EXTHDR",
+            "description": ""
+        },
+        {
+            "nombre": "EXTLEN",
+            "description": ""
+        },
+        {
+            "nombre": "EXTSIG",
+            "description": ""
+        },
+        {
+            "nombre": "EXTSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "LOCCRC",
+            "description": ""
+        },
+        {
+            "nombre": "LOCEXT",
+            "description": ""
+        },
+        {
+            "nombre": "LOCFLG",
+            "description": ""
+        },
+        {
+            "nombre": "LOCHDR",
+            "description": ""
+        },
+        {
+            "nombre": "LOCHOW",
+            "description": ""
+        },
+        {
+            "nombre": "LOCLEN",
+            "description": ""
+        },
+        {
+            "nombre": "LOCNAM",
+            "description": ""
+        },
+        {
+            "nombre": "LOCSIG",
+            "description": ""
+        },
+        {
+            "nombre": "LOCSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "LOCTIM",
+            "description": ""
+        },
+        {
+            "nombre": "LOCVER",
+            "description": ""
+        },
+        {
+            "nombre": "MANIFEST_NAME",
+            "description": ""
+        }
+    ]
+}

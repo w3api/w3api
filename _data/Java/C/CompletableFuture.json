@@ -1,0 +1,297 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CompletableFuture",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "allOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CompletableFuture<?>... cfs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "anyOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CompletableFuture<?>... cfs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cancel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean mayInterruptIfRunning",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "complete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "completeAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<? extends T> supplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "completedFuture",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "U value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "completedStage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "U value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "completeExceptionally",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable ex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "completeOnTimeout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copy",
+            "description": ""
+        },
+        {
+            "nombre": "defaultExecutor",
+            "description": ""
+        },
+        {
+            "nombre": "delayedExecutor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "long delay",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exceptionally",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends T> fn",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<Throwable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "failedFuture",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable ex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "failedStage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable ex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T valueIfAbsent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNumberOfDependents",
+            "description": ""
+        },
+        {
+            "nombre": "isCancelled",
+            "description": ""
+        },
+        {
+            "nombre": "isCompletedExceptionally",
+            "description": ""
+        },
+        {
+            "nombre": "isDone",
+            "description": ""
+        },
+        {
+            "nombre": "join",
+            "description": ""
+        },
+        {
+            "nombre": "minimalCompletionStage",
+            "description": ""
+        },
+        {
+            "nombre": "newIncompleteFuture",
+            "description": ""
+        },
+        {
+            "nombre": "obtrudeException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable ex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "obtrudeValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "orTimeout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable runnable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supplyAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<U> supplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toCompletableFuture",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

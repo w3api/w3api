@@ -1,0 +1,139 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ResourceBundle",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clearCache",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "containsKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaseBundleName",
+            "description": ""
+        },
+        {
+            "nombre": "getBundle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Module module",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale targetLocale",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceBundle.Control control",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getKeys",
+            "description": ""
+        },
+        {
+            "nombre": "getLocale",
+            "description": ""
+        },
+        {
+            "nombre": "getObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStringArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleGetObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleKeySet",
+            "description": ""
+        },
+        {
+            "nombre": "keySet",
+            "description": ""
+        },
+        {
+            "nombre": "setParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ResourceBundle parent",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "parent",
+            "description": ""
+        }
+    ]
+}

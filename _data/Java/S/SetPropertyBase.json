@@ -1,0 +1,37 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SetPropertyBase",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableSet<E> initialValue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "fireValueChangedEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SetChangeListener.Change<? extends E> change",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invalidated",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

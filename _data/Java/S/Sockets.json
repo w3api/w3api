@@ -1,0 +1,65 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Socket s",
+                    "description": ""
+                },
+                {
+                    "nombre": "DatagramSocket s",
+                    "description": ""
+                },
+                {
+                    "nombre": "ServerSocket s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Socket s",
+                    "description": ""
+                },
+                {
+                    "nombre": "DatagramSocket s",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                },
+                {
+                    "nombre": "ServerSocket s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportedOptions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> socketType",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

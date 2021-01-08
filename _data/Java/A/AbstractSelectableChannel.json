@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractSelectableChannel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SelectorProvider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "configureBlocking",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean block",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "implCloseChannel",
+            "description": ""
+        },
+        {
+            "nombre": "implCloseSelectableChannel",
+            "description": ""
+        },
+        {
+            "nombre": "implConfigureBlocking",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean block",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "provider",
+            "description": ""
+        },
+        {
+            "nombre": "register",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ops",
+                    "description": ""
+                },
+                {
+                    "nombre": "Selector sel",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object att",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

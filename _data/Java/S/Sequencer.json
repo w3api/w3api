@@ -1,0 +1,331 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addControllerEventListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] controllers",
+                    "description": ""
+                },
+                {
+                    "nombre": "ControllerEventListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addMetaEventListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MetaEventListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLoopCount",
+            "description": ""
+        },
+        {
+            "nombre": "getLoopEndPoint",
+            "description": ""
+        },
+        {
+            "nombre": "getLoopStartPoint",
+            "description": ""
+        },
+        {
+            "nombre": "getMasterSyncMode",
+            "description": ""
+        },
+        {
+            "nombre": "getMasterSyncModes",
+            "description": ""
+        },
+        {
+            "nombre": "getMicrosecondLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMicrosecondPosition",
+            "description": ""
+        },
+        {
+            "nombre": "getSequence",
+            "description": ""
+        },
+        {
+            "nombre": "getSlaveSyncMode",
+            "description": ""
+        },
+        {
+            "nombre": "getSlaveSyncModes",
+            "description": ""
+        },
+        {
+            "nombre": "getTempoFactor",
+            "description": ""
+        },
+        {
+            "nombre": "getTempoInBPM",
+            "description": ""
+        },
+        {
+            "nombre": "getTempoInMPQ",
+            "description": ""
+        },
+        {
+            "nombre": "getTickLength",
+            "description": ""
+        },
+        {
+            "nombre": "getTickPosition",
+            "description": ""
+        },
+        {
+            "nombre": "getTrackMute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int track",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTrackSolo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int track",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRecording",
+            "description": ""
+        },
+        {
+            "nombre": "isRunning",
+            "description": ""
+        },
+        {
+            "nombre": "recordDisable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Track track",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "recordEnable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int channel",
+                    "description": ""
+                },
+                {
+                    "nombre": "Track track",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeControllerEventListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] controllers",
+                    "description": ""
+                },
+                {
+                    "nombre": "ControllerEventListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeMetaEventListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MetaEventListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLoopCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int count",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLoopEndPoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long tick",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLoopStartPoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long tick",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMasterSyncMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Sequencer.SyncMode sync",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMicrosecondPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long microseconds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSequence",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "Sequence sequence",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSlaveSyncMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Sequencer.SyncMode sync",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTempoFactor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float factor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTempoInBPM",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float bpm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTempoInMPQ",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float mpq",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTickPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long tick",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTrackMute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int track",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean mute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTrackSolo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean solo",
+                    "description": ""
+                },
+                {
+                    "nombre": "int track",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": ""
+        },
+        {
+            "nombre": "startRecording",
+            "description": ""
+        },
+        {
+            "nombre": "stop",
+            "description": ""
+        },
+        {
+            "nombre": "stopRecording",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "LOOP_CONTINUOUSLY",
+            "description": ""
+        }
+    ]
+}

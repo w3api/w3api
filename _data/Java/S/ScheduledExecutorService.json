@@ -1,0 +1,73 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "schedule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable command",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<V> callable",
+                    "description": ""
+                },
+                {
+                    "nombre": "long delay",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scheduleAtFixedRate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable command",
+                    "description": ""
+                },
+                {
+                    "nombre": "long initialDelay",
+                    "description": ""
+                },
+                {
+                    "nombre": "long period",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scheduleWithFixedDelay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable command",
+                    "description": ""
+                },
+                {
+                    "nombre": "long initialDelay",
+                    "description": ""
+                },
+                {
+                    "nombre": "long delay",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

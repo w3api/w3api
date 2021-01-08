@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ConfirmationCallback",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String prompt",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] options",
+                    "description": ""
+                },
+                {
+                    "nombre": "int defaultOption",
+                    "description": ""
+                },
+                {
+                    "nombre": "int optionType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getDefaultOption",
+            "description": ""
+        },
+        {
+            "nombre": "getMessageType",
+            "description": ""
+        },
+        {
+            "nombre": "getOptions",
+            "description": ""
+        },
+        {
+            "nombre": "getOptionType",
+            "description": ""
+        },
+        {
+            "nombre": "getPrompt",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedIndex",
+            "description": ""
+        },
+        {
+            "nombre": "setSelectedIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int selection",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CANCEL",
+            "description": ""
+        },
+        {
+            "nombre": "ERROR",
+            "description": ""
+        },
+        {
+            "nombre": "INFORMATION",
+            "description": ""
+        },
+        {
+            "nombre": "NO",
+            "description": ""
+        },
+        {
+            "nombre": "OK",
+            "description": ""
+        },
+        {
+            "nombre": "OK_CANCEL_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "UNSPECIFIED_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "WARNING",
+            "description": ""
+        },
+        {
+            "nombre": "YES",
+            "description": ""
+        },
+        {
+            "nombre": "YES_NO_CANCEL_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "YES_NO_OPTION",
+            "description": ""
+        }
+    ]
+}

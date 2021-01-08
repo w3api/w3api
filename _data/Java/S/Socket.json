@@ -1,0 +1,343 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Socket",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress localAddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "int localPort",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "Proxy proxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress host",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress address",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketImpl impl",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress bindpoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress endpoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "int timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChannel",
+            "description": ""
+        },
+        {
+            "nombre": "getInetAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getInputStream",
+            "description": ""
+        },
+        {
+            "nombre": "getKeepAlive",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalPort",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalSocketAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getOOBInline",
+            "description": ""
+        },
+        {
+            "nombre": "getOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOutputStream",
+            "description": ""
+        },
+        {
+            "nombre": "getPort",
+            "description": ""
+        },
+        {
+            "nombre": "getReceiveBufferSize",
+            "description": ""
+        },
+        {
+            "nombre": "getRemoteSocketAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getReuseAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getSendBufferSize",
+            "description": ""
+        },
+        {
+            "nombre": "getSoLinger",
+            "description": ""
+        },
+        {
+            "nombre": "getSoTimeout",
+            "description": ""
+        },
+        {
+            "nombre": "getTcpNoDelay",
+            "description": ""
+        },
+        {
+            "nombre": "getTrafficClass",
+            "description": ""
+        },
+        {
+            "nombre": "isBound",
+            "description": ""
+        },
+        {
+            "nombre": "isClosed",
+            "description": ""
+        },
+        {
+            "nombre": "isConnected",
+            "description": ""
+        },
+        {
+            "nombre": "isInputShutdown",
+            "description": ""
+        },
+        {
+            "nombre": "isOutputShutdown",
+            "description": ""
+        },
+        {
+            "nombre": "sendUrgentData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setKeepAlive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOOBInline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPerformancePreferences",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bandwidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int connectionTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "int latency",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReceiveBufferSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReuseAddress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSendBufferSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSocketImplFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketImplFactory fac",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSoLinger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int linger",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSoTimeout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTcpNoDelay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTrafficClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdownInput",
+            "description": ""
+        },
+        {
+            "nombre": "shutdownOutput",
+            "description": ""
+        },
+        {
+            "nombre": "supportedOptions",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

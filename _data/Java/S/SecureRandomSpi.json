@@ -1,0 +1,71 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SecureRandomSpi",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SecureRandomParameters params",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "engineGenerateSeed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int numBytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGetParameters",
+            "description": ""
+        },
+        {
+            "nombre": "engineNextBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] bytes",
+                    "description": ""
+                },
+                {
+                    "nombre": "SecureRandomParameters params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineReseed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SecureRandomParameters params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineSetSeed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] seed",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

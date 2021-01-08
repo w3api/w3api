@@ -1,0 +1,143 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Collator",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "compare",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String target",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object o1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object o2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object that",
+                    "description": ""
+                },
+                {
+                    "nombre": "String source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAvailableLocales",
+            "description": ""
+        },
+        {
+            "nombre": "getCollationKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDecomposition",
+            "description": ""
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale desiredLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStrength",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "setDecomposition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int decompositionMode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStrength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newStrength",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CANONICAL_DECOMPOSITION",
+            "description": ""
+        },
+        {
+            "nombre": "FULL_DECOMPOSITION",
+            "description": ""
+        },
+        {
+            "nombre": "IDENTICAL",
+            "description": ""
+        },
+        {
+            "nombre": "NO_DECOMPOSITION",
+            "description": ""
+        },
+        {
+            "nombre": "PRIMARY",
+            "description": ""
+        },
+        {
+            "nombre": "SECONDARY",
+            "description": ""
+        },
+        {
+            "nombre": "TERTIARY",
+            "description": ""
+        }
+    ]
+}

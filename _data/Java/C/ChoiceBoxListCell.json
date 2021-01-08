@@ -1,0 +1,67 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ChoiceBoxListCell",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<T> items",
+                    "description": ""
+                },
+                {
+                    "nombre": "T... items",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "converterProperty",
+            "description": ""
+        },
+        {
+            "nombre": "forListView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<T> items",
+                    "description": ""
+                },
+                {
+                    "nombre": "T... items",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getItems",
+            "description": ""
+        },
+        {
+            "nombre": "setConverter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

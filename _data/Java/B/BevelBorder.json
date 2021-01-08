@@ -1,0 +1,225 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BevelBorder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Color shadowInnerColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color highlightOuterColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color highlight",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color highlightInnerColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color shadowOuterColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bevelType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color shadow",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBevelType",
+            "description": ""
+        },
+        {
+            "nombre": "getBorderInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets insets",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHighlightInnerColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHighlightOuterColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getShadowInnerColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getShadowOuterColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBorderOpaque",
+            "description": ""
+        },
+        {
+            "nombre": "paintBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintLoweredBevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintRaisedBevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "bevelType",
+            "description": ""
+        },
+        {
+            "nombre": "highlightInner",
+            "description": ""
+        },
+        {
+            "nombre": "highlightOuter",
+            "description": ""
+        },
+        {
+            "nombre": "LOWERED",
+            "description": ""
+        },
+        {
+            "nombre": "RAISED",
+            "description": ""
+        },
+        {
+            "nombre": "shadowInner",
+            "description": ""
+        },
+        {
+            "nombre": "shadowOuter",
+            "description": ""
+        }
+    ]
+}

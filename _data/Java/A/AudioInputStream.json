@@ -1,0 +1,111 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AudioInputStream",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TargetDataLine line",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat format",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "available",
+            "description": ""
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "getFormat",
+            "description": ""
+        },
+        {
+            "nombre": "getFrameLength",
+            "description": ""
+        },
+        {
+            "nombre": "mark",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int readlimit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "markSupported",
+            "description": ""
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "skip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long n",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "format",
+            "description": ""
+        },
+        {
+            "nombre": "frameLength",
+            "description": ""
+        },
+        {
+            "nombre": "framePos",
+            "description": ""
+        },
+        {
+            "nombre": "frameSize",
+            "description": ""
+        }
+    ]
+}

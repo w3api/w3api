@@ -1,0 +1,639 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JFileChooser",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "FileSystemView fsv",
+                    "description": ""
+                },
+                {
+                    "nombre": "File currentDirectory",
+                    "description": ""
+                },
+                {
+                    "nombre": "String currentDirectoryPath",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accept",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addActionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActionListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addChoosableFileFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileFilter filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "approveSelection",
+            "description": ""
+        },
+        {
+            "nombre": "cancelSelection",
+            "description": ""
+        },
+        {
+            "nombre": "changeToParentDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "createDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ensureFileIsVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireActionPerformed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String command",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAcceptAllFileFilter",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessory",
+            "description": ""
+        },
+        {
+            "nombre": "getActionListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getApproveButtonMnemonic",
+            "description": ""
+        },
+        {
+            "nombre": "getApproveButtonText",
+            "description": ""
+        },
+        {
+            "nombre": "getApproveButtonToolTipText",
+            "description": ""
+        },
+        {
+            "nombre": "getChoosableFileFilters",
+            "description": ""
+        },
+        {
+            "nombre": "getControlButtonsAreShown",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "getDescription",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDialogTitle",
+            "description": ""
+        },
+        {
+            "nombre": "getDialogType",
+            "description": ""
+        },
+        {
+            "nombre": "getDragEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "getFileFilter",
+            "description": ""
+        },
+        {
+            "nombre": "getFileSelectionMode",
+            "description": ""
+        },
+        {
+            "nombre": "getFileSystemView",
+            "description": ""
+        },
+        {
+            "nombre": "getFileView",
+            "description": ""
+        },
+        {
+            "nombre": "getIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSelectedFile",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedFiles",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeDescription",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "isAcceptAllFileFilterUsed",
+            "description": ""
+        },
+        {
+            "nombre": "isDirectorySelectionEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isFileHidingEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isFileSelectionEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isMultiSelectionEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isTraversable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "removeActionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActionListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeChoosableFileFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileFilter f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rescanCurrentDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "resetChoosableFileFilters",
+            "description": ""
+        },
+        {
+            "nombre": "setAcceptAllFileFilterUsed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAccessory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent newAccessory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setApproveButtonMnemonic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char mnemonic",
+                    "description": ""
+                },
+                {
+                    "nombre": "int mnemonic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setApproveButtonText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String approveButtonText",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setApproveButtonToolTipText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String toolTipText",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setControlButtonsAreShown",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCurrentDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDialogTitle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String dialogTitle",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDialogType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dialogType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDragEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFileFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileFilter filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFileHidingEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFileSelectionMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFileSystemView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileSystemView fsv",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFileView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileView fileView",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMultiSelectionEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedFiles",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File[] selectedFiles",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileSystemView view",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String approveButtonText",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showOpenDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showSaveDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ACCEPT_ALL_FILE_FILTER_USED_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "accessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "ACCESSORY_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "APPROVE_BUTTON_MNEMONIC_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "APPROVE_BUTTON_TEXT_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "APPROVE_BUTTON_TOOL_TIP_TEXT_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "APPROVE_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "APPROVE_SELECTION",
+            "description": ""
+        },
+        {
+            "nombre": "CANCEL_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "CANCEL_SELECTION",
+            "description": ""
+        },
+        {
+            "nombre": "CHOOSABLE_FILE_FILTER_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "CONTROL_BUTTONS_ARE_SHOWN_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "CUSTOM_DIALOG",
+            "description": ""
+        },
+        {
+            "nombre": "DIALOG_TITLE_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "DIALOG_TYPE_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTORIES_ONLY",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTORY_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "ERROR_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "FILE_FILTER_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "FILE_HIDING_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "FILE_SELECTION_MODE_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "FILE_SYSTEM_VIEW_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "FILE_VIEW_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "FILES_AND_DIRECTORIES",
+            "description": ""
+        },
+        {
+            "nombre": "FILES_ONLY",
+            "description": ""
+        },
+        {
+            "nombre": "MULTI_SELECTION_ENABLED_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "OPEN_DIALOG",
+            "description": ""
+        },
+        {
+            "nombre": "SAVE_DIALOG",
+            "description": ""
+        },
+        {
+            "nombre": "SELECTED_FILE_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "SELECTED_FILES_CHANGED_PROPERTY",
+            "description": ""
+        }
+    ]
+}

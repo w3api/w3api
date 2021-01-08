@@ -1,0 +1,653 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JInternalFrame",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean closable",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean resizable",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean maximizable",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean iconifiable",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addImpl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object constraints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addInternalFrameListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InternalFrameListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createRootPane",
+            "description": ""
+        },
+        {
+            "nombre": "dispose",
+            "description": ""
+        },
+        {
+            "nombre": "doDefaultCloseAction",
+            "description": ""
+        },
+        {
+            "nombre": "fireInternalFrameEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getContentPane",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultCloseOperation",
+            "description": ""
+        },
+        {
+            "nombre": "getDesktopIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getDesktopPane",
+            "description": ""
+        },
+        {
+            "nombre": "getFocusCycleRootAncestor",
+            "description": ""
+        },
+        {
+            "nombre": "getFocusOwner",
+            "description": ""
+        },
+        {
+            "nombre": "getFrameIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getGlassPane",
+            "description": ""
+        },
+        {
+            "nombre": "getInternalFrameListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getJMenuBar",
+            "description": ""
+        },
+        {
+            "nombre": "getLastCursor",
+            "description": ""
+        },
+        {
+            "nombre": "getLayer",
+            "description": ""
+        },
+        {
+            "nombre": "getLayeredPane",
+            "description": ""
+        },
+        {
+            "nombre": "getMenuBar",
+            "description": ""
+        },
+        {
+            "nombre": "getMostRecentFocusOwner",
+            "description": ""
+        },
+        {
+            "nombre": "getNormalBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getRootPane",
+            "description": ""
+        },
+        {
+            "nombre": "getTitle",
+            "description": ""
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "getWarningString",
+            "description": ""
+        },
+        {
+            "nombre": "isClosable",
+            "description": ""
+        },
+        {
+            "nombre": "isClosed",
+            "description": ""
+        },
+        {
+            "nombre": "isFocusCycleRoot",
+            "description": ""
+        },
+        {
+            "nombre": "isIcon",
+            "description": ""
+        },
+        {
+            "nombre": "isIconifiable",
+            "description": ""
+        },
+        {
+            "nombre": "isMaximizable",
+            "description": ""
+        },
+        {
+            "nombre": "isMaximum",
+            "description": ""
+        },
+        {
+            "nombre": "isResizable",
+            "description": ""
+        },
+        {
+            "nombre": "isRootPaneCheckingEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isSelected",
+            "description": ""
+        },
+        {
+            "nombre": "moveToBack",
+            "description": ""
+        },
+        {
+            "nombre": "moveToFront",
+            "description": ""
+        },
+        {
+            "nombre": "pack",
+            "description": ""
+        },
+        {
+            "nombre": "paintComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeInternalFrameListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InternalFrameListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reshape",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "restoreSubcomponentFocus",
+            "description": ""
+        },
+        {
+            "nombre": "setClosable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setClosed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContentPane",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCursor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Cursor cursor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultCloseOperation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int operation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDesktopIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JInternalFrame.JDesktopIcon d",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFocusCycleRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean focusCycleRoot",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFrameIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGlassPane",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component glass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIconifiable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setJMenuBar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JMenuBar m",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLayer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int layer",
+                    "description": ""
+                },
+                {
+                    "nombre": "Integer layer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLayeredPane",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JLayeredPane layered",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LayoutManager manager",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximizable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMenuBar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JMenuBar m",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNormalBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setResizable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRootPane",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JRootPane root",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRootPaneCheckingEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean enabled",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean selected",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTitle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InternalFrameUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "show",
+            "description": ""
+        },
+        {
+            "nombre": "toBack",
+            "description": ""
+        },
+        {
+            "nombre": "toFront",
+            "description": ""
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "closable",
+            "description": ""
+        },
+        {
+            "nombre": "CONTENT_PANE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "desktopIcon",
+            "description": ""
+        },
+        {
+            "nombre": "FRAME_ICON_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "frameIcon",
+            "description": ""
+        },
+        {
+            "nombre": "GLASS_PANE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "iconable",
+            "description": ""
+        },
+        {
+            "nombre": "IS_CLOSED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "IS_ICON_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "IS_MAXIMUM_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "IS_SELECTED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "isClosed",
+            "description": ""
+        },
+        {
+            "nombre": "isIcon",
+            "description": ""
+        },
+        {
+            "nombre": "isMaximum",
+            "description": ""
+        },
+        {
+            "nombre": "isSelected",
+            "description": ""
+        },
+        {
+            "nombre": "LAYERED_PANE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "maximizable",
+            "description": ""
+        },
+        {
+            "nombre": "MENU_BAR_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "resizable",
+            "description": ""
+        },
+        {
+            "nombre": "ROOT_PANE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "rootPane",
+            "description": ""
+        },
+        {
+            "nombre": "rootPaneCheckingEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "title",
+            "description": ""
+        },
+        {
+            "nombre": "TITLE_PROPERTY",
+            "description": ""
+        }
+    ]
+}

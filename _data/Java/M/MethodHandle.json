@@ -1,0 +1,133 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "asCollector",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int arrayLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> arrayType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int collectArgPos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asFixedArity",
+            "description": ""
+        },
+        {
+            "nombre": "asSpreader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int arrayLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "int spreadArgPos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> arrayType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType newType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asVarargsCollector",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> arrayType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bindTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object... args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invokeExact",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object... args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invokeWithArguments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<?> arguments",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... arguments",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isVarargsCollector",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "type",
+            "description": ""
+        },
+        {
+            "nombre": "withVarargs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean makeVarargs",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

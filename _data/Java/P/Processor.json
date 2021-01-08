@@ -1,0 +1,65 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getCompletions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ExecutableElement member",
+                    "description": ""
+                },
+                {
+                    "nombre": "AnnotationMirror annotation",
+                    "description": ""
+                },
+                {
+                    "nombre": "String userText",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element element",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSupportedAnnotationTypes",
+            "description": ""
+        },
+        {
+            "nombre": "getSupportedOptions",
+            "description": ""
+        },
+        {
+            "nombre": "getSupportedSourceVersion",
+            "description": ""
+        },
+        {
+            "nombre": "init",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ProcessingEnvironment processingEnv",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "process",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<? extends TypeElement> annotations",
+                    "description": ""
+                },
+                {
+                    "nombre": "RoundEnvironment roundEnv",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

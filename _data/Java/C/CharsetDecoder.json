@@ -1,0 +1,183 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CharsetDecoder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "float averageCharsPerByte",
+                    "description": ""
+                },
+                {
+                    "nombre": "float maxCharsPerByte",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset cs",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "averageCharsPerByte",
+            "description": ""
+        },
+        {
+            "nombre": "charset",
+            "description": ""
+        },
+        {
+            "nombre": "decode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer in",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean endOfInput",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharBuffer out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decodeLoop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer in",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharBuffer out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "detectedCharset",
+            "description": ""
+        },
+        {
+            "nombre": "flush",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharBuffer out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "implFlush",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharBuffer out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "implOnMalformedInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CodingErrorAction newAction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "implOnUnmappableCharacter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CodingErrorAction newAction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "implReplaceWith",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String newReplacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "implReset",
+            "description": ""
+        },
+        {
+            "nombre": "isAutoDetecting",
+            "description": ""
+        },
+        {
+            "nombre": "isCharsetDetected",
+            "description": ""
+        },
+        {
+            "nombre": "malformedInputAction",
+            "description": ""
+        },
+        {
+            "nombre": "maxCharsPerByte",
+            "description": ""
+        },
+        {
+            "nombre": "onMalformedInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CodingErrorAction newAction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onUnmappableCharacter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CodingErrorAction newAction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replacement",
+            "description": ""
+        },
+        {
+            "nombre": "replaceWith",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String newReplacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "unmappableCharacterAction",
+            "description": ""
+        }
+    ]
+}

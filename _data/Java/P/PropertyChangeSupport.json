@@ -1,0 +1,143 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PropertyChangeSupport",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Object sourceBean",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeListener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireIndexedPropertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int oldValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "firePropertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "PropertyChangeEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPropertyChangeListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removePropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeListener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

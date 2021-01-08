@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SignedObject",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "PrivateKey signingKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "Signature signingEngine",
+                    "description": ""
+                },
+                {
+                    "nombre": "Serializable object",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getObject",
+            "description": ""
+        },
+        {
+            "nombre": "getSignature",
+            "description": ""
+        },
+        {
+            "nombre": "verify",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PublicKey verificationKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "Signature verificationEngine",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

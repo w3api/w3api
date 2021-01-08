@@ -1,0 +1,299 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "activate_object",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Servant p_servant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "activate_object_with_id",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] id",
+                    "description": ""
+                },
+                {
+                    "nombre": "Servant p_servant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_id_assignment_policy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IdAssignmentPolicyValue value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_id_uniqueness_policy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IdUniquenessPolicyValue value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_implicit_activation_policy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImplicitActivationPolicyValue value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_lifespan_policy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LifespanPolicyValue value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_POA",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Policy[] policies",
+                    "description": ""
+                },
+                {
+                    "nombre": "POAManager a_POAManager",
+                    "description": ""
+                },
+                {
+                    "nombre": "String adapter_name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_reference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String intf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_reference_with_id",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] oid",
+                    "description": ""
+                },
+                {
+                    "nombre": "String intf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_request_processing_policy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RequestProcessingPolicyValue value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_servant_retention_policy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ServantRetentionPolicyValue value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_thread_policy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ThreadPolicyValue value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deactivate_object",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] oid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "destroy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean etherealize_objects",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean wait_for_completion",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "find_POA",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean activate_it",
+                    "description": ""
+                },
+                {
+                    "nombre": "String adapter_name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_servant",
+            "description": ""
+        },
+        {
+            "nombre": "get_servant_manager",
+            "description": ""
+        },
+        {
+            "nombre": "id",
+            "description": ""
+        },
+        {
+            "nombre": "id_to_reference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] oid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "id_to_servant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] oid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reference_to_id",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object reference",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reference_to_servant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object reference",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "servant_to_id",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Servant p_servant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "servant_to_reference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Servant p_servant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_servant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Servant p_servant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_servant_manager",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ServantManager imgr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "the_activator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AdapterActivator newThe_activator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "the_children",
+            "description": ""
+        },
+        {
+            "nombre": "the_name",
+            "description": ""
+        },
+        {
+            "nombre": "the_parent",
+            "description": ""
+        },
+        {
+            "nombre": "the_POAManager",
+            "description": ""
+        }
+    ]
+}

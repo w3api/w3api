@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StateEdit",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "StateEditable anObject",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "end",
+            "description": ""
+        },
+        {
+            "nombre": "getPresentationName",
+            "description": ""
+        },
+        {
+            "nombre": "init",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StateEditable anObject",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "redo",
+            "description": ""
+        },
+        {
+            "nombre": "removeRedundantState",
+            "description": ""
+        },
+        {
+            "nombre": "undo",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "object",
+            "description": ""
+        },
+        {
+            "nombre": "postState",
+            "description": ""
+        },
+        {
+            "nombre": "preState",
+            "description": ""
+        },
+        {
+            "nombre": "RCSID",
+            "description": ""
+        },
+        {
+            "nombre": "undoRedoName",
+            "description": ""
+        }
+    ]
+}

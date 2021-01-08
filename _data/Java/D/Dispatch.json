@@ -1,0 +1,41 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "invoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invokeAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "AsyncHandler<T> handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invokeOneWay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T msg",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ObjectInputStream",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "available",
+            "description": ""
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "defaultReadObject",
+            "description": ""
+        },
+        {
+            "nombre": "enableResolveObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean enable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getObjectInputFilter",
+            "description": ""
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] buf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readBoolean",
+            "description": ""
+        },
+        {
+            "nombre": "readByte",
+            "description": ""
+        },
+        {
+            "nombre": "readChar",
+            "description": ""
+        },
+        {
+            "nombre": "readClassDescriptor",
+            "description": ""
+        },
+        {
+            "nombre": "readDouble",
+            "description": ""
+        },
+        {
+            "nombre": "readFields",
+            "description": ""
+        },
+        {
+            "nombre": "readFloat",
+            "description": ""
+        },
+        {
+            "nombre": "readFully",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] buf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readInt",
+            "description": ""
+        },
+        {
+            "nombre": "readLine",
+            "description": ""
+        },
+        {
+            "nombre": "readLong",
+            "description": ""
+        },
+        {
+            "nombre": "readObject",
+            "description": ""
+        },
+        {
+            "nombre": "readObjectOverride",
+            "description": ""
+        },
+        {
+            "nombre": "readShort",
+            "description": ""
+        },
+        {
+            "nombre": "readStreamHeader",
+            "description": ""
+        },
+        {
+            "nombre": "readUnshared",
+            "description": ""
+        },
+        {
+            "nombre": "readUnsignedByte",
+            "description": ""
+        },
+        {
+            "nombre": "readUnsignedShort",
+            "description": ""
+        },
+        {
+            "nombre": "readUTF",
+            "description": ""
+        },
+        {
+            "nombre": "registerValidation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int prio",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectInputValidation obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolveClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectStreamClass desc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolveObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolveProxyClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] interfaces",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setObjectInputFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectInputFilter filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "skipBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FloatControl",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "FloatControl.Type type",
+                    "description": ""
+                },
+                {
+                    "nombre": "float minimum",
+                    "description": ""
+                },
+                {
+                    "nombre": "String units",
+                    "description": ""
+                },
+                {
+                    "nombre": "String minLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "float initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "float maximum",
+                    "description": ""
+                },
+                {
+                    "nombre": "String midLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "float precision",
+                    "description": ""
+                },
+                {
+                    "nombre": "String maxLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int updatePeriod",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getMaximum",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxLabel",
+            "description": ""
+        },
+        {
+            "nombre": "getMidLabel",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimum",
+            "description": ""
+        },
+        {
+            "nombre": "getMinLabel",
+            "description": ""
+        },
+        {
+            "nombre": "getPrecision",
+            "description": ""
+        },
+        {
+            "nombre": "getUnits",
+            "description": ""
+        },
+        {
+            "nombre": "getUpdatePeriod",
+            "description": ""
+        },
+        {
+            "nombre": "getValue",
+            "description": ""
+        },
+        {
+            "nombre": "setValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shift",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int microseconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "float from",
+                    "description": ""
+                },
+                {
+                    "nombre": "float to",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "build",
+            "description": ""
+        },
+        {
+            "nombre": "compilerOptions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "err",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrintStream err",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "executionEngine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String> executionControlParameters",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutionControlProvider executionControlProvider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String executionControlSpec",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fileManager",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StandardJavaFileManager> mapping",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<StandardJavaFileManager",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "idGenerator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer",
+                    "description": ""
+                },
+                {
+                    "nombre": "String> generator",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<Snippet",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "in",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "out",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrintStream out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remoteVMOptions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tempVariableNameGenerator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<String> generator",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

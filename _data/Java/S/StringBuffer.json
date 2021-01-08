@@ -1,0 +1,413 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StringBuffer",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int capacity",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence seq",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "append",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringBuffer sb",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence s",
+                    "description": ""
+                },
+                {
+                    "nombre": "float f",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] str",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                },
+                {
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "long l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendCodePoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "capacity",
+            "description": ""
+        },
+        {
+            "nombre": "charAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "chars",
+            "description": ""
+        },
+        {
+            "nombre": "codePointAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "codePointBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "codePointCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "codePoints",
+            "description": ""
+        },
+        {
+            "nombre": "delete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deleteCharAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ensureCapacity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minimumCapacity",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChars",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char[] dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcEnd",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcBegin",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dstBegin",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "indexOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dstOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence s",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] str",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                },
+                {
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "float f",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "long l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lastIndexOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "length",
+            "description": ""
+        },
+        {
+            "nombre": "offsetByCodePoints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePointOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reverse",
+            "description": ""
+        },
+        {
+            "nombre": "setCharAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newLength",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subSequence",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "substring",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "trimToSize",
+            "description": ""
+        }
+    ]
+}

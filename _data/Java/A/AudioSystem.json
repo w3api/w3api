@@ -1,0 +1,245 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getAudioFileFormat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAudioFileTypes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioInputStream stream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAudioInputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat targetFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioInputStream sourceStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Mixer.Info mixerInfo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Line.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMixer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Mixer.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMixerInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceDataLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat format",
+                    "description": ""
+                },
+                {
+                    "nombre": "Mixer.Info mixerinfo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSourceLineInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Line.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTargetDataLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat format",
+                    "description": ""
+                },
+                {
+                    "nombre": "Mixer.Info mixerinfo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTargetEncodings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat.Encoding sourceEncoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat sourceFormat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTargetFormats",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat sourceFormat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTargetLineInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Line.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isConversionSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat targetFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat sourceFormat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFileTypeSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioInputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFileFormat.Type fileType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLineSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Line.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioInputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFileFormat.Type fileType",
+                    "description": ""
+                },
+                {
+                    "nombre": "File out",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "NOT_SPECIFIED",
+            "description": ""
+        }
+    ]
+}

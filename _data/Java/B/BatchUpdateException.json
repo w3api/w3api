@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BatchUpdateException",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String SQLState",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] updateCounts",
+                    "description": ""
+                },
+                {
+                    "nombre": "String reason",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable cause",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vendorCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] updateCounts",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getLargeUpdateCounts",
+            "description": ""
+        },
+        {
+            "nombre": "getUpdateCounts",
+            "description": ""
+        }
+    ]
+}

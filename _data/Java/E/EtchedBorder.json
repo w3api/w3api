@@ -1,0 +1,121 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "EtchedBorder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Color shadow",
+                    "description": ""
+                },
+                {
+                    "nombre": "int etchType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color highlight",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBorderInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets insets",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEtchType",
+            "description": ""
+        },
+        {
+            "nombre": "getHighlightColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getShadowColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBorderOpaque",
+            "description": ""
+        },
+        {
+            "nombre": "paintBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "etchType",
+            "description": ""
+        },
+        {
+            "nombre": "highlight",
+            "description": ""
+        },
+        {
+            "nombre": "LOWERED",
+            "description": ""
+        },
+        {
+            "nombre": "RAISED",
+            "description": ""
+        },
+        {
+            "nombre": "shadow",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,419 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "abort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "beginRequest",
+            "description": ""
+        },
+        {
+            "nombre": "clearWarnings",
+            "description": ""
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "commit",
+            "description": ""
+        },
+        {
+            "nombre": "createArrayOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String typeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] elements",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createBlob",
+            "description": ""
+        },
+        {
+            "nombre": "createClob",
+            "description": ""
+        },
+        {
+            "nombre": "createNClob",
+            "description": ""
+        },
+        {
+            "nombre": "createSQLXML",
+            "description": ""
+        },
+        {
+            "nombre": "createStatement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int resultSetType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int resultSetHoldability",
+                    "description": ""
+                },
+                {
+                    "nombre": "int resultSetConcurrency",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStruct",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String typeName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endRequest",
+            "description": ""
+        },
+        {
+            "nombre": "getAutoCommit",
+            "description": ""
+        },
+        {
+            "nombre": "getCatalog",
+            "description": ""
+        },
+        {
+            "nombre": "getClientInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHoldability",
+            "description": ""
+        },
+        {
+            "nombre": "getMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getNetworkTimeout",
+            "description": ""
+        },
+        {
+            "nombre": "getSchema",
+            "description": ""
+        },
+        {
+            "nombre": "getTransactionIsolation",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeMap",
+            "description": ""
+        },
+        {
+            "nombre": "getWarnings",
+            "description": ""
+        },
+        {
+            "nombre": "isClosed",
+            "description": ""
+        },
+        {
+            "nombre": "isReadOnly",
+            "description": ""
+        },
+        {
+            "nombre": "isValid",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nativeSQL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String sql",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepareCall",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String sql",
+                    "description": ""
+                },
+                {
+                    "nombre": "int resultSetHoldability",
+                    "description": ""
+                },
+                {
+                    "nombre": "int resultSetType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int resultSetConcurrency",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepareStatement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int resultSetHoldability",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] columnNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "int resultSetConcurrency",
+                    "description": ""
+                },
+                {
+                    "nombre": "int resultSetType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sql",
+                    "description": ""
+                },
+                {
+                    "nombre": "int autoGeneratedKeys",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] columnIndexes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "releaseSavepoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Savepoint savepoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rollback",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Savepoint savepoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAutoCommit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean autoCommit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCatalog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setClientInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Properties properties",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHoldability",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int holdability",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNetworkTimeout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int milliseconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReadOnly",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean readOnly",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSavepoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSchema",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String schema",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShardingKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ShardingKey shardingKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "ShardingKey superShardingKey",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShardingKeyIfValid",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ShardingKey shardingKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "int timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "ShardingKey superShardingKey",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTransactionIsolation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTypeMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?>> map",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "TRANSACTION_NONE",
+            "description": ""
+        },
+        {
+            "nombre": "TRANSACTION_READ_COMMITTED",
+            "description": ""
+        },
+        {
+            "nombre": "TRANSACTION_READ_UNCOMMITTED",
+            "description": ""
+        },
+        {
+            "nombre": "TRANSACTION_REPEATABLE_READ",
+            "description": ""
+        },
+        {
+            "nombre": "TRANSACTION_SERIALIZABLE",
+            "description": ""
+        }
+    ]
+}

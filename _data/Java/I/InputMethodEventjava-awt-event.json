@@ -1,0 +1,93 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "InputMethodEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TextHitInfo visiblePosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextHitInfo caret",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component source",
+                    "description": ""
+                },
+                {
+                    "nombre": "long when",
+                    "description": ""
+                },
+                {
+                    "nombre": "int committedCharacterCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "consume",
+            "description": ""
+        },
+        {
+            "nombre": "getCaret",
+            "description": ""
+        },
+        {
+            "nombre": "getCommittedCharacterCount",
+            "description": ""
+        },
+        {
+            "nombre": "getText",
+            "description": ""
+        },
+        {
+            "nombre": "getVisiblePosition",
+            "description": ""
+        },
+        {
+            "nombre": "getWhen",
+            "description": ""
+        },
+        {
+            "nombre": "isConsumed",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CARET_POSITION_CHANGED",
+            "description": ""
+        },
+        {
+            "nombre": "INPUT_METHOD_FIRST",
+            "description": ""
+        },
+        {
+            "nombre": "INPUT_METHOD_LAST",
+            "description": ""
+        },
+        {
+            "nombre": "INPUT_METHOD_TEXT_CHANGED",
+            "description": ""
+        }
+    ]
+}

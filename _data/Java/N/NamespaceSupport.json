@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "NamespaceSupport",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "declarePrefix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeclaredPrefixes",
+            "description": ""
+        },
+        {
+            "nombre": "getPrefix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPrefixes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getURI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNamespaceDeclUris",
+            "description": ""
+        },
+        {
+            "nombre": "popContext",
+            "description": ""
+        },
+        {
+            "nombre": "processName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] parts",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAttribute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pushContext",
+            "description": ""
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "setNamespaceDeclUris",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "NSDECL",
+            "description": ""
+        },
+        {
+            "nombre": "XMLNS",
+            "description": ""
+        }
+    ]
+}

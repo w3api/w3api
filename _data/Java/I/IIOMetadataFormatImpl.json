@@ -1,0 +1,291 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "IIOMetadataFormatImpl",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int minChildren",
+                    "description": ""
+                },
+                {
+                    "nombre": "int childPolicy",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxChildren",
+                    "description": ""
+                },
+                {
+                    "nombre": "String rootName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean required",
+                    "description": ""
+                },
+                {
+                    "nombre": "int listMinLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "String maxValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String elementName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String attrName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String minValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean maxInclusive",
+                    "description": ""
+                },
+                {
+                    "nombre": "int listMaxLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean minInclusive",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<String> enumeratedValues",
+                    "description": ""
+                },
+                {
+                    "nombre": "String defaultValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addBooleanAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean defaultValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String attrName",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasDefaultValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String elementName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addChildElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String parentName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String elementName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maxChildren",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parentName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String elementName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minChildren",
+                    "description": ""
+                },
+                {
+                    "nombre": "int childPolicy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addObjectValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean required",
+                    "description": ""
+                },
+                {
+                    "nombre": "T defaultValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String elementName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparable<? super T> maxValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends T> enumeratedValues",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparable<? super T> minValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> classType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> classType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean maxInclusive",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean minInclusive",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arrayMaxLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arrayMinLength",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributeDescription",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String attrName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "String elementName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElementDescription",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "String elementName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResourceBaseName",
+            "description": ""
+        },
+        {
+            "nombre": "getStandardFormatInstance",
+            "description": ""
+        },
+        {
+            "nombre": "removeAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String attrName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String elementName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String elementName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeObjectValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String elementName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setResourceBaseName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String resourceBaseName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "standardMetadataFormatName",
+            "description": ""
+        }
+    ]
+}

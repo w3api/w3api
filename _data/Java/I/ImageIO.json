@@ -1,0 +1,249 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createImageInputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object input",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createImageOutputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object output",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCacheDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "getImageReader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageWriter writer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageReaders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object input",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageReadersByFormatName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String formatName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageReadersByMIMEType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String MIMEType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageReadersBySuffix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String fileSuffix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageTranscoders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReader reader",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriter writer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageWriter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageWriters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageTypeSpecifier type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String formatName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageWritersByFormatName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String formatName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageWritersByMIMEType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String MIMEType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageWritersBySuffix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String fileSuffix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getReaderFileSuffixes",
+            "description": ""
+        },
+        {
+            "nombre": "getReaderFormatNames",
+            "description": ""
+        },
+        {
+            "nombre": "getReaderMIMETypes",
+            "description": ""
+        },
+        {
+            "nombre": "getUseCache",
+            "description": ""
+        },
+        {
+            "nombre": "getWriterFileSuffixes",
+            "description": ""
+        },
+        {
+            "nombre": "getWriterFormatNames",
+            "description": ""
+        },
+        {
+            "nombre": "getWriterMIMETypes",
+            "description": ""
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream input",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL input",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageInputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "File input",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scanForPlugins",
+            "description": ""
+        },
+        {
+            "nombre": "setCacheDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File cacheDirectory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUseCache",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean useCache",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File output",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderedImage im",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageOutputStream output",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream output",
+                    "description": ""
+                },
+                {
+                    "nombre": "String formatName",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

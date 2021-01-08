@@ -1,0 +1,155 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "asPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileObject file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getJavaFileObjects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File... files",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path... paths",
+                    "description": ""
+                },
+                {
+                    "nombre": "String... names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getJavaFileObjectsFromFiles",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Iterable<? extends File> files",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getJavaFileObjectsFromPaths",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Iterable<? extends Path> paths",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getJavaFileObjectsFromStrings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Iterable<String> names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLocationAsPaths",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSameFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileObject b",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileObject a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Iterable<? extends File> files",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocationForModule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends Path> paths",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                },
+                {
+                    "nombre": "String moduleName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocationFromPaths",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends Path> paths",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPathFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StandardJavaFileManager.PathFactory f",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Locale.LanguageRange",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "double weight",
+                    "description": ""
+                },
+                {
+                    "nombre": "String range",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRange",
+            "description": ""
+        },
+        {
+            "nombre": "getWeight",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "mapEquivalents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<Locale.LanguageRange> priorityList",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<String>> map",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String ranges",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<String>> map",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "MAX_WEIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_WEIGHT",
+            "description": ""
+        }
+    ]
+}

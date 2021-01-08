@@ -1,0 +1,163 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AsynchronousFileChannel",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "force",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean metaData",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "A attachment",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionHandler<FileLock",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super A> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "long size",
+                    "description": ""
+                },
+                {
+                    "nombre": "long position",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean shared",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<? extends OpenOption> options",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutorService executor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "A attachment",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionHandler<Integer",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super A> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "long position",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "truncate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryLock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long position",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean shared",
+                    "description": ""
+                },
+                {
+                    "nombre": "long size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "A attachment",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionHandler<Integer",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super A> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "long position",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

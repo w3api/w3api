@@ -1,0 +1,183 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AtomicReferenceFieldUpdater",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accumulateAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BinaryOperator<V> accumulatorFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "V x",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V expect",
+                    "description": ""
+                },
+                {
+                    "nombre": "V update",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndAccumulate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BinaryOperator<V> accumulatorFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "V x",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UnaryOperator<V> updateFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lazySet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newUpdater",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<W> vclass",
+                    "description": ""
+                },
+                {
+                    "nombre": "String fieldName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<U> tclass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UnaryOperator<V> updateFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V expect",
+                    "description": ""
+                },
+                {
+                    "nombre": "V update",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

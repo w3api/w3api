@@ -1,0 +1,189 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Lookup",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "findGetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> refc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findOwnSpecial",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> rtype",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>... ptypes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findOwnStatic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> rtype",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>... ptypes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findSpecial",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> declaringClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findStatic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> declaringClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findVirtual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> declaringClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unreflect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Method m",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unreflectConstructor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Constructor<?> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unreflectGetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Field f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unreflectSetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Field f",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "PUBLIC",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "hasAssociation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimetype",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extensions",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasDesktopShortcut",
+            "description": ""
+        },
+        {
+            "nombre": "hasMenuShortcut",
+            "description": ""
+        },
+        {
+            "nombre": "removeAssociation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimetype",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extensions",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeShortcuts",
+            "description": ""
+        },
+        {
+            "nombre": "requestAssociation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimetype",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extensions",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestShortcut",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String submenu",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean menu",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean desktop",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

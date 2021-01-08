@@ -1,0 +1,101 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "LocaleNameProvider",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getDisplayCountry",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "String countryCode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayLanguage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "String languageCode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayScript",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String scriptCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayUnicodeExtensionKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayUnicodeExtensionType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayVariant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String variant",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

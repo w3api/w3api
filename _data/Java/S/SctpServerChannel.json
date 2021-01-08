@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SctpServerChannel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SelectorProvider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accept",
+            "description": ""
+        },
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress local",
+                    "description": ""
+                },
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bindAddress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetAddress address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllLocalAddresses",
+            "description": ""
+        },
+        {
+            "nombre": "getOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SctpSocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "open",
+            "description": ""
+        },
+        {
+            "nombre": "setOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "SctpSocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportedOptions",
+            "description": ""
+        },
+        {
+            "nombre": "unbindAddress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetAddress address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "validOps",
+            "description": ""
+        }
+    ]
+}

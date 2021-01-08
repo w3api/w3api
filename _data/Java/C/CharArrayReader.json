@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CharArrayReader",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] buf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "mark",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int readAheadLimit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "markSupported",
+            "description": ""
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ready",
+            "description": ""
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "skip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long n",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "buf",
+            "description": ""
+        },
+        {
+            "nombre": "count",
+            "description": ""
+        },
+        {
+            "nombre": "markedPos",
+            "description": ""
+        },
+        {
+            "nombre": "pos",
+            "description": ""
+        }
+    ]
+}

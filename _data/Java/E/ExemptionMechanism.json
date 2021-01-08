@@ -1,0 +1,105 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ExemptionMechanism",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String mechanism",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExemptionMechanismSpi exmechSpi",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "genExemptionBlob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] output",
+                    "description": ""
+                },
+                {
+                    "nombre": "int outputOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getOutputSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int inputLen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "init",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AlgorithmParameters params",
+                    "description": ""
+                },
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameterSpec params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isCryptoAllowed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

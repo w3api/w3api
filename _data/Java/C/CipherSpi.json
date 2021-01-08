@@ -1,0 +1,209 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CipherSpi",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "engineDoFinal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] output",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer input",
+                    "description": ""
+                },
+                {
+                    "nombre": "int outputOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer output",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] input",
+                    "description": ""
+                },
+                {
+                    "nombre": "int inputLen",
+                    "description": ""
+                },
+                {
+                    "nombre": "int inputOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGetBlockSize",
+            "description": ""
+        },
+        {
+            "nombre": "engineGetIV",
+            "description": ""
+        },
+        {
+            "nombre": "engineGetKeySize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGetOutputSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int inputLen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGetParameters",
+            "description": ""
+        },
+        {
+            "nombre": "engineInit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int opmode",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameterSpec params",
+                    "description": ""
+                },
+                {
+                    "nombre": "SecureRandom random",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameters params",
+                    "description": ""
+                },
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineSetMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineSetPadding",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String padding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineUnwrap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String wrappedKeyAlgorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int wrappedKeyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] wrappedKey",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] output",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer input",
+                    "description": ""
+                },
+                {
+                    "nombre": "int outputOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer output",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] input",
+                    "description": ""
+                },
+                {
+                    "nombre": "int inputLen",
+                    "description": ""
+                },
+                {
+                    "nombre": "int inputOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineUpdateAAD",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] src",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineWrap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

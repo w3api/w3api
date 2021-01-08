@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getStandardFileManager",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "DiagnosticListener<? super JavaFileObject> diagnosticListener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTask",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DiagnosticListener<? super JavaFileObject> diagnosticListener",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterable<String> options",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager fileManager",
+                    "description": ""
+                },
+                {
+                    "nombre": "Writer out",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterable<? extends JavaFileObject> compilationUnits",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> docletClass",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

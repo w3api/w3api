@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StreamPrintServiceFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getOutputFormat",
+            "description": ""
+        },
+        {
+            "nombre": "getPrintService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSupportedDocFlavors",
+            "description": ""
+        },
+        {
+            "nombre": "lookupStreamPrintServiceFactories",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocFlavor flavor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String outputMimeType",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

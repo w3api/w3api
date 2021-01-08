@@ -1,0 +1,225 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AtomicBoolean",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean initialValue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "compareAndExchange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expectedValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndExchangeAcquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expectedValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndExchangeRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expectedValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expectedValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": ""
+        },
+        {
+            "nombre": "getAcquire",
+            "description": ""
+        },
+        {
+            "nombre": "getAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOpaque",
+            "description": ""
+        },
+        {
+            "nombre": "getPlain",
+            "description": ""
+        },
+        {
+            "nombre": "lazySet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOpaque",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPlain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "weakCompareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expectedValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetAcquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expectedValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetPlain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expectedValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expectedValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetVolatile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expectedValue",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

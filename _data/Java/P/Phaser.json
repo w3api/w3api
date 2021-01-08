@@ -1,0 +1,127 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Phaser",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int parties",
+                    "description": ""
+                },
+                {
+                    "nombre": "Phaser parent",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "arrive",
+            "description": ""
+        },
+        {
+            "nombre": "arriveAndAwaitAdvance",
+            "description": ""
+        },
+        {
+            "nombre": "arriveAndDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "awaitAdvance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int phase",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "awaitAdvanceInterruptibly",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "int phase",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bulkRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parties",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forceTermination",
+            "description": ""
+        },
+        {
+            "nombre": "getArrivedParties",
+            "description": ""
+        },
+        {
+            "nombre": "getParent",
+            "description": ""
+        },
+        {
+            "nombre": "getPhase",
+            "description": ""
+        },
+        {
+            "nombre": "getRegisteredParties",
+            "description": ""
+        },
+        {
+            "nombre": "getRoot",
+            "description": ""
+        },
+        {
+            "nombre": "getUnarrivedParties",
+            "description": ""
+        },
+        {
+            "nombre": "isTerminated",
+            "description": ""
+        },
+        {
+            "nombre": "onAdvance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int registeredParties",
+                    "description": ""
+                },
+                {
+                    "nombre": "int phase",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

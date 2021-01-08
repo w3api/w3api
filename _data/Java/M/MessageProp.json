@@ -1,0 +1,105 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MessageProp",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean privState",
+                    "description": ""
+                },
+                {
+                    "nombre": "int qop",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getMinorStatus",
+            "description": ""
+        },
+        {
+            "nombre": "getMinorString",
+            "description": ""
+        },
+        {
+            "nombre": "getPrivacy",
+            "description": ""
+        },
+        {
+            "nombre": "getQOP",
+            "description": ""
+        },
+        {
+            "nombre": "isDuplicateToken",
+            "description": ""
+        },
+        {
+            "nombre": "isGapToken",
+            "description": ""
+        },
+        {
+            "nombre": "isOldToken",
+            "description": ""
+        },
+        {
+            "nombre": "isUnseqToken",
+            "description": ""
+        },
+        {
+            "nombre": "setPrivacy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean privState",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setQOP",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int qop",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSupplementaryStates",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean duplicate",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean unseq",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean gap",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean old",
+                    "description": ""
+                },
+                {
+                    "nombre": "String minorString",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minorStatus",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

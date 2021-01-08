@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CompositeGuardingDynamicLinker",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Iterable<? extends GuardingDynamicLinker> linkers",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getGuardedInvocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LinkRequest linkRequest",
+                    "description": ""
+                },
+                {
+                    "nombre": "LinkerServices linkerServices",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

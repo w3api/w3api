@@ -1,0 +1,461 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ComponentSampleModel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bankIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scanlineStride",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixelStride",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bandOffsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createCompatibleSampleModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDataBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "createSubsetSampleModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bands",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBandOffsets",
+            "description": ""
+        },
+        {
+            "nombre": "getBankIndices",
+            "description": ""
+        },
+        {
+            "nombre": "getDataElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNumDataElements",
+            "description": ""
+        },
+        {
+            "nombre": "getOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPixel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPixelStride",
+            "description": ""
+        },
+        {
+            "nombre": "getSample",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSampleDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSampleFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSamples",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSampleSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int band",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getScanlineStride",
+            "description": ""
+        },
+        {
+            "nombre": "setDataElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPixel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSample",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "float s",
+                    "description": ""
+                },
+                {
+                    "nombre": "double s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSamples",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "bandOffsets",
+            "description": ""
+        },
+        {
+            "nombre": "bankIndices",
+            "description": ""
+        },
+        {
+            "nombre": "numBands",
+            "description": ""
+        },
+        {
+            "nombre": "numBanks",
+            "description": ""
+        },
+        {
+            "nombre": "pixelStride",
+            "description": ""
+        },
+        {
+            "nombre": "scanlineStride",
+            "description": ""
+        }
+    ]
+}

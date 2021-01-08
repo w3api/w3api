@@ -1,0 +1,791 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DebugGraphics",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent component",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics graphics",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clearRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clipRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copyArea",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int destX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int destY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dispose",
+            "description": ""
+        },
+        {
+            "nombre": "draw3DRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean raised",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawArc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arcAngle",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startAngle",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawChars",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color bgcolor",
+                    "description": ""
+                },
+                {
+                    "nombre": "int sx1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dy2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int sy1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int sx2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dy1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dx1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dx2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "int sy2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageObserver observer",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawOval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawPolygon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] xPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] yPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nPoints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawPolyline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] xPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] yPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nPoints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawRoundRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arcWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arcHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "String aString",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator iterator",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fill3DRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean raised",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fillArc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arcAngle",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startAngle",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fillOval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fillPolygon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] xPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] yPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nPoints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fillRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fillRoundRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arcWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arcHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flashColor",
+            "description": ""
+        },
+        {
+            "nombre": "flashCount",
+            "description": ""
+        },
+        {
+            "nombre": "flashTime",
+            "description": ""
+        },
+        {
+            "nombre": "getClip",
+            "description": ""
+        },
+        {
+            "nombre": "getClipBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getColor",
+            "description": ""
+        },
+        {
+            "nombre": "getDebugOptions",
+            "description": ""
+        },
+        {
+            "nombre": "getFont",
+            "description": ""
+        },
+        {
+            "nombre": "getFontMetrics",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDrawingBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "logStream",
+            "description": ""
+        },
+        {
+            "nombre": "setClip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape clip",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color aColor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDebugOptions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFlashColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color flashColor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFlashCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int flashCount",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFlashTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int flashTime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font aFont",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLogStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrintStream stream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPaintMode",
+            "description": ""
+        },
+        {
+            "nombre": "setXORMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color aColor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "translate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "BUFFERED_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "FLASH_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "LOG_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "NONE_OPTION",
+            "description": ""
+        }
+    ]
+}

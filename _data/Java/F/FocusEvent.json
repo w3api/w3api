@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FocusEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean temporary",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component source",
+                    "description": ""
+                },
+                {
+                    "nombre": "FocusEvent.Cause cause",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component opposite",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCause",
+            "description": ""
+        },
+        {
+            "nombre": "getOppositeComponent",
+            "description": ""
+        },
+        {
+            "nombre": "isTemporary",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "FOCUS_FIRST",
+            "description": ""
+        },
+        {
+            "nombre": "FOCUS_GAINED",
+            "description": ""
+        },
+        {
+            "nombre": "FOCUS_LAST",
+            "description": ""
+        },
+        {
+            "nombre": "FOCUS_LOST",
+            "description": ""
+        }
+    ]
+}

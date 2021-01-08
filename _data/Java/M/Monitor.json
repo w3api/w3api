@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Monitor",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addObservedObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "containsObservedObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGranularityPeriod",
+            "description": ""
+        },
+        {
+            "nombre": "getObservedAttribute",
+            "description": ""
+        },
+        {
+            "nombre": "getObservedObject",
+            "description": ""
+        },
+        {
+            "nombre": "getObservedObjects",
+            "description": ""
+        },
+        {
+            "nombre": "isActive",
+            "description": ""
+        },
+        {
+            "nombre": "postDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "postRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Boolean registrationDone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "preRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServer server",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeObservedObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGranularityPeriod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long period",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setObservedAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String attribute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setObservedObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": ""
+        },
+        {
+            "nombre": "stop",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "alreadyNotified",
+            "description": ""
+        },
+        {
+            "nombre": "alreadyNotifieds",
+            "description": ""
+        },
+        {
+            "nombre": "capacityIncrement",
+            "description": ""
+        },
+        {
+            "nombre": "dbgTag",
+            "description": ""
+        },
+        {
+            "nombre": "elementCount",
+            "description": ""
+        },
+        {
+            "nombre": "OBSERVED_ATTRIBUTE_ERROR_NOTIFIED",
+            "description": ""
+        },
+        {
+            "nombre": "OBSERVED_ATTRIBUTE_TYPE_ERROR_NOTIFIED",
+            "description": ""
+        },
+        {
+            "nombre": "OBSERVED_OBJECT_ERROR_NOTIFIED",
+            "description": ""
+        },
+        {
+            "nombre": "RESET_FLAGS_ALREADY_NOTIFIED",
+            "description": ""
+        },
+        {
+            "nombre": "RUNTIME_ERROR_NOTIFIED",
+            "description": ""
+        },
+        {
+            "nombre": "server",
+            "description": ""
+        }
+    ]
+}

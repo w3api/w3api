@@ -1,0 +1,37 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ListPropertyBase",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<E> initialValue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "fireValueChangedEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListChangeListener.Change<? extends E> change",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invalidated",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Recording",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Configuration configuration",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "copy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean stop",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "disable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<? extends Event> eventClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dump",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path destination",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "enable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<? extends Event> eventClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDestination",
+            "description": ""
+        },
+        {
+            "nombre": "getDumpOnExit",
+            "description": ""
+        },
+        {
+            "nombre": "getDuration",
+            "description": ""
+        },
+        {
+            "nombre": "getId",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxAge",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxSize",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getSettings",
+            "description": ""
+        },
+        {
+            "nombre": "getSize",
+            "description": ""
+        },
+        {
+            "nombre": "getStartTime",
+            "description": ""
+        },
+        {
+            "nombre": "getState",
+            "description": ""
+        },
+        {
+            "nombre": "getStopTime",
+            "description": ""
+        },
+        {
+            "nombre": "getStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant end",
+                    "description": ""
+                },
+                {
+                    "nombre": "Instant start",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isToDisk",
+            "description": ""
+        },
+        {
+            "nombre": "scheduleStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration delay",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDestination",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path destination",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDumpOnExit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean dumpOnExit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDuration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration duration",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaxAge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration maxAge",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaxSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long maxSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSettings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "String> settings",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setToDisk",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean disk",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": ""
+        },
+        {
+            "nombre": "stop",
+            "description": ""
+        }
+    ]
+}

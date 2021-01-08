@@ -1,0 +1,133 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SSLServerSocket",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress address",
+                    "description": ""
+                },
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getEnabledCipherSuites",
+            "description": ""
+        },
+        {
+            "nombre": "getEnabledProtocols",
+            "description": ""
+        },
+        {
+            "nombre": "getEnableSessionCreation",
+            "description": ""
+        },
+        {
+            "nombre": "getNeedClientAuth",
+            "description": ""
+        },
+        {
+            "nombre": "getSSLParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getSupportedCipherSuites",
+            "description": ""
+        },
+        {
+            "nombre": "getSupportedProtocols",
+            "description": ""
+        },
+        {
+            "nombre": "getUseClientMode",
+            "description": ""
+        },
+        {
+            "nombre": "getWantClientAuth",
+            "description": ""
+        },
+        {
+            "nombre": "setEnabledCipherSuites",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] suites",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnabledProtocols",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] protocols",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnableSessionCreation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNeedClientAuth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean need",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSSLParameters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SSLParameters params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUseClientMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWantClientAuth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean want",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

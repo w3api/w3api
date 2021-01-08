@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CompositeType",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String description",
+                    "description": ""
+                },
+                {
+                    "nombre": "String typeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] itemNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] itemDescriptions",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenType<?>[] itemTypes",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "containsKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String itemName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDescription",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String itemName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String itemName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "keySet",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,125 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ReentrantLock",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean fair",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getHoldCount",
+            "description": ""
+        },
+        {
+            "nombre": "getOwner",
+            "description": ""
+        },
+        {
+            "nombre": "getQueuedThreads",
+            "description": ""
+        },
+        {
+            "nombre": "getQueueLength",
+            "description": ""
+        },
+        {
+            "nombre": "getWaitingThreads",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Condition condition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWaitQueueLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Condition condition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasQueuedThread",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Thread thread",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasQueuedThreads",
+            "description": ""
+        },
+        {
+            "nombre": "hasWaiters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Condition condition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFair",
+            "description": ""
+        },
+        {
+            "nombre": "isHeldByCurrentThread",
+            "description": ""
+        },
+        {
+            "nombre": "isLocked",
+            "description": ""
+        },
+        {
+            "nombre": "lock",
+            "description": ""
+        },
+        {
+            "nombre": "lockInterruptibly",
+            "description": ""
+        },
+        {
+            "nombre": "newCondition",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "tryLock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unlock",
+            "description": ""
+        }
+    ]
+}

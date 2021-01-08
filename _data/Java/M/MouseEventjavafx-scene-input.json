@@ -1,0 +1,291 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MouseEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean shiftDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean synthesized",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<? extends MouseEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean secondaryButtonDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean altDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenX",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean primaryButtonDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean controlDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean middleButtonDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "int clickCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "MouseButton button",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenY",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean stillSincePress",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean metaDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "PickResult pickResult",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean popupTrigger",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "copyFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventType<? extends MouseEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object newSource",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget newTarget",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copyForMouseDragEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<MouseDragEvent> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object gestureSource",
+                    "description": ""
+                },
+                {
+                    "nombre": "PickResult pickResult",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getButton",
+            "description": ""
+        },
+        {
+            "nombre": "getClickCount",
+            "description": ""
+        },
+        {
+            "nombre": "getPickResult",
+            "description": ""
+        },
+        {
+            "nombre": "getSceneX",
+            "description": ""
+        },
+        {
+            "nombre": "getSceneY",
+            "description": ""
+        },
+        {
+            "nombre": "getScreenX",
+            "description": ""
+        },
+        {
+            "nombre": "getScreenY",
+            "description": ""
+        },
+        {
+            "nombre": "getX",
+            "description": ""
+        },
+        {
+            "nombre": "getY",
+            "description": ""
+        },
+        {
+            "nombre": "getZ",
+            "description": ""
+        },
+        {
+            "nombre": "isAltDown",
+            "description": ""
+        },
+        {
+            "nombre": "isControlDown",
+            "description": ""
+        },
+        {
+            "nombre": "isDragDetect",
+            "description": ""
+        },
+        {
+            "nombre": "isMetaDown",
+            "description": ""
+        },
+        {
+            "nombre": "isMiddleButtonDown",
+            "description": ""
+        },
+        {
+            "nombre": "isPopupTrigger",
+            "description": ""
+        },
+        {
+            "nombre": "isPrimaryButtonDown",
+            "description": ""
+        },
+        {
+            "nombre": "isSecondaryButtonDown",
+            "description": ""
+        },
+        {
+            "nombre": "isShiftDown",
+            "description": ""
+        },
+        {
+            "nombre": "isShortcutDown",
+            "description": ""
+        },
+        {
+            "nombre": "isStillSincePress",
+            "description": ""
+        },
+        {
+            "nombre": "isSynthesized",
+            "description": ""
+        },
+        {
+            "nombre": "setDragDetect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean dragDetect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        },
+        {
+            "nombre": "DRAG_DETECTED",
+            "description": ""
+        },
+        {
+            "nombre": "MOUSE_CLICKED",
+            "description": ""
+        },
+        {
+            "nombre": "MOUSE_DRAGGED",
+            "description": ""
+        },
+        {
+            "nombre": "MOUSE_ENTERED",
+            "description": ""
+        },
+        {
+            "nombre": "MOUSE_ENTERED_TARGET",
+            "description": ""
+        },
+        {
+            "nombre": "MOUSE_EXITED",
+            "description": ""
+        },
+        {
+            "nombre": "MOUSE_EXITED_TARGET",
+            "description": ""
+        },
+        {
+            "nombre": "MOUSE_MOVED",
+            "description": ""
+        },
+        {
+            "nombre": "MOUSE_PRESSED",
+            "description": ""
+        },
+        {
+            "nombre": "MOUSE_RELEASED",
+            "description": ""
+        }
+    ]
+}

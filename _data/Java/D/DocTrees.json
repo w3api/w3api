@@ -1,0 +1,131 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DocTrees",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBreakIterator",
+            "description": ""
+        },
+        {
+            "nombre": "getDocCommentTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element e",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileObject fileObject",
+                    "description": ""
+                },
+                {
+                    "nombre": "String relativePath",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDocTreeFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getDocTreePath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileObject fileObject",
+                    "description": ""
+                },
+                {
+                    "nombre": "PackageElement packageElement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocTreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFirstSentence",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSourcePositions",
+            "description": ""
+        },
+        {
+            "nombre": "instance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaCompiler.CompilationTask task",
+                    "description": ""
+                },
+                {
+                    "nombre": "ProcessingEnvironment env",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "printMessage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocCommentTree c",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocTree t",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompilationUnitTree root",
+                    "description": ""
+                },
+                {
+                    "nombre": "Diagnostic.Kind kind",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBreakIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BreakIterator breakiterator",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

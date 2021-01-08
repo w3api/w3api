@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "LookupTable",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int numComponents",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getNumComponents",
+            "description": ""
+        },
+        {
+            "nombre": "getOffset",
+            "description": ""
+        },
+        {
+            "nombre": "lookupPixel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] dest",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

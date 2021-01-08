@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MemoryUsage",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "long committed",
+                    "description": ""
+                },
+                {
+                    "nombre": "long init",
+                    "description": ""
+                },
+                {
+                    "nombre": "long used",
+                    "description": ""
+                },
+                {
+                    "nombre": "long max",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "from",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CompositeData cd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCommitted",
+            "description": ""
+        },
+        {
+            "nombre": "getInit",
+            "description": ""
+        },
+        {
+            "nombre": "getMax",
+            "description": ""
+        },
+        {
+            "nombre": "getUsed",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

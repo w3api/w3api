@@ -1,0 +1,1225 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicTreeUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cancelEditing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkForClickInExpandControl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mouseY",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int mouseX",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "completeEditing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean messageTree",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean messageCancel",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean messageStop",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "completeUIInstall",
+            "description": ""
+        },
+        {
+            "nombre": "completeUIUninstall",
+            "description": ""
+        },
+        {
+            "nombre": "configureLayoutCache",
+            "description": ""
+        },
+        {
+            "nombre": "createCellEditorListener",
+            "description": ""
+        },
+        {
+            "nombre": "createCellRendererPane",
+            "description": ""
+        },
+        {
+            "nombre": "createComponentListener",
+            "description": ""
+        },
+        {
+            "nombre": "createDefaultCellEditor",
+            "description": ""
+        },
+        {
+            "nombre": "createDefaultCellRenderer",
+            "description": ""
+        },
+        {
+            "nombre": "createFocusListener",
+            "description": ""
+        },
+        {
+            "nombre": "createKeyListener",
+            "description": ""
+        },
+        {
+            "nombre": "createLayoutCache",
+            "description": ""
+        },
+        {
+            "nombre": "createMouseListener",
+            "description": ""
+        },
+        {
+            "nombre": "createNodeDimensions",
+            "description": ""
+        },
+        {
+            "nombre": "createPropertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createSelectionModelPropertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createTreeExpansionListener",
+            "description": ""
+        },
+        {
+            "nombre": "createTreeModelListener",
+            "description": ""
+        },
+        {
+            "nombre": "createTreeSelectionListener",
+            "description": ""
+        },
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawCentered",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics graphics",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawDashedHorizontalLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawDashedVerticalLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ensureRowsAreVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int beginRow",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endRow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaseline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaselineResizeBehavior",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCellEditor",
+            "description": ""
+        },
+        {
+            "nombre": "getCellRenderer",
+            "description": ""
+        },
+        {
+            "nombre": "getClosestPathForLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCollapsedIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getDropLineRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree.DropLocation loc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEditingPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getExpandedIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getHashColor",
+            "description": ""
+        },
+        {
+            "nombre": "getHorizontalLegBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "getLastChildPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLeadSelectionRow",
+            "description": ""
+        },
+        {
+            "nombre": "getLeftChildIndent",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getModel",
+            "description": ""
+        },
+        {
+            "nombre": "getPathBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPathForRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredMinSize",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean checkConsistency",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRightChildIndent",
+            "description": ""
+        },
+        {
+            "nombre": "getRowCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowForPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getRowX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int depth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "getShowsRootHandles",
+            "description": ""
+        },
+        {
+            "nombre": "getVerticalLegBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "handleExpandControlClick",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mouseY",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int mouseX",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "installComponents",
+            "description": ""
+        },
+        {
+            "nombre": "installDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "installKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "installListeners",
+            "description": ""
+        },
+        {
+            "nombre": "isDropLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree.DropLocation loc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEditable",
+            "description": ""
+        },
+        {
+            "nombre": "isEditing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLargeModel",
+            "description": ""
+        },
+        {
+            "nombre": "isLeaf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLocationInExpandControl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mouseY",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int mouseX",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isMultiSelectEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRootVisible",
+            "description": ""
+        },
+        {
+            "nombre": "isToggleEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isToggleSelectionEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintDropLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintExpandControl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets insets",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle clipBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isLeaf",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasBeenExpanded",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintHorizontalLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int left",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int right",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintHorizontalPartOfLeg",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets insets",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle clipBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isLeaf",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasBeenExpanded",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets insets",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle clipBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isLeaf",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasBeenExpanded",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintVerticalLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int top",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bottom",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintVerticalPartOfLeg",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle clipBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets insets",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pathWasCollapsed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pathWasExpanded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepareForUIInstall",
+            "description": ""
+        },
+        {
+            "nombre": "prepareForUIUninstall",
+            "description": ""
+        },
+        {
+            "nombre": "selectPathForEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "MouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellEditor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeCellEditor editor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellRenderer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeCellRenderer tcr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCollapsedIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon newG",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExpandedIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon newG",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHashColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color color",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLargeModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean largeModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLeftChildIndent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newAmount",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeModel model",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPreferredMinSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dimension newSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRightChildIndent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newAmount",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRootVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rowHeight",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeSelectionModel newLSM",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShowsRootHandles",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shouldPaintExpandControl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isLeaf",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasBeenExpanded",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startEditing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "MouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startEditingAtPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stopEditing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toggleExpandState",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uninstallComponents",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallListeners",
+            "description": ""
+        },
+        {
+            "nombre": "updateCachedPreferredSize",
+            "description": ""
+        },
+        {
+            "nombre": "updateCellEditor",
+            "description": ""
+        },
+        {
+            "nombre": "updateDepthOffset",
+            "description": ""
+        },
+        {
+            "nombre": "updateExpandedDescendants",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateLayoutCacheExpandedNodes",
+            "description": ""
+        },
+        {
+            "nombre": "updateLeadSelectionRow",
+            "description": ""
+        },
+        {
+            "nombre": "updateRenderer",
+            "description": ""
+        },
+        {
+            "nombre": "updateSize",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "cellEditor",
+            "description": ""
+        },
+        {
+            "nombre": "collapsedIcon",
+            "description": ""
+        },
+        {
+            "nombre": "createdCellEditor",
+            "description": ""
+        },
+        {
+            "nombre": "createdRenderer",
+            "description": ""
+        },
+        {
+            "nombre": "currentCellRenderer",
+            "description": ""
+        },
+        {
+            "nombre": "depthOffset",
+            "description": ""
+        },
+        {
+            "nombre": "drawingCache",
+            "description": ""
+        },
+        {
+            "nombre": "editingComponent",
+            "description": ""
+        },
+        {
+            "nombre": "editingPath",
+            "description": ""
+        },
+        {
+            "nombre": "editingRow",
+            "description": ""
+        },
+        {
+            "nombre": "editorHasDifferentSize",
+            "description": ""
+        },
+        {
+            "nombre": "expandedIcon",
+            "description": ""
+        },
+        {
+            "nombre": "largeModel",
+            "description": ""
+        },
+        {
+            "nombre": "lastSelectedRow",
+            "description": ""
+        },
+        {
+            "nombre": "leftChildIndent",
+            "description": ""
+        },
+        {
+            "nombre": "nodeDimensions",
+            "description": ""
+        },
+        {
+            "nombre": "preferredMinSize",
+            "description": ""
+        },
+        {
+            "nombre": "preferredSize",
+            "description": ""
+        },
+        {
+            "nombre": "rendererPane",
+            "description": ""
+        },
+        {
+            "nombre": "rightChildIndent",
+            "description": ""
+        },
+        {
+            "nombre": "stopEditingInCompleteEditing",
+            "description": ""
+        },
+        {
+            "nombre": "totalChildIndent",
+            "description": ""
+        },
+        {
+            "nombre": "tree",
+            "description": ""
+        },
+        {
+            "nombre": "treeModel",
+            "description": ""
+        },
+        {
+            "nombre": "treeSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "treeState",
+            "description": ""
+        },
+        {
+            "nombre": "validCachedPreferredSize",
+            "description": ""
+        }
+    ]
+}

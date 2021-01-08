@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "NashornException",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable cause",
+                    "description": ""
+                },
+                {
+                    "nombre": "int line",
+                    "description": ""
+                },
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "String fileName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getColumnNumber",
+            "description": ""
+        },
+        {
+            "nombre": "getEcmaError",
+            "description": ""
+        },
+        {
+            "nombre": "getFileName",
+            "description": ""
+        },
+        {
+            "nombre": "getLineNumber",
+            "description": ""
+        },
+        {
+            "nombre": "getScriptFrames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable exception",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getScriptStackString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable exception",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getThrown",
+            "description": ""
+        },
+        {
+            "nombre": "setColumnNumber",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEcmaError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object ecmaError",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFileName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String fileName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLineNumber",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int line",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

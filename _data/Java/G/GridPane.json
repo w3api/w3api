@@ -1,0 +1,511 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GridPane",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int colspan",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rowspan",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rowIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node... children",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rowIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node... children",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "alignmentProperty",
+            "description": ""
+        },
+        {
+            "nombre": "clearConstraints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlignment",
+            "description": ""
+        },
+        {
+            "nombre": "getCellBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rowIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getColumnConstraints",
+            "description": ""
+        },
+        {
+            "nombre": "getColumnCount",
+            "description": ""
+        },
+        {
+            "nombre": "getColumnIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColumnSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContentBias",
+            "description": ""
+        },
+        {
+            "nombre": "getCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getHalignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHgap",
+            "description": ""
+        },
+        {
+            "nombre": "getHgrow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMargin",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowConstraints",
+            "description": ""
+        },
+        {
+            "nombre": "getRowCount",
+            "description": ""
+        },
+        {
+            "nombre": "getRowIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getValignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVgap",
+            "description": ""
+        },
+        {
+            "nombre": "getVgrow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "gridLinesVisibleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "hgapProperty",
+            "description": ""
+        },
+        {
+            "nombre": "isFillHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFillWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isGridLinesVisible",
+            "description": ""
+        },
+        {
+            "nombre": "setAlignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Pos value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColumnIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColumnSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setConstraints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "VPos valignment",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rowspan",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rowIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Priority vgrow",
+                    "description": ""
+                },
+                {
+                    "nombre": "HPos halignment",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnspan",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets margin",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                },
+                {
+                    "nombre": "Priority hgrow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFillHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                },
+                {
+                    "nombre": "Boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFillWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                },
+                {
+                    "nombre": "Boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGridLinesVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHalignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HPos value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHgap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHgrow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Priority value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMargin",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Insets value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                },
+                {
+                    "nombre": "VPos value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVgap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVgrow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Priority value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "vgapProperty",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "REMAINING",
+            "description": ""
+        }
+    ]
+}

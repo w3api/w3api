@@ -1,0 +1,207 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FontMetrics",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bytesWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int off",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "charsWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "charWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAscent",
+            "description": ""
+        },
+        {
+            "nombre": "getDescent",
+            "description": ""
+        },
+        {
+            "nombre": "getFont",
+            "description": ""
+        },
+        {
+            "nombre": "getFontRenderContext",
+            "description": ""
+        },
+        {
+            "nombre": "getHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getLeading",
+            "description": ""
+        },
+        {
+            "nombre": "getLineMetrics",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics context",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharacterIterator ci",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] chars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaxAdvance",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxAscent",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxCharBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaxDecent",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxDescent",
+            "description": ""
+        },
+        {
+            "nombre": "getStringBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics context",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharacterIterator ci",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] chars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWidths",
+            "description": ""
+        },
+        {
+            "nombre": "hasUniformLineMetrics",
+            "description": ""
+        },
+        {
+            "nombre": "stringWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "font",
+            "description": ""
+        }
+    ]
+}

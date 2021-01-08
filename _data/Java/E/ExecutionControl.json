@@ -1,0 +1,113 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addToClasspath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "extensionCommand",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String command",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "generate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String> parameters",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutionEnv env",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "String spec",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "String methodName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ExecutionControl.ClassBytecodes[] cbcs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "redefine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ExecutionControl.ClassBytecodes[] cbcs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stop",
+            "description": ""
+        },
+        {
+            "nombre": "varValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String varName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String className",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

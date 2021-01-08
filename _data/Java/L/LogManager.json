@@ -1,0 +1,125 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "LogManager",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addConfigurationListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addLogger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Logger logger",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkAccess",
+            "description": ""
+        },
+        {
+            "nombre": "getLogger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLoggerNames",
+            "description": ""
+        },
+        {
+            "nombre": "getLoggingMXBean",
+            "description": ""
+        },
+        {
+            "nombre": "getLogManager",
+            "description": ""
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readConfiguration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream ins",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeConfigurationListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "updateConfiguration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "String>> mapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream ins",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<String",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "LOGGING_MXBEAN_NAME",
+            "description": ""
+        }
+    ]
+}

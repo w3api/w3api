@@ -1,0 +1,237 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DirectColorModel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ColorSpace space",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bits",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int amask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int gmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int transferType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "coerceData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WritableRaster raster",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCompatibleWritableRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlpha",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object inData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlphaMask",
+            "description": ""
+        },
+        {
+            "nombre": "getBlue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object inData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBlueMask",
+            "description": ""
+        },
+        {
+            "nombre": "getComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object pixel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] components",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDataElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] components",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDataElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object pixel",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] components",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rgb",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGreen",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object inData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGreenMask",
+            "description": ""
+        },
+        {
+            "nombre": "getRed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object inData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRedMask",
+            "description": ""
+        },
+        {
+            "nombre": "getRGB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object inData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isCompatibleRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster raster",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SSLSocket",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress clientAddress",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "int clientPort",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress address",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addHandshakeCompletedListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HandshakeCompletedListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getApplicationProtocol",
+            "description": ""
+        },
+        {
+            "nombre": "getEnabledCipherSuites",
+            "description": ""
+        },
+        {
+            "nombre": "getEnabledProtocols",
+            "description": ""
+        },
+        {
+            "nombre": "getEnableSessionCreation",
+            "description": ""
+        },
+        {
+            "nombre": "getHandshakeApplicationProtocol",
+            "description": ""
+        },
+        {
+            "nombre": "getHandshakeApplicationProtocolSelector",
+            "description": ""
+        },
+        {
+            "nombre": "getHandshakeSession",
+            "description": ""
+        },
+        {
+            "nombre": "getNeedClientAuth",
+            "description": ""
+        },
+        {
+            "nombre": "getSession",
+            "description": ""
+        },
+        {
+            "nombre": "getSSLParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getSupportedCipherSuites",
+            "description": ""
+        },
+        {
+            "nombre": "getSupportedProtocols",
+            "description": ""
+        },
+        {
+            "nombre": "getUseClientMode",
+            "description": ""
+        },
+        {
+            "nombre": "getWantClientAuth",
+            "description": ""
+        },
+        {
+            "nombre": "removeHandshakeCompletedListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HandshakeCompletedListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnabledCipherSuites",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] suites",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnabledProtocols",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] protocols",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnableSessionCreation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHandshakeApplicationProtocolSelector",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BiFunction<SSLSocket",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<String>",
+                    "description": ""
+                },
+                {
+                    "nombre": "String> selector",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNeedClientAuth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean need",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSSLParameters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SSLParameters params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUseClientMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWantClientAuth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean want",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startHandshake",
+            "description": ""
+        }
+    ]
+}

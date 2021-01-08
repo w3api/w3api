@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DocTreePath",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "DocTreePath p",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocTree t",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocCommentTree t",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath treePath",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getDocComment",
+            "description": ""
+        },
+        {
+            "nombre": "getLeaf",
+            "description": ""
+        },
+        {
+            "nombre": "getParentPath",
+            "description": ""
+        },
+        {
+            "nombre": "getPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocCommentTree doc",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocTreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath treePath",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocTree target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTreePath",
+            "description": ""
+        }
+    ]
+}

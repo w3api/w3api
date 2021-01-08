@@ -1,0 +1,619 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JTabbedPane",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabLayoutPolicy",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object constraints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "String tip",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "fireStateChanged",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getBackgroundAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBoundsAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChangeListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getComponentAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisabledIconAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayedMnemonicIndexAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getForegroundAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIconAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMnemonicAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getModel",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getTabComponentAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabCount",
+            "description": ""
+        },
+        {
+            "nombre": "getTabLayoutPolicy",
+            "description": ""
+        },
+        {
+            "nombre": "getTabPlacement",
+            "description": ""
+        },
+        {
+            "nombre": "getTabRunCount",
+            "description": ""
+        },
+        {
+            "nombre": "getTitleAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getToolTipText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getToolTipTextAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "indexAtLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "indexOfComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "indexOfTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "indexOfTabComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component tabComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "String tip",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEnabledAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAll",
+            "description": ""
+        },
+        {
+            "nombre": "removeChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeTabAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBackgroundAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color background",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setComponentAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDisabledIconAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon disabledIcon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDisplayedMnemonicIndexAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mnemonicIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnabledAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean enabled",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setForegroundAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color foreground",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIconAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMnemonicAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int mnemonic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SingleSelectionModel model",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTabComponentAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTabLayoutPolicy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabLayoutPolicy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTabPlacement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTitleAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setToolTipTextAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "String toolTipText",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TabbedPaneUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "changeEvent",
+            "description": ""
+        },
+        {
+            "nombre": "changeListener",
+            "description": ""
+        },
+        {
+            "nombre": "model",
+            "description": ""
+        },
+        {
+            "nombre": "SCROLL_TAB_LAYOUT",
+            "description": ""
+        },
+        {
+            "nombre": "tabPlacement",
+            "description": ""
+        },
+        {
+            "nombre": "WRAP_TAB_LAYOUT",
+            "description": ""
+        }
+    ]
+}

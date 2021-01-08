@@ -1,0 +1,147 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Charset",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String canonicalName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] aliases",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "aliases",
+            "description": ""
+        },
+        {
+            "nombre": "availableCharsets",
+            "description": ""
+        },
+        {
+            "nombre": "canEncode",
+            "description": ""
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Charset that",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Charset cs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer bb",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defaultCharset",
+            "description": ""
+        },
+        {
+            "nombre": "displayName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "encode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharBuffer cb",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object ob",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String charsetName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isRegistered",
+            "description": ""
+        },
+        {
+            "nombre": "isSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String charsetName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "name",
+            "description": ""
+        },
+        {
+            "nombre": "newDecoder",
+            "description": ""
+        },
+        {
+            "nombre": "newEncoder",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

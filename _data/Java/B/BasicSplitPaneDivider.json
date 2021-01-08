@@ -1,0 +1,189 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicSplitPaneDivider",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "BasicSplitPaneUI ui",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createLeftOneTouchButton",
+            "description": ""
+        },
+        {
+            "nombre": "createRightOneTouchButton",
+            "description": ""
+        },
+        {
+            "nombre": "dragDividerTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "finishDraggingTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBasicSplitPaneUI",
+            "description": ""
+        },
+        {
+            "nombre": "getBorder",
+            "description": ""
+        },
+        {
+            "nombre": "getDividerSize",
+            "description": ""
+        },
+        {
+            "nombre": "getInsets",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumSize",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": ""
+        },
+        {
+            "nombre": "isMouseOver",
+            "description": ""
+        },
+        {
+            "nombre": "oneTouchExpandableChanged",
+            "description": ""
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepareForDragging",
+            "description": ""
+        },
+        {
+            "nombre": "propertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBasicSplitPaneUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BasicSplitPaneUI newUI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Border border",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDividerSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMouseOver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean mouseOver",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "dividerSize",
+            "description": ""
+        },
+        {
+            "nombre": "dragger",
+            "description": ""
+        },
+        {
+            "nombre": "hiddenDivider",
+            "description": ""
+        },
+        {
+            "nombre": "leftButton",
+            "description": ""
+        },
+        {
+            "nombre": "mouseHandler",
+            "description": ""
+        },
+        {
+            "nombre": "ONE_TOUCH_OFFSET",
+            "description": ""
+        },
+        {
+            "nombre": "ONE_TOUCH_SIZE",
+            "description": ""
+        },
+        {
+            "nombre": "orientation",
+            "description": ""
+        },
+        {
+            "nombre": "rightButton",
+            "description": ""
+        },
+        {
+            "nombre": "splitPane",
+            "description": ""
+        },
+        {
+            "nombre": "splitPaneUI",
+            "description": ""
+        }
+    ]
+}

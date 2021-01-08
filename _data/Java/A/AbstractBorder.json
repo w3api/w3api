@@ -1,0 +1,119 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractBorder",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBaseline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaselineResizeBehavior",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBorderInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets insets",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInteriorRectangle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Border b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBorderOpaque",
+            "description": ""
+        },
+        {
+            "nombre": "paintBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

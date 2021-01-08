@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ResponseCache",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<String>> rqstHeaders",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "String rqstMethod",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefault",
+            "description": ""
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "URLConnection conn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefault",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ResponseCache responseCache",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

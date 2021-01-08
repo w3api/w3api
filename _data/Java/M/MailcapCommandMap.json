@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MailcapCommandMap",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String fileName",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream is",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addMailcap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mail_cap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDataContentHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllCommands",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCommand",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String cmdName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMimeTypes",
+            "description": ""
+        },
+        {
+            "nombre": "getNativeCommands",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredCommands",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

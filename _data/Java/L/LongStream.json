@@ -1,0 +1,351 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "allMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "anyMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asDoubleStream",
+            "description": ""
+        },
+        {
+            "nombre": "average",
+            "description": ""
+        },
+        {
+            "nombre": "boxed",
+            "description": ""
+        },
+        {
+            "nombre": "builder",
+            "description": ""
+        },
+        {
+            "nombre": "collect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "R> combiner",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiConsumer<R",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<R> supplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjLongConsumer<R> accumulator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "concat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongStream b",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongStream a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "count",
+            "description": ""
+        },
+        {
+            "nombre": "distinct",
+            "description": ""
+        },
+        {
+            "nombre": "dropWhile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "empty",
+            "description": ""
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findAny",
+            "description": ""
+        },
+        {
+            "nombre": "findFirst",
+            "description": ""
+        },
+        {
+            "nombre": "flatMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongFunction<? extends LongStream> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forEach",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongConsumer action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forEachOrdered",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongConsumer action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "generate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongSupplier s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "iterate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long seed",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongPredicate hasNext",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongUnaryOperator f",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongUnaryOperator next",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "limit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long maxSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "map",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongUnaryOperator mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongToDoubleFunction mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongToIntFunction mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToObj",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongFunction<? extends U> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "max",
+            "description": ""
+        },
+        {
+            "nombre": "min",
+            "description": ""
+        },
+        {
+            "nombre": "noneMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long t",
+                    "description": ""
+                },
+                {
+                    "nombre": "long... values",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "peek",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongConsumer action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "range",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long endExclusive",
+                    "description": ""
+                },
+                {
+                    "nombre": "long startInclusive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rangeClosed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long endInclusive",
+                    "description": ""
+                },
+                {
+                    "nombre": "long startInclusive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reduce",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long identity",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongBinaryOperator op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "skip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sorted",
+            "description": ""
+        },
+        {
+            "nombre": "sum",
+            "description": ""
+        },
+        {
+            "nombre": "summaryStatistics",
+            "description": ""
+        },
+        {
+            "nombre": "takeWhile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toArray",
+            "description": ""
+        }
+    ]
+}

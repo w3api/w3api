@@ -1,0 +1,93 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ActivationDataFlavor",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Class representationClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String humanPresentableName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor dataFlavor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHumanPresentableName",
+            "description": ""
+        },
+        {
+            "nombre": "getMimeType",
+            "description": ""
+        },
+        {
+            "nombre": "getRepresentationClass",
+            "description": ""
+        },
+        {
+            "nombre": "isMimeTypeEqual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "normalizeMimeType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "normalizeMimeTypeParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHumanPresentableName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String humanPresentableName",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

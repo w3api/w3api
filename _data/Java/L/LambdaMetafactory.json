@@ -1,0 +1,73 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "altMetafactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String invokedName",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType invokedType",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup caller",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "metafactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType samMethodType",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup caller",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle implMethod",
+                    "description": ""
+                },
+                {
+                    "nombre": "String invokedName",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType invokedType",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType instantiatedMethodType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "FLAG_BRIDGES",
+            "description": ""
+        },
+        {
+            "nombre": "FLAG_MARKERS",
+            "description": ""
+        },
+        {
+            "nombre": "FLAG_SERIALIZABLE",
+            "description": ""
+        }
+    ]
+}

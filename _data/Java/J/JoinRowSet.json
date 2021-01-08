@@ -1,0 +1,113 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addRowSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowSet[] rowset",
+                    "description": ""
+                },
+                {
+                    "nombre": "RowSet rowset",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] columnName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIdx",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] columnIdx",
+                    "description": ""
+                },
+                {
+                    "nombre": "Joinable rowset",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getJoinType",
+            "description": ""
+        },
+        {
+            "nombre": "getRowSetNames",
+            "description": ""
+        },
+        {
+            "nombre": "getRowSets",
+            "description": ""
+        },
+        {
+            "nombre": "getWhereClause",
+            "description": ""
+        },
+        {
+            "nombre": "setJoinType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int joinType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportsCrossJoin",
+            "description": ""
+        },
+        {
+            "nombre": "supportsFullJoin",
+            "description": ""
+        },
+        {
+            "nombre": "supportsInnerJoin",
+            "description": ""
+        },
+        {
+            "nombre": "supportsLeftOuterJoin",
+            "description": ""
+        },
+        {
+            "nombre": "supportsRightOuterJoin",
+            "description": ""
+        },
+        {
+            "nombre": "toCachedRowSet",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CROSS_JOIN",
+            "description": ""
+        },
+        {
+            "nombre": "FULL_JOIN",
+            "description": ""
+        },
+        {
+            "nombre": "INNER_JOIN",
+            "description": ""
+        },
+        {
+            "nombre": "LEFT_OUTER_JOIN",
+            "description": ""
+        },
+        {
+            "nombre": "RIGHT_OUTER_JOIN",
+            "description": ""
+        }
+    ]
+}

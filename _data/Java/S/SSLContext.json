@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SSLContext",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "SSLContextSpi contextSpi",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createSSLEngine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String peerHost",
+                    "description": ""
+                },
+                {
+                    "nombre": "int peerPort",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClientSessionContext",
+            "description": ""
+        },
+        {
+            "nombre": "getDefault",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultSSLParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProtocol",
+            "description": ""
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getServerSessionContext",
+            "description": ""
+        },
+        {
+            "nombre": "getServerSocketFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getSocketFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getSupportedSSLParameters",
+            "description": ""
+        },
+        {
+            "nombre": "init",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SecureRandom random",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyManager[] km",
+                    "description": ""
+                },
+                {
+                    "nombre": "TrustManager[] tm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefault",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SSLContext context",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

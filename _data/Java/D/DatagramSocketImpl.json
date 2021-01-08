@@ -1,0 +1,215 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DatagramSocketImpl",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetAddress laddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "int lport",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create",
+            "description": ""
+        },
+        {
+            "nombre": "disconnect",
+            "description": ""
+        },
+        {
+            "nombre": "getFileDescriptor",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalPort",
+            "description": ""
+        },
+        {
+            "nombre": "getOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTimeToLive",
+            "description": ""
+        },
+        {
+            "nombre": "getTTL",
+            "description": ""
+        },
+        {
+            "nombre": "join",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetAddress inetaddr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "joinGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress mcastaddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "NetworkInterface netIf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "leave",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetAddress inetaddr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "leaveGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress mcastaddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "NetworkInterface netIf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "peek",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetAddress i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "peekData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DatagramPacket p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "receive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DatagramPacket p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DatagramPacket p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTimeToLive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ttl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTTL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte ttl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportedOptions",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "fd",
+            "description": ""
+        },
+        {
+            "nombre": "localPort",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImageInputStreamSpi",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String vendorName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> inputClass",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "canUseCacheFile",
+            "description": ""
+        },
+        {
+            "nombre": "createInputStreamInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean useCache",
+                    "description": ""
+                },
+                {
+                    "nombre": "File cacheDir",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object input",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInputClass",
+            "description": ""
+        },
+        {
+            "nombre": "needsCacheFile",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "inputClass",
+            "description": ""
+        }
+    ]
+}

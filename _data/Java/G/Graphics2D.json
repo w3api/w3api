@@ -1,0 +1,435 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Graphics2D",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addRenderingHints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "?> hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<?",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "draw",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "draw3DRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean raised",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawGlyphVector",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "GlyphVector g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageObserver obs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform xform",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage img",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImageOp op",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawRenderableImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform xform",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderableImage img",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawRenderedImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RenderedImage img",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform xform",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator iterator",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fill",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fill3DRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean raised",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBackground",
+            "description": ""
+        },
+        {
+            "nombre": "getComposite",
+            "description": ""
+        },
+        {
+            "nombre": "getDeviceConfiguration",
+            "description": ""
+        },
+        {
+            "nombre": "getFontRenderContext",
+            "description": ""
+        },
+        {
+            "nombre": "getPaint",
+            "description": ""
+        },
+        {
+            "nombre": "getRenderingHint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RenderingHints.Key hintKey",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRenderingHints",
+            "description": ""
+        },
+        {
+            "nombre": "getStroke",
+            "description": ""
+        },
+        {
+            "nombre": "getTransform",
+            "description": ""
+        },
+        {
+            "nombre": "hit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle rect",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape s",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean onStroke",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rotate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double theta",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double sy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBackground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color color",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setComposite",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Composite comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPaint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Paint paint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRenderingHint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RenderingHints.Key hintKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object hintValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRenderingHints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "?> hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<?",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStroke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Stroke s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform Tx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shear",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double shy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double shx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform Tx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "translate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ty",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,511 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Font",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int style",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "canDisplay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canDisplayUpTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharacterIterator iter",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream fontStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fontFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "File fontFile",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFonts",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream fontStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "File fontFile",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createGlyphVector",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] glyphCodes",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontRenderContext frc",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharacterIterator ci",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] chars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deriveFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "?> attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "float size",
+                    "description": ""
+                },
+                {
+                    "nombre": "int style",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform trans",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "getAvailableAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "getBaselineFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFamily",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> attributes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFontName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getItalicAngle",
+            "description": ""
+        },
+        {
+            "nombre": "getLineMetrics",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontRenderContext frc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharacterIterator ci",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] chars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaxCharBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FontRenderContext frc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMissingGlyphCode",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getNumGlyphs",
+            "description": ""
+        },
+        {
+            "nombre": "getPSName",
+            "description": ""
+        },
+        {
+            "nombre": "getSize",
+            "description": ""
+        },
+        {
+            "nombre": "getSize2D",
+            "description": ""
+        },
+        {
+            "nombre": "getStringBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontRenderContext frc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharacterIterator ci",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] chars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStyle",
+            "description": ""
+        },
+        {
+            "nombre": "getTransform",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "hasLayoutAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "hasUniformLineMetrics",
+            "description": ""
+        },
+        {
+            "nombre": "isBold",
+            "description": ""
+        },
+        {
+            "nombre": "isItalic",
+            "description": ""
+        },
+        {
+            "nombre": "isPlain",
+            "description": ""
+        },
+        {
+            "nombre": "isTransformed",
+            "description": ""
+        },
+        {
+            "nombre": "layoutGlyphVector",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FontRenderContext frc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "textRequiresLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] chars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "BOLD",
+            "description": ""
+        },
+        {
+            "nombre": "CENTER_BASELINE",
+            "description": ""
+        },
+        {
+            "nombre": "DIALOG",
+            "description": ""
+        },
+        {
+            "nombre": "DIALOG_INPUT",
+            "description": ""
+        },
+        {
+            "nombre": "HANGING_BASELINE",
+            "description": ""
+        },
+        {
+            "nombre": "ITALIC",
+            "description": ""
+        },
+        {
+            "nombre": "LAYOUT_LEFT_TO_RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "LAYOUT_NO_LIMIT_CONTEXT",
+            "description": ""
+        },
+        {
+            "nombre": "LAYOUT_NO_START_CONTEXT",
+            "description": ""
+        },
+        {
+            "nombre": "LAYOUT_RIGHT_TO_LEFT",
+            "description": ""
+        },
+        {
+            "nombre": "MONOSPACED",
+            "description": ""
+        },
+        {
+            "nombre": "name",
+            "description": ""
+        },
+        {
+            "nombre": "PLAIN",
+            "description": ""
+        },
+        {
+            "nombre": "pointSize",
+            "description": ""
+        },
+        {
+            "nombre": "ROMAN_BASELINE",
+            "description": ""
+        },
+        {
+            "nombre": "SANS_SERIF",
+            "description": ""
+        },
+        {
+            "nombre": "SERIF",
+            "description": ""
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "style",
+            "description": ""
+        },
+        {
+            "nombre": "TRUETYPE_FONT",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE1_FONT",
+            "description": ""
+        }
+    ]
+}

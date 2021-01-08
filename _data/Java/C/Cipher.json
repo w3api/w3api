@@ -1,0 +1,277 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Cipher",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "CipherSpi cipherSpi",
+                    "description": ""
+                },
+                {
+                    "nombre": "String transformation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "doFinal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] output",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer input",
+                    "description": ""
+                },
+                {
+                    "nombre": "int outputOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer output",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] input",
+                    "description": ""
+                },
+                {
+                    "nombre": "int inputLen",
+                    "description": ""
+                },
+                {
+                    "nombre": "int inputOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getBlockSize",
+            "description": ""
+        },
+        {
+            "nombre": "getExemptionMechanism",
+            "description": ""
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String transformation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIV",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxAllowedKeyLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String transformation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaxAllowedParameterSpec",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String transformation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOutputSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int inputLen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "init",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int opmode",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameterSpec params",
+                    "description": ""
+                },
+                {
+                    "nombre": "SecureRandom random",
+                    "description": ""
+                },
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameters params",
+                    "description": ""
+                },
+                {
+                    "nombre": "Certificate certificate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unwrap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String wrappedKeyAlgorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int wrappedKeyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] wrappedKey",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "update",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] output",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer input",
+                    "description": ""
+                },
+                {
+                    "nombre": "int outputOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer output",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] input",
+                    "description": ""
+                },
+                {
+                    "nombre": "int inputLen",
+                    "description": ""
+                },
+                {
+                    "nombre": "int inputOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateAAD",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] src",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wrap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DECRYPT_MODE",
+            "description": ""
+        },
+        {
+            "nombre": "ENCRYPT_MODE",
+            "description": ""
+        },
+        {
+            "nombre": "PRIVATE_KEY",
+            "description": ""
+        },
+        {
+            "nombre": "PUBLIC_KEY",
+            "description": ""
+        },
+        {
+            "nombre": "SECRET_KEY",
+            "description": ""
+        },
+        {
+            "nombre": "UNWRAP_MODE",
+            "description": ""
+        },
+        {
+            "nombre": "WRAP_MODE",
+            "description": ""
+        }
+    ]
+}

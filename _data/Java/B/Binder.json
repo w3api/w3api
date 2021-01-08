@@ -1,0 +1,137 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Binder",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getEventHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getJAXBNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XmlNode xmlNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSchema",
+            "description": ""
+        },
+        {
+            "nombre": "getXMLNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object jaxbObject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "marshal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object jaxbObject",
+                    "description": ""
+                },
+                {
+                    "nombre": "XmlNode xmlNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValidationEventHandler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSchema",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Schema schema",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmarshal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> declaredType",
+                    "description": ""
+                },
+                {
+                    "nombre": "XmlNode xmlNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateJAXB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XmlNode xmlNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateXML",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object jaxbObject",
+                    "description": ""
+                },
+                {
+                    "nombre": "XmlNode xmlNode",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

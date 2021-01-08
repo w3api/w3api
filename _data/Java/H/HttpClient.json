@@ -1,0 +1,93 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HttpClient",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "authenticator",
+            "description": ""
+        },
+        {
+            "nombre": "cookieHandler",
+            "description": ""
+        },
+        {
+            "nombre": "executor",
+            "description": ""
+        },
+        {
+            "nombre": "followRedirects",
+            "description": ""
+        },
+        {
+            "nombre": "newBuilder",
+            "description": ""
+        },
+        {
+            "nombre": "newHttpClient",
+            "description": ""
+        },
+        {
+            "nombre": "newWebSocketBuilder",
+            "description": ""
+        },
+        {
+            "nombre": "proxy",
+            "description": ""
+        },
+        {
+            "nombre": "send",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HttpResponse.BodyHandler<T> responseBodyHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "HttpRequest req",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HttpResponse.BodyHandler<T> responseBodyHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "HttpRequest req",
+                    "description": ""
+                },
+                {
+                    "nombre": "T> multiSubscriber",
+                    "description": ""
+                },
+                {
+                    "nombre": "HttpResponse.MultiSubscriber<U",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sslContext",
+            "description": ""
+        },
+        {
+            "nombre": "sslParameters",
+            "description": ""
+        },
+        {
+            "nombre": "version",
+            "description": ""
+        }
+    ]
+}

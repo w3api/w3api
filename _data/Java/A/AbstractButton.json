@@ -1,0 +1,795 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractButton",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "actionPropertyChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Action action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addActionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActionListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addImpl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object constraints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addItemListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ItemListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkHorizontalKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int key",
+                    "description": ""
+                },
+                {
+                    "nombre": "String exception",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkVerticalKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int key",
+                    "description": ""
+                },
+                {
+                    "nombre": "String exception",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "configurePropertiesFromAction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createActionListener",
+            "description": ""
+        },
+        {
+            "nombre": "createActionPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createItemListener",
+            "description": ""
+        },
+        {
+            "nombre": "doClick",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pressTime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireActionPerformed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActionEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireItemStateChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ItemEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireStateChanged",
+            "description": ""
+        },
+        {
+            "nombre": "getAction",
+            "description": ""
+        },
+        {
+            "nombre": "getActionCommand",
+            "description": ""
+        },
+        {
+            "nombre": "getActionListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getChangeListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getDisabledIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getDisabledSelectedIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getDisplayedMnemonicIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getHideActionText",
+            "description": ""
+        },
+        {
+            "nombre": "getHorizontalAlignment",
+            "description": ""
+        },
+        {
+            "nombre": "getHorizontalTextPosition",
+            "description": ""
+        },
+        {
+            "nombre": "getIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getIconTextGap",
+            "description": ""
+        },
+        {
+            "nombre": "getItemListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getLabel",
+            "description": ""
+        },
+        {
+            "nombre": "getMargin",
+            "description": ""
+        },
+        {
+            "nombre": "getMnemonic",
+            "description": ""
+        },
+        {
+            "nombre": "getModel",
+            "description": ""
+        },
+        {
+            "nombre": "getMultiClickThreshhold",
+            "description": ""
+        },
+        {
+            "nombre": "getPressedIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getRolloverIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getRolloverSelectedIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedObjects",
+            "description": ""
+        },
+        {
+            "nombre": "getText",
+            "description": ""
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getVerticalAlignment",
+            "description": ""
+        },
+        {
+            "nombre": "getVerticalTextPosition",
+            "description": ""
+        },
+        {
+            "nombre": "imageUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "int infoflags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "init",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBorderPainted",
+            "description": ""
+        },
+        {
+            "nombre": "isContentAreaFilled",
+            "description": ""
+        },
+        {
+            "nombre": "isFocusPainted",
+            "description": ""
+        },
+        {
+            "nombre": "isRolloverEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isSelected",
+            "description": ""
+        },
+        {
+            "nombre": "paintBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "removeActionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActionListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeItemListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ItemListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeNotify",
+            "description": ""
+        },
+        {
+            "nombre": "setAction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setActionCommand",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String actionCommand",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBorderPainted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContentAreaFilled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDisabledIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon disabledIcon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDisabledSelectedIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon disabledSelectedIcon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDisplayedMnemonicIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFocusPainted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHideActionText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean hideActionText",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHorizontalAlignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int alignment",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHorizontalTextPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int textPosition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon defaultIcon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIconTextGap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int iconTextGap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLabel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String label",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LayoutManager mgr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMargin",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Insets m",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMnemonic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char mnemonic",
+                    "description": ""
+                },
+                {
+                    "nombre": "int mnemonic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ButtonModel newModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMultiClickThreshhold",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long threshhold",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPressedIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon pressedIcon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRolloverEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRolloverIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon rolloverIcon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRolloverSelectedIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon rolloverSelectedIcon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon selectedIcon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ButtonUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVerticalAlignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int alignment",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVerticalTextPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int textPosition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "actionListener",
+            "description": ""
+        },
+        {
+            "nombre": "BORDER_PAINTED_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "changeEvent",
+            "description": ""
+        },
+        {
+            "nombre": "changeListener",
+            "description": ""
+        },
+        {
+            "nombre": "CONTENT_AREA_FILLED_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "DISABLED_ICON_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "DISABLED_SELECTED_ICON_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "FOCUS_PAINTED_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "HORIZONTAL_ALIGNMENT_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "HORIZONTAL_TEXT_POSITION_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "ICON_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "itemListener",
+            "description": ""
+        },
+        {
+            "nombre": "MARGIN_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "MNEMONIC_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "model",
+            "description": ""
+        },
+        {
+            "nombre": "MODEL_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "PRESSED_ICON_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "ROLLOVER_ENABLED_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "ROLLOVER_ICON_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "ROLLOVER_SELECTED_ICON_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "SELECTED_ICON_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "TEXT_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "VERTICAL_ALIGNMENT_CHANGED_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "VERTICAL_TEXT_POSITION_CHANGED_PROPERTY",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "NamingEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "EventContext source",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object changeInfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "Binding oldBd",
+                    "description": ""
+                },
+                {
+                    "nombre": "Binding newBd",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "dispatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NamingListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChangeInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getEventContext",
+            "description": ""
+        },
+        {
+            "nombre": "getNewBinding",
+            "description": ""
+        },
+        {
+            "nombre": "getOldBinding",
+            "description": ""
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "changeInfo",
+            "description": ""
+        },
+        {
+            "nombre": "newBinding",
+            "description": ""
+        },
+        {
+            "nombre": "OBJECT_ADDED",
+            "description": ""
+        },
+        {
+            "nombre": "OBJECT_CHANGED",
+            "description": ""
+        },
+        {
+            "nombre": "OBJECT_REMOVED",
+            "description": ""
+        },
+        {
+            "nombre": "OBJECT_RENAMED",
+            "description": ""
+        },
+        {
+            "nombre": "oldBinding",
+            "description": ""
+        },
+        {
+            "nombre": "type",
+            "description": ""
+        }
+    ]
+}

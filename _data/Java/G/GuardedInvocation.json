@@ -1,0 +1,165 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GuardedInvocation",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SwitchPoint switchPoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<? extends Throwable> exception",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle guard",
+                    "description": ""
+                },
+                {
+                    "nombre": "SwitchPoint[] switchPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle invocation",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addSwitchPoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SwitchPoint newSwitchPoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType newType",
+                    "description": ""
+                },
+                {
+                    "nombre": "LinkerServices linkerServices",
+                    "description": ""
+                },
+                {
+                    "nombre": "CallSiteDescriptor desc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asTypeSafeReturn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType newType",
+                    "description": ""
+                },
+                {
+                    "nombre": "LinkerServices linkerServices",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compose",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle switchpointFallback",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle catchFallback",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle fallback",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle guardFallback",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dropArguments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>... valueTypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<Class<?>> valueTypes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filterArguments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle... filters",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getException",
+            "description": ""
+        },
+        {
+            "nombre": "getGuard",
+            "description": ""
+        },
+        {
+            "nombre": "getInvocation",
+            "description": ""
+        },
+        {
+            "nombre": "getSwitchPoints",
+            "description": ""
+        },
+        {
+            "nombre": "hasBeenInvalidated",
+            "description": ""
+        },
+        {
+            "nombre": "replaceMethods",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle newGuard",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle newInvocation",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

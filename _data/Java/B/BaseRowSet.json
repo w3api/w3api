@@ -1,0 +1,903 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BaseRowSet",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addRowSetListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowSetListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clearParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getCommand",
+            "description": ""
+        },
+        {
+            "nombre": "getConcurrency",
+            "description": ""
+        },
+        {
+            "nombre": "getDataSourceName",
+            "description": ""
+        },
+        {
+            "nombre": "getEscapeProcessing",
+            "description": ""
+        },
+        {
+            "nombre": "getFetchDirection",
+            "description": ""
+        },
+        {
+            "nombre": "getFetchSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxFieldSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxRows",
+            "description": ""
+        },
+        {
+            "nombre": "getParams",
+            "description": ""
+        },
+        {
+            "nombre": "getPassword",
+            "description": ""
+        },
+        {
+            "nombre": "getQueryTimeout",
+            "description": ""
+        },
+        {
+            "nombre": "getShowDeleted",
+            "description": ""
+        },
+        {
+            "nombre": "getTransactionIsolation",
+            "description": ""
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeMap",
+            "description": ""
+        },
+        {
+            "nombre": "getUrl",
+            "description": ""
+        },
+        {
+            "nombre": "getUsername",
+            "description": ""
+        },
+        {
+            "nombre": "initParams",
+            "description": ""
+        },
+        {
+            "nombre": "isReadOnly",
+            "description": ""
+        },
+        {
+            "nombre": "notifyCursorMoved",
+            "description": ""
+        },
+        {
+            "nombre": "notifyRowChanged",
+            "description": ""
+        },
+        {
+            "nombre": "notifyRowSetChanged",
+            "description": ""
+        },
+        {
+            "nombre": "removeRowSetListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowSetListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Array array",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAsciiStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBigDecimal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBinaryStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBlob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Blob x",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inputStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBoolean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setByte",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCharacterStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setClob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Clob x",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCommand",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cmd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setConcurrency",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int concurrency",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDataSourceName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Calendar cal",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEscapeProcessing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean enable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFetchDirection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFetchSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rows",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "long x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaxFieldSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int max",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaxRows",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int max",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNCharacterStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNClob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NClob value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNull",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String typeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int sqlType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scale",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int targetSqlType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPassword",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setQueryTimeout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int seconds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReadOnly",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRef",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Ref ref",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowId",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowId x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "short x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShowDeleted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSQLXML",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "SQLXML xmlObject",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Calendar cal",
+                    "description": ""
+                },
+                {
+                    "nombre": "Time x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTimestamp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Timestamp x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Calendar cal",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTransactionIsolation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTypeMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?>> map",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUnicodeStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUrl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String url",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setURL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parameterIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUsername",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ASCII_STREAM_PARAM",
+            "description": ""
+        },
+        {
+            "nombre": "asciiStream",
+            "description": ""
+        },
+        {
+            "nombre": "BINARY_STREAM_PARAM",
+            "description": ""
+        },
+        {
+            "nombre": "binaryStream",
+            "description": ""
+        },
+        {
+            "nombre": "charStream",
+            "description": ""
+        },
+        {
+            "nombre": "UNICODE_STREAM_PARAM",
+            "description": ""
+        },
+        {
+            "nombre": "unicodeStream",
+            "description": ""
+        }
+    ]
+}

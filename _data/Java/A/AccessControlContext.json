@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AccessControlContext",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "DomainCombiner combiner",
+                    "description": ""
+                },
+                {
+                    "nombre": "ProtectionDomain[] context",
+                    "description": ""
+                },
+                {
+                    "nombre": "AccessControlContext acc",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "checkPermission",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Permission perm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDomainCombiner",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        }
+    ]
+}

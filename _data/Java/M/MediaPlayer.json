@@ -1,0 +1,519 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MediaPlayer",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Media media",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "audioSpectrumIntervalProperty",
+            "description": ""
+        },
+        {
+            "nombre": "audioSpectrumListenerProperty",
+            "description": ""
+        },
+        {
+            "nombre": "audioSpectrumNumBandsProperty",
+            "description": ""
+        },
+        {
+            "nombre": "audioSpectrumThresholdProperty",
+            "description": ""
+        },
+        {
+            "nombre": "autoPlayProperty",
+            "description": ""
+        },
+        {
+            "nombre": "balanceProperty",
+            "description": ""
+        },
+        {
+            "nombre": "bufferProgressTimeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "currentCountProperty",
+            "description": ""
+        },
+        {
+            "nombre": "currentRateProperty",
+            "description": ""
+        },
+        {
+            "nombre": "currentTimeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "cycleCountProperty",
+            "description": ""
+        },
+        {
+            "nombre": "cycleDurationProperty",
+            "description": ""
+        },
+        {
+            "nombre": "dispose",
+            "description": ""
+        },
+        {
+            "nombre": "errorProperty",
+            "description": ""
+        },
+        {
+            "nombre": "getAudioEqualizer",
+            "description": ""
+        },
+        {
+            "nombre": "getAudioSpectrumInterval",
+            "description": ""
+        },
+        {
+            "nombre": "getAudioSpectrumListener",
+            "description": ""
+        },
+        {
+            "nombre": "getAudioSpectrumNumBands",
+            "description": ""
+        },
+        {
+            "nombre": "getAudioSpectrumThreshold",
+            "description": ""
+        },
+        {
+            "nombre": "getBalance",
+            "description": ""
+        },
+        {
+            "nombre": "getBufferProgressTime",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentCount",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentRate",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentTime",
+            "description": ""
+        },
+        {
+            "nombre": "getCycleCount",
+            "description": ""
+        },
+        {
+            "nombre": "getCycleDuration",
+            "description": ""
+        },
+        {
+            "nombre": "getError",
+            "description": ""
+        },
+        {
+            "nombre": "getMedia",
+            "description": ""
+        },
+        {
+            "nombre": "getOnEndOfMedia",
+            "description": ""
+        },
+        {
+            "nombre": "getOnError",
+            "description": ""
+        },
+        {
+            "nombre": "getOnHalted",
+            "description": ""
+        },
+        {
+            "nombre": "getOnMarker",
+            "description": ""
+        },
+        {
+            "nombre": "getOnPaused",
+            "description": ""
+        },
+        {
+            "nombre": "getOnPlaying",
+            "description": ""
+        },
+        {
+            "nombre": "getOnReady",
+            "description": ""
+        },
+        {
+            "nombre": "getOnRepeat",
+            "description": ""
+        },
+        {
+            "nombre": "getOnStalled",
+            "description": ""
+        },
+        {
+            "nombre": "getOnStopped",
+            "description": ""
+        },
+        {
+            "nombre": "getRate",
+            "description": ""
+        },
+        {
+            "nombre": "getStartTime",
+            "description": ""
+        },
+        {
+            "nombre": "getStatus",
+            "description": ""
+        },
+        {
+            "nombre": "getStopTime",
+            "description": ""
+        },
+        {
+            "nombre": "getTotalDuration",
+            "description": ""
+        },
+        {
+            "nombre": "getVolume",
+            "description": ""
+        },
+        {
+            "nombre": "isAutoPlay",
+            "description": ""
+        },
+        {
+            "nombre": "isMute",
+            "description": ""
+        },
+        {
+            "nombre": "muteProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onEndOfMediaProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onErrorProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onHaltedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onMarkerProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onPausedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onPlayingProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onReadyProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onRepeatProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onStalledProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onStoppedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "pause",
+            "description": ""
+        },
+        {
+            "nombre": "play",
+            "description": ""
+        },
+        {
+            "nombre": "rateProperty",
+            "description": ""
+        },
+        {
+            "nombre": "seek",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration seekTime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAudioSpectrumInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAudioSpectrumListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioSpectrumListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAudioSpectrumNumBands",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAudioSpectrumThreshold",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAutoPlay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBalance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCycleCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnEndOfMedia",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnHalted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnMarker",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<MediaMarkerEvent> onMarker",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnPaused",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnPlaying",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnReady",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnRepeat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnStalled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnStopped",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStartTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStopTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVolume",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startTimeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "statusProperty",
+            "description": ""
+        },
+        {
+            "nombre": "stop",
+            "description": ""
+        },
+        {
+            "nombre": "stopTimeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "totalDurationProperty",
+            "description": ""
+        },
+        {
+            "nombre": "volumeProperty",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "INDEFINITE",
+            "description": ""
+        }
+    ]
+}

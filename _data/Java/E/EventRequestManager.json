@@ -1,0 +1,205 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "accessWatchpointRequests",
+            "description": ""
+        },
+        {
+            "nombre": "breakpointRequests",
+            "description": ""
+        },
+        {
+            "nombre": "classPrepareRequests",
+            "description": ""
+        },
+        {
+            "nombre": "classUnloadRequests",
+            "description": ""
+        },
+        {
+            "nombre": "createAccessWatchpointRequest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Field field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createBreakpointRequest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Location location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createClassPrepareRequest",
+            "description": ""
+        },
+        {
+            "nombre": "createClassUnloadRequest",
+            "description": ""
+        },
+        {
+            "nombre": "createExceptionRequest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ReferenceType refType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean notifyCaught",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean notifyUncaught",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createMethodEntryRequest",
+            "description": ""
+        },
+        {
+            "nombre": "createMethodExitRequest",
+            "description": ""
+        },
+        {
+            "nombre": "createModificationWatchpointRequest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Field field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createMonitorContendedEnteredRequest",
+            "description": ""
+        },
+        {
+            "nombre": "createMonitorContendedEnterRequest",
+            "description": ""
+        },
+        {
+            "nombre": "createMonitorWaitedRequest",
+            "description": ""
+        },
+        {
+            "nombre": "createMonitorWaitRequest",
+            "description": ""
+        },
+        {
+            "nombre": "createStepRequest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int depth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "ThreadReference thread",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createThreadDeathRequest",
+            "description": ""
+        },
+        {
+            "nombre": "createThreadStartRequest",
+            "description": ""
+        },
+        {
+            "nombre": "createVMDeathRequest",
+            "description": ""
+        },
+        {
+            "nombre": "deleteAllBreakpoints",
+            "description": ""
+        },
+        {
+            "nombre": "deleteEventRequest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventRequest eventRequest",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deleteEventRequests",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends EventRequest> eventRequests",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exceptionRequests",
+            "description": ""
+        },
+        {
+            "nombre": "methodEntryRequests",
+            "description": ""
+        },
+        {
+            "nombre": "methodExitRequests",
+            "description": ""
+        },
+        {
+            "nombre": "modificationWatchpointRequests",
+            "description": ""
+        },
+        {
+            "nombre": "monitorContendedEnteredRequests",
+            "description": ""
+        },
+        {
+            "nombre": "monitorContendedEnterRequests",
+            "description": ""
+        },
+        {
+            "nombre": "monitorWaitedRequests",
+            "description": ""
+        },
+        {
+            "nombre": "monitorWaitRequests",
+            "description": ""
+        },
+        {
+            "nombre": "stepRequests",
+            "description": ""
+        },
+        {
+            "nombre": "threadDeathRequests",
+            "description": ""
+        },
+        {
+            "nombre": "threadStartRequests",
+            "description": ""
+        },
+        {
+            "nombre": "vmDeathRequests",
+            "description": ""
+        }
+    ]
+}

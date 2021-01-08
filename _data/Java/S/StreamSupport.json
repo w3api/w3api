@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "doubleStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Spliterator.OfDouble spliterator",
+                    "description": ""
+                },
+                {
+                    "nombre": "int characteristics",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<? extends Spliterator.OfDouble> supplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean parallel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<? extends Spliterator.OfInt> supplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "int characteristics",
+                    "description": ""
+                },
+                {
+                    "nombre": "Spliterator.OfInt spliterator",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean parallel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "longStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int characteristics",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<? extends Spliterator.OfLong> supplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "Spliterator.OfLong spliterator",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean parallel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int characteristics",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<? extends Spliterator<T>> supplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "Spliterator<T> spliterator",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean parallel",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

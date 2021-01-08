@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PKIXBuilderParameters",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "KeyStore keystore",
+                    "description": ""
+                },
+                {
+                    "nombre": "CertSelector targetConstraints",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<TrustAnchor> trustAnchors",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getMaxPathLength",
+            "description": ""
+        },
+        {
+            "nombre": "setMaxPathLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maxPathLength",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

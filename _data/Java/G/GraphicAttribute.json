@@ -1,0 +1,93 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GraphicAttribute",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int alignment",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "draw",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics2D graphics",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAdvance",
+            "description": ""
+        },
+        {
+            "nombre": "getAlignment",
+            "description": ""
+        },
+        {
+            "nombre": "getAscent",
+            "description": ""
+        },
+        {
+            "nombre": "getBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getDescent",
+            "description": ""
+        },
+        {
+            "nombre": "getJustificationInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getOutline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform tx",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "BOTTOM_ALIGNMENT",
+            "description": ""
+        },
+        {
+            "nombre": "CENTER_BASELINE",
+            "description": ""
+        },
+        {
+            "nombre": "HANGING_BASELINE",
+            "description": ""
+        },
+        {
+            "nombre": "ROMAN_BASELINE",
+            "description": ""
+        },
+        {
+            "nombre": "TOP_ALIGNMENT",
+            "description": ""
+        }
+    ]
+}

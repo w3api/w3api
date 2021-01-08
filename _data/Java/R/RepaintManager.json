@@ -1,0 +1,207 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RepaintManager",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addDirtyRegion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Window window",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Applet applet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addInvalidComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent invalidComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "currentManager",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDirtyRegion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent aComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDoubleBufferMaximumSize",
+            "description": ""
+        },
+        {
+            "nombre": "getOffscreenBuffer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int proposedWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int proposedHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVolatileOffscreenBuffer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int proposedWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int proposedHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isCompletelyDirty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent aComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDoubleBufferingEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "markCompletelyClean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent aComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "markCompletelyDirty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent aComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintDirtyRegions",
+            "description": ""
+        },
+        {
+            "nombre": "removeInvalidComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCurrentManager",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RepaintManager aRepaintManager",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDoubleBufferingEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean aFlag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDoubleBufferMaximumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dimension d",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "validateInvalidComponents",
+            "description": ""
+        }
+    ]
+}

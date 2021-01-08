@@ -1,0 +1,51 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RelationTypeSupport",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "RoleInfo[] roleInfoArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "String relationTypeName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addRoleInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RoleInfo roleInfo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRelationTypeName",
+            "description": ""
+        },
+        {
+            "nombre": "getRoleInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String roleInfoName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRoleInfos",
+            "description": ""
+        }
+    ]
+}

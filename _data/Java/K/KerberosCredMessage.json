@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "KerberosCredMessage",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "KerberosPrincipal sender",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] message",
+                    "description": ""
+                },
+                {
+                    "nombre": "KerberosPrincipal recipient",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "destroy",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEncoded",
+            "description": ""
+        },
+        {
+            "nombre": "getRecipient",
+            "description": ""
+        },
+        {
+            "nombre": "getSender",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

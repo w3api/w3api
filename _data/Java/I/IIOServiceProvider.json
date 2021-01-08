@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "IIOServiceProvider",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String vendorName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getDescription",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVendorName",
+            "description": ""
+        },
+        {
+            "nombre": "getVersion",
+            "description": ""
+        },
+        {
+            "nombre": "onDeregistration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ServiceRegistry registry",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> category",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onRegistration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ServiceRegistry registry",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> category",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "vendorName",
+            "description": ""
+        },
+        {
+            "nombre": "version",
+            "description": ""
+        }
+    ]
+}

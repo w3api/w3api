@@ -1,0 +1,111 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ReentrantReadWriteLock",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean fair",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getOwner",
+            "description": ""
+        },
+        {
+            "nombre": "getQueuedReaderThreads",
+            "description": ""
+        },
+        {
+            "nombre": "getQueuedThreads",
+            "description": ""
+        },
+        {
+            "nombre": "getQueuedWriterThreads",
+            "description": ""
+        },
+        {
+            "nombre": "getQueueLength",
+            "description": ""
+        },
+        {
+            "nombre": "getReadHoldCount",
+            "description": ""
+        },
+        {
+            "nombre": "getReadLockCount",
+            "description": ""
+        },
+        {
+            "nombre": "getWaitingThreads",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Condition condition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWaitQueueLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Condition condition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWriteHoldCount",
+            "description": ""
+        },
+        {
+            "nombre": "hasQueuedThread",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Thread thread",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasQueuedThreads",
+            "description": ""
+        },
+        {
+            "nombre": "hasWaiters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Condition condition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFair",
+            "description": ""
+        },
+        {
+            "nombre": "isWriteLocked",
+            "description": ""
+        },
+        {
+            "nombre": "isWriteLockedByCurrentThread",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "EqualizerBand",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "double gain",
+                    "description": ""
+                },
+                {
+                    "nombre": "double bandwidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "double centerFrequency",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bandwidthProperty",
+            "description": ""
+        },
+        {
+            "nombre": "centerFrequencyProperty",
+            "description": ""
+        },
+        {
+            "nombre": "gainProperty",
+            "description": ""
+        },
+        {
+            "nombre": "getBandwidth",
+            "description": ""
+        },
+        {
+            "nombre": "getCenterFrequency",
+            "description": ""
+        },
+        {
+            "nombre": "getGain",
+            "description": ""
+        },
+        {
+            "nombre": "setBandwidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCenterFrequency",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "MAX_GAIN",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_GAIN",
+            "description": ""
+        }
+    ]
+}

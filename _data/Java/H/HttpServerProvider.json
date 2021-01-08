@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HttpServerProvider",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createHttpServer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetSocketAddress addr",
+                    "description": ""
+                },
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createHttpsServer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetSocketAddress addr",
+                    "description": ""
+                },
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "provider",
+            "description": ""
+        }
+    ]
+}

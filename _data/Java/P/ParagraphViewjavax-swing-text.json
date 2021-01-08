@@ -1,0 +1,309 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ParagraphView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "breakView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateMinorAxisRequirements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "changedUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent changes",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createRow",
+            "description": ""
+        },
+        {
+            "nombre": "findOffsetToCharactersInString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] string",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flipEastAndWestAtEnds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int position",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBreakWeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClosestPositionTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rowIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFlowSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFlowStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLayoutView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLayoutViewCount",
+            "description": ""
+        },
+        {
+            "nombre": "getNextNorthSouthVisualPositionFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPartialSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int startOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabBase",
+            "description": ""
+        },
+        {
+            "nombre": "getTabSet",
+            "description": ""
+        },
+        {
+            "nombre": "nextTabStop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFirstLineIndent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float fi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setJustification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int j",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLineSpacing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float ls",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPropertiesFromAttributes",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "firstLineIndent",
+            "description": ""
+        }
+    ]
+}

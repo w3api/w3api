@@ -1,0 +1,187 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PageAttributes",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int[] printerResolution",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageAttributes.MediaType media",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageAttributes.PrintQualityType printQuality",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageAttributes.OrientationRequestedType orientationRequested",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageAttributes obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageAttributes.OriginType origin",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageAttributes.ColorType color",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColor",
+            "description": ""
+        },
+        {
+            "nombre": "getMedia",
+            "description": ""
+        },
+        {
+            "nombre": "getOrientationRequested",
+            "description": ""
+        },
+        {
+            "nombre": "getOrigin",
+            "description": ""
+        },
+        {
+            "nombre": "getPrinterResolution",
+            "description": ""
+        },
+        {
+            "nombre": "getPrintQuality",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PageAttributes obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PageAttributes.ColorType color",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMedia",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PageAttributes.MediaType media",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMediaToDefault",
+            "description": ""
+        },
+        {
+            "nombre": "setOrientationRequested",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PageAttributes.OrientationRequestedType orientationRequested",
+                    "description": ""
+                },
+                {
+                    "nombre": "int orientationRequested",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOrientationRequestedToDefault",
+            "description": ""
+        },
+        {
+            "nombre": "setOrigin",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PageAttributes.OriginType origin",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrinterResolution",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int printerResolution",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] printerResolution",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrinterResolutionToDefault",
+            "description": ""
+        },
+        {
+            "nombre": "setPrintQuality",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PageAttributes.PrintQualityType printQuality",
+                    "description": ""
+                },
+                {
+                    "nombre": "int printQuality",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrintQualityToDefault",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

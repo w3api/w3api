@@ -1,0 +1,401 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicScrollBarUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "configureScrollBarColors",
+            "description": ""
+        },
+        {
+            "nombre": "createArrowButtonListener",
+            "description": ""
+        },
+        {
+            "nombre": "createDecreaseButton",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createIncreaseButton",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createModelListener",
+            "description": ""
+        },
+        {
+            "nombre": "createPropertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createScrollListener",
+            "description": ""
+        },
+        {
+            "nombre": "createTrackListener",
+            "description": ""
+        },
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximumThumbSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumThumbSize",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSupportsAbsolutePositioning",
+            "description": ""
+        },
+        {
+            "nombre": "getThumbBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getTrackBounds",
+            "description": ""
+        },
+        {
+            "nombre": "installComponents",
+            "description": ""
+        },
+        {
+            "nombre": "installDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "installKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "installListeners",
+            "description": ""
+        },
+        {
+            "nombre": "installUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isThumbRollover",
+            "description": ""
+        },
+        {
+            "nombre": "layoutHScrollbar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JScrollBar sb",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutVScrollbar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JScrollBar sb",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintDecreaseHighlight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintIncreaseHighlight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintThumb",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle thumbBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintTrack",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle trackBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scrollByBlock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scrollByUnit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setThumbBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setThumbRollover",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean active",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uninstallComponents",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallListeners",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "buttonListener",
+            "description": ""
+        },
+        {
+            "nombre": "decrButton",
+            "description": ""
+        },
+        {
+            "nombre": "DECREASE_HIGHLIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "decrGap",
+            "description": ""
+        },
+        {
+            "nombre": "incrButton",
+            "description": ""
+        },
+        {
+            "nombre": "INCREASE_HIGHLIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "incrGap",
+            "description": ""
+        },
+        {
+            "nombre": "isDragging",
+            "description": ""
+        },
+        {
+            "nombre": "maximumThumbSize",
+            "description": ""
+        },
+        {
+            "nombre": "minimumThumbSize",
+            "description": ""
+        },
+        {
+            "nombre": "modelListener",
+            "description": ""
+        },
+        {
+            "nombre": "NO_HIGHLIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "propertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "scrollbar",
+            "description": ""
+        },
+        {
+            "nombre": "scrollBarWidth",
+            "description": ""
+        },
+        {
+            "nombre": "scrollListener",
+            "description": ""
+        },
+        {
+            "nombre": "scrollTimer",
+            "description": ""
+        },
+        {
+            "nombre": "thumbColor",
+            "description": ""
+        },
+        {
+            "nombre": "thumbDarkShadowColor",
+            "description": ""
+        },
+        {
+            "nombre": "thumbHighlightColor",
+            "description": ""
+        },
+        {
+            "nombre": "thumbLightShadowColor",
+            "description": ""
+        },
+        {
+            "nombre": "thumbRect",
+            "description": ""
+        },
+        {
+            "nombre": "trackColor",
+            "description": ""
+        },
+        {
+            "nombre": "trackHighlight",
+            "description": ""
+        },
+        {
+            "nombre": "trackHighlightColor",
+            "description": ""
+        },
+        {
+            "nombre": "trackListener",
+            "description": ""
+        },
+        {
+            "nombre": "trackRect",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "build",
+            "description": ""
+        },
+        {
+            "nombre": "setFlags",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<AclEntryFlag> flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "AclEntryFlag... flags",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPermissions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<AclEntryPermission> perms",
+                    "description": ""
+                },
+                {
+                    "nombre": "AclEntryPermission... perms",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrincipal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UserPrincipal who",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AclEntryType type",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

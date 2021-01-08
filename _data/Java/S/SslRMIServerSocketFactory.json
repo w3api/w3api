@@ -1,0 +1,67 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SslRMIServerSocketFactory",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SSLContext context",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] enabledProtocols",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean needClientAuth",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] enabledCipherSuites",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createServerSocket",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEnabledCipherSuites",
+            "description": ""
+        },
+        {
+            "nombre": "getEnabledProtocols",
+            "description": ""
+        },
+        {
+            "nombre": "getNeedClientAuth",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DefaultStyledDocument",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractDocument.Content c",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleContext styles",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addDocumentListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Style parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DefaultStyledDocument.ElementSpec[] data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDefaultRoot",
+            "description": ""
+        },
+        {
+            "nombre": "getBackground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCharacterElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultRootElement",
+            "description": ""
+        },
+        {
+            "nombre": "getFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getForeground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLogicalStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParagraphElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStyleNames",
+            "description": ""
+        },
+        {
+            "nombre": "insert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DefaultStyledDocument.ElementSpec[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeDocumentListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCharacterAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet s",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean replace",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLogicalStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Style s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParagraphAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet s",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean replace",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "styleChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Style style",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "buffer",
+            "description": ""
+        },
+        {
+            "nombre": "BUFFER_SIZE_DEFAULT",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DESKeySpec",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getKey",
+            "description": ""
+        },
+        {
+            "nombre": "isParityAdjusted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isWeak",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DES_KEY_LEN",
+            "description": ""
+        }
+    ]
+}

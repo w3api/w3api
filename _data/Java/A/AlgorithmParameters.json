@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AlgorithmParameters",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParametersSpi paramSpi",
+                    "description": ""
+                },
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getEncoded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParameterSpec",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> paramSpec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "init",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AlgorithmParameterSpec paramSpec",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] params",
+                    "description": ""
+                },
+                {
+                    "nombre": "String format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DefaultBoundedRangeModel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int min",
+                    "description": ""
+                },
+                {
+                    "nombre": "int max",
+                    "description": ""
+                },
+                {
+                    "nombre": "int extent",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireStateChanged",
+            "description": ""
+        },
+        {
+            "nombre": "getChangeListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getExtent",
+            "description": ""
+        },
+        {
+            "nombre": "getListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> listenerType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximum",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimum",
+            "description": ""
+        },
+        {
+            "nombre": "getValue",
+            "description": ""
+        },
+        {
+            "nombre": "getValueIsAdjusting",
+            "description": ""
+        },
+        {
+            "nombre": "removeChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExtent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinimum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRangeProperties",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newExtent",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newMax",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newMin",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean adjusting",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValueIsAdjusting",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "changeEvent",
+            "description": ""
+        },
+        {
+            "nombre": "listenerList",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractTypeVisitor6",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "visit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitIntersection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntersectionType t",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitUnion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UnionType t",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitUnknown",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

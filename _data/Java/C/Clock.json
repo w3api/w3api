@@ -1,0 +1,139 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Clock",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fixed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant fixedInstant",
+                    "description": ""
+                },
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getZone",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "instant",
+            "description": ""
+        },
+        {
+            "nombre": "millis",
+            "description": ""
+        },
+        {
+            "nombre": "offset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration offsetDuration",
+                    "description": ""
+                },
+                {
+                    "nombre": "Clock baseClock",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "system",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "systemDefaultZone",
+            "description": ""
+        },
+        {
+            "nombre": "systemUTC",
+            "description": ""
+        },
+        {
+            "nombre": "tick",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Clock baseClock",
+                    "description": ""
+                },
+                {
+                    "nombre": "Duration tickDuration",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tickMillis",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tickMinutes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tickSeconds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withZone",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,583 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImageWriter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ImageWriterSpi originatingProvider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "abort",
+            "description": ""
+        },
+        {
+            "nombre": "abortRequested",
+            "description": ""
+        },
+        {
+            "nombre": "addIIOWriteProgressListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOWriteProgressListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addIIOWriteWarningListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOWriteWarningListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canInsertEmpty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canInsertImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canRemoveImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canReplaceImageMetadata",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canReplacePixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canReplaceStreamMetadata",
+            "description": ""
+        },
+        {
+            "nombre": "canWriteEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "canWriteRasters",
+            "description": ""
+        },
+        {
+            "nombre": "canWriteSequence",
+            "description": ""
+        },
+        {
+            "nombre": "clearAbortRequest",
+            "description": ""
+        },
+        {
+            "nombre": "dispose",
+            "description": ""
+        },
+        {
+            "nombre": "endInsertEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "endReplacePixels",
+            "description": ""
+        },
+        {
+            "nombre": "endWriteEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "endWriteSequence",
+            "description": ""
+        },
+        {
+            "nombre": "getAvailableLocales",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultImageMetadata",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageTypeSpecifier imageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriteParam param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultStreamMetadata",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageWriteParam param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultWriteParam",
+            "description": ""
+        },
+        {
+            "nombre": "getLocale",
+            "description": ""
+        },
+        {
+            "nombre": "getNumThumbnailsSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageTypeSpecifier imageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "IIOMetadata streamMetadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "IIOMetadata imageMetadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriteParam param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOriginatingProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getOutput",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredThumbnailSizes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageTypeSpecifier imageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "IIOMetadata streamMetadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "IIOMetadata imageMetadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriteParam param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepareInsertEmpty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "IIOMetadata imageMetadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriteParam param",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageTypeSpecifier imageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends BufferedImage> thumbnails",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepareReplacePixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle region",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepareWriteEmpty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOMetadata imageMetadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriteParam param",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageTypeSpecifier imageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "IIOMetadata streamMetadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends BufferedImage> thumbnails",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepareWriteSequence",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOMetadata streamMetadata",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processImageComplete",
+            "description": ""
+        },
+        {
+            "nombre": "processImageProgress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float percentageDone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processImageStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processThumbnailComplete",
+            "description": ""
+        },
+        {
+            "nombre": "processThumbnailProgress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float percentageDone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processThumbnailStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int thumbnailIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processWarningOccurred",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String keyword",
+                    "description": ""
+                },
+                {
+                    "nombre": "String warning",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processWriteAborted",
+            "description": ""
+        },
+        {
+            "nombre": "removeAllIIOWriteProgressListeners",
+            "description": ""
+        },
+        {
+            "nombre": "removeAllIIOWriteWarningListeners",
+            "description": ""
+        },
+        {
+            "nombre": "removeIIOWriteProgressListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOWriteProgressListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeIIOWriteWarningListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOWriteWarningListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceImageMetadata",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "IIOMetadata imageMetadata",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replacePixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster raster",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderedImage image",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriteParam param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceStreamMetadata",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOMetadata streamMetadata",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "setLocale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOutput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object output",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOMetadata streamMetadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderedImage image",
+                    "description": ""
+                },
+                {
+                    "nombre": "IIOImage image",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriteParam param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeInsert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "IIOImage image",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriteParam param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeToSequence",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOImage image",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriteParam param",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "availableLocales",
+            "description": ""
+        },
+        {
+            "nombre": "locale",
+            "description": ""
+        },
+        {
+            "nombre": "originatingProvider",
+            "description": ""
+        },
+        {
+            "nombre": "output",
+            "description": ""
+        },
+        {
+            "nombre": "progressListeners",
+            "description": ""
+        },
+        {
+            "nombre": "warningListeners",
+            "description": ""
+        },
+        {
+            "nombre": "warningLocales",
+            "description": ""
+        }
+    ]
+}

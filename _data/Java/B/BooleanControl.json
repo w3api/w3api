@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BooleanControl",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String falseStateLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "BooleanControl.Type type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String trueStateLabel",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getStateLabel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getValue",
+            "description": ""
+        },
+        {
+            "nombre": "setValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

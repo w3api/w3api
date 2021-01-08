@@ -1,0 +1,147 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DefaultHighlighter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addHighlight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Highlighter.HighlightPainter p",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "changeHighlight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object tag",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deinstall",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDrawsLayeredHighlights",
+            "description": ""
+        },
+        {
+            "nombre": "getHighlights",
+            "description": ""
+        },
+        {
+            "nombre": "install",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintLayeredHighlights",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape viewBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "View view",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTextComponent editor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAllHighlights",
+            "description": ""
+        },
+        {
+            "nombre": "removeHighlight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDrawsLayeredHighlights",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DefaultPainter",
+            "description": ""
+        }
+    ]
+}

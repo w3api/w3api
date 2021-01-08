@@ -1,0 +1,447 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Logger",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String resourceBundleName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Handler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "config",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<String> msgSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "entering",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object param1",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sourceMethod",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] params",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sourceClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exiting",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object result",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sourceMethod",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sourceClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<String> msgSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "finer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<String> msgSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "finest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<String> msgSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAnonymousLogger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String resourceBundleName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFilter",
+            "description": ""
+        },
+        {
+            "nombre": "getGlobal",
+            "description": ""
+        },
+        {
+            "nombre": "getHandlers",
+            "description": ""
+        },
+        {
+            "nombre": "getLevel",
+            "description": ""
+        },
+        {
+            "nombre": "getLogger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String resourceBundleName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getParent",
+            "description": ""
+        },
+        {
+            "nombre": "getResourceBundle",
+            "description": ""
+        },
+        {
+            "nombre": "getResourceBundleName",
+            "description": ""
+        },
+        {
+            "nombre": "getUseParentHandlers",
+            "description": ""
+        },
+        {
+            "nombre": "info",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<String> msgSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLoggable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Level level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "log",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Level level",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<String> msgSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable thrown",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] params",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "LogRecord record",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object param1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "logp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Level level",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<String> msgSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sourceMethod",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sourceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable thrown",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] params",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object param1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "logrb",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Level level",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sourceMethod",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sourceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable thrown",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] params",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceBundle bundle",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object param1",
+                    "description": ""
+                },
+                {
+                    "nombre": "String bundleName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Handler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Filter newFilter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Level newLevel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Logger parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setResourceBundle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ResourceBundle bundle",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUseParentHandlers",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean useParentHandlers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "severe",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<String> msgSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "throwing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String sourceMethod",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sourceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable thrown",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "warning",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<String> msgSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "global",
+            "description": ""
+        },
+        {
+            "nombre": "GLOBAL_LOGGER_NAME",
+            "description": ""
+        }
+    ]
+}

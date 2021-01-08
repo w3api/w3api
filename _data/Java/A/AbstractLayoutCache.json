@@ -1,0 +1,315 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractLayoutCache",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle placeIn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getExpandedState",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getModel",
+            "description": ""
+        },
+        {
+            "nombre": "getNodeDimensions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int depth",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle placeIn",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPathClosestTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPathForRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle bounds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowCount",
+            "description": ""
+        },
+        {
+            "nombre": "getRowForPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getRowsForPaths",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath[] paths",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "getVisibleChildCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVisiblePathsFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invalidatePathBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invalidateSizes",
+            "description": ""
+        },
+        {
+            "nombre": "isExpanded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFixedRowHeight",
+            "description": ""
+        },
+        {
+            "nombre": "isRootVisible",
+            "description": ""
+        },
+        {
+            "nombre": "setExpandedState",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeModel newModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNodeDimensions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractLayoutCache.NodeDimensions nd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRootVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean rootVisible",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rowHeight",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeSelectionModel newLSM",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "treeNodesChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "treeNodesInserted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "treeNodesRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "treeStructureChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeModelEvent e",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "nodeDimensions",
+            "description": ""
+        },
+        {
+            "nombre": "rootVisible",
+            "description": ""
+        },
+        {
+            "nombre": "rowHeight",
+            "description": ""
+        },
+        {
+            "nombre": "treeModel",
+            "description": ""
+        },
+        {
+            "nombre": "treeSelectionModel",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PSSParameterSpec",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int trailerField",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mdName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int saltLen",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameterSpec mgfSpec",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mgfName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getDigestAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getMGFAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getMGFParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getSaltLength",
+            "description": ""
+        },
+        {
+            "nombre": "getTrailerField",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT",
+            "description": ""
+        }
+    ]
+}

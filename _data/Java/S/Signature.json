@@ -1,0 +1,193 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Signature",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "getAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "initSign",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrivateKey privateKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "SecureRandom random",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "initVerify",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Certificate certificate",
+                    "description": ""
+                },
+                {
+                    "nombre": "PublicKey publicKey",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String param",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameterSpec params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sign",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] outbuf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "update",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "verify",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] signature",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "SIGN",
+            "description": ""
+        },
+        {
+            "nombre": "state",
+            "description": ""
+        },
+        {
+            "nombre": "UNINITIALIZED",
+            "description": ""
+        },
+        {
+            "nombre": "VERIFY",
+            "description": ""
+        }
+    ]
+}

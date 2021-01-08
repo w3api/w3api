@@ -1,0 +1,143 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SchemaFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getErrorHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getFeature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResourceResolver",
+            "description": ""
+        },
+        {
+            "nombre": "isSchemaLanguageSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String schemaLanguage",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDefaultInstance",
+            "description": ""
+        },
+        {
+            "nombre": "newInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaLanguage",
+                    "description": ""
+                },
+                {
+                    "nombre": "String factoryClassName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSchema",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL schema",
+                    "description": ""
+                },
+                {
+                    "nombre": "Source schema",
+                    "description": ""
+                },
+                {
+                    "nombre": "File schema",
+                    "description": ""
+                },
+                {
+                    "nombre": "Source[] schemas",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setErrorHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ErrorHandler errorHandler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFeature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setResourceResolver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LSResourceResolver resourceResolver",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

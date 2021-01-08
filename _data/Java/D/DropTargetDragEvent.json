@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DropTargetDragEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int srcActions",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point cursorLocn",
+                    "description": ""
+                },
+                {
+                    "nombre": "DropTargetContext dtc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dropAction",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "acceptDrag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dragOperation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCurrentDataFlavors",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentDataFlavorsAsList",
+            "description": ""
+        },
+        {
+            "nombre": "getDropAction",
+            "description": ""
+        },
+        {
+            "nombre": "getLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceActions",
+            "description": ""
+        },
+        {
+            "nombre": "getTransferable",
+            "description": ""
+        },
+        {
+            "nombre": "isDataFlavorSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor df",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rejectDrag",
+            "description": ""
+        }
+    ]
+}

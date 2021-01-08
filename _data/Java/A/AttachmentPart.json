@@ -1,0 +1,233 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AttachmentPart",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addMimeHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clearContent",
+            "description": ""
+        },
+        {
+            "nombre": "getAllMimeHeaders",
+            "description": ""
+        },
+        {
+            "nombre": "getBase64Content",
+            "description": ""
+        },
+        {
+            "nombre": "getContent",
+            "description": ""
+        },
+        {
+            "nombre": "getContentId",
+            "description": ""
+        },
+        {
+            "nombre": "getContentLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getContentType",
+            "description": ""
+        },
+        {
+            "nombre": "getDataHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getMatchingMimeHeaders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMimeHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNonMatchingMimeHeaders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRawContent",
+            "description": ""
+        },
+        {
+            "nombre": "getRawContentBytes",
+            "description": ""
+        },
+        {
+            "nombre": "getSize",
+            "description": ""
+        },
+        {
+            "nombre": "removeAllMimeHeaders",
+            "description": ""
+        },
+        {
+            "nombre": "removeMimeHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String header",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBase64Content",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream content",
+                    "description": ""
+                },
+                {
+                    "nombre": "String contentType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String contentType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContentId",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String contentId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContentLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String contentLocation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContentType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String contentType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDataHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataHandler dataHandler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMimeHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRawContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream content",
+                    "description": ""
+                },
+                {
+                    "nombre": "String contentType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRawContentBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] content",
+                    "description": ""
+                },
+                {
+                    "nombre": "String contentType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

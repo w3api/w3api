@@ -1,0 +1,111 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImmutableDescriptor",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String[] fieldNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> fields",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] fieldValues",
+                    "description": ""
+                },
+                {
+                    "nombre": "String... fields",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isValid",
+            "description": ""
+        },
+        {
+            "nombre": "removeField",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String fieldName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setField",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object fieldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String fieldName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFields",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] fieldNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] fieldValues",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "union",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Descriptor... descriptors",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "EMPTY_DESCRIPTOR",
+            "description": ""
+        }
+    ]
+}

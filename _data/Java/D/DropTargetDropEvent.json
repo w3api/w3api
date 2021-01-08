@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DropTargetDropEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int srcActions",
+                    "description": ""
+                },
+                {
+                    "nombre": "DropTargetContext dtc",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isLocal",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dropAction",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point cursorLocn",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "acceptDrop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dropAction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dropComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean success",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCurrentDataFlavors",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentDataFlavorsAsList",
+            "description": ""
+        },
+        {
+            "nombre": "getDropAction",
+            "description": ""
+        },
+        {
+            "nombre": "getLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceActions",
+            "description": ""
+        },
+        {
+            "nombre": "getTransferable",
+            "description": ""
+        },
+        {
+            "nombre": "isDataFlavorSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor df",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLocalTransfer",
+            "description": ""
+        },
+        {
+            "nombre": "rejectDrop",
+            "description": ""
+        }
+    ]
+}

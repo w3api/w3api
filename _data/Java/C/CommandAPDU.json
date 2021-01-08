@@ -1,0 +1,113 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CommandAPDU",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int apduLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ins",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ne",
+                    "description": ""
+                },
+                {
+                    "nombre": "int cla",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer apdu",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] apdu",
+                    "description": ""
+                },
+                {
+                    "nombre": "int apduOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataOffset",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBytes",
+            "description": ""
+        },
+        {
+            "nombre": "getCLA",
+            "description": ""
+        },
+        {
+            "nombre": "getData",
+            "description": ""
+        },
+        {
+            "nombre": "getINS",
+            "description": ""
+        },
+        {
+            "nombre": "getNc",
+            "description": ""
+        },
+        {
+            "nombre": "getNe",
+            "description": ""
+        },
+        {
+            "nombre": "getP1",
+            "description": ""
+        },
+        {
+            "nombre": "getP2",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

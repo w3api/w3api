@@ -1,0 +1,171 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ServiceRegistry",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Iterator<Class<?>> categories",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deregisterAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> category",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deregisterServiceProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> category",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "finalize",
+            "description": ""
+        },
+        {
+            "nombre": "getCategories",
+            "description": ""
+        },
+        {
+            "nombre": "getServiceProviderByClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> providerClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getServiceProviders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ServiceRegistry.Filter filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean useOrdering",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> category",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookupProviders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> providerClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerServiceProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> category",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerServiceProviders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Iterator<?> providers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOrdering",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T secondProvider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> category",
+                    "description": ""
+                },
+                {
+                    "nombre": "T firstProvider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unsetOrdering",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T secondProvider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> category",
+                    "description": ""
+                },
+                {
+                    "nombre": "T firstProvider",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

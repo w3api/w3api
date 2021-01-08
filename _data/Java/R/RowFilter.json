@@ -1,0 +1,119 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RowFilter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "andFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Iterable<? extends RowFilter<? super M",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super I>> filters",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dateFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowFilter.ComparisonType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "int... indices",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "include",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowFilter.Entry<? extends M",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends I> entry",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "notFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowFilter<M",
+                    "description": ""
+                },
+                {
+                    "nombre": "I> filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "numberFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowFilter.ComparisonType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "int... indices",
+                    "description": ""
+                },
+                {
+                    "nombre": "Number number",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "orFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Iterable<? extends RowFilter<? super M",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super I>> filters",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "regexFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String regex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int... indices",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

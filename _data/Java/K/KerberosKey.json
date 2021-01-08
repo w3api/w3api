@@ -1,0 +1,89 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "KerberosKey",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] keyBytes",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] password",
+                    "description": ""
+                },
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int versionNum",
+                    "description": ""
+                },
+                {
+                    "nombre": "KerberosPrincipal principal",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "destroy",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getEncoded",
+            "description": ""
+        },
+        {
+            "nombre": "getFormat",
+            "description": ""
+        },
+        {
+            "nombre": "getKeyType",
+            "description": ""
+        },
+        {
+            "nombre": "getPrincipal",
+            "description": ""
+        },
+        {
+            "nombre": "getVersionNumber",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isDestroyed",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

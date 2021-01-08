@@ -1,0 +1,221 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DragSource",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addDragSourceListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceListener dsl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addDragSourceMotionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceMotionListener dsml",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDefaultDragGestureRecognizer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int actions",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragGestureListener dgl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDragGestureRecognizer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int actions",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragGestureListener dgl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> recognizerAbstractClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDragSourceContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragGestureEvent dgl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Cursor dragCursor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point imageOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragSourceListener dsl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image dragImage",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transferable t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultDragSource",
+            "description": ""
+        },
+        {
+            "nombre": "getDragSourceListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getDragSourceMotionListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getDragThreshold",
+            "description": ""
+        },
+        {
+            "nombre": "getFlavorMap",
+            "description": ""
+        },
+        {
+            "nombre": "getListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> listenerType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDragImageSupported",
+            "description": ""
+        },
+        {
+            "nombre": "removeDragSourceListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceListener dsl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeDragSourceMotionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceMotionListener dsml",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startDrag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragGestureEvent trigger",
+                    "description": ""
+                },
+                {
+                    "nombre": "FlavorMap flavorMap",
+                    "description": ""
+                },
+                {
+                    "nombre": "Cursor dragCursor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point imageOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragSourceListener dsl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point dragOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image dragImage",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transferable transferable",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DefaultCopyDrop",
+            "description": ""
+        },
+        {
+            "nombre": "DefaultCopyNoDrop",
+            "description": ""
+        },
+        {
+            "nombre": "DefaultLinkDrop",
+            "description": ""
+        },
+        {
+            "nombre": "DefaultLinkNoDrop",
+            "description": ""
+        },
+        {
+            "nombre": "DefaultMoveDrop",
+            "description": ""
+        },
+        {
+            "nombre": "DefaultMoveNoDrop",
+            "description": ""
+        }
+    ]
+}

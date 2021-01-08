@@ -1,0 +1,895 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImageReader",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReaderSpi originatingProvider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "abort",
+            "description": ""
+        },
+        {
+            "nombre": "abortRequested",
+            "description": ""
+        },
+        {
+            "nombre": "addIIOReadProgressListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOReadProgressListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addIIOReadUpdateListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOReadUpdateListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addIIOReadWarningListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOReadWarningListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canReadRaster",
+            "description": ""
+        },
+        {
+            "nombre": "checkReadParamBandSettings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReadParam param",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numSrcBands",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numDstBands",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clearAbortRequest",
+            "description": ""
+        },
+        {
+            "nombre": "computeRegions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int srcHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle destRegion",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle srcRegion",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage image",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReadParam param",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcWidth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dispose",
+            "description": ""
+        },
+        {
+            "nombre": "getAspectRatio",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAvailableLocales",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultReadParam",
+            "description": ""
+        },
+        {
+            "nombre": "getDestination",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReadParam param",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterator<ImageTypeSpecifier> imageTypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFormatName",
+            "description": ""
+        },
+        {
+            "nombre": "getHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageMetadata",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<String> nodeNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String formatName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageTypes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInput",
+            "description": ""
+        },
+        {
+            "nombre": "getLocale",
+            "description": ""
+        },
+        {
+            "nombre": "getMinIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getNumImages",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean allowSearch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNumThumbnails",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOriginatingProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getRawImageType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSourceRegion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReadParam param",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcWidth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStreamMetadata",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<String> nodeNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String formatName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getThumbnailHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int thumbnailIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getThumbnailWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int thumbnailIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTileGridXOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTileGridYOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTileHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTileWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasThumbnails",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isIgnoringMetadata",
+            "description": ""
+        },
+        {
+            "nombre": "isImageTiled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRandomAccessEasy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSeekForwardOnly",
+            "description": ""
+        },
+        {
+            "nombre": "processImageComplete",
+            "description": ""
+        },
+        {
+            "nombre": "processImageProgress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float percentageDone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processImageStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processImageUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage theImage",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processPassComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BufferedImage theImage",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processPassStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxPass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minPass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodX",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage theImage",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processReadAborted",
+            "description": ""
+        },
+        {
+            "nombre": "processSequenceComplete",
+            "description": ""
+        },
+        {
+            "nombre": "processSequenceStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processThumbnailComplete",
+            "description": ""
+        },
+        {
+            "nombre": "processThumbnailPassComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BufferedImage theThumbnail",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processThumbnailPassStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxPass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minPass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodX",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage theThumbnail",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processThumbnailProgress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float percentageDone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processThumbnailStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int thumbnailIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processThumbnailUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage theThumbnail",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processWarningOccurred",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String keyword",
+                    "description": ""
+                },
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String warning",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReadParam param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReadParam param",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterator<? extends ImageReadParam> params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readAsRenderedImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReadParam param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readerSupportsThumbnails",
+            "description": ""
+        },
+        {
+            "nombre": "readRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReadParam param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readThumbnail",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int thumbnailIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readTile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tileX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tileY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readTileRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tileX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tileY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAllIIOReadProgressListeners",
+            "description": ""
+        },
+        {
+            "nombre": "removeAllIIOReadUpdateListeners",
+            "description": ""
+        },
+        {
+            "nombre": "removeAllIIOReadWarningListeners",
+            "description": ""
+        },
+        {
+            "nombre": "removeIIOReadProgressListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOReadProgressListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeIIOReadUpdateListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOReadUpdateListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeIIOReadWarningListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOReadWarningListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "setInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean ignoreMetadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean seekForwardOnly",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object input",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "availableLocales",
+            "description": ""
+        },
+        {
+            "nombre": "ignoreMetadata",
+            "description": ""
+        },
+        {
+            "nombre": "input",
+            "description": ""
+        },
+        {
+            "nombre": "locale",
+            "description": ""
+        },
+        {
+            "nombre": "minIndex",
+            "description": ""
+        },
+        {
+            "nombre": "originatingProvider",
+            "description": ""
+        },
+        {
+            "nombre": "progressListeners",
+            "description": ""
+        },
+        {
+            "nombre": "seekForwardOnly",
+            "description": ""
+        },
+        {
+            "nombre": "updateListeners",
+            "description": ""
+        },
+        {
+            "nombre": "warningListeners",
+            "description": ""
+        },
+        {
+            "nombre": "warningLocales",
+            "description": ""
+        }
+    ]
+}

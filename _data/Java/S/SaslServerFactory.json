@@ -1,0 +1,51 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createSaslServer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "String serverName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mechanism",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> props",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "CallbackHandler cbh",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMechanismNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> props",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

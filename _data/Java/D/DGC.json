@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "clean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean strong",
+                    "description": ""
+                },
+                {
+                    "nombre": "VMID vmid",
+                    "description": ""
+                },
+                {
+                    "nombre": "long sequenceNum",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjID[] ids",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dirty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long sequenceNum",
+                    "description": ""
+                },
+                {
+                    "nombre": "Lease lease",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjID[] ids",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

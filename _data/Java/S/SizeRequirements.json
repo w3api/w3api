@@ -1,0 +1,147 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SizeRequirements",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int min",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pref",
+                    "description": ""
+                },
+                {
+                    "nombre": "int max",
+                    "description": ""
+                },
+                {
+                    "nombre": "float a",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "adjustSizes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements[] children",
+                    "description": ""
+                },
+                {
+                    "nombre": "int delta",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateAlignedPositions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements total",
+                    "description": ""
+                },
+                {
+                    "nombre": "SizeRequirements[] children",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int allocated",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean normal",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] spans",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateTiledPositions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements total",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean forward",
+                    "description": ""
+                },
+                {
+                    "nombre": "SizeRequirements[] children",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int allocated",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] spans",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlignedSizeRequirements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements[] children",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTiledSizeRequirements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements[] children",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "alignment",
+            "description": ""
+        },
+        {
+            "nombre": "maximum",
+            "description": ""
+        },
+        {
+            "nombre": "minimum",
+            "description": ""
+        },
+        {
+            "nombre": "preferred",
+            "description": ""
+        }
+    ]
+}

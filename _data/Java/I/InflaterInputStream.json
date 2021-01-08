@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "InflaterInputStream",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Inflater inf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "available",
+            "description": ""
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "fill",
+            "description": ""
+        },
+        {
+            "nombre": "mark",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int readlimit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "markSupported",
+            "description": ""
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "skip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long n",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "buf",
+            "description": ""
+        },
+        {
+            "nombre": "inf",
+            "description": ""
+        },
+        {
+            "nombre": "len",
+            "description": ""
+        }
+    ]
+}

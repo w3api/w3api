@@ -1,0 +1,143 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SocketChannel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SelectorProvider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress local",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress remote",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "finishConnect",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getRemoteAddress",
+            "description": ""
+        },
+        {
+            "nombre": "isConnected",
+            "description": ""
+        },
+        {
+            "nombre": "isConnectionPending",
+            "description": ""
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress remote",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer[] dsts",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdownInput",
+            "description": ""
+        },
+        {
+            "nombre": "shutdownOutput",
+            "description": ""
+        },
+        {
+            "nombre": "socket",
+            "description": ""
+        },
+        {
+            "nombre": "validOps",
+            "description": ""
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer[] srcs",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

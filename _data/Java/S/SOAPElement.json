@@ -1,0 +1,207 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName qname",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addChildElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName qname",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "SOAPElement element",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addNamespaceDeclaration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addTextNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createQName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "getAllAttributesAsQNames",
+            "description": ""
+        },
+        {
+            "nombre": "getAttributeValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName qname",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName qname",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElementName",
+            "description": ""
+        },
+        {
+            "nombre": "getElementQName",
+            "description": ""
+        },
+        {
+            "nombre": "getEncodingStyle",
+            "description": ""
+        },
+        {
+            "nombre": "getNamespacePrefixes",
+            "description": ""
+        },
+        {
+            "nombre": "getNamespaceURI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVisibleNamespacePrefixes",
+            "description": ""
+        },
+        {
+            "nombre": "removeAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName qname",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeContents",
+            "description": ""
+        },
+        {
+            "nombre": "removeNamespaceDeclaration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setElementQName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName newName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEncodingStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String encodingStyle",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

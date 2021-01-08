@@ -1,0 +1,143 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImageFilter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "getFilterInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageConsumer ic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "imageComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int status",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resendTopDownLeftRight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageProducer ip",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColorModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorModel model",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDimensions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int hints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] pixels",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scansize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] pixels",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorModel model",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperties",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Hashtable<?",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> props",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "consumer",
+            "description": ""
+        }
+    ]
+}

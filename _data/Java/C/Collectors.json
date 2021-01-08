@@ -1,0 +1,451 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "averagingDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToDoubleFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "averagingInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToIntFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "averagingLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToLongFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "collectingAndThen",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RR> finisher",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collector<T",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<R",
+                    "description": ""
+                },
+                {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "R> downstream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "counting",
+            "description": ""
+        },
+        {
+            "nombre": "filtering",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collector<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "Predicate<? super T> predicate",
+                    "description": ""
+                },
+                {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "R> downstream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flatMapping",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends Stream<? extends U>> mapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collector<? super U",
+                    "description": ""
+                },
+                {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "R> downstream",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "groupingBy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<M> mapFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends K> classifier",
+                    "description": ""
+                },
+                {
+                    "nombre": "D> downstream",
+                    "description": ""
+                },
+                {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collector<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "groupingByConcurrent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<M> mapFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends K> classifier",
+                    "description": ""
+                },
+                {
+                    "nombre": "D> downstream",
+                    "description": ""
+                },
+                {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collector<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "joining",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence suffix",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence delimiter",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapping",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collector<? super U",
+                    "description": ""
+                },
+                {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> mapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "R> downstream",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "maxBy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super T> comparator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minBy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super T> comparator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "partitioningBy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collector<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "Predicate<? super T> predicate",
+                    "description": ""
+                },
+                {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "D> downstream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reducing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BinaryOperator<T> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "T identity",
+                    "description": ""
+                },
+                {
+                    "nombre": "U identity",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<U> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> mapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "summarizingDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToDoubleFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "summarizingInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToIntFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "summarizingLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToLongFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "summingDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToDoubleFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "summingInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToIntFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "summingLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToLongFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toCollection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<C> collectionFactory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toConcurrentMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<M> mapFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends K> keyMapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> valueMapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<U> mergeFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toList",
+            "description": ""
+        },
+        {
+            "nombre": "toMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<M> mapFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends K> keyMapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> valueMapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<U> mergeFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toSet",
+            "description": ""
+        },
+        {
+            "nombre": "toUnmodifiableList",
+            "description": ""
+        },
+        {
+            "nombre": "toUnmodifiableMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BinaryOperator<U> mergeFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends K> keyMapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> valueMapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toUnmodifiableSet",
+            "description": ""
+        }
+    ]
+}

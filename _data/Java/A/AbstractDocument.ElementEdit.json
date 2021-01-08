@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractDocument.ElementEdit",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element e",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element[] added",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element[] removed",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getChildrenAdded",
+            "description": ""
+        },
+        {
+            "nombre": "getChildrenRemoved",
+            "description": ""
+        },
+        {
+            "nombre": "getElement",
+            "description": ""
+        },
+        {
+            "nombre": "getIndex",
+            "description": ""
+        },
+        {
+            "nombre": "redo",
+            "description": ""
+        },
+        {
+            "nombre": "undo",
+            "description": ""
+        }
+    ]
+}

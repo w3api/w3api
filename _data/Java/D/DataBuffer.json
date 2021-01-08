@@ -1,0 +1,211 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DataBuffer",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numBanks",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getDataType",
+            "description": ""
+        },
+        {
+            "nombre": "getDataTypeSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElemDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElemFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNumBanks",
+            "description": ""
+        },
+        {
+            "nombre": "getOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getOffsets",
+            "description": ""
+        },
+        {
+            "nombre": "getSize",
+            "description": ""
+        },
+        {
+            "nombre": "setElem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                },
+                {
+                    "nombre": "int val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setElemDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                },
+                {
+                    "nombre": "double val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setElemFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "float val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "banks",
+            "description": ""
+        },
+        {
+            "nombre": "dataType",
+            "description": ""
+        },
+        {
+            "nombre": "offset",
+            "description": ""
+        },
+        {
+            "nombre": "offsets",
+            "description": ""
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_BYTE",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_DOUBLE",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_FLOAT",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_INT",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_SHORT",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_UNDEFINED",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_USHORT",
+            "description": ""
+        }
+    ]
+}

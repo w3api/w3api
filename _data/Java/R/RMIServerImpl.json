@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RMIServerImpl",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> env",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clientClosed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RMIConnection client",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "closeClient",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RMIConnection client",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "closeServer",
+            "description": ""
+        },
+        {
+            "nombre": "export",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultClassLoader",
+            "description": ""
+        },
+        {
+            "nombre": "getMBeanServer",
+            "description": ""
+        },
+        {
+            "nombre": "getProtocol",
+            "description": ""
+        },
+        {
+            "nombre": "makeClient",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String connectionId",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject subject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newClient",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object credentials",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultClassLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader cl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMBeanServer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MBeanServer mbs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toStub",
+            "description": ""
+        }
+    ]
+}

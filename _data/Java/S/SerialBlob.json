@@ -1,0 +1,137 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SerialBlob",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Blob blob",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "free",
+            "description": ""
+        },
+        {
+            "nombre": "getBinaryStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "long pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "length",
+            "description": ""
+        },
+        {
+            "nombre": "position",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "Blob pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "long start",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBinaryStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] bytes",
+                    "description": ""
+                },
+                {
+                    "nombre": "long pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "truncate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long length",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

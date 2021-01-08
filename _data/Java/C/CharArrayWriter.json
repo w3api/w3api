@@ -1,0 +1,111 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CharArrayWriter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int initialSize",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "append",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence csq",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "toCharArray",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int c",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Writer out",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "buf",
+            "description": ""
+        },
+        {
+            "nombre": "count",
+            "description": ""
+        }
+    ]
+}

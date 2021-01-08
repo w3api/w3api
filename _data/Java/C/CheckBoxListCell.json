@@ -1,0 +1,85 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CheckBoxListCell",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableValue<Boolean>> getSelectedProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<T",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "converterProperty",
+            "description": ""
+        },
+        {
+            "nombre": "forListView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableValue<Boolean>> getSelectedProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedStateCallback",
+            "description": ""
+        },
+        {
+            "nombre": "selectedStateCallbackProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setConverter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedStateCallback",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableValue<Boolean>> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<T",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

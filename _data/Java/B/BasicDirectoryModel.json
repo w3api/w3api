@@ -1,0 +1,159 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicDirectoryModel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "JFileChooser filechooser",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireContentsChanged",
+            "description": ""
+        },
+        {
+            "nombre": "firePropertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDirectories",
+            "description": ""
+        },
+        {
+            "nombre": "getFiles",
+            "description": ""
+        },
+        {
+            "nombre": "getPropertyChangeListeners",
+            "description": ""
+        },
+        {
+            "nombre": "indexOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intervalAdded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListDataEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intervalRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListDataEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invalidateFileCache",
+            "description": ""
+        },
+        {
+            "nombre": "lt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File a",
+                    "description": ""
+                },
+                {
+                    "nombre": "File b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removePropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "renameFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File oldFile",
+                    "description": ""
+                },
+                {
+                    "nombre": "File newFile",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Vector<? extends File> v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "validateFileCache",
+            "description": ""
+        }
+    ]
+}

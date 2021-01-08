@@ -1,0 +1,977 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getChar",
+            "description": ""
+        },
+        {
+            "nombre": "getCode",
+            "description": ""
+        },
+        {
+            "nombre": "getKeyCode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "isArrowKey",
+            "description": ""
+        },
+        {
+            "nombre": "isDigitKey",
+            "description": ""
+        },
+        {
+            "nombre": "isFunctionKey",
+            "description": ""
+        },
+        {
+            "nombre": "isKeypadKey",
+            "description": ""
+        },
+        {
+            "nombre": "isLetterKey",
+            "description": ""
+        },
+        {
+            "nombre": "isMediaKey",
+            "description": ""
+        },
+        {
+            "nombre": "isModifierKey",
+            "description": ""
+        },
+        {
+            "nombre": "isNavigationKey",
+            "description": ""
+        },
+        {
+            "nombre": "isWhitespaceKey",
+            "description": ""
+        },
+        {
+            "nombre": "valueOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "values",
+            "description": ""
+        }
+    ],
+    "enumerados": [
+        {
+            "nombre": "A",
+            "description": ""
+        },
+        {
+            "nombre": "ACCEPT",
+            "description": ""
+        },
+        {
+            "nombre": "ADD",
+            "description": ""
+        },
+        {
+            "nombre": "AGAIN",
+            "description": ""
+        },
+        {
+            "nombre": "ALL_CANDIDATES",
+            "description": ""
+        },
+        {
+            "nombre": "ALPHANUMERIC",
+            "description": ""
+        },
+        {
+            "nombre": "ALT",
+            "description": ""
+        },
+        {
+            "nombre": "ALT_GRAPH",
+            "description": ""
+        },
+        {
+            "nombre": "AMPERSAND",
+            "description": ""
+        },
+        {
+            "nombre": "ASTERISK",
+            "description": ""
+        },
+        {
+            "nombre": "AT",
+            "description": ""
+        },
+        {
+            "nombre": "B",
+            "description": ""
+        },
+        {
+            "nombre": "BACK_QUOTE",
+            "description": ""
+        },
+        {
+            "nombre": "BACK_SLASH",
+            "description": ""
+        },
+        {
+            "nombre": "BACK_SPACE",
+            "description": ""
+        },
+        {
+            "nombre": "BEGIN",
+            "description": ""
+        },
+        {
+            "nombre": "BRACELEFT",
+            "description": ""
+        },
+        {
+            "nombre": "BRACERIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "C",
+            "description": ""
+        },
+        {
+            "nombre": "CANCEL",
+            "description": ""
+        },
+        {
+            "nombre": "CAPS",
+            "description": ""
+        },
+        {
+            "nombre": "CHANNEL_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "CHANNEL_UP",
+            "description": ""
+        },
+        {
+            "nombre": "CIRCUMFLEX",
+            "description": ""
+        },
+        {
+            "nombre": "CLEAR",
+            "description": ""
+        },
+        {
+            "nombre": "CLOSE_BRACKET",
+            "description": ""
+        },
+        {
+            "nombre": "CODE_INPUT",
+            "description": ""
+        },
+        {
+            "nombre": "COLON",
+            "description": ""
+        },
+        {
+            "nombre": "COLORED_KEY_0",
+            "description": ""
+        },
+        {
+            "nombre": "COLORED_KEY_1",
+            "description": ""
+        },
+        {
+            "nombre": "COLORED_KEY_2",
+            "description": ""
+        },
+        {
+            "nombre": "COLORED_KEY_3",
+            "description": ""
+        },
+        {
+            "nombre": "COMMA",
+            "description": ""
+        },
+        {
+            "nombre": "COMMAND",
+            "description": ""
+        },
+        {
+            "nombre": "COMPOSE",
+            "description": ""
+        },
+        {
+            "nombre": "CONTEXT_MENU",
+            "description": ""
+        },
+        {
+            "nombre": "CONTROL",
+            "description": ""
+        },
+        {
+            "nombre": "CONVERT",
+            "description": ""
+        },
+        {
+            "nombre": "COPY",
+            "description": ""
+        },
+        {
+            "nombre": "CUT",
+            "description": ""
+        },
+        {
+            "nombre": "D",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_ABOVEDOT",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_ABOVERING",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_ACUTE",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_BREVE",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_CARON",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_CEDILLA",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_CIRCUMFLEX",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_DIAERESIS",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_DOUBLEACUTE",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_GRAVE",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_IOTA",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_MACRON",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_OGONEK",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_SEMIVOICED_SOUND",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_TILDE",
+            "description": ""
+        },
+        {
+            "nombre": "DEAD_VOICED_SOUND",
+            "description": ""
+        },
+        {
+            "nombre": "DECIMAL",
+            "description": ""
+        },
+        {
+            "nombre": "DELETE",
+            "description": ""
+        },
+        {
+            "nombre": "DIGIT0",
+            "description": ""
+        },
+        {
+            "nombre": "DIGIT1",
+            "description": ""
+        },
+        {
+            "nombre": "DIGIT2",
+            "description": ""
+        },
+        {
+            "nombre": "DIGIT3",
+            "description": ""
+        },
+        {
+            "nombre": "DIGIT4",
+            "description": ""
+        },
+        {
+            "nombre": "DIGIT5",
+            "description": ""
+        },
+        {
+            "nombre": "DIGIT6",
+            "description": ""
+        },
+        {
+            "nombre": "DIGIT7",
+            "description": ""
+        },
+        {
+            "nombre": "DIGIT8",
+            "description": ""
+        },
+        {
+            "nombre": "DIGIT9",
+            "description": ""
+        },
+        {
+            "nombre": "DIVIDE",
+            "description": ""
+        },
+        {
+            "nombre": "DOLLAR",
+            "description": ""
+        },
+        {
+            "nombre": "DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "E",
+            "description": ""
+        },
+        {
+            "nombre": "EJECT_TOGGLE",
+            "description": ""
+        },
+        {
+            "nombre": "END",
+            "description": ""
+        },
+        {
+            "nombre": "ENTER",
+            "description": ""
+        },
+        {
+            "nombre": "EQUALS",
+            "description": ""
+        },
+        {
+            "nombre": "ESCAPE",
+            "description": ""
+        },
+        {
+            "nombre": "EURO_SIGN",
+            "description": ""
+        },
+        {
+            "nombre": "EXCLAMATION_MARK",
+            "description": ""
+        },
+        {
+            "nombre": "F",
+            "description": ""
+        },
+        {
+            "nombre": "F1",
+            "description": ""
+        },
+        {
+            "nombre": "F10",
+            "description": ""
+        },
+        {
+            "nombre": "F11",
+            "description": ""
+        },
+        {
+            "nombre": "F12",
+            "description": ""
+        },
+        {
+            "nombre": "F13",
+            "description": ""
+        },
+        {
+            "nombre": "F14",
+            "description": ""
+        },
+        {
+            "nombre": "F15",
+            "description": ""
+        },
+        {
+            "nombre": "F16",
+            "description": ""
+        },
+        {
+            "nombre": "F17",
+            "description": ""
+        },
+        {
+            "nombre": "F18",
+            "description": ""
+        },
+        {
+            "nombre": "F19",
+            "description": ""
+        },
+        {
+            "nombre": "F2",
+            "description": ""
+        },
+        {
+            "nombre": "F20",
+            "description": ""
+        },
+        {
+            "nombre": "F21",
+            "description": ""
+        },
+        {
+            "nombre": "F22",
+            "description": ""
+        },
+        {
+            "nombre": "F23",
+            "description": ""
+        },
+        {
+            "nombre": "F24",
+            "description": ""
+        },
+        {
+            "nombre": "F3",
+            "description": ""
+        },
+        {
+            "nombre": "F4",
+            "description": ""
+        },
+        {
+            "nombre": "F5",
+            "description": ""
+        },
+        {
+            "nombre": "F6",
+            "description": ""
+        },
+        {
+            "nombre": "F7",
+            "description": ""
+        },
+        {
+            "nombre": "F8",
+            "description": ""
+        },
+        {
+            "nombre": "F9",
+            "description": ""
+        },
+        {
+            "nombre": "FAST_FWD",
+            "description": ""
+        },
+        {
+            "nombre": "FINAL",
+            "description": ""
+        },
+        {
+            "nombre": "FIND",
+            "description": ""
+        },
+        {
+            "nombre": "FULL_WIDTH",
+            "description": ""
+        },
+        {
+            "nombre": "G",
+            "description": ""
+        },
+        {
+            "nombre": "GAME_A",
+            "description": ""
+        },
+        {
+            "nombre": "GAME_B",
+            "description": ""
+        },
+        {
+            "nombre": "GAME_C",
+            "description": ""
+        },
+        {
+            "nombre": "GAME_D",
+            "description": ""
+        },
+        {
+            "nombre": "GREATER",
+            "description": ""
+        },
+        {
+            "nombre": "H",
+            "description": ""
+        },
+        {
+            "nombre": "HALF_WIDTH",
+            "description": ""
+        },
+        {
+            "nombre": "HELP",
+            "description": ""
+        },
+        {
+            "nombre": "HIRAGANA",
+            "description": ""
+        },
+        {
+            "nombre": "HOME",
+            "description": ""
+        },
+        {
+            "nombre": "I",
+            "description": ""
+        },
+        {
+            "nombre": "INFO",
+            "description": ""
+        },
+        {
+            "nombre": "INPUT_METHOD_ON_OFF",
+            "description": ""
+        },
+        {
+            "nombre": "INSERT",
+            "description": ""
+        },
+        {
+            "nombre": "INVERTED_EXCLAMATION_MARK",
+            "description": ""
+        },
+        {
+            "nombre": "J",
+            "description": ""
+        },
+        {
+            "nombre": "JAPANESE_HIRAGANA",
+            "description": ""
+        },
+        {
+            "nombre": "JAPANESE_KATAKANA",
+            "description": ""
+        },
+        {
+            "nombre": "JAPANESE_ROMAN",
+            "description": ""
+        },
+        {
+            "nombre": "K",
+            "description": ""
+        },
+        {
+            "nombre": "KANA",
+            "description": ""
+        },
+        {
+            "nombre": "KANA_LOCK",
+            "description": ""
+        },
+        {
+            "nombre": "KANJI",
+            "description": ""
+        },
+        {
+            "nombre": "KATAKANA",
+            "description": ""
+        },
+        {
+            "nombre": "KP_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "KP_LEFT",
+            "description": ""
+        },
+        {
+            "nombre": "KP_RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "KP_UP",
+            "description": ""
+        },
+        {
+            "nombre": "L",
+            "description": ""
+        },
+        {
+            "nombre": "LEFT",
+            "description": ""
+        },
+        {
+            "nombre": "LEFT_PARENTHESIS",
+            "description": ""
+        },
+        {
+            "nombre": "LESS",
+            "description": ""
+        },
+        {
+            "nombre": "M",
+            "description": ""
+        },
+        {
+            "nombre": "META",
+            "description": ""
+        },
+        {
+            "nombre": "MINUS",
+            "description": ""
+        },
+        {
+            "nombre": "MODECHANGE",
+            "description": ""
+        },
+        {
+            "nombre": "MULTIPLY",
+            "description": ""
+        },
+        {
+            "nombre": "MUTE",
+            "description": ""
+        },
+        {
+            "nombre": "N",
+            "description": ""
+        },
+        {
+            "nombre": "NONCONVERT",
+            "description": ""
+        },
+        {
+            "nombre": "NUM_LOCK",
+            "description": ""
+        },
+        {
+            "nombre": "NUMBER_SIGN",
+            "description": ""
+        },
+        {
+            "nombre": "NUMPAD0",
+            "description": ""
+        },
+        {
+            "nombre": "NUMPAD1",
+            "description": ""
+        },
+        {
+            "nombre": "NUMPAD2",
+            "description": ""
+        },
+        {
+            "nombre": "NUMPAD3",
+            "description": ""
+        },
+        {
+            "nombre": "NUMPAD4",
+            "description": ""
+        },
+        {
+            "nombre": "NUMPAD5",
+            "description": ""
+        },
+        {
+            "nombre": "NUMPAD6",
+            "description": ""
+        },
+        {
+            "nombre": "NUMPAD7",
+            "description": ""
+        },
+        {
+            "nombre": "NUMPAD8",
+            "description": ""
+        },
+        {
+            "nombre": "NUMPAD9",
+            "description": ""
+        },
+        {
+            "nombre": "O",
+            "description": ""
+        },
+        {
+            "nombre": "OPEN_BRACKET",
+            "description": ""
+        },
+        {
+            "nombre": "P",
+            "description": ""
+        },
+        {
+            "nombre": "PAGE_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "PAGE_UP",
+            "description": ""
+        },
+        {
+            "nombre": "PASTE",
+            "description": ""
+        },
+        {
+            "nombre": "PAUSE",
+            "description": ""
+        },
+        {
+            "nombre": "PERIOD",
+            "description": ""
+        },
+        {
+            "nombre": "PLAY",
+            "description": ""
+        },
+        {
+            "nombre": "PLUS",
+            "description": ""
+        },
+        {
+            "nombre": "POUND",
+            "description": ""
+        },
+        {
+            "nombre": "POWER",
+            "description": ""
+        },
+        {
+            "nombre": "PREVIOUS_CANDIDATE",
+            "description": ""
+        },
+        {
+            "nombre": "PRINTSCREEN",
+            "description": ""
+        },
+        {
+            "nombre": "PROPS",
+            "description": ""
+        },
+        {
+            "nombre": "Q",
+            "description": ""
+        },
+        {
+            "nombre": "QUOTE",
+            "description": ""
+        },
+        {
+            "nombre": "QUOTEDBL",
+            "description": ""
+        },
+        {
+            "nombre": "R",
+            "description": ""
+        },
+        {
+            "nombre": "RECORD",
+            "description": ""
+        },
+        {
+            "nombre": "REWIND",
+            "description": ""
+        },
+        {
+            "nombre": "RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "RIGHT_PARENTHESIS",
+            "description": ""
+        },
+        {
+            "nombre": "ROMAN_CHARACTERS",
+            "description": ""
+        },
+        {
+            "nombre": "S",
+            "description": ""
+        },
+        {
+            "nombre": "SCROLL_LOCK",
+            "description": ""
+        },
+        {
+            "nombre": "SEMICOLON",
+            "description": ""
+        },
+        {
+            "nombre": "SEPARATOR",
+            "description": ""
+        },
+        {
+            "nombre": "SHIFT",
+            "description": ""
+        },
+        {
+            "nombre": "SHORTCUT",
+            "description": ""
+        },
+        {
+            "nombre": "SLASH",
+            "description": ""
+        },
+        {
+            "nombre": "SOFTKEY_0",
+            "description": ""
+        },
+        {
+            "nombre": "SOFTKEY_1",
+            "description": ""
+        },
+        {
+            "nombre": "SOFTKEY_2",
+            "description": ""
+        },
+        {
+            "nombre": "SOFTKEY_3",
+            "description": ""
+        },
+        {
+            "nombre": "SOFTKEY_4",
+            "description": ""
+        },
+        {
+            "nombre": "SOFTKEY_5",
+            "description": ""
+        },
+        {
+            "nombre": "SOFTKEY_6",
+            "description": ""
+        },
+        {
+            "nombre": "SOFTKEY_7",
+            "description": ""
+        },
+        {
+            "nombre": "SOFTKEY_8",
+            "description": ""
+        },
+        {
+            "nombre": "SOFTKEY_9",
+            "description": ""
+        },
+        {
+            "nombre": "SPACE",
+            "description": ""
+        },
+        {
+            "nombre": "STAR",
+            "description": ""
+        },
+        {
+            "nombre": "STOP",
+            "description": ""
+        },
+        {
+            "nombre": "SUBTRACT",
+            "description": ""
+        },
+        {
+            "nombre": "T",
+            "description": ""
+        },
+        {
+            "nombre": "TAB",
+            "description": ""
+        },
+        {
+            "nombre": "TRACK_NEXT",
+            "description": ""
+        },
+        {
+            "nombre": "TRACK_PREV",
+            "description": ""
+        },
+        {
+            "nombre": "U",
+            "description": ""
+        },
+        {
+            "nombre": "UNDEFINED",
+            "description": ""
+        },
+        {
+            "nombre": "UNDERSCORE",
+            "description": ""
+        },
+        {
+            "nombre": "UNDO",
+            "description": ""
+        },
+        {
+            "nombre": "UP",
+            "description": ""
+        },
+        {
+            "nombre": "V",
+            "description": ""
+        },
+        {
+            "nombre": "VOLUME_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "VOLUME_UP",
+            "description": ""
+        },
+        {
+            "nombre": "W",
+            "description": ""
+        },
+        {
+            "nombre": "WINDOWS",
+            "description": ""
+        },
+        {
+            "nombre": "X",
+            "description": ""
+        },
+        {
+            "nombre": "Y",
+            "description": ""
+        },
+        {
+            "nombre": "Z",
+            "description": ""
+        }
+    ]
+}

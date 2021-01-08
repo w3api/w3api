@@ -1,0 +1,67 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ProgressMonitorInputStream",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "getProgressMonitor",
+            "description": ""
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "skip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long n",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

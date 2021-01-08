@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Sequence",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int resolution",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numTracks",
+                    "description": ""
+                },
+                {
+                    "nombre": "float divisionType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createTrack",
+            "description": ""
+        },
+        {
+            "nombre": "deleteTrack",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Track track",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDivisionType",
+            "description": ""
+        },
+        {
+            "nombre": "getMicrosecondLength",
+            "description": ""
+        },
+        {
+            "nombre": "getPatchList",
+            "description": ""
+        },
+        {
+            "nombre": "getResolution",
+            "description": ""
+        },
+        {
+            "nombre": "getTickLength",
+            "description": ""
+        },
+        {
+            "nombre": "getTracks",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "divisionType",
+            "description": ""
+        },
+        {
+            "nombre": "PPQ",
+            "description": ""
+        },
+        {
+            "nombre": "resolution",
+            "description": ""
+        },
+        {
+            "nombre": "SMPTE_24",
+            "description": ""
+        },
+        {
+            "nombre": "SMPTE_25",
+            "description": ""
+        },
+        {
+            "nombre": "SMPTE_30",
+            "description": ""
+        },
+        {
+            "nombre": "SMPTE_30DROP",
+            "description": ""
+        },
+        {
+            "nombre": "tracks",
+            "description": ""
+        }
+    ]
+}

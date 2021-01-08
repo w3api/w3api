@@ -1,0 +1,75 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addClassExclusionFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String classPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addClassFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ReferenceType refType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String classPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addInstanceFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectReference instance",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "depth",
+            "description": ""
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "thread",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "STEP_INTO",
+            "description": ""
+        },
+        {
+            "nombre": "STEP_LINE",
+            "description": ""
+        },
+        {
+            "nombre": "STEP_MIN",
+            "description": ""
+        },
+        {
+            "nombre": "STEP_OUT",
+            "description": ""
+        },
+        {
+            "nombre": "STEP_OVER",
+            "description": ""
+        }
+    ]
+}

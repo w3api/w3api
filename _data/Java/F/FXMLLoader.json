@@ -1,0 +1,417 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FXMLLoader",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Callback<Class<?>",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object> controllerFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL location",
+                    "description": ""
+                },
+                {
+                    "nombre": "BuilderFactory builderFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "LinkedList<FXMLLoader> loaders",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceBundle resources",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBuilderFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getCharset",
+            "description": ""
+        },
+        {
+            "nombre": "getClassLoader",
+            "description": ""
+        },
+        {
+            "nombre": "getController",
+            "description": ""
+        },
+        {
+            "nombre": "getControllerFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultClassLoader",
+            "description": ""
+        },
+        {
+            "nombre": "getLoadListener",
+            "description": ""
+        },
+        {
+            "nombre": "getLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getNamespace",
+            "description": ""
+        },
+        {
+            "nombre": "getResources",
+            "description": ""
+        },
+        {
+            "nombre": "getRoot",
+            "description": ""
+        },
+        {
+            "nombre": "load",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callback<Class<?>",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object> controllerFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL location",
+                    "description": ""
+                },
+                {
+                    "nombre": "BuilderFactory builderFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inputStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceBundle resources",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "String packageName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBuilderFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BuilderFactory builderFactory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCharset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setClassLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setController",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object controller",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setControllerFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callback<Class<?>",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object> controllerFactory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultClassLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader defaultClassLoader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLoadListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LoadListener loadListener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setResources",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ResourceBundle resources",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object root",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ARRAY_COMPONENT_DELIMITER",
+            "description": ""
+        },
+        {
+            "nombre": "BI_DIRECTIONAL_BINDING_PREFIX",
+            "description": ""
+        },
+        {
+            "nombre": "BI_DIRECTIONAL_BINDING_SUFFIX",
+            "description": ""
+        },
+        {
+            "nombre": "BINDING_EXPRESSION_PREFIX",
+            "description": ""
+        },
+        {
+            "nombre": "BINDING_EXPRESSION_SUFFIX",
+            "description": ""
+        },
+        {
+            "nombre": "CHANGE_EVENT_HANDLER_SUFFIX",
+            "description": ""
+        },
+        {
+            "nombre": "CONTROLLER_KEYWORD",
+            "description": ""
+        },
+        {
+            "nombre": "CONTROLLER_METHOD_PREFIX",
+            "description": ""
+        },
+        {
+            "nombre": "CONTROLLER_SUFFIX",
+            "description": ""
+        },
+        {
+            "nombre": "COPY_SOURCE_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "COPY_TAG",
+            "description": ""
+        },
+        {
+            "nombre": "DEFAULT_CHARSET_NAME",
+            "description": ""
+        },
+        {
+            "nombre": "DEFINE_TAG",
+            "description": ""
+        },
+        {
+            "nombre": "ESCAPE_PREFIX",
+            "description": ""
+        },
+        {
+            "nombre": "EVENT_HANDLER_PREFIX",
+            "description": ""
+        },
+        {
+            "nombre": "EVENT_KEY",
+            "description": ""
+        },
+        {
+            "nombre": "EXPRESSION_PREFIX",
+            "description": ""
+        },
+        {
+            "nombre": "FX_CONSTANT_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "FX_CONTROLLER_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "FX_FACTORY_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "FX_ID_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "FX_NAMESPACE_PREFIX",
+            "description": ""
+        },
+        {
+            "nombre": "FX_NAMESPACE_VERSION",
+            "description": ""
+        },
+        {
+            "nombre": "FX_VALUE_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "IMPORT_PROCESSING_INSTRUCTION",
+            "description": ""
+        },
+        {
+            "nombre": "INCLUDE_CHARSET_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "INCLUDE_RESOURCES_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "INCLUDE_SOURCE_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "INCLUDE_TAG",
+            "description": ""
+        },
+        {
+            "nombre": "INITIALIZE_METHOD_NAME",
+            "description": ""
+        },
+        {
+            "nombre": "JAVAFX_VERSION",
+            "description": ""
+        },
+        {
+            "nombre": "LANGUAGE_PROCESSING_INSTRUCTION",
+            "description": ""
+        },
+        {
+            "nombre": "LOCATION_KEY",
+            "description": ""
+        },
+        {
+            "nombre": "NULL_KEYWORD",
+            "description": ""
+        },
+        {
+            "nombre": "REFERENCE_SOURCE_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "REFERENCE_TAG",
+            "description": ""
+        },
+        {
+            "nombre": "RELATIVE_PATH_PREFIX",
+            "description": ""
+        },
+        {
+            "nombre": "RESOURCE_KEY_PREFIX",
+            "description": ""
+        },
+        {
+            "nombre": "RESOURCES_KEY",
+            "description": ""
+        },
+        {
+            "nombre": "ROOT_TAG",
+            "description": ""
+        },
+        {
+            "nombre": "ROOT_TYPE_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "SCRIPT_CHARSET_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "SCRIPT_SOURCE_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "SCRIPT_TAG",
+            "description": ""
+        }
+    ]
+}

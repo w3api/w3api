@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ScheduledService",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "backoffStrategyProperty",
+            "description": ""
+        },
+        {
+            "nombre": "cancel",
+            "description": ""
+        },
+        {
+            "nombre": "cumulativePeriodProperty",
+            "description": ""
+        },
+        {
+            "nombre": "currentFailureCountProperty",
+            "description": ""
+        },
+        {
+            "nombre": "delayProperty",
+            "description": ""
+        },
+        {
+            "nombre": "failed",
+            "description": ""
+        },
+        {
+            "nombre": "getBackoffStrategy",
+            "description": ""
+        },
+        {
+            "nombre": "getCumulativePeriod",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentFailureCount",
+            "description": ""
+        },
+        {
+            "nombre": "getDelay",
+            "description": ""
+        },
+        {
+            "nombre": "getLastValue",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumCumulativePeriod",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumFailureCount",
+            "description": ""
+        },
+        {
+            "nombre": "getPeriod",
+            "description": ""
+        },
+        {
+            "nombre": "getRestartOnFailure",
+            "description": ""
+        },
+        {
+            "nombre": "lastValueProperty",
+            "description": ""
+        },
+        {
+            "nombre": "maximumCumulativePeriodProperty",
+            "description": ""
+        },
+        {
+            "nombre": "maximumFailureCountProperty",
+            "description": ""
+        },
+        {
+            "nombre": "periodProperty",
+            "description": ""
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "restartOnFailureProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setBackoffStrategy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callback<ScheduledService<?>",
+                    "description": ""
+                },
+                {
+                    "nombre": "Duration> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDelay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximumCumulativePeriod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximumFailureCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPeriod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRestartOnFailure",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "succeeded",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "EXPONENTIAL_BACKOFF_STRATEGY",
+            "description": ""
+        },
+        {
+            "nombre": "LINEAR_BACKOFF_STRATEGY",
+            "description": ""
+        },
+        {
+            "nombre": "LOGARITHMIC_BACKOFF_STRATEGY",
+            "description": ""
+        }
+    ]
+}

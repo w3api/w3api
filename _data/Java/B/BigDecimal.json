@@ -1,0 +1,469 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BigDecimal",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "char[] in",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger unscaledVal",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                },
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                },
+                {
+                    "nombre": "long val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "String val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scale",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int val",
+                    "description": ""
+                },
+                {
+                    "nombre": "double val",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "abs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigDecimal augend",
+                    "description": ""
+                },
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "byteValueExact",
+            "description": ""
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigDecimal val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "divide",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RoundingMode roundingMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "int roundingMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scale",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal divisor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "divideAndRemainder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal divisor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "divideToIntegralValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal divisor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doubleValue",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "floatValue",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "intValue",
+            "description": ""
+        },
+        {
+            "nombre": "intValueExact",
+            "description": ""
+        },
+        {
+            "nombre": "longValue",
+            "description": ""
+        },
+        {
+            "nombre": "longValueExact",
+            "description": ""
+        },
+        {
+            "nombre": "max",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigDecimal val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "min",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigDecimal val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "movePointLeft",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "movePointRight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "multiply",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal multiplicand",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "negate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "precision",
+            "description": ""
+        },
+        {
+            "nombre": "remainder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal divisor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "round",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scale",
+            "description": ""
+        },
+        {
+            "nombre": "scaleByPowerOfTen",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setScale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int roundingMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newScale",
+                    "description": ""
+                },
+                {
+                    "nombre": "RoundingMode roundingMode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shortValueExact",
+            "description": ""
+        },
+        {
+            "nombre": "signum",
+            "description": ""
+        },
+        {
+            "nombre": "sqrt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stripTrailingZeros",
+            "description": ""
+        },
+        {
+            "nombre": "subtract",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal subtrahend",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toBigInteger",
+            "description": ""
+        },
+        {
+            "nombre": "toBigIntegerExact",
+            "description": ""
+        },
+        {
+            "nombre": "toEngineeringString",
+            "description": ""
+        },
+        {
+            "nombre": "toPlainString",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "ulp",
+            "description": ""
+        },
+        {
+            "nombre": "unscaledValue",
+            "description": ""
+        },
+        {
+            "nombre": "valueOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long unscaledVal",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scale",
+                    "description": ""
+                },
+                {
+                    "nombre": "long val",
+                    "description": ""
+                },
+                {
+                    "nombre": "double val",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ONE",
+            "description": ""
+        },
+        {
+            "nombre": "ROUND_CEILING",
+            "description": ""
+        },
+        {
+            "nombre": "ROUND_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "ROUND_FLOOR",
+            "description": ""
+        },
+        {
+            "nombre": "ROUND_HALF_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "ROUND_HALF_EVEN",
+            "description": ""
+        },
+        {
+            "nombre": "ROUND_HALF_UP",
+            "description": ""
+        },
+        {
+            "nombre": "ROUND_UNNECESSARY",
+            "description": ""
+        },
+        {
+            "nombre": "ROUND_UP",
+            "description": ""
+        },
+        {
+            "nombre": "TEN",
+            "description": ""
+        },
+        {
+            "nombre": "ZERO",
+            "description": ""
+        }
+    ]
+}

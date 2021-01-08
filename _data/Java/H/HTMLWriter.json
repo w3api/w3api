@@ -1,0 +1,201 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HTMLWriter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Writer w",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTMLDocument doc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "closeOutUnwantedEmbeddedTags",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "comment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "emptyTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBlockTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "matchNameAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "output",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] chars",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synthesizedElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "text",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "textAreaContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": ""
+        },
+        {
+            "nombre": "writeAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeEmbeddedTags",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeLineSeparator",
+            "description": ""
+        },
+        {
+            "nombre": "writeOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Option option",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

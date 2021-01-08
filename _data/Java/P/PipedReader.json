@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PipedReader",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int pipeSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "PipedWriter src",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PipedWriter src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] cbuf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ready",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GlyphVector",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GlyphVector set",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFont",
+            "description": ""
+        },
+        {
+            "nombre": "getFontRenderContext",
+            "description": ""
+        },
+        {
+            "nombre": "getGlyphCharIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int glyphIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphCharIndices",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int numEntries",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginGlyphIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] codeReturn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphCode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int glyphIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphCodes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int numEntries",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginGlyphIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] codeReturn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphJustificationInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int glyphIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphLogicalBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int glyphIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphMetrics",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int glyphIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphOutline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int glyphIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphPixelBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontRenderContext renderFRC",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int glyphIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphPositions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int numEntries",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginGlyphIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] positionReturn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int glyphIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGlyphVisualBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int glyphIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLayoutFlags",
+            "description": ""
+        },
+        {
+            "nombre": "getLogicalBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getNumGlyphs",
+            "description": ""
+        },
+        {
+            "nombre": "getOutline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPixelBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontRenderContext renderFRC",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVisualBounds",
+            "description": ""
+        },
+        {
+            "nombre": "performDefaultLayout",
+            "description": ""
+        },
+        {
+            "nombre": "setGlyphPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D newPos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int glyphIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGlyphTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform newTX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int glyphIndex",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "FLAG_COMPLEX_GLYPHS",
+            "description": ""
+        },
+        {
+            "nombre": "FLAG_HAS_POSITION_ADJUSTMENTS",
+            "description": ""
+        },
+        {
+            "nombre": "FLAG_HAS_TRANSFORMS",
+            "description": ""
+        },
+        {
+            "nombre": "FLAG_MASK",
+            "description": ""
+        },
+        {
+            "nombre": "FLAG_RUN_RTL",
+            "description": ""
+        }
+    ]
+}

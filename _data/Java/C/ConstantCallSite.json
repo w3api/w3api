@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ConstantCallSite",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle createTargetHook",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType targetType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "dynamicInvoker",
+            "description": ""
+        },
+        {
+            "nombre": "getTarget",
+            "description": ""
+        },
+        {
+            "nombre": "setTarget",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle ignore",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

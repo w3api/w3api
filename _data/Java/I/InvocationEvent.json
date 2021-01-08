@@ -1,0 +1,89 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "InvocationEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object notifier",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable runnable",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean catchThrowables",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "dispatch",
+            "description": ""
+        },
+        {
+            "nombre": "getException",
+            "description": ""
+        },
+        {
+            "nombre": "getThrowable",
+            "description": ""
+        },
+        {
+            "nombre": "getWhen",
+            "description": ""
+        },
+        {
+            "nombre": "isDispatched",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "catchExceptions",
+            "description": ""
+        },
+        {
+            "nombre": "INVOCATION_DEFAULT",
+            "description": ""
+        },
+        {
+            "nombre": "INVOCATION_FIRST",
+            "description": ""
+        },
+        {
+            "nombre": "INVOCATION_LAST",
+            "description": ""
+        },
+        {
+            "nombre": "notifier",
+            "description": ""
+        },
+        {
+            "nombre": "runnable",
+            "description": ""
+        }
+    ]
+}

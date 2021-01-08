@@ -1,0 +1,233 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DefaultRowSorter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "convertRowIndexToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convertRowIndexToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComparator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaxSortKeys",
+            "description": ""
+        },
+        {
+            "nombre": "getModel",
+            "description": ""
+        },
+        {
+            "nombre": "getModelWrapper",
+            "description": ""
+        },
+        {
+            "nombre": "getRowFilter",
+            "description": ""
+        },
+        {
+            "nombre": "getSortKeys",
+            "description": ""
+        },
+        {
+            "nombre": "getSortsOnUpdates",
+            "description": ""
+        },
+        {
+            "nombre": "isSortable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rowsDeleted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int firstRow",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endRow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rowsInserted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int firstRow",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endRow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rowsUpdated",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int firstRow",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endRow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setComparator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<?> comparator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaxSortKeys",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int max",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModelWrapper",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "I> modelWrapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "DefaultRowSorter.ModelWrapper<M",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowFilter<? super M",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super I> filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSortable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean sortable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSortKeys",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends RowSorter.SortKey> sortKeys",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSortsOnUpdates",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean sortsOnUpdates",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sort",
+            "description": ""
+        },
+        {
+            "nombre": "toggleSortOrder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "useToString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

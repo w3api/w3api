@@ -1,0 +1,51 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addClassExclusionFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String classPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addClassFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ReferenceType refType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String classPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addInstanceFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectReference instance",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addThreadFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ThreadReference thread",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

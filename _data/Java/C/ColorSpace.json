@@ -1,0 +1,237 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ColorSpace",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int numcomponents",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "fromCIEXYZ",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] colorvalue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromRGB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] rgbvalue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int colorspace",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaxValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int idx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNumComponents",
+            "description": ""
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        },
+        {
+            "nombre": "isCS_sRGB",
+            "description": ""
+        },
+        {
+            "nombre": "toCIEXYZ",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] colorvalue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toRGB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] colorvalue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CS_CIEXYZ",
+            "description": ""
+        },
+        {
+            "nombre": "CS_GRAY",
+            "description": ""
+        },
+        {
+            "nombre": "CS_LINEAR_RGB",
+            "description": ""
+        },
+        {
+            "nombre": "CS_PYCC",
+            "description": ""
+        },
+        {
+            "nombre": "CS_sRGB",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_2CLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_3CLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_4CLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_5CLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_6CLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_7CLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_8CLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_9CLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_ACLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_BCLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_CCLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_CMY",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_CMYK",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_DCLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_ECLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_FCLR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_GRAY",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_HLS",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_HSV",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_Lab",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_Luv",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_RGB",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_XYZ",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_YCbCr",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_Yxy",
+            "description": ""
+        }
+    ]
+}

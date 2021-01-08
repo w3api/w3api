@@ -1,0 +1,505 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SkinBase",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "C control",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "computeBaselineOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double topInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double bottomInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double rightInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double leftInset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeMaxHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double rightInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double width",
+                    "description": ""
+                },
+                {
+                    "nombre": "double topInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double bottomInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double leftInset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeMaxWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double rightInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double height",
+                    "description": ""
+                },
+                {
+                    "nombre": "double topInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double bottomInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double leftInset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeMinHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double rightInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double width",
+                    "description": ""
+                },
+                {
+                    "nombre": "double topInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double bottomInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double leftInset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeMinWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double rightInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double height",
+                    "description": ""
+                },
+                {
+                    "nombre": "double topInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double bottomInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double leftInset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computePrefHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double rightInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double width",
+                    "description": ""
+                },
+                {
+                    "nombre": "double topInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double bottomInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double leftInset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computePrefWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double rightInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double height",
+                    "description": ""
+                },
+                {
+                    "nombre": "double topInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double bottomInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double leftInset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "consumeMouseEvents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "executeAccessibleAction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object... parameters",
+                    "description": ""
+                },
+                {
+                    "nombre": "AccessibleAction action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildren",
+            "description": ""
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "layoutChildren",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double contentY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double contentX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double contentWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "double contentHeight",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutInArea",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "VPos valignment",
+                    "description": ""
+                },
+                {
+                    "nombre": "double areaHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "HPos halignment",
+                    "description": ""
+                },
+                {
+                    "nombre": "double areaY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double areaX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double areaBaselineOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean fillHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "double areaWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean fillWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets margin",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "positionInArea",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "VPos valignment",
+                    "description": ""
+                },
+                {
+                    "nombre": "double areaHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "HPos halignment",
+                    "description": ""
+                },
+                {
+                    "nombre": "double areaY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double areaX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double areaBaselineOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double areaWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets margin",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pseudoClassStateChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean active",
+                    "description": ""
+                },
+                {
+                    "nombre": "PseudoClass pseudoClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "queryAccessibleAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AccessibleAttribute attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... parameters",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableValue<?> property",
+                    "description": ""
+                },
+                {
+                    "nombre": "Consumer<ObservableValue<?>> consumer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "snappedBottomInset",
+            "description": ""
+        },
+        {
+            "nombre": "snappedLeftInset",
+            "description": ""
+        },
+        {
+            "nombre": "snappedRightInset",
+            "description": ""
+        },
+        {
+            "nombre": "snappedTopInset",
+            "description": ""
+        },
+        {
+            "nombre": "snapPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "snapPositionX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "snapPositionY",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "snapSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "snapSizeX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "snapSizeY",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "snapSpace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "snapSpaceX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "snapSpaceY",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregisterChangeListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableValue<?> property",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

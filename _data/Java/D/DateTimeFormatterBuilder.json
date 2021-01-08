@@ -1,0 +1,343 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DateTimeFormatterBuilder",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "append",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DateTimeFormatter formatter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendChronologyId",
+            "description": ""
+        },
+        {
+            "nombre": "appendChronologyText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextStyle textStyle",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendFraction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean decimalPoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendGenericZoneText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextStyle textStyle",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<ZoneId> preferredZones",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendInstant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fractionalDigits",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendLiteral",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char literal",
+                    "description": ""
+                },
+                {
+                    "nombre": "String literal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendLocalized",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FormatStyle dateStyle",
+                    "description": ""
+                },
+                {
+                    "nombre": "FormatStyle timeStyle",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendLocalizedOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextStyle style",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String noOffsetText",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendOffsetId",
+            "description": ""
+        },
+        {
+            "nombre": "appendOptional",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DateTimeFormatter formatter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendPattern",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextStyle textStyle",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<Long",
+                    "description": ""
+                },
+                {
+                    "nombre": "String> textLookup",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "SignStyle signStyle",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendValueReduced",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int baseValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "ChronoLocalDate baseDate",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendZoneId",
+            "description": ""
+        },
+        {
+            "nombre": "appendZoneOrOffsetId",
+            "description": ""
+        },
+        {
+            "nombre": "appendZoneRegionId",
+            "description": ""
+        },
+        {
+            "nombre": "appendZoneText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextStyle textStyle",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<ZoneId> preferredZones",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLocalizedDateTimePattern",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Chronology chrono",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "FormatStyle dateStyle",
+                    "description": ""
+                },
+                {
+                    "nombre": "FormatStyle timeStyle",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "optionalEnd",
+            "description": ""
+        },
+        {
+            "nombre": "optionalStart",
+            "description": ""
+        },
+        {
+            "nombre": "padNext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char padChar",
+                    "description": ""
+                },
+                {
+                    "nombre": "int padWidth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parseCaseInsensitive",
+            "description": ""
+        },
+        {
+            "nombre": "parseCaseSensitive",
+            "description": ""
+        },
+        {
+            "nombre": "parseDefaulting",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long value",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parseLenient",
+            "description": ""
+        },
+        {
+            "nombre": "parseStrict",
+            "description": ""
+        },
+        {
+            "nombre": "toFormatter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

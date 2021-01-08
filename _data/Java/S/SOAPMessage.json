@@ -1,0 +1,161 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SOAPMessage",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addAttachmentPart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttachmentPart attachmentPart",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "countAttachments",
+            "description": ""
+        },
+        {
+            "nombre": "createAttachmentPart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object content",
+                    "description": ""
+                },
+                {
+                    "nombre": "String contentType",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataHandler dataHandler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttachment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SOAPElement element",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttachments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MimeHeaders headers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContentDescription",
+            "description": ""
+        },
+        {
+            "nombre": "getMimeHeaders",
+            "description": ""
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSOAPBody",
+            "description": ""
+        },
+        {
+            "nombre": "getSOAPHeader",
+            "description": ""
+        },
+        {
+            "nombre": "getSOAPPart",
+            "description": ""
+        },
+        {
+            "nombre": "removeAllAttachments",
+            "description": ""
+        },
+        {
+            "nombre": "removeAttachments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MimeHeaders headers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "saveChanges",
+            "description": ""
+        },
+        {
+            "nombre": "saveRequired",
+            "description": ""
+        },
+        {
+            "nombre": "setContentDescription",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CHARACTER_SET_ENCODING",
+            "description": ""
+        },
+        {
+            "nombre": "WRITE_XML_DECLARATION",
+            "description": ""
+        }
+    ]
+}

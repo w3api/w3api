@@ -1,0 +1,337 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DecimalFormat",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "DecimalFormatSymbols symbols",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "applyLocalizedPattern",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "applyPattern",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FieldPosition pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringBuffer result",
+                    "description": ""
+                },
+                {
+                    "nombre": "FieldPosition fieldPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringBuffer toAppendTo",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object number",
+                    "description": ""
+                },
+                {
+                    "nombre": "long number",
+                    "description": ""
+                },
+                {
+                    "nombre": "double number",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "formatToCharacterIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCurrency",
+            "description": ""
+        },
+        {
+            "nombre": "getDecimalFormatSymbols",
+            "description": ""
+        },
+        {
+            "nombre": "getGroupingSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumFractionDigits",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumIntegerDigits",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumFractionDigits",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumIntegerDigits",
+            "description": ""
+        },
+        {
+            "nombre": "getMultiplier",
+            "description": ""
+        },
+        {
+            "nombre": "getNegativePrefix",
+            "description": ""
+        },
+        {
+            "nombre": "getNegativeSuffix",
+            "description": ""
+        },
+        {
+            "nombre": "getPositivePrefix",
+            "description": ""
+        },
+        {
+            "nombre": "getPositiveSuffix",
+            "description": ""
+        },
+        {
+            "nombre": "getRoundingMode",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isDecimalSeparatorAlwaysShown",
+            "description": ""
+        },
+        {
+            "nombre": "isParseBigDecimal",
+            "description": ""
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "ParsePosition pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCurrency",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Currency currency",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDecimalFormatSymbols",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DecimalFormatSymbols newSymbols",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDecimalSeparatorAlwaysShown",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGroupingSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximumFractionDigits",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximumIntegerDigits",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinimumFractionDigits",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinimumIntegerDigits",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMultiplier",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNegativePrefix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNegativeSuffix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParseBigDecimal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPositivePrefix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPositiveSuffix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRoundingMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RoundingMode roundingMode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toLocalizedPattern",
+            "description": ""
+        },
+        {
+            "nombre": "toPattern",
+            "description": ""
+        }
+    ]
+}

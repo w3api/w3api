@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ListView.EditEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int editIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "ListView<T> source",
+                    "description": ""
+                },
+                {
+                    "nombre": "T newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<? extends ListView.EditEvent<T>> eventType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getNewValue",
+            "description": ""
+        },
+        {
+            "nombre": "getSource",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        }
+    ]
+}

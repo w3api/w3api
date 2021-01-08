@@ -1,0 +1,107 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Line.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaxLines",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Line.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMixerInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceLineInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Line.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSourceLines",
+            "description": ""
+        },
+        {
+            "nombre": "getTargetLineInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Line.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTargetLines",
+            "description": ""
+        },
+        {
+            "nombre": "isLineSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Line.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSynchronizationSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean maintainSync",
+                    "description": ""
+                },
+                {
+                    "nombre": "Line[] lines",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean maintainSync",
+                    "description": ""
+                },
+                {
+                    "nombre": "Line[] lines",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unsynchronize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Line[] lines",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StreamTokenizer",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Reader r",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream is",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "commentChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "eolIsSignificant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lineno",
+            "description": ""
+        },
+        {
+            "nombre": "lowerCaseMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean fl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextToken",
+            "description": ""
+        },
+        {
+            "nombre": "ordinaryChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ordinaryChars",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int low",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parseNumbers",
+            "description": ""
+        },
+        {
+            "nombre": "pushBack",
+            "description": ""
+        },
+        {
+            "nombre": "quoteChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resetSyntax",
+            "description": ""
+        },
+        {
+            "nombre": "slashSlashComments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "slashStarComments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "whitespaceChars",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int low",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wordChars",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int low",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hi",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "nval",
+            "description": ""
+        },
+        {
+            "nombre": "sval",
+            "description": ""
+        },
+        {
+            "nombre": "TT_EOF",
+            "description": ""
+        },
+        {
+            "nombre": "TT_EOL",
+            "description": ""
+        },
+        {
+            "nombre": "TT_NUMBER",
+            "description": ""
+        },
+        {
+            "nombre": "TT_WORD",
+            "description": ""
+        },
+        {
+            "nombre": "ttype",
+            "description": ""
+        }
+    ]
+}

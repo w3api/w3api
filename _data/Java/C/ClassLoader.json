@@ -1,0 +1,375 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ClassLoader",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clearAssertionStatus",
+            "description": ""
+        },
+        {
+            "nombre": "defineClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "ProtectionDomain protectionDomain",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer b",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "definePackage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String implVendor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String specTitle",
+                    "description": ""
+                },
+                {
+                    "nombre": "String specVendor",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL sealBase",
+                    "description": ""
+                },
+                {
+                    "nombre": "String implVersion",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String specVersion",
+                    "description": ""
+                },
+                {
+                    "nombre": "String implTitle",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String moduleName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findLibrary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String libname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findLoadedClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String moduleName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findResources",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findSystemClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClassLoadingLock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefinedPackage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefinedPackages",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getPackage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPackages",
+            "description": ""
+        },
+        {
+            "nombre": "getParent",
+            "description": ""
+        },
+        {
+            "nombre": "getPlatformClassLoader",
+            "description": ""
+        },
+        {
+            "nombre": "getResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResourceAsStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResources",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSystemClassLoader",
+            "description": ""
+        },
+        {
+            "nombre": "getSystemResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSystemResourceAsStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSystemResources",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUnnamedModule",
+            "description": ""
+        },
+        {
+            "nombre": "isRegisteredAsParallelCapable",
+            "description": ""
+        },
+        {
+            "nombre": "loadClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean resolve",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerAsParallelCapable",
+            "description": ""
+        },
+        {
+            "nombre": "resolveClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resources",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setClassAssertionStatus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean enabled",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultAssertionStatus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean enabled",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPackageAssertionStatus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean enabled",
+                    "description": ""
+                },
+                {
+                    "nombre": "String packageName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSigners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] signers",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

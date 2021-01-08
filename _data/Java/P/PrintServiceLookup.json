@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PrintServiceLookup",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getDefaultPrintService",
+            "description": ""
+        },
+        {
+            "nombre": "getMultiDocPrintServices",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocFlavor[] flavors",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attributes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPrintServices",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocFlavor flavor",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attributes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookupDefaultPrintService",
+            "description": ""
+        },
+        {
+            "nombre": "lookupMultiDocPrintServices",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocFlavor[] flavors",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attributes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookupPrintServices",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocFlavor flavor",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attributes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrintService service",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerServiceProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrintServiceLookup sp",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

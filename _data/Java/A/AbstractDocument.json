@@ -1,0 +1,455 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractDocument",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractDocument.Content data",
+                    "description": ""
+                },
+                {
+                    "nombre": "AbstractDocument.AttributeContext context",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addDocumentListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addUndoableEditListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UndoableEditListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createBranchElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createLeafElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dump",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrintStream out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireChangedUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireInsertUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireRemoveUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireUndoableEditUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UndoableEditEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAsynchronousLoadPriority",
+            "description": ""
+        },
+        {
+            "nombre": "getAttributeContext",
+            "description": ""
+        },
+        {
+            "nombre": "getBidiRootElement",
+            "description": ""
+        },
+        {
+            "nombre": "getContent",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentWriter",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultRootElement",
+            "description": ""
+        },
+        {
+            "nombre": "getDocumentFilter",
+            "description": ""
+        },
+        {
+            "nombre": "getDocumentListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getDocumentProperties",
+            "description": ""
+        },
+        {
+            "nombre": "getEndPosition",
+            "description": ""
+        },
+        {
+            "nombre": "getLength",
+            "description": ""
+        },
+        {
+            "nombre": "getListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> listenerType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParagraphElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRootElements",
+            "description": ""
+        },
+        {
+            "nombre": "getStartPosition",
+            "description": ""
+        },
+        {
+            "nombre": "getText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Segment txt",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUndoableEditListeners",
+            "description": ""
+        },
+        {
+            "nombre": "insertString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "postRemoveUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readLock",
+            "description": ""
+        },
+        {
+            "nombre": "readUnlock",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeDocumentListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeUndoableEditListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UndoableEditListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "render",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAsynchronousLoadPriority",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDocumentFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentFilter filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDocumentProperties",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dictionary<Object",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object> x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeLock",
+            "description": ""
+        },
+        {
+            "nombre": "writeUnlock",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "BAD_LOCATION",
+            "description": ""
+        },
+        {
+            "nombre": "BidiElementName",
+            "description": ""
+        },
+        {
+            "nombre": "ContentElementName",
+            "description": ""
+        },
+        {
+            "nombre": "ElementNameAttribute",
+            "description": ""
+        },
+        {
+            "nombre": "listenerList",
+            "description": ""
+        },
+        {
+            "nombre": "ParagraphElementName",
+            "description": ""
+        },
+        {
+            "nombre": "SectionElementName",
+            "description": ""
+        }
+    ]
+}

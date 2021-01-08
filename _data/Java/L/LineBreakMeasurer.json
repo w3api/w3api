@@ -1,0 +1,105 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "LineBreakMeasurer",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "FontRenderContext frc",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                },
+                {
+                    "nombre": "BreakIterator breakIter",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "deleteChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int deletePos",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator newParagraph",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPosition",
+            "description": ""
+        },
+        {
+            "nombre": "insertChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int insertPos",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator newParagraph",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float wrappingWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean requireNextWord",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offsetLimit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float wrappingWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean requireNextWord",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offsetLimit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newPosition",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

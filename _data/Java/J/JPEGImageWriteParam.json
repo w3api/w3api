@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JPEGImageWriteParam",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "areTablesSet",
+            "description": ""
+        },
+        {
+            "nombre": "getACHuffmanTables",
+            "description": ""
+        },
+        {
+            "nombre": "getDCHuffmanTables",
+            "description": ""
+        },
+        {
+            "nombre": "getOptimizeHuffmanTables",
+            "description": ""
+        },
+        {
+            "nombre": "getQTables",
+            "description": ""
+        },
+        {
+            "nombre": "isCompressionLossless",
+            "description": ""
+        },
+        {
+            "nombre": "setEncodeTables",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JPEGQTable[] qTables",
+                    "description": ""
+                },
+                {
+                    "nombre": "JPEGHuffmanTable[] ACHuffmanTables",
+                    "description": ""
+                },
+                {
+                    "nombre": "JPEGHuffmanTable[] DCHuffmanTables",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOptimizeHuffmanTables",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean optimize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unsetCompression",
+            "description": ""
+        },
+        {
+            "nombre": "unsetEncodeTables",
+            "description": ""
+        }
+    ]
+}

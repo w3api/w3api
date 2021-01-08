@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "NotifyingMeter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ResourceRequest parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceApprover approver",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ResourceRequest parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceApprover approver",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getApprover",
+            "description": ""
+        },
+        {
+            "nombre": "getGranularity",
+            "description": ""
+        },
+        {
+            "nombre": "setGranularity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long granularity",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "validate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long previous",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amount",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceId id",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

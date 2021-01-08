@@ -1,0 +1,251 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "acceptChanges",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Connection con",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "columnUpdated",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int idx",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "commit",
+            "description": ""
+        },
+        {
+            "nombre": "createCopy",
+            "description": ""
+        },
+        {
+            "nombre": "createCopyNoConstraints",
+            "description": ""
+        },
+        {
+            "nombre": "createCopySchema",
+            "description": ""
+        },
+        {
+            "nombre": "createShared",
+            "description": ""
+        },
+        {
+            "nombre": "execute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Connection conn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getKeyColumns",
+            "description": ""
+        },
+        {
+            "nombre": "getOriginal",
+            "description": ""
+        },
+        {
+            "nombre": "getOriginalRow",
+            "description": ""
+        },
+        {
+            "nombre": "getPageSize",
+            "description": ""
+        },
+        {
+            "nombre": "getRowSetWarnings",
+            "description": ""
+        },
+        {
+            "nombre": "getShowDeleted",
+            "description": ""
+        },
+        {
+            "nombre": "getSyncProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getTableName",
+            "description": ""
+        },
+        {
+            "nombre": "nextPage",
+            "description": ""
+        },
+        {
+            "nombre": "populate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ResultSet rs",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResultSet data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startRow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "previousPage",
+            "description": ""
+        },
+        {
+            "nombre": "release",
+            "description": ""
+        },
+        {
+            "nombre": "restoreOriginal",
+            "description": ""
+        },
+        {
+            "nombre": "rollback",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Savepoint s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rowSetPopulated",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowSetEvent event",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numRows",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setKeyColumns",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] keys",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowSetMetaData md",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOriginalRow",
+            "description": ""
+        },
+        {
+            "nombre": "setPageSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShowDeleted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSyncProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTableName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String tabName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "toCollection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "String column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "undoDelete",
+            "description": ""
+        },
+        {
+            "nombre": "undoInsert",
+            "description": ""
+        },
+        {
+            "nombre": "undoUpdate",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "COMMIT_ON_ACCEPT_CHANGES",
+            "description": ""
+        }
+    ]
+}

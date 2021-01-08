@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "InetSocketAddress",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "String hostname",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress addr",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createUnresolved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getHostName",
+            "description": ""
+        },
+        {
+            "nombre": "getHostString",
+            "description": ""
+        },
+        {
+            "nombre": "getPort",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isUnresolved",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

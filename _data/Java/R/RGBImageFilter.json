@@ -1,0 +1,155 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RGBImageFilter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "filterIndexColorModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IndexColorModel icm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filterRGB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rgb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filterRGBPixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scansize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] pixels",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColorModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorModel model",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] pixels",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scansize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] pixels",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorModel model",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "substituteColorModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorModel newcm",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorModel oldcm",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "canFilterIndexColorModel",
+            "description": ""
+        },
+        {
+            "nombre": "newmodel",
+            "description": ""
+        },
+        {
+            "nombre": "origmodel",
+            "description": ""
+        }
+    ]
+}

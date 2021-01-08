@@ -1,0 +1,89 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PlainDocument",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractDocument.Content c",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createDefaultRoot",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultRootElement",
+            "description": ""
+        },
+        {
+            "nombre": "getParagraphElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "lineLimitAttribute",
+            "description": ""
+        },
+        {
+            "nombre": "tabSizeAttribute",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DataBufferInt",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int[] dataArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[][] dataArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numBanks",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBankData",
+            "description": ""
+        },
+        {
+            "nombre": "getData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setElem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                },
+                {
+                    "nombre": "int val",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

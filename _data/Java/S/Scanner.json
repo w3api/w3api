@@ -1,0 +1,349 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Scanner",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "String charsetName",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String source",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path source",
+                    "description": ""
+                },
+                {
+                    "nombre": "Readable source",
+                    "description": ""
+                },
+                {
+                    "nombre": "File source",
+                    "description": ""
+                },
+                {
+                    "nombre": "ReadableByteChannel source",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "delimiter",
+            "description": ""
+        },
+        {
+            "nombre": "findAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Pattern pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String patString",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findInLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "Pattern pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findWithinHorizon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int horizon",
+                    "description": ""
+                },
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "Pattern pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasNext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "Pattern pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasNextBigDecimal",
+            "description": ""
+        },
+        {
+            "nombre": "hasNextBigInteger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasNextBoolean",
+            "description": ""
+        },
+        {
+            "nombre": "hasNextByte",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasNextDouble",
+            "description": ""
+        },
+        {
+            "nombre": "hasNextFloat",
+            "description": ""
+        },
+        {
+            "nombre": "hasNextInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasNextLine",
+            "description": ""
+        },
+        {
+            "nombre": "hasNextLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasNextShort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ioException",
+            "description": ""
+        },
+        {
+            "nombre": "locale",
+            "description": ""
+        },
+        {
+            "nombre": "match",
+            "description": ""
+        },
+        {
+            "nombre": "next",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "Pattern pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextBigDecimal",
+            "description": ""
+        },
+        {
+            "nombre": "nextBigInteger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextBoolean",
+            "description": ""
+        },
+        {
+            "nombre": "nextByte",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextDouble",
+            "description": ""
+        },
+        {
+            "nombre": "nextFloat",
+            "description": ""
+        },
+        {
+            "nombre": "nextInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextLine",
+            "description": ""
+        },
+        {
+            "nombre": "nextLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextShort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "radix",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": ""
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "skip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "Pattern pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tokens",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "useDelimiter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "Pattern pattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "useLocale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "useRadix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,371 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "accessClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> targetClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object receiver",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defineClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] bytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dropLookupMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int modeToDrop",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String targetName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findConstructor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> refc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findGetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> refc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findSetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> refc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findSpecial",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> refc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> specialCaller",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findStatic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> refc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findStaticGetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> refc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findStaticSetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> refc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findStaticVarHandle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> decl",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findVarHandle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> recv",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findVirtual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> refc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasPrivateAccess",
+            "description": ""
+        },
+        {
+            "nombre": "in",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> requestedLookupClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookupClass",
+            "description": ""
+        },
+        {
+            "nombre": "lookupModes",
+            "description": ""
+        },
+        {
+            "nombre": "revealDirect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "unreflect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Method m",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unreflectConstructor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Constructor<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unreflectGetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Field f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unreflectSetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Field f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unreflectSpecial",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Method m",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> specialCaller",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unreflectVarHandle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Field f",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "MODULE",
+            "description": ""
+        },
+        {
+            "nombre": "PACKAGE",
+            "description": ""
+        },
+        {
+            "nombre": "PRIVATE",
+            "description": ""
+        },
+        {
+            "nombre": "PROTECTED",
+            "description": ""
+        },
+        {
+            "nombre": "PUBLIC",
+            "description": ""
+        },
+        {
+            "nombre": "UNCONDITIONAL",
+            "description": ""
+        }
+    ]
+}

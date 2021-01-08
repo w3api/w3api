@@ -1,0 +1,121 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "imageComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "imageProgress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float percentageDone",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "imageStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readAborted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sequenceComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sequenceStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thumbnailComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thumbnailProgress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float percentageDone",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thumbnailStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                },
+                {
+                    "nombre": "int thumbnailIndex",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

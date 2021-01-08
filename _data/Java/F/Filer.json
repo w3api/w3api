@@ -1,0 +1,75 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createClassFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element... originatingElements",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence relativeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence moduleAndPkg",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element... originatingElements",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSourceFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element... originatingElements",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence relativeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence moduleAndPkg",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ExemptionMechanismSpi",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "engineGenExemptionBlob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] output",
+                    "description": ""
+                },
+                {
+                    "nombre": "int outputOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGetOutputSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int inputLen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineInit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AlgorithmParameters params",
+                    "description": ""
+                },
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameterSpec params",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

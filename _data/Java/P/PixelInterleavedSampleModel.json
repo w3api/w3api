@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PixelInterleavedSampleModel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int scanlineStride",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixelStride",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bandOffsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createCompatibleSampleModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSubsetSampleModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bands",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AuthorizeCallback",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String authzID",
+                    "description": ""
+                },
+                {
+                    "nombre": "String authnID",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAuthenticationID",
+            "description": ""
+        },
+        {
+            "nombre": "getAuthorizationID",
+            "description": ""
+        },
+        {
+            "nombre": "getAuthorizedID",
+            "description": ""
+        },
+        {
+            "nombre": "isAuthorized",
+            "description": ""
+        },
+        {
+            "nombre": "setAuthorized",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean ok",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAuthorizedID",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

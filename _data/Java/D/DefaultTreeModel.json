@@ -1,0 +1,367 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DefaultTreeModel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode root",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean asksAllowsChildren",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addTreeModelListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeModelListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asksAllowsChildren",
+            "description": ""
+        },
+        {
+            "nombre": "fireTreeNodesChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] childIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] children",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireTreeNodesInserted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] childIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] children",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireTreeNodesRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] childIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] children",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireTreeStructureChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] childIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] children",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIndexOfChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> listenerType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPathToRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int depth",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeNode aNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRoot",
+            "description": ""
+        },
+        {
+            "nombre": "getTreeModelListeners",
+            "description": ""
+        },
+        {
+            "nombre": "insertNodeInto",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "MutableTreeNode newChild",
+                    "description": ""
+                },
+                {
+                    "nombre": "MutableTreeNode parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLeaf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nodeChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nodesChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] childIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeNode node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nodeStructureChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nodesWereInserted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] childIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeNode node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nodesWereRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] removedChildren",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] childIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeNode node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reload",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeNodeFromParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MutableTreeNode node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeTreeModelListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeModelListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAsksAllowsChildren",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode root",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "valueForPathChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "asksAllowsChildren",
+            "description": ""
+        },
+        {
+            "nombre": "listenerList",
+            "description": ""
+        },
+        {
+            "nombre": "root",
+            "description": ""
+        }
+    ]
+}

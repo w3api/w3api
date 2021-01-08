@@ -1,0 +1,163 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FlowLayout",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int align",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hgap",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vgap",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addLayoutComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlignment",
+            "description": ""
+        },
+        {
+            "nombre": "getAlignOnBaseline",
+            "description": ""
+        },
+        {
+            "nombre": "getHgap",
+            "description": ""
+        },
+        {
+            "nombre": "getVgap",
+            "description": ""
+        },
+        {
+            "nombre": "layoutContainer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minimumLayoutSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preferredLayoutSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeLayoutComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAlignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int align",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAlignOnBaseline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean alignOnBaseline",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHgap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int hgap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVgap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int vgap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CENTER",
+            "description": ""
+        },
+        {
+            "nombre": "LEADING",
+            "description": ""
+        },
+        {
+            "nombre": "LEFT",
+            "description": ""
+        },
+        {
+            "nombre": "RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "TRAILING",
+            "description": ""
+        }
+    ]
+}

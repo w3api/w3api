@@ -1,0 +1,383 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Line2D",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getP1",
+            "description": ""
+        },
+        {
+            "nombre": "getP2",
+            "description": ""
+        },
+        {
+            "nombre": "getPathIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform at",
+                    "description": ""
+                },
+                {
+                    "nombre": "double flatness",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getX1",
+            "description": ""
+        },
+        {
+            "nombre": "getX2",
+            "description": ""
+        },
+        {
+            "nombre": "getY1",
+            "description": ""
+        },
+        {
+            "nombre": "getY2",
+            "description": ""
+        },
+        {
+            "nombre": "intersects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intersectsLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Line2D l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "linesIntersect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x3",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x4",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y4",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y3",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ptLineDist",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double px",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double py",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ptLineDistSq",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double px",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double py",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ptSegDist",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double px",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double py",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ptSegDistSq",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double px",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double py",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "relativeCCW",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double px",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double py",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Line2D l",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

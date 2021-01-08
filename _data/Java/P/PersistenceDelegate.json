@@ -1,0 +1,77 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PersistenceDelegate",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "initialize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newInstance",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldInstance",
+                    "description": ""
+                },
+                {
+                    "nombre": "Encoder out",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "instantiate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object oldInstance",
+                    "description": ""
+                },
+                {
+                    "nombre": "Encoder out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mutatesTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object oldInstance",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object newInstance",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object oldInstance",
+                    "description": ""
+                },
+                {
+                    "nombre": "Encoder out",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

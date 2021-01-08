@@ -1,0 +1,469 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "at",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFirstSentence",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newAttributeTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeTree.ValueKind vkind",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newAuthorTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newCodeTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextTree text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newCommentTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDeprecatedTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDocCommentTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> postamble",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends DocTree> preamble",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends DocTree> tags",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends DocTree> fullBody",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDocRootTree",
+            "description": ""
+        },
+        {
+            "nombre": "newDocTypeTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newEndElementTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newEntityTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newErroneousTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Diagnostic<JavaFileObject> diag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newExceptionTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ReferenceTree name",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends DocTree> description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newHiddenTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newIdentifierTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newIndexTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocTree term",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends DocTree> description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newInheritDocTree",
+            "description": ""
+        },
+        {
+            "nombre": "newLinkPlainTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> label",
+                    "description": ""
+                },
+                {
+                    "nombre": "ReferenceTree ref",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newLinkTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> label",
+                    "description": ""
+                },
+                {
+                    "nombre": "ReferenceTree ref",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newLiteralTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextTree text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newParamTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isTypeParameter",
+                    "description": ""
+                },
+                {
+                    "nombre": "IdentifierTree name",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends DocTree> description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newProvidesTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ReferenceTree name",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends DocTree> description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newReferenceTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String signature",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newReturnTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSeeTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> reference",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSerialDataTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSerialFieldTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ReferenceTree type",
+                    "description": ""
+                },
+                {
+                    "nombre": "IdentifierTree name",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends DocTree> description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSerialTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSinceTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newStartElementTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean selfClosing",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends DocTree> attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSummaryTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> summary",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newTextTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newThrowsTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ReferenceTree name",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends DocTree> description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newUnknownBlockTagTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> content",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newUnknownInlineTagTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> content",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newUsesTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ReferenceTree name",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends DocTree> description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newValueTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ReferenceTree ref",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newVersionTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends DocTree> text",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

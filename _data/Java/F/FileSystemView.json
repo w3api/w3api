@@ -1,0 +1,253 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FileSystemView",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createFileObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "File dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "String path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFileSystemRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createNewFolder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File containingDir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String fileName",
+                    "description": ""
+                },
+                {
+                    "nombre": "File parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChooserComboBoxFiles",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "getFiles",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean useFileHiding",
+                    "description": ""
+                },
+                {
+                    "nombre": "File dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFileSystemView",
+            "description": ""
+        },
+        {
+            "nombre": "getHomeDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "getLinkLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParentDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRoots",
+            "description": ""
+        },
+        {
+            "nombre": "getSystemDisplayName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSystemIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSystemTypeDescription",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isComputerNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDrive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFileSystem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFileSystemRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFloppyDrive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isHiddenFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLink",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File folder",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isTraversable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

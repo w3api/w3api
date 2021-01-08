@@ -1,0 +1,105 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RoleInfo",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "RoleInfo roleInfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean write",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mbeanClassName",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean read",
+                    "description": ""
+                },
+                {
+                    "nombre": "String descr",
+                    "description": ""
+                },
+                {
+                    "nombre": "int max",
+                    "description": ""
+                },
+                {
+                    "nombre": "String roleName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int min",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "checkMaxDegree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkMinDegree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDescription",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxDegree",
+            "description": ""
+        },
+        {
+            "nombre": "getMinDegree",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getRefMBeanClassName",
+            "description": ""
+        },
+        {
+            "nombre": "isReadable",
+            "description": ""
+        },
+        {
+            "nombre": "isWritable",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ROLE_CARDINALITY_INFINITY",
+            "description": ""
+        }
+    ]
+}

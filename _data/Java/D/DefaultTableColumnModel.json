@@ -1,0 +1,275 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DefaultTableColumnModel",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumn aColumn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addColumnModelListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModelListener x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "fireColumnAdded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireColumnMarginChanged",
+            "description": ""
+        },
+        {
+            "nombre": "fireColumnMoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireColumnRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireColumnSelectionChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListSelectionEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColumnCount",
+            "description": ""
+        },
+        {
+            "nombre": "getColumnIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object identifier",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColumnIndexAtX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColumnMargin",
+            "description": ""
+        },
+        {
+            "nombre": "getColumnModelListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getColumns",
+            "description": ""
+        },
+        {
+            "nombre": "getColumnSelectionAllowed",
+            "description": ""
+        },
+        {
+            "nombre": "getListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> listenerType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSelectedColumnCount",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedColumns",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "getTotalColumnWidth",
+            "description": ""
+        },
+        {
+            "nombre": "moveColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "propertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeEvent evt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "recalcWidthCache",
+            "description": ""
+        },
+        {
+            "nombre": "removeColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumn column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeColumnModelListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModelListener x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColumnMargin",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newMargin",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColumnSelectionAllowed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListSelectionModel newModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "valueChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListSelectionEvent e",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "changeEvent",
+            "description": ""
+        },
+        {
+            "nombre": "columnMargin",
+            "description": ""
+        },
+        {
+            "nombre": "columnSelectionAllowed",
+            "description": ""
+        },
+        {
+            "nombre": "listenerList",
+            "description": ""
+        },
+        {
+            "nombre": "selectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "tableColumns",
+            "description": ""
+        },
+        {
+            "nombre": "totalColumnWidth",
+            "description": ""
+        }
+    ]
+}

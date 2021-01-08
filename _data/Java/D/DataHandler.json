@@ -1,0 +1,137 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DataHandler",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataSource ds",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAllCommands",
+            "description": ""
+        },
+        {
+            "nombre": "getBean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CommandInfo cmdinfo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCommand",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cmdName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContent",
+            "description": ""
+        },
+        {
+            "nombre": "getContentType",
+            "description": ""
+        },
+        {
+            "nombre": "getDataSource",
+            "description": ""
+        },
+        {
+            "nombre": "getInputStream",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getOutputStream",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredCommands",
+            "description": ""
+        },
+        {
+            "nombre": "getTransferData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor flavor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTransferDataFlavors",
+            "description": ""
+        },
+        {
+            "nombre": "isDataFlavorSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor flavor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCommandMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CommandMap commandMap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDataContentHandlerFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataContentHandlerFactory newFactory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream os",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

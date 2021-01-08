@@ -1,0 +1,71 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractSelector",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SelectorProvider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "begin",
+            "description": ""
+        },
+        {
+            "nombre": "cancelledKeys",
+            "description": ""
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "deregister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractSelectionKey key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "end",
+            "description": ""
+        },
+        {
+            "nombre": "implCloseSelector",
+            "description": ""
+        },
+        {
+            "nombre": "provider",
+            "description": ""
+        },
+        {
+            "nombre": "register",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ops",
+                    "description": ""
+                },
+                {
+                    "nombre": "AbstractSelectableChannel ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object att",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

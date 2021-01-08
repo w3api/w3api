@@ -1,0 +1,249 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DatagramSocket",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "DatagramSocketImpl impl",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress laddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketAddress bindaddr",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress addr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketAddress addr",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "disconnect",
+            "description": ""
+        },
+        {
+            "nombre": "getBroadcast",
+            "description": ""
+        },
+        {
+            "nombre": "getChannel",
+            "description": ""
+        },
+        {
+            "nombre": "getInetAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalPort",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalSocketAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPort",
+            "description": ""
+        },
+        {
+            "nombre": "getReceiveBufferSize",
+            "description": ""
+        },
+        {
+            "nombre": "getRemoteSocketAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getReuseAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getSendBufferSize",
+            "description": ""
+        },
+        {
+            "nombre": "getSoTimeout",
+            "description": ""
+        },
+        {
+            "nombre": "getTrafficClass",
+            "description": ""
+        },
+        {
+            "nombre": "isBound",
+            "description": ""
+        },
+        {
+            "nombre": "isClosed",
+            "description": ""
+        },
+        {
+            "nombre": "isConnected",
+            "description": ""
+        },
+        {
+            "nombre": "receive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DatagramPacket p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DatagramPacket p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBroadcast",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDatagramSocketImplFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DatagramSocketImplFactory fac",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReceiveBufferSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReuseAddress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSendBufferSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSoTimeout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTrafficClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportedOptions",
+            "description": ""
+        }
+    ]
+}

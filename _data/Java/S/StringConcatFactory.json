@@ -1,0 +1,51 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "makeConcat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType concatType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "makeConcatWithConstants",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType concatType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... constants",
+                    "description": ""
+                },
+                {
+                    "nombre": "String recipe",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

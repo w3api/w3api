@@ -1,0 +1,51 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GrayFilter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int p",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createDisabledImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Image i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filterRGB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rgb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HierarchyEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Container changedParent",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component source",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component changed",
+                    "description": ""
+                },
+                {
+                    "nombre": "long changeFlags",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getChanged",
+            "description": ""
+        },
+        {
+            "nombre": "getChangedParent",
+            "description": ""
+        },
+        {
+            "nombre": "getChangeFlags",
+            "description": ""
+        },
+        {
+            "nombre": "getComponent",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANCESTOR_MOVED",
+            "description": ""
+        },
+        {
+            "nombre": "ANCESTOR_RESIZED",
+            "description": ""
+        },
+        {
+            "nombre": "DISPLAYABILITY_CHANGED",
+            "description": ""
+        },
+        {
+            "nombre": "HIERARCHY_CHANGED",
+            "description": ""
+        },
+        {
+            "nombre": "HIERARCHY_FIRST",
+            "description": ""
+        },
+        {
+            "nombre": "HIERARCHY_LAST",
+            "description": ""
+        },
+        {
+            "nombre": "PARENT_CHANGED",
+            "description": ""
+        },
+        {
+            "nombre": "SHOWING_CHANGED",
+            "description": ""
+        }
+    ]
+}

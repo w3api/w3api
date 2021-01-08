@@ -1,0 +1,443 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JPopupMenu",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String label",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JMenuItem menuItem",
+                    "description": ""
+                },
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                },
+                {
+                    "nombre": "String s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addMenuKeyListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuKeyListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addPopupMenuListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PopupMenuListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addSeparator",
+            "description": ""
+        },
+        {
+            "nombre": "createActionChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JMenuItem b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createActionComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "firePopupMenuCanceled",
+            "description": ""
+        },
+        {
+            "nombre": "firePopupMenuWillBecomeInvisible",
+            "description": ""
+        },
+        {
+            "nombre": "firePopupMenuWillBecomeVisible",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getComponentAtIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComponentIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultLightWeightPopupEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "getInvoker",
+            "description": ""
+        },
+        {
+            "nombre": "getLabel",
+            "description": ""
+        },
+        {
+            "nombre": "getMargin",
+            "description": ""
+        },
+        {
+            "nombre": "getMenuKeyListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getPopupMenuListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "getSubElements",
+            "description": ""
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "insert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBorderPainted",
+            "description": ""
+        },
+        {
+            "nombre": "isLightWeightPopupEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isPopupTrigger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isVisible",
+            "description": ""
+        },
+        {
+            "nombre": "menuSelectionChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isIncluded",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pack",
+            "description": ""
+        },
+        {
+            "nombre": "paintBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "processKeyEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEvent evt",
+                    "description": ""
+                },
+                {
+                    "nombre": "MenuSelectionManager manager",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "MenuElement[] path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processMouseEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuSelectionManager manager",
+                    "description": ""
+                },
+                {
+                    "nombre": "MenuElement[] path",
+                    "description": ""
+                },
+                {
+                    "nombre": "MouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeMenuKeyListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuKeyListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removePopupMenuListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PopupMenuListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBorderPainted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultLightWeightPopupEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean aFlag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInvoker",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component invoker",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLabel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String label",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLightWeightPopupEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean aFlag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPopupSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dimension d",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component sel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SingleSelectionModel model",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PopupMenuUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "show",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component invoker",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ProcessBuilder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String... command",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<String> command",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "command",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String... command",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<String> command",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "directory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File directory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "environment",
+            "description": ""
+        },
+        {
+            "nombre": "inheritIO",
+            "description": ""
+        },
+        {
+            "nombre": "redirectError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ProcessBuilder.Redirect destination",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "redirectErrorStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean redirectErrorStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "redirectInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ProcessBuilder.Redirect source",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "redirectOutput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ProcessBuilder.Redirect destination",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": ""
+        },
+        {
+            "nombre": "startPipeline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<ProcessBuilder> builders",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

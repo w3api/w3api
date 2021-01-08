@@ -1,0 +1,289 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "LinkedBlockingDeque",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends E> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int capacity",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends E> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addFirst",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addLast",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear",
+            "description": ""
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "descendingIterator",
+            "description": ""
+        },
+        {
+            "nombre": "drainTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? super E> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxElements",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "element",
+            "description": ""
+        },
+        {
+            "nombre": "forEach",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super E> action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFirst",
+            "description": ""
+        },
+        {
+            "nombre": "getLast",
+            "description": ""
+        },
+        {
+            "nombre": "iterator",
+            "description": ""
+        },
+        {
+            "nombre": "offer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "offerFirst",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "offerLast",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pop",
+            "description": ""
+        },
+        {
+            "nombre": "push",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putFirst",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putLast",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remainingCapacity",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeFirst",
+            "description": ""
+        },
+        {
+            "nombre": "removeIf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Predicate<? super E> filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeLast",
+            "description": ""
+        },
+        {
+            "nombre": "retainAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "spliterator",
+            "description": ""
+        },
+        {
+            "nombre": "toArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T[] a",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

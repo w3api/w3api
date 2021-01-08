@@ -1,0 +1,41 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BooleanPropertyBase",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean initialValue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableValue<? extends Boolean> rawObservable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireValueChangedEvent",
+            "description": ""
+        },
+        {
+            "nombre": "invalidated",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

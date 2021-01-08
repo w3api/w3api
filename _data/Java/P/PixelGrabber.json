@@ -1,0 +1,197 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PixelGrabber",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scansize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageProducer ip",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean forceRGB",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] pix",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "abortGrabbing",
+            "description": ""
+        },
+        {
+            "nombre": "getColorModel",
+            "description": ""
+        },
+        {
+            "nombre": "getHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getPixels",
+            "description": ""
+        },
+        {
+            "nombre": "getStatus",
+            "description": ""
+        },
+        {
+            "nombre": "getWidth",
+            "description": ""
+        },
+        {
+            "nombre": "grabPixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long ms",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "imageComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int status",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColorModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorModel model",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDimensions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int hints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int srcY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcOff",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] pixels",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcW",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcH",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] pixels",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorModel model",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcScan",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperties",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Hashtable<?",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> props",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startGrabbing",
+            "description": ""
+        },
+        {
+            "nombre": "status",
+            "description": ""
+        }
+    ]
+}

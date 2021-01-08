@@ -1,0 +1,159 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CountedCompleter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int initialPendingCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "CountedCompleter<?> completer",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addToPendingCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int delta",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndSetPendingCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "int expected",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "complete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T rawResult",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compute",
+            "description": ""
+        },
+        {
+            "nombre": "decrementPendingCountUnlessZero",
+            "description": ""
+        },
+        {
+            "nombre": "exec",
+            "description": ""
+        },
+        {
+            "nombre": "firstComplete",
+            "description": ""
+        },
+        {
+            "nombre": "getCompleter",
+            "description": ""
+        },
+        {
+            "nombre": "getPendingCount",
+            "description": ""
+        },
+        {
+            "nombre": "getRawResult",
+            "description": ""
+        },
+        {
+            "nombre": "getRoot",
+            "description": ""
+        },
+        {
+            "nombre": "helpComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maxTasks",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextComplete",
+            "description": ""
+        },
+        {
+            "nombre": "onCompletion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CountedCompleter<?> caller",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onExceptionalCompletion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CountedCompleter<?> caller",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable ex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "propagateCompletion",
+            "description": ""
+        },
+        {
+            "nombre": "quietlyCompleteRoot",
+            "description": ""
+        },
+        {
+            "nombre": "setPendingCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int count",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRawResult",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryComplete",
+            "description": ""
+        }
+    ]
+}

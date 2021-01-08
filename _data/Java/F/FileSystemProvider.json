@@ -1,0 +1,385 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FileSystemProvider",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "checkAccess",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AccessMode... modes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path source",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path target",
+                    "description": ""
+                },
+                {
+                    "nombre": "CopyOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path dir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createLink",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path link",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path existing",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSymbolicLink",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path link",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "delete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deleteIfExists",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFileAttributeView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<V> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFileStore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFileSystem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getScheme",
+            "description": ""
+        },
+        {
+            "nombre": "installedProviders",
+            "description": ""
+        },
+        {
+            "nombre": "isHidden",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSameFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "move",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path source",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path target",
+                    "description": ""
+                },
+                {
+                    "nombre": "CopyOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newAsynchronousFileChannel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<? extends OpenOption> options",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutorService executor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newByteChannel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<? extends OpenOption> options",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDirectoryStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "DirectoryStream.Filter<? super Path> filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newFileChannel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<? extends OpenOption> options",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newFileSystem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> env",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newInputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newOutputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "String attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<A> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readSymbolicLink",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path link",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

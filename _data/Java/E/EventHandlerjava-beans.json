@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "EventHandler",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Object target",
+                    "description": ""
+                },
+                {
+                    "nombre": "String action",
+                    "description": ""
+                },
+                {
+                    "nombre": "String eventPropertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String listenerMethodName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String listenerMethodName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String action",
+                    "description": ""
+                },
+                {
+                    "nombre": "String eventPropertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object target",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> listenerInterface",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAction",
+            "description": ""
+        },
+        {
+            "nombre": "getEventPropertyName",
+            "description": ""
+        },
+        {
+            "nombre": "getListenerMethodName",
+            "description": ""
+        },
+        {
+            "nombre": "getTarget",
+            "description": ""
+        },
+        {
+            "nombre": "invoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Method method",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object proxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] arguments",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

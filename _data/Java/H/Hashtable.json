@@ -1,0 +1,255 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Hashtable",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "? extends V> t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends K",
+                    "description": ""
+                },
+                {
+                    "nombre": "int initialCapacity",
+                    "description": ""
+                },
+                {
+                    "nombre": "float loadFactor",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clear",
+            "description": ""
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "compute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super V",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super K",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeIfAbsent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends V> mappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super K",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeIfPresent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super V",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super K",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "containsKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "containsValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "elements",
+            "description": ""
+        },
+        {
+            "nombre": "entrySet",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "keys",
+            "description": ""
+        },
+        {
+            "nombre": "keySet",
+            "description": ""
+        },
+        {
+            "nombre": "merge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V value",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super V",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super V",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V value",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends V> t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends K",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rehash",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "values",
+            "description": ""
+        }
+    ]
+}

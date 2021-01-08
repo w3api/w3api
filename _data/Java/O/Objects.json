@@ -1,0 +1,203 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "checkFromIndexSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkFromToIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compare",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super T> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "T b",
+                    "description": ""
+                },
+                {
+                    "nombre": "T a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deepEquals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hash",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object... values",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNull",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nonNull",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requireNonNull",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<String> messageSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requireNonNullElse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T defaultObj",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requireNonNullElseGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<? extends T> supplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nullDefault",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

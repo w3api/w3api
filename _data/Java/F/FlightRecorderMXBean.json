@@ -1,0 +1,213 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "cloneRecording",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean stop",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "closeRecording",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "closeStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long streamId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copyTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String outputFile",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConfigurations",
+            "description": ""
+        },
+        {
+            "nombre": "getEventTypes",
+            "description": ""
+        },
+        {
+            "nombre": "getRecordingOptions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRecordings",
+            "description": ""
+        },
+        {
+            "nombre": "getRecordingSettings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newRecording",
+            "description": ""
+        },
+        {
+            "nombre": "openStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "String> streamOptions",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long streamId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setConfiguration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String contents",
+                    "description": ""
+                },
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPredefinedConfiguration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String configurationName",
+                    "description": ""
+                },
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRecordingOptions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String> options",
+                    "description": ""
+                },
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRecordingSettings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "String> settings",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startRecording",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stopRecording",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long recordingId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "takeSnapshot",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "MXBEAN_NAME",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SNIHostName",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] encoded",
+                    "description": ""
+                },
+                {
+                    "nombre": "String hostname",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createSNIMatcher",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String regex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAsciiName",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

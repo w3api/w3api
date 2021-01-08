@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RMIJRMPServerImpl",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "RMIClientSocketFactory csf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "RMIServerSocketFactory ssf",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> env",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "closeServer",
+            "description": ""
+        },
+        {
+            "nombre": "makeClient",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String connectionId",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject subject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toStub",
+            "description": ""
+        }
+    ]
+}

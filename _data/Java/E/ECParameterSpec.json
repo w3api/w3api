@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ECParameterSpec",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger n",
+                    "description": ""
+                },
+                {
+                    "nombre": "ECPoint g",
+                    "description": ""
+                },
+                {
+                    "nombre": "EllipticCurve curve",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCofactor",
+            "description": ""
+        },
+        {
+            "nombre": "getCurve",
+            "description": ""
+        },
+        {
+            "nombre": "getGenerator",
+            "description": ""
+        },
+        {
+            "nombre": "getOrder",
+            "description": ""
+        }
+    ]
+}

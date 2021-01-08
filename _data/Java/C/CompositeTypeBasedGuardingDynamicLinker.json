@@ -1,0 +1,39 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CompositeTypeBasedGuardingDynamicLinker",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Iterable<? extends TypeBasedGuardingDynamicLinker> linkers",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "canLinkType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "optimize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Iterable<? extends GuardingDynamicLinker> linkers",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

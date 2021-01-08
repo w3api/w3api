@@ -1,0 +1,305 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DefaultTreeCellEditor",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TreeCellEditor editor",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                },
+                {
+                    "nombre": "DefaultTreeCellRenderer renderer",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "actionPerformed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActionEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addCellEditorListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CellEditorListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cancelCellEditing",
+            "description": ""
+        },
+        {
+            "nombre": "canEditImmediately",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventObject event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createContainer",
+            "description": ""
+        },
+        {
+            "nombre": "createTreeCellEditor",
+            "description": ""
+        },
+        {
+            "nombre": "determineOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean leaf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBorderSelectionColor",
+            "description": ""
+        },
+        {
+            "nombre": "getCellEditorListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getCellEditorValue",
+            "description": ""
+        },
+        {
+            "nombre": "getFont",
+            "description": ""
+        },
+        {
+            "nombre": "getTreeCellEditorComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean leaf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inHitRegion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isCellEditable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventObject event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepareForEditing",
+            "description": ""
+        },
+        {
+            "nombre": "removeCellEditorListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CellEditorListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBorderSelectionColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color newColor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree newTree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shouldSelectCell",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventObject event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shouldStartEditingTimer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventObject event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startEditingTimer",
+            "description": ""
+        },
+        {
+            "nombre": "stopCellEditing",
+            "description": ""
+        },
+        {
+            "nombre": "valueChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeSelectionEvent e",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "borderSelectionColor",
+            "description": ""
+        },
+        {
+            "nombre": "canEdit",
+            "description": ""
+        },
+        {
+            "nombre": "editingComponent",
+            "description": ""
+        },
+        {
+            "nombre": "editingContainer",
+            "description": ""
+        },
+        {
+            "nombre": "editingIcon",
+            "description": ""
+        },
+        {
+            "nombre": "font",
+            "description": ""
+        },
+        {
+            "nombre": "lastPath",
+            "description": ""
+        },
+        {
+            "nombre": "lastRow",
+            "description": ""
+        },
+        {
+            "nombre": "offset",
+            "description": ""
+        },
+        {
+            "nombre": "realEditor",
+            "description": ""
+        },
+        {
+            "nombre": "renderer",
+            "description": ""
+        },
+        {
+            "nombre": "timer",
+            "description": ""
+        },
+        {
+            "nombre": "tree",
+            "description": ""
+        }
+    ]
+}

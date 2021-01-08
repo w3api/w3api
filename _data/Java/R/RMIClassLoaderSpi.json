@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RMIClassLoaderSpi",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getClassAnnotation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> cl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClassLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String codebase",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String codebase",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader defaultLoader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadProxyClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String codebase",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader defaultLoader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] interfaces",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

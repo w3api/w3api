@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MBeanPermission",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName objectName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String actions",
+                    "description": ""
+                },
+                {
+                    "nombre": "String member",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getActions",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "implies",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Permission p",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

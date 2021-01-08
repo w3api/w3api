@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ConvolveOp",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Kernel kernel",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderingHints hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int edgeCondition",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createCompatibleDestImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorModel destCM",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCompatibleDestRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                },
+                {
+                    "nombre": "WritableRaster dst",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEdgeCondition",
+            "description": ""
+        },
+        {
+            "nombre": "getKernel",
+            "description": ""
+        },
+        {
+            "nombre": "getPoint2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D srcPt",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D dstPt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRenderingHints",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "EDGE_NO_OP",
+            "description": ""
+        },
+        {
+            "nombre": "EDGE_ZERO_FILL",
+            "description": ""
+        }
+    ]
+}

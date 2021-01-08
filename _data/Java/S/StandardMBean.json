@@ -1,0 +1,201 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StandardMBean",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isMXBean",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> mbeanInterface",
+                    "description": ""
+                },
+                {
+                    "nombre": "T implementation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> mbeanInterface",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cacheMBeanInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MBeanInfo info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCachedMBeanInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getClassName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MBeanInfo info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConstructors",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MBeanConstructorInfo[] ctors",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object impl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDescription",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int sequence",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanInfo info",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanFeatureInfo info",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanAttributeInfo info",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanParameterInfo param",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanOperationInfo info",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanConstructorInfo info",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanOperationInfo op",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanConstructorInfo ctor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImpact",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MBeanOperationInfo info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImplementation",
+            "description": ""
+        },
+        {
+            "nombre": "getImplementationClass",
+            "description": ""
+        },
+        {
+            "nombre": "getMBeanInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getMBeanInterface",
+            "description": ""
+        },
+        {
+            "nombre": "getParameterName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int sequence",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanConstructorInfo ctor",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanOperationInfo op",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanParameterInfo param",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "postDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "postRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Boolean registrationDone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "preRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServer server",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setImplementation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object implementation",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

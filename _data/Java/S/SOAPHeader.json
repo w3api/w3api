@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addHeaderElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName qname",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addNotUnderstoodHeaderElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addUpgradeHeaderElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String supportedSoapUri",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] supportedSoapUris",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterator<String> supportedSOAPURIs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "examineAllHeaderElements",
+            "description": ""
+        },
+        {
+            "nombre": "examineHeaderElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String actor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "examineMustUnderstandHeaderElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String actor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "extractAllHeaderElements",
+            "description": ""
+        },
+        {
+            "nombre": "extractHeaderElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String actor",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ProtectionDomain",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "CodeSource codesource",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader classloader",
+                    "description": ""
+                },
+                {
+                    "nombre": "Principal[] principals",
+                    "description": ""
+                },
+                {
+                    "nombre": "PermissionCollection permissions",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getClassLoader",
+            "description": ""
+        },
+        {
+            "nombre": "getCodeSource",
+            "description": ""
+        },
+        {
+            "nombre": "getPermissions",
+            "description": ""
+        },
+        {
+            "nombre": "getPrincipals",
+            "description": ""
+        },
+        {
+            "nombre": "implies",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Permission perm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "staticPermissionsOnly",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

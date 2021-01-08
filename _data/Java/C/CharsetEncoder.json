@@ -1,0 +1,199 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CharsetEncoder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] replacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "float maxBytesPerChar",
+                    "description": ""
+                },
+                {
+                    "nombre": "float averageBytesPerChar",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset cs",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "averageBytesPerChar",
+            "description": ""
+        },
+        {
+            "nombre": "canEncode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence cs",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "charset",
+            "description": ""
+        },
+        {
+            "nombre": "encode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer out",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean endOfInput",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharBuffer in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "encodeLoop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer out",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharBuffer in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flush",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "implFlush",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "implOnMalformedInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CodingErrorAction newAction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "implOnUnmappableCharacter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CodingErrorAction newAction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "implReplaceWith",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] newReplacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "implReset",
+            "description": ""
+        },
+        {
+            "nombre": "isLegalReplacement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] repl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "malformedInputAction",
+            "description": ""
+        },
+        {
+            "nombre": "maxBytesPerChar",
+            "description": ""
+        },
+        {
+            "nombre": "onMalformedInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CodingErrorAction newAction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onUnmappableCharacter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CodingErrorAction newAction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replacement",
+            "description": ""
+        },
+        {
+            "nombre": "replaceWith",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] newReplacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "unmappableCharacterAction",
+            "description": ""
+        }
+    ]
+}

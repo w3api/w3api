@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MBeanServerNotification",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName objectName",
+                    "description": ""
+                },
+                {
+                    "nombre": "long sequenceNumber",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getMBeanName",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "REGISTRATION_NOTIFICATION",
+            "description": ""
+        },
+        {
+            "nombre": "UNREGISTRATION_NOTIFICATION",
+            "description": ""
+        }
+    ]
+}

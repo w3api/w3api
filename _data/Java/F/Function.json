@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "andThen",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Function<? super R",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> after",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "apply",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compose",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Function<? super V",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends T> before",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "identity",
+            "description": ""
+        }
+    ]
+}

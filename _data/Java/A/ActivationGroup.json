@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ActivationGroup",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationGroupID groupID",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "activeObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Remote obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "ActivationID id",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject<? extends Remote> mobj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationGroupDesc desc",
+                    "description": ""
+                },
+                {
+                    "nombre": "ActivationGroupID id",
+                    "description": ""
+                },
+                {
+                    "nombre": "long incarnation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "currentGroupID",
+            "description": ""
+        },
+        {
+            "nombre": "getSystem",
+            "description": ""
+        },
+        {
+            "nombre": "inactiveGroup",
+            "description": ""
+        },
+        {
+            "nombre": "inactiveObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationID id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSystem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationSystem system",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

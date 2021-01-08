@@ -1,0 +1,191 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SSLParameters",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String[] cipherSuites",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] protocols",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAlgorithmConstraints",
+            "description": ""
+        },
+        {
+            "nombre": "getApplicationProtocols",
+            "description": ""
+        },
+        {
+            "nombre": "getCipherSuites",
+            "description": ""
+        },
+        {
+            "nombre": "getEnableRetransmissions",
+            "description": ""
+        },
+        {
+            "nombre": "getEndpointIdentificationAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumPacketSize",
+            "description": ""
+        },
+        {
+            "nombre": "getNeedClientAuth",
+            "description": ""
+        },
+        {
+            "nombre": "getProtocols",
+            "description": ""
+        },
+        {
+            "nombre": "getServerNames",
+            "description": ""
+        },
+        {
+            "nombre": "getSNIMatchers",
+            "description": ""
+        },
+        {
+            "nombre": "getUseCipherSuitesOrder",
+            "description": ""
+        },
+        {
+            "nombre": "getWantClientAuth",
+            "description": ""
+        },
+        {
+            "nombre": "setAlgorithmConstraints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AlgorithmConstraints constraints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setApplicationProtocols",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] protocols",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCipherSuites",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] cipherSuites",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnableRetransmissions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean enableRetransmissions",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEndpointIdentificationAlgorithm",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximumPacketSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maximumPacketSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNeedClientAuth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean needClientAuth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProtocols",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] protocols",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setServerNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<SNIServerName> serverNames",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSNIMatchers",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<SNIMatcher> matchers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUseCipherSuitesOrder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean honorOrder",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWantClientAuth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean wantClientAuth",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

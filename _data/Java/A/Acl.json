@@ -1,0 +1,85 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addEntry",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AclEntry entry",
+                    "description": ""
+                },
+                {
+                    "nombre": "Principal caller",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkPermission",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Principal principal",
+                    "description": ""
+                },
+                {
+                    "nombre": "Permission permission",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "entries",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getPermissions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Principal user",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeEntry",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AclEntry entry",
+                    "description": ""
+                },
+                {
+                    "nombre": "Principal caller",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Principal caller",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

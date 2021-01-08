@@ -1,0 +1,43 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "NotificationResult",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "long nextSequenceNumber",
+                    "description": ""
+                },
+                {
+                    "nombre": "long earliestSequenceNumber",
+                    "description": ""
+                },
+                {
+                    "nombre": "TargetedNotification[] targetedNotifications",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getEarliestSequenceNumber",
+            "description": ""
+        },
+        {
+            "nombre": "getNextSequenceNumber",
+            "description": ""
+        },
+        {
+            "nombre": "getTargetedNotifications",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

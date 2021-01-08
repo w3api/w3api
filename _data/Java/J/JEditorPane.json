@@ -1,0 +1,269 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JEditorPane",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL initialPage",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String url",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addHyperlinkListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HyperlinkListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDefaultEditorKit",
+            "description": ""
+        },
+        {
+            "nombre": "createEditorKitForContentType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireHyperlinkUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HyperlinkEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getContentType",
+            "description": ""
+        },
+        {
+            "nombre": "getEditorKit",
+            "description": ""
+        },
+        {
+            "nombre": "getEditorKitClassNameForContentType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEditorKitForContentType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHyperlinkListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getPage",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": ""
+        },
+        {
+            "nombre": "getScrollableTracksViewportHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getScrollableTracksViewportWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL page",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getText",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object desc",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerEditorKitForContentType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String classname",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeHyperlinkListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HyperlinkListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceSelection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scrollToReference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String reference",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContentType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditorKit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EditorKit kit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditorKitForContentType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EditorKit k",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL page",
+                    "description": ""
+                },
+                {
+                    "nombre": "String url",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String t",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "HONOR_DISPLAY_PROPERTIES",
+            "description": ""
+        },
+        {
+            "nombre": "W3C_LENGTH_UNITS",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,555 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "adjustInto",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Temporal temporal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "atStartOfDay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "atTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minute",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nanoOfSecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "OffsetTime time",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hour",
+                    "description": ""
+                },
+                {
+                    "nombre": "LocalTime time",
+                    "description": ""
+                },
+                {
+                    "nombre": "int second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChronoLocalDate other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "datesUntil",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LocalDate endExclusive",
+                    "description": ""
+                },
+                {
+                    "nombre": "Period step",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DateTimeFormatter formatter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalAccessor temporal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChronology",
+            "description": ""
+        },
+        {
+            "nombre": "getDayOfMonth",
+            "description": ""
+        },
+        {
+            "nombre": "getDayOfWeek",
+            "description": ""
+        },
+        {
+            "nombre": "getDayOfYear",
+            "description": ""
+        },
+        {
+            "nombre": "getEra",
+            "description": ""
+        },
+        {
+            "nombre": "getLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMonth",
+            "description": ""
+        },
+        {
+            "nombre": "getMonthValue",
+            "description": ""
+        },
+        {
+            "nombre": "getYear",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isAfter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChronoLocalDate other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChronoLocalDate other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEqual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChronoLocalDate other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLeapYear",
+            "description": ""
+        },
+        {
+            "nombre": "isSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lengthOfMonth",
+            "description": ""
+        },
+        {
+            "nombre": "lengthOfYear",
+            "description": ""
+        },
+        {
+            "nombre": "minus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAmount amountToSubtract",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amountToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusDays",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long daysToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusMonths",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long monthsToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusWeeks",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long weeksToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusYears",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long yearsToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "now",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Clock clock",
+                    "description": ""
+                },
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "Month month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dayOfMonth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ofEpochDay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long epochDay",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ofInstant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant instant",
+                    "description": ""
+                },
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ofYearDay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dayOfYear",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DateTimeFormatter formatter",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAmount amountToAdd",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amountToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusDays",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long daysToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusMonths",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long monthsToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusWeeks",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long weeksToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusYears",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long yearsToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "query",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalQuery<R> query",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "range",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toEpochSecond",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneOffset offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "LocalTime time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "until",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "ChronoLocalDate endDateExclusive",
+                    "description": ""
+                },
+                {
+                    "nombre": "Temporal endExclusive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "with",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAdjuster adjuster",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withDayOfMonth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dayOfMonth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withDayOfYear",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dayOfYear",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withMonth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int month",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withYear",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int year",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "EPOCH",
+            "description": ""
+        },
+        {
+            "nombre": "MAX",
+            "description": ""
+        },
+        {
+            "nombre": "MIN",
+            "description": ""
+        }
+    ]
+}

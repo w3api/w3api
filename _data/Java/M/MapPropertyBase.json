@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MapPropertyBase",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> initialValue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "fireValueChangedEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MapChangeListener.Change<? extends K",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> change",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invalidated",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

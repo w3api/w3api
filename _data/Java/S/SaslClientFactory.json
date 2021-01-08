@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createSaslClient",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] mechanisms",
+                    "description": ""
+                },
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "String serverName",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> props",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "String authorizationId",
+                    "description": ""
+                },
+                {
+                    "nombre": "CallbackHandler cbh",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMechanismNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> props",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

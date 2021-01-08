@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImageOutputStreamSpi",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String vendorName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> outputClass",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "canUseCacheFile",
+            "description": ""
+        },
+        {
+            "nombre": "createOutputStreamInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object output",
+                    "description": ""
+                },
+                {
+                    "nombre": "File cacheDir",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean useCache",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOutputClass",
+            "description": ""
+        },
+        {
+            "nombre": "needsCacheFile",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "outputClass",
+            "description": ""
+        }
+    ]
+}

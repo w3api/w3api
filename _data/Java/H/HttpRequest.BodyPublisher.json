@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "contentLength",
+            "description": ""
+        },
+        {
+            "nombre": "fromByteArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] buf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromByteArrays",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Iterable<byte[]> iter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromInputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<? extends InputStream> streamSupplier",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromPublisher",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Flow.Publisher<? extends ByteBuffer> publisher",
+                    "description": ""
+                },
+                {
+                    "nombre": "long contentLength",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String s",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "String body",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "noBody",
+            "description": ""
+        }
+    ]
+}

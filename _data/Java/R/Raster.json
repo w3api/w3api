@@ -1,0 +1,555 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Raster",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SampleModel sampleModel",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer dataBuffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "Raster parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point origin",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point sampleModelTranslate",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle aRegion",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createBandedRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bankIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scanlineStride",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer dataBuffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point location",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bandOffsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int childMinX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int childMinY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parentY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bandList",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parentX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCompatibleWritableRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle rect",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createInterleavedRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scanlineStride",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer dataBuffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixelStride",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point location",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bandOffsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createPackedRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scanlineStride",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer dataBuffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bitsPerPixel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bitsPerBand",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point location",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bandMasks",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SampleModel sm",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer db",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createTranslatedChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int childMinX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int childMinY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createWritableRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SampleModel sm",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer db",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getDataBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "getDataElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object outData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getMinX",
+            "description": ""
+        },
+        {
+            "nombre": "getMinY",
+            "description": ""
+        },
+        {
+            "nombre": "getNumBands",
+            "description": ""
+        },
+        {
+            "nombre": "getNumDataElements",
+            "description": ""
+        },
+        {
+            "nombre": "getParent",
+            "description": ""
+        },
+        {
+            "nombre": "getPixel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] fArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] fArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSample",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSampleDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSampleFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSampleModel",
+            "description": ""
+        },
+        {
+            "nombre": "getSampleModelTranslateX",
+            "description": ""
+        },
+        {
+            "nombre": "getSampleModelTranslateY",
+            "description": ""
+        },
+        {
+            "nombre": "getSamples",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] fArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTransferType",
+            "description": ""
+        },
+        {
+            "nombre": "getWidth",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "dataBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "height",
+            "description": ""
+        },
+        {
+            "nombre": "minX",
+            "description": ""
+        },
+        {
+            "nombre": "minY",
+            "description": ""
+        },
+        {
+            "nombre": "numBands",
+            "description": ""
+        },
+        {
+            "nombre": "numDataElements",
+            "description": ""
+        },
+        {
+            "nombre": "parent",
+            "description": ""
+        },
+        {
+            "nombre": "sampleModel",
+            "description": ""
+        },
+        {
+            "nombre": "sampleModelTranslateX",
+            "description": ""
+        },
+        {
+            "nombre": "sampleModelTranslateY",
+            "description": ""
+        },
+        {
+            "nombre": "width",
+            "description": ""
+        }
+    ]
+}

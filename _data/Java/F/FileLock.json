@@ -1,0 +1,85 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FileLock",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "FileChannel channel",
+                    "description": ""
+                },
+                {
+                    "nombre": "long size",
+                    "description": ""
+                },
+                {
+                    "nombre": "long position",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean shared",
+                    "description": ""
+                },
+                {
+                    "nombre": "AsynchronousFileChannel channel",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "acquiredBy",
+            "description": ""
+        },
+        {
+            "nombre": "channel",
+            "description": ""
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "isShared",
+            "description": ""
+        },
+        {
+            "nombre": "isValid",
+            "description": ""
+        },
+        {
+            "nombre": "overlaps",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long position",
+                    "description": ""
+                },
+                {
+                    "nombre": "long size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "position",
+            "description": ""
+        },
+        {
+            "nombre": "release",
+            "description": ""
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

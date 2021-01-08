@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "adapter_manager_state_changed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "short state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "adapter_state_changed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectReferenceTemplate[] templates",
+                    "description": ""
+                },
+                {
+                    "nombre": "short state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "components_established",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IORInfo info",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

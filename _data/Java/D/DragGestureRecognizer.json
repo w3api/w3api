@@ -1,0 +1,145 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DragGestureRecognizer",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "DragSource ds",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragGestureListener dgl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int sa",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addDragGestureListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragGestureListener dgl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputEvent awtie",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireDragGestureRecognized",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dragAction",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getDragSource",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceActions",
+            "description": ""
+        },
+        {
+            "nombre": "getTriggerEvent",
+            "description": ""
+        },
+        {
+            "nombre": "registerListeners",
+            "description": ""
+        },
+        {
+            "nombre": "removeDragGestureListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragGestureListener dgl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resetRecognizer",
+            "description": ""
+        },
+        {
+            "nombre": "setComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSourceActions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int actions",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregisterListeners",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "component",
+            "description": ""
+        },
+        {
+            "nombre": "dragGestureListener",
+            "description": ""
+        },
+        {
+            "nombre": "dragSource",
+            "description": ""
+        },
+        {
+            "nombre": "events",
+            "description": ""
+        },
+        {
+            "nombre": "sourceActions",
+            "description": ""
+        }
+    ]
+}

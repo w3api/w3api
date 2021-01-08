@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress local",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLocalAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportedOptions",
+            "description": ""
+        }
+    ]
+}

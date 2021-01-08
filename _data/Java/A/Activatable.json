@@ -1,0 +1,129 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Activatable",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "RMIClientSocketFactory csf",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean restart",
+                    "description": ""
+                },
+                {
+                    "nombre": "String location",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "RMIServerSocketFactory ssf",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject<?> data",
+                    "description": ""
+                },
+                {
+                    "nombre": "ActivationID id",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "exportObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RMIClientSocketFactory csf",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean restart",
+                    "description": ""
+                },
+                {
+                    "nombre": "String location",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "Remote obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "RMIServerSocketFactory ssf",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject<?> data",
+                    "description": ""
+                },
+                {
+                    "nombre": "ActivationID id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getID",
+            "description": ""
+        },
+        {
+            "nombre": "inactive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationID id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationDesc desc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unexportObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean force",
+                    "description": ""
+                },
+                {
+                    "nombre": "Remote obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationID id",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

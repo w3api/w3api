@@ -1,0 +1,579 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JComboBox",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Vector<E> items",
+                    "description": ""
+                },
+                {
+                    "nombre": "ComboBoxModel<E> aModel",
+                    "description": ""
+                },
+                {
+                    "nombre": "E[] items",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "actionPerformed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActionEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "actionPropertyChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Action action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addActionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActionListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addItem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addItemListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ItemListener aListener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addPopupMenuListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PopupMenuListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "configureEditor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object anItem",
+                    "description": ""
+                },
+                {
+                    "nombre": "ComboBoxEditor anEditor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "configurePropertiesFromAction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "contentsChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListDataEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createActionPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDefaultKeySelectionManager",
+            "description": ""
+        },
+        {
+            "nombre": "fireActionEvent",
+            "description": ""
+        },
+        {
+            "nombre": "fireItemStateChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ItemEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "firePopupMenuCanceled",
+            "description": ""
+        },
+        {
+            "nombre": "firePopupMenuWillBecomeInvisible",
+            "description": ""
+        },
+        {
+            "nombre": "firePopupMenuWillBecomeVisible",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getAction",
+            "description": ""
+        },
+        {
+            "nombre": "getActionCommand",
+            "description": ""
+        },
+        {
+            "nombre": "getActionListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getEditor",
+            "description": ""
+        },
+        {
+            "nombre": "getItemAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getItemCount",
+            "description": ""
+        },
+        {
+            "nombre": "getItemListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getKeySelectionManager",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumRowCount",
+            "description": ""
+        },
+        {
+            "nombre": "getModel",
+            "description": ""
+        },
+        {
+            "nombre": "getPopupMenuListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getPrototypeDisplayValue",
+            "description": ""
+        },
+        {
+            "nombre": "getRenderer",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedItem",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedObjects",
+            "description": ""
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "hidePopup",
+            "description": ""
+        },
+        {
+            "nombre": "insertItemAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "E item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "installAncestorListener",
+            "description": ""
+        },
+        {
+            "nombre": "intervalAdded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListDataEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intervalRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListDataEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEditable",
+            "description": ""
+        },
+        {
+            "nombre": "isLightWeightPopupEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isPopupVisible",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "processKeyEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeActionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActionListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAllItems",
+            "description": ""
+        },
+        {
+            "nombre": "removeItem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object anObject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeItemAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int anIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeItemListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ItemListener aListener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removePopupMenuListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PopupMenuListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectedItemChanged",
+            "description": ""
+        },
+        {
+            "nombre": "selectWithKeyChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char keyChar",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setActionCommand",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String aCommand",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean aFlag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ComboBoxEditor anEditor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setKeySelectionManager",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComboBox.KeySelectionManager aManager",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLightWeightPopupEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean aFlag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximumRowCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int count",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ComboBoxModel<E> aModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPopupVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrototypeDisplayValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E prototypeDisplayValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRenderer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListCellRenderer<? super E> aRenderer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int anIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedItem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object anObject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ComboBoxUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showPopup",
+            "description": ""
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "actionCommand",
+            "description": ""
+        },
+        {
+            "nombre": "dataModel",
+            "description": ""
+        },
+        {
+            "nombre": "editor",
+            "description": ""
+        },
+        {
+            "nombre": "isEditable",
+            "description": ""
+        },
+        {
+            "nombre": "keySelectionManager",
+            "description": ""
+        },
+        {
+            "nombre": "lightWeightPopupEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "maximumRowCount",
+            "description": ""
+        },
+        {
+            "nombre": "renderer",
+            "description": ""
+        },
+        {
+            "nombre": "selectedItemReminder",
+            "description": ""
+        }
+    ]
+}

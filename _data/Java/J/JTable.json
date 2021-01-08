@@ -1,0 +1,1409 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JTable",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Vector<?> columnNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numColumns",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] columnNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "Vector<? extends Vector> rowData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numRows",
+                    "description": ""
+                },
+                {
+                    "nombre": "ListSelectionModel sm",
+                    "description": ""
+                },
+                {
+                    "nombre": "TableColumnModel cm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[][] rowData",
+                    "description": ""
+                },
+                {
+                    "nombre": "TableModel dm",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumn aColumn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addColumnSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addNotify",
+            "description": ""
+        },
+        {
+            "nombre": "addRowSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "changeSelection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rowIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean toggle",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean extend",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clearSelection",
+            "description": ""
+        },
+        {
+            "nombre": "columnAdded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "columnAtPoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point point",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "columnMarginChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "columnMoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "columnRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "columnSelectionChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListSelectionEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "configureEnclosingScrollPane",
+            "description": ""
+        },
+        {
+            "nombre": "convertColumnIndexToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int viewColumnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convertColumnIndexToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int modelColumnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convertRowIndexToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int viewRowIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convertRowIndexToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int modelRowIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDefaultColumnModel",
+            "description": ""
+        },
+        {
+            "nombre": "createDefaultColumnsFromModel",
+            "description": ""
+        },
+        {
+            "nombre": "createDefaultDataModel",
+            "description": ""
+        },
+        {
+            "nombre": "createDefaultEditors",
+            "description": ""
+        },
+        {
+            "nombre": "createDefaultRenderers",
+            "description": ""
+        },
+        {
+            "nombre": "createDefaultSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "createDefaultTableHeader",
+            "description": ""
+        },
+        {
+            "nombre": "createScrollPaneForTable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTable aTable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doLayout",
+            "description": ""
+        },
+        {
+            "nombre": "editCellAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventObject e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "editingCanceled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "editingStopped",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getAutoCreateColumnsFromModel",
+            "description": ""
+        },
+        {
+            "nombre": "getAutoCreateRowSorter",
+            "description": ""
+        },
+        {
+            "nombre": "getAutoResizeMode",
+            "description": ""
+        },
+        {
+            "nombre": "getCellEditor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCellRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean includeSpacing",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCellRenderer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCellSelectionEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "getColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object identifier",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColumnClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColumnCount",
+            "description": ""
+        },
+        {
+            "nombre": "getColumnModel",
+            "description": ""
+        },
+        {
+            "nombre": "getColumnName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColumnSelectionAllowed",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultEditor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> columnClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultRenderer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> columnClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDragEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "getDropLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getDropMode",
+            "description": ""
+        },
+        {
+            "nombre": "getEditingColumn",
+            "description": ""
+        },
+        {
+            "nombre": "getEditingRow",
+            "description": ""
+        },
+        {
+            "nombre": "getEditorComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getFillsViewportHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getGridColor",
+            "description": ""
+        },
+        {
+            "nombre": "getIntercellSpacing",
+            "description": ""
+        },
+        {
+            "nombre": "getModel",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredScrollableViewportSize",
+            "description": ""
+        },
+        {
+            "nombre": "getPrintable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTable.PrintMode printMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "MessageFormat headerFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "MessageFormat footerFormat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowCount",
+            "description": ""
+        },
+        {
+            "nombre": "getRowHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowMargin",
+            "description": ""
+        },
+        {
+            "nombre": "getRowSelectionAllowed",
+            "description": ""
+        },
+        {
+            "nombre": "getRowSorter",
+            "description": ""
+        },
+        {
+            "nombre": "getScrollableBlockIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                },
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getScrollableTracksViewportHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getScrollableTracksViewportWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getScrollableUnitIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                },
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSelectedColumn",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedColumnCount",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedColumns",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedRow",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedRowCount",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedRows",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionBackground",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionForeground",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "getShowHorizontalLines",
+            "description": ""
+        },
+        {
+            "nombre": "getShowVerticalLines",
+            "description": ""
+        },
+        {
+            "nombre": "getSurrendersFocusOnKeystroke",
+            "description": ""
+        },
+        {
+            "nombre": "getTableHeader",
+            "description": ""
+        },
+        {
+            "nombre": "getToolTipText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "getUpdateSelectionOnSort",
+            "description": ""
+        },
+        {
+            "nombre": "getValueAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "initializeLocalVars",
+            "description": ""
+        },
+        {
+            "nombre": "isCellEditable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isCellSelected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isColumnSelected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEditing",
+            "description": ""
+        },
+        {
+            "nombre": "isRowSelected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "moveColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int targetColumn",
+                    "description": ""
+                },
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "prepareEditor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "TableCellEditor editor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepareRenderer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "TableCellRenderer renderer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "print",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MessageFormat footerFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintRequestAttributeSet attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTable.PrintMode printMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "MessageFormat headerFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintService service",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean showPrintDialog",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean interactive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumn aColumn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeColumnSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeEditor",
+            "description": ""
+        },
+        {
+            "nombre": "removeNotify",
+            "description": ""
+        },
+        {
+            "nombre": "removeRowSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resizeAndRepaint",
+            "description": ""
+        },
+        {
+            "nombre": "rowAtPoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point point",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectAll",
+            "description": ""
+        },
+        {
+            "nombre": "setAutoCreateColumnsFromModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean autoCreateColumnsFromModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAutoCreateRowSorter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean autoCreateRowSorter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAutoResizeMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellEditor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableCellEditor anEditor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellSelectionEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean cellSelectionEnabled",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColumnModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModel columnModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColumnSelectionAllowed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean columnSelectionAllowed",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColumnSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultEditor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> columnClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "TableCellEditor editor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultRenderer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> columnClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "TableCellRenderer renderer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDragEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDropMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DropMode dropMode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditingColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int aColumn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditingRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int aRow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFillsViewportHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean fillsViewportHeight",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGridColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color gridColor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIntercellSpacing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dimension intercellSpacing",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableModel dataModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPreferredScrollableViewportSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dimension size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rowHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowMargin",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rowMargin",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowSelectionAllowed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean rowSelectionAllowed",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowSorter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowSorter<? extends TableModel> sorter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionBackground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color selectionBackground",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionForeground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color selectionForeground",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int selectionMode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListSelectionModel selectionModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShowGrid",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean showGrid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShowHorizontalLines",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean showHorizontalLines",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShowVerticalLines",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean showVerticalLines",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSurrendersFocusOnKeystroke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean surrendersFocusOnKeystroke",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTableHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTableHeader tableHeader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUpdateSelectionOnSort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean update",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValueAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object aValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sizeColumnsToFit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int resizingColumn",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean lastColumnOnly",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sorterChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowSorterEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tableChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unconfigureEnclosingScrollPane",
+            "description": ""
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        },
+        {
+            "nombre": "valueChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListSelectionEvent e",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "AUTO_RESIZE_ALL_COLUMNS",
+            "description": ""
+        },
+        {
+            "nombre": "AUTO_RESIZE_LAST_COLUMN",
+            "description": ""
+        },
+        {
+            "nombre": "AUTO_RESIZE_NEXT_COLUMN",
+            "description": ""
+        },
+        {
+            "nombre": "AUTO_RESIZE_OFF",
+            "description": ""
+        },
+        {
+            "nombre": "AUTO_RESIZE_SUBSEQUENT_COLUMNS",
+            "description": ""
+        },
+        {
+            "nombre": "autoCreateColumnsFromModel",
+            "description": ""
+        },
+        {
+            "nombre": "autoResizeMode",
+            "description": ""
+        },
+        {
+            "nombre": "cellEditor",
+            "description": ""
+        },
+        {
+            "nombre": "cellSelectionEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "columnModel",
+            "description": ""
+        },
+        {
+            "nombre": "dataModel",
+            "description": ""
+        },
+        {
+            "nombre": "defaultEditorsByColumnClass",
+            "description": ""
+        },
+        {
+            "nombre": "defaultRenderersByColumnClass",
+            "description": ""
+        },
+        {
+            "nombre": "editingColumn",
+            "description": ""
+        },
+        {
+            "nombre": "editingRow",
+            "description": ""
+        },
+        {
+            "nombre": "editorComp",
+            "description": ""
+        },
+        {
+            "nombre": "gridColor",
+            "description": ""
+        },
+        {
+            "nombre": "preferredViewportSize",
+            "description": ""
+        },
+        {
+            "nombre": "rowHeight",
+            "description": ""
+        },
+        {
+            "nombre": "rowMargin",
+            "description": ""
+        },
+        {
+            "nombre": "rowSelectionAllowed",
+            "description": ""
+        },
+        {
+            "nombre": "selectionBackground",
+            "description": ""
+        },
+        {
+            "nombre": "selectionForeground",
+            "description": ""
+        },
+        {
+            "nombre": "selectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "showHorizontalLines",
+            "description": ""
+        },
+        {
+            "nombre": "showVerticalLines",
+            "description": ""
+        },
+        {
+            "nombre": "tableHeader",
+            "description": ""
+        }
+    ]
+}

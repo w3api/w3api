@@ -1,0 +1,397 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CompositeView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "childAllocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flipEastAndWestAtEnds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int position",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBottomInset",
+            "description": ""
+        },
+        {
+            "nombre": "getChildAllocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInsideAllocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLeftInset",
+            "description": ""
+        },
+        {
+            "nombre": "getNextEastWestVisualPositionFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNextNorthSouthVisualPositionFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNextVisualPositionFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRightInset",
+            "description": ""
+        },
+        {
+            "nombre": "getTopInset",
+            "description": ""
+        },
+        {
+            "nombre": "getView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getViewAtPoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle alloc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getViewAtPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getViewCount",
+            "description": ""
+        },
+        {
+            "nombre": "getViewIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getViewIndexAtPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isAfter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle alloc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle alloc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadChildren",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modelToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Position.Bias b1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "View[] views",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "short left",
+                    "description": ""
+                },
+                {
+                    "nombre": "short right",
+                    "description": ""
+                },
+                {
+                    "nombre": "short top",
+                    "description": ""
+                },
+                {
+                    "nombre": "short bottom",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParagraphInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "View parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "viewToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] bias",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

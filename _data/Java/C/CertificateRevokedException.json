@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CertificateRevokedException",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Date revocationDate",
+                    "description": ""
+                },
+                {
+                    "nombre": "CRLReason reason",
+                    "description": ""
+                },
+                {
+                    "nombre": "Extension> extensions",
+                    "description": ""
+                },
+                {
+                    "nombre": "X500Principal authority",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAuthorityName",
+            "description": ""
+        },
+        {
+            "nombre": "getExtensions",
+            "description": ""
+        },
+        {
+            "nombre": "getInvalidityDate",
+            "description": ""
+        },
+        {
+            "nombre": "getRevocationDate",
+            "description": ""
+        },
+        {
+            "nombre": "getRevocationReason",
+            "description": ""
+        }
+    ]
+}

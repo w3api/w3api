@@ -1,0 +1,309 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "File",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String child",
+                    "description": ""
+                },
+                {
+                    "nombre": "File parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "String pathname",
+                    "description": ""
+                },
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parent",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "canExecute",
+            "description": ""
+        },
+        {
+            "nombre": "canRead",
+            "description": ""
+        },
+        {
+            "nombre": "canWrite",
+            "description": ""
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File pathname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createNewFile",
+            "description": ""
+        },
+        {
+            "nombre": "createTempFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File directory",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String suffix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "delete",
+            "description": ""
+        },
+        {
+            "nombre": "deleteOnExit",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exists",
+            "description": ""
+        },
+        {
+            "nombre": "getAbsoluteFile",
+            "description": ""
+        },
+        {
+            "nombre": "getAbsolutePath",
+            "description": ""
+        },
+        {
+            "nombre": "getCanonicalFile",
+            "description": ""
+        },
+        {
+            "nombre": "getCanonicalPath",
+            "description": ""
+        },
+        {
+            "nombre": "getFreeSpace",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getParent",
+            "description": ""
+        },
+        {
+            "nombre": "getParentFile",
+            "description": ""
+        },
+        {
+            "nombre": "getPath",
+            "description": ""
+        },
+        {
+            "nombre": "getTotalSpace",
+            "description": ""
+        },
+        {
+            "nombre": "getUsableSpace",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isAbsolute",
+            "description": ""
+        },
+        {
+            "nombre": "isDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "isFile",
+            "description": ""
+        },
+        {
+            "nombre": "isHidden",
+            "description": ""
+        },
+        {
+            "nombre": "lastModified",
+            "description": ""
+        },
+        {
+            "nombre": "length",
+            "description": ""
+        },
+        {
+            "nombre": "list",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FilenameFilter filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "listFiles",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FilenameFilter filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileFilter filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "listRoots",
+            "description": ""
+        },
+        {
+            "nombre": "mkdir",
+            "description": ""
+        },
+        {
+            "nombre": "mkdirs",
+            "description": ""
+        },
+        {
+            "nombre": "renameTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File dest",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExecutable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean ownerOnly",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean executable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLastModified",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReadable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean readable",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean ownerOnly",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReadOnly",
+            "description": ""
+        },
+        {
+            "nombre": "setWritable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean writable",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean ownerOnly",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toPath",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "toURI",
+            "description": ""
+        },
+        {
+            "nombre": "toURL",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "pathSeparator",
+            "description": ""
+        },
+        {
+            "nombre": "pathSeparatorChar",
+            "description": ""
+        },
+        {
+            "nombre": "separator",
+            "description": ""
+        },
+        {
+            "nombre": "separatorChar",
+            "description": ""
+        }
+    ]
+}

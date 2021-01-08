@@ -1,0 +1,127 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Attributes2Impl",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Attributes atts",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDeclared",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSpecified",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Attributes atts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDeclared",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSpecified",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,297 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DatatypeFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "newDefaultInstance",
+            "description": ""
+        },
+        {
+            "nombre": "newDuration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger minutes",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger years",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hours",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isPositive",
+                    "description": ""
+                },
+                {
+                    "nombre": "int seconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "int days",
+                    "description": ""
+                },
+                {
+                    "nombre": "String lexicalRepresentation",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger months",
+                    "description": ""
+                },
+                {
+                    "nombre": "int months",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minutes",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger hours",
+                    "description": ""
+                },
+                {
+                    "nombre": "int years",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal seconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "long durationInMilliSeconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger days",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDurationDayTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger second",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isPositive",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger day",
+                    "description": ""
+                },
+                {
+                    "nombre": "int day",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger hour",
+                    "description": ""
+                },
+                {
+                    "nombre": "String lexicalRepresentation",
+                    "description": ""
+                },
+                {
+                    "nombre": "long durationInMilliseconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hour",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger minute",
+                    "description": ""
+                },
+                {
+                    "nombre": "int second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDurationYearMonth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger month",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger year",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isPositive",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "String lexicalRepresentation",
+                    "description": ""
+                },
+                {
+                    "nombre": "long durationInMilliseconds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String factoryClassName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newXMLGregorianCalendar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int timezone",
+                    "description": ""
+                },
+                {
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int day",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal fractionalSecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "String lexicalRepresentation",
+                    "description": ""
+                },
+                {
+                    "nombre": "int millisecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "GregorianCalendar cal",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hour",
+                    "description": ""
+                },
+                {
+                    "nombre": "int second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newXMLGregorianCalendarDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int timezone",
+                    "description": ""
+                },
+                {
+                    "nombre": "int day",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newXMLGregorianCalendarTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int hours",
+                    "description": ""
+                },
+                {
+                    "nombre": "int timezone",
+                    "description": ""
+                },
+                {
+                    "nombre": "int seconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minutes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int milliseconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal fractionalSecond",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DATATYPEFACTORY_IMPLEMENTATION_CLASS",
+            "description": ""
+        },
+        {
+            "nombre": "DATATYPEFACTORY_PROPERTY",
+            "description": ""
+        }
+    ]
+}

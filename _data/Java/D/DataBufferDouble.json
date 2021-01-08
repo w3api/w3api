@@ -1,0 +1,149 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DataBufferDouble",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dataArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numBanks",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[][] dataArray",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBankData",
+            "description": ""
+        },
+        {
+            "nombre": "getData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElemDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElemFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setElem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                },
+                {
+                    "nombre": "int val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setElemDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                },
+                {
+                    "nombre": "double val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setElemFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "float val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

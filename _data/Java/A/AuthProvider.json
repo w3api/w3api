@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AuthProvider",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String versionStr",
+                    "description": ""
+                },
+                {
+                    "nombre": "String info",
+                    "description": ""
+                },
+                {
+                    "nombre": "double version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "login",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CallbackHandler handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject subject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "logout",
+            "description": ""
+        },
+        {
+            "nombre": "setCallbackHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CallbackHandler handler",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

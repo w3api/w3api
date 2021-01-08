@@ -1,0 +1,341 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GlyphView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "breakView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
+                    "nombre": "float len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "changedUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkPainter",
+            "description": ""
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "createFragment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBackground",
+            "description": ""
+        },
+        {
+            "nombre": "getBreakWeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "float len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEndOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getFont",
+            "description": ""
+        },
+        {
+            "nombre": "getForeground",
+            "description": ""
+        },
+        {
+            "nombre": "getGlyphPainter",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNextVisualPositionFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPartialSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStartOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getTabbedSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "TabExpander e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabExpander",
+            "description": ""
+        },
+        {
+            "nombre": "getText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isStrikeThrough",
+            "description": ""
+        },
+        {
+            "nombre": "isSubscript",
+            "description": ""
+        },
+        {
+            "nombre": "isSuperscript",
+            "description": ""
+        },
+        {
+            "nombre": "isUnderline",
+            "description": ""
+        },
+        {
+            "nombre": "modelToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGlyphPainter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GlyphView.GlyphPainter p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "viewToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasReturn",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

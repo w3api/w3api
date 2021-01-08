@@ -1,0 +1,173 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getDefaultProgressWindow",
+            "description": ""
+        },
+        {
+            "nombre": "isExtensionPartCached",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String part",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL ref",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] parts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isPartCached",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String part",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] parts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isResourceCached",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL ref",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadExtensionPart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DownloadServiceListener progress",
+                    "description": ""
+                },
+                {
+                    "nombre": "String part",
+                    "description": ""
+                },
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] parts",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL ref",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadPart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String part",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] parts",
+                    "description": ""
+                },
+                {
+                    "nombre": "DownloadServiceListener progress",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL ref",
+                    "description": ""
+                },
+                {
+                    "nombre": "DownloadServiceListener progress",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeExtensionPart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String part",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL ref",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] parts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removePart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String part",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] parts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL ref",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

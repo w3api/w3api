@@ -1,0 +1,127 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AffineTransformOp",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "RenderingHints hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform xform",
+                    "description": ""
+                },
+                {
+                    "nombre": "int interpolationType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createCompatibleDestImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorModel destCM",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCompatibleDestRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                },
+                {
+                    "nombre": "WritableRaster dst",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInterpolationType",
+            "description": ""
+        },
+        {
+            "nombre": "getPoint2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D srcPt",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D dstPt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRenderingHints",
+            "description": ""
+        },
+        {
+            "nombre": "getTransform",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "TYPE_BICUBIC",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_BILINEAR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_NEAREST_NEIGHBOR",
+            "description": ""
+        }
+    ]
+}

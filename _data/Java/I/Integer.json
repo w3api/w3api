@@ -1,0 +1,471 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Integer",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bitCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "byteValue",
+            "description": ""
+        },
+        {
+            "nombre": "compare",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer anotherInteger",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareUnsigned",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "divideUnsigned",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dividend",
+                    "description": ""
+                },
+                {
+                    "nombre": "int divisor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doubleValue",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "floatValue",
+            "description": ""
+        },
+        {
+            "nombre": "getInteger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Integer val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "highestOneBit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intValue",
+            "description": ""
+        },
+        {
+            "nombre": "longValue",
+            "description": ""
+        },
+        {
+            "nombre": "lowestOneBit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "max",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "min",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "numberOfLeadingZeros",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "numberOfTrailingZeros",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parseInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence s",
+                    "description": ""
+                },
+                {
+                    "nombre": "String s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parseUnsignedInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence s",
+                    "description": ""
+                },
+                {
+                    "nombre": "String s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remainderUnsigned",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dividend",
+                    "description": ""
+                },
+                {
+                    "nombre": "int divisor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reverse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reverseBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rotateLeft",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int distance",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rotateRight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int distance",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shortValue",
+            "description": ""
+        },
+        {
+            "nombre": "signum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toBinaryString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toHexString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toOctalString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toUnsignedLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toUnsignedString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "valueOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "String s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "BYTES",
+            "description": ""
+        },
+        {
+            "nombre": "MAX_VALUE",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_VALUE",
+            "description": ""
+        },
+        {
+            "nombre": "SIZE",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE",
+            "description": ""
+        }
+    ]
+}

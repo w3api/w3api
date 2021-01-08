@@ -1,0 +1,101 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GradientPaint",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "float y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pt2",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pt1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color color2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color color1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean cyclic",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x2",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RenderingHints hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorModel cm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle deviceBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle2D userBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform xform",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColor1",
+            "description": ""
+        },
+        {
+            "nombre": "getColor2",
+            "description": ""
+        },
+        {
+            "nombre": "getPoint1",
+            "description": ""
+        },
+        {
+            "nombre": "getPoint2",
+            "description": ""
+        },
+        {
+            "nombre": "getTransparency",
+            "description": ""
+        },
+        {
+            "nombre": "isCyclic",
+            "description": ""
+        }
+    ]
+}

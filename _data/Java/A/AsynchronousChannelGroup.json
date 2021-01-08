@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AsynchronousChannelGroup",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "AsynchronousChannelProvider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "awaitTermination",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isShutdown",
+            "description": ""
+        },
+        {
+            "nombre": "isTerminated",
+            "description": ""
+        },
+        {
+            "nombre": "provider",
+            "description": ""
+        },
+        {
+            "nombre": "shutdown",
+            "description": ""
+        },
+        {
+            "nombre": "shutdownNow",
+            "description": ""
+        },
+        {
+            "nombre": "withCachedThreadPool",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int initialSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutorService executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withFixedThreadPool",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int nThreads",
+                    "description": ""
+                },
+                {
+                    "nombre": "ThreadFactory threadFactory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withThreadPool",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ExecutorService executor",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "instantiation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DrbgParameters.Capability capability",
+                    "description": ""
+                },
+                {
+                    "nombre": "int strength",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] personalizationString",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int strength",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean predictionResistance",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] additionalInput",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reseed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean predictionResistance",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] additionalInput",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

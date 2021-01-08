@@ -1,0 +1,73 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Book",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "append",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int numPages",
+                    "description": ""
+                },
+                {
+                    "nombre": "Printable painter",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageFormat page",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNumberOfPages",
+            "description": ""
+        },
+        {
+            "nombre": "getPageFormat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPrintable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pageIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Printable painter",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageFormat page",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

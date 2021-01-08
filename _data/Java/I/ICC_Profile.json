@@ -1,0 +1,577 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "finalize",
+            "description": ""
+        },
+        {
+            "nombre": "getColorSpaceType",
+            "description": ""
+        },
+        {
+            "nombre": "getData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tagSignature",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int cspace",
+                    "description": ""
+                },
+                {
+                    "nombre": "String fileName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMajorVersion",
+            "description": ""
+        },
+        {
+            "nombre": "getMinorVersion",
+            "description": ""
+        },
+        {
+            "nombre": "getNumComponents",
+            "description": ""
+        },
+        {
+            "nombre": "getPCSType",
+            "description": ""
+        },
+        {
+            "nombre": "getProfileClass",
+            "description": ""
+        },
+        {
+            "nombre": "readResolve",
+            "description": ""
+        },
+        {
+            "nombre": "setData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tagSignature",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] tagData",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String fileName",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream s",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CLASS_ABSTRACT",
+            "description": ""
+        },
+        {
+            "nombre": "CLASS_COLORSPACECONVERSION",
+            "description": ""
+        },
+        {
+            "nombre": "CLASS_DEVICELINK",
+            "description": ""
+        },
+        {
+            "nombre": "CLASS_DISPLAY",
+            "description": ""
+        },
+        {
+            "nombre": "CLASS_INPUT",
+            "description": ""
+        },
+        {
+            "nombre": "CLASS_NAMEDCOLOR",
+            "description": ""
+        },
+        {
+            "nombre": "CLASS_OUTPUT",
+            "description": ""
+        },
+        {
+            "nombre": "icAbsoluteColorimetric",
+            "description": ""
+        },
+        {
+            "nombre": "icCurveCount",
+            "description": ""
+        },
+        {
+            "nombre": "icCurveData",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrCmmId",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrColorSpace",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrCreator",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrDate",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrDeviceClass",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrFlags",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrIlluminant",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrMagic",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrManufacturer",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrModel",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrPcs",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrPlatform",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrProfileID",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrRenderingIntent",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrSize",
+            "description": ""
+        },
+        {
+            "nombre": "icHdrVersion",
+            "description": ""
+        },
+        {
+            "nombre": "icICCAbsoluteColorimetric",
+            "description": ""
+        },
+        {
+            "nombre": "icMediaRelativeColorimetric",
+            "description": ""
+        },
+        {
+            "nombre": "icPerceptual",
+            "description": ""
+        },
+        {
+            "nombre": "icRelativeColorimetric",
+            "description": ""
+        },
+        {
+            "nombre": "icSaturation",
+            "description": ""
+        },
+        {
+            "nombre": "icSigAbstractClass",
+            "description": ""
+        },
+        {
+            "nombre": "icSigAToB0Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigAToB1Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigAToB2Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigBlueColorantTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigBlueMatrixColumnTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigBlueTRCTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigBToA0Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigBToA1Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigBToA2Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigCalibrationDateTimeTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigCharTargetTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigChromaticAdaptationTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigChromaticityTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigCmyData",
+            "description": ""
+        },
+        {
+            "nombre": "icSigCmykData",
+            "description": ""
+        },
+        {
+            "nombre": "icSigColorantOrderTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigColorantTableTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigColorSpaceClass",
+            "description": ""
+        },
+        {
+            "nombre": "icSigCopyrightTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigCrdInfoTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigDeviceMfgDescTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigDeviceModelDescTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigDeviceSettingsTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigDisplayClass",
+            "description": ""
+        },
+        {
+            "nombre": "icSigGamutTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigGrayData",
+            "description": ""
+        },
+        {
+            "nombre": "icSigGrayTRCTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigGreenColorantTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigGreenMatrixColumnTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigGreenTRCTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigHead",
+            "description": ""
+        },
+        {
+            "nombre": "icSigHlsData",
+            "description": ""
+        },
+        {
+            "nombre": "icSigHsvData",
+            "description": ""
+        },
+        {
+            "nombre": "icSigInputClass",
+            "description": ""
+        },
+        {
+            "nombre": "icSigLabData",
+            "description": ""
+        },
+        {
+            "nombre": "icSigLinkClass",
+            "description": ""
+        },
+        {
+            "nombre": "icSigLuminanceTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigLuvData",
+            "description": ""
+        },
+        {
+            "nombre": "icSigMeasurementTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigMediaBlackPointTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigMediaWhitePointTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigNamedColor2Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigNamedColorClass",
+            "description": ""
+        },
+        {
+            "nombre": "icSigOutputClass",
+            "description": ""
+        },
+        {
+            "nombre": "icSigOutputResponseTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigPreview0Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigPreview1Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigPreview2Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigProfileDescriptionTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigProfileSequenceDescTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigPs2CRD0Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigPs2CRD1Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigPs2CRD2Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigPs2CRD3Tag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigPs2CSATag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigPs2RenderingIntentTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigRedColorantTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigRedMatrixColumnTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigRedTRCTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigRgbData",
+            "description": ""
+        },
+        {
+            "nombre": "icSigScreeningDescTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigScreeningTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpace2CLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpace3CLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpace4CLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpace5CLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpace6CLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpace7CLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpace8CLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpace9CLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpaceACLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpaceBCLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpaceCCLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpaceDCLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpaceECLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigSpaceFCLR",
+            "description": ""
+        },
+        {
+            "nombre": "icSigTechnologyTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigUcrBgTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigViewingCondDescTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigViewingConditionsTag",
+            "description": ""
+        },
+        {
+            "nombre": "icSigXYZData",
+            "description": ""
+        },
+        {
+            "nombre": "icSigYCbCrData",
+            "description": ""
+        },
+        {
+            "nombre": "icSigYxyData",
+            "description": ""
+        },
+        {
+            "nombre": "icTagReserved",
+            "description": ""
+        },
+        {
+            "nombre": "icTagType",
+            "description": ""
+        },
+        {
+            "nombre": "icXYZNumberX",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "allNotesOff",
+            "description": ""
+        },
+        {
+            "nombre": "allSoundOff",
+            "description": ""
+        },
+        {
+            "nombre": "controlChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int controller",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChannelPressure",
+            "description": ""
+        },
+        {
+            "nombre": "getController",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int controller",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMono",
+            "description": ""
+        },
+        {
+            "nombre": "getMute",
+            "description": ""
+        },
+        {
+            "nombre": "getOmni",
+            "description": ""
+        },
+        {
+            "nombre": "getPitchBend",
+            "description": ""
+        },
+        {
+            "nombre": "getPolyPressure",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int noteNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProgram",
+            "description": ""
+        },
+        {
+            "nombre": "getSolo",
+            "description": ""
+        },
+        {
+            "nombre": "localControl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "noteOff",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int velocity",
+                    "description": ""
+                },
+                {
+                    "nombre": "int noteNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "noteOn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int velocity",
+                    "description": ""
+                },
+                {
+                    "nombre": "int noteNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "programChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bank",
+                    "description": ""
+                },
+                {
+                    "nombre": "int program",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resetAllControllers",
+            "description": ""
+        },
+        {
+            "nombre": "setChannelPressure",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pressure",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMono",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean mute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOmni",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPitchBend",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bend",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPolyPressure",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pressure",
+                    "description": ""
+                },
+                {
+                    "nombre": "int noteNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSolo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean soloState",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

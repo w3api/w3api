@@ -1,0 +1,51 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "A attachment",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super A> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionHandler<Integer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super A> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "A attachment",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionHandler<Integer",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

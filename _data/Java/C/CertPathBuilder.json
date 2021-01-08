@@ -1,0 +1,71 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CertPathBuilder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "CertPathBuilderSpi builderSpi",
+                    "description": ""
+                },
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "build",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CertPathParameters params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultType",
+            "description": ""
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getRevocationChecker",
+            "description": ""
+        }
+    ]
+}

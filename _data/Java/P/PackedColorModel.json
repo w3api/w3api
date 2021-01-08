@@ -1,0 +1,121 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PackedColorModel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int[] colorMaskArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace space",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bits",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int amask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int gmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int trans",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int transferType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                },
+                {
+                    "nombre": "int alphaMask",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createCompatibleSampleModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlphaRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WritableRaster raster",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMask",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMasks",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isCompatibleSampleModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SampleModel sm",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

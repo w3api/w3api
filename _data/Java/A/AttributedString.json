@@ -1,0 +1,105 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AttributedString",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "?> attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator.Attribute[] attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator.Attribute attribute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator.Attribute[] attributes",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

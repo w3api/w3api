@@ -1,0 +1,405 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractPreferences",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "AbstractPreferences parent",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "absolutePath",
+            "description": ""
+        },
+        {
+            "nombre": "cachedChildren",
+            "description": ""
+        },
+        {
+            "nombre": "childrenNames",
+            "description": ""
+        },
+        {
+            "nombre": "childrenNamesSpi",
+            "description": ""
+        },
+        {
+            "nombre": "childSpi",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear",
+            "description": ""
+        },
+        {
+            "nombre": "exportNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream os",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exportSubtree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream os",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "flushSpi",
+            "description": ""
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String def",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBoolean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean def",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getByteArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] def",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nodeName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double def",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                },
+                {
+                    "nombre": "float def",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int def",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long def",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSpi",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRemoved",
+            "description": ""
+        },
+        {
+            "nombre": "isUserNode",
+            "description": ""
+        },
+        {
+            "nombre": "keys",
+            "description": ""
+        },
+        {
+            "nombre": "keysSpi",
+            "description": ""
+        },
+        {
+            "nombre": "name",
+            "description": ""
+        },
+        {
+            "nombre": "node",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nodeExists",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parent",
+            "description": ""
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putBoolean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putByteArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putSpi",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeNode",
+            "description": ""
+        },
+        {
+            "nombre": "removeNodeSpi",
+            "description": ""
+        },
+        {
+            "nombre": "removeSpi",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sync",
+            "description": ""
+        },
+        {
+            "nombre": "syncSpi",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "lock",
+            "description": ""
+        },
+        {
+            "nombre": "newNode",
+            "description": ""
+        }
+    ]
+}

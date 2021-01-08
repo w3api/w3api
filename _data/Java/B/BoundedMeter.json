@@ -1,0 +1,67 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BoundedMeter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ResourceRequest parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceApprover approver",
+                    "description": ""
+                },
+                {
+                    "nombre": "long bound",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ResourceRequest parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceApprover approver",
+                    "description": ""
+                },
+                {
+                    "nombre": "long bound",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBound",
+            "description": ""
+        },
+        {
+            "nombre": "setBound",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long bound",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

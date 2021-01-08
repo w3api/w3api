@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RMISocketFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createServerSocket",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSocket",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultSocketFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getFailureHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getSocketFactory",
+            "description": ""
+        },
+        {
+            "nombre": "setFailureHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RMIFailureHandler fh",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSocketFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RMISocketFactory fac",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

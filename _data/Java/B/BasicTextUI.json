@@ -1,0 +1,305 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicTextUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCaret",
+            "description": ""
+        },
+        {
+            "nombre": "createHighlighter",
+            "description": ""
+        },
+        {
+            "nombre": "createKeymap",
+            "description": ""
+        },
+        {
+            "nombre": "damageRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Position.Bias p0Bias",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias p1Bias",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTextComponent tc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getEditorKit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent tc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getKeymapName",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPropertyPrefix",
+            "description": ""
+        },
+        {
+            "nombre": "getRootView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent tc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getToolTipText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point pt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVisibleEditorRect",
+            "description": ""
+        },
+        {
+            "nombre": "installDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "installKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "installListeners",
+            "description": ""
+        },
+        {
+            "nombre": "installUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modelChanged",
+            "description": ""
+        },
+        {
+            "nombre": "modelToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTextComponent tc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintBackground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintSafely",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "propertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeEvent evt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "View v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallListeners",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "update",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "viewToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Position.Bias[] biasReturn",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point pt",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTextComponent tc",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

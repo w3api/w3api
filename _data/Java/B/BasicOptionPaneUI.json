@@ -1,0 +1,283 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicOptionPaneUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addButtonComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int initialIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] buttons",
+                    "description": ""
+                },
+                {
+                    "nombre": "Container container",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container top",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addMessageComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GridBagConstraints cons",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean internallyCreated",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxll",
+                    "description": ""
+                },
+                {
+                    "nombre": "Container container",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "burstStringInto",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maxll",
+                    "description": ""
+                },
+                {
+                    "nombre": "String d",
+                    "description": ""
+                },
+                {
+                    "nombre": "Container c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "containsCustomComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JOptionPane op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createButtonActionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int buttonIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createButtonArea",
+            "description": ""
+        },
+        {
+            "nombre": "createLayoutManager",
+            "description": ""
+        },
+        {
+            "nombre": "createMessageArea",
+            "description": ""
+        },
+        {
+            "nombre": "createPropertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createSeparator",
+            "description": ""
+        },
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getButtons",
+            "description": ""
+        },
+        {
+            "nombre": "getIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getIconForType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInitialValueIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxCharactersPerLineCount",
+            "description": ""
+        },
+        {
+            "nombre": "getMessage",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumOptionPaneSize",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSizeButtonsToSameWidth",
+            "description": ""
+        },
+        {
+            "nombre": "installComponents",
+            "description": ""
+        },
+        {
+            "nombre": "installDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "installKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "installListeners",
+            "description": ""
+        },
+        {
+            "nombre": "installUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resetInputValue",
+            "description": ""
+        },
+        {
+            "nombre": "selectInitialValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JOptionPane op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uninstallComponents",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallListeners",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "hasCustomComponents",
+            "description": ""
+        },
+        {
+            "nombre": "initialFocusComponent",
+            "description": ""
+        },
+        {
+            "nombre": "inputComponent",
+            "description": ""
+        },
+        {
+            "nombre": "MinimumHeight",
+            "description": ""
+        },
+        {
+            "nombre": "minimumSize",
+            "description": ""
+        },
+        {
+            "nombre": "MinimumWidth",
+            "description": ""
+        },
+        {
+            "nombre": "optionPane",
+            "description": ""
+        },
+        {
+            "nombre": "propertyChangeListener",
+            "description": ""
+        }
+    ]
+}

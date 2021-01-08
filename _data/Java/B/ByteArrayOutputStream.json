@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ByteArrayOutputStream",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int size",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "toByteArray",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int hibyte",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "String charsetName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "buf",
+            "description": ""
+        },
+        {
+            "nombre": "count",
+            "description": ""
+        }
+    ]
+}

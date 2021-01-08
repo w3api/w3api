@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "LineNumberReader",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int sz",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader in",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getLineNumber",
+            "description": ""
+        },
+        {
+            "nombre": "mark",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int readAheadLimit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] cbuf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readLine",
+            "description": ""
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "setLineNumber",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int lineNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "skip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long n",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

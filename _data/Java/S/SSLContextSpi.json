@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SSLContextSpi",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "engineCreateSSLEngine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGetClientSessionContext",
+            "description": ""
+        },
+        {
+            "nombre": "engineGetDefaultSSLParameters",
+            "description": ""
+        },
+        {
+            "nombre": "engineGetServerSessionContext",
+            "description": ""
+        },
+        {
+            "nombre": "engineGetServerSocketFactory",
+            "description": ""
+        },
+        {
+            "nombre": "engineGetSocketFactory",
+            "description": ""
+        },
+        {
+            "nombre": "engineGetSupportedSSLParameters",
+            "description": ""
+        },
+        {
+            "nombre": "engineInit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyManager[] km",
+                    "description": ""
+                },
+                {
+                    "nombre": "SecureRandom sr",
+                    "description": ""
+                },
+                {
+                    "nombre": "TrustManager[] tm",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

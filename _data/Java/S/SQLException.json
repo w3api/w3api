@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SQLException",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String SQLState",
+                    "description": ""
+                },
+                {
+                    "nombre": "String reason",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable cause",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vendorCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sqlState",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getErrorCode",
+            "description": ""
+        },
+        {
+            "nombre": "getNextException",
+            "description": ""
+        },
+        {
+            "nombre": "getSQLState",
+            "description": ""
+        },
+        {
+            "nombre": "iterator",
+            "description": ""
+        },
+        {
+            "nombre": "setNextException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SQLException ex",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

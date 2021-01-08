@@ -1,0 +1,109 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SimpleElementVisitor6",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "R defaultValue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "defaultAction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitExecutable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutableElement e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitPackage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "PackageElement e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeElement e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitTypeParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeParameterElement e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitVariable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "VariableElement e",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT_VALUE",
+            "description": ""
+        }
+    ]
+}

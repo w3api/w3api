@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BeanContextServiceRevokedEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextServices bcs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> sc",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean invalidate",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getServiceClass",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceAsBeanContextServices",
+            "description": ""
+        },
+        {
+            "nombre": "isCurrentServiceInvalidNow",
+            "description": ""
+        },
+        {
+            "nombre": "isServiceClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> service",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "serviceClass",
+            "description": ""
+        }
+    ]
+}

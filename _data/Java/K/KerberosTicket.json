@@ -1,0 +1,165 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "KerberosTicket",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Date authTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date startTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress[] clientAddresses",
+                    "description": ""
+                },
+                {
+                    "nombre": "KerberosPrincipal client",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean[] flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date renewTill",
+                    "description": ""
+                },
+                {
+                    "nombre": "KerberosPrincipal server",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date endTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] asn1Encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] sessionKey",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "destroy",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAuthTime",
+            "description": ""
+        },
+        {
+            "nombre": "getClient",
+            "description": ""
+        },
+        {
+            "nombre": "getClientAddresses",
+            "description": ""
+        },
+        {
+            "nombre": "getEncoded",
+            "description": ""
+        },
+        {
+            "nombre": "getEndTime",
+            "description": ""
+        },
+        {
+            "nombre": "getFlags",
+            "description": ""
+        },
+        {
+            "nombre": "getRenewTill",
+            "description": ""
+        },
+        {
+            "nombre": "getServer",
+            "description": ""
+        },
+        {
+            "nombre": "getSessionKey",
+            "description": ""
+        },
+        {
+            "nombre": "getSessionKeyType",
+            "description": ""
+        },
+        {
+            "nombre": "getStartTime",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isCurrent",
+            "description": ""
+        },
+        {
+            "nombre": "isDestroyed",
+            "description": ""
+        },
+        {
+            "nombre": "isForwardable",
+            "description": ""
+        },
+        {
+            "nombre": "isForwarded",
+            "description": ""
+        },
+        {
+            "nombre": "isInitial",
+            "description": ""
+        },
+        {
+            "nombre": "isPostdated",
+            "description": ""
+        },
+        {
+            "nombre": "isProxiable",
+            "description": ""
+        },
+        {
+            "nombre": "isProxy",
+            "description": ""
+        },
+        {
+            "nombre": "isRenewable",
+            "description": ""
+        },
+        {
+            "nombre": "refresh",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

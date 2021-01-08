@@ -1,0 +1,71 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DialogEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Dialog<?> source",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<? extends Event> eventType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "copyFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newSource",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<DialogEvent> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget newTarget",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        },
+        {
+            "nombre": "DIALOG_CLOSE_REQUEST",
+            "description": ""
+        },
+        {
+            "nombre": "DIALOG_HIDDEN",
+            "description": ""
+        },
+        {
+            "nombre": "DIALOG_HIDING",
+            "description": ""
+        },
+        {
+            "nombre": "DIALOG_SHOWING",
+            "description": ""
+        },
+        {
+            "nombre": "DIALOG_SHOWN",
+            "description": ""
+        }
+    ]
+}

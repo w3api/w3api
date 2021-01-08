@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StandardEmitterMBean",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "NotificationEmitter emitter",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> mbeanInterface",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isMXBean",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> mbeanInterface",
+                    "description": ""
+                },
+                {
+                    "nombre": "T implementation",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "sendNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Notification n",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

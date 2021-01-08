@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractResourceBundleProvider",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String... formats",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBundle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toBundleName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

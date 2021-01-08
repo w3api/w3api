@@ -1,0 +1,93 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CallSiteDescriptor",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType methodType",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                },
+                {
+                    "nombre": "Operation operation",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "changeMethodType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType newMethodType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "changeMethodTypeInternal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType newMethodType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "changeOperation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Operation newOperation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "changeOperationInternal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Operation newOperation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMethodType",
+            "description": ""
+        },
+        {
+            "nombre": "getOperation",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,543 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "arrayConstructor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> arrayClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "arrayElementGetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> arrayClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "arrayElementSetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> arrayClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "arrayElementVarHandle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> arrayClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "arrayLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> arrayClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "byteArrayViewVarHandle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> viewArrayClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteOrder byteOrder",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "byteBufferViewVarHandle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> viewArrayClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteOrder byteOrder",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "catchException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<? extends Throwable> exType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "collectArguments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "constant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "countedLoop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle start",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle body",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle init",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle iterations",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doWhileLoop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle pred",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle body",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle init",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dropArguments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>... valueTypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<Class<?>> valueTypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dropArgumentsToMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<Class<?>> newTypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int skip",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "empty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exactInvoker",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "explicitCastArguments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType newType",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filterArguments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle... filters",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filterReturnValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "foldArguments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle combiner",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "guardWithTest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle fallback",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle test",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "identity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertArguments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... values",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invoker",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "iteratedLoop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle iterator",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle body",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle init",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookup",
+            "description": ""
+        },
+        {
+            "nombre": "loop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle[]... clauses",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "permuteArguments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType newType",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                },
+                {
+                    "nombre": "int... reorder",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "privateLookupIn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> targetClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "publicLookup",
+            "description": ""
+        },
+        {
+            "nombre": "reflectAs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> expected",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "spreadInvoker",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int leadingArgCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "throwException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> returnType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<? extends Throwable> exType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryFinally",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle cleanup",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "varHandleExactInvoker",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "VarHandle.AccessMode accessMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "varHandleInvoker",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "VarHandle.AccessMode accessMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "whileLoop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle pred",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle body",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle init",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "zero",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

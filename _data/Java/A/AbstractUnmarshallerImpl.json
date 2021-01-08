@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractUnmarshallerImpl",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createUnmarshalException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SAXException e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEventHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getXMLReader",
+            "description": ""
+        },
+        {
+            "nombre": "isValidating",
+            "description": ""
+        },
+        {
+            "nombre": "setEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValidationEventHandler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValidating",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean validating",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmarshal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XMLReader reader",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputSource source",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "validating",
+            "description": ""
+        }
+    ]
+}

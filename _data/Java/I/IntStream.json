@@ -1,0 +1,355 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "allMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "anyMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asDoubleStream",
+            "description": ""
+        },
+        {
+            "nombre": "asLongStream",
+            "description": ""
+        },
+        {
+            "nombre": "average",
+            "description": ""
+        },
+        {
+            "nombre": "boxed",
+            "description": ""
+        },
+        {
+            "nombre": "builder",
+            "description": ""
+        },
+        {
+            "nombre": "collect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "R> combiner",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiConsumer<R",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<R> supplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjIntConsumer<R> accumulator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "concat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntStream b",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntStream a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "count",
+            "description": ""
+        },
+        {
+            "nombre": "distinct",
+            "description": ""
+        },
+        {
+            "nombre": "dropWhile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "empty",
+            "description": ""
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findAny",
+            "description": ""
+        },
+        {
+            "nombre": "findFirst",
+            "description": ""
+        },
+        {
+            "nombre": "flatMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntFunction<? extends IntStream> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forEach",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntConsumer action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forEachOrdered",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntConsumer action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "generate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntSupplier s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "iterate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntPredicate hasNext",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntUnaryOperator f",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntUnaryOperator next",
+                    "description": ""
+                },
+                {
+                    "nombre": "int seed",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "limit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long maxSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "map",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntUnaryOperator mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntToDoubleFunction mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntToLongFunction mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToObj",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntFunction<? extends U> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "max",
+            "description": ""
+        },
+        {
+            "nombre": "min",
+            "description": ""
+        },
+        {
+            "nombre": "noneMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int... values",
+                    "description": ""
+                },
+                {
+                    "nombre": "int t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "peek",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntConsumer action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "range",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int endExclusive",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startInclusive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rangeClosed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int endInclusive",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startInclusive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reduce",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int identity",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntBinaryOperator op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "skip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sorted",
+            "description": ""
+        },
+        {
+            "nombre": "sum",
+            "description": ""
+        },
+        {
+            "nombre": "summaryStatistics",
+            "description": ""
+        },
+        {
+            "nombre": "takeWhile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntPredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toArray",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BitSet",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int nbits",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "and",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BitSet set",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "andNot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BitSet set",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cardinality",
+            "description": ""
+        },
+        {
+            "nombre": "clear",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bitIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bitIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bitIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "intersects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BitSet set",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "length",
+            "description": ""
+        },
+        {
+            "nombre": "nextClearBit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextSetBit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "or",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BitSet set",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "previousClearBit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "previousSetBit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bitIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "stream",
+            "description": ""
+        },
+        {
+            "nombre": "toByteArray",
+            "description": ""
+        },
+        {
+            "nombre": "toLongArray",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "valueOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] bytes",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer bb",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongBuffer lb",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] longs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "xor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BitSet set",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

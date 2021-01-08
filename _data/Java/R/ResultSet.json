@@ -1,0 +1,1205 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "absolute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "afterLast",
+            "description": ""
+        },
+        {
+            "nombre": "beforeFirst",
+            "description": ""
+        },
+        {
+            "nombre": "cancelRowUpdates",
+            "description": ""
+        },
+        {
+            "nombre": "clearWarnings",
+            "description": ""
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "deleteRow",
+            "description": ""
+        },
+        {
+            "nombre": "findColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "first",
+            "description": ""
+        },
+        {
+            "nombre": "getArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAsciiStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBigDecimal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBinaryStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBlob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBoolean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getByte",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCharacterStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConcurrency",
+            "description": ""
+        },
+        {
+            "nombre": "getCursorName",
+            "description": ""
+        },
+        {
+            "nombre": "getDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Calendar cal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFetchDirection",
+            "description": ""
+        },
+        {
+            "nombre": "getFetchSize",
+            "description": ""
+        },
+        {
+            "nombre": "getFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHoldability",
+            "description": ""
+        },
+        {
+            "nombre": "getInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getNCharacterStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNClob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>> map",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRef",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRow",
+            "description": ""
+        },
+        {
+            "nombre": "getRowId",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getShort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSQLXML",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStatement",
+            "description": ""
+        },
+        {
+            "nombre": "getString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Calendar cal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTimestamp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Calendar cal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        },
+        {
+            "nombre": "getUnicodeStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getURL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWarnings",
+            "description": ""
+        },
+        {
+            "nombre": "insertRow",
+            "description": ""
+        },
+        {
+            "nombre": "isAfterLast",
+            "description": ""
+        },
+        {
+            "nombre": "isBeforeFirst",
+            "description": ""
+        },
+        {
+            "nombre": "isClosed",
+            "description": ""
+        },
+        {
+            "nombre": "isFirst",
+            "description": ""
+        },
+        {
+            "nombre": "isLast",
+            "description": ""
+        },
+        {
+            "nombre": "last",
+            "description": ""
+        },
+        {
+            "nombre": "moveToCurrentRow",
+            "description": ""
+        },
+        {
+            "nombre": "moveToInsertRow",
+            "description": ""
+        },
+        {
+            "nombre": "next",
+            "description": ""
+        },
+        {
+            "nombre": "previous",
+            "description": ""
+        },
+        {
+            "nombre": "refreshRow",
+            "description": ""
+        },
+        {
+            "nombre": "relative",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rows",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rowDeleted",
+            "description": ""
+        },
+        {
+            "nombre": "rowInserted",
+            "description": ""
+        },
+        {
+            "nombre": "rowUpdated",
+            "description": ""
+        },
+        {
+            "nombre": "setFetchDirection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFetchSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rows",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Array x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateAsciiStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateBigDecimal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateBinaryStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateBlob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "Blob x",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inputStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateBoolean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateByte",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateCharacterStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader x",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateClob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "Clob x",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "long x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateNCharacterStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader x",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateNClob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "NClob nClob",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateNString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nString",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateNull",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scaleOrLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "SQLType targetSqlType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateRef",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Ref x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateRow",
+            "description": ""
+        },
+        {
+            "nombre": "updateRowId",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowId x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateShort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "short x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateSQLXML",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "SQLXML xmlObject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Time x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateTimestamp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Timestamp x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wasNull",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CLOSE_CURSORS_AT_COMMIT",
+            "description": ""
+        },
+        {
+            "nombre": "CONCUR_READ_ONLY",
+            "description": ""
+        },
+        {
+            "nombre": "CONCUR_UPDATABLE",
+            "description": ""
+        },
+        {
+            "nombre": "FETCH_FORWARD",
+            "description": ""
+        },
+        {
+            "nombre": "FETCH_REVERSE",
+            "description": ""
+        },
+        {
+            "nombre": "FETCH_UNKNOWN",
+            "description": ""
+        },
+        {
+            "nombre": "HOLD_CURSORS_OVER_COMMIT",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_FORWARD_ONLY",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_SCROLL_INSENSITIVE",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_SCROLL_SENSITIVE",
+            "description": ""
+        }
+    ]
+}

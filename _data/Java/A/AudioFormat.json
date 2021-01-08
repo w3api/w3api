@@ -1,0 +1,141 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AudioFormat",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean signed",
+                    "description": ""
+                },
+                {
+                    "nombre": "int frameSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "float frameRate",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object> properties",
+                    "description": ""
+                },
+                {
+                    "nombre": "float sampleRate",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "int sampleSizeInBits",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat.Encoding encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "int channels",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean bigEndian",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getChannels",
+            "description": ""
+        },
+        {
+            "nombre": "getEncoding",
+            "description": ""
+        },
+        {
+            "nombre": "getFrameRate",
+            "description": ""
+        },
+        {
+            "nombre": "getFrameSize",
+            "description": ""
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSampleRate",
+            "description": ""
+        },
+        {
+            "nombre": "getSampleSizeInBits",
+            "description": ""
+        },
+        {
+            "nombre": "isBigEndian",
+            "description": ""
+        },
+        {
+            "nombre": "matches",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "properties",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "bigEndian",
+            "description": ""
+        },
+        {
+            "nombre": "channels",
+            "description": ""
+        },
+        {
+            "nombre": "encoding",
+            "description": ""
+        },
+        {
+            "nombre": "frameRate",
+            "description": ""
+        },
+        {
+            "nombre": "frameSize",
+            "description": ""
+        },
+        {
+            "nombre": "sampleRate",
+            "description": ""
+        },
+        {
+            "nombre": "sampleSizeInBits",
+            "description": ""
+        }
+    ]
+}

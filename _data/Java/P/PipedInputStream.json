@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PipedInputStream",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int pipeSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "PipedOutputStream src",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "available",
+            "description": ""
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PipedOutputStream src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "receive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int b",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "buffer",
+            "description": ""
+        },
+        {
+            "nombre": "in",
+            "description": ""
+        },
+        {
+            "nombre": "out",
+            "description": ""
+        },
+        {
+            "nombre": "PIPE_SIZE",
+            "description": ""
+        }
+    ]
+}

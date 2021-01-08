@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractExecutorService",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "newTaskFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<T> callable",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable runnable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "submit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable task",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<T> task",
+                    "description": ""
+                },
+                {
+                    "nombre": "T result",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

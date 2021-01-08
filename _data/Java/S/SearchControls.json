@@ -1,0 +1,137 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SearchControls",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                },
+                {
+                    "nombre": "long countlim",
+                    "description": ""
+                },
+                {
+                    "nombre": "int timelim",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean deref",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean retobj",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCountLimit",
+            "description": ""
+        },
+        {
+            "nombre": "getDerefLinkFlag",
+            "description": ""
+        },
+        {
+            "nombre": "getReturningAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "getReturningObjFlag",
+            "description": ""
+        },
+        {
+            "nombre": "getSearchScope",
+            "description": ""
+        },
+        {
+            "nombre": "getTimeLimit",
+            "description": ""
+        },
+        {
+            "nombre": "setCountLimit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long limit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDerefLinkFlag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReturningAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] attrs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReturningObjFlag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSearchScope",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTimeLimit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ms",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "OBJECT_SCOPE",
+            "description": ""
+        },
+        {
+            "nombre": "ONELEVEL_SCOPE",
+            "description": ""
+        },
+        {
+            "nombre": "SUBTREE_SCOPE",
+            "description": ""
+        }
+    ]
+}

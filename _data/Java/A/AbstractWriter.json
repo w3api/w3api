@@ -1,0 +1,239 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractWriter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element root",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Writer w",
+                    "description": ""
+                },
+                {
+                    "nombre": "Document doc",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "decrIndent",
+            "description": ""
+        },
+        {
+            "nombre": "getCanWrapLines",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentLineLength",
+            "description": ""
+        },
+        {
+            "nombre": "getDocument",
+            "description": ""
+        },
+        {
+            "nombre": "getElementIterator",
+            "description": ""
+        },
+        {
+            "nombre": "getEndOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getIndentLevel",
+            "description": ""
+        },
+        {
+            "nombre": "getIndentSpace",
+            "description": ""
+        },
+        {
+            "nombre": "getLineLength",
+            "description": ""
+        },
+        {
+            "nombre": "getLineSeparator",
+            "description": ""
+        },
+        {
+            "nombre": "getStartOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWriter",
+            "description": ""
+        },
+        {
+            "nombre": "incrIndent",
+            "description": ""
+        },
+        {
+            "nombre": "indent",
+            "description": ""
+        },
+        {
+            "nombre": "inRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element next",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLineEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "output",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char[] content",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCanWrapLines",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCurrentLineLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIndentSpace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int space",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLineLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLineSeparator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "text",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] chars",
+                    "description": ""
+                },
+                {
+                    "nombre": "String content",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeLineSeparator",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "NEWLINE",
+            "description": ""
+        }
+    ]
+}

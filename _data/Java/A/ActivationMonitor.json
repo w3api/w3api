@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "activeObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationID id",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject<? extends Remote> obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inactiveGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationGroupID id",
+                    "description": ""
+                },
+                {
+                    "nombre": "long incarnation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inactiveObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationID id",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

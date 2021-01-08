@@ -1,0 +1,347 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PlainView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "changedUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent changes",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "damageLineRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int line0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int line1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component host",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics2D g",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int lineIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawSelectedText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics2D g",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawUnselectedText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics2D g",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLineBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabSize",
+            "description": ""
+        },
+        {
+            "nombre": "insertUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent changes",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lineToRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int line",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modelToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextTabStop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent changes",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float width",
+                    "description": ""
+                },
+                {
+                    "nombre": "float height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateDamage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent changes",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateMetrics",
+            "description": ""
+        },
+        {
+            "nombre": "viewToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] bias",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "metrics",
+            "description": ""
+        }
+    ]
+}

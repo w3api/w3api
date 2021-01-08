@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ListUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCellBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index2",
+                    "description": ""
+                },
+                {
+                    "nombre": "JList<?> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "indexToLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "JList<?> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "locationToIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JList<?> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point location",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

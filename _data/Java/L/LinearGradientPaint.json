@@ -1,0 +1,93 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "LinearGradientPaint",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D end",
+                    "description": ""
+                },
+                {
+                    "nombre": "float endX",
+                    "description": ""
+                },
+                {
+                    "nombre": "float endY",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] fractions",
+                    "description": ""
+                },
+                {
+                    "nombre": "MultipleGradientPaint.CycleMethod cycleMethod",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform gradientTransform",
+                    "description": ""
+                },
+                {
+                    "nombre": "float startX",
+                    "description": ""
+                },
+                {
+                    "nombre": "float startY",
+                    "description": ""
+                },
+                {
+                    "nombre": "MultipleGradientPaint.ColorSpaceType colorSpace",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D start",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color[] colors",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RenderingHints hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorModel cm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle deviceBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle2D userBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform transform",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEndPoint",
+            "description": ""
+        },
+        {
+            "nombre": "getStartPoint",
+            "description": ""
+        }
+    ]
+}

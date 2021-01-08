@@ -1,0 +1,207 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StampedLock",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "asReadLock",
+            "description": ""
+        },
+        {
+            "nombre": "asReadWriteLock",
+            "description": ""
+        },
+        {
+            "nombre": "asWriteLock",
+            "description": ""
+        },
+        {
+            "nombre": "getReadLockCount",
+            "description": ""
+        },
+        {
+            "nombre": "isLockStamp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long stamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isOptimisticReadStamp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long stamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isReadLocked",
+            "description": ""
+        },
+        {
+            "nombre": "isReadLockStamp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long stamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isWriteLocked",
+            "description": ""
+        },
+        {
+            "nombre": "isWriteLockStamp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long stamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readLock",
+            "description": ""
+        },
+        {
+            "nombre": "readLockInterruptibly",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "tryConvertToOptimisticRead",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long stamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryConvertToReadLock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long stamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryConvertToWriteLock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long stamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryOptimisticRead",
+            "description": ""
+        },
+        {
+            "nombre": "tryReadLock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "long time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryUnlockRead",
+            "description": ""
+        },
+        {
+            "nombre": "tryUnlockWrite",
+            "description": ""
+        },
+        {
+            "nombre": "tryWriteLock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "long time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unlock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long stamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unlockRead",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long stamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unlockWrite",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long stamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "validate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long stamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeLock",
+            "description": ""
+        },
+        {
+            "nombre": "writeLockInterruptibly",
+            "description": ""
+        }
+    ]
+}

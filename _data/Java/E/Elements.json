@@ -1,0 +1,261 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getAllAnnotationMirrors",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllMembers",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeElement type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllModuleElements",
+            "description": ""
+        },
+        {
+            "nombre": "getAllPackageElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllTypeElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBinaryName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeElement type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConstantExpression",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDocComment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElementValuesWithDefaults",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AnnotationMirror a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getModuleElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getModuleOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence cs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOrigin",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element e",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModuleElement m",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModuleElement.Directive directive",
+                    "description": ""
+                },
+                {
+                    "nombre": "AnnotationMirror a",
+                    "description": ""
+                },
+                {
+                    "nombre": "AnnotatedConstruct c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPackageElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence name",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModuleElement module",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPackageOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTypeElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence name",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModuleElement module",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hides",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element hidden",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element hider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBridge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ExecutableElement e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDeprecated",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFunctionalInterface",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeElement type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "overrides",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeElement type",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutableElement overridden",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutableElement overrider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "printElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Writer w",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element... elements",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

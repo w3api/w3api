@@ -1,0 +1,135 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SOAPPart",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addMimeHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllMimeHeaders",
+            "description": ""
+        },
+        {
+            "nombre": "getContent",
+            "description": ""
+        },
+        {
+            "nombre": "getContentId",
+            "description": ""
+        },
+        {
+            "nombre": "getContentLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getEnvelope",
+            "description": ""
+        },
+        {
+            "nombre": "getMatchingMimeHeaders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMimeHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNonMatchingMimeHeaders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAllMimeHeaders",
+            "description": ""
+        },
+        {
+            "nombre": "removeMimeHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String header",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Source source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContentId",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String contentId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContentLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String contentLocation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMimeHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

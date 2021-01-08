@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StartTlsResponse",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "getEncodedValue",
+            "description": ""
+        },
+        {
+            "nombre": "getID",
+            "description": ""
+        },
+        {
+            "nombre": "negotiate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SSLSocketFactory factory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnabledCipherSuites",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] suites",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHostnameVerifier",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HostnameVerifier verifier",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "OID",
+            "description": ""
+        }
+    ]
+}

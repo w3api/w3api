@@ -1,0 +1,303 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JScrollBar",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                },
+                {
+                    "nombre": "int max",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int min",
+                    "description": ""
+                },
+                {
+                    "nombre": "int extent",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addAdjustmentListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AdjustmentListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireAdjustmentValueChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getAdjustmentListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getBlockIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximum",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimum",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumSize",
+            "description": ""
+        },
+        {
+            "nombre": "getModel",
+            "description": ""
+        },
+        {
+            "nombre": "getOrientation",
+            "description": ""
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "getUnitIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getValue",
+            "description": ""
+        },
+        {
+            "nombre": "getValueIsAdjusting",
+            "description": ""
+        },
+        {
+            "nombre": "getVisibleAmount",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "removeAdjustmentListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AdjustmentListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBlockIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int blockIncrement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maximum",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinimum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minimum",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BoundedRangeModel newModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOrientation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ScrollBarUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUnitIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int unitIncrement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValueIsAdjusting",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValues",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newMin",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newExtent",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newMax",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVisibleAmount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int extent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "blockIncrement",
+            "description": ""
+        },
+        {
+            "nombre": "model",
+            "description": ""
+        },
+        {
+            "nombre": "orientation",
+            "description": ""
+        },
+        {
+            "nombre": "unitIncrement",
+            "description": ""
+        }
+    ]
+}

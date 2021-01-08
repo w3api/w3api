@@ -1,0 +1,149 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FlowView.FlowStrategy",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "adjustRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rowIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "FlowView fv",
+                    "description": ""
+                },
+                {
+                    "nombre": "int desiredSpan",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "changedUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "FlowView fv",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle alloc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int startOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int spanLeft",
+                    "description": ""
+                },
+                {
+                    "nombre": "FlowView fv",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rowIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLogicalView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FlowView fv",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "FlowView fv",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle alloc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FlowView fv",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rowIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "FlowView fv",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "FlowView fv",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle alloc",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

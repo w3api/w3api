@@ -1,0 +1,359 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "alignedSlice",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int unitSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "alignmentOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int unitSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "allocate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int capacity",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "allocateDirect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int capacity",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "array",
+            "description": ""
+        },
+        {
+            "nombre": "arrayOffset",
+            "description": ""
+        },
+        {
+            "nombre": "asCharBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "asDoubleBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "asFloatBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "asIntBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "asLongBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "asReadOnlyBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "asShortBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "compact",
+            "description": ""
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer that",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "duplicate",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object ob",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getShort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasArray",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isDirect",
+            "description": ""
+        },
+        {
+            "nombre": "order",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteOrder bo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "float value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "long value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putShort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "short value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "slice",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "wrap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] array",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,747 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Affine",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "double mzz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ty",
+                    "description": ""
+                },
+                {
+                    "nombre": "MatrixType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myz",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transform transform",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] matrix",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myy",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "append",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double mzz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ty",
+                    "description": ""
+                },
+                {
+                    "nombre": "MatrixType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myz",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transform transform",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] matrix",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendRotation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double angle",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point3D axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotZ",
+                    "description": ""
+                },
+                {
+                    "nombre": "double axisY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double axisX",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point3D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double axisZ",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendScale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double sz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotZ",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sx",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point3D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendShear",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double shy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double shx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendTranslation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double tz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ty",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invert",
+            "description": ""
+        },
+        {
+            "nombre": "mxxProperty",
+            "description": ""
+        },
+        {
+            "nombre": "mxyProperty",
+            "description": ""
+        },
+        {
+            "nombre": "mxzProperty",
+            "description": ""
+        },
+        {
+            "nombre": "myxProperty",
+            "description": ""
+        },
+        {
+            "nombre": "myyProperty",
+            "description": ""
+        },
+        {
+            "nombre": "myzProperty",
+            "description": ""
+        },
+        {
+            "nombre": "mzxProperty",
+            "description": ""
+        },
+        {
+            "nombre": "mzyProperty",
+            "description": ""
+        },
+        {
+            "nombre": "mzzProperty",
+            "description": ""
+        },
+        {
+            "nombre": "prepend",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double mzz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ty",
+                    "description": ""
+                },
+                {
+                    "nombre": "MatrixType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myz",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transform transform",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] matrix",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prependRotation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double angle",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point3D axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotZ",
+                    "description": ""
+                },
+                {
+                    "nombre": "double axisY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double axisX",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point3D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double axisZ",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prependScale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double sz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotZ",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sx",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point3D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prependShear",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double shy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double shx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prependTranslation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double tz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ty",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "MatrixType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMxx",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMxy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMxz",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMyx",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMyy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMyz",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMzx",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMzy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMzz",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setToIdentity",
+            "description": ""
+        },
+        {
+            "nombre": "setToTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double mzz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ty",
+                    "description": ""
+                },
+                {
+                    "nombre": "MatrixType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myz",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transform transform",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] matrix",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTx",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTz",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "txProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tyProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tzProperty",
+            "description": ""
+        }
+    ]
+}

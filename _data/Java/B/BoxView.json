@@ -1,0 +1,509 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BoxView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "baselineLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] spans",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int targetSpan",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "baselineRequirements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateMajorAxisRequirements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateMinorAxisRequirements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "childAllocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle alloc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flipEastAndWestAtEnds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int position",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forwardUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent.ElementChange ec",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAxis",
+            "description": ""
+        },
+        {
+            "nombre": "getChildAllocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimumSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int childIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResizeWeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int childIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getViewAtPoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle alloc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWidth",
+            "description": ""
+        },
+        {
+            "nombre": "isAfter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle innerAlloc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isAllocationValid",
+            "description": ""
+        },
+        {
+            "nombre": "isBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle innerAlloc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLayoutValid",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutMajorAxis",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] spans",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int targetSpan",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutMinorAxis",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] spans",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int targetSpan",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modelToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape allocation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle alloc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preferenceChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean width",
+                    "description": ""
+                },
+                {
+                    "nombre": "View child",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "View[] elems",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAxis",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float width",
+                    "description": ""
+                },
+                {
+                    "nombre": "float height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "viewToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] bias",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

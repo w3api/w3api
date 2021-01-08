@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MBeanServerInvocationHandler",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isMXBean",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName objectName",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServerConnection connection",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getMBeanServerConnection",
+            "description": ""
+        },
+        {
+            "nombre": "getObjectName",
+            "description": ""
+        },
+        {
+            "nombre": "isMXBean",
+            "description": ""
+        },
+        {
+            "nombre": "newProxyInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean notificationBroadcaster",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName objectName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> interfaceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServerConnection connection",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

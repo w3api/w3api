@@ -1,0 +1,199 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "IIOMetadata",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String[] extraMetadataFormatNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean standardMetadataFormatSupported",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nativeMetadataFormatName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nativeMetadataFormatClassName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extraMetadataFormatClassNames",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "activateController",
+            "description": ""
+        },
+        {
+            "nombre": "getAsTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String formatName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getController",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultController",
+            "description": ""
+        },
+        {
+            "nombre": "getExtraMetadataFormatNames",
+            "description": ""
+        },
+        {
+            "nombre": "getMetadataFormat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String formatName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMetadataFormatNames",
+            "description": ""
+        },
+        {
+            "nombre": "getNativeMetadataFormatName",
+            "description": ""
+        },
+        {
+            "nombre": "getStandardChromaNode",
+            "description": ""
+        },
+        {
+            "nombre": "getStandardCompressionNode",
+            "description": ""
+        },
+        {
+            "nombre": "getStandardDataNode",
+            "description": ""
+        },
+        {
+            "nombre": "getStandardDimensionNode",
+            "description": ""
+        },
+        {
+            "nombre": "getStandardDocumentNode",
+            "description": ""
+        },
+        {
+            "nombre": "getStandardTextNode",
+            "description": ""
+        },
+        {
+            "nombre": "getStandardTileNode",
+            "description": ""
+        },
+        {
+            "nombre": "getStandardTransparencyNode",
+            "description": ""
+        },
+        {
+            "nombre": "getStandardTree",
+            "description": ""
+        },
+        {
+            "nombre": "hasController",
+            "description": ""
+        },
+        {
+            "nombre": "isReadOnly",
+            "description": ""
+        },
+        {
+            "nombre": "isStandardMetadataFormatSupported",
+            "description": ""
+        },
+        {
+            "nombre": "mergeTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node root",
+                    "description": ""
+                },
+                {
+                    "nombre": "String formatName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "setController",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOMetadataController controller",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFromTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node root",
+                    "description": ""
+                },
+                {
+                    "nombre": "String formatName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "controller",
+            "description": ""
+        },
+        {
+            "nombre": "defaultController",
+            "description": ""
+        },
+        {
+            "nombre": "extraMetadataFormatClassNames",
+            "description": ""
+        },
+        {
+            "nombre": "extraMetadataFormatNames",
+            "description": ""
+        },
+        {
+            "nombre": "nativeMetadataFormatClassName",
+            "description": ""
+        },
+        {
+            "nombre": "nativeMetadataFormatName",
+            "description": ""
+        },
+        {
+            "nombre": "standardFormatSupported",
+            "description": ""
+        }
+    ]
+}

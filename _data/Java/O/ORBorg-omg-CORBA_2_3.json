@@ -1,0 +1,67 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ORB",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "get_value_def",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String repid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookup_value_factory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register_value_factory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueFactory factory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_delegate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object wrapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregister_value_factory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

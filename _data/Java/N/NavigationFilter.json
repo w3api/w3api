@@ -1,0 +1,75 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "NavigationFilter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getNextVisualPositionFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "moveDot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NavigationFilter.FilterBypass fb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dot",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NavigationFilter.FilterBypass fb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dot",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

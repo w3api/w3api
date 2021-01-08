@@ -1,0 +1,179 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addTransformer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean canRetransform",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassFileTransformer transformer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendToBootstrapClassLoaderSearch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JarFile jarfile",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendToSystemClassLoaderSearch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JarFile jarfile",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllLoadedClasses",
+            "description": ""
+        },
+        {
+            "nombre": "getInitiatedClasses",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getObjectSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object objectToSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isModifiableClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> theClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isModifiableModule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Module module",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNativeMethodPrefixSupported",
+            "description": ""
+        },
+        {
+            "nombre": "isRedefineClassesSupported",
+            "description": ""
+        },
+        {
+            "nombre": "isRetransformClassesSupported",
+            "description": ""
+        },
+        {
+            "nombre": "redefineClasses",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassDefinition... definitions",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "redefineModule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<Class<?>>> extraProvides",
+                    "description": ""
+                },
+                {
+                    "nombre": "Module module",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<Class<?>> extraUses",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<Module>> extraOpens",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<Class<?>",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<Module> extraReads",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<Module>> extraExports",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeTransformer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassFileTransformer transformer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "retransformClasses",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?>... classes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNativeMethodPrefix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassFileTransformer transformer",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

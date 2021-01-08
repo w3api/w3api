@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ServiceDelegate",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addPort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String endpointAddress",
+                    "description": ""
+                },
+                {
+                    "nombre": "String bindingId",
+                    "description": ""
+                },
+                {
+                    "nombre": "QName portName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDispatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName portName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Service.Mode mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "WebServiceFeature... features",
+                    "description": ""
+                },
+                {
+                    "nombre": "JAXBContext context",
+                    "description": ""
+                },
+                {
+                    "nombre": "EndpointReference endpointReference",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getExecutor",
+            "description": ""
+        },
+        {
+            "nombre": "getHandlerResolver",
+            "description": ""
+        },
+        {
+            "nombre": "getPort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> serviceEndpointInterface",
+                    "description": ""
+                },
+                {
+                    "nombre": "EndpointReference endpointReference",
+                    "description": ""
+                },
+                {
+                    "nombre": "WebServiceFeature... features",
+                    "description": ""
+                },
+                {
+                    "nombre": "QName portName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPorts",
+            "description": ""
+        },
+        {
+            "nombre": "getServiceName",
+            "description": ""
+        },
+        {
+            "nombre": "getWSDLDocumentLocation",
+            "description": ""
+        },
+        {
+            "nombre": "setExecutor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHandlerResolver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HandlerResolver handlerResolver",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

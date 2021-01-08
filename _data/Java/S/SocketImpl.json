@@ -1,0 +1,205 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SocketImpl",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accept",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketImpl s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "available",
+            "description": ""
+        },
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress host",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "int timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress address",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketAddress address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean stream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFileDescriptor",
+            "description": ""
+        },
+        {
+            "nombre": "getInetAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getInputStream",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalPort",
+            "description": ""
+        },
+        {
+            "nombre": "getOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOutputStream",
+            "description": ""
+        },
+        {
+            "nombre": "getPort",
+            "description": ""
+        },
+        {
+            "nombre": "listen",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendUrgentData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPerformancePreferences",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bandwidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int connectionTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "int latency",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdownInput",
+            "description": ""
+        },
+        {
+            "nombre": "shutdownOutput",
+            "description": ""
+        },
+        {
+            "nombre": "supportedOptions",
+            "description": ""
+        },
+        {
+            "nombre": "supportsUrgentData",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "address",
+            "description": ""
+        },
+        {
+            "nombre": "fd",
+            "description": ""
+        },
+        {
+            "nombre": "localport",
+            "description": ""
+        },
+        {
+            "nombre": "port",
+            "description": ""
+        }
+    ]
+}

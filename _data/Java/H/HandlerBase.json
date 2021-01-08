@@ -1,0 +1,189 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HandlerBase",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "characters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endDocument",
+            "description": ""
+        },
+        {
+            "nombre": "endElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "error",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SAXParseException e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fatalError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SAXParseException e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ignorableWhitespace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "notationDecl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processingInstruction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String data",
+                    "description": ""
+                },
+                {
+                    "nombre": "String target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolveEntity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDocumentLocator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locator locator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startDocument",
+            "description": ""
+        },
+        {
+            "nombre": "startElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeList attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unparsedEntityDecl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String notationName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "warning",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SAXParseException e",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RSAMultiPrimePrivateCrtKeySpec",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger crtCoefficient",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger primeExponentQ",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger publicExponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger primeExponentP",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger primeP",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger modulus",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger privateExponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger primeQ",
+                    "description": ""
+                },
+                {
+                    "nombre": "RSAOtherPrimeInfo[] otherPrimeInfo",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCrtCoefficient",
+            "description": ""
+        },
+        {
+            "nombre": "getOtherPrimeInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getPrimeExponentP",
+            "description": ""
+        },
+        {
+            "nombre": "getPrimeExponentQ",
+            "description": ""
+        },
+        {
+            "nombre": "getPrimeP",
+            "description": ""
+        },
+        {
+            "nombre": "getPrimeQ",
+            "description": ""
+        },
+        {
+            "nombre": "getPublicExponent",
+            "description": ""
+        }
+    ]
+}

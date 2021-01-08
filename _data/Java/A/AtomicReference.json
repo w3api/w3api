@@ -1,0 +1,273 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AtomicReference",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "V initialValue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accumulateAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BinaryOperator<V> accumulatorFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "V x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndExchange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndExchangeAcquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndExchangeRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": ""
+        },
+        {
+            "nombre": "getAcquire",
+            "description": ""
+        },
+        {
+            "nombre": "getAndAccumulate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BinaryOperator<V> accumulatorFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "V x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UnaryOperator<V> updateFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOpaque",
+            "description": ""
+        },
+        {
+            "nombre": "getPlain",
+            "description": ""
+        },
+        {
+            "nombre": "lazySet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOpaque",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPlain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "updateAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UnaryOperator<V> updateFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetAcquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetPlain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetVolatile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

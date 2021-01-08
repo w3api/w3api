@@ -1,0 +1,255 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SimpleTimeZone",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int rawOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endTimeMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endMonth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startTimeMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startMonth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startDayOfWeek",
+                    "description": ""
+                },
+                {
+                    "nombre": "String ID",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dstSavings",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endDay",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endDayOfWeek",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startDay",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDSTSavings",
+            "description": ""
+        },
+        {
+            "nombre": "getOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int millis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dayOfWeek",
+                    "description": ""
+                },
+                {
+                    "nombre": "int era",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int day",
+                    "description": ""
+                },
+                {
+                    "nombre": "long date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRawOffset",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "hasSameRules",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeZone other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inDaylightTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "observesDaylightTime",
+            "description": ""
+        },
+        {
+            "nombre": "setDSTSavings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int millisSavedDuringDST",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEndRule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int endMonth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endDay",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endDayOfWeek",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean after",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRawOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int offsetMillis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStartRule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int startMonth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startDayOfWeek",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startDay",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean after",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStartYear",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int year",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "useDaylightTime",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "STANDARD_TIME",
+            "description": ""
+        },
+        {
+            "nombre": "UTC_TIME",
+            "description": ""
+        },
+        {
+            "nombre": "WALL_TIME",
+            "description": ""
+        }
+    ]
+}

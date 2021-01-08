@@ -1,0 +1,149 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HttpExchange",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addResponseHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "getAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributeNames",
+            "description": ""
+        },
+        {
+            "nombre": "getContextPath",
+            "description": ""
+        },
+        {
+            "nombre": "getHttpContext",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getPathInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getProtocol",
+            "description": ""
+        },
+        {
+            "nombre": "getQueryString",
+            "description": ""
+        },
+        {
+            "nombre": "getRemoteAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestBody",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRequestHeaders",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestMethod",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestURI",
+            "description": ""
+        },
+        {
+            "nombre": "getResponseBody",
+            "description": ""
+        },
+        {
+            "nombre": "getResponseHeaders",
+            "description": ""
+        },
+        {
+            "nombre": "getScheme",
+            "description": ""
+        },
+        {
+            "nombre": "getUserPrincipal",
+            "description": ""
+        },
+        {
+            "nombre": "isUserInRole",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String role",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStatus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int status",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "REQUEST_CIPHER_SUITE",
+            "description": ""
+        },
+        {
+            "nombre": "REQUEST_KEY_SIZE",
+            "description": ""
+        },
+        {
+            "nombre": "REQUEST_X509CERTIFICATE",
+            "description": ""
+        }
+    ]
+}

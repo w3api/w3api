@@ -1,0 +1,275 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GroupLayout",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Container host",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addLayoutComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object constraints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createBaselineGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean resizable",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean anchorBaselineToTop",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createParallelGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GroupLayout.Alignment alignment",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean resizable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSequentialGroup",
+            "description": ""
+        },
+        {
+            "nombre": "getAutoCreateContainerGaps",
+            "description": ""
+        },
+        {
+            "nombre": "getAutoCreateGaps",
+            "description": ""
+        },
+        {
+            "nombre": "getHonorsVisibility",
+            "description": ""
+        },
+        {
+            "nombre": "getLayoutAlignmentX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLayoutAlignmentY",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLayoutStyle",
+            "description": ""
+        },
+        {
+            "nombre": "invalidateLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutContainer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "linkSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component... components",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "maximumLayoutSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minimumLayoutSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preferredLayoutSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeLayoutComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component existingComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component newComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAutoCreateContainerGaps",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean autoCreateContainerPadding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAutoCreateGaps",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean autoCreatePadding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHonorsVisibility",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                },
+                {
+                    "nombre": "Boolean honorsVisibility",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean honorsVisibility",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHorizontalGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GroupLayout.Group group",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLayoutStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LayoutStyle layoutStyle",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVerticalGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GroupLayout.Group group",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT_SIZE",
+            "description": ""
+        },
+        {
+            "nombre": "PREFERRED_SIZE",
+            "description": ""
+        }
+    ]
+}

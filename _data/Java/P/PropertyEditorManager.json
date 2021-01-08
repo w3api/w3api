@@ -1,0 +1,51 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PropertyEditorManager",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "findEditor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> targetType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEditorSearchPath",
+            "description": ""
+        },
+        {
+            "nombre": "registerEditor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> targetType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> editorClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditorSearchPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] path",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

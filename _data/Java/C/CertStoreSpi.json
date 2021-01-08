@@ -1,0 +1,39 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CertStoreSpi",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "CertStoreParameters params",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "engineGetCertificates",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CertSelector selector",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGetCRLs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CRLSelector selector",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

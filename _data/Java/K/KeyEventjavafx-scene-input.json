@@ -1,0 +1,131 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "KeyEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String character",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean shiftDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean altDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean controlDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyCode code",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean metaDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<KeyEvent> eventType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "copyFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventType<KeyEvent> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCharacter",
+            "description": ""
+        },
+        {
+            "nombre": "getCode",
+            "description": ""
+        },
+        {
+            "nombre": "getText",
+            "description": ""
+        },
+        {
+            "nombre": "isAltDown",
+            "description": ""
+        },
+        {
+            "nombre": "isControlDown",
+            "description": ""
+        },
+        {
+            "nombre": "isMetaDown",
+            "description": ""
+        },
+        {
+            "nombre": "isShiftDown",
+            "description": ""
+        },
+        {
+            "nombre": "isShortcutDown",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        },
+        {
+            "nombre": "CHAR_UNDEFINED",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_PRESSED",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_RELEASED",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_TYPED",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Formatter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Locale l",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "String csn",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintStream ps",
+                    "description": ""
+                },
+                {
+                    "nombre": "String fileName",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream os",
+                    "description": ""
+                },
+                {
+                    "nombre": "Appendable a",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String format",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale l",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ioException",
+            "description": ""
+        },
+        {
+            "nombre": "locale",
+            "description": ""
+        },
+        {
+            "nombre": "out",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

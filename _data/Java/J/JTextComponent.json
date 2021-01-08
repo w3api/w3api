@@ -1,0 +1,635 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JTextComponent",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addCaretListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CaretListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addKeymap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Keymap parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copy",
+            "description": ""
+        },
+        {
+            "nombre": "cut",
+            "description": ""
+        },
+        {
+            "nombre": "fireCaretUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CaretEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getActions",
+            "description": ""
+        },
+        {
+            "nombre": "getCaret",
+            "description": ""
+        },
+        {
+            "nombre": "getCaretColor",
+            "description": ""
+        },
+        {
+            "nombre": "getCaretListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getCaretPosition",
+            "description": ""
+        },
+        {
+            "nombre": "getDisabledTextColor",
+            "description": ""
+        },
+        {
+            "nombre": "getDocument",
+            "description": ""
+        },
+        {
+            "nombre": "getDragEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "getDropLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getDropMode",
+            "description": ""
+        },
+        {
+            "nombre": "getFocusAccelerator",
+            "description": ""
+        },
+        {
+            "nombre": "getHighlighter",
+            "description": ""
+        },
+        {
+            "nombre": "getKeymap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMargin",
+            "description": ""
+        },
+        {
+            "nombre": "getNavigationFilter",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredScrollableViewportSize",
+            "description": ""
+        },
+        {
+            "nombre": "getPrintable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MessageFormat headerFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "MessageFormat footerFormat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getScrollableBlockIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                },
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getScrollableTracksViewportHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getScrollableTracksViewportWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getScrollableUnitIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                },
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSelectedText",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedTextColor",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionColor",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionEnd",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionStart",
+            "description": ""
+        },
+        {
+            "nombre": "getText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getToolTipText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "isEditable",
+            "description": ""
+        },
+        {
+            "nombre": "loadKeymap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Action[] actions",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTextComponent.KeyBinding[] bindings",
+                    "description": ""
+                },
+                {
+                    "nombre": "Keymap map",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modelToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modelToView2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "moveCaretPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "paste",
+            "description": ""
+        },
+        {
+            "nombre": "print",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MessageFormat footerFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "MessageFormat headerFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintRequestAttributeSet attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean interactive",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean showPrintDialog",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintService service",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object desc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeCaretListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CaretListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeKeymap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceSelection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "restoreComposedText",
+            "description": ""
+        },
+        {
+            "nombre": "saveComposedText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "select",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int selectionStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "int selectionEnd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectAll",
+            "description": ""
+        },
+        {
+            "nombre": "setCaret",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Caret c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCaretColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCaretPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int position",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDisabledTextColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDocument",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Document doc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDragEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDropMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DropMode dropMode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFocusAccelerator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char aKey",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHighlighter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Highlighter h",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setKeymap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Keymap map",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMargin",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Insets m",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNavigationFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NavigationFilter filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedTextColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionEnd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int selectionEnd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int selectionStart",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        },
+        {
+            "nombre": "viewToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point pt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "viewToModel2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D pt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Writer out",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT_KEYMAP",
+            "description": ""
+        },
+        {
+            "nombre": "FOCUS_ACCELERATOR_KEY",
+            "description": ""
+        }
+    ]
+}

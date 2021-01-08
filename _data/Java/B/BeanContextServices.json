@@ -1,0 +1,127 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addBeanContextServicesListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextServicesListener bcsl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> serviceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "BeanContextServiceProvider serviceProvider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCurrentServiceClasses",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentServiceSelectors",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> serviceClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object requestor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> serviceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object serviceSelector",
+                    "description": ""
+                },
+                {
+                    "nombre": "BeanContextServiceRevokedListener bcsrl",
+                    "description": ""
+                },
+                {
+                    "nombre": "BeanContextChild child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> serviceClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "releaseService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object service",
+                    "description": ""
+                },
+                {
+                    "nombre": "BeanContextChild child",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object requestor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeBeanContextServicesListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextServicesListener bcsl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "revokeService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> serviceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "BeanContextServiceProvider serviceProvider",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean revokeCurrentServicesNow",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

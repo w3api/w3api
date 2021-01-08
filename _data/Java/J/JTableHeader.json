@@ -1,0 +1,309 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JTableHeader",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModel cm",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "columnAdded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "columnAtPoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point point",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "columnMarginChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "columnMoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "columnRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "columnSelectionChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListSelectionEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDefaultColumnModel",
+            "description": ""
+        },
+        {
+            "nombre": "createDefaultRenderer",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getColumnModel",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultRenderer",
+            "description": ""
+        },
+        {
+            "nombre": "getDraggedColumn",
+            "description": ""
+        },
+        {
+            "nombre": "getDraggedDistance",
+            "description": ""
+        },
+        {
+            "nombre": "getHeaderRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": ""
+        },
+        {
+            "nombre": "getReorderingAllowed",
+            "description": ""
+        },
+        {
+            "nombre": "getResizingAllowed",
+            "description": ""
+        },
+        {
+            "nombre": "getResizingColumn",
+            "description": ""
+        },
+        {
+            "nombre": "getTable",
+            "description": ""
+        },
+        {
+            "nombre": "getToolTipText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "getUpdateTableInRealTime",
+            "description": ""
+        },
+        {
+            "nombre": "initializeLocalVars",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "resizeAndRepaint",
+            "description": ""
+        },
+        {
+            "nombre": "setColumnModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnModel columnModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultRenderer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableCellRenderer defaultRenderer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDraggedColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumn aColumn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDraggedDistance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int distance",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReorderingAllowed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean reorderingAllowed",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setResizingAllowed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean resizingAllowed",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setResizingColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumn aColumn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTable table",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableHeaderUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUpdateTableInRealTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "columnModel",
+            "description": ""
+        },
+        {
+            "nombre": "draggedColumn",
+            "description": ""
+        },
+        {
+            "nombre": "draggedDistance",
+            "description": ""
+        },
+        {
+            "nombre": "reorderingAllowed",
+            "description": ""
+        },
+        {
+            "nombre": "resizingAllowed",
+            "description": ""
+        },
+        {
+            "nombre": "resizingColumn",
+            "description": ""
+        },
+        {
+            "nombre": "table",
+            "description": ""
+        },
+        {
+            "nombre": "updateTableInRealTime",
+            "description": ""
+        }
+    ]
+}

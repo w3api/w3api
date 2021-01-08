@@ -1,0 +1,547 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BeanContextSupport",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContext peer",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean visible",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean dtime",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale lcle",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean dTime",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object targetChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addBeanContextMembershipListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextMembershipListener bcml",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "avoidingGui",
+            "description": ""
+        },
+        {
+            "nombre": "bcsChildren",
+            "description": ""
+        },
+        {
+            "nombre": "bcsPreDeserializationHook",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectInputStream ois",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bcsPreSerializationHook",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectOutputStream oos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "childDeserializedHook",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object child",
+                    "description": ""
+                },
+                {
+                    "nombre": "BeanContextSupport.BCSChild bcsc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "childJustAddedHook",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object child",
+                    "description": ""
+                },
+                {
+                    "nombre": "BeanContextSupport.BCSChild bcsc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "childJustRemovedHook",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object child",
+                    "description": ""
+                },
+                {
+                    "nombre": "BeanContextSupport.BCSChild bcsc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "classEquals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> second",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> first",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear",
+            "description": ""
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "containsAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "containsKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copyChildren",
+            "description": ""
+        },
+        {
+            "nombre": "createBCSChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object peer",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object targetChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deserialize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectInputStream ois",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collection coll",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dontUseGui",
+            "description": ""
+        },
+        {
+            "nombre": "fireChildrenAdded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextMembershipEvent bcme",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireChildrenRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextMembershipEvent bcme",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBeanContextPeer",
+            "description": ""
+        },
+        {
+            "nombre": "getChildBeanContextChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildBeanContextMembershipListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildSerializable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildVetoableChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildVisibility",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLocale",
+            "description": ""
+        },
+        {
+            "nombre": "getResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextChild bcc",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResourceAsStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextChild bcc",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "initialize",
+            "description": ""
+        },
+        {
+            "nombre": "instantiateChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String beanName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDesignTime",
+            "description": ""
+        },
+        {
+            "nombre": "isEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "isSerializing",
+            "description": ""
+        },
+        {
+            "nombre": "iterator",
+            "description": ""
+        },
+        {
+            "nombre": "needsGui",
+            "description": ""
+        },
+        {
+            "nombre": "okToUseGui",
+            "description": ""
+        },
+        {
+            "nombre": "propertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeEvent pce",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readChildren",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectInputStream ois",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object targetChild",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean callChildSetBC",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeBeanContextMembershipListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextMembershipListener bcml",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "retainAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "serialize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> coll",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectOutputStream oos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDesignTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean dTime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale newLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "toArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] arry",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "validatePendingAdd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object targetChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "validatePendingRemove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object targetChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "vetoableChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeEvent pce",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeChildren",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectOutputStream oos",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "bcmListeners",
+            "description": ""
+        },
+        {
+            "nombre": "children",
+            "description": ""
+        },
+        {
+            "nombre": "designTime",
+            "description": ""
+        },
+        {
+            "nombre": "locale",
+            "description": ""
+        },
+        {
+            "nombre": "okToUseGui",
+            "description": ""
+        }
+    ]
+}

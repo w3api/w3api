@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "isMXBeanInterface",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> interfaceClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newMBeanProxy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName objectName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> interfaceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean notificationEmitter",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServerConnection connection",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newMXBeanProxy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName objectName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> interfaceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean notificationEmitter",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServerConnection connection",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT_VALUE_FIELD",
+            "description": ""
+        },
+        {
+            "nombre": "IMMUTABLE_INFO_FIELD",
+            "description": ""
+        },
+        {
+            "nombre": "INTERFACE_CLASS_NAME_FIELD",
+            "description": ""
+        },
+        {
+            "nombre": "LEGAL_VALUES_FIELD",
+            "description": ""
+        },
+        {
+            "nombre": "MAX_VALUE_FIELD",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_VALUE_FIELD",
+            "description": ""
+        },
+        {
+            "nombre": "MXBEAN_FIELD",
+            "description": ""
+        },
+        {
+            "nombre": "OPEN_TYPE_FIELD",
+            "description": ""
+        },
+        {
+            "nombre": "ORIGINAL_TYPE_FIELD",
+            "description": ""
+        }
+    ]
+}

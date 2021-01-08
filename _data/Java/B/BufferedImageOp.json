@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createCompatibleDestImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorModel destCM",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BufferedImage dest",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPoint2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D srcPt",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D dstPt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRenderingHints",
+            "description": ""
+        }
+    ]
+}

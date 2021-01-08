@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AsynchronousChannelProvider",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "openAsynchronousChannelGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ExecutorService executor",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nThreads",
+                    "description": ""
+                },
+                {
+                    "nombre": "int initialSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "ThreadFactory threadFactory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "openAsynchronousServerSocketChannel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AsynchronousChannelGroup group",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "openAsynchronousSocketChannel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AsynchronousChannelGroup group",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "provider",
+            "description": ""
+        }
+    ]
+}

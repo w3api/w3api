@@ -1,0 +1,127 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ObservableListBase",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "beginChange",
+            "description": ""
+        },
+        {
+            "nombre": "endChange",
+            "description": ""
+        },
+        {
+            "nombre": "fireChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListChangeListener.Change<? extends E> change",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasListeners",
+            "description": ""
+        },
+        {
+            "nombre": "nextAdd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int from",
+                    "description": ""
+                },
+                {
+                    "nombre": "int to",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextPermutation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int from",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] perm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int to",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextRemove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int idx",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends E> removed",
+                    "description": ""
+                },
+                {
+                    "nombre": "E removed",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextReplace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int from",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends E> removed",
+                    "description": ""
+                },
+                {
+                    "nombre": "int to",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int idx",
+                    "description": ""
+                },
+                {
+                    "nombre": "E old",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

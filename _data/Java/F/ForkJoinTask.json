@@ -1,0 +1,223 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ForkJoinTask",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "adapt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callable<? extends T> callable",
+                    "description": ""
+                },
+                {
+                    "nombre": "T result",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable runnable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cancel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean mayInterruptIfRunning",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndSetForkJoinTaskTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "short expect",
+                    "description": ""
+                },
+                {
+                    "nombre": "short update",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "complete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "completeExceptionally",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable ex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exec",
+            "description": ""
+        },
+        {
+            "nombre": "fork",
+            "description": ""
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getException",
+            "description": ""
+        },
+        {
+            "nombre": "getForkJoinTaskTag",
+            "description": ""
+        },
+        {
+            "nombre": "getPool",
+            "description": ""
+        },
+        {
+            "nombre": "getQueuedTaskCount",
+            "description": ""
+        },
+        {
+            "nombre": "getRawResult",
+            "description": ""
+        },
+        {
+            "nombre": "getSurplusQueuedTaskCount",
+            "description": ""
+        },
+        {
+            "nombre": "helpQuiesce",
+            "description": ""
+        },
+        {
+            "nombre": "inForkJoinPool",
+            "description": ""
+        },
+        {
+            "nombre": "invoke",
+            "description": ""
+        },
+        {
+            "nombre": "invokeAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ForkJoinTask<?> t1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ForkJoinTask<?>... tasks",
+                    "description": ""
+                },
+                {
+                    "nombre": "ForkJoinTask<?> t2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collection<T> tasks",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isCompletedAbnormally",
+            "description": ""
+        },
+        {
+            "nombre": "isCompletedNormally",
+            "description": ""
+        },
+        {
+            "nombre": "join",
+            "description": ""
+        },
+        {
+            "nombre": "peekNextLocalTask",
+            "description": ""
+        },
+        {
+            "nombre": "pollNextLocalTask",
+            "description": ""
+        },
+        {
+            "nombre": "pollSubmission",
+            "description": ""
+        },
+        {
+            "nombre": "pollTask",
+            "description": ""
+        },
+        {
+            "nombre": "quietlyComplete",
+            "description": ""
+        },
+        {
+            "nombre": "quietlyInvoke",
+            "description": ""
+        },
+        {
+            "nombre": "quietlyJoin",
+            "description": ""
+        },
+        {
+            "nombre": "reinitialize",
+            "description": ""
+        },
+        {
+            "nombre": "setForkJoinTaskTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "short newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRawResult",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryUnfork",
+            "description": ""
+        }
+    ]
+}

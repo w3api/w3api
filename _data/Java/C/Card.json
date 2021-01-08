@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Card",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "beginExclusive",
+            "description": ""
+        },
+        {
+            "nombre": "disconnect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean reset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endExclusive",
+            "description": ""
+        },
+        {
+            "nombre": "getATR",
+            "description": ""
+        },
+        {
+            "nombre": "getBasicChannel",
+            "description": ""
+        },
+        {
+            "nombre": "getProtocol",
+            "description": ""
+        },
+        {
+            "nombre": "openLogicalChannel",
+            "description": ""
+        },
+        {
+            "nombre": "transmitControlCommand",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int controlCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] command",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

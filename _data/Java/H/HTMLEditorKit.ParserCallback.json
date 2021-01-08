@@ -1,0 +1,125 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HTMLEditorKit.ParserCallback",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "handleComment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleEndOfLineString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String eol",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleEndTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "String errorMsg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleSimpleTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MutableAttributeSet a",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag t",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleStartTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MutableAttributeSet a",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag t",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] data",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "IMPLIED",
+            "description": ""
+        }
+    ]
+}

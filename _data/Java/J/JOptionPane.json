@@ -1,0 +1,699 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JOptionPane",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int optionType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createInternalFrame",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getDesktopPaneForComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFrameForComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIcon",
+            "description": ""
+        },
+        {
+            "nombre": "getInitialSelectionValue",
+            "description": ""
+        },
+        {
+            "nombre": "getInitialValue",
+            "description": ""
+        },
+        {
+            "nombre": "getInputValue",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxCharactersPerLineCount",
+            "description": ""
+        },
+        {
+            "nombre": "getMessage",
+            "description": ""
+        },
+        {
+            "nombre": "getMessageType",
+            "description": ""
+        },
+        {
+            "nombre": "getOptions",
+            "description": ""
+        },
+        {
+            "nombre": "getOptionType",
+            "description": ""
+        },
+        {
+            "nombre": "getRootFrame",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionValues",
+            "description": ""
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "getValue",
+            "description": ""
+        },
+        {
+            "nombre": "getWantsInput",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "selectInitialValue",
+            "description": ""
+        },
+        {
+            "nombre": "setIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon newIcon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInitialSelectionValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInitialValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newInitialValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInputValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMessage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newMessage",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMessageType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOptions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] newOptions",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOptionType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRootFrame",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Frame newRootFrame",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionValues",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] newValues",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OptionPaneUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWantsInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showConfirmDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int optionType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showInputDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] selectionValues",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object initialSelectionValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showInternalConfirmDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int optionType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showInternalInputDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] selectionValues",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object initialSelectionValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showInternalMessageDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showInternalOptionDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int optionType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showMessageDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showOptionDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int optionType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CANCEL_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "CLOSED_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "DEFAULT_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "ERROR_MESSAGE",
+            "description": ""
+        },
+        {
+            "nombre": "icon",
+            "description": ""
+        },
+        {
+            "nombre": "ICON_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "INFORMATION_MESSAGE",
+            "description": ""
+        },
+        {
+            "nombre": "INITIAL_SELECTION_VALUE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "INITIAL_VALUE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "initialSelectionValue",
+            "description": ""
+        },
+        {
+            "nombre": "initialValue",
+            "description": ""
+        },
+        {
+            "nombre": "INPUT_VALUE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "inputValue",
+            "description": ""
+        },
+        {
+            "nombre": "message",
+            "description": ""
+        },
+        {
+            "nombre": "MESSAGE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "MESSAGE_TYPE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "messageType",
+            "description": ""
+        },
+        {
+            "nombre": "NO_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "OK_CANCEL_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "OK_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "OPTION_TYPE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "options",
+            "description": ""
+        },
+        {
+            "nombre": "OPTIONS_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "optionType",
+            "description": ""
+        },
+        {
+            "nombre": "PLAIN_MESSAGE",
+            "description": ""
+        },
+        {
+            "nombre": "QUESTION_MESSAGE",
+            "description": ""
+        },
+        {
+            "nombre": "SELECTION_VALUES_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "selectionValues",
+            "description": ""
+        },
+        {
+            "nombre": "UNINITIALIZED_VALUE",
+            "description": ""
+        },
+        {
+            "nombre": "value",
+            "description": ""
+        },
+        {
+            "nombre": "VALUE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "WANTS_INPUT_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "wantsInput",
+            "description": ""
+        },
+        {
+            "nombre": "WARNING_MESSAGE",
+            "description": ""
+        },
+        {
+            "nombre": "YES_NO_CANCEL_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "YES_NO_OPTION",
+            "description": ""
+        },
+        {
+            "nombre": "YES_OPTION",
+            "description": ""
+        }
+    ]
+}

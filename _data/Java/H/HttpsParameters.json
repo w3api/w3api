@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HttpsParameters",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCipherSuites",
+            "description": ""
+        },
+        {
+            "nombre": "getClientAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getHttpsConfigurator",
+            "description": ""
+        },
+        {
+            "nombre": "getNeedClientAuth",
+            "description": ""
+        },
+        {
+            "nombre": "getProtocols",
+            "description": ""
+        },
+        {
+            "nombre": "getWantClientAuth",
+            "description": ""
+        },
+        {
+            "nombre": "setCipherSuites",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] cipherSuites",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNeedClientAuth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean needClientAuth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProtocols",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] protocols",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSSLParameters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SSLParameters params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWantClientAuth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean wantClientAuth",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

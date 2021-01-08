@@ -1,0 +1,127 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RotateEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "double angle",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean shiftDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<RotateEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean direct",
+                    "description": ""
+                },
+                {
+                    "nombre": "double totalAngle",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean altDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenX",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean controlDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inertia",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenY",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean metaDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "PickResult pickResult",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "copyFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventType<RotateEvent> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object newSource",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget newTarget",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAngle",
+            "description": ""
+        },
+        {
+            "nombre": "getTotalAngle",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        },
+        {
+            "nombre": "ROTATE",
+            "description": ""
+        },
+        {
+            "nombre": "ROTATION_FINISHED",
+            "description": ""
+        },
+        {
+            "nombre": "ROTATION_STARTED",
+            "description": ""
+        }
+    ]
+}

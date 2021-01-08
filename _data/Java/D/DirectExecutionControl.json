@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DirectExecutionControl",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "LoaderDelegate loaderDelegate",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "classesRedefined",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ExecutionControl.ClassBytecodes[] cbcs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clientCodeEnter",
+            "description": ""
+        },
+        {
+            "nombre": "clientCodeLeave",
+            "description": ""
+        },
+        {
+            "nombre": "findClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Method doitMethod",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stop",
+            "description": ""
+        },
+        {
+            "nombre": "throwConvertedInvocationException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable cause",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "throwConvertedOtherException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable ex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "valueString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

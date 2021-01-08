@@ -1,0 +1,121 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JarSigner.Builder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "PrivateKey privateKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "CertPath certPath",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyStore.PrivateKeyEntry entry",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "build",
+            "description": ""
+        },
+        {
+            "nombre": "digestAlgorithm",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "eventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiConsumer<String",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultDigestAlgorithm",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultSignatureAlgorithm",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrivateKey key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "signatureAlgorithm",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "signerName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tsa",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

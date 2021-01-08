@@ -1,0 +1,199 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ScrollEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "double deltaX",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean shiftDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "double textDeltaY",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<ScrollEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "double textDeltaX",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean direct",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean controlDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "double multiplierY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double deltaY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int touchCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean metaDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "double totalDeltaY",
+                    "description": ""
+                },
+                {
+                    "nombre": "ScrollEvent.HorizontalTextScrollUnits textDeltaXUnits",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double totalDeltaX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double multiplierX",
+                    "description": ""
+                },
+                {
+                    "nombre": "PickResult pickResult",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean altDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inertia",
+                    "description": ""
+                },
+                {
+                    "nombre": "ScrollEvent.VerticalTextScrollUnits textDeltaYUnits",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "copyFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventType<ScrollEvent> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object newSource",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget newTarget",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeltaX",
+            "description": ""
+        },
+        {
+            "nombre": "getDeltaY",
+            "description": ""
+        },
+        {
+            "nombre": "getMultiplierX",
+            "description": ""
+        },
+        {
+            "nombre": "getMultiplierY",
+            "description": ""
+        },
+        {
+            "nombre": "getTextDeltaX",
+            "description": ""
+        },
+        {
+            "nombre": "getTextDeltaXUnits",
+            "description": ""
+        },
+        {
+            "nombre": "getTextDeltaY",
+            "description": ""
+        },
+        {
+            "nombre": "getTextDeltaYUnits",
+            "description": ""
+        },
+        {
+            "nombre": "getTotalDeltaX",
+            "description": ""
+        },
+        {
+            "nombre": "getTotalDeltaY",
+            "description": ""
+        },
+        {
+            "nombre": "getTouchCount",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        },
+        {
+            "nombre": "SCROLL",
+            "description": ""
+        },
+        {
+            "nombre": "SCROLL_FINISHED",
+            "description": ""
+        },
+        {
+            "nombre": "SCROLL_STARTED",
+            "description": ""
+        }
+    ]
+}

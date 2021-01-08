@@ -1,0 +1,71 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addAttributeChangeNotificationListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object handback",
+                    "description": ""
+                },
+                {
+                    "nombre": "String attributeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "NotificationListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAttributeChangeNotificationListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String attributeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "NotificationListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendAttributeChangeNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeChangeNotification notification",
+                    "description": ""
+                },
+                {
+                    "nombre": "Attribute oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Attribute newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Notification ntfyObj",
+                    "description": ""
+                },
+                {
+                    "nombre": "String ntfyText",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

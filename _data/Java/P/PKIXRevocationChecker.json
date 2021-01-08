@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PKIXRevocationChecker",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getOcspExtensions",
+            "description": ""
+        },
+        {
+            "nombre": "getOcspResponder",
+            "description": ""
+        },
+        {
+            "nombre": "getOcspResponderCert",
+            "description": ""
+        },
+        {
+            "nombre": "getOcspResponses",
+            "description": ""
+        },
+        {
+            "nombre": "getOptions",
+            "description": ""
+        },
+        {
+            "nombre": "getSoftFailExceptions",
+            "description": ""
+        },
+        {
+            "nombre": "setOcspExtensions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<Extension> extensions",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOcspResponder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOcspResponderCert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "X509Certificate cert",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOcspResponses",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[]> responses",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<X509Certificate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOptions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<PKIXRevocationChecker.Option> options",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

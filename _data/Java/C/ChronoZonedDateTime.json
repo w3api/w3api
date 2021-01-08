@@ -1,0 +1,227 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChronoZonedDateTime<?> other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DateTimeFormatter formatter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalAccessor temporal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChronology",
+            "description": ""
+        },
+        {
+            "nombre": "getOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getZone",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isAfter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChronoZonedDateTime<?> other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChronoZonedDateTime<?> other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEqual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChronoZonedDateTime<?> other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAmount amount",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amountToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amountToAdd",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAmount amount",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "query",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalQuery<R> query",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "timeLineOrder",
+            "description": ""
+        },
+        {
+            "nombre": "toEpochSecond",
+            "description": ""
+        },
+        {
+            "nombre": "toInstant",
+            "description": ""
+        },
+        {
+            "nombre": "toLocalDate",
+            "description": ""
+        },
+        {
+            "nombre": "toLocalDateTime",
+            "description": ""
+        },
+        {
+            "nombre": "toLocalTime",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "with",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAdjuster adjuster",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withEarlierOffsetAtOverlap",
+            "description": ""
+        },
+        {
+            "nombre": "withLaterOffsetAtOverlap",
+            "description": ""
+        },
+        {
+            "nombre": "withZoneSameInstant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withZoneSameLocal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

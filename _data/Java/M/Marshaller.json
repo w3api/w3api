@@ -1,0 +1,189 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getAdapter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<A> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttachmentMarshaller",
+            "description": ""
+        },
+        {
+            "nombre": "getEventHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getListener",
+            "description": ""
+        },
+        {
+            "nombre": "getNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object contentTree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSchema",
+            "description": ""
+        },
+        {
+            "nombre": "marshal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XMLEventWriter writer",
+                    "description": ""
+                },
+                {
+                    "nombre": "File output",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object jaxbElement",
+                    "description": ""
+                },
+                {
+                    "nombre": "XMLStreamWriter writer",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node node",
+                    "description": ""
+                },
+                {
+                    "nombre": "ContentHandler handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "Result result",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream os",
+                    "description": ""
+                },
+                {
+                    "nombre": "Writer writer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAdapter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "A adapter",
+                    "description": ""
+                },
+                {
+                    "nombre": "XmlAdapter adapter",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<A> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttachmentMarshaller",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttachmentMarshaller am",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValidationEventHandler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Marshaller.Listener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSchema",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Schema schema",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "JAXB_ENCODING",
+            "description": ""
+        },
+        {
+            "nombre": "JAXB_FORMATTED_OUTPUT",
+            "description": ""
+        },
+        {
+            "nombre": "JAXB_FRAGMENT",
+            "description": ""
+        },
+        {
+            "nombre": "JAXB_NO_NAMESPACE_SCHEMA_LOCATION",
+            "description": ""
+        },
+        {
+            "nombre": "JAXB_SCHEMA_LOCATION",
+            "description": ""
+        }
+    ]
+}

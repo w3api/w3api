@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AsynchronousServerSocketChannel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "AsynchronousChannelProvider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accept",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super A> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "A attachment",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionHandler<AsynchronousSocketChannel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress local",
+                    "description": ""
+                },
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLocalAddress",
+            "description": ""
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AsynchronousChannelGroup group",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "provider",
+            "description": ""
+        },
+        {
+            "nombre": "setOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DragGestureEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "DragGestureRecognizer dgr",
+                    "description": ""
+                },
+                {
+                    "nombre": "int act",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point ori",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends InputEvent> evs",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getDragAction",
+            "description": ""
+        },
+        {
+            "nombre": "getDragOrigin",
+            "description": ""
+        },
+        {
+            "nombre": "getDragSource",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceAsDragGestureRecognizer",
+            "description": ""
+        },
+        {
+            "nombre": "getTriggerEvent",
+            "description": ""
+        },
+        {
+            "nombre": "iterator",
+            "description": ""
+        },
+        {
+            "nombre": "startDrag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Cursor dragCursor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point imageOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragSourceListener dsl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image dragImage",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transferable transferable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] array",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

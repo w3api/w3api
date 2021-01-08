@@ -1,0 +1,105 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Notification",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeStamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "long sequenceNumber",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getMessage",
+            "description": ""
+        },
+        {
+            "nombre": "getSequenceNumber",
+            "description": ""
+        },
+        {
+            "nombre": "getTimeStamp",
+            "description": ""
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        },
+        {
+            "nombre": "getUserData",
+            "description": ""
+        },
+        {
+            "nombre": "setSequenceNumber",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long sequenceNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTimeStamp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeStamp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUserData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object userData",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "source",
+            "description": ""
+        }
+    ]
+}

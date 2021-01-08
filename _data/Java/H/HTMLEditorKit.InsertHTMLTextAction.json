@@ -1,0 +1,173 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HTMLEditorKit.InsertHTMLTextAction",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "HTML.Tag parentTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag addTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag alternateAddTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String html",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag alternateParentTag",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "actionPerformed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActionEvent ae",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertAtBoundary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HTML.Tag parentTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag addTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTMLDocument doc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element insertElement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "JEditorPane editor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String html",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertAtBoundry",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HTML.Tag parentTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag addTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTMLDocument doc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element insertElement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "JEditorPane editor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String html",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertHTML",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HTML.Tag addTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "int popDepth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pushDepth",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTMLDocument doc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "JEditorPane editor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String html",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "addTag",
+            "description": ""
+        },
+        {
+            "nombre": "alternateAddTag",
+            "description": ""
+        },
+        {
+            "nombre": "alternateParentTag",
+            "description": ""
+        },
+        {
+            "nombre": "html",
+            "description": ""
+        },
+        {
+            "nombre": "parentTag",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DocumentParser",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "DTD dtd",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "handleEmptyTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TagElement tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleEndTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TagElement tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleStartTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TagElement tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char[] data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HTMLEditorKit.ParserCallback callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader in",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean ignoreCharSet",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

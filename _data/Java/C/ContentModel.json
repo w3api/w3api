@@ -1,0 +1,77 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ContentModel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "ContentModel content",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element content",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object content",
+                    "description": ""
+                },
+                {
+                    "nombre": "ContentModel next",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "empty",
+            "description": ""
+        },
+        {
+            "nombre": "first",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object token",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Vector<Element> elemVec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "content",
+            "description": ""
+        },
+        {
+            "nombre": "next",
+            "description": ""
+        },
+        {
+            "nombre": "type",
+            "description": ""
+        }
+    ]
+}

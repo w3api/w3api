@@ -1,0 +1,493 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "adjustInto",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Temporal temporal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "atDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LocalDate date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OffsetTime other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DateTimeFormatter formatter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalAccessor temporal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHour",
+            "description": ""
+        },
+        {
+            "nombre": "getLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinute",
+            "description": ""
+        },
+        {
+            "nombre": "getNano",
+            "description": ""
+        },
+        {
+            "nombre": "getOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getSecond",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isAfter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OffsetTime other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OffsetTime other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEqual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OffsetTime other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAmount amountToSubtract",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amountToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusHours",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long hours",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusMinutes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long minutes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusNanos",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long nanos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusSeconds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long seconds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "now",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Clock clock",
+                    "description": ""
+                },
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minute",
+                    "description": ""
+                },
+                {
+                    "nombre": "ZoneOffset offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nanoOfSecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hour",
+                    "description": ""
+                },
+                {
+                    "nombre": "LocalTime time",
+                    "description": ""
+                },
+                {
+                    "nombre": "int second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ofInstant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant instant",
+                    "description": ""
+                },
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DateTimeFormatter formatter",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAmount amountToAdd",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amountToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusHours",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long hours",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusMinutes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long minutes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusNanos",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long nanos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusSeconds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long seconds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "query",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalQuery<R> query",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "range",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toEpochSecond",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LocalDate date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toLocalTime",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "truncatedTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "until",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "Temporal endExclusive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "with",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAdjuster adjuster",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withHour",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int hour",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withMinute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withNano",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int nanoOfSecond",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withOffsetSameInstant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneOffset offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withOffsetSameLocal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneOffset offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "withSecond",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int second",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "MAX",
+            "description": ""
+        },
+        {
+            "nombre": "MIN",
+            "description": ""
+        }
+    ]
+}

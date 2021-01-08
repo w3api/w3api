@@ -1,0 +1,317 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicComboPopup",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "JComboBox<Object> combo",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "autoScrollDown",
+            "description": ""
+        },
+        {
+            "nombre": "autoScrollUp",
+            "description": ""
+        },
+        {
+            "nombre": "computePopupBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int py",
+                    "description": ""
+                },
+                {
+                    "nombre": "int px",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ph",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pw",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "configureList",
+            "description": ""
+        },
+        {
+            "nombre": "configurePopup",
+            "description": ""
+        },
+        {
+            "nombre": "configureScroller",
+            "description": ""
+        },
+        {
+            "nombre": "convertMouseEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createItemListener",
+            "description": ""
+        },
+        {
+            "nombre": "createKeyListener",
+            "description": ""
+        },
+        {
+            "nombre": "createList",
+            "description": ""
+        },
+        {
+            "nombre": "createListDataListener",
+            "description": ""
+        },
+        {
+            "nombre": "createListMouseListener",
+            "description": ""
+        },
+        {
+            "nombre": "createListMouseMotionListener",
+            "description": ""
+        },
+        {
+            "nombre": "createListSelectionListener",
+            "description": ""
+        },
+        {
+            "nombre": "createMouseListener",
+            "description": ""
+        },
+        {
+            "nombre": "createMouseMotionListener",
+            "description": ""
+        },
+        {
+            "nombre": "createPropertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createScroller",
+            "description": ""
+        },
+        {
+            "nombre": "delegateFocus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getKeyListener",
+            "description": ""
+        },
+        {
+            "nombre": "getList",
+            "description": ""
+        },
+        {
+            "nombre": "getMouseListener",
+            "description": ""
+        },
+        {
+            "nombre": "getMouseMotionListener",
+            "description": ""
+        },
+        {
+            "nombre": "getPopupHeightForRowCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maxRowCount",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hide",
+            "description": ""
+        },
+        {
+            "nombre": "installComboBoxListeners",
+            "description": ""
+        },
+        {
+            "nombre": "installComboBoxModelListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ComboBoxModel<?> model",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "installKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "installListListeners",
+            "description": ""
+        },
+        {
+            "nombre": "isFocusTraversable",
+            "description": ""
+        },
+        {
+            "nombre": "show",
+            "description": ""
+        },
+        {
+            "nombre": "startAutoScrolling",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stopAutoScrolling",
+            "description": ""
+        },
+        {
+            "nombre": "togglePopup",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallComboBoxModelListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ComboBoxModel<?> model",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uninstallingUI",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "updateListBoxSelectionForEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean shouldScroll",
+                    "description": ""
+                },
+                {
+                    "nombre": "MouseEvent anEvent",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "autoscrollTimer",
+            "description": ""
+        },
+        {
+            "nombre": "comboBox",
+            "description": ""
+        },
+        {
+            "nombre": "hasEntered",
+            "description": ""
+        },
+        {
+            "nombre": "isAutoScrolling",
+            "description": ""
+        },
+        {
+            "nombre": "itemListener",
+            "description": ""
+        },
+        {
+            "nombre": "keyListener",
+            "description": ""
+        },
+        {
+            "nombre": "list",
+            "description": ""
+        },
+        {
+            "nombre": "listDataListener",
+            "description": ""
+        },
+        {
+            "nombre": "listMouseListener",
+            "description": ""
+        },
+        {
+            "nombre": "listMouseMotionListener",
+            "description": ""
+        },
+        {
+            "nombre": "listSelectionListener",
+            "description": ""
+        },
+        {
+            "nombre": "mouseListener",
+            "description": ""
+        },
+        {
+            "nombre": "mouseMotionListener",
+            "description": ""
+        },
+        {
+            "nombre": "propertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "SCROLL_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "SCROLL_UP",
+            "description": ""
+        },
+        {
+            "nombre": "scrollDirection",
+            "description": ""
+        },
+        {
+            "nombre": "scroller",
+            "description": ""
+        },
+        {
+            "nombre": "valueIsAdjusting",
+            "description": ""
+        }
+    ]
+}

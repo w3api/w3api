@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "NotificationBroadcasterSupport",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "MBeanNotificationInfo... info",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addNotificationListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object handback",
+                    "description": ""
+                },
+                {
+                    "nombre": "NotificationFilter filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "NotificationListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object handback",
+                    "description": ""
+                },
+                {
+                    "nombre": "Notification notif",
+                    "description": ""
+                },
+                {
+                    "nombre": "NotificationListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Notification notification",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

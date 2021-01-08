@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AttachmentMarshaller",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addMtomAttachment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String elementLocalName",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataHandler data",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "String elementNamespace",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addSwaRefAttachment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataHandler data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isXOPPackage",
+            "description": ""
+        }
+    ]
+}

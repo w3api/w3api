@@ -1,0 +1,471 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "IIOMetadataNode",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String nodeName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "appendChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node newChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cloneNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean deep",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareDocumentPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributeNodeNS",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributeNS",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "getBaseURI",
+            "description": ""
+        },
+        {
+            "nombre": "getChildNodes",
+            "description": ""
+        },
+        {
+            "nombre": "getElementsByTagNameNS",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFeature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String feature",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFirstChild",
+            "description": ""
+        },
+        {
+            "nombre": "getLastChild",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalName",
+            "description": ""
+        },
+        {
+            "nombre": "getNamespaceURI",
+            "description": ""
+        },
+        {
+            "nombre": "getNextSibling",
+            "description": ""
+        },
+        {
+            "nombre": "getNodeName",
+            "description": ""
+        },
+        {
+            "nombre": "getNodeType",
+            "description": ""
+        },
+        {
+            "nombre": "getNodeValue",
+            "description": ""
+        },
+        {
+            "nombre": "getOwnerDocument",
+            "description": ""
+        },
+        {
+            "nombre": "getParentNode",
+            "description": ""
+        },
+        {
+            "nombre": "getPrefix",
+            "description": ""
+        },
+        {
+            "nombre": "getPreviousSibling",
+            "description": ""
+        },
+        {
+            "nombre": "getSchemaTypeInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getTagName",
+            "description": ""
+        },
+        {
+            "nombre": "getTextContent",
+            "description": ""
+        },
+        {
+            "nombre": "getUserData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUserObject",
+            "description": ""
+        },
+        {
+            "nombre": "hasAttributeNS",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasChildNodes",
+            "description": ""
+        },
+        {
+            "nombre": "insertBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node newChild",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node refChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDefaultNamespace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEqualNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSameNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String feature",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookupNamespaceURI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookupPrefix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "normalize",
+            "description": ""
+        },
+        {
+            "nombre": "removeAttributeNS",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node oldChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node newChild",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node oldChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttributeNodeNS",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Attr newAttr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttributeNS",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qualifiedName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIdAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIdAttributeNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isId",
+                    "description": ""
+                },
+                {
+                    "nombre": "Attr idAttr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIdAttributeNS",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNodeValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nodeValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrefix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTextContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String textContent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUserData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UserDataHandler handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object data",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUserObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object userObject",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

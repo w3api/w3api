@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MemoryNotificationInfo",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "MemoryUsage usage",
+                    "description": ""
+                },
+                {
+                    "nombre": "long count",
+                    "description": ""
+                },
+                {
+                    "nombre": "String poolName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "from",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CompositeData cd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCount",
+            "description": ""
+        },
+        {
+            "nombre": "getPoolName",
+            "description": ""
+        },
+        {
+            "nombre": "getUsage",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "MEMORY_COLLECTION_THRESHOLD_EXCEEDED",
+            "description": ""
+        },
+        {
+            "nombre": "MEMORY_THRESHOLD_EXCEEDED",
+            "description": ""
+        }
+    ]
+}

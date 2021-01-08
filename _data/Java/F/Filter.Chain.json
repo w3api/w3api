@@ -1,0 +1,33 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Filter.Chain",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "HttpHandler handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<Filter> filters",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "doFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HttpExchange exchange",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

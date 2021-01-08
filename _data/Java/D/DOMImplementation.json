@@ -1,0 +1,71 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createDocument",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentType doctype",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qualifiedName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDocumentType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qualifiedName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFeature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String feature",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasFeature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String feature",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

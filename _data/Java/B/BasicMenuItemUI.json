@@ -1,0 +1,301 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicMenuItemUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createMenuDragMouseListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createMenuKeyListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createMouseInputListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doClick",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuSelectionManager msm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPath",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredMenuItemSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon arrowIcon",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon checkIcon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int defaultTextIconGap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPropertyPrefix",
+            "description": ""
+        },
+        {
+            "nombre": "installComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JMenuItem menuItem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "installDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "installKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "installListeners",
+            "description": ""
+        },
+        {
+            "nombre": "paintBackground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JMenuItem menuItem",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color bgColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintMenuItem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color foreground",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color background",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon checkIcon",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int defaultTextIconGap",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon arrowIcon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JMenuItem menuItem",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle textRect",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uninstallComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JMenuItem menuItem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallListeners",
+            "description": ""
+        },
+        {
+            "nombre": "update",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "acceleratorDelimiter",
+            "description": ""
+        },
+        {
+            "nombre": "acceleratorFont",
+            "description": ""
+        },
+        {
+            "nombre": "acceleratorForeground",
+            "description": ""
+        },
+        {
+            "nombre": "acceleratorSelectionForeground",
+            "description": ""
+        },
+        {
+            "nombre": "arrowIcon",
+            "description": ""
+        },
+        {
+            "nombre": "checkIcon",
+            "description": ""
+        },
+        {
+            "nombre": "defaultTextIconGap",
+            "description": ""
+        },
+        {
+            "nombre": "disabledForeground",
+            "description": ""
+        },
+        {
+            "nombre": "menuDragMouseListener",
+            "description": ""
+        },
+        {
+            "nombre": "menuItem",
+            "description": ""
+        },
+        {
+            "nombre": "menuKeyListener",
+            "description": ""
+        },
+        {
+            "nombre": "mouseInputListener",
+            "description": ""
+        },
+        {
+            "nombre": "oldBorderPainted",
+            "description": ""
+        },
+        {
+            "nombre": "propertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "selectionBackground",
+            "description": ""
+        },
+        {
+            "nombre": "selectionForeground",
+            "description": ""
+        }
+    ]
+}

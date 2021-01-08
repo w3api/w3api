@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createByteIndexedInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] colors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createByteIndexedPremultipliedInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] colors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getArgb",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scanlineStride",
+                    "description": ""
+                },
+                {
+                    "nombre": "T buf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getByteBgraInstance",
+            "description": ""
+        },
+        {
+            "nombre": "getByteBgraPreInstance",
+            "description": ""
+        },
+        {
+            "nombre": "getByteRgbInstance",
+            "description": ""
+        },
+        {
+            "nombre": "getIntArgbInstance",
+            "description": ""
+        },
+        {
+            "nombre": "getIntArgbPreInstance",
+            "description": ""
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        },
+        {
+            "nombre": "isPremultiplied",
+            "description": ""
+        },
+        {
+            "nombre": "isWritable",
+            "description": ""
+        }
+    ]
+}

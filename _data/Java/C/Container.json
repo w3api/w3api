@@ -1,0 +1,529 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Container",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object constraints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addContainerListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ContainerListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addImpl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object constraints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addNotify",
+            "description": ""
+        },
+        {
+            "nombre": "addPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeListener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "applyComponentOrientation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ComponentOrientation o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "areFocusTraversalKeysSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "countComponents",
+            "description": ""
+        },
+        {
+            "nombre": "deliverEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Event e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doLayout",
+            "description": ""
+        },
+        {
+            "nombre": "findComponentAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlignmentX",
+            "description": ""
+        },
+        {
+            "nombre": "getAlignmentY",
+            "description": ""
+        },
+        {
+            "nombre": "getComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComponentAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComponentCount",
+            "description": ""
+        },
+        {
+            "nombre": "getComponents",
+            "description": ""
+        },
+        {
+            "nombre": "getComponentZOrder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContainerListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getFocusTraversalKeys",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFocusTraversalPolicy",
+            "description": ""
+        },
+        {
+            "nombre": "getInsets",
+            "description": ""
+        },
+        {
+            "nombre": "getLayout",
+            "description": ""
+        },
+        {
+            "nombre": "getListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> listenerType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximumSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMousePosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean allowChildren",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": ""
+        },
+        {
+            "nombre": "insets",
+            "description": ""
+        },
+        {
+            "nombre": "invalidate",
+            "description": ""
+        },
+        {
+            "nombre": "isAncestorOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFocusCycleRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container container",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFocusTraversalPolicyProvider",
+            "description": ""
+        },
+        {
+            "nombre": "isFocusTraversalPolicySet",
+            "description": ""
+        },
+        {
+            "nombre": "isValidateRoot",
+            "description": ""
+        },
+        {
+            "nombre": "layout",
+            "description": ""
+        },
+        {
+            "nombre": "list",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int indent",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintStream out",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintWriter out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "locate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minimumSize",
+            "description": ""
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "preferredSize",
+            "description": ""
+        },
+        {
+            "nombre": "print",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "printComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processContainerEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ContainerEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AWTEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAll",
+            "description": ""
+        },
+        {
+            "nombre": "removeContainerListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ContainerListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeNotify",
+            "description": ""
+        },
+        {
+            "nombre": "setComponentZOrder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFocusCycleRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean focusCycleRoot",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFocusTraversalKeys",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<? extends AWTKeyStroke> keystrokes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFocusTraversalPolicy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FocusTraversalPolicy policy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFocusTraversalPolicyProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LayoutManager mgr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transferFocusDownCycle",
+            "description": ""
+        },
+        {
+            "nombre": "update",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "validate",
+            "description": ""
+        },
+        {
+            "nombre": "validateTree",
+            "description": ""
+        }
+    ]
+}

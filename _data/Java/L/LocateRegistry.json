@@ -1,0 +1,43 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createRegistry",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "RMIClientSocketFactory csf",
+                    "description": ""
+                },
+                {
+                    "nombre": "RMIServerSocketFactory ssf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRegistry",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "RMIClientSocketFactory csf",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

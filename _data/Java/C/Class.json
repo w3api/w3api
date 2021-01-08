@@ -1,0 +1,399 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "asSubclass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<U> clazz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cast",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "desiredAssertionStatus",
+            "description": ""
+        },
+        {
+            "nombre": "forName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean initialize",
+                    "description": ""
+                },
+                {
+                    "nombre": "Module module",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAnnotatedInterfaces",
+            "description": ""
+        },
+        {
+            "nombre": "getAnnotatedSuperclass",
+            "description": ""
+        },
+        {
+            "nombre": "getAnnotation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<A> annotationClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAnnotations",
+            "description": ""
+        },
+        {
+            "nombre": "getAnnotationsByType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<A> annotationClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCanonicalName",
+            "description": ""
+        },
+        {
+            "nombre": "getClasses",
+            "description": ""
+        },
+        {
+            "nombre": "getClassLoader",
+            "description": ""
+        },
+        {
+            "nombre": "getComponentType",
+            "description": ""
+        },
+        {
+            "nombre": "getConstructor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?>... parameterTypes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConstructors",
+            "description": ""
+        },
+        {
+            "nombre": "getDeclaredAnnotation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<A> annotationClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeclaredAnnotations",
+            "description": ""
+        },
+        {
+            "nombre": "getDeclaredAnnotationsByType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<A> annotationClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeclaredClasses",
+            "description": ""
+        },
+        {
+            "nombre": "getDeclaredConstructor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?>... parameterTypes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeclaredConstructors",
+            "description": ""
+        },
+        {
+            "nombre": "getDeclaredField",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeclaredFields",
+            "description": ""
+        },
+        {
+            "nombre": "getDeclaredMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?>... parameterTypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeclaredMethods",
+            "description": ""
+        },
+        {
+            "nombre": "getDeclaringClass",
+            "description": ""
+        },
+        {
+            "nombre": "getEnclosingClass",
+            "description": ""
+        },
+        {
+            "nombre": "getEnclosingConstructor",
+            "description": ""
+        },
+        {
+            "nombre": "getEnclosingMethod",
+            "description": ""
+        },
+        {
+            "nombre": "getEnumConstants",
+            "description": ""
+        },
+        {
+            "nombre": "getField",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFields",
+            "description": ""
+        },
+        {
+            "nombre": "getGenericInterfaces",
+            "description": ""
+        },
+        {
+            "nombre": "getGenericSuperclass",
+            "description": ""
+        },
+        {
+            "nombre": "getInterfaces",
+            "description": ""
+        },
+        {
+            "nombre": "getMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?>... parameterTypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMethods",
+            "description": ""
+        },
+        {
+            "nombre": "getModifiers",
+            "description": ""
+        },
+        {
+            "nombre": "getModule",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getPackage",
+            "description": ""
+        },
+        {
+            "nombre": "getPackageName",
+            "description": ""
+        },
+        {
+            "nombre": "getProtectionDomain",
+            "description": ""
+        },
+        {
+            "nombre": "getResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResourceAsStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSigners",
+            "description": ""
+        },
+        {
+            "nombre": "getSimpleName",
+            "description": ""
+        },
+        {
+            "nombre": "getSuperclass",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeName",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeParameters",
+            "description": ""
+        },
+        {
+            "nombre": "isAnnotation",
+            "description": ""
+        },
+        {
+            "nombre": "isAnnotationPresent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<? extends Annotation> annotationClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isAnonymousClass",
+            "description": ""
+        },
+        {
+            "nombre": "isArray",
+            "description": ""
+        },
+        {
+            "nombre": "isAssignableFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> cls",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEnum",
+            "description": ""
+        },
+        {
+            "nombre": "isInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isInterface",
+            "description": ""
+        },
+        {
+            "nombre": "isLocalClass",
+            "description": ""
+        },
+        {
+            "nombre": "isMemberClass",
+            "description": ""
+        },
+        {
+            "nombre": "isPrimitive",
+            "description": ""
+        },
+        {
+            "nombre": "isSynthetic",
+            "description": ""
+        },
+        {
+            "nombre": "newInstance",
+            "description": ""
+        },
+        {
+            "nombre": "toGenericString",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

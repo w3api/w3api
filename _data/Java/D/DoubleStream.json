@@ -1,0 +1,319 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "allMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoublePredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "anyMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoublePredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "average",
+            "description": ""
+        },
+        {
+            "nombre": "boxed",
+            "description": ""
+        },
+        {
+            "nombre": "builder",
+            "description": ""
+        },
+        {
+            "nombre": "collect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "R> combiner",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiConsumer<R",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjDoubleConsumer<R> accumulator",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<R> supplier",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "concat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoubleStream b",
+                    "description": ""
+                },
+                {
+                    "nombre": "DoubleStream a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "count",
+            "description": ""
+        },
+        {
+            "nombre": "distinct",
+            "description": ""
+        },
+        {
+            "nombre": "dropWhile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoublePredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "empty",
+            "description": ""
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoublePredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findAny",
+            "description": ""
+        },
+        {
+            "nombre": "findFirst",
+            "description": ""
+        },
+        {
+            "nombre": "flatMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoubleFunction<? extends DoubleStream> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forEach",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoubleConsumer action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forEachOrdered",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoubleConsumer action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "generate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoubleSupplier s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "iterate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoublePredicate hasNext",
+                    "description": ""
+                },
+                {
+                    "nombre": "DoubleUnaryOperator f",
+                    "description": ""
+                },
+                {
+                    "nombre": "DoubleUnaryOperator next",
+                    "description": ""
+                },
+                {
+                    "nombre": "double seed",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "limit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long maxSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "map",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoubleUnaryOperator mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoubleToIntFunction mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoubleToLongFunction mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToObj",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoubleFunction<? extends U> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "max",
+            "description": ""
+        },
+        {
+            "nombre": "min",
+            "description": ""
+        },
+        {
+            "nombre": "noneMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoublePredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double... values",
+                    "description": ""
+                },
+                {
+                    "nombre": "double t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "peek",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoubleConsumer action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reduce",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double identity",
+                    "description": ""
+                },
+                {
+                    "nombre": "DoubleBinaryOperator op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "skip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sorted",
+            "description": ""
+        },
+        {
+            "nombre": "sum",
+            "description": ""
+        },
+        {
+            "nombre": "summaryStatistics",
+            "description": ""
+        },
+        {
+            "nombre": "takeWhile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DoublePredicate predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toArray",
+            "description": ""
+        }
+    ]
+}

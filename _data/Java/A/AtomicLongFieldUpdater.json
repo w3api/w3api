@@ -1,0 +1,247 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AtomicLongFieldUpdater",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accumulateAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long x",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongBinaryOperator accumulatorFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long delta",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long expect",
+                    "description": ""
+                },
+                {
+                    "nombre": "long update",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decrementAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndAccumulate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long x",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongBinaryOperator accumulatorFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndAdd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long delta",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndDecrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongUnaryOperator updateFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "incrementAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lazySet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newUpdater",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String fieldName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<U> tclass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LongUnaryOperator updateFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long expect",
+                    "description": ""
+                },
+                {
+                    "nombre": "long update",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

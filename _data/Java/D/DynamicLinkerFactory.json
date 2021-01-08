@@ -1,0 +1,119 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DynamicLinkerFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createLinker",
+            "description": ""
+        },
+        {
+            "nombre": "getAutoLoadingErrors",
+            "description": ""
+        },
+        {
+            "nombre": "setAutoConversionStrategy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodTypeConversionStrategy autoConversionStrategy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setClassLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFallbackLinkers",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GuardingDynamicLinker... fallbackLinkers",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends GuardingDynamicLinker> fallbackLinkers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInternalObjectsFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandleTransformer internalObjectsFilter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrelinkTransformer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GuardedInvocationTransformer prelinkTransformer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrioritizedLinker",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GuardingDynamicLinker prioritizedLinker",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrioritizedLinkers",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends GuardingDynamicLinker> prioritizedLinkers",
+                    "description": ""
+                },
+                {
+                    "nombre": "GuardingDynamicLinker... prioritizedLinkers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSyncOnRelink",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean syncOnRelink",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUnstableRelinkThreshold",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int unstableRelinkThreshold",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

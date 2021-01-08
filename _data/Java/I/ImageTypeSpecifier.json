@@ -1,0 +1,267 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImageTypeSpecifier",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SampleModel sampleModel",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorModel colorModel",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderedImage image",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createBanded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bankIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace colorSpace",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasAlpha",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bandOffsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createBufferedImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFromBufferedImageType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bufferedImageType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFromRenderedImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RenderedImage image",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createGrayscale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isSigned",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bits",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createIndexed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] blueLUT",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bits",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] greenLUT",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] redLUT",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] alphaLUT",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createInterleaved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorSpace colorSpace",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasAlpha",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bandOffsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createPacked",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorSpace colorSpace",
+                    "description": ""
+                },
+                {
+                    "nombre": "int blueMask",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                },
+                {
+                    "nombre": "int greenMask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int transferType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int redMask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int alphaMask",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBitsPerBand",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int band",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBufferedImageType",
+            "description": ""
+        },
+        {
+            "nombre": "getColorModel",
+            "description": ""
+        },
+        {
+            "nombre": "getNumBands",
+            "description": ""
+        },
+        {
+            "nombre": "getNumComponents",
+            "description": ""
+        },
+        {
+            "nombre": "getSampleModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "colorModel",
+            "description": ""
+        },
+        {
+            "nombre": "sampleModel",
+            "description": ""
+        }
+    ]
+}

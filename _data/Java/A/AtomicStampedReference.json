@@ -1,0 +1,113 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AtomicStampedReference",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int initialStamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "V initialRef",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "attemptStamp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newStamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "V expectedReference",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newStamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "int expectedStamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newReference",
+                    "description": ""
+                },
+                {
+                    "nombre": "V expectedReference",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] stampHolder",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getReference",
+            "description": ""
+        },
+        {
+            "nombre": "getStamp",
+            "description": ""
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newStamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newReference",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newStamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "int expectedStamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newReference",
+                    "description": ""
+                },
+                {
+                    "nombre": "V expectedReference",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

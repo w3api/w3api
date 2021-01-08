@@ -1,0 +1,159 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BlockView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "calculateMajorAxisRequirements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateMinorAxisRequirements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimumSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResizeWeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStyleSheet",
+            "description": ""
+        },
+        {
+            "nombre": "layoutMinorAxis",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] spans",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int targetSpan",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape allocation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "View parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPropertiesFromAttributes",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "append",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape s",
+                    "description": ""
+                },
+                {
+                    "nombre": "PathIterator pi",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean connect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "closePath",
+            "description": ""
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "PathIterator pi",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createTransformedShape",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform at",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "curveTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x3",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y3",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentPoint",
+            "description": ""
+        },
+        {
+            "nombre": "getPathIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform at",
+                    "description": ""
+                },
+                {
+                    "nombre": "double flatness",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWindingRule",
+            "description": ""
+        },
+        {
+            "nombre": "intersects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "PathIterator pi",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lineTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "moveTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "quadTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "setWindingRule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rule",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform at",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "trimToSize",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "WIND_EVEN_ODD",
+            "description": ""
+        },
+        {
+            "nombre": "WIND_NON_ZERO",
+            "description": ""
+        }
+    ]
+}

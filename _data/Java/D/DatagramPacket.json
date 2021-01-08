@@ -1,0 +1,121 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DatagramPacket",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] buf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress address",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketAddress address",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getData",
+            "description": ""
+        },
+        {
+            "nombre": "getLength",
+            "description": ""
+        },
+        {
+            "nombre": "getOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getPort",
+            "description": ""
+        },
+        {
+            "nombre": "getSocketAddress",
+            "description": ""
+        },
+        {
+            "nombre": "setAddress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetAddress iaddr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] buf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int iport",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSocketAddress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress address",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Selector",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "applies",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<PseudoClass>[] triggerStates",
+                    "description": ""
+                },
+                {
+                    "nombre": "Styleable styleable",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createMatch",
+            "description": ""
+        },
+        {
+            "nombre": "createSelector",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssSelector",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOrdinal",
+            "description": ""
+        },
+        {
+            "nombre": "getRule",
+            "description": ""
+        },
+        {
+            "nombre": "setOrdinal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ordinal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stateMatches",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<PseudoClass> state",
+                    "description": ""
+                },
+                {
+                    "nombre": "Styleable styleable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeBinary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataOutputStream os",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleConverter.StringStore stringStore",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

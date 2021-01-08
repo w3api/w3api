@@ -1,0 +1,423 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AsyncBoxView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createChildState",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "View v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flushRequirementChanges",
+            "description": ""
+        },
+        {
+            "nombre": "getBottomInset",
+            "description": ""
+        },
+        {
+            "nombre": "getChildAllocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildState",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEstimatedMajorSpan",
+            "description": ""
+        },
+        {
+            "nombre": "getInsetSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLayoutQueue",
+            "description": ""
+        },
+        {
+            "nombre": "getLeftInset",
+            "description": ""
+        },
+        {
+            "nombre": "getMajorAxis",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimumSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinorAxis",
+            "description": ""
+        },
+        {
+            "nombre": "getNextVisualPositionFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRightInset",
+            "description": ""
+        },
+        {
+            "nombre": "getTopInset",
+            "description": ""
+        },
+        {
+            "nombre": "getView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getViewCount",
+            "description": ""
+        },
+        {
+            "nombre": "getViewIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getViewIndexAtPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadChildren",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "majorRequirementChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AsyncBoxView.ChildState cs",
+                    "description": ""
+                },
+                {
+                    "nombre": "float delta",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minorRequirementChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AsyncBoxView.ChildState cs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modelToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape alloc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preferenceChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean width",
+                    "description": ""
+                },
+                {
+                    "nombre": "View child",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "View[] views",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBottomInset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEstimatedMajorSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isEstimated",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLeftInset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "View parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRightInset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float width",
+                    "description": ""
+                },
+                {
+                    "nombre": "float height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTopInset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent.ElementChange ec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "viewToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasReturn",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "locator",
+            "description": ""
+        }
+    ]
+}

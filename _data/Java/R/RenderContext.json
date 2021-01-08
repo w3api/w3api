@@ -1,0 +1,113 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RenderContext",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Shape aoi",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderingHints hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform usr2dev",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "concatenateTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform modTransform",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "concetenateTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform modTransform",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAreaOfInterest",
+            "description": ""
+        },
+        {
+            "nombre": "getRenderingHints",
+            "description": ""
+        },
+        {
+            "nombre": "getTransform",
+            "description": ""
+        },
+        {
+            "nombre": "preConcatenateTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform modTransform",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preConcetenateTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform modTransform",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAreaOfInterest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape newAoi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRenderingHints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RenderingHints hints",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform newTransform",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

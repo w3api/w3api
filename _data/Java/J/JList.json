@@ -1,0 +1,589 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JList",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Vector<? extends E> listData",
+                    "description": ""
+                },
+                {
+                    "nombre": "E[] listData",
+                    "description": ""
+                },
+                {
+                    "nombre": "ListModel<E> dataModel",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addListSelectionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListSelectionListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int anchor",
+                    "description": ""
+                },
+                {
+                    "nombre": "int lead",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clearSelection",
+            "description": ""
+        },
+        {
+            "nombre": "createSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "ensureIndexIsVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireSelectionValueChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isAdjusting",
+                    "description": ""
+                },
+                {
+                    "nombre": "int lastIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int firstIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getAnchorSelectionIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getCellBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCellRenderer",
+            "description": ""
+        },
+        {
+            "nombre": "getDragEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "getDropLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getDropMode",
+            "description": ""
+        },
+        {
+            "nombre": "getFirstVisibleIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getFixedCellHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getFixedCellWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getLastVisibleIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getLayoutOrientation",
+            "description": ""
+        },
+        {
+            "nombre": "getLeadSelectionIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getListSelectionListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxSelectionIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getMinSelectionIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getModel",
+            "description": ""
+        },
+        {
+            "nombre": "getNextMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int startIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredScrollableViewportSize",
+            "description": ""
+        },
+        {
+            "nombre": "getPrototypeCellValue",
+            "description": ""
+        },
+        {
+            "nombre": "getScrollableBlockIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                },
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getScrollableTracksViewportHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getScrollableTracksViewportWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getScrollableUnitIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                },
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSelectedIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedIndices",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedValue",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedValues",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedValuesList",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionBackground",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionForeground",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionMode",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "getToolTipText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "getValueIsAdjusting",
+            "description": ""
+        },
+        {
+            "nombre": "getVisibleRowCount",
+            "description": ""
+        },
+        {
+            "nombre": "indexToLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSelectedIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSelectionEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "locationToIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "removeListSelectionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListSelectionListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellRenderer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListCellRenderer<? super E> cellRenderer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDragEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDropMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DropMode dropMode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFixedCellHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFixedCellWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLayoutOrientation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int layoutOrientation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setListData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Vector<? extends E> listData",
+                    "description": ""
+                },
+                {
+                    "nombre": "E[] listData",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListModel<E> model",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrototypeCellValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E prototypeCellValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedIndices",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] indices",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean shouldScroll",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object anObject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionBackground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color selectionBackground",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionForeground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color selectionForeground",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int anchor",
+                    "description": ""
+                },
+                {
+                    "nombre": "int lead",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int selectionMode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListSelectionModel selectionModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValueIsAdjusting",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVisibleRowCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int visibleRowCount",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "HORIZONTAL_WRAP",
+            "description": ""
+        },
+        {
+            "nombre": "VERTICAL",
+            "description": ""
+        },
+        {
+            "nombre": "VERTICAL_WRAP",
+            "description": ""
+        }
+    ]
+}

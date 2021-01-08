@@ -1,0 +1,153 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Endpoint",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String bindingId",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object implementor",
+                    "description": ""
+                },
+                {
+                    "nombre": "WebServiceFeature... features",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBinding",
+            "description": ""
+        },
+        {
+            "nombre": "getEndpointReference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> clazz",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element... referenceParameters",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getExecutor",
+            "description": ""
+        },
+        {
+            "nombre": "getImplementor",
+            "description": ""
+        },
+        {
+            "nombre": "getMetadata",
+            "description": ""
+        },
+        {
+            "nombre": "getProperties",
+            "description": ""
+        },
+        {
+            "nombre": "isPublished",
+            "description": ""
+        },
+        {
+            "nombre": "publish",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WebServiceFeature... features",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object serverContext",
+                    "description": ""
+                },
+                {
+                    "nombre": "HttpContext serverContext",
+                    "description": ""
+                },
+                {
+                    "nombre": "String address",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object implementor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEndpointContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EndpointContext ctxt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExecutor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMetadata",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<Source> metadata",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperties",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object> properties",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stop",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "WSDL_PORT",
+            "description": ""
+        },
+        {
+            "nombre": "WSDL_SERVICE",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,313 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HttpURLConnection",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "URL u",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "disconnect",
+            "description": ""
+        },
+        {
+            "nombre": "getErrorStream",
+            "description": ""
+        },
+        {
+            "nombre": "getFollowRedirects",
+            "description": ""
+        },
+        {
+            "nombre": "getHeaderField",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHeaderFieldKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInstanceFollowRedirects",
+            "description": ""
+        },
+        {
+            "nombre": "getPermission",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestMethod",
+            "description": ""
+        },
+        {
+            "nombre": "getResponseCode",
+            "description": ""
+        },
+        {
+            "nombre": "getResponseMessage",
+            "description": ""
+        },
+        {
+            "nombre": "setAuthenticator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Authenticator auth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setChunkedStreamingMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int chunklen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFixedLengthStreamingMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long contentLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "int contentLength",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFollowRedirects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean set",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInstanceFollowRedirects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean followRedirects",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRequestMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String method",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "usingProxy",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "chunkLength",
+            "description": ""
+        },
+        {
+            "nombre": "fixedContentLength",
+            "description": ""
+        },
+        {
+            "nombre": "fixedContentLengthLong",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_ACCEPTED",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_BAD_GATEWAY",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_BAD_METHOD",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_BAD_REQUEST",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_CLIENT_TIMEOUT",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_CONFLICT",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_CREATED",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_ENTITY_TOO_LARGE",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_FORBIDDEN",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_GATEWAY_TIMEOUT",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_GONE",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_INTERNAL_ERROR",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_LENGTH_REQUIRED",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_MOVED_PERM",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_MOVED_TEMP",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_MULT_CHOICE",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_NO_CONTENT",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_NOT_ACCEPTABLE",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_NOT_AUTHORITATIVE",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_NOT_FOUND",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_NOT_IMPLEMENTED",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_NOT_MODIFIED",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_OK",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_PARTIAL",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_PAYMENT_REQUIRED",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_PRECON_FAILED",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_PROXY_AUTH",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_REQ_TOO_LONG",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_RESET",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_SEE_OTHER",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_SERVER_ERROR",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_UNAUTHORIZED",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_UNAVAILABLE",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_UNSUPPORTED_TYPE",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_USE_PROXY",
+            "description": ""
+        },
+        {
+            "nombre": "HTTP_VERSION",
+            "description": ""
+        },
+        {
+            "nombre": "instanceFollowRedirects",
+            "description": ""
+        },
+        {
+            "nombre": "method",
+            "description": ""
+        },
+        {
+            "nombre": "responseCode",
+            "description": ""
+        },
+        {
+            "nombre": "responseMessage",
+            "description": ""
+        }
+    ]
+}

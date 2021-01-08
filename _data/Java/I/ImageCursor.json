@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImageCursor",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Image image",
+                    "description": ""
+                },
+                {
+                    "nombre": "double hotspotX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double hotspotY",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "chooseBestCursor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Image[] images",
+                    "description": ""
+                },
+                {
+                    "nombre": "double hotspotX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double hotspotY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBestSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double preferredWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "double preferredHeight",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHotspotX",
+            "description": ""
+        },
+        {
+            "nombre": "getHotspotY",
+            "description": ""
+        },
+        {
+            "nombre": "getImage",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumColors",
+            "description": ""
+        },
+        {
+            "nombre": "hotspotXProperty",
+            "description": ""
+        },
+        {
+            "nombre": "hotspotYProperty",
+            "description": ""
+        },
+        {
+            "nombre": "imageProperty",
+            "description": ""
+        }
+    ]
+}

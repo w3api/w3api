@@ -1,0 +1,209 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Path2D.Float",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform at",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rule",
+                    "description": ""
+                },
+                {
+                    "nombre": "int initialCapacity",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "append",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PathIterator pi",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean connect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "curveTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x3",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x3",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y3",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y3",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds2D",
+            "description": ""
+        },
+        {
+            "nombre": "getPathIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform at",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lineTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "moveTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "quadTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform at",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BeansLinker",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "MissingMemberHandlerFactory missingMemberHandlerFactory",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getConstructorMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> clazz",
+                    "description": ""
+                },
+                {
+                    "nombre": "String signature",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInstanceMethodNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> clazz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLinkerForClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> clazz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getReadableInstancePropertyNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> clazz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getReadableStaticPropertyNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> clazz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStaticMethodNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> clazz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWritableInstancePropertyNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> clazz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWritableStaticPropertyNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> clazz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDynamicConstructor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDynamicMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

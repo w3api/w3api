@@ -1,0 +1,111 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImageReadParam",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "canSetSourceRenderSize",
+            "description": ""
+        },
+        {
+            "nombre": "getDestination",
+            "description": ""
+        },
+        {
+            "nombre": "getDestinationBands",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceMaxProgressivePass",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceMinProgressivePass",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceNumProgressivePasses",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceRenderSize",
+            "description": ""
+        },
+        {
+            "nombre": "setDestination",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BufferedImage destination",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDestinationBands",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] destinationBands",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSourceProgressivePasses",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minPass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numPasses",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSourceRenderSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dimension size",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "canSetSourceRenderSize",
+            "description": ""
+        },
+        {
+            "nombre": "destination",
+            "description": ""
+        },
+        {
+            "nombre": "destinationBands",
+            "description": ""
+        },
+        {
+            "nombre": "minProgressivePass",
+            "description": ""
+        },
+        {
+            "nombre": "numProgressivePasses",
+            "description": ""
+        },
+        {
+            "nombre": "sourceRenderSize",
+            "description": ""
+        }
+    ]
+}

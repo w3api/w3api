@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "LabeledSkinBase",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "C labeled",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "computeMinWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double rightInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double height",
+                    "description": ""
+                },
+                {
+                    "nombre": "double topInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double bottomInset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double leftInset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutChildren",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutLabelInArea",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Pos alignment",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateChildren",
+            "description": ""
+        }
+    ]
+}

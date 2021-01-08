@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getClassAnnotation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> cl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClassLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String codebase",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultProviderInstance",
+            "description": ""
+        },
+        {
+            "nombre": "getSecurityContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL codebase",
+                    "description": ""
+                },
+                {
+                    "nombre": "String codebase",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader defaultLoader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadProxyClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String codebase",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader defaultLoader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] interfaces",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

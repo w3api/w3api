@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "forEach",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super StackWalker.StackFrame> action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCallerClass",
+            "description": ""
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<StackWalker.Option> options",
+                    "description": ""
+                },
+                {
+                    "nombre": "int estimateDepth",
+                    "description": ""
+                },
+                {
+                    "nombre": "StackWalker.Option option",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "walk",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends T> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super Stream<StackWalker.StackFrame>",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

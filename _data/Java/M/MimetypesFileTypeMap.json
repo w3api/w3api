@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MimetypesFileTypeMap",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream is",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mimeTypeFileName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addMimeTypes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mime_types",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContentType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File f",
+                    "description": ""
+                },
+                {
+                    "nombre": "String filename",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

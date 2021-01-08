@@ -1,0 +1,191 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Deflater",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int level",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean nowrap",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "deflate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int flush",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "end",
+            "description": ""
+        },
+        {
+            "nombre": "finalize",
+            "description": ""
+        },
+        {
+            "nombre": "finish",
+            "description": ""
+        },
+        {
+            "nombre": "finished",
+            "description": ""
+        },
+        {
+            "nombre": "getAdler",
+            "description": ""
+        },
+        {
+            "nombre": "getBytesRead",
+            "description": ""
+        },
+        {
+            "nombre": "getBytesWritten",
+            "description": ""
+        },
+        {
+            "nombre": "getTotalIn",
+            "description": ""
+        },
+        {
+            "nombre": "getTotalOut",
+            "description": ""
+        },
+        {
+            "nombre": "needsInput",
+            "description": ""
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "setDictionary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStrategy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int strategy",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "BEST_COMPRESSION",
+            "description": ""
+        },
+        {
+            "nombre": "BEST_SPEED",
+            "description": ""
+        },
+        {
+            "nombre": "DEFAULT_COMPRESSION",
+            "description": ""
+        },
+        {
+            "nombre": "DEFAULT_STRATEGY",
+            "description": ""
+        },
+        {
+            "nombre": "DEFLATED",
+            "description": ""
+        },
+        {
+            "nombre": "FILTERED",
+            "description": ""
+        },
+        {
+            "nombre": "FULL_FLUSH",
+            "description": ""
+        },
+        {
+            "nombre": "HUFFMAN_ONLY",
+            "description": ""
+        },
+        {
+            "nombre": "NO_COMPRESSION",
+            "description": ""
+        },
+        {
+            "nombre": "NO_FLUSH",
+            "description": ""
+        },
+        {
+            "nombre": "SYNC_FLUSH",
+            "description": ""
+        }
+    ]
+}

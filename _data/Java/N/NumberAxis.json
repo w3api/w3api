@@ -1,0 +1,157 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "NumberAxis",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "double tickUnit",
+                    "description": ""
+                },
+                {
+                    "nombre": "double upperBound",
+                    "description": ""
+                },
+                {
+                    "nombre": "double lowerBound",
+                    "description": ""
+                },
+                {
+                    "nombre": "String axisLabel",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "autoRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double labelSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "double length",
+                    "description": ""
+                },
+                {
+                    "nombre": "double minValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "double maxValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateMinorTickMarks",
+            "description": ""
+        },
+        {
+            "nombre": "calculateTickValues",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object range",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forceZeroInRangeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getRange",
+            "description": ""
+        },
+        {
+            "nombre": "getTickMarkLabel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Number value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTickUnit",
+            "description": ""
+        },
+        {
+            "nombre": "isForceZeroInRange",
+            "description": ""
+        },
+        {
+            "nombre": "measureTickMarkSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object range",
+                    "description": ""
+                },
+                {
+                    "nombre": "Number value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setForceZeroInRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object range",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean animate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTickUnit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tickUnitProperty",
+            "description": ""
+        }
+    ]
+}

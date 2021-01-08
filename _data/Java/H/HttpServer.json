@@ -1,0 +1,101 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HttpServer",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetSocketAddress addr",
+                    "description": ""
+                },
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetSocketAddress addr",
+                    "description": ""
+                },
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HttpHandler handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "String path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getExecutor",
+            "description": ""
+        },
+        {
+            "nombre": "removeContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HttpContext context",
+                    "description": ""
+                },
+                {
+                    "nombre": "String path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExecutor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": ""
+        },
+        {
+            "nombre": "stop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int delay",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

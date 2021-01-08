@@ -1,0 +1,227 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PrintStream",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "String csn",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean autoFlush",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                },
+                {
+                    "nombre": "String fileName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "append",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence csq",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkError",
+            "description": ""
+        },
+        {
+            "nombre": "clearError",
+            "description": ""
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String format",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale l",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "print",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "float f",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] s",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                },
+                {
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "String s",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "long l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "printf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String format",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale l",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "println",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "long x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String x",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object x",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean x",
+                    "description": ""
+                },
+                {
+                    "nombre": "char x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setError",
+            "description": ""
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] buf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,415 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Axis",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "animatedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "autoRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "autoRangingProperty",
+            "description": ""
+        },
+        {
+            "nombre": "calculateTickValues",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object range",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computePrefHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double width",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computePrefWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAnimated",
+            "description": ""
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getDisplayPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLabel",
+            "description": ""
+        },
+        {
+            "nombre": "getRange",
+            "description": ""
+        },
+        {
+            "nombre": "getSide",
+            "description": ""
+        },
+        {
+            "nombre": "getTickLabelFill",
+            "description": ""
+        },
+        {
+            "nombre": "getTickLabelFont",
+            "description": ""
+        },
+        {
+            "nombre": "getTickLabelGap",
+            "description": ""
+        },
+        {
+            "nombre": "getTickLabelRotation",
+            "description": ""
+        },
+        {
+            "nombre": "getTickLength",
+            "description": ""
+        },
+        {
+            "nombre": "getTickMarkLabel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTickMarks",
+            "description": ""
+        },
+        {
+            "nombre": "getValueForDisplay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double displayPosition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getZeroPosition",
+            "description": ""
+        },
+        {
+            "nombre": "invalidateRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<T> data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isAutoRanging",
+            "description": ""
+        },
+        {
+            "nombre": "isRangeValid",
+            "description": ""
+        },
+        {
+            "nombre": "isTickLabelsVisible",
+            "description": ""
+        },
+        {
+            "nombre": "isTickMarkVisible",
+            "description": ""
+        },
+        {
+            "nombre": "isValueOnAxis",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "labelProperty",
+            "description": ""
+        },
+        {
+            "nombre": "layoutChildren",
+            "description": ""
+        },
+        {
+            "nombre": "measureTickMarkLabelSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String labelText",
+                    "description": ""
+                },
+                {
+                    "nombre": "double rotation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "measureTickMarkSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object range",
+                    "description": ""
+                },
+                {
+                    "nombre": "double rotation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestAxisLayout",
+            "description": ""
+        },
+        {
+            "nombre": "requestLayout",
+            "description": ""
+        },
+        {
+            "nombre": "setAnimated",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAutoRanging",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLabel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object range",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean animate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSide",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Side value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTickLabelFill",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Paint value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTickLabelFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTickLabelGap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTickLabelRotation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTickLabelsVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTickLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTickMarkVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shouldAnimate",
+            "description": ""
+        },
+        {
+            "nombre": "sideProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tickLabelFillProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tickLabelFontProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tickLabelGapProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tickLabelRotationProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tickLabelsVisibleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tickLengthProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tickMarksUpdated",
+            "description": ""
+        },
+        {
+            "nombre": "tickMarkVisibleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "toNumericValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toRealValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

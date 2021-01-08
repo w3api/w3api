@@ -1,0 +1,113 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ResolutionSyntax",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int feedResolution",
+                    "description": ""
+                },
+                {
+                    "nombre": "int crossFeedResolution",
+                    "description": ""
+                },
+                {
+                    "nombre": "int units",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCrossFeedResolution",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int units",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCrossFeedResolutionDphi",
+            "description": ""
+        },
+        {
+            "nombre": "getFeedResolution",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int units",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFeedResolutionDphi",
+            "description": ""
+        },
+        {
+            "nombre": "getResolution",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int units",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "lessThanOrEquals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ResolutionSyntax other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String unitsName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int units",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DPCM",
+            "description": ""
+        },
+        {
+            "nombre": "DPI",
+            "description": ""
+        }
+    ]
+}

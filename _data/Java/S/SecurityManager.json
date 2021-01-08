@@ -1,0 +1,269 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SecurityManager",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "checkAccept",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkAccess",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ThreadGroup g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Thread t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkAwtEventQueueAccess",
+            "description": ""
+        },
+        {
+            "nombre": "checkConnect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkCreateClassLoader",
+            "description": ""
+        },
+        {
+            "nombre": "checkDelete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkExec",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cmd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkExit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int status",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkLink",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String lib",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkListen",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkMemberAccess",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> clazz",
+                    "description": ""
+                },
+                {
+                    "nombre": "int which",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkMulticast",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetAddress maddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte ttl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkPackageAccess",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pkg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkPackageDefinition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pkg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkPermission",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Permission perm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkPrintJobAccess",
+            "description": ""
+        },
+        {
+            "nombre": "checkPropertiesAccess",
+            "description": ""
+        },
+        {
+            "nombre": "checkPropertyAccess",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkRead",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String file",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object context",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileDescriptor fd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkSecurityAccess",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkSetFactory",
+            "description": ""
+        },
+        {
+            "nombre": "checkSystemClipboardAccess",
+            "description": ""
+        },
+        {
+            "nombre": "checkTopLevelWindow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object window",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkWrite",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String file",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileDescriptor fd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClassContext",
+            "description": ""
+        },
+        {
+            "nombre": "getSecurityContext",
+            "description": ""
+        },
+        {
+            "nombre": "getThreadGroup",
+            "description": ""
+        }
+    ]
+}

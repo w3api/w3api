@@ -1,0 +1,405 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicToolBarUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "canDock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDockingListener",
+            "description": ""
+        },
+        {
+            "nombre": "createDragWindow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JToolBar toolbar",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFloatingFrame",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JToolBar toolbar",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFloatingWindow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JToolBar toolbar",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFrameListener",
+            "description": ""
+        },
+        {
+            "nombre": "createNonRolloverBorder",
+            "description": ""
+        },
+        {
+            "nombre": "createPropertyListener",
+            "description": ""
+        },
+        {
+            "nombre": "createRolloverBorder",
+            "description": ""
+        },
+        {
+            "nombre": "createToolBarContListener",
+            "description": ""
+        },
+        {
+            "nombre": "createToolBarFocusListener",
+            "description": ""
+        },
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dragTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point origin",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point position",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "floatAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point origin",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point position",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDockingColor",
+            "description": ""
+        },
+        {
+            "nombre": "getFloatingColor",
+            "description": ""
+        },
+        {
+            "nombre": "getNonRolloverBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractButton b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRolloverBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractButton b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "installComponents",
+            "description": ""
+        },
+        {
+            "nombre": "installDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "installKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "installListeners",
+            "description": ""
+        },
+        {
+            "nombre": "installNonRolloverBorders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "installNormalBorders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "installRolloverBorders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFloating",
+            "description": ""
+        },
+        {
+            "nombre": "isRolloverBorders",
+            "description": ""
+        },
+        {
+            "nombre": "navigateFocusedComp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintDragWindow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBorderToNonRollover",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBorderToNormal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBorderToRollover",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDockingColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFloating",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFloatingColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFloatingLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOrientation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRolloverBorders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean rollover",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uninstallComponents",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallListeners",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "constraintBeforeFloating",
+            "description": ""
+        },
+        {
+            "nombre": "dockingBorderColor",
+            "description": ""
+        },
+        {
+            "nombre": "dockingColor",
+            "description": ""
+        },
+        {
+            "nombre": "dockingListener",
+            "description": ""
+        },
+        {
+            "nombre": "downKey",
+            "description": ""
+        },
+        {
+            "nombre": "dragWindow",
+            "description": ""
+        },
+        {
+            "nombre": "floatingBorderColor",
+            "description": ""
+        },
+        {
+            "nombre": "floatingColor",
+            "description": ""
+        },
+        {
+            "nombre": "focusedCompIndex",
+            "description": ""
+        },
+        {
+            "nombre": "leftKey",
+            "description": ""
+        },
+        {
+            "nombre": "propertyListener",
+            "description": ""
+        },
+        {
+            "nombre": "rightKey",
+            "description": ""
+        },
+        {
+            "nombre": "toolBar",
+            "description": ""
+        },
+        {
+            "nombre": "toolBarContListener",
+            "description": ""
+        },
+        {
+            "nombre": "toolBarFocusListener",
+            "description": ""
+        },
+        {
+            "nombre": "upKey",
+            "description": ""
+        }
+    ]
+}

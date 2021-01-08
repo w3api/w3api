@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CommandMap",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createDataContentHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataSource ds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllCommands",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataSource ds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCommand",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String cmdName",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataSource ds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultCommandMap",
+            "description": ""
+        },
+        {
+            "nombre": "getMimeTypes",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredCommands",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataSource ds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultCommandMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CommandMap commandMap",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

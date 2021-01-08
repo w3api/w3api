@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RuleBasedCollator",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String rules",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "compare",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCollationElementIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String source",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharacterIterator source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCollationKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRules",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        }
+    ]
+}

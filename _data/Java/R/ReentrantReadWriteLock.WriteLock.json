@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ReentrantReadWriteLock.WriteLock",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ReentrantReadWriteLock lock",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getHoldCount",
+            "description": ""
+        },
+        {
+            "nombre": "isHeldByCurrentThread",
+            "description": ""
+        },
+        {
+            "nombre": "lock",
+            "description": ""
+        },
+        {
+            "nombre": "lockInterruptibly",
+            "description": ""
+        },
+        {
+            "nombre": "newCondition",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "tryLock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unlock",
+            "description": ""
+        }
+    ]
+}

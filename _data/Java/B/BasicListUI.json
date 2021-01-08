@@ -1,0 +1,307 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicListUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "convertRowToY",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convertYToRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFocusListener",
+            "description": ""
+        },
+        {
+            "nombre": "createListDataListener",
+            "description": ""
+        },
+        {
+            "nombre": "createListSelectionListener",
+            "description": ""
+        },
+        {
+            "nombre": "createMouseInputListener",
+            "description": ""
+        },
+        {
+            "nombre": "createPropertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaseline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaselineResizeBehavior",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "installDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "installKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "installListeners",
+            "description": ""
+        },
+        {
+            "nombre": "installUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "locationToIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JList<?> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "maybeUpdateLayoutState",
+            "description": ""
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintCell",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle rowBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "ListCellRenderer<Object> cellRenderer",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "ListSelectionModel selModel",
+                    "description": ""
+                },
+                {
+                    "nombre": "ListModel<Object> dataModel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int leadIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectNextIndex",
+            "description": ""
+        },
+        {
+            "nombre": "selectPreviousIndex",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallListeners",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateLayoutState",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "cellHeight",
+            "description": ""
+        },
+        {
+            "nombre": "cellHeights",
+            "description": ""
+        },
+        {
+            "nombre": "cellRendererChanged",
+            "description": ""
+        },
+        {
+            "nombre": "cellWidth",
+            "description": ""
+        },
+        {
+            "nombre": "fixedCellHeightChanged",
+            "description": ""
+        },
+        {
+            "nombre": "fixedCellWidthChanged",
+            "description": ""
+        },
+        {
+            "nombre": "focusListener",
+            "description": ""
+        },
+        {
+            "nombre": "fontChanged",
+            "description": ""
+        },
+        {
+            "nombre": "list",
+            "description": ""
+        },
+        {
+            "nombre": "listDataListener",
+            "description": ""
+        },
+        {
+            "nombre": "listSelectionListener",
+            "description": ""
+        },
+        {
+            "nombre": "modelChanged",
+            "description": ""
+        },
+        {
+            "nombre": "mouseInputListener",
+            "description": ""
+        },
+        {
+            "nombre": "propertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "prototypeCellValueChanged",
+            "description": ""
+        },
+        {
+            "nombre": "rendererPane",
+            "description": ""
+        },
+        {
+            "nombre": "selectionModelChanged",
+            "description": ""
+        },
+        {
+            "nombre": "updateLayoutStateNeeded",
+            "description": ""
+        }
+    ]
+}

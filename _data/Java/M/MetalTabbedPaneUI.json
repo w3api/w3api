@@ -1,0 +1,307 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MetalTabbedPaneUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaselineOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getColorForGap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int currentRun",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabLabelShiftX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabLabelShiftY",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintBottomTabBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rght",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int btm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintHighlightBelowTab",
+            "description": ""
+        },
+        {
+            "nombre": "paintLeftTabBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rght",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int btm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintRightTabBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rght",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int btm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintTopTabBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rght",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int btm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shouldFillGap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int currentRun",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shouldRotateTabRuns",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int selectedRun",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "minTabWidth",
+            "description": ""
+        },
+        {
+            "nombre": "selectColor",
+            "description": ""
+        },
+        {
+            "nombre": "selectHighlight",
+            "description": ""
+        },
+        {
+            "nombre": "tabAreaBackground",
+            "description": ""
+        }
+    ]
+}

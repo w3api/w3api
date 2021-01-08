@@ -1,0 +1,89 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MimeHeaders",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllHeaders",
+            "description": ""
+        },
+        {
+            "nombre": "getHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMatchingHeaders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNonMatchingHeaders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAllHeaders",
+            "description": ""
+        },
+        {
+            "nombre": "removeHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHeader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

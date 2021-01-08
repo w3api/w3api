@@ -1,0 +1,157 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RowSorter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addRowSorterListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowSorterListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "allRowsChanged",
+            "description": ""
+        },
+        {
+            "nombre": "convertRowIndexToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convertRowIndexToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireRowSorterChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] lastRowIndexToModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireSortOrderChanged",
+            "description": ""
+        },
+        {
+            "nombre": "getModel",
+            "description": ""
+        },
+        {
+            "nombre": "getModelRowCount",
+            "description": ""
+        },
+        {
+            "nombre": "getSortKeys",
+            "description": ""
+        },
+        {
+            "nombre": "getViewRowCount",
+            "description": ""
+        },
+        {
+            "nombre": "modelStructureChanged",
+            "description": ""
+        },
+        {
+            "nombre": "removeRowSorterListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowSorterListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rowsDeleted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int firstRow",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endRow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rowsInserted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int firstRow",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endRow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rowsUpdated",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int firstRow",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endRow",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSortKeys",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends RowSorter.SortKey> keys",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toggleSortOrder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

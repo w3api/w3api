@@ -1,0 +1,245 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileObject fo",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "getClassLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFileForInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                },
+                {
+                    "nombre": "String relativeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String packageName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFileForOutput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileObject sibling",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                },
+                {
+                    "nombre": "String relativeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String packageName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getJavaFileForInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileObject.Kind kind",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getJavaFileForOutput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileObject.Kind kind",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileObject sibling",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLocationForModule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                },
+                {
+                    "nombre": "String moduleName",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileObject fo",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getServiceLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<S> service",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String current",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterator<String> remaining",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inferBinaryName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaFileObject file",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inferModuleName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSameFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileObject b",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileObject a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "list",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<JavaFileObject.Kind> kinds",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean recurse",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                },
+                {
+                    "nombre": "String packageName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "listLocationsForModules",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

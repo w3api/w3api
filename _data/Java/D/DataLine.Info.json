@@ -1,0 +1,75 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DataLine.Info",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int minBufferSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat format",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> lineClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxBufferSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat[] formats",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bufferSize",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getFormats",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxBufferSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMinBufferSize",
+            "description": ""
+        },
+        {
+            "nombre": "isFormatSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "matches",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Line.Info info",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

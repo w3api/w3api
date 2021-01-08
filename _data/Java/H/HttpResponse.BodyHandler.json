@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "apply",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int statusCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "HttpHeaders responseHeaders",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asByteArray",
+            "description": ""
+        },
+        {
+            "nombre": "asByteArrayConsumer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<Optional<byte[]>> consumer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OpenOption... openOptions",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asFileDownload",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OpenOption... openOptions",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path directory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asInputStream",
+            "description": ""
+        },
+        {
+            "nombre": "asString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "buffering",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bufferSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "HttpResponse.BodyHandler<T> downstreamHandler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "discard",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "U value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromSubscriber",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "T> finisher",
+                    "description": ""
+                },
+                {
+                    "nombre": "S subscriber",
+                    "description": ""
+                },
+                {
+                    "nombre": "Flow.Subscriber<? super List<ByteBuffer>> subscriber",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

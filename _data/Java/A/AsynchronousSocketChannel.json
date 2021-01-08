@@ -1,0 +1,187 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AsynchronousSocketChannel",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "AsynchronousChannelProvider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress local",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "connect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CompletionHandler<Void",
+                    "description": ""
+                },
+                {
+                    "nombre": "A attachment",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketAddress remote",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super A> handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLocalAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getRemoteAddress",
+            "description": ""
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AsynchronousChannelGroup group",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "provider",
+            "description": ""
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer[] dsts",
+                    "description": ""
+                },
+                {
+                    "nombre": "A attachment",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionHandler<Long",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionHandler<Integer",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super A> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdownInput",
+            "description": ""
+        },
+        {
+            "nombre": "shutdownOutput",
+            "description": ""
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "A attachment",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionHandler<Long",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer[] srcs",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionHandler<Integer",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super A> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

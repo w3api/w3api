@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ComboBoxTreeCell",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<T> items",
+                    "description": ""
+                },
+                {
+                    "nombre": "T... items",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "comboBoxEditableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "converterProperty",
+            "description": ""
+        },
+        {
+            "nombre": "forTreeView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<T> items",
+                    "description": ""
+                },
+                {
+                    "nombre": "T... items",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getItems",
+            "description": ""
+        },
+        {
+            "nombre": "isComboBoxEditable",
+            "description": ""
+        },
+        {
+            "nombre": "setComboBoxEditable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setConverter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateItem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean empty",
+                    "description": ""
+                },
+                {
+                    "nombre": "T item",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

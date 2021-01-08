@@ -1,0 +1,73 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MemoryHandler",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Level pushLevel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "Handler target",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "getPushLevel",
+            "description": ""
+        },
+        {
+            "nombre": "isLoggable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LogRecord record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "publish",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LogRecord record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "push",
+            "description": ""
+        },
+        {
+            "nombre": "setPushLevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Level newLevel",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

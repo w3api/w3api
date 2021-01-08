@@ -1,0 +1,53 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ByteLookupTable",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[][] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getTable",
+            "description": ""
+        },
+        {
+            "nombre": "lookupPixel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] src",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] src",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

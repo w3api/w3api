@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "add_client_request_interceptor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClientRequestInterceptor interceptor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_ior_interceptor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IORInterceptor interceptor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "add_server_request_interceptor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ServerRequestInterceptor interceptor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "allocate_slot_id",
+            "description": ""
+        },
+        {
+            "nombre": "arguments",
+            "description": ""
+        },
+        {
+            "nombre": "codec_factory",
+            "description": ""
+        },
+        {
+            "nombre": "orb_id",
+            "description": ""
+        },
+        {
+            "nombre": "register_initial_reference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "register_policy_factory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "PolicyFactory policy_factory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolve_initial_references",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

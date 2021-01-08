@@ -1,0 +1,239 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DefaultHandler",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "characters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endDocument",
+            "description": ""
+        },
+        {
+            "nombre": "endElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endPrefixMapping",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "error",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SAXParseException e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fatalError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SAXParseException e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ignorableWhitespace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "notationDecl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processingInstruction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String data",
+                    "description": ""
+                },
+                {
+                    "nombre": "String target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolveEntity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDocumentLocator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locator locator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "skippedEntity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startDocument",
+            "description": ""
+        },
+        {
+            "nombre": "startElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Attributes attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startPrefixMapping",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unparsedEntityDecl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String notationName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "warning",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SAXParseException e",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

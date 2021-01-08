@@ -1,0 +1,469 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BufferedImage",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "IndexColorModel cm",
+                    "description": ""
+                },
+                {
+                    "nombre": "WritableRaster raster",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> properties",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorModel cm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Hashtable<?",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int imageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isRasterPremultiplied",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addTileObserver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TileObserver to",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "coerceData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copyData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WritableRaster outRaster",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createGraphics",
+            "description": ""
+        },
+        {
+            "nombre": "getAlphaRaster",
+            "description": ""
+        },
+        {
+            "nombre": "getColorModel",
+            "description": ""
+        },
+        {
+            "nombre": "getData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle rect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGraphics",
+            "description": ""
+        },
+        {
+            "nombre": "getHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageObserver observer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinTileX",
+            "description": ""
+        },
+        {
+            "nombre": "getMinTileY",
+            "description": ""
+        },
+        {
+            "nombre": "getMinX",
+            "description": ""
+        },
+        {
+            "nombre": "getMinY",
+            "description": ""
+        },
+        {
+            "nombre": "getNumXTiles",
+            "description": ""
+        },
+        {
+            "nombre": "getNumYTiles",
+            "description": ""
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageObserver observer",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPropertyNames",
+            "description": ""
+        },
+        {
+            "nombre": "getRaster",
+            "description": ""
+        },
+        {
+            "nombre": "getRGB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scansize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] rgbArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSampleModel",
+            "description": ""
+        },
+        {
+            "nombre": "getSource",
+            "description": ""
+        },
+        {
+            "nombre": "getSources",
+            "description": ""
+        },
+        {
+            "nombre": "getSubimage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tileX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tileY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTileGridXOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getTileGridYOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getTileHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getTileWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getTransparency",
+            "description": ""
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        },
+        {
+            "nombre": "getWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageObserver observer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWritableTile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tileX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tileY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWritableTileIndices",
+            "description": ""
+        },
+        {
+            "nombre": "hasTileWriters",
+            "description": ""
+        },
+        {
+            "nombre": "isAlphaPremultiplied",
+            "description": ""
+        },
+        {
+            "nombre": "isTileWritable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tileX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tileY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "releaseWritableTile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tileX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tileY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeTileObserver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TileObserver to",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRGB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scansize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] rgbArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rgb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "TYPE_3BYTE_BGR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_4BYTE_ABGR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_4BYTE_ABGR_PRE",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_BYTE_BINARY",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_BYTE_GRAY",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_BYTE_INDEXED",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_CUSTOM",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_INT_ARGB",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_INT_ARGB_PRE",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_INT_BGR",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_INT_RGB",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_USHORT_555_RGB",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_USHORT_565_RGB",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_USHORT_GRAY",
+            "description": ""
+        }
+    ]
+}

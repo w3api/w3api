@@ -1,0 +1,395 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "LayerUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeListener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "applyPropertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                },
+                {
+                    "nombre": "PropertyChangeEvent evt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "eventDispatched",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AWTEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "firePropertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaseline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaselineResizeBehavior",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPropertyChangeListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "imageUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "int infoflags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "installUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintImmediately",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processComponentEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ComponentEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processFocusEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FocusEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processHierarchyBoundsEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HierarchyEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processHierarchyEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HierarchyEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processInputMethodEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputMethodEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processKeyEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processMouseEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processMouseMotionEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processMouseWheelEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                },
+                {
+                    "nombre": "MouseWheelEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removePropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeListener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uninstallUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JLayer<? extends V> l",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

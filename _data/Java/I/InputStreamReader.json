@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "InputStreamReader",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "CharsetDecoder dec",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset cs",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                },
+                {
+                    "nombre": "String charsetName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getEncoding",
+            "description": ""
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] cbuf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ready",
+            "description": ""
+        }
+    ]
+}

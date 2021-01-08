@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "activeGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationGroupID id",
+                    "description": ""
+                },
+                {
+                    "nombre": "long incarnation",
+                    "description": ""
+                },
+                {
+                    "nombre": "ActivationInstantiator group",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getActivationDesc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationID id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getActivationGroupDesc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationGroupID id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationGroupDesc desc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationDesc desc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setActivationDesc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationID id",
+                    "description": ""
+                },
+                {
+                    "nombre": "ActivationDesc desc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setActivationGroupDesc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationGroupDesc desc",
+                    "description": ""
+                },
+                {
+                    "nombre": "ActivationGroupID id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdown",
+            "description": ""
+        },
+        {
+            "nombre": "unregisterGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationGroupID id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregisterObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActivationID id",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "SYSTEM_PORT",
+            "description": ""
+        }
+    ]
+}

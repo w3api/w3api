@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "dispose",
+            "description": ""
+        },
+        {
+            "nombre": "evaluateChallenge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] challenge",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMechanismName",
+            "description": ""
+        },
+        {
+            "nombre": "getNegotiatedProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasInitialResponse",
+            "description": ""
+        },
+        {
+            "nombre": "isComplete",
+            "description": ""
+        },
+        {
+            "nombre": "unwrap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] incoming",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wrap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] outgoing",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

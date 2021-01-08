@@ -1,0 +1,313 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicProgressBarUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAmountFull",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAnimationIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getBaseline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaselineResizeBehavior",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBox",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBoxLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int availableLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "int otherDimension",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCellLength",
+            "description": ""
+        },
+        {
+            "nombre": "getCellSpacing",
+            "description": ""
+        },
+        {
+            "nombre": "getFrameCount",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredInnerHorizontal",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredInnerVertical",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionBackground",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionForeground",
+            "description": ""
+        },
+        {
+            "nombre": "getStringPlacement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "String progressString",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "incrementAnimationIndex",
+            "description": ""
+        },
+        {
+            "nombre": "installDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "installListeners",
+            "description": ""
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintDeterminate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintIndeterminate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int amountFull",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAnimationIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int cellLen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellSpacing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int cellSpace",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startAnimationTimer",
+            "description": ""
+        },
+        {
+            "nombre": "stopAnimationTimer",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallListeners",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "boxRect",
+            "description": ""
+        },
+        {
+            "nombre": "changeListener",
+            "description": ""
+        },
+        {
+            "nombre": "progressBar",
+            "description": ""
+        }
+    ]
+}

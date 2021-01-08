@@ -1,0 +1,229 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JColorChooser",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Color initialColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSelectionModel model",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addChooserPanel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractColorChooserPanel panel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JColorChooser chooserPane",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean modal",
+                    "description": ""
+                },
+                {
+                    "nombre": "ActionListener okListener",
+                    "description": ""
+                },
+                {
+                    "nombre": "ActionListener cancelListener",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getChooserPanels",
+            "description": ""
+        },
+        {
+            "nombre": "getColor",
+            "description": ""
+        },
+        {
+            "nombre": "getDragEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "getPreviewPanel",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "removeChooserPanel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractColorChooserPanel panel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setChooserPanels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractColorChooserPanel[] panels",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int r",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color color",
+                    "description": ""
+                },
+                {
+                    "nombre": "int g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDragEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPreviewPanel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent preview",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorSelectionModel newModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorChooserUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color initialColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean colorTransparencySelectionEnabled",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "accessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "CHOOSER_PANELS_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "PREVIEW_PANEL_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "SELECTION_MODEL_PROPERTY",
+            "description": ""
+        }
+    ]
+}

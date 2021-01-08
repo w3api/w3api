@@ -1,0 +1,89 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CertStore",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "CertStoreSpi storeSpi",
+                    "description": ""
+                },
+                {
+                    "nombre": "CertStoreParameters params",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCertificates",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CertSelector selector",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCertStoreParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getCRLs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CRLSelector selector",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultType",
+            "description": ""
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "CertStoreParameters params",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        }
+    ]
+}

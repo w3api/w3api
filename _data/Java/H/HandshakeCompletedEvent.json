@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HandshakeCompletedEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SSLSession s",
+                    "description": ""
+                },
+                {
+                    "nombre": "SSLSocket sock",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCipherSuite",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalCertificates",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalPrincipal",
+            "description": ""
+        },
+        {
+            "nombre": "getPeerCertificateChain",
+            "description": ""
+        },
+        {
+            "nombre": "getPeerCertificates",
+            "description": ""
+        },
+        {
+            "nombre": "getPeerPrincipal",
+            "description": ""
+        },
+        {
+            "nombre": "getSession",
+            "description": ""
+        },
+        {
+            "nombre": "getSocket",
+            "description": ""
+        }
+    ]
+}

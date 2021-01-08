@@ -1,0 +1,733 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? super T> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "T... elements",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asLifoQueue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Deque<T> deque",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "binarySearch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends T> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends Comparable<? super T>> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super T> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "T key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkedCollection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<E> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<E> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkedList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<E> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<E> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkedMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<K> keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<V> valueType",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> m",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<K",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkedNavigableMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<K> keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<V> valueType",
+                    "description": ""
+                },
+                {
+                    "nombre": "NavigableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> m",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkedNavigableSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<E> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "NavigableSet<E> s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkedQueue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Queue<E> queue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<E> type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkedSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<E> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<E> s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkedSortedMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<K> keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<V> valueType",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> m",
+                    "description": ""
+                },
+                {
+                    "nombre": "SortedMap<K",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkedSortedSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<E> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "SortedSet<E> s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends T> src",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? super T> dest",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "disjoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> c2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collection<?> c1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "emptyEnumeration",
+            "description": ""
+        },
+        {
+            "nombre": "emptyIterator",
+            "description": ""
+        },
+        {
+            "nombre": "emptyList",
+            "description": ""
+        },
+        {
+            "nombre": "emptyListIterator",
+            "description": ""
+        },
+        {
+            "nombre": "emptyMap",
+            "description": ""
+        },
+        {
+            "nombre": "emptyNavigableMap",
+            "description": ""
+        },
+        {
+            "nombre": "emptyNavigableSet",
+            "description": ""
+        },
+        {
+            "nombre": "emptySet",
+            "description": ""
+        },
+        {
+            "nombre": "emptySortedMap",
+            "description": ""
+        },
+        {
+            "nombre": "emptySortedSet",
+            "description": ""
+        },
+        {
+            "nombre": "enumeration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<T> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fill",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? super T> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "frequency",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collection<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "indexOfSubList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<?> source",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<?> target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lastIndexOfSubList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<?> source",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<?> target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "list",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Enumeration<T> e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "max",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends T> coll",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super T> comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "min",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends T> coll",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super T> comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nCopies",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                },
+                {
+                    "nombre": "T o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSetFromMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Map<E",
+                    "description": ""
+                },
+                {
+                    "nombre": "Boolean> map",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T oldVal",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<T> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "T newVal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reverse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<?> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reverseOrder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<T> cmp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rotate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<?> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "int distance",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shuffle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<?> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "Random rnd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "singleton",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "singletonList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "singletonMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V value",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super T> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<T> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "swap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int j",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<?> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronizedCollection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<T> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronizedList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<T> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronizedMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V> m",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<K",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronizedNavigableMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NavigableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> m",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronizedNavigableSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NavigableSet<T> s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronizedSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<T> s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronizedSortedMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V> m",
+                    "description": ""
+                },
+                {
+                    "nombre": "SortedMap<K",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronizedSortedSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SortedSet<T> s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmodifiableCollection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends T> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmodifiableList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends T> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmodifiableMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends V> m",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends K",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmodifiableNavigableMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends V> m",
+                    "description": ""
+                },
+                {
+                    "nombre": "NavigableMap<K",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmodifiableNavigableSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NavigableSet<T> s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmodifiableSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<? extends T> s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmodifiableSortedMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends V> m",
+                    "description": ""
+                },
+                {
+                    "nombre": "SortedMap<K",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmodifiableSortedSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SortedSet<T> s",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "EMPTY_LIST",
+            "description": ""
+        },
+        {
+            "nombre": "EMPTY_MAP",
+            "description": ""
+        },
+        {
+            "nombre": "EMPTY_SET",
+            "description": ""
+        }
+    ]
+}

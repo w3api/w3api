@@ -1,0 +1,1187 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicTabbedPaneUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "assureRectsCreated",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabCount",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateMaxTabHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateMaxTabWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateTabAreaHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int horizRunCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxTabHeight",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateTabAreaWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int vertRunCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxTabWidth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateTabHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fontHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateTabWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics metrics",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createFocusListener",
+            "description": ""
+        },
+        {
+            "nombre": "createLayoutManager",
+            "description": ""
+        },
+        {
+            "nombre": "createMouseListener",
+            "description": ""
+        },
+        {
+            "nombre": "createPropertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createScrollButton",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "expandTabRunsArray",
+            "description": ""
+        },
+        {
+            "nombre": "getBaseline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tab",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaselineOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getBaselineResizeBehavior",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContentBorderInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFocusIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getFontMetrics",
+            "description": ""
+        },
+        {
+            "nombre": "getIconForTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNextTabIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int base",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNextTabIndexInRun",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "int base",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNextTabRun",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int baseRun",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreviousTabIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int base",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreviousTabIndexInRun",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "int base",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreviousTabRun",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int baseRun",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRolloverTab",
+            "description": ""
+        },
+        {
+            "nombre": "getRunForTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabCount",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSelectedTabPadInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabAreaInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTabbedPane pane",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle dest",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabLabelShiftX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabLabelShiftY",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabRunIndent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int run",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabRunOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean forward",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabCount",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabRunOverlay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTextViewForTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVisibleComponent",
+            "description": ""
+        },
+        {
+            "nombre": "installComponents",
+            "description": ""
+        },
+        {
+            "nombre": "installDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "installKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "installListeners",
+            "description": ""
+        },
+        {
+            "nombre": "lastTabInRun",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int run",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabCount",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutLabel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle tabRect",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle iconRect",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle textRect",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics metrics",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "navigateSelectedTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintContentBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int selectedIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintContentBorderBottomEdge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int selectedIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintContentBorderLeftEdge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int selectedIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintContentBorderRightEdge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int selectedIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintContentBorderTopEdge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int selectedIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintFocusIndicator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle iconRect",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle[] rects",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle textRect",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle iconRect",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle iconRect",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle[] rects",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle textRect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintTabArea",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int selectedIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintTabBackground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintTabBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle textRect",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics metrics",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rotateInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int targetPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets targetInsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets topInsets",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectAdjacentRunTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectNextTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int current",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectNextTabInRun",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int current",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectPreviousTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int current",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectPreviousTabInRun",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int current",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRolloverTab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVisibleComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shouldPadTabRun",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                },
+                {
+                    "nombre": "int run",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shouldRotateTabRuns",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tabPlacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tabForCoordinate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTabbedPane pane",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uninstallComponents",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallListeners",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "calcRect",
+            "description": ""
+        },
+        {
+            "nombre": "contentBorderInsets",
+            "description": ""
+        },
+        {
+            "nombre": "darkShadow",
+            "description": ""
+        },
+        {
+            "nombre": "downKey",
+            "description": ""
+        },
+        {
+            "nombre": "focus",
+            "description": ""
+        },
+        {
+            "nombre": "focusListener",
+            "description": ""
+        },
+        {
+            "nombre": "highlight",
+            "description": ""
+        },
+        {
+            "nombre": "leftKey",
+            "description": ""
+        },
+        {
+            "nombre": "lightHighlight",
+            "description": ""
+        },
+        {
+            "nombre": "maxTabHeight",
+            "description": ""
+        },
+        {
+            "nombre": "maxTabWidth",
+            "description": ""
+        },
+        {
+            "nombre": "mouseListener",
+            "description": ""
+        },
+        {
+            "nombre": "propertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "rects",
+            "description": ""
+        },
+        {
+            "nombre": "rightKey",
+            "description": ""
+        },
+        {
+            "nombre": "runCount",
+            "description": ""
+        },
+        {
+            "nombre": "selectedRun",
+            "description": ""
+        },
+        {
+            "nombre": "selectedTabPadInsets",
+            "description": ""
+        },
+        {
+            "nombre": "shadow",
+            "description": ""
+        },
+        {
+            "nombre": "tabAreaInsets",
+            "description": ""
+        },
+        {
+            "nombre": "tabChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "tabInsets",
+            "description": ""
+        },
+        {
+            "nombre": "tabPane",
+            "description": ""
+        },
+        {
+            "nombre": "tabRunOverlay",
+            "description": ""
+        },
+        {
+            "nombre": "tabRuns",
+            "description": ""
+        },
+        {
+            "nombre": "textIconGap",
+            "description": ""
+        },
+        {
+            "nombre": "upKey",
+            "description": ""
+        }
+    ]
+}

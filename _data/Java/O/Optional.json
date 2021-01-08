@@ -1,0 +1,163 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "empty",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Predicate<? super T> predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flatMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends Optional<? extends U>> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "ifPresent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super T> action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ifPresentOrElse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable emptyAction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isPresent",
+            "description": ""
+        },
+        {
+            "nombre": "map",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends U> mapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ofNullable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "or",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<? extends Optional<? extends T>> supplier",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "orElse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "orElseGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<? extends T> supplier",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "orElseThrow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<? extends X> exceptionSupplier",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stream",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

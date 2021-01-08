@@ -1,0 +1,261 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "NumberFormat",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FieldPosition pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringBuffer toAppendTo",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object number",
+                    "description": ""
+                },
+                {
+                    "nombre": "long number",
+                    "description": ""
+                },
+                {
+                    "nombre": "double number",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAvailableLocales",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrency",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrencyInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale inLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale inLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIntegerInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale inLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximumFractionDigits",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumIntegerDigits",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumFractionDigits",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumIntegerDigits",
+            "description": ""
+        },
+        {
+            "nombre": "getNumberInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale inLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPercentInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale inLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRoundingMode",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isGroupingUsed",
+            "description": ""
+        },
+        {
+            "nombre": "isParseIntegerOnly",
+            "description": ""
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String source",
+                    "description": ""
+                },
+                {
+                    "nombre": "ParsePosition parsePosition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parseObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String source",
+                    "description": ""
+                },
+                {
+                    "nombre": "ParsePosition pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCurrency",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Currency currency",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGroupingUsed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximumFractionDigits",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximumIntegerDigits",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinimumFractionDigits",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinimumIntegerDigits",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParseIntegerOnly",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRoundingMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RoundingMode roundingMode",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "FRACTION_FIELD",
+            "description": ""
+        },
+        {
+            "nombre": "INTEGER_FIELD",
+            "description": ""
+        }
+    ]
+}

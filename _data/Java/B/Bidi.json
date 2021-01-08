@@ -1,0 +1,195 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Bidi",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int textStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "int flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int paragraphLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int embStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator paragraph",
+                    "description": ""
+                },
+                {
+                    "nombre": "String paragraph",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] embeddings",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "baseIsLeftToRight",
+            "description": ""
+        },
+        {
+            "nombre": "createLineBidi",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int lineStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "int lineLimit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaseLevel",
+            "description": ""
+        },
+        {
+            "nombre": "getLength",
+            "description": ""
+        },
+        {
+            "nombre": "getLevelAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRunCount",
+            "description": ""
+        },
+        {
+            "nombre": "getRunLevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int run",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRunLimit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int run",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRunStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int run",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLeftToRight",
+            "description": ""
+        },
+        {
+            "nombre": "isMixed",
+            "description": ""
+        },
+        {
+            "nombre": "isRightToLeft",
+            "description": ""
+        },
+        {
+            "nombre": "reorderVisually",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int levelStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] objects",
+                    "description": ""
+                },
+                {
+                    "nombre": "int objectStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] levels",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requiresBidi",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DIRECTION_DEFAULT_LEFT_TO_RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTION_DEFAULT_RIGHT_TO_LEFT",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTION_LEFT_TO_RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTION_RIGHT_TO_LEFT",
+            "description": ""
+        }
+    ]
+}

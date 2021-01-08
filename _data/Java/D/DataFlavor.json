@@ -1,0 +1,301 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DataFlavor",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> representationClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "String humanPresentableName",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataFlavor that",
+                    "description": ""
+                },
+                {
+                    "nombre": "String s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultRepresentationClass",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultRepresentationClassAsString",
+            "description": ""
+        },
+        {
+            "nombre": "getHumanPresentableName",
+            "description": ""
+        },
+        {
+            "nombre": "getMimeType",
+            "description": ""
+        },
+        {
+            "nombre": "getParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String paramName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPrimaryType",
+            "description": ""
+        },
+        {
+            "nombre": "getReaderForText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Transferable transferable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRepresentationClass",
+            "description": ""
+        },
+        {
+            "nombre": "getSubType",
+            "description": ""
+        },
+        {
+            "nombre": "getTextPlainUnicodeFlavor",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isFlavorJavaFileListType",
+            "description": ""
+        },
+        {
+            "nombre": "isFlavorRemoteObjectType",
+            "description": ""
+        },
+        {
+            "nombre": "isFlavorSerializedObjectType",
+            "description": ""
+        },
+        {
+            "nombre": "isFlavorTextType",
+            "description": ""
+        },
+        {
+            "nombre": "isMimeTypeEqual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataFlavor dataFlavor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isMimeTypeSerializedObject",
+            "description": ""
+        },
+        {
+            "nombre": "isRepresentationClassByteBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "isRepresentationClassCharBuffer",
+            "description": ""
+        },
+        {
+            "nombre": "isRepresentationClassInputStream",
+            "description": ""
+        },
+        {
+            "nombre": "isRepresentationClassReader",
+            "description": ""
+        },
+        {
+            "nombre": "isRepresentationClassRemote",
+            "description": ""
+        },
+        {
+            "nombre": "isRepresentationClassSerializable",
+            "description": ""
+        },
+        {
+            "nombre": "match",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor that",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "normalizeMimeType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "normalizeMimeTypeParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String parameterName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parameterValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readExternal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectInput is",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectBestTextFlavor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor[] availableFlavors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHumanPresentableName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String humanPresentableName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "tryToLoadClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader fallback",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeExternal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectOutput os",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "allHtmlFlavor",
+            "description": ""
+        },
+        {
+            "nombre": "fragmentHtmlFlavor",
+            "description": ""
+        },
+        {
+            "nombre": "imageFlavor",
+            "description": ""
+        },
+        {
+            "nombre": "javaFileListFlavor",
+            "description": ""
+        },
+        {
+            "nombre": "javaJVMLocalObjectMimeType",
+            "description": ""
+        },
+        {
+            "nombre": "javaRemoteObjectMimeType",
+            "description": ""
+        },
+        {
+            "nombre": "javaSerializedObjectMimeType",
+            "description": ""
+        },
+        {
+            "nombre": "plainTextFlavor",
+            "description": ""
+        },
+        {
+            "nombre": "selectionHtmlFlavor",
+            "description": ""
+        },
+        {
+            "nombre": "stringFlavor",
+            "description": ""
+        }
+    ]
+}

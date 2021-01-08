@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "EllipticCurve",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ECField field",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger b",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger a",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] seed",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getA",
+            "description": ""
+        },
+        {
+            "nombre": "getB",
+            "description": ""
+        },
+        {
+            "nombre": "getField",
+            "description": ""
+        },
+        {
+            "nombre": "getSeed",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        }
+    ]
+}

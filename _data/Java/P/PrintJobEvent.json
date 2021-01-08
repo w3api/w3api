@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PrintJobEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int reason",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocPrintJob source",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getPrintEventType",
+            "description": ""
+        },
+        {
+            "nombre": "getPrintJob",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DATA_TRANSFER_COMPLETE",
+            "description": ""
+        },
+        {
+            "nombre": "JOB_CANCELED",
+            "description": ""
+        },
+        {
+            "nombre": "JOB_COMPLETE",
+            "description": ""
+        },
+        {
+            "nombre": "JOB_FAILED",
+            "description": ""
+        },
+        {
+            "nombre": "NO_MORE_EVENTS",
+            "description": ""
+        },
+        {
+            "nombre": "REQUIRES_ATTENTION",
+            "description": ""
+        }
+    ]
+}

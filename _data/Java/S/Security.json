@@ -1,0 +1,117 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlgorithmProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlgorithms",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String serviceName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProviders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String> filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "String filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertProviderAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int position",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String datum",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DropTarget",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean act",
+                    "description": ""
+                },
+                {
+                    "nombre": "FlavorMap fm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ops",
+                    "description": ""
+                },
+                {
+                    "nombre": "DropTargetListener dtl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addDropTargetListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DropTargetListener dtl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addNotify",
+            "description": ""
+        },
+        {
+            "nombre": "clearAutoscroll",
+            "description": ""
+        },
+        {
+            "nombre": "createDropTargetAutoScroller",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDropTargetContext",
+            "description": ""
+        },
+        {
+            "nombre": "dragEnter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DropTargetDragEvent dtde",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dragExit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DropTargetEvent dte",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dragOver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DropTargetDragEvent dtde",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DropTargetDropEvent dtde",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dropActionChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DropTargetDragEvent dtde",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultActions",
+            "description": ""
+        },
+        {
+            "nombre": "getDropTargetContext",
+            "description": ""
+        },
+        {
+            "nombre": "getFlavorMap",
+            "description": ""
+        },
+        {
+            "nombre": "initializeAutoscrolling",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isActive",
+            "description": ""
+        },
+        {
+            "nombre": "removeDropTargetListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DropTargetListener dtl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeNotify",
+            "description": ""
+        },
+        {
+            "nombre": "setActive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isActive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultActions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ops",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFlavorMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FlavorMap fm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateAutoscroll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point dragCursorLocn",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

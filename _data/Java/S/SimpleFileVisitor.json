@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SimpleFileVisitor",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "postVisitDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "IOException exc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preVisitDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "BasicFileAttributes attrs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BasicFileAttributes attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "T file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitFileFailed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IOException exc",
+                    "description": ""
+                },
+                {
+                    "nombre": "T file",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

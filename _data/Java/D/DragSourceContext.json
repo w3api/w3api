@@ -1,0 +1,193 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DragSourceContext",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "DragGestureEvent trigger",
+                    "description": ""
+                },
+                {
+                    "nombre": "Cursor dragCursor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragSourceListener dsl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image dragImage",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transferable t",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addDragSourceListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceListener dsl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dragDropEnd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceDropEvent dsde",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dragEnter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceDragEvent dsde",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dragExit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceEvent dse",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dragMouseMoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceDragEvent dsde",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dragOver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceDragEvent dsde",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dropActionChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceDragEvent dsde",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getCursor",
+            "description": ""
+        },
+        {
+            "nombre": "getDragSource",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceActions",
+            "description": ""
+        },
+        {
+            "nombre": "getTransferable",
+            "description": ""
+        },
+        {
+            "nombre": "getTrigger",
+            "description": ""
+        },
+        {
+            "nombre": "removeDragSourceListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DragSourceListener dsl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCursor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Cursor c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transferablesFlavorsChanged",
+            "description": ""
+        },
+        {
+            "nombre": "updateCurrentCursor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int targetAct",
+                    "description": ""
+                },
+                {
+                    "nombre": "int sourceAct",
+                    "description": ""
+                },
+                {
+                    "nombre": "int status",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CHANGED",
+            "description": ""
+        },
+        {
+            "nombre": "DEFAULT",
+            "description": ""
+        },
+        {
+            "nombre": "ENTER",
+            "description": ""
+        },
+        {
+            "nombre": "OVER",
+            "description": ""
+        }
+    ]
+}

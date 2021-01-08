@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RenderableImageProducer",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "RenderableImage rdblImage",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderContext rc",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addConsumer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageConsumer ic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isConsumer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageConsumer ic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeConsumer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageConsumer ic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestTopDownLeftRightResend",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageConsumer ic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "run",
+            "description": ""
+        },
+        {
+            "nombre": "setRenderContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RenderContext rc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startProduction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageConsumer ic",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

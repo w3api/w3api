@@ -1,0 +1,357 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "adjustInto",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Temporal temporal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "atOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneOffset offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "atZone",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant otherInstant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object otherInstant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalAccessor temporal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEpochSecond",
+            "description": ""
+        },
+        {
+            "nombre": "getLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNano",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isAfter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant otherInstant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant otherInstant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAmount amountToSubtract",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amountToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusMillis",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long millisToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusNanos",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long nanosToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusSeconds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long secondsToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "now",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Clock clock",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ofEpochMilli",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long epochMilli",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ofEpochSecond",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long epochSecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "long nanoAdjustment",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAmount amountToAdd",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amountToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusMillis",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long millisToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusNanos",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long nanosToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusSeconds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long secondsToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "query",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalQuery<R> query",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "range",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toEpochMilli",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "truncatedTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "until",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "Temporal endExclusive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "with",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAdjuster adjuster",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "EPOCH",
+            "description": ""
+        },
+        {
+            "nombre": "MAX",
+            "description": ""
+        },
+        {
+            "nombre": "MIN",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getPixelFormat",
+            "description": ""
+        },
+        {
+            "nombre": "setArgb",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int argb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dstx",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scanlineStride",
+                    "description": ""
+                },
+                {
+                    "nombre": "PixelFormat<T> pixelformat",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcx",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "T buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dsty",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcy",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "PixelFormat<IntBuffer> pixelformat",
+                    "description": ""
+                },
+                {
+                    "nombre": "PixelReader reader",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "PixelFormat<ByteBuffer> pixelformat",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

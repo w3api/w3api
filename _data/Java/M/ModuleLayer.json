@@ -1,0 +1,109 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "boot",
+            "description": ""
+        },
+        {
+            "nombre": "configuration",
+            "description": ""
+        },
+        {
+            "nombre": "defineModules",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader> clf",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ModuleLayer> parentLayers",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "Configuration cf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defineModulesWithManyLoaders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader parentLoader",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ModuleLayer> parentLayers",
+                    "description": ""
+                },
+                {
+                    "nombre": "Configuration cf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defineModulesWithOneLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader parentLoader",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ModuleLayer> parentLayers",
+                    "description": ""
+                },
+                {
+                    "nombre": "Configuration cf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "empty",
+            "description": ""
+        },
+        {
+            "nombre": "findLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findModule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modules",
+            "description": ""
+        },
+        {
+            "nombre": "parents",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

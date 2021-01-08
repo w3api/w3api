@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DocumentFilter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "insertString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentFilter.FilterBypass fb",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "String string",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentFilter.FilterBypass fb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentFilter.FilterBypass fb",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

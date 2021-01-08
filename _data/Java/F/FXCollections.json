@@ -1,0 +1,359 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "checkedObservableList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<E> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<E> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkedObservableMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<K> keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<V> valueType",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> map",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkedObservableSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<E> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableSet<E> set",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "concat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<E>... lists",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<? super T> dest",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends T> src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "emptyObservableList",
+            "description": ""
+        },
+        {
+            "nombre": "emptyObservableMap",
+            "description": ""
+        },
+        {
+            "nombre": "emptyObservableSet",
+            "description": ""
+        },
+        {
+            "nombre": "fill",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<? super T> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "observableArrayList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Observable[]> extractor",
+                    "description": ""
+                },
+                {
+                    "nombre": "E... items",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<E",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collection<? extends E> col",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "observableFloatArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableFloatArray array",
+                    "description": ""
+                },
+                {
+                    "nombre": "float... values",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "observableHashMap",
+            "description": ""
+        },
+        {
+            "nombre": "observableIntegerArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int... values",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableIntegerArray array",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "observableList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Observable[]> extractor",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<E> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<E",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "observableMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V> map",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<K",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "observableSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<E> set",
+                    "description": ""
+                },
+                {
+                    "nombre": "E... elements",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T oldVal",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<T> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "T newVal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reverse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rotate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList list",
+                    "description": ""
+                },
+                {
+                    "nombre": "int distance",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shuffle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<?> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList list",
+                    "description": ""
+                },
+                {
+                    "nombre": "Random rnd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "singletonObservableList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super T> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<T> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronizedObservableList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<E> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronizedObservableMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> map",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "synchronizedObservableSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableSet<E> set",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmodifiableObservableList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<E> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmodifiableObservableMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> map",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmodifiableObservableSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableSet<E> set",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

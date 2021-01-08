@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SimpleMeter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ResourceRequest parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceType type",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ResourceRequest parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceType type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParent",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "request",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long amount",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceId id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "validate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long previous",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amount",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceId id",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

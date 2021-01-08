@@ -1,0 +1,157 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Provider",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createAndPublishEndpoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object implementor",
+                    "description": ""
+                },
+                {
+                    "nombre": "WebServiceFeature... features",
+                    "description": ""
+                },
+                {
+                    "nombre": "String address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createEndpoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WebServiceFeature... features",
+                    "description": ""
+                },
+                {
+                    "nombre": "Invoker invoker",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> implementorClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "String bindingId",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object implementor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createServiceDelegate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL wsdlDocumentLocation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<? extends Service> serviceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "WebServiceFeature... features",
+                    "description": ""
+                },
+                {
+                    "nombre": "QName serviceName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createW3CEndpointReference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName portName",
+                    "description": ""
+                },
+                {
+                    "nombre": "QName interfaceName",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<Element> elements",
+                    "description": ""
+                },
+                {
+                    "nombre": "String> attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<QName",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<Element> metadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "QName serviceName",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<Element> referenceParameters",
+                    "description": ""
+                },
+                {
+                    "nombre": "String address",
+                    "description": ""
+                },
+                {
+                    "nombre": "String wsdlDocumentLocation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> serviceEndpointInterface",
+                    "description": ""
+                },
+                {
+                    "nombre": "EndpointReference endpointReference",
+                    "description": ""
+                },
+                {
+                    "nombre": "WebServiceFeature... features",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "provider",
+            "description": ""
+        },
+        {
+            "nombre": "readEndpointReference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Source eprInfoset",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

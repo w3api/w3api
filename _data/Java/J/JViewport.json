@@ -1,0 +1,387 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JViewport",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addImpl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component child",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object constraints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeBlit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point blitTo",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point blitFrom",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dy",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle blitPaint",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dx",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dimension blitSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createLayoutManager",
+            "description": ""
+        },
+        {
+            "nombre": "createViewListener",
+            "description": ""
+        },
+        {
+            "nombre": "firePropertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireStateChanged",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getChangeListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getExtentSize",
+            "description": ""
+        },
+        {
+            "nombre": "getInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Insets insets",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getScrollMode",
+            "description": ""
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "getView",
+            "description": ""
+        },
+        {
+            "nombre": "getViewPosition",
+            "description": ""
+        },
+        {
+            "nombre": "getViewRect",
+            "description": ""
+        },
+        {
+            "nombre": "getViewSize",
+            "description": ""
+        },
+        {
+            "nombre": "isBackingStoreEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isOptimizedDrawingEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isPaintingOrigin",
+            "description": ""
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "repaint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "long tm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reshape",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scrollRectToVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle contentRect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBackingStoreEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean enabled",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Border border",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExtentSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dimension newExtent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setScrollMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ViewportUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component view",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setViewPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setViewSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dimension newSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toViewCoordinates",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dimension size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "backingStore",
+            "description": ""
+        },
+        {
+            "nombre": "BACKINGSTORE_SCROLL_MODE",
+            "description": ""
+        },
+        {
+            "nombre": "backingStoreImage",
+            "description": ""
+        },
+        {
+            "nombre": "BLIT_SCROLL_MODE",
+            "description": ""
+        },
+        {
+            "nombre": "isViewSizeSet",
+            "description": ""
+        },
+        {
+            "nombre": "lastPaintPosition",
+            "description": ""
+        },
+        {
+            "nombre": "scrollUnderway",
+            "description": ""
+        },
+        {
+            "nombre": "SIMPLE_SCROLL_MODE",
+            "description": ""
+        }
+    ]
+}

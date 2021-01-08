@@ -1,0 +1,71 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StreamHandler",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Formatter formatter",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "isLoggable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LogRecord record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "publish",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LogRecord record",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEncoding",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOutputStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

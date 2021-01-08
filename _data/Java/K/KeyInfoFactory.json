@@ -1,0 +1,157 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "KeyInfoFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mechanismType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMechanismType",
+            "description": ""
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getURIDereferencer",
+            "description": ""
+        },
+        {
+            "nombre": "isFeatureSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String feature",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newKeyInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends XMLStructure> content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newKeyName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newKeyValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PublicKey key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newPGPData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends XMLStructure> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] keyPacket",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] keyId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newRetrievalMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends Transform> transforms",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newX509Data",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<?> content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newX509IssuerSerial",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger serialNumber",
+                    "description": ""
+                },
+                {
+                    "nombre": "String issuerName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmarshalKeyInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XMLStructure xmlStructure",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

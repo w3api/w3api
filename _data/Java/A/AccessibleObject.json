@@ -1,0 +1,103 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AccessibleObject",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "canAccess",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAnnotation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> annotationClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAnnotations",
+            "description": ""
+        },
+        {
+            "nombre": "getAnnotationsByType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> annotationClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeclaredAnnotation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> annotationClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeclaredAnnotations",
+            "description": ""
+        },
+        {
+            "nombre": "getDeclaredAnnotationsByType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> annotationClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isAccessible",
+            "description": ""
+        },
+        {
+            "nombre": "isAnnotationPresent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<? extends Annotation> annotationClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAccessible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean flag",
+                    "description": ""
+                },
+                {
+                    "nombre": "AccessibleObject[] array",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "trySetAccessible",
+            "description": ""
+        }
+    ]
+}

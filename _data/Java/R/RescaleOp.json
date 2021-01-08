@@ -1,0 +1,137 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RescaleOp",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "float[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderingHints hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "float scaleFactor",
+                    "description": ""
+                },
+                {
+                    "nombre": "float offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] scaleFactors",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createCompatibleDestImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorModel destCM",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCompatibleDestRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                },
+                {
+                    "nombre": "WritableRaster dst",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNumFactors",
+            "description": ""
+        },
+        {
+            "nombre": "getOffsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] offsets",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPoint2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D srcPt",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D dstPt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRenderingHints",
+            "description": ""
+        },
+        {
+            "nombre": "getScaleFactors",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] scaleFactors",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

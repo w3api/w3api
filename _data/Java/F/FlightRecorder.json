@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FlightRecorderListener changeListener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addPeriodicEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<? extends Event> eventClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable hook",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEventTypes",
+            "description": ""
+        },
+        {
+            "nombre": "getFlightRecorder",
+            "description": ""
+        },
+        {
+            "nombre": "getRecordings",
+            "description": ""
+        },
+        {
+            "nombre": "isAvailable",
+            "description": ""
+        },
+        {
+            "nombre": "isInitialized",
+            "description": ""
+        },
+        {
+            "nombre": "register",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<? extends Event> eventClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FlightRecorderListener changeListener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removePeriodicEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable hook",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "takeSnapshot",
+            "description": ""
+        },
+        {
+            "nombre": "unregister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<? extends Event> eventClass",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ICC_ColorSpace",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ICC_Profile profile",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "fromCIEXYZ",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] colorvalue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromRGB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] rgbvalue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaxValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProfile",
+            "description": ""
+        },
+        {
+            "nombre": "toCIEXYZ",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] colorvalue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toRGB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] colorvalue",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

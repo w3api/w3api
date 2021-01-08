@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FlatteningPathIterator",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "PathIterator src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "double flatness",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "currentSegment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double[] coords",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] coords",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFlatness",
+            "description": ""
+        },
+        {
+            "nombre": "getRecursionLimit",
+            "description": ""
+        },
+        {
+            "nombre": "getWindingRule",
+            "description": ""
+        },
+        {
+            "nombre": "isDone",
+            "description": ""
+        },
+        {
+            "nombre": "next",
+            "description": ""
+        }
+    ]
+}

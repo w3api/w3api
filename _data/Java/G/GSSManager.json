@@ -1,0 +1,143 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GSSManager",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addProviderAtEnd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Oid mech",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addProviderAtFront",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Oid mech",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] interProcessToken",
+                    "description": ""
+                },
+                {
+                    "nombre": "Oid mech",
+                    "description": ""
+                },
+                {
+                    "nombre": "GSSName peer",
+                    "description": ""
+                },
+                {
+                    "nombre": "GSSCredential myCred",
+                    "description": ""
+                },
+                {
+                    "nombre": "int lifetime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCredential",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GSSName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "int usage",
+                    "description": ""
+                },
+                {
+                    "nombre": "Oid[] mechs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Oid mech",
+                    "description": ""
+                },
+                {
+                    "nombre": "int lifetime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nameStr",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Oid nameType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Oid mech",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInstance",
+            "description": ""
+        },
+        {
+            "nombre": "getMechs",
+            "description": ""
+        },
+        {
+            "nombre": "getMechsForName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Oid nameType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNamesForMech",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Oid mech",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

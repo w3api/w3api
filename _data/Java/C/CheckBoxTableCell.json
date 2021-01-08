@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CheckBoxTableCell",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableValue<Boolean>> getSelectedProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<Integer",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "converterProperty",
+            "description": ""
+        },
+        {
+            "nombre": "forTableColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableValue<Boolean>> getSelectedProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "TableColumn<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean showLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                },
+                {
+                    "nombre": "Boolean> column",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<Integer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedStateCallback",
+            "description": ""
+        },
+        {
+            "nombre": "selectedStateCallbackProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setConverter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedStateCallback",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableValue<Boolean>> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<Integer",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

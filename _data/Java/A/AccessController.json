@@ -1,0 +1,65 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "checkPermission",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Permission perm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doPrivileged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrivilegedAction<T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrivilegedExceptionAction<T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "Permission... perms",
+                    "description": ""
+                },
+                {
+                    "nombre": "AccessControlContext context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doPrivilegedWithCombiner",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrivilegedAction<T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrivilegedExceptionAction<T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "Permission... perms",
+                    "description": ""
+                },
+                {
+                    "nombre": "AccessControlContext context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContext",
+            "description": ""
+        }
+    ]
+}

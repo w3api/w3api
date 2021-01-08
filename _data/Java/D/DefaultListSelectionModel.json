@@ -1,0 +1,191 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DefaultListSelectionModel",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "fireValueChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isAdjusting",
+                    "description": ""
+                },
+                {
+                    "nombre": "int lastIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int firstIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> listenerType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getListSelectionListeners",
+            "description": ""
+        },
+        {
+            "nombre": "insertIndexInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean before",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLeadAnchorNotificationEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "moveLeadSelectionIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int leadIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeIndexInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAnchorSelectionIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int anchorIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLeadAnchorNotificationEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLeadSelectionIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int leadIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionInterval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int selectionMode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "leadAnchorNotificationEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "listenerList",
+            "description": ""
+        }
+    ]
+}

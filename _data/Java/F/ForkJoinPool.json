@@ -1,0 +1,249 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ForkJoinPool",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ForkJoinPool.ForkJoinWorkerThreadFactory factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maximumPoolSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parallelism",
+                    "description": ""
+                },
+                {
+                    "nombre": "int corePoolSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "Thread.UncaughtExceptionHandler handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minimumRunnable",
+                    "description": ""
+                },
+                {
+                    "nombre": "long keepAliveTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean asyncMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "Predicate<? super ForkJoinPool> saturate",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "awaitQuiescence",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "awaitTermination",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "commonPool",
+            "description": ""
+        },
+        {
+            "nombre": "drainTasksTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? super ForkJoinTask<?>> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "execute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable task",
+                    "description": ""
+                },
+                {
+                    "nombre": "ForkJoinTask<?> task",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getActiveThreadCount",
+            "description": ""
+        },
+        {
+            "nombre": "getAsyncMode",
+            "description": ""
+        },
+        {
+            "nombre": "getCommonPoolParallelism",
+            "description": ""
+        },
+        {
+            "nombre": "getFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getParallelism",
+            "description": ""
+        },
+        {
+            "nombre": "getPoolSize",
+            "description": ""
+        },
+        {
+            "nombre": "getQueuedSubmissionCount",
+            "description": ""
+        },
+        {
+            "nombre": "getQueuedTaskCount",
+            "description": ""
+        },
+        {
+            "nombre": "getRunningThreadCount",
+            "description": ""
+        },
+        {
+            "nombre": "getStealCount",
+            "description": ""
+        },
+        {
+            "nombre": "getUncaughtExceptionHandler",
+            "description": ""
+        },
+        {
+            "nombre": "hasQueuedSubmissions",
+            "description": ""
+        },
+        {
+            "nombre": "invoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ForkJoinTask<T> task",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invokeAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends Callable<T>> tasks",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isQuiescent",
+            "description": ""
+        },
+        {
+            "nombre": "isShutdown",
+            "description": ""
+        },
+        {
+            "nombre": "isTerminated",
+            "description": ""
+        },
+        {
+            "nombre": "isTerminating",
+            "description": ""
+        },
+        {
+            "nombre": "managedBlock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ForkJoinPool.ManagedBlocker blocker",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pollSubmission",
+            "description": ""
+        },
+        {
+            "nombre": "shutdown",
+            "description": ""
+        },
+        {
+            "nombre": "shutdownNow",
+            "description": ""
+        },
+        {
+            "nombre": "submit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable task",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<T> task",
+                    "description": ""
+                },
+                {
+                    "nombre": "ForkJoinTask<T> task",
+                    "description": ""
+                },
+                {
+                    "nombre": "T result",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "defaultForkJoinWorkerThreadFactory",
+            "description": ""
+        }
+    ]
+}

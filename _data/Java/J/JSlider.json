@@ -1,0 +1,395 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JSlider",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                },
+                {
+                    "nombre": "int max",
+                    "description": ""
+                },
+                {
+                    "nombre": "BoundedRangeModel brm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int min",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createStandardLabels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int increment",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireStateChanged",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getChangeListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getExtent",
+            "description": ""
+        },
+        {
+            "nombre": "getInverted",
+            "description": ""
+        },
+        {
+            "nombre": "getLabelTable",
+            "description": ""
+        },
+        {
+            "nombre": "getMajorTickSpacing",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximum",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimum",
+            "description": ""
+        },
+        {
+            "nombre": "getMinorTickSpacing",
+            "description": ""
+        },
+        {
+            "nombre": "getModel",
+            "description": ""
+        },
+        {
+            "nombre": "getOrientation",
+            "description": ""
+        },
+        {
+            "nombre": "getPaintLabels",
+            "description": ""
+        },
+        {
+            "nombre": "getPaintTicks",
+            "description": ""
+        },
+        {
+            "nombre": "getPaintTrack",
+            "description": ""
+        },
+        {
+            "nombre": "getSnapToTicks",
+            "description": ""
+        },
+        {
+            "nombre": "getUI",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "getValue",
+            "description": ""
+        },
+        {
+            "nombre": "getValueIsAdjusting",
+            "description": ""
+        },
+        {
+            "nombre": "imageUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "int infoflags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "removeChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExtent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int extent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInverted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLabelTable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dictionary labels",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMajorTickSpacing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maximum",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinimum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minimum",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinorTickSpacing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BoundedRangeModel newModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOrientation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPaintLabels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPaintTicks",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPaintTrack",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSnapToTicks",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SliderUI ui",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValueIsAdjusting",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateLabelUIs",
+            "description": ""
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "changeEvent",
+            "description": ""
+        },
+        {
+            "nombre": "changeListener",
+            "description": ""
+        },
+        {
+            "nombre": "majorTickSpacing",
+            "description": ""
+        },
+        {
+            "nombre": "minorTickSpacing",
+            "description": ""
+        },
+        {
+            "nombre": "orientation",
+            "description": ""
+        },
+        {
+            "nombre": "sliderModel",
+            "description": ""
+        },
+        {
+            "nombre": "snapToTicks",
+            "description": ""
+        }
+    ]
+}

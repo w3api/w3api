@@ -1,0 +1,389 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addNotificationListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject handback",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addNotificationListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MarshalledObject[] filters",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName[] names",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject[] delegationSubjects",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "createMBean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName loaderName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] signature",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject params",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fetchNotifications",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maxNotifications",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "long clientSequenceNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConnectionId",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultDomain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDomains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMBeanCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMBeanInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getObjectInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                },
+                {
+                    "nombre": "String operationName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] signature",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject params",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isInstanceOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRegistered",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "queryMBeans",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MarshalledObject query",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "queryNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MarshalledObject query",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeNotificationListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject handback",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeNotificationListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Integer[] listenerIDs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                },
+                {
+                    "nombre": "MarshalledObject attributes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregisterMBean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImageWriterSpi",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean supportsStandardStreamMetadataFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] readerSpiNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extraImageMetadataFormatClassNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extraStreamMetadataFormatClassNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nativeImageMetadataFormatClassName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nativeStreamMetadataFormatClassName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String writerClassName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] suffixes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nativeStreamMetadataFormatName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extraStreamMetadataFormatNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] MIMETypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] names",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean supportsStandardImageMetadataFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extraImageMetadataFormatNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String vendorName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>[] outputTypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nativeImageMetadataFormatName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "canEncodeImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageTypeSpecifier type",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderedImage im",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createWriterInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object extension",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageReaderSpiNames",
+            "description": ""
+        },
+        {
+            "nombre": "getOutputTypes",
+            "description": ""
+        },
+        {
+            "nombre": "isFormatLossless",
+            "description": ""
+        },
+        {
+            "nombre": "isOwnWriter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageWriter writer",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "outputTypes",
+            "description": ""
+        },
+        {
+            "nombre": "readerSpiNames",
+            "description": ""
+        },
+        {
+            "nombre": "STANDARD_OUTPUT_TYPE",
+            "description": ""
+        }
+    ]
+}

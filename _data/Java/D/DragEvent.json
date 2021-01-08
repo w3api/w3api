@@ -1,0 +1,211 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DragEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenX",
+                    "description": ""
+                },
+                {
+                    "nombre": "TransferMode transferMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object gestureTarget",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<DragEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenY",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dragboard dragboard",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object gestureSource",
+                    "description": ""
+                },
+                {
+                    "nombre": "PickResult pickResult",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "acceptTransferModes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TransferMode... transferModes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copyFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventType<DragEvent> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object gestureTarget",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<DragEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object gestureSource",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAcceptedTransferMode",
+            "description": ""
+        },
+        {
+            "nombre": "getAcceptingObject",
+            "description": ""
+        },
+        {
+            "nombre": "getDragboard",
+            "description": ""
+        },
+        {
+            "nombre": "getGestureSource",
+            "description": ""
+        },
+        {
+            "nombre": "getGestureTarget",
+            "description": ""
+        },
+        {
+            "nombre": "getPickResult",
+            "description": ""
+        },
+        {
+            "nombre": "getSceneX",
+            "description": ""
+        },
+        {
+            "nombre": "getSceneY",
+            "description": ""
+        },
+        {
+            "nombre": "getScreenX",
+            "description": ""
+        },
+        {
+            "nombre": "getScreenY",
+            "description": ""
+        },
+        {
+            "nombre": "getTransferMode",
+            "description": ""
+        },
+        {
+            "nombre": "getX",
+            "description": ""
+        },
+        {
+            "nombre": "getY",
+            "description": ""
+        },
+        {
+            "nombre": "getZ",
+            "description": ""
+        },
+        {
+            "nombre": "isAccepted",
+            "description": ""
+        },
+        {
+            "nombre": "isDropCompleted",
+            "description": ""
+        },
+        {
+            "nombre": "setDropCompleted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isTransferDone",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        },
+        {
+            "nombre": "DRAG_DONE",
+            "description": ""
+        },
+        {
+            "nombre": "DRAG_DROPPED",
+            "description": ""
+        },
+        {
+            "nombre": "DRAG_ENTERED",
+            "description": ""
+        },
+        {
+            "nombre": "DRAG_ENTERED_TARGET",
+            "description": ""
+        },
+        {
+            "nombre": "DRAG_EXITED",
+            "description": ""
+        },
+        {
+            "nombre": "DRAG_EXITED_TARGET",
+            "description": ""
+        },
+        {
+            "nombre": "DRAG_OVER",
+            "description": ""
+        }
+    ]
+}

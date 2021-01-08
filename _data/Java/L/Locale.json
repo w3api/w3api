@@ -1,0 +1,381 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Locale",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String variant",
+                    "description": ""
+                },
+                {
+                    "nombre": "String language",
+                    "description": ""
+                },
+                {
+                    "nombre": "String country",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<Locale.LanguageRange> priorityList",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale.FilteringMode mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collection<Locale> locales",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filterTags",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<Locale.LanguageRange> priorityList",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale.FilteringMode mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collection<String> tags",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forLanguageTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String languageTag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAvailableLocales",
+            "description": ""
+        },
+        {
+            "nombre": "getCountry",
+            "description": ""
+        },
+        {
+            "nombre": "getDefault",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale.Category category",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayCountry",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale inLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayLanguage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale inLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale inLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayScript",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale inLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayVariant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale inLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getExtension",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getExtensionKeys",
+            "description": ""
+        },
+        {
+            "nombre": "getISO3Country",
+            "description": ""
+        },
+        {
+            "nombre": "getISO3Language",
+            "description": ""
+        },
+        {
+            "nombre": "getISOCountries",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale.IsoCountryCode type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getISOLanguages",
+            "description": ""
+        },
+        {
+            "nombre": "getLanguage",
+            "description": ""
+        },
+        {
+            "nombre": "getScript",
+            "description": ""
+        },
+        {
+            "nombre": "getUnicodeLocaleAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "getUnicodeLocaleKeys",
+            "description": ""
+        },
+        {
+            "nombre": "getUnicodeLocaleType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVariant",
+            "description": ""
+        },
+        {
+            "nombre": "hasExtensions",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "lookup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<Locale.LanguageRange> priorityList",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collection<Locale> locales",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookupTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<Locale.LanguageRange> priorityList",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collection<String> tags",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefault",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale.Category category",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale newLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stripExtensions",
+            "description": ""
+        },
+        {
+            "nombre": "toLanguageTag",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CANADA",
+            "description": ""
+        },
+        {
+            "nombre": "CANADA_FRENCH",
+            "description": ""
+        },
+        {
+            "nombre": "CHINA",
+            "description": ""
+        },
+        {
+            "nombre": "CHINESE",
+            "description": ""
+        },
+        {
+            "nombre": "ENGLISH",
+            "description": ""
+        },
+        {
+            "nombre": "FRANCE",
+            "description": ""
+        },
+        {
+            "nombre": "FRENCH",
+            "description": ""
+        },
+        {
+            "nombre": "GERMAN",
+            "description": ""
+        },
+        {
+            "nombre": "GERMANY",
+            "description": ""
+        },
+        {
+            "nombre": "ITALIAN",
+            "description": ""
+        },
+        {
+            "nombre": "ITALY",
+            "description": ""
+        },
+        {
+            "nombre": "JAPAN",
+            "description": ""
+        },
+        {
+            "nombre": "JAPANESE",
+            "description": ""
+        },
+        {
+            "nombre": "KOREA",
+            "description": ""
+        },
+        {
+            "nombre": "KOREAN",
+            "description": ""
+        },
+        {
+            "nombre": "PRC",
+            "description": ""
+        },
+        {
+            "nombre": "PRIVATE_USE_EXTENSION",
+            "description": ""
+        },
+        {
+            "nombre": "ROOT",
+            "description": ""
+        },
+        {
+            "nombre": "SIMPLIFIED_CHINESE",
+            "description": ""
+        },
+        {
+            "nombre": "TAIWAN",
+            "description": ""
+        },
+        {
+            "nombre": "TRADITIONAL_CHINESE",
+            "description": ""
+        },
+        {
+            "nombre": "UK",
+            "description": ""
+        },
+        {
+            "nombre": "UNICODE_LOCALE_EXTENSION",
+            "description": ""
+        },
+        {
+            "nombre": "US",
+            "description": ""
+        }
+    ]
+}

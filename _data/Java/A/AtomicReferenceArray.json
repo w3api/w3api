@@ -1,0 +1,381 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AtomicReferenceArray",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "E[] array",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accumulateAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<E> accumulatorFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndExchange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndExchangeAcquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndExchangeRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAcquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndAccumulate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<E> accumulatorFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "UnaryOperator<E> updateFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOpaque",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPlain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lazySet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "length",
+            "description": ""
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOpaque",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPlain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "updateAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "UnaryOperator<E> updateFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetAcquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetPlain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetVolatile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "E newValue",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

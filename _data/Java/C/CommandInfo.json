@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CommandInfo",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "String verb",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCommandClass",
+            "description": ""
+        },
+        {
+            "nombre": "getCommandName",
+            "description": ""
+        },
+        {
+            "nombre": "getCommandObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataHandler dh",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

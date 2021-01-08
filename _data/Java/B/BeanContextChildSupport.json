@@ -1,0 +1,193 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BeanContextChildSupport",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextChild bcc",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "PropertyChangeListener pcl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addVetoableChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "VetoableChangeListener vcl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "firePropertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireVetoableChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBeanContext",
+            "description": ""
+        },
+        {
+            "nombre": "getBeanContextChildPeer",
+            "description": ""
+        },
+        {
+            "nombre": "initializeBeanContextResources",
+            "description": ""
+        },
+        {
+            "nombre": "isDelegated",
+            "description": ""
+        },
+        {
+            "nombre": "releaseBeanContextResources",
+            "description": ""
+        },
+        {
+            "nombre": "removePropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "PropertyChangeListener pcl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeVetoableChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "VetoableChangeListener vcl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "serviceAvailable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextServiceAvailableEvent bcsae",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "serviceRevoked",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextServiceRevokedEvent bcsre",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBeanContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContext bc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "validatePendingSetBeanContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContext newValue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "beanContext",
+            "description": ""
+        },
+        {
+            "nombre": "beanContextChildPeer",
+            "description": ""
+        },
+        {
+            "nombre": "pcSupport",
+            "description": ""
+        },
+        {
+            "nombre": "rejectedSetBCOnce",
+            "description": ""
+        },
+        {
+            "nombre": "vcSupport",
+            "description": ""
+        }
+    ]
+}

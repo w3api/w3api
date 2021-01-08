@@ -1,0 +1,41 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RowSetWarning",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int vendorCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "String SQLState",
+                    "description": ""
+                },
+                {
+                    "nombre": "String reason",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getNextWarning",
+            "description": ""
+        },
+        {
+            "nombre": "setNextWarning",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowSetWarning warning",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

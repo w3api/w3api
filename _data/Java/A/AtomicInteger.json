@@ -1,0 +1,325 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AtomicInteger",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int initialValue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accumulateAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntBinaryOperator accumulatorFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int delta",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndExchange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndExchangeAcquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndExchangeRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decrementAndGet",
+            "description": ""
+        },
+        {
+            "nombre": "doubleValue",
+            "description": ""
+        },
+        {
+            "nombre": "floatValue",
+            "description": ""
+        },
+        {
+            "nombre": "get",
+            "description": ""
+        },
+        {
+            "nombre": "getAcquire",
+            "description": ""
+        },
+        {
+            "nombre": "getAndAccumulate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntBinaryOperator accumulatorFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndAdd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int delta",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndDecrement",
+            "description": ""
+        },
+        {
+            "nombre": "getAndIncrement",
+            "description": ""
+        },
+        {
+            "nombre": "getAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAndUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntUnaryOperator updateFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOpaque",
+            "description": ""
+        },
+        {
+            "nombre": "getPlain",
+            "description": ""
+        },
+        {
+            "nombre": "incrementAndGet",
+            "description": ""
+        },
+        {
+            "nombre": "intValue",
+            "description": ""
+        },
+        {
+            "nombre": "lazySet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "longValue",
+            "description": ""
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOpaque",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPlain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "updateAndGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntUnaryOperator updateFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetAcquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetPlain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "weakCompareAndSetVolatile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int expectedValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CompoundBorder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Border insideBorder",
+                    "description": ""
+                },
+                {
+                    "nombre": "Border outsideBorder",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBorderInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets insets",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInsideBorder",
+            "description": ""
+        },
+        {
+            "nombre": "getOutsideBorder",
+            "description": ""
+        },
+        {
+            "nombre": "isBorderOpaque",
+            "description": ""
+        },
+        {
+            "nombre": "paintBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "insideBorder",
+            "description": ""
+        },
+        {
+            "nombre": "outsideBorder",
+            "description": ""
+        }
+    ]
+}

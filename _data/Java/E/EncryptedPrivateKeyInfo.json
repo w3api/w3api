@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "EncryptedPrivateKeyInfo",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] encoded",
+                    "description": ""
+                },
+                {
+                    "nombre": "String algName",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] encryptedData",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameters algParams",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAlgName",
+            "description": ""
+        },
+        {
+            "nombre": "getAlgParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getEncoded",
+            "description": ""
+        },
+        {
+            "nombre": "getEncryptedData",
+            "description": ""
+        },
+        {
+            "nombre": "getKeySpec",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Key decryptKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "Cipher cipher",
+                    "description": ""
+                },
+                {
+                    "nombre": "String providerName",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

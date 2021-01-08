@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ArrayType",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SimpleType<?> elementType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dimension",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean primitiveArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenType<?> elementType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getArrayType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OpenType<E> elementType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDimension",
+            "description": ""
+        },
+        {
+            "nombre": "getElementOpenType",
+            "description": ""
+        },
+        {
+            "nombre": "getPrimitiveArrayType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> arrayClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isPrimitiveArray",
+            "description": ""
+        },
+        {
+            "nombre": "isValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

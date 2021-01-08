@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AttributeChangeNotification",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String attributeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeStamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "long sequenceNumber",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String attributeName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAttributeName",
+            "description": ""
+        },
+        {
+            "nombre": "getAttributeType",
+            "description": ""
+        },
+        {
+            "nombre": "getNewValue",
+            "description": ""
+        },
+        {
+            "nombre": "getOldValue",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ATTRIBUTE_CHANGE",
+            "description": ""
+        }
+    ]
+}

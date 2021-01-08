@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AnnotationElement",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Object> values",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<? extends Annotation> annotationType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAnnotation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<? extends Annotation> annotationType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAnnotationElements",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeId",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeName",
+            "description": ""
+        },
+        {
+            "nombre": "getValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getValueDescriptors",
+            "description": ""
+        },
+        {
+            "nombre": "getValues",
+            "description": ""
+        },
+        {
+            "nombre": "hasValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

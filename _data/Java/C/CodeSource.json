@@ -1,0 +1,67 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CodeSource",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "CodeSigner[] signers",
+                    "description": ""
+                },
+                {
+                    "nombre": "Certificate[] certs",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCertificates",
+            "description": ""
+        },
+        {
+            "nombre": "getCodeSigners",
+            "description": ""
+        },
+        {
+            "nombre": "getLocation",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "implies",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CodeSource codesource",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

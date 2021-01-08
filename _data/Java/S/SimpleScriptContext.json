@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SimpleScriptContext",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributesScope",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBindings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBindings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Bindings bindings",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "engineScope",
+            "description": ""
+        },
+        {
+            "nombre": "errorWriter",
+            "description": ""
+        },
+        {
+            "nombre": "globalScope",
+            "description": ""
+        },
+        {
+            "nombre": "reader",
+            "description": ""
+        },
+        {
+            "nombre": "writer",
+            "description": ""
+        }
+    ]
+}

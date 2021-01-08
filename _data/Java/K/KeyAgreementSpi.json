@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "KeyAgreementSpi",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "engineDoPhase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean lastPhase",
+                    "description": ""
+                },
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGenerateSecret",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] sharedSecret",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineInit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SecureRandom random",
+                    "description": ""
+                },
+                {
+                    "nombre": "Key key",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameterSpec params",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

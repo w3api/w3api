@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AudioFileWriter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAudioFileTypes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioInputStream stream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFileTypeSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioInputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFileFormat.Type fileType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioInputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFileFormat.Type fileType",
+                    "description": ""
+                },
+                {
+                    "nombre": "File out",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

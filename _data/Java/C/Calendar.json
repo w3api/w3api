@@ -1,0 +1,659 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Calendar",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TimeZone zone",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale aLocale",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int amount",
+                    "description": ""
+                },
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "after",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object when",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "before",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object when",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Calendar anotherCalendar",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "complete",
+            "description": ""
+        },
+        {
+            "nombre": "computeFields",
+            "description": ""
+        },
+        {
+            "nombre": "computeTime",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getActualMaximum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getActualMinimum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAvailableCalendarTypes",
+            "description": ""
+        },
+        {
+            "nombre": "getAvailableLocales",
+            "description": ""
+        },
+        {
+            "nombre": "getCalendarType",
+            "description": ""
+        },
+        {
+            "nombre": "getDisplayName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "int field",
+                    "description": ""
+                },
+                {
+                    "nombre": "int style",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "int field",
+                    "description": ""
+                },
+                {
+                    "nombre": "int style",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFirstDayOfWeek",
+            "description": ""
+        },
+        {
+            "nombre": "getGreatestMinimum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeZone zone",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale aLocale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLeastMaximum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimalDaysInFirstWeek",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTime",
+            "description": ""
+        },
+        {
+            "nombre": "getTimeInMillis",
+            "description": ""
+        },
+        {
+            "nombre": "getTimeZone",
+            "description": ""
+        },
+        {
+            "nombre": "getWeeksInWeekYear",
+            "description": ""
+        },
+        {
+            "nombre": "getWeekYear",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "internalGet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLenient",
+            "description": ""
+        },
+        {
+            "nombre": "isSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isWeekDateSupported",
+            "description": ""
+        },
+        {
+            "nombre": "roll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int amount",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean up",
+                    "description": ""
+                },
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int date",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hourOfDay",
+                    "description": ""
+                },
+                {
+                    "nombre": "int field",
+                    "description": ""
+                },
+                {
+                    "nombre": "int second",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFirstDayOfWeek",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLenient",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean lenient",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinimalDaysInFirstWeek",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTimeInMillis",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long millis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTimeZone",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeZone value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWeekDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int weekOfYear",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dayOfWeek",
+                    "description": ""
+                },
+                {
+                    "nombre": "int weekYear",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toInstant",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ALL_STYLES",
+            "description": ""
+        },
+        {
+            "nombre": "AM",
+            "description": ""
+        },
+        {
+            "nombre": "AM_PM",
+            "description": ""
+        },
+        {
+            "nombre": "APRIL",
+            "description": ""
+        },
+        {
+            "nombre": "areFieldsSet",
+            "description": ""
+        },
+        {
+            "nombre": "AUGUST",
+            "description": ""
+        },
+        {
+            "nombre": "DATE",
+            "description": ""
+        },
+        {
+            "nombre": "DAY_OF_MONTH",
+            "description": ""
+        },
+        {
+            "nombre": "DAY_OF_WEEK",
+            "description": ""
+        },
+        {
+            "nombre": "DAY_OF_WEEK_IN_MONTH",
+            "description": ""
+        },
+        {
+            "nombre": "DAY_OF_YEAR",
+            "description": ""
+        },
+        {
+            "nombre": "DECEMBER",
+            "description": ""
+        },
+        {
+            "nombre": "DST_OFFSET",
+            "description": ""
+        },
+        {
+            "nombre": "ERA",
+            "description": ""
+        },
+        {
+            "nombre": "FEBRUARY",
+            "description": ""
+        },
+        {
+            "nombre": "FIELD_COUNT",
+            "description": ""
+        },
+        {
+            "nombre": "fields",
+            "description": ""
+        },
+        {
+            "nombre": "FRIDAY",
+            "description": ""
+        },
+        {
+            "nombre": "HOUR",
+            "description": ""
+        },
+        {
+            "nombre": "HOUR_OF_DAY",
+            "description": ""
+        },
+        {
+            "nombre": "isSet",
+            "description": ""
+        },
+        {
+            "nombre": "isTimeSet",
+            "description": ""
+        },
+        {
+            "nombre": "JANUARY",
+            "description": ""
+        },
+        {
+            "nombre": "JULY",
+            "description": ""
+        },
+        {
+            "nombre": "JUNE",
+            "description": ""
+        },
+        {
+            "nombre": "LONG",
+            "description": ""
+        },
+        {
+            "nombre": "LONG_FORMAT",
+            "description": ""
+        },
+        {
+            "nombre": "LONG_STANDALONE",
+            "description": ""
+        },
+        {
+            "nombre": "MARCH",
+            "description": ""
+        },
+        {
+            "nombre": "MAY",
+            "description": ""
+        },
+        {
+            "nombre": "MILLISECOND",
+            "description": ""
+        },
+        {
+            "nombre": "MINUTE",
+            "description": ""
+        },
+        {
+            "nombre": "MONDAY",
+            "description": ""
+        },
+        {
+            "nombre": "MONTH",
+            "description": ""
+        },
+        {
+            "nombre": "NARROW_FORMAT",
+            "description": ""
+        },
+        {
+            "nombre": "NARROW_STANDALONE",
+            "description": ""
+        },
+        {
+            "nombre": "NOVEMBER",
+            "description": ""
+        },
+        {
+            "nombre": "OCTOBER",
+            "description": ""
+        },
+        {
+            "nombre": "PM",
+            "description": ""
+        },
+        {
+            "nombre": "SATURDAY",
+            "description": ""
+        },
+        {
+            "nombre": "SECOND",
+            "description": ""
+        },
+        {
+            "nombre": "SEPTEMBER",
+            "description": ""
+        },
+        {
+            "nombre": "SHORT",
+            "description": ""
+        },
+        {
+            "nombre": "SHORT_FORMAT",
+            "description": ""
+        },
+        {
+            "nombre": "SHORT_STANDALONE",
+            "description": ""
+        },
+        {
+            "nombre": "SUNDAY",
+            "description": ""
+        },
+        {
+            "nombre": "THURSDAY",
+            "description": ""
+        },
+        {
+            "nombre": "time",
+            "description": ""
+        },
+        {
+            "nombre": "TUESDAY",
+            "description": ""
+        },
+        {
+            "nombre": "UNDECIMBER",
+            "description": ""
+        },
+        {
+            "nombre": "WEDNESDAY",
+            "description": ""
+        },
+        {
+            "nombre": "WEEK_OF_MONTH",
+            "description": ""
+        },
+        {
+            "nombre": "WEEK_OF_YEAR",
+            "description": ""
+        },
+        {
+            "nombre": "YEAR",
+            "description": ""
+        },
+        {
+            "nombre": "ZONE_OFFSET",
+            "description": ""
+        }
+    ]
+}

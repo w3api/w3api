@@ -1,0 +1,119 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "EventSetDescriptor",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Method[] listenerMethods",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> listenerType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] listenerMethodNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String removeListenerMethodName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String getListenerMethodName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Method addListenerMethod",
+                    "description": ""
+                },
+                {
+                    "nombre": "String listenerMethodName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String addListenerMethodName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Method removeListenerMethod",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodDescriptor[] listenerMethodDescriptors",
+                    "description": ""
+                },
+                {
+                    "nombre": "String eventSetName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> sourceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "Method getListenerMethod",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAddListenerMethod",
+            "description": ""
+        },
+        {
+            "nombre": "getGetListenerMethod",
+            "description": ""
+        },
+        {
+            "nombre": "getListenerMethodDescriptors",
+            "description": ""
+        },
+        {
+            "nombre": "getListenerMethods",
+            "description": ""
+        },
+        {
+            "nombre": "getListenerType",
+            "description": ""
+        },
+        {
+            "nombre": "getRemoveListenerMethod",
+            "description": ""
+        },
+        {
+            "nombre": "isInDefaultEventSet",
+            "description": ""
+        },
+        {
+            "nombre": "isUnicast",
+            "description": ""
+        },
+        {
+            "nombre": "setInDefaultEventSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean inDefaultEventSet",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUnicast",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean unicast",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

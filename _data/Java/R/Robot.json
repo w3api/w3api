@@ -1,0 +1,163 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Robot",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "GraphicsDevice screen",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createMultiResolutionScreenCapture",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle screenRect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createScreenCapture",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle screenRect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "delay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ms",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAutoDelay",
+            "description": ""
+        },
+        {
+            "nombre": "getPixelColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isAutoWaitForIdle",
+            "description": ""
+        },
+        {
+            "nombre": "keyPress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int keycode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "keyRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int keycode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mouseMove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mousePress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int buttons",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mouseRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int buttons",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mouseWheel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int wheelAmt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAutoDelay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ms",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAutoWaitForIdle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isOn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "waitForIdle",
+            "description": ""
+        }
+    ]
+}

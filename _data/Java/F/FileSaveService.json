@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "saveAsFileDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pathHint",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileContents contents",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extensions",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "saveFileDialog",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pathHint",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extensions",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

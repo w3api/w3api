@@ -1,0 +1,365 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DefaultMutableTreeNode",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean allowsChildren",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object userObject",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MutableTreeNode newChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "breadthFirstEnumeration",
+            "description": ""
+        },
+        {
+            "nombre": "children",
+            "description": ""
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "depthFirstEnumeration",
+            "description": ""
+        },
+        {
+            "nombre": "getAllowsChildren",
+            "description": ""
+        },
+        {
+            "nombre": "getChildAfter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode aChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode aChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChildCount",
+            "description": ""
+        },
+        {
+            "nombre": "getDepth",
+            "description": ""
+        },
+        {
+            "nombre": "getFirstChild",
+            "description": ""
+        },
+        {
+            "nombre": "getFirstLeaf",
+            "description": ""
+        },
+        {
+            "nombre": "getIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode aChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLastChild",
+            "description": ""
+        },
+        {
+            "nombre": "getLastLeaf",
+            "description": ""
+        },
+        {
+            "nombre": "getLeafCount",
+            "description": ""
+        },
+        {
+            "nombre": "getLevel",
+            "description": ""
+        },
+        {
+            "nombre": "getNextLeaf",
+            "description": ""
+        },
+        {
+            "nombre": "getNextNode",
+            "description": ""
+        },
+        {
+            "nombre": "getNextSibling",
+            "description": ""
+        },
+        {
+            "nombre": "getParent",
+            "description": ""
+        },
+        {
+            "nombre": "getPath",
+            "description": ""
+        },
+        {
+            "nombre": "getPathToRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int depth",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeNode aNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreviousLeaf",
+            "description": ""
+        },
+        {
+            "nombre": "getPreviousNode",
+            "description": ""
+        },
+        {
+            "nombre": "getPreviousSibling",
+            "description": ""
+        },
+        {
+            "nombre": "getRoot",
+            "description": ""
+        },
+        {
+            "nombre": "getSharedAncestor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DefaultMutableTreeNode aNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSiblingCount",
+            "description": ""
+        },
+        {
+            "nombre": "getUserObject",
+            "description": ""
+        },
+        {
+            "nombre": "getUserObjectPath",
+            "description": ""
+        },
+        {
+            "nombre": "insert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MutableTreeNode newChild",
+                    "description": ""
+                },
+                {
+                    "nombre": "int childIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLeaf",
+            "description": ""
+        },
+        {
+            "nombre": "isNodeAncestor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode anotherNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNodeChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode aNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNodeDescendant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DefaultMutableTreeNode anotherNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNodeRelated",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DefaultMutableTreeNode aNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNodeSibling",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode anotherNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRoot",
+            "description": ""
+        },
+        {
+            "nombre": "pathFromAncestorEnumeration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeNode ancestor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "postorderEnumeration",
+            "description": ""
+        },
+        {
+            "nombre": "preorderEnumeration",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int childIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "MutableTreeNode aChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAllChildren",
+            "description": ""
+        },
+        {
+            "nombre": "removeFromParent",
+            "description": ""
+        },
+        {
+            "nombre": "setAllowsChildren",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean allows",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MutableTreeNode newParent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUserObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object userObject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "allowsChildren",
+            "description": ""
+        },
+        {
+            "nombre": "children",
+            "description": ""
+        },
+        {
+            "nombre": "EMPTY_ENUMERATION",
+            "description": ""
+        },
+        {
+            "nombre": "parent",
+            "description": ""
+        },
+        {
+            "nombre": "userObject",
+            "description": ""
+        }
+    ]
+}

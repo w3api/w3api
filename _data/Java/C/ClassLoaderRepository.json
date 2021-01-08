@@ -1,0 +1,45 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "loadClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadClassBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader stop",
+                    "description": ""
+                },
+                {
+                    "nombre": "String className",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadClassWithout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader exclude",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

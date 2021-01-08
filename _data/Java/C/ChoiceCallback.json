@@ -1,0 +1,71 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ChoiceCallback",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String[] choices",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prompt",
+                    "description": ""
+                },
+                {
+                    "nombre": "int defaultChoice",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean multipleSelectionsAllowed",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "allowMultipleSelections",
+            "description": ""
+        },
+        {
+            "nombre": "getChoices",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultChoice",
+            "description": ""
+        },
+        {
+            "nombre": "getPrompt",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedIndexes",
+            "description": ""
+        },
+        {
+            "nombre": "setSelectedIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int selection",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedIndexes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] selections",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,431 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RelationService",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean immediatePurgeFlag",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addRelation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName relationObjectName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addRelationType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RelationType relationTypeObj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkRoleReading",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationTypeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String roleName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkRoleWriting",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Role role",
+                    "description": ""
+                },
+                {
+                    "nombre": "Boolean initFlag",
+                    "description": ""
+                },
+                {
+                    "nombre": "String relationTypeName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createRelation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                },
+                {
+                    "nombre": "RoleList roleList",
+                    "description": ""
+                },
+                {
+                    "nombre": "String relationTypeName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createRelationType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RoleInfo[] roleInfoArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "String relationTypeName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findAssociatedMBeans",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName mbeanName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String relationTypeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String roleName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findReferencingRelations",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName mbeanName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String relationTypeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String roleName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findRelationsOfType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationTypeName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllRelationIds",
+            "description": ""
+        },
+        {
+            "nombre": "getAllRelationTypeNames",
+            "description": ""
+        },
+        {
+            "nombre": "getAllRoles",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNotificationInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getPurgeFlag",
+            "description": ""
+        },
+        {
+            "nombre": "getReferencedMBeans",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRelationTypeName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRole",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String roleName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRoleCardinality",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String roleName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRoleInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String roleInfoName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String relationTypeName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRoleInfos",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationTypeName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRoles",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] roleNameArray",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object handback",
+                    "description": ""
+                },
+                {
+                    "nombre": "Notification notif",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasRelation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isActive",
+            "description": ""
+        },
+        {
+            "nombre": "isRelation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName objectName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRelationMBean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "purgeRelations",
+            "description": ""
+        },
+        {
+            "nombre": "removeRelation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeRelationType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationTypeName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendRelationCreationNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendRelationRemovalNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ObjectName> unregMBeanList",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendRoleUpdateNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ObjectName> oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Role newRole",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPurgeFlag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean purgeFlag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRole",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                },
+                {
+                    "nombre": "Role role",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRoles",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                },
+                {
+                    "nombre": "RoleList roleList",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateRoleMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String relationId",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ObjectName> oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Role newRole",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

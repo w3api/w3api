@@ -1,0 +1,129 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PriorityBlockingQueue",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? extends E> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int initialCapacity",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super E> comparator",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clear",
+            "description": ""
+        },
+        {
+            "nombre": "comparator",
+            "description": ""
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drainTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? super E> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxElements",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "iterator",
+            "description": ""
+        },
+        {
+            "nombre": "offer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remainingCapacity",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "spliterator",
+            "description": ""
+        },
+        {
+            "nombre": "toArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T[] a",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

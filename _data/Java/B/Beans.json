@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Beans",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getInstanceOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object bean",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> targetType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "instantiate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String beanName",
+                    "description": ""
+                },
+                {
+                    "nombre": "BeanContext beanContext",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader cls",
+                    "description": ""
+                },
+                {
+                    "nombre": "AppletInitializer initializer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDesignTime",
+            "description": ""
+        },
+        {
+            "nombre": "isGuiAvailable",
+            "description": ""
+        },
+        {
+            "nombre": "isInstanceOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object bean",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> targetType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDesignTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isDesignTime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGuiAvailable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isGuiAvailable",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

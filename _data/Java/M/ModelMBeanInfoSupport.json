@@ -1,0 +1,71 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ModelMBeanInfoSupport",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ModelMBeanAttributeInfo[] attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Descriptor mbeandescriptor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModelMBeanNotificationInfo[] notifications",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModelMBeanInfo mbi",
+                    "description": ""
+                },
+                {
+                    "nombre": "String description",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModelMBeanConstructorInfo[] constructors",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModelMBeanOperationInfo[] operations",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "getConstructor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String inName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDescriptor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String inDescriptorName",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

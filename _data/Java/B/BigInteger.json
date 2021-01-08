@@ -1,0 +1,455 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BigInteger",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                },
+                {
+                    "nombre": "int certainty",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] magnitude",
+                    "description": ""
+                },
+                {
+                    "nombre": "int signum",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bitLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "Random rnd",
+                    "description": ""
+                },
+                {
+                    "nombre": "String val",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numBits",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "abs",
+            "description": ""
+        },
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "and",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "andNot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bitCount",
+            "description": ""
+        },
+        {
+            "nombre": "bitLength",
+            "description": ""
+        },
+        {
+            "nombre": "byteValueExact",
+            "description": ""
+        },
+        {
+            "nombre": "clearBit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "divide",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "divideAndRemainder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doubleValue",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flipBit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "floatValue",
+            "description": ""
+        },
+        {
+            "nombre": "gcd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLowestSetBit",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "intValue",
+            "description": ""
+        },
+        {
+            "nombre": "intValueExact",
+            "description": ""
+        },
+        {
+            "nombre": "isProbablePrime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int certainty",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "longValue",
+            "description": ""
+        },
+        {
+            "nombre": "longValueExact",
+            "description": ""
+        },
+        {
+            "nombre": "max",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "min",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger m",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modInverse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger m",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modPow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger m",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger exponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "multiply",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "negate",
+            "description": ""
+        },
+        {
+            "nombre": "nextProbablePrime",
+            "description": ""
+        },
+        {
+            "nombre": "not",
+            "description": ""
+        },
+        {
+            "nombre": "or",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int exponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "probablePrime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bitLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "Random rnd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remainder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shiftLeft",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shiftRight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shortValueExact",
+            "description": ""
+        },
+        {
+            "nombre": "signum",
+            "description": ""
+        },
+        {
+            "nombre": "sqrt",
+            "description": ""
+        },
+        {
+            "nombre": "sqrtAndRemainder",
+            "description": ""
+        },
+        {
+            "nombre": "subtract",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "testBit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toByteArray",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "valueOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "xor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger val",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ONE",
+            "description": ""
+        },
+        {
+            "nombre": "TEN",
+            "description": ""
+        },
+        {
+            "nombre": "TWO",
+            "description": ""
+        },
+        {
+            "nombre": "ZERO",
+            "description": ""
+        }
+    ]
+}

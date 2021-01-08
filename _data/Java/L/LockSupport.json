@@ -1,0 +1,65 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getBlocker",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Thread t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "park",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object blocker",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parkNanos",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object blocker",
+                    "description": ""
+                },
+                {
+                    "nombre": "long nanos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parkUntil",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object blocker",
+                    "description": ""
+                },
+                {
+                    "nombre": "long deadline",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unpark",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Thread thread",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

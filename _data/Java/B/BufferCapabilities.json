@@ -1,0 +1,55 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BufferCapabilities",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ImageCapabilities backCaps",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferCapabilities.FlipContents flipContents",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageCapabilities frontCaps",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "getBackBufferCapabilities",
+            "description": ""
+        },
+        {
+            "nombre": "getFlipContents",
+            "description": ""
+        },
+        {
+            "nombre": "getFrontBufferCapabilities",
+            "description": ""
+        },
+        {
+            "nombre": "isFullScreenRequired",
+            "description": ""
+        },
+        {
+            "nombre": "isMultiBufferAvailable",
+            "description": ""
+        },
+        {
+            "nombre": "isPageFlipping",
+            "description": ""
+        }
+    ]
+}

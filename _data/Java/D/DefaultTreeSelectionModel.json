@@ -1,0 +1,339 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DefaultTreeSelectionModel",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addSelectionPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addSelectionPaths",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath[] paths",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addTreeSelectionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeSelectionListener x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "arePathsContiguous",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath[] paths",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canPathsBeAdded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath[] paths",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canPathsBeRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath[] paths",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clearSelection",
+            "description": ""
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "fireValueChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeSelectionEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLeadSelectionPath",
+            "description": ""
+        },
+        {
+            "nombre": "getLeadSelectionRow",
+            "description": ""
+        },
+        {
+            "nombre": "getListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> listenerType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaxSelectionRow",
+            "description": ""
+        },
+        {
+            "nombre": "getMinSelectionRow",
+            "description": ""
+        },
+        {
+            "nombre": "getPropertyChangeListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getRowMapper",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionCount",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionMode",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionPath",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionPaths",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionRows",
+            "description": ""
+        },
+        {
+            "nombre": "getTreeSelectionListeners",
+            "description": ""
+        },
+        {
+            "nombre": "insureRowContinuity",
+            "description": ""
+        },
+        {
+            "nombre": "insureUniqueness",
+            "description": ""
+        },
+        {
+            "nombre": "isPathSelected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRowSelected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSelectionEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "notifyPathChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Vector<?> changedPaths",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath oldLeadSelection",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removePropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeSelectionPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeSelectionPaths",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath[] paths",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeTreeSelectionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeSelectionListener x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resetRowSelection",
+            "description": ""
+        },
+        {
+            "nombre": "setRowMapper",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RowMapper newMapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionPaths",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath[] pPaths",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "updateLeadIndex",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "changeSupport",
+            "description": ""
+        },
+        {
+            "nombre": "leadIndex",
+            "description": ""
+        },
+        {
+            "nombre": "leadPath",
+            "description": ""
+        },
+        {
+            "nombre": "leadRow",
+            "description": ""
+        },
+        {
+            "nombre": "listenerList",
+            "description": ""
+        },
+        {
+            "nombre": "listSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "rowMapper",
+            "description": ""
+        },
+        {
+            "nombre": "selection",
+            "description": ""
+        },
+        {
+            "nombre": "SELECTION_MODE_PROPERTY",
+            "description": ""
+        },
+        {
+            "nombre": "selectionMode",
+            "description": ""
+        }
+    ]
+}

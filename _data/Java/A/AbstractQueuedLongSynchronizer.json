@@ -1,0 +1,259 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractQueuedLongSynchronizer",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "acquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "acquireInterruptibly",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "acquireShared",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "acquireSharedInterruptibly",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareAndSetState",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long update",
+                    "description": ""
+                },
+                {
+                    "nombre": "long expect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getExclusiveQueuedThreads",
+            "description": ""
+        },
+        {
+            "nombre": "getFirstQueuedThread",
+            "description": ""
+        },
+        {
+            "nombre": "getQueuedThreads",
+            "description": ""
+        },
+        {
+            "nombre": "getQueueLength",
+            "description": ""
+        },
+        {
+            "nombre": "getSharedQueuedThreads",
+            "description": ""
+        },
+        {
+            "nombre": "getState",
+            "description": ""
+        },
+        {
+            "nombre": "getWaitingThreads",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractQueuedLongSynchronizer.ConditionObject condition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWaitQueueLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractQueuedLongSynchronizer.ConditionObject condition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasContended",
+            "description": ""
+        },
+        {
+            "nombre": "hasQueuedPredecessors",
+            "description": ""
+        },
+        {
+            "nombre": "hasQueuedThreads",
+            "description": ""
+        },
+        {
+            "nombre": "hasWaiters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractQueuedLongSynchronizer.ConditionObject condition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isHeldExclusively",
+            "description": ""
+        },
+        {
+            "nombre": "isQueued",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Thread thread",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "owns",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AbstractQueuedLongSynchronizer.ConditionObject condition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "release",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "releaseShared",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setState",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long newState",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "tryAcquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryAcquireNanos",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long nanosTimeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryAcquireShared",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryAcquireSharedNanos",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long nanosTimeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryRelease",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryReleaseShared",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long arg",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

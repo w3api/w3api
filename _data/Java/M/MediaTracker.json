@@ -1,0 +1,181 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MediaTracker",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Image image",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean load",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkID",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean load",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getErrorsAny",
+            "description": ""
+        },
+        {
+            "nombre": "getErrorsID",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isErrorAny",
+            "description": ""
+        },
+        {
+            "nombre": "isErrorID",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Image image",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "statusAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean load",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "statusID",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean load",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "waitForAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long ms",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "waitForID",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "long ms",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ABORTED",
+            "description": ""
+        },
+        {
+            "nombre": "COMPLETE",
+            "description": ""
+        },
+        {
+            "nombre": "ERRORED",
+            "description": ""
+        },
+        {
+            "nombre": "LOADING",
+            "description": ""
+        }
+    ]
+}

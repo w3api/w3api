@@ -1,0 +1,117 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ColorConvertOp",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "RenderingHints hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "ICC_Profile[] profiles",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace srcCspace",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace cspace",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace dstCspace",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createCompatibleDestImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorModel destCM",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCompatibleDestRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WritableRaster dest",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage dest",
+                    "description": ""
+                },
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster src",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getICC_Profiles",
+            "description": ""
+        },
+        {
+            "nombre": "getPoint2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D srcPt",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D dstPt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRenderingHints",
+            "description": ""
+        }
+    ]
+}

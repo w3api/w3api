@@ -1,0 +1,277 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Rectangle2D",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double newx",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double newy",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createIntersection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createUnion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds2D",
+            "description": ""
+        },
+        {
+            "nombre": "getPathIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform at",
+                    "description": ""
+                },
+                {
+                    "nombre": "double flatness",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "intersect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D src2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle2D src1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle2D dest",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intersects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intersectsLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Line2D l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "outcode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D p",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFrame",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "union",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D src2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle2D src1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle2D dest",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "OUT_BOTTOM",
+            "description": ""
+        },
+        {
+            "nombre": "OUT_LEFT",
+            "description": ""
+        },
+        {
+            "nombre": "OUT_RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "OUT_TOP",
+            "description": ""
+        }
+    ]
+}

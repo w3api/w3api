@@ -1,0 +1,181 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RequiredModelMBean",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ModelMBeanInfo mbi",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addNotificationListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object handback",
+                    "description": ""
+                },
+                {
+                    "nombre": "NotificationFilter filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "NotificationListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String attrName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] attrNames",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClassLoaderRepository",
+            "description": ""
+        },
+        {
+            "nombre": "getMBeanInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getNotificationInfo",
+            "description": ""
+        },
+        {
+            "nombre": "invoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] sig",
+                    "description": ""
+                },
+                {
+                    "nombre": "String opName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] opArgs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load",
+            "description": ""
+        },
+        {
+            "nombre": "postDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "postRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Boolean registrationDone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "preRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServer server",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeNotificationListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NotificationListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Attribute attribute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeList attributes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setManagedResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object mr",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mr_type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModelMBeanInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ModelMBeanInfo mbi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "store",
+            "description": ""
+        }
+    ]
+}

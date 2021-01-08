@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MutableCallSite",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getTarget",
+            "description": ""
+        },
+        {
+            "nombre": "setTarget",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle newTarget",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "syncAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MutableCallSite[] sites",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

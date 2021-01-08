@@ -1,0 +1,349 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Arc2D",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "containsAngle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double angle",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAngleExtent",
+            "description": ""
+        },
+        {
+            "nombre": "getAngleStart",
+            "description": ""
+        },
+        {
+            "nombre": "getArcType",
+            "description": ""
+        },
+        {
+            "nombre": "getBounds2D",
+            "description": ""
+        },
+        {
+            "nombre": "getEndPoint",
+            "description": ""
+        },
+        {
+            "nombre": "getPathIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform at",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStartPoint",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "intersects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "makeBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAngleExtent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double angExt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAngles",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAngleStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double angSt",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setArc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D loc",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double angSt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int closure",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dimension2D size",
+                    "description": ""
+                },
+                {
+                    "nombre": "Arc2D a",
+                    "description": ""
+                },
+                {
+                    "nombre": "double angExt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle2D rect",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setArcByCenter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double radius",
+                    "description": ""
+                },
+                {
+                    "nombre": "double angSt",
+                    "description": ""
+                },
+                {
+                    "nombre": "int closure",
+                    "description": ""
+                },
+                {
+                    "nombre": "double angExt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setArcByTangent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D p2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p3",
+                    "description": ""
+                },
+                {
+                    "nombre": "double radius",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setArcType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFrame",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CHORD",
+            "description": ""
+        },
+        {
+            "nombre": "OPEN",
+            "description": ""
+        },
+        {
+            "nombre": "PIE",
+            "description": ""
+        }
+    ]
+}

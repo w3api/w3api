@@ -1,0 +1,85 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AdjustmentEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isAdjusting",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "Adjustable source",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAdjustable",
+            "description": ""
+        },
+        {
+            "nombre": "getAdjustmentType",
+            "description": ""
+        },
+        {
+            "nombre": "getValue",
+            "description": ""
+        },
+        {
+            "nombre": "getValueIsAdjusting",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ADJUSTMENT_FIRST",
+            "description": ""
+        },
+        {
+            "nombre": "ADJUSTMENT_LAST",
+            "description": ""
+        },
+        {
+            "nombre": "ADJUSTMENT_VALUE_CHANGED",
+            "description": ""
+        },
+        {
+            "nombre": "BLOCK_DECREMENT",
+            "description": ""
+        },
+        {
+            "nombre": "BLOCK_INCREMENT",
+            "description": ""
+        },
+        {
+            "nombre": "TRACK",
+            "description": ""
+        },
+        {
+            "nombre": "UNIT_DECREMENT",
+            "description": ""
+        },
+        {
+            "nombre": "UNIT_INCREMENT",
+            "description": ""
+        }
+    ]
+}

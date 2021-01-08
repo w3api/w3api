@@ -1,0 +1,341 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Provider",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String versionStr",
+                    "description": ""
+                },
+                {
+                    "nombre": "String info",
+                    "description": ""
+                },
+                {
+                    "nombre": "double version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clear",
+            "description": ""
+        },
+        {
+            "nombre": "compute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super Object",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends Object> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super Object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeIfAbsent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends Object> mappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super Object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeIfPresent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super Object",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends Object> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super Object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "configure",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String configArg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "entrySet",
+            "description": ""
+        },
+        {
+            "nombre": "forEach",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BiConsumer<? super Object",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super Object> action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getOrDefault",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object defaultValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getServices",
+            "description": ""
+        },
+        {
+            "nombre": "getVersion",
+            "description": ""
+        },
+        {
+            "nombre": "getVersionStr",
+            "description": ""
+        },
+        {
+            "nombre": "isConfigured",
+            "description": ""
+        },
+        {
+            "nombre": "keySet",
+            "description": ""
+        },
+        {
+            "nombre": "load",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "merge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super Object",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super Object",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends Object> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "?> t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<?",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putIfAbsent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Provider.Service s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Provider.Service s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super Object",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends Object> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super Object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "values",
+            "description": ""
+        }
+    ]
+}

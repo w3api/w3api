@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "IIOImage",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Raster raster",
+                    "description": ""
+                },
+                {
+                    "nombre": "IIOMetadata metadata",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderedImage image",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends BufferedImage> thumbnails",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getMetadata",
+            "description": ""
+        },
+        {
+            "nombre": "getNumThumbnails",
+            "description": ""
+        },
+        {
+            "nombre": "getRaster",
+            "description": ""
+        },
+        {
+            "nombre": "getRenderedImage",
+            "description": ""
+        },
+        {
+            "nombre": "getThumbnail",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getThumbnails",
+            "description": ""
+        },
+        {
+            "nombre": "hasRaster",
+            "description": ""
+        },
+        {
+            "nombre": "setMetadata",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOMetadata metadata",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRaster",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Raster raster",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRenderedImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RenderedImage image",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setThumbnails",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends BufferedImage> thumbnails",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "image",
+            "description": ""
+        },
+        {
+            "nombre": "metadata",
+            "description": ""
+        },
+        {
+            "nombre": "raster",
+            "description": ""
+        },
+        {
+            "nombre": "thumbnails",
+            "description": ""
+        }
+    ]
+}

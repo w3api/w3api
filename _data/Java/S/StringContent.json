@@ -1,0 +1,121 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StringContent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int initialLength",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChars",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int where",
+                    "description": ""
+                },
+                {
+                    "nombre": "Segment chars",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPositionsInRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Vector v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int where",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int where",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "length",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int where",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nitems",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUndoPositions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Vector positions",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

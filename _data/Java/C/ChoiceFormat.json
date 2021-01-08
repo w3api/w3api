@@ -1,0 +1,141 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ChoiceFormat",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "double[] limits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] formats",
+                    "description": ""
+                },
+                {
+                    "nombre": "String newPattern",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "applyPattern",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String newPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringBuffer toAppendTo",
+                    "description": ""
+                },
+                {
+                    "nombre": "long number",
+                    "description": ""
+                },
+                {
+                    "nombre": "FieldPosition status",
+                    "description": ""
+                },
+                {
+                    "nombre": "double number",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFormats",
+            "description": ""
+        },
+        {
+            "nombre": "getLimits",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "nextDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean positive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "ParsePosition status",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "previousDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double d",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setChoices",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double[] limits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] formats",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toPattern",
+            "description": ""
+        }
+    ]
+}

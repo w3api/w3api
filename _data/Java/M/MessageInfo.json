@@ -1,0 +1,101 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MessageInfo",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "address",
+            "description": ""
+        },
+        {
+            "nombre": "association",
+            "description": ""
+        },
+        {
+            "nombre": "bytes",
+            "description": ""
+        },
+        {
+            "nombre": "complete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean complete",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createOutgoing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Association association",
+                    "description": ""
+                },
+                {
+                    "nombre": "int streamNumber",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketAddress address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isComplete",
+            "description": ""
+        },
+        {
+            "nombre": "isUnordered",
+            "description": ""
+        },
+        {
+            "nombre": "payloadProtocolID",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ppid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "streamNumber",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int streamNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "timeToLive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long millis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unordered",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean unordered",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

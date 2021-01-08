@@ -1,0 +1,243 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GregorianCalendar",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Locale aLocale",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeZone zone",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dayOfMonth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hourOfDay",
+                    "description": ""
+                },
+                {
+                    "nombre": "int second",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int amount",
+                    "description": ""
+                },
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeFields",
+            "description": ""
+        },
+        {
+            "nombre": "computeTime",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZonedDateTime zdt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getActualMaximum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getActualMinimum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCalendarType",
+            "description": ""
+        },
+        {
+            "nombre": "getGreatestMinimum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGregorianChange",
+            "description": ""
+        },
+        {
+            "nombre": "getLeastMaximum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWeeksInWeekYear",
+            "description": ""
+        },
+        {
+            "nombre": "getWeekYear",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isLeapYear",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int year",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isWeekDateSupported",
+            "description": ""
+        },
+        {
+            "nombre": "roll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int amount",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean up",
+                    "description": ""
+                },
+                {
+                    "nombre": "int field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGregorianChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWeekDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int weekOfYear",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dayOfWeek",
+                    "description": ""
+                },
+                {
+                    "nombre": "int weekYear",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toZonedDateTime",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "AD",
+            "description": ""
+        },
+        {
+            "nombre": "BC",
+            "description": ""
+        }
+    ]
+}

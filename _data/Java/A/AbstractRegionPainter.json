@@ -1,0 +1,235 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractRegionPainter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "configureGraphics",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics2D g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decodeAnchorX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float dx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decodeAnchorY",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "float dy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decodeColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int aOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "float bOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color color2",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                },
+                {
+                    "nombre": "float sOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color color1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float midPoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "float hOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decodeGradient",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] midpoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color[] colors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decodeRadialGradient",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "float r",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] midpoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color[] colors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decodeX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decodeY",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doPaint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics2D g",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] extendedCacheKeys",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComponentColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float saturationOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "float brightnessOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color defaultColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                },
+                {
+                    "nombre": "int alphaOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getExtendedCacheKeys",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPaintContext",
+            "description": ""
+        }
+    ]
+}

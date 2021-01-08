@@ -1,0 +1,211 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "imageUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage theImage",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "passComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage theImage",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "passStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxPass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minPass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodX",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage theImage",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thumbnailPassComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BufferedImage theThumbnail",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thumbnailPassStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxPass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minPass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodX",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage theThumbnail",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thumbnailUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReader source",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage theThumbnail",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodY",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

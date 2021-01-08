@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JMXConnectionNotification",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String connectionId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "long sequenceNumber",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object userData",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getConnectionId",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CLOSED",
+            "description": ""
+        },
+        {
+            "nombre": "FAILED",
+            "description": ""
+        },
+        {
+            "nombre": "NOTIFS_LOST",
+            "description": ""
+        },
+        {
+            "nombre": "OPENED",
+            "description": ""
+        }
+    ]
+}

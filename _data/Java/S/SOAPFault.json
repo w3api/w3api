@@ -1,0 +1,163 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addDetail",
+            "description": ""
+        },
+        {
+            "nombre": "addFaultReasonText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendFaultSubcode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName subcode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDetail",
+            "description": ""
+        },
+        {
+            "nombre": "getFaultActor",
+            "description": ""
+        },
+        {
+            "nombre": "getFaultCode",
+            "description": ""
+        },
+        {
+            "nombre": "getFaultCodeAsName",
+            "description": ""
+        },
+        {
+            "nombre": "getFaultCodeAsQName",
+            "description": ""
+        },
+        {
+            "nombre": "getFaultNode",
+            "description": ""
+        },
+        {
+            "nombre": "getFaultReasonLocales",
+            "description": ""
+        },
+        {
+            "nombre": "getFaultReasonText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFaultReasonTexts",
+            "description": ""
+        },
+        {
+            "nombre": "getFaultRole",
+            "description": ""
+        },
+        {
+            "nombre": "getFaultString",
+            "description": ""
+        },
+        {
+            "nombre": "getFaultStringLocale",
+            "description": ""
+        },
+        {
+            "nombre": "getFaultSubcodes",
+            "description": ""
+        },
+        {
+            "nombre": "hasDetail",
+            "description": ""
+        },
+        {
+            "nombre": "removeAllFaultSubcodes",
+            "description": ""
+        },
+        {
+            "nombre": "setFaultActor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String faultActor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFaultCode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName faultCodeQName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name faultCodeQName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String faultCode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFaultNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFaultRole",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFaultString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String faultString",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

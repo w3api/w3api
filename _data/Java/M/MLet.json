@@ -1,0 +1,185 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MLet",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "URLStreamHandlerFactory factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL[] urls",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean delegateToCLR",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addURL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "String url",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "check",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL codebase",
+                    "description": ""
+                },
+                {
+                    "nombre": "MLetContent mlet",
+                    "description": ""
+                },
+                {
+                    "nombre": "String jarfile",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findLibrary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String libname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLibraryDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "getMBeansFromURL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "String url",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getURLs",
+            "description": ""
+        },
+        {
+            "nombre": "loadClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoaderRepository clr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "postDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "postRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Boolean registrationDone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "preRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServer server",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readExternal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectInput in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLibraryDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String libdir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeExternal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectOutput out",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

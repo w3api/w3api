@@ -1,0 +1,1395 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "allProceduresAreCallable",
+            "description": ""
+        },
+        {
+            "nombre": "allTablesAreSelectable",
+            "description": ""
+        },
+        {
+            "nombre": "autoCommitFailureClosesAllResultSets",
+            "description": ""
+        },
+        {
+            "nombre": "dataDefinitionCausesTransactionCommit",
+            "description": ""
+        },
+        {
+            "nombre": "dataDefinitionIgnoredInTransactions",
+            "description": ""
+        },
+        {
+            "nombre": "deletesAreDetected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doesMaxRowSizeIncludeBlobs",
+            "description": ""
+        },
+        {
+            "nombre": "generatedKeyAlwaysReturned",
+            "description": ""
+        },
+        {
+            "nombre": "getAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String typeNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String attributeNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBestRowIdentifier",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean nullable",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schema",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                },
+                {
+                    "nombre": "String table",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCatalogs",
+            "description": ""
+        },
+        {
+            "nombre": "getCatalogSeparator",
+            "description": ""
+        },
+        {
+            "nombre": "getCatalogTerm",
+            "description": ""
+        },
+        {
+            "nombre": "getClientInfoProperties",
+            "description": ""
+        },
+        {
+            "nombre": "getColumnPrivileges",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String table",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schema",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnNamePattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColumns",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String tableNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnNamePattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConnection",
+            "description": ""
+        },
+        {
+            "nombre": "getCrossReference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String parentSchema",
+                    "description": ""
+                },
+                {
+                    "nombre": "String foreignCatalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String foreignTable",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parentCatalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String parentTable",
+                    "description": ""
+                },
+                {
+                    "nombre": "String foreignSchema",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDatabaseMajorVersion",
+            "description": ""
+        },
+        {
+            "nombre": "getDatabaseMinorVersion",
+            "description": ""
+        },
+        {
+            "nombre": "getDatabaseProductName",
+            "description": ""
+        },
+        {
+            "nombre": "getDatabaseProductVersion",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultTransactionIsolation",
+            "description": ""
+        },
+        {
+            "nombre": "getDriverMajorVersion",
+            "description": ""
+        },
+        {
+            "nombre": "getDriverMinorVersion",
+            "description": ""
+        },
+        {
+            "nombre": "getDriverName",
+            "description": ""
+        },
+        {
+            "nombre": "getDriverVersion",
+            "description": ""
+        },
+        {
+            "nombre": "getExportedKeys",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String table",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schema",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getExtraNameCharacters",
+            "description": ""
+        },
+        {
+            "nombre": "getFunctionColumns",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String functionNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnNamePattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFunctions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String functionNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIdentifierQuoteString",
+            "description": ""
+        },
+        {
+            "nombre": "getImportedKeys",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String table",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schema",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIndexInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String schema",
+                    "description": ""
+                },
+                {
+                    "nombre": "String table",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean unique",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean approximate",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getJDBCMajorVersion",
+            "description": ""
+        },
+        {
+            "nombre": "getJDBCMinorVersion",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxBinaryLiteralLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxCatalogNameLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxCharLiteralLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxColumnNameLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxColumnsInGroupBy",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxColumnsInIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxColumnsInOrderBy",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxColumnsInSelect",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxColumnsInTable",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxConnections",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxCursorNameLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxIndexLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxLogicalLobSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxProcedureNameLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxRowSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxSchemaNameLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxStatementLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxStatements",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxTableNameLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxTablesInSelect",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxUserNameLength",
+            "description": ""
+        },
+        {
+            "nombre": "getNumericFunctions",
+            "description": ""
+        },
+        {
+            "nombre": "getPrimaryKeys",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String table",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schema",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProcedureColumns",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String procedureNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnNamePattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProcedures",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String procedureNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProcedureTerm",
+            "description": ""
+        },
+        {
+            "nombre": "getPseudoColumns",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String tableNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnNamePattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResultSetHoldability",
+            "description": ""
+        },
+        {
+            "nombre": "getRowIdLifetime",
+            "description": ""
+        },
+        {
+            "nombre": "getSchemas",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSchemaTerm",
+            "description": ""
+        },
+        {
+            "nombre": "getSearchStringEscape",
+            "description": ""
+        },
+        {
+            "nombre": "getSQLKeywords",
+            "description": ""
+        },
+        {
+            "nombre": "getSQLStateType",
+            "description": ""
+        },
+        {
+            "nombre": "getStringFunctions",
+            "description": ""
+        },
+        {
+            "nombre": "getSuperTables",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String tableNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSuperTypes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String typeNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSystemFunctions",
+            "description": ""
+        },
+        {
+            "nombre": "getTablePrivileges",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String tableNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTables",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] types",
+                    "description": ""
+                },
+                {
+                    "nombre": "String tableNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTableTypes",
+            "description": ""
+        },
+        {
+            "nombre": "getTimeDateFunctions",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getUDTs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String typeNamePattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] types",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schemaPattern",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getURL",
+            "description": ""
+        },
+        {
+            "nombre": "getUserName",
+            "description": ""
+        },
+        {
+            "nombre": "getVersionColumns",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String table",
+                    "description": ""
+                },
+                {
+                    "nombre": "String schema",
+                    "description": ""
+                },
+                {
+                    "nombre": "String catalog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertsAreDetected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isCatalogAtStart",
+            "description": ""
+        },
+        {
+            "nombre": "isReadOnly",
+            "description": ""
+        },
+        {
+            "nombre": "locatorsUpdateCopy",
+            "description": ""
+        },
+        {
+            "nombre": "nullPlusNonNullIsNull",
+            "description": ""
+        },
+        {
+            "nombre": "nullsAreSortedAtEnd",
+            "description": ""
+        },
+        {
+            "nombre": "nullsAreSortedAtStart",
+            "description": ""
+        },
+        {
+            "nombre": "nullsAreSortedHigh",
+            "description": ""
+        },
+        {
+            "nombre": "nullsAreSortedLow",
+            "description": ""
+        },
+        {
+            "nombre": "othersDeletesAreVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "othersInsertsAreVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "othersUpdatesAreVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ownDeletesAreVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ownInsertsAreVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ownUpdatesAreVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "storesLowerCaseIdentifiers",
+            "description": ""
+        },
+        {
+            "nombre": "storesLowerCaseQuotedIdentifiers",
+            "description": ""
+        },
+        {
+            "nombre": "storesMixedCaseIdentifiers",
+            "description": ""
+        },
+        {
+            "nombre": "storesMixedCaseQuotedIdentifiers",
+            "description": ""
+        },
+        {
+            "nombre": "storesUpperCaseIdentifiers",
+            "description": ""
+        },
+        {
+            "nombre": "storesUpperCaseQuotedIdentifiers",
+            "description": ""
+        },
+        {
+            "nombre": "supportsAlterTableWithAddColumn",
+            "description": ""
+        },
+        {
+            "nombre": "supportsAlterTableWithDropColumn",
+            "description": ""
+        },
+        {
+            "nombre": "supportsANSI92EntryLevelSQL",
+            "description": ""
+        },
+        {
+            "nombre": "supportsANSI92FullSQL",
+            "description": ""
+        },
+        {
+            "nombre": "supportsANSI92IntermediateSQL",
+            "description": ""
+        },
+        {
+            "nombre": "supportsBatchUpdates",
+            "description": ""
+        },
+        {
+            "nombre": "supportsCatalogsInDataManipulation",
+            "description": ""
+        },
+        {
+            "nombre": "supportsCatalogsInIndexDefinitions",
+            "description": ""
+        },
+        {
+            "nombre": "supportsCatalogsInPrivilegeDefinitions",
+            "description": ""
+        },
+        {
+            "nombre": "supportsCatalogsInProcedureCalls",
+            "description": ""
+        },
+        {
+            "nombre": "supportsCatalogsInTableDefinitions",
+            "description": ""
+        },
+        {
+            "nombre": "supportsColumnAliasing",
+            "description": ""
+        },
+        {
+            "nombre": "supportsConvert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int fromType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportsCoreSQLGrammar",
+            "description": ""
+        },
+        {
+            "nombre": "supportsCorrelatedSubqueries",
+            "description": ""
+        },
+        {
+            "nombre": "supportsDataDefinitionAndDataManipulationTransactions",
+            "description": ""
+        },
+        {
+            "nombre": "supportsDataManipulationTransactionsOnly",
+            "description": ""
+        },
+        {
+            "nombre": "supportsDifferentTableCorrelationNames",
+            "description": ""
+        },
+        {
+            "nombre": "supportsExpressionsInOrderBy",
+            "description": ""
+        },
+        {
+            "nombre": "supportsExtendedSQLGrammar",
+            "description": ""
+        },
+        {
+            "nombre": "supportsFullOuterJoins",
+            "description": ""
+        },
+        {
+            "nombre": "supportsGetGeneratedKeys",
+            "description": ""
+        },
+        {
+            "nombre": "supportsGroupBy",
+            "description": ""
+        },
+        {
+            "nombre": "supportsGroupByBeyondSelect",
+            "description": ""
+        },
+        {
+            "nombre": "supportsGroupByUnrelated",
+            "description": ""
+        },
+        {
+            "nombre": "supportsIntegrityEnhancementFacility",
+            "description": ""
+        },
+        {
+            "nombre": "supportsLikeEscapeClause",
+            "description": ""
+        },
+        {
+            "nombre": "supportsLimitedOuterJoins",
+            "description": ""
+        },
+        {
+            "nombre": "supportsMinimumSQLGrammar",
+            "description": ""
+        },
+        {
+            "nombre": "supportsMixedCaseIdentifiers",
+            "description": ""
+        },
+        {
+            "nombre": "supportsMixedCaseQuotedIdentifiers",
+            "description": ""
+        },
+        {
+            "nombre": "supportsMultipleOpenResults",
+            "description": ""
+        },
+        {
+            "nombre": "supportsMultipleResultSets",
+            "description": ""
+        },
+        {
+            "nombre": "supportsMultipleTransactions",
+            "description": ""
+        },
+        {
+            "nombre": "supportsNamedParameters",
+            "description": ""
+        },
+        {
+            "nombre": "supportsNonNullableColumns",
+            "description": ""
+        },
+        {
+            "nombre": "supportsOpenCursorsAcrossCommit",
+            "description": ""
+        },
+        {
+            "nombre": "supportsOpenCursorsAcrossRollback",
+            "description": ""
+        },
+        {
+            "nombre": "supportsOpenStatementsAcrossCommit",
+            "description": ""
+        },
+        {
+            "nombre": "supportsOpenStatementsAcrossRollback",
+            "description": ""
+        },
+        {
+            "nombre": "supportsOrderByUnrelated",
+            "description": ""
+        },
+        {
+            "nombre": "supportsOuterJoins",
+            "description": ""
+        },
+        {
+            "nombre": "supportsPositionedDelete",
+            "description": ""
+        },
+        {
+            "nombre": "supportsPositionedUpdate",
+            "description": ""
+        },
+        {
+            "nombre": "supportsRefCursors",
+            "description": ""
+        },
+        {
+            "nombre": "supportsResultSetConcurrency",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "int concurrency",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportsResultSetHoldability",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int holdability",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportsResultSetType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportsSavepoints",
+            "description": ""
+        },
+        {
+            "nombre": "supportsSchemasInDataManipulation",
+            "description": ""
+        },
+        {
+            "nombre": "supportsSchemasInIndexDefinitions",
+            "description": ""
+        },
+        {
+            "nombre": "supportsSchemasInPrivilegeDefinitions",
+            "description": ""
+        },
+        {
+            "nombre": "supportsSchemasInProcedureCalls",
+            "description": ""
+        },
+        {
+            "nombre": "supportsSchemasInTableDefinitions",
+            "description": ""
+        },
+        {
+            "nombre": "supportsSelectForUpdate",
+            "description": ""
+        },
+        {
+            "nombre": "supportsSharding",
+            "description": ""
+        },
+        {
+            "nombre": "supportsStatementPooling",
+            "description": ""
+        },
+        {
+            "nombre": "supportsStoredFunctionsUsingCallSyntax",
+            "description": ""
+        },
+        {
+            "nombre": "supportsStoredProcedures",
+            "description": ""
+        },
+        {
+            "nombre": "supportsSubqueriesInComparisons",
+            "description": ""
+        },
+        {
+            "nombre": "supportsSubqueriesInExists",
+            "description": ""
+        },
+        {
+            "nombre": "supportsSubqueriesInIns",
+            "description": ""
+        },
+        {
+            "nombre": "supportsSubqueriesInQuantifieds",
+            "description": ""
+        },
+        {
+            "nombre": "supportsTableCorrelationNames",
+            "description": ""
+        },
+        {
+            "nombre": "supportsTransactionIsolationLevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportsTransactions",
+            "description": ""
+        },
+        {
+            "nombre": "supportsUnion",
+            "description": ""
+        },
+        {
+            "nombre": "supportsUnionAll",
+            "description": ""
+        },
+        {
+            "nombre": "updatesAreDetected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "usesLocalFilePerTable",
+            "description": ""
+        },
+        {
+            "nombre": "usesLocalFiles",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "attributeNoNulls",
+            "description": ""
+        },
+        {
+            "nombre": "attributeNullable",
+            "description": ""
+        },
+        {
+            "nombre": "attributeNullableUnknown",
+            "description": ""
+        },
+        {
+            "nombre": "bestRowNotPseudo",
+            "description": ""
+        },
+        {
+            "nombre": "bestRowPseudo",
+            "description": ""
+        },
+        {
+            "nombre": "bestRowSession",
+            "description": ""
+        },
+        {
+            "nombre": "bestRowTemporary",
+            "description": ""
+        },
+        {
+            "nombre": "bestRowTransaction",
+            "description": ""
+        },
+        {
+            "nombre": "bestRowUnknown",
+            "description": ""
+        },
+        {
+            "nombre": "columnNoNulls",
+            "description": ""
+        },
+        {
+            "nombre": "columnNullable",
+            "description": ""
+        },
+        {
+            "nombre": "columnNullableUnknown",
+            "description": ""
+        },
+        {
+            "nombre": "functionColumnIn",
+            "description": ""
+        },
+        {
+            "nombre": "functionColumnInOut",
+            "description": ""
+        },
+        {
+            "nombre": "functionColumnOut",
+            "description": ""
+        },
+        {
+            "nombre": "functionColumnResult",
+            "description": ""
+        },
+        {
+            "nombre": "functionColumnUnknown",
+            "description": ""
+        },
+        {
+            "nombre": "functionNoNulls",
+            "description": ""
+        },
+        {
+            "nombre": "functionNoTable",
+            "description": ""
+        },
+        {
+            "nombre": "functionNullable",
+            "description": ""
+        },
+        {
+            "nombre": "functionNullableUnknown",
+            "description": ""
+        },
+        {
+            "nombre": "functionResultUnknown",
+            "description": ""
+        },
+        {
+            "nombre": "functionReturn",
+            "description": ""
+        },
+        {
+            "nombre": "functionReturnsTable",
+            "description": ""
+        },
+        {
+            "nombre": "importedKeyCascade",
+            "description": ""
+        },
+        {
+            "nombre": "importedKeyInitiallyDeferred",
+            "description": ""
+        },
+        {
+            "nombre": "importedKeyInitiallyImmediate",
+            "description": ""
+        },
+        {
+            "nombre": "importedKeyNoAction",
+            "description": ""
+        },
+        {
+            "nombre": "importedKeyNotDeferrable",
+            "description": ""
+        },
+        {
+            "nombre": "importedKeyRestrict",
+            "description": ""
+        },
+        {
+            "nombre": "importedKeySetDefault",
+            "description": ""
+        },
+        {
+            "nombre": "importedKeySetNull",
+            "description": ""
+        },
+        {
+            "nombre": "procedureColumnIn",
+            "description": ""
+        },
+        {
+            "nombre": "procedureColumnInOut",
+            "description": ""
+        },
+        {
+            "nombre": "procedureColumnOut",
+            "description": ""
+        },
+        {
+            "nombre": "procedureColumnResult",
+            "description": ""
+        },
+        {
+            "nombre": "procedureColumnReturn",
+            "description": ""
+        },
+        {
+            "nombre": "procedureColumnUnknown",
+            "description": ""
+        },
+        {
+            "nombre": "procedureNoNulls",
+            "description": ""
+        },
+        {
+            "nombre": "procedureNoResult",
+            "description": ""
+        },
+        {
+            "nombre": "procedureNullable",
+            "description": ""
+        },
+        {
+            "nombre": "procedureNullableUnknown",
+            "description": ""
+        },
+        {
+            "nombre": "procedureResultUnknown",
+            "description": ""
+        },
+        {
+            "nombre": "procedureReturnsResult",
+            "description": ""
+        },
+        {
+            "nombre": "sqlStateSQL",
+            "description": ""
+        },
+        {
+            "nombre": "sqlStateSQL99",
+            "description": ""
+        },
+        {
+            "nombre": "sqlStateXOpen",
+            "description": ""
+        },
+        {
+            "nombre": "tableIndexClustered",
+            "description": ""
+        },
+        {
+            "nombre": "tableIndexHashed",
+            "description": ""
+        },
+        {
+            "nombre": "tableIndexOther",
+            "description": ""
+        },
+        {
+            "nombre": "tableIndexStatistic",
+            "description": ""
+        },
+        {
+            "nombre": "typeNoNulls",
+            "description": ""
+        },
+        {
+            "nombre": "typeNullable",
+            "description": ""
+        },
+        {
+            "nombre": "typeNullableUnknown",
+            "description": ""
+        },
+        {
+            "nombre": "typePredBasic",
+            "description": ""
+        },
+        {
+            "nombre": "typePredChar",
+            "description": ""
+        },
+        {
+            "nombre": "typePredNone",
+            "description": ""
+        },
+        {
+            "nombre": "typeSearchable",
+            "description": ""
+        },
+        {
+            "nombre": "versionColumnNotPseudo",
+            "description": ""
+        },
+        {
+            "nombre": "versionColumnPseudo",
+            "description": ""
+        },
+        {
+            "nombre": "versionColumnUnknown",
+            "description": ""
+        }
+    ]
+}

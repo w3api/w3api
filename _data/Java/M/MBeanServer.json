@@ -1,0 +1,249 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addNotificationListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "NotificationListener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object handback",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "NotificationFilter filter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createMBean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName loaderName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] signature",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] params",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deserialize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName loaderName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String attribute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] attributes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClassLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName loaderName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClassLoaderFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName mbeanName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClassLoaderRepository",
+            "description": ""
+        },
+        {
+            "nombre": "getMBeanCount",
+            "description": ""
+        },
+        {
+            "nombre": "instantiate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName loaderName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] params",
+                    "description": ""
+                },
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] signature",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRegistered",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "queryMBeans",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "QueryExp query",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "queryNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "QueryExp query",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerMBean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object object",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Attribute attribute",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeList attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregisterMBean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

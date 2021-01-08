@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createMBeanServer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String domain",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findMBeanServer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String agentId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClassLoaderRepository",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MBeanServer server",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newMBeanServer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String domain",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "releaseMBeanServer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MBeanServer mbeanServer",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

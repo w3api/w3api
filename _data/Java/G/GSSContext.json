@@ -1,0 +1,381 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "acceptSecContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] inToken",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream outStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dispose",
+            "description": ""
+        },
+        {
+            "nombre": "export",
+            "description": ""
+        },
+        {
+            "nombre": "getAnonymityState",
+            "description": ""
+        },
+        {
+            "nombre": "getConfState",
+            "description": ""
+        },
+        {
+            "nombre": "getCredDelegState",
+            "description": ""
+        },
+        {
+            "nombre": "getDelegCred",
+            "description": ""
+        },
+        {
+            "nombre": "getIntegState",
+            "description": ""
+        },
+        {
+            "nombre": "getLifetime",
+            "description": ""
+        },
+        {
+            "nombre": "getMech",
+            "description": ""
+        },
+        {
+            "nombre": "getMIC",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream outStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "MessageProp msgProp",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] inMsg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMutualAuthState",
+            "description": ""
+        },
+        {
+            "nombre": "getReplayDetState",
+            "description": ""
+        },
+        {
+            "nombre": "getSequenceDetState",
+            "description": ""
+        },
+        {
+            "nombre": "getSrcName",
+            "description": ""
+        },
+        {
+            "nombre": "getTargName",
+            "description": ""
+        },
+        {
+            "nombre": "getWrapSizeLimit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maxTokenSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean confReq",
+                    "description": ""
+                },
+                {
+                    "nombre": "int qop",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "initSecContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] inputBuf",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream outStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEstablished",
+            "description": ""
+        },
+        {
+            "nombre": "isInitiator",
+            "description": ""
+        },
+        {
+            "nombre": "isProtReady",
+            "description": ""
+        },
+        {
+            "nombre": "isTransferable",
+            "description": ""
+        },
+        {
+            "nombre": "requestAnonymity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestConf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestCredDeleg",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestInteg",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestLifetime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int lifetime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestMutualAuth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestReplayDet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestSequenceDet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setChannelBinding",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChannelBinding cb",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unwrap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream outStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "MessageProp msgProp",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] inBuf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "verifyMIC",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] inToken",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tokLen",
+                    "description": ""
+                },
+                {
+                    "nombre": "int msgLen",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream msgStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "int msgOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tokOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream tokStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "MessageProp msgProp",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] inMsg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wrap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream outStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "MessageProp msgProp",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] inBuf",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT_LIFETIME",
+            "description": ""
+        },
+        {
+            "nombre": "INDEFINITE_LIFETIME",
+            "description": ""
+        }
+    ]
+}

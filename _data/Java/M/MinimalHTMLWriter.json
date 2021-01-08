@@ -1,0 +1,193 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MinimalHTMLWriter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyledDocument doc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Writer w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "endFontTag",
+            "description": ""
+        },
+        {
+            "nombre": "inFontTag",
+            "description": ""
+        },
+        {
+            "nombre": "isText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startFontTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String style",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "text",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": ""
+        },
+        {
+            "nombre": "writeAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeBody",
+            "description": ""
+        },
+        {
+            "nombre": "writeComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean needsIndenting",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeEndParagraph",
+            "description": ""
+        },
+        {
+            "nombre": "writeEndTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String endTag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeHeader",
+            "description": ""
+        },
+        {
+            "nombre": "writeHTMLTags",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeLeaf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeNonHTMLAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeStartParagraph",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeStartTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeStyles",
+            "description": ""
+        }
+    ]
+}

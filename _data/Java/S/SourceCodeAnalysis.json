@@ -1,0 +1,121 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "analyzeCompletion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String input",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "analyzeType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int cursor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String code",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "completionSuggestions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int cursor",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] anchor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String input",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dependents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Snippet snippet",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "documentation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int cursor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String input",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean computeJavadoc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "listQualifiedNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int cursor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String code",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sourceToSnippets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String input",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wrapper",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Snippet snippet",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wrappers",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String input",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

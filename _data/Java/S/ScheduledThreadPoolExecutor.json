@@ -1,0 +1,193 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ScheduledThreadPoolExecutor",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ThreadFactory threadFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "RejectedExecutionHandler handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "int corePoolSize",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "decorateTask",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callable<V> callable",
+                    "description": ""
+                },
+                {
+                    "nombre": "RunnableScheduledFuture<V> task",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable runnable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "execute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable command",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContinueExistingPeriodicTasksAfterShutdownPolicy",
+            "description": ""
+        },
+        {
+            "nombre": "getExecuteExistingDelayedTasksAfterShutdownPolicy",
+            "description": ""
+        },
+        {
+            "nombre": "getQueue",
+            "description": ""
+        },
+        {
+            "nombre": "getRemoveOnCancelPolicy",
+            "description": ""
+        },
+        {
+            "nombre": "schedule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable command",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<V> callable",
+                    "description": ""
+                },
+                {
+                    "nombre": "long delay",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scheduleAtFixedRate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable command",
+                    "description": ""
+                },
+                {
+                    "nombre": "long initialDelay",
+                    "description": ""
+                },
+                {
+                    "nombre": "long period",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scheduleWithFixedDelay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable command",
+                    "description": ""
+                },
+                {
+                    "nombre": "long initialDelay",
+                    "description": ""
+                },
+                {
+                    "nombre": "long delay",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContinueExistingPeriodicTasksAfterShutdownPolicy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExecuteExistingDelayedTasksAfterShutdownPolicy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRemoveOnCancelPolicy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdown",
+            "description": ""
+        },
+        {
+            "nombre": "shutdownNow",
+            "description": ""
+        },
+        {
+            "nombre": "submit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable task",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<T> task",
+                    "description": ""
+                },
+                {
+                    "nombre": "T result",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

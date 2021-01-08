@@ -1,0 +1,143 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Authenticator",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getDefault",
+            "description": ""
+        },
+        {
+            "nombre": "getPasswordAuthentication",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingHost",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingPort",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingPrompt",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingProtocol",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingScheme",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingSite",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingURL",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestorType",
+            "description": ""
+        },
+        {
+            "nombre": "requestPasswordAuthentication",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "String scheme",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prompt",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "Authenticator.RequestorType reqType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Authenticator authenticator",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress addr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestPasswordAuthenticationInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "String scheme",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prompt",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "Authenticator.RequestorType reqType",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress addr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefault",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Authenticator a",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

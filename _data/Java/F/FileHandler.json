@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FileHandler",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean append",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "long limit",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "publish",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LogRecord record",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

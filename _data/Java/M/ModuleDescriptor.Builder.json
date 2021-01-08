@@ -1,0 +1,139 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "build",
+            "description": ""
+        },
+        {
+            "nombre": "exports",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String pn",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<ModuleDescriptor.Exports.Modifier> ms",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModuleDescriptor.Exports e",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<String> targets",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mainClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "opens",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ModuleDescriptor.Opens obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<ModuleDescriptor.Opens.Modifier> ms",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<String> targets",
+                    "description": ""
+                },
+                {
+                    "nombre": "String pn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "packages",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<String> pns",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "provides",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ModuleDescriptor.Provides p",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<String> providers",
+                    "description": ""
+                },
+                {
+                    "nombre": "String service",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requires",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<ModuleDescriptor.Requires.Modifier> ms",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModuleDescriptor.Requires req",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mn",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModuleDescriptor.Version compiledVersion",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uses",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String service",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "version",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String vs",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModuleDescriptor.Version v",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

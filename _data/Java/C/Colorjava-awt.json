@@ -1,0 +1,391 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Color",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "float g",
+                    "description": ""
+                },
+                {
+                    "nombre": "float b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int g",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] components",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace cspace",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasalpha",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rgb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "float alpha",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rgba",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "brighter",
+            "description": ""
+        },
+        {
+            "nombre": "createContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderingHints hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorModel cm",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform xform",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle2D r2d",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "darker",
+            "description": ""
+        },
+        {
+            "nombre": "decode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlpha",
+            "description": ""
+        },
+        {
+            "nombre": "getBlue",
+            "description": ""
+        },
+        {
+            "nombre": "getColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int v",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColorComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorSpace cspace",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] compArray",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColorSpace",
+            "description": ""
+        },
+        {
+            "nombre": "getComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ColorSpace cspace",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] compArray",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGreen",
+            "description": ""
+        },
+        {
+            "nombre": "getHSBColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float h",
+                    "description": ""
+                },
+                {
+                    "nombre": "float s",
+                    "description": ""
+                },
+                {
+                    "nombre": "float b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRed",
+            "description": ""
+        },
+        {
+            "nombre": "getRGB",
+            "description": ""
+        },
+        {
+            "nombre": "getRGBColorComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] compArray",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRGBComponents",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] compArray",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTransparency",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "HSBtoRGB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float brightness",
+                    "description": ""
+                },
+                {
+                    "nombre": "float hue",
+                    "description": ""
+                },
+                {
+                    "nombre": "float saturation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "RGBtoHSB",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int g",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] hsbvals",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "black",
+            "description": ""
+        },
+        {
+            "nombre": "BLACK",
+            "description": ""
+        },
+        {
+            "nombre": "blue",
+            "description": ""
+        },
+        {
+            "nombre": "BLUE",
+            "description": ""
+        },
+        {
+            "nombre": "cyan",
+            "description": ""
+        },
+        {
+            "nombre": "CYAN",
+            "description": ""
+        },
+        {
+            "nombre": "DARK_GRAY",
+            "description": ""
+        },
+        {
+            "nombre": "darkGray",
+            "description": ""
+        },
+        {
+            "nombre": "gray",
+            "description": ""
+        },
+        {
+            "nombre": "GRAY",
+            "description": ""
+        },
+        {
+            "nombre": "green",
+            "description": ""
+        },
+        {
+            "nombre": "GREEN",
+            "description": ""
+        },
+        {
+            "nombre": "LIGHT_GRAY",
+            "description": ""
+        },
+        {
+            "nombre": "lightGray",
+            "description": ""
+        },
+        {
+            "nombre": "magenta",
+            "description": ""
+        },
+        {
+            "nombre": "MAGENTA",
+            "description": ""
+        },
+        {
+            "nombre": "orange",
+            "description": ""
+        },
+        {
+            "nombre": "ORANGE",
+            "description": ""
+        },
+        {
+            "nombre": "pink",
+            "description": ""
+        },
+        {
+            "nombre": "PINK",
+            "description": ""
+        },
+        {
+            "nombre": "red",
+            "description": ""
+        },
+        {
+            "nombre": "RED",
+            "description": ""
+        },
+        {
+            "nombre": "white",
+            "description": ""
+        },
+        {
+            "nombre": "WHITE",
+            "description": ""
+        },
+        {
+            "nombre": "yellow",
+            "description": ""
+        },
+        {
+            "nombre": "YELLOW",
+            "description": ""
+        }
+    ]
+}

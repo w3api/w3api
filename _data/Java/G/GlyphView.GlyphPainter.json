@@ -1,0 +1,213 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GlyphView.GlyphPainter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAscent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GlyphView v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBoundedPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float len",
+                    "description": ""
+                },
+                {
+                    "nombre": "GlyphView v",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDescent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GlyphView v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GlyphView v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNextVisualPositionFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "GlyphView v",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPainter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "GlyphView v",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSpan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "TabExpander e",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "GlyphView v",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modelToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "GlyphView v",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "GlyphView v",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "viewToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasReturn",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "GlyphView v",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

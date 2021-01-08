@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "asType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType fromType",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle handle",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asTypeLosslessReturn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodType fromType",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle handle",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canConvert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> to",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> from",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareConversion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> targetType2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> sourceType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> targetType1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "filterInternalObjects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MethodHandle target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGuardedInvocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LinkRequest linkRequest",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTypeConverter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> sourceType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> targetType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWithLookup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SecureLookupSupplier lookupSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<T> operation",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

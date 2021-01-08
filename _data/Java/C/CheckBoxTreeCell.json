@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CheckBoxTreeCell",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Callback<TreeItem<T>",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<Boolean>> getSelectedProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringConverter<TreeItem<T>> converter",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "converterProperty",
+            "description": ""
+        },
+        {
+            "nombre": "forTreeView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callback<TreeItem<T>",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<Boolean>> getSelectedProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringConverter<TreeItem<T>> converter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedStateCallback",
+            "description": ""
+        },
+        {
+            "nombre": "selectedStateCallbackProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setConverter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<TreeItem<T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectedStateCallback",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callback<TreeItem<T>",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<Boolean>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateItem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean empty",
+                    "description": ""
+                },
+                {
+                    "nombre": "T item",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

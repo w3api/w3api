@@ -1,0 +1,143 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MulticastSocket",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketAddress bindaddr",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getInterface",
+            "description": ""
+        },
+        {
+            "nombre": "getLoopbackMode",
+            "description": ""
+        },
+        {
+            "nombre": "getNetworkInterface",
+            "description": ""
+        },
+        {
+            "nombre": "getTimeToLive",
+            "description": ""
+        },
+        {
+            "nombre": "getTTL",
+            "description": ""
+        },
+        {
+            "nombre": "joinGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress mcastaddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "NetworkInterface netIf",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress mcastaddr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "leaveGroup",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress mcastaddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "NetworkInterface netIf",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress mcastaddr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DatagramPacket p",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte ttl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInterface",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetAddress inf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLoopbackMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean disable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNetworkInterface",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NetworkInterface netIf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTimeToLive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ttl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTTL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte ttl",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

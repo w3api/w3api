@@ -1,0 +1,365 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Query",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "and",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QueryExp q2",
+                    "description": ""
+                },
+                {
+                    "nombre": "QueryExp q1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "anySubString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeValueExp a",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringValueExp s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "attr",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "between",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValueExp v1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp v3",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp v2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "classattr",
+            "description": ""
+        },
+        {
+            "nombre": "div",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValueExp value1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp value2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "eq",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValueExp v1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp v2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "finalSubString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeValueExp a",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringValueExp s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "geq",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValueExp v1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp v2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "gt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValueExp v1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp v2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "in",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValueExp[] valueList",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "initialSubString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeValueExp a",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringValueExp s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isInstanceOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringValueExp classNameValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "leq",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValueExp v1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp v2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValueExp v1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp v2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "match",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeValueExp a",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringValueExp s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValueExp value1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp value2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "not",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QueryExp queryExp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "or",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QueryExp q2",
+                    "description": ""
+                },
+                {
+                    "nombre": "QueryExp q1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValueExp value1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp value2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "times",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValueExp value1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueExp value2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "value",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float val",
+                    "description": ""
+                },
+                {
+                    "nombre": "long val",
+                    "description": ""
+                },
+                {
+                    "nombre": "String val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int val",
+                    "description": ""
+                },
+                {
+                    "nombre": "Number val",
+                    "description": ""
+                },
+                {
+                    "nombre": "double val",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean val",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DIV",
+            "description": ""
+        },
+        {
+            "nombre": "EQ",
+            "description": ""
+        },
+        {
+            "nombre": "GE",
+            "description": ""
+        },
+        {
+            "nombre": "GT",
+            "description": ""
+        },
+        {
+            "nombre": "LE",
+            "description": ""
+        },
+        {
+            "nombre": "LT",
+            "description": ""
+        },
+        {
+            "nombre": "MINUS",
+            "description": ""
+        },
+        {
+            "nombre": "PLUS",
+            "description": ""
+        },
+        {
+            "nombre": "TIMES",
+            "description": ""
+        }
+    ]
+}

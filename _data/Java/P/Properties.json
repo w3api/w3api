@@ -1,0 +1,157 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Properties",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Properties defaults",
+                    "description": ""
+                },
+                {
+                    "nombre": "int initialCapacity",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String defaultValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "list",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrintStream out",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintWriter out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadFromXML",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "propertyNames",
+            "description": ""
+        },
+        {
+            "nombre": "save",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String comments",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "store",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Writer writer",
+                    "description": ""
+                },
+                {
+                    "nombre": "String comments",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "storeToXML",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String comment",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream os",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stringPropertyNames",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "defaults",
+            "description": ""
+        }
+    ]
+}

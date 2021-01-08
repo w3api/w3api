@@ -1,0 +1,129 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createBindings",
+            "description": ""
+        },
+        {
+            "nombre": "eval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String script",
+                    "description": ""
+                },
+                {
+                    "nombre": "ScriptContext context",
+                    "description": ""
+                },
+                {
+                    "nombre": "Bindings n",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBindings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContext",
+            "description": ""
+        },
+        {
+            "nombre": "getFactory",
+            "description": ""
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBindings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Bindings bindings",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ScriptContext context",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ARGV",
+            "description": ""
+        },
+        {
+            "nombre": "ENGINE",
+            "description": ""
+        },
+        {
+            "nombre": "ENGINE_VERSION",
+            "description": ""
+        },
+        {
+            "nombre": "FILENAME",
+            "description": ""
+        },
+        {
+            "nombre": "LANGUAGE",
+            "description": ""
+        },
+        {
+            "nombre": "LANGUAGE_VERSION",
+            "description": ""
+        },
+        {
+            "nombre": "NAME",
+            "description": ""
+        }
+    ]
+}

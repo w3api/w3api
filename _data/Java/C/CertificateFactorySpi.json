@@ -1,0 +1,75 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CertificateFactorySpi",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "engineGenerateCertificate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGenerateCertificates",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGenerateCertPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends Certificate> certificates",
+                    "description": ""
+                },
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGenerateCRL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGenerateCRLs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "engineGetCertPathEncodings",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ServerSocket",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress bindAddr",
+                    "description": ""
+                },
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accept",
+            "description": ""
+        },
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketAddress endpoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "getChannel",
+            "description": ""
+        },
+        {
+            "nombre": "getInetAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalPort",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalSocketAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getReceiveBufferSize",
+            "description": ""
+        },
+        {
+            "nombre": "getReuseAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getSoTimeout",
+            "description": ""
+        },
+        {
+            "nombre": "implAccept",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Socket s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBound",
+            "description": ""
+        },
+        {
+            "nombre": "isClosed",
+            "description": ""
+        },
+        {
+            "nombre": "setOption",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketOption<T> name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPerformancePreferences",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bandwidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int connectionTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "int latency",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReceiveBufferSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReuseAddress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSocketFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SocketImplFactory fac",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSoTimeout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "supportedOptions",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

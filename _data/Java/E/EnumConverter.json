@@ -1,0 +1,43 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "EnumConverter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Class<E> enumClass",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String ename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readBinary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataInputStream is",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] strings",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

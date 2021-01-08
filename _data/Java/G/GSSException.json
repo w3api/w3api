@@ -1,0 +1,155 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GSSException",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int minorCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "String minorString",
+                    "description": ""
+                },
+                {
+                    "nombre": "int majorCode",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getMajor",
+            "description": ""
+        },
+        {
+            "nombre": "getMajorString",
+            "description": ""
+        },
+        {
+            "nombre": "getMessage",
+            "description": ""
+        },
+        {
+            "nombre": "getMinor",
+            "description": ""
+        },
+        {
+            "nombre": "getMinorString",
+            "description": ""
+        },
+        {
+            "nombre": "setMinor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minorCode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "BAD_BINDINGS",
+            "description": ""
+        },
+        {
+            "nombre": "BAD_MECH",
+            "description": ""
+        },
+        {
+            "nombre": "BAD_MIC",
+            "description": ""
+        },
+        {
+            "nombre": "BAD_NAME",
+            "description": ""
+        },
+        {
+            "nombre": "BAD_NAMETYPE",
+            "description": ""
+        },
+        {
+            "nombre": "BAD_QOP",
+            "description": ""
+        },
+        {
+            "nombre": "BAD_STATUS",
+            "description": ""
+        },
+        {
+            "nombre": "CONTEXT_EXPIRED",
+            "description": ""
+        },
+        {
+            "nombre": "CREDENTIALS_EXPIRED",
+            "description": ""
+        },
+        {
+            "nombre": "DEFECTIVE_CREDENTIAL",
+            "description": ""
+        },
+        {
+            "nombre": "DEFECTIVE_TOKEN",
+            "description": ""
+        },
+        {
+            "nombre": "DUPLICATE_ELEMENT",
+            "description": ""
+        },
+        {
+            "nombre": "DUPLICATE_TOKEN",
+            "description": ""
+        },
+        {
+            "nombre": "FAILURE",
+            "description": ""
+        },
+        {
+            "nombre": "GAP_TOKEN",
+            "description": ""
+        },
+        {
+            "nombre": "NAME_NOT_MN",
+            "description": ""
+        },
+        {
+            "nombre": "NO_CONTEXT",
+            "description": ""
+        },
+        {
+            "nombre": "NO_CRED",
+            "description": ""
+        },
+        {
+            "nombre": "OLD_TOKEN",
+            "description": ""
+        },
+        {
+            "nombre": "UNAUTHORIZED",
+            "description": ""
+        },
+        {
+            "nombre": "UNAVAILABLE",
+            "description": ""
+        },
+        {
+            "nombre": "UNSEQ_TOKEN",
+            "description": ""
+        }
+    ]
+}

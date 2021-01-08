@@ -1,0 +1,135 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MimeType",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String rawdata",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sub",
+                    "description": ""
+                },
+                {
+                    "nombre": "String primary",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBaseType",
+            "description": ""
+        },
+        {
+            "nombre": "getParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getPrimaryType",
+            "description": ""
+        },
+        {
+            "nombre": "getSubType",
+            "description": ""
+        },
+        {
+            "nombre": "match",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MimeType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String rawdata",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readExternal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectInput in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrimaryType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String primary",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSubType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String sub",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "writeExternal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectOutput out",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

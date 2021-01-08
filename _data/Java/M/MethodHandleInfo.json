@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getDeclaringClass",
+            "description": ""
+        },
+        {
+            "nombre": "getMethodType",
+            "description": ""
+        },
+        {
+            "nombre": "getModifiers",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getReferenceKind",
+            "description": ""
+        },
+        {
+            "nombre": "isVarArgs",
+            "description": ""
+        },
+        {
+            "nombre": "referenceKindToString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int referenceKind",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reflectAs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> expected",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> defc",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "int kind",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "REF_getField",
+            "description": ""
+        },
+        {
+            "nombre": "REF_getStatic",
+            "description": ""
+        },
+        {
+            "nombre": "REF_invokeInterface",
+            "description": ""
+        },
+        {
+            "nombre": "REF_invokeSpecial",
+            "description": ""
+        },
+        {
+            "nombre": "REF_invokeStatic",
+            "description": ""
+        },
+        {
+            "nombre": "REF_invokeVirtual",
+            "description": ""
+        },
+        {
+            "nombre": "REF_newInvokeSpecial",
+            "description": ""
+        },
+        {
+            "nombre": "REF_putField",
+            "description": ""
+        },
+        {
+            "nombre": "REF_putStatic",
+            "description": ""
+        }
+    ]
+}

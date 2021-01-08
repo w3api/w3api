@@ -1,2 +1,2 @@
-# w3api
-Web de W3Api.com
+# W3Api
+Web W3Api. http://www.w3api.com

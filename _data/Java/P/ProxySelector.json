@@ -1,0 +1,65 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ProxySelector",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "connectFailed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "IOException ioe",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketAddress sa",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefault",
+            "description": ""
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetSocketAddress proxyAddress",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "select",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefault",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ProxySelector ps",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

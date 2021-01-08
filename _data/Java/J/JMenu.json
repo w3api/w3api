@@ -1,0 +1,381 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JMenu",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                },
+                {
+                    "nombre": "String s",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                },
+                {
+                    "nombre": "String s",
+                    "description": ""
+                },
+                {
+                    "nombre": "JMenuItem menuItem",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addMenuListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addSeparator",
+            "description": ""
+        },
+        {
+            "nombre": "applyComponentOrientation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ComponentOrientation o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createActionChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JMenuItem b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createActionComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createWinListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JPopupMenu p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doClick",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pressTime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireMenuCanceled",
+            "description": ""
+        },
+        {
+            "nombre": "fireMenuDeselected",
+            "description": ""
+        },
+        {
+            "nombre": "fireMenuSelected",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getDelay",
+            "description": ""
+        },
+        {
+            "nombre": "getItem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getItemCount",
+            "description": ""
+        },
+        {
+            "nombre": "getMenuComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMenuComponentCount",
+            "description": ""
+        },
+        {
+            "nombre": "getMenuComponents",
+            "description": ""
+        },
+        {
+            "nombre": "getMenuListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getPopupMenu",
+            "description": ""
+        },
+        {
+            "nombre": "getPopupMenuOrigin",
+            "description": ""
+        },
+        {
+            "nombre": "getSubElements",
+            "description": ""
+        },
+        {
+            "nombre": "getUIClassID",
+            "description": ""
+        },
+        {
+            "nombre": "insert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Action a",
+                    "description": ""
+                },
+                {
+                    "nombre": "String s",
+                    "description": ""
+                },
+                {
+                    "nombre": "JMenuItem mi",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertSeparator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isMenuComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isPopupMenuVisible",
+            "description": ""
+        },
+        {
+            "nombre": "isSelected",
+            "description": ""
+        },
+        {
+            "nombre": "isTearOff",
+            "description": ""
+        },
+        {
+            "nombre": "isTopLevelMenu",
+            "description": ""
+        },
+        {
+            "nombre": "menuSelectionChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isIncluded",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "processKeyEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEvent evt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "JMenuItem item",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAll",
+            "description": ""
+        },
+        {
+            "nombre": "removeMenuListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MenuListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAccelerator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyStroke keyStroke",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDelay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int d",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMenuLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ButtonModel newModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPopupMenuVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUI",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "popupListener",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "compute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super V",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super K",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeIfAbsent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends V> mappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super K",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeIfPresent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super V",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super K",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forEach",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BiConsumer<? super K",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super V> action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOrDefault",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "V defaultValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "merge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V value",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super V",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super V",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "putIfAbsent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V value",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V value",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "V newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V oldValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super V",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super K",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> function",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "FileChannel",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "force",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean metaData",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long position",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean shared",
+                    "description": ""
+                },
+                {
+                    "nombre": "long size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "map",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long position",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileChannel.MapMode mode",
+                    "description": ""
+                },
+                {
+                    "nombre": "long size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<? extends OpenOption> options",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "position",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long newPosition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer[] dsts",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "long position",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "transferFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long count",
+                    "description": ""
+                },
+                {
+                    "nombre": "ReadableByteChannel src",
+                    "description": ""
+                },
+                {
+                    "nombre": "long position",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transferTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long position",
+                    "description": ""
+                },
+                {
+                    "nombre": "long count",
+                    "description": ""
+                },
+                {
+                    "nombre": "WritableByteChannel target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "truncate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tryLock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long position",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean shared",
+                    "description": ""
+                },
+                {
+                    "nombre": "long size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer[] srcs",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "long position",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

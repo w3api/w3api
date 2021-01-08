@@ -1,0 +1,255 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SSLEngine",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String peerHost",
+                    "description": ""
+                },
+                {
+                    "nombre": "int peerPort",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "beginHandshake",
+            "description": ""
+        },
+        {
+            "nombre": "closeInbound",
+            "description": ""
+        },
+        {
+            "nombre": "closeOutbound",
+            "description": ""
+        },
+        {
+            "nombre": "getApplicationProtocol",
+            "description": ""
+        },
+        {
+            "nombre": "getDelegatedTask",
+            "description": ""
+        },
+        {
+            "nombre": "getEnabledCipherSuites",
+            "description": ""
+        },
+        {
+            "nombre": "getEnabledProtocols",
+            "description": ""
+        },
+        {
+            "nombre": "getEnableSessionCreation",
+            "description": ""
+        },
+        {
+            "nombre": "getHandshakeApplicationProtocol",
+            "description": ""
+        },
+        {
+            "nombre": "getHandshakeApplicationProtocolSelector",
+            "description": ""
+        },
+        {
+            "nombre": "getHandshakeSession",
+            "description": ""
+        },
+        {
+            "nombre": "getHandshakeStatus",
+            "description": ""
+        },
+        {
+            "nombre": "getNeedClientAuth",
+            "description": ""
+        },
+        {
+            "nombre": "getPeerHost",
+            "description": ""
+        },
+        {
+            "nombre": "getPeerPort",
+            "description": ""
+        },
+        {
+            "nombre": "getSession",
+            "description": ""
+        },
+        {
+            "nombre": "getSSLParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getSupportedCipherSuites",
+            "description": ""
+        },
+        {
+            "nombre": "getSupportedProtocols",
+            "description": ""
+        },
+        {
+            "nombre": "getUseClientMode",
+            "description": ""
+        },
+        {
+            "nombre": "getWantClientAuth",
+            "description": ""
+        },
+        {
+            "nombre": "isInboundDone",
+            "description": ""
+        },
+        {
+            "nombre": "isOutboundDone",
+            "description": ""
+        },
+        {
+            "nombre": "setEnabledCipherSuites",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] suites",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnabledProtocols",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] protocols",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEnableSessionCreation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHandshakeApplicationProtocolSelector",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BiFunction<SSLEngine",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<String>",
+                    "description": ""
+                },
+                {
+                    "nombre": "String> selector",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNeedClientAuth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean need",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSSLParameters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SSLParameters params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUseClientMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean mode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWantClientAuth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean want",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unwrap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer[] dsts",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer dst",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wrap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer[] srcs",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer dst",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

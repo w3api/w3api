@@ -1,0 +1,117 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RelationNotification",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String notifType",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeStamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object sourceObj",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ObjectName> newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String typeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "long sequence",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ObjectName> unregMBeanList",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ObjectName> oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName objectName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getMBeansToUnregister",
+            "description": ""
+        },
+        {
+            "nombre": "getNewRoleValue",
+            "description": ""
+        },
+        {
+            "nombre": "getObjectName",
+            "description": ""
+        },
+        {
+            "nombre": "getOldRoleValue",
+            "description": ""
+        },
+        {
+            "nombre": "getRelationId",
+            "description": ""
+        },
+        {
+            "nombre": "getRelationTypeName",
+            "description": ""
+        },
+        {
+            "nombre": "getRoleName",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "RELATION_BASIC_CREATION",
+            "description": ""
+        },
+        {
+            "nombre": "RELATION_BASIC_REMOVAL",
+            "description": ""
+        },
+        {
+            "nombre": "RELATION_BASIC_UPDATE",
+            "description": ""
+        },
+        {
+            "nombre": "RELATION_MBEAN_CREATION",
+            "description": ""
+        },
+        {
+            "nombre": "RELATION_MBEAN_REMOVAL",
+            "description": ""
+        },
+        {
+            "nombre": "RELATION_MBEAN_UPDATE",
+            "description": ""
+        }
+    ]
+}

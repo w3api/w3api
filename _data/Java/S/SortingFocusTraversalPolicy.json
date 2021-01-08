@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SortingFocusTraversalPolicy",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super Component> comparator",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accept",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component aComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComparator",
+            "description": ""
+        },
+        {
+            "nombre": "getComponentAfter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component aComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Container aContainer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getComponentBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component aComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Container aContainer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container aContainer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFirstComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container aContainer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImplicitDownCycleTraversal",
+            "description": ""
+        },
+        {
+            "nombre": "getLastComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Container aContainer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setComparator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super Component> comparator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setImplicitDownCycleTraversal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean implicitDownCycleTraversal",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

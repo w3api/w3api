@@ -1,0 +1,51 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CardTerminal",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "connect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "isCardPresent",
+            "description": ""
+        },
+        {
+            "nombre": "waitForCardAbsent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "waitForCardPresent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

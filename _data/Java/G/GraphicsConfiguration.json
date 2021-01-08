@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GraphicsConfiguration",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createCompatibleImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int transparency",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCompatibleVolatileImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageCapabilities caps",
+                    "description": ""
+                },
+                {
+                    "nombre": "int transparency",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getBufferCapabilities",
+            "description": ""
+        },
+        {
+            "nombre": "getColorModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int transparency",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultTransform",
+            "description": ""
+        },
+        {
+            "nombre": "getDevice",
+            "description": ""
+        },
+        {
+            "nombre": "getImageCapabilities",
+            "description": ""
+        },
+        {
+            "nombre": "getNormalizingTransform",
+            "description": ""
+        },
+        {
+            "nombre": "isTranslucencyCapable",
+            "description": ""
+        }
+    ]
+}

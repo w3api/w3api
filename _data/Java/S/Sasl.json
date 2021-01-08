@@ -1,0 +1,137 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createSaslClient",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] mechanisms",
+                    "description": ""
+                },
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "String serverName",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> props",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "String authorizationId",
+                    "description": ""
+                },
+                {
+                    "nombre": "CallbackHandler cbh",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSaslServer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "String serverName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mechanism",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> props",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "CallbackHandler cbh",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSaslClientFactories",
+            "description": ""
+        },
+        {
+            "nombre": "getSaslServerFactories",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "BOUND_SERVER_NAME",
+            "description": ""
+        },
+        {
+            "nombre": "CREDENTIALS",
+            "description": ""
+        },
+        {
+            "nombre": "MAX_BUFFER",
+            "description": ""
+        },
+        {
+            "nombre": "POLICY_FORWARD_SECRECY",
+            "description": ""
+        },
+        {
+            "nombre": "POLICY_NOACTIVE",
+            "description": ""
+        },
+        {
+            "nombre": "POLICY_NOANONYMOUS",
+            "description": ""
+        },
+        {
+            "nombre": "POLICY_NODICTIONARY",
+            "description": ""
+        },
+        {
+            "nombre": "POLICY_NOPLAINTEXT",
+            "description": ""
+        },
+        {
+            "nombre": "POLICY_PASS_CREDENTIALS",
+            "description": ""
+        },
+        {
+            "nombre": "QOP",
+            "description": ""
+        },
+        {
+            "nombre": "RAW_SEND_SIZE",
+            "description": ""
+        },
+        {
+            "nombre": "REUSE",
+            "description": ""
+        },
+        {
+            "nombre": "SERVER_AUTH",
+            "description": ""
+        },
+        {
+            "nombre": "STRENGTH",
+            "description": ""
+        }
+    ]
+}

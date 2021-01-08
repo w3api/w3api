@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "imageComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageWriter source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "imageProgress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float percentageDone",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriter source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "imageStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriter source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thumbnailComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageWriter source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thumbnailProgress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float percentageDone",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriter source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thumbnailStarted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriter source",
+                    "description": ""
+                },
+                {
+                    "nombre": "int thumbnailIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeAborted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageWriter source",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

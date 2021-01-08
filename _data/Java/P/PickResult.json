@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PickResult",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Point3D point",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sceneY",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node node",
+                    "description": ""
+                },
+                {
+                    "nombre": "int face",
+                    "description": ""
+                },
+                {
+                    "nombre": "double distance",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point3D normal",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D texCoord",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sceneX",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getIntersectedDistance",
+            "description": ""
+        },
+        {
+            "nombre": "getIntersectedFace",
+            "description": ""
+        },
+        {
+            "nombre": "getIntersectedNode",
+            "description": ""
+        },
+        {
+            "nombre": "getIntersectedNormal",
+            "description": ""
+        },
+        {
+            "nombre": "getIntersectedPoint",
+            "description": ""
+        },
+        {
+            "nombre": "getIntersectedTexCoord",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "FACE_UNDEFINED",
+            "description": ""
+        }
+    ]
+}

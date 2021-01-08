@@ -1,0 +1,219 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "PKIXParameters",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "KeyStore keystore",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<TrustAnchor> trustAnchors",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addCertPathChecker",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PKIXCertPathChecker checker",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addCertStore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CertStore store",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "getCertPathCheckers",
+            "description": ""
+        },
+        {
+            "nombre": "getCertStores",
+            "description": ""
+        },
+        {
+            "nombre": "getDate",
+            "description": ""
+        },
+        {
+            "nombre": "getInitialPolicies",
+            "description": ""
+        },
+        {
+            "nombre": "getPolicyQualifiersRejected",
+            "description": ""
+        },
+        {
+            "nombre": "getSigProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getTargetCertConstraints",
+            "description": ""
+        },
+        {
+            "nombre": "getTrustAnchors",
+            "description": ""
+        },
+        {
+            "nombre": "isAnyPolicyInhibited",
+            "description": ""
+        },
+        {
+            "nombre": "isExplicitPolicyRequired",
+            "description": ""
+        },
+        {
+            "nombre": "isPolicyMappingInhibited",
+            "description": ""
+        },
+        {
+            "nombre": "isRevocationEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "setAnyPolicyInhibited",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCertPathCheckers",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<PKIXCertPathChecker> checkers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCertStores",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<CertStore> stores",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExplicitPolicyRequired",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setInitialPolicies",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<String> initialPolicies",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPolicyMappingInhibited",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPolicyQualifiersRejected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean qualifiersRejected",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRevocationEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSigProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String sigProvider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTargetCertConstraints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CertSelector selector",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTrustAnchors",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<TrustAnchor> trustAnchors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

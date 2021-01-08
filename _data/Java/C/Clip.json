@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getFrameLength",
+            "description": ""
+        },
+        {
+            "nombre": "getMicrosecondLength",
+            "description": ""
+        },
+        {
+            "nombre": "loop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int count",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "open",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AudioFormat format",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioInputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bufferSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFramePosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int frames",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLoopPoints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMicrosecondPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long microseconds",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "LOOP_CONTINUOUSLY",
+            "description": ""
+        }
+    ]
+}

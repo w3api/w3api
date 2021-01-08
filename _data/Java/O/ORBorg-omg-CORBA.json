@@ -1,0 +1,597 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ORB",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "connect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_abstract_interface_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_alias_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeCode original_type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_any",
+            "description": ""
+        },
+        {
+            "nombre": "create_array_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeCode element_type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_basic_dyn_any",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeCode type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_context_list",
+            "description": ""
+        },
+        {
+            "nombre": "create_dyn_any",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Any value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_dyn_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeCode type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_dyn_enum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeCode type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_dyn_sequence",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeCode type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_dyn_struct",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeCode type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_dyn_union",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeCode type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_enum_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] members",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_environment",
+            "description": ""
+        },
+        {
+            "nombre": "create_exception_list",
+            "description": ""
+        },
+        {
+            "nombre": "create_exception_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "StructMember[] members",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_fixed_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "short scale",
+                    "description": ""
+                },
+                {
+                    "nombre": "short digits",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_interface_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_list",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int count",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_named_value",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Any any",
+                    "description": ""
+                },
+                {
+                    "nombre": "int flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "String s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_native_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_operation_list",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object oper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_output_stream",
+            "description": ""
+        },
+        {
+            "nombre": "create_policy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Any val",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_recursive_sequence_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bound",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_recursive_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_sequence_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bound",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeCode element_type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_string_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bound",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_struct_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "StructMember[] members",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_union_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "UnionMember[] members",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeCode discriminator_type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_value_box_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeCode boxed_type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_value_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValueMember[] members",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeCode concrete_base",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "short type_modifier",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create_wstring_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bound",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "destroy",
+            "description": ""
+        },
+        {
+            "nombre": "disconnect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_current",
+            "description": ""
+        },
+        {
+            "nombre": "get_default_context",
+            "description": ""
+        },
+        {
+            "nombre": "get_next_response",
+            "description": ""
+        },
+        {
+            "nombre": "get_primitive_tc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TCKind tcKind",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_service_information",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ServiceInformationHolder service_info",
+                    "description": ""
+                },
+                {
+                    "nombre": "short service_type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "init",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] args",
+                    "description": ""
+                },
+                {
+                    "nombre": "Applet app",
+                    "description": ""
+                },
+                {
+                    "nombre": "Properties props",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "list_initial_services",
+            "description": ""
+        },
+        {
+            "nombre": "object_to_string",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "perform_work",
+            "description": ""
+        },
+        {
+            "nombre": "poll_next_response",
+            "description": ""
+        },
+        {
+            "nombre": "resolve_initial_references",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String object_name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "run",
+            "description": ""
+        },
+        {
+            "nombre": "send_multiple_requests_deferred",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Request[] req",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "send_multiple_requests_oneway",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Request[] req",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_parameters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] args",
+                    "description": ""
+                },
+                {
+                    "nombre": "Applet app",
+                    "description": ""
+                },
+                {
+                    "nombre": "Properties props",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdown",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean wait_for_completion",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "string_to_object",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "work_pending",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractScriptEngine",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Bindings n",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "eval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Bindings bindings",
+                    "description": ""
+                },
+                {
+                    "nombre": "String script",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBindings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContext",
+            "description": ""
+        },
+        {
+            "nombre": "getScriptContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Bindings nn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBindings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Bindings bindings",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scope",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ScriptContext ctxt",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "context",
+            "description": ""
+        }
+    ]
+}

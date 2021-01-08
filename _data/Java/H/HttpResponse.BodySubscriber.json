@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "asByteArray",
+            "description": ""
+        },
+        {
+            "nombre": "asByteArrayConsumer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<Optional<byte[]>> consumer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OpenOption... openOptions",
+                    "description": ""
+                },
+                {
+                    "nombre": "Path file",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asInputStream",
+            "description": ""
+        },
+        {
+            "nombre": "asString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "buffering",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int bufferSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "HttpResponse.BodySubscriber<T> downstream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "discard",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "U value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fromSubscriber",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "T> finisher",
+                    "description": ""
+                },
+                {
+                    "nombre": "S subscriber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBody",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SOAPFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createDetail",
+            "description": ""
+        },
+        {
+            "nombre": "createElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName qname",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element domElement",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFault",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String reasonText",
+                    "description": ""
+                },
+                {
+                    "nombre": "QName faultCode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ResourceBundle.Control",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCandidateLocales",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getControl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<String> formats",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFallbackLocale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFormats",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNoFallbackControl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<String> formats",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTimeToLive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "needsReload",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String format",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "long loadTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceBundle bundle",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newBundle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String format",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean reload",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toBundleName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toResourceName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String bundleName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String suffix",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "FORMAT_CLASS",
+            "description": ""
+        },
+        {
+            "nombre": "FORMAT_DEFAULT",
+            "description": ""
+        },
+        {
+            "nombre": "FORMAT_PROPERTIES",
+            "description": ""
+        },
+        {
+            "nombre": "TTL_DONT_CACHE",
+            "description": ""
+        },
+        {
+            "nombre": "TTL_NO_EXPIRATION_CONTROL",
+            "description": ""
+        }
+    ]
+}

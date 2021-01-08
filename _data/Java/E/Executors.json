@@ -1,0 +1,145 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "callable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable task",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrivilegedExceptionAction<?> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrivilegedAction<?> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "T result",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defaultThreadFactory",
+            "description": ""
+        },
+        {
+            "nombre": "newCachedThreadPool",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ThreadFactory threadFactory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newFixedThreadPool",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int nThreads",
+                    "description": ""
+                },
+                {
+                    "nombre": "ThreadFactory threadFactory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newScheduledThreadPool",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ThreadFactory threadFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "int corePoolSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSingleThreadExecutor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ThreadFactory threadFactory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSingleThreadScheduledExecutor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ThreadFactory threadFactory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newWorkStealingPool",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int parallelism",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "privilegedCallable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callable<T> callable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "privilegedCallableUsingCurrentClassLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callable<T> callable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "privilegedThreadFactory",
+            "description": ""
+        },
+        {
+            "nombre": "unconfigurableExecutorService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ExecutorService executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unconfigurableScheduledExecutorService",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ScheduledExecutorService executor",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

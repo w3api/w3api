@@ -1,0 +1,109 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Semaphore",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int permits",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean fair",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "acquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int permits",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "acquireUninterruptibly",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int permits",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "availablePermits",
+            "description": ""
+        },
+        {
+            "nombre": "drainPermits",
+            "description": ""
+        },
+        {
+            "nombre": "getQueuedThreads",
+            "description": ""
+        },
+        {
+            "nombre": "getQueueLength",
+            "description": ""
+        },
+        {
+            "nombre": "hasQueuedThreads",
+            "description": ""
+        },
+        {
+            "nombre": "isFair",
+            "description": ""
+        },
+        {
+            "nombre": "reducePermits",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int reduction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "release",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int permits",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "tryAcquire",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int permits",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

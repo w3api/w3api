@@ -1,0 +1,109 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MatteBorder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int left",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets borderInsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int top",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color matteColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon tileIcon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int right",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bottom",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBorderInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets insets",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMatteColor",
+            "description": ""
+        },
+        {
+            "nombre": "getTileIcon",
+            "description": ""
+        },
+        {
+            "nombre": "isBorderOpaque",
+            "description": ""
+        },
+        {
+            "nombre": "paintBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "color",
+            "description": ""
+        },
+        {
+            "nombre": "tileIcon",
+            "description": ""
+        }
+    ]
+}

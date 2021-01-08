@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "deleteDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deleteFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFileAttributeView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<V> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "T path",
+                    "description": ""
+                },
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "move",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T targetpath",
+                    "description": ""
+                },
+                {
+                    "nombre": "T srcpath",
+                    "description": ""
+                },
+                {
+                    "nombre": "SecureDirectoryStream<T> targetdir",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newByteChannel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "T path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<? extends OpenOption> options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDirectoryStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T path",
+                    "description": ""
+                },
+                {
+                    "nombre": "LinkOption... options",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

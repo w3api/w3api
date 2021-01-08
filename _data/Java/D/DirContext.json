@@ -1,0 +1,193 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "bind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Attributes attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSubcontext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Attributes attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] attrIds",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSchema",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSchemaClassDefinition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modifyAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mod_op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModificationItem[] mods",
+                    "description": ""
+                },
+                {
+                    "nombre": "Attributes attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rebind",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Attributes attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "search",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] filterArgs",
+                    "description": ""
+                },
+                {
+                    "nombre": "String filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "String filterExpr",
+                    "description": ""
+                },
+                {
+                    "nombre": "Attributes matchingAttributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] attributesToReturn",
+                    "description": ""
+                },
+                {
+                    "nombre": "SearchControls cons",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ADD_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "REMOVE_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "REPLACE_ATTRIBUTE",
+            "description": ""
+        }
+    ]
+}

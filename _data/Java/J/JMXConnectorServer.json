@@ -1,0 +1,119 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JMXConnectorServer",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "MBeanServer mbeanServer",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "connectionClosed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object userData",
+                    "description": ""
+                },
+                {
+                    "nombre": "String connectionId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "connectionFailed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object userData",
+                    "description": ""
+                },
+                {
+                    "nombre": "String connectionId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "connectionOpened",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object userData",
+                    "description": ""
+                },
+                {
+                    "nombre": "String connectionId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMBeanServer",
+            "description": ""
+        },
+        {
+            "nombre": "getNotificationInfo",
+            "description": ""
+        },
+        {
+            "nombre": "preDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "preRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MBeanServer mbs",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toJMXConnector",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> env",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "AUTHENTICATOR",
+            "description": ""
+        }
+    ]
+}

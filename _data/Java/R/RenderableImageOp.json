@@ -1,0 +1,107 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RenderableImageOp",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ContextualRenderedImageFactory CRIF",
+                    "description": ""
+                },
+                {
+                    "nombre": "ParameterBlock paramBlock",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createDefaultRendering",
+            "description": ""
+        },
+        {
+            "nombre": "createRendering",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RenderContext renderContext",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createScaledRendering",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderingHints hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getMinX",
+            "description": ""
+        },
+        {
+            "nombre": "getMinY",
+            "description": ""
+        },
+        {
+            "nombre": "getParameterBlock",
+            "description": ""
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPropertyNames",
+            "description": ""
+        },
+        {
+            "nombre": "getSources",
+            "description": ""
+        },
+        {
+            "nombre": "getWidth",
+            "description": ""
+        },
+        {
+            "nombre": "isDynamic",
+            "description": ""
+        },
+        {
+            "nombre": "setParameterBlock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ParameterBlock paramBlock",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

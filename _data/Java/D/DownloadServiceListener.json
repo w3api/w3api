@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "downloadFailed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "progress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "long total",
+                    "description": ""
+                },
+                {
+                    "nombre": "long readSoFar",
+                    "description": ""
+                },
+                {
+                    "nombre": "int overallPercent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "upgradingArchive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "int overallPercent",
+                    "description": ""
+                },
+                {
+                    "nombre": "int patchPercent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "validating",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long entry",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "long total",
+                    "description": ""
+                },
+                {
+                    "nombre": "int overallPercent",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImageReaderSpi",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean supportsStandardStreamMetadataFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extraImageMetadataFormatClassNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extraStreamMetadataFormatClassNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nativeImageMetadataFormatClassName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nativeStreamMetadataFormatClassName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String readerClassName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>[] inputTypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] writerSpiNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] suffixes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nativeStreamMetadataFormatName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extraStreamMetadataFormatNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] MIMETypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] names",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean supportsStandardImageMetadataFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extraImageMetadataFormatNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "String vendorName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nativeImageMetadataFormatName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "canDecodeInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createReaderInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object extension",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImageWriterSpiNames",
+            "description": ""
+        },
+        {
+            "nombre": "getInputTypes",
+            "description": ""
+        },
+        {
+            "nombre": "isOwnReader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageReader reader",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "inputTypes",
+            "description": ""
+        },
+        {
+            "nombre": "STANDARD_INPUT_TYPE",
+            "description": ""
+        },
+        {
+            "nombre": "writerSpiNames",
+            "description": ""
+        }
+    ]
+}

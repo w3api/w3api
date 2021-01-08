@@ -1,0 +1,103 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "done",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RemoteCall call",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRefClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectOutput out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Method method",
+                    "description": ""
+                },
+                {
+                    "nombre": "RemoteCall call",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] params",
+                    "description": ""
+                },
+                {
+                    "nombre": "Remote obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "long opnum",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newCall",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RemoteObject obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int opnum",
+                    "description": ""
+                },
+                {
+                    "nombre": "long hash",
+                    "description": ""
+                },
+                {
+                    "nombre": "Operation[] op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remoteEquals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RemoteRef obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remoteHashCode",
+            "description": ""
+        },
+        {
+            "nombre": "remoteToString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "packagePrefix",
+            "description": ""
+        },
+        {
+            "nombre": "serialVersionUID",
+            "description": ""
+        }
+    ]
+}

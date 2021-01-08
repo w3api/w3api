@@ -1,0 +1,221 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GapContent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int initialLength",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "allocateArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getArray",
+            "description": ""
+        },
+        {
+            "nombre": "getArrayLength",
+            "description": ""
+        },
+        {
+            "nombre": "getChars",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int where",
+                    "description": ""
+                },
+                {
+                    "nombre": "Segment chars",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGapEnd",
+            "description": ""
+        },
+        {
+            "nombre": "getGapStart",
+            "description": ""
+        },
+        {
+            "nombre": "getPositionsInRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Vector v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int where",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int where",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "length",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int where",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nitems",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int position",
+                    "description": ""
+                },
+                {
+                    "nombre": "int addSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object addItems",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rmSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resetMarksAtZero",
+            "description": ""
+        },
+        {
+            "nombre": "shiftEnd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shiftGap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newGapStart",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shiftGapEndUp",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newGapEnd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shiftGapStartDown",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newGapStart",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateUndoPositions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "Vector positions",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

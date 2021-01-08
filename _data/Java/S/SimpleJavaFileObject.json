@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SimpleJavaFileObject",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileObject.Kind kind",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "delete",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessLevel",
+            "description": ""
+        },
+        {
+            "nombre": "getCharContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean ignoreEncodingErrors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getKind",
+            "description": ""
+        },
+        {
+            "nombre": "getLastModified",
+            "description": ""
+        },
+        {
+            "nombre": "getNestingKind",
+            "description": ""
+        },
+        {
+            "nombre": "isNameCompatible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaFileObject.Kind kind",
+                    "description": ""
+                },
+                {
+                    "nombre": "String simpleName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "openInputStream",
+            "description": ""
+        },
+        {
+            "nombre": "openOutputStream",
+            "description": ""
+        },
+        {
+            "nombre": "openReader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean ignoreEncodingErrors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "openWriter",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "kind",
+            "description": ""
+        },
+        {
+            "nombre": "uri",
+            "description": ""
+        }
+    ]
+}

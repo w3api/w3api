@@ -1,0 +1,107 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "GraphicsDevice",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAvailableAcceleratedMemory",
+            "description": ""
+        },
+        {
+            "nombre": "getBestConfiguration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GraphicsConfigTemplate gct",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConfigurations",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultConfiguration",
+            "description": ""
+        },
+        {
+            "nombre": "getDisplayMode",
+            "description": ""
+        },
+        {
+            "nombre": "getDisplayModes",
+            "description": ""
+        },
+        {
+            "nombre": "getFullScreenWindow",
+            "description": ""
+        },
+        {
+            "nombre": "getIDstring",
+            "description": ""
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        },
+        {
+            "nombre": "isDisplayChangeSupported",
+            "description": ""
+        },
+        {
+            "nombre": "isFullScreenSupported",
+            "description": ""
+        },
+        {
+            "nombre": "isWindowTranslucencySupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GraphicsDevice.WindowTranslucency translucencyKind",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDisplayMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DisplayMode dm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFullScreenWindow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Window w",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "TYPE_IMAGE_BUFFER",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_PRINTER",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE_RASTER_SCREEN",
+            "description": ""
+        }
+    ]
+}

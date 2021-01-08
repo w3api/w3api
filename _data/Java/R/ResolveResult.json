@@ -1,0 +1,85 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ResolveResult",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Name rname",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object robj",
+                    "description": ""
+                },
+                {
+                    "nombre": "String rcomp",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "appendRemainingComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "appendRemainingName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRemainingName",
+            "description": ""
+        },
+        {
+            "nombre": "getResolvedObj",
+            "description": ""
+        },
+        {
+            "nombre": "setRemainingName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Name name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setResolvedObj",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "remainingName",
+            "description": ""
+        },
+        {
+            "nombre": "resolvedObj",
+            "description": ""
+        }
+    ]
+}

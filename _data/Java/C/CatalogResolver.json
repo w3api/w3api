@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "resolve",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String href",
+                    "description": ""
+                },
+                {
+                    "nombre": "String base",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolveEntity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespace",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String baseUri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolveResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String baseUri",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceUri",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,353 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicComboBoxUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addEditor",
+            "description": ""
+        },
+        {
+            "nombre": "configureArrowButton",
+            "description": ""
+        },
+        {
+            "nombre": "configureEditor",
+            "description": ""
+        },
+        {
+            "nombre": "createArrowButton",
+            "description": ""
+        },
+        {
+            "nombre": "createEditor",
+            "description": ""
+        },
+        {
+            "nombre": "createFocusListener",
+            "description": ""
+        },
+        {
+            "nombre": "createItemListener",
+            "description": ""
+        },
+        {
+            "nombre": "createKeyListener",
+            "description": ""
+        },
+        {
+            "nombre": "createLayoutManager",
+            "description": ""
+        },
+        {
+            "nombre": "createListDataListener",
+            "description": ""
+        },
+        {
+            "nombre": "createPopup",
+            "description": ""
+        },
+        {
+            "nombre": "createPropertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createRenderer",
+            "description": ""
+        },
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaseline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaselineResizeBehavior",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultSize",
+            "description": ""
+        },
+        {
+            "nombre": "getDisplaySize",
+            "description": ""
+        },
+        {
+            "nombre": "getInsets",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSizeForComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "installComponents",
+            "description": ""
+        },
+        {
+            "nombre": "installDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "installKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "installListeners",
+            "description": ""
+        },
+        {
+            "nombre": "isFocusTraversable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComboBox<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNavigationKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int keyCode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isPopupVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComboBox<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintCurrentValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean hasFocus",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintCurrentValueBackground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean hasFocus",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rectangleForCurrentValue",
+            "description": ""
+        },
+        {
+            "nombre": "removeEditor",
+            "description": ""
+        },
+        {
+            "nombre": "selectNextPossibleValue",
+            "description": ""
+        },
+        {
+            "nombre": "selectPreviousPossibleValue",
+            "description": ""
+        },
+        {
+            "nombre": "setPopupVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComboBox<?> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toggleOpenClose",
+            "description": ""
+        },
+        {
+            "nombre": "unconfigureArrowButton",
+            "description": ""
+        },
+        {
+            "nombre": "unconfigureEditor",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallComponents",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallListeners",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "arrowButton",
+            "description": ""
+        },
+        {
+            "nombre": "cachedMinimumSize",
+            "description": ""
+        },
+        {
+            "nombre": "comboBox",
+            "description": ""
+        },
+        {
+            "nombre": "currentValuePane",
+            "description": ""
+        },
+        {
+            "nombre": "editor",
+            "description": ""
+        },
+        {
+            "nombre": "focusListener",
+            "description": ""
+        },
+        {
+            "nombre": "hasFocus",
+            "description": ""
+        },
+        {
+            "nombre": "isMinimumSizeDirty",
+            "description": ""
+        },
+        {
+            "nombre": "itemListener",
+            "description": ""
+        },
+        {
+            "nombre": "keyListener",
+            "description": ""
+        },
+        {
+            "nombre": "listBox",
+            "description": ""
+        },
+        {
+            "nombre": "listDataListener",
+            "description": ""
+        },
+        {
+            "nombre": "padding",
+            "description": ""
+        },
+        {
+            "nombre": "popup",
+            "description": ""
+        },
+        {
+            "nombre": "popupKeyListener",
+            "description": ""
+        },
+        {
+            "nombre": "popupMouseListener",
+            "description": ""
+        },
+        {
+            "nombre": "popupMouseMotionListener",
+            "description": ""
+        },
+        {
+            "nombre": "propertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "squareButton",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "KeyCombination",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "KeyCombination.ModifierValue alt",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyCombination.Modifier... modifiers",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyCombination.ModifierValue meta",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyCombination.ModifierValue shift",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyCombination.ModifierValue control",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyCombination.ModifierValue shortcut",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAlt",
+            "description": ""
+        },
+        {
+            "nombre": "getControl",
+            "description": ""
+        },
+        {
+            "nombre": "getDisplayText",
+            "description": ""
+        },
+        {
+            "nombre": "getMeta",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getShift",
+            "description": ""
+        },
+        {
+            "nombre": "getShortcut",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "keyCombination",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "match",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "valueOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ALT_ANY",
+            "description": ""
+        },
+        {
+            "nombre": "ALT_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "CONTROL_ANY",
+            "description": ""
+        },
+        {
+            "nombre": "CONTROL_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "META_ANY",
+            "description": ""
+        },
+        {
+            "nombre": "META_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "NO_MATCH",
+            "description": ""
+        },
+        {
+            "nombre": "SHIFT_ANY",
+            "description": ""
+        },
+        {
+            "nombre": "SHIFT_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "SHORTCUT_ANY",
+            "description": ""
+        },
+        {
+            "nombre": "SHORTCUT_DOWN",
+            "description": ""
+        }
+    ]
+}

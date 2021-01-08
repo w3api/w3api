@@ -1,0 +1,419 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "allMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Predicate<? super T> predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "anyMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Predicate<? super T> predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "builder",
+            "description": ""
+        },
+        {
+            "nombre": "collect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super T> accumulator",
+                    "description": ""
+                },
+                {
+                    "nombre": "R> collector",
+                    "description": ""
+                },
+                {
+                    "nombre": "R> combiner",
+                    "description": ""
+                },
+                {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collector<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiConsumer<R",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<R> supplier",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "concat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Stream<? extends T> a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Stream<? extends T> b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "count",
+            "description": ""
+        },
+        {
+            "nombre": "distinct",
+            "description": ""
+        },
+        {
+            "nombre": "dropWhile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Predicate<? super T> predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "empty",
+            "description": ""
+        },
+        {
+            "nombre": "filter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Predicate<? super T> predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findAny",
+            "description": ""
+        },
+        {
+            "nombre": "findFirst",
+            "description": ""
+        },
+        {
+            "nombre": "flatMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends Stream<? extends R>> mapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flatMapToDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends DoubleStream> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flatMapToInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends IntStream> mapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flatMapToLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends LongStream> mapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forEach",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super T> action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forEachOrdered",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super T> action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "generate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Supplier<? extends T> s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "iterate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Predicate<? super T> hasNext",
+                    "description": ""
+                },
+                {
+                    "nombre": "UnaryOperator<T> next",
+                    "description": ""
+                },
+                {
+                    "nombre": "T seed",
+                    "description": ""
+                },
+                {
+                    "nombre": "UnaryOperator<T> f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "limit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long maxSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "map",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends R> mapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToDoubleFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToIntFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapToLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ToLongFunction<? super T> mapper",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "max",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super T> comparator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "min",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super T> comparator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "noneMatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Predicate<? super T> predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T t",
+                    "description": ""
+                },
+                {
+                    "nombre": "T... values",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ofNullable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "peek",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super T> action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reduce",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T identity",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<U",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<U> combiner",
+                    "description": ""
+                },
+                {
+                    "nombre": "U identity",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "U> accumulator",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<T> accumulator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "skip",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sorted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<? super T> comparator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "takeWhile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Predicate<? super T> predicate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntFunction<A[]> generator",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

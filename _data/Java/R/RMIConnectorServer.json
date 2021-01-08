@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RMIConnectorServer",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "JMXServiceURL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServer mbeanServer",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> environment",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "RMIServerImpl rmiServerImpl",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "start",
+            "description": ""
+        },
+        {
+            "nombre": "stop",
+            "description": ""
+        },
+        {
+            "nombre": "toJMXConnector",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> env",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CREDENTIAL_TYPES",
+            "description": ""
+        },
+        {
+            "nombre": "CREDENTIALS_FILTER_PATTERN",
+            "description": ""
+        },
+        {
+            "nombre": "JNDI_REBIND_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "RMI_CLIENT_SOCKET_FACTORY_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "RMI_SERVER_SOCKET_FACTORY_ATTRIBUTE",
+            "description": ""
+        },
+        {
+            "nombre": "SERIAL_FILTER_PATTERN",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addBeanContextMembershipListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextMembershipListener bcml",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextChild bcc",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getResourceAsStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextChild bcc",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "instantiateChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String beanName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeBeanContextMembershipListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BeanContextMembershipListener bcml",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "globalHierarchyLock",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HttpsServer",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InetSocketAddress addr",
+                    "description": ""
+                },
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHttpsConfigurator",
+            "description": ""
+        },
+        {
+            "nombre": "setHttpsConfigurator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HttpsConfigurator config",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

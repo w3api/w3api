@@ -1,0 +1,139 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ImageIcon",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "URL location",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image image",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] imageData",
+                    "description": ""
+                },
+                {
+                    "nombre": "String description",
+                    "description": ""
+                },
+                {
+                    "nombre": "String filename",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getDescription",
+            "description": ""
+        },
+        {
+            "nombre": "getIconHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getIconWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getImage",
+            "description": ""
+        },
+        {
+            "nombre": "getImageLoadStatus",
+            "description": ""
+        },
+        {
+            "nombre": "getImageObserver",
+            "description": ""
+        },
+        {
+            "nombre": "loadImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Image image",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDescription",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String description",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Image image",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setImageObserver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImageObserver observer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "component",
+            "description": ""
+        },
+        {
+            "nombre": "tracker",
+            "description": ""
+        }
+    ]
+}

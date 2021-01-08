@@ -1,0 +1,107 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "AbstractListModel",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addListDataListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListDataListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireContentsChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireIntervalAdded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireIntervalRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getListDataListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> listenerType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeListDataListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListDataListener l",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "listenerList",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,433 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "acceptEither",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionStage<? extends T> other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "acceptEitherAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionStage<? extends T> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "applyToEither",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "U> fn",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionStage<? extends T> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "applyToEitherAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "U> fn",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionStage<? extends T> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exceptionally",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends T> fn",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<Throwable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> fn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> fn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runAfterBoth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable action",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionStage<?> other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runAfterBothAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable action",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionStage<?> other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runAfterEither",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable action",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionStage<?> other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runAfterEitherAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable action",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionStage<?> other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenAccept",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super T> action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenAcceptAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenAcceptBoth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CompletionStage<? extends U> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super U> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiConsumer<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenAcceptBothAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CompletionStage<? extends U> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super U> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiConsumer<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenApply",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> fn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenApplyAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> fn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenCombine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CompletionStage<? extends U> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> fn",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super U",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenCombineAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionStage<? extends U> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super U",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> fn",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenCompose",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends CompletionStage<U>> fn",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenComposeAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends CompletionStage<U>> fn",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenRun",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable action",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "thenRunAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable action",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toCompletableFuture",
+            "description": ""
+        },
+        {
+            "nombre": "whenComplete",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super Throwable> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiConsumer<? super T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "whenCompleteAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super Throwable> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiConsumer<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

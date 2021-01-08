@@ -1,0 +1,115 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "CertificateFactory",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "CertificateFactorySpi certFacSpi",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "generateCertificate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "generateCertificates",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "generateCertPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends Certificate> certificates",
+                    "description": ""
+                },
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "generateCRL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "generateCRLs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCertPathEncodings",
+            "description": ""
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        }
+    ]
+}

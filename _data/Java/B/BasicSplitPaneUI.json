@@ -1,0 +1,405 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "BasicSplitPaneUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createDefaultDivider",
+            "description": ""
+        },
+        {
+            "nombre": "createDefaultNonContinuousLayoutDivider",
+            "description": ""
+        },
+        {
+            "nombre": "createFocusListener",
+            "description": ""
+        },
+        {
+            "nombre": "createKeyboardDownRightListener",
+            "description": ""
+        },
+        {
+            "nombre": "createKeyboardEndListener",
+            "description": ""
+        },
+        {
+            "nombre": "createKeyboardHomeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createKeyboardResizeToggleListener",
+            "description": ""
+        },
+        {
+            "nombre": "createKeyboardUpLeftListener",
+            "description": ""
+        },
+        {
+            "nombre": "createPropertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dragDividerTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "finishDraggingTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "finishedPaintingChildren",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JSplitPane sp",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDivider",
+            "description": ""
+        },
+        {
+            "nombre": "getDividerBorderSize",
+            "description": ""
+        },
+        {
+            "nombre": "getDividerLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JSplitPane jc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent jc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLastDragLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumDividerLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JSplitPane jc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent jc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimumDividerLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JSplitPane jc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent jc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNonContinuousLayoutDivider",
+            "description": ""
+        },
+        {
+            "nombre": "getOrientation",
+            "description": ""
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent jc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSplitPane",
+            "description": ""
+        },
+        {
+            "nombre": "installDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "installKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "installListeners",
+            "description": ""
+        },
+        {
+            "nombre": "installUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isContinuousLayout",
+            "description": ""
+        },
+        {
+            "nombre": "resetLayoutManager",
+            "description": ""
+        },
+        {
+            "nombre": "resetToPreferredSizes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JSplitPane jc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContinuousLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDividerLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JSplitPane jc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int location",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLastDragLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNonContinuousLayoutDivider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component newDivider",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean rememberSizes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOrientation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startDragging",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallKeyboardActions",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallListeners",
+            "description": ""
+        },
+        {
+            "nombre": "uninstallUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "beginDragDividerLocation",
+            "description": ""
+        },
+        {
+            "nombre": "divider",
+            "description": ""
+        },
+        {
+            "nombre": "dividerResizeToggleKey",
+            "description": ""
+        },
+        {
+            "nombre": "dividerSize",
+            "description": ""
+        },
+        {
+            "nombre": "downKey",
+            "description": ""
+        },
+        {
+            "nombre": "draggingHW",
+            "description": ""
+        },
+        {
+            "nombre": "endKey",
+            "description": ""
+        },
+        {
+            "nombre": "focusListener",
+            "description": ""
+        },
+        {
+            "nombre": "homeKey",
+            "description": ""
+        },
+        {
+            "nombre": "KEYBOARD_DIVIDER_MOVE_OFFSET",
+            "description": ""
+        },
+        {
+            "nombre": "keyboardDownRightListener",
+            "description": ""
+        },
+        {
+            "nombre": "keyboardEndListener",
+            "description": ""
+        },
+        {
+            "nombre": "keyboardHomeListener",
+            "description": ""
+        },
+        {
+            "nombre": "keyboardResizeToggleListener",
+            "description": ""
+        },
+        {
+            "nombre": "keyboardUpLeftListener",
+            "description": ""
+        },
+        {
+            "nombre": "layoutManager",
+            "description": ""
+        },
+        {
+            "nombre": "leftKey",
+            "description": ""
+        },
+        {
+            "nombre": "NON_CONTINUOUS_DIVIDER",
+            "description": ""
+        },
+        {
+            "nombre": "nonContinuousLayoutDivider",
+            "description": ""
+        },
+        {
+            "nombre": "propertyChangeListener",
+            "description": ""
+        },
+        {
+            "nombre": "rightKey",
+            "description": ""
+        },
+        {
+            "nombre": "splitPane",
+            "description": ""
+        },
+        {
+            "nombre": "upKey",
+            "description": ""
+        }
+    ]
+}

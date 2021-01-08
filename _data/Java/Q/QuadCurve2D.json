@@ -1,0 +1,317 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "QuadCurve2D",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getCtrlPt",
+            "description": ""
+        },
+        {
+            "nombre": "getCtrlX",
+            "description": ""
+        },
+        {
+            "nombre": "getCtrlY",
+            "description": ""
+        },
+        {
+            "nombre": "getFlatness",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double[] coords",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ctrly",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ctrlx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFlatnessSq",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double[] coords",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ctrly",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ctrlx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getP1",
+            "description": ""
+        },
+        {
+            "nombre": "getP2",
+            "description": ""
+        },
+        {
+            "nombre": "getPathIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform at",
+                    "description": ""
+                },
+                {
+                    "nombre": "double flatness",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getX1",
+            "description": ""
+        },
+        {
+            "nombre": "getX2",
+            "description": ""
+        },
+        {
+            "nombre": "getY1",
+            "description": ""
+        },
+        {
+            "nombre": "getY2",
+            "description": ""
+        },
+        {
+            "nombre": "intersects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCurve",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double[] coords",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ctrly",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D[] pts",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ctrlx",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "QuadCurve2D c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D cp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "solveQuadratic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double[] res",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] eqn",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subdivide",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rightoff",
+                    "description": ""
+                },
+                {
+                    "nombre": "QuadCurve2D src",
+                    "description": ""
+                },
+                {
+                    "nombre": "QuadCurve2D right",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcoff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] left",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] right",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int leftoff",
+                    "description": ""
+                },
+                {
+                    "nombre": "QuadCurve2D left",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

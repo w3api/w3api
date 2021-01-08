@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "IdentityScope",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "IdentityScope scope",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addIdentity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Identity identity",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIdentity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Principal principal",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "PublicKey key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSystemScope",
+            "description": ""
+        },
+        {
+            "nombre": "identities",
+            "description": ""
+        },
+        {
+            "nombre": "removeIdentity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Identity identity",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSystemScope",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IdentityScope scope",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,1029 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Character",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "char value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "charCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "charValue",
+            "description": ""
+        },
+        {
+            "nombre": "codePointAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence seq",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "codePointBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence seq",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "codePointCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence seq",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "codePointOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compare",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char x",
+                    "description": ""
+                },
+                {
+                    "nombre": "char y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Character anotherCharacter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "digit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forDigit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int radix",
+                    "description": ""
+                },
+                {
+                    "nombre": "int digit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDirectionality",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNumericValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "highSurrogate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isAlphabetic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBmpCodePoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDefined",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDigit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isHighSurrogate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isIdentifierIgnorable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isIdeographic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isISOControl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isJavaIdentifierPart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isJavaIdentifierStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isJavaLetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isJavaLetterOrDigit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLetter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLetterOrDigit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLowerCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLowSurrogate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isMirrored",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSpace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSpaceChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSupplementaryCodePoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSurrogate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSurrogatePair",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char high",
+                    "description": ""
+                },
+                {
+                    "nombre": "char low",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isTitleCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isUnicodeIdentifierPart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isUnicodeIdentifierStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isUpperCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isValidCodePoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isWhitespace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lowSurrogate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "offsetByCodePoints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePointOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence seq",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reverseBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toChars",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char[] dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dstIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toCodePoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char high",
+                    "description": ""
+                },
+                {
+                    "nombre": "char low",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toLowerCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toTitleCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toUpperCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int codePoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "valueOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char c",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "BYTES",
+            "description": ""
+        },
+        {
+            "nombre": "COMBINING_SPACING_MARK",
+            "description": ""
+        },
+        {
+            "nombre": "CONNECTOR_PUNCTUATION",
+            "description": ""
+        },
+        {
+            "nombre": "CONTROL",
+            "description": ""
+        },
+        {
+            "nombre": "CURRENCY_SYMBOL",
+            "description": ""
+        },
+        {
+            "nombre": "DASH_PUNCTUATION",
+            "description": ""
+        },
+        {
+            "nombre": "DECIMAL_DIGIT_NUMBER",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_ARABIC_NUMBER",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_BOUNDARY_NEUTRAL",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_COMMON_NUMBER_SEPARATOR",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_EUROPEAN_NUMBER",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_EUROPEAN_NUMBER_SEPARATOR",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_EUROPEAN_NUMBER_TERMINATOR",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_FIRST_STRONG_ISOLATE",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_LEFT_TO_RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_LEFT_TO_RIGHT_EMBEDDING",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_LEFT_TO_RIGHT_ISOLATE",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_LEFT_TO_RIGHT_OVERRIDE",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_NONSPACING_MARK",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_OTHER_NEUTRALS",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_PARAGRAPH_SEPARATOR",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_POP_DIRECTIONAL_FORMAT",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_POP_DIRECTIONAL_ISOLATE",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_RIGHT_TO_LEFT",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_RIGHT_TO_LEFT_ARABIC",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_RIGHT_TO_LEFT_EMBEDDING",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_RIGHT_TO_LEFT_ISOLATE",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_RIGHT_TO_LEFT_OVERRIDE",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_SEGMENT_SEPARATOR",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_UNDEFINED",
+            "description": ""
+        },
+        {
+            "nombre": "DIRECTIONALITY_WHITESPACE",
+            "description": ""
+        },
+        {
+            "nombre": "ENCLOSING_MARK",
+            "description": ""
+        },
+        {
+            "nombre": "END_PUNCTUATION",
+            "description": ""
+        },
+        {
+            "nombre": "FINAL_QUOTE_PUNCTUATION",
+            "description": ""
+        },
+        {
+            "nombre": "FORMAT",
+            "description": ""
+        },
+        {
+            "nombre": "INITIAL_QUOTE_PUNCTUATION",
+            "description": ""
+        },
+        {
+            "nombre": "LETTER_NUMBER",
+            "description": ""
+        },
+        {
+            "nombre": "LINE_SEPARATOR",
+            "description": ""
+        },
+        {
+            "nombre": "LOWERCASE_LETTER",
+            "description": ""
+        },
+        {
+            "nombre": "MATH_SYMBOL",
+            "description": ""
+        },
+        {
+            "nombre": "MAX_CODE_POINT",
+            "description": ""
+        },
+        {
+            "nombre": "MAX_HIGH_SURROGATE",
+            "description": ""
+        },
+        {
+            "nombre": "MAX_LOW_SURROGATE",
+            "description": ""
+        },
+        {
+            "nombre": "MAX_RADIX",
+            "description": ""
+        },
+        {
+            "nombre": "MAX_SURROGATE",
+            "description": ""
+        },
+        {
+            "nombre": "MAX_VALUE",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_CODE_POINT",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_HIGH_SURROGATE",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_LOW_SURROGATE",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_RADIX",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_SUPPLEMENTARY_CODE_POINT",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_SURROGATE",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_VALUE",
+            "description": ""
+        },
+        {
+            "nombre": "MODIFIER_LETTER",
+            "description": ""
+        },
+        {
+            "nombre": "MODIFIER_SYMBOL",
+            "description": ""
+        },
+        {
+            "nombre": "NON_SPACING_MARK",
+            "description": ""
+        },
+        {
+            "nombre": "OTHER_LETTER",
+            "description": ""
+        },
+        {
+            "nombre": "OTHER_NUMBER",
+            "description": ""
+        },
+        {
+            "nombre": "OTHER_PUNCTUATION",
+            "description": ""
+        },
+        {
+            "nombre": "OTHER_SYMBOL",
+            "description": ""
+        },
+        {
+            "nombre": "PARAGRAPH_SEPARATOR",
+            "description": ""
+        },
+        {
+            "nombre": "PRIVATE_USE",
+            "description": ""
+        },
+        {
+            "nombre": "SIZE",
+            "description": ""
+        },
+        {
+            "nombre": "SPACE_SEPARATOR",
+            "description": ""
+        },
+        {
+            "nombre": "START_PUNCTUATION",
+            "description": ""
+        },
+        {
+            "nombre": "SURROGATE",
+            "description": ""
+        },
+        {
+            "nombre": "TITLECASE_LETTER",
+            "description": ""
+        },
+        {
+            "nombre": "TYPE",
+            "description": ""
+        },
+        {
+            "nombre": "UNASSIGNED",
+            "description": ""
+        },
+        {
+            "nombre": "UPPERCASE_LETTER",
+            "description": ""
+        }
+    ]
+}
