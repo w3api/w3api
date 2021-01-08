@@ -1,0 +1,111 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SynthSliderUI",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "JSlider c",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layout",
+            "description": ""
+        },
+        {
+            "nombre": "paint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext context",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintThumb",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SynthContext context",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle thumbBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintTrack",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle trackBounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext context",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "uninstallDefaults",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JSlider slider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "update",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TransferHandler",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "canImport",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent comp",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataFlavor[] transferFlavors",
+                    "description": ""
+                },
+                {
+                    "nombre": "TransferHandler.TransferSupport support",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createTransferable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exportAsDrag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int action",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent comp",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exportDone",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int action",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent source",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transferable data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exportToClipboard",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int action",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent comp",
+                    "description": ""
+                },
+                {
+                    "nombre": "Clipboard clip",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCopyAction",
+            "description": ""
+        },
+        {
+            "nombre": "getCutAction",
+            "description": ""
+        },
+        {
+            "nombre": "getDragImage",
+            "description": ""
+        },
+        {
+            "nombre": "getDragImageOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getPasteAction",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceActions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVisualRepresentation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Transferable t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "importData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent comp",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transferable t",
+                    "description": ""
+                },
+                {
+                    "nombre": "TransferHandler.TransferSupport support",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDragImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Image img",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDragImageOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "COPY",
+            "description": ""
+        },
+        {
+            "nombre": "COPY_OR_MOVE",
+            "description": ""
+        },
+        {
+            "nombre": "LINK",
+            "description": ""
+        },
+        {
+            "nombre": "MOVE",
+            "description": ""
+        },
+        {
+            "nombre": "NONE",
+            "description": ""
+        }
+    ]
+}

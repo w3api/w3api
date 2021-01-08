@@ -1,0 +1,307 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Utilities",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "drawTabbedText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics2D g",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "TabExpander e",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Segment s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBreakLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "TabExpander e",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x0",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x0",
+                    "description": ""
+                },
+                {
+                    "nombre": "Segment s",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics metrics",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNextWord",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParagraphElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPositionAbove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPositionBelow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreviousWord",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowEnd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabbedTextOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "TabExpander e",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x0",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x0",
+                    "description": ""
+                },
+                {
+                    "nombre": "Segment s",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean round",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics metrics",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTabbedTextWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "TabExpander e",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Segment s",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics metrics",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWordEnd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWordStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offs",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

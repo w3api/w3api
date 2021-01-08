@@ -1,0 +1,91 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "chooseClientAlias",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Principal[] issuers",
+                    "description": ""
+                },
+                {
+                    "nombre": "Socket socket",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "chooseServerAlias",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Principal[] issuers",
+                    "description": ""
+                },
+                {
+                    "nombre": "Socket socket",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCertificateChain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String alias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClientAliases",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Principal[] issuers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPrivateKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String alias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getServerAliases",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Principal[] issuers",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

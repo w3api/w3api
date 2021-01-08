@@ -1,0 +1,101 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TreeSelectionEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath newLeadSelectionPath",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath oldLeadSelectionPath",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean[] areNew",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath[] paths",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isNew",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cloneWithSource",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newSource",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNewLeadSelectionPath",
+            "description": ""
+        },
+        {
+            "nombre": "getOldLeadSelectionPath",
+            "description": ""
+        },
+        {
+            "nombre": "getPath",
+            "description": ""
+        },
+        {
+            "nombre": "getPaths",
+            "description": ""
+        },
+        {
+            "nombre": "isAddedPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "areNew",
+            "description": ""
+        },
+        {
+            "nombre": "newLeadSelectionPath",
+            "description": ""
+        },
+        {
+            "nombre": "oldLeadSelectionPath",
+            "description": ""
+        },
+        {
+            "nombre": "paths",
+            "description": ""
+        }
+    ]
+}

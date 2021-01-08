@@ -1,0 +1,157 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addFlavorForUnencodedNative",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor flav",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addUnencodedNativeForFlavor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor flav",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decodeDataFlavor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "decodeJavaMIMEType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "encodeDataFlavor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor flav",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "encodeJavaMIMEType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultFlavorMap",
+            "description": ""
+        },
+        {
+            "nombre": "getFlavorsForNative",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFlavorsForNatives",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] natives",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNativesForFlavor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor flav",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNativesForFlavors",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor[] flavors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isJavaMIMEType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFlavorsForNative",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataFlavor[] flavors",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNativesForFlavor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String[] natives",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataFlavor flav",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

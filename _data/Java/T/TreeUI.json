@@ -1,0 +1,137 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TreeUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cancelEditing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClosestPathForLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEditingPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPathBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPathForRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowForPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEditing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startEditingAtPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stopEditing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTree tree",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,699 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StyleablePropertyFactory",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "List<CssMetaData<? extends Styleable",
+                    "description": ""
+                },
+                {
+                    "nombre": "?>> parentCssMetaData",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createBooleanCssMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Boolean>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createColorCssMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Color>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDurationCssMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Duration>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createEffectCssMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StyleableProperty<E>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "E initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createEnumCssMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StyleableProperty<E>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "E initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<? extends Enum> enumClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFontCssMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Font>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createInsetsCssMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Insets>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets initialValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createPaintCssMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Paint>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "Paint initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSizeCssMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StyleableProperty<Number>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "Number initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStringCssMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<String>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStyleableBooleanProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Boolean>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "S styleable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStyleableColorProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Color>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "S styleable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStyleableDurationProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "Duration initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Duration>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "S styleable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStyleableEffectProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<E>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<E> enumClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "E initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "S styleable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStyleableEnumProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<E>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<E> enumClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "E initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "S styleable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStyleableFontProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Font>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "S styleable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStyleableInsetsProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "S styleable",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Insets>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets initialValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStyleableNumberProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Number>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "Number initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "S styleable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStyleablePaintProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<Paint>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "Paint initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "S styleable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStyleableStringProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<String>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "S styleable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStyleableUrlProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String cssProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<String>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "S styleable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createUrlCssMetaData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean inherits",
+                    "description": ""
+                },
+                {
+                    "nombre": "String initialValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyleableProperty<String>> function",
+                    "description": ""
+                },
+                {
+                    "nombre": "String property",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCssMetaData",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "X509ExtendedTrustManager",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "checkClientTrusted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SSLEngine engine",
+                    "description": ""
+                },
+                {
+                    "nombre": "X509Certificate[] chain",
+                    "description": ""
+                },
+                {
+                    "nombre": "String authType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Socket socket",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkServerTrusted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SSLEngine engine",
+                    "description": ""
+                },
+                {
+                    "nombre": "X509Certificate[] chain",
+                    "description": ""
+                },
+                {
+                    "nombre": "String authType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Socket socket",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

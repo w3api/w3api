@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "WorkerStateEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Worker worker",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<? extends WorkerStateEvent> eventType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getSource",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        },
+        {
+            "nombre": "WORKER_STATE_CANCELLED",
+            "description": ""
+        },
+        {
+            "nombre": "WORKER_STATE_FAILED",
+            "description": ""
+        },
+        {
+            "nombre": "WORKER_STATE_READY",
+            "description": ""
+        },
+        {
+            "nombre": "WORKER_STATE_RUNNING",
+            "description": ""
+        },
+        {
+            "nombre": "WORKER_STATE_SCHEDULED",
+            "description": ""
+        },
+        {
+            "nombre": "WORKER_STATE_SUCCEEDED",
+            "description": ""
+        }
+    ]
+}

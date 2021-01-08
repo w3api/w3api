@@ -1,0 +1,327 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "WebEngine",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String url",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "confirmHandlerProperty",
+            "description": ""
+        },
+        {
+            "nombre": "createPopupHandlerProperty",
+            "description": ""
+        },
+        {
+            "nombre": "documentProperty",
+            "description": ""
+        },
+        {
+            "nombre": "executeScript",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String script",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConfirmHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getCreatePopupHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getDocument",
+            "description": ""
+        },
+        {
+            "nombre": "getHistory",
+            "description": ""
+        },
+        {
+            "nombre": "getLoadWorker",
+            "description": ""
+        },
+        {
+            "nombre": "getLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getOnAlert",
+            "description": ""
+        },
+        {
+            "nombre": "getOnError",
+            "description": ""
+        },
+        {
+            "nombre": "getOnResized",
+            "description": ""
+        },
+        {
+            "nombre": "getOnStatusChanged",
+            "description": ""
+        },
+        {
+            "nombre": "getOnVisibilityChanged",
+            "description": ""
+        },
+        {
+            "nombre": "getPromptHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getTitle",
+            "description": ""
+        },
+        {
+            "nombre": "getUserAgent",
+            "description": ""
+        },
+        {
+            "nombre": "getUserDataDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "getUserStyleSheetLocation",
+            "description": ""
+        },
+        {
+            "nombre": "isJavaScriptEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "javaScriptEnabledProperty",
+            "description": ""
+        },
+        {
+            "nombre": "load",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String url",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String contentType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "locationProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onAlertProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onErrorProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onResizedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onStatusChangedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onVisibilityChangedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "print",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrinterJob job",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "promptHandlerProperty",
+            "description": ""
+        },
+        {
+            "nombre": "reload",
+            "description": ""
+        },
+        {
+            "nombre": "setConfirmHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Boolean> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<String",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCreatePopupHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WebEngine> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<PopupFeatures",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setJavaScriptEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnAlert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WebEvent<String>> handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WebErrorEvent> handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnResized",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WebEvent<Rectangle2D>> handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnStatusChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WebEvent<String>> handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnVisibilityChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WebEvent<Boolean>> handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPromptHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<PromptData",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUserAgent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUserDataDirectory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "File value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUserStyleSheetLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "titleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "userAgentProperty",
+            "description": ""
+        },
+        {
+            "nombre": "userDataDirectoryProperty",
+            "description": ""
+        },
+        {
+            "nombre": "userStyleSheetLocationProperty",
+            "description": ""
+        }
+    ]
+}

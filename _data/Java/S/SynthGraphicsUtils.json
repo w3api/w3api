@@ -1,0 +1,399 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SynthGraphicsUtils",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "computeStringWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext ss",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics metrics",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drawLine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object styleKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object paintKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIconHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIconWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximumCharHeight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SynthContext context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mnemonicIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vTextPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vAlign",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int iconTextGap",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hAlign",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext ss",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hTextPosition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mnemonicIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vTextPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vAlign",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int iconTextGap",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hAlign",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext ss",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hTextPosition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPreferredSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mnemonicIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vTextPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vAlign",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int iconTextGap",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hAlign",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext ss",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hTextPosition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int vTextPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vAlign",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle iconR",
+                    "description": ""
+                },
+                {
+                    "nombre": "int iconTextGap",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle textR",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics fm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle viewR",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hAlign",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext ss",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hTextPosition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintIcon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext context",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mnemonicIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hTextPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vTextPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vAlign",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int textOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int iconTextGap",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hAlign",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynthContext ss",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

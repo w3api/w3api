@@ -1,0 +1,103 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "XPathFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getFeature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isObjectModelSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String objectModel",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDefaultInstance",
+            "description": ""
+        },
+        {
+            "nombre": "newInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String factoryClassName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newXPath",
+            "description": ""
+        },
+        {
+            "nombre": "setFeature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setXPathFunctionResolver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XPathFunctionResolver resolver",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setXPathVariableResolver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XPathVariableResolver resolver",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT_OBJECT_MODEL_URI",
+            "description": ""
+        },
+        {
+            "nombre": "DEFAULT_PROPERTY_NAME",
+            "description": ""
+        }
+    ]
+}

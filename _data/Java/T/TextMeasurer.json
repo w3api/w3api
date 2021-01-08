@@ -1,0 +1,93 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TextMeasurer",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "FontRenderContext frc",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "deleteChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int deletePos",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator newParagraph",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAdvanceBetween",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLineBreakIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "float maxAdvance",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int insertPos",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator newParagraph",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

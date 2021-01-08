@@ -1,0 +1,245 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ThreadPoolExecutor",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "RejectedExecutionHandler handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maximumPoolSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "long keepAliveTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "int corePoolSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "BlockingQueue<Runnable> workQueue",
+                    "description": ""
+                },
+                {
+                    "nombre": "ThreadFactory threadFactory",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "afterExecute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable r",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "allowCoreThreadTimeOut",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "allowsCoreThreadTimeOut",
+            "description": ""
+        },
+        {
+            "nombre": "beforeExecute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable r",
+                    "description": ""
+                },
+                {
+                    "nombre": "Thread t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "execute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable command",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "finalize",
+            "description": ""
+        },
+        {
+            "nombre": "getActiveCount",
+            "description": ""
+        },
+        {
+            "nombre": "getCompletedTaskCount",
+            "description": ""
+        },
+        {
+            "nombre": "getCorePoolSize",
+            "description": ""
+        },
+        {
+            "nombre": "getKeepAliveTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLargestPoolSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMaximumPoolSize",
+            "description": ""
+        },
+        {
+            "nombre": "getPoolSize",
+            "description": ""
+        },
+        {
+            "nombre": "getQueue",
+            "description": ""
+        },
+        {
+            "nombre": "getRejectedExecutionHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getTaskCount",
+            "description": ""
+        },
+        {
+            "nombre": "getThreadFactory",
+            "description": ""
+        },
+        {
+            "nombre": "isTerminating",
+            "description": ""
+        },
+        {
+            "nombre": "prestartAllCoreThreads",
+            "description": ""
+        },
+        {
+            "nombre": "prestartCoreThread",
+            "description": ""
+        },
+        {
+            "nombre": "purge",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable task",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCorePoolSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int corePoolSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setKeepAliveTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "long time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximumPoolSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maximumPoolSize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRejectedExecutionHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RejectedExecutionHandler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setThreadFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ThreadFactory threadFactory",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shutdown",
+            "description": ""
+        },
+        {
+            "nombre": "shutdownNow",
+            "description": ""
+        },
+        {
+            "nombre": "terminated",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

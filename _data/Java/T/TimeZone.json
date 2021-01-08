@@ -1,0 +1,181 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TimeZone",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "getAvailableIDs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rawOffset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefault",
+            "description": ""
+        },
+        {
+            "nombre": "getDisplayName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean daylight",
+                    "description": ""
+                },
+                {
+                    "nombre": "int style",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDSTSavings",
+            "description": ""
+        },
+        {
+            "nombre": "getID",
+            "description": ""
+        },
+        {
+            "nombre": "getOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dayOfWeek",
+                    "description": ""
+                },
+                {
+                    "nombre": "int era",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int day",
+                    "description": ""
+                },
+                {
+                    "nombre": "long date",
+                    "description": ""
+                },
+                {
+                    "nombre": "int milliseconds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRawOffset",
+            "description": ""
+        },
+        {
+            "nombre": "getTimeZone",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneId zoneId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String ID",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasSameRules",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeZone other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inDaylightTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "observesDaylightTime",
+            "description": ""
+        },
+        {
+            "nombre": "setDefault",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TimeZone zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setID",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String ID",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRawOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int offsetMillis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toZoneId",
+            "description": ""
+        },
+        {
+            "nombre": "useDaylightTime",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "LONG",
+            "description": ""
+        },
+        {
+            "nombre": "SHORT",
+            "description": ""
+        }
+    ]
+}

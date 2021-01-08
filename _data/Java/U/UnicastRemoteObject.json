@@ -1,0 +1,71 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "UnicastRemoteObject",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "RMIClientSocketFactory csf",
+                    "description": ""
+                },
+                {
+                    "nombre": "RMIServerSocketFactory ssf",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "exportObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RMIClientSocketFactory csf",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectInputFilter filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "Remote obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "RMIServerSocketFactory ssf",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unexportObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean force",
+                    "description": ""
+                },
+                {
+                    "nombre": "Remote obj",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

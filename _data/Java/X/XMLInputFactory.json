@@ -1,0 +1,237 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "XMLInputFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createFilteredReader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StreamFilter filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventFilter filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "XMLStreamReader reader",
+                    "description": ""
+                },
+                {
+                    "nombre": "XMLEventReader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createXMLEventReader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "XMLStreamReader reader",
+                    "description": ""
+                },
+                {
+                    "nombre": "Source source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createXMLStreamReader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "Source source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEventAllocator",
+            "description": ""
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getXMLReporter",
+            "description": ""
+        },
+        {
+            "nombre": "getXMLResolver",
+            "description": ""
+        },
+        {
+            "nombre": "isPropertySupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDefaultFactory",
+            "description": ""
+        },
+        {
+            "nombre": "newFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String factoryId",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String factoryId",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEventAllocator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XMLEventAllocator allocator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setXMLReporter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XMLReporter reporter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setXMLResolver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XMLResolver resolver",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ALLOCATOR",
+            "description": ""
+        },
+        {
+            "nombre": "IS_COALESCING",
+            "description": ""
+        },
+        {
+            "nombre": "IS_NAMESPACE_AWARE",
+            "description": ""
+        },
+        {
+            "nombre": "IS_REPLACING_ENTITY_REFERENCES",
+            "description": ""
+        },
+        {
+            "nombre": "IS_SUPPORTING_EXTERNAL_ENTITIES",
+            "description": ""
+        },
+        {
+            "nombre": "IS_VALIDATING",
+            "description": ""
+        },
+        {
+            "nombre": "REPORTER",
+            "description": ""
+        },
+        {
+            "nombre": "RESOLVER",
+            "description": ""
+        },
+        {
+            "nombre": "SUPPORT_DTD",
+            "description": ""
+        }
+    ]
+}

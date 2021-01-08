@@ -1,0 +1,279 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ValueAxis",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "double upperBound",
+                    "description": ""
+                },
+                {
+                    "nombre": "double lowerBound",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "autoRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double labelSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "double length",
+                    "description": ""
+                },
+                {
+                    "nombre": "double minValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "double maxValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "calculateMinorTickMarks",
+            "description": ""
+        },
+        {
+            "nombre": "calculateNewScale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double length",
+                    "description": ""
+                },
+                {
+                    "nombre": "double upperBound",
+                    "description": ""
+                },
+                {
+                    "nombre": "double lowerBound",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getDisplayPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLowerBound",
+            "description": ""
+        },
+        {
+            "nombre": "getMinorTickCount",
+            "description": ""
+        },
+        {
+            "nombre": "getMinorTickLength",
+            "description": ""
+        },
+        {
+            "nombre": "getScale",
+            "description": ""
+        },
+        {
+            "nombre": "getTickLabelFormatter",
+            "description": ""
+        },
+        {
+            "nombre": "getUpperBound",
+            "description": ""
+        },
+        {
+            "nombre": "getValueForDisplay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double displayPosition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getZeroPosition",
+            "description": ""
+        },
+        {
+            "nombre": "invalidateRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<T> data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isMinorTickVisible",
+            "description": ""
+        },
+        {
+            "nombre": "isValueOnAxis",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutChildren",
+            "description": ""
+        },
+        {
+            "nombre": "lowerBoundProperty",
+            "description": ""
+        },
+        {
+            "nombre": "minorTickCountProperty",
+            "description": ""
+        },
+        {
+            "nombre": "minorTickLengthProperty",
+            "description": ""
+        },
+        {
+            "nombre": "minorTickVisibleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "scaleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setLowerBound",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinorTickCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinorTickLength",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinorTickVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setScale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double scale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTickLabelFormatter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUpperBound",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "tickLabelFormatterProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tickMarksUpdated",
+            "description": ""
+        },
+        {
+            "nombre": "toNumericValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toRealValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "upperBoundProperty",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "currentLowerBound",
+            "description": ""
+        }
+    ]
+}

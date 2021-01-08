@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TransportService",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "accept",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long acceptTimeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TransportService.ListenKey listenKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "long handshakeTimeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "attach",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long handshakeTimeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "long attachTimeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "String address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "capabilities",
+            "description": ""
+        },
+        {
+            "nombre": "description",
+            "description": ""
+        },
+        {
+            "nombre": "name",
+            "description": ""
+        },
+        {
+            "nombre": "startListening",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String address",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stopListening",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TransportService.ListenKey listenKey",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

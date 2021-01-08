@@ -1,0 +1,129 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TableView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "calculateMinorAxisRequirements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createTableCell",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createTableRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getViewAtPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutColumns",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SizeRequirements[] reqs",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] spans",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int targetSpan",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutMinorAxis",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] spans",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int targetSpan",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "View[] views",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

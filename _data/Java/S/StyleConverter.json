@@ -1,0 +1,149 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StyleConverter",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cacheValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ParsedValue key",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clearCache",
+            "description": ""
+        },
+        {
+            "nombre": "convert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<CssMetaData<? extends Styleable",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object> convertedValues",
+                    "description": ""
+                },
+                {
+                    "nombre": "ParsedValue<F",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                },
+                {
+                    "nombre": "?>",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBooleanConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getCachedValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ParsedValue key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColorConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getDurationConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getEffectConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getEnumConverter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<E> enumClass",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFontConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getInsetsConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getPaintConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getSizeConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getStringConverter",
+            "description": ""
+        },
+        {
+            "nombre": "getUrlConverter",
+            "description": ""
+        },
+        {
+            "nombre": "readBinary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataInputStream is",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] strings",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeBinary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StyleConverter.StringStore sstore",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataOutputStream os",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

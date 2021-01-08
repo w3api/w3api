@@ -1,0 +1,253 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "getNamespaceContext",
+            "description": ""
+        },
+        {
+            "nombre": "getPrefix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultNamespace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNamespaceContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NamespaceContext context",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrefix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeCData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeCharacters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeComment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeDefaultNamespace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeDTD",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String dtd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeEmptyElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeEndDocument",
+            "description": ""
+        },
+        {
+            "nombre": "writeEndElement",
+            "description": ""
+        },
+        {
+            "nombre": "writeEntityRef",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeNamespace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeProcessingInstruction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String data",
+                    "description": ""
+                },
+                {
+                    "nombre": "String target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeStartDocument",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeStartElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

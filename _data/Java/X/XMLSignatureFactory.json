@@ -1,0 +1,289 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "XMLSignatureFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mechanismType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getKeyInfoFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getMechanismType",
+            "description": ""
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getURIDereferencer",
+            "description": ""
+        },
+        {
+            "nombre": "isFeatureSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String feature",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newCanonicalizationMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "C14NMethodParameterSpec params",
+                    "description": ""
+                },
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "XMLStructure params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDigestMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "DigestMethodParameterSpec params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newManifest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends Reference> references",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newReference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Data result",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
+                    "nombre": "DigestMethod dm",
+                    "description": ""
+                },
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends Transform> transforms",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends Transform> appliedTransforms",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] digestValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSignatureMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "SignatureMethodParameterSpec params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSignatureProperties",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends SignatureProperty> properties",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSignatureProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "String target",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends XMLStructure> content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newSignedInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SignatureMethod sm",
+                    "description": ""
+                },
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "CanonicalizationMethod cm",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends Reference> references",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "XMLStructure params",
+                    "description": ""
+                },
+                {
+                    "nombre": "TransformParameterSpec params",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newXMLObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mimeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends XMLStructure> content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newXMLSignature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends XMLObject> objects",
+                    "description": ""
+                },
+                {
+                    "nombre": "String signatureValueId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "SignedInfo si",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyInfo ki",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unmarshalXMLSignature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XMLValidateContext context",
+                    "description": ""
+                },
+                {
+                    "nombre": "XMLStructure xmlStructure",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

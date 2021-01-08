@@ -1,0 +1,39 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "checkClientTrusted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "X509Certificate[] chain",
+                    "description": ""
+                },
+                {
+                    "nombre": "String authType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkServerTrusted",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "X509Certificate[] chain",
+                    "description": ""
+                },
+                {
+                    "nombre": "String authType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAcceptedIssuers",
+            "description": ""
+        }
+    ]
+}

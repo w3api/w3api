@@ -1,0 +1,129 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "XMLOutputFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createXMLEventWriter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "Writer stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "Result result",
+                    "description": ""
+                },
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createXMLStreamWriter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "Writer stream",
+                    "description": ""
+                },
+                {
+                    "nombre": "Result result",
+                    "description": ""
+                },
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isPropertySupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDefaultFactory",
+            "description": ""
+        },
+        {
+            "nombre": "newFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String factoryId",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String factoryId",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "IS_REPAIRING_NAMESPACES",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "compile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String expression",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "evaluate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName returnType",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputSource source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String expression",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "evaluateExpression",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputSource source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String expression",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNamespaceContext",
+            "description": ""
+        },
+        {
+            "nombre": "getXPathFunctionResolver",
+            "description": ""
+        },
+        {
+            "nombre": "getXPathVariableResolver",
+            "description": ""
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "setNamespaceContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NamespaceContext nsContext",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setXPathFunctionResolver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XPathFunctionResolver resolver",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setXPathVariableResolver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XPathVariableResolver resolver",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

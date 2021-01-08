@@ -1,0 +1,171 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SynchronousQueue",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean fair",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clear",
+            "description": ""
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "containsAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "drainTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<? super E> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxElements",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "iterator",
+            "description": ""
+        },
+        {
+            "nombre": "offer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "E e",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "peek",
+            "description": ""
+        },
+        {
+            "nombre": "poll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "put",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "E e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remainingCapacity",
+            "description": ""
+        },
+        {
+            "nombre": "remove",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "retainAll",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": ""
+        },
+        {
+            "nombre": "spliterator",
+            "description": ""
+        },
+        {
+            "nombre": "take",
+            "description": ""
+        },
+        {
+            "nombre": "toArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T[] a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

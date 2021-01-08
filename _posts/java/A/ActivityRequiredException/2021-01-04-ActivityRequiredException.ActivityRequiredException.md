@@ -1,0 +1,44 @@
+---
+title: ActivityRequiredException.ActivityRequiredException()
+permalink: Java/ActivityRequiredException/ActivityRequiredException
+date: 2021-01-04
+key: JavaJava.A.ActivityRequiredException
+category: java
+tags: ['java se', 'javax.activity', 'java.corba', 'metodo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.A.ActivityRequiredException.constructores valor="ActivityRequiredException" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public ActivityRequiredException()
+public ActivityRequiredException(String message)
+public ActivityRequiredException(String message, Throwable cause)
+public ActivityRequiredException(Throwable cause)
+~~~
+
+## Parámetros
+* **String message**,  {% include w3api/param_description.html metodo=_data parametro="String message" %}
+* **Throwable cause**,  {% include w3api/param_description.html metodo=_data parametro="Throwable cause" %}
+
+## Clase Padre
+[ActivityRequiredException](/Java/ActivityRequiredException/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.A.ActivityRequiredException.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

@@ -1,0 +1,69 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getConflictValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStatus",
+            "description": ""
+        },
+        {
+            "nombre": "nextConflict",
+            "description": ""
+        },
+        {
+            "nombre": "previousConflict",
+            "description": ""
+        },
+        {
+            "nombre": "setResolvedValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DELETE_ROW_CONFLICT",
+            "description": ""
+        },
+        {
+            "nombre": "INSERT_ROW_CONFLICT",
+            "description": ""
+        },
+        {
+            "nombre": "NO_ROW_CONFLICT",
+            "description": ""
+        },
+        {
+            "nombre": "UPDATE_ROW_CONFLICT",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TextFieldTreeCell",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "converterProperty",
+            "description": ""
+        },
+        {
+            "nombre": "forTreeView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getConverter",
+            "description": ""
+        },
+        {
+            "nombre": "setConverter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateItem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean empty",
+                    "description": ""
+                },
+                {
+                    "nombre": "T item",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TIFFDirectory",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TIFFTag parentTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "TIFFTagSet[] tagSets",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addTagSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TIFFTagSet tagSet",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addTIFFField",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TIFFField f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "containsTIFFField",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tagNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFromMetadata",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IIOMetadata tiffImageMetadata",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAsMetadata",
+            "description": ""
+        },
+        {
+            "nombre": "getNumTIFFFields",
+            "description": ""
+        },
+        {
+            "nombre": "getParentTag",
+            "description": ""
+        },
+        {
+            "nombre": "getTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tagNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTagSets",
+            "description": ""
+        },
+        {
+            "nombre": "getTIFFField",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tagNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTIFFFields",
+            "description": ""
+        },
+        {
+            "nombre": "removeTagSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TIFFTagSet tagSet",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeTIFFField",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int tagNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeTIFFFields",
+            "description": ""
+        }
+    ]
+}

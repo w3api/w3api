@@ -1,0 +1,481 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "XYChart",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Axis<Y> yAxis",
+                    "description": ""
+                },
+                {
+                    "nombre": "Axis<X> xAxis",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "alternativeColumnFillVisibleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "alternativeRowFillVisibleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "currentDisplayedExtraValueProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "currentDisplayedXValueProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "currentDisplayedYValueProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dataItemAdded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "Y> series",
+                    "description": ""
+                },
+                {
+                    "nombre": "int itemIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Series<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dataItemChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dataItemRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "Y> series",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Series<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "dataProperty",
+            "description": ""
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentDisplayedExtraValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCurrentDisplayedXValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCurrentDisplayedYValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getData",
+            "description": ""
+        },
+        {
+            "nombre": "getDisplayedDataIterator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> series",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Series<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDisplayedSeriesIterator",
+            "description": ""
+        },
+        {
+            "nombre": "getPlotChildren",
+            "description": ""
+        },
+        {
+            "nombre": "getVerticalGridLinesVisible",
+            "description": ""
+        },
+        {
+            "nombre": "getXAxis",
+            "description": ""
+        },
+        {
+            "nombre": "getYAxis",
+            "description": ""
+        },
+        {
+            "nombre": "horizontalGridLinesVisibleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "horizontalZeroLineVisibleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "isAlternativeColumnFillVisible",
+            "description": ""
+        },
+        {
+            "nombre": "isAlternativeRowFillVisible",
+            "description": ""
+        },
+        {
+            "nombre": "isHorizontalGridLinesVisible",
+            "description": ""
+        },
+        {
+            "nombre": "isHorizontalZeroLineVisible",
+            "description": ""
+        },
+        {
+            "nombre": "isVerticalZeroLineVisible",
+            "description": ""
+        },
+        {
+            "nombre": "layoutPlotChildren",
+            "description": ""
+        },
+        {
+            "nombre": "removeDataItemFromDisplay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "Y> series",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Series<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeSeriesFromDisplay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> series",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Series<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "seriesAdded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int seriesIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Y> series",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Series<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "seriesChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListChangeListener.Change<? extends XYChart.Series> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "seriesRemoved",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> series",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Series<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAlternativeColumnFillVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAlternativeRowFillVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCurrentDisplayedExtraValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCurrentDisplayedXValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                },
+                {
+                    "nombre": "X value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCurrentDisplayedYValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Y> item",
+                    "description": ""
+                },
+                {
+                    "nombre": "Y value",
+                    "description": ""
+                },
+                {
+                    "nombre": "XYChart.Data<X",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<XYChart.Series<X",
+                    "description": ""
+                },
+                {
+                    "nombre": "Y>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHorizontalGridLinesVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setHorizontalZeroLineVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVerticalGridLinesVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVerticalZeroLineVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateAxisRange",
+            "description": ""
+        },
+        {
+            "nombre": "updateLegend",
+            "description": ""
+        },
+        {
+            "nombre": "verticalGridLinesVisibleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "verticalZeroLineVisibleProperty",
+            "description": ""
+        }
+    ]
+}

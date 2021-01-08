@@ -1,0 +1,171 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "URLStreamHandler",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL u1",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL u2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultPort",
+            "description": ""
+        },
+        {
+            "nombre": "getHostAddress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL u",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL u",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hostsEqual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL u1",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL u2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "openConnection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Proxy p",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL u",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parseURL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String spec",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL u",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sameFile",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL u1",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL u2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setURL",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String file",
+                    "description": ""
+                },
+                {
+                    "nombre": "String authority",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL u",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "String query",
+                    "description": ""
+                },
+                {
+                    "nombre": "String userInfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "String path",
+                    "description": ""
+                },
+                {
+                    "nombre": "String ref",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toExternalForm",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL u",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

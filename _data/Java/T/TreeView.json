@@ -1,0 +1,325 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TreeView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<T> root",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cellFactoryProperty",
+            "description": ""
+        },
+        {
+            "nombre": "edit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<T> item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "editableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "editAnyEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editCancelEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editCommitEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editingItemProperty",
+            "description": ""
+        },
+        {
+            "nombre": "editStartEvent",
+            "description": ""
+        },
+        {
+            "nombre": "expandedItemCountProperty",
+            "description": ""
+        },
+        {
+            "nombre": "fixedCellSizeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "focusModelProperty",
+            "description": ""
+        },
+        {
+            "nombre": "getCellFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getControlCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getEditingItem",
+            "description": ""
+        },
+        {
+            "nombre": "getExpandedItemCount",
+            "description": ""
+        },
+        {
+            "nombre": "getFixedCellSize",
+            "description": ""
+        },
+        {
+            "nombre": "getFocusModel",
+            "description": ""
+        },
+        {
+            "nombre": "getNodeLevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<?> node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOnEditCancel",
+            "description": ""
+        },
+        {
+            "nombre": "getOnEditCommit",
+            "description": ""
+        },
+        {
+            "nombre": "getOnEditStart",
+            "description": ""
+        },
+        {
+            "nombre": "getOnScrollTo",
+            "description": ""
+        },
+        {
+            "nombre": "getRoot",
+            "description": ""
+        },
+        {
+            "nombre": "getRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<T> item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "getTreeItem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTreeItemLevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<?> node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEditable",
+            "description": ""
+        },
+        {
+            "nombre": "isShowRoot",
+            "description": ""
+        },
+        {
+            "nombre": "onEditCancelProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onEditCommitProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onEditStartProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onScrollToProperty",
+            "description": ""
+        },
+        {
+            "nombre": "refresh",
+            "description": ""
+        },
+        {
+            "nombre": "rootProperty",
+            "description": ""
+        },
+        {
+            "nombre": "scrollTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectionModelProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setCellFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callback<TreeView<T>",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeCell<T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFixedCellSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFocusModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FocusModel<TreeItem<T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnEditCancel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<TreeView.EditEvent<T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnEditCommit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<TreeView.EditEvent<T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnEditStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<TreeView.EditEvent<T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnScrollTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<ScrollToEvent<Integer>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<T> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MultipleSelectionModel<TreeItem<T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShowRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showRootProperty",
+            "description": ""
+        }
+    ]
+}

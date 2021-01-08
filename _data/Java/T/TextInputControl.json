@@ -1,0 +1,409 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TextInputControl",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TextInputControl.Content content",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "anchorProperty",
+            "description": ""
+        },
+        {
+            "nombre": "appendText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "backward",
+            "description": ""
+        },
+        {
+            "nombre": "cancelEdit",
+            "description": ""
+        },
+        {
+            "nombre": "caretPositionProperty",
+            "description": ""
+        },
+        {
+            "nombre": "clear",
+            "description": ""
+        },
+        {
+            "nombre": "commitValue",
+            "description": ""
+        },
+        {
+            "nombre": "copy",
+            "description": ""
+        },
+        {
+            "nombre": "cut",
+            "description": ""
+        },
+        {
+            "nombre": "deleteNextChar",
+            "description": ""
+        },
+        {
+            "nombre": "deletePreviousChar",
+            "description": ""
+        },
+        {
+            "nombre": "deleteText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "IndexRange range",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "deselect",
+            "description": ""
+        },
+        {
+            "nombre": "editableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "end",
+            "description": ""
+        },
+        {
+            "nombre": "endOfNextWord",
+            "description": ""
+        },
+        {
+            "nombre": "extendSelection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fontProperty",
+            "description": ""
+        },
+        {
+            "nombre": "forward",
+            "description": ""
+        },
+        {
+            "nombre": "getAnchor",
+            "description": ""
+        },
+        {
+            "nombre": "getCaretPosition",
+            "description": ""
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getContent",
+            "description": ""
+        },
+        {
+            "nombre": "getControlCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getFont",
+            "description": ""
+        },
+        {
+            "nombre": "getLength",
+            "description": ""
+        },
+        {
+            "nombre": "getPromptText",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedText",
+            "description": ""
+        },
+        {
+            "nombre": "getSelection",
+            "description": ""
+        },
+        {
+            "nombre": "getText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTextFormatter",
+            "description": ""
+        },
+        {
+            "nombre": "home",
+            "description": ""
+        },
+        {
+            "nombre": "insertText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEditable",
+            "description": ""
+        },
+        {
+            "nombre": "isRedoable",
+            "description": ""
+        },
+        {
+            "nombre": "isUndoable",
+            "description": ""
+        },
+        {
+            "nombre": "lengthProperty",
+            "description": ""
+        },
+        {
+            "nombre": "nextWord",
+            "description": ""
+        },
+        {
+            "nombre": "paste",
+            "description": ""
+        },
+        {
+            "nombre": "positionCaret",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "previousWord",
+            "description": ""
+        },
+        {
+            "nombre": "promptTextProperty",
+            "description": ""
+        },
+        {
+            "nombre": "redo",
+            "description": ""
+        },
+        {
+            "nombre": "redoableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "replaceSelection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String replacement",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "IndexRange range",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectAll",
+            "description": ""
+        },
+        {
+            "nombre": "selectBackward",
+            "description": ""
+        },
+        {
+            "nombre": "selectedTextProperty",
+            "description": ""
+        },
+        {
+            "nombre": "selectEnd",
+            "description": ""
+        },
+        {
+            "nombre": "selectEndOfNextWord",
+            "description": ""
+        },
+        {
+            "nombre": "selectForward",
+            "description": ""
+        },
+        {
+            "nombre": "selectHome",
+            "description": ""
+        },
+        {
+            "nombre": "selectionProperty",
+            "description": ""
+        },
+        {
+            "nombre": "selectNextWord",
+            "description": ""
+        },
+        {
+            "nombre": "selectPositionCaret",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectPreviousWord",
+            "description": ""
+        },
+        {
+            "nombre": "selectRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int anchor",
+                    "description": ""
+                },
+                {
+                    "nombre": "int caretPosition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPromptText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTextFormatter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextFormatter<?> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "textFormatterProperty",
+            "description": ""
+        },
+        {
+            "nombre": "textProperty",
+            "description": ""
+        },
+        {
+            "nombre": "undo",
+            "description": ""
+        },
+        {
+            "nombre": "undoableProperty",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,367 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ZipEntry",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ZipEntry e",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "getComment",
+            "description": ""
+        },
+        {
+            "nombre": "getCompressedSize",
+            "description": ""
+        },
+        {
+            "nombre": "getCrc",
+            "description": ""
+        },
+        {
+            "nombre": "getCreationTime",
+            "description": ""
+        },
+        {
+            "nombre": "getExtra",
+            "description": ""
+        },
+        {
+            "nombre": "getLastAccessTime",
+            "description": ""
+        },
+        {
+            "nombre": "getLastModifiedTime",
+            "description": ""
+        },
+        {
+            "nombre": "getMethod",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getSize",
+            "description": ""
+        },
+        {
+            "nombre": "getTime",
+            "description": ""
+        },
+        {
+            "nombre": "getTimeLocal",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "setComment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String comment",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCompressedSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long csize",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCrc",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long crc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCreationTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileTime time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExtra",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] extra",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLastAccessTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileTime time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLastModifiedTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileTime time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int method",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTimeLocal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LocalDateTime time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CENATT",
+            "description": ""
+        },
+        {
+            "nombre": "CENATX",
+            "description": ""
+        },
+        {
+            "nombre": "CENCOM",
+            "description": ""
+        },
+        {
+            "nombre": "CENCRC",
+            "description": ""
+        },
+        {
+            "nombre": "CENDSK",
+            "description": ""
+        },
+        {
+            "nombre": "CENEXT",
+            "description": ""
+        },
+        {
+            "nombre": "CENFLG",
+            "description": ""
+        },
+        {
+            "nombre": "CENHDR",
+            "description": ""
+        },
+        {
+            "nombre": "CENHOW",
+            "description": ""
+        },
+        {
+            "nombre": "CENLEN",
+            "description": ""
+        },
+        {
+            "nombre": "CENNAM",
+            "description": ""
+        },
+        {
+            "nombre": "CENOFF",
+            "description": ""
+        },
+        {
+            "nombre": "CENSIG",
+            "description": ""
+        },
+        {
+            "nombre": "CENSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "CENTIM",
+            "description": ""
+        },
+        {
+            "nombre": "CENVEM",
+            "description": ""
+        },
+        {
+            "nombre": "CENVER",
+            "description": ""
+        },
+        {
+            "nombre": "DEFLATED",
+            "description": ""
+        },
+        {
+            "nombre": "ENDCOM",
+            "description": ""
+        },
+        {
+            "nombre": "ENDHDR",
+            "description": ""
+        },
+        {
+            "nombre": "ENDOFF",
+            "description": ""
+        },
+        {
+            "nombre": "ENDSIG",
+            "description": ""
+        },
+        {
+            "nombre": "ENDSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "ENDSUB",
+            "description": ""
+        },
+        {
+            "nombre": "ENDTOT",
+            "description": ""
+        },
+        {
+            "nombre": "EXTCRC",
+            "description": ""
+        },
+        {
+            "nombre": "EXTHDR",
+            "description": ""
+        },
+        {
+            "nombre": "EXTLEN",
+            "description": ""
+        },
+        {
+            "nombre": "EXTSIG",
+            "description": ""
+        },
+        {
+            "nombre": "EXTSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "LOCCRC",
+            "description": ""
+        },
+        {
+            "nombre": "LOCEXT",
+            "description": ""
+        },
+        {
+            "nombre": "LOCFLG",
+            "description": ""
+        },
+        {
+            "nombre": "LOCHDR",
+            "description": ""
+        },
+        {
+            "nombre": "LOCHOW",
+            "description": ""
+        },
+        {
+            "nombre": "LOCLEN",
+            "description": ""
+        },
+        {
+            "nombre": "LOCNAM",
+            "description": ""
+        },
+        {
+            "nombre": "LOCSIG",
+            "description": ""
+        },
+        {
+            "nombre": "LOCSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "LOCTIM",
+            "description": ""
+        },
+        {
+            "nombre": "LOCVER",
+            "description": ""
+        },
+        {
+            "nombre": "STORED",
+            "description": ""
+        }
+    ]
+}

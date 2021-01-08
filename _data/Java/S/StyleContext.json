@@ -1,0 +1,329 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StyleContext",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet old",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet old",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                },
+                {
+                    "nombre": "Style parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createLargeAttributeSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSmallAttributeSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBackground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getChangeListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getCompressionThreshold",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultStyleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getEmptySet",
+            "description": ""
+        },
+        {
+            "nombre": "getFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "String family",
+                    "description": ""
+                },
+                {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "int style",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFontMetrics",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getForeground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStaticAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStaticAttributeKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStyleNames",
+            "description": ""
+        },
+        {
+            "nombre": "readAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MutableAttributeSet a",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectInputStream in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readAttributeSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MutableAttributeSet a",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectInputStream in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reclaim",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerStaticAttributeKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet old",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet old",
+                    "description": ""
+                },
+                {
+                    "nombre": "Enumeration<?> names",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attrs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ChangeListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "writeAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectOutputStream out",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeAttributeSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectOutputStream out",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT_STYLE",
+            "description": ""
+        }
+    ]
+}

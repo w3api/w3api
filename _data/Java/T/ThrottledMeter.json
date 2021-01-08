@@ -1,0 +1,65 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ResourceRequest parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceApprover approver",
+                    "description": ""
+                },
+                {
+                    "nombre": "long ratePerSec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCurrentRate",
+            "description": ""
+        },
+        {
+            "nombre": "getRatePerSec",
+            "description": ""
+        },
+        {
+            "nombre": "setRatePerSec",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long ratePerSec",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "validate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long previous",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amount",
+                    "description": ""
+                },
+                {
+                    "nombre": "ResourceId id",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

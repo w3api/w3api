@@ -1,0 +1,103 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Throwable",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean enableSuppression",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean writableStackTrace",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable cause",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addSuppressed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable exception",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fillInStackTrace",
+            "description": ""
+        },
+        {
+            "nombre": "getCause",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalizedMessage",
+            "description": ""
+        },
+        {
+            "nombre": "getMessage",
+            "description": ""
+        },
+        {
+            "nombre": "getStackTrace",
+            "description": ""
+        },
+        {
+            "nombre": "getSuppressed",
+            "description": ""
+        },
+        {
+            "nombre": "initCause",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable cause",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "printStackTrace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrintWriter s",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintStream s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStackTrace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StackTraceElement[] stackTrace",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

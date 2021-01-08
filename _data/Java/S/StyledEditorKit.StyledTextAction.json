@@ -1,0 +1,85 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StyledEditorKit.StyledTextAction",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getEditor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ActionEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStyledDocument",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JEditorPane e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStyledEditorKit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JEditorPane e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCharacterAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JEditorPane editor",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean replace",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParagraphAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JEditorPane editor",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean replace",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

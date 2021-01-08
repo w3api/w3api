@@ -1,0 +1,295 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Task",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addEventFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventFilter",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "call",
+            "description": ""
+        },
+        {
+            "nombre": "cancelled",
+            "description": ""
+        },
+        {
+            "nombre": "exceptionProperty",
+            "description": ""
+        },
+        {
+            "nombre": "failed",
+            "description": ""
+        },
+        {
+            "nombre": "fireEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Event event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOnCancelled",
+            "description": ""
+        },
+        {
+            "nombre": "getOnFailed",
+            "description": ""
+        },
+        {
+            "nombre": "getOnRunning",
+            "description": ""
+        },
+        {
+            "nombre": "getOnScheduled",
+            "description": ""
+        },
+        {
+            "nombre": "getOnSucceeded",
+            "description": ""
+        },
+        {
+            "nombre": "messageProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onCancelledProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onFailedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onRunningProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onScheduledProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onSucceededProperty",
+            "description": ""
+        },
+        {
+            "nombre": "progressProperty",
+            "description": ""
+        },
+        {
+            "nombre": "removeEventFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventFilter",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "running",
+            "description": ""
+        },
+        {
+            "nombre": "runningProperty",
+            "description": ""
+        },
+        {
+            "nombre": "scheduled",
+            "description": ""
+        },
+        {
+            "nombre": "setEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnCancelled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WorkerStateEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnFailed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WorkerStateEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnRunning",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WorkerStateEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnScheduled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WorkerStateEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnSucceeded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WorkerStateEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stateProperty",
+            "description": ""
+        },
+        {
+            "nombre": "succeeded",
+            "description": ""
+        },
+        {
+            "nombre": "titleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "totalWorkProperty",
+            "description": ""
+        },
+        {
+            "nombre": "updateMessage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateProgress",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long max",
+                    "description": ""
+                },
+                {
+                    "nombre": "double max",
+                    "description": ""
+                },
+                {
+                    "nombre": "long workDone",
+                    "description": ""
+                },
+                {
+                    "nombre": "double workDone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateTitle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "valueProperty",
+            "description": ""
+        },
+        {
+            "nombre": "workDoneProperty",
+            "description": ""
+        }
+    ]
+}

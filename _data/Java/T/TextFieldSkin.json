@@ -1,0 +1,75 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TextFieldSkin",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TextField control",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "deleteChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean previous",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "positionCaret",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean select",
+                    "description": ""
+                },
+                {
+                    "nombre": "HitInfo hit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
+                    "nombre": "String txt",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

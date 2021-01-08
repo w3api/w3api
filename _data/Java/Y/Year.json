@@ -1,0 +1,337 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "adjustInto",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Temporal temporal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "atDay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dayOfYear",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "atMonth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Month month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int month",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "atMonthDay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MonthDay monthDay",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Year other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DateTimeFormatter formatter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalAccessor temporal",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getValue",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isAfter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Year other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Year other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLeap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long year",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isValidMonthDay",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MonthDay monthDay",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "length",
+            "description": ""
+        },
+        {
+            "nombre": "minus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAmount amountToSubtract",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amountToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "minusYears",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long yearsToSubtract",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "now",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Clock clock",
+                    "description": ""
+                },
+                {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int isoYear",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DateTimeFormatter formatter",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAmount amountToAdd",
+                    "description": ""
+                },
+                {
+                    "nombre": "long amountToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "plusYears",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long yearsToAdd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "query",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalQuery<R> query",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "range",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "until",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TemporalUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "Temporal endExclusive",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "with",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAdjuster adjuster",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "MAX_VALUE",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_VALUE",
+            "description": ""
+        }
+    ]
+}

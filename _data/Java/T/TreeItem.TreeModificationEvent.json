@@ -1,0 +1,93 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TreeItem.TreeModificationEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "T newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeItem<T> treeItem",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends TreeItem<T>> removed",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends TreeItem<T>> added",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<? extends Event> eventType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAddedChildren",
+            "description": ""
+        },
+        {
+            "nombre": "getAddedSize",
+            "description": ""
+        },
+        {
+            "nombre": "getNewValue",
+            "description": ""
+        },
+        {
+            "nombre": "getRemovedChildren",
+            "description": ""
+        },
+        {
+            "nombre": "getRemovedSize",
+            "description": ""
+        },
+        {
+            "nombre": "getSource",
+            "description": ""
+        },
+        {
+            "nombre": "getTreeItem",
+            "description": ""
+        },
+        {
+            "nombre": "wasAdded",
+            "description": ""
+        },
+        {
+            "nombre": "wasCollapsed",
+            "description": ""
+        },
+        {
+            "nombre": "wasExpanded",
+            "description": ""
+        },
+        {
+            "nombre": "wasPermutated",
+            "description": ""
+        },
+        {
+            "nombre": "wasRemoved",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        }
+    ]
+}

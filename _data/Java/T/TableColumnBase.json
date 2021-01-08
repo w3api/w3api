@@ -1,0 +1,389 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TableColumnBase",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<E> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<E> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "comparatorProperty",
+            "description": ""
+        },
+        {
+            "nombre": "contextMenuProperty",
+            "description": ""
+        },
+        {
+            "nombre": "editableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "getCellData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "S item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCellObservableValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "S item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColumns",
+            "description": ""
+        },
+        {
+            "nombre": "getComparator",
+            "description": ""
+        },
+        {
+            "nombre": "getContextMenu",
+            "description": ""
+        },
+        {
+            "nombre": "getGraphic",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getMinWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getParentColumn",
+            "description": ""
+        },
+        {
+            "nombre": "getPrefWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getProperties",
+            "description": ""
+        },
+        {
+            "nombre": "getSortNode",
+            "description": ""
+        },
+        {
+            "nombre": "getStyleClass",
+            "description": ""
+        },
+        {
+            "nombre": "getText",
+            "description": ""
+        },
+        {
+            "nombre": "getUserData",
+            "description": ""
+        },
+        {
+            "nombre": "getWidth",
+            "description": ""
+        },
+        {
+            "nombre": "graphicProperty",
+            "description": ""
+        },
+        {
+            "nombre": "hasProperties",
+            "description": ""
+        },
+        {
+            "nombre": "idProperty",
+            "description": ""
+        },
+        {
+            "nombre": "isEditable",
+            "description": ""
+        },
+        {
+            "nombre": "isReorderable",
+            "description": ""
+        },
+        {
+            "nombre": "isResizable",
+            "description": ""
+        },
+        {
+            "nombre": "isSortable",
+            "description": ""
+        },
+        {
+            "nombre": "isVisible",
+            "description": ""
+        },
+        {
+            "nombre": "maxWidthProperty",
+            "description": ""
+        },
+        {
+            "nombre": "minWidthProperty",
+            "description": ""
+        },
+        {
+            "nombre": "parentColumnProperty",
+            "description": ""
+        },
+        {
+            "nombre": "prefWidthProperty",
+            "description": ""
+        },
+        {
+            "nombre": "removeEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<E> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<E> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reorderableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "resizableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setComparator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Comparator<T> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContextMenu",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ContextMenu value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGraphic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setId",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaxWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrefWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReorderable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setResizable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSortable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSortNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUserData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sortableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "sortNodeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "styleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "textProperty",
+            "description": ""
+        },
+        {
+            "nombre": "visibleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "widthProperty",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT_COMPARATOR",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "createExpression",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XPathNSResolver resolver",
+                    "description": ""
+                },
+                {
+                    "nombre": "String expression",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createNSResolver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node nodeResolver",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "evaluate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node contextNode",
+                    "description": ""
+                },
+                {
+                    "nombre": "String expression",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object result",
+                    "description": ""
+                },
+                {
+                    "nombre": "XPathNSResolver resolver",
+                    "description": ""
+                },
+                {
+                    "nombre": "short type",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

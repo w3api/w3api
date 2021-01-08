@@ -1,0 +1,299 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "allClasses",
+            "description": ""
+        },
+        {
+            "nombre": "allModules",
+            "description": ""
+        },
+        {
+            "nombre": "allThreads",
+            "description": ""
+        },
+        {
+            "nombre": "canAddMethod",
+            "description": ""
+        },
+        {
+            "nombre": "canBeModified",
+            "description": ""
+        },
+        {
+            "nombre": "canForceEarlyReturn",
+            "description": ""
+        },
+        {
+            "nombre": "canGetBytecodes",
+            "description": ""
+        },
+        {
+            "nombre": "canGetClassFileVersion",
+            "description": ""
+        },
+        {
+            "nombre": "canGetConstantPool",
+            "description": ""
+        },
+        {
+            "nombre": "canGetCurrentContendedMonitor",
+            "description": ""
+        },
+        {
+            "nombre": "canGetInstanceInfo",
+            "description": ""
+        },
+        {
+            "nombre": "canGetMethodReturnValues",
+            "description": ""
+        },
+        {
+            "nombre": "canGetModuleInfo",
+            "description": ""
+        },
+        {
+            "nombre": "canGetMonitorFrameInfo",
+            "description": ""
+        },
+        {
+            "nombre": "canGetMonitorInfo",
+            "description": ""
+        },
+        {
+            "nombre": "canGetOwnedMonitorInfo",
+            "description": ""
+        },
+        {
+            "nombre": "canGetSourceDebugExtension",
+            "description": ""
+        },
+        {
+            "nombre": "canGetSyntheticAttribute",
+            "description": ""
+        },
+        {
+            "nombre": "canPopFrames",
+            "description": ""
+        },
+        {
+            "nombre": "canRedefineClasses",
+            "description": ""
+        },
+        {
+            "nombre": "canRequestMonitorEvents",
+            "description": ""
+        },
+        {
+            "nombre": "canRequestVMDeathEvent",
+            "description": ""
+        },
+        {
+            "nombre": "canUnrestrictedlyRedefineClasses",
+            "description": ""
+        },
+        {
+            "nombre": "canUseInstanceFilters",
+            "description": ""
+        },
+        {
+            "nombre": "canUseSourceNameFilters",
+            "description": ""
+        },
+        {
+            "nombre": "canWatchFieldAccess",
+            "description": ""
+        },
+        {
+            "nombre": "canWatchFieldModification",
+            "description": ""
+        },
+        {
+            "nombre": "classesByName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String className",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "description",
+            "description": ""
+        },
+        {
+            "nombre": "dispose",
+            "description": ""
+        },
+        {
+            "nombre": "eventQueue",
+            "description": ""
+        },
+        {
+            "nombre": "eventRequestManager",
+            "description": ""
+        },
+        {
+            "nombre": "exit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int exitCode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultStratum",
+            "description": ""
+        },
+        {
+            "nombre": "instanceCounts",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "List<? extends ReferenceType> refTypes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mirrorOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float value",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte value",
+                    "description": ""
+                },
+                {
+                    "nombre": "char value",
+                    "description": ""
+                },
+                {
+                    "nombre": "long value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "double value",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                },
+                {
+                    "nombre": "short value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mirrorOfVoid",
+            "description": ""
+        },
+        {
+            "nombre": "name",
+            "description": ""
+        },
+        {
+            "nombre": "process",
+            "description": ""
+        },
+        {
+            "nombre": "redefineClasses",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Map<? extends ReferenceType",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[]> classToBytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resume",
+            "description": ""
+        },
+        {
+            "nombre": "setDebugTraceMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int traceFlags",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultStratum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String stratum",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "suspend",
+            "description": ""
+        },
+        {
+            "nombre": "topLevelThreadGroups",
+            "description": ""
+        },
+        {
+            "nombre": "version",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "TRACE_ALL",
+            "description": ""
+        },
+        {
+            "nombre": "TRACE_EVENTS",
+            "description": ""
+        },
+        {
+            "nombre": "TRACE_NONE",
+            "description": ""
+        },
+        {
+            "nombre": "TRACE_OBJREFS",
+            "description": ""
+        },
+        {
+            "nombre": "TRACE_RECEIVES",
+            "description": ""
+        },
+        {
+            "nombre": "TRACE_REFTYPES",
+            "description": ""
+        },
+        {
+            "nombre": "TRACE_SENDS",
+            "description": ""
+        }
+    ]
+}

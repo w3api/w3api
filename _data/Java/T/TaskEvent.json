@@ -1,0 +1,47 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TaskEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TaskEvent.Kind kind",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeElement clazz",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompilationUnitTree unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileObject sourceFile",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCompilationUnit",
+            "description": ""
+        },
+        {
+            "nombre": "getKind",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceFile",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeElement",
+            "description": ""
+        }
+    ]
+}

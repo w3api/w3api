@@ -1,0 +1,165 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object otherRules",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDaylightSavings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant instant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant instant",
+                    "description": ""
+                },
+                {
+                    "nombre": "LocalDateTime localDateTime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStandardOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant instant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTransition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LocalDateTime localDateTime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTransitionRules",
+            "description": ""
+        },
+        {
+            "nombre": "getTransitions",
+            "description": ""
+        },
+        {
+            "nombre": "getValidOffsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LocalDateTime localDateTime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isDaylightSavings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant instant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFixedOffset",
+            "description": ""
+        },
+        {
+            "nombre": "isValidOffset",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneOffset offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "LocalDateTime localDateTime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "nextTransition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant instant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "of",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneOffset baseWallOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ZoneOffsetTransition> standardOffsetTransitionList",
+                    "description": ""
+                },
+                {
+                    "nombre": "ZoneOffset offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ZoneOffsetTransition> transitionList",
+                    "description": ""
+                },
+                {
+                    "nombre": "ZoneOffset baseStandardOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ZoneOffsetTransitionRule> lastRules",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "previousTransition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant instant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

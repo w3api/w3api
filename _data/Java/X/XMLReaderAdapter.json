@@ -1,0 +1,225 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "XMLReaderAdapter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "XMLReader xmlReader",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "characters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endDocument",
+            "description": ""
+        },
+        {
+            "nombre": "endElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endPrefixMapping",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ignorableWhitespace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputSource input",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processingInstruction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String data",
+                    "description": ""
+                },
+                {
+                    "nombre": "String target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDocumentHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentHandler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDocumentLocator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locator locator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDTDHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DTDHandler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEntityResolver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EntityResolver resolver",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setErrorHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ErrorHandler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "skippedEntity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startDocument",
+            "description": ""
+        },
+        {
+            "nombre": "startElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Attributes atts",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startPrefixMapping",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,283 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Thread",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "long stackSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "ThreadGroup group",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inheritThreadLocals",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable target",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "activeCount",
+            "description": ""
+        },
+        {
+            "nombre": "checkAccess",
+            "description": ""
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "countStackFrames",
+            "description": ""
+        },
+        {
+            "nombre": "currentThread",
+            "description": ""
+        },
+        {
+            "nombre": "destroy",
+            "description": ""
+        },
+        {
+            "nombre": "dumpStack",
+            "description": ""
+        },
+        {
+            "nombre": "enumerate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Thread[] tarray",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllStackTraces",
+            "description": ""
+        },
+        {
+            "nombre": "getContextClassLoader",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultUncaughtExceptionHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getId",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getPriority",
+            "description": ""
+        },
+        {
+            "nombre": "getStackTrace",
+            "description": ""
+        },
+        {
+            "nombre": "getState",
+            "description": ""
+        },
+        {
+            "nombre": "getThreadGroup",
+            "description": ""
+        },
+        {
+            "nombre": "getUncaughtExceptionHandler",
+            "description": ""
+        },
+        {
+            "nombre": "holdsLock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "interrupt",
+            "description": ""
+        },
+        {
+            "nombre": "interrupted",
+            "description": ""
+        },
+        {
+            "nombre": "isAlive",
+            "description": ""
+        },
+        {
+            "nombre": "isDaemon",
+            "description": ""
+        },
+        {
+            "nombre": "isInterrupted",
+            "description": ""
+        },
+        {
+            "nombre": "join",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long millis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nanos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onSpinWait",
+            "description": ""
+        },
+        {
+            "nombre": "resume",
+            "description": ""
+        },
+        {
+            "nombre": "run",
+            "description": ""
+        },
+        {
+            "nombre": "setContextClassLoader",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader cl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDaemon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultUncaughtExceptionHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Thread.UncaughtExceptionHandler eh",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPriority",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newPriority",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUncaughtExceptionHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Thread.UncaughtExceptionHandler eh",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sleep",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long millis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nanos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": ""
+        },
+        {
+            "nombre": "stop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "suspend",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "yield",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "MAX_PRIORITY",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_PRIORITY",
+            "description": ""
+        },
+        {
+            "nombre": "NORM_PRIORITY",
+            "description": ""
+        }
+    ]
+}

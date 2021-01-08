@@ -1,0 +1,125 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Transformer",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clearParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getErrorListener",
+            "description": ""
+        },
+        {
+            "nombre": "getOutputProperties",
+            "description": ""
+        },
+        {
+            "nombre": "getOutputProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getURIResolver",
+            "description": ""
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "setErrorListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ErrorListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOutputProperties",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Properties oformat",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOutputProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setURIResolver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URIResolver resolver",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Source xmlSource",
+                    "description": ""
+                },
+                {
+                    "nombre": "Result outputTarget",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

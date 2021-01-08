@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String providerID",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLogger",
+            "description": ""
+        },
+        {
+            "nombre": "getRegisteredProviders",
+            "description": ""
+        },
+        {
+            "nombre": "getSyncFactory",
+            "description": ""
+        },
+        {
+            "nombre": "registerProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String providerID",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setJNDIContext",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Context ctx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLogger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Level level",
+                    "description": ""
+                },
+                {
+                    "nombre": "Logger logger",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unregisterProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String providerID",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ROWSET_SYNC_PROVIDER",
+            "description": ""
+        },
+        {
+            "nombre": "ROWSET_SYNC_PROVIDER_VERSION",
+            "description": ""
+        },
+        {
+            "nombre": "ROWSET_SYNC_VENDOR",
+            "description": ""
+        }
+    ]
+}

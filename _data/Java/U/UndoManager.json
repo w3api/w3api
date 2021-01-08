@@ -1,0 +1,141 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "UndoManager",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addEdit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UndoableEdit anEdit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "canRedo",
+            "description": ""
+        },
+        {
+            "nombre": "canUndo",
+            "description": ""
+        },
+        {
+            "nombre": "canUndoOrRedo",
+            "description": ""
+        },
+        {
+            "nombre": "discardAllEdits",
+            "description": ""
+        },
+        {
+            "nombre": "editToBeRedone",
+            "description": ""
+        },
+        {
+            "nombre": "editToBeUndone",
+            "description": ""
+        },
+        {
+            "nombre": "end",
+            "description": ""
+        },
+        {
+            "nombre": "getLimit",
+            "description": ""
+        },
+        {
+            "nombre": "getRedoPresentationName",
+            "description": ""
+        },
+        {
+            "nombre": "getUndoOrRedoPresentationName",
+            "description": ""
+        },
+        {
+            "nombre": "getUndoPresentationName",
+            "description": ""
+        },
+        {
+            "nombre": "redo",
+            "description": ""
+        },
+        {
+            "nombre": "redoTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UndoableEdit edit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLimit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "trimEdits",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int from",
+                    "description": ""
+                },
+                {
+                    "nombre": "int to",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "trimForLimit",
+            "description": ""
+        },
+        {
+            "nombre": "undo",
+            "description": ""
+        },
+        {
+            "nombre": "undoableEditHappened",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UndoableEditEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "undoOrRedo",
+            "description": ""
+        },
+        {
+            "nombre": "undoTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UndoableEdit edit",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

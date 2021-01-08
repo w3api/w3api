@@ -1,0 +1,377 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "XMLFilterImpl",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "XMLReader parent",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "characters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endDocument",
+            "description": ""
+        },
+        {
+            "nombre": "endElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endPrefixMapping",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "error",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SAXParseException e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fatalError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SAXParseException e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContentHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getDTDHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getEntityResolver",
+            "description": ""
+        },
+        {
+            "nombre": "getErrorHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getFeature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParent",
+            "description": ""
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "ignorableWhitespace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] ch",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "notationDecl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputSource input",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processingInstruction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String data",
+                    "description": ""
+                },
+                {
+                    "nombre": "String target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolveEntity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContentHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ContentHandler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDocumentLocator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Locator locator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDTDHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DTDHandler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEntityResolver",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EntityResolver resolver",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setErrorHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ErrorHandler handler",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFeature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XMLReader parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "skippedEntity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startDocument",
+            "description": ""
+        },
+        {
+            "nombre": "startElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Attributes atts",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startPrefixMapping",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unparsedEntityDecl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String systemId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String notationName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String publicId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "warning",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SAXParseException e",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

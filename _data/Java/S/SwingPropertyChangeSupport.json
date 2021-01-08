@@ -1,0 +1,37 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SwingPropertyChangeSupport",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Object sourceBean",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean notifyOnEDT",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "firePropertyChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeEvent evt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNotifyOnEDT",
+            "description": ""
+        }
+    ]
+}

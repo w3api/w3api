@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TextFormatter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<V> valueConverter",
+                    "description": ""
+                },
+                {
+                    "nombre": "UnaryOperator<TextFormatter.Change> filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "V defaultValue",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getFilter",
+            "description": ""
+        },
+        {
+            "nombre": "getValue",
+            "description": ""
+        },
+        {
+            "nombre": "getValueConverter",
+            "description": ""
+        },
+        {
+            "nombre": "setValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "V value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "valueProperty",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "IDENTITY_STRING_CONVERTER",
+            "description": ""
+        }
+    ]
+}

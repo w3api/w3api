@@ -1,0 +1,355 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "X509CertSelector",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addPathToName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] name",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addSubjectAlternativeName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] name",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "getAuthorityKeyIdentifier",
+            "description": ""
+        },
+        {
+            "nombre": "getBasicConstraints",
+            "description": ""
+        },
+        {
+            "nombre": "getCertificate",
+            "description": ""
+        },
+        {
+            "nombre": "getCertificateValid",
+            "description": ""
+        },
+        {
+            "nombre": "getExtendedKeyUsage",
+            "description": ""
+        },
+        {
+            "nombre": "getIssuer",
+            "description": ""
+        },
+        {
+            "nombre": "getIssuerAsBytes",
+            "description": ""
+        },
+        {
+            "nombre": "getIssuerAsString",
+            "description": ""
+        },
+        {
+            "nombre": "getKeyUsage",
+            "description": ""
+        },
+        {
+            "nombre": "getMatchAllSubjectAltNames",
+            "description": ""
+        },
+        {
+            "nombre": "getNameConstraints",
+            "description": ""
+        },
+        {
+            "nombre": "getPathToNames",
+            "description": ""
+        },
+        {
+            "nombre": "getPolicy",
+            "description": ""
+        },
+        {
+            "nombre": "getPrivateKeyValid",
+            "description": ""
+        },
+        {
+            "nombre": "getSerialNumber",
+            "description": ""
+        },
+        {
+            "nombre": "getSubject",
+            "description": ""
+        },
+        {
+            "nombre": "getSubjectAlternativeNames",
+            "description": ""
+        },
+        {
+            "nombre": "getSubjectAsBytes",
+            "description": ""
+        },
+        {
+            "nombre": "getSubjectAsString",
+            "description": ""
+        },
+        {
+            "nombre": "getSubjectKeyIdentifier",
+            "description": ""
+        },
+        {
+            "nombre": "getSubjectPublicKey",
+            "description": ""
+        },
+        {
+            "nombre": "getSubjectPublicKeyAlgID",
+            "description": ""
+        },
+        {
+            "nombre": "match",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Certificate cert",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAuthorityKeyIdentifier",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] authorityKeyID",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBasicConstraints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int minMaxPathLen",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCertificate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "X509Certificate cert",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCertificateValid",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date certValid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExtendedKeyUsage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<String> keyPurposeSet",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIssuer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String issuerDN",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] issuerDN",
+                    "description": ""
+                },
+                {
+                    "nombre": "X500Principal issuer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setKeyUsage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean[] keyUsage",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMatchAllSubjectAltNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean matchAllNames",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNameConstraints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] bytes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPathToNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<List<?>> names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPolicy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Set<String> certPolicySet",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrivateKeyValid",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date privateKeyValid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSerialNumber",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger serial",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSubject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "X500Principal subject",
+                    "description": ""
+                },
+                {
+                    "nombre": "String subjectDN",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] subjectDN",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSubjectAlternativeNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<List<?>> names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSubjectKeyIdentifier",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] subjectKeyID",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSubjectPublicKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] key",
+                    "description": ""
+                },
+                {
+                    "nombre": "PublicKey key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSubjectPublicKeyAlgID",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String oid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

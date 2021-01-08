@@ -1,0 +1,231 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TableSelectionModel",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cellSelectionEnabledProperty",
+            "description": ""
+        },
+        {
+            "nombre": "clearAndSelect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnBase<T",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clearSelection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnBase<T",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "focus",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFocusedIndex",
+            "description": ""
+        },
+        {
+            "nombre": "getItemCount",
+            "description": ""
+        },
+        {
+            "nombre": "getModelItem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSelectedIndices",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectedItems",
+            "description": ""
+        },
+        {
+            "nombre": "isCellSelectionEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "isSelected",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnBase<T",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "select",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumnBase<T",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "T obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectAboveCell",
+            "description": ""
+        },
+        {
+            "nombre": "selectAll",
+            "description": ""
+        },
+        {
+            "nombre": "selectBelowCell",
+            "description": ""
+        },
+        {
+            "nombre": "selectFirst",
+            "description": ""
+        },
+        {
+            "nombre": "selectIndices",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int... rows",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectLast",
+            "description": ""
+        },
+        {
+            "nombre": "selectLeftCell",
+            "description": ""
+        },
+        {
+            "nombre": "selectNext",
+            "description": ""
+        },
+        {
+            "nombre": "selectPrevious",
+            "description": ""
+        },
+        {
+            "nombre": "selectRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "?> minColumn",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> maxColumn",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxRow",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minRow",
+                    "description": ""
+                },
+                {
+                    "nombre": "TableColumnBase<T",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectRightCell",
+            "description": ""
+        },
+        {
+            "nombre": "setCellSelectionEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

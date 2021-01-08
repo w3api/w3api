@@ -1,0 +1,63 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TableRowSorter",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "M model",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getComparator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStringConverter",
+            "description": ""
+        },
+        {
+            "nombre": "setModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "M model",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStringConverter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableStringConverter stringConverter",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "useToString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

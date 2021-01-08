@@ -1,0 +1,127 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getAvailableInstruments",
+            "description": ""
+        },
+        {
+            "nombre": "getChannels",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultSoundbank",
+            "description": ""
+        },
+        {
+            "nombre": "getLatency",
+            "description": ""
+        },
+        {
+            "nombre": "getLoadedInstruments",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxPolyphony",
+            "description": ""
+        },
+        {
+            "nombre": "getVoiceStatus",
+            "description": ""
+        },
+        {
+            "nombre": "isSoundbankSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Soundbank soundbank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadAllInstruments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Soundbank soundbank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadInstrument",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instrument instrument",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadInstruments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Patch[] patchList",
+                    "description": ""
+                },
+                {
+                    "nombre": "Soundbank soundbank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remapInstrument",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instrument from",
+                    "description": ""
+                },
+                {
+                    "nombre": "Instrument to",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unloadAllInstruments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Soundbank soundbank",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unloadInstrument",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instrument instrument",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unloadInstruments",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Patch[] patchList",
+                    "description": ""
+                },
+                {
+                    "nombre": "Soundbank soundbank",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

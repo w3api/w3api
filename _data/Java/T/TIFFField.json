@@ -1,0 +1,247 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TIFFField",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "long offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "TIFFTag tag",
+                    "description": ""
+                },
+                {
+                    "nombre": "long value",
+                    "description": ""
+                },
+                {
+                    "nombre": "TIFFDirectory dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int count",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "createArrayForType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFromMetadataNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TIFFTagSet tagSet",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAsBytes",
+            "description": ""
+        },
+        {
+            "nombre": "getAsChars",
+            "description": ""
+        },
+        {
+            "nombre": "getAsDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAsDoubles",
+            "description": ""
+        },
+        {
+            "nombre": "getAsFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAsFloats",
+            "description": ""
+        },
+        {
+            "nombre": "getAsInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAsInts",
+            "description": ""
+        },
+        {
+            "nombre": "getAsLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAsLongs",
+            "description": ""
+        },
+        {
+            "nombre": "getAsNativeNode",
+            "description": ""
+        },
+        {
+            "nombre": "getAsRational",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAsRationals",
+            "description": ""
+        },
+        {
+            "nombre": "getAsShorts",
+            "description": ""
+        },
+        {
+            "nombre": "getAsSRational",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAsSRationals",
+            "description": ""
+        },
+        {
+            "nombre": "getAsString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCount",
+            "description": ""
+        },
+        {
+            "nombre": "getData",
+            "description": ""
+        },
+        {
+            "nombre": "getDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "getTag",
+            "description": ""
+        },
+        {
+            "nombre": "getTagNumber",
+            "description": ""
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeByName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String typeName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTypeName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getValueAsString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasDirectory",
+            "description": ""
+        },
+        {
+            "nombre": "isIntegral",
+            "description": ""
+        }
+    ]
+}

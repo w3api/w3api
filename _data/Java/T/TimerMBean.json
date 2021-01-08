@@ -1,0 +1,183 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object userData",
+                    "description": ""
+                },
+                {
+                    "nombre": "long period",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean fixedRate",
+                    "description": ""
+                },
+                {
+                    "nombre": "long nbOccurences",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllNotificationIDs",
+            "description": ""
+        },
+        {
+            "nombre": "getDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFixedRate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNbNotifications",
+            "description": ""
+        },
+        {
+            "nombre": "getNbOccurences",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNotificationIDs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNotificationMessage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNotificationType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNotificationUserData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPeriod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSendPastNotifications",
+            "description": ""
+        },
+        {
+            "nombre": "isActive",
+            "description": ""
+        },
+        {
+            "nombre": "isEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "removeAllNotifications",
+            "description": ""
+        },
+        {
+            "nombre": "removeNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeNotifications",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSendPastNotifications",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": ""
+        },
+        {
+            "nombre": "stop",
+            "description": ""
+        }
+    ]
+}

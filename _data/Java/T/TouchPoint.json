@@ -1,0 +1,123 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TouchPoint",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "TouchPoint.State state",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenY",
+                    "description": ""
+                },
+                {
+                    "nombre": "PickResult pickResult",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "belongsTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getGrabbed",
+            "description": ""
+        },
+        {
+            "nombre": "getId",
+            "description": ""
+        },
+        {
+            "nombre": "getPickResult",
+            "description": ""
+        },
+        {
+            "nombre": "getSceneX",
+            "description": ""
+        },
+        {
+            "nombre": "getSceneY",
+            "description": ""
+        },
+        {
+            "nombre": "getScreenX",
+            "description": ""
+        },
+        {
+            "nombre": "getScreenY",
+            "description": ""
+        },
+        {
+            "nombre": "getState",
+            "description": ""
+        },
+        {
+            "nombre": "getTarget",
+            "description": ""
+        },
+        {
+            "nombre": "getX",
+            "description": ""
+        },
+        {
+            "nombre": "getY",
+            "description": ""
+        },
+        {
+            "nombre": "getZ",
+            "description": ""
+        },
+        {
+            "nombre": "grab",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "ungrab",
+            "description": ""
+        }
+    ]
+}

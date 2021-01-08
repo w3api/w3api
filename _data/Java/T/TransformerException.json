@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TransformerException",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable e",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "SourceLocator locator",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCause",
+            "description": ""
+        },
+        {
+            "nombre": "getException",
+            "description": ""
+        },
+        {
+            "nombre": "getLocationAsString",
+            "description": ""
+        },
+        {
+            "nombre": "getLocator",
+            "description": ""
+        },
+        {
+            "nombre": "getMessageAndLocation",
+            "description": ""
+        },
+        {
+            "nombre": "initCause",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable cause",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "printStackTrace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrintWriter s",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintStream s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SourceLocator location",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

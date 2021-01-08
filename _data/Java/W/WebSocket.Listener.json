@@ -1,0 +1,113 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "onBinary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WebSocket.MessagePart part",
+                    "description": ""
+                },
+                {
+                    "nombre": "WebSocket webSocket",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onClose",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WebSocket webSocket",
+                    "description": ""
+                },
+                {
+                    "nombre": "int statusCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "String reason",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable error",
+                    "description": ""
+                },
+                {
+                    "nombre": "WebSocket webSocket",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onOpen",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WebSocket webSocket",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onPing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WebSocket webSocket",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onPong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WebSocket webSocket",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "onText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence message",
+                    "description": ""
+                },
+                {
+                    "nombre": "WebSocket webSocket",
+                    "description": ""
+                },
+                {
+                    "nombre": "WebSocket.MessagePart part",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

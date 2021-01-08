@@ -1,0 +1,177 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TIFFTag",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int number",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataTypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "TIFFTagSet tagSet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addValueName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCount",
+            "description": ""
+        },
+        {
+            "nombre": "getDataTypes",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getNamedValues",
+            "description": ""
+        },
+        {
+            "nombre": "getNumber",
+            "description": ""
+        },
+        {
+            "nombre": "getSizeOfType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTagSet",
+            "description": ""
+        },
+        {
+            "nombre": "getValueName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasValueNames",
+            "description": ""
+        },
+        {
+            "nombre": "isDataTypeOK",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isIFDPointer",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "MAX_DATATYPE",
+            "description": ""
+        },
+        {
+            "nombre": "MIN_DATATYPE",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_ASCII",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_BYTE",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_DOUBLE",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_FLOAT",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_IFD_POINTER",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_LONG",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_RATIONAL",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_SBYTE",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_SHORT",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_SLONG",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_SRATIONAL",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_SSHORT",
+            "description": ""
+        },
+        {
+            "nombre": "TIFF_UNDEFINED",
+            "description": ""
+        },
+        {
+            "nombre": "UNKNOWN_TAG_NAME",
+            "description": ""
+        }
+    ]
+}

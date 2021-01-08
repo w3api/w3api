@@ -1,0 +1,243 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "VirtualFlow",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addAllToPile",
+            "description": ""
+        },
+        {
+            "nombre": "cellCountProperty",
+            "description": ""
+        },
+        {
+            "nombre": "cellFactoryProperty",
+            "description": ""
+        },
+        {
+            "nombre": "fixedCellSizeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "getAvailableCell",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int prefIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCell",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCellCount",
+            "description": ""
+        },
+        {
+            "nombre": "getCellFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getCellIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T cell",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFirstVisibleCell",
+            "description": ""
+        },
+        {
+            "nombre": "getFixedCellSize",
+            "description": ""
+        },
+        {
+            "nombre": "getLastVisibleCell",
+            "description": ""
+        },
+        {
+            "nombre": "getPosition",
+            "description": ""
+        },
+        {
+            "nombre": "getVisibleCell",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isPannable",
+            "description": ""
+        },
+        {
+            "nombre": "isVertical",
+            "description": ""
+        },
+        {
+            "nombre": "pannableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "positionProperty",
+            "description": ""
+        },
+        {
+            "nombre": "requestLayout",
+            "description": ""
+        },
+        {
+            "nombre": "scrollPixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double delta",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scrollTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "T cell",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scrollToBottom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T lastCell",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scrollToTop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T firstCell",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<VirtualFlow<T>",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T cell",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFixedCellSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPannable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVertical",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "verticalProperty",
+            "description": ""
+        }
+    ]
+}

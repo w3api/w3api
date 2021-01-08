@@ -1,0 +1,375 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TextLayout",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "?> attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontRenderContext frc",
+                    "description": ""
+                },
+                {
+                    "nombre": "String string",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "draw",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics2D g2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextLayout rhs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAdvance",
+            "description": ""
+        },
+        {
+            "nombre": "getAscent",
+            "description": ""
+        },
+        {
+            "nombre": "getBaseline",
+            "description": ""
+        },
+        {
+            "nombre": "getBaselineOffsets",
+            "description": ""
+        },
+        {
+            "nombre": "getBlackBoxBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int firstEndpoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "int secondEndpoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getCaretInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextHitInfo hit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCaretShape",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextHitInfo hit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCaretShapes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextLayout.CaretPolicy policy",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCharacterCount",
+            "description": ""
+        },
+        {
+            "nombre": "getCharacterLevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDescent",
+            "description": ""
+        },
+        {
+            "nombre": "getJustifiedLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float justificationWidth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLayoutPath",
+            "description": ""
+        },
+        {
+            "nombre": "getLeading",
+            "description": ""
+        },
+        {
+            "nombre": "getLogicalHighlightShape",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int firstEndpoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle2D bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "int secondEndpoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLogicalRangesForVisualSelection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextHitInfo secondEndpoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextHitInfo firstEndpoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNextLeftHit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextLayout.CaretPolicy policy",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextHitInfo hit",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNextRightHit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextLayout.CaretPolicy policy",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextHitInfo hit",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOutline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AffineTransform tx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPixelBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontRenderContext frc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVisibleAdvance",
+            "description": ""
+        },
+        {
+            "nombre": "getVisualHighlightShape",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextHitInfo secondEndpoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextHitInfo firstEndpoint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVisualOtherHit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextHitInfo hit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleJustify",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float justificationWidth",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hitTestChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hitToPoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextHitInfo hit",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D point",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLeftToRight",
+            "description": ""
+        },
+        {
+            "nombre": "isVertical",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT_CARET_POLICY",
+            "description": ""
+        }
+    ]
+}

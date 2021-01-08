@@ -1,0 +1,139 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "X509CRLSelector",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addIssuer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "X500Principal issuer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addIssuerName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "getCertificateChecking",
+            "description": ""
+        },
+        {
+            "nombre": "getDateAndTime",
+            "description": ""
+        },
+        {
+            "nombre": "getIssuerNames",
+            "description": ""
+        },
+        {
+            "nombre": "getIssuers",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxCRL",
+            "description": ""
+        },
+        {
+            "nombre": "getMinCRL",
+            "description": ""
+        },
+        {
+            "nombre": "match",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CRL crl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCertificateChecking",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "X509Certificate cert",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDateAndTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date dateAndTime",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIssuerNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<?> names",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIssuers",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Collection<X500Principal> issuers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaxCRLNumber",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger maxCRL",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinCRLNumber",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigInteger minCRL",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

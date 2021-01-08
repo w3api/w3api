@@ -1,0 +1,159 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "commit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean onePhase",
+                    "description": ""
+                },
+                {
+                    "nombre": "Xid xid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "end",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "Xid xid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forget",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Xid xid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTransactionTimeout",
+            "description": ""
+        },
+        {
+            "nombre": "isSameRM",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "XAResource xares",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepare",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Xid xid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "recover",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int flag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rollback",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Xid xid",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTransactionTimeout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int seconds",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "Xid xid",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "TMENDRSCAN",
+            "description": ""
+        },
+        {
+            "nombre": "TMFAIL",
+            "description": ""
+        },
+        {
+            "nombre": "TMJOIN",
+            "description": ""
+        },
+        {
+            "nombre": "TMNOFLAGS",
+            "description": ""
+        },
+        {
+            "nombre": "TMONEPHASE",
+            "description": ""
+        },
+        {
+            "nombre": "TMRESUME",
+            "description": ""
+        },
+        {
+            "nombre": "TMSTARTRSCAN",
+            "description": ""
+        },
+        {
+            "nombre": "TMSUCCESS",
+            "description": ""
+        },
+        {
+            "nombre": "TMSUSPEND",
+            "description": ""
+        },
+        {
+            "nombre": "XA_OK",
+            "description": ""
+        },
+        {
+            "nombre": "XA_RDONLY",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getIconImage",
+            "description": ""
+        },
+        {
+            "nombre": "getMenu",
+            "description": ""
+        },
+        {
+            "nombre": "getTaskbar",
+            "description": ""
+        },
+        {
+            "nombre": "isSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Taskbar.Feature feature",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isTaskbarSupported",
+            "description": ""
+        },
+        {
+            "nombre": "requestUserAttention",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean critical",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean enabled",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestWindowUserAttention",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Window w",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIconBadge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String badge",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIconImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Image image",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMenu",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PopupMenu menu",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setProgressValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWindowIconBadge",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Window w",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image badge",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWindowProgressState",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Taskbar.State state",
+                    "description": ""
+                },
+                {
+                    "nombre": "Window w",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWindowProgressValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Window w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getRMIRepositoryID",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class clz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRunTimeCodeBase",
+            "description": ""
+        },
+        {
+            "nombre": "isCustomMarshaled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class clz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "RunTime sender",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                },
+                {
+                    "nombre": "String repositoryID",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class clz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeReplace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Serializable value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Serializable value",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

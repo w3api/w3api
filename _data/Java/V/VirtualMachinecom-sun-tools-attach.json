@@ -1,0 +1,135 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "VirtualMachine",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttachProvider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "attach",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "VirtualMachineDescriptor vmd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "detach",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object ob",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAgentProperties",
+            "description": ""
+        },
+        {
+            "nombre": "getSystemProperties",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "id",
+            "description": ""
+        },
+        {
+            "nombre": "list",
+            "description": ""
+        },
+        {
+            "nombre": "loadAgent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String options",
+                    "description": ""
+                },
+                {
+                    "nombre": "String agent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadAgentLibrary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String agentLibrary",
+                    "description": ""
+                },
+                {
+                    "nombre": "String options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadAgentPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String options",
+                    "description": ""
+                },
+                {
+                    "nombre": "String agentPath",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "provider",
+            "description": ""
+        },
+        {
+            "nombre": "startLocalManagementAgent",
+            "description": ""
+        },
+        {
+            "nombre": "startManagementAgent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Properties agentProperties",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

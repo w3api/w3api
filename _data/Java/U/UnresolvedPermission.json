@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "UnresolvedPermission",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String actions",
+                    "description": ""
+                },
+                {
+                    "nombre": "Certificate[] certs",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getActions",
+            "description": ""
+        },
+        {
+            "nombre": "getUnresolvedActions",
+            "description": ""
+        },
+        {
+            "nombre": "getUnresolvedCerts",
+            "description": ""
+        },
+        {
+            "nombre": "getUnresolvedName",
+            "description": ""
+        },
+        {
+            "nombre": "getUnresolvedType",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "implies",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Permission p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newPermissionCollection",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

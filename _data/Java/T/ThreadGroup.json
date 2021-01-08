@@ -1,0 +1,155 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ThreadGroup",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "ThreadGroup parent",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "activeCount",
+            "description": ""
+        },
+        {
+            "nombre": "activeGroupCount",
+            "description": ""
+        },
+        {
+            "nombre": "allowThreadSuspension",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "checkAccess",
+            "description": ""
+        },
+        {
+            "nombre": "destroy",
+            "description": ""
+        },
+        {
+            "nombre": "enumerate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean recurse",
+                    "description": ""
+                },
+                {
+                    "nombre": "Thread[] list",
+                    "description": ""
+                },
+                {
+                    "nombre": "ThreadGroup[] list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaxPriority",
+            "description": ""
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getParent",
+            "description": ""
+        },
+        {
+            "nombre": "interrupt",
+            "description": ""
+        },
+        {
+            "nombre": "isDaemon",
+            "description": ""
+        },
+        {
+            "nombre": "isDestroyed",
+            "description": ""
+        },
+        {
+            "nombre": "list",
+            "description": ""
+        },
+        {
+            "nombre": "parentOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ThreadGroup g",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resume",
+            "description": ""
+        },
+        {
+            "nombre": "setDaemon",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean daemon",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaxPriority",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stop",
+            "description": ""
+        },
+        {
+            "nombre": "suspend",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "uncaughtException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable e",
+                    "description": ""
+                },
+                {
+                    "nombre": "Thread t",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

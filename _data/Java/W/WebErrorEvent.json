@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "WebErrorEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "EventType<WebErrorEvent> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable exception",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getException",
+            "description": ""
+        },
+        {
+            "nombre": "getMessage",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        },
+        {
+            "nombre": "USER_DATA_DIRECTORY_ALREADY_IN_USE",
+            "description": ""
+        },
+        {
+            "nombre": "USER_DATA_DIRECTORY_IO_ERROR",
+            "description": ""
+        },
+        {
+            "nombre": "USER_DATA_DIRECTORY_SECURITY_ERROR",
+            "description": ""
+        }
+    ]
+}

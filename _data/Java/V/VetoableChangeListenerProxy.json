@@ -1,0 +1,37 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "VetoableChangeListenerProxy",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "VetoableChangeListener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getPropertyName",
+            "description": ""
+        },
+        {
+            "nombre": "vetoableChange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PropertyChangeEvent event",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

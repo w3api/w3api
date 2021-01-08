@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getThreadAllocatedBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long[] ids",
+                    "description": ""
+                },
+                {
+                    "nombre": "long id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getThreadCpuTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long[] ids",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getThreadUserTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long[] ids",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isThreadAllocatedMemoryEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "isThreadAllocatedMemorySupported",
+            "description": ""
+        },
+        {
+            "nombre": "setThreadAllocatedMemoryEnabled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean enable",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

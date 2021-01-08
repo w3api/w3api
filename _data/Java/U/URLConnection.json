@@ -1,0 +1,431 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "URLConnection",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addRequestProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "connect",
+            "description": ""
+        },
+        {
+            "nombre": "getAllowUserInteraction",
+            "description": ""
+        },
+        {
+            "nombre": "getConnectTimeout",
+            "description": ""
+        },
+        {
+            "nombre": "getContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?>[] classes",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getContentEncoding",
+            "description": ""
+        },
+        {
+            "nombre": "getContentLength",
+            "description": ""
+        },
+        {
+            "nombre": "getContentLengthLong",
+            "description": ""
+        },
+        {
+            "nombre": "getContentType",
+            "description": ""
+        },
+        {
+            "nombre": "getDate",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultAllowUserInteraction",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultRequestProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefaultUseCaches",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDoInput",
+            "description": ""
+        },
+        {
+            "nombre": "getDoOutput",
+            "description": ""
+        },
+        {
+            "nombre": "getExpiration",
+            "description": ""
+        },
+        {
+            "nombre": "getFileNameMap",
+            "description": ""
+        },
+        {
+            "nombre": "getHeaderField",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHeaderFieldDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long Default",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHeaderFieldInt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int Default",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHeaderFieldKey",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHeaderFieldLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long Default",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHeaderFields",
+            "description": ""
+        },
+        {
+            "nombre": "getIfModifiedSince",
+            "description": ""
+        },
+        {
+            "nombre": "getInputStream",
+            "description": ""
+        },
+        {
+            "nombre": "getLastModified",
+            "description": ""
+        },
+        {
+            "nombre": "getOutputStream",
+            "description": ""
+        },
+        {
+            "nombre": "getPermission",
+            "description": ""
+        },
+        {
+            "nombre": "getReadTimeout",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestProperties",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getURL",
+            "description": ""
+        },
+        {
+            "nombre": "getUseCaches",
+            "description": ""
+        },
+        {
+            "nombre": "guessContentTypeFromName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String fname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "guessContentTypeFromStream",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream is",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAllowUserInteraction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean allowuserinteraction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setConnectTimeout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setContentHandlerFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ContentHandlerFactory fac",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultAllowUserInteraction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean defaultallowuserinteraction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultRequestProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefaultUseCaches",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean defaultVal",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean defaultusecaches",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDoInput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean doinput",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDoOutput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean dooutput",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFileNameMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FileNameMap map",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setIfModifiedSince",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long ifmodifiedsince",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setReadTimeout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRequestProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUseCaches",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean usecaches",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "allowUserInteraction",
+            "description": ""
+        },
+        {
+            "nombre": "connected",
+            "description": ""
+        },
+        {
+            "nombre": "doInput",
+            "description": ""
+        },
+        {
+            "nombre": "doOutput",
+            "description": ""
+        },
+        {
+            "nombre": "ifModifiedSince",
+            "description": ""
+        },
+        {
+            "nombre": "url",
+            "description": ""
+        },
+        {
+            "nombre": "useCaches",
+            "description": ""
+        }
+    ]
+}

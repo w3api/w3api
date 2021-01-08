@@ -1,0 +1,191 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Trees",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getDocComment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLub",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CatchTree tree",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOriginalType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ErrorType errorType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element e",
+                    "description": ""
+                },
+                {
+                    "nombre": "AnnotationValue v",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompilationUnitTree unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "Tree node",
+                    "description": ""
+                },
+                {
+                    "nombre": "AnnotationMirror a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getScope",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSourcePositions",
+            "description": ""
+        },
+        {
+            "nombre": "getTree",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element e",
+                    "description": ""
+                },
+                {
+                    "nombre": "AnnotationValue v",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element element",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeElement element",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutableElement method",
+                    "description": ""
+                },
+                {
+                    "nombre": "AnnotationMirror a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTypeMirror",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath path",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "instance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JavaCompiler.CompilationTask task",
+                    "description": ""
+                },
+                {
+                    "nombre": "ProcessingEnvironment env",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isAccessible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DeclaredType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element member",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeElement type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Scope scope",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "printMessage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "Tree t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Diagnostic.Kind kind",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompilationUnitTree root",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Subject",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Set<?> pubCredentials",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean readOnly",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<?> privCredentials",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<? extends Principal> principals",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "doAs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrivilegedAction<T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrivilegedExceptionAction<T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject subject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doAsPrivileged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AccessControlContext acc",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrivilegedAction<T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrivilegedExceptionAction<T> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "Subject subject",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPrincipals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPrivateCredentials",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPublicCredentials",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSubject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AccessControlContext acc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isReadOnly",
+            "description": ""
+        },
+        {
+            "nombre": "setReadOnly",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ZipOutputStream",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "closeEntry",
+            "description": ""
+        },
+        {
+            "nombre": "finish",
+            "description": ""
+        },
+        {
+            "nombre": "putNextEntry",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZipEntry e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setComment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String comment",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int level",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int method",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CENATT",
+            "description": ""
+        },
+        {
+            "nombre": "CENATX",
+            "description": ""
+        },
+        {
+            "nombre": "CENCOM",
+            "description": ""
+        },
+        {
+            "nombre": "CENCRC",
+            "description": ""
+        },
+        {
+            "nombre": "CENDSK",
+            "description": ""
+        },
+        {
+            "nombre": "CENEXT",
+            "description": ""
+        },
+        {
+            "nombre": "CENFLG",
+            "description": ""
+        },
+        {
+            "nombre": "CENHDR",
+            "description": ""
+        },
+        {
+            "nombre": "CENHOW",
+            "description": ""
+        },
+        {
+            "nombre": "CENLEN",
+            "description": ""
+        },
+        {
+            "nombre": "CENNAM",
+            "description": ""
+        },
+        {
+            "nombre": "CENOFF",
+            "description": ""
+        },
+        {
+            "nombre": "CENSIG",
+            "description": ""
+        },
+        {
+            "nombre": "CENSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "CENTIM",
+            "description": ""
+        },
+        {
+            "nombre": "CENVEM",
+            "description": ""
+        },
+        {
+            "nombre": "CENVER",
+            "description": ""
+        },
+        {
+            "nombre": "DEFLATED",
+            "description": ""
+        },
+        {
+            "nombre": "ENDCOM",
+            "description": ""
+        },
+        {
+            "nombre": "ENDHDR",
+            "description": ""
+        },
+        {
+            "nombre": "ENDOFF",
+            "description": ""
+        },
+        {
+            "nombre": "ENDSIG",
+            "description": ""
+        },
+        {
+            "nombre": "ENDSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "ENDSUB",
+            "description": ""
+        },
+        {
+            "nombre": "ENDTOT",
+            "description": ""
+        },
+        {
+            "nombre": "EXTCRC",
+            "description": ""
+        },
+        {
+            "nombre": "EXTHDR",
+            "description": ""
+        },
+        {
+            "nombre": "EXTLEN",
+            "description": ""
+        },
+        {
+            "nombre": "EXTSIG",
+            "description": ""
+        },
+        {
+            "nombre": "EXTSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "LOCCRC",
+            "description": ""
+        },
+        {
+            "nombre": "LOCEXT",
+            "description": ""
+        },
+        {
+            "nombre": "LOCFLG",
+            "description": ""
+        },
+        {
+            "nombre": "LOCHDR",
+            "description": ""
+        },
+        {
+            "nombre": "LOCHOW",
+            "description": ""
+        },
+        {
+            "nombre": "LOCLEN",
+            "description": ""
+        },
+        {
+            "nombre": "LOCNAM",
+            "description": ""
+        },
+        {
+            "nombre": "LOCSIG",
+            "description": ""
+        },
+        {
+            "nombre": "LOCSIZ",
+            "description": ""
+        },
+        {
+            "nombre": "LOCTIM",
+            "description": ""
+        },
+        {
+            "nombre": "LOCVER",
+            "description": ""
+        },
+        {
+            "nombre": "STORED",
+            "description": ""
+        }
+    ]
+}

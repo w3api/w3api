@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "System.LoggerFinder",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getLocalizedLogger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ResourceBundle bundle",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Module module",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLogger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Module module",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLoggerFinder",
+            "description": ""
+        }
+    ]
+}

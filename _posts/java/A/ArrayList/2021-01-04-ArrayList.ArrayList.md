@@ -1,0 +1,46 @@
+---
+title: ArrayList.ArrayList()
+permalink: Java/ArrayList/ArrayList
+date: 2021-01-04
+key: JavaJava.A.ArrayList
+category: java
+tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.A.ArrayList.constructores valor="ArrayList" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public ArrayList()
+public ArrayList(int initialCapacity)
+public ArrayList(Collection<? extends E> c)
+~~~
+
+## Parámetros
+* **Collection&lt;? extends E&gt; c**,  {% include w3api/param_description.html metodo=_data parametro="Collection<? extends E> c" %}
+* **int initialCapacity**,  {% include w3api/param_description.html metodo=_data parametro="int initialCapacity" %}
+
+## Excepciones
+[NullPointerException](/Java/NullPointerException/), [IllegalArgumentException](/Java/IllegalArgumentException/)
+
+## Clase Padre
+[ArrayList](/Java/ArrayList/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.A.ArrayList.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

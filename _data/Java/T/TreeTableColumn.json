@@ -1,0 +1,201 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TreeTableColumn",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cellFactoryProperty",
+            "description": ""
+        },
+        {
+            "nombre": "cellValueFactoryProperty",
+            "description": ""
+        },
+        {
+            "nombre": "editAnyEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editCancelEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editCommitEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editStartEvent",
+            "description": ""
+        },
+        {
+            "nombre": "getCellFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getCellValueFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getOnEditCancel",
+            "description": ""
+        },
+        {
+            "nombre": "getOnEditCommit",
+            "description": ""
+        },
+        {
+            "nombre": "getOnEditStart",
+            "description": ""
+        },
+        {
+            "nombre": "getSortType",
+            "description": ""
+        },
+        {
+            "nombre": "getStyleableParent",
+            "description": ""
+        },
+        {
+            "nombre": "getTreeTableView",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeSelector",
+            "description": ""
+        },
+        {
+            "nombre": "onEditCancelProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onEditCommitProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onEditStartProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setCellFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeTableCell<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "T>> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<TreeTableColumn<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "T>",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellValueFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableValue<T>> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<TreeTableColumn.CellDataFeatures<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "T>",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnEditCancel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T>> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventHandler<TreeTableColumn.CellEditEvent<S",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnEditCommit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T>> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventHandler<TreeTableColumn.CellEditEvent<S",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnEditStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T>> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventHandler<TreeTableColumn.CellEditEvent<S",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSortType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeTableColumn.SortType value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sortTypeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "treeTableViewProperty",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT_CELL_FACTORY",
+            "description": ""
+        }
+    ]
+}

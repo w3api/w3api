@@ -1,0 +1,505 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Toolkit",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addAWTEventListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long eventMask",
+                    "description": ""
+                },
+                {
+                    "nombre": "AWTEventListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addPropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "PropertyChangeListener pcl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "areExtraMouseButtonsEnabled",
+            "description": ""
+        },
+        {
+            "nombre": "beep",
+            "description": ""
+        },
+        {
+            "nombre": "checkImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Image image",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageObserver observer",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCustomCursor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image cursor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point hotSpot",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDragGestureRecognizer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int srcActions",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragSource ds",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragGestureListener dgl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> abstractRecognizerClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "int imageoffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int imagelength",
+                    "description": ""
+                },
+                {
+                    "nombre": "String filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageProducer producer",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] imagedata",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAWTEventListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long eventMask",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBestCursorSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int preferredWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int preferredHeight",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getColorModel",
+            "description": ""
+        },
+        {
+            "nombre": "getDefaultToolkit",
+            "description": ""
+        },
+        {
+            "nombre": "getDesktopProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFontList",
+            "description": ""
+        },
+        {
+            "nombre": "getFontMetrics",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font font",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "String filename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLockingKeyState",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int keyCode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximumCursorColors",
+            "description": ""
+        },
+        {
+            "nombre": "getMenuShortcutKeyMask",
+            "description": ""
+        },
+        {
+            "nombre": "getMenuShortcutKeyMaskEx",
+            "description": ""
+        },
+        {
+            "nombre": "getNativeContainer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPrintJob",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Frame frame",
+                    "description": ""
+                },
+                {
+                    "nombre": "String jobtitle",
+                    "description": ""
+                },
+                {
+                    "nombre": "JobAttributes jobAttributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageAttributes pageAttributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Properties props",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String defaultValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPropertyChangeListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getScreenInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "GraphicsConfiguration gc",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getScreenResolution",
+            "description": ""
+        },
+        {
+            "nombre": "getScreenSize",
+            "description": ""
+        },
+        {
+            "nombre": "getSystemClipboard",
+            "description": ""
+        },
+        {
+            "nombre": "getSystemEventQueue",
+            "description": ""
+        },
+        {
+            "nombre": "getSystemEventQueueImpl",
+            "description": ""
+        },
+        {
+            "nombre": "getSystemSelection",
+            "description": ""
+        },
+        {
+            "nombre": "initializeDesktopProperties",
+            "description": ""
+        },
+        {
+            "nombre": "isAlwaysOnTopSupported",
+            "description": ""
+        },
+        {
+            "nombre": "isDynamicLayoutActive",
+            "description": ""
+        },
+        {
+            "nombre": "isDynamicLayoutSet",
+            "description": ""
+        },
+        {
+            "nombre": "isFrameStateSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int state",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isModalExclusionTypeSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dialog.ModalExclusionType modalExclusionType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isModalityTypeSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Dialog.ModalityType modalityType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lazilyLoadDesktopProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadSystemColors",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] systemColors",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapInputMethodHighlight",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputMethodHighlight highlight",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "prepareImage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Image image",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageObserver observer",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAWTEventListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AWTEventListener listener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removePropertyChangeListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "PropertyChangeListener pcl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDesktopProperty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDynamicLayout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean dynamic",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLockingKeyState",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int keyCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sync",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "desktopProperties",
+            "description": ""
+        },
+        {
+            "nombre": "desktopPropsSupport",
+            "description": ""
+        }
+    ]
+}

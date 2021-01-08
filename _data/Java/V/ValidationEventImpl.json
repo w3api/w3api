@@ -1,0 +1,75 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ValidationEventImpl",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String _message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable _linkedException",
+                    "description": ""
+                },
+                {
+                    "nombre": "int _severity",
+                    "description": ""
+                },
+                {
+                    "nombre": "ValidationEventLocator _locator",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "setLinkedException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable _linkedException",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocator",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ValidationEventLocator _locator",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMessage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String _message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSeverity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int _severity",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

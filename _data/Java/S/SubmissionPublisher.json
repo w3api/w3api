@@ -1,0 +1,147 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "SubmissionPublisher",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int maxBufferCapacity",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiConsumer<? super Flow.Subscriber<? super T>",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super Throwable> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "closeExceptionally",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable error",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "consume",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<? super T> consumer",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "estimateMaximumLag",
+            "description": ""
+        },
+        {
+            "nombre": "estimateMinimumDemand",
+            "description": ""
+        },
+        {
+            "nombre": "getClosedException",
+            "description": ""
+        },
+        {
+            "nombre": "getExecutor",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxBufferCapacity",
+            "description": ""
+        },
+        {
+            "nombre": "getNumberOfSubscribers",
+            "description": ""
+        },
+        {
+            "nombre": "getSubscribers",
+            "description": ""
+        },
+        {
+            "nombre": "hasSubscribers",
+            "description": ""
+        },
+        {
+            "nombre": "isClosed",
+            "description": ""
+        },
+        {
+            "nombre": "isSubscribed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Flow.Subscriber<? super T> subscriber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "offer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? super T> onDrop",
+                    "description": ""
+                },
+                {
+                    "nombre": "T item",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiPredicate<Flow.Subscriber<? super T>",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "submit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subscribe",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Flow.Subscriber<? super T> subscriber",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

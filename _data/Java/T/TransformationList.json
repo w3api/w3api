@@ -1,0 +1,77 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TransformationList",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<? extends F> source",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getSource",
+            "description": ""
+        },
+        {
+            "nombre": "getSourceIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSourceIndexFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<?> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getViewIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isInTransformationChain",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<?> list",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sourceChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ListChangeListener.Change<? extends F> c",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

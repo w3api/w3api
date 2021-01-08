@@ -1,0 +1,57 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TreeTableView.EditEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "S newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeTableView<S> source",
+                    "description": ""
+                },
+                {
+                    "nombre": "S oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeItem<S> treeItem",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<? extends TreeTableView.EditEvent> eventType",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getNewValue",
+            "description": ""
+        },
+        {
+            "nombre": "getOldValue",
+            "description": ""
+        },
+        {
+            "nombre": "getSource",
+            "description": ""
+        },
+        {
+            "nombre": "getTreeItem",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        }
+    ]
+}

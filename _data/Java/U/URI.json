@@ -1,0 +1,201 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "URI",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "String ssp",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "String authority",
+                    "description": ""
+                },
+                {
+                    "nombre": "String fragment",
+                    "description": ""
+                },
+                {
+                    "nombre": "String scheme",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "String query",
+                    "description": ""
+                },
+                {
+                    "nombre": "String userInfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "String path",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URI that",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "create",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object ob",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAuthority",
+            "description": ""
+        },
+        {
+            "nombre": "getFragment",
+            "description": ""
+        },
+        {
+            "nombre": "getHost",
+            "description": ""
+        },
+        {
+            "nombre": "getPath",
+            "description": ""
+        },
+        {
+            "nombre": "getPort",
+            "description": ""
+        },
+        {
+            "nombre": "getQuery",
+            "description": ""
+        },
+        {
+            "nombre": "getRawAuthority",
+            "description": ""
+        },
+        {
+            "nombre": "getRawFragment",
+            "description": ""
+        },
+        {
+            "nombre": "getRawPath",
+            "description": ""
+        },
+        {
+            "nombre": "getRawQuery",
+            "description": ""
+        },
+        {
+            "nombre": "getRawSchemeSpecificPart",
+            "description": ""
+        },
+        {
+            "nombre": "getRawUserInfo",
+            "description": ""
+        },
+        {
+            "nombre": "getScheme",
+            "description": ""
+        },
+        {
+            "nombre": "getSchemeSpecificPart",
+            "description": ""
+        },
+        {
+            "nombre": "getUserInfo",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isAbsolute",
+            "description": ""
+        },
+        {
+            "nombre": "isOpaque",
+            "description": ""
+        },
+        {
+            "nombre": "normalize",
+            "description": ""
+        },
+        {
+            "nombre": "parseServerAuthority",
+            "description": ""
+        },
+        {
+            "nombre": "relativize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resolve",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toASCIIString",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "toURL",
+            "description": ""
+        }
+    ]
+}

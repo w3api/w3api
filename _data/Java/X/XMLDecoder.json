@@ -1,0 +1,89 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "XMLDecoder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "ExceptionListener exceptionListener",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader cl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object owner",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputSource is",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "createHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object owner",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExceptionListener el",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader cl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getExceptionListener",
+            "description": ""
+        },
+        {
+            "nombre": "getOwner",
+            "description": ""
+        },
+        {
+            "nombre": "readObject",
+            "description": ""
+        },
+        {
+            "nombre": "setExceptionListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ExceptionListener exceptionListener",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOwner",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object owner",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

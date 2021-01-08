@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StringProperty",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "bindBidirectional",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                },
+                {
+                    "nombre": "Property<T> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "Property<?> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "Format format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "unbindBidirectional",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object other",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

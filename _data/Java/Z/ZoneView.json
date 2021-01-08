@@ -1,0 +1,169 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ZoneView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                },
+                {
+                    "nombre": "int axis",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createZone",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximumZoneSize",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxZonesLoaded",
+            "description": ""
+        },
+        {
+            "nombre": "getViewIndexAtPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "insertUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent changes",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isZoneLoaded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "View zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadChildren",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeUpdate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent changes",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximumZoneSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaxZonesLoaded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int mzl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unloadZone",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "View zone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateChildren",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DocumentEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent.ElementChange ec",
+                    "description": ""
+                },
+                {
+                    "nombre": "ViewFactory f",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "zoneWasLoaded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "View zone",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

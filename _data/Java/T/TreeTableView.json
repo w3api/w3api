@@ -1,0 +1,543 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TreeTableView",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<S> root",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "columnResizePolicyProperty",
+            "description": ""
+        },
+        {
+            "nombre": "comparatorProperty",
+            "description": ""
+        },
+        {
+            "nombre": "edit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "?> column",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeTableColumn<S",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "editableProperty",
+            "description": ""
+        },
+        {
+            "nombre": "editAnyEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editCancelEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editCommitEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editingCellProperty",
+            "description": ""
+        },
+        {
+            "nombre": "editStartEvent",
+            "description": ""
+        },
+        {
+            "nombre": "expandedItemCountProperty",
+            "description": ""
+        },
+        {
+            "nombre": "fixedCellSizeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "focusModelProperty",
+            "description": ""
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getColumnResizePolicy",
+            "description": ""
+        },
+        {
+            "nombre": "getColumns",
+            "description": ""
+        },
+        {
+            "nombre": "getComparator",
+            "description": ""
+        },
+        {
+            "nombre": "getControlCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getEditingCell",
+            "description": ""
+        },
+        {
+            "nombre": "getExpandedItemCount",
+            "description": ""
+        },
+        {
+            "nombre": "getFixedCellSize",
+            "description": ""
+        },
+        {
+            "nombre": "getFocusModel",
+            "description": ""
+        },
+        {
+            "nombre": "getNodeLevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<?> node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getOnScrollTo",
+            "description": ""
+        },
+        {
+            "nombre": "getOnScrollToColumn",
+            "description": ""
+        },
+        {
+            "nombre": "getOnSort",
+            "description": ""
+        },
+        {
+            "nombre": "getPlaceholder",
+            "description": ""
+        },
+        {
+            "nombre": "getRoot",
+            "description": ""
+        },
+        {
+            "nombre": "getRow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<S> item",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRowFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionModel",
+            "description": ""
+        },
+        {
+            "nombre": "getSortMode",
+            "description": ""
+        },
+        {
+            "nombre": "getSortOrder",
+            "description": ""
+        },
+        {
+            "nombre": "getSortPolicy",
+            "description": ""
+        },
+        {
+            "nombre": "getTreeColumn",
+            "description": ""
+        },
+        {
+            "nombre": "getTreeItem",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTreeItemLevel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<?> node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVisibleLeafColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVisibleLeafColumns",
+            "description": ""
+        },
+        {
+            "nombre": "getVisibleLeafIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "?> column",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeTableColumn<S",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEditable",
+            "description": ""
+        },
+        {
+            "nombre": "isShowRoot",
+            "description": ""
+        },
+        {
+            "nombre": "isTableMenuButtonVisible",
+            "description": ""
+        },
+        {
+            "nombre": "onScrollToColumnProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onScrollToProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onSortProperty",
+            "description": ""
+        },
+        {
+            "nombre": "placeholderProperty",
+            "description": ""
+        },
+        {
+            "nombre": "refresh",
+            "description": ""
+        },
+        {
+            "nombre": "resizeColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double delta",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> column",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeTableColumn<S",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rootProperty",
+            "description": ""
+        },
+        {
+            "nombre": "rowFactoryProperty",
+            "description": ""
+        },
+        {
+            "nombre": "scrollTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scrollToColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "?> column",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeTableColumn<S",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scrollToColumnIndex",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int columnIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectionModelProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setColumnResizePolicy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Boolean> callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<TreeTableView.ResizeFeatures",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setEditable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFixedCellSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFocusModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeTableView.TreeTableViewFocusModel<S> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnScrollTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<ScrollToEvent<Integer>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnScrollToColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "?>>> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventHandler<ScrollToEvent<TreeTableColumn<S",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnSort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<SortEvent<TreeTableView<S>>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPlaceholder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<S> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRowFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeTableRow<S>> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<TreeTableView<S>",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeTableView.TreeTableViewSelectionModel<S> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setShowRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSortMode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeSortMode value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSortPolicy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callback<TreeTableView<S>",
+                    "description": ""
+                },
+                {
+                    "nombre": "Boolean> callback",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTableMenuButtonVisible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTreeColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "?> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeTableColumn<S",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "showRootProperty",
+            "description": ""
+        },
+        {
+            "nombre": "sort",
+            "description": ""
+        },
+        {
+            "nombre": "sortModeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "sortPolicyProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tableMenuButtonVisibleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "treeColumnProperty",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CONSTRAINED_RESIZE_POLICY",
+            "description": ""
+        },
+        {
+            "nombre": "DEFAULT_SORT_POLICY",
+            "description": ""
+        },
+        {
+            "nombre": "UNCONSTRAINED_RESIZE_POLICY",
+            "description": ""
+        }
+    ]
+}

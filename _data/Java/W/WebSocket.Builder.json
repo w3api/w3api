@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "buildAsync",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "WebSocket.Listener listener",
+                    "description": ""
+                },
+                {
+                    "nombre": "URI uri",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "connectTimeout",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Duration timeout",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "header",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subprotocols",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String mostPreferred",
+                    "description": ""
+                },
+                {
+                    "nombre": "String... lesserPreferred",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

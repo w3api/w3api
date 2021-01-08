@@ -1,0 +1,177 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TreeItem",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node graphic",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<E> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<E> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "branchCollapsedEvent",
+            "description": ""
+        },
+        {
+            "nombre": "branchExpandedEvent",
+            "description": ""
+        },
+        {
+            "nombre": "childrenModificationEvent",
+            "description": ""
+        },
+        {
+            "nombre": "expandedItemCountChangeEvent",
+            "description": ""
+        },
+        {
+            "nombre": "expandedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "getChildren",
+            "description": ""
+        },
+        {
+            "nombre": "getGraphic",
+            "description": ""
+        },
+        {
+            "nombre": "getParent",
+            "description": ""
+        },
+        {
+            "nombre": "getValue",
+            "description": ""
+        },
+        {
+            "nombre": "graphicChangedEvent",
+            "description": ""
+        },
+        {
+            "nombre": "graphicProperty",
+            "description": ""
+        },
+        {
+            "nombre": "isExpanded",
+            "description": ""
+        },
+        {
+            "nombre": "isLeaf",
+            "description": ""
+        },
+        {
+            "nombre": "leafProperty",
+            "description": ""
+        },
+        {
+            "nombre": "nextSibling",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<T> afterNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parentProperty",
+            "description": ""
+        },
+        {
+            "nombre": "previousSibling",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreeItem<T> beforeNode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<E> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<E> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExpanded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setGraphic",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "treeNotificationEvent",
+            "description": ""
+        },
+        {
+            "nombre": "valueChangedEvent",
+            "description": ""
+        },
+        {
+            "nombre": "valueProperty",
+            "description": ""
+        }
+    ]
+}

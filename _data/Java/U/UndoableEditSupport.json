@@ -1,0 +1,101 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "UndoableEditSupport",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "Object r",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "_postEdit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UndoableEdit e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addUndoableEditListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UndoableEditListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "beginUpdate",
+            "description": ""
+        },
+        {
+            "nombre": "createCompoundEdit",
+            "description": ""
+        },
+        {
+            "nombre": "endUpdate",
+            "description": ""
+        },
+        {
+            "nombre": "getUndoableEditListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getUpdateLevel",
+            "description": ""
+        },
+        {
+            "nombre": "postEdit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UndoableEdit e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeUndoableEditListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UndoableEditListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "compoundEdit",
+            "description": ""
+        },
+        {
+            "nombre": "listeners",
+            "description": ""
+        },
+        {
+            "nombre": "realSource",
+            "description": ""
+        },
+        {
+            "nombre": "updateLevel",
+            "description": ""
+        }
+    ]
+}

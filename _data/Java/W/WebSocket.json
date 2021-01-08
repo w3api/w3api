@@ -1,0 +1,101 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "abort",
+            "description": ""
+        },
+        {
+            "nombre": "getSubprotocol",
+            "description": ""
+        },
+        {
+            "nombre": "isInputClosed",
+            "description": ""
+        },
+        {
+            "nombre": "isOutputClosed",
+            "description": ""
+        },
+        {
+            "nombre": "request",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendBinary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean isLast",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendClose",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int statusCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "String reason",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendPing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendPong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ByteBuffer message",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sendText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CharSequence message",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isLast",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "NORMAL_CLOSURE",
+            "description": ""
+        }
+    ]
+}

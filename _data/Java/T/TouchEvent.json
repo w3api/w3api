@@ -1,0 +1,131 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TouchEvent",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "boolean shiftDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "int eventSetId",
+                    "description": ""
+                },
+                {
+                    "nombre": "TouchPoint touchPoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean altDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean controlDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<TouchEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean metaDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<TouchPoint> touchPoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "copyFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newSource",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<TouchEvent> type",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget newTarget",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEventSetId",
+            "description": ""
+        },
+        {
+            "nombre": "getTouchCount",
+            "description": ""
+        },
+        {
+            "nombre": "getTouchPoint",
+            "description": ""
+        },
+        {
+            "nombre": "getTouchPoints",
+            "description": ""
+        },
+        {
+            "nombre": "isAltDown",
+            "description": ""
+        },
+        {
+            "nombre": "isControlDown",
+            "description": ""
+        },
+        {
+            "nombre": "isMetaDown",
+            "description": ""
+        },
+        {
+            "nombre": "isShiftDown",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        },
+        {
+            "nombre": "TOUCH_MOVED",
+            "description": ""
+        },
+        {
+            "nombre": "TOUCH_PRESSED",
+            "description": ""
+        },
+        {
+            "nombre": "TOUCH_RELEASED",
+            "description": ""
+        },
+        {
+            "nombre": "TOUCH_STATIONARY",
+            "description": ""
+        }
+    ]
+}

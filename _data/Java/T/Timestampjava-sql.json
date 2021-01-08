@@ -1,0 +1,163 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Timestamp",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "int date",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nano",
+                    "description": ""
+                },
+                {
+                    "nombre": "long time",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hour",
+                    "description": ""
+                },
+                {
+                    "nombre": "int second",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "after",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Timestamp ts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "before",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Timestamp ts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Timestamp ts",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Timestamp ts",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object ts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "from",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Instant instant",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNanos",
+            "description": ""
+        },
+        {
+            "nombre": "getTime",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "setNanos",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int n",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toInstant",
+            "description": ""
+        },
+        {
+            "nombre": "toLocalDateTime",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "valueOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "LocalDateTime dateTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "String s",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

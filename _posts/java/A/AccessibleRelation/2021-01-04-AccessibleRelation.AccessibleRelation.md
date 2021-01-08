@@ -1,0 +1,44 @@
+---
+title: AccessibleRelation.AccessibleRelation()
+permalink: Java/AccessibleRelation/AccessibleRelation
+date: 2021-01-04
+key: JavaJava.A.AccessibleRelation
+category: java
+tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.3']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.A.AccessibleRelation.constructores valor="AccessibleRelation" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public AccessibleRelation(String key)
+public AccessibleRelation(String key, Object target)
+public AccessibleRelation(String key, Object[] target)
+~~~
+
+## Parámetros
+* **Object target**,  {% include w3api/param_description.html metodo=_data parametro="Object target" %}
+* **Object[] target**,  {% include w3api/param_description.html metodo=_data parametro="Object[] target" %}
+* **String key**,  {% include w3api/param_description.html metodo=_data parametro="String key" %}
+
+## Clase Padre
+[AccessibleRelation](/Java/AccessibleRelation/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.A.AccessibleRelation.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

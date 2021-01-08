@@ -1,0 +1,189 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "visit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ArrayType t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitDeclared",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "DeclaredType t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ErrorType t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitExecutable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutableType t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitIntersection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IntersectionType t",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitNoType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "NoType t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitNull",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NullType t",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitPrimitive",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrimitiveType t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitTypeVariable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeVariable t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitUnion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UnionType t",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitUnknown",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitWildcard",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "WildcardType t",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

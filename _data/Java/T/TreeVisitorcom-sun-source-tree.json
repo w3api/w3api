@@ -1,0 +1,847 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "visitAnnotatedType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "AnnotatedTypeTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitAnnotation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "AnnotationTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitArrayAccess",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ArrayAccessTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitArrayType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ArrayTypeTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitAssert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "AssertTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitAssignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "AssignmentTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitBinary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitBlock",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "BlockTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitBreak",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "BreakTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "CaseTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitCatch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "CatchTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitCompilationUnit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompilationUnitTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitCompoundAssignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompoundAssignmentTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitConditionalExpression",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ConditionalExpressionTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitContinue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ContinueTree node",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitDoWhileLoop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "DoWhileLoopTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitEmptyStatement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "EmptyStatementTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitEnhancedForLoop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "EnhancedForLoopTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitErroneous",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ErroneousTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitExports",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExportsTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitExpressionStatement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExpressionStatementTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitForLoop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ForLoopTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitIdentifier",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "IdentifierTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitIf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "IfTree node",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitImport",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ImportTree node",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitInstanceOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InstanceOfTree node",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitIntersectionType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntersectionTypeTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitLabeledStatement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "LabeledStatementTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitLambdaExpression",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "LambdaExpressionTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitLiteral",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "LiteralTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitMemberReference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "MemberReferenceTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitMemberSelect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "MemberSelectTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitMethod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitMethodInvocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodInvocationTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitModifiers",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModifiersTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitModule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModuleTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitNewArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "NewArrayTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitNewClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "NewClassTree node",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitOpens",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpensTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitOther",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "Tree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitPackage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "PackageTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitParameterizedType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ParameterizedTypeTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitParenthesized",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ParenthesizedTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitPrimitiveType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrimitiveTypeTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitProvides",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ProvidesTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitRequires",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "RequiresTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitReturn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ReturnTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitSwitch",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "SwitchTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitSynchronized",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "SynchronizedTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitThrow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "ThrowTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitTry",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "TryTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitTypeCast",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeCastTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitTypeParameter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeParameterTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitUnary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "UnaryTree node",
+                    "description": ""
+                },
+                {
+                    "nombre": "P p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitUnionType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "UnionTypeTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitUses",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "UsesTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitVariable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "VariableTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitWhileLoop",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "WhileLoopTree node",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "visitWildcard",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "P p",
+                    "description": ""
+                },
+                {
+                    "nombre": "WildcardTree node",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

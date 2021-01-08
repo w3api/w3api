@@ -1,0 +1,89 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "getPrimitiveType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> wrapperType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPrimitiveTypeByName",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWrapperType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> primitiveType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isConvertibleWithoutLoss",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> sourceType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> targetType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isMethodInvocationConvertible",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> sourceType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> targetType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSubtype",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> superType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> subType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isWrapperType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> type",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "X509CRL",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEncoded",
+            "description": ""
+        },
+        {
+            "nombre": "getIssuerDN",
+            "description": ""
+        },
+        {
+            "nombre": "getIssuerX500Principal",
+            "description": ""
+        },
+        {
+            "nombre": "getNextUpdate",
+            "description": ""
+        },
+        {
+            "nombre": "getRevokedCertificate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "X509Certificate certificate",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger serialNumber",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRevokedCertificates",
+            "description": ""
+        },
+        {
+            "nombre": "getSigAlgName",
+            "description": ""
+        },
+        {
+            "nombre": "getSigAlgOID",
+            "description": ""
+        },
+        {
+            "nombre": "getSigAlgParams",
+            "description": ""
+        },
+        {
+            "nombre": "getSignature",
+            "description": ""
+        },
+        {
+            "nombre": "getTBSCertList",
+            "description": ""
+        },
+        {
+            "nombre": "getThisUpdate",
+            "description": ""
+        },
+        {
+            "nombre": "getVersion",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "verify",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Provider sigProvider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sigProvider",
+                    "description": ""
+                },
+                {
+                    "nombre": "PublicKey key",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

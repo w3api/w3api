@@ -1,0 +1,185 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TextUI",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "damageRange",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Position.Bias secondBias",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias firstBias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEditorKit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNextVisualPositionFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRootView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getToolTipText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point pt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getToolTipText2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modelToView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "modelToView2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "viewToModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasReturn",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point pt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "viewToModel2D",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JTextComponent t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pt",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasReturn",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,609 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Transform",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addEventFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventFilter",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "affine",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double mzz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double tx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ty",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "column",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MatrixType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] array",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createConcatenation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Transform transform",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createInverse",
+            "description": ""
+        },
+        {
+            "nombre": "deltaTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point3D point",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D point",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double z",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "determinant",
+            "description": ""
+        },
+        {
+            "nombre": "getElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "MatrixType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMxx",
+            "description": ""
+        },
+        {
+            "nombre": "getMxy",
+            "description": ""
+        },
+        {
+            "nombre": "getMxz",
+            "description": ""
+        },
+        {
+            "nombre": "getMyx",
+            "description": ""
+        },
+        {
+            "nombre": "getMyy",
+            "description": ""
+        },
+        {
+            "nombre": "getMyz",
+            "description": ""
+        },
+        {
+            "nombre": "getMzx",
+            "description": ""
+        },
+        {
+            "nombre": "getMzy",
+            "description": ""
+        },
+        {
+            "nombre": "getMzz",
+            "description": ""
+        },
+        {
+            "nombre": "getOnTransformChanged",
+            "description": ""
+        },
+        {
+            "nombre": "getTx",
+            "description": ""
+        },
+        {
+            "nombre": "getTy",
+            "description": ""
+        },
+        {
+            "nombre": "getTz",
+            "description": ""
+        },
+        {
+            "nombre": "identityProperty",
+            "description": ""
+        },
+        {
+            "nombre": "inverseDeltaTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point3D point",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D point",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double z",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inverseTransform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point3D point",
+                    "description": ""
+                },
+                {
+                    "nombre": "Bounds bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D point",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double z",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inverseTransform2DPoints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dstOff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] srcPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcOff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dstPts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inverseTransform3DPoints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dstOff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] srcPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcOff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dstPts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isIdentity",
+            "description": ""
+        },
+        {
+            "nombre": "isType2D",
+            "description": ""
+        },
+        {
+            "nombre": "onTransformChangedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "removeEventFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventFilter",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "rotate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double angle",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "row",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MatrixType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] array",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scale",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnTransformChanged",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super TransformChangedEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "shear",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "similarTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Bounds range",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transform transform",
+                    "description": ""
+                },
+                {
+                    "nombre": "double maxDelta",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toArray",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MatrixType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] array",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transform",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point3D point",
+                    "description": ""
+                },
+                {
+                    "nombre": "Bounds bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D point",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double z",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transform2DPoints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dstOff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] srcPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcOff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dstPts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transform3DPoints",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dstOff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] srcPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcOff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dstPts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "transformChanged",
+            "description": ""
+        },
+        {
+            "nombre": "translate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "type2DProperty",
+            "description": ""
+        }
+    ]
+}

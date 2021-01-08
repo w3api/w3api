@@ -1,0 +1,309 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TitledBorder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Border border",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font titleFont",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color titleColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "int titlePosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "int titleJustification",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getBaseline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBaselineResizeBehavior",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBorder",
+            "description": ""
+        },
+        {
+            "nombre": "getBorderInsets",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets insets",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMinimumSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTitle",
+            "description": ""
+        },
+        {
+            "nombre": "getTitleColor",
+            "description": ""
+        },
+        {
+            "nombre": "getTitleFont",
+            "description": ""
+        },
+        {
+            "nombre": "getTitleJustification",
+            "description": ""
+        },
+        {
+            "nombre": "getTitlePosition",
+            "description": ""
+        },
+        {
+            "nombre": "isBorderOpaque",
+            "description": ""
+        },
+        {
+            "nombre": "paintBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBorder",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Border border",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTitle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String title",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTitleColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Color titleColor",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTitleFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font titleFont",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTitleJustification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int titleJustification",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTitlePosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int titlePosition",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ABOVE_BOTTOM",
+            "description": ""
+        },
+        {
+            "nombre": "ABOVE_TOP",
+            "description": ""
+        },
+        {
+            "nombre": "BELOW_BOTTOM",
+            "description": ""
+        },
+        {
+            "nombre": "BELOW_TOP",
+            "description": ""
+        },
+        {
+            "nombre": "border",
+            "description": ""
+        },
+        {
+            "nombre": "BOTTOM",
+            "description": ""
+        },
+        {
+            "nombre": "CENTER",
+            "description": ""
+        },
+        {
+            "nombre": "DEFAULT_JUSTIFICATION",
+            "description": ""
+        },
+        {
+            "nombre": "DEFAULT_POSITION",
+            "description": ""
+        },
+        {
+            "nombre": "EDGE_SPACING",
+            "description": ""
+        },
+        {
+            "nombre": "LEADING",
+            "description": ""
+        },
+        {
+            "nombre": "LEFT",
+            "description": ""
+        },
+        {
+            "nombre": "RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "TEXT_INSET_H",
+            "description": ""
+        },
+        {
+            "nombre": "TEXT_SPACING",
+            "description": ""
+        },
+        {
+            "nombre": "title",
+            "description": ""
+        },
+        {
+            "nombre": "titleColor",
+            "description": ""
+        },
+        {
+            "nombre": "titleFont",
+            "description": ""
+        },
+        {
+            "nombre": "titleJustification",
+            "description": ""
+        },
+        {
+            "nombre": "titlePosition",
+            "description": ""
+        },
+        {
+            "nombre": "TOP",
+            "description": ""
+        },
+        {
+            "nombre": "TRAILING",
+            "description": ""
+        }
+    ]
+}

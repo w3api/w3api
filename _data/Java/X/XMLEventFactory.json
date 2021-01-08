@@ -1,0 +1,269 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "XMLEventFactory",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createCharacters",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createComment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDTD",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String dtd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createEndDocument",
+            "description": ""
+        },
+        {
+            "nombre": "createEndElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceUri",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterator<? extends Namespace> namespaces",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createEntityReference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "EntityDeclaration declaration",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createIgnorableSpace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createNamespace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String namespaceUri",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createProcessingInstruction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String data",
+                    "description": ""
+                },
+                {
+                    "nombre": "String target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSpace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String content",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStartDocument",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "String encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean standalone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStartElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "QName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "NamespaceContext context",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceUri",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterator<? extends Attribute> attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterator<? extends Namespace> namespaces",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newDefaultFactory",
+            "description": ""
+        },
+        {
+            "nombre": "newFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String factoryId",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String factoryId",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader classLoader",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Location location",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

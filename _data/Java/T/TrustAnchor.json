@@ -1,0 +1,59 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TrustAnchor",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "X509Certificate trustedCert",
+                    "description": ""
+                },
+                {
+                    "nombre": "String caName",
+                    "description": ""
+                },
+                {
+                    "nombre": "PublicKey pubKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] nameConstraints",
+                    "description": ""
+                },
+                {
+                    "nombre": "X500Principal caPrincipal",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getCA",
+            "description": ""
+        },
+        {
+            "nombre": "getCAName",
+            "description": ""
+        },
+        {
+            "nombre": "getCAPublicKey",
+            "description": ""
+        },
+        {
+            "nombre": "getNameConstraints",
+            "description": ""
+        },
+        {
+            "nombre": "getTrustedCert",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

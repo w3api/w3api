@@ -1,0 +1,267 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "WritableRaster",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "SampleModel sampleModel",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer dataBuffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "WritableRaster parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point origin",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point sampleModelTranslate",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle aRegion",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createWritableChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int childMinX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int childMinY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parentY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bandList",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parentX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createWritableTranslatedChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int childMinX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int childMinY",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWritableParent",
+            "description": ""
+        },
+        {
+            "nombre": "setDataElements",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Raster inRaster",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object inData",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPixel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] fArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPixels",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] fArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dy",
+                    "description": ""
+                },
+                {
+                    "nombre": "Raster srcRaster",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSample",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "float s",
+                    "description": ""
+                },
+                {
+                    "nombre": "double s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSamples",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] fArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

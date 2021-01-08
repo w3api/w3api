@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "XMLEncoder",
+            "descrition": "",
+            "parametros": [
+                {
+                    "nombre": "String charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean declaration",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                },
+                {
+                    "nombre": "int indentation",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "getOwner",
+            "description": ""
+        },
+        {
+            "nombre": "setOwner",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object owner",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeExpression",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Expression oldExp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeStatement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Statement oldStm",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

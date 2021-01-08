@@ -1,0 +1,87 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ZoneRulesProvider",
+            "descrition": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getAvailableZoneIds",
+            "description": ""
+        },
+        {
+            "nombre": "getRules",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean forCaching",
+                    "description": ""
+                },
+                {
+                    "nombre": "String zoneId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getVersions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String zoneId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "provideRefresh",
+            "description": ""
+        },
+        {
+            "nombre": "provideRules",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean forCaching",
+                    "description": ""
+                },
+                {
+                    "nombre": "String zoneId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "provideVersions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String zoneId",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "provideZoneIds",
+            "description": ""
+        },
+        {
+            "nombre": "refresh",
+            "description": ""
+        },
+        {
+            "nombre": "registerProvider",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ZoneRulesProvider provider",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

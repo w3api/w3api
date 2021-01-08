@@ -1,0 +1,651 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "calculateInnerArea",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeDifference",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle rectA",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle rectB",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeIntersection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle dest",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeStringWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics fm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "computeUnion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle dest",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convertMouseEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent sourceEvent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component destination",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convertPoint",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point aPoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component source",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component destination",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convertPointFromScreen",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convertPointToScreen",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convertRectangle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle aRectangle",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component destination",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component source",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "findFocusOwner",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleChildrenCount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleIndexInParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAccessibleStateSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAncestorNamed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAncestorOfClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeepestComponentAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component parent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLocalBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component aComponent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRoot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRootPane",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUIActionMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUIInputMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent component",
+                    "description": ""
+                },
+                {
+                    "nombre": "int condition",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUnwrappedParent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component component",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getUnwrappedView",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JViewport viewport",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWindowAncestor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invokeAndWait",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable doRun",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invokeLater",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable doRun",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDescendingFrom",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component b",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEventDispatchThread",
+            "description": ""
+        },
+        {
+            "nombre": "isLeftMouseButton",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent anEvent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isMiddleMouseButton",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent anEvent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRectangleContainingRectangle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isRightMouseButton",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MouseEvent anEvent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "layoutCompoundLabel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int horizontalAlignment",
+                    "description": ""
+                },
+                {
+                    "nombre": "int textIconGap",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle iconR",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle textR",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics fm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int verticalTextPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "int horizontalTextPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle viewR",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
+                    "nombre": "int verticalAlignment",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "notifyAction",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEvent event",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyStroke ks",
+                    "description": ""
+                },
+                {
+                    "nombre": "Action action",
+                    "description": ""
+                },
+                {
+                    "nombre": "int modifiers",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object sender",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "paintComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Container p",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processKeyBindings",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "KeyEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceUIActionMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent component",
+                    "description": ""
+                },
+                {
+                    "nombre": "ActionMap uiActionMap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceUIInputMap",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "JComponent component",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputMap uiInputMap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "updateComponentTreeUI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "windowForComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Component c",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}
