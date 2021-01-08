@@ -1,0 +1,52 @@
+---
+title: BasicStroke.BasicStroke()
+permalink: Java/BasicStroke/BasicStroke
+date: 2021-01-04
+key: JavaJava.B.BasicStroke
+category: java
+tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.B.BasicStroke.constructores valor="BasicStroke" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public BasicStroke()
+public BasicStroke(float width)
+public BasicStroke(float width, int cap, int join)
+public BasicStroke(float width, int cap, int join, float miterlimit)
+@ConstructorProperties({"lineWidth","endCap","lineJoin","miterLimit","dashArray","dashPhase"}) public BasicStroke(float width, int cap, int join, float miterlimit, float[] dash, float dash_phase)
+~~~
+
+## Parámetros
+* **float dash_phase**,  {% include w3api/param_description.html metodo=_data parametro="float dash_phase" %}
+* **float miterlimit**,  {% include w3api/param_description.html metodo=_data parametro="float miterlimit" %}
+* **int cap**,  {% include w3api/param_description.html metodo=_data parametro="int cap" %}
+* **float width**,  {% include w3api/param_description.html metodo=_data parametro="float width" %}
+* **float[] dash**,  {% include w3api/param_description.html metodo=_data parametro="float[] dash" %}
+* **int join**,  {% include w3api/param_description.html metodo=_data parametro="int join" %}
+
+## Excepciones
+[IllegalArgumentException](/Java/IllegalArgumentException/)
+
+## Clase Padre
+[BasicStroke](/Java/BasicStroke/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.B.BasicStroke.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
