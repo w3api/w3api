@@ -22,15 +22,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "File file",
+                    "description": ""
+                },
+                {
                     "nombre": "URL url",
                     "description": ""
                 },
                 {
                     "nombre": "InputStream stream",
-                    "description": ""
-                },
-                {
-                    "nombre": "File file",
                     "description": ""
                 }
             ]
@@ -54,15 +54,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "File file",
+                    "description": ""
+                },
+                {
                     "nombre": "URL url",
                     "description": ""
                 },
                 {
                     "nombre": "InputStream stream",
-                    "description": ""
-                },
-                {
-                    "nombre": "File file",
                     "description": ""
                 }
             ]
@@ -82,15 +82,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "File file",
+                    "description": ""
+                },
+                {
                     "nombre": "URL url",
                     "description": ""
                 },
                 {
                     "nombre": "InputStream stream",
-                    "description": ""
-                },
-                {
-                    "nombre": "File file",
                     "description": ""
                 }
             ]
@@ -108,11 +108,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int fileType",
+                    "nombre": "Sequence sequence",
                     "description": ""
                 },
                 {
-                    "nombre": "Sequence sequence",
+                    "nombre": "int fileType",
                     "description": ""
                 }
             ]
@@ -122,15 +122,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int type",
-                    "description": ""
-                },
-                {
                     "nombre": "File out",
                     "description": ""
                 },
                 {
-                    "nombre": "OutputStream out",
+                    "nombre": "Sequence in",
                     "description": ""
                 },
                 {
@@ -138,7 +134,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Sequence in",
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
                     "description": ""
                 }
             ]

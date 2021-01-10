@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "SignedObject",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "PrivateKey signingKey",
+                    "nombre": "Signature signingEngine",
                     "description": ""
                 },
                 {
-                    "nombre": "Signature signingEngine",
+                    "nombre": "PrivateKey signingKey",
                     "description": ""
                 },
                 {
@@ -40,11 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PublicKey verificationKey",
+                    "nombre": "Signature verificationEngine",
                     "description": ""
                 },
                 {
-                    "nombre": "Signature verificationEngine",
+                    "nombre": "PublicKey verificationKey",
                     "description": ""
                 }
             ]

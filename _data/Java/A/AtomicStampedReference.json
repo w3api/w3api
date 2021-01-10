@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "AtomicStampedReference",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int initialStamp",
+                    "nombre": "V initialRef",
                     "description": ""
                 },
                 {
-                    "nombre": "V initialRef",
+                    "nombre": "int initialStamp",
                     "description": ""
                 }
             ]
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int newStamp",
+                    "nombre": "V expectedReference",
                     "description": ""
                 },
                 {
-                    "nombre": "V expectedReference",
+                    "nombre": "int newStamp",
                     "description": ""
                 }
             ]
@@ -38,11 +38,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int newStamp",
+                    "nombre": "V expectedReference",
                     "description": ""
                 },
                 {
-                    "nombre": "int expectedStamp",
+                    "nombre": "int newStamp",
                     "description": ""
                 },
                 {
@@ -50,7 +50,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V expectedReference",
+                    "nombre": "int expectedStamp",
                     "description": ""
                 }
             ]
@@ -78,11 +78,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int newStamp",
+                    "nombre": "V newReference",
                     "description": ""
                 },
                 {
-                    "nombre": "V newReference",
+                    "nombre": "int newStamp",
                     "description": ""
                 }
             ]
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int newStamp",
+                    "nombre": "V expectedReference",
                     "description": ""
                 },
                 {
-                    "nombre": "int expectedStamp",
+                    "nombre": "int newStamp",
                     "description": ""
                 },
                 {
@@ -104,7 +104,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V expectedReference",
+                    "nombre": "int expectedStamp",
                     "description": ""
                 }
             ]

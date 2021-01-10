@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Component",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object what",
+                    "nombre": "Event evt",
                     "description": ""
                 },
                 {
-                    "nombre": "Event evt",
+                    "nombre": "Object what",
                     "description": ""
                 }
             ]
@@ -174,15 +174,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ImageObserver observer",
-                    "description": ""
-                },
-                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
                     "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageObserver observer",
                     "description": ""
                 }
             ]
@@ -192,11 +192,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AWTEvent newEvent",
+                    "nombre": "AWTEvent existingEvent",
                     "description": ""
                 },
                 {
-                    "nombre": "AWTEvent existingEvent",
+                    "nombre": "AWTEvent newEvent",
                     "description": ""
                 }
             ]
@@ -206,11 +206,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "Point p",
                     "description": ""
                 },
                 {
-                    "nombre": "Point p",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -228,11 +228,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ImageProducer producer",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "ImageProducer producer",
                     "description": ""
                 }
             ]
@@ -242,11 +242,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "ImageCapabilities caps",
                     "description": ""
                 },
                 {
-                    "nombre": "ImageCapabilities caps",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
@@ -328,6 +328,50 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "short oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "double oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "long oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "char oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "char newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                },
+                {
                     "nombre": "byte oldValue",
                     "description": ""
                 },
@@ -336,23 +380,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "short oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "String propertyName",
-                    "description": ""
-                },
-                {
-                    "nombre": "char oldValue",
+                    "nombre": "boolean oldValue",
                     "description": ""
                 },
                 {
                     "nombre": "byte newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "short newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "double newValue",
                     "description": ""
                 },
                 {
@@ -361,46 +401,6 @@
                 },
                 {
                     "nombre": "float newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "double newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "short newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "char newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "double oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "int newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "int oldValue",
                     "description": ""
                 }
             ]
@@ -458,11 +458,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "Point p",
                     "description": ""
                 },
                 {
-                    "nombre": "Point p",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -676,11 +676,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object what",
+                    "nombre": "Event evt",
                     "description": ""
                 },
                 {
-                    "nombre": "Event evt",
+                    "nombre": "Object what",
                     "description": ""
                 }
             ]
@@ -708,15 +708,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "Image img",
-                    "description": ""
-                },
-                {
                     "nombre": "int infoflags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -724,7 +720,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -838,11 +838,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int key",
+                    "nombre": "Event evt",
                     "description": ""
                 },
                 {
-                    "nombre": "Event evt",
+                    "nombre": "int key",
                     "description": ""
                 }
             ]
@@ -852,11 +852,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int key",
+                    "nombre": "Event evt",
                     "description": ""
                 },
                 {
-                    "nombre": "Event evt",
+                    "nombre": "int key",
                     "description": ""
                 }
             ]
@@ -870,7 +870,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int indent",
+                    "nombre": "PrintWriter out",
                     "description": ""
                 },
                 {
@@ -878,7 +878,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PrintWriter out",
+                    "nombre": "int indent",
                     "description": ""
                 }
             ]
@@ -906,11 +906,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object what",
+                    "nombre": "Event evt",
                     "description": ""
                 },
                 {
-                    "nombre": "Event evt",
+                    "nombre": "Object what",
                     "description": ""
                 }
             ]
@@ -924,7 +924,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
+                    "nombre": "Event evt",
                     "description": ""
                 },
                 {
@@ -932,7 +932,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Event evt",
+                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -942,7 +942,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
+                    "nombre": "Event evt",
                     "description": ""
                 },
                 {
@@ -950,7 +950,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Event evt",
+                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -960,7 +960,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
+                    "nombre": "Event evt",
                     "description": ""
                 },
                 {
@@ -968,7 +968,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Event evt",
+                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -978,7 +978,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
+                    "nombre": "Event evt",
                     "description": ""
                 },
                 {
@@ -986,7 +986,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Event evt",
+                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -996,7 +996,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
+                    "nombre": "Event evt",
                     "description": ""
                 },
                 {
@@ -1004,7 +1004,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Event evt",
+                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -1014,7 +1014,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
+                    "nombre": "Event evt",
                     "description": ""
                 },
                 {
@@ -1022,7 +1022,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Event evt",
+                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -1092,15 +1092,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ImageObserver observer",
-                    "description": ""
-                },
-                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
                     "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageObserver observer",
                     "description": ""
                 }
             ]
@@ -1348,19 +1348,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "long tm",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "long tm",
                     "description": ""
                 },
                 {
@@ -1374,11 +1374,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FocusEvent.Cause cause",
+                    "nombre": "boolean temporary",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean temporary",
+                    "nombre": "FocusEvent.Cause cause",
                     "description": ""
                 }
             ]
@@ -1388,11 +1388,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FocusEvent.Cause cause",
+                    "nombre": "boolean temporary",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean temporary",
+                    "nombre": "FocusEvent.Cause cause",
                     "description": ""
                 }
             ]
@@ -1402,7 +1402,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int height",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -1410,7 +1410,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
@@ -1424,15 +1424,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Dimension d",
-                    "description": ""
-                },
-                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
                     "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dimension d",
                     "description": ""
                 }
             ]
@@ -1460,15 +1460,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
                 {
                     "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -1596,11 +1596,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "Point p",
                     "description": ""
                 },
                 {
-                    "nombre": "Point p",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -1664,15 +1664,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Dimension d",
-                    "description": ""
-                },
-                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
                     "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dimension d",
                     "description": ""
                 }
             ]

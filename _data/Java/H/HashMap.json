@@ -5,22 +5,22 @@
     "constructores": [
         {
             "nombre": "HashMap",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "? extends V> m",
-                    "description": ""
-                },
-                {
-                    "nombre": "Map<? extends K",
-                    "description": ""
-                },
                 {
                     "nombre": "int initialCapacity",
                     "description": ""
                 },
                 {
                     "nombre": "float loadFactor",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> m",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends K",
                     "description": ""
                 }
             ]
@@ -40,6 +40,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
                     "nombre": "? super V",
                     "description": ""
                 },
@@ -49,10 +53,6 @@
                 },
                 {
                     "nombre": "BiFunction<? super K",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 }
             ]
@@ -66,11 +66,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Function<? super K",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "Function<? super K",
                     "description": ""
                 }
             ]
@@ -79,6 +79,10 @@
             "nombre": "computeIfPresent",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
                 {
                     "nombre": "? super V",
                     "description": ""
@@ -89,10 +93,6 @@
                 },
                 {
                     "nombre": "BiFunction<? super K",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 }
             ]
@@ -144,11 +144,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
-                    "description": ""
-                },
-                {
-                    "nombre": "BiFunction<? super V",
+                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 },
                 {
@@ -156,11 +152,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? extends V> remappingFunction",
+                    "nombre": "BiFunction<? super V",
                     "description": ""
                 },
                 {
                     "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "V value",
                     "description": ""
                 }
             ]
@@ -170,11 +170,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 }
             ]

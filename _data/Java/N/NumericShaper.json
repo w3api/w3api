@@ -18,7 +18,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int defaultContext",
+                    "nombre": "Set<NumericShaper.Range> ranges",
                     "description": ""
                 },
                 {
@@ -26,11 +26,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Set<NumericShaper.Range> ranges",
+                    "nombre": "int ranges",
                     "description": ""
                 },
                 {
-                    "nombre": "int ranges",
+                    "nombre": "int defaultContext",
                     "description": ""
                 }
             ]
@@ -74,19 +74,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "NumericShaper.Range context",
-                    "description": ""
-                },
-                {
                     "nombre": "char[] text",
                     "description": ""
                 },
                 {
-                    "nombre": "int start",
+                    "nombre": "NumericShaper.Range context",
                     "description": ""
                 },
                 {
                     "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "XMLReaderAdapter",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "XMLReader xmlReader",
@@ -24,11 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "char[] ch",
                     "description": ""
                 },
                 {
-                    "nombre": "char[] ch",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -42,11 +42,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String localName",
+                    "nombre": "String qName",
                     "description": ""
                 },
                 {
-                    "nombre": "String qName",
+                    "nombre": "String localName",
                     "description": ""
                 },
                 {
@@ -74,11 +74,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "char[] ch",
                     "description": ""
                 },
                 {
-                    "nombre": "char[] ch",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -88,11 +88,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String systemId",
+                    "nombre": "InputSource input",
                     "description": ""
                 },
                 {
-                    "nombre": "InputSource input",
+                    "nombre": "String systemId",
                     "description": ""
                 }
             ]
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String data",
+                    "nombre": "String target",
                     "description": ""
                 },
                 {
-                    "nombre": "String target",
+                    "nombre": "String data",
                     "description": ""
                 }
             ]
@@ -190,7 +190,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Attributes atts",
+                    "nombre": "String qName",
                     "description": ""
                 },
                 {
@@ -198,11 +198,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String qName",
+                    "nombre": "String uri",
                     "description": ""
                 },
                 {
-                    "nombre": "String uri",
+                    "nombre": "Attributes atts",
                     "description": ""
                 }
             ]

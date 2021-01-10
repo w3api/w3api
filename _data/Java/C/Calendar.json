@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "Calendar",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeZone zone",
+                    "nombre": "Locale aLocale",
                     "description": ""
                 },
                 {
-                    "nombre": "Locale aLocale",
+                    "nombre": "TimeZone zone",
                     "description": ""
                 }
             ]
@@ -196,11 +196,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeZone zone",
+                    "nombre": "Locale aLocale",
                     "description": ""
                 },
                 {
-                    "nombre": "Locale aLocale",
+                    "nombre": "TimeZone zone",
                     "description": ""
                 }
             ]
@@ -300,11 +300,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean up",
+                    "nombre": "int field",
                     "description": ""
                 },
                 {
-                    "nombre": "int field",
+                    "nombre": "boolean up",
                     "description": ""
                 }
             ]
@@ -318,7 +318,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int minute",
+                    "nombre": "int month",
                     "description": ""
                 },
                 {
@@ -326,7 +326,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int month",
+                    "nombre": "int field",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
+                    "description": ""
+                },
+                {
+                    "nombre": "int second",
                     "description": ""
                 },
                 {
@@ -335,14 +343,6 @@
                 },
                 {
                     "nombre": "int hourOfDay",
-                    "description": ""
-                },
-                {
-                    "nombre": "int field",
-                    "description": ""
-                },
-                {
-                    "nombre": "int second",
                     "description": ""
                 }
             ]
@@ -412,11 +412,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int weekOfYear",
+                    "nombre": "int dayOfWeek",
                     "description": ""
                 },
                 {
-                    "nombre": "int dayOfWeek",
+                    "nombre": "int weekOfYear",
                     "description": ""
                 },
                 {

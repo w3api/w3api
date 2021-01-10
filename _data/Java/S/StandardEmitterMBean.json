@@ -5,18 +5,14 @@
     "constructores": [
         {
             "nombre": "StandardEmitterMBean",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
+                    "nombre": "T implementation",
+                    "description": ""
+                },
+                {
                     "nombre": "NotificationEmitter emitter",
-                    "description": ""
-                },
-                {
-                    "nombre": "Class<?> mbeanInterface",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isMXBean",
                     "description": ""
                 },
                 {
@@ -24,7 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "T implementation",
+                    "nombre": "boolean isMXBean",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> mbeanInterface",
                     "description": ""
                 }
             ]

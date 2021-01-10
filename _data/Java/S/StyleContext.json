@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "StyleContext",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,15 +14,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
                     "nombre": "AttributeSet old",
                     "description": ""
                 },
                 {
                     "nombre": "Object name",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object value",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributeSet attr",
+                    "nombre": "AttributeSet old",
                     "description": ""
                 },
                 {
-                    "nombre": "AttributeSet old",
+                    "nombre": "AttributeSet attr",
                     "description": ""
                 }
             ]
@@ -116,7 +116,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributeSet attr",
+                    "nombre": "int size",
                     "description": ""
                 },
                 {
@@ -124,11 +124,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int size",
+                    "nombre": "int style",
                     "description": ""
                 },
                 {
-                    "nombre": "int style",
+                    "nombre": "AttributeSet attr",
                     "description": ""
                 }
             ]
@@ -192,11 +192,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MutableAttributeSet a",
+                    "nombre": "ObjectInputStream in",
                     "description": ""
                 },
                 {
-                    "nombre": "ObjectInputStream in",
+                    "nombre": "MutableAttributeSet a",
                     "description": ""
                 }
             ]
@@ -206,11 +206,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MutableAttributeSet a",
+                    "nombre": "ObjectInputStream in",
                     "description": ""
                 },
                 {
-                    "nombre": "ObjectInputStream in",
+                    "nombre": "MutableAttributeSet a",
                     "description": ""
                 }
             ]
@@ -254,15 +254,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "AttributeSet attrs",
+                    "description": ""
+                },
+                {
                     "nombre": "AttributeSet old",
                     "description": ""
                 },
                 {
                     "nombre": "Enumeration<?> names",
-                    "description": ""
-                },
-                {
-                    "nombre": "AttributeSet attrs",
                     "description": ""
                 }
             ]

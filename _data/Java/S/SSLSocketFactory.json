@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "SSLSocketFactory",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String host",
+                    "nombre": "boolean autoClose",
                     "description": ""
                 },
                 {
-                    "nombre": "Socket s",
+                    "nombre": "String host",
                     "description": ""
                 },
                 {
@@ -26,11 +26,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean autoClose",
+                    "nombre": "InputStream consumed",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream consumed",
+                    "nombre": "Socket s",
                     "description": ""
                 }
             ]

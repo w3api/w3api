@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "TableColumn.CellDataFeatures",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "S value",
+                    "nombre": "T> tableColumn",
+                    "description": ""
+                },
+                {
+                    "nombre": "TableColumn<S",
                     "description": ""
                 },
                 {
@@ -16,11 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "T> tableColumn",
-                    "description": ""
-                },
-                {
-                    "nombre": "TableColumn<S",
+                    "nombre": "S value",
                     "description": ""
                 }
             ]

@@ -5,22 +5,22 @@
     "constructores": [
         {
             "nombre": "AudioInputStream",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "TargetDataLine line",
-                    "description": ""
-                },
-                {
-                    "nombre": "InputStream stream",
-                    "description": ""
-                },
                 {
                     "nombre": "AudioFormat format",
                     "description": ""
                 },
                 {
                     "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "TargetDataLine line",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream stream",
                     "description": ""
                 }
             ]
@@ -62,7 +62,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "byte[] b",
                     "description": ""
                 },
                 {
@@ -70,7 +70,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] b",
+                    "nombre": "int off",
                     "description": ""
                 }
             ]

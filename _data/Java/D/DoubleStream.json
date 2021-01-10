@@ -40,11 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "R> combiner",
+                    "nombre": "BiConsumer<R",
                     "description": ""
                 },
                 {
-                    "nombre": "BiConsumer<R",
+                    "nombre": "R> combiner",
                     "description": ""
                 },
                 {
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DoubleStream b",
+                    "nombre": "DoubleStream a",
                     "description": ""
                 },
                 {
-                    "nombre": "DoubleStream a",
+                    "nombre": "DoubleStream b",
                     "description": ""
                 }
             ]
@@ -156,7 +156,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DoublePredicate hasNext",
+                    "nombre": "DoubleUnaryOperator next",
+                    "description": ""
+                },
+                {
+                    "nombre": "double seed",
                     "description": ""
                 },
                 {
@@ -164,11 +168,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "DoubleUnaryOperator next",
-                    "description": ""
-                },
-                {
-                    "nombre": "double seed",
+                    "nombre": "DoublePredicate hasNext",
                     "description": ""
                 }
             ]
@@ -246,11 +246,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double... values",
+                    "nombre": "double t",
                     "description": ""
                 },
                 {
-                    "nombre": "double t",
+                    "nombre": "double... values",
                     "description": ""
                 }
             ]

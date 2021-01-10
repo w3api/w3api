@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "DocTreePath",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "DocTreePath p",
-                    "description": ""
-                },
-                {
-                    "nombre": "DocTree t",
+                    "nombre": "TreePath treePath",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath treePath",
+                    "nombre": "DocTree t",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocTreePath p",
                     "description": ""
                 }
             ]
@@ -44,7 +44,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DocCommentTree doc",
+                    "nombre": "TreePath treePath",
                     "description": ""
                 },
                 {
@@ -52,7 +52,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath treePath",
+                    "nombre": "DocCommentTree doc",
                     "description": ""
                 },
                 {

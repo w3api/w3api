@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "ZoomEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean shiftDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object source",
+                    "nombre": "double screenY",
                     "description": ""
                 },
                 {
@@ -20,19 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean altDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "double screenX",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventType<ZoomEvent> eventType",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean controlDown",
+                    "nombre": "double totalZoomFactor",
                     "description": ""
                 },
                 {
@@ -40,23 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double y",
-                    "description": ""
-                },
-                {
                     "nombre": "double x",
                     "description": ""
                 },
                 {
-                    "nombre": "double zoomFactor",
-                    "description": ""
-                },
-                {
-                    "nombre": "double screenY",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean metaDown",
+                    "nombre": "boolean shiftDown",
                     "description": ""
                 },
                 {
@@ -64,11 +36,39 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double totalZoomFactor",
+                    "nombre": "EventTarget target",
                     "description": ""
                 },
                 {
-                    "nombre": "EventTarget target",
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean controlDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean altDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<ZoomEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean metaDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double zoomFactor",
                     "description": ""
                 }
             ]

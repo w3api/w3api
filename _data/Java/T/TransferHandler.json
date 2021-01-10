@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "TransferHandler",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "String property",
@@ -20,11 +20,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JComponent comp",
+                    "nombre": "DataFlavor[] transferFlavors",
                     "description": ""
                 },
                 {
-                    "nombre": "DataFlavor[] transferFlavors",
+                    "nombre": "JComponent comp",
                     "description": ""
                 },
                 {
@@ -48,15 +48,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "InputEvent e",
+                    "description": ""
+                },
+                {
                     "nombre": "int action",
                     "description": ""
                 },
                 {
                     "nombre": "JComponent comp",
-                    "description": ""
-                },
-                {
-                    "nombre": "InputEvent e",
                     "description": ""
                 }
             ]
@@ -66,7 +66,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int action",
+                    "nombre": "Transferable data",
                     "description": ""
                 },
                 {
@@ -74,7 +74,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Transferable data",
+                    "nombre": "int action",
                     "description": ""
                 }
             ]
@@ -142,11 +142,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JComponent comp",
+                    "nombre": "Transferable t",
                     "description": ""
                 },
                 {
-                    "nombre": "Transferable t",
+                    "nombre": "JComponent comp",
                     "description": ""
                 },
                 {

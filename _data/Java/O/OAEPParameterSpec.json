@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "OAEPParameterSpec",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "AlgorithmParameterSpec mgfSpec",
-                    "description": ""
-                },
-                {
-                    "nombre": "String mgfName",
+                    "nombre": "PSource pSrc",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PSource pSrc",
+                    "nombre": "AlgorithmParameterSpec mgfSpec",
+                    "description": ""
+                },
+                {
+                    "nombre": "String mgfName",
                     "description": ""
                 }
             ]

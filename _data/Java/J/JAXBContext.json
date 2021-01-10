@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "JAXBContext",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -50,7 +50,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?>... classesToBeBound",
+                    "nombre": "?> properties",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader classLoader",
                     "description": ""
                 },
                 {
@@ -58,19 +62,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?>[] classesToBeBound",
-                    "description": ""
-                },
-                {
                     "nombre": "Map<String",
                     "description": ""
                 },
                 {
-                    "nombre": "?> properties",
+                    "nombre": "Class<?>... classesToBeBound",
                     "description": ""
                 },
                 {
-                    "nombre": "ClassLoader classLoader",
+                    "nombre": "Class<?>[] classesToBeBound",
                     "description": ""
                 }
             ]

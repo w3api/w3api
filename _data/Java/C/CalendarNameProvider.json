@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "CalendarNameProvider",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -13,6 +13,10 @@
             "nombre": "getDisplayName",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "int field",
+                    "description": ""
+                },
                 {
                     "nombre": "String calendarType",
                     "description": ""
@@ -28,10 +32,6 @@
                 {
                     "nombre": "int value",
                     "description": ""
-                },
-                {
-                    "nombre": "int field",
-                    "description": ""
                 }
             ]
         },
@@ -44,15 +44,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String calendarType",
-                    "description": ""
-                },
-                {
                     "nombre": "int field",
                     "description": ""
                 },
                 {
                     "nombre": "int style",
+                    "description": ""
+                },
+                {
+                    "nombre": "String calendarType",
                     "description": ""
                 }
             ]

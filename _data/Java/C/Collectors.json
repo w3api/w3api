@@ -38,7 +38,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "RR> finisher",
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "R> downstream",
                     "description": ""
                 },
                 {
@@ -46,15 +50,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "RR> finisher",
+                    "description": ""
+                },
+                {
                     "nombre": "Function<R",
-                    "description": ""
-                },
-                {
-                    "nombre": "A",
-                    "description": ""
-                },
-                {
-                    "nombre": "R> downstream",
                     "description": ""
                 }
             ]
@@ -68,7 +68,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Collector<? super T",
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "R> downstream",
                     "description": ""
                 },
                 {
@@ -76,11 +80,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "A",
-                    "description": ""
-                },
-                {
-                    "nombre": "R> downstream",
+                    "nombre": "Collector<? super T",
                     "description": ""
                 }
             ]
@@ -90,15 +90,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends Stream<? extends U>> mapper",
+                    "nombre": "A",
                     "description": ""
                 },
                 {
                     "nombre": "Collector<? super U",
-                    "description": ""
-                },
-                {
-                    "nombre": "A",
                     "description": ""
                 },
                 {
@@ -108,6 +104,10 @@
                 {
                     "nombre": "Function<? super T",
                     "description": ""
+                },
+                {
+                    "nombre": "? extends Stream<? extends U>> mapper",
+                    "description": ""
                 }
             ]
         },
@@ -116,19 +116,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
                     "nombre": "Supplier<M> mapFactory",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends K> classifier",
-                    "description": ""
-                },
-                {
                     "nombre": "D> downstream",
-                    "description": ""
-                },
-                {
-                    "nombre": "A",
                     "description": ""
                 },
                 {
@@ -137,6 +133,10 @@
                 },
                 {
                     "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends K> classifier",
                     "description": ""
                 }
             ]
@@ -146,19 +146,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
                     "nombre": "Supplier<M> mapFactory",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends K> classifier",
-                    "description": ""
-                },
-                {
                     "nombre": "D> downstream",
-                    "description": ""
-                },
-                {
-                    "nombre": "A",
                     "description": ""
                 },
                 {
@@ -168,6 +164,10 @@
                 {
                     "nombre": "Function<? super T",
                     "description": ""
+                },
+                {
+                    "nombre": "? extends K> classifier",
+                    "description": ""
                 }
             ]
         },
@@ -176,15 +176,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CharSequence suffix",
-                    "description": ""
-                },
-                {
                     "nombre": "CharSequence delimiter",
                     "description": ""
                 },
                 {
                     "nombre": "CharSequence prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence suffix",
                     "description": ""
                 }
             ]
@@ -194,15 +194,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Collector<? super U",
-                    "description": ""
-                },
-                {
                     "nombre": "A",
                     "description": ""
                 },
                 {
                     "nombre": "? extends U> mapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collector<? super U",
                     "description": ""
                 },
                 {
@@ -240,7 +240,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Collector<? super T",
+                    "nombre": "A",
                     "description": ""
                 },
                 {
@@ -248,11 +248,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "A",
+                    "nombre": "D> downstream",
                     "description": ""
                 },
                 {
-                    "nombre": "D> downstream",
+                    "nombre": "Collector<? super T",
                     "description": ""
                 }
             ]
@@ -266,7 +266,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "T identity",
+                    "nombre": "? extends U> mapper",
                     "description": ""
                 },
                 {
@@ -274,15 +274,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
                     "nombre": "BinaryOperator<U> op",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends U> mapper",
-                    "description": ""
-                },
-                {
-                    "nombre": "Function<? super T",
+                    "nombre": "T identity",
                     "description": ""
                 }
             ]
@@ -362,15 +362,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Function<? super T",
-                    "description": ""
-                },
-                {
                     "nombre": "Supplier<M> mapFactory",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends K> keyMapper",
+                    "nombre": "BinaryOperator<U> mergeFunction",
                     "description": ""
                 },
                 {
@@ -378,7 +374,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BinaryOperator<U> mergeFunction",
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends K> keyMapper",
                     "description": ""
                 }
             ]
@@ -392,15 +392,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Function<? super T",
-                    "description": ""
-                },
-                {
                     "nombre": "Supplier<M> mapFactory",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends K> keyMapper",
+                    "nombre": "BinaryOperator<U> mergeFunction",
                     "description": ""
                 },
                 {
@@ -408,7 +404,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BinaryOperator<U> mergeFunction",
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends K> keyMapper",
                     "description": ""
                 }
             ]
@@ -426,7 +426,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BinaryOperator<U> mergeFunction",
+                    "nombre": "? extends U> valueMapper",
                     "description": ""
                 },
                 {
@@ -434,7 +434,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? extends U> valueMapper",
+                    "nombre": "BinaryOperator<U> mergeFunction",
                     "description": ""
                 },
                 {

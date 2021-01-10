@@ -18,19 +18,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
                     "nombre": "CharSequence csq",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "int start",
                     "description": ""
                 },
                 {
                     "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
                     "description": ""
                 }
             ]
@@ -90,19 +90,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "char[] dst",
-                    "description": ""
-                },
-                {
                     "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "char[] dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -132,23 +132,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
                     "nombre": "int end",
-                    "description": ""
-                },
-                {
-                    "nombre": "CharBuffer src",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] src",
-                    "description": ""
-                },
-                {
-                    "nombre": "char c",
                     "description": ""
                 },
                 {
@@ -156,7 +140,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharBuffer src",
+                    "description": ""
+                },
+                {
                     "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
                     "description": ""
                 },
                 {
@@ -165,6 +161,10 @@
                 },
                 {
                     "nombre": "String src",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] src",
                     "description": ""
                 }
             ]
@@ -188,11 +188,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
+                    "nombre": "int end",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "int start",
                     "description": ""
                 }
             ]
@@ -206,15 +206,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "char[] array",
-                    "description": ""
-                },
-                {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
                     "nombre": "int end",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence csq",
                     "description": ""
                 },
                 {
@@ -222,11 +218,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
                     "nombre": "int length",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence csq",
+                    "nombre": "char[] array",
                     "description": ""
                 }
             ]

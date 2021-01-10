@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "TreeSet",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Collection<? extends E> c",
+                    "nombre": "Comparator<? super E> comparator",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Comparator<? super E> comparator",
+                    "nombre": "Collection<? extends E> c",
                     "description": ""
                 }
             ]
@@ -170,11 +170,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean fromInclusive",
+                    "nombre": "E fromElement",
                     "description": ""
                 },
                 {
-                    "nombre": "E fromElement",
+                    "nombre": "boolean fromInclusive",
                     "description": ""
                 },
                 {

@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "LineBorder",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "Color color",
+                    "description": ""
+                },
                 {
                     "nombre": "int thickness",
                     "description": ""
                 },
                 {
                     "nombre": "boolean roundedCorners",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color color",
                     "description": ""
                 }
             ]
@@ -36,11 +36,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Component c",
+                    "nombre": "Insets insets",
                     "description": ""
                 },
                 {
-                    "nombre": "Insets insets",
+                    "nombre": "Component c",
                     "description": ""
                 }
             ]
@@ -66,10 +66,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "Graphics g",
                     "description": ""
                 },
@@ -83,6 +79,10 @@
                 },
                 {
                     "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {

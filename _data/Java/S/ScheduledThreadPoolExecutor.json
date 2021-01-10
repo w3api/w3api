@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "ScheduledThreadPoolExecutor",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "int corePoolSize",
+                    "description": ""
+                },
                 {
                     "nombre": "ThreadFactory threadFactory",
                     "description": ""
                 },
                 {
                     "nombre": "RejectedExecutionHandler handler",
-                    "description": ""
-                },
-                {
-                    "nombre": "int corePoolSize",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "RunnableScheduledFuture<V> task",
+                    "nombre": "Runnable runnable",
                     "description": ""
                 },
                 {
-                    "nombre": "Runnable runnable",
+                    "nombre": "RunnableScheduledFuture<V> task",
                     "description": ""
                 }
             ]
@@ -72,19 +72,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Runnable command",
-                    "description": ""
-                },
-                {
-                    "nombre": "Callable<V> callable",
-                    "description": ""
-                },
-                {
                     "nombre": "long delay",
                     "description": ""
                 },
                 {
+                    "nombre": "Runnable command",
+                    "description": ""
+                },
+                {
                     "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<V> callable",
                     "description": ""
                 }
             ]
@@ -94,7 +94,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long initialDelay",
                     "description": ""
                 },
                 {
@@ -102,7 +102,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long initialDelay",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 },
                 {
@@ -116,7 +116,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Runnable command",
+                    "nombre": "long delay",
                     "description": ""
                 },
                 {
@@ -124,7 +124,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long delay",
+                    "nombre": "Runnable command",
                     "description": ""
                 },
                 {

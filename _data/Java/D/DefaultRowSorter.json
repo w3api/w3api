@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DefaultRowSorter",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -106,15 +106,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int column",
-                    "description": ""
-                },
-                {
                     "nombre": "int firstRow",
                     "description": ""
                 },
                 {
                     "nombre": "int endRow",
+                    "description": ""
+                },
+                {
+                    "nombre": "int column",
                     "description": ""
                 }
             ]
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int column",
+                    "nombre": "Comparator<?> comparator",
                     "description": ""
                 },
                 {
-                    "nombre": "Comparator<?> comparator",
+                    "nombre": "int column",
                     "description": ""
                 }
             ]
@@ -176,11 +176,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int column",
+                    "nombre": "boolean sortable",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean sortable",
+                    "nombre": "int column",
                     "description": ""
                 }
             ]

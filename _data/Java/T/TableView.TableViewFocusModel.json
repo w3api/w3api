@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "TableView.TableViewFocusModel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "TableView<S> tableView",
@@ -20,7 +20,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "?> column",
+                    "nombre": "int row",
                     "description": ""
                 },
                 {
@@ -28,15 +28,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TablePosition pos",
-                    "description": ""
-                },
-                {
-                    "nombre": "int row",
+                    "nombre": "?> column",
                     "description": ""
                 },
                 {
                     "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "TablePosition pos",
                     "description": ""
                 }
             ]
@@ -70,7 +70,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TableColumn<S",
+                    "nombre": "?> column",
                     "description": ""
                 },
                 {
@@ -78,7 +78,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "?> column",
+                    "nombre": "TableColumn<S",
                     "description": ""
                 }
             ]

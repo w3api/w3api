@@ -5,10 +5,18 @@
     "constructores": [
         {
             "nombre": "TIFFField",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int type",
+                    "nombre": "TIFFTag tag",
+                    "description": ""
+                },
+                {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "long value",
                     "description": ""
                 },
                 {
@@ -16,11 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TIFFTag tag",
-                    "description": ""
-                },
-                {
-                    "nombre": "long value",
+                    "nombre": "int type",
                     "description": ""
                 },
                 {
@@ -29,10 +33,6 @@
                 },
                 {
                     "nombre": "Object data",
-                    "description": ""
-                },
-                {
-                    "nombre": "int count",
                     "description": ""
                 }
             ]

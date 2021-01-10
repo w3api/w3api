@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "PipedWriter",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "PipedReader snk",
@@ -38,19 +38,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
-                    "description": ""
-                },
-                {
                     "nombre": "int len",
                     "description": ""
                 },
                 {
-                    "nombre": "int c",
+                    "nombre": "char[] cbuf",
                     "description": ""
                 },
                 {
-                    "nombre": "char[] cbuf",
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int c",
                     "description": ""
                 }
             ]

@@ -5,22 +5,14 @@
     "constructores": [
         {
             "nombre": "TextLayout",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "?> attributes",
-                    "description": ""
-                },
                 {
                     "nombre": "FontRenderContext frc",
                     "description": ""
                 },
                 {
-                    "nombre": "String string",
-                    "description": ""
-                },
-                {
-                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "nombre": "?> attributes",
                     "description": ""
                 },
                 {
@@ -29,6 +21,14 @@
                 },
                 {
                     "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "String string",
                     "description": ""
                 }
             ]
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float x",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
-                    "nombre": "float y",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -106,11 +106,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D bounds",
+                    "nombre": "TextHitInfo hit",
                     "description": ""
                 },
                 {
-                    "nombre": "TextHitInfo hit",
+                    "nombre": "Rectangle2D bounds",
                     "description": ""
                 }
             ]
@@ -120,11 +120,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D bounds",
+                    "nombre": "TextHitInfo hit",
                     "description": ""
                 },
                 {
-                    "nombre": "TextHitInfo hit",
+                    "nombre": "Rectangle2D bounds",
                     "description": ""
                 }
             ]
@@ -134,7 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D bounds",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -142,7 +142,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "Rectangle2D bounds",
                     "description": ""
                 }
             ]
@@ -192,11 +192,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle2D bounds",
+                    "nombre": "int secondEndpoint",
                     "description": ""
                 },
                 {
-                    "nombre": "int secondEndpoint",
+                    "nombre": "Rectangle2D bounds",
                     "description": ""
                 }
             ]
@@ -220,7 +220,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TextLayout.CaretPolicy policy",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -228,7 +228,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "TextLayout.CaretPolicy policy",
                     "description": ""
                 }
             ]
@@ -238,7 +238,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TextLayout.CaretPolicy policy",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -246,7 +246,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "TextLayout.CaretPolicy policy",
                     "description": ""
                 }
             ]
@@ -266,7 +266,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float x",
+                    "nombre": "FontRenderContext frc",
                     "description": ""
                 },
                 {
@@ -274,7 +274,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "FontRenderContext frc",
+                    "nombre": "float x",
                     "description": ""
                 }
             ]
@@ -288,11 +288,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D bounds",
+                    "nombre": "TextHitInfo secondEndpoint",
                     "description": ""
                 },
                 {
-                    "nombre": "TextHitInfo secondEndpoint",
+                    "nombre": "Rectangle2D bounds",
                     "description": ""
                 },
                 {
@@ -326,7 +326,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D bounds",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
@@ -334,7 +334,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float y",
+                    "nombre": "Rectangle2D bounds",
                     "description": ""
                 }
             ]

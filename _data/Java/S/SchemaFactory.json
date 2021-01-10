@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "SchemaFactory",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -60,11 +60,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String schemaLanguage",
+                    "nombre": "String factoryClassName",
                     "description": ""
                 },
                 {
-                    "nombre": "String factoryClassName",
+                    "nombre": "String schemaLanguage",
                     "description": ""
                 }
             ]
@@ -74,19 +74,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "URL schema",
-                    "description": ""
-                },
-                {
                     "nombre": "Source schema",
                     "description": ""
                 },
                 {
-                    "nombre": "File schema",
+                    "nombre": "URL schema",
                     "description": ""
                 },
                 {
                     "nombre": "Source[] schemas",
+                    "description": ""
+                },
+                {
+                    "nombre": "File schema",
                     "description": ""
                 }
             ]
@@ -120,11 +120,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String name",
+                    "nombre": "Object object",
                     "description": ""
                 },
                 {
-                    "nombre": "Object object",
+                    "nombre": "String name",
                     "description": ""
                 }
             ]

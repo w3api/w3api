@@ -5,22 +5,22 @@
     "constructores": [
         {
             "nombre": "EncryptedPrivateKeyInfo",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "byte[] encoded",
-                    "description": ""
-                },
                 {
                     "nombre": "String algName",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] encryptedData",
+                    "nombre": "AlgorithmParameters algParams",
                     "description": ""
                 },
                 {
-                    "nombre": "AlgorithmParameters algParams",
+                    "nombre": "byte[] encoded",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] encryptedData",
                     "description": ""
                 }
             ]
@@ -48,7 +48,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Provider provider",
+                    "nombre": "String providerName",
                     "description": ""
                 },
                 {
@@ -60,7 +60,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String providerName",
+                    "nombre": "Provider provider",
                     "description": ""
                 }
             ]

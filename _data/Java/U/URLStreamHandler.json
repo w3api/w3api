@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "URLStreamHandler",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "URL u1",
+                    "nombre": "URL u2",
                     "description": ""
                 },
                 {
-                    "nombre": "URL u2",
+                    "nombre": "URL u1",
                     "description": ""
                 }
             ]
@@ -52,11 +52,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "URL u1",
+                    "nombre": "URL u2",
                     "description": ""
                 },
                 {
-                    "nombre": "URL u2",
+                    "nombre": "URL u1",
                     "description": ""
                 }
             ]
@@ -66,11 +66,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Proxy p",
+                    "nombre": "URL u",
                     "description": ""
                 },
                 {
-                    "nombre": "URL u",
+                    "nombre": "Proxy p",
                     "description": ""
                 }
             ]
@@ -80,15 +80,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
                     "nombre": "String spec",
                     "description": ""
                 },
                 {
                     "nombre": "int limit",
-                    "description": ""
-                },
-                {
-                    "nombre": "int start",
                     "description": ""
                 },
                 {
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "URL u1",
+                    "nombre": "URL u2",
                     "description": ""
                 },
                 {
-                    "nombre": "URL u2",
+                    "nombre": "URL u1",
                     "description": ""
                 }
             ]
@@ -116,35 +116,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String file",
-                    "description": ""
-                },
-                {
-                    "nombre": "String authority",
-                    "description": ""
-                },
-                {
-                    "nombre": "String host",
-                    "description": ""
-                },
-                {
-                    "nombre": "String protocol",
-                    "description": ""
-                },
-                {
-                    "nombre": "URL u",
-                    "description": ""
-                },
-                {
-                    "nombre": "int port",
-                    "description": ""
-                },
-                {
-                    "nombre": "String query",
-                    "description": ""
-                },
-                {
-                    "nombre": "String userInfo",
+                    "nombre": "String ref",
                     "description": ""
                 },
                 {
@@ -152,7 +124,35 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String ref",
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "String query",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL u",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "String userInfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "String file",
+                    "description": ""
+                },
+                {
+                    "nombre": "String authority",
                     "description": ""
                 }
             ]

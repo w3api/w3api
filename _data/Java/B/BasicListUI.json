@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "BasicListUI",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -64,11 +64,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "JComponent c",
                     "description": ""
                 },
                 {
-                    "nombre": "JComponent c",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
@@ -166,19 +166,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle rowBounds",
-                    "description": ""
-                },
-                {
-                    "nombre": "ListCellRenderer<Object> cellRenderer",
+                    "nombre": "int row",
                     "description": ""
                 },
                 {
                     "nombre": "Graphics g",
-                    "description": ""
-                },
-                {
-                    "nombre": "int row",
                     "description": ""
                 },
                 {
@@ -191,6 +183,14 @@
                 },
                 {
                     "nombre": "int leadIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "ListCellRenderer<Object> cellRenderer",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle rowBounds",
                     "description": ""
                 }
             ]

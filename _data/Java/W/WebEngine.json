@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "WebEngine",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "String url",
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String contentType",
+                    "nombre": "String content",
                     "description": ""
                 },
                 {
-                    "nombre": "String content",
+                    "nombre": "String contentType",
                     "description": ""
                 }
             ]
@@ -180,11 +180,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Boolean> handler",
+                    "nombre": "Callback<String",
                     "description": ""
                 },
                 {
-                    "nombre": "Callback<String",
+                    "nombre": "Boolean> handler",
                     "description": ""
                 }
             ]

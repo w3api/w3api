@@ -76,11 +76,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FormatStyle dateStyle",
+                    "nombre": "FormatStyle dateTimeStyle",
                     "description": ""
                 },
                 {
-                    "nombre": "FormatStyle dateTimeStyle",
+                    "nombre": "FormatStyle dateStyle",
                     "description": ""
                 },
                 {
@@ -118,15 +118,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "TemporalQuery<T> query",
+                    "description": ""
+                },
+                {
                     "nombre": "ParsePosition position",
                     "description": ""
                 },
                 {
                     "nombre": "CharSequence text",
-                    "description": ""
-                },
-                {
-                    "nombre": "TemporalQuery<T> query",
                     "description": ""
                 }
             ]

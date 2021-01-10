@@ -5,12 +5,8 @@
     "constructores": [
         {
             "nombre": "AuthProvider",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "String versionStr",
-                    "description": ""
-                },
                 {
                     "nombre": "String info",
                     "description": ""
@@ -22,6 +18,10 @@
                 {
                     "nombre": "String name",
                     "description": ""
+                },
+                {
+                    "nombre": "String versionStr",
+                    "description": ""
                 }
             ]
         }
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CallbackHandler handler",
+                    "nombre": "Subject subject",
                     "description": ""
                 },
                 {
-                    "nombre": "Subject subject",
+                    "nombre": "CallbackHandler handler",
                     "description": ""
                 }
             ]

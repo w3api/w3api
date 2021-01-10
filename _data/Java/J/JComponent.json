@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "JComponent",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -74,11 +74,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String propertyName",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean oldValue",
+                    "nombre": "int oldValue",
                     "description": ""
                 },
                 {
@@ -86,11 +82,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
                     "nombre": "int newValue",
                     "description": ""
                 },
                 {
-                    "nombre": "int oldValue",
+                    "nombre": "boolean oldValue",
                     "description": ""
                 }
             ]
@@ -104,11 +104,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String propertyName",
+                    "nombre": "Object oldValue",
                     "description": ""
                 },
                 {
-                    "nombre": "Object oldValue",
+                    "nombre": "String propertyName",
                     "description": ""
                 }
             ]
@@ -486,7 +486,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -494,7 +494,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -572,19 +572,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean pressed",
-                    "description": ""
-                },
-                {
                     "nombre": "KeyEvent e",
                     "description": ""
                 },
                 {
-                    "nombre": "int condition",
+                    "nombre": "KeyStroke ks",
                     "description": ""
                 },
                 {
-                    "nombre": "KeyStroke ks",
+                    "nombre": "boolean pressed",
+                    "description": ""
+                },
+                {
+                    "nombre": "int condition",
                     "description": ""
                 }
             ]
@@ -624,11 +624,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object value",
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
+                    "nombre": "Object key",
                     "description": ""
                 }
             ]
@@ -638,11 +638,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String aCommand",
-                    "description": ""
-                },
-                {
-                    "nombre": "KeyStroke aKeyStroke",
+                    "nombre": "ActionListener anAction",
                     "description": ""
                 },
                 {
@@ -650,7 +646,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ActionListener anAction",
+                    "nombre": "KeyStroke aKeyStroke",
+                    "description": ""
+                },
+                {
+                    "nombre": "String aCommand",
                     "description": ""
                 }
             ]
@@ -688,19 +688,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "long tm",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "long tm",
                     "description": ""
                 },
                 {
@@ -746,11 +746,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -932,11 +932,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int condition",
+                    "nombre": "InputMap map",
                     "description": ""
                 },
                 {
-                    "nombre": "InputMap map",
+                    "nombre": "int condition",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "LocalObject",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,10 +18,6 @@
                     "description": ""
                 },
                 {
-                    "nombre": "NamedValue result",
-                    "description": ""
-                },
-                {
                     "nombre": "Context ctx",
                     "description": ""
                 },
@@ -30,11 +26,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ContextList contexts",
+                    "nombre": "NVList arg_list",
                     "description": ""
                 },
                 {
-                    "nombre": "NVList arg_list",
+                    "nombre": "NamedValue result",
+                    "description": ""
+                },
+                {
+                    "nombre": "ContextList contexts",
                     "description": ""
                 }
             ]
@@ -136,11 +136,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean responseExpected",
+                    "nombre": "String operation",
                     "description": ""
                 },
                 {
-                    "nombre": "String operation",
+                    "nombre": "boolean responseExpected",
                     "description": ""
                 }
             ]
@@ -160,11 +160,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class expectedType",
+                    "nombre": "String operation",
                     "description": ""
                 },
                 {
-                    "nombre": "String operation",
+                    "nombre": "Class expectedType",
                     "description": ""
                 }
             ]
@@ -174,11 +174,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SetOverrideType set_add",
+                    "nombre": "Policy[] policies",
                     "description": ""
                 },
                 {
-                    "nombre": "Policy[] policies",
+                    "nombre": "SetOverrideType set_add",
                     "description": ""
                 }
             ]

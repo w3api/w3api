@@ -5,10 +5,30 @@
     "constructores": [
         {
             "nombre": "SimpleTimeZone",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
+                    "nombre": "int startDay",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endDay",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startDayOfWeek",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endDayOfWeek",
+                    "description": ""
+                },
+                {
                     "nombre": "int rawOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endTime",
                     "description": ""
                 },
                 {
@@ -20,7 +40,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int startTimeMode",
+                    "nombre": "String ID",
                     "description": ""
                 },
                 {
@@ -28,11 +48,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int startDayOfWeek",
-                    "description": ""
-                },
-                {
-                    "nombre": "String ID",
+                    "nombre": "int startTime",
                     "description": ""
                 },
                 {
@@ -40,23 +56,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int endTime",
-                    "description": ""
-                },
-                {
-                    "nombre": "int startTime",
-                    "description": ""
-                },
-                {
-                    "nombre": "int endDay",
-                    "description": ""
-                },
-                {
-                    "nombre": "int endDayOfWeek",
-                    "description": ""
-                },
-                {
-                    "nombre": "int startDay",
+                    "nombre": "int startTimeMode",
                     "description": ""
                 }
             ]
@@ -86,19 +86,11 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int day",
+                    "description": ""
+                },
+                {
                     "nombre": "int millis",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dayOfWeek",
-                    "description": ""
-                },
-                {
-                    "nombre": "int era",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
                     "description": ""
                 },
                 {
@@ -106,7 +98,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int day",
+                    "nombre": "int dayOfWeek",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int era",
                     "description": ""
                 },
                 {
@@ -162,14 +162,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int endMonth",
-                    "description": ""
-                },
-                {
-                    "nombre": "int endTime",
-                    "description": ""
-                },
-                {
                     "nombre": "int endDay",
                     "description": ""
                 },
@@ -178,7 +170,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int endTime",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean after",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endMonth",
                     "description": ""
                 }
             ]
@@ -198,7 +198,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int startMonth",
+                    "nombre": "int startDay",
                     "description": ""
                 },
                 {
@@ -206,15 +206,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int startTime",
-                    "description": ""
-                },
-                {
-                    "nombre": "int startDay",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean after",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startMonth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startTime",
                     "description": ""
                 }
             ]

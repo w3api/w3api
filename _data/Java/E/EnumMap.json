@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "EnumMap",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "EnumMap<K",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends V> m",
+                    "nombre": "Class<K> keyType",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<K> keyType",
+                    "nombre": "? extends V> m",
                     "description": ""
                 },
                 {
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 }
             ]

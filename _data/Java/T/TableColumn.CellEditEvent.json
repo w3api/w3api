@@ -5,14 +5,18 @@
     "constructores": [
         {
             "nombre": "TableColumn.CellEditEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "TablePosition<S",
+                    "nombre": "T newValue",
                     "description": ""
                 },
                 {
-                    "nombre": "T newValue",
+                    "nombre": "EventType<TableColumn.CellEditEvent<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "TablePosition<S",
                     "description": ""
                 },
                 {
@@ -20,15 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TableView<S> table",
-                    "description": ""
-                },
-                {
                     "nombre": "T>> eventType",
                     "description": ""
                 },
                 {
-                    "nombre": "EventType<TableColumn.CellEditEvent<S",
+                    "nombre": "TableView<S> table",
                     "description": ""
                 }
             ]

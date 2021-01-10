@@ -5,16 +5,8 @@
     "constructores": [
         {
             "nombre": "ScriptException",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "String fileName",
-                    "description": ""
-                },
-                {
-                    "nombre": "String message",
-                    "description": ""
-                },
                 {
                     "nombre": "int lineNumber",
                     "description": ""
@@ -24,11 +16,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int columnNumber",
+                    "nombre": "String fileName",
                     "description": ""
                 },
                 {
                     "nombre": "Exception e",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnNumber",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
                     "description": ""
                 }
             ]

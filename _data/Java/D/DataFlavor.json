@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "DataFlavor",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "String mimeType",
+                    "nombre": "ClassLoader classLoader",
                     "description": ""
                 },
                 {
@@ -16,11 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String humanPresentableName",
+                    "nombre": "String mimeType",
                     "description": ""
                 },
                 {
-                    "nombre": "ClassLoader classLoader",
+                    "nombre": "String humanPresentableName",
                     "description": ""
                 }
             ]
@@ -36,11 +36,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object o",
+                    "nombre": "DataFlavor that",
                     "description": ""
                 },
                 {
-                    "nombre": "DataFlavor that",
+                    "nombre": "Object o",
                     "description": ""
                 },
                 {

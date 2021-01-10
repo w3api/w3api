@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "FileSystemView",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,15 +14,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String path",
+                    "description": ""
+                },
+                {
                     "nombre": "String filename",
                     "description": ""
                 },
                 {
                     "nombre": "File dir",
-                    "description": ""
-                },
-                {
-                    "nombre": "String path",
                     "description": ""
                 }
             ]
@@ -52,11 +52,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String fileName",
+                    "nombre": "File parent",
                     "description": ""
                 },
                 {
-                    "nombre": "File parent",
+                    "nombre": "String fileName",
                     "description": ""
                 }
             ]
@@ -220,11 +220,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "File folder",
+                    "nombre": "File file",
                     "description": ""
                 },
                 {
-                    "nombre": "File file",
+                    "nombre": "File folder",
                     "description": ""
                 }
             ]

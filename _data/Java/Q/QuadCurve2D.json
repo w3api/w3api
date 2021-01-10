@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "QuadCurve2D",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,7 +18,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D r",
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -26,19 +30,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double h",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point2D p",
-                    "description": ""
-                },
-                {
                     "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p",
                     "description": ""
                 }
             ]
@@ -64,19 +64,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double[] coords",
-                    "description": ""
-                },
-                {
                     "nombre": "double ctrly",
                     "description": ""
                 },
                 {
-                    "nombre": "double y1",
+                    "nombre": "double[] coords",
                     "description": ""
                 },
                 {
-                    "nombre": "double y2",
+                    "nombre": "double y1",
                     "description": ""
                 },
                 {
@@ -88,11 +84,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
                     "nombre": "double ctrlx",
                     "description": ""
                 },
                 {
-                    "nombre": "double x1",
+                    "nombre": "double y2",
                     "description": ""
                 }
             ]
@@ -102,19 +102,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double[] coords",
-                    "description": ""
-                },
-                {
                     "nombre": "double ctrly",
                     "description": ""
                 },
                 {
-                    "nombre": "double y1",
+                    "nombre": "double[] coords",
                     "description": ""
                 },
                 {
-                    "nombre": "double y2",
+                    "nombre": "double y1",
                     "description": ""
                 },
                 {
@@ -126,11 +122,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
                     "nombre": "double ctrlx",
                     "description": ""
                 },
                 {
-                    "nombre": "double x1",
+                    "nombre": "double y2",
                     "description": ""
                 }
             ]
@@ -178,7 +178,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D r",
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -186,15 +190,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double h",
-                    "description": ""
-                },
-                {
                     "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "Rectangle2D r",
                     "description": ""
                 }
             ]
@@ -204,11 +204,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double[] coords",
+                    "nombre": "double ctrly",
                     "description": ""
                 },
                 {
-                    "nombre": "double ctrly",
+                    "nombre": "Point2D p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] coords",
                     "description": ""
                 },
                 {
@@ -216,11 +220,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D[] pts",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y2",
+                    "nombre": "QuadCurve2D c",
                     "description": ""
                 },
                 {
@@ -232,6 +232,14 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Point2D cp",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
                     "nombre": "double ctrlx",
                     "description": ""
                 },
@@ -240,19 +248,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D p1",
+                    "nombre": "double y2",
                     "description": ""
                 },
                 {
-                    "nombre": "double x1",
-                    "description": ""
-                },
-                {
-                    "nombre": "QuadCurve2D c",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point2D cp",
+                    "nombre": "Point2D[] pts",
                     "description": ""
                 }
             ]
@@ -262,11 +262,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double[] res",
+                    "nombre": "double[] eqn",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] eqn",
+                    "nombre": "double[] res",
                     "description": ""
                 }
             ]
@@ -276,23 +276,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int rightoff",
-                    "description": ""
-                },
-                {
                     "nombre": "QuadCurve2D src",
-                    "description": ""
-                },
-                {
-                    "nombre": "QuadCurve2D right",
-                    "description": ""
-                },
-                {
-                    "nombre": "int srcoff",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] left",
                     "description": ""
                 },
                 {
@@ -304,11 +288,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "QuadCurve2D left",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rightoff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] left",
+                    "description": ""
+                },
+                {
+                    "nombre": "QuadCurve2D right",
+                    "description": ""
+                },
+                {
                     "nombre": "int leftoff",
                     "description": ""
                 },
                 {
-                    "nombre": "QuadCurve2D left",
+                    "nombre": "int srcoff",
                     "description": ""
                 }
             ]

@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "Background",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "List<BackgroundImage> images",
+                    "nombre": "BackgroundImage... images",
+                    "description": ""
+                },
+                {
+                    "nombre": "BackgroundImage[] images",
                     "description": ""
                 },
                 {
@@ -20,15 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BackgroundImage[] images",
-                    "description": ""
-                },
-                {
-                    "nombre": "BackgroundImage... images",
-                    "description": ""
-                },
-                {
                     "nombre": "BackgroundFill[] fills",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<BackgroundImage> images",
                     "description": ""
                 }
             ]

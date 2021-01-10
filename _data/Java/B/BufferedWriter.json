@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "BufferedWriter",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Writer out",
+                    "nombre": "int sz",
                     "description": ""
                 },
                 {
-                    "nombre": "int sz",
+                    "nombre": "Writer out",
                     "description": ""
                 }
             ]
@@ -32,15 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
-                    "description": ""
-                },
-                {
                     "nombre": "String s",
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "char[] cbuf",
                     "description": ""
                 },
                 {
@@ -48,7 +44,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] cbuf",
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
                     "description": ""
                 }
             ]

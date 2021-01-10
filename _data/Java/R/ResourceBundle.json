@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "ResourceBundle",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -38,11 +38,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String baseName",
-                    "description": ""
-                },
-                {
-                    "nombre": "Module module",
+                    "nombre": "ResourceBundle.Control control",
                     "description": ""
                 },
                 {
@@ -50,15 +46,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Locale locale",
-                    "description": ""
-                },
-                {
                     "nombre": "ClassLoader loader",
                     "description": ""
                 },
                 {
-                    "nombre": "ResourceBundle.Control control",
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "Module module",
                     "description": ""
                 }
             ]

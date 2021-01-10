@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle r",
+                    "nombre": "JComponent c",
                     "description": ""
                 },
                 {
-                    "nombre": "JComponent c",
+                    "nombre": "Rectangle r",
                     "description": ""
                 }
             ]
@@ -36,7 +36,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
@@ -44,11 +44,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String str",
+                    "nombre": "FontMetrics fm",
                     "description": ""
                 },
                 {
-                    "nombre": "FontMetrics fm",
+                    "nombre": "String str",
                     "description": ""
                 }
             ]
@@ -76,7 +76,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
@@ -84,11 +84,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MouseEvent sourceEvent",
+                    "nombre": "Component destination",
                     "description": ""
                 },
                 {
-                    "nombre": "Component destination",
+                    "nombre": "MouseEvent sourceEvent",
                     "description": ""
                 },
                 {
@@ -120,7 +120,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "Component source",
                     "description": ""
                 },
                 {
@@ -128,11 +128,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Component source",
+                    "nombre": "Component destination",
                     "description": ""
                 },
                 {
-                    "nombre": "Component destination",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -174,11 +174,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle aRectangle",
+                    "nombre": "Component destination",
                     "description": ""
                 },
                 {
-                    "nombre": "Component destination",
+                    "nombre": "Rectangle aRectangle",
                     "description": ""
                 },
                 {
@@ -216,11 +216,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "Component c",
                     "description": ""
                 },
                 {
-                    "nombre": "Component c",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -274,11 +274,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> c",
+                    "nombre": "Component comp",
                     "description": ""
                 },
                 {
-                    "nombre": "Component comp",
+                    "nombre": "Class<?> c",
                     "description": ""
                 }
             ]
@@ -288,11 +288,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -410,11 +410,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Component b",
+                    "nombre": "Component a",
                     "description": ""
                 },
                 {
-                    "nombre": "Component a",
+                    "nombre": "Component b",
                     "description": ""
                 }
             ]
@@ -472,15 +472,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int horizontalAlignment",
-                    "description": ""
-                },
-                {
-                    "nombre": "int textIconGap",
-                    "description": ""
-                },
-                {
-                    "nombre": "String text",
+                    "nombre": "FontMetrics fm",
                     "description": ""
                 },
                 {
@@ -488,27 +480,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JComponent c",
-                    "description": ""
-                },
-                {
                     "nombre": "Rectangle textR",
                     "description": ""
                 },
                 {
-                    "nombre": "FontMetrics fm",
-                    "description": ""
-                },
-                {
-                    "nombre": "int verticalTextPosition",
-                    "description": ""
-                },
-                {
-                    "nombre": "int horizontalTextPosition",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle viewR",
+                    "nombre": "int horizontalAlignment",
                     "description": ""
                 },
                 {
@@ -516,7 +492,31 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Rectangle viewR",
+                    "description": ""
+                },
+                {
+                    "nombre": "int textIconGap",
+                    "description": ""
+                },
+                {
                     "nombre": "int verticalAlignment",
+                    "description": ""
+                },
+                {
+                    "nombre": "int horizontalTextPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int verticalTextPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent c",
                     "description": ""
                 }
             ]
@@ -526,15 +526,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "KeyEvent event",
-                    "description": ""
-                },
-                {
-                    "nombre": "KeyStroke ks",
-                    "description": ""
-                },
-                {
                     "nombre": "Action action",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object sender",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyEvent event",
                     "description": ""
                 },
                 {
@@ -542,7 +542,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object sender",
+                    "nombre": "KeyStroke ks",
                     "description": ""
                 }
             ]
@@ -552,11 +552,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle r",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
+                    "nombre": "Container p",
                     "description": ""
                 },
                 {
@@ -564,7 +560,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Container p",
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle r",
                     "description": ""
                 },
                 {
@@ -572,11 +572,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "Component c",
                     "description": ""
                 },
                 {
-                    "nombre": "Component c",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -600,11 +600,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JComponent component",
+                    "nombre": "ActionMap uiActionMap",
                     "description": ""
                 },
                 {
-                    "nombre": "ActionMap uiActionMap",
+                    "nombre": "JComponent component",
                     "description": ""
                 }
             ]
@@ -614,15 +614,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JComponent component",
-                    "description": ""
-                },
-                {
                     "nombre": "int type",
                     "description": ""
                 },
                 {
                     "nombre": "InputMap uiInputMap",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent component",
                     "description": ""
                 }
             ]

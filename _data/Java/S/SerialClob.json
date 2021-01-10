@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "SerialClob",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Clob clob",
+                    "nombre": "char[] ch",
                     "description": ""
                 },
                 {
-                    "nombre": "char[] ch",
+                    "nombre": "Clob clob",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long pos",
+                    "nombre": "long length",
                     "description": ""
                 },
                 {
-                    "nombre": "long length",
+                    "nombre": "long pos",
                     "description": ""
                 }
             ]
@@ -82,15 +82,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long start",
-                    "description": ""
-                },
-                {
                     "nombre": "Clob searchStr",
                     "description": ""
                 },
                 {
                     "nombre": "String searchStr",
+                    "description": ""
+                },
+                {
+                    "nombre": "long start",
                     "description": ""
                 }
             ]
@@ -120,7 +120,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -128,11 +128,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long pos",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "long pos",
                     "description": ""
                 }
             ]

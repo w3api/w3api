@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "SSLSocket",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "String host",
+                    "nombre": "int clientPort",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress address",
                     "description": ""
                 },
                 {
@@ -16,15 +20,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
                     "nombre": "int port",
-                    "description": ""
-                },
-                {
-                    "nombre": "int clientPort",
-                    "description": ""
-                },
-                {
-                    "nombre": "InetAddress address",
                     "description": ""
                 }
             ]
@@ -142,7 +142,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BiFunction<SSLSocket",
+                    "nombre": "String> selector",
                     "description": ""
                 },
                 {
@@ -150,7 +150,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String> selector",
+                    "nombre": "BiFunction<SSLSocket",
                     "description": ""
                 }
             ]

@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "CertPathValidator",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
                 {
                     "nombre": "CertPathValidatorSpi validatorSpi",
                     "description": ""
                 },
                 {
                     "nombre": "Provider provider",
-                    "description": ""
-                },
-                {
-                    "nombre": "String algorithm",
                     "description": ""
                 }
             ]
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CertPath certPath",
+                    "nombre": "CertPathParameters params",
                     "description": ""
                 },
                 {
-                    "nombre": "CertPathParameters params",
+                    "nombre": "CertPath certPath",
                     "description": ""
                 }
             ]

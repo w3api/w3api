@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "TaskEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "TaskEvent.Kind kind",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileObject sourceFile",
                     "description": ""
                 },
                 {
@@ -17,10 +21,6 @@
                 },
                 {
                     "nombre": "CompilationUnitTree unit",
-                    "description": ""
-                },
-                {
-                    "nombre": "JavaFileObject sourceFile",
                     "description": ""
                 }
             ]

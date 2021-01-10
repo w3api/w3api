@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "PropertyChangeSupport",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Object sourceBean",
@@ -34,15 +34,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "String propertyName",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean oldValue",
+                    "nombre": "Object newValue",
                     "description": ""
                 },
                 {
@@ -50,7 +42,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object newValue",
+                    "nombre": "int oldValue",
                     "description": ""
                 },
                 {
@@ -58,11 +50,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
                     "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int oldValue",
+                    "nombre": "int newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean oldValue",
                     "description": ""
                 }
             ]
@@ -72,15 +72,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String propertyName",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object oldValue",
+                    "nombre": "PropertyChangeEvent event",
                     "description": ""
                 },
                 {
@@ -88,11 +80,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "int newValue",
+                    "nombre": "Object oldValue",
                     "description": ""
                 },
                 {
@@ -100,7 +88,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PropertyChangeEvent event",
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean oldValue",
                     "description": ""
                 }
             ]

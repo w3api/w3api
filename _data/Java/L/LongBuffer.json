@@ -58,7 +58,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -70,7 +70,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -96,10 +96,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LongBuffer src",
-                    "description": ""
-                },
-                {
                     "nombre": "long[] src",
                     "description": ""
                 },
@@ -109,6 +105,10 @@
                 },
                 {
                     "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongBuffer src",
                     "description": ""
                 },
                 {
@@ -134,7 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -142,7 +142,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]

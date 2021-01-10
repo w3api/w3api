@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "HierarchyEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Container changedParent",
-                    "description": ""
-                },
-                {
-                    "nombre": "int id",
+                    "nombre": "Component changed",
                     "description": ""
                 },
                 {
@@ -20,11 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Component changed",
+                    "nombre": "Container changedParent",
                     "description": ""
                 },
                 {
                     "nombre": "long changeFlags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
                     "description": ""
                 }
             ]

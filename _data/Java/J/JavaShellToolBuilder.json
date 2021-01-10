@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream cmdIn",
+                    "nombre": "InputStream userIn",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream userIn",
+                    "nombre": "InputStream cmdIn",
                     "description": ""
                 }
             ]
@@ -72,15 +72,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "PrintStream console",
+                    "description": ""
+                },
+                {
                     "nombre": "PrintStream userOut",
                     "description": ""
                 },
                 {
                     "nombre": "PrintStream cmdOut",
-                    "description": ""
-                },
-                {
-                    "nombre": "PrintStream console",
                     "description": ""
                 }
             ]
@@ -94,11 +94,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Preferences prefs",
+                    "nombre": "Map<String",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<String",
+                    "nombre": "Preferences prefs",
                     "description": ""
                 }
             ]

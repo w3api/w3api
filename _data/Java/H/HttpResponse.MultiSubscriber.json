@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean completion",
-                    "description": ""
-                },
-                {
                     "nombre": "Optional<HttpResponse.BodyHandler<V>>> reqHandler",
                     "description": ""
                 },
                 {
                     "nombre": "Function<HttpRequest",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean completion",
                     "description": ""
                 }
             ]
@@ -26,11 +26,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CompletableFuture<Void> onComplete",
+                    "nombre": "CompletableFuture<Void> onFinalPushPromise",
                     "description": ""
                 },
                 {
-                    "nombre": "CompletableFuture<Void> onFinalPushPromise",
+                    "nombre": "CompletableFuture<Void> onComplete",
                     "description": ""
                 }
             ]
@@ -40,11 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Throwable t",
+                    "nombre": "HttpRequest request",
                     "description": ""
                 },
                 {
-                    "nombre": "HttpRequest request",
+                    "nombre": "Throwable t",
                     "description": ""
                 }
             ]

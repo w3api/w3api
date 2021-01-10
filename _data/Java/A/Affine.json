@@ -5,34 +5,10 @@
     "constructores": [
         {
             "nombre": "Affine",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "double mzz",
-                    "description": ""
-                },
-                {
                     "nombre": "double tz",
-                    "description": ""
-                },
-                {
-                    "nombre": "double tx",
-                    "description": ""
-                },
-                {
-                    "nombre": "double ty",
-                    "description": ""
-                },
-                {
-                    "nombre": "MatrixType type",
-                    "description": ""
-                },
-                {
-                    "nombre": "double myz",
-                    "description": ""
-                },
-                {
-                    "nombre": "Transform transform",
                     "description": ""
                 },
                 {
@@ -40,11 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double mxx",
+                    "nombre": "MatrixType type",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] matrix",
+                    "nombre": "double myx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myy",
                     "description": ""
                 },
                 {
@@ -52,11 +32,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double mzx",
-                    "description": ""
-                },
-                {
-                    "nombre": "double myx",
+                    "nombre": "double tx",
                     "description": ""
                 },
                 {
@@ -68,7 +44,31 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double myy",
+                    "nombre": "double ty",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] matrix",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transform transform",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzx",
                     "description": ""
                 }
             ]
@@ -80,31 +80,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double mzz",
-                    "description": ""
-                },
-                {
                     "nombre": "double tz",
-                    "description": ""
-                },
-                {
-                    "nombre": "double tx",
-                    "description": ""
-                },
-                {
-                    "nombre": "double ty",
-                    "description": ""
-                },
-                {
-                    "nombre": "MatrixType type",
-                    "description": ""
-                },
-                {
-                    "nombre": "double myz",
-                    "description": ""
-                },
-                {
-                    "nombre": "Transform transform",
                     "description": ""
                 },
                 {
@@ -112,11 +88,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double mxx",
+                    "nombre": "MatrixType type",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] matrix",
+                    "nombre": "double myx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myy",
                     "description": ""
                 },
                 {
@@ -124,11 +104,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double mzx",
-                    "description": ""
-                },
-                {
-                    "nombre": "double myx",
+                    "nombre": "double tx",
                     "description": ""
                 },
                 {
@@ -140,7 +116,31 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double myy",
+                    "nombre": "double ty",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] matrix",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transform transform",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzx",
                     "description": ""
                 }
             ]
@@ -150,35 +150,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double angle",
-                    "description": ""
-                },
-                {
                     "nombre": "Point3D axis",
-                    "description": ""
-                },
-                {
-                    "nombre": "double pivotZ",
-                    "description": ""
-                },
-                {
-                    "nombre": "double axisY",
-                    "description": ""
-                },
-                {
-                    "nombre": "double pivotX",
-                    "description": ""
-                },
-                {
-                    "nombre": "double pivotY",
-                    "description": ""
-                },
-                {
-                    "nombre": "double axisX",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point2D pivot",
                     "description": ""
                 },
                 {
@@ -186,7 +158,35 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double angle",
+                    "description": ""
+                },
+                {
+                    "nombre": "double axisX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotZ",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotX",
+                    "description": ""
+                },
+                {
                     "nombre": "double axisZ",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double axisY",
                     "description": ""
                 }
             ]
@@ -195,6 +195,18 @@
             "nombre": "appendScale",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "double sx",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point3D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sy",
+                    "description": ""
+                },
                 {
                     "nombre": "double sz",
                     "description": ""
@@ -208,23 +220,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double pivotY",
-                    "description": ""
-                },
-                {
                     "nombre": "Point2D pivot",
                     "description": ""
                 },
                 {
-                    "nombre": "double sx",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point3D pivot",
-                    "description": ""
-                },
-                {
-                    "nombre": "double sy",
+                    "nombre": "double pivotY",
                     "description": ""
                 }
             ]
@@ -234,7 +234,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double shy",
+                    "nombre": "double shx",
                     "description": ""
                 },
                 {
@@ -242,15 +242,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double pivotY",
-                    "description": ""
-                },
-                {
                     "nombre": "Point2D pivot",
                     "description": ""
                 },
                 {
-                    "nombre": "double shx",
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double shy",
                     "description": ""
                 }
             ]
@@ -318,31 +318,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double mzz",
-                    "description": ""
-                },
-                {
                     "nombre": "double tz",
-                    "description": ""
-                },
-                {
-                    "nombre": "double tx",
-                    "description": ""
-                },
-                {
-                    "nombre": "double ty",
-                    "description": ""
-                },
-                {
-                    "nombre": "MatrixType type",
-                    "description": ""
-                },
-                {
-                    "nombre": "double myz",
-                    "description": ""
-                },
-                {
-                    "nombre": "Transform transform",
                     "description": ""
                 },
                 {
@@ -350,11 +326,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double mxx",
+                    "nombre": "MatrixType type",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] matrix",
+                    "nombre": "double myx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myy",
                     "description": ""
                 },
                 {
@@ -362,11 +342,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double mzx",
-                    "description": ""
-                },
-                {
-                    "nombre": "double myx",
+                    "nombre": "double tx",
                     "description": ""
                 },
                 {
@@ -378,7 +354,31 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double myy",
+                    "nombre": "double ty",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] matrix",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transform transform",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzx",
                     "description": ""
                 }
             ]
@@ -388,35 +388,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double angle",
-                    "description": ""
-                },
-                {
                     "nombre": "Point3D axis",
-                    "description": ""
-                },
-                {
-                    "nombre": "double pivotZ",
-                    "description": ""
-                },
-                {
-                    "nombre": "double axisY",
-                    "description": ""
-                },
-                {
-                    "nombre": "double pivotX",
-                    "description": ""
-                },
-                {
-                    "nombre": "double pivotY",
-                    "description": ""
-                },
-                {
-                    "nombre": "double axisX",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point2D pivot",
                     "description": ""
                 },
                 {
@@ -424,7 +396,35 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double angle",
+                    "description": ""
+                },
+                {
+                    "nombre": "double axisX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotZ",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotX",
+                    "description": ""
+                },
+                {
                     "nombre": "double axisZ",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double axisY",
                     "description": ""
                 }
             ]
@@ -433,6 +433,18 @@
             "nombre": "prependScale",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "double sx",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point3D pivot",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sy",
+                    "description": ""
+                },
                 {
                     "nombre": "double sz",
                     "description": ""
@@ -446,23 +458,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double pivotY",
-                    "description": ""
-                },
-                {
                     "nombre": "Point2D pivot",
                     "description": ""
                 },
                 {
-                    "nombre": "double sx",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point3D pivot",
-                    "description": ""
-                },
-                {
-                    "nombre": "double sy",
+                    "nombre": "double pivotY",
                     "description": ""
                 }
             ]
@@ -472,7 +472,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double shy",
+                    "nombre": "double shx",
                     "description": ""
                 },
                 {
@@ -480,15 +480,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double pivotY",
-                    "description": ""
-                },
-                {
                     "nombre": "Point2D pivot",
                     "description": ""
                 },
                 {
-                    "nombre": "double shx",
+                    "nombre": "double pivotY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double shy",
                     "description": ""
                 }
             ]
@@ -516,15 +516,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
                     "nombre": "int column",
                     "description": ""
                 },
                 {
                     "nombre": "MatrixType type",
-                    "description": ""
-                },
-                {
-                    "nombre": "int row",
                     "description": ""
                 },
                 {
@@ -632,31 +632,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double mzz",
-                    "description": ""
-                },
-                {
                     "nombre": "double tz",
-                    "description": ""
-                },
-                {
-                    "nombre": "double tx",
-                    "description": ""
-                },
-                {
-                    "nombre": "double ty",
-                    "description": ""
-                },
-                {
-                    "nombre": "MatrixType type",
-                    "description": ""
-                },
-                {
-                    "nombre": "double myz",
-                    "description": ""
-                },
-                {
-                    "nombre": "Transform transform",
                     "description": ""
                 },
                 {
@@ -664,11 +640,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double mxx",
+                    "nombre": "MatrixType type",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] matrix",
+                    "nombre": "double myx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myy",
                     "description": ""
                 },
                 {
@@ -676,11 +656,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double mzx",
-                    "description": ""
-                },
-                {
-                    "nombre": "double myx",
+                    "nombre": "double tx",
                     "description": ""
                 },
                 {
@@ -692,7 +668,31 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double myy",
+                    "nombre": "double ty",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] matrix",
+                    "description": ""
+                },
+                {
+                    "nombre": "Transform transform",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myz",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mzx",
                     "description": ""
                 }
             ]

@@ -22,11 +22,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ORB orb",
+                    "nombre": "Object[] obj",
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] obj",
+                    "nombre": "ORB orb",
                     "description": ""
                 }
             ]
@@ -70,15 +70,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                },
+                {
                     "nombre": "String className",
                     "description": ""
                 },
                 {
                     "nombre": "String remoteCodebase",
-                    "description": ""
-                },
-                {
-                    "nombre": "ClassLoader loader",
                     "description": ""
                 }
             ]
@@ -108,11 +108,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Tie tie",
+                    "nombre": "Remote target",
                     "description": ""
                 },
                 {
-                    "nombre": "Remote target",
+                    "nombre": "Tie tie",
                     "description": ""
                 }
             ]

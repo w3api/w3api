@@ -12,11 +12,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long pos",
+                    "nombre": "long length",
                     "description": ""
                 },
                 {
-                    "nombre": "long length",
+                    "nombre": "long pos",
                     "description": ""
                 }
             ]
@@ -44,15 +44,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] pattern",
-                    "description": ""
-                },
-                {
                     "nombre": "Blob pattern",
                     "description": ""
                 },
                 {
                     "nombre": "long start",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] pattern",
                     "description": ""
                 }
             ]
@@ -72,11 +72,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] bytes",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
-                    "nombre": "long pos",
+                    "nombre": "byte[] bytes",
                     "description": ""
                 },
                 {
@@ -84,7 +84,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "long pos",
                     "description": ""
                 }
             ]

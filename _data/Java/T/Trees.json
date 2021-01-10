@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Trees",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -54,15 +54,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Element e",
-                    "description": ""
-                },
-                {
                     "nombre": "AnnotationValue v",
                     "description": ""
                 },
                 {
-                    "nombre": "CompilationUnitTree unit",
+                    "nombre": "AnnotationMirror a",
                     "description": ""
                 },
                 {
@@ -70,7 +66,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AnnotationMirror a",
+                    "nombre": "Element e",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompilationUnitTree unit",
                     "description": ""
                 }
             ]
@@ -94,19 +94,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Element e",
-                    "description": ""
-                },
-                {
                     "nombre": "AnnotationValue v",
-                    "description": ""
-                },
-                {
-                    "nombre": "Element element",
-                    "description": ""
-                },
-                {
-                    "nombre": "TypeElement element",
                     "description": ""
                 },
                 {
@@ -115,6 +103,18 @@
                 },
                 {
                     "nombre": "AnnotationMirror a",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeElement element",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element element",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element e",
                     "description": ""
                 }
             ]
@@ -134,11 +134,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JavaCompiler.CompilationTask task",
+                    "nombre": "ProcessingEnvironment env",
                     "description": ""
                 },
                 {
-                    "nombre": "ProcessingEnvironment env",
+                    "nombre": "JavaCompiler.CompilationTask task",
                     "description": ""
                 }
             ]
@@ -148,7 +148,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DeclaredType type",
+                    "nombre": "TypeElement type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Scope scope",
                     "description": ""
                 },
                 {
@@ -156,11 +160,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TypeElement type",
-                    "description": ""
-                },
-                {
-                    "nombre": "Scope scope",
+                    "nombre": "DeclaredType type",
                     "description": ""
                 }
             ]
@@ -174,15 +174,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "CompilationUnitTree root",
+                    "description": ""
+                },
+                {
                     "nombre": "Tree t",
                     "description": ""
                 },
                 {
                     "nombre": "Diagnostic.Kind kind",
-                    "description": ""
-                },
-                {
-                    "nombre": "CompilationUnitTree root",
                     "description": ""
                 }
             ]

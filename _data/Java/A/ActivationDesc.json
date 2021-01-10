@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "ActivationDesc",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
+                    "nombre": "ActivationGroupID groupID",
                     "description": ""
                 },
                 {
@@ -16,15 +16,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "MarshalledObject<?> data",
+                    "description": ""
+                },
+                {
                     "nombre": "String location",
                     "description": ""
                 },
                 {
-                    "nombre": "ActivationGroupID groupID",
-                    "description": ""
-                },
-                {
-                    "nombre": "MarshalledObject<?> data",
+                    "nombre": "String className",
                     "description": ""
                 }
             ]

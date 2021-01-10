@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "Semaphore",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int permits",
+                    "nombre": "boolean fair",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean fair",
+                    "nombre": "int permits",
                     "description": ""
                 }
             ]
@@ -92,15 +92,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int permits",
-                    "description": ""
-                },
-                {
                     "nombre": "long timeout",
                     "description": ""
                 },
                 {
                     "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "int permits",
                     "description": ""
                 }
             ]

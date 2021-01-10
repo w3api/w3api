@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "SortedList",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "ObservableList<? extends E> source",
+                    "nombre": "Comparator<? super E> comparator",
                     "description": ""
                 },
                 {
-                    "nombre": "Comparator<? super E> comparator",
+                    "nombre": "ObservableList<? extends E> source",
                     "description": ""
                 }
             ]

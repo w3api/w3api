@@ -22,15 +22,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Executor executor",
+                    "description": ""
+                },
+                {
                     "nombre": "Consumer<? super T> action",
                     "description": ""
                 },
                 {
                     "nombre": "CompletionStage<? extends T> other",
-                    "description": ""
-                },
-                {
-                    "nombre": "Executor executor",
                     "description": ""
                 }
             ]
@@ -58,6 +58,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Executor executor",
+                    "description": ""
+                },
+                {
                     "nombre": "U> fn",
                     "description": ""
                 },
@@ -68,10 +72,6 @@
                 {
                     "nombre": "Function<? super T",
                     "description": ""
-                },
-                {
-                    "nombre": "Executor executor",
-                    "description": ""
                 }
             ]
         },
@@ -80,11 +80,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends T> fn",
+                    "nombre": "Function<Throwable",
                     "description": ""
                 },
                 {
-                    "nombre": "Function<Throwable",
+                    "nombre": "? extends T> fn",
                     "description": ""
                 }
             ]
@@ -116,11 +116,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Executor executor",
+                    "nombre": "BiFunction<? super T",
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super T",
+                    "nombre": "Executor executor",
                     "description": ""
                 },
                 {
@@ -148,15 +148,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Executor executor",
-                    "description": ""
-                },
-                {
                     "nombre": "Runnable action",
                     "description": ""
                 },
                 {
                     "nombre": "CompletionStage<?> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
                     "description": ""
                 }
             ]
@@ -180,15 +180,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Executor executor",
-                    "description": ""
-                },
-                {
                     "nombre": "Runnable action",
                     "description": ""
                 },
                 {
                     "nombre": "CompletionStage<?> other",
+                    "description": ""
+                },
+                {
+                    "nombre": "Executor executor",
                     "description": ""
                 }
             ]
@@ -226,11 +226,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? super U> action",
+                    "nombre": "BiConsumer<? super T",
                     "description": ""
                 },
                 {
-                    "nombre": "BiConsumer<? super T",
+                    "nombre": "? super U> action",
                     "description": ""
                 }
             ]
@@ -244,15 +244,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? super U> action",
-                    "description": ""
-                },
-                {
                     "nombre": "BiConsumer<? super T",
                     "description": ""
                 },
                 {
                     "nombre": "Executor executor",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super U> action",
                     "description": ""
                 }
             ]
@@ -262,11 +262,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Function<? super T",
+                    "nombre": "? extends U> fn",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends U> fn",
+                    "nombre": "Function<? super T",
                     "description": ""
                 }
             ]
@@ -276,15 +276,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "? extends U> fn",
+                    "description": ""
+                },
+                {
                     "nombre": "Executor executor",
                     "description": ""
                 },
                 {
                     "nombre": "Function<? super T",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends U> fn",
                     "description": ""
                 }
             ]
@@ -298,7 +298,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? extends V> fn",
+                    "nombre": "BiFunction<? super T",
                     "description": ""
                 },
                 {
@@ -306,7 +306,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super T",
+                    "nombre": "? extends V> fn",
                     "description": ""
                 }
             ]
@@ -316,6 +316,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "BiFunction<? super T",
+                    "description": ""
+                },
+                {
                     "nombre": "Executor executor",
                     "description": ""
                 },
@@ -324,15 +328,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? super U",
-                    "description": ""
-                },
-                {
                     "nombre": "? extends V> fn",
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super T",
+                    "nombre": "? super U",
                     "description": ""
                 }
             ]
@@ -360,11 +360,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Function<? super T",
+                    "nombre": "Executor executor",
                     "description": ""
                 },
                 {
-                    "nombre": "Executor executor",
+                    "nombre": "Function<? super T",
                     "description": ""
                 }
             ]
@@ -402,11 +402,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? super Throwable> action",
+                    "nombre": "BiConsumer<? super T",
                     "description": ""
                 },
                 {
-                    "nombre": "BiConsumer<? super T",
+                    "nombre": "? super Throwable> action",
                     "description": ""
                 }
             ]
@@ -416,7 +416,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? super Throwable> action",
+                    "nombre": "Executor executor",
                     "description": ""
                 },
                 {
@@ -424,7 +424,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Executor executor",
+                    "nombre": "? super Throwable> action",
                     "description": ""
                 }
             ]

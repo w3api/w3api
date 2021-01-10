@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Recording",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Configuration configuration",
@@ -34,11 +34,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<? extends Event> eventClass",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "Class<? extends Event> eventClass",
                     "description": ""
                 }
             ]
@@ -58,11 +58,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<? extends Event> eventClass",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "Class<? extends Event> eventClass",
                     "description": ""
                 }
             ]
@@ -120,11 +120,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Instant end",
+                    "nombre": "Instant start",
                     "description": ""
                 },
                 {
-                    "nombre": "Instant start",
+                    "nombre": "Instant end",
                     "description": ""
                 }
             ]

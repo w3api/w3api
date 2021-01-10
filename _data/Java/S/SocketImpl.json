@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "SocketImpl",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -46,19 +46,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String host",
-                    "description": ""
-                },
-                {
                     "nombre": "int timeout",
                     "description": ""
                 },
                 {
-                    "nombre": "int port",
+                    "nombre": "InetAddress address",
                     "description": ""
                 },
                 {
-                    "nombre": "InetAddress address",
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
                     "description": ""
                 },
                 {
@@ -136,11 +136,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T value",
+                    "nombre": "SocketOption<T> name",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketOption<T> name",
+                    "nombre": "T value",
                     "description": ""
                 }
             ]
@@ -154,11 +154,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int connectionTime",
+                    "nombre": "int latency",
                     "description": ""
                 },
                 {
-                    "nombre": "int latency",
+                    "nombre": "int connectionTime",
                     "description": ""
                 }
             ]

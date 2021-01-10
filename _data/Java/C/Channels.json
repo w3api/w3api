@@ -22,11 +22,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AsynchronousByteChannel ch",
+                    "nombre": "ReadableByteChannel ch",
                     "description": ""
                 },
                 {
-                    "nombre": "ReadableByteChannel ch",
+                    "nombre": "AsynchronousByteChannel ch",
                     "description": ""
                 }
             ]
@@ -36,11 +36,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AsynchronousByteChannel ch",
+                    "nombre": "WritableByteChannel ch",
                     "description": ""
                 },
                 {
-                    "nombre": "WritableByteChannel ch",
+                    "nombre": "AsynchronousByteChannel ch",
                     "description": ""
                 }
             ]
@@ -49,10 +49,6 @@
             "nombre": "newReader",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "Charset charset",
-                    "description": ""
-                },
                 {
                     "nombre": "CharsetDecoder dec",
                     "description": ""
@@ -66,6 +62,10 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
                     "nombre": "ReadableByteChannel ch",
                     "description": ""
                 }
@@ -76,6 +76,14 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int minBufferCap",
+                    "description": ""
+                },
+                {
+                    "nombre": "String csName",
+                    "description": ""
+                },
+                {
                     "nombre": "Charset charset",
                     "description": ""
                 },
@@ -84,15 +92,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int minBufferCap",
-                    "description": ""
-                },
-                {
                     "nombre": "WritableByteChannel ch",
-                    "description": ""
-                },
-                {
-                    "nombre": "String csName",
                     "description": ""
                 }
             ]

@@ -22,19 +22,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "URL url",
-                    "description": ""
-                },
-                {
                     "nombre": "String version",
                     "description": ""
                 },
                 {
-                    "nombre": "long total",
+                    "nombre": "long readSoFar",
                     "description": ""
                 },
                 {
-                    "nombre": "long readSoFar",
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "long total",
                     "description": ""
                 },
                 {
@@ -52,11 +52,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "URL url",
+                    "nombre": "int overallPercent",
                     "description": ""
                 },
                 {
-                    "nombre": "int overallPercent",
+                    "nombre": "URL url",
                     "description": ""
                 },
                 {
@@ -70,15 +70,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long entry",
+                    "nombre": "String version",
                     "description": ""
                 },
                 {
                     "nombre": "URL url",
-                    "description": ""
-                },
-                {
-                    "nombre": "String version",
                     "description": ""
                 },
                 {
@@ -87,6 +83,10 @@
                 },
                 {
                     "nombre": "int overallPercent",
+                    "description": ""
+                },
+                {
+                    "nombre": "long entry",
                     "description": ""
                 }
             ]

@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "DefaultCellEditor",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "JCheckBox checkBox",
+                    "nombre": "JTextField textField",
                     "description": ""
                 },
                 {
-                    "nombre": "JTextField textField",
+                    "nombre": "JCheckBox checkBox",
                     "description": ""
                 },
                 {
@@ -48,7 +48,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int column",
+                    "nombre": "JTable table",
                     "description": ""
                 },
                 {
@@ -56,7 +56,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JTable table",
+                    "nombre": "int column",
                     "description": ""
                 },
                 {
@@ -70,15 +70,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean leaf",
-                    "description": ""
-                },
-                {
                     "nombre": "int row",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean expanded",
                     "description": ""
                 },
                 {
@@ -91,6 +83,14 @@
                 },
                 {
                     "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean expanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean leaf",
                     "description": ""
                 }
             ]

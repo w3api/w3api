@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "HTMLWriter",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -20,7 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -82,11 +82,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributeSet attr",
+                    "nombre": "HTML.Tag tag",
                     "description": ""
                 },
                 {
-                    "nombre": "HTML.Tag tag",
+                    "nombre": "AttributeSet attr",
                     "description": ""
                 }
             ]
@@ -100,11 +100,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "char[] chars",
                     "description": ""
                 },
                 {
-                    "nombre": "char[] chars",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]

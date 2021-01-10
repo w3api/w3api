@@ -5,8 +5,12 @@
     "constructores": [
         {
             "nombre": "DropTargetDropEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "int dropAction",
+                    "description": ""
+                },
                 {
                     "nombre": "int srcActions",
                     "description": ""
@@ -17,10 +21,6 @@
                 },
                 {
                     "nombre": "boolean isLocal",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dropAction",
                     "description": ""
                 },
                 {

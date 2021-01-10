@@ -5,14 +5,26 @@
     "constructores": [
         {
             "nombre": "Scanner",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "Path source",
+                    "description": ""
+                },
                 {
                     "nombre": "Charset charset",
                     "description": ""
                 },
                 {
+                    "nombre": "ReadableByteChannel source",
+                    "description": ""
+                },
+                {
                     "nombre": "String charsetName",
+                    "description": ""
+                },
+                {
+                    "nombre": "File source",
                     "description": ""
                 },
                 {
@@ -24,19 +36,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Path source",
-                    "description": ""
-                },
-                {
                     "nombre": "Readable source",
-                    "description": ""
-                },
-                {
-                    "nombre": "File source",
-                    "description": ""
-                },
-                {
-                    "nombre": "ReadableByteChannel source",
                     "description": ""
                 }
             ]
@@ -84,15 +84,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int horizon",
-                    "description": ""
-                },
-                {
                     "nombre": "String pattern",
                     "description": ""
                 },
                 {
                     "nombre": "Pattern pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "int horizon",
                     "description": ""
                 }
             ]

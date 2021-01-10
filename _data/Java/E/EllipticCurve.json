@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "EllipticCurve",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "ECField field",
+                    "nombre": "BigInteger a",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] seed",
                     "description": ""
                 },
                 {
@@ -16,11 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger a",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] seed",
+                    "nombre": "ECField field",
                     "description": ""
                 }
             ]

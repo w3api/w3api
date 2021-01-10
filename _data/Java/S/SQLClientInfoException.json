@@ -5,12 +5,8 @@
     "constructores": [
         {
             "nombre": "SQLClientInfoException",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "String SQLState",
-                    "description": ""
-                },
                 {
                     "nombre": "String reason",
                     "description": ""
@@ -24,11 +20,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ClientInfoStatus> failedProperties",
+                    "nombre": "String SQLState",
                     "description": ""
                 },
                 {
                     "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClientInfoStatus> failedProperties",
                     "description": ""
                 }
             ]

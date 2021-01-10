@@ -22,7 +22,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ExecutionControl ec",
+                    "nombre": "ObjectInput in",
                     "description": ""
                 },
                 {
@@ -30,7 +30,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ObjectInput in",
+                    "nombre": "ExecutionControl ec",
                     "description": ""
                 }
             ]
@@ -40,7 +40,19 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Consumer<OutputStream>> outputStreamMap",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutionControl ec",
+                    "description": ""
+                },
+                {
                     "nombre": "Consumer<InputStream>> inputStreamMap",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
                     "description": ""
                 },
                 {
@@ -50,18 +62,6 @@
                 {
                     "nombre": "InputStream inStream",
                     "description": ""
-                },
-                {
-                    "nombre": "ExecutionControl ec",
-                    "description": ""
-                },
-                {
-                    "nombre": "Map<String",
-                    "description": ""
-                },
-                {
-                    "nombre": "Consumer<OutputStream>> outputStreamMap",
-                    "description": ""
                 }
             ]
         },
@@ -70,19 +70,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream> inputStreamMap",
-                    "description": ""
-                },
-                {
                     "nombre": "BiFunction<ObjectInput",
-                    "description": ""
-                },
-                {
-                    "nombre": "ExecutionControl> factory",
-                    "description": ""
-                },
-                {
-                    "nombre": "InputStream input",
                     "description": ""
                 },
                 {
@@ -90,7 +78,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Map<String",
+                    "nombre": "OutputStream> outputStreamMap",
                     "description": ""
                 },
                 {
@@ -98,7 +86,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "OutputStream> outputStreamMap",
+                    "nombre": "InputStream input",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutionControl> factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream> inputStreamMap",
                     "description": ""
                 }
             ]

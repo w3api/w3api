@@ -5,14 +5,26 @@
     "constructores": [
         {
             "nombre": "IndexColorModel",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "boolean hasalpha",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger validBits",
+                    "description": ""
+                },
                 {
                     "nombre": "int bits",
                     "description": ""
                 },
                 {
-                    "nombre": "int size",
+                    "nombre": "byte[] g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
                     "description": ""
                 },
                 {
@@ -32,31 +44,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int trans",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger validBits",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean hasalpha",
-                    "description": ""
-                },
-                {
                     "nombre": "byte[] a",
                     "description": ""
                 },
                 {
-                    "nombre": "int start",
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "int trans",
                     "description": ""
                 },
                 {
                     "nombre": "int transferType",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] g",
                     "description": ""
                 }
             ]
@@ -172,11 +172,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int pixel",
+                    "nombre": "int[] components",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] components",
+                    "nombre": "int pixel",
                     "description": ""
                 }
             ]
@@ -204,7 +204,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int rgb",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] components",
                     "description": ""
                 },
                 {
@@ -212,11 +216,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] components",
+                    "nombre": "int rgb",
                     "description": ""
                 }
             ]

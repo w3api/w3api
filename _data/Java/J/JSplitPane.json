@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "JSplitPane",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean newContinuousLayout",
-                    "description": ""
-                },
-                {
-                    "nombre": "int newOrientation",
+                    "nombre": "Component newRightComponent",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Component newRightComponent",
+                    "nombre": "boolean newContinuousLayout",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newOrientation",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object constraints",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "Object constraints",
                     "description": ""
                 },
                 {
@@ -132,11 +132,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Component component",
                     "description": ""
                 },
                 {
-                    "nombre": "Component component",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -174,11 +174,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int location",
+                    "nombre": "double proportionalLocation",
                     "description": ""
                 },
                 {
-                    "nombre": "double proportionalLocation",
+                    "nombre": "int location",
                     "description": ""
                 }
             ]

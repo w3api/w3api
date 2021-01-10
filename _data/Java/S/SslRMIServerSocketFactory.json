@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "SslRMIServerSocketFactory",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "SSLContext context",
-                    "description": ""
-                },
-                {
-                    "nombre": "String[] enabledProtocols",
+                    "nombre": "String[] enabledCipherSuites",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String[] enabledCipherSuites",
+                    "nombre": "SSLContext context",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] enabledProtocols",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "ServiceRegistry",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Iterator<Class<?>> categories",
@@ -40,7 +40,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T provider",
+                    "nombre": "Object provider",
                     "description": ""
                 },
                 {
@@ -48,7 +48,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object provider",
+                    "nombre": "T provider",
                     "description": ""
                 }
             ]
@@ -76,11 +76,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ServiceRegistry.Filter filter",
+                    "nombre": "boolean useOrdering",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean useOrdering",
+                    "nombre": "ServiceRegistry.Filter filter",
                     "description": ""
                 },
                 {
@@ -94,11 +94,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<T> providerClass",
+                    "nombre": "ClassLoader loader",
                     "description": ""
                 },
                 {
-                    "nombre": "ClassLoader loader",
+                    "nombre": "Class<T> providerClass",
                     "description": ""
                 }
             ]
@@ -108,7 +108,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T provider",
+                    "nombre": "Object provider",
                     "description": ""
                 },
                 {
@@ -116,7 +116,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object provider",
+                    "nombre": "T provider",
                     "description": ""
                 }
             ]
@@ -140,11 +140,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<T> category",
+                    "nombre": "T firstProvider",
                     "description": ""
                 },
                 {
-                    "nombre": "T firstProvider",
+                    "nombre": "Class<T> category",
                     "description": ""
                 }
             ]
@@ -158,11 +158,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<T> category",
+                    "nombre": "T firstProvider",
                     "description": ""
                 },
                 {
-                    "nombre": "T firstProvider",
+                    "nombre": "Class<T> category",
                     "description": ""
                 }
             ]

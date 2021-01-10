@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "EventHandler",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Object target",
+                    "description": ""
+                },
+                {
+                    "nombre": "String listenerMethodName",
                     "description": ""
                 },
                 {
@@ -17,10 +21,6 @@
                 },
                 {
                     "nombre": "String eventPropertyName",
-                    "description": ""
-                },
-                {
-                    "nombre": "String listenerMethodName",
                     "description": ""
                 }
             ]
@@ -32,11 +32,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Object target",
+                    "description": ""
+                },
+                {
                     "nombre": "String listenerMethodName",
                     "description": ""
                 },
                 {
-                    "nombre": "String action",
+                    "nombre": "Class<T> listenerInterface",
                     "description": ""
                 },
                 {
@@ -44,11 +48,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object target",
-                    "description": ""
-                },
-                {
-                    "nombre": "Class<T> listenerInterface",
+                    "nombre": "String action",
                     "description": ""
                 }
             ]
@@ -74,7 +74,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Method method",
+                    "nombre": "Object[] arguments",
                     "description": ""
                 },
                 {
@@ -82,7 +82,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] arguments",
+                    "nombre": "Method method",
                     "description": ""
                 }
             ]

@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "IdentityScope",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "IdentityScope scope",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "IdentityScope scope",
                     "description": ""
                 }
             ]
@@ -34,15 +34,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Principal principal",
-                    "description": ""
-                },
-                {
                     "nombre": "String name",
                     "description": ""
                 },
                 {
                     "nombre": "PublicKey key",
+                    "description": ""
+                },
+                {
+                    "nombre": "Principal principal",
                     "description": ""
                 }
             ]

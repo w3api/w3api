@@ -5,10 +5,22 @@
     "constructores": [
         {
             "nombre": "EventSetDescriptor",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
+                    "nombre": "MethodDescriptor[] listenerMethodDescriptors",
+                    "description": ""
+                },
+                {
                     "nombre": "Method[] listenerMethods",
+                    "description": ""
+                },
+                {
+                    "nombre": "String listenerMethodName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Method addListenerMethod",
                     "description": ""
                 },
                 {
@@ -24,19 +36,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String getListenerMethodName",
-                    "description": ""
-                },
-                {
-                    "nombre": "Method addListenerMethod",
-                    "description": ""
-                },
-                {
-                    "nombre": "String listenerMethodName",
-                    "description": ""
-                },
-                {
-                    "nombre": "String addListenerMethodName",
+                    "nombre": "Class<?> sourceClass",
                     "description": ""
                 },
                 {
@@ -44,7 +44,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodDescriptor[] listenerMethodDescriptors",
+                    "nombre": "String getListenerMethodName",
                     "description": ""
                 },
                 {
@@ -52,11 +52,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?> sourceClass",
+                    "nombre": "Method getListenerMethod",
                     "description": ""
                 },
                 {
-                    "nombre": "Method getListenerMethod",
+                    "nombre": "String addListenerMethodName",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "NashornScriptEngineFactory",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -13,10 +13,6 @@
             "nombre": "getScriptEngine",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "String... args",
-                    "description": ""
-                },
                 {
                     "nombre": "ClassLoader appLoader",
                     "description": ""
@@ -27,6 +23,10 @@
                 },
                 {
                     "nombre": "String[] args",
+                    "description": ""
+                },
+                {
+                    "nombre": "String... args",
                     "description": ""
                 }
             ]

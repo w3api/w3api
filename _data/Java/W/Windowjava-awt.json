@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "Window",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "Window owner",
+                    "description": ""
+                },
                 {
                     "nombre": "Frame owner",
                     "description": ""
                 },
                 {
                     "nombre": "GraphicsConfiguration gc",
-                    "description": ""
-                },
-                {
-                    "nombre": "Window owner",
                     "description": ""
                 }
             ]
@@ -76,11 +76,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ResourceBundle rb",
+                    "nombre": "String rbName",
                     "description": ""
                 },
                 {
-                    "nombre": "String rbName",
+                    "nombre": "ResourceBundle rb",
                     "description": ""
                 }
             ]
@@ -362,7 +362,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int height",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -370,7 +370,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
@@ -418,15 +418,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
                 {
                     "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -490,11 +490,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "Point p",
                     "description": ""
                 },
                 {
-                    "nombre": "Point p",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -568,15 +568,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Dimension d",
-                    "description": ""
-                },
-                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
                     "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dimension d",
                     "description": ""
                 }
             ]

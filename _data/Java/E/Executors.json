@@ -12,11 +12,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PrivilegedExceptionAction<?> action",
+                    "nombre": "PrivilegedAction<?> action",
                     "description": ""
                 },
                 {
-                    "nombre": "PrivilegedAction<?> action",
+                    "nombre": "PrivilegedExceptionAction<?> action",
                     "description": ""
                 },
                 {
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int nThreads",
+                    "nombre": "ThreadFactory threadFactory",
                     "description": ""
                 },
                 {
-                    "nombre": "ThreadFactory threadFactory",
+                    "nombre": "int nThreads",
                     "description": ""
                 }
             ]
@@ -58,11 +58,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ThreadFactory threadFactory",
+                    "nombre": "int corePoolSize",
                     "description": ""
                 },
                 {
-                    "nombre": "int corePoolSize",
+                    "nombre": "ThreadFactory threadFactory",
                     "description": ""
                 }
             ]

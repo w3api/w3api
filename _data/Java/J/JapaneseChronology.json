@@ -8,15 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Era era",
-                    "description": ""
-                },
-                {
                     "nombre": "int month",
-                    "description": ""
-                },
-                {
-                    "nombre": "int yearOfEra",
                     "description": ""
                 },
                 {
@@ -25,6 +17,14 @@
                 },
                 {
                     "nombre": "int prolepticYear",
+                    "description": ""
+                },
+                {
+                    "nombre": "Era era",
+                    "description": ""
+                },
+                {
+                    "nombre": "int yearOfEra",
                     "description": ""
                 }
             ]
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int dayOfYear",
+                    "nombre": "int prolepticYear",
                     "description": ""
                 },
                 {
-                    "nombre": "int prolepticYear",
+                    "nombre": "int dayOfYear",
                     "description": ""
                 },
                 {

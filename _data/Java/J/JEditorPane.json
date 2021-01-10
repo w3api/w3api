@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "JEditorPane",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "String text",
+                    "description": ""
+                },
+                {
+                    "nombre": "String url",
                     "description": ""
                 },
                 {
@@ -17,10 +21,6 @@
                 },
                 {
                     "nombre": "String type",
-                    "description": ""
-                },
-                {
-                    "nombre": "String url",
                     "description": ""
                 }
             ]
@@ -140,11 +140,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object desc",
+                    "nombre": "InputStream in",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream in",
+                    "nombre": "Object desc",
                     "description": ""
                 }
             ]
@@ -236,11 +236,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "URL page",
+                    "nombre": "String url",
                     "description": ""
                 },
                 {
-                    "nombre": "String url",
+                    "nombre": "URL page",
                     "description": ""
                 }
             ]

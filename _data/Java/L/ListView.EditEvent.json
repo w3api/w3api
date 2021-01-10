@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "ListView.EditEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int editIndex",
+                    "nombre": "T newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<? extends ListView.EditEvent<T>> eventType",
                     "description": ""
                 },
                 {
@@ -16,11 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "T newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventType<? extends ListView.EditEvent<T>> eventType",
+                    "nombre": "int editIndex",
                     "description": ""
                 }
             ]

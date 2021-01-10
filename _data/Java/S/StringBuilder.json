@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "StringBuilder",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int capacity",
+                    "nombre": "CharSequence seq",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence seq",
+                    "nombre": "int capacity",
                     "description": ""
                 },
                 {
@@ -28,23 +28,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
-                    "nombre": "String str",
-                    "description": ""
-                },
-                {
                     "nombre": "int end",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
-                    "description": ""
-                },
-                {
-                    "nombre": "StringBuffer sb",
                     "description": ""
                 },
                 {
@@ -52,11 +36,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float f",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] str",
+                    "nombre": "StringBuffer sb",
                     "description": ""
                 },
                 {
@@ -68,11 +48,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
-                    "description": ""
-                },
-                {
-                    "nombre": "char c",
+                    "nombre": "int i",
                     "description": ""
                 },
                 {
@@ -84,7 +60,31 @@
                     "description": ""
                 },
                 {
+                    "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "float f",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
                     "nombre": "long l",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] str",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
                     "description": ""
                 }
             ]
@@ -160,11 +160,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
+                    "nombre": "int end",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "int start",
                     "description": ""
                 }
             ]
@@ -198,7 +198,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int srcEnd",
+                    "nombre": "int dstBegin",
                     "description": ""
                 },
                 {
@@ -206,7 +206,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int dstBegin",
+                    "nombre": "int srcEnd",
                     "description": ""
                 }
             ]
@@ -216,11 +216,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String str",
+                    "nombre": "int fromIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "String str",
                     "description": ""
                 }
             ]
@@ -230,23 +230,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
-                    "nombre": "String str",
-                    "description": ""
-                },
-                {
                     "nombre": "int end",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dstOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
                     "description": ""
                 },
                 {
@@ -254,7 +238,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] str",
+                    "nombre": "int dstOffset",
                     "description": ""
                 },
                 {
@@ -266,15 +250,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float f",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
-                    "description": ""
-                },
-                {
-                    "nombre": "char c",
+                    "nombre": "int i",
                     "description": ""
                 },
                 {
@@ -286,11 +262,35 @@
                     "description": ""
                 },
                 {
+                    "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "float f",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
                     "nombre": "int index",
                     "description": ""
                 },
                 {
                     "nombre": "long l",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] str",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
                     "description": ""
                 }
             ]
@@ -300,11 +300,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String str",
+                    "nombre": "int fromIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "String str",
                     "description": ""
                 }
             ]
@@ -318,11 +318,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "int codePointOffset",
                     "description": ""
                 },
                 {
-                    "nombre": "int codePointOffset",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -332,15 +332,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
                     "nombre": "int start",
                     "description": ""
                 },
                 {
                     "nombre": "String str",
-                    "description": ""
-                },
-                {
-                    "nombre": "int end",
                     "description": ""
                 }
             ]
@@ -378,11 +378,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
+                    "nombre": "int end",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "int start",
                     "description": ""
                 }
             ]
@@ -392,11 +392,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
+                    "nombre": "int end",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "int start",
                     "description": ""
                 }
             ]

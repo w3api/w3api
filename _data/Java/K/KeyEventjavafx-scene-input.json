@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "KeyEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "String character",
+                    "nombre": "KeyCode code",
                     "description": ""
                 },
                 {
@@ -16,15 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String text",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean altDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean controlDown",
+                    "nombre": "EventTarget target",
                     "description": ""
                 },
                 {
@@ -32,19 +24,27 @@
                     "description": ""
                 },
                 {
-                    "nombre": "KeyCode code",
+                    "nombre": "boolean controlDown",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean metaDown",
+                    "nombre": "boolean altDown",
                     "description": ""
                 },
                 {
-                    "nombre": "EventTarget target",
+                    "nombre": "String character",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
                     "description": ""
                 },
                 {
                     "nombre": "EventType<KeyEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean metaDown",
                     "description": ""
                 }
             ]
@@ -56,15 +56,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
                     "nombre": "EventType<KeyEvent> type",
                     "description": ""
                 },
                 {
                     "nombre": "EventTarget target",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object source",
                     "description": ""
                 }
             ]

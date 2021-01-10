@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "XMLSignatureFactory",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,11 +18,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Provider provider",
+                    "nombre": "String provider",
                     "description": ""
                 },
                 {
-                    "nombre": "String provider",
+                    "nombre": "Provider provider",
                     "description": ""
                 }
             ]
@@ -76,11 +76,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String algorithm",
+                    "nombre": "DigestMethodParameterSpec params",
                     "description": ""
                 },
                 {
-                    "nombre": "DigestMethodParameterSpec params",
+                    "nombre": "String algorithm",
                     "description": ""
                 }
             ]
@@ -104,11 +104,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Data result",
-                    "description": ""
-                },
-                {
-                    "nombre": "String type",
+                    "nombre": "List<? extends Transform> transforms",
                     "description": ""
                 },
                 {
@@ -120,11 +116,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
                     "nombre": "String uri",
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends Transform> transforms",
+                    "nombre": "byte[] digestValue",
                     "description": ""
                 },
                 {
@@ -132,7 +132,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] digestValue",
+                    "nombre": "Data result",
                     "description": ""
                 }
             ]
@@ -170,15 +170,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
-                    "description": ""
-                },
-                {
                     "nombre": "String target",
                     "description": ""
                 },
                 {
                     "nombre": "List<? extends XMLStructure> content",
+                    "description": ""
+                },
+                {
+                    "nombre": "String id",
                     "description": ""
                 }
             ]
@@ -188,11 +188,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SignatureMethod sm",
+                    "nombre": "String id",
                     "description": ""
                 },
                 {
-                    "nombre": "String id",
+                    "nombre": "SignatureMethod sm",
                     "description": ""
                 },
                 {
@@ -228,7 +228,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
+                    "nombre": "String encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends XMLStructure> content",
                     "description": ""
                 },
                 {
@@ -236,11 +240,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String encoding",
-                    "description": ""
-                },
-                {
-                    "nombre": "List<? extends XMLStructure> content",
+                    "nombre": "String id",
                     "description": ""
                 }
             ]
@@ -254,7 +254,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String signatureValueId",
+                    "nombre": "KeyInfo ki",
                     "description": ""
                 },
                 {
@@ -266,7 +266,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "KeyInfo ki",
+                    "nombre": "String signatureValueId",
                     "description": ""
                 }
             ]
@@ -276,11 +276,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "XMLValidateContext context",
+                    "nombre": "XMLStructure xmlStructure",
                     "description": ""
                 },
                 {
-                    "nombre": "XMLStructure xmlStructure",
+                    "nombre": "XMLValidateContext context",
                     "description": ""
                 }
             ]

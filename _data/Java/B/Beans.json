@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Beans",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object bean",
+                    "nombre": "Class<?> targetType",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?> targetType",
+                    "nombre": "Object bean",
                     "description": ""
                 }
             ]
@@ -28,15 +28,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String beanName",
-                    "description": ""
-                },
-                {
                     "nombre": "BeanContext beanContext",
                     "description": ""
                 },
                 {
                     "nombre": "ClassLoader cls",
+                    "description": ""
+                },
+                {
+                    "nombre": "String beanName",
                     "description": ""
                 },
                 {
@@ -58,11 +58,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object bean",
+                    "nombre": "Class<?> targetType",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?> targetType",
+                    "nombre": "Object bean",
                     "description": ""
                 }
             ]

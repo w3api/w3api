@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DefaultEditorKit",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -34,19 +34,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
-                    "nombre": "Reader in",
-                    "description": ""
-                },
-                {
                     "nombre": "InputStream in",
                     "description": ""
                 },
                 {
                     "nombre": "Document doc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader in",
                     "description": ""
                 }
             ]
@@ -55,6 +55,14 @@
             "nombre": "write",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Document doc",
+                    "description": ""
+                },
                 {
                     "nombre": "Writer out",
                     "description": ""
@@ -65,14 +73,6 @@
                 },
                 {
                     "nombre": "OutputStream out",
-                    "description": ""
-                },
-                {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
-                    "nombre": "Document doc",
                     "description": ""
                 }
             ]

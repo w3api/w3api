@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "FormatConversionProvider",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,11 +18,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "nombre": "AudioInputStream sourceStream",
                     "description": ""
                 },
                 {
-                    "nombre": "AudioInputStream sourceStream",
+                    "nombre": "AudioFormat.Encoding targetEncoding",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "nombre": "AudioFormat sourceFormat",
                     "description": ""
                 },
                 {
-                    "nombre": "AudioFormat sourceFormat",
+                    "nombre": "AudioFormat.Encoding targetEncoding",
                     "description": ""
                 }
             ]
@@ -60,15 +60,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "AudioFormat sourceFormat",
+                    "description": ""
+                },
+                {
                     "nombre": "AudioFormat targetFormat",
                     "description": ""
                 },
                 {
                     "nombre": "AudioFormat.Encoding targetEncoding",
-                    "description": ""
-                },
-                {
-                    "nombre": "AudioFormat sourceFormat",
                     "description": ""
                 }
             ]

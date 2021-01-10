@@ -26,15 +26,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "V> map",
+                    "description": ""
+                },
+                {
                     "nombre": "Class<K> keyType",
                     "description": ""
                 },
                 {
                     "nombre": "Class<V> valueType",
-                    "description": ""
-                },
-                {
-                    "nombre": "V> map",
                     "description": ""
                 }
             ]
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<E> type",
+                    "nombre": "ObservableSet<E> set",
                     "description": ""
                 },
                 {
-                    "nombre": "ObservableSet<E> set",
+                    "nombre": "Class<E> type",
                     "description": ""
                 }
             ]
@@ -68,11 +68,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObservableList<? super T> dest",
+                    "nombre": "List<? extends T> src",
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends T> src",
+                    "nombre": "ObservableList<? super T> dest",
                     "description": ""
                 }
             ]
@@ -94,11 +94,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObservableList<? super T> list",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "ObservableList<? super T> list",
                     "description": ""
                 }
             ]
@@ -108,7 +108,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Observable[]> extractor",
+                    "nombre": "Callback<E",
                     "description": ""
                 },
                 {
@@ -116,7 +116,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Callback<E",
+                    "nombre": "Observable[]> extractor",
                     "description": ""
                 },
                 {
@@ -130,11 +130,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObservableFloatArray array",
+                    "nombre": "float... values",
                     "description": ""
                 },
                 {
-                    "nombre": "float... values",
+                    "nombre": "ObservableFloatArray array",
                     "description": ""
                 }
             ]
@@ -162,15 +162,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Observable[]> extractor",
-                    "description": ""
-                },
-                {
                     "nombre": "List<E> list",
                     "description": ""
                 },
                 {
                     "nombre": "Callback<E",
+                    "description": ""
+                },
+                {
+                    "nombre": "Observable[]> extractor",
                     "description": ""
                 }
             ]
@@ -236,11 +236,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObservableList list",
+                    "nombre": "int distance",
                     "description": ""
                 },
                 {
-                    "nombre": "int distance",
+                    "nombre": "ObservableList list",
                     "description": ""
                 }
             ]
@@ -250,11 +250,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObservableList<?> list",
+                    "nombre": "ObservableList list",
                     "description": ""
                 },
                 {
-                    "nombre": "ObservableList list",
+                    "nombre": "ObservableList<?> list",
                     "description": ""
                 },
                 {

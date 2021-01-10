@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
+                    "nombre": "int end",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "int start",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String descriptor",
+                    "nombre": "ClassLoader loader",
                     "description": ""
                 },
                 {
-                    "nombre": "ClassLoader loader",
+                    "nombre": "String descriptor",
                     "description": ""
                 }
             ]
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean finalArray",
+                    "nombre": "int objectArgCount",
                     "description": ""
                 },
                 {
-                    "nombre": "int objectArgCount",
+                    "nombre": "boolean finalArray",
                     "description": ""
                 }
             ]
@@ -122,11 +122,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "List<Class<?>> ptypesToInsert",
+                    "nombre": "int num",
                     "description": ""
                 },
                 {
-                    "nombre": "int num",
+                    "nombre": "List<Class<?>> ptypesToInsert",
                     "description": ""
                 }
             ]
@@ -140,18 +140,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> rtype",
-                    "description": ""
-                },
-                {
-                    "nombre": "List<Class<?>> ptypes",
-                    "description": ""
-                },
-                {
-                    "nombre": "Class<?>[] ptypes",
-                    "description": ""
-                },
-                {
                     "nombre": "Class<?> ptype0",
                     "description": ""
                 },
@@ -161,6 +149,18 @@
                 },
                 {
                     "nombre": "MethodType ptypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> rtype",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<Class<?>> ptypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>[] ptypes",
                     "description": ""
                 }
             ]

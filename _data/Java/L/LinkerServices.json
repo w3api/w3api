@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodType fromType",
+                    "nombre": "MethodHandle handle",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle handle",
+                    "nombre": "MethodType fromType",
                     "description": ""
                 }
             ]
@@ -22,11 +22,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodType fromType",
+                    "nombre": "MethodHandle handle",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle handle",
+                    "nombre": "MethodType fromType",
                     "description": ""
                 }
             ]
@@ -36,11 +36,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> to",
+                    "nombre": "Class<?> from",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?> from",
+                    "nombre": "Class<?> to",
                     "description": ""
                 }
             ]
@@ -50,11 +50,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> targetType2",
+                    "nombre": "Class<?> sourceType",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?> sourceType",
+                    "nombre": "Class<?> targetType2",
                     "description": ""
                 },
                 {
@@ -88,11 +88,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> sourceType",
+                    "nombre": "Class<?> targetType",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?> targetType",
+                    "nombre": "Class<?> sourceType",
                     "description": ""
                 }
             ]
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SecureLookupSupplier lookupSupplier",
+                    "nombre": "Supplier<T> operation",
                     "description": ""
                 },
                 {
-                    "nombre": "Supplier<T> operation",
+                    "nombre": "SecureLookupSupplier lookupSupplier",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "AtomicIntegerFieldUpdater",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,7 +14,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
@@ -22,7 +22,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int delta",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "int delta",
                     "description": ""
                 }
             ]
@@ -46,15 +46,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int expect",
-                    "description": ""
-                },
-                {
                     "nombre": "int update",
                     "description": ""
                 },
                 {
                     "nombre": "T obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int expect",
                     "description": ""
                 }
             ]
@@ -84,7 +84,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
@@ -92,7 +92,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int delta",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "int delta",
                     "description": ""
                 }
             ]
@@ -136,11 +136,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int newValue",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "int newValue",
                     "description": ""
                 }
             ]
@@ -174,11 +174,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int newValue",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "int newValue",
                     "description": ""
                 }
             ]
@@ -202,11 +202,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int newValue",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "int newValue",
                     "description": ""
                 }
             ]
@@ -230,15 +230,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int expect",
-                    "description": ""
-                },
-                {
                     "nombre": "int update",
                     "description": ""
                 },
                 {
                     "nombre": "T obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int expect",
                     "description": ""
                 }
             ]

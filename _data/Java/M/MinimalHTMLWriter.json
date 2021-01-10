@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "MinimalHTMLWriter",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
-                    "nombre": "StyledDocument doc",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "StyledDocument doc",
                     "description": ""
                 }
             ]
@@ -98,11 +98,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Element elem",
+                    "nombre": "boolean needsIndenting",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean needsIndenting",
+                    "nombre": "Element elem",
                     "description": ""
                 }
             ]

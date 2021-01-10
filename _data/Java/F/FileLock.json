@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "FileLock",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "FileChannel channel",
+                    "nombre": "long size",
                     "description": ""
                 },
                 {
-                    "nombre": "long size",
+                    "nombre": "AsynchronousFileChannel channel",
                     "description": ""
                 },
                 {
@@ -20,11 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean shared",
+                    "nombre": "FileChannel channel",
                     "description": ""
                 },
                 {
-                    "nombre": "AsynchronousFileChannel channel",
+                    "nombre": "boolean shared",
                     "description": ""
                 }
             ]
@@ -56,11 +56,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long position",
+                    "nombre": "long size",
                     "description": ""
                 },
                 {
-                    "nombre": "long size",
+                    "nombre": "long position",
                     "description": ""
                 }
             ]

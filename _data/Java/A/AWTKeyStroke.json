@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "AWTKeyStroke",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int keyCode",
+                    "nombre": "char keyChar",
                     "description": ""
                 },
                 {
-                    "nombre": "char keyChar",
+                    "nombre": "int modifiers",
                     "description": ""
                 },
                 {
@@ -20,7 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int modifiers",
+                    "nombre": "int keyCode",
                     "description": ""
                 }
             ]
@@ -46,11 +46,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Character keyChar",
-                    "description": ""
-                },
-                {
-                    "nombre": "int modifiers",
+                    "nombre": "String s",
                     "description": ""
                 },
                 {
@@ -58,11 +54,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "int modifiers",
                     "description": ""
                 },
                 {
                     "nombre": "boolean onKeyRelease",
+                    "description": ""
+                },
+                {
+                    "nombre": "Character keyChar",
                     "description": ""
                 }
             ]

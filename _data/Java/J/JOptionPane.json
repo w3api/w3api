@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "JOptionPane",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Object message",
-                    "description": ""
-                },
-                {
-                    "nombre": "int messageType",
+                    "nombre": "Icon icon",
                     "description": ""
                 },
                 {
@@ -20,15 +16,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object initialValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "Icon icon",
+                    "nombre": "int messageType",
                     "description": ""
                 },
                 {
                     "nombre": "int optionType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object initialValue",
                     "description": ""
                 }
             ]
@@ -40,11 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Component parentComponent",
+                    "nombre": "String title",
                     "description": ""
                 },
                 {
-                    "nombre": "String title",
+                    "nombre": "Component parentComponent",
                     "description": ""
                 }
             ]
@@ -54,11 +54,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Component parentComponent",
+                    "nombre": "String title",
                     "description": ""
                 },
                 {
-                    "nombre": "String title",
+                    "nombre": "Component parentComponent",
                     "description": ""
                 }
             ]
@@ -290,18 +290,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String title",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object message",
-                    "description": ""
-                },
-                {
-                    "nombre": "int messageType",
-                    "description": ""
-                },
-                {
                     "nombre": "Component parentComponent",
                     "description": ""
                 },
@@ -310,7 +298,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
                     "nombre": "int optionType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
                     "description": ""
                 }
             ]
@@ -320,7 +320,19 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
                     "nombre": "Object[] selectionValues",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
                     "description": ""
                 },
                 {
@@ -332,19 +344,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int messageType",
-                    "description": ""
-                },
-                {
                     "nombre": "Object initialSelectionValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "Component parentComponent",
-                    "description": ""
-                },
-                {
-                    "nombre": "Icon icon",
                     "description": ""
                 }
             ]
@@ -354,18 +354,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String title",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object message",
-                    "description": ""
-                },
-                {
-                    "nombre": "int messageType",
-                    "description": ""
-                },
-                {
                     "nombre": "Component parentComponent",
                     "description": ""
                 },
@@ -374,7 +362,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
                     "nombre": "int optionType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
                     "description": ""
                 }
             ]
@@ -384,7 +384,19 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Component parentComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon icon",
+                    "description": ""
+                },
+                {
                     "nombre": "Object[] selectionValues",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
                     "description": ""
                 },
                 {
@@ -396,19 +408,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int messageType",
-                    "description": ""
-                },
-                {
                     "nombre": "Object initialSelectionValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "Component parentComponent",
-                    "description": ""
-                },
-                {
-                    "nombre": "Icon icon",
                     "description": ""
                 }
             ]
@@ -418,11 +418,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String title",
+                    "nombre": "Component parentComponent",
                     "description": ""
                 },
                 {
-                    "nombre": "Object message",
+                    "nombre": "Icon icon",
                     "description": ""
                 },
                 {
@@ -430,11 +430,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Component parentComponent",
+                    "nombre": "String title",
                     "description": ""
                 },
                 {
-                    "nombre": "Icon icon",
+                    "nombre": "Object message",
                     "description": ""
                 }
             ]
@@ -444,26 +444,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String title",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object message",
-                    "description": ""
-                },
-                {
-                    "nombre": "int messageType",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object[] options",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object initialValue",
-                    "description": ""
-                },
-                {
                     "nombre": "Component parentComponent",
                     "description": ""
                 },
@@ -472,7 +452,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Object[] options",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
                     "nombre": "int optionType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object initialValue",
                     "description": ""
                 }
             ]
@@ -482,11 +482,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String title",
+                    "nombre": "Component parentComponent",
                     "description": ""
                 },
                 {
-                    "nombre": "Object message",
+                    "nombre": "Icon icon",
                     "description": ""
                 },
                 {
@@ -494,11 +494,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Component parentComponent",
+                    "nombre": "String title",
                     "description": ""
                 },
                 {
-                    "nombre": "Icon icon",
+                    "nombre": "Object message",
                     "description": ""
                 }
             ]
@@ -508,26 +508,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String title",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object message",
-                    "description": ""
-                },
-                {
-                    "nombre": "int messageType",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object[] options",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object initialValue",
-                    "description": ""
-                },
-                {
                     "nombre": "Component parentComponent",
                     "description": ""
                 },
@@ -536,7 +516,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Object[] options",
+                    "description": ""
+                },
+                {
+                    "nombre": "int messageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
                     "nombre": "int optionType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object initialValue",
                     "description": ""
                 }
             ]

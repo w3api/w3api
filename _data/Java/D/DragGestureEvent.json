@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "DragGestureEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "DragGestureRecognizer dgr",
+                    "nombre": "List<? extends InputEvent> evs",
                     "description": ""
                 },
                 {
@@ -20,7 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends InputEvent> evs",
+                    "nombre": "DragGestureRecognizer dgr",
                     "description": ""
                 }
             ]
@@ -60,15 +60,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Cursor dragCursor",
-                    "description": ""
-                },
-                {
                     "nombre": "Point imageOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "DragSourceListener dsl",
                     "description": ""
                 },
                 {
@@ -77,6 +69,14 @@
                 },
                 {
                     "nombre": "Transferable transferable",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragSourceListener dsl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Cursor dragCursor",
                     "description": ""
                 }
             ]

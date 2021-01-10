@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "PlainDocument",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "AbstractDocument.Content c",
@@ -38,15 +38,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                },
+                {
                     "nombre": "String str",
                     "description": ""
                 },
                 {
                     "nombre": "int offs",
-                    "description": ""
-                },
-                {
-                    "nombre": "AttributeSet a",
                     "description": ""
                 }
             ]
@@ -56,11 +56,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributeSet attr",
+                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
                     "description": ""
                 },
                 {
-                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
+                    "nombre": "AttributeSet attr",
                     "description": ""
                 }
             ]

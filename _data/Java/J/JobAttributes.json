@@ -5,42 +5,14 @@
     "constructores": [
         {
             "nombre": "JobAttributes",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "int minPage",
-                    "description": ""
-                },
-                {
-                    "nombre": "JobAttributes.DestinationType destination",
-                    "description": ""
-                },
-                {
-                    "nombre": "JobAttributes.SidesType sides",
-                    "description": ""
-                },
-                {
-                    "nombre": "JobAttributes.DialogType dialog",
-                    "description": ""
-                },
-                {
-                    "nombre": "int maxPage",
-                    "description": ""
-                },
                 {
                     "nombre": "int copies",
                     "description": ""
                 },
                 {
-                    "nombre": "JobAttributes.DefaultSelectionType defaultSelection",
-                    "description": ""
-                },
-                {
-                    "nombre": "String printer",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[][] pageRanges",
+                    "nombre": "JobAttributes.MultipleDocumentHandlingType multipleDocumentHandling",
                     "description": ""
                 },
                 {
@@ -48,11 +20,39 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int minPage",
+                    "description": ""
+                },
+                {
+                    "nombre": "String printer",
+                    "description": ""
+                },
+                {
                     "nombre": "JobAttributes obj",
                     "description": ""
                 },
                 {
-                    "nombre": "JobAttributes.MultipleDocumentHandlingType multipleDocumentHandling",
+                    "nombre": "JobAttributes.DialogType dialog",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[][] pageRanges",
+                    "description": ""
+                },
+                {
+                    "nombre": "JobAttributes.SidesType sides",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxPage",
+                    "description": ""
+                },
+                {
+                    "nombre": "JobAttributes.DefaultSelectionType defaultSelection",
+                    "description": ""
+                },
+                {
+                    "nombre": "JobAttributes.DestinationType destination",
                     "description": ""
                 }
             ]

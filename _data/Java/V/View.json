@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "View",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Element elem",
@@ -34,15 +34,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
                     "nombre": "float len",
                     "description": ""
                 },
                 {
                     "nombre": "int axis",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -52,11 +52,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
+                    "nombre": "DocumentEvent e",
                     "description": ""
                 },
                 {
-                    "nombre": "DocumentEvent e",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -84,19 +84,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
-                    "description": ""
-                },
-                {
                     "nombre": "DocumentEvent e",
                     "description": ""
                 },
                 {
-                    "nombre": "DocumentEvent.ElementChange ec",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
                     "nombre": "ViewFactory f",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent.ElementChange ec",
                     "description": ""
                 }
             ]
@@ -106,7 +106,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
+                    "nombre": "View v",
                     "description": ""
                 },
                 {
@@ -114,7 +114,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "View v",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -214,11 +214,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
-                    "description": ""
-                },
-                {
-                    "nombre": "Position.Bias b",
+                    "nombre": "int pos",
                     "description": ""
                 },
                 {
@@ -226,11 +222,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int pos",
+                    "nombre": "int direction",
                     "description": ""
                 },
                 {
-                    "nombre": "int direction",
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
                     "description": ""
                 }
             ]
@@ -268,11 +268,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float x",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
-                    "nombre": "float y",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -304,15 +304,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float x",
-                    "description": ""
-                },
-                {
                     "nombre": "float y",
                     "description": ""
                 },
                 {
-                    "nombre": "Position.Bias b",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -321,6 +317,10 @@
                 },
                 {
                     "nombre": "Shape allocation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
                     "description": ""
                 }
             ]
@@ -344,11 +344,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
+                    "nombre": "DocumentEvent e",
                     "description": ""
                 },
                 {
-                    "nombre": "DocumentEvent e",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -366,6 +366,22 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Position.Bias b0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
                     "nombre": "Position.Bias b1",
                     "description": ""
                 },
@@ -374,23 +390,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int p1",
-                    "description": ""
-                },
-                {
                     "nombre": "Position.Bias b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int p0",
-                    "description": ""
-                },
-                {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
-                    "nombre": "Position.Bias b0",
                     "description": ""
                 }
             ]
@@ -446,11 +446,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
+                    "nombre": "DocumentEvent e",
                     "description": ""
                 },
                 {
-                    "nombre": "DocumentEvent e",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -464,7 +464,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -472,7 +472,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -492,11 +492,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float width",
+                    "nombre": "float height",
                     "description": ""
                 },
                 {
-                    "nombre": "float height",
+                    "nombre": "float width",
                     "description": ""
                 }
             ]
@@ -510,11 +510,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "DocumentEvent.ElementChange ec",
+                    "nombre": "ViewFactory f",
                     "description": ""
                 },
                 {
-                    "nombre": "ViewFactory f",
+                    "nombre": "DocumentEvent.ElementChange ec",
                     "description": ""
                 }
             ]
@@ -524,11 +524,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
+                    "nombre": "DocumentEvent e",
                     "description": ""
                 },
                 {
-                    "nombre": "DocumentEvent e",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -546,11 +546,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
-                    "nombre": "float y",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {

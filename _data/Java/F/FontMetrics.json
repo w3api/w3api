@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "FontMetrics",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Font font",
@@ -20,11 +20,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] data",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "byte[] data",
                     "description": ""
                 },
                 {
@@ -38,7 +38,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -46,7 +46,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "int off",
                     "description": ""
                 }
             ]
@@ -94,7 +94,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String str",
+                    "nombre": "char[] chars",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharacterIterator ci",
                     "description": ""
                 },
                 {
@@ -110,11 +114,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CharacterIterator ci",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] chars",
+                    "nombre": "String str",
                     "description": ""
                 }
             ]
@@ -150,7 +150,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String str",
+                    "nombre": "char[] chars",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharacterIterator ci",
                     "description": ""
                 },
                 {
@@ -166,11 +170,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CharacterIterator ci",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] chars",
+                    "nombre": "String str",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "BasicTextUI",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -44,6 +44,14 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
+                {
                     "nombre": "Position.Bias p0Bias",
                     "description": ""
                 },
@@ -53,14 +61,6 @@
                 },
                 {
                     "nombre": "JTextComponent t",
-                    "description": ""
-                },
-                {
-                    "nombre": "int p1",
-                    "description": ""
-                },
-                {
-                    "nombre": "int p0",
                     "description": ""
                 },
                 {
@@ -136,11 +136,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JTextComponent t",
+                    "nombre": "Point pt",
                     "description": ""
                 },
                 {
-                    "nombre": "Point pt",
+                    "nombre": "JTextComponent t",
                     "description": ""
                 }
             ]
@@ -180,11 +180,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
+                    "nombre": "Position.Bias bias",
                     "description": ""
                 },
                 {
-                    "nombre": "Position.Bias bias",
+                    "nombre": "int pos",
                     "description": ""
                 },
                 {
@@ -288,11 +288,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Position.Bias[] biasReturn",
+                    "nombre": "Point pt",
                     "description": ""
                 },
                 {
-                    "nombre": "Point pt",
+                    "nombre": "Position.Bias[] biasReturn",
                     "description": ""
                 },
                 {

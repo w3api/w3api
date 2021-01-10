@@ -5,22 +5,14 @@
     "constructores": [
         {
             "nombre": "IndexedPropertyDescriptor",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
+                    "nombre": "Class<?> beanClass",
+                    "description": ""
+                },
+                {
                     "nombre": "String writeMethodName",
-                    "description": ""
-                },
-                {
-                    "nombre": "String propertyName",
-                    "description": ""
-                },
-                {
-                    "nombre": "Method indexedReadMethod",
-                    "description": ""
-                },
-                {
-                    "nombre": "Method writeMethod",
                     "description": ""
                 },
                 {
@@ -28,11 +20,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Method readMethod",
+                    "nombre": "String indexedReadMethodName",
                     "description": ""
                 },
                 {
-                    "nombre": "String indexedReadMethodName",
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Method writeMethod",
                     "description": ""
                 },
                 {
@@ -44,7 +40,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?> beanClass",
+                    "nombre": "Method indexedReadMethod",
+                    "description": ""
+                },
+                {
+                    "nombre": "Method readMethod",
                     "description": ""
                 }
             ]

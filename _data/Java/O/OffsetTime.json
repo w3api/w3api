@@ -160,11 +160,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAmount amountToSubtract",
+                    "nombre": "long amountToSubtract",
                     "description": ""
                 },
                 {
-                    "nombre": "long amountToSubtract",
+                    "nombre": "TemporalAmount amountToSubtract",
                     "description": ""
                 }
             ]
@@ -214,11 +214,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Clock clock",
+                    "nombre": "ZoneId zone",
                     "description": ""
                 },
                 {
-                    "nombre": "ZoneId zone",
+                    "nombre": "Clock clock",
                     "description": ""
                 }
             ]
@@ -228,11 +228,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int minute",
-                    "description": ""
-                },
-                {
-                    "nombre": "ZoneOffset offset",
+                    "nombre": "LocalTime time",
                     "description": ""
                 },
                 {
@@ -244,7 +240,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "LocalTime time",
+                    "nombre": "ZoneOffset offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
                     "description": ""
                 },
                 {
@@ -258,11 +258,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Instant instant",
+                    "nombre": "ZoneId zone",
                     "description": ""
                 },
                 {
-                    "nombre": "ZoneId zone",
+                    "nombre": "Instant instant",
                     "description": ""
                 }
             ]

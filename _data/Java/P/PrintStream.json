@@ -5,22 +5,10 @@
     "constructores": [
         {
             "nombre": "PrintStream",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Charset charset",
-                    "description": ""
-                },
-                {
-                    "nombre": "String csn",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean autoFlush",
-                    "description": ""
-                },
-                {
-                    "nombre": "OutputStream out",
+                    "nombre": "File file",
                     "description": ""
                 },
                 {
@@ -28,11 +16,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean autoFlush",
+                    "description": ""
+                },
+                {
                     "nombre": "String encoding",
                     "description": ""
                 },
                 {
-                    "nombre": "File file",
+                    "nombre": "String csn",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
                     "description": ""
                 }
             ]
@@ -44,19 +44,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
                     "nombre": "CharSequence csq",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "int start",
                     "description": ""
                 },
                 {
                     "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
                     "description": ""
                 }
             ]
@@ -100,27 +100,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
-                    "description": ""
-                },
-                {
-                    "nombre": "float f",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] s",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean b",
-                    "description": ""
-                },
-                {
-                    "nombre": "double d",
                     "description": ""
                 },
                 {
@@ -128,7 +108,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] s",
+                    "description": ""
+                },
+                {
                     "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "float f",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
                     "description": ""
                 },
                 {
@@ -160,23 +160,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float x",
-                    "description": ""
-                },
-                {
-                    "nombre": "long x",
-                    "description": ""
-                },
-                {
-                    "nombre": "String x",
-                    "description": ""
-                },
-                {
                     "nombre": "Object x",
                     "description": ""
                 },
                 {
-                    "nombre": "char[] x",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -184,11 +172,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "char x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String x",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean x",
                     "description": ""
                 },
                 {
-                    "nombre": "char x",
+                    "nombre": "long x",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] x",
                     "description": ""
                 },
                 {
@@ -206,19 +206,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] buf",
-                    "description": ""
-                },
-                {
                     "nombre": "int len",
                     "description": ""
                 },
                 {
                     "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] buf",
                     "description": ""
                 }
             ]

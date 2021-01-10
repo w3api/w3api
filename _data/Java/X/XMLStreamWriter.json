@@ -74,19 +74,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String namespaceURI",
-                    "description": ""
-                },
-                {
                     "nombre": "String prefix",
                     "description": ""
                 },
                 {
-                    "nombre": "String localName",
+                    "nombre": "String namespaceURI",
                     "description": ""
                 },
                 {
                     "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
                     "description": ""
                 }
             ]
@@ -106,19 +106,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
-                    "nombre": "String text",
-                    "description": ""
-                },
-                {
                     "nombre": "int len",
                     "description": ""
                 },
                 {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
                     "nombre": "char[] text",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
                     "description": ""
                 }
             ]
@@ -158,15 +158,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
                     "nombre": "String namespaceURI",
                     "description": ""
                 },
                 {
                     "nombre": "String localName",
-                    "description": ""
-                },
-                {
-                    "nombre": "String prefix",
                     "description": ""
                 }
             ]
@@ -208,11 +208,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String data",
+                    "nombre": "String target",
                     "description": ""
                 },
                 {
-                    "nombre": "String target",
+                    "nombre": "String data",
                     "description": ""
                 }
             ]
@@ -236,15 +236,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
                     "nombre": "String namespaceURI",
                     "description": ""
                 },
                 {
                     "nombre": "String localName",
-                    "description": ""
-                },
-                {
-                    "nombre": "String prefix",
                     "description": ""
                 }
             ]

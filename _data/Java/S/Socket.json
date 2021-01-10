@@ -5,14 +5,30 @@
     "constructores": [
         {
             "nombre": "Socket",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "Proxy proxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress address",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress host",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
                 {
                     "nombre": "boolean stream",
                     "description": ""
                 },
                 {
-                    "nombre": "String host",
+                    "nombre": "int port",
                     "description": ""
                 },
                 {
@@ -21,22 +37,6 @@
                 },
                 {
                     "nombre": "int localPort",
-                    "description": ""
-                },
-                {
-                    "nombre": "int port",
-                    "description": ""
-                },
-                {
-                    "nombre": "Proxy proxy",
-                    "description": ""
-                },
-                {
-                    "nombre": "InetAddress host",
-                    "description": ""
-                },
-                {
-                    "nombre": "InetAddress address",
                     "description": ""
                 },
                 {
@@ -212,11 +212,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T value",
+                    "nombre": "SocketOption<T> name",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketOption<T> name",
+                    "nombre": "T value",
                     "description": ""
                 }
             ]
@@ -230,11 +230,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int connectionTime",
+                    "nombre": "int latency",
                     "description": ""
                 },
                 {
-                    "nombre": "int latency",
+                    "nombre": "int connectionTime",
                     "description": ""
                 }
             ]

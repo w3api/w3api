@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DocTrees",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,19 +18,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Element e",
-                    "description": ""
-                },
-                {
                     "nombre": "TreePath path",
                     "description": ""
                 },
                 {
-                    "nombre": "FileObject fileObject",
+                    "nombre": "String relativePath",
                     "description": ""
                 },
                 {
-                    "nombre": "String relativePath",
+                    "nombre": "Element e",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileObject fileObject",
                     "description": ""
                 }
             ]
@@ -82,11 +82,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JavaCompiler.CompilationTask task",
+                    "nombre": "ProcessingEnvironment env",
                     "description": ""
                 },
                 {
-                    "nombre": "ProcessingEnvironment env",
+                    "nombre": "JavaCompiler.CompilationTask task",
                     "description": ""
                 }
             ]
@@ -95,14 +95,6 @@
             "nombre": "printMessage",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "DocCommentTree c",
-                    "description": ""
-                },
-                {
-                    "nombre": "DocTree t",
-                    "description": ""
-                },
                 {
                     "nombre": "CharSequence msg",
                     "description": ""
@@ -113,6 +105,14 @@
                 },
                 {
                     "nombre": "Diagnostic.Kind kind",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocTree t",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocCommentTree c",
                     "description": ""
                 }
             ]

@@ -5,10 +5,30 @@
     "constructores": [
         {
             "nombre": "Spinner",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "double min",
+                    "nombre": "int min",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<T> items",
+                    "description": ""
+                },
+                {
+                    "nombre": "double max",
+                    "description": ""
+                },
+                {
+                    "nombre": "int amountToStepBy",
+                    "description": ""
+                },
+                {
+                    "nombre": "int max",
+                    "description": ""
+                },
+                {
+                    "nombre": "double initialValue",
                     "description": ""
                 },
                 {
@@ -20,31 +40,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ObservableList<T> items",
-                    "description": ""
-                },
-                {
-                    "nombre": "double initialValue",
-                    "description": ""
-                },
-                {
                     "nombre": "SpinnerValueFactory<T> valueFactory",
                     "description": ""
                 },
                 {
-                    "nombre": "int max",
-                    "description": ""
-                },
-                {
-                    "nombre": "int min",
-                    "description": ""
-                },
-                {
-                    "nombre": "double max",
-                    "description": ""
-                },
-                {
-                    "nombre": "int amountToStepBy",
+                    "nombre": "double min",
                     "description": ""
                 }
             ]

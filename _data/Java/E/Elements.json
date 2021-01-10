@@ -122,11 +122,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Element e",
-                    "description": ""
-                },
-                {
-                    "nombre": "ModuleElement m",
+                    "nombre": "AnnotationMirror a",
                     "description": ""
                 },
                 {
@@ -134,11 +130,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AnnotationMirror a",
+                    "nombre": "AnnotatedConstruct c",
                     "description": ""
                 },
                 {
-                    "nombre": "AnnotatedConstruct c",
+                    "nombre": "Element e",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModuleElement m",
                     "description": ""
                 }
             ]
@@ -148,11 +148,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CharSequence name",
+                    "nombre": "ModuleElement module",
                     "description": ""
                 },
                 {
-                    "nombre": "ModuleElement module",
+                    "nombre": "CharSequence name",
                     "description": ""
                 }
             ]
@@ -172,11 +172,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CharSequence name",
+                    "nombre": "ModuleElement module",
                     "description": ""
                 },
                 {
-                    "nombre": "ModuleElement module",
+                    "nombre": "CharSequence name",
                     "description": ""
                 }
             ]
@@ -186,11 +186,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Element hidden",
+                    "nombre": "Element hider",
                     "description": ""
                 },
                 {
-                    "nombre": "Element hider",
+                    "nombre": "Element hidden",
                     "description": ""
                 }
             ]
@@ -230,7 +230,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TypeElement type",
+                    "nombre": "ExecutableElement overrider",
                     "description": ""
                 },
                 {
@@ -238,7 +238,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ExecutableElement overrider",
+                    "nombre": "TypeElement type",
                     "description": ""
                 }
             ]

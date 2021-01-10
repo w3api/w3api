@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "ClassLoader",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "ClassLoader parent",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "ClassLoader parent",
                     "description": ""
                 }
             ]
@@ -28,10 +28,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
-                    "description": ""
-                },
-                {
                     "nombre": "ProtectionDomain protectionDomain",
                     "description": ""
                 },
@@ -44,11 +40,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
                     "description": ""
                 }
             ]
@@ -58,11 +58,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String implVendor",
-                    "description": ""
-                },
-                {
-                    "nombre": "String specTitle",
+                    "nombre": "String implVersion",
                     "description": ""
                 },
                 {
@@ -70,11 +66,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "URL sealBase",
+                    "nombre": "String specTitle",
                     "description": ""
                 },
                 {
-                    "nombre": "String implVersion",
+                    "nombre": "String implTitle",
+                    "description": ""
+                },
+                {
+                    "nombre": "String implVendor",
                     "description": ""
                 },
                 {
@@ -82,11 +82,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String specVersion",
+                    "nombre": "URL sealBase",
                     "description": ""
                 },
                 {
-                    "nombre": "String implTitle",
+                    "nombre": "String specVersion",
                     "description": ""
                 }
             ]
@@ -286,11 +286,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String name",
+                    "nombre": "boolean resolve",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean resolve",
+                    "nombre": "String name",
                     "description": ""
                 }
             ]
@@ -362,11 +362,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> c",
+                    "nombre": "Object[] signers",
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] signers",
+                    "nombre": "Class<?> c",
                     "description": ""
                 }
             ]

@@ -5,8 +5,16 @@
     "constructores": [
         {
             "nombre": "JMXServiceURL",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "String serviceURL",
+                    "description": ""
+                },
                 {
                     "nombre": "String urlPath",
                     "description": ""
@@ -16,15 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String protocol",
-                    "description": ""
-                },
-                {
                     "nombre": "int port",
-                    "description": ""
-                },
-                {
-                    "nombre": "String serviceURL",
                     "description": ""
                 }
             ]

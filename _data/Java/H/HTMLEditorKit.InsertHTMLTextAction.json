@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "HTMLEditorKit.InsertHTMLTextAction",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "HTML.Tag parentTag",
+                    "nombre": "HTML.Tag alternateAddTag",
                     "description": ""
                 },
                 {
@@ -16,15 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "HTML.Tag alternateAddTag",
+                    "nombre": "String html",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag parentTag",
                     "description": ""
                 },
                 {
                     "nombre": "String name",
-                    "description": ""
-                },
-                {
-                    "nombre": "String html",
                     "description": ""
                 },
                 {
@@ -50,23 +50,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "HTML.Tag parentTag",
-                    "description": ""
-                },
-                {
-                    "nombre": "HTML.Tag addTag",
-                    "description": ""
-                },
-                {
                     "nombre": "HTMLDocument doc",
-                    "description": ""
-                },
-                {
-                    "nombre": "Element insertElement",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -74,7 +58,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag addTag",
+                    "description": ""
+                },
+                {
                     "nombre": "String html",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag parentTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element insertElement",
                     "description": ""
                 }
             ]
@@ -84,23 +84,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "HTML.Tag parentTag",
-                    "description": ""
-                },
-                {
-                    "nombre": "HTML.Tag addTag",
-                    "description": ""
-                },
-                {
                     "nombre": "HTMLDocument doc",
-                    "description": ""
-                },
-                {
-                    "nombre": "Element insertElement",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -108,7 +92,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag addTag",
+                    "description": ""
+                },
+                {
                     "nombre": "String html",
+                    "description": ""
+                },
+                {
+                    "nombre": "HTML.Tag parentTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element insertElement",
                     "description": ""
                 }
             ]
@@ -118,7 +118,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "HTML.Tag addTag",
+                    "nombre": "HTMLDocument doc",
                     "description": ""
                 },
                 {
@@ -126,11 +126,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int pushDepth",
-                    "description": ""
-                },
-                {
-                    "nombre": "HTMLDocument doc",
+                    "nombre": "JEditorPane editor",
                     "description": ""
                 },
                 {
@@ -138,11 +134,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JEditorPane editor",
+                    "nombre": "HTML.Tag addTag",
                     "description": ""
                 },
                 {
                     "nombre": "String html",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pushDepth",
                     "description": ""
                 }
             ]

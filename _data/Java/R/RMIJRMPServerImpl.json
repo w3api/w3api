@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "RMIJRMPServerImpl",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "RMIClientSocketFactory csf",
+                    "nombre": "RMIServerSocketFactory ssf",
                     "description": ""
                 },
                 {
-                    "nombre": "int port",
+                    "nombre": "?> env",
                     "description": ""
                 },
                 {
@@ -20,11 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "RMIServerSocketFactory ssf",
+                    "nombre": "RMIClientSocketFactory csf",
                     "description": ""
                 },
                 {
-                    "nombre": "?> env",
+                    "nombre": "int port",
                     "description": ""
                 }
             ]
@@ -40,11 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String connectionId",
+                    "nombre": "Subject subject",
                     "description": ""
                 },
                 {
-                    "nombre": "Subject subject",
+                    "nombre": "String connectionId",
                     "description": ""
                 }
             ]

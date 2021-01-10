@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "Properties",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Properties defaults",
+                    "nombre": "int initialCapacity",
                     "description": ""
                 },
                 {
-                    "nombre": "int initialCapacity",
+                    "nombre": "Properties defaults",
                     "description": ""
                 }
             ]
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String defaultValue",
+                    "nombre": "String key",
                     "description": ""
                 },
                 {
-                    "nombre": "String key",
+                    "nombre": "String defaultValue",
                     "description": ""
                 }
             ]
@@ -38,11 +38,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PrintStream out",
+                    "nombre": "PrintWriter out",
                     "description": ""
                 },
                 {
-                    "nombre": "PrintWriter out",
+                    "nombre": "PrintStream out",
                     "description": ""
                 }
             ]
@@ -52,11 +52,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Reader reader",
+                    "nombre": "InputStream inStream",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream inStream",
+                    "nombre": "Reader reader",
                     "description": ""
                 }
             ]
@@ -126,19 +126,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String comment",
-                    "description": ""
-                },
-                {
                     "nombre": "OutputStream os",
                     "description": ""
                 },
                 {
-                    "nombre": "Charset charset",
+                    "nombre": "String encoding",
                     "description": ""
                 },
                 {
-                    "nombre": "String encoding",
+                    "nombre": "String comment",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset charset",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "AsynchronousServerSocketChannel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "AsynchronousChannelProvider provider",
@@ -20,7 +20,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? super A> handler",
+                    "nombre": "CompletionHandler<AsynchronousSocketChannel",
                     "description": ""
                 },
                 {
@@ -28,7 +28,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CompletionHandler<AsynchronousSocketChannel",
+                    "nombre": "? super A> handler",
                     "description": ""
                 }
             ]
@@ -38,11 +38,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SocketAddress local",
+                    "nombre": "int backlog",
                     "description": ""
                 },
                 {
-                    "nombre": "int backlog",
+                    "nombre": "SocketAddress local",
                     "description": ""
                 }
             ]
@@ -70,11 +70,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T value",
+                    "nombre": "SocketOption<T> name",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketOption<T> name",
+                    "nombre": "T value",
                     "description": ""
                 }
             ]

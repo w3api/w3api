@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DynamicLinkerFactory",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -86,11 +86,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<? extends GuardingDynamicLinker> prioritizedLinkers",
+                    "nombre": "GuardingDynamicLinker... prioritizedLinkers",
                     "description": ""
                 },
                 {
-                    "nombre": "GuardingDynamicLinker... prioritizedLinkers",
+                    "nombre": "List<? extends GuardingDynamicLinker> prioritizedLinkers",
                     "description": ""
                 }
             ]

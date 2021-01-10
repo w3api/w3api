@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "GridPane",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int colspan",
-                    "description": ""
-                },
-                {
-                    "nombre": "int rowspan",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
@@ -26,11 +22,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
-                    "nombre": "Node child",
+                    "nombre": "int colspan",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rowspan",
                     "description": ""
                 }
             ]
@@ -40,11 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "Node... children",
                     "description": ""
                 },
                 {
-                    "nombre": "Node... children",
+                    "nombre": "int columnIndex",
                     "description": ""
                 }
             ]
@@ -54,11 +54,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int rowIndex",
+                    "nombre": "Node... children",
                     "description": ""
                 },
                 {
-                    "nombre": "Node... children",
+                    "nombre": "int rowIndex",
                     "description": ""
                 }
             ]
@@ -268,11 +268,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Integer value",
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
-                    "nombre": "Node child",
+                    "nombre": "Integer value",
                     "description": ""
                 }
             ]
@@ -282,11 +282,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Integer value",
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
-                    "nombre": "Node child",
+                    "nombre": "Integer value",
                     "description": ""
                 }
             ]
@@ -296,19 +296,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "VPos valignment",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int rowspan",
-                    "description": ""
-                },
-                {
-                    "nombre": "int rowIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "Priority vgrow",
+                    "nombre": "int columnspan",
                     "description": ""
                 },
                 {
@@ -316,11 +308,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "int columnspan",
+                    "nombre": "int rowIndex",
                     "description": ""
                 },
                 {
@@ -332,7 +320,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Priority vgrow",
+                    "description": ""
+                },
+                {
                     "nombre": "Priority hgrow",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rowspan",
+                    "description": ""
+                },
+                {
+                    "nombre": "VPos valignment",
                     "description": ""
                 }
             ]
@@ -380,11 +380,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "HPos value",
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
-                    "nombre": "Node child",
+                    "nombre": "HPos value",
                     "description": ""
                 }
             ]
@@ -404,11 +404,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Priority value",
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
-                    "nombre": "Node child",
+                    "nombre": "Priority value",
                     "description": ""
                 }
             ]
@@ -418,11 +418,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Insets value",
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
-                    "nombre": "Node child",
+                    "nombre": "Insets value",
                     "description": ""
                 }
             ]
@@ -432,11 +432,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Integer value",
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
-                    "nombre": "Node child",
+                    "nombre": "Integer value",
                     "description": ""
                 }
             ]
@@ -446,11 +446,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Integer value",
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
-                    "nombre": "Node child",
+                    "nombre": "Integer value",
                     "description": ""
                 }
             ]
@@ -484,11 +484,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Priority value",
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
-                    "nombre": "Node child",
+                    "nombre": "Priority value",
                     "description": ""
                 }
             ]

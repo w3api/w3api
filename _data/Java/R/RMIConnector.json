@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "RMIConnector",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "RMIServer rmiServer",
-                    "description": ""
-                },
-                {
-                    "nombre": "Map<String",
+                    "nombre": "JMXServiceURL url",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JMXServiceURL url",
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "RMIServer rmiServer",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Map<String",
+                    "nombre": "?> environment",
                     "description": ""
                 },
                 {
-                    "nombre": "?> environment",
+                    "nombre": "Map<String",
                     "description": ""
                 }
             ]

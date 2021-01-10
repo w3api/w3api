@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "CheckBoxTreeCell",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "StringConverter<TreeItem<T>> converter",
+                    "description": ""
+                },
                 {
                     "nombre": "Callback<TreeItem<T>",
                     "description": ""
                 },
                 {
                     "nombre": "ObservableValue<Boolean>> getSelectedProperty",
-                    "description": ""
-                },
-                {
-                    "nombre": "StringConverter<TreeItem<T>> converter",
                     "description": ""
                 }
             ]
@@ -32,15 +32,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "StringConverter<TreeItem<T>> converter",
+                    "description": ""
+                },
+                {
                     "nombre": "Callback<TreeItem<T>",
                     "description": ""
                 },
                 {
                     "nombre": "ObservableValue<Boolean>> getSelectedProperty",
-                    "description": ""
-                },
-                {
-                    "nombre": "StringConverter<TreeItem<T>> converter",
                     "description": ""
                 }
             ]
@@ -86,11 +86,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean empty",
+                    "nombre": "T item",
                     "description": ""
                 },
                 {
-                    "nombre": "T item",
+                    "nombre": "boolean empty",
                     "description": ""
                 }
             ]

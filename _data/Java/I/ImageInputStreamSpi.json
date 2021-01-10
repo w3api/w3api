@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "ImageInputStreamSpi",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "String version",
-                    "description": ""
-                },
                 {
                     "nombre": "String vendorName",
                     "description": ""
                 },
                 {
                     "nombre": "Class<?> inputClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "String version",
                     "description": ""
                 }
             ]
@@ -32,7 +32,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean useCache",
+                    "nombre": "Object input",
                     "description": ""
                 },
                 {
@@ -40,7 +40,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object input",
+                    "nombre": "boolean useCache",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Writer",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Object lock",
@@ -20,19 +20,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
                     "nombre": "CharSequence csq",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "int start",
                     "description": ""
                 },
                 {
                     "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
                     "description": ""
                 }
             ]
@@ -50,15 +50,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
-                    "description": ""
-                },
-                {
-                    "nombre": "String str",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
+                    "nombre": "char[] cbuf",
                     "description": ""
                 },
                 {
@@ -66,7 +58,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] cbuf",
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
                     "description": ""
                 }
             ]

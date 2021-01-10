@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "ArrayBlockingQueue",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Collection<? extends E> c",
+                    "nombre": "boolean fair",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean fair",
+                    "nombre": "Collection<? extends E> c",
                     "description": ""
                 }
             ]
@@ -80,15 +80,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long timeout",
-                    "description": ""
-                },
-                {
                     "nombre": "E e",
                     "description": ""
                 },
                 {
                     "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeout",
                     "description": ""
                 }
             ]

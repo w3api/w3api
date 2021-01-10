@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DocumentFilter.FilterBypass",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,7 +18,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributeSet attr",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -26,7 +26,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "AttributeSet attr",
                     "description": ""
                 }
             ]
@@ -36,11 +36,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -50,7 +50,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -58,11 +58,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String string",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "String string",
                     "description": ""
                 }
             ]

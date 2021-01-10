@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "CompletableFuture",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -98,15 +98,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T value",
-                    "description": ""
-                },
-                {
                     "nombre": "long timeout",
                     "description": ""
                 },
                 {
                     "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "T value",
                     "description": ""
                 }
             ]
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long delay",
                     "description": ""
                 },
                 {
-                    "nombre": "long delay",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 },
                 {
@@ -142,11 +142,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends T> fn",
+                    "nombre": "Function<Throwable",
                     "description": ""
                 },
                 {
-                    "nombre": "Function<Throwable",
+                    "nombre": "? extends T> fn",
                     "description": ""
                 }
             ]
@@ -176,11 +176,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long timeout",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 },
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long timeout",
                     "description": ""
                 }
             ]
@@ -248,11 +248,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long timeout",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 },
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long timeout",
                     "description": ""
                 }
             ]
@@ -262,11 +262,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Executor executor",
+                    "nombre": "Runnable runnable",
                     "description": ""
                 },
                 {
-                    "nombre": "Runnable runnable",
+                    "nombre": "Executor executor",
                     "description": ""
                 }
             ]
@@ -276,11 +276,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<U> supplier",
+                    "nombre": "Executor executor",
                     "description": ""
                 },
                 {
-                    "nombre": "Executor executor",
+                    "nombre": "Supplier<U> supplier",
                     "description": ""
                 }
             ]

@@ -82,11 +82,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ImageReader reader",
+                    "nombre": "ImageWriter writer",
                     "description": ""
                 },
                 {
-                    "nombre": "ImageWriter writer",
+                    "nombre": "ImageReader reader",
                     "description": ""
                 }
             ]
@@ -106,11 +106,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ImageTypeSpecifier type",
+                    "nombre": "String formatName",
                     "description": ""
                 },
                 {
-                    "nombre": "String formatName",
+                    "nombre": "ImageTypeSpecifier type",
                     "description": ""
                 }
             ]
@@ -178,19 +178,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream input",
-                    "description": ""
-                },
-                {
-                    "nombre": "URL input",
-                    "description": ""
-                },
-                {
                     "nombre": "ImageInputStream stream",
                     "description": ""
                 },
                 {
                     "nombre": "File input",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream input",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL input",
                     "description": ""
                 }
             ]
@@ -224,6 +224,14 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String formatName",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream output",
+                    "description": ""
+                },
+                {
                     "nombre": "File output",
                     "description": ""
                 },
@@ -233,14 +241,6 @@
                 },
                 {
                     "nombre": "ImageOutputStream output",
-                    "description": ""
-                },
-                {
-                    "nombre": "OutputStream output",
-                    "description": ""
-                },
-                {
-                    "nombre": "String formatName",
                     "description": ""
                 }
             ]

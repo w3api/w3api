@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "LineBreakMeasurer",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "FontRenderContext frc",
                     "description": ""
                 },
                 {
-                    "nombre": "AttributedCharacterIterator text",
+                    "nombre": "BreakIterator breakIter",
                     "description": ""
                 },
                 {
-                    "nombre": "BreakIterator breakIter",
+                    "nombre": "AttributedCharacterIterator text",
                     "description": ""
                 }
             ]
@@ -28,11 +28,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int deletePos",
+                    "nombre": "AttributedCharacterIterator newParagraph",
                     "description": ""
                 },
                 {
-                    "nombre": "AttributedCharacterIterator newParagraph",
+                    "nombre": "int deletePos",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int insertPos",
+                    "nombre": "AttributedCharacterIterator newParagraph",
                     "description": ""
                 },
                 {
-                    "nombre": "AttributedCharacterIterator newParagraph",
+                    "nombre": "int insertPos",
                     "description": ""
                 }
             ]
@@ -60,11 +60,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float wrappingWidth",
+                    "nombre": "boolean requireNextWord",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean requireNextWord",
+                    "nombre": "float wrappingWidth",
                     "description": ""
                 },
                 {
@@ -78,11 +78,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float wrappingWidth",
+                    "nombre": "boolean requireNextWord",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean requireNextWord",
+                    "nombre": "float wrappingWidth",
                     "description": ""
                 },
                 {

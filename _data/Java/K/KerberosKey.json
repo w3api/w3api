@@ -5,10 +5,22 @@
     "constructores": [
         {
             "nombre": "KerberosKey",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
+                    "nombre": "int versionNum",
+                    "description": ""
+                },
+                {
                     "nombre": "byte[] keyBytes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "KerberosPrincipal principal",
                     "description": ""
                 },
                 {
@@ -17,18 +29,6 @@
                 },
                 {
                     "nombre": "String algorithm",
-                    "description": ""
-                },
-                {
-                    "nombre": "int keyType",
-                    "description": ""
-                },
-                {
-                    "nombre": "int versionNum",
-                    "description": ""
-                },
-                {
-                    "nombre": "KerberosPrincipal principal",
                     "description": ""
                 }
             ]

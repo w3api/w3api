@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "PSSParameterSpec",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "int trailerField",
-                    "description": ""
-                },
-                {
-                    "nombre": "String mdName",
                     "description": ""
                 },
                 {
@@ -20,11 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AlgorithmParameterSpec mgfSpec",
+                    "nombre": "String mgfName",
                     "description": ""
                 },
                 {
-                    "nombre": "String mgfName",
+                    "nombre": "String mdName",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameterSpec mgfSpec",
                     "description": ""
                 }
             ]

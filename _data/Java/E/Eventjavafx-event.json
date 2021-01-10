@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "Event",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
                 {
                     "nombre": "EventType<? extends Event> eventType",
                     "description": ""
                 },
                 {
                     "nombre": "EventTarget target",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object source",
                     "description": ""
                 }
             ]
@@ -50,11 +50,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "EventTarget eventTarget",
+                    "nombre": "Event event",
                     "description": ""
                 },
                 {
-                    "nombre": "Event event",
+                    "nombre": "EventTarget eventTarget",
                     "description": ""
                 }
             ]

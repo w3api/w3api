@@ -5,22 +5,14 @@
     "constructores": [
         {
             "nombre": "Font",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "int size",
-                    "description": ""
-                },
-                {
-                    "nombre": "?> attributes",
-                    "description": ""
-                },
                 {
                     "nombre": "int style",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "nombre": "?> attributes",
                     "description": ""
                 },
                 {
@@ -29,6 +21,14 @@
                 },
                 {
                     "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "int size",
                     "description": ""
                 }
             ]
@@ -40,11 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int codePoint",
+                    "nombre": "char c",
                     "description": ""
                 },
                 {
-                    "nombre": "char c",
+                    "nombre": "int codePoint",
                     "description": ""
                 }
             ]
@@ -53,14 +53,6 @@
             "nombre": "canDisplayUpTo",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "String str",
-                    "description": ""
-                },
-                {
-                    "nombre": "int limit",
-                    "description": ""
-                },
                 {
                     "nombre": "CharacterIterator iter",
                     "description": ""
@@ -71,6 +63,14 @@
                 },
                 {
                     "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
                     "description": ""
                 }
             ]
@@ -112,7 +112,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String str",
+                    "nombre": "FontRenderContext frc",
                     "description": ""
                 },
                 {
@@ -120,7 +120,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "FontRenderContext frc",
+                    "nombre": "char[] chars",
                     "description": ""
                 },
                 {
@@ -128,7 +128,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] chars",
+                    "nombre": "String str",
                     "description": ""
                 }
             ]
@@ -156,7 +156,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int style",
+                    "nombre": "AffineTransform trans",
                     "description": ""
                 },
                 {
@@ -164,7 +164,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AffineTransform trans",
+                    "nombre": "int style",
                     "description": ""
                 }
             ]
@@ -212,11 +212,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String nm",
+                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "nombre": "String nm",
                     "description": ""
                 },
                 {
@@ -248,19 +248,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String str",
-                    "description": ""
-                },
-                {
-                    "nombre": "int beginIndex",
-                    "description": ""
-                },
-                {
                     "nombre": "FontRenderContext frc",
                     "description": ""
                 },
                 {
-                    "nombre": "int limit",
+                    "nombre": "char[] chars",
                     "description": ""
                 },
                 {
@@ -268,7 +260,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] chars",
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
                     "description": ""
                 }
             ]
@@ -312,19 +312,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String str",
-                    "description": ""
-                },
-                {
-                    "nombre": "int beginIndex",
-                    "description": ""
-                },
-                {
                     "nombre": "FontRenderContext frc",
                     "description": ""
                 },
                 {
-                    "nombre": "int limit",
+                    "nombre": "char[] chars",
                     "description": ""
                 },
                 {
@@ -332,7 +324,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] chars",
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
                     "description": ""
                 }
             ]
@@ -382,19 +382,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int flags",
-                    "description": ""
-                },
-                {
-                    "nombre": "int limit",
-                    "description": ""
-                },
-                {
                     "nombre": "char[] text",
                     "description": ""
                 },
                 {
                     "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int limit",
                     "description": ""
                 }
             ]
@@ -404,11 +404,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
+                    "nombre": "int end",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "int start",
                     "description": ""
                 },
                 {

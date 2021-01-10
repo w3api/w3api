@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DatagramChannel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "SelectorProvider provider",
@@ -66,10 +66,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
-                    "description": ""
-                },
-                {
                     "nombre": "ByteBuffer dst",
                     "description": ""
                 },
@@ -79,6 +75,10 @@
                 },
                 {
                     "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -98,11 +98,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SocketAddress target",
+                    "nombre": "ByteBuffer src",
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer src",
+                    "nombre": "SocketAddress target",
                     "description": ""
                 }
             ]
@@ -112,11 +112,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T value",
+                    "nombre": "SocketOption<T> name",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketOption<T> name",
+                    "nombre": "T value",
                     "description": ""
                 }
             ]
@@ -134,11 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
-                    "description": ""
-                },
-                {
-                    "nombre": "ByteBuffer[] srcs",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -146,7 +142,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer[] srcs",
                     "description": ""
                 }
             ]

@@ -18,11 +18,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LocalDate endDateExclusive",
+                    "nombre": "LocalDate startDateInclusive",
                     "description": ""
                 },
                 {
-                    "nombre": "LocalDate startDateInclusive",
+                    "nombre": "LocalDate endDateExclusive",
                     "description": ""
                 }
             ]
@@ -152,15 +152,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int years",
-                    "description": ""
-                },
-                {
                     "nombre": "int months",
                     "description": ""
                 },
                 {
                     "nombre": "int days",
+                    "description": ""
+                },
+                {
+                    "nombre": "int years",
                     "description": ""
                 }
             ]

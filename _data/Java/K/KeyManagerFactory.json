@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "KeyManagerFactory",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
                 {
                     "nombre": "KeyManagerFactorySpi factorySpi",
                     "description": ""
                 },
                 {
                     "nombre": "Provider provider",
-                    "description": ""
-                },
-                {
-                    "nombre": "String algorithm",
                     "description": ""
                 }
             ]
@@ -62,15 +62,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "char[] password",
+                    "description": ""
+                },
+                {
                     "nombre": "ManagerFactoryParameters spec",
                     "description": ""
                 },
                 {
                     "nombre": "KeyStore ks",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] password",
                     "description": ""
                 }
             ]

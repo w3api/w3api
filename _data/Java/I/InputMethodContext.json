@@ -36,14 +36,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TextHitInfo visiblePosition",
-                    "description": ""
-                },
-                {
-                    "nombre": "int id",
-                    "description": ""
-                },
-                {
                     "nombre": "TextHitInfo caret",
                     "description": ""
                 },
@@ -52,7 +44,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "TextHitInfo visiblePosition",
+                    "description": ""
+                },
+                {
                     "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
                     "description": ""
                 }
             ]
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean enable",
+                    "nombre": "InputMethod inputMethod",
                     "description": ""
                 },
                 {
-                    "nombre": "InputMethod inputMethod",
+                    "nombre": "boolean enable",
                     "description": ""
                 }
             ]

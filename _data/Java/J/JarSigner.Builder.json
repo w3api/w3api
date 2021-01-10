@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "JarSigner.Builder",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "PrivateKey privateKey",
                     "description": ""
                 },
                 {
-                    "nombre": "CertPath certPath",
+                    "nombre": "KeyStore.PrivateKeyEntry entry",
                     "description": ""
                 },
                 {
-                    "nombre": "KeyStore.PrivateKeyEntry entry",
+                    "nombre": "CertPath certPath",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String> handler",
+                    "nombre": "BiConsumer<String",
                     "description": ""
                 },
                 {
-                    "nombre": "BiConsumer<String",
+                    "nombre": "String> handler",
                     "description": ""
                 }
             ]

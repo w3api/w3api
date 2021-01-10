@@ -5,18 +5,14 @@
     "constructores": [
         {
             "nombre": "ImageReaderSpi",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean supportsStandardStreamMetadataFormat",
+                    "nombre": "String version",
                     "description": ""
                 },
                 {
-                    "nombre": "String[] extraImageMetadataFormatClassNames",
-                    "description": ""
-                },
-                {
-                    "nombre": "String[] extraStreamMetadataFormatClassNames",
+                    "nombre": "String[] names",
                     "description": ""
                 },
                 {
@@ -24,27 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String nativeStreamMetadataFormatClassName",
+                    "nombre": "String[] extraStreamMetadataFormatClassNames",
                     "description": ""
                 },
                 {
-                    "nombre": "String readerClassName",
-                    "description": ""
-                },
-                {
-                    "nombre": "Class<?>[] inputTypes",
-                    "description": ""
-                },
-                {
-                    "nombre": "String[] writerSpiNames",
-                    "description": ""
-                },
-                {
-                    "nombre": "String version",
-                    "description": ""
-                },
-                {
-                    "nombre": "String[] suffixes",
+                    "nombre": "String vendorName",
                     "description": ""
                 },
                 {
@@ -56,15 +36,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String[] MIMETypes",
-                    "description": ""
-                },
-                {
-                    "nombre": "String[] names",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean supportsStandardImageMetadataFormat",
+                    "nombre": "String readerClassName",
                     "description": ""
                 },
                 {
@@ -72,11 +44,39 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String vendorName",
+                    "nombre": "boolean supportsStandardImageMetadataFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] extraImageMetadataFormatClassNames",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>[] inputTypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String nativeStreamMetadataFormatClassName",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean supportsStandardStreamMetadataFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] writerSpiNames",
                     "description": ""
                 },
                 {
                     "nombre": "String nativeImageMetadataFormatName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] MIMETypes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] suffixes",
                     "description": ""
                 }
             ]

@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "ImmutableDescriptor",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "String[] fieldNames",
+                    "nombre": "String... fields",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] fieldValues",
                     "description": ""
                 },
                 {
@@ -20,11 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] fieldValues",
-                    "description": ""
-                },
-                {
-                    "nombre": "String... fields",
+                    "nombre": "String[] fieldNames",
                     "description": ""
                 }
             ]

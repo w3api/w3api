@@ -5,18 +5,14 @@
     "constructores": [
         {
             "nombre": "TableModelEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "int type",
-                    "description": ""
-                },
                 {
                     "nombre": "int row",
                     "description": ""
                 },
                 {
-                    "nombre": "int column",
+                    "nombre": "int firstRow",
                     "description": ""
                 },
                 {
@@ -24,11 +20,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TableModel source",
+                    "nombre": "int column",
                     "description": ""
                 },
                 {
-                    "nombre": "int firstRow",
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "TableModel source",
                     "description": ""
                 }
             ]

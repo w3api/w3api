@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "JList",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Vector<? extends E> listData",
@@ -38,11 +38,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int anchor",
+                    "nombre": "int lead",
                     "description": ""
                 },
                 {
-                    "nombre": "int lead",
+                    "nombre": "int anchor",
                     "description": ""
                 }
             ]
@@ -166,15 +166,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Position.Bias bias",
+                    "description": ""
+                },
+                {
                     "nombre": "int startIndex",
                     "description": ""
                 },
                 {
                     "nombre": "String prefix",
-                    "description": ""
-                },
-                {
-                    "nombre": "Position.Bias bias",
                     "description": ""
                 }
             ]
@@ -192,15 +192,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                },
+                {
                     "nombre": "int direction",
                     "description": ""
                 },
                 {
                     "nombre": "int orientation",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle visibleRect",
                     "description": ""
                 }
             ]
@@ -218,15 +218,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                },
+                {
                     "nombre": "int direction",
                     "description": ""
                 },
                 {
                     "nombre": "int orientation",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle visibleRect",
                     "description": ""
                 }
             ]
@@ -474,11 +474,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean shouldScroll",
+                    "nombre": "Object anObject",
                     "description": ""
                 },
                 {
-                    "nombre": "Object anObject",
+                    "nombre": "boolean shouldScroll",
                     "description": ""
                 }
             ]
@@ -508,11 +508,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int anchor",
+                    "nombre": "int lead",
                     "description": ""
                 },
                 {
-                    "nombre": "int lead",
+                    "nombre": "int anchor",
                     "description": ""
                 }
             ]

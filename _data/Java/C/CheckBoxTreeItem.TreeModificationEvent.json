@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "CheckBoxTreeItem.TreeModificationEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean selectionChanged",
+                    "nombre": "CheckBoxTreeItem<T> treeItem",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CheckBoxTreeItem<T> treeItem",
+                    "nombre": "boolean selectionChanged",
                     "description": ""
                 }
             ]

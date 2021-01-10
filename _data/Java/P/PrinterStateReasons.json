@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "PrinterStateReasons",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "Severity> map",
-                    "description": ""
-                },
                 {
                     "nombre": "int initialCapacity",
                     "description": ""
                 },
                 {
                     "nombre": "float loadFactor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Severity> map",
                     "description": ""
                 },
                 {
@@ -50,11 +50,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PrinterStateReason reason",
+                    "nombre": "Severity severity",
                     "description": ""
                 },
                 {
-                    "nombre": "Severity severity",
+                    "nombre": "PrinterStateReason reason",
                     "description": ""
                 }
             ]

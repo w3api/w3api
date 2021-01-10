@@ -5,16 +5,8 @@
     "constructores": [
         {
             "nombre": "AttributeChangeNotification",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "String attributeType",
-                    "description": ""
-                },
-                {
-                    "nombre": "long timeStamp",
-                    "description": ""
-                },
                 {
                     "nombre": "long sequenceNumber",
                     "description": ""
@@ -24,11 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "String msg",
+                    "nombre": "String attributeName",
                     "description": ""
                 },
                 {
@@ -36,7 +24,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String attributeName",
+                    "nombre": "String msg",
+                    "description": ""
+                },
+                {
+                    "nombre": "String attributeType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeStamp",
                     "description": ""
                 }
             ]

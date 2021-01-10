@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "JComboBox",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Vector<E> items",
+                    "nombre": "E[] items",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "E[] items",
+                    "nombre": "Vector<E> items",
                     "description": ""
                 }
             ]
@@ -38,11 +38,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String propertyName",
+                    "nombre": "Action action",
                     "description": ""
                 },
                 {
-                    "nombre": "Action action",
+                    "nombre": "String propertyName",
                     "description": ""
                 }
             ]

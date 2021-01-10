@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "LinkedHashMap",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "boolean accessOrder",
-                    "description": ""
-                },
                 {
                     "nombre": "float loadFactor",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends V> m",
+                    "nombre": "Map<? extends K",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean accessOrder",
                     "description": ""
                 },
                 {
@@ -24,7 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Map<? extends K",
+                    "nombre": "? extends V> m",
                     "description": ""
                 }
             ]

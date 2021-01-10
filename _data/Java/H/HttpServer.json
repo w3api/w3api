@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "HttpServer",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -42,11 +42,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "HttpHandler handler",
+                    "nombre": "String path",
                     "description": ""
                 },
                 {
-                    "nombre": "String path",
+                    "nombre": "HttpHandler handler",
                     "description": ""
                 }
             ]
@@ -64,11 +64,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "HttpContext context",
+                    "nombre": "String path",
                     "description": ""
                 },
                 {
-                    "nombre": "String path",
+                    "nombre": "HttpContext context",
                     "description": ""
                 }
             ]

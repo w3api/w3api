@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "AsynchronousSocketChannel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "AsynchronousChannelProvider provider",
@@ -34,15 +34,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "? super A> handler",
+                    "description": ""
+                },
+                {
                     "nombre": "A attachment",
                     "description": ""
                 },
                 {
                     "nombre": "SocketAddress remote",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super A> handler",
                     "description": ""
                 }
             ]
@@ -82,11 +82,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CompletionHandler<Long",
-                    "description": ""
-                },
-                {
-                    "nombre": "CompletionHandler<Integer",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -94,15 +90,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
                     "nombre": "? super A> handler",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "CompletionHandler<Integer",
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "long timeout",
                     "description": ""
                 },
                 {
@@ -110,7 +110,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long timeout",
+                    "nombre": "CompletionHandler<Long",
                     "description": ""
                 }
             ]
@@ -120,11 +120,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T value",
+                    "nombre": "SocketOption<T> name",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketOption<T> name",
+                    "nombre": "T value",
                     "description": ""
                 }
             ]
@@ -142,11 +142,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "A attachment",
+                    "nombre": "ByteBuffer src",
                     "description": ""
                 },
                 {
-                    "nombre": "CompletionHandler<Long",
+                    "nombre": "A attachment",
                     "description": ""
                 },
                 {
@@ -154,19 +154,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CompletionHandler<Integer",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
                     "nombre": "TimeUnit unit",
-                    "description": ""
-                },
-                {
-                    "nombre": "ByteBuffer src",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -178,7 +170,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "CompletionHandler<Integer",
+                    "description": ""
+                },
+                {
                     "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "CompletionHandler<Long",
                     "description": ""
                 }
             ]

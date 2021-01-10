@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "HttpClient",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -60,11 +60,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "HttpResponse.BodyHandler<T> responseBodyHandler",
-                    "description": ""
-                },
-                {
-                    "nombre": "HttpRequest req",
+                    "nombre": "HttpResponse.MultiSubscriber<U",
                     "description": ""
                 },
                 {
@@ -72,7 +68,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "HttpResponse.MultiSubscriber<U",
+                    "nombre": "HttpResponse.BodyHandler<T> responseBodyHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "HttpRequest req",
                     "description": ""
                 }
             ]

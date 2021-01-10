@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "TimeZone",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Locale locale",
+                    "nombre": "boolean daylight",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean daylight",
+                    "nombre": "Locale locale",
                     "description": ""
                 },
                 {
@@ -58,15 +58,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int dayOfWeek",
-                    "description": ""
-                },
-                {
-                    "nombre": "int era",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
+                    "nombre": "int day",
                     "description": ""
                 },
                 {
@@ -74,15 +66,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int day",
+                    "nombre": "int dayOfWeek",
                     "description": ""
                 },
                 {
-                    "nombre": "long date",
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int era",
                     "description": ""
                 },
                 {
                     "nombre": "int milliseconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "long date",
                     "description": ""
                 }
             ]
@@ -96,11 +96,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ZoneId zoneId",
+                    "nombre": "String ID",
                     "description": ""
                 },
                 {
-                    "nombre": "String ID",
+                    "nombre": "ZoneId zoneId",
                     "description": ""
                 }
             ]

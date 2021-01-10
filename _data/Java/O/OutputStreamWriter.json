@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "OutputStreamWriter",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "CharsetEncoder enc",
-                    "description": ""
-                },
                 {
                     "nombre": "String charsetName",
                     "description": ""
                 },
                 {
                     "nombre": "OutputStream out",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharsetEncoder enc",
                     "description": ""
                 },
                 {
@@ -40,15 +40,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
-                    "description": ""
-                },
-                {
-                    "nombre": "String str",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
+                    "nombre": "char[] cbuf",
                     "description": ""
                 },
                 {
@@ -56,7 +48,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] cbuf",
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
                     "description": ""
                 }
             ]

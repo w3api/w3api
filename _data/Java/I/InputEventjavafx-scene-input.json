@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "InputEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "EventType<? extends InputEvent> eventType",
+                    "nombre": "Object source",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object source",
+                    "nombre": "EventType<? extends InputEvent> eventType",
                     "description": ""
                 }
             ]

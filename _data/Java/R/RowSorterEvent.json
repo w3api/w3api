@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "RowSorterEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "int[] previousRowIndexToModel",
                     "description": ""
                 },
                 {
-                    "nombre": "RowSorterEvent.Type type",
+                    "nombre": "RowSorter<?> source",
                     "description": ""
                 },
                 {
-                    "nombre": "RowSorter<?> source",
+                    "nombre": "RowSorterEvent.Type type",
                     "description": ""
                 }
             ]

@@ -116,7 +116,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "byte[] dst",
                     "description": ""
                 },
                 {
@@ -124,11 +124,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] dst",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -220,11 +220,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] src",
-                    "description": ""
-                },
-                {
-                    "nombre": "int index",
+                    "nombre": "byte b",
                     "description": ""
                 },
                 {
@@ -240,7 +236,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte b",
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] src",
                     "description": ""
                 }
             ]
@@ -264,11 +264,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double value",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "double value",
                     "description": ""
                 }
             ]
@@ -278,11 +278,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "float value",
                     "description": ""
                 },
                 {
-                    "nombre": "float value",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -306,11 +306,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "long value",
                     "description": ""
                 },
                 {
-                    "nombre": "long value",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -320,11 +320,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "short value",
                     "description": ""
                 },
                 {
-                    "nombre": "short value",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -342,7 +342,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -350,7 +350,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]

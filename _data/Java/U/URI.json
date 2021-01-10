@@ -5,22 +5,14 @@
     "constructores": [
         {
             "nombre": "URI",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "String str",
+                    "nombre": "String path",
                     "description": ""
                 },
                 {
-                    "nombre": "String ssp",
-                    "description": ""
-                },
-                {
-                    "nombre": "String host",
-                    "description": ""
-                },
-                {
-                    "nombre": "String authority",
+                    "nombre": "String query",
                     "description": ""
                 },
                 {
@@ -32,11 +24,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String ssp",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
                     "nombre": "int port",
                     "description": ""
                 },
                 {
-                    "nombre": "String query",
+                    "nombre": "String str",
                     "description": ""
                 },
                 {
@@ -44,7 +44,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String path",
+                    "nombre": "String authority",
                     "description": ""
                 }
             ]

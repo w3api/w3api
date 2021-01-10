@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DragSource",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -34,15 +34,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int actions",
-                    "description": ""
-                },
-                {
                     "nombre": "DragGestureListener dgl",
                     "description": ""
                 },
                 {
                     "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int actions",
                     "description": ""
                 }
             ]
@@ -52,15 +52,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int actions",
-                    "description": ""
-                },
-                {
                     "nombre": "DragGestureListener dgl",
                     "description": ""
                 },
                 {
                     "nombre": "Class<T> recognizerAbstractClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int actions",
                     "description": ""
                 },
                 {
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DragGestureEvent dgl",
+                    "nombre": "Transferable t",
                     "description": ""
                 },
                 {
-                    "nombre": "Cursor dragCursor",
+                    "nombre": "DragGestureEvent dgl",
                     "description": ""
                 },
                 {
@@ -86,15 +86,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "DragSourceListener dsl",
-                    "description": ""
-                },
-                {
                     "nombre": "Image dragImage",
                     "description": ""
                 },
                 {
-                    "nombre": "Transferable t",
+                    "nombre": "DragSourceListener dsl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Cursor dragCursor",
                     "description": ""
                 }
             ]
@@ -162,23 +162,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "FlavorMap flavorMap",
-                    "description": ""
-                },
-                {
-                    "nombre": "Cursor dragCursor",
-                    "description": ""
-                },
-                {
                     "nombre": "Point imageOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "DragSourceListener dsl",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point dragOffset",
                     "description": ""
                 },
                 {
@@ -187,6 +171,22 @@
                 },
                 {
                     "nombre": "Transferable transferable",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragSourceListener dsl",
+                    "description": ""
+                },
+                {
+                    "nombre": "Cursor dragCursor",
+                    "description": ""
+                },
+                {
+                    "nombre": "FlavorMap flavorMap",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point dragOffset",
                     "description": ""
                 }
             ]

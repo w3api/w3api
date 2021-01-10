@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "ResourceBundle.Control",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -86,11 +86,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String baseName",
+                    "nombre": "ResourceBundle bundle",
                     "description": ""
                 },
                 {
                     "nombre": "String format",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String baseName",
                     "description": ""
                 },
                 {
@@ -100,14 +108,6 @@
                 {
                     "nombre": "long loadTime",
                     "description": ""
-                },
-                {
-                    "nombre": "ResourceBundle bundle",
-                    "description": ""
-                },
-                {
-                    "nombre": "ClassLoader loader",
-                    "description": ""
                 }
             ]
         },
@@ -116,7 +116,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String baseName",
+                    "nombre": "boolean reload",
                     "description": ""
                 },
                 {
@@ -124,15 +124,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Locale locale",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean reload",
-                    "description": ""
-                },
-                {
                     "nombre": "ClassLoader loader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String baseName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
                     "description": ""
                 }
             ]
@@ -156,11 +156,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String bundleName",
+                    "nombre": "String suffix",
                     "description": ""
                 },
                 {
-                    "nombre": "String suffix",
+                    "nombre": "String bundleName",
                     "description": ""
                 }
             ]

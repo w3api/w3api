@@ -5,10 +5,18 @@
     "constructores": [
         {
             "nombre": "ColorConvertOp",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "RenderingHints hints",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace dstCspace",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace cspace",
                     "description": ""
                 },
                 {
@@ -17,14 +25,6 @@
                 },
                 {
                     "nombre": "ColorSpace srcCspace",
-                    "description": ""
-                },
-                {
-                    "nombre": "ColorSpace cspace",
-                    "description": ""
-                },
-                {
-                    "nombre": "ColorSpace dstCspace",
                     "description": ""
                 }
             ]
@@ -36,11 +36,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ColorModel destCM",
+                    "nombre": "BufferedImage src",
                     "description": ""
                 },
                 {
-                    "nombre": "BufferedImage src",
+                    "nombre": "ColorModel destCM",
                     "description": ""
                 }
             ]
@@ -60,7 +60,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "WritableRaster dest",
+                    "nombre": "Raster src",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage src",
                     "description": ""
                 },
                 {
@@ -68,11 +72,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Raster src",
-                    "description": ""
-                },
-                {
-                    "nombre": "BufferedImage src",
+                    "nombre": "WritableRaster dest",
                     "description": ""
                 }
             ]
@@ -82,11 +82,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Raster src",
+                    "nombre": "BufferedImage src",
                     "description": ""
                 },
                 {
-                    "nombre": "BufferedImage src",
+                    "nombre": "Raster src",
                     "description": ""
                 }
             ]
@@ -100,11 +100,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point2D srcPt",
+                    "nombre": "Point2D dstPt",
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D dstPt",
+                    "nombre": "Point2D srcPt",
                     "description": ""
                 }
             ]

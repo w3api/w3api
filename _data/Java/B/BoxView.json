@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "BoxView",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Element elem",
+                    "nombre": "int axis",
                     "description": ""
                 },
                 {
-                    "nombre": "int axis",
+                    "nombre": "Element elem",
                     "description": ""
                 }
             ]
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] spans",
+                    "nombre": "int targetSpan",
                     "description": ""
                 },
                 {
-                    "nombre": "int axis",
+                    "nombre": "int[] spans",
                     "description": ""
                 },
                 {
@@ -36,7 +36,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int targetSpan",
+                    "nombre": "int axis",
                     "description": ""
                 }
             ]
@@ -88,11 +88,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Rectangle alloc",
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle alloc",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int position",
+                    "nombre": "Position.Bias bias",
                     "description": ""
                 },
                 {
-                    "nombre": "Position.Bias bias",
+                    "nombre": "int position",
                     "description": ""
                 }
             ]
@@ -116,19 +116,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
-                    "description": ""
-                },
-                {
                     "nombre": "DocumentEvent e",
                     "description": ""
                 },
                 {
-                    "nombre": "DocumentEvent.ElementChange ec",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
                     "nombre": "ViewFactory f",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent.ElementChange ec",
                     "description": ""
                 }
             ]
@@ -238,11 +238,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "Rectangle alloc",
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle alloc",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -260,11 +260,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle innerAlloc",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "Rectangle innerAlloc",
                     "description": ""
                 },
                 {
@@ -282,11 +282,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle innerAlloc",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "Rectangle innerAlloc",
                     "description": ""
                 },
                 {
@@ -334,11 +334,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] spans",
+                    "nombre": "int targetSpan",
                     "description": ""
                 },
                 {
-                    "nombre": "int axis",
+                    "nombre": "int[] spans",
                     "description": ""
                 },
                 {
@@ -346,7 +346,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int targetSpan",
+                    "nombre": "int axis",
                     "description": ""
                 }
             ]
@@ -356,11 +356,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] spans",
+                    "nombre": "int targetSpan",
                     "description": ""
                 },
                 {
-                    "nombre": "int axis",
+                    "nombre": "int[] spans",
                     "description": ""
                 },
                 {
@@ -368,7 +368,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int targetSpan",
+                    "nombre": "int axis",
                     "description": ""
                 }
             ]
@@ -378,15 +378,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
                     "nombre": "Position.Bias b",
                     "description": ""
                 },
                 {
                     "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -410,11 +410,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Rectangle alloc",
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle alloc",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
@@ -446,7 +446,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "View[] elems",
                     "description": ""
                 },
                 {
@@ -454,7 +454,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "View[] elems",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -474,11 +474,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float width",
+                    "nombre": "float height",
                     "description": ""
                 },
                 {
-                    "nombre": "float height",
+                    "nombre": "float width",
                     "description": ""
                 }
             ]
@@ -492,7 +492,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "Position.Bias[] bias",
                     "description": ""
                 },
                 {
@@ -500,7 +500,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Position.Bias[] bias",
+                    "nombre": "float x",
                     "description": ""
                 }
             ]

@@ -5,16 +5,8 @@
     "constructores": [
         {
             "nombre": "BeanContextServicesSupport",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "boolean visible",
-                    "description": ""
-                },
-                {
-                    "nombre": "BeanContextServices peer",
-                    "description": ""
-                },
                 {
                     "nombre": "boolean dtime",
                     "description": ""
@@ -25,6 +17,14 @@
                 },
                 {
                     "nombre": "boolean dTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "BeanContextServices peer",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean visible",
                     "description": ""
                 }
             ]
@@ -50,11 +50,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BeanContextServiceProvider bcsp",
+                    "nombre": "Class<?> serviceClass",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?> serviceClass",
+                    "nombre": "BeanContextServiceProvider bcsp",
                     "description": ""
                 }
             ]
@@ -84,11 +84,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object child",
+                    "nombre": "BeanContextSupport.BCSChild bcsc",
                     "description": ""
                 },
                 {
-                    "nombre": "BeanContextSupport.BCSChild bcsc",
+                    "nombre": "Object child",
                     "description": ""
                 }
             ]
@@ -98,11 +98,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object peer",
+                    "nombre": "Object targetChild",
                     "description": ""
                 },
                 {
-                    "nombre": "Object targetChild",
+                    "nombre": "Object peer",
                     "description": ""
                 }
             ]
@@ -140,15 +140,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> serviceClass",
-                    "description": ""
-                },
-                {
                     "nombre": "BeanContextServiceRevokedEvent bcsre",
                     "description": ""
                 },
                 {
                     "nombre": "boolean revokeNow",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> serviceClass",
                     "description": ""
                 }
             ]
@@ -186,7 +186,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object requestor",
+                    "nombre": "BeanContextServiceRevokedListener bcsrl",
                     "description": ""
                 },
                 {
@@ -194,15 +194,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "BeanContextChild child",
+                    "description": ""
+                },
+                {
                     "nombre": "Object serviceSelector",
                     "description": ""
                 },
                 {
-                    "nombre": "BeanContextServiceRevokedListener bcsrl",
-                    "description": ""
-                },
-                {
-                    "nombre": "BeanContextChild child",
+                    "nombre": "Object requestor",
                     "description": ""
                 }
             ]
@@ -234,15 +234,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object service",
-                    "description": ""
-                },
-                {
                     "nombre": "BeanContextChild child",
                     "description": ""
                 },
                 {
                     "nombre": "Object requestor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object service",
                     "description": ""
                 }
             ]
@@ -262,7 +262,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BeanContextServiceProvider bcsp",
+                    "nombre": "boolean revokeCurrentServicesNow",
                     "description": ""
                 },
                 {
@@ -270,7 +270,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean revokeCurrentServicesNow",
+                    "nombre": "BeanContextServiceProvider bcsp",
                     "description": ""
                 }
             ]

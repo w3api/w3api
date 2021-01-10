@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "ConstantCallSite",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodHandle createTargetHook",
+                    "nombre": "MethodType targetType",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodType targetType",
+                    "nombre": "MethodHandle createTargetHook",
                     "description": ""
                 }
             ]

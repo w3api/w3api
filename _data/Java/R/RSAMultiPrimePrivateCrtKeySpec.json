@@ -5,26 +5,14 @@
     "constructores": [
         {
             "nombre": "RSAMultiPrimePrivateCrtKeySpec",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "BigInteger crtCoefficient",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger primeExponentQ",
-                    "description": ""
-                },
                 {
                     "nombre": "BigInteger publicExponent",
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger primeExponentP",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger primeP",
+                    "nombre": "RSAOtherPrimeInfo[] otherPrimeInfo",
                     "description": ""
                 },
                 {
@@ -32,15 +20,27 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger privateExponent",
-                    "description": ""
-                },
-                {
                     "nombre": "BigInteger primeQ",
                     "description": ""
                 },
                 {
-                    "nombre": "RSAOtherPrimeInfo[] otherPrimeInfo",
+                    "nombre": "BigInteger primeExponentP",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger primeExponentQ",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger primeP",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger privateExponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger crtCoefficient",
                     "description": ""
                 }
             ]

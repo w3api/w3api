@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "ComboBoxTreeCell",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "StringConverter<T> converter",
-                    "description": ""
-                },
                 {
                     "nombre": "ObservableList<T> items",
                     "description": ""
                 },
                 {
                     "nombre": "T... items",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringConverter<T> converter",
                     "description": ""
                 }
             ]
@@ -36,15 +36,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "StringConverter<T> converter",
-                    "description": ""
-                },
-                {
                     "nombre": "ObservableList<T> items",
                     "description": ""
                 },
                 {
                     "nombre": "T... items",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringConverter<T> converter",
                     "description": ""
                 }
             ]
@@ -86,11 +86,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean empty",
+                    "nombre": "T item",
                     "description": ""
                 },
                 {
-                    "nombre": "T item",
+                    "nombre": "boolean empty",
                     "description": ""
                 }
             ]

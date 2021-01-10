@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "ProgressMonitorInputStream",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                },
                 {
                     "nombre": "Component parentComponent",
                     "description": ""
                 },
                 {
                     "nombre": "Object message",
-                    "description": ""
-                },
-                {
-                    "nombre": "InputStream in",
                     "description": ""
                 }
             ]
@@ -36,7 +36,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "byte[] b",
                     "description": ""
                 },
                 {
@@ -44,7 +44,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] b",
+                    "nombre": "int off",
                     "description": ""
                 }
             ]

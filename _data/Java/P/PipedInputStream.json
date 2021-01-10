@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "PipedInputStream",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int pipeSize",
+                    "nombre": "PipedOutputStream src",
                     "description": ""
                 },
                 {
-                    "nombre": "PipedOutputStream src",
+                    "nombre": "int pipeSize",
                     "description": ""
                 }
             ]
@@ -42,7 +42,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "byte[] b",
                     "description": ""
                 },
                 {
@@ -50,7 +50,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] b",
+                    "nombre": "int off",
                     "description": ""
                 }
             ]

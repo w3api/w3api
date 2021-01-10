@@ -86,15 +86,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodHandle handler",
-                    "description": ""
-                },
-                {
                     "nombre": "MethodHandle target",
                     "description": ""
                 },
                 {
                     "nombre": "Class<? extends Throwable> exType",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle handler",
                     "description": ""
                 }
             ]
@@ -104,15 +104,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
                     "nombre": "MethodHandle target",
                     "description": ""
                 },
                 {
                     "nombre": "MethodHandle filter",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -136,7 +136,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodHandle start",
+                    "nombre": "MethodHandle end",
                     "description": ""
                 },
                 {
@@ -152,7 +152,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle end",
+                    "nombre": "MethodHandle start",
                     "description": ""
                 }
             ]
@@ -166,11 +166,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle body",
+                    "nombre": "MethodHandle init",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle init",
+                    "nombre": "MethodHandle body",
                     "description": ""
                 }
             ]
@@ -180,19 +180,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
                     "nombre": "Class<?>... valueTypes",
                     "description": ""
                 },
                 {
-                    "nombre": "List<Class<?>> valueTypes",
+                    "nombre": "MethodHandle target",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle target",
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<Class<?>> valueTypes",
                     "description": ""
                 }
             ]
@@ -244,11 +244,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodType newType",
+                    "nombre": "MethodHandle target",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle target",
+                    "nombre": "MethodType newType",
                     "description": ""
                 }
             ]
@@ -258,15 +258,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
                     "nombre": "MethodHandle target",
                     "description": ""
                 },
                 {
                     "nombre": "MethodHandle... filters",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -290,7 +290,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
+                    "nombre": "MethodHandle combiner",
                     "description": ""
                 },
                 {
@@ -298,7 +298,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle combiner",
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -336,7 +336,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
+                    "nombre": "MethodHandle target",
                     "description": ""
                 },
                 {
@@ -344,7 +344,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle target",
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -368,11 +368,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle body",
+                    "nombre": "MethodHandle init",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle init",
+                    "nombre": "MethodHandle body",
                     "description": ""
                 }
             ]
@@ -396,7 +396,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodType newType",
+                    "nombre": "int... reorder",
                     "description": ""
                 },
                 {
@@ -404,7 +404,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int... reorder",
+                    "nombre": "MethodType newType",
                     "description": ""
                 }
             ]
@@ -446,11 +446,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int leadingArgCount",
+                    "nombre": "MethodType type",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodType type",
+                    "nombre": "int leadingArgCount",
                     "description": ""
                 }
             ]
@@ -474,11 +474,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodHandle cleanup",
+                    "nombre": "MethodHandle target",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle target",
+                    "nombre": "MethodHandle cleanup",
                     "description": ""
                 }
             ]
@@ -488,11 +488,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "VarHandle.AccessMode accessMode",
+                    "nombre": "MethodType type",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodType type",
+                    "nombre": "VarHandle.AccessMode accessMode",
                     "description": ""
                 }
             ]
@@ -502,11 +502,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "VarHandle.AccessMode accessMode",
+                    "nombre": "MethodType type",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodType type",
+                    "nombre": "VarHandle.AccessMode accessMode",
                     "description": ""
                 }
             ]
@@ -520,11 +520,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle body",
+                    "nombre": "MethodHandle init",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle init",
+                    "nombre": "MethodHandle body",
                     "description": ""
                 }
             ]

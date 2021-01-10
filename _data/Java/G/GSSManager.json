@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "GSSManager",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -42,7 +42,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] interProcessToken",
+                    "nombre": "GSSName peer",
                     "description": ""
                 },
                 {
@@ -50,15 +50,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "GSSName peer",
+                    "nombre": "int lifetime",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] interProcessToken",
                     "description": ""
                 },
                 {
                     "nombre": "GSSCredential myCred",
-                    "description": ""
-                },
-                {
-                    "nombre": "int lifetime",
                     "description": ""
                 }
             ]
@@ -67,10 +67,6 @@
             "nombre": "createCredential",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "GSSName name",
-                    "description": ""
-                },
                 {
                     "nombre": "int usage",
                     "description": ""
@@ -86,6 +82,10 @@
                 {
                     "nombre": "int lifetime",
                     "description": ""
+                },
+                {
+                    "nombre": "GSSName name",
+                    "description": ""
                 }
             ]
         },
@@ -94,7 +94,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String nameStr",
+                    "nombre": "Oid mech",
                     "description": ""
                 },
                 {
@@ -106,7 +106,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Oid mech",
+                    "nombre": "String nameStr",
                     "description": ""
                 }
             ]

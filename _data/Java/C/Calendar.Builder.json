@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Calendar.Builder",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -42,7 +42,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int year",
+                    "nombre": "int dayOfMonth",
                     "description": ""
                 },
                 {
@@ -50,7 +50,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int dayOfMonth",
+                    "nombre": "int year",
                     "description": ""
                 }
             ]
@@ -104,11 +104,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int hourOfDay",
+                    "nombre": "int millis",
                     "description": ""
                 },
                 {
-                    "nombre": "int millis",
+                    "nombre": "int minute",
                     "description": ""
                 },
                 {
@@ -116,7 +116,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int minute",
+                    "nombre": "int hourOfDay",
                     "description": ""
                 }
             ]
@@ -136,11 +136,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int weekOfYear",
+                    "nombre": "int dayOfWeek",
                     "description": ""
                 },
                 {
-                    "nombre": "int dayOfWeek",
+                    "nombre": "int weekOfYear",
                     "description": ""
                 },
                 {
@@ -154,11 +154,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int minimalDaysInFirstWeek",
+                    "nombre": "int firstDayOfWeek",
                     "description": ""
                 },
                 {
-                    "nombre": "int firstDayOfWeek",
+                    "nombre": "int minimalDaysInFirstWeek",
                     "description": ""
                 }
             ]

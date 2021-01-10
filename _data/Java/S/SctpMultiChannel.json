@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "SctpMultiChannel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "SelectorProvider provider",
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SocketAddress local",
+                    "nombre": "int backlog",
                     "description": ""
                 },
                 {
-                    "nombre": "int backlog",
+                    "nombre": "SocketAddress local",
                     "description": ""
                 }
             ]
@@ -90,7 +90,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ByteBuffer buffer",
+                    "nombre": "NotificationHandler<T> handler",
                     "description": ""
                 },
                 {
@@ -98,7 +98,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "NotificationHandler<T> handler",
+                    "nombre": "ByteBuffer buffer",
                     "description": ""
                 }
             ]
@@ -108,11 +108,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ByteBuffer buffer",
+                    "nombre": "MessageInfo messageInfo",
                     "description": ""
                 },
                 {
-                    "nombre": "MessageInfo messageInfo",
+                    "nombre": "ByteBuffer buffer",
                     "description": ""
                 }
             ]
@@ -122,11 +122,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T value",
+                    "nombre": "Association association",
                     "description": ""
                 },
                 {
-                    "nombre": "Association association",
+                    "nombre": "T value",
                     "description": ""
                 },
                 {

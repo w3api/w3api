@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "XMLGregorianCalendar",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -196,7 +196,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int minute",
+                    "nombre": "int millisecond",
                     "description": ""
                 },
                 {
@@ -204,11 +204,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int millisecond",
+                    "nombre": "int hour",
                     "description": ""
                 },
                 {
-                    "nombre": "int hour",
+                    "nombre": "int minute",
                     "description": ""
                 },
                 {
@@ -232,11 +232,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int year",
+                    "nombre": "BigInteger year",
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger year",
+                    "nombre": "int year",
                     "description": ""
                 }
             ]
@@ -246,15 +246,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeZone timezone",
-                    "description": ""
-                },
-                {
                     "nombre": "Locale aLocale",
                     "description": ""
                 },
                 {
                     "nombre": "XMLGregorianCalendar defaults",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeZone timezone",
                     "description": ""
                 }
             ]

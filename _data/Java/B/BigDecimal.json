@@ -5,38 +5,14 @@
     "constructores": [
         {
             "nombre": "BigDecimal",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "char[] in",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger unscaledVal",
+                    "nombre": "double val",
                     "description": ""
                 },
                 {
                     "nombre": "BigInteger val",
-                    "description": ""
-                },
-                {
-                    "nombre": "MathContext mc",
-                    "description": ""
-                },
-                {
-                    "nombre": "long val",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
-                    "description": ""
-                },
-                {
-                    "nombre": "String val",
-                    "description": ""
-                },
-                {
-                    "nombre": "int scale",
                     "description": ""
                 },
                 {
@@ -48,7 +24,31 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double val",
+                    "nombre": "BigInteger unscaledVal",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scale",
+                    "description": ""
+                },
+                {
+                    "nombre": "MathContext mc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "long val",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] in",
+                    "description": ""
+                },
+                {
+                    "nombre": "String val",
                     "description": ""
                 }
             ]
@@ -98,6 +98,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "BigDecimal divisor",
+                    "description": ""
+                },
+                {
                     "nombre": "RoundingMode roundingMode",
                     "description": ""
                 },
@@ -112,10 +116,6 @@
                 {
                     "nombre": "int scale",
                     "description": ""
-                },
-                {
-                    "nombre": "BigDecimal divisor",
-                    "description": ""
                 }
             ]
         },
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MathContext mc",
+                    "nombre": "BigDecimal divisor",
                     "description": ""
                 },
                 {
-                    "nombre": "BigDecimal divisor",
+                    "nombre": "MathContext mc",
                     "description": ""
                 }
             ]
@@ -138,11 +138,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MathContext mc",
+                    "nombre": "BigDecimal divisor",
                     "description": ""
                 },
                 {
-                    "nombre": "BigDecimal divisor",
+                    "nombre": "MathContext mc",
                     "description": ""
                 }
             ]
@@ -230,11 +230,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MathContext mc",
+                    "nombre": "BigDecimal multiplicand",
                     "description": ""
                 },
                 {
-                    "nombre": "BigDecimal multiplicand",
+                    "nombre": "MathContext mc",
                     "description": ""
                 }
             ]
@@ -264,11 +264,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MathContext mc",
+                    "nombre": "int n",
                     "description": ""
                 },
                 {
-                    "nombre": "int n",
+                    "nombre": "MathContext mc",
                     "description": ""
                 }
             ]
@@ -282,11 +282,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MathContext mc",
+                    "nombre": "BigDecimal divisor",
                     "description": ""
                 },
                 {
-                    "nombre": "BigDecimal divisor",
+                    "nombre": "MathContext mc",
                     "description": ""
                 }
             ]
@@ -320,11 +320,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int roundingMode",
+                    "nombre": "int newScale",
                     "description": ""
                 },
                 {
-                    "nombre": "int newScale",
+                    "nombre": "int roundingMode",
                     "description": ""
                 },
                 {
@@ -360,11 +360,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MathContext mc",
+                    "nombre": "BigDecimal subtrahend",
                     "description": ""
                 },
                 {
-                    "nombre": "BigDecimal subtrahend",
+                    "nombre": "MathContext mc",
                     "description": ""
                 }
             ]
@@ -406,15 +406,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int scale",
-                    "description": ""
-                },
-                {
                     "nombre": "long val",
                     "description": ""
                 },
                 {
                     "nombre": "double val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scale",
                     "description": ""
                 }
             ]

@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "Timer",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean isDaemon",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "boolean isDaemon",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimerTask task",
+                    "nombre": "long period",
                     "description": ""
                 },
                 {
-                    "nombre": "long delay",
+                    "nombre": "TimerTask task",
                     "description": ""
                 },
                 {
@@ -44,11 +44,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long period",
+                    "nombre": "Date time",
                     "description": ""
                 },
                 {
-                    "nombre": "Date time",
+                    "nombre": "long delay",
                     "description": ""
                 }
             ]

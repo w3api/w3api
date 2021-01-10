@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean lockedMonitors",
+                    "nombre": "int maxDepth",
                     "description": ""
                 },
                 {
-                    "nombre": "int maxDepth",
+                    "nombre": "boolean lockedMonitors",
                     "description": ""
                 },
                 {
@@ -68,7 +68,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean lockedMonitors",
+                    "nombre": "long id",
                     "description": ""
                 },
                 {
@@ -76,15 +76,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long[] ids",
-                    "description": ""
-                },
-                {
-                    "nombre": "long id",
+                    "nombre": "boolean lockedMonitors",
                     "description": ""
                 },
                 {
                     "nombre": "boolean lockedSynchronizers",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] ids",
                     "description": ""
                 }
             ]

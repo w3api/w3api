@@ -5,22 +5,10 @@
     "constructores": [
         {
             "nombre": "AudioFormat",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean signed",
-                    "description": ""
-                },
-                {
-                    "nombre": "int frameSize",
-                    "description": ""
-                },
-                {
-                    "nombre": "float frameRate",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object> properties",
+                    "nombre": "boolean bigEndian",
                     "description": ""
                 },
                 {
@@ -28,11 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Map<String",
-                    "description": ""
-                },
-                {
-                    "nombre": "int sampleSizeInBits",
+                    "nombre": "boolean signed",
                     "description": ""
                 },
                 {
@@ -40,11 +24,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "int frameSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object> properties",
+                    "description": ""
+                },
+                {
                     "nombre": "int channels",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean bigEndian",
+                    "nombre": "int sampleSizeInBits",
+                    "description": ""
+                },
+                {
+                    "nombre": "float frameRate",
                     "description": ""
                 }
             ]

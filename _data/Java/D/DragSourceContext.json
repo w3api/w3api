@@ -5,14 +5,18 @@
     "constructores": [
         {
             "nombre": "DragSourceContext",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "DragGestureEvent trigger",
                     "description": ""
                 },
                 {
-                    "nombre": "Cursor dragCursor",
+                    "nombre": "Transferable t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image dragImage",
                     "description": ""
                 },
                 {
@@ -24,11 +28,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Image dragImage",
-                    "description": ""
-                },
-                {
-                    "nombre": "Transferable t",
+                    "nombre": "Cursor dragCursor",
                     "description": ""
                 }
             ]
@@ -158,11 +158,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int targetAct",
+                    "nombre": "int sourceAct",
                     "description": ""
                 },
                 {
-                    "nombre": "int sourceAct",
+                    "nombre": "int targetAct",
                     "description": ""
                 },
                 {

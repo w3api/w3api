@@ -58,11 +58,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAmount amount",
+                    "nombre": "long amountToSubtract",
                     "description": ""
                 },
                 {
-                    "nombre": "long amountToSubtract",
+                    "nombre": "TemporalAmount amount",
                     "description": ""
                 }
             ]
@@ -72,11 +72,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Clock clock",
+                    "nombre": "ZoneId zone",
                     "description": ""
                 },
                 {
-                    "nombre": "ZoneId zone",
+                    "nombre": "Clock clock",
                     "description": ""
                 }
             ]
@@ -86,15 +86,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JapaneseEra era",
-                    "description": ""
-                },
-                {
                     "nombre": "int month",
-                    "description": ""
-                },
-                {
-                    "nombre": "int yearOfEra",
                     "description": ""
                 },
                 {
@@ -103,6 +95,14 @@
                 },
                 {
                     "nombre": "int prolepticYear",
+                    "description": ""
+                },
+                {
+                    "nombre": "JapaneseEra era",
+                    "description": ""
+                },
+                {
+                    "nombre": "int yearOfEra",
                     "description": ""
                 }
             ]
@@ -116,11 +116,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long amountToAdd",
+                    "nombre": "TemporalAmount amount",
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAmount amount",
+                    "nombre": "long amountToAdd",
                     "description": ""
                 }
             ]
@@ -148,15 +148,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long value",
-                    "description": ""
-                },
-                {
                     "nombre": "TemporalAdjuster adjuster",
                     "description": ""
                 },
                 {
                     "nombre": "TemporalField field",
+                    "description": ""
+                },
+                {
+                    "nombre": "long value",
                     "description": ""
                 }
             ]

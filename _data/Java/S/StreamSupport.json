@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Spliterator.OfDouble spliterator",
+                    "nombre": "Supplier<? extends Spliterator.OfDouble> supplier",
                     "description": ""
                 },
                 {
@@ -16,11 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Supplier<? extends Spliterator.OfDouble> supplier",
+                    "nombre": "boolean parallel",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean parallel",
+                    "nombre": "Spliterator.OfDouble spliterator",
                     "description": ""
                 }
             ]
@@ -30,19 +30,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<? extends Spliterator.OfInt> supplier",
-                    "description": ""
-                },
-                {
                     "nombre": "int characteristics",
                     "description": ""
                 },
                 {
-                    "nombre": "Spliterator.OfInt spliterator",
+                    "nombre": "Supplier<? extends Spliterator.OfInt> supplier",
                     "description": ""
                 },
                 {
                     "nombre": "boolean parallel",
+                    "description": ""
+                },
+                {
+                    "nombre": "Spliterator.OfInt spliterator",
                     "description": ""
                 }
             ]
@@ -60,11 +60,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Spliterator.OfLong spliterator",
+                    "nombre": "boolean parallel",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean parallel",
+                    "nombre": "Spliterator.OfLong spliterator",
                     "description": ""
                 }
             ]

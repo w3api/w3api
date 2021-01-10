@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "PageAttributes",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "int[] printerResolution",
-                    "description": ""
-                },
-                {
-                    "nombre": "PageAttributes.MediaType media",
                     "description": ""
                 },
                 {
@@ -20,19 +16,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PageAttributes.OrientationRequestedType orientationRequested",
-                    "description": ""
-                },
-                {
                     "nombre": "PageAttributes obj",
                     "description": ""
                 },
                 {
-                    "nombre": "PageAttributes.OriginType origin",
+                    "nombre": "PageAttributes.ColorType color",
                     "description": ""
                 },
                 {
-                    "nombre": "PageAttributes.ColorType color",
+                    "nombre": "PageAttributes.OrientationRequestedType orientationRequested",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageAttributes.MediaType media",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageAttributes.OriginType origin",
                     "description": ""
                 }
             ]
@@ -148,11 +148,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int printerResolution",
+                    "nombre": "int[] printerResolution",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] printerResolution",
+                    "nombre": "int printerResolution",
                     "description": ""
                 }
             ]
@@ -166,11 +166,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PageAttributes.PrintQualityType printQuality",
+                    "nombre": "int printQuality",
                     "description": ""
                 },
                 {
-                    "nombre": "int printQuality",
+                    "nombre": "PageAttributes.PrintQualityType printQuality",
                     "description": ""
                 }
             ]

@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "XYChart",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Axis<Y> yAxis",
+                    "nombre": "Axis<X> xAxis",
                     "description": ""
                 },
                 {
-                    "nombre": "Axis<X> xAxis",
+                    "nombre": "Axis<Y> yAxis",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Y> item",
+                    "nombre": "XYChart.Series<X",
                     "description": ""
                 },
                 {
-                    "nombre": "Y> series",
+                    "nombre": "Y> item",
                     "description": ""
                 },
                 {
@@ -90,7 +90,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "XYChart.Series<X",
+                    "nombre": "Y> series",
                     "description": ""
                 }
             ]
@@ -118,15 +118,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Y> series",
-                    "description": ""
-                },
-                {
                     "nombre": "XYChart.Data<X",
                     "description": ""
                 },
                 {
                     "nombre": "XYChart.Series<X",
+                    "description": ""
+                },
+                {
+                    "nombre": "Y> series",
                     "description": ""
                 }
             ]
@@ -194,11 +194,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Y> series",
+                    "nombre": "XYChart.Series<X",
                     "description": ""
                 },
                 {
-                    "nombre": "XYChart.Series<X",
+                    "nombre": "Y> series",
                     "description": ""
                 }
             ]
@@ -264,15 +264,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Y> series",
-                    "description": ""
-                },
-                {
                     "nombre": "XYChart.Data<X",
                     "description": ""
                 },
                 {
                     "nombre": "XYChart.Series<X",
+                    "description": ""
+                },
+                {
+                    "nombre": "Y> series",
                     "description": ""
                 }
             ]
@@ -282,11 +282,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Y> series",
+                    "nombre": "XYChart.Series<X",
                     "description": ""
                 },
                 {
-                    "nombre": "XYChart.Series<X",
+                    "nombre": "Y> series",
                     "description": ""
                 }
             ]
@@ -300,11 +300,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Y> series",
+                    "nombre": "XYChart.Series<X",
                     "description": ""
                 },
                 {
-                    "nombre": "XYChart.Series<X",
+                    "nombre": "Y> series",
                     "description": ""
                 }
             ]
@@ -324,11 +324,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Y> series",
+                    "nombre": "XYChart.Series<X",
                     "description": ""
                 },
                 {
-                    "nombre": "XYChart.Series<X",
+                    "nombre": "Y> series",
                     "description": ""
                 }
             ]
@@ -362,11 +362,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "XYChart.Data<X",
+                    "nombre": "Object value",
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
+                    "nombre": "XYChart.Data<X",
                     "description": ""
                 }
             ]
@@ -398,11 +398,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Y value",
+                    "nombre": "XYChart.Data<X",
                     "description": ""
                 },
                 {
-                    "nombre": "XYChart.Data<X",
+                    "nombre": "Y value",
                     "description": ""
                 }
             ]

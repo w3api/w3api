@@ -52,15 +52,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Class<A> type",
+                    "description": ""
+                },
+                {
                     "nombre": "A adapter",
                     "description": ""
                 },
                 {
                     "nombre": "XmlAdapter adapter",
-                    "description": ""
-                },
-                {
-                    "nombre": "Class<A> type",
                     "description": ""
                 }
             ]
@@ -134,23 +134,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<T> declaredType",
-                    "description": ""
-                },
-                {
-                    "nombre": "XMLStreamReader reader",
-                    "description": ""
-                },
-                {
-                    "nombre": "Source source",
-                    "description": ""
-                },
-                {
-                    "nombre": "URL url",
+                    "nombre": "XMLEventReader reader",
                     "description": ""
                 },
                 {
                     "nombre": "File f",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                },
+                {
+                    "nombre": "Source source",
                     "description": ""
                 },
                 {
@@ -162,15 +158,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<T> declaredType",
+                    "description": ""
+                },
+                {
                     "nombre": "InputSource source",
                     "description": ""
                 },
                 {
-                    "nombre": "XMLEventReader reader",
-                    "description": ""
-                },
-                {
-                    "nombre": "Reader reader",
+                    "nombre": "XMLStreamReader reader",
                     "description": ""
                 }
             ]

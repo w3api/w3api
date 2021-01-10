@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "Subject",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Set<?> pubCredentials",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean readOnly",
+                    "nombre": "Set<?> privCredentials",
                     "description": ""
                 },
                 {
-                    "nombre": "Set<?> privCredentials",
+                    "nombre": "boolean readOnly",
                     "description": ""
                 },
                 {
@@ -36,11 +36,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PrivilegedExceptionAction<T> action",
+                    "nombre": "Subject subject",
                     "description": ""
                 },
                 {
-                    "nombre": "Subject subject",
+                    "nombre": "PrivilegedExceptionAction<T> action",
                     "description": ""
                 }
             ]
@@ -50,19 +50,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AccessControlContext acc",
-                    "description": ""
-                },
-                {
                     "nombre": "PrivilegedAction<T> action",
                     "description": ""
                 },
                 {
-                    "nombre": "PrivilegedExceptionAction<T> action",
+                    "nombre": "Subject subject",
                     "description": ""
                 },
                 {
-                    "nombre": "Subject subject",
+                    "nombre": "AccessControlContext acc",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrivilegedExceptionAction<T> action",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "X509CRL",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -40,11 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "X509Certificate certificate",
+                    "nombre": "BigInteger serialNumber",
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger serialNumber",
+                    "nombre": "X509Certificate certificate",
                     "description": ""
                 }
             ]
@@ -94,11 +94,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String sigProvider",
+                    "nombre": "PublicKey key",
                     "description": ""
                 },
                 {
-                    "nombre": "PublicKey key",
+                    "nombre": "String sigProvider",
                     "description": ""
                 }
             ]

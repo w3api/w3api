@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "SubmissionPublisher",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "int maxBufferCapacity",
@@ -16,11 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? super Throwable> handler",
+                    "nombre": "Executor executor",
                     "description": ""
                 },
                 {
-                    "nombre": "Executor executor",
+                    "nombre": "? super Throwable> handler",
                     "description": ""
                 }
             ]
@@ -102,15 +102,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? super T> onDrop",
-                    "description": ""
-                },
-                {
                     "nombre": "T item",
-                    "description": ""
-                },
-                {
-                    "nombre": "BiPredicate<Flow.Subscriber<? super T>",
                     "description": ""
                 },
                 {
@@ -118,7 +110,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "? super T> onDrop",
+                    "description": ""
+                },
+                {
                     "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiPredicate<Flow.Subscriber<? super T>",
                     "description": ""
                 }
             ]

@@ -32,11 +32,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? super T> accumulator",
-                    "description": ""
-                },
-                {
-                    "nombre": "R> collector",
+                    "nombre": "BiConsumer<R",
                     "description": ""
                 },
                 {
@@ -52,11 +48,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiConsumer<R",
+                    "nombre": "Supplier<R> supplier",
                     "description": ""
                 },
                 {
-                    "nombre": "Supplier<R> supplier",
+                    "nombre": "R> collector",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super T> accumulator",
                     "description": ""
                 }
             ]
@@ -66,11 +66,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Stream<? extends T> a",
+                    "nombre": "Stream<? extends T> b",
                     "description": ""
                 },
                 {
-                    "nombre": "Stream<? extends T> b",
+                    "nombre": "Stream<? extends T> a",
                     "description": ""
                 }
             ]
@@ -134,11 +134,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Function<? super T",
+                    "nombre": "? extends DoubleStream> mapper",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends DoubleStream> mapper",
+                    "nombre": "Function<? super T",
                     "description": ""
                 }
             ]
@@ -206,10 +206,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Predicate<? super T> hasNext",
-                    "description": ""
-                },
-                {
                     "nombre": "UnaryOperator<T> next",
                     "description": ""
                 },
@@ -219,6 +215,10 @@
                 },
                 {
                     "nombre": "UnaryOperator<T> f",
+                    "description": ""
+                },
+                {
+                    "nombre": "Predicate<? super T> hasNext",
                     "description": ""
                 }
             ]
@@ -312,11 +312,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T t",
+                    "nombre": "T... values",
                     "description": ""
                 },
                 {
-                    "nombre": "T... values",
+                    "nombre": "T t",
                     "description": ""
                 }
             ]
@@ -346,7 +346,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T identity",
+                    "nombre": "U identity",
                     "description": ""
                 },
                 {
@@ -354,15 +354,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BinaryOperator<U> combiner",
-                    "description": ""
-                },
-                {
-                    "nombre": "U identity",
-                    "description": ""
-                },
-                {
                     "nombre": "? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<T> accumulator",
                     "description": ""
                 },
                 {
@@ -370,7 +366,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BinaryOperator<T> accumulator",
+                    "nombre": "T identity",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<U> combiner",
                     "description": ""
                 }
             ]

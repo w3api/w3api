@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "TrustManagerFactory",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "Provider provider",
-                    "description": ""
-                },
                 {
                     "nombre": "String algorithm",
                     "description": ""
                 },
                 {
                     "nombre": "TrustManagerFactorySpi factorySpi",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
                     "description": ""
                 }
             ]
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "KeyStore ks",
+                    "nombre": "ManagerFactoryParameters spec",
                     "description": ""
                 },
                 {
-                    "nombre": "ManagerFactoryParameters spec",
+                    "nombre": "KeyStore ks",
                     "description": ""
                 }
             ]

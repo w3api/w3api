@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "Polygon",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "int[] ypoints",
+                    "description": ""
+                },
                 {
                     "nombre": "int npoints",
                     "description": ""
                 },
                 {
                     "nombre": "int[] xpoints",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] ypoints",
                     "description": ""
                 }
             ]
@@ -42,27 +42,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D r",
-                    "description": ""
-                },
-                {
-                    "nombre": "double w",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "double h",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point2D p",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y",
                     "description": ""
                 },
                 {
@@ -70,7 +50,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
                     "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -124,7 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D r",
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -132,15 +136,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double h",
-                    "description": ""
-                },
-                {
                     "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "Rectangle2D r",
                     "description": ""
                 }
             ]
@@ -158,11 +158,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int deltaY",
+                    "nombre": "int deltaX",
                     "description": ""
                 },
                 {
-                    "nombre": "int deltaX",
+                    "nombre": "int deltaY",
                     "description": ""
                 }
             ]

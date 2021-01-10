@@ -5,10 +5,22 @@
     "constructores": [
         {
             "nombre": "ForkJoinPool",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "ForkJoinPool.ForkJoinWorkerThreadFactory factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "long keepAliveTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maximumPoolSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean asyncMode",
                     "description": ""
                 },
                 {
@@ -16,7 +28,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int maximumPoolSize",
+                    "nombre": "Predicate<? super ForkJoinPool> saturate",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minimumRunnable",
+                    "description": ""
+                },
+                {
+                    "nombre": "Thread.UncaughtExceptionHandler handler",
                     "description": ""
                 },
                 {
@@ -25,26 +45,6 @@
                 },
                 {
                     "nombre": "int corePoolSize",
-                    "description": ""
-                },
-                {
-                    "nombre": "Thread.UncaughtExceptionHandler handler",
-                    "description": ""
-                },
-                {
-                    "nombre": "int minimumRunnable",
-                    "description": ""
-                },
-                {
-                    "nombre": "long keepAliveTime",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean asyncMode",
-                    "description": ""
-                },
-                {
-                    "nombre": "Predicate<? super ForkJoinPool> saturate",
                     "description": ""
                 }
             ]
@@ -56,11 +56,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long timeout",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 },
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long timeout",
                     "description": ""
                 }
             ]
@@ -70,11 +70,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long timeout",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 },
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long timeout",
                     "description": ""
                 }
             ]
@@ -222,11 +222,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Callable<T> task",
+                    "nombre": "ForkJoinTask<T> task",
                     "description": ""
                 },
                 {
-                    "nombre": "ForkJoinTask<T> task",
+                    "nombre": "Callable<T> task",
                     "description": ""
                 },
                 {

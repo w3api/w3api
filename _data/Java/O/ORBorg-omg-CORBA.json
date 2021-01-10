@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "ORB",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "String id",
                     "description": ""
                 }
             ]
@@ -38,7 +38,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
+                    "nombre": "TypeCode original_type",
                     "description": ""
                 },
                 {
@@ -46,7 +46,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TypeCode original_type",
+                    "nombre": "String id",
                     "description": ""
                 }
             ]
@@ -60,11 +60,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "TypeCode element_type",
                     "description": ""
                 },
                 {
-                    "nombre": "TypeCode element_type",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -148,7 +148,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
@@ -156,7 +156,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "String id",
                     "description": ""
                 }
             ]
@@ -174,11 +174,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "String id",
                     "description": ""
                 },
                 {
@@ -206,11 +206,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "String id",
                     "description": ""
                 }
             ]
@@ -234,11 +234,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int flags",
+                    "nombre": "String s",
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "int flags",
                     "description": ""
                 }
             ]
@@ -248,11 +248,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "String id",
                     "description": ""
                 }
             ]
@@ -276,11 +276,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int type",
+                    "nombre": "Any val",
                     "description": ""
                 },
                 {
-                    "nombre": "Any val",
+                    "nombre": "int type",
                     "description": ""
                 }
             ]
@@ -290,11 +290,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int bound",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int bound",
                     "description": ""
                 }
             ]
@@ -314,11 +314,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int bound",
+                    "nombre": "TypeCode element_type",
                     "description": ""
                 },
                 {
-                    "nombre": "TypeCode element_type",
+                    "nombre": "int bound",
                     "description": ""
                 }
             ]
@@ -338,11 +338,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "String id",
                     "description": ""
                 },
                 {
@@ -356,10 +356,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
-                    "description": ""
-                },
-                {
                     "nombre": "UnionMember[] members",
                     "description": ""
                 },
@@ -370,6 +366,10 @@
                 {
                     "nombre": "TypeCode discriminator_type",
                     "description": ""
+                },
+                {
+                    "nombre": "String id",
+                    "description": ""
                 }
             ]
         },
@@ -378,15 +378,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
                     "nombre": "String id",
                     "description": ""
                 },
                 {
                     "nombre": "TypeCode boxed_type",
-                    "description": ""
-                },
-                {
-                    "nombre": "String name",
                     "description": ""
                 }
             ]
@@ -400,7 +400,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ValueMember[] members",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
@@ -408,7 +408,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "ValueMember[] members",
                     "description": ""
                 },
                 {
@@ -468,11 +468,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ServiceInformationHolder service_info",
+                    "nombre": "short service_type",
                     "description": ""
                 },
                 {
-                    "nombre": "short service_type",
+                    "nombre": "ServiceInformationHolder service_info",
                     "description": ""
                 }
             ]
@@ -482,7 +482,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String[] args",
+                    "nombre": "Properties props",
                     "description": ""
                 },
                 {
@@ -490,7 +490,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Properties props",
+                    "nombre": "String[] args",
                     "description": ""
                 }
             ]
@@ -556,7 +556,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String[] args",
+                    "nombre": "Properties props",
                     "description": ""
                 },
                 {
@@ -564,7 +564,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Properties props",
+                    "nombre": "String[] args",
                     "description": ""
                 }
             ]

@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "AlgorithmParameterGenerator",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "Provider provider",
-                    "description": ""
-                },
                 {
                     "nombre": "String algorithm",
                     "description": ""
                 },
                 {
                     "nombre": "AlgorithmParameterGeneratorSpi paramGenSpi",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
                     "description": ""
                 }
             ]
@@ -62,11 +62,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "SecureRandom random",
+                    "nombre": "int size",
                     "description": ""
                 },
                 {
-                    "nombre": "int size",
+                    "nombre": "SecureRandom random",
                     "description": ""
                 }
             ]

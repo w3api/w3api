@@ -8,6 +8,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
                     "nombre": "? super V",
                     "description": ""
                 },
@@ -17,10 +21,6 @@
                 },
                 {
                     "nombre": "BiFunction<? super K",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 }
             ]
@@ -34,11 +34,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Function<? super K",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "Function<? super K",
                     "description": ""
                 }
             ]
@@ -47,6 +47,10 @@
             "nombre": "computeIfPresent",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
                 {
                     "nombre": "? super V",
                     "description": ""
@@ -57,10 +61,6 @@
                 },
                 {
                     "nombre": "BiFunction<? super K",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 }
             ]
@@ -98,11 +98,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
-                    "description": ""
-                },
-                {
-                    "nombre": "BiFunction<? super V",
+                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 },
                 {
@@ -110,11 +106,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? extends V> remappingFunction",
+                    "nombre": "BiFunction<? super V",
                     "description": ""
                 },
                 {
                     "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "V value",
                     "description": ""
                 }
             ]
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 }
             ]
@@ -138,11 +138,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object value",
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
+                    "nombre": "Object key",
                     "description": ""
                 }
             ]
@@ -152,7 +152,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
+                    "nombre": "V newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V oldValue",
                     "description": ""
                 },
                 {
@@ -160,11 +164,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "V oldValue",
+                    "nombre": "V value",
                     "description": ""
                 }
             ]
@@ -178,11 +178,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "? extends V> function",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends V> function",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 }
             ]

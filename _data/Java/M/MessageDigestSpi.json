@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "MessageDigestSpi",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,7 +18,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] buf",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -26,7 +26,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "byte[] buf",
                     "description": ""
                 }
             ]
@@ -48,11 +48,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] input",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
+                    "nombre": "byte input",
                     "description": ""
                 },
                 {
@@ -60,7 +56,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte input",
+                    "nombre": "byte[] input",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
                     "description": ""
                 }
             ]

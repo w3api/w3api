@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "ByteLookupTable",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] data",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "byte[] data",
                     "description": ""
                 }
             ]
@@ -32,15 +32,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "byte[] dst",
+                    "description": ""
+                },
+                {
                     "nombre": "int[] dst",
                     "description": ""
                 },
                 {
                     "nombre": "int[] src",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] dst",
                     "description": ""
                 },
                 {

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "ImageWriter",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "ImageWriterSpi originatingProvider",
@@ -226,6 +226,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "List<? extends BufferedImage> thumbnails",
+                    "description": ""
+                },
+                {
                     "nombre": "int imageIndex",
                     "description": ""
                 },
@@ -234,15 +238,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ImageWriteParam param",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
-                    "description": ""
-                },
-                {
-                    "nombre": "ImageTypeSpecifier imageType",
                     "description": ""
                 },
                 {
@@ -250,7 +246,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends BufferedImage> thumbnails",
+                    "nombre": "ImageTypeSpecifier imageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriteParam param",
                     "description": ""
                 }
             ]
@@ -260,11 +260,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int imageIndex",
+                    "nombre": "Rectangle region",
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle region",
+                    "nombre": "int imageIndex",
                     "description": ""
                 }
             ]
@@ -274,19 +274,11 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "List<? extends BufferedImage> thumbnails",
+                    "description": ""
+                },
+                {
                     "nombre": "IIOMetadata imageMetadata",
-                    "description": ""
-                },
-                {
-                    "nombre": "ImageWriteParam param",
-                    "description": ""
-                },
-                {
-                    "nombre": "int height",
-                    "description": ""
-                },
-                {
-                    "nombre": "ImageTypeSpecifier imageType",
                     "description": ""
                 },
                 {
@@ -294,11 +286,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends BufferedImage> thumbnails",
+                    "nombre": "ImageTypeSpecifier imageType",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageWriteParam param",
                     "description": ""
                 }
             ]
@@ -356,11 +356,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int imageIndex",
+                    "nombre": "int thumbnailIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int thumbnailIndex",
+                    "nombre": "int imageIndex",
                     "description": ""
                 }
             ]
@@ -370,11 +370,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int imageIndex",
+                    "nombre": "String baseName",
                     "description": ""
                 },
                 {
-                    "nombre": "String baseName",
+                    "nombre": "String warning",
                     "description": ""
                 },
                 {
@@ -382,7 +382,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String warning",
+                    "nombre": "int imageIndex",
                     "description": ""
                 }
             ]
@@ -500,11 +500,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "IIOMetadata streamMetadata",
+                    "nombre": "RenderedImage image",
                     "description": ""
                 },
                 {
-                    "nombre": "RenderedImage image",
+                    "nombre": "IIOMetadata streamMetadata",
                     "description": ""
                 },
                 {
@@ -522,15 +522,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "ImageWriteParam param",
+                    "description": ""
+                },
+                {
                     "nombre": "int imageIndex",
                     "description": ""
                 },
                 {
                     "nombre": "IIOImage image",
-                    "description": ""
-                },
-                {
-                    "nombre": "ImageWriteParam param",
                     "description": ""
                 }
             ]

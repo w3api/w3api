@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "GlyphJustificationInfo",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean shrinkAbsorb",
+                    "nombre": "int shrinkPriority",
+                    "description": ""
+                },
+                {
+                    "nombre": "float shrinkRightLimit",
                     "description": ""
                 },
                 {
@@ -16,11 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float growLeftLimit",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean growAbsorb",
+                    "nombre": "boolean shrinkAbsorb",
                     "description": ""
                 },
                 {
@@ -28,19 +28,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int shrinkPriority",
-                    "description": ""
-                },
-                {
-                    "nombre": "int growPriority",
-                    "description": ""
-                },
-                {
                     "nombre": "float weight",
                     "description": ""
                 },
                 {
-                    "nombre": "float shrinkRightLimit",
+                    "nombre": "boolean growAbsorb",
+                    "description": ""
+                },
+                {
+                    "nombre": "float growLeftLimit",
+                    "description": ""
+                },
+                {
+                    "nombre": "int growPriority",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "GlyphVector",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -42,7 +42,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int numEntries",
+                    "nombre": "int[] codeReturn",
                     "description": ""
                 },
                 {
@@ -50,7 +50,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] codeReturn",
+                    "nombre": "int numEntries",
                     "description": ""
                 }
             ]
@@ -70,7 +70,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int numEntries",
+                    "nombre": "int[] codeReturn",
                     "description": ""
                 },
                 {
@@ -78,7 +78,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] codeReturn",
+                    "nombre": "int numEntries",
                     "description": ""
                 }
             ]
@@ -118,11 +118,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float x",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
-                    "nombre": "float y",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -136,11 +136,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
-                    "nombre": "float y",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -148,7 +148,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -168,15 +168,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int numEntries",
-                    "description": ""
-                },
-                {
                     "nombre": "int beginGlyphIndex",
                     "description": ""
                 },
                 {
                     "nombre": "float[] positionReturn",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numEntries",
                     "description": ""
                 }
             ]
@@ -218,11 +218,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float x",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
-                    "nombre": "float y",
+                    "nombre": "float x",
                     "description": ""
                 }
             ]
@@ -232,11 +232,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float x",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
-                    "nombre": "float y",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {

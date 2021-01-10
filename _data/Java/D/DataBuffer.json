@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "DataBuffer",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int size",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] offsets",
-                    "description": ""
-                },
-                {
                     "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int size",
                     "description": ""
                 },
                 {
@@ -24,7 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int dataType",
+                    "nombre": "int[] offsets",
                     "description": ""
                 }
             ]
@@ -50,11 +50,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int bank",
                     "description": ""
                 },
                 {
-                    "nombre": "int bank",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -64,11 +64,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int bank",
                     "description": ""
                 },
                 {
-                    "nombre": "int bank",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -78,11 +78,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int bank",
                     "description": ""
                 },
                 {
-                    "nombre": "int bank",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -108,7 +108,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int val",
                     "description": ""
                 },
                 {
@@ -116,7 +116,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int val",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -126,15 +126,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
                     "nombre": "int bank",
                     "description": ""
                 },
                 {
                     "nombre": "double val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -144,7 +144,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int bank",
                     "description": ""
                 },
                 {
@@ -152,7 +152,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int bank",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]

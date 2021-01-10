@@ -5,34 +5,10 @@
     "constructores": [
         {
             "nombre": "PixelGrabber",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
-                    "description": ""
-                },
-                {
-                    "nombre": "int scansize",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "ImageProducer ip",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean forceRGB",
-                    "description": ""
-                },
-                {
-                    "nombre": "Image img",
-                    "description": ""
-                },
-                {
-                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -40,7 +16,31 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int scansize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean forceRGB",
+                    "description": ""
+                },
+                {
                     "nombre": "int[] pix",
+                    "description": ""
+                },
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -142,23 +142,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] pixels",
-                    "description": ""
-                },
-                {
                     "nombre": "int srcW",
-                    "description": ""
-                },
-                {
-                    "nombre": "int srcH",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] pixels",
-                    "description": ""
-                },
-                {
-                    "nombre": "ColorModel model",
                     "description": ""
                 },
                 {
@@ -168,6 +152,22 @@
                 {
                     "nombre": "int srcScan",
                     "description": ""
+                },
+                {
+                    "nombre": "int[] pixels",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] pixels",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcH",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorModel model",
+                    "description": ""
                 }
             ]
         },
@@ -176,11 +176,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Hashtable<?",
+                    "nombre": "?> props",
                     "description": ""
                 },
                 {
-                    "nombre": "?> props",
+                    "nombre": "Hashtable<?",
                     "description": ""
                 }
             ]

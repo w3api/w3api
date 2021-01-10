@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "RelationService",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "boolean immediatePurgeFlag",
@@ -54,11 +54,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Role role",
+                    "nombre": "Boolean initFlag",
                     "description": ""
                 },
                 {
-                    "nombre": "Boolean initFlag",
+                    "nombre": "Role role",
                     "description": ""
                 },
                 {
@@ -104,7 +104,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObjectName mbeanName",
+                    "nombre": "String roleName",
                     "description": ""
                 },
                 {
@@ -112,7 +112,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String roleName",
+                    "nombre": "ObjectName mbeanName",
                     "description": ""
                 }
             ]
@@ -122,7 +122,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObjectName mbeanName",
+                    "nombre": "String roleName",
                     "description": ""
                 },
                 {
@@ -130,7 +130,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String roleName",
+                    "nombre": "ObjectName mbeanName",
                     "description": ""
                 }
             ]
@@ -224,11 +224,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String roleInfoName",
+                    "nombre": "String relationTypeName",
                     "description": ""
                 },
                 {
-                    "nombre": "String relationTypeName",
+                    "nombre": "String roleInfoName",
                     "description": ""
                 }
             ]
@@ -362,11 +362,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "List<ObjectName> oldValue",
+                    "nombre": "Role newRole",
                     "description": ""
                 },
                 {
-                    "nombre": "Role newRole",
+                    "nombre": "List<ObjectName> oldValue",
                     "description": ""
                 }
             ]
@@ -418,11 +418,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "List<ObjectName> oldValue",
+                    "nombre": "Role newRole",
                     "description": ""
                 },
                 {
-                    "nombre": "Role newRole",
+                    "nombre": "List<ObjectName> oldValue",
                     "description": ""
                 }
             ]

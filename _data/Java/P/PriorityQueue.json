@@ -5,8 +5,12 @@
     "constructores": [
         {
             "nombre": "PriorityQueue",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "PriorityQueue<? extends E> c",
+                    "description": ""
+                },
                 {
                     "nombre": "Comparator<? super E> comparator",
                     "description": ""
@@ -17,10 +21,6 @@
                 },
                 {
                     "nombre": "int initialCapacity",
-                    "description": ""
-                },
-                {
-                    "nombre": "PriorityQueue<? extends E> c",
                     "description": ""
                 },
                 {

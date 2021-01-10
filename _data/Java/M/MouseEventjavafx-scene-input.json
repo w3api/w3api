@@ -5,22 +5,10 @@
     "constructores": [
         {
             "nombre": "MouseEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean shiftDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object source",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean synthesized",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventType<? extends MouseEvent> eventType",
+                    "nombre": "double screenY",
                     "description": ""
                 },
                 {
@@ -28,31 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean altDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "double screenX",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean primaryButtonDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean controlDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean middleButtonDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "int clickCount",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y",
+                    "nombre": "boolean stillSincePress",
                     "description": ""
                 },
                 {
@@ -60,23 +24,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MouseButton button",
+                    "nombre": "boolean shiftDown",
                     "description": ""
                 },
                 {
-                    "nombre": "double screenY",
+                    "nombre": "boolean middleButtonDown",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean stillSincePress",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean metaDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "PickResult pickResult",
+                    "nombre": "boolean synthesized",
                     "description": ""
                 },
                 {
@@ -84,7 +40,51 @@
                     "description": ""
                 },
                 {
+                    "nombre": "PickResult pickResult",
+                    "description": ""
+                },
+                {
                     "nombre": "EventTarget target",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean controlDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean altDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean primaryButtonDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "int clickCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<? extends MouseEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean metaDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenX",
+                    "description": ""
+                },
+                {
+                    "nombre": "MouseButton button",
                     "description": ""
                 }
             ]
@@ -114,18 +114,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MouseEvent e",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventType<MouseDragEvent> type",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object source",
-                    "description": ""
-                },
-                {
                     "nombre": "Object gestureSource",
                     "description": ""
                 },
@@ -135,6 +123,18 @@
                 },
                 {
                     "nombre": "EventTarget target",
+                    "description": ""
+                },
+                {
+                    "nombre": "MouseEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<MouseDragEvent> type",
                     "description": ""
                 }
             ]

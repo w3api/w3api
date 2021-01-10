@@ -5,22 +5,22 @@
     "constructores": [
         {
             "nombre": "GuardedInvocation",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "SwitchPoint switchPoint",
-                    "description": ""
-                },
                 {
                     "nombre": "Class<? extends Throwable> exception",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle guard",
+                    "nombre": "SwitchPoint[] switchPoints",
                     "description": ""
                 },
                 {
-                    "nombre": "SwitchPoint[] switchPoints",
+                    "nombre": "SwitchPoint switchPoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandle guard",
                     "description": ""
                 },
                 {
@@ -46,7 +46,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodType newType",
+                    "nombre": "CallSiteDescriptor desc",
                     "description": ""
                 },
                 {
@@ -54,7 +54,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CallSiteDescriptor desc",
+                    "nombre": "MethodType newType",
                     "description": ""
                 }
             ]
@@ -64,11 +64,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodType newType",
+                    "nombre": "LinkerServices linkerServices",
                     "description": ""
                 },
                 {
-                    "nombre": "LinkerServices linkerServices",
+                    "nombre": "MethodType newType",
                     "description": ""
                 }
             ]
@@ -78,11 +78,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodHandle switchpointFallback",
+                    "nombre": "MethodHandle guardFallback",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle catchFallback",
+                    "nombre": "MethodHandle switchpointFallback",
                     "description": ""
                 },
                 {
@@ -90,7 +90,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle guardFallback",
+                    "nombre": "MethodHandle catchFallback",
                     "description": ""
                 }
             ]
@@ -100,11 +100,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
+                    "nombre": "Class<?>... valueTypes",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?>... valueTypes",
+                    "nombre": "int pos",
                     "description": ""
                 },
                 {
@@ -118,11 +118,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
+                    "nombre": "MethodHandle... filters",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle... filters",
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -152,11 +152,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodHandle newGuard",
+                    "nombre": "MethodHandle newInvocation",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandle newInvocation",
+                    "nombre": "MethodHandle newGuard",
                     "description": ""
                 }
             ]

@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "ListSelectionEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int firstIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isAdjusting",
+                    "nombre": "Object source",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object source",
+                    "nombre": "boolean isAdjusting",
+                    "description": ""
+                },
+                {
+                    "nombre": "int firstIndex",
                     "description": ""
                 }
             ]

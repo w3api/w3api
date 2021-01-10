@@ -5,30 +5,10 @@
     "constructores": [
         {
             "nombre": "KerberosTicket",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Date authTime",
-                    "description": ""
-                },
-                {
-                    "nombre": "Date startTime",
-                    "description": ""
-                },
-                {
-                    "nombre": "InetAddress[] clientAddresses",
-                    "description": ""
-                },
-                {
                     "nombre": "KerberosPrincipal client",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean[] flags",
-                    "description": ""
-                },
-                {
-                    "nombre": "int keyType",
                     "description": ""
                 },
                 {
@@ -36,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "KerberosPrincipal server",
+                    "nombre": "int keyType",
                     "description": ""
                 },
                 {
@@ -44,11 +24,31 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] asn1Encoding",
+                    "nombre": "KerberosPrincipal server",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] sessionKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean[] flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date startTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date authTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress[] clientAddresses",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] asn1Encoding",
                     "description": ""
                 }
             ]

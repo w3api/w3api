@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "FilterWriter",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Writer out",
@@ -24,15 +24,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
-                    "description": ""
-                },
-                {
-                    "nombre": "String str",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
+                    "nombre": "char[] cbuf",
                     "description": ""
                 },
                 {
@@ -40,7 +32,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] cbuf",
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
                     "description": ""
                 }
             ]

@@ -12,11 +12,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Set<AclEntryFlag> flags",
+                    "nombre": "AclEntryFlag... flags",
                     "description": ""
                 },
                 {
-                    "nombre": "AclEntryFlag... flags",
+                    "nombre": "Set<AclEntryFlag> flags",
                     "description": ""
                 }
             ]
@@ -26,11 +26,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Set<AclEntryPermission> perms",
+                    "nombre": "AclEntryPermission... perms",
                     "description": ""
                 },
                 {
-                    "nombre": "AclEntryPermission... perms",
+                    "nombre": "Set<AclEntryPermission> perms",
                     "description": ""
                 }
             ]

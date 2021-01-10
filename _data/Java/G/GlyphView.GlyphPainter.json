@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "GlyphView.GlyphPainter",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -32,11 +32,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int p0",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "int p0",
                     "description": ""
                 }
             ]
@@ -66,6 +66,18 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
                     "nombre": "Shape a",
                     "description": ""
                 },
@@ -76,18 +88,6 @@
                 {
                     "nombre": "Position.Bias b",
                     "description": ""
-                },
-                {
-                    "nombre": "Position.Bias[] biasRet",
-                    "description": ""
-                },
-                {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
-                    "nombre": "int direction",
-                    "description": ""
                 }
             ]
         },
@@ -96,15 +96,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int p1",
-                    "description": ""
-                },
-                {
                     "nombre": "GlyphView v",
                     "description": ""
                 },
                 {
                     "nombre": "int p0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p1",
                     "description": ""
                 }
             ]
@@ -114,7 +114,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
                     "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
                     "description": ""
                 },
                 {
@@ -122,15 +130,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int p1",
-                    "description": ""
-                },
-                {
                     "nombre": "GlyphView v",
-                    "description": ""
-                },
-                {
-                    "nombre": "int p0",
                     "description": ""
                 }
             ]
@@ -140,7 +140,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
+                    "nombre": "Position.Bias bias",
                     "description": ""
                 },
                 {
@@ -152,7 +152,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Position.Bias bias",
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -161,6 +161,14 @@
             "nombre": "paint",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
+                    "description": ""
+                },
                 {
                     "nombre": "Graphics g",
                     "description": ""
@@ -171,14 +179,6 @@
                 },
                 {
                     "nombre": "GlyphView v",
-                    "description": ""
-                },
-                {
-                    "nombre": "int p1",
-                    "description": ""
-                },
-                {
-                    "nombre": "int p0",
                     "description": ""
                 }
             ]
@@ -200,11 +200,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Shape a",
+                    "nombre": "GlyphView v",
                     "description": ""
                 },
                 {
-                    "nombre": "GlyphView v",
+                    "nombre": "Shape a",
                     "description": ""
                 }
             ]

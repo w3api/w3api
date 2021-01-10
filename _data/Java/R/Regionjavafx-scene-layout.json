@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Region",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -186,7 +186,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "VPos valignment",
+                    "nombre": "double areaBaselineOffset",
                     "description": ""
                 },
                 {
@@ -198,7 +198,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double areaY",
+                    "nombre": "Insets margin",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
@@ -206,15 +210,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double areaBaselineOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isSnapToPixel",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean fillHeight",
+                    "nombre": "boolean fillWidth",
                     "description": ""
                 },
                 {
@@ -222,15 +218,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean fillWidth",
+                    "nombre": "double areaY",
                     "description": ""
                 },
                 {
-                    "nombre": "Insets margin",
+                    "nombre": "boolean fillHeight",
                     "description": ""
                 },
                 {
-                    "nombre": "Node child",
+                    "nombre": "boolean isSnapToPixel",
+                    "description": ""
+                },
+                {
+                    "nombre": "VPos valignment",
                     "description": ""
                 }
             ]
@@ -304,7 +304,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "VPos valignment",
+                    "nombre": "double areaBaselineOffset",
                     "description": ""
                 },
                 {
@@ -316,7 +316,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double areaY",
+                    "nombre": "Insets margin",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
@@ -324,7 +328,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double areaBaselineOffset",
+                    "nombre": "double areaWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "double areaY",
                     "description": ""
                 },
                 {
@@ -332,15 +340,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double areaWidth",
-                    "description": ""
-                },
-                {
-                    "nombre": "Insets margin",
-                    "description": ""
-                },
-                {
-                    "nombre": "Node child",
+                    "nombre": "VPos valignment",
                     "description": ""
                 }
             ]
@@ -378,11 +378,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double width",
+                    "nombre": "double height",
                     "description": ""
                 },
                 {
-                    "nombre": "double height",
+                    "nombre": "double width",
                     "description": ""
                 }
             ]
@@ -456,11 +456,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double maxWidth",
+                    "nombre": "double maxHeight",
                     "description": ""
                 },
                 {
-                    "nombre": "double maxHeight",
+                    "nombre": "double maxWidth",
                     "description": ""
                 }
             ]
@@ -490,11 +490,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double minHeight",
+                    "nombre": "double minWidth",
                     "description": ""
                 },
                 {
-                    "nombre": "double minWidth",
+                    "nombre": "double minHeight",
                     "description": ""
                 }
             ]
@@ -544,11 +544,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double prefHeight",
+                    "nombre": "double prefWidth",
                     "description": ""
                 },
                 {
-                    "nombre": "double prefWidth",
+                    "nombre": "double prefHeight",
                     "description": ""
                 }
             ]

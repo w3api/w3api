@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "MBeanServerInvocationHandler",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "boolean isMXBean",
                     "description": ""
                 },
                 {
-                    "nombre": "ObjectName objectName",
+                    "nombre": "MBeanServerConnection connection",
                     "description": ""
                 },
                 {
-                    "nombre": "MBeanServerConnection connection",
+                    "nombre": "ObjectName objectName",
                     "description": ""
                 }
             ]
@@ -40,19 +40,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean notificationBroadcaster",
-                    "description": ""
-                },
-                {
-                    "nombre": "ObjectName objectName",
-                    "description": ""
-                },
-                {
                     "nombre": "Class<T> interfaceClass",
                     "description": ""
                 },
                 {
                     "nombre": "MBeanServerConnection connection",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean notificationBroadcaster",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName objectName",
                     "description": ""
                 }
             ]

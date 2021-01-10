@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "AsynchronousChannelProvider",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,7 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ExecutorService executor",
+                    "nombre": "int initialSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "ThreadFactory threadFactory",
                     "description": ""
                 },
                 {
@@ -22,11 +26,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int initialSize",
-                    "description": ""
-                },
-                {
-                    "nombre": "ThreadFactory threadFactory",
+                    "nombre": "ExecutorService executor",
                     "description": ""
                 }
             ]

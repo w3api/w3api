@@ -5,22 +5,10 @@
     "constructores": [
         {
             "nombre": "TreeSelectionEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "TreePath path",
-                    "description": ""
-                },
-                {
-                    "nombre": "TreePath newLeadSelectionPath",
-                    "description": ""
-                },
-                {
-                    "nombre": "TreePath oldLeadSelectionPath",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean[] areNew",
                     "description": ""
                 },
                 {
@@ -28,11 +16,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "boolean isNew",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath oldLeadSelectionPath",
+                    "description": ""
+                },
+                {
                     "nombre": "Object source",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isNew",
+                    "nombre": "TreePath newLeadSelectionPath",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean[] areNew",
                     "description": ""
                 }
             ]
@@ -70,11 +70,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "TreePath path",
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "LayoutStyle",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int position",
+                    "nombre": "JComponent component",
                     "description": ""
                 },
                 {
-                    "nombre": "JComponent component",
+                    "nombre": "int position",
                     "description": ""
                 },
                 {
@@ -36,11 +36,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JComponent component1",
+                    "nombre": "LayoutStyle.ComponentPlacement type",
                     "description": ""
                 },
                 {
-                    "nombre": "LayoutStyle.ComponentPlacement type",
+                    "nombre": "JComponent component2",
+                    "description": ""
+                },
+                {
+                    "nombre": "JComponent component1",
                     "description": ""
                 },
                 {
@@ -49,10 +53,6 @@
                 },
                 {
                     "nombre": "Container parent",
-                    "description": ""
-                },
-                {
-                    "nombre": "JComponent component2",
                     "description": ""
                 }
             ]

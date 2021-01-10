@@ -32,7 +32,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String> executionControlParameters",
+                    "nombre": "String executionControlSpec",
                     "description": ""
                 },
                 {
@@ -40,7 +40,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String executionControlSpec",
+                    "nombre": "String> executionControlParameters",
                     "description": ""
                 },
                 {
@@ -68,15 +68,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "BiFunction<Snippet",
+                    "description": ""
+                },
+                {
                     "nombre": "Integer",
                     "description": ""
                 },
                 {
                     "nombre": "String> generator",
-                    "description": ""
-                },
-                {
-                    "nombre": "BiFunction<Snippet",
                     "description": ""
                 }
             ]

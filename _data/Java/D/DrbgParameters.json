@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DrbgParameters.Capability capability",
+                    "nombre": "byte[] personalizationString",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] personalizationString",
+                    "nombre": "DrbgParameters.Capability capability",
                     "description": ""
                 }
             ]
@@ -26,15 +26,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "byte[] additionalInput",
+                    "description": ""
+                },
+                {
                     "nombre": "int strength",
                     "description": ""
                 },
                 {
                     "nombre": "boolean predictionResistance",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] additionalInput",
                     "description": ""
                 }
             ]
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean predictionResistance",
+                    "nombre": "byte[] additionalInput",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] additionalInput",
+                    "nombre": "boolean predictionResistance",
                     "description": ""
                 }
             ]

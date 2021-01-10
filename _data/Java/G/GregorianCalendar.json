@@ -5,18 +5,10 @@
     "constructores": [
         {
             "nombre": "GregorianCalendar",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Locale aLocale",
-                    "description": ""
-                },
-                {
-                    "nombre": "int minute",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
+                    "nombre": "TimeZone zone",
                     "description": ""
                 },
                 {
@@ -24,19 +16,27 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TimeZone zone",
-                    "description": ""
-                },
-                {
                     "nombre": "int dayOfMonth",
                     "description": ""
                 },
                 {
-                    "nombre": "int hourOfDay",
+                    "nombre": "Locale aLocale",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
                     "description": ""
                 },
                 {
                     "nombre": "int second",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hourOfDay",
                     "description": ""
                 }
             ]
@@ -188,11 +188,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean up",
+                    "nombre": "int field",
                     "description": ""
                 },
                 {
-                    "nombre": "int field",
+                    "nombre": "boolean up",
                     "description": ""
                 }
             ]
@@ -212,11 +212,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int weekOfYear",
+                    "nombre": "int dayOfWeek",
                     "description": ""
                 },
                 {
-                    "nombre": "int dayOfWeek",
+                    "nombre": "int weekOfYear",
                     "description": ""
                 },
                 {

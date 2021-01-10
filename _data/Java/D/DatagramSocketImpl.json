@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DatagramSocketImpl",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InetAddress laddr",
+                    "nombre": "int lport",
                     "description": ""
                 },
                 {
-                    "nombre": "int lport",
+                    "nombre": "InetAddress laddr",
                     "description": ""
                 }
             ]
@@ -168,11 +168,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T value",
+                    "nombre": "SocketOption<T> name",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketOption<T> name",
+                    "nombre": "T value",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "AudioFileWriter",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AudioInputStream stream",
+                    "nombre": "AudioFileFormat.Type fileType",
                     "description": ""
                 },
                 {
-                    "nombre": "AudioFileFormat.Type fileType",
+                    "nombre": "AudioInputStream stream",
                     "description": ""
                 }
             ]
@@ -38,19 +38,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AudioInputStream stream",
-                    "description": ""
-                },
-                {
                     "nombre": "AudioFileFormat.Type fileType",
                     "description": ""
                 },
                 {
-                    "nombre": "File out",
+                    "nombre": "AudioInputStream stream",
                     "description": ""
                 },
                 {
                     "nombre": "OutputStream out",
+                    "description": ""
+                },
+                {
+                    "nombre": "File out",
                     "description": ""
                 }
             ]

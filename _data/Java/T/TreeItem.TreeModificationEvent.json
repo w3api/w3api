@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "TreeItem.TreeModificationEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "T newValue",
@@ -20,7 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends TreeItem<T>> added",
+                    "nombre": "EventType<? extends Event> eventType",
                     "description": ""
                 },
                 {
@@ -28,7 +28,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "EventType<? extends Event> eventType",
+                    "nombre": "List<? extends TreeItem<T>> added",
                     "description": ""
                 }
             ]

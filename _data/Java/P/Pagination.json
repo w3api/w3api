@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "Pagination",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int pageCount",
+                    "nombre": "int pageIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int pageIndex",
+                    "nombre": "int pageCount",
                     "description": ""
                 }
             ]
@@ -94,11 +94,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Node> value",
+                    "nombre": "Callback<Integer",
                     "description": ""
                 },
                 {
-                    "nombre": "Callback<Integer",
+                    "nombre": "Node> value",
                     "description": ""
                 }
             ]

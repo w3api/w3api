@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "PackedColorModel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] colorMaskArray",
+                    "nombre": "int bmask",
                     "description": ""
                 },
                 {
-                    "nombre": "ColorSpace space",
+                    "nombre": "int gmask",
                     "description": ""
                 },
                 {
@@ -24,23 +24,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int[] colorMaskArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int alphaMask",
+                    "description": ""
+                },
+                {
                     "nombre": "int amask",
-                    "description": ""
-                },
-                {
-                    "nombre": "int gmask",
-                    "description": ""
-                },
-                {
-                    "nombre": "int trans",
-                    "description": ""
-                },
-                {
-                    "nombre": "int bmask",
-                    "description": ""
-                },
-                {
-                    "nombre": "int transferType",
                     "description": ""
                 },
                 {
@@ -48,7 +40,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int alphaMask",
+                    "nombre": "int trans",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace space",
+                    "description": ""
+                },
+                {
+                    "nombre": "int transferType",
                     "description": ""
                 }
             ]

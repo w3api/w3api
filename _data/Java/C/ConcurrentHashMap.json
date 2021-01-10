@@ -5,18 +5,14 @@
     "constructores": [
         {
             "nombre": "ConcurrentHashMap",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "float loadFactor",
                     "description": ""
                 },
                 {
-                    "nombre": "int concurrencyLevel",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends V> m",
+                    "nombre": "Map<? extends K",
                     "description": ""
                 },
                 {
@@ -24,7 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Map<? extends K",
+                    "nombre": "? extends V> m",
+                    "description": ""
+                },
+                {
+                    "nombre": "int concurrencyLevel",
                     "description": ""
                 }
             ]
@@ -40,6 +40,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
                     "nombre": "? super V",
                     "description": ""
                 },
@@ -49,10 +53,6 @@
                 },
                 {
                     "nombre": "BiFunction<? super K",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 }
             ]
@@ -66,11 +66,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Function<? super K",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "Function<? super K",
                     "description": ""
                 }
             ]
@@ -79,6 +79,10 @@
             "nombre": "computeIfPresent",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
                 {
                     "nombre": "? super V",
                     "description": ""
@@ -89,10 +93,6 @@
                 },
                 {
                     "nombre": "BiFunction<? super K",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 }
             ]
@@ -150,6 +150,18 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "? super V",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super K",
+                    "description": ""
+                },
+                {
+                    "nombre": "Consumer<? super U> action",
+                    "description": ""
+                },
+                {
                     "nombre": "? super V> action",
                     "description": ""
                 },
@@ -158,23 +170,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Consumer<? super U> action",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super V",
-                    "description": ""
-                },
-                {
-                    "nombre": "BiConsumer<? super K",
-                    "description": ""
-                },
-                {
                     "nombre": "? extends U> transformer",
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "BiConsumer<? super K",
                     "description": ""
                 }
             ]
@@ -184,11 +184,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V>",
-                    "description": ""
-                },
-                {
-                    "nombre": "long parallelismThreshold",
+                    "nombre": "Function<Map.Entry<K",
                     "description": ""
                 },
                 {
@@ -196,15 +192,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Function<Map.Entry<K",
-                    "description": ""
-                },
-                {
                     "nombre": "V>> action",
                     "description": ""
                 },
                 {
+                    "nombre": "long parallelismThreshold",
+                    "description": ""
+                },
+                {
                     "nombre": "? extends U> transformer",
+                    "description": ""
+                },
+                {
+                    "nombre": "V>",
                     "description": ""
                 },
                 {
@@ -222,15 +222,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
                     "nombre": "Consumer<? super U> action",
                     "description": ""
                 },
                 {
                     "nombre": "Consumer<? super K> action",
+                    "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 },
                 {
@@ -244,10 +244,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
                     "nombre": "Consumer<? super V> action",
                     "description": ""
                 },
@@ -256,11 +252,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Function<? super V",
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 },
                 {
                     "nombre": "? extends U> transformer",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<? super V",
                     "description": ""
                 }
             ]
@@ -316,11 +316,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
-                    "description": ""
-                },
-                {
-                    "nombre": "BiFunction<? super V",
+                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 },
                 {
@@ -328,11 +324,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? extends V> remappingFunction",
+                    "nombre": "BiFunction<? super V",
                     "description": ""
                 },
                 {
                     "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "V value",
                     "description": ""
                 }
             ]
@@ -352,11 +352,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 }
             ]
@@ -380,11 +380,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 }
             ]
@@ -394,7 +394,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
+                    "nombre": "? super V",
                     "description": ""
                 },
                 {
@@ -402,7 +402,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? super V",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -410,7 +410,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super U",
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 },
                 {
@@ -418,7 +418,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "BiFunction<? super U",
                     "description": ""
                 }
             ]
@@ -428,34 +428,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BiFunction<Map.Entry<K",
-                    "description": ""
-                },
-                {
-                    "nombre": "V>> reducer",
-                    "description": ""
-                },
-                {
-                    "nombre": "V>",
-                    "description": ""
-                },
-                {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super U",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends Map.Entry<K",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends U> reducer",
-                    "description": ""
-                },
-                {
                     "nombre": "Function<Map.Entry<K",
                     "description": ""
                 },
@@ -464,11 +436,39 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super U",
+                    "nombre": "V>> reducer",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends Map.Entry<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super U",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> reducer",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<Map.Entry<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 },
                 {
                     "nombre": "? extends U> transformer",
+                    "description": ""
+                },
+                {
+                    "nombre": "V>",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super U",
                     "description": ""
                 }
             ]
@@ -478,15 +478,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
-                    "nombre": "ToDoubleFunction<Map.Entry<K",
-                    "description": ""
-                },
-                {
-                    "nombre": "DoubleBinaryOperator reducer",
+                    "nombre": "double basis",
                     "description": ""
                 },
                 {
@@ -494,7 +486,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double basis",
+                    "nombre": "ToDoubleFunction<Map.Entry<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
+                    "description": ""
+                },
+                {
+                    "nombre": "DoubleBinaryOperator reducer",
                     "description": ""
                 }
             ]
@@ -503,14 +503,6 @@
             "nombre": "reduceEntriesToInt",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
-                    "nombre": "V>> transformer",
-                    "description": ""
-                },
                 {
                     "nombre": "int basis",
                     "description": ""
@@ -522,6 +514,14 @@
                 {
                     "nombre": "ToIntFunction<Map.Entry<K",
                     "description": ""
+                },
+                {
+                    "nombre": "V>> transformer",
+                    "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
+                    "description": ""
                 }
             ]
         },
@@ -530,11 +530,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
-                    "nombre": "ToLongFunction<Map.Entry<K",
+                    "nombre": "long basis",
                     "description": ""
                 },
                 {
@@ -542,11 +538,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long basis",
+                    "nombre": "LongBinaryOperator reducer",
                     "description": ""
                 },
                 {
-                    "nombre": "LongBinaryOperator reducer",
+                    "nombre": "long parallelismThreshold",
+                    "description": ""
+                },
+                {
+                    "nombre": "ToLongFunction<Map.Entry<K",
                     "description": ""
                 }
             ]
@@ -556,23 +556,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Function<? super K",
-                    "description": ""
-                },
-                {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super U",
-                    "description": ""
-                },
-                {
                     "nombre": "? extends K> reducer",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends U> reducer",
                     "description": ""
                 },
                 {
@@ -580,7 +564,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super U",
+                    "nombre": "Function<? super K",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super U",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<? super K",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> reducer",
+                    "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 },
                 {
@@ -588,7 +588,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "BiFunction<? super U",
                     "description": ""
                 }
             ]
@@ -598,15 +598,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
                     "nombre": "double basis",
                     "description": ""
                 },
                 {
                     "nombre": "DoubleBinaryOperator reducer",
+                    "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 },
                 {
@@ -620,11 +620,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
-                    "nombre": "ToIntFunction<? super K> transformer",
+                    "nombre": "int basis",
                     "description": ""
                 },
                 {
@@ -632,7 +628,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int basis",
+                    "nombre": "long parallelismThreshold",
+                    "description": ""
+                },
+                {
+                    "nombre": "ToIntFunction<? super K> transformer",
                     "description": ""
                 }
             ]
@@ -642,7 +642,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
+                    "nombre": "ToLongFunction<? super K> transformer",
                     "description": ""
                 },
                 {
@@ -650,7 +650,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ToLongFunction<? super K> transformer",
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 },
                 {
@@ -664,7 +664,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
+                    "nombre": "double basis",
+                    "description": ""
+                },
+                {
+                    "nombre": "ToDoubleBiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -672,15 +676,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double basis",
-                    "description": ""
-                },
-                {
                     "nombre": "? super V> transformer",
                     "description": ""
                 },
                 {
-                    "nombre": "ToDoubleBiFunction<? super K",
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 }
             ]
@@ -689,14 +689,6 @@
             "nombre": "reduceToInt",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "ToIntBiFunction<? super K",
-                    "description": ""
-                },
-                {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
                 {
                     "nombre": "int basis",
                     "description": ""
@@ -708,6 +700,14 @@
                 {
                     "nombre": "? super V> transformer",
                     "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
+                    "description": ""
+                },
+                {
+                    "nombre": "ToIntBiFunction<? super K",
+                    "description": ""
                 }
             ]
         },
@@ -716,7 +716,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
+                    "nombre": "ToLongBiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -724,7 +724,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ToLongBiFunction<? super K",
+                    "nombre": "LongBinaryOperator reducer",
                     "description": ""
                 },
                 {
@@ -732,7 +732,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "LongBinaryOperator reducer",
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 }
             ]
@@ -742,7 +742,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
+                    "nombre": "? super V",
                     "description": ""
                 },
                 {
@@ -754,11 +754,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? super V",
+                    "nombre": "? extends V> reducer",
                     "description": ""
                 },
                 {
                     "nombre": "? extends U> reducer",
+                    "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> transformer",
                     "description": ""
                 },
                 {
@@ -768,14 +776,6 @@
                 {
                     "nombre": "BiFunction<? super U",
                     "description": ""
-                },
-                {
-                    "nombre": "? extends V> reducer",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends U> transformer",
-                    "description": ""
                 }
             ]
         },
@@ -784,7 +784,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
+                    "nombre": "ToDoubleFunction<? super V> transformer",
                     "description": ""
                 },
                 {
@@ -792,11 +792,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "DoubleBinaryOperator reducer",
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 },
                 {
-                    "nombre": "ToDoubleFunction<? super V> transformer",
+                    "nombre": "DoubleBinaryOperator reducer",
                     "description": ""
                 }
             ]
@@ -806,7 +806,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
+                    "nombre": "ToIntFunction<? super V> transformer",
+                    "description": ""
+                },
+                {
+                    "nombre": "int basis",
                     "description": ""
                 },
                 {
@@ -814,11 +818,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ToIntFunction<? super V> transformer",
-                    "description": ""
-                },
-                {
-                    "nombre": "int basis",
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 }
             ]
@@ -828,15 +828,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
                     "nombre": "long basis",
                     "description": ""
                 },
                 {
                     "nombre": "LongBinaryOperator reducer",
+                    "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 },
                 {
@@ -850,11 +850,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object value",
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
+                    "nombre": "Object key",
                     "description": ""
                 }
             ]
@@ -864,7 +864,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
+                    "nombre": "V newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "V oldValue",
                     "description": ""
                 },
                 {
@@ -872,11 +876,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "V oldValue",
+                    "nombre": "V value",
                     "description": ""
                 }
             ]
@@ -886,15 +886,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
                     "nombre": "? super V",
                     "description": ""
                 },
                 {
                     "nombre": "? extends U> searchFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 },
                 {
@@ -908,19 +908,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends U> searchFunction",
-                    "description": ""
-                },
-                {
                     "nombre": "Function<Map.Entry<K",
                     "description": ""
                 },
                 {
                     "nombre": "V>",
+                    "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> searchFunction",
                     "description": ""
                 }
             ]
@@ -930,15 +930,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
-                    "description": ""
-                },
-                {
                     "nombre": "Function<? super K",
                     "description": ""
                 },
                 {
                     "nombre": "? extends U> searchFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 }
             ]
@@ -948,7 +948,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long parallelismThreshold",
+                    "nombre": "Function<? super V",
                     "description": ""
                 },
                 {
@@ -956,7 +956,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Function<? super V",
+                    "nombre": "long parallelismThreshold",
                     "description": ""
                 }
             ]

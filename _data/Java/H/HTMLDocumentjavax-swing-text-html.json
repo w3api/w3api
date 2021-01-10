@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "HTMLDocument",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "AbstractDocument.Content c",
@@ -34,11 +34,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Element parent",
+                    "nombre": "AttributeSet a",
                     "description": ""
                 },
                 {
-                    "nombre": "AttributeSet a",
+                    "nombre": "Element parent",
                     "description": ""
                 }
             ]
@@ -52,19 +52,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Element parent",
-                    "description": ""
-                },
-                {
-                    "nombre": "int p0",
-                    "description": ""
-                },
-                {
                     "nombre": "AttributeSet a",
                     "description": ""
                 },
                 {
+                    "nombre": "Element parent",
+                    "description": ""
+                },
+                {
                     "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int p0",
                     "description": ""
                 }
             ]
@@ -98,19 +98,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
-                    "description": ""
-                },
-                {
                     "nombre": "Object attribute",
                     "description": ""
                 },
                 {
-                    "nombre": "Element e",
+                    "nombre": "Object value",
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element e",
                     "description": ""
                 }
             ]
@@ -138,19 +138,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
-                    "nombre": "int popDepth",
-                    "description": ""
-                },
-                {
                     "nombre": "int pushDepth",
                     "description": ""
                 },
                 {
                     "nombre": "HTML.Tag insertTag",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int popDepth",
                     "description": ""
                 }
             ]
@@ -168,11 +168,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DefaultStyledDocument.ElementSpec[] data",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "DefaultStyledDocument.ElementSpec[] data",
                     "description": ""
                 }
             ]
@@ -238,11 +238,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributeSet attr",
+                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
                     "description": ""
                 },
                 {
-                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
+                    "nombre": "AttributeSet attr",
                     "description": ""
                 }
             ]
@@ -300,11 +300,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
-                    "nombre": "AttributeSet s",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
@@ -312,7 +312,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "AttributeSet s",
                     "description": ""
                 }
             ]

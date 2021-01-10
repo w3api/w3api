@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "XMLInputFactory",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,19 +14,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "StreamFilter filter",
-                    "description": ""
-                },
-                {
                     "nombre": "EventFilter filter",
                     "description": ""
                 },
                 {
-                    "nombre": "XMLStreamReader reader",
+                    "nombre": "StreamFilter filter",
                     "description": ""
                 },
                 {
                     "nombre": "XMLEventReader reader",
+                    "description": ""
+                },
+                {
+                    "nombre": "XMLStreamReader reader",
                     "description": ""
                 }
             ]
@@ -40,15 +40,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "XMLStreamReader reader",
-                    "description": ""
-                },
-                {
                     "nombre": "Source source",
                     "description": ""
                 },
                 {
-                    "nombre": "String systemId",
+                    "nombre": "Reader reader",
                     "description": ""
                 },
                 {
@@ -56,7 +52,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Reader reader",
+                    "nombre": "XMLStreamReader reader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String systemId",
                     "description": ""
                 }
             ]
@@ -74,7 +74,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String systemId",
+                    "nombre": "Reader reader",
                     "description": ""
                 },
                 {
@@ -82,7 +82,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Reader reader",
+                    "nombre": "String systemId",
                     "description": ""
                 }
             ]
@@ -128,11 +128,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String factoryId",
+                    "nombre": "ClassLoader classLoader",
                     "description": ""
                 },
                 {
-                    "nombre": "ClassLoader classLoader",
+                    "nombre": "String factoryId",
                     "description": ""
                 }
             ]
@@ -142,11 +142,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String factoryId",
+                    "nombre": "ClassLoader classLoader",
                     "description": ""
                 },
                 {
-                    "nombre": "ClassLoader classLoader",
+                    "nombre": "String factoryId",
                     "description": ""
                 }
             ]

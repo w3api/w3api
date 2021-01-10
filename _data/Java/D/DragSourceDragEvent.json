@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "DragSourceDragEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int action",
+                    "nombre": "int dropAction",
                     "description": ""
                 },
                 {
@@ -20,11 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int dropAction",
+                    "nombre": "DragSourceContext dsc",
                     "description": ""
                 },
                 {
-                    "nombre": "DragSourceContext dsc",
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int action",
                     "description": ""
                 },
                 {

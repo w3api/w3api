@@ -5,34 +5,10 @@
     "constructores": [
         {
             "nombre": "OpenMBeanAttributeInfoSupport",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Comparable<T> maxValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isWritable",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isReadable",
-                    "description": ""
-                },
-                {
-                    "nombre": "T defaultValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "Comparable<T> minValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "OpenType<T> openType",
-                    "description": ""
-                },
-                {
-                    "nombre": "String description",
+                    "nombre": "OpenType<?> openType",
                     "description": ""
                 },
                 {
@@ -40,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isIs",
+                    "nombre": "OpenType<T> openType",
                     "description": ""
                 },
                 {
@@ -48,11 +24,35 @@
                     "description": ""
                 },
                 {
-                    "nombre": "OpenType<?> openType",
+                    "nombre": "String description",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isReadable",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isWritable",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparable<T> minValue",
                     "description": ""
                 },
                 {
                     "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparable<T> maxValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "T defaultValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isIs",
                     "description": ""
                 }
             ]

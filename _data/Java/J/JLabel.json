@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "JLabel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int horizontalAlignment",
+                    "nombre": "String text",
                     "description": ""
                 },
                 {
-                    "nombre": "String text",
+                    "nombre": "Icon icon",
                     "description": ""
                 },
                 {
@@ -20,7 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Icon icon",
+                    "nombre": "int horizontalAlignment",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int key",
+                    "nombre": "String message",
                     "description": ""
                 },
                 {
-                    "nombre": "String message",
+                    "nombre": "int key",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int key",
+                    "nombre": "String message",
                     "description": ""
                 },
                 {
-                    "nombre": "String message",
+                    "nombre": "int key",
                     "description": ""
                 }
             ]
@@ -116,15 +116,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "Image img",
-                    "description": ""
-                },
-                {
                     "nombre": "int infoflags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -132,7 +128,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -160,11 +160,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int key",
+                    "nombre": "char aChar",
                     "description": ""
                 },
                 {
-                    "nombre": "char aChar",
+                    "nombre": "int key",
                     "description": ""
                 }
             ]

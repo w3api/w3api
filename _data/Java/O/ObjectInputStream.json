@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "ObjectInputStream",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "InputStream in",
@@ -46,15 +46,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
                     "nombre": "int off",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] buf",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
                     "description": ""
                 }
             ]
@@ -92,15 +92,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
                     "nombre": "int off",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] buf",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
                     "description": ""
                 }
             ]
@@ -154,11 +154,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int prio",
+                    "nombre": "ObjectInputValidation obj",
                     "description": ""
                 },
                 {
-                    "nombre": "ObjectInputValidation obj",
+                    "nombre": "int prio",
                     "description": ""
                 }
             ]

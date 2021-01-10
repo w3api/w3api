@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "SSLEngine",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "String peerHost",
@@ -146,7 +146,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BiFunction<SSLEngine",
+                    "nombre": "String> selector",
                     "description": ""
                 },
                 {
@@ -154,7 +154,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String> selector",
+                    "nombre": "BiFunction<SSLEngine",
                     "description": ""
                 }
             ]
@@ -230,11 +230,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ByteBuffer[] srcs",
+                    "nombre": "ByteBuffer src",
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer src",
+                    "nombre": "ByteBuffer[] srcs",
                     "description": ""
                 },
                 {

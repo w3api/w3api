@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "DigestInputStream",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream stream",
+                    "nombre": "MessageDigest digest",
                     "description": ""
                 },
                 {
-                    "nombre": "MessageDigest digest",
+                    "nombre": "InputStream stream",
                     "description": ""
                 }
             ]
@@ -38,7 +38,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "byte[] b",
                     "description": ""
                 },
                 {
@@ -46,7 +46,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] b",
+                    "nombre": "int off",
                     "description": ""
                 }
             ]

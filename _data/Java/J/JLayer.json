@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "JLayer",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "LayerUI<V> ui",
+                    "nombre": "V view",
                     "description": ""
                 },
                 {
-                    "nombre": "V view",
+                    "nombre": "LayerUI<V> ui",
                     "description": ""
                 }
             ]
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object constraints",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "Object constraints",
                     "description": ""
                 },
                 {
@@ -70,15 +70,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                },
+                {
                     "nombre": "int direction",
                     "description": ""
                 },
                 {
                     "nombre": "int orientation",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle visibleRect",
                     "description": ""
                 }
             ]
@@ -96,15 +96,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                },
+                {
                     "nombre": "int direction",
                     "description": ""
                 },
                 {
                     "nombre": "int orientation",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle visibleRect",
                     "description": ""
                 }
             ]
@@ -122,15 +122,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "Image img",
-                    "description": ""
-                },
-                {
                     "nombre": "int infoflags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -138,7 +134,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -184,11 +184,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int w",
                     "description": ""
                 },
                 {

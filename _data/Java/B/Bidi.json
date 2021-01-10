@@ -5,16 +5,8 @@
     "constructores": [
         {
             "nombre": "Bidi",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "int textStart",
-                    "description": ""
-                },
-                {
-                    "nombre": "int flags",
-                    "description": ""
-                },
                 {
                     "nombre": "int paragraphLength",
                     "description": ""
@@ -24,11 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int embStart",
+                    "nombre": "AttributedCharacterIterator paragraph",
                     "description": ""
                 },
                 {
-                    "nombre": "AttributedCharacterIterator paragraph",
+                    "nombre": "byte[] embeddings",
                     "description": ""
                 },
                 {
@@ -36,7 +28,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] embeddings",
+                    "nombre": "int flags",
+                    "description": ""
+                },
+                {
+                    "nombre": "int embStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "int textStart",
                     "description": ""
                 }
             ]
@@ -52,11 +52,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int lineStart",
+                    "nombre": "int lineLimit",
                     "description": ""
                 },
                 {
-                    "nombre": "int lineLimit",
+                    "nombre": "int lineStart",
                     "description": ""
                 }
             ]
@@ -130,15 +130,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int levelStart",
-                    "description": ""
-                },
-                {
                     "nombre": "Object[] objects",
                     "description": ""
                 },
                 {
-                    "nombre": "int objectStart",
+                    "nombre": "byte[] levels",
                     "description": ""
                 },
                 {
@@ -146,7 +142,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] levels",
+                    "nombre": "int levelStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "int objectStart",
                     "description": ""
                 }
             ]

@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "File",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "String child",
-                    "description": ""
-                },
-                {
-                    "nombre": "File parent",
+                    "nombre": "URI uri",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "URI uri",
+                    "nombre": "File parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "String child",
                     "description": ""
                 },
                 {
@@ -184,11 +184,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FilenameFilter filter",
+                    "nombre": "FileFilter filter",
                     "description": ""
                 },
                 {
-                    "nombre": "FileFilter filter",
+                    "nombre": "FilenameFilter filter",
                     "description": ""
                 }
             ]

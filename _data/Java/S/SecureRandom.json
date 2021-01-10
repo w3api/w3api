@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "SecureRandom",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "Provider provider",
-                    "description": ""
-                },
                 {
                     "nombre": "byte[] seed",
                     "description": ""
                 },
                 {
                     "nombre": "SecureRandomSpi secureRandomSpi",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
                     "description": ""
                 }
             ]
@@ -42,15 +42,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "SecureRandomParameters params",
+                    "description": ""
+                },
+                {
                     "nombre": "String algorithm",
                     "description": ""
                 },
                 {
                     "nombre": "String provider",
-                    "description": ""
-                },
-                {
-                    "nombre": "SecureRandomParameters params",
                     "description": ""
                 },
                 {
@@ -120,11 +120,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long seed",
+                    "nombre": "byte[] seed",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] seed",
+                    "nombre": "long seed",
                     "description": ""
                 }
             ]

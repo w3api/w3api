@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "SOAPFactory",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,15 +18,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "QName qname",
-                    "description": ""
-                },
-                {
-                    "nombre": "String localName",
+                    "nombre": "Name name",
                     "description": ""
                 },
                 {
                     "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "String localName",
                     "description": ""
                 },
                 {
@@ -38,7 +38,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Name name",
+                    "nombre": "QName qname",
                     "description": ""
                 }
             ]
@@ -48,11 +48,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String reasonText",
+                    "nombre": "QName faultCode",
                     "description": ""
                 },
                 {
-                    "nombre": "QName faultCode",
+                    "nombre": "String reasonText",
                     "description": ""
                 }
             ]
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String localName",
+                    "nombre": "String prefix",
                     "description": ""
                 },
                 {
-                    "nombre": "String prefix",
+                    "nombre": "String localName",
                     "description": ""
                 },
                 {

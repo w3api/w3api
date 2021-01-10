@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "ParagraphView",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Element elem",
@@ -20,11 +20,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
+                    "nombre": "float len",
                     "description": ""
                 },
                 {
-                    "nombre": "float len",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -52,11 +52,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
+                    "nombre": "DocumentEvent changes",
                     "description": ""
                 },
                 {
-                    "nombre": "DocumentEvent changes",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
+                    "nombre": "char[] string",
                     "description": ""
                 },
                 {
-                    "nombre": "char[] string",
+                    "nombre": "int start",
                     "description": ""
                 }
             ]
@@ -88,11 +88,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int position",
+                    "nombre": "Position.Bias bias",
                     "description": ""
                 },
                 {
-                    "nombre": "Position.Bias bias",
+                    "nombre": "int position",
                     "description": ""
                 }
             ]
@@ -126,6 +126,18 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias[] biasRet",
+                    "description": ""
+                },
+                {
+                    "nombre": "int direction",
+                    "description": ""
+                },
+                {
                     "nombre": "int rowIndex",
                     "description": ""
                 },
@@ -135,18 +147,6 @@
                 },
                 {
                     "nombre": "Position.Bias b",
-                    "description": ""
-                },
-                {
-                    "nombre": "Position.Bias[] biasRet",
-                    "description": ""
-                },
-                {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
-                    "nombre": "int direction",
                     "description": ""
                 },
                 {
@@ -194,11 +194,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
-                    "description": ""
-                },
-                {
-                    "nombre": "Position.Bias b",
+                    "nombre": "int pos",
                     "description": ""
                 },
                 {
@@ -206,11 +202,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int pos",
+                    "nombre": "int direction",
                     "description": ""
                 },
                 {
-                    "nombre": "int direction",
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias b",
                     "description": ""
                 }
             ]
@@ -220,11 +220,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int startOffset",
+                    "nombre": "int endOffset",
                     "description": ""
                 },
                 {
-                    "nombre": "int endOffset",
+                    "nombre": "int startOffset",
                     "description": ""
                 }
             ]
@@ -242,11 +242,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float x",
+                    "nombre": "int tabOffset",
                     "description": ""
                 },
                 {
-                    "nombre": "int tabOffset",
+                    "nombre": "float x",
                     "description": ""
                 }
             ]

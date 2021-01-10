@@ -5,32 +5,8 @@
     "constructores": [
         {
             "nombre": "Color",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "float g",
-                    "description": ""
-                },
-                {
-                    "nombre": "float b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int r",
-                    "description": ""
-                },
-                {
-                    "nombre": "int a",
-                    "description": ""
-                },
-                {
-                    "nombre": "float a",
-                    "description": ""
-                },
-                {
-                    "nombre": "float r",
-                    "description": ""
-                },
                 {
                     "nombre": "int g",
                     "description": ""
@@ -40,15 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ColorSpace cspace",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean hasalpha",
-                    "description": ""
-                },
-                {
-                    "nombre": "int rgb",
+                    "nombre": "float alpha",
                     "description": ""
                 },
                 {
@@ -56,11 +24,43 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float alpha",
+                    "nombre": "ColorSpace cspace",
+                    "description": ""
+                },
+                {
+                    "nombre": "float g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int r",
                     "description": ""
                 },
                 {
                     "nombre": "int rgba",
+                    "description": ""
+                },
+                {
+                    "nombre": "float r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rgb",
+                    "description": ""
+                },
+                {
+                    "nombre": "float b",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasalpha",
+                    "description": ""
+                },
+                {
+                    "nombre": "float a",
                     "description": ""
                 }
             ]
@@ -76,7 +76,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle r",
+                    "nombre": "AffineTransform xform",
                     "description": ""
                 },
                 {
@@ -84,11 +84,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ColorModel cm",
+                    "nombre": "Rectangle r",
                     "description": ""
                 },
                 {
-                    "nombre": "AffineTransform xform",
+                    "nombre": "ColorModel cm",
                     "description": ""
                 },
                 {
@@ -134,11 +134,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int v",
+                    "nombre": "String nm",
                     "description": ""
                 },
                 {
-                    "nombre": "String nm",
+                    "nombre": "int v",
                     "description": ""
                 },
                 {
@@ -152,11 +152,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ColorSpace cspace",
+                    "nombre": "float[] compArray",
                     "description": ""
                 },
                 {
-                    "nombre": "float[] compArray",
+                    "nombre": "ColorSpace cspace",
                     "description": ""
                 }
             ]
@@ -170,11 +170,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ColorSpace cspace",
+                    "nombre": "float[] compArray",
                     "description": ""
                 },
                 {
-                    "nombre": "float[] compArray",
+                    "nombre": "ColorSpace cspace",
                     "description": ""
                 }
             ]
@@ -188,7 +188,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float h",
+                    "nombre": "float b",
                     "description": ""
                 },
                 {
@@ -196,7 +196,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float b",
+                    "nombre": "float h",
                     "description": ""
                 }
             ]
@@ -242,15 +242,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "float saturation",
+                    "description": ""
+                },
+                {
                     "nombre": "float brightness",
                     "description": ""
                 },
                 {
                     "nombre": "float hue",
-                    "description": ""
-                },
-                {
-                    "nombre": "float saturation",
                     "description": ""
                 }
             ]
@@ -260,7 +260,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int r",
+                    "nombre": "int g",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] hsbvals",
                     "description": ""
                 },
                 {
@@ -268,11 +272,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int g",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] hsbvals",
+                    "nombre": "int r",
                     "description": ""
                 }
             ]

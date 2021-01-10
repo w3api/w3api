@@ -5,20 +5,8 @@
     "constructores": [
         {
             "nombre": "JMXConnectionNotification",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "String connectionId",
-                    "description": ""
-                },
-                {
-                    "nombre": "String type",
-                    "description": ""
-                },
-                {
-                    "nombre": "String message",
-                    "description": ""
-                },
                 {
                     "nombre": "long sequenceNumber",
                     "description": ""
@@ -28,7 +16,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
                     "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "String connectionId",
                     "description": ""
                 }
             ]

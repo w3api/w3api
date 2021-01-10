@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "AsynchronousFileChannel",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -24,19 +24,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "A attachment",
-                    "description": ""
-                },
-                {
                     "nombre": "CompletionHandler<FileLock",
                     "description": ""
                 },
                 {
-                    "nombre": "? super A> handler",
+                    "nombre": "long size",
                     "description": ""
                 },
                 {
-                    "nombre": "long size",
+                    "nombre": "A attachment",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super A> handler",
                     "description": ""
                 },
                 {
@@ -54,7 +54,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FileAttribute<?>... attrs",
+                    "nombre": "OpenOption... options",
                     "description": ""
                 },
                 {
@@ -62,7 +62,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "OpenOption... options",
+                    "nombre": "FileAttribute<?>... attrs",
                     "description": ""
                 },
                 {
@@ -84,19 +84,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CompletionHandler<Integer",
-                    "description": ""
-                },
-                {
                     "nombre": "? super A> handler",
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer dst",
+                    "nombre": "CompletionHandler<Integer",
                     "description": ""
                 },
                 {
                     "nombre": "long position",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer dst",
                     "description": ""
                 }
             ]
@@ -120,7 +120,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long position",
+                    "nombre": "long size",
                     "description": ""
                 },
                 {
@@ -128,7 +128,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long size",
+                    "nombre": "long position",
                     "description": ""
                 }
             ]
@@ -138,11 +138,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "A attachment",
+                    "nombre": "ByteBuffer src",
                     "description": ""
                 },
                 {
-                    "nombre": "CompletionHandler<Integer",
+                    "nombre": "A attachment",
                     "description": ""
                 },
                 {
@@ -150,7 +150,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer src",
+                    "nombre": "CompletionHandler<Integer",
                     "description": ""
                 },
                 {

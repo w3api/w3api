@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Toolkit",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -28,11 +28,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String name",
+                    "nombre": "PropertyChangeListener pcl",
                     "description": ""
                 },
                 {
-                    "nombre": "PropertyChangeListener pcl",
+                    "nombre": "String name",
                     "description": ""
                 }
             ]
@@ -54,15 +54,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ImageObserver observer",
-                    "description": ""
-                },
-                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
                     "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageObserver observer",
                     "description": ""
                 }
             ]
@@ -98,15 +98,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
                     "nombre": "DragGestureListener dgl",
                     "description": ""
                 },
                 {
                     "nombre": "Class<T> abstractRecognizerClass",
-                    "description": ""
-                },
-                {
-                    "nombre": "Component c",
                     "description": ""
                 }
             ]
@@ -116,6 +116,18 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String filename",
+                    "description": ""
+                },
+                {
+                    "nombre": "int imagelength",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] imagedata",
+                    "description": ""
+                },
+                {
                     "nombre": "URL url",
                     "description": ""
                 },
@@ -124,19 +136,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int imagelength",
-                    "description": ""
-                },
-                {
-                    "nombre": "String filename",
-                    "description": ""
-                },
-                {
                     "nombre": "ImageProducer producer",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] imagedata",
                     "description": ""
                 }
             ]
@@ -156,11 +156,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int preferredWidth",
+                    "nombre": "int preferredHeight",
                     "description": ""
                 },
                 {
-                    "nombre": "int preferredHeight",
+                    "nombre": "int preferredWidth",
                     "description": ""
                 }
             ]
@@ -202,11 +202,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "URL url",
+                    "nombre": "String filename",
                     "description": ""
                 },
                 {
-                    "nombre": "String filename",
+                    "nombre": "URL url",
                     "description": ""
                 }
             ]
@@ -248,11 +248,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Frame frame",
+                    "nombre": "PageAttributes pageAttributes",
                     "description": ""
                 },
                 {
-                    "nombre": "String jobtitle",
+                    "nombre": "Properties props",
                     "description": ""
                 },
                 {
@@ -260,11 +260,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PageAttributes pageAttributes",
+                    "nombre": "String jobtitle",
                     "description": ""
                 },
                 {
-                    "nombre": "Properties props",
+                    "nombre": "Frame frame",
                     "description": ""
                 }
             ]
@@ -274,11 +274,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String defaultValue",
+                    "nombre": "String key",
                     "description": ""
                 },
                 {
-                    "nombre": "String key",
+                    "nombre": "String defaultValue",
                     "description": ""
                 }
             ]
@@ -412,15 +412,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ImageObserver observer",
-                    "description": ""
-                },
-                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
                     "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageObserver observer",
                     "description": ""
                 }
             ]
@@ -440,11 +440,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String name",
+                    "nombre": "PropertyChangeListener pcl",
                     "description": ""
                 },
                 {
-                    "nombre": "PropertyChangeListener pcl",
+                    "nombre": "String name",
                     "description": ""
                 }
             ]

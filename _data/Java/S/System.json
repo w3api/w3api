@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object src",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object dest",
+                    "nombre": "int destPos",
                     "description": ""
                 },
                 {
@@ -20,11 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int destPos",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "Object src",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object dest",
                     "description": ""
                 }
             ]
@@ -76,11 +76,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ResourceBundle bundle",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "ResourceBundle bundle",
                     "description": ""
                 }
             ]
@@ -94,11 +94,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String def",
+                    "nombre": "String key",
                     "description": ""
                 },
                 {
-                    "nombre": "String key",
+                    "nombre": "String def",
                     "description": ""
                 }
             ]

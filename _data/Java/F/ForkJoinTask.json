@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "ForkJoinTask",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,11 +18,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "T result",
+                    "nombre": "Runnable runnable",
                     "description": ""
                 },
                 {
-                    "nombre": "Runnable runnable",
+                    "nombre": "T result",
                     "description": ""
                 }
             ]
@@ -84,11 +84,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long timeout",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 },
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long timeout",
                     "description": ""
                 }
             ]
@@ -134,11 +134,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ForkJoinTask<?> t1",
+                    "nombre": "ForkJoinTask<?>... tasks",
                     "description": ""
                 },
                 {
-                    "nombre": "ForkJoinTask<?>... tasks",
+                    "nombre": "ForkJoinTask<?> t1",
                     "description": ""
                 },
                 {

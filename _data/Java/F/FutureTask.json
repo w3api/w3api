@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "FutureTask",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Callable<V> callable",
+                    "nombre": "Runnable runnable",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Runnable runnable",
+                    "nombre": "Callable<V> callable",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long timeout",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 },
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long timeout",
                     "description": ""
                 }
             ]

@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "UnicastRemoteObject",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int port",
+                    "nombre": "RMIClientSocketFactory csf",
                     "description": ""
                 },
                 {
-                    "nombre": "RMIClientSocketFactory csf",
+                    "nombre": "int port",
                     "description": ""
                 },
                 {
@@ -32,15 +32,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "RMIClientSocketFactory csf",
-                    "description": ""
-                },
-                {
-                    "nombre": "ObjectInputFilter filter",
-                    "description": ""
-                },
-                {
-                    "nombre": "int port",
+                    "nombre": "RMIServerSocketFactory ssf",
                     "description": ""
                 },
                 {
@@ -48,7 +40,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "RMIServerSocketFactory ssf",
+                    "nombre": "RMIClientSocketFactory csf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectInputFilter filter",
                     "description": ""
                 }
             ]

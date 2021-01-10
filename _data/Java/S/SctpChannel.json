@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "SctpChannel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "SelectorProvider provider",
@@ -44,15 +44,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SocketAddress remote",
-                    "description": ""
-                },
-                {
                     "nombre": "int maxInStreams",
                     "description": ""
                 },
                 {
                     "nombre": "int maxOutStreams",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketAddress remote",
                     "description": ""
                 }
             ]
@@ -88,15 +88,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SocketAddress remote",
-                    "description": ""
-                },
-                {
                     "nombre": "int maxInStreams",
                     "description": ""
                 },
                 {
                     "nombre": "int maxOutStreams",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketAddress remote",
                     "description": ""
                 }
             ]
@@ -106,15 +106,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T attachment",
-                    "description": ""
-                },
-                {
                     "nombre": "ByteBuffer dst",
                     "description": ""
                 },
                 {
                     "nombre": "NotificationHandler<T> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "T attachment",
                     "description": ""
                 }
             ]
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MessageInfo messageInfo",
+                    "nombre": "ByteBuffer src",
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer src",
+                    "nombre": "MessageInfo messageInfo",
                     "description": ""
                 }
             ]

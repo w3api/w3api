@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "RowFilter",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Iterable<? extends RowFilter<? super M",
+                    "nombre": "? super I>> filters",
                     "description": ""
                 },
                 {
-                    "nombre": "? super I>> filters",
+                    "nombre": "Iterable<? extends RowFilter<? super M",
                     "description": ""
                 }
             ]
@@ -28,11 +28,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "RowFilter.ComparisonType type",
+                    "nombre": "int... indices",
                     "description": ""
                 },
                 {
-                    "nombre": "int... indices",
+                    "nombre": "RowFilter.ComparisonType type",
                     "description": ""
                 },
                 {
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "RowFilter.Entry<? extends M",
+                    "nombre": "? extends I> entry",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends I> entry",
+                    "nombre": "RowFilter.Entry<? extends M",
                     "description": ""
                 }
             ]
@@ -60,11 +60,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "RowFilter<M",
+                    "nombre": "I> filter",
                     "description": ""
                 },
                 {
-                    "nombre": "I> filter",
+                    "nombre": "RowFilter<M",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "RowFilter.ComparisonType type",
+                    "nombre": "int... indices",
                     "description": ""
                 },
                 {
-                    "nombre": "int... indices",
+                    "nombre": "RowFilter.ComparisonType type",
                     "description": ""
                 },
                 {
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Iterable<? extends RowFilter<? super M",
+                    "nombre": "? super I>> filters",
                     "description": ""
                 },
                 {
-                    "nombre": "? super I>> filters",
+                    "nombre": "Iterable<? extends RowFilter<? super M",
                     "description": ""
                 }
             ]

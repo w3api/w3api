@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "SimpleDateFormat",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "DateFormatSymbols formatSymbols",
+                    "description": ""
+                },
                 {
                     "nombre": "String pattern",
                     "description": ""
                 },
                 {
                     "nombre": "Locale locale",
-                    "description": ""
-                },
-                {
-                    "nombre": "DateFormatSymbols formatSymbols",
                     "description": ""
                 }
             ]
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Date date",
+                    "nombre": "StringBuffer toAppendTo",
                     "description": ""
                 },
                 {
-                    "nombre": "StringBuffer toAppendTo",
+                    "nombre": "Date date",
                     "description": ""
                 },
                 {

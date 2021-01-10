@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "BorderPane",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "Node top",
-                    "description": ""
-                },
                 {
                     "nombre": "Node bottom",
                     "description": ""
                 },
                 {
-                    "nombre": "Node left",
+                    "nombre": "Node top",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node center",
                     "description": ""
                 },
                 {
@@ -24,7 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Node center",
+                    "nombre": "Node left",
                     "description": ""
                 }
             ]
@@ -150,11 +150,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Insets value",
+                    "nombre": "Node child",
                     "description": ""
                 },
                 {
-                    "nombre": "Node child",
+                    "nombre": "Insets value",
                     "description": ""
                 }
             ]

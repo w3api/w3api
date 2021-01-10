@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DTD",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "String name",
@@ -20,11 +20,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int type",
-                    "description": ""
-                },
-                {
-                    "nombre": "String values",
+                    "nombre": "String value",
                     "description": ""
                 },
                 {
@@ -32,7 +28,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String value",
+                    "nombre": "String values",
                     "description": ""
                 },
                 {
@@ -42,6 +38,10 @@
                 {
                     "nombre": "String name",
                     "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
                 }
             ]
         },
@@ -50,15 +50,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
                     "nombre": "int type",
                     "description": ""
                 },
                 {
                     "nombre": "ContentModel next",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
                     "description": ""
                 }
             ]
@@ -68,23 +68,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int type",
-                    "description": ""
-                },
-                {
                     "nombre": "AttributeList atts",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean omitStart",
-                    "description": ""
-                },
-                {
-                    "nombre": "String[] exclusions",
-                    "description": ""
-                },
-                {
-                    "nombre": "ContentModel content",
+                    "nombre": "String[] inclusions",
                     "description": ""
                 },
                 {
@@ -92,11 +80,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String[] exclusions",
+                    "description": ""
+                },
+                {
                     "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String[] inclusions",
+                    "nombre": "ContentModel content",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean omitStart",
                     "description": ""
                 }
             ]
@@ -106,15 +106,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
                     "nombre": "String str",
                     "description": ""
                 },
                 {
                     "nombre": "int type",
-                    "description": ""
-                },
-                {
-                    "nombre": "String name",
                     "description": ""
                 },
                 {
@@ -128,11 +128,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributeList atts",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "AttributeList atts",
                     "description": ""
                 }
             ]
@@ -142,27 +142,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int type",
-                    "description": ""
-                },
-                {
-                    "nombre": "BitSet exclusions",
-                    "description": ""
-                },
-                {
-                    "nombre": "BitSet inclusions",
-                    "description": ""
-                },
-                {
                     "nombre": "AttributeList atts",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean omitStart",
-                    "description": ""
-                },
-                {
-                    "nombre": "ContentModel content",
                     "description": ""
                 },
                 {
@@ -170,7 +150,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "BitSet exclusions",
+                    "description": ""
+                },
+                {
                     "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "ContentModel content",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean omitStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "BitSet inclusions",
                     "description": ""
                 }
             ]
@@ -180,15 +180,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
                     "nombre": "char[] data",
                     "description": ""
                 },
                 {
                     "nombre": "int type",
-                    "description": ""
-                },
-                {
-                    "nombre": "String name",
                     "description": ""
                 }
             ]
@@ -208,11 +208,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -240,11 +240,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DTD dtd",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "DTD dtd",
                     "description": ""
                 }
             ]

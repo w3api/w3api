@@ -5,8 +5,12 @@
     "constructores": [
         {
             "nombre": "PropertyDescriptor",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "Class<?> beanClass",
+                    "description": ""
+                },
                 {
                     "nombre": "String writeMethodName",
                     "description": ""
@@ -20,15 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Method readMethod",
-                    "description": ""
-                },
-                {
                     "nombre": "String readMethodName",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?> beanClass",
+                    "nombre": "Method readMethod",
                     "description": ""
                 }
             ]

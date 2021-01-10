@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "TextFormatter",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "StringConverter<V> valueConverter",
-                    "description": ""
-                },
                 {
                     "nombre": "UnaryOperator<TextFormatter.Change> filter",
                     "description": ""
                 },
                 {
                     "nombre": "V defaultValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringConverter<V> valueConverter",
                     "description": ""
                 }
             ]

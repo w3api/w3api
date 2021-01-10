@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "TimerNotification",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Integer id",
+                    "nombre": "long sequenceNumber",
                     "description": ""
                 },
                 {
@@ -16,11 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long timeStamp",
-                    "description": ""
-                },
-                {
-                    "nombre": "long sequenceNumber",
+                    "nombre": "Object source",
                     "description": ""
                 },
                 {
@@ -28,7 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object source",
+                    "nombre": "Integer id",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeStamp",
                     "description": ""
                 }
             ]

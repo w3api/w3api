@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<? extends T> list",
+                    "nombre": "List<? extends Comparable<? super T>> list",
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends Comparable<? super T>> list",
+                    "nombre": "List<? extends T> list",
                     "description": ""
                 },
                 {
@@ -54,11 +54,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Collection<E> c",
+                    "nombre": "Class<E> type",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<E> type",
+                    "nombre": "Collection<E> c",
                     "description": ""
                 }
             ]
@@ -68,11 +68,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<E> type",
+                    "nombre": "List<E> list",
                     "description": ""
                 },
                 {
-                    "nombre": "List<E> list",
+                    "nombre": "Class<E> type",
                     "description": ""
                 }
             ]
@@ -86,11 +86,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<V> valueType",
+                    "nombre": "V> m",
                     "description": ""
                 },
                 {
-                    "nombre": "V> m",
+                    "nombre": "Class<V> valueType",
                     "description": ""
                 },
                 {
@@ -108,7 +108,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<V> valueType",
+                    "nombre": "V> m",
                     "description": ""
                 },
                 {
@@ -116,7 +116,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V> m",
+                    "nombre": "Class<V> valueType",
                     "description": ""
                 }
             ]
@@ -154,11 +154,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<E> type",
+                    "nombre": "Set<E> s",
                     "description": ""
                 },
                 {
-                    "nombre": "Set<E> s",
+                    "nombre": "Class<E> type",
                     "description": ""
                 }
             ]
@@ -172,11 +172,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<V> valueType",
+                    "nombre": "V> m",
                     "description": ""
                 },
                 {
-                    "nombre": "V> m",
+                    "nombre": "Class<V> valueType",
                     "description": ""
                 },
                 {
@@ -218,11 +218,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Collection<?> c2",
+                    "nombre": "Collection<?> c1",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<?> c1",
+                    "nombre": "Collection<?> c2",
                     "description": ""
                 }
             ]
@@ -310,11 +310,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<?> source",
+                    "nombre": "List<?> target",
                     "description": ""
                 },
                 {
-                    "nombre": "List<?> target",
+                    "nombre": "List<?> source",
                     "description": ""
                 }
             ]
@@ -324,11 +324,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<?> source",
+                    "nombre": "List<?> target",
                     "description": ""
                 },
                 {
-                    "nombre": "List<?> target",
+                    "nombre": "List<?> source",
                     "description": ""
                 }
             ]
@@ -390,11 +390,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Map<E",
+                    "nombre": "Boolean> map",
                     "description": ""
                 },
                 {
-                    "nombre": "Boolean> map",
+                    "nombre": "Map<E",
                     "description": ""
                 }
             ]
@@ -490,11 +490,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 }
             ]
@@ -518,15 +518,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "List<?> list",
+                    "description": ""
+                },
+                {
                     "nombre": "int j",
                     "description": ""
                 },
                 {
                     "nombre": "int i",
-                    "description": ""
-                },
-                {
-                    "nombre": "List<?> list",
                     "description": ""
                 }
             ]
@@ -570,11 +570,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "NavigableMap<K",
+                    "nombre": "V> m",
                     "description": ""
                 },
                 {
-                    "nombre": "V> m",
+                    "nombre": "NavigableMap<K",
                     "description": ""
                 }
             ]

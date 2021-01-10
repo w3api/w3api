@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "SSLContext",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "SSLContextSpi contextSpi",
+                    "description": ""
+                },
                 {
                     "nombre": "String protocol",
                     "description": ""
                 },
                 {
                     "nombre": "Provider provider",
-                    "description": ""
-                },
-                {
-                    "nombre": "SSLContextSpi contextSpi",
                     "description": ""
                 }
             ]
@@ -54,15 +54,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Provider provider",
-                    "description": ""
-                },
-                {
                     "nombre": "String provider",
                     "description": ""
                 },
                 {
                     "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
                     "description": ""
                 }
             ]
@@ -96,15 +96,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "TrustManager[] tm",
+                    "description": ""
+                },
+                {
                     "nombre": "SecureRandom random",
                     "description": ""
                 },
                 {
                     "nombre": "KeyManager[] km",
-                    "description": ""
-                },
-                {
-                    "nombre": "TrustManager[] tm",
                     "description": ""
                 }
             ]

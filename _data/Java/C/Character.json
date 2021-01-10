@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Character",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "char value",
@@ -34,7 +34,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "CharSequence seq",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] a",
                     "description": ""
                 },
                 {
@@ -42,11 +46,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence seq",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] a",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -56,19 +56,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
-                    "nombre": "int index",
-                    "description": ""
-                },
-                {
                     "nombre": "CharSequence seq",
                     "description": ""
                 },
                 {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
                     "nombre": "char[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -78,15 +78,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int beginIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "int endIndex",
+                    "nombre": "CharSequence seq",
                     "description": ""
                 },
                 {
@@ -98,7 +90,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence seq",
+                    "nombre": "int endIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] a",
                     "description": ""
                 }
             ]
@@ -142,11 +142,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "char ch",
+                    "nombre": "int radix",
                     "description": ""
                 },
                 {
-                    "nombre": "int radix",
+                    "nombre": "char ch",
                     "description": ""
                 },
                 {
@@ -614,11 +614,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "char[] a",
+                    "nombre": "int codePointOffset",
                     "description": ""
                 },
                 {
-                    "nombre": "int codePointOffset",
+                    "nombre": "CharSequence seq",
                     "description": ""
                 },
                 {
@@ -626,15 +626,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
-                    "description": ""
-                },
-                {
                     "nombre": "int count",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence seq",
+                    "nombre": "char[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
                     "description": ""
                 }
             ]

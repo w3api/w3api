@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "PushbackReader",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Reader in",
+                    "nombre": "int size",
                     "description": ""
                 },
                 {
-                    "nombre": "int size",
+                    "nombre": "Reader in",
                     "description": ""
                 }
             ]
@@ -42,15 +42,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
-                    "description": ""
-                },
-                {
                     "nombre": "int len",
                     "description": ""
                 },
                 {
                     "nombre": "char[] cbuf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int off",
                     "description": ""
                 }
             ]
@@ -78,19 +78,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
-                    "description": ""
-                },
-                {
                     "nombre": "int len",
                     "description": ""
                 },
                 {
-                    "nombre": "int c",
+                    "nombre": "char[] cbuf",
                     "description": ""
                 },
                 {
-                    "nombre": "char[] cbuf",
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int c",
                     "description": ""
                 }
             ]

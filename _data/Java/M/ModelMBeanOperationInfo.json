@@ -5,8 +5,20 @@
     "constructores": [
         {
             "nombre": "ModelMBeanOperationInfo",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "Descriptor descriptor",
+                    "description": ""
+                },
+                {
+                    "nombre": "String description",
+                    "description": ""
+                },
+                {
+                    "nombre": "int impact",
+                    "description": ""
+                },
                 {
                     "nombre": "Method operationMethod",
                     "description": ""
@@ -16,27 +28,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ModelMBeanOperationInfo inInfo",
-                    "description": ""
-                },
-                {
-                    "nombre": "int impact",
-                    "description": ""
-                },
-                {
-                    "nombre": "String description",
-                    "description": ""
-                },
-                {
-                    "nombre": "Descriptor descriptor",
-                    "description": ""
-                },
-                {
                     "nombre": "MBeanParameterInfo[] signature",
                     "description": ""
                 },
                 {
                     "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "ModelMBeanOperationInfo inInfo",
                     "description": ""
                 }
             ]

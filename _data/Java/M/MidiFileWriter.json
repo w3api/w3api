@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "MidiFileWriter",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int fileType",
+                    "nombre": "Sequence sequence",
                     "description": ""
                 },
                 {
-                    "nombre": "Sequence sequence",
+                    "nombre": "int fileType",
                     "description": ""
                 }
             ]
@@ -38,19 +38,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int fileType",
-                    "description": ""
-                },
-                {
                     "nombre": "Sequence in",
                     "description": ""
                 },
                 {
-                    "nombre": "File out",
+                    "nombre": "int fileType",
                     "description": ""
                 },
                 {
                     "nombre": "OutputStream out",
+                    "description": ""
+                },
+                {
+                    "nombre": "File out",
                     "description": ""
                 }
             ]

@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "ReverbType",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "float lateReflectionIntensity",
-                    "description": ""
-                },
-                {
-                    "nombre": "int lateReflectionDelay",
+                    "nombre": "float earlyReflectionIntensity",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float earlyReflectionIntensity",
+                    "nombre": "int lateReflectionDelay",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
@@ -28,7 +28,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "float lateReflectionIntensity",
                     "description": ""
                 }
             ]

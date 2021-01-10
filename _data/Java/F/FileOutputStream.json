@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "FileOutputStream",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "FileDescriptor fdObj",
+                    "nombre": "boolean append",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean append",
+                    "nombre": "File file",
                     "description": ""
                 },
                 {
@@ -20,7 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "File file",
+                    "nombre": "FileDescriptor fdObj",
                     "description": ""
                 }
             ]
@@ -48,7 +48,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "byte[] b",
                     "description": ""
                 },
                 {
@@ -56,11 +56,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] b",
+                    "nombre": "int b",
                     "description": ""
                 },
                 {
-                    "nombre": "int b",
+                    "nombre": "int off",
                     "description": ""
                 }
             ]

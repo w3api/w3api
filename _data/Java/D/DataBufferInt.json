@@ -5,20 +5,8 @@
     "constructores": [
         {
             "nombre": "DataBufferInt",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "int[] dataArray",
-                    "description": ""
-                },
-                {
-                    "nombre": "int size",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] offsets",
-                    "description": ""
-                },
                 {
                     "nombre": "int[][] dataArray",
                     "description": ""
@@ -29,6 +17,18 @@
                 },
                 {
                     "nombre": "int numBanks",
+                    "description": ""
+                },
+                {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] dataArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
                     "description": ""
                 }
             ]
@@ -54,11 +54,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int bank",
                     "description": ""
                 },
                 {
-                    "nombre": "int bank",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -68,7 +68,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int val",
                     "description": ""
                 },
                 {
@@ -76,7 +76,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int val",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]

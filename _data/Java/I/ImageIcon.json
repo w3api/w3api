@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "ImageIcon",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "URL location",
-                    "description": ""
-                },
-                {
-                    "nombre": "Image image",
+                    "nombre": "String filename",
                     "description": ""
                 },
                 {
@@ -24,7 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String filename",
+                    "nombre": "Image image",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL location",
                     "description": ""
                 }
             ]
@@ -74,15 +74,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
-                    "description": ""
-                },
-                {
                     "nombre": "int y",
                     "description": ""
                 },
                 {
                     "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
                     "description": ""
                 },
                 {

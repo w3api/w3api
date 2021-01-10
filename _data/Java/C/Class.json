@@ -32,15 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean initialize",
                     "description": ""
                 },
                 {
-                    "nombre": "Module module",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
@@ -48,7 +44,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "Module module",
                     "description": ""
                 }
             ]
@@ -176,11 +176,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?>... parameterTypes",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "Class<?>... parameterTypes",
                     "description": ""
                 }
             ]
@@ -240,11 +240,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?>... parameterTypes",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "Class<?>... parameterTypes",
                     "description": ""
                 }
             ]

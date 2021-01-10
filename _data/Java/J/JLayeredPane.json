@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "JLayeredPane",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -100,11 +100,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int position",
+                    "nombre": "int layer",
                     "description": ""
                 },
                 {
-                    "nombre": "int layer",
+                    "nombre": "int position",
                     "description": ""
                 }
             ]
@@ -184,15 +184,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int position",
-                    "description": ""
-                },
-                {
                     "nombre": "Component c",
                     "description": ""
                 },
                 {
                     "nombre": "int layer",
+                    "description": ""
+                },
+                {
+                    "nombre": "int position",
                     "description": ""
                 }
             ]
@@ -202,11 +202,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int position",
+                    "nombre": "Component c",
                     "description": ""
                 },
                 {
-                    "nombre": "Component c",
+                    "nombre": "int position",
                     "description": ""
                 }
             ]

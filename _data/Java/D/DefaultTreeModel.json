@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DefaultTreeModel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "TreeNode root",
@@ -38,7 +38,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object[] path",
+                    "nombre": "Object source",
                     "description": ""
                 },
                 {
@@ -50,7 +50,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object source",
+                    "nombre": "Object[] path",
                     "description": ""
                 }
             ]
@@ -60,7 +60,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object[] path",
+                    "nombre": "Object source",
                     "description": ""
                 },
                 {
@@ -72,7 +72,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object source",
+                    "nombre": "Object[] path",
                     "description": ""
                 }
             ]
@@ -82,7 +82,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object[] path",
+                    "nombre": "Object source",
                     "description": ""
                 },
                 {
@@ -94,7 +94,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object source",
+                    "nombre": "Object[] path",
                     "description": ""
                 }
             ]
@@ -104,7 +104,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object[] path",
+                    "nombre": "Object source",
                     "description": ""
                 },
                 {
@@ -116,7 +116,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object source",
+                    "nombre": "Object[] path",
                     "description": ""
                 }
             ]
@@ -126,11 +126,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object parent",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "Object parent",
                     "description": ""
                 }
             ]
@@ -174,11 +174,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int depth",
+                    "nombre": "TreeNode aNode",
                     "description": ""
                 },
                 {
-                    "nombre": "TreeNode aNode",
+                    "nombre": "int depth",
                     "description": ""
                 }
             ]
@@ -196,15 +196,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "MutableTreeNode parent",
+                    "description": ""
+                },
+                {
                     "nombre": "int index",
                     "description": ""
                 },
                 {
                     "nombre": "MutableTreeNode newChild",
-                    "description": ""
-                },
-                {
-                    "nombre": "MutableTreeNode parent",
                     "description": ""
                 }
             ]
@@ -272,11 +272,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object[] removedChildren",
+                    "nombre": "int[] childIndices",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] childIndices",
+                    "nombre": "Object[] removedChildren",
                     "description": ""
                 },
                 {

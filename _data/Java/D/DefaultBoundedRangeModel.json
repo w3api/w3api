@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "DefaultBoundedRangeModel",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "int extent",
+                    "description": ""
+                },
                 {
                     "nombre": "int min",
                     "description": ""
                 },
                 {
                     "nombre": "int max",
-                    "description": ""
-                },
-                {
-                    "nombre": "int extent",
                     "description": ""
                 },
                 {
@@ -124,10 +124,6 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int newMax",
-                    "description": ""
-                },
-                {
                     "nombre": "int newMin",
                     "description": ""
                 },
@@ -137,6 +133,10 @@
                 },
                 {
                     "nombre": "boolean adjusting",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newMax",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "NimbusLookAndFeel",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int aOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean uiResource",
+                    "nombre": "float sOffset",
                     "description": ""
                 },
                 {
@@ -26,7 +22,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float sOffset",
+                    "nombre": "float midPoint",
                     "description": ""
                 },
                 {
@@ -38,15 +34,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Color color1",
-                    "description": ""
-                },
-                {
-                    "nombre": "float midPoint",
+                    "nombre": "int aOffset",
                     "description": ""
                 },
                 {
                     "nombre": "float hOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean uiResource",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color color1",
                     "description": ""
                 }
             ]
@@ -86,11 +86,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Region region",
+                    "nombre": "String prefix",
                     "description": ""
                 },
                 {
-                    "nombre": "String prefix",
+                    "nombre": "Region region",
                     "description": ""
                 }
             ]

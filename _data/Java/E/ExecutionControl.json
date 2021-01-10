@@ -22,11 +22,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String command",
+                    "nombre": "Object arg",
                     "description": ""
                 },
                 {
-                    "nombre": "Object arg",
+                    "nombre": "String command",
                     "description": ""
                 }
             ]
@@ -36,6 +36,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String spec",
+                    "description": ""
+                },
+                {
                     "nombre": "String> parameters",
                     "description": ""
                 },
@@ -44,15 +48,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Map<String",
-                    "description": ""
-                },
-                {
-                    "nombre": "String spec",
-                    "description": ""
-                },
-                {
                     "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
                     "description": ""
                 }
             ]
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
+                    "nombre": "String methodName",
                     "description": ""
                 },
                 {
-                    "nombre": "String methodName",
+                    "nombre": "String className",
                     "description": ""
                 }
             ]
@@ -100,11 +100,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String varName",
+                    "nombre": "String className",
                     "description": ""
                 },
                 {
-                    "nombre": "String className",
+                    "nombre": "String varName",
                     "description": ""
                 }
             ]

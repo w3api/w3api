@@ -5,22 +5,22 @@
     "constructores": [
         {
             "nombre": "SizeRequirements",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "int min",
-                    "description": ""
-                },
                 {
                     "nombre": "int pref",
                     "description": ""
                 },
                 {
-                    "nombre": "int max",
+                    "nombre": "int min",
                     "description": ""
                 },
                 {
                     "nombre": "float a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int max",
                     "description": ""
                 }
             ]
@@ -46,15 +46,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SizeRequirements total",
-                    "description": ""
-                },
-                {
                     "nombre": "SizeRequirements[] children",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] offsets",
                     "description": ""
                 },
                 {
@@ -68,6 +60,14 @@
                 {
                     "nombre": "int[] spans",
                     "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "SizeRequirements total",
+                    "description": ""
                 }
             ]
         },
@@ -76,19 +76,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SizeRequirements total",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean forward",
-                    "description": ""
-                },
-                {
                     "nombre": "SizeRequirements[] children",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] offsets",
                     "description": ""
                 },
                 {
@@ -97,6 +85,18 @@
                 },
                 {
                     "nombre": "int[] spans",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "SizeRequirements total",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean forward",
                     "description": ""
                 }
             ]

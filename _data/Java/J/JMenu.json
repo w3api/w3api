@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "JMenu",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Action a",
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "boolean b",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean b",
+                    "nombre": "String s",
                     "description": ""
                 }
             ]
@@ -28,10 +28,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Action a",
-                    "description": ""
-                },
-                {
                     "nombre": "String s",
                     "description": ""
                 },
@@ -40,11 +36,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Component c",
+                    "description": ""
+                },
+                {
                     "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "Component c",
+                    "nombre": "Action a",
                     "description": ""
                 }
             ]
@@ -198,7 +198,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Action a",
+                    "nombre": "JMenuItem mi",
                     "description": ""
                 },
                 {
@@ -206,7 +206,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JMenuItem mi",
+                    "nombre": "Action a",
                     "description": ""
                 }
             ]
@@ -276,15 +276,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
                     "nombre": "JMenuItem item",
                     "description": ""
                 },
                 {
                     "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]

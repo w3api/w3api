@@ -5,22 +5,14 @@
     "constructores": [
         {
             "nombre": "CommandAPDU",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
+                    "nombre": "ByteBuffer apdu",
+                    "description": ""
+                },
+                {
                     "nombre": "int apduLength",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] data",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dataLength",
-                    "description": ""
-                },
-                {
-                    "nombre": "int ins",
                     "description": ""
                 },
                 {
@@ -28,23 +20,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int ne",
-                    "description": ""
-                },
-                {
-                    "nombre": "int cla",
-                    "description": ""
-                },
-                {
-                    "nombre": "ByteBuffer apdu",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] apdu",
+                    "nombre": "byte[] data",
                     "description": ""
                 },
                 {
                     "nombre": "int apduOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ne",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ins",
                     "description": ""
                 },
                 {
@@ -53,6 +41,18 @@
                 },
                 {
                     "nombre": "int dataOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] apdu",
+                    "description": ""
+                },
+                {
+                    "nombre": "int cla",
                     "description": ""
                 }
             ]

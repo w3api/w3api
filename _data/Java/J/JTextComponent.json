@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "JTextComponent",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -130,11 +130,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MessageFormat headerFormat",
+                    "nombre": "MessageFormat footerFormat",
                     "description": ""
                 },
                 {
-                    "nombre": "MessageFormat footerFormat",
+                    "nombre": "MessageFormat headerFormat",
                     "description": ""
                 }
             ]
@@ -144,15 +144,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                },
+                {
                     "nombre": "int direction",
                     "description": ""
                 },
                 {
                     "nombre": "int orientation",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle visibleRect",
                     "description": ""
                 }
             ]
@@ -170,15 +170,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                },
+                {
                     "nombre": "int direction",
                     "description": ""
                 },
                 {
                     "nombre": "int orientation",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle visibleRect",
                     "description": ""
                 }
             ]
@@ -244,11 +244,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JTextComponent.KeyBinding[] bindings",
+                    "nombre": "Keymap map",
                     "description": ""
                 },
                 {
-                    "nombre": "Keymap map",
+                    "nombre": "JTextComponent.KeyBinding[] bindings",
                     "description": ""
                 }
             ]
@@ -304,7 +304,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PrintRequestAttributeSet attributes",
+                    "nombre": "PrintService service",
                     "description": ""
                 },
                 {
@@ -316,7 +316,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PrintService service",
+                    "nombre": "PrintRequestAttributeSet attributes",
                     "description": ""
                 }
             ]

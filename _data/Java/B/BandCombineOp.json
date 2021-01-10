@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "BandCombineOp",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "RenderingHints hints",
+                    "nombre": "float[][] matrix",
                     "description": ""
                 },
                 {
-                    "nombre": "float[][] matrix",
+                    "nombre": "RenderingHints hints",
                     "description": ""
                 }
             ]
@@ -34,11 +34,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Raster src",
+                    "nombre": "WritableRaster dst",
                     "description": ""
                 },
                 {
-                    "nombre": "WritableRaster dst",
+                    "nombre": "Raster src",
                     "description": ""
                 }
             ]
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point2D srcPt",
+                    "nombre": "Point2D dstPt",
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D dstPt",
+                    "nombre": "Point2D srcPt",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Endpoint",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,7 +14,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String bindingId",
+                    "nombre": "WebServiceFeature... features",
                     "description": ""
                 },
                 {
@@ -22,7 +22,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "WebServiceFeature... features",
+                    "nombre": "String bindingId",
                     "description": ""
                 }
             ]
@@ -36,11 +36,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<T> clazz",
+                    "nombre": "Element... referenceParameters",
                     "description": ""
                 },
                 {
-                    "nombre": "Element... referenceParameters",
+                    "nombre": "Class<T> clazz",
                     "description": ""
                 }
             ]
@@ -78,15 +78,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Object implementor",
+                    "description": ""
+                },
+                {
                     "nombre": "HttpContext serverContext",
                     "description": ""
                 },
                 {
                     "nombre": "String address",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object implementor",
                     "description": ""
                 }
             ]
@@ -126,11 +126,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object> properties",
+                    "nombre": "Map<String",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<String",
+                    "nombre": "Object> properties",
                     "description": ""
                 }
             ]

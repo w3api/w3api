@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "R> combiner",
+                    "nombre": "BiConsumer<R",
                     "description": ""
                 },
                 {
-                    "nombre": "BiConsumer<R",
+                    "nombre": "R> combiner",
                     "description": ""
                 },
                 {
@@ -66,11 +66,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LongStream b",
+                    "nombre": "LongStream a",
                     "description": ""
                 },
                 {
-                    "nombre": "LongStream a",
+                    "nombre": "LongStream b",
                     "description": ""
                 }
             ]
@@ -160,11 +160,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long seed",
-                    "description": ""
-                },
-                {
-                    "nombre": "LongPredicate hasNext",
+                    "nombre": "LongUnaryOperator next",
                     "description": ""
                 },
                 {
@@ -172,7 +168,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "LongUnaryOperator next",
+                    "nombre": "long seed",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongPredicate hasNext",
                     "description": ""
                 }
             ]
@@ -250,11 +250,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long t",
+                    "nombre": "long... values",
                     "description": ""
                 },
                 {
-                    "nombre": "long... values",
+                    "nombre": "long t",
                     "description": ""
                 }
             ]
@@ -274,11 +274,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long endExclusive",
+                    "nombre": "long startInclusive",
                     "description": ""
                 },
                 {
-                    "nombre": "long startInclusive",
+                    "nombre": "long endExclusive",
                     "description": ""
                 }
             ]

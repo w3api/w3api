@@ -5,8 +5,20 @@
     "constructores": [
         {
             "nombre": "MBeanAttributeInfo",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "Descriptor descriptor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Method getter",
+                    "description": ""
+                },
+                {
+                    "nombre": "String description",
+                    "description": ""
+                },
                 {
                     "nombre": "boolean isReadable",
                     "description": ""
@@ -20,27 +32,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String description",
-                    "description": ""
-                },
-                {
-                    "nombre": "Method getter",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isIs",
-                    "description": ""
-                },
-                {
                     "nombre": "Method setter",
                     "description": ""
                 },
                 {
-                    "nombre": "Descriptor descriptor",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "boolean isIs",
                     "description": ""
                 }
             ]

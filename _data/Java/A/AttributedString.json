@@ -5,22 +5,22 @@
     "constructores": [
         {
             "nombre": "AttributedString",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "?> attributes",
                     "description": ""
                 },
                 {
-                    "nombre": "int beginIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "String text",
-                    "description": ""
-                },
-                {
                     "nombre": "int endIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginIndex",
                     "description": ""
                 },
                 {
@@ -32,7 +32,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AttributedCharacterIterator text",
+                    "nombre": "String text",
                     "description": ""
                 }
             ]
@@ -44,6 +44,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "AttributedCharacterIterator.Attribute attribute",
+                    "description": ""
+                },
+                {
                     "nombre": "int endIndex",
                     "description": ""
                 },
@@ -54,10 +58,6 @@
                 {
                     "nombre": "int beginIndex",
                     "description": ""
-                },
-                {
-                    "nombre": "AttributedCharacterIterator.Attribute attribute",
-                    "description": ""
                 }
             ]
         },
@@ -66,19 +66,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int endIndex",
-                    "description": ""
-                },
-                {
                     "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
                     "description": ""
                 },
                 {
-                    "nombre": "?> attributes",
+                    "nombre": "int endIndex",
                     "description": ""
                 },
                 {
                     "nombre": "int beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> attributes",
                     "description": ""
                 }
             ]

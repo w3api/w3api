@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "ThreadGroup",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "String name",
+                    "nombre": "ThreadGroup parent",
                     "description": ""
                 },
                 {
-                    "nombre": "ThreadGroup parent",
+                    "nombre": "String name",
                     "description": ""
                 }
             ]
@@ -50,11 +50,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean recurse",
+                    "nombre": "Thread[] list",
                     "description": ""
                 },
                 {
-                    "nombre": "Thread[] list",
+                    "nombre": "boolean recurse",
                     "description": ""
                 },
                 {
@@ -142,11 +142,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Throwable e",
+                    "nombre": "Thread t",
                     "description": ""
                 },
                 {
-                    "nombre": "Thread t",
+                    "nombre": "Throwable e",
                     "description": ""
                 }
             ]

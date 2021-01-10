@@ -5,22 +5,22 @@
     "constructores": [
         {
             "nombre": "JTextArea",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "int columns",
-                    "description": ""
-                },
                 {
                     "nombre": "String text",
                     "description": ""
                 },
                 {
-                    "nombre": "int rows",
+                    "nombre": "int columns",
                     "description": ""
                 },
                 {
                     "nombre": "Document doc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rows",
                     "description": ""
                 }
             ]
@@ -116,15 +116,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                },
+                {
                     "nombre": "int direction",
                     "description": ""
                 },
                 {
                     "nombre": "int orientation",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle visibleRect",
                     "description": ""
                 }
             ]
@@ -146,11 +146,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
+                    "nombre": "String str",
                     "description": ""
                 },
                 {
-                    "nombre": "String str",
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -164,15 +164,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
                     "nombre": "int start",
                     "description": ""
                 },
                 {
                     "nombre": "String str",
-                    "description": ""
-                },
-                {
-                    "nombre": "int end",
                     "description": ""
                 }
             ]

@@ -5,18 +5,22 @@
     "constructores": [
         {
             "nombre": "ModelMBeanInfoSupport",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "String description",
+                    "description": ""
+                },
                 {
                     "nombre": "ModelMBeanAttributeInfo[] attributes",
                     "description": ""
                 },
                 {
-                    "nombre": "Descriptor mbeandescriptor",
+                    "nombre": "ModelMBeanOperationInfo[] operations",
                     "description": ""
                 },
                 {
-                    "nombre": "String className",
+                    "nombre": "ModelMBeanConstructorInfo[] constructors",
                     "description": ""
                 },
                 {
@@ -28,15 +32,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String description",
+                    "nombre": "String className",
                     "description": ""
                 },
                 {
-                    "nombre": "ModelMBeanConstructorInfo[] constructors",
-                    "description": ""
-                },
-                {
-                    "nombre": "ModelMBeanOperationInfo[] operations",
+                    "nombre": "Descriptor mbeandescriptor",
                     "description": ""
                 }
             ]

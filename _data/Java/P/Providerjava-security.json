@@ -5,12 +5,8 @@
     "constructores": [
         {
             "nombre": "Provider",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "String versionStr",
-                    "description": ""
-                },
                 {
                     "nombre": "String info",
                     "description": ""
@@ -21,6 +17,10 @@
                 },
                 {
                     "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String versionStr",
                     "description": ""
                 }
             ]
@@ -36,7 +36,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? super Object",
+                    "nombre": "? extends Object> remappingFunction",
                     "description": ""
                 },
                 {
@@ -44,7 +44,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? extends Object> remappingFunction",
+                    "nombre": "? super Object",
                     "description": ""
                 },
                 {
@@ -76,7 +76,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? super Object",
+                    "nombre": "? extends Object> remappingFunction",
                     "description": ""
                 },
                 {
@@ -84,7 +84,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? extends Object> remappingFunction",
+                    "nombre": "? super Object",
                     "description": ""
                 },
                 {
@@ -192,15 +192,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
                     "nombre": "? super Object",
                     "description": ""
                 },
                 {
                     "nombre": "BiFunction<? super Object",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object key",
                     "description": ""
                 },
                 {
@@ -218,11 +218,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object value",
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
+                    "nombre": "Object key",
                     "description": ""
                 }
             ]
@@ -246,11 +246,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object value",
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
+                    "nombre": "Object key",
                     "description": ""
                 }
             ]
@@ -270,11 +270,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object value",
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
+                    "nombre": "Object key",
                     "description": ""
                 }
             ]
@@ -294,11 +294,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object newValue",
                     "description": ""
                 },
                 {
-                    "nombre": "Object newValue",
+                    "nombre": "Object oldValue",
                     "description": ""
                 },
                 {
@@ -306,7 +306,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object oldValue",
+                    "nombre": "Object key",
                     "description": ""
                 }
             ]
@@ -316,11 +316,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? super Object",
+                    "nombre": "? extends Object> function",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends Object> function",
+                    "nombre": "? super Object",
                     "description": ""
                 },
                 {

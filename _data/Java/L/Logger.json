@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Logger",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "String name",
@@ -34,11 +34,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<String> msgSupplier",
+                    "nombre": "String msg",
                     "description": ""
                 },
                 {
-                    "nombre": "String msg",
+                    "nombre": "Supplier<String> msgSupplier",
                     "description": ""
                 }
             ]
@@ -48,15 +48,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Object[] params",
+                    "description": ""
+                },
+                {
                     "nombre": "Object param1",
                     "description": ""
                 },
                 {
                     "nombre": "String sourceMethod",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object[] params",
                     "description": ""
                 },
                 {
@@ -88,11 +88,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<String> msgSupplier",
+                    "nombre": "String msg",
                     "description": ""
                 },
                 {
-                    "nombre": "String msg",
+                    "nombre": "Supplier<String> msgSupplier",
                     "description": ""
                 }
             ]
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<String> msgSupplier",
+                    "nombre": "String msg",
                     "description": ""
                 },
                 {
-                    "nombre": "String msg",
+                    "nombre": "Supplier<String> msgSupplier",
                     "description": ""
                 }
             ]
@@ -116,11 +116,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<String> msgSupplier",
+                    "nombre": "String msg",
                     "description": ""
                 },
                 {
-                    "nombre": "String msg",
+                    "nombre": "Supplier<String> msgSupplier",
                     "description": ""
                 }
             ]
@@ -190,11 +190,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<String> msgSupplier",
+                    "nombre": "String msg",
                     "description": ""
                 },
                 {
-                    "nombre": "String msg",
+                    "nombre": "Supplier<String> msgSupplier",
                     "description": ""
                 }
             ]
@@ -214,11 +214,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Level level",
-                    "description": ""
-                },
-                {
-                    "nombre": "Supplier<String> msgSupplier",
+                    "nombre": "Object param1",
                     "description": ""
                 },
                 {
@@ -226,19 +222,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] params",
-                    "description": ""
-                },
-                {
-                    "nombre": "String msg",
-                    "description": ""
-                },
-                {
                     "nombre": "LogRecord record",
                     "description": ""
                 },
                 {
-                    "nombre": "Object param1",
+                    "nombre": "Supplier<String> msgSupplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] params",
+                    "description": ""
+                },
+                {
+                    "nombre": "Level level",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
                     "description": ""
                 }
             ]
@@ -248,19 +248,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Level level",
-                    "description": ""
-                },
-                {
-                    "nombre": "Supplier<String> msgSupplier",
-                    "description": ""
-                },
-                {
-                    "nombre": "String sourceMethod",
-                    "description": ""
-                },
-                {
-                    "nombre": "String sourceClass",
+                    "nombre": "Object param1",
                     "description": ""
                 },
                 {
@@ -268,15 +256,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String sourceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<String> msgSupplier",
+                    "description": ""
+                },
+                {
                     "nombre": "Object[] params",
                     "description": ""
                 },
                 {
-                    "nombre": "String msg",
+                    "nombre": "String sourceMethod",
                     "description": ""
                 },
                 {
-                    "nombre": "Object param1",
+                    "nombre": "Level level",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
                     "description": ""
                 }
             ]
@@ -286,23 +286,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Level level",
-                    "description": ""
-                },
-                {
-                    "nombre": "String sourceMethod",
-                    "description": ""
-                },
-                {
-                    "nombre": "String sourceClass",
-                    "description": ""
-                },
-                {
-                    "nombre": "Throwable thrown",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object[] params",
+                    "nombre": "Object param1",
                     "description": ""
                 },
                 {
@@ -310,19 +294,35 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String msg",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object param1",
-                    "description": ""
-                },
-                {
                     "nombre": "String bundleName",
                     "description": ""
                 },
                 {
+                    "nombre": "Throwable thrown",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sourceClass",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] params",
+                    "description": ""
+                },
+                {
+                    "nombre": "String sourceMethod",
+                    "description": ""
+                },
+                {
                     "nombre": "Object... params",
+                    "description": ""
+                },
+                {
+                    "nombre": "Level level",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
                     "description": ""
                 }
             ]
@@ -392,11 +392,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<String> msgSupplier",
+                    "nombre": "String msg",
                     "description": ""
                 },
                 {
-                    "nombre": "String msg",
+                    "nombre": "Supplier<String> msgSupplier",
                     "description": ""
                 }
             ]
@@ -424,11 +424,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<String> msgSupplier",
+                    "nombre": "String msg",
                     "description": ""
                 },
                 {
-                    "nombre": "String msg",
+                    "nombre": "Supplier<String> msgSupplier",
                     "description": ""
                 }
             ]

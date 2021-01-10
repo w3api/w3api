@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "JColorChooser",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Color initialColor",
@@ -34,7 +34,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JColorChooser chooserPane",
+                    "nombre": "ActionListener okListener",
                     "description": ""
                 },
                 {
@@ -42,19 +42,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean modal",
-                    "description": ""
-                },
-                {
-                    "nombre": "ActionListener okListener",
-                    "description": ""
-                },
-                {
                     "nombre": "ActionListener cancelListener",
                     "description": ""
                 },
                 {
+                    "nombre": "boolean modal",
+                    "description": ""
+                },
+                {
                     "nombre": "Component c",
+                    "description": ""
+                },
+                {
+                    "nombre": "JColorChooser chooserPane",
                     "description": ""
                 }
             ]
@@ -120,7 +120,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int r",
+                    "nombre": "int g",
                     "description": ""
                 },
                 {
@@ -128,7 +128,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int g",
+                    "nombre": "int r",
                     "description": ""
                 },
                 {
@@ -194,11 +194,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Color initialColor",
+                    "nombre": "boolean colorTransparencySelectionEnabled",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean colorTransparencySelectionEnabled",
+                    "nombre": "Color initialColor",
                     "description": ""
                 }
             ]

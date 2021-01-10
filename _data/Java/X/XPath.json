@@ -18,7 +18,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "QName returnType",
+                    "nombre": "Object item",
                     "description": ""
                 },
                 {
@@ -26,11 +26,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String expression",
+                    "nombre": "QName returnType",
                     "description": ""
                 },
                 {
-                    "nombre": "Object item",
+                    "nombre": "String expression",
                     "description": ""
                 }
             ]
@@ -39,6 +39,10 @@
             "nombre": "evaluateExpression",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "Object item",
+                    "description": ""
+                },
                 {
                     "nombre": "Class<T> type",
                     "description": ""
@@ -49,10 +53,6 @@
                 },
                 {
                     "nombre": "String expression",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object item",
                     "description": ""
                 }
             ]

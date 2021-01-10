@@ -12,11 +12,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "OutputStream outStream",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream inStream",
+                    "nombre": "OutputStream outStream",
                     "description": ""
                 },
                 {
@@ -24,7 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "InputStream inStream",
                     "description": ""
                 }
             ]
@@ -70,19 +70,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "OutputStream outStream",
-                    "description": ""
-                },
-                {
-                    "nombre": "InputStream inStream",
-                    "description": ""
-                },
-                {
                     "nombre": "MessageProp msgProp",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -91,6 +79,18 @@
                 },
                 {
                     "nombre": "byte[] inMsg",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream outStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inStream",
                     "description": ""
                 }
             ]
@@ -138,6 +138,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
                     "nombre": "byte[] inputBuf",
                     "description": ""
                 },
@@ -146,15 +150,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream inStream",
-                    "description": ""
-                },
-                {
                     "nombre": "int len",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "InputStream inStream",
                     "description": ""
                 }
             ]
@@ -270,19 +270,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "OutputStream outStream",
-                    "description": ""
-                },
-                {
-                    "nombre": "InputStream inStream",
-                    "description": ""
-                },
-                {
                     "nombre": "MessageProp msgProp",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -291,6 +279,18 @@
                 },
                 {
                     "nombre": "byte[] inBuf",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream outStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inStream",
                     "description": ""
                 }
             ]
@@ -300,31 +300,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] inToken",
-                    "description": ""
-                },
-                {
-                    "nombre": "int tokLen",
-                    "description": ""
-                },
-                {
                     "nombre": "int msgLen",
-                    "description": ""
-                },
-                {
-                    "nombre": "InputStream msgStream",
-                    "description": ""
-                },
-                {
-                    "nombre": "int msgOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int tokOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "InputStream tokStream",
                     "description": ""
                 },
                 {
@@ -332,7 +308,31 @@
                     "description": ""
                 },
                 {
+                    "nombre": "byte[] inToken",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream tokStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tokLen",
+                    "description": ""
+                },
+                {
                     "nombre": "byte[] inMsg",
+                    "description": ""
+                },
+                {
+                    "nombre": "int msgOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream msgStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tokOffset",
                     "description": ""
                 }
             ]
@@ -342,19 +342,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "OutputStream outStream",
-                    "description": ""
-                },
-                {
-                    "nombre": "InputStream inStream",
-                    "description": ""
-                },
-                {
                     "nombre": "MessageProp msgProp",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -363,6 +351,18 @@
                 },
                 {
                     "nombre": "byte[] inBuf",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream outStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inStream",
                     "description": ""
                 }
             ]

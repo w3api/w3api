@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "LayerUI",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -28,11 +28,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JLayer<? extends V> l",
+                    "nombre": "PropertyChangeEvent evt",
                     "description": ""
                 },
                 {
-                    "nombre": "PropertyChangeEvent evt",
+                    "nombre": "JLayer<? extends V> l",
                     "description": ""
                 }
             ]
@@ -70,11 +70,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String propertyName",
+                    "nombre": "Object oldValue",
                     "description": ""
                 },
                 {
-                    "nombre": "Object oldValue",
+                    "nombre": "String propertyName",
                     "description": ""
                 }
             ]
@@ -84,11 +84,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "JComponent c",
                     "description": ""
                 },
                 {
-                    "nombre": "JComponent c",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
@@ -152,7 +152,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int infoflags",
                     "description": ""
                 },
                 {
@@ -160,11 +160,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Image img",
-                    "description": ""
-                },
-                {
-                    "nombre": "int infoflags",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -172,7 +168,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -210,7 +210,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "JLayer<? extends V> l",
                     "description": ""
                 },
                 {
@@ -218,11 +218,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JLayer<? extends V> l",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {

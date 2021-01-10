@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "TrustAnchor",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "PublicKey pubKey",
+                    "description": ""
+                },
                 {
                     "nombre": "X509Certificate trustedCert",
                     "description": ""
                 },
                 {
-                    "nombre": "String caName",
-                    "description": ""
-                },
-                {
-                    "nombre": "PublicKey pubKey",
+                    "nombre": "X500Principal caPrincipal",
                     "description": ""
                 },
                 {
@@ -24,7 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "X500Principal caPrincipal",
+                    "nombre": "String caName",
                     "description": ""
                 }
             ]

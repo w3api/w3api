@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "SimpleStyleableStringProperty",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Object bean",
-                    "description": ""
-                },
-                {
-                    "nombre": "String> cssMetaData",
                     "description": ""
                 },
                 {
@@ -20,11 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CssMetaData<? extends Styleable",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "String> cssMetaData",
+                    "description": ""
+                },
+                {
+                    "nombre": "CssMetaData<? extends Styleable",
                     "description": ""
                 }
             ]

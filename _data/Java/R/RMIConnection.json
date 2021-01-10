@@ -8,15 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Subject delegationSubject",
-                    "description": ""
-                },
-                {
                     "nombre": "MarshalledObject filter",
                     "description": ""
                 },
                 {
-                    "nombre": "ObjectName listener",
+                    "nombre": "Subject delegationSubject",
                     "description": ""
                 },
                 {
@@ -26,6 +22,10 @@
                 {
                     "nombre": "MarshalledObject handback",
                     "description": ""
+                },
+                {
+                    "nombre": "ObjectName listener",
+                    "description": ""
                 }
             ]
         },
@@ -34,11 +34,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MarshalledObject[] filters",
+                    "nombre": "ObjectName[] names",
                     "description": ""
                 },
                 {
-                    "nombre": "ObjectName[] names",
+                    "nombre": "MarshalledObject[] filters",
                     "description": ""
                 },
                 {
@@ -56,10 +56,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
-                    "description": ""
-                },
-                {
                     "nombre": "Subject delegationSubject",
                     "description": ""
                 },
@@ -72,11 +68,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
                     "nombre": "MarshalledObject params",
                     "description": ""
                 },
                 {
-                    "nombre": "ObjectName name",
+                    "nombre": "String className",
                     "description": ""
                 }
             ]
@@ -86,7 +86,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int maxNotifications",
+                    "nombre": "long clientSequenceNumber",
                     "description": ""
                 },
                 {
@@ -94,7 +94,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long clientSequenceNumber",
+                    "nombre": "int maxNotifications",
                     "description": ""
                 }
             ]
@@ -104,15 +104,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                },
+                {
                     "nombre": "ObjectName name",
                     "description": ""
                 },
                 {
                     "nombre": "String attribute",
-                    "description": ""
-                },
-                {
-                    "nombre": "Subject delegationSubject",
                     "description": ""
                 }
             ]
@@ -122,15 +122,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                },
+                {
                     "nombre": "ObjectName name",
                     "description": ""
                 },
                 {
                     "nombre": "String[] attributes",
-                    "description": ""
-                },
-                {
-                    "nombre": "Subject delegationSubject",
                     "description": ""
                 }
             ]
@@ -174,11 +174,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObjectName name",
+                    "nombre": "Subject delegationSubject",
                     "description": ""
                 },
                 {
-                    "nombre": "Subject delegationSubject",
+                    "nombre": "ObjectName name",
                     "description": ""
                 }
             ]
@@ -188,11 +188,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObjectName name",
+                    "nombre": "Subject delegationSubject",
                     "description": ""
                 },
                 {
-                    "nombre": "Subject delegationSubject",
+                    "nombre": "ObjectName name",
                     "description": ""
                 }
             ]
@@ -206,11 +206,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String operationName",
+                    "nombre": "String[] signature",
                     "description": ""
                 },
                 {
-                    "nombre": "String[] signature",
+                    "nombre": "ObjectName name",
                     "description": ""
                 },
                 {
@@ -218,7 +218,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ObjectName name",
+                    "nombre": "String operationName",
                     "description": ""
                 }
             ]
@@ -228,7 +228,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
+                    "nombre": "Subject delegationSubject",
                     "description": ""
                 },
                 {
@@ -236,7 +236,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Subject delegationSubject",
+                    "nombre": "String className",
                     "description": ""
                 }
             ]
@@ -246,11 +246,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObjectName name",
+                    "nombre": "Subject delegationSubject",
                     "description": ""
                 },
                 {
-                    "nombre": "Subject delegationSubject",
+                    "nombre": "ObjectName name",
                     "description": ""
                 }
             ]
@@ -260,7 +260,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MarshalledObject query",
+                    "nombre": "Subject delegationSubject",
                     "description": ""
                 },
                 {
@@ -268,7 +268,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Subject delegationSubject",
+                    "nombre": "MarshalledObject query",
                     "description": ""
                 }
             ]
@@ -278,7 +278,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MarshalledObject query",
+                    "nombre": "Subject delegationSubject",
                     "description": ""
                 },
                 {
@@ -286,7 +286,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Subject delegationSubject",
+                    "nombre": "MarshalledObject query",
                     "description": ""
                 }
             ]
@@ -296,15 +296,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Subject delegationSubject",
-                    "description": ""
-                },
-                {
                     "nombre": "MarshalledObject filter",
                     "description": ""
                 },
                 {
-                    "nombre": "ObjectName listener",
+                    "nombre": "Subject delegationSubject",
                     "description": ""
                 },
                 {
@@ -314,6 +310,10 @@
                 {
                     "nombre": "MarshalledObject handback",
                     "description": ""
+                },
+                {
+                    "nombre": "ObjectName listener",
+                    "description": ""
                 }
             ]
         },
@@ -322,15 +322,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Subject delegationSubject",
+                    "description": ""
+                },
+                {
                     "nombre": "ObjectName name",
                     "description": ""
                 },
                 {
                     "nombre": "Integer[] listenerIDs",
-                    "description": ""
-                },
-                {
-                    "nombre": "Subject delegationSubject",
                     "description": ""
                 }
             ]
@@ -340,15 +340,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObjectName name",
-                    "description": ""
-                },
-                {
                     "nombre": "MarshalledObject attribute",
                     "description": ""
                 },
                 {
                     "nombre": "Subject delegationSubject",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectName name",
                     "description": ""
                 }
             ]
@@ -358,11 +358,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObjectName name",
+                    "nombre": "Subject delegationSubject",
                     "description": ""
                 },
                 {
-                    "nombre": "Subject delegationSubject",
+                    "nombre": "ObjectName name",
                     "description": ""
                 },
                 {
@@ -376,11 +376,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ObjectName name",
+                    "nombre": "Subject delegationSubject",
                     "description": ""
                 },
                 {
-                    "nombre": "Subject delegationSubject",
+                    "nombre": "ObjectName name",
                     "description": ""
                 }
             ]

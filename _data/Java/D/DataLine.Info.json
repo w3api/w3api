@@ -5,22 +5,14 @@
     "constructores": [
         {
             "nombre": "DataLine.Info",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "int minBufferSize",
-                    "description": ""
-                },
-                {
-                    "nombre": "AudioFormat format",
-                    "description": ""
-                },
                 {
                     "nombre": "Class<?> lineClass",
                     "description": ""
                 },
                 {
-                    "nombre": "int maxBufferSize",
+                    "nombre": "int minBufferSize",
                     "description": ""
                 },
                 {
@@ -29,6 +21,14 @@
                 },
                 {
                     "nombre": "int bufferSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxBufferSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioFormat format",
                     "description": ""
                 }
             ]

@@ -48,11 +48,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "R> combiner",
+                    "nombre": "BiConsumer<R",
                     "description": ""
                 },
                 {
-                    "nombre": "BiConsumer<R",
+                    "nombre": "R> combiner",
                     "description": ""
                 },
                 {
@@ -70,11 +70,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "IntStream b",
+                    "nombre": "IntStream a",
                     "description": ""
                 },
                 {
-                    "nombre": "IntStream a",
+                    "nombre": "IntStream b",
                     "description": ""
                 }
             ]
@@ -168,15 +168,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "IntUnaryOperator f",
-                    "description": ""
-                },
-                {
                     "nombre": "IntUnaryOperator next",
                     "description": ""
                 },
                 {
                     "nombre": "int seed",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntUnaryOperator f",
                     "description": ""
                 }
             ]
@@ -306,11 +306,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int identity",
+                    "nombre": "IntBinaryOperator op",
                     "description": ""
                 },
                 {
-                    "nombre": "IntBinaryOperator op",
+                    "nombre": "int identity",
                     "description": ""
                 }
             ]

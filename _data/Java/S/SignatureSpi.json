@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "SignatureSpi",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -74,15 +74,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int len",
-                    "description": ""
-                },
-                {
                     "nombre": "byte[] outbuf",
                     "description": ""
                 },
                 {
                     "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
                     "description": ""
                 }
             ]
@@ -92,7 +92,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "byte b",
                     "description": ""
                 },
                 {
@@ -104,11 +104,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "int off",
                     "description": ""
                 },
                 {
-                    "nombre": "byte b",
+                    "nombre": "int len",
                     "description": ""
                 }
             ]
@@ -118,15 +118,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
                     "nombre": "int length",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] sigBytes",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 }
             ]

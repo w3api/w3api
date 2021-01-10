@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "Locale",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "String country",
+                    "description": ""
+                },
                 {
                     "nombre": "String variant",
                     "description": ""
                 },
                 {
                     "nombre": "String language",
-                    "description": ""
-                },
-                {
-                    "nombre": "String country",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Locale.FilteringMode mode",
+                    "nombre": "Collection<Locale> locales",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<Locale> locales",
+                    "nombre": "Locale.FilteringMode mode",
                     "description": ""
                 }
             ]
@@ -64,11 +64,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Locale.FilteringMode mode",
+                    "nombre": "Collection<String> tags",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<String> tags",
+                    "nombre": "Locale.FilteringMode mode",
                     "description": ""
                 }
             ]

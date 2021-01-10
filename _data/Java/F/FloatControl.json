@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "FloatControl",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "FloatControl.Type type",
+                    "nombre": "String minLabel",
                     "description": ""
                 },
                 {
@@ -20,15 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String minLabel",
-                    "description": ""
-                },
-                {
                     "nombre": "float initialValue",
                     "description": ""
                 },
                 {
-                    "nombre": "float maximum",
+                    "nombre": "String maxLabel",
                     "description": ""
                 },
                 {
@@ -40,11 +36,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String maxLabel",
+                    "nombre": "int updatePeriod",
                     "description": ""
                 },
                 {
-                    "nombre": "int updatePeriod",
+                    "nombre": "float maximum",
+                    "description": ""
+                },
+                {
+                    "nombre": "FloatControl.Type type",
                     "description": ""
                 }
             ]
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int microseconds",
+                    "nombre": "float from",
                     "description": ""
                 },
                 {
-                    "nombre": "float from",
+                    "nombre": "int microseconds",
                     "description": ""
                 },
                 {

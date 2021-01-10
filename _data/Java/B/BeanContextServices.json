@@ -18,11 +18,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> serviceClass",
+                    "nombre": "BeanContextServiceProvider serviceProvider",
                     "description": ""
                 },
                 {
-                    "nombre": "BeanContextServiceProvider serviceProvider",
+                    "nombre": "Class<?> serviceClass",
                     "description": ""
                 }
             ]
@@ -46,7 +46,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object requestor",
+                    "nombre": "BeanContextServiceRevokedListener bcsrl",
                     "description": ""
                 },
                 {
@@ -54,15 +54,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "BeanContextChild child",
+                    "description": ""
+                },
+                {
                     "nombre": "Object serviceSelector",
                     "description": ""
                 },
                 {
-                    "nombre": "BeanContextServiceRevokedListener bcsrl",
-                    "description": ""
-                },
-                {
-                    "nombre": "BeanContextChild child",
+                    "nombre": "Object requestor",
                     "description": ""
                 }
             ]
@@ -82,15 +82,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object service",
-                    "description": ""
-                },
-                {
                     "nombre": "BeanContextChild child",
                     "description": ""
                 },
                 {
                     "nombre": "Object requestor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object service",
                     "description": ""
                 }
             ]
@@ -110,11 +110,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> serviceClass",
+                    "nombre": "BeanContextServiceProvider serviceProvider",
                     "description": ""
                 },
                 {
-                    "nombre": "BeanContextServiceProvider serviceProvider",
+                    "nombre": "Class<?> serviceClass",
                     "description": ""
                 },
                 {

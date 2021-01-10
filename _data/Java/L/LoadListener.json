@@ -30,11 +30,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> sourceType",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "Class<?> sourceType",
                     "description": ""
                 }
             ]
@@ -144,15 +144,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> sourceType",
-                    "description": ""
-                },
-                {
                     "nombre": "String name",
                     "description": ""
                 },
                 {
                     "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> sourceType",
                     "description": ""
                 }
             ]

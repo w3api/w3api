@@ -5,22 +5,22 @@
     "constructores": [
         {
             "nombre": "ArrayType",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "SimpleType<?> elementType",
-                    "description": ""
-                },
                 {
                     "nombre": "int dimension",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean primitiveArray",
+                    "nombre": "OpenType<?> elementType",
                     "description": ""
                 },
                 {
-                    "nombre": "OpenType<?> elementType",
+                    "nombre": "SimpleType<?> elementType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean primitiveArray",
                     "description": ""
                 }
             ]

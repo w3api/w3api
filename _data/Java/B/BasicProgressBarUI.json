@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "BasicProgressBarUI",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -24,15 +24,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
                     "nombre": "Insets b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int height",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "JComponent c",
                     "description": ""
                 },
                 {
-                    "nombre": "JComponent c",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
@@ -136,10 +136,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "Graphics g",
                     "description": ""
                 },
@@ -148,15 +144,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String progressString",
-                    "description": ""
-                },
-                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String progressString",
                     "description": ""
                 }
             ]
@@ -220,15 +220,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "Insets b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int height",
                     "description": ""
                 },
                 {
@@ -236,11 +228,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int amountFull",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
                     "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int amountFull",
                     "description": ""
                 },
                 {

@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "PKIXCertPathBuilderResult",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "PolicyNode policyTree",
-                    "description": ""
-                },
-                {
-                    "nombre": "TrustAnchor trustAnchor",
+                    "nombre": "PublicKey subjectPublicKey",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PublicKey subjectPublicKey",
+                    "nombre": "TrustAnchor trustAnchor",
+                    "description": ""
+                },
+                {
+                    "nombre": "PolicyNode policyTree",
                     "description": ""
                 }
             ]

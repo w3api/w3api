@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "BasicLabelUI",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "JComponent c",
                     "description": ""
                 },
                 {
-                    "nombre": "JComponent c",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
@@ -112,10 +112,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JLabel label",
-                    "description": ""
-                },
-                {
                     "nombre": "String text",
                     "description": ""
                 },
@@ -128,7 +124,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "FontMetrics fontMetrics",
+                    "nombre": "Icon icon",
                     "description": ""
                 },
                 {
@@ -136,7 +132,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Icon icon",
+                    "nombre": "FontMetrics fontMetrics",
+                    "description": ""
+                },
+                {
+                    "nombre": "JLabel label",
                     "description": ""
                 }
             ]
@@ -160,11 +160,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JLabel l",
+                    "nombre": "String s",
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "JLabel l",
                     "description": ""
                 },
                 {
@@ -186,11 +186,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JLabel l",
+                    "nombre": "String s",
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "JLabel l",
                     "description": ""
                 },
                 {

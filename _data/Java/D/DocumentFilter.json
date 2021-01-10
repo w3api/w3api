@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DocumentFilter",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,7 +18,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AttributeSet attr",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -26,7 +26,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "AttributeSet attr",
                     "description": ""
                 }
             ]
@@ -40,11 +40,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -53,6 +53,14 @@
             "nombre": "replace",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "DocumentFilter.FilterBypass fb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
                 {
                     "nombre": "int length",
                     "description": ""
@@ -63,14 +71,6 @@
                 },
                 {
                     "nombre": "AttributeSet attrs",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "DocumentFilter.FilterBypass fb",
                     "description": ""
                 }
             ]

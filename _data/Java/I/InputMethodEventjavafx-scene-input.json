@@ -5,18 +5,14 @@
     "constructores": [
         {
             "nombre": "InputMethodEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "List<InputMethodTextRun> composed",
-                    "description": ""
-                },
-                {
-                    "nombre": "String committed",
-                    "description": ""
-                },
-                {
                     "nombre": "int caretPosition",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
                     "description": ""
                 },
                 {
@@ -24,11 +20,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String committed",
+                    "description": ""
+                },
+                {
                     "nombre": "EventType<InputMethodEvent> eventType",
                     "description": ""
                 },
                 {
-                    "nombre": "EventTarget target",
+                    "nombre": "List<InputMethodTextRun> composed",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "X509ExtendedKeyManager",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,15 +14,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Principal[] issuers",
+                    "description": ""
+                },
+                {
                     "nombre": "String[] keyType",
                     "description": ""
                 },
                 {
                     "nombre": "SSLEngine engine",
-                    "description": ""
-                },
-                {
-                    "nombre": "Principal[] issuers",
                     "description": ""
                 }
             ]
@@ -32,7 +32,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SSLEngine engine",
+                    "nombre": "Principal[] issuers",
                     "description": ""
                 },
                 {
@@ -40,7 +40,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Principal[] issuers",
+                    "nombre": "SSLEngine engine",
                     "description": ""
                 }
             ]

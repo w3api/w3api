@@ -5,10 +5,26 @@
     "constructores": [
         {
             "nombre": "JTree",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
+                    "nombre": "Object[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "Hashtable<?",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean asksAllowsChildren",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> value",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeNode root",
                     "description": ""
                 },
                 {
@@ -17,22 +33,6 @@
                 },
                 {
                     "nombre": "TreeModel newModel",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object[] value",
-                    "description": ""
-                },
-                {
-                    "nombre": "?> value",
-                    "description": ""
-                },
-                {
-                    "nombre": "Hashtable<?",
-                    "description": ""
-                },
-                {
-                    "nombre": "TreeNode root",
                     "description": ""
                 }
             ]
@@ -160,7 +160,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean leaf",
+                    "nombre": "int row",
                     "description": ""
                 },
                 {
@@ -168,11 +168,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int row",
+                    "nombre": "boolean selected",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean selected",
+                    "nombre": "Object value",
                     "description": ""
                 },
                 {
@@ -180,7 +180,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
+                    "nombre": "boolean leaf",
                     "description": ""
                 }
             ]
@@ -502,15 +502,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                },
+                {
                     "nombre": "int direction",
                     "description": ""
                 },
                 {
                     "nombre": "int orientation",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle visibleRect",
                     "description": ""
                 }
             ]
@@ -528,15 +528,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle visibleRect",
+                    "description": ""
+                },
+                {
                     "nombre": "int direction",
                     "description": ""
                 },
                 {
                     "nombre": "int orientation",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle visibleRect",
                     "description": ""
                 }
             ]
@@ -728,11 +728,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean includePath",
+                    "nombre": "TreePath path",
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "boolean includePath",
                     "description": ""
                 }
             ]

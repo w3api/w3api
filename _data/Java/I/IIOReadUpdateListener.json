@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] bands",
-                    "description": ""
-                },
-                {
-                    "nombre": "ImageReader source",
+                    "nombre": "int periodX",
                     "description": ""
                 },
                 {
@@ -20,11 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int periodX",
+                    "nombre": "int[] bands",
                     "description": ""
                 },
                 {
                     "nombre": "int minY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodY",
                     "description": ""
                 },
                 {
@@ -40,7 +40,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int periodY",
+                    "nombre": "ImageReader source",
                     "description": ""
                 }
             ]
@@ -50,11 +50,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ImageReader source",
+                    "nombre": "BufferedImage theImage",
                     "description": ""
                 },
                 {
-                    "nombre": "BufferedImage theImage",
+                    "nombre": "ImageReader source",
                     "description": ""
                 }
             ]
@@ -64,11 +64,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] bands",
-                    "description": ""
-                },
-                {
-                    "nombre": "ImageReader source",
+                    "nombre": "int periodX",
                     "description": ""
                 },
                 {
@@ -80,7 +76,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int pass",
+                    "nombre": "int minPass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bands",
                     "description": ""
                 },
                 {
@@ -88,11 +88,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int minPass",
-                    "description": ""
-                },
-                {
-                    "nombre": "int periodX",
+                    "nombre": "int periodY",
                     "description": ""
                 },
                 {
@@ -100,7 +96,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int periodY",
+                    "nombre": "int pass",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReader source",
                     "description": ""
                 }
             ]
@@ -124,11 +124,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] bands",
-                    "description": ""
-                },
-                {
-                    "nombre": "ImageReader source",
+                    "nombre": "int periodX",
                     "description": ""
                 },
                 {
@@ -140,7 +136,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int pass",
+                    "nombre": "int minPass",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bands",
                     "description": ""
                 },
                 {
@@ -148,11 +148,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int minPass",
-                    "description": ""
-                },
-                {
-                    "nombre": "int periodX",
+                    "nombre": "int periodY",
                     "description": ""
                 },
                 {
@@ -160,7 +156,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int periodY",
+                    "nombre": "int pass",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReader source",
                     "description": ""
                 }
             ]
@@ -170,11 +170,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] bands",
-                    "description": ""
-                },
-                {
-                    "nombre": "ImageReader source",
+                    "nombre": "int periodX",
                     "description": ""
                 },
                 {
@@ -182,7 +178,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int periodX",
+                    "nombre": "int[] bands",
                     "description": ""
                 },
                 {
@@ -190,7 +186,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int periodY",
                     "description": ""
                 },
                 {
@@ -198,11 +194,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
-                    "nombre": "int periodY",
+                    "nombre": "ImageReader source",
                     "description": ""
                 }
             ]

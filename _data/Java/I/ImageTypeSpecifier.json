@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "ImageTypeSpecifier",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "SampleModel sampleModel",
                     "description": ""
                 },
                 {
-                    "nombre": "ColorModel colorModel",
+                    "nombre": "RenderedImage image",
                     "description": ""
                 },
                 {
-                    "nombre": "RenderedImage image",
+                    "nombre": "ColorModel colorModel",
                     "description": ""
                 }
             ]
@@ -28,7 +28,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] bankIndices",
+                    "nombre": "int[] bandOffsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dataType",
                     "description": ""
                 },
                 {
@@ -36,19 +40,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean hasAlpha",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean isAlphaPremultiplied",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] bandOffsets",
+                    "nombre": "boolean hasAlpha",
                     "description": ""
                 },
                 {
-                    "nombre": "int dataType",
+                    "nombre": "int[] bankIndices",
                     "description": ""
                 }
             ]
@@ -92,19 +92,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean isSigned",
-                    "description": ""
-                },
-                {
-                    "nombre": "int bits",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean isAlphaPremultiplied",
                     "description": ""
                 },
                 {
                     "nombre": "int dataType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSigned",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bits",
                     "description": ""
                 }
             ]
@@ -114,19 +114,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] blueLUT",
-                    "description": ""
-                },
-                {
-                    "nombre": "int bits",
-                    "description": ""
-                },
-                {
                     "nombre": "byte[] greenLUT",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] redLUT",
+                    "nombre": "byte[] blueLUT",
                     "description": ""
                 },
                 {
@@ -134,7 +126,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int bits",
+                    "description": ""
+                },
+                {
                     "nombre": "int dataType",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] redLUT",
                     "description": ""
                 }
             ]
@@ -144,11 +144,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ColorSpace colorSpace",
+                    "nombre": "int[] bandOffsets",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean hasAlpha",
+                    "nombre": "int dataType",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace colorSpace",
                     "description": ""
                 },
                 {
@@ -156,11 +160,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] bandOffsets",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dataType",
+                    "nombre": "boolean hasAlpha",
                     "description": ""
                 }
             ]
@@ -170,6 +170,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int greenMask",
+                    "description": ""
+                },
+                {
                     "nombre": "ColorSpace colorSpace",
                     "description": ""
                 },
@@ -178,15 +182,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int alphaMask",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean isAlphaPremultiplied",
-                    "description": ""
-                },
-                {
-                    "nombre": "int greenMask",
-                    "description": ""
-                },
-                {
-                    "nombre": "int transferType",
                     "description": ""
                 },
                 {
@@ -194,7 +194,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int alphaMask",
+                    "nombre": "int transferType",
                     "description": ""
                 }
             ]

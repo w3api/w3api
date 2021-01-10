@@ -5,18 +5,14 @@
     "constructores": [
         {
             "nombre": "AbstractWriter",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Element root",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
-                    "description": ""
-                },
-                {
                     "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Document doc",
                     "description": ""
                 },
                 {
@@ -24,7 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Document doc",
+                    "nombre": "Element root",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
                     "description": ""
                 }
             ]
@@ -116,11 +116,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "char[] content",
+                    "nombre": "int start",
                     "description": ""
                 },
                 {
-                    "nombre": "int start",
+                    "nombre": "char[] content",
                     "description": ""
                 },
                 {
@@ -194,11 +194,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "char ch",
-                    "description": ""
-                },
-                {
-                    "nombre": "int startIndex",
+                    "nombre": "String content",
                     "description": ""
                 },
                 {
@@ -206,11 +202,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String content",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "char ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startIndex",
                     "description": ""
                 }
             ]

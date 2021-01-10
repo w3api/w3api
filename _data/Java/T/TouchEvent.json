@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "TouchEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "EventType<TouchEvent> eventType",
+                    "description": ""
+                },
                 {
                     "nombre": "boolean shiftDown",
                     "description": ""
                 },
                 {
-                    "nombre": "Object source",
-                    "description": ""
-                },
-                {
-                    "nombre": "int eventSetId",
+                    "nombre": "EventTarget target",
                     "description": ""
                 },
                 {
@@ -24,7 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean altDown",
+                    "nombre": "Object source",
                     "description": ""
                 },
                 {
@@ -32,11 +32,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "EventType<TouchEvent> eventType",
+                    "nombre": "boolean altDown",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean metaDown",
+                    "nombre": "int eventSetId",
                     "description": ""
                 },
                 {
@@ -44,7 +44,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "EventTarget target",
+                    "nombre": "boolean metaDown",
                     "description": ""
                 }
             ]
@@ -56,11 +56,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object newSource",
+                    "nombre": "EventType<TouchEvent> type",
                     "description": ""
                 },
                 {
-                    "nombre": "EventType<TouchEvent> type",
+                    "nombre": "Object newSource",
                     "description": ""
                 },
                 {

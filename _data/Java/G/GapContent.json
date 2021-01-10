@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "GapContent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "int initialLength",
@@ -48,7 +48,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int where",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -56,7 +56,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "int where",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int where",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "int where",
                     "description": ""
                 }
             ]
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int where",
+                    "nombre": "int nitems",
                     "description": ""
                 },
                 {
-                    "nombre": "int nitems",
+                    "nombre": "int where",
                     "description": ""
                 }
             ]
@@ -138,11 +138,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int position",
-                    "description": ""
-                },
-                {
-                    "nombre": "int addSize",
+                    "nombre": "int rmSize",
                     "description": ""
                 },
                 {
@@ -150,7 +146,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int rmSize",
+                    "nombre": "int addSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int position",
                     "description": ""
                 }
             ]
@@ -204,15 +204,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
-                    "description": ""
-                },
-                {
                     "nombre": "Vector positions",
                     "description": ""
                 },
                 {
                     "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
                     "description": ""
                 }
             ]

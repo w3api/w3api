@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Node",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -104,15 +104,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Point2D localPoint",
+                    "description": ""
+                },
+                {
                     "nombre": "double localY",
                     "description": ""
                 },
                 {
                     "nombre": "double localX",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point2D localPoint",
                     "description": ""
                 }
             ]
@@ -150,11 +150,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object... parameters",
+                    "nombre": "AccessibleAction action",
                     "description": ""
                 },
                 {
-                    "nombre": "AccessibleAction action",
+                    "nombre": "Object... parameters",
                     "description": ""
                 }
             ]
@@ -546,7 +546,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double localX",
+                    "nombre": "Bounds localBounds",
                     "description": ""
                 },
                 {
@@ -558,7 +558,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Bounds localBounds",
+                    "nombre": "double localX",
                     "description": ""
                 }
             ]
@@ -632,7 +632,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double localX",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -640,7 +640,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point3D localPoint",
+                    "nombre": "Bounds localBounds",
                     "description": ""
                 },
                 {
@@ -648,11 +648,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double localX",
                     "description": ""
                 },
                 {
-                    "nombre": "Bounds localBounds",
+                    "nombre": "Point3D localPoint",
                     "description": ""
                 },
                 {
@@ -674,7 +674,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double localX",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -682,7 +682,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point3D localPoint",
+                    "nombre": "Bounds localBounds",
                     "description": ""
                 },
                 {
@@ -690,19 +690,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double localX",
                     "description": ""
                 },
                 {
-                    "nombre": "Bounds localBounds",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean rootScene",
+                    "nombre": "Point3D localPoint",
                     "description": ""
                 },
                 {
                     "nombre": "double z",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean rootScene",
                     "description": ""
                 }
             ]
@@ -720,15 +720,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double localX",
-                    "description": ""
-                },
-                {
                     "nombre": "Point2D localPoint",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point3D localPoint",
                     "description": ""
                 },
                 {
@@ -737,6 +729,14 @@
                 },
                 {
                     "nombre": "double localZ",
+                    "description": ""
+                },
+                {
+                    "nombre": "double localX",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point3D localPoint",
                     "description": ""
                 }
             ]
@@ -992,7 +992,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point2D parentPoint",
+                    "nombre": "double parentZ",
+                    "description": ""
+                },
+                {
+                    "nombre": "Bounds parentBounds",
                     "description": ""
                 },
                 {
@@ -1004,15 +1008,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Point2D parentPoint",
+                    "description": ""
+                },
+                {
                     "nombre": "double parentY",
-                    "description": ""
-                },
-                {
-                    "nombre": "Bounds parentBounds",
-                    "description": ""
-                },
-                {
-                    "nombre": "double parentZ",
                     "description": ""
                 }
             ]
@@ -1064,11 +1064,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AccessibleAttribute attribute",
+                    "nombre": "Object... parameters",
                     "description": ""
                 },
                 {
-                    "nombre": "Object... parameters",
+                    "nombre": "AccessibleAttribute attribute",
                     "description": ""
                 }
             ]
@@ -1124,11 +1124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double width",
+                    "nombre": "double height",
                     "description": ""
                 },
                 {
-                    "nombre": "double height",
+                    "nombre": "double width",
                     "description": ""
                 }
             ]
@@ -1138,7 +1138,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double width",
+                    "nombre": "double y",
                     "description": ""
                 },
                 {
@@ -1146,11 +1146,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double width",
                     "description": ""
                 }
             ]
@@ -1184,7 +1184,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "double sceneX",
+                    "description": ""
+                },
+                {
                     "nombre": "Bounds bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -1192,15 +1200,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D scenePoint",
-                    "description": ""
-                },
-                {
                     "nombre": "double sceneY",
                     "description": ""
                 },
                 {
-                    "nombre": "double sceneZ",
+                    "nombre": "Point2D scenePoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
                     "description": ""
                 },
                 {
@@ -1212,19 +1220,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double y",
-                    "description": ""
-                },
-                {
-                    "nombre": "double x",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean rootScene",
                     "description": ""
                 },
                 {
-                    "nombre": "double sceneX",
+                    "nombre": "double sceneZ",
                     "description": ""
                 }
             ]
@@ -1234,11 +1234,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Bounds screenBounds",
+                    "nombre": "double screenY",
                     "description": ""
                 },
                 {
-                    "nombre": "double screenY",
+                    "nombre": "Bounds screenBounds",
                     "description": ""
                 },
                 {
@@ -2050,11 +2050,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "WritableImage image",
+                    "nombre": "SnapshotParameters params",
                     "description": ""
                 },
                 {
-                    "nombre": "SnapshotParameters params",
+                    "nombre": "Callback<SnapshotResult",
                     "description": ""
                 },
                 {
@@ -2062,7 +2062,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Callback<SnapshotResult",
+                    "nombre": "WritableImage image",
                     "description": ""
                 }
             ]

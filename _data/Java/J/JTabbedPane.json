@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "JTabbedPane",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int tabPlacement",
+                    "nombre": "int tabLayoutPolicy",
                     "description": ""
                 },
                 {
-                    "nombre": "int tabLayoutPolicy",
+                    "nombre": "int tabPlacement",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "Object constraints",
                     "description": ""
                 },
                 {
-                    "nombre": "Object constraints",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -56,6 +56,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String tip",
+                    "description": ""
+                },
+                {
                     "nombre": "Component component",
                     "description": ""
                 },
@@ -65,10 +69,6 @@
                 },
                 {
                     "nombre": "Icon icon",
-                    "description": ""
-                },
-                {
-                    "nombre": "String tip",
                     "description": ""
                 }
             ]
@@ -298,7 +298,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String title",
+                    "nombre": "Icon icon",
                     "description": ""
                 },
                 {
@@ -306,15 +306,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
-                    "description": ""
-                },
-                {
-                    "nombre": "Icon icon",
+                    "nombre": "String title",
                     "description": ""
                 },
                 {
                     "nombre": "String tip",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -338,11 +338,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Component component",
                     "description": ""
                 },
                 {
-                    "nombre": "Component component",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -376,11 +376,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Color background",
                     "description": ""
                 },
                 {
-                    "nombre": "Color background",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -390,11 +390,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Component component",
                     "description": ""
                 },
                 {
-                    "nombre": "Component component",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -404,11 +404,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Icon disabledIcon",
                     "description": ""
                 },
                 {
-                    "nombre": "Icon disabledIcon",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -432,11 +432,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "boolean enabled",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean enabled",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -446,11 +446,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Color foreground",
                     "description": ""
                 },
                 {
-                    "nombre": "Color foreground",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -460,11 +460,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Icon icon",
                     "description": ""
                 },
                 {
-                    "nombre": "Icon icon",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -518,11 +518,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Component component",
                     "description": ""
                 },
                 {
-                    "nombre": "Component component",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -552,11 +552,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "String title",
                     "description": ""
                 },
                 {
-                    "nombre": "String title",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -566,11 +566,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "String toolTipText",
                     "description": ""
                 },
                 {
-                    "nombre": "String toolTipText",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]

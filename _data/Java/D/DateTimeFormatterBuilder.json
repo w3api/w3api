@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DateTimeFormatterBuilder",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -46,11 +46,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int maxWidth",
+                    "nombre": "TemporalField field",
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalField field",
+                    "nombre": "int maxWidth",
                     "description": ""
                 }
             ]
@@ -60,11 +60,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TextStyle textStyle",
+                    "nombre": "Set<ZoneId> preferredZones",
                     "description": ""
                 },
                 {
-                    "nombre": "Set<ZoneId> preferredZones",
+                    "nombre": "TextStyle textStyle",
                     "description": ""
                 }
             ]
@@ -160,19 +160,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TextStyle textStyle",
-                    "description": ""
-                },
-                {
-                    "nombre": "Map<Long",
-                    "description": ""
-                },
-                {
                     "nombre": "String> textLookup",
                     "description": ""
                 },
                 {
                     "nombre": "TemporalField field",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextStyle textStyle",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<Long",
                     "description": ""
                 }
             ]
@@ -182,7 +182,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int minWidth",
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalField field",
                     "description": ""
                 },
                 {
@@ -190,15 +194,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int minWidth",
+                    "description": ""
+                },
+                {
                     "nombre": "int maxWidth",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
-                    "description": ""
-                },
-                {
-                    "nombre": "TemporalField field",
                     "description": ""
                 }
             ]
@@ -208,11 +208,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int baseValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "int maxWidth",
+                    "nombre": "ChronoLocalDate baseDate",
                     "description": ""
                 },
                 {
@@ -220,11 +216,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ChronoLocalDate baseDate",
+                    "nombre": "TemporalField field",
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalField field",
+                    "nombre": "int baseValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxWidth",
                     "description": ""
                 }
             ]
@@ -246,11 +246,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TextStyle textStyle",
+                    "nombre": "Set<ZoneId> preferredZones",
                     "description": ""
                 },
                 {
-                    "nombre": "Set<ZoneId> preferredZones",
+                    "nombre": "TextStyle textStyle",
                     "description": ""
                 }
             ]
@@ -260,15 +260,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Chronology chrono",
-                    "description": ""
-                },
-                {
                     "nombre": "Locale locale",
                     "description": ""
                 },
                 {
                     "nombre": "FormatStyle dateStyle",
+                    "description": ""
+                },
+                {
+                    "nombre": "Chronology chrono",
                     "description": ""
                 },
                 {
@@ -312,11 +312,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long value",
+                    "nombre": "TemporalField field",
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalField field",
+                    "nombre": "long value",
                     "description": ""
                 }
             ]

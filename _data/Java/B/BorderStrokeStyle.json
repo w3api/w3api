@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "BorderStrokeStyle",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "StrokeLineCap lineCap",
-                    "description": ""
-                },
-                {
-                    "nombre": "StrokeLineJoin lineJoin",
+                    "nombre": "double dashOffset",
                     "description": ""
                 },
                 {
@@ -20,15 +16,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "StrokeLineCap lineCap",
+                    "description": ""
+                },
+                {
                     "nombre": "List<Double> dashArray",
                     "description": ""
                 },
                 {
-                    "nombre": "double dashOffset",
+                    "nombre": "StrokeType type",
                     "description": ""
                 },
                 {
-                    "nombre": "StrokeType type",
+                    "nombre": "StrokeLineJoin lineJoin",
                     "description": ""
                 }
             ]

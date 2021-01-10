@@ -5,12 +5,8 @@
     "constructores": [
         {
             "nombre": "TreeTableView.EditEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "S newValue",
-                    "description": ""
-                },
                 {
                     "nombre": "TreeTableView<S> source",
                     "description": ""
@@ -20,11 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TreeItem<S> treeItem",
+                    "nombre": "EventType<? extends TreeTableView.EditEvent> eventType",
                     "description": ""
                 },
                 {
-                    "nombre": "EventType<? extends TreeTableView.EditEvent> eventType",
+                    "nombre": "S newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeItem<S> treeItem",
                     "description": ""
                 }
             ]

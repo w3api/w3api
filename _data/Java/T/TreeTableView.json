@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "TreeTableView",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "TreeItem<S> root",
@@ -262,11 +262,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double delta",
+                    "nombre": "?> column",
                     "description": ""
                 },
                 {
-                    "nombre": "?> column",
+                    "nombre": "double delta",
                     "description": ""
                 },
                 {
@@ -326,11 +326,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Boolean> callback",
+                    "nombre": "Callback<TreeTableView.ResizeFeatures",
                     "description": ""
                 },
                 {
-                    "nombre": "Callback<TreeTableView.ResizeFeatures",
+                    "nombre": "Boolean> callback",
                     "description": ""
                 }
             ]
@@ -380,11 +380,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "?>>> value",
+                    "nombre": "EventHandler<ScrollToEvent<TreeTableColumn<S",
                     "description": ""
                 },
                 {
-                    "nombre": "EventHandler<ScrollToEvent<TreeTableColumn<S",
+                    "nombre": "?>>> value",
                     "description": ""
                 }
             ]
@@ -424,11 +424,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreeTableRow<S>> value",
+                    "nombre": "Callback<TreeTableView<S>",
                     "description": ""
                 },
                 {
-                    "nombre": "Callback<TreeTableView<S>",
+                    "nombre": "TreeTableRow<S>> value",
                     "description": ""
                 }
             ]

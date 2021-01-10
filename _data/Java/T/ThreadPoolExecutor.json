@@ -5,14 +5,10 @@
     "constructores": [
         {
             "nombre": "ThreadPoolExecutor",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "RejectedExecutionHandler handler",
-                    "description": ""
-                },
-                {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long keepAliveTime",
                     "description": ""
                 },
                 {
@@ -20,11 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long keepAliveTime",
-                    "description": ""
-                },
-                {
-                    "nombre": "int corePoolSize",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 },
                 {
@@ -32,7 +24,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int corePoolSize",
+                    "description": ""
+                },
+                {
                     "nombre": "ThreadFactory threadFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "RejectedExecutionHandler handler",
                     "description": ""
                 }
             ]
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Runnable r",
+                    "nombre": "Throwable t",
                     "description": ""
                 },
                 {
-                    "nombre": "Throwable t",
+                    "nombre": "Runnable r",
                     "description": ""
                 }
             ]
@@ -72,11 +72,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Runnable r",
+                    "nombre": "Thread t",
                     "description": ""
                 },
                 {
-                    "nombre": "Thread t",
+                    "nombre": "Runnable r",
                     "description": ""
                 }
             ]
@@ -186,11 +186,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long time",
                     "description": ""
                 },
                 {
-                    "nombre": "long time",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 }
             ]

@@ -5,22 +5,22 @@
     "constructores": [
         {
             "nombre": "WeakHashMap",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "? extends V> m",
-                    "description": ""
-                },
-                {
-                    "nombre": "Map<? extends K",
-                    "description": ""
-                },
                 {
                     "nombre": "int initialCapacity",
                     "description": ""
                 },
                 {
                     "nombre": "float loadFactor",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> m",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<? extends K",
                     "description": ""
                 }
             ]
@@ -78,11 +78,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 }
             ]

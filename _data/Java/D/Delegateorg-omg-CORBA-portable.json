@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Delegate",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,23 +14,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ContextList ctxlist",
-                    "description": ""
-                },
-                {
                     "nombre": "String operation",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
-                    "description": ""
-                },
-                {
-                    "nombre": "NamedValue result",
-                    "description": ""
-                },
-                {
-                    "nombre": "ExceptionList exclist",
                     "description": ""
                 },
                 {
@@ -39,6 +23,22 @@
                 },
                 {
                     "nombre": "NVList arg_list",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "ContextList ctxlist",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExceptionList exclist",
+                    "description": ""
+                },
+                {
+                    "nombre": "NamedValue result",
                     "description": ""
                 }
             ]
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int policy_type",
+                    "nombre": "Object self",
                     "description": ""
                 },
                 {
-                    "nombre": "Object self",
+                    "nombre": "int policy_type",
                     "description": ""
                 }
             ]
@@ -106,11 +106,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int max",
+                    "nombre": "Object obj",
                     "description": ""
                 },
                 {
-                    "nombre": "Object obj",
+                    "nombre": "int max",
                     "description": ""
                 }
             ]
@@ -212,11 +212,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream input",
+                    "nombre": "Object self",
                     "description": ""
                 },
                 {
-                    "nombre": "Object self",
+                    "nombre": "InputStream input",
                     "description": ""
                 }
             ]
@@ -230,15 +230,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
                     "nombre": "Object self",
                     "description": ""
                 },
                 {
                     "nombre": "boolean responseExpected",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
                     "description": ""
                 }
             ]
@@ -266,11 +266,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class expectedType",
+                    "nombre": "String operation",
                     "description": ""
                 },
                 {
-                    "nombre": "String operation",
+                    "nombre": "Class expectedType",
                     "description": ""
                 }
             ]
@@ -284,11 +284,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "SetOverrideType set_add",
+                    "nombre": "Policy[] policies",
                     "description": ""
                 },
                 {
-                    "nombre": "Policy[] policies",
+                    "nombre": "SetOverrideType set_add",
                     "description": ""
                 }
             ]

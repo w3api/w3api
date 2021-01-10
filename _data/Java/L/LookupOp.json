@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "LookupOp",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "RenderingHints hints",
+                    "nombre": "LookupTable lookup",
                     "description": ""
                 },
                 {
-                    "nombre": "LookupTable lookup",
+                    "nombre": "RenderingHints hints",
                     "description": ""
                 }
             ]
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ColorModel destCM",
+                    "nombre": "BufferedImage src",
                     "description": ""
                 },
                 {
-                    "nombre": "BufferedImage src",
+                    "nombre": "ColorModel destCM",
                     "description": ""
                 }
             ]
@@ -48,11 +48,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Raster src",
-                    "description": ""
-                },
-                {
-                    "nombre": "BufferedImage dst",
+                    "nombre": "WritableRaster dst",
                     "description": ""
                 },
                 {
@@ -60,7 +56,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "WritableRaster dst",
+                    "nombre": "Raster src",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage dst",
                     "description": ""
                 }
             ]
@@ -70,11 +70,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Raster src",
+                    "nombre": "BufferedImage src",
                     "description": ""
                 },
                 {
-                    "nombre": "BufferedImage src",
+                    "nombre": "Raster src",
                     "description": ""
                 }
             ]
@@ -84,11 +84,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point2D srcPt",
+                    "nombre": "Point2D dstPt",
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D dstPt",
+                    "nombre": "Point2D srcPt",
                     "description": ""
                 }
             ]

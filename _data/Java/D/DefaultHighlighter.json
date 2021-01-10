@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DefaultHighlighter",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int p1",
+                    "nombre": "Highlighter.HighlightPainter p",
                     "description": ""
                 },
                 {
-                    "nombre": "Highlighter.HighlightPainter p",
+                    "nombre": "int p1",
                     "description": ""
                 },
                 {
@@ -88,19 +88,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape viewBounds",
-                    "description": ""
-                },
-                {
-                    "nombre": "View view",
-                    "description": ""
-                },
-                {
-                    "nombre": "Graphics g",
-                    "description": ""
-                },
-                {
                     "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape viewBounds",
                     "description": ""
                 },
                 {
@@ -109,6 +101,14 @@
                 },
                 {
                     "nombre": "JTextComponent editor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "View view",
                     "description": ""
                 }
             ]

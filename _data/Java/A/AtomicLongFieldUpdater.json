@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "AtomicLongFieldUpdater",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long x",
+                    "nombre": "LongBinaryOperator accumulatorFunction",
                     "description": ""
                 },
                 {
-                    "nombre": "LongBinaryOperator accumulatorFunction",
+                    "nombre": "long x",
                     "description": ""
                 },
                 {
@@ -46,15 +46,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long expect",
-                    "description": ""
-                },
-                {
                     "nombre": "long update",
                     "description": ""
                 },
                 {
                     "nombre": "T obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "long expect",
                     "description": ""
                 }
             ]
@@ -84,11 +84,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long x",
+                    "nombre": "LongBinaryOperator accumulatorFunction",
                     "description": ""
                 },
                 {
-                    "nombre": "LongBinaryOperator accumulatorFunction",
+                    "nombre": "long x",
                     "description": ""
                 },
                 {
@@ -150,11 +150,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LongUnaryOperator updateFunction",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "LongUnaryOperator updateFunction",
                     "description": ""
                 }
             ]
@@ -216,11 +216,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LongUnaryOperator updateFunction",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "LongUnaryOperator updateFunction",
                     "description": ""
                 }
             ]
@@ -230,15 +230,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long expect",
-                    "description": ""
-                },
-                {
                     "nombre": "long update",
                     "description": ""
                 },
                 {
                     "nombre": "T obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "long expect",
                     "description": ""
                 }
             ]

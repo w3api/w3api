@@ -5,18 +5,10 @@
     "constructores": [
         {
             "nombre": "Rectangle",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Rectangle r",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point p",
                     "description": ""
                 },
                 {
@@ -24,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Dimension d",
+                    "nombre": "Point p",
                     "description": ""
                 },
                 {
@@ -32,7 +24,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dimension d",
                     "description": ""
                 }
             ]
@@ -44,19 +44,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int newy",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle r",
-                    "description": ""
-                },
-                {
                     "nombre": "Point pt",
                     "description": ""
                 },
                 {
                     "nombre": "int newx",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newy",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle r",
                     "description": ""
                 }
             ]
@@ -65,18 +65,6 @@
             "nombre": "contains",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "int X",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle r",
-                    "description": ""
-                },
                 {
                     "nombre": "int Y",
                     "description": ""
@@ -90,7 +78,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int X",
+                    "description": ""
+                },
+                {
                     "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -246,7 +246,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int height",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -254,7 +254,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
@@ -286,15 +286,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
                 {
                     "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -308,11 +308,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "Point p",
                     "description": ""
                 },
                 {
-                    "nombre": "Point p",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -326,7 +326,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double width",
+                    "nombre": "double y",
                     "description": ""
                 },
                 {
@@ -334,11 +334,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double width",
                     "description": ""
                 }
             ]
@@ -348,15 +348,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Dimension d",
-                    "description": ""
-                },
-                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
                     "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dimension d",
                     "description": ""
                 }
             ]

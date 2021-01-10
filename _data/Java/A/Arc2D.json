@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Arc2D",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "int type",
@@ -20,7 +20,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D r",
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -28,15 +32,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double h",
-                    "description": ""
-                },
-                {
                     "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "Rectangle2D r",
                     "description": ""
                 }
             ]
@@ -104,15 +104,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
                     "nombre": "double h",
                     "description": ""
                 },
                 {
                     "nombre": "double w",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y",
                     "description": ""
                 },
                 {
@@ -126,15 +126,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
                     "nombre": "double h",
                     "description": ""
                 },
                 {
                     "nombre": "double w",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y",
                     "description": ""
                 },
                 {
@@ -162,11 +162,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double y2",
+                    "nombre": "double x2",
                     "description": ""
                 },
                 {
-                    "nombre": "double x2",
+                    "nombre": "double x1",
                     "description": ""
                 },
                 {
@@ -174,11 +174,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D p1",
+                    "nombre": "double y2",
                     "description": ""
                 },
                 {
-                    "nombre": "double x1",
+                    "nombre": "Point2D p1",
                     "description": ""
                 }
             ]
@@ -202,27 +202,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point2D loc",
-                    "description": ""
-                },
-                {
-                    "nombre": "double w",
-                    "description": ""
-                },
-                {
                     "nombre": "double angSt",
-                    "description": ""
-                },
-                {
-                    "nombre": "double h",
-                    "description": ""
-                },
-                {
-                    "nombre": "int closure",
-                    "description": ""
-                },
-                {
-                    "nombre": "Dimension2D size",
                     "description": ""
                 },
                 {
@@ -230,11 +210,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double angExt",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y",
+                    "nombre": "double h",
                     "description": ""
                 },
                 {
@@ -242,7 +218,31 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int closure",
+                    "description": ""
+                },
+                {
+                    "nombre": "double angExt",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D loc",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dimension2D size",
+                    "description": ""
+                },
+                {
                     "nombre": "Rectangle2D rect",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
                     "description": ""
                 }
             ]
@@ -252,11 +252,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double radius",
+                    "nombre": "double angSt",
                     "description": ""
                 },
                 {
-                    "nombre": "double angSt",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -268,11 +268,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double y",
+                    "nombre": "double radius",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double y",
                     "description": ""
                 }
             ]
@@ -282,7 +282,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point2D p2",
+                    "nombre": "Point2D p1",
                     "description": ""
                 },
                 {
@@ -294,7 +294,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D p1",
+                    "nombre": "Point2D p2",
                     "description": ""
                 }
             ]
@@ -314,15 +314,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
                     "nombre": "double h",
                     "description": ""
                 },
                 {
                     "nombre": "double w",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y",
                     "description": ""
                 },
                 {

@@ -5,26 +5,18 @@
     "constructores": [
         {
             "nombre": "RelationNotification",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "String notifType",
+                    "nombre": "List<ObjectName> unregMBeanList",
                     "description": ""
                 },
                 {
-                    "nombre": "long timeStamp",
+                    "nombre": "long sequence",
                     "description": ""
                 },
                 {
-                    "nombre": "String id",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object sourceObj",
-                    "description": ""
-                },
-                {
-                    "nombre": "String message",
+                    "nombre": "ObjectName objectName",
                     "description": ""
                 },
                 {
@@ -36,23 +28,31 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long sequence",
-                    "description": ""
-                },
-                {
-                    "nombre": "List<ObjectName> unregMBeanList",
-                    "description": ""
-                },
-                {
-                    "nombre": "List<ObjectName> oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "ObjectName objectName",
+                    "nombre": "String id",
                     "description": ""
                 },
                 {
                     "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "String notifType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object sourceObj",
+                    "description": ""
+                },
+                {
+                    "nombre": "long timeStamp",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ObjectName> oldValue",
                     "description": ""
                 }
             ]

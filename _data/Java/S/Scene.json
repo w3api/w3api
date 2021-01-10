@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "Scene",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "SceneAntialiasing antiAliasing",
+                    "nombre": "double height",
+                    "description": ""
+                },
+                {
+                    "nombre": "Parent root",
                     "description": ""
                 },
                 {
@@ -16,15 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double height",
+                    "nombre": "SceneAntialiasing antiAliasing",
                     "description": ""
                 },
                 {
                     "nombre": "Paint fill",
-                    "description": ""
-                },
-                {
-                    "nombre": "Parent root",
                     "description": ""
                 },
                 {
@@ -1120,15 +1120,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "WritableImage image",
-                    "description": ""
-                },
-                {
                     "nombre": "Callback<SnapshotResult",
                     "description": ""
                 },
                 {
                     "nombre": "Void> callback",
+                    "description": ""
+                },
+                {
+                    "nombre": "WritableImage image",
                     "description": ""
                 }
             ]

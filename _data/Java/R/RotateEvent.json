@@ -5,22 +5,10 @@
     "constructores": [
         {
             "nombre": "RotateEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "double angle",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean shiftDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object source",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventType<RotateEvent> eventType",
+                    "nombre": "double screenY",
                     "description": ""
                 },
                 {
@@ -28,27 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double totalAngle",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean altDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "double screenX",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean controlDown",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean inertia",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y",
                     "description": ""
                 },
                 {
@@ -56,11 +24,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double screenY",
+                    "nombre": "boolean shiftDown",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean metaDown",
+                    "nombre": "EventType<RotateEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                },
+                {
+                    "nombre": "double angle",
                     "description": ""
                 },
                 {
@@ -68,7 +44,31 @@
                     "description": ""
                 },
                 {
-                    "nombre": "EventTarget target",
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean controlDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean altDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "double totalAngle",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean metaDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenX",
                     "description": ""
                 }
             ]
@@ -80,11 +80,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "EventType<RotateEvent> type",
+                    "nombre": "Object newSource",
                     "description": ""
                 },
                 {
-                    "nombre": "Object newSource",
+                    "nombre": "EventType<RotateEvent> type",
                     "description": ""
                 },
                 {

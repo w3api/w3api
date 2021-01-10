@@ -5,26 +5,10 @@
     "constructores": [
         {
             "nombre": "DragEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Object source",
-                    "description": ""
-                },
-                {
-                    "nombre": "double screenX",
-                    "description": ""
-                },
-                {
-                    "nombre": "TransferMode transferMode",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object gestureTarget",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y",
+                    "nombre": "double screenY",
                     "description": ""
                 },
                 {
@@ -32,15 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "EventType<DragEvent> eventType",
-                    "description": ""
-                },
-                {
-                    "nombre": "double screenY",
-                    "description": ""
-                },
-                {
-                    "nombre": "Dragboard dragboard",
+                    "nombre": "double screenX",
                     "description": ""
                 },
                 {
@@ -53,6 +29,30 @@
                 },
                 {
                     "nombre": "EventTarget target",
+                    "description": ""
+                },
+                {
+                    "nombre": "TransferMode transferMode",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object gestureTarget",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dragboard dragboard",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<DragEvent> eventType",
                     "description": ""
                 }
             ]
@@ -78,7 +78,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object gestureTarget",
+                    "nombre": "Object gestureSource",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
                     "description": ""
                 },
                 {
@@ -86,15 +90,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Object gestureTarget",
+                    "description": ""
+                },
+                {
                     "nombre": "EventType<DragEvent> eventType",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object gestureSource",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventTarget target",
                     "description": ""
                 }
             ]

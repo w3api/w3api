@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int statusCode",
+                    "nombre": "HttpHeaders responseHeaders",
                     "description": ""
                 },
                 {
-                    "nombre": "HttpHeaders responseHeaders",
+                    "nombre": "int statusCode",
                     "description": ""
                 }
             ]
@@ -36,11 +36,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "OpenOption... openOptions",
+                    "nombre": "Path file",
                     "description": ""
                 },
                 {
-                    "nombre": "Path file",
+                    "nombre": "OpenOption... openOptions",
                     "description": ""
                 }
             ]
@@ -102,11 +102,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Function<S",
-                    "description": ""
-                },
-                {
-                    "nombre": "T> finisher",
+                    "nombre": "Flow.Subscriber<? super List<ByteBuffer>> subscriber",
                     "description": ""
                 },
                 {
@@ -114,7 +110,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Flow.Subscriber<? super List<ByteBuffer>> subscriber",
+                    "nombre": "T> finisher",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<S",
                     "description": ""
                 }
             ]

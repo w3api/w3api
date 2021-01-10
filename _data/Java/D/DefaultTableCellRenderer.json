@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DefaultTableCellRenderer",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String propertyName",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean oldValue",
+                    "nombre": "Object newValue",
                     "description": ""
                 },
                 {
@@ -26,11 +22,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object newValue",
+                    "nombre": "boolean newValue",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean newValue",
+                    "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean oldValue",
                     "description": ""
                 }
             ]
@@ -40,15 +40,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean hasFocus",
-                    "description": ""
-                },
-                {
                     "nombre": "int row",
                     "description": ""
                 },
                 {
-                    "nombre": "int column",
+                    "nombre": "boolean hasFocus",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTable table",
                     "description": ""
                 },
                 {
@@ -56,7 +56,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JTable table",
+                    "nombre": "int column",
                     "description": ""
                 },
                 {
@@ -82,19 +82,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "long tm",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "long tm",
                     "description": ""
                 },
                 {

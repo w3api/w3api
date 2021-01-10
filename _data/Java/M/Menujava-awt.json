@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "Menu",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean tearOff",
+                    "nombre": "String label",
                     "description": ""
                 },
                 {
-                    "nombre": "String label",
+                    "nombre": "boolean tearOff",
                     "description": ""
                 }
             ]
@@ -68,15 +68,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String label",
+                    "description": ""
+                },
+                {
                     "nombre": "MenuItem menuitem",
                     "description": ""
                 },
                 {
                     "nombre": "int index",
-                    "description": ""
-                },
-                {
-                    "nombre": "String label",
                     "description": ""
                 }
             ]
@@ -104,11 +104,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "MenuComponent item",
                     "description": ""
                 },
                 {
-                    "nombre": "MenuComponent item",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]

@@ -5,22 +5,22 @@
     "constructores": [
         {
             "nombre": "NumberAxis",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "double tickUnit",
-                    "description": ""
-                },
-                {
-                    "nombre": "double upperBound",
-                    "description": ""
-                },
                 {
                     "nombre": "double lowerBound",
                     "description": ""
                 },
                 {
+                    "nombre": "double tickUnit",
+                    "description": ""
+                },
+                {
                     "nombre": "String axisLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "double upperBound",
                     "description": ""
                 }
             ]
@@ -36,11 +36,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double length",
+                    "nombre": "double minValue",
                     "description": ""
                 },
                 {
-                    "nombre": "double minValue",
+                    "nombre": "double length",
                     "description": ""
                 },
                 {
@@ -58,11 +58,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double length",
+                    "nombre": "Object range",
                     "description": ""
                 },
                 {
-                    "nombre": "Object range",
+                    "nombre": "double length",
                     "description": ""
                 }
             ]
@@ -130,11 +130,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object range",
+                    "nombre": "boolean animate",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean animate",
+                    "nombre": "Object range",
                     "description": ""
                 }
             ]

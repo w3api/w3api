@@ -62,7 +62,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "byte[] b",
                     "description": ""
                 },
                 {
@@ -70,7 +70,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] b",
+                    "nombre": "int off",
                     "description": ""
                 }
             ]
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "IIOByteBuffer buf",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "IIOByteBuffer buf",
                     "description": ""
                 }
             ]
@@ -128,7 +128,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "float[] f",
                     "description": ""
                 },
                 {
@@ -140,11 +140,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "short[] s",
+                    "nombre": "int[] i",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] d",
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "short[] s",
                     "description": ""
                 },
                 {
@@ -152,15 +156,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] i",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] f",
-                    "description": ""
-                },
-                {
                     "nombre": "char[] c",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] d",
                     "description": ""
                 }
             ]
@@ -236,11 +236,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long n",
+                    "nombre": "int n",
                     "description": ""
                 },
                 {
-                    "nombre": "int n",
+                    "nombre": "long n",
                     "description": ""
                 }
             ]

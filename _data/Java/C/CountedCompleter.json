@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "CountedCompleter",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int initialPendingCount",
+                    "nombre": "CountedCompleter<?> completer",
                     "description": ""
                 },
                 {
-                    "nombre": "CountedCompleter<?> completer",
+                    "nombre": "int initialPendingCount",
                     "description": ""
                 }
             ]
@@ -34,11 +34,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int count",
+                    "nombre": "int expected",
                     "description": ""
                 },
                 {
-                    "nombre": "int expected",
+                    "nombre": "int count",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "BasicTreeUI",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int mouseY",
+                    "nombre": "TreePath path",
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "int mouseY",
                     "description": ""
                 },
                 {
@@ -142,11 +142,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "Icon icon",
                     "description": ""
                 },
                 {
-                    "nombre": "Icon icon",
+                    "nombre": "Component c",
                     "description": ""
                 },
                 {
@@ -154,7 +154,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Component c",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -168,7 +168,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x1",
+                    "nombre": "int x2",
                     "description": ""
                 },
                 {
@@ -176,7 +176,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x2",
+                    "nombre": "int x1",
                     "description": ""
                 },
                 {
@@ -190,15 +190,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
-                    "description": ""
-                },
-                {
                     "nombre": "int y2",
                     "description": ""
                 },
                 {
                     "nombre": "int y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -212,11 +212,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int beginRow",
+                    "nombre": "int endRow",
                     "description": ""
                 },
                 {
-                    "nombre": "int endRow",
+                    "nombre": "int beginRow",
                     "description": ""
                 }
             ]
@@ -226,11 +226,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "JComponent c",
                     "description": ""
                 },
                 {
-                    "nombre": "JComponent c",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
@@ -262,11 +262,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "JTree tree",
                     "description": ""
                 },
                 {
-                    "nombre": "JTree tree",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -358,11 +358,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "JTree tree",
                     "description": ""
                 },
                 {
-                    "nombre": "JTree tree",
+                    "nombre": "TreePath path",
                     "description": ""
                 }
             ]
@@ -372,11 +372,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int row",
+                    "nombre": "JTree tree",
                     "description": ""
                 },
                 {
-                    "nombre": "JTree tree",
+                    "nombre": "int row",
                     "description": ""
                 }
             ]
@@ -390,11 +390,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean checkConsistency",
+                    "nombre": "JComponent c",
                     "description": ""
                 },
                 {
-                    "nombre": "JComponent c",
+                    "nombre": "boolean checkConsistency",
                     "description": ""
                 }
             ]
@@ -418,11 +418,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "JTree tree",
                     "description": ""
                 },
                 {
-                    "nombre": "JTree tree",
+                    "nombre": "TreePath path",
                     "description": ""
                 }
             ]
@@ -436,11 +436,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int depth",
+                    "nombre": "int row",
                     "description": ""
                 },
                 {
-                    "nombre": "int row",
+                    "nombre": "int depth",
                     "description": ""
                 }
             ]
@@ -462,11 +462,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int mouseY",
+                    "nombre": "TreePath path",
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "int mouseY",
                     "description": ""
                 },
                 {
@@ -534,11 +534,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int mouseY",
+                    "nombre": "TreePath path",
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "int mouseY",
                     "description": ""
                 },
                 {
@@ -600,15 +600,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
                     "nombre": "Rectangle bounds",
-                    "description": ""
-                },
-                {
-                    "nombre": "Insets insets",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isExpanded",
                     "description": ""
                 },
                 {
@@ -616,11 +612,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle clipBounds",
+                    "nombre": "boolean isExpanded",
                     "description": ""
                 },
                 {
-                    "nombre": "int row",
+                    "nombre": "Insets insets",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasBeenExpanded",
                     "description": ""
                 },
                 {
@@ -628,7 +628,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean hasBeenExpanded",
+                    "nombre": "Rectangle clipBounds",
                     "description": ""
                 }
             ]
@@ -638,7 +638,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int right",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
                     "description": ""
                 },
                 {
@@ -650,11 +654,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Graphics g",
-                    "description": ""
-                },
-                {
-                    "nombre": "int right",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -668,15 +668,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
                     "nombre": "Rectangle bounds",
-                    "description": ""
-                },
-                {
-                    "nombre": "Insets insets",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isExpanded",
                     "description": ""
                 },
                 {
@@ -684,11 +680,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle clipBounds",
+                    "nombre": "boolean isExpanded",
                     "description": ""
                 },
                 {
-                    "nombre": "int row",
+                    "nombre": "Insets insets",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasBeenExpanded",
                     "description": ""
                 },
                 {
@@ -696,7 +696,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean hasBeenExpanded",
+                    "nombre": "Rectangle clipBounds",
                     "description": ""
                 }
             ]
@@ -710,15 +710,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
                     "nombre": "Rectangle bounds",
-                    "description": ""
-                },
-                {
-                    "nombre": "Insets insets",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isExpanded",
                     "description": ""
                 },
                 {
@@ -726,11 +722,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle clipBounds",
+                    "nombre": "boolean isExpanded",
                     "description": ""
                 },
                 {
-                    "nombre": "int row",
+                    "nombre": "Insets insets",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean hasBeenExpanded",
                     "description": ""
                 },
                 {
@@ -738,7 +738,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean hasBeenExpanded",
+                    "nombre": "Rectangle clipBounds",
                     "description": ""
                 }
             ]
@@ -748,7 +748,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JComponent c",
+                    "nombre": "int bottom",
                     "description": ""
                 },
                 {
@@ -760,7 +760,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int bottom",
+                    "nombre": "JComponent c",
                     "description": ""
                 },
                 {
@@ -778,11 +778,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "Insets insets",
                     "description": ""
                 },
                 {
-                    "nombre": "Insets insets",
+                    "nombre": "TreePath path",
                     "description": ""
                 },
                 {
@@ -992,19 +992,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isExpanded",
-                    "description": ""
-                },
-                {
                     "nombre": "int row",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isLeaf",
+                    "nombre": "boolean isExpanded",
                     "description": ""
                 },
                 {
                     "nombre": "boolean hasBeenExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isLeaf",
                     "description": ""
                 }
             ]
@@ -1028,11 +1028,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "JTree tree",
                     "description": ""
                 },
                 {
-                    "nombre": "JTree tree",
+                    "nombre": "TreePath path",
                     "description": ""
                 }
             ]

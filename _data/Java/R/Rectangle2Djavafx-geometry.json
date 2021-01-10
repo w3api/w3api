@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "Rectangle2D",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "double width",
+                    "nombre": "double minX",
                     "description": ""
                 },
                 {
@@ -16,11 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double minX",
+                    "nombre": "double minY",
                     "description": ""
                 },
                 {
-                    "nombre": "double minY",
+                    "nombre": "double width",
                     "description": ""
                 }
             ]
@@ -32,7 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D r",
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -40,19 +44,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double h",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point2D p",
-                    "description": ""
-                },
-                {
                     "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p",
                     "description": ""
                 }
             ]
@@ -100,7 +100,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle2D r",
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -108,15 +112,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double h",
-                    "description": ""
-                },
-                {
                     "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "Rectangle2D r",
                     "description": ""
                 }
             ]

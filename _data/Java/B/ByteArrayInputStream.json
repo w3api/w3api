@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "ByteArrayInputStream",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
                 {
                     "nombre": "int length",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] buf",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -50,7 +50,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "byte[] b",
                     "description": ""
                 },
                 {
@@ -58,7 +58,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] b",
+                    "nombre": "int off",
                     "description": ""
                 }
             ]

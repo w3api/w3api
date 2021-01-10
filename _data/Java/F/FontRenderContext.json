@@ -5,18 +5,10 @@
     "constructores": [
         {
             "nombre": "FontRenderContext",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "AffineTransform tx",
-                    "description": ""
-                },
-                {
                     "nombre": "Object aaHint",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object fmHint",
                     "description": ""
                 },
                 {
@@ -25,6 +17,14 @@
                 },
                 {
                     "nombre": "boolean isAntiAliased",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object fmHint",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform tx",
                     "description": ""
                 }
             ]
@@ -36,11 +36,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FontRenderContext rhs",
+                    "nombre": "Object obj",
                     "description": ""
                 },
                 {
-                    "nombre": "Object obj",
+                    "nombre": "FontRenderContext rhs",
                     "description": ""
                 }
             ]

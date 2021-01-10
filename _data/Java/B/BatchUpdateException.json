@@ -5,16 +5,8 @@
     "constructores": [
         {
             "nombre": "BatchUpdateException",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "String SQLState",
-                    "description": ""
-                },
-                {
-                    "nombre": "long[] updateCounts",
-                    "description": ""
-                },
                 {
                     "nombre": "String reason",
                     "description": ""
@@ -24,11 +16,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int vendorCode",
+                    "nombre": "long[] updateCounts",
                     "description": ""
                 },
                 {
                     "nombre": "int[] updateCounts",
+                    "description": ""
+                },
+                {
+                    "nombre": "int vendorCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "String SQLState",
                     "description": ""
                 }
             ]

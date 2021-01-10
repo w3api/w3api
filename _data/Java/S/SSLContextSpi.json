@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "SSLContextSpi",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int port",
+                    "nombre": "String host",
                     "description": ""
                 },
                 {
-                    "nombre": "String host",
+                    "nombre": "int port",
                     "description": ""
                 }
             ]
@@ -52,15 +52,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "KeyManager[] km",
-                    "description": ""
-                },
-                {
                     "nombre": "SecureRandom sr",
                     "description": ""
                 },
                 {
                     "nombre": "TrustManager[] tm",
+                    "description": ""
+                },
+                {
+                    "nombre": "KeyManager[] km",
                     "description": ""
                 }
             ]

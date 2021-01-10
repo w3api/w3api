@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "ZipOutputStream",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Charset charset",
+                    "nombre": "OutputStream out",
                     "description": ""
                 },
                 {
-                    "nombre": "OutputStream out",
+                    "nombre": "Charset charset",
                     "description": ""
                 }
             ]
@@ -76,7 +76,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "byte[] b",
                     "description": ""
                 },
                 {
@@ -84,7 +84,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] b",
+                    "nombre": "int off",
                     "description": ""
                 }
             ]

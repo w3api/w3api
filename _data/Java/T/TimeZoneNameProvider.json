@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "TimeZoneNameProvider",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,7 +14,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int style",
+                    "nombre": "String ID",
                     "description": ""
                 },
                 {
@@ -22,11 +22,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean daylight",
+                    "nombre": "int style",
                     "description": ""
                 },
                 {
-                    "nombre": "String ID",
+                    "nombre": "boolean daylight",
                     "description": ""
                 }
             ]
@@ -36,15 +36,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String ID",
+                    "description": ""
+                },
+                {
                     "nombre": "Locale locale",
                     "description": ""
                 },
                 {
                     "nombre": "int style",
-                    "description": ""
-                },
-                {
-                    "nombre": "String ID",
                     "description": ""
                 }
             ]

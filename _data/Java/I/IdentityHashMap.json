@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "IdentityHashMap",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "int expectedMaxSize",
+                    "description": ""
+                },
                 {
                     "nombre": "? extends V> m",
                     "description": ""
                 },
                 {
                     "nombre": "Map<? extends K",
-                    "description": ""
-                },
-                {
-                    "nombre": "int expectedMaxSize",
                     "description": ""
                 }
             ]
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 }
             ]

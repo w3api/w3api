@@ -168,11 +168,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAmount amountToSubtract",
+                    "nombre": "long amountToSubtract",
                     "description": ""
                 },
                 {
-                    "nombre": "long amountToSubtract",
+                    "nombre": "TemporalAmount amountToSubtract",
                     "description": ""
                 }
             ]
@@ -202,11 +202,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Clock clock",
+                    "nombre": "ZoneId zone",
                     "description": ""
                 },
                 {
-                    "nombre": "ZoneId zone",
+                    "nombre": "Clock clock",
                     "description": ""
                 }
             ]
@@ -216,15 +216,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int year",
-                    "description": ""
-                },
-                {
                     "nombre": "Month month",
                     "description": ""
                 },
                 {
                     "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
                     "description": ""
                 }
             ]

@@ -5,10 +5,26 @@
     "constructores": [
         {
             "nombre": "MemoryImageSource",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int off",
+                    "nombre": "?> props",
+                    "description": ""
+                },
+                {
+                    "nombre": "Hashtable<?",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] pix",
                     "description": ""
                 },
                 {
@@ -20,27 +36,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] pix",
-                    "description": ""
-                },
-                {
-                    "nombre": "?> props",
-                    "description": ""
-                },
-                {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "int h",
-                    "description": ""
-                },
-                {
-                    "nombre": "Hashtable<?",
-                    "description": ""
-                },
-                {
                     "nombre": "int[] pix",
+                    "description": ""
+                },
+                {
+                    "nombre": "int off",
                     "description": ""
                 }
             ]
@@ -72,23 +72,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ColorModel newmodel",
-                    "description": ""
-                },
-                {
-                    "nombre": "int scansize",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "int[] newpix",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] newpix",
+                    "nombre": "ColorModel newmodel",
                     "description": ""
                 },
                 {
@@ -100,11 +88,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int scansize",
+                    "description": ""
+                },
+                {
                     "nombre": "int w",
                     "description": ""
                 },
                 {
                     "nombre": "boolean framenotify",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] newpix",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {

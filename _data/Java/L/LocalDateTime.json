@@ -190,11 +190,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAmount amountToSubtract",
+                    "nombre": "long amountToSubtract",
                     "description": ""
                 },
                 {
-                    "nombre": "long amountToSubtract",
+                    "nombre": "TemporalAmount amountToSubtract",
                     "description": ""
                 }
             ]
@@ -284,11 +284,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Clock clock",
+                    "nombre": "ZoneId zone",
                     "description": ""
                 },
                 {
-                    "nombre": "ZoneId zone",
+                    "nombre": "Clock clock",
                     "description": ""
                 }
             ]
@@ -302,11 +302,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int minute",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
+                    "nombre": "LocalDate date",
                     "description": ""
                 },
                 {
@@ -314,15 +310,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int nanoOfSecond",
-                    "description": ""
-                },
-                {
-                    "nombre": "Month month",
-                    "description": ""
-                },
-                {
                     "nombre": "int dayOfMonth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nanoOfSecond",
                     "description": ""
                 },
                 {
@@ -330,7 +326,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "LocalDate date",
+                    "nombre": "Month month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
                     "description": ""
                 },
                 {
@@ -344,11 +344,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long epochSecond",
+                    "nombre": "ZoneOffset offset",
                     "description": ""
                 },
                 {
-                    "nombre": "ZoneOffset offset",
+                    "nombre": "long epochSecond",
                     "description": ""
                 },
                 {
@@ -362,11 +362,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Instant instant",
+                    "nombre": "ZoneId zone",
                     "description": ""
                 },
                 {
-                    "nombre": "ZoneId zone",
+                    "nombre": "Instant instant",
                     "description": ""
                 }
             ]

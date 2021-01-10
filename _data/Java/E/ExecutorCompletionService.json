@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "ExecutorCompletionService",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "BlockingQueue<Future<V>> completionQueue",
@@ -28,11 +28,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Callable<V> task",
+                    "nombre": "V result",
                     "description": ""
                 },
                 {
-                    "nombre": "V result",
+                    "nombre": "Callable<V> task",
                     "description": ""
                 }
             ]

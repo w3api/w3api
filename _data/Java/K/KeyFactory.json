@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "KeyFactory",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Provider provider",
+                    "nombre": "KeyFactorySpi keyFacSpi",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "KeyFactorySpi keyFacSpi",
+                    "nombre": "Provider provider",
                     "description": ""
                 }
             ]
@@ -70,11 +70,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<T> keySpec",
+                    "nombre": "Key key",
                     "description": ""
                 },
                 {
-                    "nombre": "Key key",
+                    "nombre": "Class<T> keySpec",
                     "description": ""
                 }
             ]

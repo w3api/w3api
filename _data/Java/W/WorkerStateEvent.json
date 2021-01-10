@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "WorkerStateEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "Worker worker",
+                    "nombre": "EventType<? extends WorkerStateEvent> eventType",
                     "description": ""
                 },
                 {
-                    "nombre": "EventType<? extends WorkerStateEvent> eventType",
+                    "nombre": "Worker worker",
                     "description": ""
                 }
             ]

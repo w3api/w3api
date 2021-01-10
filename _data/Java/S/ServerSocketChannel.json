@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "ServerSocketChannel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "SelectorProvider provider",
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SocketAddress local",
+                    "nombre": "int backlog",
                     "description": ""
                 },
                 {
-                    "nombre": "int backlog",
+                    "nombre": "SocketAddress local",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T value",
+                    "nombre": "SocketOption<T> name",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketOption<T> name",
+                    "nombre": "T value",
                     "description": ""
                 }
             ]

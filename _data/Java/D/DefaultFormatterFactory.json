@@ -5,8 +5,12 @@
     "constructores": [
         {
             "nombre": "DefaultFormatterFactory",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "JFormattedTextField.AbstractFormatter editFormat",
+                    "description": ""
+                },
                 {
                     "nombre": "JFormattedTextField.AbstractFormatter nullFormat",
                     "description": ""
@@ -17,10 +21,6 @@
                 },
                 {
                     "nombre": "JFormattedTextField.AbstractFormatter displayFormat",
-                    "description": ""
-                },
-                {
-                    "nombre": "JFormattedTextField.AbstractFormatter editFormat",
                     "description": ""
                 }
             ]

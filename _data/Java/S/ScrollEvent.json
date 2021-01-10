@@ -5,46 +5,18 @@
     "constructores": [
         {
             "nombre": "ScrollEvent",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "double deltaX",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean shiftDown",
+                    "nombre": "double totalDeltaX",
                     "description": ""
                 },
                 {
-                    "nombre": "double textDeltaY",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventType<ScrollEvent> eventType",
-                    "description": ""
-                },
-                {
-                    "nombre": "double textDeltaX",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean direct",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean controlDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "double multiplierY",
-                    "description": ""
-                },
-                {
-                    "nombre": "double deltaY",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y",
+                    "nombre": "PickResult pickResult",
                     "description": ""
                 },
                 {
@@ -52,7 +24,75 @@
                     "description": ""
                 },
                 {
+                    "nombre": "boolean altDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "double totalDeltaY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenX",
+                    "description": ""
+                },
+                {
+                    "nombre": "ScrollEvent.HorizontalTextScrollUnits textDeltaXUnits",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                },
+                {
+                    "nombre": "double multiplierY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double textDeltaX",
+                    "description": ""
+                },
+                {
                     "nombre": "double screenY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double deltaY",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean controlDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "double multiplierX",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inertia",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean direct",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean shiftDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "ScrollEvent.VerticalTextScrollUnits textDeltaYUnits",
+                    "description": ""
+                },
+                {
+                    "nombre": "double textDeltaY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
                     "description": ""
                 },
                 {
@@ -64,47 +104,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double totalDeltaY",
-                    "description": ""
-                },
-                {
-                    "nombre": "ScrollEvent.HorizontalTextScrollUnits textDeltaXUnits",
-                    "description": ""
-                },
-                {
-                    "nombre": "double screenX",
-                    "description": ""
-                },
-                {
-                    "nombre": "double totalDeltaX",
-                    "description": ""
-                },
-                {
-                    "nombre": "double multiplierX",
-                    "description": ""
-                },
-                {
-                    "nombre": "PickResult pickResult",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventTarget target",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean altDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean inertia",
-                    "description": ""
-                },
-                {
-                    "nombre": "ScrollEvent.VerticalTextScrollUnits textDeltaYUnits",
-                    "description": ""
-                },
-                {
-                    "nombre": "double x",
+                    "nombre": "EventType<ScrollEvent> eventType",
                     "description": ""
                 }
             ]
@@ -116,15 +116,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "EventType<ScrollEvent> type",
-                    "description": ""
-                },
-                {
                     "nombre": "Object newSource",
                     "description": ""
                 },
                 {
                     "nombre": "EventTarget newTarget",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<ScrollEvent> type",
                     "description": ""
                 }
             ]

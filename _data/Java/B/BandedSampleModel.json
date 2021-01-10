@@ -5,22 +5,10 @@
     "constructores": [
         {
             "nombre": "BandedSampleModel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] bankIndices",
-                    "description": ""
-                },
-                {
                     "nombre": "int scanlineStride",
-                    "description": ""
-                },
-                {
-                    "nombre": "int numBands",
-                    "description": ""
-                },
-                {
-                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -33,6 +21,18 @@
                 },
                 {
                     "nombre": "int dataType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bankIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numBands",
                     "description": ""
                 }
             ]
@@ -76,11 +76,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "Object obj",
                     "description": ""
                 },
                 {
-                    "nombre": "Object obj",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -98,11 +98,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "DataBuffer data",
                     "description": ""
                 },
                 {
-                    "nombre": "DataBuffer data",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -120,11 +120,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "DataBuffer data",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -132,7 +128,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -146,11 +146,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int b",
                     "description": ""
                 },
                 {
-                    "nombre": "int b",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -168,11 +168,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int b",
                     "description": ""
                 },
                 {
-                    "nombre": "int b",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -190,11 +190,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int b",
                     "description": ""
                 },
                 {
-                    "nombre": "int b",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -216,11 +216,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "DataBuffer data",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -228,11 +224,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "DataBuffer data",
                     "description": ""
                 },
                 {
                     "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -250,11 +250,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "Object obj",
                     "description": ""
                 },
                 {
-                    "nombre": "Object obj",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -272,11 +272,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "DataBuffer data",
                     "description": ""
                 },
                 {
-                    "nombre": "DataBuffer data",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -294,11 +294,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "DataBuffer data",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -306,7 +302,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -320,11 +320,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "float s",
                     "description": ""
                 },
                 {
                     "nombre": "DataBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double s",
                     "description": ""
                 },
                 {
@@ -333,14 +341,6 @@
                 },
                 {
                     "nombre": "int b",
-                    "description": ""
-                },
-                {
-                    "nombre": "float s",
-                    "description": ""
-                },
-                {
-                    "nombre": "double s",
                     "description": ""
                 },
                 {
@@ -358,11 +358,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "DataBuffer data",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -370,11 +366,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "DataBuffer data",
                     "description": ""
                 },
                 {
                     "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {

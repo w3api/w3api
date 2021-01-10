@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "MapPropertyBase",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "ObservableMap<K",
+                    "nombre": "V> initialValue",
                     "description": ""
                 },
                 {
-                    "nombre": "V> initialValue",
+                    "nombre": "ObservableMap<K",
                     "description": ""
                 }
             ]
@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MapChangeListener.Change<? extends K",
+                    "nombre": "? extends V> change",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends V> change",
+                    "nombre": "MapChangeListener.Change<? extends K",
                     "description": ""
                 }
             ]

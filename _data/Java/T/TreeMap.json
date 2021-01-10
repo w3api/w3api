@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "TreeMap",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "Comparator<? super K> comparator",
-                    "description": ""
-                },
                 {
                     "nombre": "? extends V> m",
                     "description": ""
                 },
                 {
                     "nombre": "Map<? extends K",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super K> comparator",
                     "description": ""
                 },
                 {
@@ -208,11 +208,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 },
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 }
             ]
@@ -250,15 +250,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean toInclusive",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean fromInclusive",
                     "description": ""
                 },
                 {
                     "nombre": "K fromKey",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean toInclusive",
                     "description": ""
                 },
                 {

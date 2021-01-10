@@ -8,11 +8,19 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Color highlightInner",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color shadowInner",
+                    "description": ""
+                },
+                {
                     "nombre": "int type",
                     "description": ""
                 },
                 {
-                    "nombre": "Color highlightInner",
+                    "nombre": "Color shadow",
                     "description": ""
                 },
                 {
@@ -21,14 +29,6 @@
                 },
                 {
                     "nombre": "Color shadowOuter",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color shadowInner",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color shadow",
                     "description": ""
                 },
                 {
@@ -56,7 +56,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float length",
+                    "nombre": "float spacing",
                     "description": ""
                 },
                 {
@@ -64,7 +64,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean rounded",
+                    "nombre": "float length",
                     "description": ""
                 },
                 {
@@ -72,7 +72,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float spacing",
+                    "nombre": "boolean rounded",
                     "description": ""
                 }
             ]
@@ -81,6 +81,10 @@
             "nombre": "createEmptyBorder",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "int bottom",
+                    "description": ""
+                },
                 {
                     "nombre": "int left",
                     "description": ""
@@ -92,10 +96,6 @@
                 {
                     "nombre": "int top",
                     "description": ""
-                },
-                {
-                    "nombre": "int bottom",
-                    "description": ""
                 }
             ]
         },
@@ -104,11 +104,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int type",
+                    "nombre": "Color shadow",
                     "description": ""
                 },
                 {
-                    "nombre": "Color shadow",
+                    "nombre": "int type",
                     "description": ""
                 },
                 {
@@ -122,15 +122,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Color color",
+                    "description": ""
+                },
+                {
                     "nombre": "int thickness",
                     "description": ""
                 },
                 {
                     "nombre": "boolean rounded",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color color",
                     "description": ""
                 }
             ]
@@ -148,11 +148,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int left",
-                    "description": ""
-                },
-                {
-                    "nombre": "int top",
+                    "nombre": "int bottom",
                     "description": ""
                 },
                 {
@@ -160,15 +156,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Icon tileIcon",
-                    "description": ""
-                },
-                {
                     "nombre": "int right",
                     "description": ""
                 },
                 {
-                    "nombre": "int bottom",
+                    "nombre": "int top",
+                    "description": ""
+                },
+                {
+                    "nombre": "int left",
+                    "description": ""
+                },
+                {
+                    "nombre": "Icon tileIcon",
                     "description": ""
                 }
             ]
@@ -186,11 +186,19 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Color highlightInner",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color shadowInner",
+                    "description": ""
+                },
+                {
                     "nombre": "int type",
                     "description": ""
                 },
                 {
-                    "nombre": "Color highlightInner",
+                    "nombre": "Color shadow",
                     "description": ""
                 },
                 {
@@ -199,14 +207,6 @@
                 },
                 {
                     "nombre": "Color shadowOuter",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color shadowInner",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color shadow",
                     "description": ""
                 },
                 {
@@ -234,19 +234,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String title",
-                    "description": ""
-                },
-                {
                     "nombre": "Border border",
-                    "description": ""
-                },
-                {
-                    "nombre": "Font titleFont",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color titleColor",
                     "description": ""
                 },
                 {
@@ -255,6 +243,18 @@
                 },
                 {
                     "nombre": "int titleJustification",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color titleColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font titleFont",
                     "description": ""
                 }
             ]

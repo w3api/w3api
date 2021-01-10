@@ -5,16 +5,8 @@
     "constructores": [
         {
             "nombre": "DatagramPacket",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "byte[] buf",
-                    "description": ""
-                },
-                {
-                    "nombre": "int port",
-                    "description": ""
-                },
                 {
                     "nombre": "int offset",
                     "description": ""
@@ -25,6 +17,14 @@
                 },
                 {
                     "nombre": "InetAddress address",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] buf",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
                     "description": ""
                 },
                 {
@@ -74,15 +74,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
                     "nombre": "int length",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] buf",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 }
             ]

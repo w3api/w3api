@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Cipher",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "CipherSpi cipherSpi",
@@ -28,10 +28,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] output",
-                    "description": ""
-                },
-                {
                     "nombre": "ByteBuffer input",
                     "description": ""
                 },
@@ -40,7 +36,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer output",
+                    "nombre": "int inputOffset",
                     "description": ""
                 },
                 {
@@ -48,11 +44,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int inputLen",
+                    "nombre": "byte[] output",
                     "description": ""
                 },
                 {
-                    "nombre": "int inputOffset",
+                    "nombre": "ByteBuffer output",
+                    "description": ""
+                },
+                {
+                    "nombre": "int inputLen",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Provider provider",
+                    "nombre": "String provider",
                     "description": ""
                 },
                 {
-                    "nombre": "String provider",
+                    "nombre": "Provider provider",
                     "description": ""
                 },
                 {
@@ -134,7 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int opmode",
+                    "nombre": "Certificate certificate",
                     "description": ""
                 },
                 {
@@ -142,7 +142,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "SecureRandom random",
+                    "nombre": "AlgorithmParameters params",
+                    "description": ""
+                },
+                {
+                    "nombre": "int opmode",
                     "description": ""
                 },
                 {
@@ -150,11 +154,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AlgorithmParameters params",
-                    "description": ""
-                },
-                {
-                    "nombre": "Certificate certificate",
+                    "nombre": "SecureRandom random",
                     "description": ""
                 }
             ]
@@ -164,11 +164,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String wrappedKeyAlgorithm",
+                    "nombre": "int wrappedKeyType",
                     "description": ""
                 },
                 {
-                    "nombre": "int wrappedKeyType",
+                    "nombre": "String wrappedKeyAlgorithm",
                     "description": ""
                 },
                 {
@@ -182,11 +182,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] output",
+                    "nombre": "ByteBuffer input",
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer input",
+                    "nombre": "int inputOffset",
                     "description": ""
                 },
                 {
@@ -194,19 +194,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer output",
-                    "description": ""
-                },
-                {
                     "nombre": "byte[] input",
                     "description": ""
                 },
                 {
-                    "nombre": "int inputLen",
+                    "nombre": "byte[] output",
                     "description": ""
                 },
                 {
-                    "nombre": "int inputOffset",
+                    "nombre": "ByteBuffer output",
+                    "description": ""
+                },
+                {
+                    "nombre": "int inputLen",
                     "description": ""
                 }
             ]
@@ -216,11 +216,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] src",
-                    "description": ""
-                },
-                {
-                    "nombre": "ByteBuffer src",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -228,7 +224,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "ByteBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] src",
                     "description": ""
                 }
             ]

@@ -128,11 +128,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAmount amountToSubtract",
+                    "nombre": "long amountToSubtract",
                     "description": ""
                 },
                 {
-                    "nombre": "long amountToSubtract",
+                    "nombre": "TemporalAmount amountToSubtract",
                     "description": ""
                 }
             ]
@@ -222,11 +222,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Clock clock",
+                    "nombre": "ZoneId zone",
                     "description": ""
                 },
                 {
-                    "nombre": "ZoneId zone",
+                    "nombre": "Clock clock",
                     "description": ""
                 }
             ]
@@ -240,15 +240,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int minute",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
-                    "description": ""
-                },
-                {
-                    "nombre": "ZoneId zone",
+                    "nombre": "LocalDate date",
                     "description": ""
                 },
                 {
@@ -256,7 +248,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int nanoOfSecond",
+                    "nombre": "int dayOfMonth",
                     "description": ""
                 },
                 {
@@ -264,7 +256,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int dayOfMonth",
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nanoOfSecond",
                     "description": ""
                 },
                 {
@@ -272,7 +268,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "LocalDate date",
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
                     "description": ""
                 },
                 {
@@ -290,15 +290,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "ZoneId zone",
+                    "description": ""
+                },
+                {
                     "nombre": "Instant instant",
                     "description": ""
                 },
                 {
                     "nombre": "ZoneOffset offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "ZoneId zone",
                     "description": ""
                 }
             ]
@@ -308,15 +308,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ZoneId zone",
-                    "description": ""
-                },
-                {
                     "nombre": "ZoneOffset preferredOffset",
                     "description": ""
                 },
                 {
                     "nombre": "LocalDateTime localDateTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "ZoneId zone",
                     "description": ""
                 }
             ]
@@ -326,15 +326,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "LocalDateTime localDateTime",
+                    "description": ""
+                },
+                {
                     "nombre": "ZoneOffset offset",
                     "description": ""
                 },
                 {
                     "nombre": "ZoneId zone",
-                    "description": ""
-                },
-                {
-                    "nombre": "LocalDateTime localDateTime",
                     "description": ""
                 }
             ]

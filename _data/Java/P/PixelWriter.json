@@ -12,11 +12,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int argb",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int argb",
                     "description": ""
                 },
                 {
@@ -30,11 +30,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "Color c",
                     "description": ""
                 },
                 {
-                    "nombre": "Color c",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -48,51 +48,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int dstx",
-                    "description": ""
-                },
-                {
-                    "nombre": "int scanlineStride",
-                    "description": ""
-                },
-                {
-                    "nombre": "PixelFormat<T> pixelformat",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int srcx",
-                    "description": ""
-                },
-                {
                     "nombre": "byte[] buffer",
-                    "description": ""
-                },
-                {
-                    "nombre": "T buffer",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] buffer",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dsty",
-                    "description": ""
-                },
-                {
-                    "nombre": "int srcy",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "PixelFormat<IntBuffer> pixelformat",
                     "description": ""
                 },
                 {
@@ -100,7 +56,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
+                    "nombre": "int srcx",
+                    "description": ""
+                },
+                {
+                    "nombre": "PixelFormat<IntBuffer> pixelformat",
+                    "description": ""
+                },
+                {
+                    "nombre": "int scanlineStride",
                     "description": ""
                 },
                 {
@@ -109,6 +73,42 @@
                 },
                 {
                     "nombre": "PixelFormat<ByteBuffer> pixelformat",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcy",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dsty",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "T buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "PixelFormat<T> pixelformat",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dstx",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {

@@ -58,6 +58,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
                     "nombre": "int[] dst",
                     "description": ""
                 },
@@ -67,10 +71,6 @@
                 },
                 {
                     "nombre": "int length",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -100,14 +100,6 @@
                     "description": ""
                 },
                 {
-                    "nombre": "IntBuffer src",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] src",
-                    "description": ""
-                },
-                {
                     "nombre": "int offset",
                     "description": ""
                 },
@@ -116,7 +108,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int[] src",
+                    "description": ""
+                },
+                {
                     "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntBuffer src",
                     "description": ""
                 }
             ]
@@ -134,7 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] array",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -142,7 +142,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int[] array",
                     "description": ""
                 }
             ]

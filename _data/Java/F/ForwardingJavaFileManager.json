@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "ForwardingJavaFileManager",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "M fileManager",
@@ -20,11 +20,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FileObject fo",
+                    "nombre": "JavaFileManager.Location location",
                     "description": ""
                 },
                 {
-                    "nombre": "JavaFileManager.Location location",
+                    "nombre": "FileObject fo",
                     "description": ""
                 }
             ]
@@ -62,15 +62,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FileObject sibling",
-                    "description": ""
-                },
-                {
                     "nombre": "JavaFileManager.Location location",
                     "description": ""
                 },
                 {
                     "nombre": "String relativeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "FileObject sibling",
                     "description": ""
                 },
                 {
@@ -84,11 +84,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
+                    "nombre": "JavaFileManager.Location location",
                     "description": ""
                 },
                 {
-                    "nombre": "JavaFileManager.Location location",
+                    "nombre": "String className",
                     "description": ""
                 },
                 {
@@ -102,19 +102,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
-                    "description": ""
-                },
-                {
                     "nombre": "JavaFileManager.Location location",
                     "description": ""
                 },
                 {
-                    "nombre": "JavaFileObject.Kind kind",
+                    "nombre": "String className",
                     "description": ""
                 },
                 {
                     "nombre": "FileObject sibling",
+                    "description": ""
+                },
+                {
+                    "nombre": "JavaFileObject.Kind kind",
                     "description": ""
                 }
             ]
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JavaFileManager.Location location",
+                    "nombre": "String moduleName",
                     "description": ""
                 },
                 {
-                    "nombre": "String moduleName",
+                    "nombre": "JavaFileManager.Location location",
                     "description": ""
                 },
                 {
@@ -170,11 +170,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JavaFileObject file",
+                    "nombre": "JavaFileManager.Location location",
                     "description": ""
                 },
                 {
-                    "nombre": "JavaFileManager.Location location",
+                    "nombre": "JavaFileObject file",
                     "description": ""
                 }
             ]
@@ -194,11 +194,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FileObject b",
+                    "nombre": "FileObject a",
                     "description": ""
                 },
                 {
-                    "nombre": "FileObject a",
+                    "nombre": "FileObject b",
                     "description": ""
                 }
             ]
@@ -208,15 +208,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Set<JavaFileObject.Kind> kinds",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean recurse",
                     "description": ""
                 },
                 {
                     "nombre": "JavaFileManager.Location location",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<JavaFileObject.Kind> kinds",
                     "description": ""
                 },
                 {

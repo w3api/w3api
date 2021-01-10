@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "RequiredModelMBean",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "ModelMBeanInfo mbi",
@@ -24,11 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "NotificationFilter filter",
+                    "nombre": "NotificationListener listener",
                     "description": ""
                 },
                 {
-                    "nombre": "NotificationListener listener",
+                    "nombre": "NotificationFilter filter",
                     "description": ""
                 }
             ]
@@ -70,7 +70,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String[] sig",
+                    "nombre": "Object[] opArgs",
                     "description": ""
                 },
                 {
@@ -78,7 +78,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] opArgs",
+                    "nombre": "String[] sig",
                     "description": ""
                 }
             ]

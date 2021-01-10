@@ -42,11 +42,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<T> expected",
+                    "nombre": "MethodHandles.Lookup lookup",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandles.Lookup lookup",
+                    "nombre": "Class<T> expected",
                     "description": ""
                 }
             ]
@@ -56,11 +56,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> defc",
-                    "description": ""
-                },
-                {
-                    "nombre": "MethodType type",
+                    "nombre": "int kind",
                     "description": ""
                 },
                 {
@@ -68,7 +64,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int kind",
+                    "nombre": "Class<?> defc",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType type",
                     "description": ""
                 }
             ]

@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "SSLServerSocket",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "int backlog",
+                    "description": ""
+                },
                 {
                     "nombre": "int port",
                     "description": ""
                 },
                 {
                     "nombre": "InetAddress address",
-                    "description": ""
-                },
-                {
-                    "nombre": "int backlog",
                     "description": ""
                 }
             ]

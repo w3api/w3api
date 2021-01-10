@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Query",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "QueryExp q2",
+                    "nombre": "QueryExp q1",
                     "description": ""
                 },
                 {
-                    "nombre": "QueryExp q1",
+                    "nombre": "QueryExp q2",
                     "description": ""
                 }
             ]
@@ -42,11 +42,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "String className",
                     "description": ""
                 }
             ]
@@ -56,7 +56,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ValueExp v1",
+                    "nombre": "ValueExp v2",
                     "description": ""
                 },
                 {
@@ -64,7 +64,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ValueExp v2",
+                    "nombre": "ValueExp v1",
                     "description": ""
                 }
             ]
@@ -78,11 +78,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ValueExp value1",
+                    "nombre": "ValueExp value2",
                     "description": ""
                 },
                 {
-                    "nombre": "ValueExp value2",
+                    "nombre": "ValueExp value1",
                     "description": ""
                 }
             ]
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ValueExp v1",
+                    "nombre": "ValueExp v2",
                     "description": ""
                 },
                 {
-                    "nombre": "ValueExp v2",
+                    "nombre": "ValueExp v1",
                     "description": ""
                 }
             ]
@@ -120,11 +120,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ValueExp v1",
+                    "nombre": "ValueExp v2",
                     "description": ""
                 },
                 {
-                    "nombre": "ValueExp v2",
+                    "nombre": "ValueExp v1",
                     "description": ""
                 }
             ]
@@ -134,11 +134,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ValueExp v1",
+                    "nombre": "ValueExp v2",
                     "description": ""
                 },
                 {
-                    "nombre": "ValueExp v2",
+                    "nombre": "ValueExp v1",
                     "description": ""
                 }
             ]
@@ -148,11 +148,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ValueExp[] valueList",
+                    "nombre": "ValueExp val",
                     "description": ""
                 },
                 {
-                    "nombre": "ValueExp val",
+                    "nombre": "ValueExp[] valueList",
                     "description": ""
                 }
             ]
@@ -186,11 +186,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ValueExp v1",
+                    "nombre": "ValueExp v2",
                     "description": ""
                 },
                 {
-                    "nombre": "ValueExp v2",
+                    "nombre": "ValueExp v1",
                     "description": ""
                 }
             ]
@@ -200,11 +200,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ValueExp v1",
+                    "nombre": "ValueExp v2",
                     "description": ""
                 },
                 {
-                    "nombre": "ValueExp v2",
+                    "nombre": "ValueExp v1",
                     "description": ""
                 }
             ]
@@ -228,11 +228,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ValueExp value1",
+                    "nombre": "ValueExp value2",
                     "description": ""
                 },
                 {
-                    "nombre": "ValueExp value2",
+                    "nombre": "ValueExp value1",
                     "description": ""
                 }
             ]
@@ -252,11 +252,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "QueryExp q2",
+                    "nombre": "QueryExp q1",
                     "description": ""
                 },
                 {
-                    "nombre": "QueryExp q1",
+                    "nombre": "QueryExp q2",
                     "description": ""
                 }
             ]
@@ -266,11 +266,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ValueExp value1",
+                    "nombre": "ValueExp value2",
                     "description": ""
                 },
                 {
-                    "nombre": "ValueExp value2",
+                    "nombre": "ValueExp value1",
                     "description": ""
                 }
             ]
@@ -280,11 +280,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ValueExp value1",
+                    "nombre": "ValueExp value2",
                     "description": ""
                 },
                 {
-                    "nombre": "ValueExp value2",
+                    "nombre": "ValueExp value1",
                     "description": ""
                 }
             ]
@@ -294,6 +294,18 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "double val",
+                    "description": ""
+                },
+                {
+                    "nombre": "Number val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int val",
+                    "description": ""
+                },
+                {
                     "nombre": "float val",
                     "description": ""
                 },
@@ -302,23 +314,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String val",
-                    "description": ""
-                },
-                {
-                    "nombre": "int val",
-                    "description": ""
-                },
-                {
-                    "nombre": "Number val",
-                    "description": ""
-                },
-                {
-                    "nombre": "double val",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean val",
+                    "description": ""
+                },
+                {
+                    "nombre": "String val",
                     "description": ""
                 }
             ]

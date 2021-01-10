@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String invokedName",
+                    "nombre": "MethodType invokedType",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodType invokedType",
+                    "nombre": "String invokedName",
                     "description": ""
                 },
                 {
@@ -30,18 +30,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodType samMethodType",
-                    "description": ""
-                },
-                {
-                    "nombre": "MethodHandles.Lookup caller",
-                    "description": ""
-                },
-                {
-                    "nombre": "MethodHandle implMethod",
-                    "description": ""
-                },
-                {
                     "nombre": "String invokedName",
                     "description": ""
                 },
@@ -50,7 +38,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "MethodHandle implMethod",
+                    "description": ""
+                },
+                {
                     "nombre": "MethodType instantiatedMethodType",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodHandles.Lookup caller",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType samMethodType",
                     "description": ""
                 }
             ]

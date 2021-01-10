@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "TextInputControl",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "TextInputControl.Content content",
@@ -70,15 +70,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
                     "nombre": "int start",
                     "description": ""
                 },
                 {
                     "nombre": "IndexRange range",
-                    "description": ""
-                },
-                {
-                    "nombre": "int end",
                     "description": ""
                 }
             ]
@@ -162,11 +162,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
+                    "nombre": "int end",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "int start",
                     "description": ""
                 }
             ]
@@ -184,11 +184,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "String text",
                     "description": ""
                 },
                 {
-                    "nombre": "String text",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -258,11 +258,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int start",
+                    "nombre": "int end",
                     "description": ""
                 },
                 {
-                    "nombre": "String text",
+                    "nombre": "int start",
                     "description": ""
                 },
                 {
@@ -270,7 +270,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "String text",
                     "description": ""
                 }
             ]
@@ -330,11 +330,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int anchor",
+                    "nombre": "int caretPosition",
                     "description": ""
                 },
                 {
-                    "nombre": "int caretPosition",
+                    "nombre": "int anchor",
                     "description": ""
                 }
             ]

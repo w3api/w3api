@@ -5,22 +5,14 @@
     "constructores": [
         {
             "nombre": "OpenMBeanInfoSupport",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
+                    "nombre": "OpenMBeanAttributeInfo[] openAttributes",
                     "description": ""
                 },
                 {
-                    "nombre": "OpenMBeanConstructorInfo[] openConstructors",
-                    "description": ""
-                },
-                {
-                    "nombre": "OpenMBeanOperationInfo[] openOperations",
-                    "description": ""
-                },
-                {
-                    "nombre": "MBeanNotificationInfo[] notifications",
+                    "nombre": "Descriptor descriptor",
                     "description": ""
                 },
                 {
@@ -28,11 +20,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "OpenMBeanAttributeInfo[] openAttributes",
+                    "nombre": "OpenMBeanOperationInfo[] openOperations",
                     "description": ""
                 },
                 {
-                    "nombre": "Descriptor descriptor",
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanNotificationInfo[] notifications",
+                    "description": ""
+                },
+                {
+                    "nombre": "OpenMBeanConstructorInfo[] openConstructors",
                     "description": ""
                 }
             ]

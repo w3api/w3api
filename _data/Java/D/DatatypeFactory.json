@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "DatatypeFactory",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,35 +18,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BigInteger minutes",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger years",
-                    "description": ""
-                },
-                {
-                    "nombre": "int hours",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean isPositive",
-                    "description": ""
-                },
-                {
-                    "nombre": "int seconds",
-                    "description": ""
-                },
-                {
-                    "nombre": "int days",
-                    "description": ""
-                },
-                {
-                    "nombre": "String lexicalRepresentation",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger months",
                     "description": ""
                 },
                 {
@@ -54,11 +26,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int minutes",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger hours",
+                    "nombre": "int days",
                     "description": ""
                 },
                 {
@@ -66,11 +34,43 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BigDecimal seconds",
+                    "nombre": "int hours",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minutes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int seconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger years",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger months",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger minutes",
                     "description": ""
                 },
                 {
                     "nombre": "long durationInMilliSeconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "String lexicalRepresentation",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger hours",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal seconds",
                     "description": ""
                 },
                 {
@@ -84,19 +84,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BigInteger second",
-                    "description": ""
-                },
-                {
-                    "nombre": "int minute",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean isPositive",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger day",
                     "description": ""
                 },
                 {
@@ -104,11 +92,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger hour",
-                    "description": ""
-                },
-                {
-                    "nombre": "String lexicalRepresentation",
+                    "nombre": "BigInteger minute",
                     "description": ""
                 },
                 {
@@ -116,11 +100,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String lexicalRepresentation",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger hour",
+                    "description": ""
+                },
+                {
                     "nombre": "int hour",
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger minute",
+                    "nombre": "BigInteger day",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger second",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
                     "description": ""
                 },
                 {
@@ -134,19 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BigInteger month",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger year",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean isPositive",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
                     "description": ""
                 },
                 {
@@ -154,11 +142,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "long durationInMilliseconds",
+                    "description": ""
+                },
+                {
                     "nombre": "String lexicalRepresentation",
                     "description": ""
                 },
                 {
-                    "nombre": "long durationInMilliseconds",
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger month",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger year",
                     "description": ""
                 }
             ]
@@ -182,19 +182,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BigInteger year",
-                    "description": ""
-                },
-                {
-                    "nombre": "int minute",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
-                    "description": ""
-                },
-                {
-                    "nombre": "int timezone",
+                    "nombre": "int day",
                     "description": ""
                 },
                 {
@@ -202,19 +190,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int day",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigDecimal fractionalSecond",
-                    "description": ""
-                },
-                {
                     "nombre": "String lexicalRepresentation",
                     "description": ""
                 },
                 {
+                    "nombre": "int timezone",
+                    "description": ""
+                },
+                {
                     "nombre": "int millisecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
                     "description": ""
                 },
                 {
@@ -223,6 +211,18 @@
                 },
                 {
                     "nombre": "int hour",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal fractionalSecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
                     "description": ""
                 },
                 {
@@ -236,11 +236,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int year",
-                    "description": ""
-                },
-                {
-                    "nombre": "int month",
+                    "nombre": "int day",
                     "description": ""
                 },
                 {
@@ -248,7 +244,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int day",
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
                     "description": ""
                 }
             ]
@@ -258,15 +258,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int hours",
-                    "description": ""
-                },
-                {
-                    "nombre": "int timezone",
-                    "description": ""
-                },
-                {
                     "nombre": "int seconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hours",
                     "description": ""
                 },
                 {
@@ -279,6 +275,10 @@
                 },
                 {
                     "nombre": "BigDecimal fractionalSecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "int timezone",
                     "description": ""
                 }
             ]

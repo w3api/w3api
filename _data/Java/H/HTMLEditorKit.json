@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "HTMLEditorKit",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -22,11 +22,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MutableAttributeSet set",
+                    "nombre": "Element element",
                     "description": ""
                 },
                 {
-                    "nombre": "Element element",
+                    "nombre": "MutableAttributeSet set",
                     "description": ""
                 }
             ]
@@ -82,19 +82,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int popDepth",
-                    "description": ""
-                },
-                {
-                    "nombre": "int pushDepth",
-                    "description": ""
-                },
-                {
                     "nombre": "HTMLDocument doc",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -102,7 +90,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int popDepth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
                     "nombre": "String html",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pushDepth",
                     "description": ""
                 }
             ]
@@ -126,15 +126,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
                     "nombre": "Reader in",
                     "description": ""
                 },
                 {
                     "nombre": "Document doc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -184,7 +184,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Writer out",
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "Document doc",
                     "description": ""
                 },
                 {
@@ -192,11 +196,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
-                    "description": ""
-                },
-                {
-                    "nombre": "Document doc",
+                    "nombre": "Writer out",
                     "description": ""
                 }
             ]

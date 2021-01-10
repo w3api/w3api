@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "ValueAxis",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "double upperBound",
+                    "nombre": "double lowerBound",
                     "description": ""
                 },
                 {
-                    "nombre": "double lowerBound",
+                    "nombre": "double upperBound",
                     "description": ""
                 }
             ]
@@ -28,11 +28,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double length",
+                    "nombre": "double minValue",
                     "description": ""
                 },
                 {
-                    "nombre": "double minValue",
+                    "nombre": "double length",
                     "description": ""
                 },
                 {
@@ -50,15 +50,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "double lowerBound",
+                    "description": ""
+                },
+                {
                     "nombre": "double length",
                     "description": ""
                 },
                 {
                     "nombre": "double upperBound",
-                    "description": ""
-                },
-                {
-                    "nombre": "double lowerBound",
                     "description": ""
                 }
             ]

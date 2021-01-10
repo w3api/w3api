@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "ShortLookupTable",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
                 {
                     "nombre": "short[] data",
                     "description": ""
                 },
                 {
                     "nombre": "short[][] data",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -32,6 +32,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "short[] src",
+                    "description": ""
+                },
+                {
                     "nombre": "int[] dst",
                     "description": ""
                 },
@@ -41,10 +45,6 @@
                 },
                 {
                     "nombre": "short[] dst",
-                    "description": ""
-                },
-                {
-                    "nombre": "short[] src",
                     "description": ""
                 }
             ]

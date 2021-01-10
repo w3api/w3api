@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "AttributesImpl",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "Attributes atts",
@@ -20,11 +20,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String localName",
+                    "nombre": "String value",
                     "description": ""
                 },
                 {
-                    "nombre": "String qName",
+                    "nombre": "String localName",
                     "description": ""
                 },
                 {
@@ -32,11 +32,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String value",
+                    "nombre": "String uri",
                     "description": ""
                 },
                 {
-                    "nombre": "String uri",
+                    "nombre": "String qName",
                     "description": ""
                 }
             ]
@@ -50,11 +50,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String localName",
+                    "nombre": "String qName",
                     "description": ""
                 },
                 {
-                    "nombre": "String qName",
+                    "nombre": "String localName",
                     "description": ""
                 },
                 {
@@ -92,15 +92,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
-                    "description": ""
-                },
-                {
                     "nombre": "String localName",
                     "description": ""
                 },
                 {
                     "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
@@ -124,15 +124,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
-                    "description": ""
-                },
-                {
                     "nombre": "String localName",
                     "description": ""
                 },
                 {
                     "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
@@ -156,11 +156,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
                     "nombre": "String localName",
                     "description": ""
                 },
                 {
-                    "nombre": "String qName",
+                    "nombre": "String uri",
                     "description": ""
                 },
                 {
@@ -168,11 +172,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String value",
-                    "description": ""
-                },
-                {
-                    "nombre": "String uri",
+                    "nombre": "String qName",
                     "description": ""
                 },
                 {
@@ -210,11 +210,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "String qName",
                     "description": ""
                 },
                 {
-                    "nombre": "String qName",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -252,11 +252,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "String value",
                     "description": ""
                 },
                 {
-                    "nombre": "String value",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]

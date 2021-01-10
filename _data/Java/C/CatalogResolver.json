@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String href",
+                    "nombre": "String base",
                     "description": ""
                 },
                 {
-                    "nombre": "String base",
+                    "nombre": "String href",
                     "description": ""
                 }
             ]
@@ -26,15 +26,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String baseUri",
+                    "description": ""
+                },
+                {
                     "nombre": "String namespace",
                     "description": ""
                 },
                 {
                     "nombre": "String publicId",
-                    "description": ""
-                },
-                {
-                    "nombre": "String baseUri",
                     "description": ""
                 }
             ]
@@ -44,11 +44,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String namespaceUri",
+                    "description": ""
+                },
+                {
                     "nombre": "String type",
                     "description": ""
                 },
                 {
-                    "nombre": "String systemId",
+                    "nombre": "String publicId",
                     "description": ""
                 },
                 {
@@ -56,11 +60,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String namespaceUri",
-                    "description": ""
-                },
-                {
-                    "nombre": "String publicId",
+                    "nombre": "String systemId",
                     "description": ""
                 }
             ]

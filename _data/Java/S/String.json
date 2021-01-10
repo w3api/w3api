@@ -5,22 +5,10 @@
     "constructores": [
         {
             "nombre": "String",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "byte[] bytes",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] codePoints",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] ascii",
-                    "description": ""
-                },
-                {
-                    "nombre": "String charsetName",
                     "description": ""
                 },
                 {
@@ -28,23 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String original",
-                    "description": ""
-                },
-                {
-                    "nombre": "int hibyte",
-                    "description": ""
-                },
-                {
                     "nombre": "char[] value",
-                    "description": ""
-                },
-                {
-                    "nombre": "StringBuilder builder",
-                    "description": ""
-                },
-                {
-                    "nombre": "StringBuffer buffer",
                     "description": ""
                 },
                 {
@@ -52,11 +24,39 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "String charsetName",
+                    "description": ""
+                },
+                {
                     "nombre": "int length",
                     "description": ""
                 },
                 {
-                    "nombre": "int count",
+                    "nombre": "String original",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringBuffer buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringBuilder builder",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] ascii",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] codePoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hibyte",
                     "description": ""
                 }
             ]
@@ -160,11 +160,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "StringBuffer sb",
+                    "nombre": "CharSequence cs",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence cs",
+                    "nombre": "StringBuffer sb",
                     "description": ""
                 }
             ]
@@ -174,7 +174,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "char[] data",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -182,7 +182,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "char[] data",
                     "description": ""
                 }
             ]
@@ -240,7 +240,19 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int dstBegin",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcBegin",
+                    "description": ""
+                },
+                {
                     "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] dst",
                     "description": ""
                 },
                 {
@@ -249,18 +261,6 @@
                 },
                 {
                     "nombre": "int srcEnd",
-                    "description": ""
-                },
-                {
-                    "nombre": "int srcBegin",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dstBegin",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] dst",
                     "description": ""
                 }
             ]
@@ -274,7 +274,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int srcEnd",
+                    "nombre": "int dstBegin",
                     "description": ""
                 },
                 {
@@ -282,7 +282,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int dstBegin",
+                    "nombre": "int srcEnd",
                     "description": ""
                 }
             ]
@@ -296,11 +296,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String str",
+                    "nombre": "int fromIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "String str",
                     "description": ""
                 },
                 {
@@ -322,15 +322,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "CharSequence delimiter",
+                    "description": ""
+                },
+                {
                     "nombre": "Iterable<? extends CharSequence> elements",
                     "description": ""
                 },
                 {
                     "nombre": "CharSequence... elements",
-                    "description": ""
-                },
-                {
-                    "nombre": "CharSequence delimiter",
                     "description": ""
                 }
             ]
@@ -340,11 +340,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String str",
+                    "nombre": "int fromIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "String str",
                     "description": ""
                 },
                 {
@@ -372,11 +372,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "int codePointOffset",
                     "description": ""
                 },
                 {
-                    "nombre": "int codePointOffset",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -386,11 +386,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String other",
+                    "nombre": "boolean ignoreCase",
                     "description": ""
                 },
                 {
-                    "nombre": "int ooffset",
+                    "nombre": "String other",
                     "description": ""
                 },
                 {
@@ -398,7 +398,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean ignoreCase",
+                    "nombre": "int ooffset",
                     "description": ""
                 },
                 {
@@ -412,11 +412,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "char oldChar",
+                    "nombre": "CharSequence replacement",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence replacement",
+                    "nombre": "char newChar",
                     "description": ""
                 },
                 {
@@ -424,7 +424,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char newChar",
+                    "nombre": "char oldChar",
                     "description": ""
                 }
             ]
@@ -550,15 +550,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] data",
+                    "nombre": "boolean b",
                     "description": ""
                 },
                 {
@@ -566,15 +558,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean b",
-                    "description": ""
-                },
-                {
-                    "nombre": "float f",
-                    "description": ""
-                },
-                {
-                    "nombre": "char c",
+                    "nombre": "int i",
                     "description": ""
                 },
                 {
@@ -583,6 +567,22 @@
                 },
                 {
                     "nombre": "int count",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "float f",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
                     "description": ""
                 },
                 {

@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "RMIConnectorServer",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "JMXServiceURL url",
                     "description": ""
                 },
                 {
-                    "nombre": "MBeanServer mbeanServer",
+                    "nombre": "?> environment",
                     "description": ""
                 },
                 {
-                    "nombre": "?> environment",
+                    "nombre": "MBeanServer mbeanServer",
                     "description": ""
                 },
                 {
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Map<String",
+                    "nombre": "?> env",
                     "description": ""
                 },
                 {
-                    "nombre": "?> env",
+                    "nombre": "Map<String",
                     "description": ""
                 }
             ]

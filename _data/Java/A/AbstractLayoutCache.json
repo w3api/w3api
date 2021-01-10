@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "AbstractLayoutCache",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "Rectangle placeIn",
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle placeIn",
+                    "nombre": "TreePath path",
                     "description": ""
                 }
             ]
@@ -42,7 +42,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int depth",
+                    "nombre": "int row",
                     "description": ""
                 },
                 {
@@ -50,15 +50,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int row",
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int depth",
                     "description": ""
                 },
                 {
                     "nombre": "boolean expanded",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object value",
                     "description": ""
                 }
             ]
@@ -190,11 +190,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean isExpanded",
+                    "nombre": "TreePath path",
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "boolean isExpanded",
                     "description": ""
                 }
             ]

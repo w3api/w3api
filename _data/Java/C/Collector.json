@@ -24,23 +24,27 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<A> supplier",
-                    "description": ""
-                },
-                {
-                    "nombre": "BinaryOperator<R> combiner",
-                    "description": ""
-                },
-                {
                     "nombre": "BiConsumer<R",
                     "description": ""
                 },
                 {
-                    "nombre": "R> finisher",
+                    "nombre": "Supplier<A> supplier",
+                    "description": ""
+                },
+                {
+                    "nombre": "Function<A",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<R> supplier",
                     "description": ""
                 },
                 {
                     "nombre": "BinaryOperator<A> combiner",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<R> combiner",
                     "description": ""
                 },
                 {
@@ -56,11 +60,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Function<A",
-                    "description": ""
-                },
-                {
-                    "nombre": "Supplier<R> supplier",
+                    "nombre": "R> finisher",
                     "description": ""
                 }
             ]

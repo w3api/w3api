@@ -5,18 +5,18 @@
     "constructores": [
         {
             "nombre": "KeyGenerator",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "String algorithm",
+                    "description": ""
+                },
                 {
                     "nombre": "KeyGeneratorSpi keyGenSpi",
                     "description": ""
                 },
                 {
                     "nombre": "Provider provider",
-                    "description": ""
-                },
-                {
-                    "nombre": "String algorithm",
                     "description": ""
                 }
             ]
@@ -58,15 +58,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SecureRandom random",
-                    "description": ""
-                },
-                {
                     "nombre": "AlgorithmParameterSpec params",
                     "description": ""
                 },
                 {
                     "nombre": "int keysize",
+                    "description": ""
+                },
+                {
+                    "nombre": "SecureRandom random",
                     "description": ""
                 }
             ]

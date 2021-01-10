@@ -5,8 +5,16 @@
     "constructores": [
         {
             "nombre": "RC5ParameterSpec",
-            "descrition": "",
+            "description": "",
             "parametros": [
+                {
+                    "nombre": "int version",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
                 {
                     "nombre": "int rounds",
                     "description": ""
@@ -16,15 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "byte[] iv",
-                    "description": ""
-                },
-                {
-                    "nombre": "int version",
                     "description": ""
                 }
             ]

@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "AttachmentPart",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -116,11 +116,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream content",
+                    "nombre": "String contentType",
                     "description": ""
                 },
                 {
-                    "nombre": "String contentType",
+                    "nombre": "InputStream content",
                     "description": ""
                 }
             ]
@@ -130,11 +130,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String contentType",
+                    "nombre": "Object object",
                     "description": ""
                 },
                 {
-                    "nombre": "Object object",
+                    "nombre": "String contentType",
                     "description": ""
                 }
             ]
@@ -198,11 +198,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream content",
+                    "nombre": "String contentType",
                     "description": ""
                 },
                 {
-                    "nombre": "String contentType",
+                    "nombre": "InputStream content",
                     "description": ""
                 }
             ]
@@ -212,11 +212,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int len",
+                    "nombre": "byte[] content",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] content",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -224,7 +224,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int len",
                     "description": ""
                 }
             ]

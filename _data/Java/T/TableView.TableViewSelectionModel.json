@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "TableView.TableViewSelectionModel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "TableView<S> tableView",
@@ -20,7 +20,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TableColumn<S",
+                    "nombre": "?> column",
                     "description": ""
                 },
                 {
@@ -28,7 +28,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "?> column",
+                    "nombre": "TableColumn<S",
                     "description": ""
                 }
             ]
@@ -38,7 +38,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "?> column",
                     "description": ""
                 },
                 {
@@ -46,7 +46,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "?> column",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
@@ -112,7 +112,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "?> column",
                     "description": ""
                 },
                 {
@@ -120,7 +120,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "?> column",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
@@ -134,7 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TableColumn<S",
+                    "nombre": "?> column",
                     "description": ""
                 },
                 {
@@ -142,11 +142,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "?> column",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "TableColumn<S",
                     "description": ""
                 }
             ]
@@ -164,11 +164,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int... rows",
+                    "nombre": "int row",
                     "description": ""
                 },
                 {
-                    "nombre": "int row",
+                    "nombre": "int... rows",
                     "description": ""
                 }
             ]

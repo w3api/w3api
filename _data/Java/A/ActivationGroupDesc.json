@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "ActivationGroupDesc",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
+                    "nombre": "MarshalledObject<?> data",
+                    "description": ""
+                },
+                {
+                    "nombre": "ActivationGroupDesc.CommandEnvironment cmd",
                     "description": ""
                 },
                 {
@@ -16,15 +20,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String className",
+                    "description": ""
+                },
+                {
                     "nombre": "Properties overrides",
-                    "description": ""
-                },
-                {
-                    "nombre": "MarshalledObject<?> data",
-                    "description": ""
-                },
-                {
-                    "nombre": "ActivationGroupDesc.CommandEnvironment cmd",
                     "description": ""
                 }
             ]

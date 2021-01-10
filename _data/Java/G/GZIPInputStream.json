@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "GZIPInputStream",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "int size",
+                    "nombre": "InputStream in",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream in",
+                    "nombre": "int size",
                     "description": ""
                 }
             ]
@@ -28,15 +28,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
                     "nombre": "int off",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] buf",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
                     "description": ""
                 }
             ]

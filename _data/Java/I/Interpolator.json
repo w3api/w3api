@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "Interpolator",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -24,7 +24,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int endValue",
+                    "nombre": "int startValue",
                     "description": ""
                 },
                 {
@@ -32,11 +32,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean endValue",
+                    "nombre": "int endValue",
                     "description": ""
                 },
                 {
-                    "nombre": "int startValue",
+                    "nombre": "double endValue",
                     "description": ""
                 },
                 {
@@ -44,7 +44,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double fraction",
+                    "nombre": "long startValue",
                     "description": ""
                 },
                 {
@@ -52,7 +52,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long startValue",
+                    "nombre": "long endValue",
                     "description": ""
                 },
                 {
@@ -60,11 +60,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long endValue",
+                    "nombre": "double fraction",
                     "description": ""
                 },
                 {
-                    "nombre": "double endValue",
+                    "nombre": "boolean endValue",
                     "description": ""
                 }
             ]
@@ -74,7 +74,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y2",
+                    "nombre": "double x1",
                     "description": ""
                 },
                 {
@@ -82,11 +82,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x2",
+                    "nombre": "double y2",
                     "description": ""
                 },
                 {
-                    "nombre": "double x1",
+                    "nombre": "double x2",
                     "description": ""
                 }
             ]
@@ -96,15 +96,11 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Duration t2",
+                    "description": ""
+                },
+                {
                     "nombre": "double v",
-                    "description": ""
-                },
-                {
-                    "nombre": "Duration t1",
-                    "description": ""
-                },
-                {
-                    "nombre": "Duration t",
                     "description": ""
                 },
                 {
@@ -112,11 +108,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Duration t1",
+                    "description": ""
+                },
+                {
                     "nombre": "double v2",
                     "description": ""
                 },
                 {
-                    "nombre": "Duration t2",
+                    "nombre": "Duration t",
                     "description": ""
                 }
             ]

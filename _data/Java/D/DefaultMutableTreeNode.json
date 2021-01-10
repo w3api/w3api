@@ -5,14 +5,14 @@
     "constructores": [
         {
             "nombre": "DefaultMutableTreeNode",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean allowsChildren",
+                    "nombre": "Object userObject",
                     "description": ""
                 },
                 {
-                    "nombre": "Object userObject",
+                    "nombre": "boolean allowsChildren",
                     "description": ""
                 }
             ]
@@ -146,11 +146,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int depth",
+                    "nombre": "TreeNode aNode",
                     "description": ""
                 },
                 {
-                    "nombre": "TreeNode aNode",
+                    "nombre": "int depth",
                     "description": ""
                 }
             ]
@@ -198,11 +198,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MutableTreeNode newChild",
+                    "nombre": "int childIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int childIndex",
+                    "nombre": "MutableTreeNode newChild",
                     "description": ""
                 }
             ]
@@ -288,11 +288,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int childIndex",
+                    "nombre": "MutableTreeNode aChild",
                     "description": ""
                 },
                 {
-                    "nombre": "MutableTreeNode aChild",
+                    "nombre": "int childIndex",
                     "description": ""
                 }
             ]

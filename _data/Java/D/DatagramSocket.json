@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "DatagramSocket",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "SocketAddress bindaddr",
                     "description": ""
                 },
                 {
@@ -17,10 +21,6 @@
                 },
                 {
                     "nombre": "InetAddress laddr",
-                    "description": ""
-                },
-                {
-                    "nombre": "SocketAddress bindaddr",
                     "description": ""
                 }
             ]
@@ -182,11 +182,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T value",
+                    "nombre": "SocketOption<T> name",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketOption<T> name",
+                    "nombre": "T value",
                     "description": ""
                 }
             ]

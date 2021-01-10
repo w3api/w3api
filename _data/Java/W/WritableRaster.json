@@ -5,10 +5,10 @@
     "constructores": [
         {
             "nombre": "WritableRaster",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "SampleModel sampleModel",
+                    "nombre": "WritableRaster parent",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "WritableRaster parent",
+                    "nombre": "Point sampleModelTranslate",
                     "description": ""
                 },
                 {
@@ -24,7 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point sampleModelTranslate",
+                    "nombre": "SampleModel sampleModel",
                     "description": ""
                 },
                 {
@@ -40,15 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int childMinX",
-                    "description": ""
-                },
-                {
-                    "nombre": "int childMinY",
-                    "description": ""
-                },
-                {
                     "nombre": "int parentY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -56,15 +52,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int parentX",
-                    "description": ""
-                },
-                {
                     "nombre": "int w",
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "int parentX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int childMinX",
+                    "description": ""
+                },
+                {
+                    "nombre": "int childMinY",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int childMinX",
+                    "nombre": "int childMinY",
                     "description": ""
                 },
                 {
-                    "nombre": "int childMinY",
+                    "nombre": "int childMinX",
                     "description": ""
                 }
             ]
@@ -92,7 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -104,11 +108,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "int h",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -122,6 +122,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "double[] dArray",
+                    "description": ""
+                },
+                {
                     "nombre": "int[] iArray",
                     "description": ""
                 },
@@ -131,10 +135,6 @@
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] dArray",
                     "description": ""
                 },
                 {
@@ -148,7 +148,19 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "double[] dArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                },
+                {
                     "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -157,18 +169,6 @@
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] dArray",
-                    "description": ""
-                },
-                {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -200,7 +200,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double s",
                     "description": ""
                 },
                 {
@@ -214,14 +222,6 @@
                 {
                     "nombre": "float s",
                     "description": ""
-                },
-                {
-                    "nombre": "double s",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
-                    "description": ""
                 }
             ]
         },
@@ -230,23 +230,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] iArray",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] fArray",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "double[] dArray",
-                    "description": ""
-                },
-                {
-                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -254,7 +238,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] fArray",
+                    "description": ""
+                },
+                {
                     "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {

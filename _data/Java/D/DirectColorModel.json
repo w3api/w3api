@@ -5,10 +5,14 @@
     "constructores": [
         {
             "nombre": "DirectColorModel",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
-                    "nombre": "ColorSpace space",
+                    "nombre": "int bmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int gmask",
                     "description": ""
                 },
                 {
@@ -24,19 +28,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int gmask",
+                    "nombre": "boolean isAlphaPremultiplied",
                     "description": ""
                 },
                 {
-                    "nombre": "int bmask",
+                    "nombre": "ColorSpace space",
                     "description": ""
                 },
                 {
                     "nombre": "int transferType",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isAlphaPremultiplied",
                     "description": ""
                 }
             ]
@@ -120,11 +120,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int pixel",
+                    "nombre": "int[] components",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] components",
+                    "nombre": "int pixel",
                     "description": ""
                 }
             ]
@@ -152,15 +152,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
                     "nombre": "Object obj",
                     "description": ""
                 },
                 {
                     "nombre": "int[] components",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 },
                 {

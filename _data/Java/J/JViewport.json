@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "JViewport",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -24,15 +24,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Component child",
-                    "description": ""
-                },
-                {
                     "nombre": "Object constraints",
                     "description": ""
                 },
                 {
                     "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component child",
                     "description": ""
                 }
             ]
@@ -46,10 +46,6 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point blitFrom",
-                    "description": ""
-                },
-                {
                     "nombre": "int dy",
                     "description": ""
                 },
@@ -58,11 +54,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int dx",
+                    "nombre": "Point blitFrom",
                     "description": ""
                 },
                 {
                     "nombre": "Dimension blitSize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dx",
                     "description": ""
                 }
             ]
@@ -84,11 +84,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String propertyName",
+                    "nombre": "Object oldValue",
                     "description": ""
                 },
                 {
-                    "nombre": "Object oldValue",
+                    "nombre": "String propertyName",
                     "description": ""
                 }
             ]
@@ -198,11 +198,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "long tm",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -210,7 +206,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "long tm",
                     "description": ""
                 },
                 {
@@ -228,11 +228,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -336,11 +336,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point p",
+                    "nombre": "Dimension size",
                     "description": ""
                 },
                 {
-                    "nombre": "Dimension size",
+                    "nombre": "Point p",
                     "description": ""
                 }
             ]

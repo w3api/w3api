@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "X509CertSelector",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -14,15 +14,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
                     "nombre": "byte[] name",
                     "description": ""
                 },
                 {
                     "nombre": "int type",
-                    "description": ""
-                },
-                {
-                    "nombre": "String name",
                     "description": ""
                 }
             ]
@@ -32,15 +32,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
                     "nombre": "byte[] name",
                     "description": ""
                 },
                 {
                     "nombre": "int type",
-                    "description": ""
-                },
-                {
-                    "nombre": "String name",
                     "description": ""
                 }
             ]
@@ -202,15 +202,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "X500Principal issuer",
+                    "description": ""
+                },
+                {
                     "nombre": "String issuerDN",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] issuerDN",
-                    "description": ""
-                },
-                {
-                    "nombre": "X500Principal issuer",
                     "description": ""
                 }
             ]
@@ -290,15 +290,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "X500Principal subject",
-                    "description": ""
-                },
-                {
                     "nombre": "String subjectDN",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] subjectDN",
+                    "description": ""
+                },
+                {
+                    "nombre": "X500Principal subject",
                     "description": ""
                 }
             ]

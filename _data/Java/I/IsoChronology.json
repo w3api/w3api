@@ -8,19 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Era era",
-                    "description": ""
-                },
-                {
                     "nombre": "int month",
-                    "description": ""
-                },
-                {
-                    "nombre": "int yearOfEra",
-                    "description": ""
-                },
-                {
-                    "nombre": "TemporalAccessor temporal",
                     "description": ""
                 },
                 {
@@ -29,6 +17,18 @@
                 },
                 {
                     "nombre": "int prolepticYear",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAccessor temporal",
+                    "description": ""
+                },
+                {
+                    "nombre": "Era era",
+                    "description": ""
+                },
+                {
+                    "nombre": "int yearOfEra",
                     "description": ""
                 }
             ]
@@ -48,11 +48,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Clock clock",
+                    "nombre": "ZoneId zone",
                     "description": ""
                 },
                 {
-                    "nombre": "ZoneId zone",
+                    "nombre": "Clock clock",
                     "description": ""
                 }
             ]
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int dayOfYear",
+                    "nombre": "int prolepticYear",
                     "description": ""
                 },
                 {
-                    "nombre": "int prolepticYear",
+                    "nombre": "int dayOfYear",
                     "description": ""
                 },
                 {
@@ -84,15 +84,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int minute",
-                    "description": ""
-                },
-                {
                     "nombre": "int month",
-                    "description": ""
-                },
-                {
-                    "nombre": "ZoneOffset zoneOffset",
                     "description": ""
                 },
                 {
@@ -100,11 +92,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int prolepticYear",
+                    "description": ""
+                },
+                {
                     "nombre": "int hour",
                     "description": ""
                 },
                 {
-                    "nombre": "int prolepticYear",
+                    "nombre": "ZoneOffset zoneOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minute",
                     "description": ""
                 },
                 {
@@ -146,15 +146,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int years",
-                    "description": ""
-                },
-                {
                     "nombre": "int months",
                     "description": ""
                 },
                 {
                     "nombre": "int days",
+                    "description": ""
+                },
+                {
+                    "nombre": "int years",
                     "description": ""
                 }
             ]
@@ -168,11 +168,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ResolverStyle resolverStyle",
+                    "nombre": "Map<TemporalField",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<TemporalField",
+                    "nombre": "ResolverStyle resolverStyle",
                     "description": ""
                 }
             ]
@@ -182,15 +182,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Instant instant",
-                    "description": ""
-                },
-                {
                     "nombre": "TemporalAccessor temporal",
                     "description": ""
                 },
                 {
                     "nombre": "ZoneId zone",
+                    "description": ""
+                },
+                {
+                    "nombre": "Instant instant",
                     "description": ""
                 }
             ]

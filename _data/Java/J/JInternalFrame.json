@@ -5,18 +5,10 @@
     "constructores": [
         {
             "nombre": "JInternalFrame",
-            "descrition": "",
+            "description": "",
             "parametros": [
                 {
                     "nombre": "String title",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean closable",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean resizable",
                     "description": ""
                 },
                 {
@@ -24,7 +16,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "boolean closable",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean iconifiable",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean resizable",
                     "description": ""
                 }
             ]
@@ -36,11 +36,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object constraints",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "Object constraints",
                     "description": ""
                 },
                 {
@@ -260,7 +260,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int height",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -268,7 +268,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
@@ -406,11 +406,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int layer",
+                    "nombre": "Integer layer",
                     "description": ""
                 },
                 {
-                    "nombre": "Integer layer",
+                    "nombre": "int layer",
                     "description": ""
                 }
             ]

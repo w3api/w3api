@@ -5,12 +5,8 @@
     "constructores": [
         {
             "nombre": "DataBufferUShort",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "int size",
-                    "description": ""
-                },
                 {
                     "nombre": "short[] dataArray",
                     "description": ""
@@ -20,15 +16,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] offsets",
-                    "description": ""
-                },
-                {
                     "nombre": "short[][] dataArray",
                     "description": ""
                 },
                 {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
                     "nombre": "int numBanks",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
                     "description": ""
                 }
             ]
@@ -54,11 +54,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int bank",
                     "description": ""
                 },
                 {
-                    "nombre": "int bank",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -68,7 +68,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int val",
                     "description": ""
                 },
                 {
@@ -76,7 +76,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int val",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]

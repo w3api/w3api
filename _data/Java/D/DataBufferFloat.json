@@ -5,20 +5,8 @@
     "constructores": [
         {
             "nombre": "DataBufferFloat",
-            "descrition": "",
+            "description": "",
             "parametros": [
-                {
-                    "nombre": "int size",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[][] dataArray",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] offsets",
-                    "description": ""
-                },
                 {
                     "nombre": "float[] dataArray",
                     "description": ""
@@ -28,7 +16,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
                     "nombre": "int numBanks",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[][] dataArray",
                     "description": ""
                 }
             ]
@@ -54,11 +54,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int bank",
                     "description": ""
                 },
                 {
-                    "nombre": "int bank",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -68,11 +68,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int bank",
                     "description": ""
                 },
                 {
-                    "nombre": "int bank",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -82,11 +82,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int bank",
                     "description": ""
                 },
                 {
-                    "nombre": "int bank",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -96,7 +96,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int val",
                     "description": ""
                 },
                 {
@@ -104,7 +104,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int val",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -114,15 +114,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
                     "nombre": "int bank",
                     "description": ""
                 },
                 {
                     "nombre": "double val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -132,7 +132,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
+                    "nombre": "int bank",
                     "description": ""
                 },
                 {
@@ -140,7 +140,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int bank",
+                    "nombre": "int i",
                     "description": ""
                 }
             ]

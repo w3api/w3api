@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "FileChannel",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -24,7 +24,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long position",
+                    "nombre": "long size",
                     "description": ""
                 },
                 {
@@ -32,7 +32,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long size",
+                    "nombre": "long position",
                     "description": ""
                 }
             ]
@@ -42,15 +42,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long position",
-                    "description": ""
-                },
-                {
                     "nombre": "FileChannel.MapMode mode",
                     "description": ""
                 },
                 {
                     "nombre": "long size",
+                    "description": ""
+                },
+                {
+                    "nombre": "long position",
                     "description": ""
                 }
             ]
@@ -59,6 +59,10 @@
             "nombre": "open",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "OpenOption... options",
+                    "description": ""
+                },
                 {
                     "nombre": "Set<? extends OpenOption> options",
                     "description": ""
@@ -69,10 +73,6 @@
                 },
                 {
                     "nombre": "Path path",
-                    "description": ""
-                },
-                {
-                    "nombre": "OpenOption... options",
                     "description": ""
                 }
             ]
@@ -104,11 +104,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer dst",
+                    "nombre": "long position",
                     "description": ""
                 },
                 {
-                    "nombre": "long position",
+                    "nombre": "ByteBuffer dst",
                     "description": ""
                 }
             ]
@@ -122,11 +122,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long count",
+                    "nombre": "ReadableByteChannel src",
                     "description": ""
                 },
                 {
-                    "nombre": "ReadableByteChannel src",
+                    "nombre": "long count",
                     "description": ""
                 },
                 {
@@ -140,15 +140,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long position",
-                    "description": ""
-                },
-                {
                     "nombre": "long count",
                     "description": ""
                 },
                 {
                     "nombre": "WritableByteChannel target",
+                    "description": ""
+                },
+                {
+                    "nombre": "long position",
                     "description": ""
                 }
             ]
@@ -168,7 +168,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long position",
+                    "nombre": "long size",
                     "description": ""
                 },
                 {
@@ -176,7 +176,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long size",
+                    "nombre": "long position",
                     "description": ""
                 }
             ]
@@ -186,11 +186,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ByteBuffer[] srcs",
+                    "nombre": "ByteBuffer src",
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer src",
+                    "nombre": "ByteBuffer[] srcs",
                     "description": ""
                 },
                 {

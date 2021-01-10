@@ -5,7 +5,7 @@
     "constructores": [
         {
             "nombre": "XMLEventFactory",
-            "descrition": ""
+            "description": ""
         }
     ],
     "metodos": [
@@ -18,11 +18,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String localName",
-                    "description": ""
-                },
-                {
-                    "nombre": "String namespaceURI",
+                    "nombre": "String value",
                     "description": ""
                 },
                 {
@@ -30,7 +26,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String value",
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceURI",
                     "description": ""
                 }
             ]
@@ -84,11 +84,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "QName name",
+                    "nombre": "String namespaceUri",
                     "description": ""
                 },
                 {
-                    "nombre": "String localName",
+                    "nombre": "QName name",
                     "description": ""
                 },
                 {
@@ -96,7 +96,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String namespaceUri",
+                    "nombre": "String localName",
                     "description": ""
                 },
                 {
@@ -152,11 +152,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String data",
+                    "nombre": "String target",
                     "description": ""
                 },
                 {
-                    "nombre": "String target",
+                    "nombre": "String data",
                     "description": ""
                 }
             ]
@@ -176,15 +176,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean standalone",
+                    "description": ""
+                },
+                {
                     "nombre": "String version",
                     "description": ""
                 },
                 {
                     "nombre": "String encoding",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean standalone",
                     "description": ""
                 }
             ]
@@ -194,15 +194,11 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String namespaceUri",
+                    "description": ""
+                },
+                {
                     "nombre": "QName name",
-                    "description": ""
-                },
-                {
-                    "nombre": "NamespaceContext context",
-                    "description": ""
-                },
-                {
-                    "nombre": "String localName",
                     "description": ""
                 },
                 {
@@ -210,7 +206,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String namespaceUri",
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterator<? extends Namespace> namespaces",
                     "description": ""
                 },
                 {
@@ -218,7 +218,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Iterator<? extends Namespace> namespaces",
+                    "nombre": "NamespaceContext context",
                     "description": ""
                 }
             ]
@@ -232,11 +232,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String factoryId",
+                    "nombre": "ClassLoader classLoader",
                     "description": ""
                 },
                 {
-                    "nombre": "ClassLoader classLoader",
+                    "nombre": "String factoryId",
                     "description": ""
                 }
             ]
@@ -246,11 +246,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String factoryId",
+                    "nombre": "ClassLoader classLoader",
                     "description": ""
                 },
                 {
-                    "nombre": "ClassLoader classLoader",
+                    "nombre": "String factoryId",
                     "description": ""
                 }
             ]
