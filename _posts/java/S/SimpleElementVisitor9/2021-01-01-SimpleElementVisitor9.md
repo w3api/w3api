@@ -1,0 +1,38 @@
+---
+title: SimpleElementVisitor9
+permalink: Java/SimpleElementVisitor9
+date: 2021-01-11
+key: JavaJava.S.SimpleElementVisitor9
+category: java
+tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 9']
+sidebar: 
+  nav: java
+---
+
+## Descripción
+{{site.data.Java.S.SimpleElementVisitor9.description }}
+
+## Sintaxis
+~~~java
+@SupportedSourceVersion(RELEASE_10) public class SimpleElementVisitor9<R,P> extends SimpleElementVisitor8<R,P>
+~~~
+
+## Constructores
+* [SimpleElementVisitor9()](/Java/SimpleElementVisitor9/SimpleElementVisitor9/)
+
+## Métodos
+* [visitModule()](/Java/SimpleElementVisitor9/visitModule)
+
+## Ejemplo
+~~~java
+{{ site.data.Java.S.SimpleElementVisitor9.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.S.SimpleElementVisitor9.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

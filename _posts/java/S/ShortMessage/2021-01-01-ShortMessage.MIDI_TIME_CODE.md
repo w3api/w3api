@@ -1,0 +1,37 @@
+---
+title: ShortMessage.MIDI_TIME_CODE
+permalink: Java/ShortMessage/MIDI_TIME_CODE
+date: 2021-01-11
+key: JavaJava.S.ShortMessage
+category: java
+tags: ['java se', 'javax.sound.midi', 'java.desktop', 'campo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.S.ShortMessage.campos valor="MIDI_TIME_CODE" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+static int MIDI_TIME_CODE
+~~~
+
+## Clase Padre
+[ShortMessage](/Java/ShortMessage/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
