@@ -1,0 +1,37 @@
+---
+title: Generator
+permalink: Javascript/Generator
+date: 2021-01-11
+key: JavascriptJavascript.G.Generator
+category: javascript
+tags: ['objeto javascript']
+sidebar: 
+  nav: javascript
+---
+
+## Descripción
+{{site.data.Javascript.G.Generator.description }}
+
+## Sintaxis
+~~~javascript
+Generator
+~~~
+
+## Métodos
+* [next()](/javascript/Generator/next)
+* [return()](/javascript/Generator/return)
+* [throw()](/javascript/Generator/throw)
+
+## Ejemplo
+~~~java
+{{ site.data.Javascript.G.Generator.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Javascript.G.Generator.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

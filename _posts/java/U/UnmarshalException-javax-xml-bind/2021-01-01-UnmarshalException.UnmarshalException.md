@@ -1,0 +1,46 @@
+---
+title: UnmarshalException.UnmarshalException()
+permalink: Java/UnmarshalException-javax-xml-bind/UnmarshalException
+date: 2021-01-11
+key: JavaJava.U.UnmarshalException-javax-xml-bind
+category: java
+tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.U.UnmarshalException-javax-xml-bind.constructores valor="UnmarshalException" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public UnmarshalException(String message)
+public UnmarshalException(String message, String errorCode)
+public UnmarshalException(String message, String errorCode, Throwable exception)
+public UnmarshalException(String message, Throwable exception)
+public UnmarshalException(Throwable exception)
+~~~
+
+## Parámetros
+* **Throwable exception**,  {% include w3api/param_description.html metodo=_dato parametro="Throwable exception" %}
+* **String errorCode**,  {% include w3api/param_description.html metodo=_dato parametro="String errorCode" %}
+* **String message**,  {% include w3api/param_description.html metodo=_dato parametro="String message" %}
+
+## Clase Padre
+[UnmarshalException](/Java/UnmarshalException-javax-xml-bind/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

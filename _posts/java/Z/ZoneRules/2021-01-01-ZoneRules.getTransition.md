@@ -1,0 +1,40 @@
+---
+title: ZoneRules.getTransition()
+permalink: Java/ZoneRules/getTransition
+date: 2021-01-11
+key: JavaJava.Z.ZoneRules
+category: java
+tags: ['java se', 'java.time.zone', 'java.base', 'metodo java', 'Java 1.8']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.Z.ZoneRules.metodos valor="getTransition" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public ZoneOffsetTransition getTransition(LocalDateTime localDateTime)
+~~~
+
+## Parámetros
+* **LocalDateTime localDateTime**,  {% include w3api/param_description.html metodo=_dato parametro="LocalDateTime localDateTime" %}
+
+## Clase Padre
+[ZoneRules](/Java/ZoneRules/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

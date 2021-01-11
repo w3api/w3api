@@ -1,0 +1,37 @@
+---
+title: _DynSequenceStub.get_long()
+permalink: Java/_DynSequenceStub/get_long
+date: 2021-01-11
+key: JavaJava._._DynSequenceStub
+category: java
+tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java._._DynSequenceStub.metodos valor="get_long" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public int get_long() throws TypeMismatch, InvalidValue
+~~~
+
+## Clase Padre
+[_DynSequenceStub](/Java/_DynSequenceStub/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
