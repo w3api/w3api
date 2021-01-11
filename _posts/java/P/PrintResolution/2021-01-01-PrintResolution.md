@@ -1,0 +1,36 @@
+---
+title: PrintResolution
+permalink: Java/PrintResolution
+date: 2021-01-11
+key: JavaJava.P.PrintResolution
+category: java
+tags: ['java se', 'javafx.print', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
+sidebar: 
+  nav: java
+---
+
+## Descripción
+{{site.data.Java.P.PrintResolution.description }}
+
+## Sintaxis
+~~~java
+public final class PrintResolution extends Object
+~~~
+
+## Métodos
+* [getCrossFeedResolution()](/Java/PrintResolution/getCrossFeedResolution)
+* [getFeedResolution()](/Java/PrintResolution/getFeedResolution)
+
+## Ejemplo
+~~~java
+{{ site.data.Java.P.PrintResolution.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.P.PrintResolution.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

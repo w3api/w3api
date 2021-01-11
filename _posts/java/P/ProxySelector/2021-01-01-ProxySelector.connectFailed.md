@@ -1,0 +1,45 @@
+---
+title: ProxySelector.connectFailed()
+permalink: Java/ProxySelector/connectFailed
+date: 2021-01-11
+key: JavaJava.P.ProxySelector
+category: java
+tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.5']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.P.ProxySelector.metodos valor="connectFailed" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public abstract void connectFailed(URI uri, SocketAddress sa, IOException ioe)
+~~~
+
+## Parámetros
+* **IOException ioe**,  {% include w3api/param_description.html metodo=_dato parametro="IOException ioe" %}
+* **URI uri**,  {% include w3api/param_description.html metodo=_dato parametro="URI uri" %}
+* **SocketAddress sa**,  {% include w3api/param_description.html metodo=_dato parametro="SocketAddress sa" %}
+
+## Excepciones
+[IllegalArgumentException](/Java/IllegalArgumentException/)
+
+## Clase Padre
+[ProxySelector](/Java/ProxySelector/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
