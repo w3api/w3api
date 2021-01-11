@@ -1,0 +1,43 @@
+---
+title: TemporalField.getFrom()
+permalink: Java/TemporalField/getFrom
+date: 2021-01-11
+key: JavaJava.T.TemporalField
+category: java
+tags: ['java se', 'java.time.temporal', 'java.base', 'metodo java', 'Java 1.8']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.T.TemporalField.metodos valor="getFrom" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+long getFrom(TemporalAccessor temporal)
+~~~
+
+## Parámetros
+* **TemporalAccessor temporal**,  {% include w3api/param_description.html metodo=_dato parametro="TemporalAccessor temporal" %}
+
+## Excepciones
+[UnsupportedTemporalTypeException](/Java/UnsupportedTemporalTypeException/), [DateTimeException](/Java/DateTimeException/), [ArithmeticException](/Java/ArithmeticException/)
+
+## Clase Padre
+[TemporalField](/Java/TemporalField/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
