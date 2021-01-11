@@ -1,0 +1,79 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Timer",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isDaemon",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cancel",
+            "description": ""
+        },
+        {
+            "nombre": "purge",
+            "description": ""
+        },
+        {
+            "nombre": "schedule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date firstTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "long delay",
+                    "description": ""
+                },
+                {
+                    "nombre": "long period",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimerTask task",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date time",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "scheduleAtFixedRate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long delay",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimerTask task",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date firstTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "long period",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

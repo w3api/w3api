@@ -1,0 +1,77 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Proxy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InvocationHandler h",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getInvocationHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object proxy",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getProxyClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>... interfaces",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isProxyClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<?> cl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "newProxyInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InvocationHandler h",
+                    "description": ""
+                },
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>[] interfaces",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "h",
+            "description": ""
+        }
+    ]
+}

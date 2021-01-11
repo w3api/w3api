@@ -1,0 +1,133 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Font",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "double size",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "font",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FontWeight weight",
+                    "description": ""
+                },
+                {
+                    "nombre": "String family",
+                    "description": ""
+                },
+                {
+                    "nombre": "double size",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontPosture posture",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDefault",
+            "description": ""
+        },
+        {
+            "nombre": "getFamilies",
+            "description": ""
+        },
+        {
+            "nombre": "getFamily",
+            "description": ""
+        },
+        {
+            "nombre": "getFontNames",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String family",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "getSize",
+            "description": ""
+        },
+        {
+            "nombre": "getStyle",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "loadFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                },
+                {
+                    "nombre": "double size",
+                    "description": ""
+                },
+                {
+                    "nombre": "String urlStr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadFonts",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                },
+                {
+                    "nombre": "double size",
+                    "description": ""
+                },
+                {
+                    "nombre": "String urlStr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

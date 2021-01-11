@@ -1,0 +1,205 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TableColumn",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "cellFactoryProperty",
+            "description": ""
+        },
+        {
+            "nombre": "cellValueFactoryProperty",
+            "description": ""
+        },
+        {
+            "nombre": "editAnyEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editCancelEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editCommitEvent",
+            "description": ""
+        },
+        {
+            "nombre": "editStartEvent",
+            "description": ""
+        },
+        {
+            "nombre": "getCellFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getCellValueFactory",
+            "description": ""
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getOnEditCancel",
+            "description": ""
+        },
+        {
+            "nombre": "getOnEditCommit",
+            "description": ""
+        },
+        {
+            "nombre": "getOnEditStart",
+            "description": ""
+        },
+        {
+            "nombre": "getSortType",
+            "description": ""
+        },
+        {
+            "nombre": "getStyleableParent",
+            "description": ""
+        },
+        {
+            "nombre": "getTableView",
+            "description": ""
+        },
+        {
+            "nombre": "getTypeSelector",
+            "description": ""
+        },
+        {
+            "nombre": "onEditCancelProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onEditCommitProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onEditStartProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setCellFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableCell<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "T>",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<TableColumn<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCellValueFactory",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "T>",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callback<TableColumn.CellDataFeatures<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnEditCancel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<TableColumn.CellEditEvent<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnEditCommit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<TableColumn.CellEditEvent<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnEditStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<TableColumn.CellEditEvent<S",
+                    "description": ""
+                },
+                {
+                    "nombre": "T>> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSortType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TableColumn.SortType value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "sortTypeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "tableViewProperty",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "DEFAULT_CELL_FACTORY",
+            "description": ""
+        }
+    ]
+}

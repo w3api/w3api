@@ -1,0 +1,451 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "OutputStream",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "create_input_stream",
+            "description": ""
+        },
+        {
+            "nombre": "orb",
+            "description": ""
+        },
+        {
+            "nombre": "write",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_any",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Any value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_boolean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_boolean_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_char",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_char_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_Context",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ContextList contexts",
+                    "description": ""
+                },
+                {
+                    "nombre": "Context ctx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_double",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_double_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_fixed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "BigDecimal value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_float",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_float_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_long",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_long_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_longlong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_longlong_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_Object",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_octet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_octet_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "byte[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_Principal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Principal value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_short",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "short value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_short_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "short[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_string",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_TypeCode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeCode value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_ulong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_ulong_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_ulonglong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_ulonglong_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_ushort",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "short value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_ushort_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "short[] value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_wchar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_wchar_array",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "write_wstring",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

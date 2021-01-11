@@ -1,0 +1,49 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "MonitorInfo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int stackDepth",
+                    "description": ""
+                },
+                {
+                    "nombre": "int identityHashCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "StackTraceElement stackFrame",
+                    "description": ""
+                },
+                {
+                    "nombre": "String className",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "from",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CompositeData cd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLockedStackDepth",
+            "description": ""
+        },
+        {
+            "nombre": "getLockedStackFrame",
+            "description": ""
+        }
+    ]
+}

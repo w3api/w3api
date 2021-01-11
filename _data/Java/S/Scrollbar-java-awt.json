@@ -1,0 +1,277 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Scrollbar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minimum",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maximum",
+                    "description": ""
+                },
+                {
+                    "nombre": "int visible",
+                    "description": ""
+                },
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addAdjustmentListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AdjustmentListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addNotify",
+            "description": ""
+        },
+        {
+            "nombre": "getAccessibleContext",
+            "description": ""
+        },
+        {
+            "nombre": "getAdjustmentListeners",
+            "description": ""
+        },
+        {
+            "nombre": "getBlockIncrement",
+            "description": ""
+        },
+        {
+            "nombre": "getLineIncrement",
+            "description": ""
+        },
+        {
+            "nombre": "getListeners",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class<T> listenerType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMaximum",
+            "description": ""
+        },
+        {
+            "nombre": "getMinimum",
+            "description": ""
+        },
+        {
+            "nombre": "getOrientation",
+            "description": ""
+        },
+        {
+            "nombre": "getPageIncrement",
+            "description": ""
+        },
+        {
+            "nombre": "getUnitIncrement",
+            "description": ""
+        },
+        {
+            "nombre": "getValue",
+            "description": ""
+        },
+        {
+            "nombre": "getValueIsAdjusting",
+            "description": ""
+        },
+        {
+            "nombre": "getVisible",
+            "description": ""
+        },
+        {
+            "nombre": "getVisibleAmount",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "processAdjustmentEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AdjustmentEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "processEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AWTEvent e",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAdjustmentListener",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AdjustmentListener l",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBlockIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLineIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMaximum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newMaximum",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMinimum",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newMinimum",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOrientation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int orientation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPageIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUnitIncrement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValueIsAdjusting",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setValues",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maximum",
+                    "description": ""
+                },
+                {
+                    "nombre": "int value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int visible",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minimum",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setVisibleAmount",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newAmount",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "HORIZONTAL",
+            "description": ""
+        },
+        {
+            "nombre": "VERTICAL",
+            "description": ""
+        }
+    ]
+}

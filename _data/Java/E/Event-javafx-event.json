@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Event",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<? extends Event> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "consume",
+            "description": ""
+        },
+        {
+            "nombre": "copyFor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object newSource",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget newTarget",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "fireEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventTarget eventTarget",
+                    "description": ""
+                },
+                {
+                    "nombre": "Event event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEventType",
+            "description": ""
+        },
+        {
+            "nombre": "getTarget",
+            "description": ""
+        },
+        {
+            "nombre": "isConsumed",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ANY",
+            "description": ""
+        },
+        {
+            "nombre": "consumed",
+            "description": ""
+        },
+        {
+            "nombre": "eventType",
+            "description": ""
+        },
+        {
+            "nombre": "NULL_SOURCE_TARGET",
+            "description": ""
+        },
+        {
+            "nombre": "target",
+            "description": ""
+        }
+    ]
+}

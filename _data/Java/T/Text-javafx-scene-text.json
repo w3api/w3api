@@ -1,0 +1,417 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Text",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "baselineOffsetProperty",
+            "description": ""
+        },
+        {
+            "nombre": "boundsTypeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "caretBiasProperty",
+            "description": ""
+        },
+        {
+            "nombre": "caretPositionProperty",
+            "description": ""
+        },
+        {
+            "nombre": "caretShape",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int charIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean caretBias",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "caretShapeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "fontProperty",
+            "description": ""
+        },
+        {
+            "nombre": "fontSmoothingTypeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "getBoundsType",
+            "description": ""
+        },
+        {
+            "nombre": "getCaretPosition",
+            "description": ""
+        },
+        {
+            "nombre": "getCaretShape",
+            "description": ""
+        },
+        {
+            "nombre": "getClassCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getCssMetaData",
+            "description": ""
+        },
+        {
+            "nombre": "getFont",
+            "description": ""
+        },
+        {
+            "nombre": "getFontSmoothingType",
+            "description": ""
+        },
+        {
+            "nombre": "getLineSpacing",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionEnd",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionFill",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionShape",
+            "description": ""
+        },
+        {
+            "nombre": "getSelectionStart",
+            "description": ""
+        },
+        {
+            "nombre": "getText",
+            "description": ""
+        },
+        {
+            "nombre": "getTextAlignment",
+            "description": ""
+        },
+        {
+            "nombre": "getTextOrigin",
+            "description": ""
+        },
+        {
+            "nombre": "getWrappingWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getX",
+            "description": ""
+        },
+        {
+            "nombre": "getY",
+            "description": ""
+        },
+        {
+            "nombre": "hitTest",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Point2D point",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isCaretBias",
+            "description": ""
+        },
+        {
+            "nombre": "isStrikethrough",
+            "description": ""
+        },
+        {
+            "nombre": "isUnderline",
+            "description": ""
+        },
+        {
+            "nombre": "lineSpacingProperty",
+            "description": ""
+        },
+        {
+            "nombre": "rangeShape",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectionEndProperty",
+            "description": ""
+        },
+        {
+            "nombre": "selectionFillProperty",
+            "description": ""
+        },
+        {
+            "nombre": "selectionShapeProperty",
+            "description": ""
+        },
+        {
+            "nombre": "selectionStartProperty",
+            "description": ""
+        },
+        {
+            "nombre": "setBoundsType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextBoundsType value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCaretBias",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setCaretPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Font value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setFontSmoothingType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "FontSmoothingType value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLineSpacing",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double spacing",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionEnd",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionFill",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Paint paint",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSelectionStart",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStrikethrough",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTextAlignment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TextAlignment value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTextOrigin",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "VPos value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUnderline",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setWrappingWidth",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setX",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setY",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "strikethroughProperty",
+            "description": ""
+        },
+        {
+            "nombre": "textAlignmentProperty",
+            "description": ""
+        },
+        {
+            "nombre": "textOriginProperty",
+            "description": ""
+        },
+        {
+            "nombre": "textProperty",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "underlineProperty",
+            "description": ""
+        },
+        {
+            "nombre": "underlineShape",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wrappingWidthProperty",
+            "description": ""
+        },
+        {
+            "nombre": "xProperty",
+            "description": ""
+        },
+        {
+            "nombre": "yProperty",
+            "description": ""
+        }
+    ]
+}

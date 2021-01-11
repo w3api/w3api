@@ -1,0 +1,97 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "EventQueue",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "createSecondaryLoop",
+            "description": ""
+        },
+        {
+            "nombre": "dispatchEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AWTEvent event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getCurrentEvent",
+            "description": ""
+        },
+        {
+            "nombre": "getMostRecentEventTime",
+            "description": ""
+        },
+        {
+            "nombre": "getNextEvent",
+            "description": ""
+        },
+        {
+            "nombre": "invokeAndWait",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable runnable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invokeLater",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Runnable runnable",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDispatchThread",
+            "description": ""
+        },
+        {
+            "nombre": "peekEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pop",
+            "description": ""
+        },
+        {
+            "nombre": "postEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AWTEvent theEvent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "push",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventQueue newEventQueue",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

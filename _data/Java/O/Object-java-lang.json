@@ -1,0 +1,76 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Object",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "clone",
+            "description": ""
+        },
+        {
+            "nombre": "equals",
+            "description": "M\u00e9todo que indica cu\u00e1ndo un objeto es igual a otro. El m\u00e9todo devolver\u00e1 true si los dos objetos son iguales y false en caso contrario.\n",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ],
+            "code": "public class Alumnos {\n\n   private int age;\n   private String name;\n\n   Alumnos(String name, int age){\n   \tthis.name = name;\n   \tthis.age = age;   \n   }\n\n   @Override\n   public boolean equals(Object o) {\n       // La igualdad se comprobar\u00e1 por el nombre\n       if (o instanceof Alumnos) {\n           Alumnos p = (Alumnos)o;\n          return this.name.equals(p.name);   \n       } else {\n           return false;\n       }\n   }  \n}\n",
+            "ldc": []
+        },
+        {
+            "nombre": "finalize",
+            "description": "M\u00e9todo que nos permite gestionar la limpieza de los recursos utilizados en la clase antes de que esta sea eliminada por el Garbage Collector. En la clase Object no ejecuta nada. Es un m\u00e9todo que est\u00e1 sobrescrito en las clases que lo utilicen.\n",
+            "code": "public class FinalizarUnObjeto {\n public static void main(String[] args) {\n   FinalizarUnObjeto fuo = new FinalizarUnObjeto();\n   System.out.println(fuo.toString());\n   fuo = null;\n   System.runFinalization();\t\t\t\t\n }\n\n protected void finalize() throws Throwable{\n   System.out.println(\"Finalizando el Objeto\");\n   super.finalize();\n }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Finalizar un objeto en Java",
+                    "url": "http://lineadecodigo.com/java/finalizar-un-objeto-en-java/"
+                }
+            ]
+        },
+        {
+            "nombre": "getClass",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": "Devuelve una clave hash asociada al objeto. Este hash es utilizado por las colecciones Hashtable.\n",
+            "code": "public class Alumnos {\n\n   private int age;\n   private String name;\n\n   Alumnos(String name, int age){\n   \tthis.name = name;\n   \tthis.age = age;   \n   }\n\n   @Override\n   public int hashCode() {\n       // Generamos la clave hash con el tama\u00f1o del nombre y la edad de la persona.\n   \treturn age * this.name.length();\n   }\n}\n",
+            "ldc": []
+        },
+        {
+            "nombre": "notify",
+            "description": ""
+        },
+        {
+            "nombre": "notifyAll",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "wait",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nanos",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "_create_request",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ContextList ctxlist",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExceptionList exclist",
+                    "description": ""
+                },
+                {
+                    "nombre": "NVList arg_list",
+                    "description": ""
+                },
+                {
+                    "nombre": "String operation",
+                    "description": ""
+                },
+                {
+                    "nombre": "NamedValue result",
+                    "description": ""
+                },
+                {
+                    "nombre": "Context ctx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "_duplicate",
+            "description": ""
+        },
+        {
+            "nombre": "_get_domain_managers",
+            "description": ""
+        },
+        {
+            "nombre": "_get_interface_def",
+            "description": ""
+        },
+        {
+            "nombre": "_get_policy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int policy_type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "_hash",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int maximum",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "_is_a",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String repositoryIdentifier",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "_is_equivalent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "_non_existent",
+            "description": ""
+        },
+        {
+            "nombre": "_release",
+            "description": ""
+        },
+        {
+            "nombre": "_request",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String operation",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "_set_policy_override",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SetOverrideType set_add",
+                    "description": ""
+                },
+                {
+                    "nombre": "Policy[] policies",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

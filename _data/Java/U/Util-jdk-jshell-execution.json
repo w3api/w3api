@@ -1,0 +1,107 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "detectJdiExitEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Consumer<String> unbiddenExitHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "VirtualMachine vm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forwardExecutionControl",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectOutput out",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutionControl ec",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectInput in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "forwardExecutionControlAndIO",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutionControl ec",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "Consumer<InputStream>> inputStreamMap",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream outStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "Consumer<OutputStream>> outputStreamMap",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "remoteInputOutput",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream output",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream> outputStreamMap",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutionControl> factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream input",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObjectOutput",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream> inputStreamMap",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiFunction<ObjectInput",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

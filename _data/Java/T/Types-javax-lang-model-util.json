@@ -1,0 +1,217 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "asElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "asMemberOf",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DeclaredType containing",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element element",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "boxedClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "PrimitiveType p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "capture",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t2",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeMirror t1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "directSupertypes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "erasure",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getArrayType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror componentType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeclaredType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror... typeArgs",
+                    "description": ""
+                },
+                {
+                    "nombre": "DeclaredType containing",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeElement typeElem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNoType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeKind kind",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNullType",
+            "description": ""
+        },
+        {
+            "nombre": "getPrimitiveType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeKind kind",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWildcardType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror extendsBound",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeMirror superBound",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isAssignable",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t2",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeMirror t1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSameType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t2",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeMirror t1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSubsignature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ExecutableType m2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutableType m1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSubtype",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t2",
+                    "description": ""
+                },
+                {
+                    "nombre": "TypeMirror t1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unboxedType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TypeMirror t",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

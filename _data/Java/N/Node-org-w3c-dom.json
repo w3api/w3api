@@ -1,0 +1,361 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "appendChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node newChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cloneNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean deep",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "compareDocumentPosition",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "getBaseURI",
+            "description": ""
+        },
+        {
+            "nombre": "getChildNodes",
+            "description": ""
+        },
+        {
+            "nombre": "getFeature",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String feature",
+                    "description": ""
+                },
+                {
+                    "nombre": "String version",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFirstChild",
+            "description": ""
+        },
+        {
+            "nombre": "getLastChild",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalName",
+            "description": ""
+        },
+        {
+            "nombre": "getNamespaceURI",
+            "description": ""
+        },
+        {
+            "nombre": "getNextSibling",
+            "description": ""
+        },
+        {
+            "nombre": "getNodeName",
+            "description": ""
+        },
+        {
+            "nombre": "getNodeType",
+            "description": ""
+        },
+        {
+            "nombre": "getNodeValue",
+            "description": ""
+        },
+        {
+            "nombre": "getOwnerDocument",
+            "description": ""
+        },
+        {
+            "nombre": "getParentNode",
+            "description": ""
+        },
+        {
+            "nombre": "getPrefix",
+            "description": ""
+        },
+        {
+            "nombre": "getPreviousSibling",
+            "description": ""
+        },
+        {
+            "nombre": "getTextContent",
+            "description": ""
+        },
+        {
+            "nombre": "getUserData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hasAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "hasChildNodes",
+            "description": ""
+        },
+        {
+            "nombre": "insertBefore",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node refChild",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node newChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isDefaultNamespace",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEqualNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node arg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSameNode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSupported",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String feature",
+                    "description": ""
+                },
+                {
+                    "nombre": "String version",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookupNamespaceURI",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lookupPrefix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String namespaceURI",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "normalize",
+            "description": ""
+        },
+        {
+            "nombre": "removeChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node oldChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replaceChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Node oldChild",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node newChild",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setNodeValue",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nodeValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setPrefix",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String prefix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setTextContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String textContent",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setUserData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String key",
+                    "description": ""
+                },
+                {
+                    "nombre": "UserDataHandler handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object data",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ATTRIBUTE_NODE",
+            "description": ""
+        },
+        {
+            "nombre": "CDATA_SECTION_NODE",
+            "description": ""
+        },
+        {
+            "nombre": "COMMENT_NODE",
+            "description": ""
+        },
+        {
+            "nombre": "DOCUMENT_FRAGMENT_NODE",
+            "description": ""
+        },
+        {
+            "nombre": "DOCUMENT_NODE",
+            "description": ""
+        },
+        {
+            "nombre": "DOCUMENT_POSITION_CONTAINED_BY",
+            "description": ""
+        },
+        {
+            "nombre": "DOCUMENT_POSITION_CONTAINS",
+            "description": ""
+        },
+        {
+            "nombre": "DOCUMENT_POSITION_DISCONNECTED",
+            "description": ""
+        },
+        {
+            "nombre": "DOCUMENT_POSITION_FOLLOWING",
+            "description": ""
+        },
+        {
+            "nombre": "DOCUMENT_POSITION_IMPLEMENTATION_SPECIFIC",
+            "description": ""
+        },
+        {
+            "nombre": "DOCUMENT_POSITION_PRECEDING",
+            "description": ""
+        },
+        {
+            "nombre": "DOCUMENT_TYPE_NODE",
+            "description": ""
+        },
+        {
+            "nombre": "ELEMENT_NODE",
+            "description": ""
+        },
+        {
+            "nombre": "ENTITY_NODE",
+            "description": ""
+        },
+        {
+            "nombre": "ENTITY_REFERENCE_NODE",
+            "description": ""
+        },
+        {
+            "nombre": "NOTATION_NODE",
+            "description": ""
+        },
+        {
+            "nombre": "PROCESSING_INSTRUCTION_NODE",
+            "description": ""
+        },
+        {
+            "nombre": "TEXT_NODE",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Policy",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "Policy.Parameters params",
+                    "description": ""
+                },
+                {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getParameters",
+            "description": ""
+        },
+        {
+            "nombre": "getPermissions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "CodeSource codesource",
+                    "description": ""
+                },
+                {
+                    "nombre": "ProtectionDomain domain",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPolicy",
+            "description": ""
+        },
+        {
+            "nombre": "getProvider",
+            "description": ""
+        },
+        {
+            "nombre": "getType",
+            "description": ""
+        },
+        {
+            "nombre": "implies",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ProtectionDomain domain",
+                    "description": ""
+                },
+                {
+                    "nombre": "Permission permission",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "refresh",
+            "description": ""
+        },
+        {
+            "nombre": "setPolicy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Policy p",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "UNSUPPORTED_EMPTY_COLLECTION",
+            "description": ""
+        }
+    ]
+}

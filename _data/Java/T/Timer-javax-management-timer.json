@@ -1,0 +1,243 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Timer",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long nbOccurences",
+                    "description": ""
+                },
+                {
+                    "nombre": "long period",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date date",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object userData",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean fixedRate",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getAllNotificationIDs",
+            "description": ""
+        },
+        {
+            "nombre": "getDate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFixedRate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNbNotifications",
+            "description": ""
+        },
+        {
+            "nombre": "getNbOccurences",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNotificationIDs",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNotificationMessage",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNotificationType",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getNotificationUserData",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPeriod",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSendPastNotifications",
+            "description": ""
+        },
+        {
+            "nombre": "isActive",
+            "description": ""
+        },
+        {
+            "nombre": "isEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "postDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "postRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Boolean registrationDone",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "preDeregister",
+            "description": ""
+        },
+        {
+            "nombre": "preRegister",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObjectName name",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanServer server",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAllNotifications",
+            "description": ""
+        },
+        {
+            "nombre": "removeNotification",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Integer id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeNotifications",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSendPastNotifications",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": ""
+        },
+        {
+            "nombre": "stop",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ONE_DAY",
+            "description": ""
+        },
+        {
+            "nombre": "ONE_HOUR",
+            "description": ""
+        },
+        {
+            "nombre": "ONE_MINUTE",
+            "description": ""
+        },
+        {
+            "nombre": "ONE_SECOND",
+            "description": ""
+        },
+        {
+            "nombre": "ONE_WEEK",
+            "description": ""
+        }
+    ]
+}

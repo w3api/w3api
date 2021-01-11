@@ -1,0 +1,109 @@
+{
+    "description": "",
+    "code": "int numero = 425;\n \nFormatter fmt = new Formatter();\nfmt.format(\"%08d\",numero);\nSystem.out.println(\"El numero formateado \" + fmt);\n",
+    "ldc": [
+        {
+            "nombre": "A\u00f1adir ceros a la izquierda",
+            "url": "http://lineadecodigo.com/java/anadir-ceros-a-la-izquierda/"
+        },
+        {
+            "nombre": "Alinear cadena a la izquierda",
+            "url": "http://lineadecodigo.com/java/alinear-cadena-a-la-izquierda/"
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "Formatter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Appendable a",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
+                    "description": ""
+                },
+                {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintStream ps",
+                    "description": ""
+                },
+                {
+                    "nombre": "String csn",
+                    "description": ""
+                },
+                {
+                    "nombre": "String fileName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale l",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream os",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "flush",
+            "description": ""
+        },
+        {
+            "nombre": "format",
+            "description": "M\u00e9todo que genera una cadena formateada antendiendo al formato indicado m\u00e1s los argumentos incluidos.\n",
+            "parametros": [
+                {
+                    "nombre": "Locale l",
+                    "description": ""
+                },
+                {
+                    "nombre": "String format",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... args",
+                    "description": ""
+                }
+            ],
+            "code": "int numero = 425;\n\nFormatter fmt = new Formatter();\nfmt.format(\"%08d\",numero);\nSystem.out.println(\"El numero formateado \" + fmt);\n",
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir ceros a la izquierda",
+                    "url": "http://lineadecodigo.com/java/anadir-ceros-a-la-izquierda/"
+                },
+                {
+                    "nombre": "Alinear cadena a la izquierda",
+                    "url": "http://lineadecodigo.com/java/alinear-cadena-a-la-izquierda/"
+                }
+            ]
+        },
+        {
+            "nombre": "ioException",
+            "description": ""
+        },
+        {
+            "nombre": "locale",
+            "description": ""
+        },
+        {
+            "nombre": "out",
+            "description": ""
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

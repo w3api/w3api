@@ -1,0 +1,117 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "HttpExchange",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "close",
+            "description": ""
+        },
+        {
+            "nombre": "getAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getHttpContext",
+            "description": ""
+        },
+        {
+            "nombre": "getLocalAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getPrincipal",
+            "description": ""
+        },
+        {
+            "nombre": "getProtocol",
+            "description": ""
+        },
+        {
+            "nombre": "getRemoteAddress",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestBody",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestHeaders",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestMethod",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestURI",
+            "description": ""
+        },
+        {
+            "nombre": "getResponseBody",
+            "description": ""
+        },
+        {
+            "nombre": "getResponseCode",
+            "description": ""
+        },
+        {
+            "nombre": "getResponseHeaders",
+            "description": ""
+        },
+        {
+            "nombre": "sendResponseHeaders",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int rCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "long responseLength",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setStreams",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream o",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream i",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

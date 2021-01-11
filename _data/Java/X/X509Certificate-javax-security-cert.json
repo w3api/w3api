@@ -1,0 +1,73 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "X509Certificate",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "checkValidity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Date date",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream inStream",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] certData",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIssuerDN",
+            "description": ""
+        },
+        {
+            "nombre": "getNotAfter",
+            "description": ""
+        },
+        {
+            "nombre": "getNotBefore",
+            "description": ""
+        },
+        {
+            "nombre": "getSerialNumber",
+            "description": ""
+        },
+        {
+            "nombre": "getSigAlgName",
+            "description": ""
+        },
+        {
+            "nombre": "getSigAlgOID",
+            "description": ""
+        },
+        {
+            "nombre": "getSigAlgParams",
+            "description": ""
+        },
+        {
+            "nombre": "getSubjectDN",
+            "description": ""
+        },
+        {
+            "nombre": "getVersion",
+            "description": ""
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "description": "",
+    "code": "String cmd = \"halt\"; //comando de apagado en linux\nRuntime.getRuntime().exec(cmd);\n",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "addShutdownHook",
+            "description": "M\u00e9todo que permite registrar un hook para cuando se cierre la JVM. El cierre solo se controla ante la ejecuci\u00f3n de la \u00faltima sentencia del programa, un system.exit() o un cierre ordenado de la JVM (Control-C, Cierre del Sistema,...)\n",
+            "parametros": [
+                {
+                    "nombre": "Thread hook",
+                    "description": ""
+                }
+            ],
+            "code": "public class CierreAplicacion {\n  public void attachShutDownHook(){\n    Runtime.getRuntime().addShutdownHook(new Thread() {\n      @Override\n      public void run() {\n        System.out.println(\"Esto lo ejecutamos cuando acabe el programa\");\n       }\n    });\n\t\n     System.out.println(\"Creado el hook en el programa\");\n\t\t\n  }\n\t\t\n  public static void main(String[] args) {\n\t\n    CierreAplicacion app = new CierreAplicacion();\n    app.attachShutDownHook();\n    System.out.println(\"\u00daltima instrucci\u00f3n del programa\");\n    System.exit(0);\t\n   }\n}\n",
+            "ldc": []
+        },
+        {
+            "nombre": "availableProcessors",
+            "description": ""
+        },
+        {
+            "nombre": "exec",
+            "description": "Convierte el car\u00e1cter pasado como par\u00e1metro en min\u00fasculas.\n",
+            "parametros": [
+                {
+                    "nombre": "String command",
+                    "description": ""
+                },
+                {
+                    "nombre": "File dir",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] envp",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] cmdarray",
+                    "description": ""
+                }
+            ],
+            "code": "String cmd = \"halt\"; //comando de apagado en linux\nRuntime.getRuntime().exec(cmd);\n\nString [] cmd2 = {\"shutdown\",\"-s\",\"-t\", \"10\"}; //comando de apagado en windows\nRuntime.getRuntime().exec(cmd2);\n \nProcess process = Runtime.getRuntime().exec(\"lsb_release -a\");\nInputStream inputstream = process.getInputStream();\n",
+            "ldc": []
+        },
+        {
+            "nombre": "exit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int status",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "freeMemory",
+            "description": ""
+        },
+        {
+            "nombre": "gc",
+            "description": ""
+        },
+        {
+            "nombre": "getRuntime",
+            "description": ""
+        },
+        {
+            "nombre": "halt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int status",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "load",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String filename",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadLibrary",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String libname",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "maxMemory",
+            "description": ""
+        },
+        {
+            "nombre": "removeShutdownHook",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Thread hook",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "runFinalization",
+            "description": ""
+        },
+        {
+            "nombre": "runFinalizersOnExit",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "totalMemory",
+            "description": ""
+        },
+        {
+            "nombre": "traceInstructions",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "traceMethodCalls",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean on",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "version",
+            "description": ""
+        }
+    ]
+}

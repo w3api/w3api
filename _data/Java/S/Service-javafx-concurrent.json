@@ -1,0 +1,309 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Service",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addEventFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventFilter",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "cancel",
+            "description": ""
+        },
+        {
+            "nombre": "cancelled",
+            "description": ""
+        },
+        {
+            "nombre": "createTask",
+            "description": ""
+        },
+        {
+            "nombre": "exceptionProperty",
+            "description": ""
+        },
+        {
+            "nombre": "executeTask",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Task<V> task",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "executorProperty",
+            "description": ""
+        },
+        {
+            "nombre": "failed",
+            "description": ""
+        },
+        {
+            "nombre": "fireEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Event event",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getExecutor",
+            "description": ""
+        },
+        {
+            "nombre": "getOnCancelled",
+            "description": ""
+        },
+        {
+            "nombre": "getOnFailed",
+            "description": ""
+        },
+        {
+            "nombre": "getOnReady",
+            "description": ""
+        },
+        {
+            "nombre": "getOnRunning",
+            "description": ""
+        },
+        {
+            "nombre": "getOnScheduled",
+            "description": ""
+        },
+        {
+            "nombre": "getOnSucceeded",
+            "description": ""
+        },
+        {
+            "nombre": "messageProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onCancelledProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onFailedProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onReadyProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onRunningProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onScheduledProperty",
+            "description": ""
+        },
+        {
+            "nombre": "onSucceededProperty",
+            "description": ""
+        },
+        {
+            "nombre": "progressProperty",
+            "description": ""
+        },
+        {
+            "nombre": "ready",
+            "description": ""
+        },
+        {
+            "nombre": "removeEventFilter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventFilter",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "restart",
+            "description": ""
+        },
+        {
+            "nombre": "running",
+            "description": ""
+        },
+        {
+            "nombre": "runningProperty",
+            "description": ""
+        },
+        {
+            "nombre": "scheduled",
+            "description": ""
+        },
+        {
+            "nombre": "setEventHandler",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<? super T> eventHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<T> eventType",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setExecutor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Executor value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnCancelled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WorkerStateEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnFailed",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WorkerStateEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnReady",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WorkerStateEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnRunning",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WorkerStateEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnScheduled",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WorkerStateEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setOnSucceeded",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "EventHandler<WorkerStateEvent> value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "start",
+            "description": ""
+        },
+        {
+            "nombre": "stateProperty",
+            "description": ""
+        },
+        {
+            "nombre": "succeeded",
+            "description": ""
+        },
+        {
+            "nombre": "titleProperty",
+            "description": ""
+        },
+        {
+            "nombre": "totalWorkProperty",
+            "description": ""
+        },
+        {
+            "nombre": "valueProperty",
+            "description": ""
+        },
+        {
+            "nombre": "workDoneProperty",
+            "description": ""
+        }
+    ]
+}

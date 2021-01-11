@@ -1,0 +1,361 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "StyleSheet",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "addAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet old",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet old",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addCSSAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MutableAttributeSet attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "CSS.Attribute key",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addCSSAttributeFromHTML",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "MutableAttributeSet attr",
+                    "description": ""
+                },
+                {
+                    "nombre": "CSS.Attribute key",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addRule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String rule",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "addStyleSheet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StyleSheet ss",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createLargeAttributeSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createSmallAttributeSet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBackground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBase",
+            "description": ""
+        },
+        {
+            "nombre": "getBoxPainter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDeclaration",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String decl",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getFont",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getForeground",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getIndexOfSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "float pt",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getListPainter",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet a",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPointSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "String size",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getRule",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "HTML.Tag t",
+                    "description": ""
+                },
+                {
+                    "nombre": "Element e",
+                    "description": ""
+                },
+                {
+                    "nombre": "String selector",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getStyleSheets",
+            "description": ""
+        },
+        {
+            "nombre": "getViewAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "View v",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "importStyleSheet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadRules",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL ref",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAttribute",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet old",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet old",
+                    "description": ""
+                },
+                {
+                    "nombre": "Enumeration<?> names",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attrs",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeStyle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String nm",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeStyleSheet",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StyleSheet ss",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL base",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBaseFontSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String size",
+                    "description": ""
+                },
+                {
+                    "nombre": "int sz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stringToColor",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String string",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "translateHTMLToCSS",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "AttributeSet htmlAttrSet",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

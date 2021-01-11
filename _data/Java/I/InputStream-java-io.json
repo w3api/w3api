@@ -1,0 +1,120 @@
+{
+    "description": "",
+    "code": "// Copiar ficheros\nFile origen = new File(\"origen.txt\");\nFile destino = new File(\"destino.txt\");\n\ntry {\n  InputStream in = new FileInputStream(origen);\n  OutputStream out = new FileOutputStream(destino);\n\t\t\t\t\n  byte[] buf = new byte[1024];\n  int len;\n\n  while ((len = in.read(buf)) > 0) {\n    out.write(buf, 0, len);\n  }\n\t\t\n  in.close();\n  out.close();\n} catch (IOException ioe){\n  ioe.printStackTrace();\n}\n",
+    "ldc": [
+        {
+            "nombre": "Copiar un fichero con Java",
+            "url": "http://lineadecodigo.com/java/copiar-un-fichero-con-java/"
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "InputStream",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "available",
+            "description": ""
+        },
+        {
+            "nombre": "close",
+            "description": "Cierra el stream de lectura.\n",
+            "code": "// Copiar ficheros\nFile origen = new File(\"origen.txt\");\nFile destino = new File(\"destino.txt\");\n\ntry {\n  InputStream in = new FileInputStream(origen);\n  OutputStream out = new FileOutputStream(destino);\n\t\t\t\t\n  byte[] buf = new byte[1024];\n  int len;\n\n  while ((len = in.read(buf)) > 0) {\n    out.write(buf, 0, len);\n  }\n\t\t\n  in.close();\n  out.close();\n} catch (IOException ioe){\n  ioe.printStackTrace();\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Copiar un fichero con Java",
+                    "url": "http://lineadecodigo.com/java/copiar-un-fichero-con-java/"
+                }
+            ]
+        },
+        {
+            "nombre": "mark",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int readlimit",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "markSupported",
+            "description": ""
+        },
+        {
+            "nombre": "read",
+            "description": "M\u00e9todo que realiza la lectura de los siguientes bytes de un InputStream. Si pasamos como par\u00e1metro un buffer, la lectura dejar\u00e1 el resultado sobre dicho buffer. Adem\u00e1s, el m\u00e9todo .read() nos permitir\u00e1 indicar la cantidad de bytes a leer.\n",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                }
+            ],
+            "code": "// Copiar ficheros\nFile origen = new File(\"origen.txt\");\nFile destino = new File(\"destino.txt\");\n\ntry {\n  InputStream in = new FileInputStream(origen);\n  OutputStream out = new FileOutputStream(destino);\n\t\t\t\t\n  byte[] buf = new byte[1024];\n  int len;\n\n  while ((len = in.read(buf)) > 0) {\n    out.write(buf, 0, len);\n  }\n\t\t\n  in.close();\n  out.close();\n} catch (IOException ioe){\n  ioe.printStackTrace();\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Copiar un fichero con Java",
+                    "url": "http://lineadecodigo.com/java/copiar-un-fichero-con-java/"
+                }
+            ]
+        },
+        {
+            "nombre": "readAllBytes",
+            "description": ""
+        },
+        {
+            "nombre": "readNBytes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reset",
+            "description": ""
+        },
+        {
+            "nombre": "skip",
+            "description": "M\u00e9todo que se salta la lectura de n bytes del InputStream.\n",
+            "parametros": [
+                {
+                    "nombre": "long n",
+                    "description": ""
+                }
+            ],
+            "code": "int numeroAleatorio,numeroTeclado;\nint cero = (int)'0';\nnumeroAleatorio = (int) (Math.random()*10+1);\n\t    \ndo {\n\n  System.out.println(\"Dame un numero entre 1 y 10: \");\n  numeroTeclado = System.in.read();\n  System.in.skip(2);\n\n  numeroTeclado = numeroTeclado - cero;\n\n  if (numeroTeclado > numeroAleatorio) {\n    System.out.println (\"El n\u00famero buscado es menor\");\n  }\n\n  if (numeroTeclado < numeroAleatorio) {\n    System.out.println (\"El n\u00famero buscado es mayor\");\n  }\n\n} while (numeroTeclado\u00a0!= numeroAleatorio);\n\nSystem.out.println (\"Felicidades, acertaste el n\u00famero\");\n",
+            "ldc": []
+        },
+        {
+            "nombre": "transferTo",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

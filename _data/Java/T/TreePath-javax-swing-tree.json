@@ -1,0 +1,95 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "TreePath",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object lastPathComponent",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object o",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getLastPathComponent",
+            "description": ""
+        },
+        {
+            "nombre": "getParentPath",
+            "description": ""
+        },
+        {
+            "nombre": "getPath",
+            "description": ""
+        },
+        {
+            "nombre": "getPathComponent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getPathCount",
+            "description": ""
+        },
+        {
+            "nombre": "hashCode",
+            "description": ""
+        },
+        {
+            "nombre": "isDescendant",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TreePath aTreePath",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "pathByAddingChild",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object child",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ]
+}

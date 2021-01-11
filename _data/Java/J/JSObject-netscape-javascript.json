@@ -1,0 +1,105 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "JSObject",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "call",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String methodName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "eval",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String s",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getMember",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getSlot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getWindow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Applet applet",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "removeMember",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setMember",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSlot",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

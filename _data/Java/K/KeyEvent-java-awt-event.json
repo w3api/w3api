@@ -1,0 +1,929 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "KeyEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int modifiers",
+                    "description": ""
+                },
+                {
+                    "nombre": "long when",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "int keyCode",
+                    "description": ""
+                },
+                {
+                    "nombre": "char keyChar",
+                    "description": ""
+                },
+                {
+                    "nombre": "int keyLocation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component source",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getExtendedKeyCode",
+            "description": ""
+        },
+        {
+            "nombre": "getExtendedKeyCodeForChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int c",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getKeyChar",
+            "description": ""
+        },
+        {
+            "nombre": "getKeyCode",
+            "description": ""
+        },
+        {
+            "nombre": "getKeyLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getKeyModifiersText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int modifiers",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getKeyText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int keyCode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isActionKey",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        },
+        {
+            "nombre": "setKeyChar",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char keyChar",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setKeyCode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int keyCode",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setModifiers",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int modifiers",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "CHAR_UNDEFINED",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_FIRST",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_LAST",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_LOCATION_LEFT",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_LOCATION_NUMPAD",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_LOCATION_RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_LOCATION_STANDARD",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_LOCATION_UNKNOWN",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_PRESSED",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_RELEASED",
+            "description": ""
+        },
+        {
+            "nombre": "KEY_TYPED",
+            "description": ""
+        },
+        {
+            "nombre": "VK_0",
+            "description": ""
+        },
+        {
+            "nombre": "VK_1",
+            "description": ""
+        },
+        {
+            "nombre": "VK_2",
+            "description": ""
+        },
+        {
+            "nombre": "VK_3",
+            "description": ""
+        },
+        {
+            "nombre": "VK_4",
+            "description": ""
+        },
+        {
+            "nombre": "VK_5",
+            "description": ""
+        },
+        {
+            "nombre": "VK_6",
+            "description": ""
+        },
+        {
+            "nombre": "VK_7",
+            "description": ""
+        },
+        {
+            "nombre": "VK_8",
+            "description": ""
+        },
+        {
+            "nombre": "VK_9",
+            "description": ""
+        },
+        {
+            "nombre": "VK_A",
+            "description": ""
+        },
+        {
+            "nombre": "VK_ACCEPT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_ADD",
+            "description": ""
+        },
+        {
+            "nombre": "VK_AGAIN",
+            "description": ""
+        },
+        {
+            "nombre": "VK_ALL_CANDIDATES",
+            "description": ""
+        },
+        {
+            "nombre": "VK_ALPHANUMERIC",
+            "description": ""
+        },
+        {
+            "nombre": "VK_ALT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_ALT_GRAPH",
+            "description": ""
+        },
+        {
+            "nombre": "VK_AMPERSAND",
+            "description": ""
+        },
+        {
+            "nombre": "VK_ASTERISK",
+            "description": ""
+        },
+        {
+            "nombre": "VK_AT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_B",
+            "description": ""
+        },
+        {
+            "nombre": "VK_BACK_QUOTE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_BACK_SLASH",
+            "description": ""
+        },
+        {
+            "nombre": "VK_BACK_SPACE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_BEGIN",
+            "description": ""
+        },
+        {
+            "nombre": "VK_BRACELEFT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_BRACERIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_C",
+            "description": ""
+        },
+        {
+            "nombre": "VK_CANCEL",
+            "description": ""
+        },
+        {
+            "nombre": "VK_CAPS_LOCK",
+            "description": ""
+        },
+        {
+            "nombre": "VK_CIRCUMFLEX",
+            "description": ""
+        },
+        {
+            "nombre": "VK_CLEAR",
+            "description": ""
+        },
+        {
+            "nombre": "VK_CLOSE_BRACKET",
+            "description": ""
+        },
+        {
+            "nombre": "VK_CODE_INPUT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_COLON",
+            "description": ""
+        },
+        {
+            "nombre": "VK_COMMA",
+            "description": ""
+        },
+        {
+            "nombre": "VK_COMPOSE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_CONTEXT_MENU",
+            "description": ""
+        },
+        {
+            "nombre": "VK_CONTROL",
+            "description": ""
+        },
+        {
+            "nombre": "VK_CONVERT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_COPY",
+            "description": ""
+        },
+        {
+            "nombre": "VK_CUT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_D",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_ABOVEDOT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_ABOVERING",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_ACUTE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_BREVE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_CARON",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_CEDILLA",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_CIRCUMFLEX",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_DIAERESIS",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_DOUBLEACUTE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_GRAVE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_IOTA",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_MACRON",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_OGONEK",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_SEMIVOICED_SOUND",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_TILDE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DEAD_VOICED_SOUND",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DECIMAL",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DELETE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DIVIDE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DOLLAR",
+            "description": ""
+        },
+        {
+            "nombre": "VK_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "VK_E",
+            "description": ""
+        },
+        {
+            "nombre": "VK_END",
+            "description": ""
+        },
+        {
+            "nombre": "VK_ENTER",
+            "description": ""
+        },
+        {
+            "nombre": "VK_EQUALS",
+            "description": ""
+        },
+        {
+            "nombre": "VK_ESCAPE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_EURO_SIGN",
+            "description": ""
+        },
+        {
+            "nombre": "VK_EXCLAMATION_MARK",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F1",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F10",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F11",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F12",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F13",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F14",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F15",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F16",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F17",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F18",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F19",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F2",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F20",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F21",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F22",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F23",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F24",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F3",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F4",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F5",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F6",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F7",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F8",
+            "description": ""
+        },
+        {
+            "nombre": "VK_F9",
+            "description": ""
+        },
+        {
+            "nombre": "VK_FINAL",
+            "description": ""
+        },
+        {
+            "nombre": "VK_FIND",
+            "description": ""
+        },
+        {
+            "nombre": "VK_FULL_WIDTH",
+            "description": ""
+        },
+        {
+            "nombre": "VK_G",
+            "description": ""
+        },
+        {
+            "nombre": "VK_GREATER",
+            "description": ""
+        },
+        {
+            "nombre": "VK_H",
+            "description": ""
+        },
+        {
+            "nombre": "VK_HALF_WIDTH",
+            "description": ""
+        },
+        {
+            "nombre": "VK_HELP",
+            "description": ""
+        },
+        {
+            "nombre": "VK_HIRAGANA",
+            "description": ""
+        },
+        {
+            "nombre": "VK_HOME",
+            "description": ""
+        },
+        {
+            "nombre": "VK_I",
+            "description": ""
+        },
+        {
+            "nombre": "VK_INPUT_METHOD_ON_OFF",
+            "description": ""
+        },
+        {
+            "nombre": "VK_INSERT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_INVERTED_EXCLAMATION_MARK",
+            "description": ""
+        },
+        {
+            "nombre": "VK_J",
+            "description": ""
+        },
+        {
+            "nombre": "VK_JAPANESE_HIRAGANA",
+            "description": ""
+        },
+        {
+            "nombre": "VK_JAPANESE_KATAKANA",
+            "description": ""
+        },
+        {
+            "nombre": "VK_JAPANESE_ROMAN",
+            "description": ""
+        },
+        {
+            "nombre": "VK_K",
+            "description": ""
+        },
+        {
+            "nombre": "VK_KANA",
+            "description": ""
+        },
+        {
+            "nombre": "VK_KANA_LOCK",
+            "description": ""
+        },
+        {
+            "nombre": "VK_KANJI",
+            "description": ""
+        },
+        {
+            "nombre": "VK_KATAKANA",
+            "description": ""
+        },
+        {
+            "nombre": "VK_KP_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "VK_KP_LEFT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_KP_RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_KP_UP",
+            "description": ""
+        },
+        {
+            "nombre": "VK_L",
+            "description": ""
+        },
+        {
+            "nombre": "VK_LEFT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_LEFT_PARENTHESIS",
+            "description": ""
+        },
+        {
+            "nombre": "VK_LESS",
+            "description": ""
+        },
+        {
+            "nombre": "VK_M",
+            "description": ""
+        },
+        {
+            "nombre": "VK_META",
+            "description": ""
+        },
+        {
+            "nombre": "VK_MINUS",
+            "description": ""
+        },
+        {
+            "nombre": "VK_MODECHANGE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_MULTIPLY",
+            "description": ""
+        },
+        {
+            "nombre": "VK_N",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NONCONVERT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUM_LOCK",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUMBER_SIGN",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUMPAD0",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUMPAD1",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUMPAD2",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUMPAD3",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUMPAD4",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUMPAD5",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUMPAD6",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUMPAD7",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUMPAD8",
+            "description": ""
+        },
+        {
+            "nombre": "VK_NUMPAD9",
+            "description": ""
+        },
+        {
+            "nombre": "VK_O",
+            "description": ""
+        },
+        {
+            "nombre": "VK_OPEN_BRACKET",
+            "description": ""
+        },
+        {
+            "nombre": "VK_P",
+            "description": ""
+        },
+        {
+            "nombre": "VK_PAGE_DOWN",
+            "description": ""
+        },
+        {
+            "nombre": "VK_PAGE_UP",
+            "description": ""
+        },
+        {
+            "nombre": "VK_PASTE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_PAUSE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_PERIOD",
+            "description": ""
+        },
+        {
+            "nombre": "VK_PLUS",
+            "description": ""
+        },
+        {
+            "nombre": "VK_PREVIOUS_CANDIDATE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_PRINTSCREEN",
+            "description": ""
+        },
+        {
+            "nombre": "VK_PROPS",
+            "description": ""
+        },
+        {
+            "nombre": "VK_Q",
+            "description": ""
+        },
+        {
+            "nombre": "VK_QUOTE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_QUOTEDBL",
+            "description": ""
+        },
+        {
+            "nombre": "VK_R",
+            "description": ""
+        },
+        {
+            "nombre": "VK_RIGHT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_RIGHT_PARENTHESIS",
+            "description": ""
+        },
+        {
+            "nombre": "VK_ROMAN_CHARACTERS",
+            "description": ""
+        },
+        {
+            "nombre": "VK_S",
+            "description": ""
+        },
+        {
+            "nombre": "VK_SCROLL_LOCK",
+            "description": ""
+        },
+        {
+            "nombre": "VK_SEMICOLON",
+            "description": ""
+        },
+        {
+            "nombre": "VK_SEPARATER",
+            "description": ""
+        },
+        {
+            "nombre": "VK_SEPARATOR",
+            "description": ""
+        },
+        {
+            "nombre": "VK_SHIFT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_SLASH",
+            "description": ""
+        },
+        {
+            "nombre": "VK_SPACE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_STOP",
+            "description": ""
+        },
+        {
+            "nombre": "VK_SUBTRACT",
+            "description": ""
+        },
+        {
+            "nombre": "VK_T",
+            "description": ""
+        },
+        {
+            "nombre": "VK_TAB",
+            "description": ""
+        },
+        {
+            "nombre": "VK_U",
+            "description": ""
+        },
+        {
+            "nombre": "VK_UNDEFINED",
+            "description": ""
+        },
+        {
+            "nombre": "VK_UNDERSCORE",
+            "description": ""
+        },
+        {
+            "nombre": "VK_UNDO",
+            "description": ""
+        },
+        {
+            "nombre": "VK_UP",
+            "description": ""
+        },
+        {
+            "nombre": "VK_V",
+            "description": ""
+        },
+        {
+            "nombre": "VK_W",
+            "description": ""
+        },
+        {
+            "nombre": "VK_WINDOWS",
+            "description": ""
+        },
+        {
+            "nombre": "VK_X",
+            "description": ""
+        },
+        {
+            "nombre": "VK_Y",
+            "description": ""
+        },
+        {
+            "nombre": "VK_Z",
+            "description": ""
+        }
+    ]
+}

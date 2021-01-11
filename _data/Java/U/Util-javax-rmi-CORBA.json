@@ -1,0 +1,183 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "copyObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "ORB orb",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "copyObjects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object[] obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "ORB orb",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createValueHandler",
+            "description": ""
+        },
+        {
+            "nombre": "getCodebase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class clz",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getTie",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Remote target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isLocal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Stub stub",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "loadClass",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ClassLoader loader",
+                    "description": ""
+                },
+                {
+                    "nombre": "String remoteCodebase",
+                    "description": ""
+                },
+                {
+                    "nombre": "String className",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "mapSystemException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SystemException ex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "readAny",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "registerTarget",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Remote target",
+                    "description": ""
+                },
+                {
+                    "nombre": "Tie tie",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unexportObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Remote target",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "wrapException",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Throwable orig",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeAbstractObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeAny",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "writeRemoteObject",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream out",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

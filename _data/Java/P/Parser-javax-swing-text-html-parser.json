@@ -1,0 +1,213 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Parser",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DTD dtd",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "endTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "boolean omitted",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "error",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String arg2",
+                    "description": ""
+                },
+                {
+                    "nombre": "String err",
+                    "description": ""
+                },
+                {
+                    "nombre": "String arg3",
+                    "description": ""
+                },
+                {
+                    "nombre": "String arg1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "flushAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "getAttributes",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentLine",
+            "description": ""
+        },
+        {
+            "nombre": "getCurrentPos",
+            "description": ""
+        },
+        {
+            "nombre": "handleComment",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char[] text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleEmptyTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TagElement tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleEndTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TagElement tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleEOFInComment",
+            "description": ""
+        },
+        {
+            "nombre": "handleError",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ln",
+                    "description": ""
+                },
+                {
+                    "nombre": "String msg",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleStartTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TagElement tag",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleText",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char[] text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "handleTitle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "char[] text",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "makeTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean fictional",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "markFirstTime",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Element elem",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parse",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Reader in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parseDTDMarkup",
+            "description": ""
+        },
+        {
+            "nombre": "parseMarkupDeclarations",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "StringBuffer strBuff",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "startTag",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "TagElement tag",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "dtd",
+            "description": ""
+        },
+        {
+            "nombre": "strict",
+            "description": ""
+        }
+    ]
+}

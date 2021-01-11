@@ -1,0 +1,411 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Rectangle",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dimension d",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int newy",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point pt",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newx",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int Y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int X",
+                    "description": ""
+                },
+                {
+                    "nombre": "int H",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int W",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createIntersection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createUnion",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle2D r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getBounds",
+            "description": ""
+        },
+        {
+            "nombre": "getBounds2D",
+            "description": ""
+        },
+        {
+            "nombre": "getHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getLocation",
+            "description": ""
+        },
+        {
+            "nombre": "getSize",
+            "description": ""
+        },
+        {
+            "nombre": "getWidth",
+            "description": ""
+        },
+        {
+            "nombre": "getX",
+            "description": ""
+        },
+        {
+            "nombre": "getY",
+            "description": ""
+        },
+        {
+            "nombre": "grow",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int v",
+                    "description": ""
+                },
+                {
+                    "nombre": "int h",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "inside",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int X",
+                    "description": ""
+                },
+                {
+                    "nombre": "int Y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intersection",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "intersects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEmpty",
+            "description": ""
+        },
+        {
+            "nombre": "move",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "outcode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "reshape",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "resize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setBounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setLocation",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point p",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setRect",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double height",
+                    "description": ""
+                },
+                {
+                    "nombre": "double width",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setSize",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "Dimension d",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        },
+        {
+            "nombre": "translate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int dy",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "union",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "height",
+            "description": ""
+        },
+        {
+            "nombre": "width",
+            "description": ""
+        },
+        {
+            "nombre": "x",
+            "description": ""
+        },
+        {
+            "nombre": "y",
+            "description": ""
+        }
+    ]
+}
