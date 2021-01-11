@@ -1,0 +1,37 @@
+---
+title: CookiePolicy.ACCEPT_NONE
+permalink: Java/CookiePolicy/ACCEPT_NONE
+date: 2021-01-11
+key: JavaJava.C.CookiePolicy
+category: java
+tags: ['java se', 'java.net', 'java.base', 'campo java', 'Java 1.6']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.C.CookiePolicy.campos valor="ACCEPT_NONE" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+static CookiePolicy ACCEPT_NONE
+~~~
+
+## Clase Padre
+[CookiePolicy](/Java/CookiePolicy/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

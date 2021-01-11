@@ -1,0 +1,37 @@
+---
+title: ClassTree.getModifiers()
+permalink: Java/ClassTree/getModifiers
+date: 2021-01-11
+key: JavaJava.C.ClassTree
+category: java
+tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.C.ClassTree.metodos valor="getModifiers" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+ModifiersTree getModifiers()
+~~~
+
+## Clase Padre
+[ClassTree](/Java/ClassTree/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

@@ -1,0 +1,37 @@
+---
+title: ConfigurationInfo.getLabel()
+permalink: Java/ConfigurationInfo/getLabel
+date: 2021-01-11
+key: JavaJava.C.ConfigurationInfo
+category: java
+tags: ['java se', 'jdk.management.jfr', 'jdk.management.jfr', 'metodo java', 'Java 9']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.C.ConfigurationInfo.metodos valor="getLabel" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public String getLabel()
+~~~
+
+## Clase Padre
+[ConfigurationInfo](/Java/ConfigurationInfo/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

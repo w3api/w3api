@@ -1,0 +1,40 @@
+---
+title: DateTimeFormatter.withChronology()
+permalink: Java/DateTimeFormatter/withChronology
+date: 2021-01-11
+key: JavaJava.D.DateTimeFormatter
+category: java
+tags: ['java se', 'java.time.format', 'java.base', 'metodo java', 'Java 1.8']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.D.DateTimeFormatter.metodos valor="withChronology" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public DateTimeFormatter withChronology(Chronology chrono)
+~~~
+
+## Parámetros
+* **Chronology chrono**,  {% include w3api/param_description.html metodo=_dato parametro="Chronology chrono" %}
+
+## Clase Padre
+[DateTimeFormatter](/Java/DateTimeFormatter/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

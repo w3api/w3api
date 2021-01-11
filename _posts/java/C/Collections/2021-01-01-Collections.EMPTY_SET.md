@@ -1,0 +1,37 @@
+---
+title: Collections.EMPTY_SET
+permalink: Java/Collections/EMPTY_SET
+date: 2021-01-11
+key: JavaJava.C.Collections
+category: java
+tags: ['java se', 'java.util', 'java.base', 'campo java', 'Java 1.2']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.C.Collections.campos valor="EMPTY_SET" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+static Set EMPTY_SET
+~~~
+
+## Clase Padre
+[Collections](/Java/Collections/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
