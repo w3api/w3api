@@ -1,0 +1,202 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Number",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "isNaN",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isFinite",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isInteger",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isSafeInteger",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "testValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parseFloat",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "string",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "parseInt",
+            "description": "Recibe una cadena y la convierte en n\u00famero. La base del n\u00famero la obtiene del segundo par\u00e1metro. Por defecto convierte en base 10.\n",
+            "code": "function formulas() {\n\n  /* \u00c1rea de un c\u00edrculo */\n  this.areaCirculo = function (radio) {\n    return Math.PI * Math.pow(radio,2);\n  }\n\t\n  this.hipotenusa = function (c1,c2) {\n    return Math.sqrt(Math.pow(c1, 2) + Math.pow(c2, 2));\n    // Aunque esta como experimental se por\u00eda poner return Math.hypot(cateto1,cateto2);\n  }\n\t\n  this.aleatorio = function (maximo) {\n    return parseInt(Math.random()*maximo+1);\n  }\n}\n",
+            "parametros": [
+                {
+                    "nombre": "string",
+                    "description": ""
+                },
+                {
+                    "nombre": "radix",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "toExponential",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "fractionDigits",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toFixed",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "digits",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toLocaleString",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "locales",
+                    "description": ""
+                },
+                {
+                    "nombre": "options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toPrecision",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "precision",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "radix",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "valueOf",
+            "description": "",
+            "code": ""
+        }
+    ],
+    "propiedades": [
+        {
+            "nombre": "EPSILON",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "MAX_SAFE_INTEGER",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "MAX_VALUE",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "MIN_SAFE_INTEGER",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "MIN_VALUE",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "NaN",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "NEGATIVE_INFINITY",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "POSITIVE_INFINITY",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "prototype",
+            "description": "",
+            "code": ""
+        }
+    ]
+}

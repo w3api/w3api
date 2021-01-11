@@ -1,0 +1,45 @@
+---
+title: ActivationGroup.createGroup()
+permalink: Java/ActivationGroup/createGroup
+date: 2021-01-10
+key: JavaJava.A.ActivationGroup
+category: java
+tags: ['java se', 'java.rmi.activation', 'java.rmi', 'metodo java', 'Java 1.2']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.A.ActivationGroup.metodos valor="createGroup" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public static ActivationGroup createGroup(ActivationGroupID id, ActivationGroupDesc desc, long incarnation) throws ActivationException
+~~~
+
+## Parámetros
+* **ActivationGroupDesc desc**,  {% include w3api/param_description.html metodo=_dato parametro="ActivationGroupDesc desc" %}
+* **long incarnation**,  {% include w3api/param_description.html metodo=_dato parametro="long incarnation" %}
+* **ActivationGroupID id**,  {% include w3api/param_description.html metodo=_dato parametro="ActivationGroupID id" %}
+
+## Excepciones
+[UnsupportedOperationException](/Java/UnsupportedOperationException/), [SecurityException](/Java/SecurityException/), [ActivationException](/Java/ActivationException/)
+
+## Clase Padre
+[ActivationGroup](/Java/ActivationGroup/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

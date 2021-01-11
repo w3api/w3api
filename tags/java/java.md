@@ -15,16 +15,5 @@ pagination:
   permalink: /:num/    
 ---
 
-## Tecnologías Java
-* Java SE
-* Java EE
-* Java ME
-
-## Elementos Java
-* Clases Java
-* Interfaces Java
-* Métodos Java
-* Excepciones Java
-
-## Elementos
-Todos los Elementos **Java**:
+<h3>Elementos</h3>
+Todos los Elementos <strong>Java</strong>:

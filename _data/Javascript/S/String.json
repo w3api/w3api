@@ -1,0 +1,502 @@
+{
+    "description": "El objeto String representa una cadena de texto en JavaScript.\n",
+    "code": "var cadena = new String(\"cadena de texto\");\nalert(\"El tama\u00f1o de la cadena es de \" + cadena.length + \" caracteres\");\n",
+    "ldc": [
+        {
+            "nombre": "Tipo de objeto en Javascript",
+            "url": "http://lineadecodigo.com/javascript/tipo-de-objeto-en-javascript/"
+        },
+        {
+            "nombre": "Invertir una cadena en Javascript",
+            "url": "http://lineadecodigo.com/javascript/invertir-una-cadena-en-javascript/"
+        },
+        {
+            "nombre": "String con reverse en Javascript",
+            "url": "http://lineadecodigo.com/javascript/string-con-reverse-en-javascript/"
+        }
+    ],
+    "constructores": [
+        {
+            "nombre": "String",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "thingStringthing",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "length",
+            "description": "Nos devuelve el tama\u00f1o de la cadena.\n",
+            "code": "var cadena = \"Esto es una cadena\";\ndocument.write(cadena.length);\n",
+            "ldc": [
+                {
+                    "nombre": "Invertir una cadena en Javascript",
+                    "url": "http://lineadecodigo.com/javascript/invertir-una-cadena-en-javascript/"
+                }
+            ]
+        },
+        {
+            "nombre": "fromCodePoint",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "num1",
+                    "description": ""
+                },
+                {
+                    "nombre": "numN",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "raw",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "callSitesubstitutionsString.raw`templateString",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "charAt",
+            "description": "String\n",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "index",
+                    "description": ""
+                }
+            ],
+            "ldc": [
+                {
+                    "nombre": "Invertir una cadena en Javascript",
+                    "url": "http://lineadecodigo.com/javascript/invertir-una-cadena-en-javascript/"
+                },
+                {
+                    "nombre": "String con reverse en Javascript",
+                    "url": "http://lineadecodigo.com/javascript/string-con-reverse-en-javascript/"
+                }
+            ]
+        },
+        {
+            "nombre": "charCodeAt",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "codePointAt",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "pos",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "concat",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "str2strN",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "includes",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "searchString",
+                    "description": ""
+                },
+                {
+                    "nombre": "position",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "endsWith",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "searchString",
+                    "description": ""
+                },
+                {
+                    "nombre": "length",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "indexOf",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "searchValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lastIndexOf",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "searchValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "fromIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "localeCompare",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "compareString",
+                    "description": ""
+                },
+                {
+                    "nombre": "locales",
+                    "description": ""
+                },
+                {
+                    "nombre": "options",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "match",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "regexp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "matchAll",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "regexp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "normalize",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "form",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "padEnd",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "targetLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "padString",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "padStart",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "targetLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "padString",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "repeat",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "count",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "replace",
+            "description": "String\n",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "regexp|substr",
+                    "description": ""
+                },
+                {
+                    "nombre": "newSubstr|function",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "replaceAll",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "regexp|substr",
+                    "description": ""
+                },
+                {
+                    "nombre": "newSubstr|function",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "search",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "regexp",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "slice",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "beginIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "endIndex",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "split",
+            "description": "String\n",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "separator",
+                    "description": ""
+                },
+                {
+                    "nombre": "limit",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "startsWith",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "searchString",
+                    "description": ""
+                },
+                {
+                    "nombre": "position",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "substr",
+            "description": "Devuelve un subconjunto de caracteres de la cadena de texto. Para ello se indica el car\u00e1cter de inicio y el tama\u00f1o del subconjunto a recuperar.\n",
+            "code": "var cadena = new String(\"Cadena de texto\");\n\n// Esto devuelve la palabra \"texto\"\nalert(cadena.substr(10,5));\n\n// Esto devuelve la palabra \"Cadena\"\nalert(cadena.substr(0,6));\n\n// Esto devuelve desde el \"de\" en adelante\nalert(cadena.substr(7,cadena.length));\n",
+            "parametros": [
+                {
+                    "nombre": "start",
+                    "description": ""
+                },
+                {
+                    "nombre": "length",
+                    "description": ""
+                }
+            ],
+            "ldc": [
+                {
+                    "nombre": "Validar un CIF en JavaScript",
+                    "url": "http://lineadecodigo.com/javascript/validar-un-cif-en-javascript/"
+                }
+            ]
+        },
+        {
+            "nombre": "substring",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "indexStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "indexEnd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toLocaleLowerCase",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "str.toLocaleLowerCaselocalestr.toLocaleLowerCaselocale",
+                    "description": ""
+                },
+                {
+                    "nombre": "locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toLocaleUpperCase",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "str.toLocaleUpperCaselocalestr.toLocaleUpperCaselocale",
+                    "description": ""
+                },
+                {
+                    "nombre": "locale",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toLowerCase",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "toUpperCase",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "trim",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "trimStart",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": ";str.trimLeft",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "trimEnd",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": ";str.trimRight",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "valueOf",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "@@iterator",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "strSymbol.iterator",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "propiedades": [
+        {
+            "nombre": "length",
+            "description": "Nos devuelve el tama\u00f1o de la cadena.\n",
+            "code": "var cadena = \"Esto es una cadena\";\ndocument.write(cadena.length);\n",
+            "ldc": [
+                {
+                    "nombre": "Invertir una cadena en Javascript",
+                    "url": "http://lineadecodigo.com/javascript/invertir-una-cadena-en-javascript/"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "description": "Objeto JavaScript que nos permite ejecutar expresiones regulares.\n",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "RegExp",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "flagsRegExppattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "flags",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "compile",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "pattern",
+                    "description": ""
+                },
+                {
+                    "nombre": "flags",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "exec",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "test",
+            "description": "Ejecuta la validaci\u00f3n de una expresi\u00f3n regular.\n",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "str",
+                    "description": ""
+                }
+            ],
+            "ldc": []
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "@@match",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "@@matchAll",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "@@replace",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "str",
+                    "description": ""
+                },
+                {
+                    "nombre": "newSubStr|function",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "@@search",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "@@split",
+            "description": "",
+            "code": "",
+            "parametros": [
+                {
+                    "nombre": "str",
+                    "description": ""
+                },
+                {
+                    "nombre": "limit",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "propiedades": [
+        {
+            "nombre": "@@species",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "lastIndex",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "flags",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "dotAll",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "global",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "ignoreCase",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "multiline",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "source",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "sticky",
+            "description": "",
+            "code": ""
+        },
+        {
+            "nombre": "unicode",
+            "description": "",
+            "code": ""
+        }
+    ]
+}
