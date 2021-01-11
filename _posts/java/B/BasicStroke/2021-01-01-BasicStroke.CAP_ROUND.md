@@ -1,0 +1,37 @@
+---
+title: BasicStroke.CAP_ROUND
+permalink: Java/BasicStroke/CAP_ROUND
+date: 2021-01-11
+key: JavaJava.B.BasicStroke
+category: java
+tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.B.BasicStroke.campos valor="CAP_ROUND" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+static int CAP_ROUND
+~~~
+
+## Clase Padre
+[BasicStroke](/Java/BasicStroke/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
