@@ -52,7 +52,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<A> type",
+                    "nombre": "XmlAdapter adapter",
                     "description": ""
                 },
                 {
@@ -60,7 +60,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "XmlAdapter adapter",
+                    "nombre": "Class<A> type",
                     "description": ""
                 }
             ]
@@ -134,15 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "XMLEventReader reader",
-                    "description": ""
-                },
-                {
                     "nombre": "File f",
-                    "description": ""
-                },
-                {
-                    "nombre": "Reader reader",
                     "description": ""
                 },
                 {
@@ -150,11 +142,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream is",
+                    "nombre": "XMLStreamReader reader",
                     "description": ""
                 },
                 {
-                    "nombre": "Node node",
+                    "nombre": "Reader reader",
                     "description": ""
                 },
                 {
@@ -162,7 +154,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<T> declaredType",
+                    "nombre": "InputStream is",
+                    "description": ""
+                },
+                {
+                    "nombre": "XMLEventReader reader",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node node",
                     "description": ""
                 },
                 {
@@ -170,7 +170,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "XMLStreamReader reader",
+                    "nombre": "Class<T> declaredType",
                     "description": ""
                 }
             ]

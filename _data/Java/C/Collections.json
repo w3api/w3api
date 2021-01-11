@@ -1,18 +1,35 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "// Ordenar una lista\nList<String> list = new ArrayList<String>();\n\nlist.add(\"victor\");\nlist.add(\"amaya\");\nlist.add(\"julio\"); \n\nCollections.sort(list);\n",
+    "ldc": [
+        {
+            "nombre": "Elemento m\u00e1ximo y m\u00ednimo de un conjunto con objetos",
+            "url": "http://lineadecodigo.com/2007/07/08/elemento-maximo-y-minimo-de-un-conjunto-con-objetos/"
+        },
+        {
+            "nombre": "Convertir un array en una lista",
+            "url": "http://lineadecodigo.com/2007/06/30/convertir-un-array-en-una-lista/"
+        },
+        {
+            "nombre": "M\u00e1ximo y m\u00ednimo n\u00famero de un conjunto",
+            "url": "http://lineadecodigo.com/2007/06/26/maximo-y-minimo-numero-de-un-conjunto/"
+        },
+        {
+            "nombre": "Invertir una lista",
+            "url": "http://lineadecodigo.com/2007/01/30/invertir-una-lista/"
+        }
+    ],
     "metodos": [
         {
             "nombre": "addAll",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Collection<? super T> c",
+                    "nombre": "T... elements",
                     "description": ""
                 },
                 {
-                    "nombre": "T... elements",
+                    "nombre": "Collection<? super T> c",
                     "description": ""
                 }
             ]
@@ -32,19 +49,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<? extends Comparable<? super T>> list",
-                    "description": ""
-                },
-                {
-                    "nombre": "List<? extends T> list",
-                    "description": ""
-                },
-                {
                     "nombre": "Comparator<? super T> c",
                     "description": ""
                 },
                 {
+                    "nombre": "List<? extends Comparable<? super T>> list",
+                    "description": ""
+                },
+                {
                     "nombre": "T key",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends T> list",
                     "description": ""
                 }
             ]
@@ -54,11 +71,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<E> type",
+                    "nombre": "Collection<E> c",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<E> c",
+                    "nombre": "Class<E> type",
                     "description": ""
                 }
             ]
@@ -68,11 +85,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<E> list",
+                    "nombre": "Class<E> type",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<E> type",
+                    "nombre": "List<E> list",
                     "description": ""
                 }
             ]
@@ -82,11 +99,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<K> keyType",
-                    "description": ""
-                },
-                {
-                    "nombre": "V> m",
+                    "nombre": "Map<K",
                     "description": ""
                 },
                 {
@@ -94,7 +107,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Map<K",
+                    "nombre": "Class<K> keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> m",
                     "description": ""
                 }
             ]
@@ -104,11 +121,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<K> keyType",
-                    "description": ""
-                },
-                {
-                    "nombre": "V> m",
+                    "nombre": "Class<V> valueType",
                     "description": ""
                 },
                 {
@@ -116,7 +129,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<V> valueType",
+                    "nombre": "Class<K> keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> m",
                     "description": ""
                 }
             ]
@@ -126,11 +143,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<E> type",
+                    "nombre": "NavigableSet<E> s",
                     "description": ""
                 },
                 {
-                    "nombre": "NavigableSet<E> s",
+                    "nombre": "Class<E> type",
                     "description": ""
                 }
             ]
@@ -168,19 +185,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<K> keyType",
-                    "description": ""
-                },
-                {
-                    "nombre": "V> m",
-                    "description": ""
-                },
-                {
                     "nombre": "Class<V> valueType",
                     "description": ""
                 },
                 {
                     "nombre": "SortedMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<K> keyType",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> m",
                     "description": ""
                 }
             ]
@@ -190,11 +207,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<E> type",
+                    "nombre": "SortedSet<E> s",
                     "description": ""
                 },
                 {
-                    "nombre": "SortedSet<E> s",
+                    "nombre": "Class<E> type",
                     "description": ""
                 }
             ]
@@ -218,11 +235,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Collection<?> c1",
+                    "nombre": "Collection<?> c2",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<?> c2",
+                    "nombre": "Collection<?> c1",
                     "description": ""
                 }
             ]
@@ -282,11 +299,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<? super T> list",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "List<? super T> list",
                     "description": ""
                 }
             ]
@@ -296,11 +313,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object o",
+                    "nombre": "Collection<?> c",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<?> c",
+                    "nombre": "Object o",
                     "description": ""
                 }
             ]
@@ -310,11 +327,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<?> target",
+                    "nombre": "List<?> source",
                     "description": ""
                 },
                 {
-                    "nombre": "List<?> source",
+                    "nombre": "List<?> target",
                     "description": ""
                 }
             ]
@@ -324,11 +341,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<?> target",
+                    "nombre": "List<?> source",
                     "description": ""
                 },
                 {
-                    "nombre": "List<?> source",
+                    "nombre": "List<?> target",
                     "description": ""
                 }
             ]
@@ -345,31 +362,35 @@
         },
         {
             "nombre": "max",
-            "description": "",
+            "description": "M\u00e9todo que nos devuelve el elemento m\u00e1ximo de la colecci\u00f3n. Los elementos de la colecci\u00f3n deben de implementar interface Comparable\n",
             "parametros": [
-                {
-                    "nombre": "Collection<? extends T> coll",
-                    "description": ""
-                },
                 {
                     "nombre": "Comparator<? super T> comp",
                     "description": ""
+                },
+                {
+                    "nombre": "Collection<? extends T> coll",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "Set<Integer> hs = new HashSet<Integer>();\nhs.add(2);\nhs.add(4);\nhs.add(6);\nhs.add(8);\n\nSystem.out.println(\"El n\u00famero mayor del conjunto es... \"\n + Collections.max(hs));\nSystem.out.println(\"El n\u00famero menor del conjunto es... \"\n + Collections.min(hs));\n",
+            "ldc": []
         },
         {
             "nombre": "min",
-            "description": "",
+            "description": "M\u00e9todo que nos devuelve el elemento m\u00ednimo de la colecci\u00f3n. Los elementos de la colecci\u00f3n deben de implementar interface Comparable\n",
             "parametros": [
-                {
-                    "nombre": "Collection<? extends T> coll",
-                    "description": ""
-                },
                 {
                     "nombre": "Comparator<? super T> comp",
                     "description": ""
+                },
+                {
+                    "nombre": "Collection<? extends T> coll",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "Set<Integer> hs = new HashSet<Integer>();\nhs.add(2);\nhs.add(4);\nhs.add(6);\nhs.add(8);\n\nSystem.out.println(\"El n\u00famero mayor del conjunto es... \"\n + Collections.max(hs));\nSystem.out.println(\"El n\u00famero menor del conjunto es... \"\n + Collections.min(hs));\n",
+            "ldc": []
         },
         {
             "nombre": "nCopies",
@@ -390,11 +411,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Boolean> map",
+                    "nombre": "Map<E",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<E",
+                    "nombre": "Boolean> map",
                     "description": ""
                 }
             ]
@@ -404,11 +425,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T oldVal",
+                    "nombre": "List<T> list",
                     "description": ""
                 },
                 {
-                    "nombre": "List<T> list",
+                    "nombre": "T oldVal",
                     "description": ""
                 },
                 {
@@ -442,11 +463,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<?> list",
+                    "nombre": "int distance",
                     "description": ""
                 },
                 {
-                    "nombre": "int distance",
+                    "nombre": "List<?> list",
                     "description": ""
                 }
             ]
@@ -456,11 +477,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<?> list",
+                    "nombre": "Random rnd",
                     "description": ""
                 },
                 {
-                    "nombre": "Random rnd",
+                    "nombre": "List<?> list",
                     "description": ""
                 }
             ]
@@ -490,26 +511,33 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 },
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "sort",
-            "description": "",
+            "description": "ClassCastException, UnsupportedOperationException\n",
             "parametros": [
-                {
-                    "nombre": "Comparator<? super T> c",
-                    "description": ""
-                },
                 {
                     "nombre": "List<T> list",
                     "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super T> c",
+                    "description": ""
+                }
+            ],
+            "code": "",
+            "ldc": [
+                {
+                    "nombre": "Ordenando alfab\u00e9ticamente con CASE_INSENSITIVE_ORDER",
+                    "url": "http://lineadecodigo.com/java/ordenando-alfabeticamente-con-case_insensitive_order/"
                 }
             ]
         },
@@ -518,15 +546,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<?> list",
-                    "description": ""
-                },
-                {
                     "nombre": "int j",
                     "description": ""
                 },
                 {
                     "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<?> list",
                     "description": ""
                 }
             ]
@@ -556,11 +584,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V> m",
+                    "nombre": "Map<K",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<K",
+                    "nombre": "V> m",
                     "description": ""
                 }
             ]
@@ -570,11 +598,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V> m",
+                    "nombre": "NavigableMap<K",
                     "description": ""
                 },
                 {
-                    "nombre": "NavigableMap<K",
+                    "nombre": "V> m",
                     "description": ""
                 }
             ]
@@ -604,11 +632,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V> m",
+                    "nombre": "SortedMap<K",
                     "description": ""
                 },
                 {
-                    "nombre": "SortedMap<K",
+                    "nombre": "V> m",
                     "description": ""
                 }
             ]
@@ -648,11 +676,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> m",
+                    "nombre": "Map<? extends K",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<? extends K",
+                    "nombre": "? extends V> m",
                     "description": ""
                 }
             ]
@@ -662,11 +690,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> m",
+                    "nombre": "NavigableMap<K",
                     "description": ""
                 },
                 {
-                    "nombre": "NavigableMap<K",
+                    "nombre": "? extends V> m",
                     "description": ""
                 }
             ]
@@ -696,11 +724,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> m",
+                    "nombre": "SortedMap<K",
                     "description": ""
                 },
                 {
-                    "nombre": "SortedMap<K",
+                    "nombre": "? extends V> m",
                     "description": ""
                 }
             ]

@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T newValue",
+                    "nombre": "TreeItem<T> treeItem",
                     "description": ""
                 },
                 {
-                    "nombre": "TreeItem<T> treeItem",
+                    "nombre": "List<? extends TreeItem<T>> added",
                     "description": ""
                 },
                 {
@@ -20,7 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "EventType<? extends Event> eventType",
+                    "nombre": "T newValue",
                     "description": ""
                 },
                 {
@@ -28,7 +28,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends TreeItem<T>> added",
+                    "nombre": "EventType<? extends Event> eventType",
                     "description": ""
                 }
             ]

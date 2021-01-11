@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "Date d = new Date();\nCalendar c = new GregorianCalendar(); \nc.setTime(d);\n\nString dia, mes, annio, hora, minuto, segundo;\n\ndia = Integer.toString(c.get(Calendar.DATE));\nmes = Integer.toString(c.get(Calendar.MONTH));\nannio = Integer.toString(c.get(Calendar.YEAR));\nhora = Integer.toString(c.get(Calendar.HOUR_OF_DAY));\nminuto = Integer.toString(c.get(Calendar.MINUTE));\nsegundo = Integer.toString(c.get(Calendar.SECOND));\n\nSystem.out.println (hora + \":\" + minuto + \":\" + segundo + \" \" + dia + \"/\" + mes +\"/\" + annio);\n",
     "ldc": [],
     "constructores": [
         {
@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeZone zone",
+                    "nombre": "int hourOfDay",
                     "description": ""
                 },
                 {
@@ -20,14 +20,6 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Locale aLocale",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
-                    "description": ""
-                },
-                {
                     "nombre": "int minute",
                     "description": ""
                 },
@@ -36,7 +28,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int hourOfDay",
+                    "nombre": "TimeZone zone",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale aLocale",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
                     "description": ""
                 }
             ]
@@ -188,11 +188,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int field",
+                    "nombre": "boolean up",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean up",
+                    "nombre": "int field",
                     "description": ""
                 }
             ]
@@ -212,7 +212,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int dayOfWeek",
+                    "nombre": "int weekYear",
                     "description": ""
                 },
                 {
@@ -220,7 +220,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int weekYear",
+                    "nombre": "int dayOfWeek",
                     "description": ""
                 }
             ]

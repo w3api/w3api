@@ -1,22 +1,43 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "Scanner es una clase que nos permite analizar textos mediante patrones para descubrir tipos de datos primitivos en \u00e9l.\nSe le puede configurar un delimitador para saber hasta donde tiene que leer el texto.\n",
+    "code": "Scanner reader = new Scanner(System.in);\nSystem.out.println(\"Introduce un texto\");\nSystem.out.println(reader.next());\n",
+    "ldc": [
+        {
+            "nombre": "Calcular el volumen de un cubo con Java",
+            "url": "http://lineadecodigo.com/java/calcular-el-volumen-de-un-cubo-con-java/"
+        },
+        {
+            "nombre": "Dividir dos n\u00fameros con Java",
+            "url": "http://lineadecodigo.com/java/dividir-dos-numeros-con-java/"
+        },
+        {
+            "nombre": "Calcular signo del zodiaco con Java",
+            "url": "http://lineadecodigo.com/java/calcular-signo-del-zodiaco-con-java/"
+        },
+        {
+            "nombre": "Restar dos n\u00fameros con Java",
+            "url": "http://lineadecodigo.com/java/restar-dos-numeros-con-java/"
+        },
+        {
+            "nombre": "Calcular el per\u00edmetro de un c\u00edrculo con Java",
+            "url": "http://lineadecodigo.com/java/calcular-el-perimetro-de-un-circulo-con-java/"
+        },
+        {
+            "nombre": "Palabras que empiecen por...",
+            "url": "http://lineadecodigo.com/java/palabras-que-empiecen-por/"
+        },
+        {
+            "nombre": "Conversor de monedas",
+            "url": "http://lineadecodigo.com/java/conversor-de-monedas/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Scanner",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Path source",
-                    "description": ""
-                },
-                {
-                    "nombre": "Charset charset",
-                    "description": ""
-                },
-                {
-                    "nombre": "ReadableByteChannel source",
+                    "nombre": "String source",
                     "description": ""
                 },
                 {
@@ -24,7 +45,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "File source",
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Readable source",
+                    "description": ""
+                },
+                {
+                    "nombre": "ReadableByteChannel source",
                     "description": ""
                 },
                 {
@@ -32,11 +61,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String source",
+                    "nombre": "File source",
                     "description": ""
                 },
                 {
-                    "nombre": "Readable source",
+                    "nombre": "Path source",
                     "description": ""
                 }
             ]
@@ -56,11 +85,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Pattern pattern",
+                    "nombre": "String patString",
                     "description": ""
                 },
                 {
-                    "nombre": "String patString",
+                    "nombre": "Pattern pattern",
                     "description": ""
                 }
             ]
@@ -84,11 +113,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String pattern",
+                    "nombre": "Pattern pattern",
                     "description": ""
                 },
                 {
-                    "nombre": "Pattern pattern",
+                    "nombre": "String pattern",
                     "description": ""
                 },
                 {
@@ -195,7 +224,7 @@
         },
         {
             "nombre": "next",
-            "description": "",
+            "description": "M\u00e9todo que retorna un token del Scanner, desde que empieza a leer hasta que encuentra el delimitador definido por el Scanner.\n",
             "parametros": [
                 {
                     "nombre": "String pattern",
@@ -204,6 +233,13 @@
                 {
                     "nombre": "Pattern pattern",
                     "description": ""
+                }
+            ],
+            "code": "Scanner reader = new Scanner(System.in);\nString sTexto = reader.next();\n",
+            "ldc": [
+                {
+                    "nombre": "Palabras que empiecen por...",
+                    "url": "http://lineadecodigo.com/java/palabras-que-empiecen-por/"
                 }
             ]
         },
@@ -241,15 +277,33 @@
         },
         {
             "nombre": "nextFloat",
-            "description": ""
+            "description": "M\u00e9todo que retorna un token del Scanner en formato de n\u00famero decimal long.\nSi los caracteres recuperados no pueden ser convertidos a un n\u00famero decimal se eleva la excepci\u00f3n InputMismatchException.\n",
+            "code": "float numero1 = 0;\nfloat numero2 = 0;\nfloat resultado;\n\nScanner reader = new Scanner(System.in);\n\t\t\nSystem.out.println(\"Introduce el primer n\u00famero:\");\t\t\t\nnumero1 = reader.nextFloat();\n\t\t\t\nSystem.out.println(\"Introduce el segundo n\u00famero:\");\nnumero2 = reader.nextFloat();\n\t\t\n// Dividimos\nresultado = numero1/numero2;\n\nSystem.out.println(\"La divisi\u00f3n es \" + numero1 + \" / \" + numero2 + \" = \" + resultado);\n",
+            "ldc": [
+                {
+                    "nombre": "Dividir dos n\u00fameros con Java",
+                    "url": "http://lineadecodigo.com/java/dividir-dos-numeros-con-java/"
+                }
+            ]
         },
         {
             "nombre": "nextInt",
-            "description": "",
+            "description": "M\u00e9todo que retorna un token del Scanner en formato de n\u00famero entero int.\nSi los caracteres recuperados no pueden ser convertidos a un n\u00famero entero se eleva la excepci\u00f3n InputMismatchException.\n",
             "parametros": [
                 {
                     "nombre": "int radix",
                     "description": ""
+                }
+            ],
+            "code": "Scanner reader = new Scanner(System.in);\nint iNumero = reader.nextInt();  // Si introducimos un 5, tendremos iNumero = 5\n\nint iNumero = reader.nextInt(2); // Si introducimos un 101, tendremos iNumero = 5.\n",
+            "ldc": [
+                {
+                    "nombre": "Calcular signo del zodiaco con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-signo-del-zodiaco-con-java/"
+                },
+                {
+                    "nombre": "Restar dos n\u00fameros con Java",
+                    "url": "http://lineadecodigo.com/java/restar-dos-numeros-con-java/"
                 }
             ]
         },

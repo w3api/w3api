@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double height",
-                    "description": ""
-                },
-                {
-                    "nombre": "Parent root",
+                    "nombre": "SceneAntialiasing antiAliasing",
                     "description": ""
                 },
                 {
@@ -20,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "SceneAntialiasing antiAliasing",
+                    "nombre": "boolean depthBuffer",
                     "description": ""
                 },
                 {
@@ -28,7 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean depthBuffer",
+                    "nombre": "Parent root",
+                    "description": ""
+                },
+                {
+                    "nombre": "double height",
                     "description": ""
                 }
             ]
@@ -1120,7 +1120,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Callback<SnapshotResult",
+                    "nombre": "WritableImage image",
                     "description": ""
                 },
                 {
@@ -1128,7 +1128,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "WritableImage image",
+                    "nombre": "Callback<SnapshotResult",
                     "description": ""
                 }
             ]

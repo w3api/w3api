@@ -8,19 +8,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ColorSpace colorSpace",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] bits",
-                    "description": ""
-                },
-                {
-                    "nombre": "int transparency",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                },
+                {
+                    "nombre": "int transferType",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorSpace colorSpace",
                     "description": ""
                 },
                 {
@@ -28,7 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int transferType",
+                    "nombre": "int transparency",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] bits",
                     "description": ""
                 }
             ]
@@ -40,11 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "WritableRaster raster",
+                    "nombre": "boolean isAlphaPremultiplied",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isAlphaPremultiplied",
+                    "nombre": "WritableRaster raster",
                     "description": ""
                 }
             ]
@@ -130,7 +130,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object pixel",
+                    "nombre": "int[] components",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
                     "description": ""
                 },
                 {
@@ -138,11 +142,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] components",
-                    "description": ""
-                },
-                {
-                    "nombre": "int pixel",
+                    "nombre": "Object pixel",
                     "description": ""
                 }
             ]
@@ -152,19 +152,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int normOffset",
-                    "description": ""
-                },
-                {
                     "nombre": "float[] normComponents",
                     "description": ""
                 },
                 {
                     "nombre": "int[] components",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int normOffset",
                     "description": ""
                 }
             ]
@@ -174,11 +174,23 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int normOffset",
+                    "nombre": "int[] components",
                     "description": ""
                 },
                 {
                     "nombre": "Object pixel",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] normComponents",
+                    "description": ""
+                },
+                {
+                    "nombre": "int normOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rgb",
                     "description": ""
                 },
                 {
@@ -187,18 +199,6 @@
                 },
                 {
                     "nombre": "Object obj",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] components",
-                    "description": ""
-                },
-                {
-                    "nombre": "int rgb",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] normComponents",
                     "description": ""
                 }
             ]
@@ -222,7 +222,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int normOffset",
+                    "nombre": "int[] components",
                     "description": ""
                 },
                 {
@@ -230,15 +230,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] components",
-                    "description": ""
-                },
-                {
                     "nombre": "float[] normComponents",
+                    "description": ""
+                },
+                {
+                    "nombre": "int normOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -276,19 +276,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int normOffset",
-                    "description": ""
-                },
-                {
                     "nombre": "float[] normComponents",
                     "description": ""
                 },
                 {
                     "nombre": "int[] components",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int normOffset",
                     "description": ""
                 }
             ]

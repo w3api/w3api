@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long timeout",
                     "description": ""
                 },
                 {
-                    "nombre": "long timeout",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 }
             ]
@@ -22,15 +22,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeUnit unit",
-                    "description": ""
-                },
-                {
                     "nombre": "Collection<? extends Callable<T>> tasks",
                     "description": ""
                 },
                 {
                     "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 }
             ]
@@ -40,15 +40,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeUnit unit",
-                    "description": ""
-                },
-                {
                     "nombre": "Collection<? extends Callable<T>> tasks",
                     "description": ""
                 },
                 {
                     "nombre": "long timeout",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Runnable task",
+                    "nombre": "Callable<T> task",
                     "description": ""
                 },
                 {
-                    "nombre": "Callable<T> task",
+                    "nombre": "Runnable task",
                     "description": ""
                 },
                 {

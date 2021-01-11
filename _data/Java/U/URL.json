@@ -8,19 +8,11 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String file",
+                    "description": ""
+                },
+                {
                     "nombre": "String spec",
-                    "description": ""
-                },
-                {
-                    "nombre": "String protocol",
-                    "description": ""
-                },
-                {
-                    "nombre": "URLStreamHandler handler",
-                    "description": ""
-                },
-                {
-                    "nombre": "URL context",
                     "description": ""
                 },
                 {
@@ -28,11 +20,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "URL context",
+                    "description": ""
+                },
+                {
+                    "nombre": "URLStreamHandler handler",
+                    "description": ""
+                },
+                {
                     "nombre": "int port",
                     "description": ""
                 },
                 {
-                    "nombre": "String file",
+                    "nombre": "String protocol",
                     "description": ""
                 }
             ]
@@ -69,7 +69,9 @@
         },
         {
             "nombre": "getFile",
-            "description": ""
+            "description": "Nos devuelve el path del fichero que representa la URL.\n",
+            "code": "File fichero = new File(\"test.txt\");\t\t\nURL url = null;\n\t\t\ntry {\t\t    \n  url = fichero.toURL();\n  System.out.println(url.toString());\t\t\n\n  File fichero2 = new File(url.getFile());\n  System.out.println(fichero2.toString());\n} catch (MalformedURLException e) {}\n",
+            "ldc": []
         },
         {
             "nombre": "getHost",

@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int bufferSize",
+                    "nombre": "AudioFormat format",
                     "description": ""
                 },
                 {
-                    "nombre": "AudioFormat format",
+                    "nombre": "int bufferSize",
                     "description": ""
                 }
             ]
@@ -22,7 +22,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] b",
+                    "nombre": "int off",
                     "description": ""
                 },
                 {
@@ -30,7 +30,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int off",
+                    "nombre": "byte[] b",
                     "description": ""
                 }
             ]

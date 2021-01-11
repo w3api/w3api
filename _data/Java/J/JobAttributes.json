@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int copies",
+                    "nombre": "JobAttributes.DialogType dialog",
                     "description": ""
                 },
                 {
@@ -16,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String fileName",
+                    "nombre": "String printer",
+                    "description": ""
+                },
+                {
+                    "nombre": "int copies",
                     "description": ""
                 },
                 {
@@ -24,7 +28,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String printer",
+                    "nombre": "JobAttributes.DefaultSelectionType defaultSelection",
                     "description": ""
                 },
                 {
@@ -32,11 +36,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JobAttributes.DialogType dialog",
+                    "nombre": "JobAttributes.DestinationType destination",
                     "description": ""
                 },
                 {
-                    "nombre": "int[][] pageRanges",
+                    "nombre": "String fileName",
                     "description": ""
                 },
                 {
@@ -44,15 +48,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int[][] pageRanges",
+                    "description": ""
+                },
+                {
                     "nombre": "int maxPage",
-                    "description": ""
-                },
-                {
-                    "nombre": "JobAttributes.DefaultSelectionType defaultSelection",
-                    "description": ""
-                },
-                {
-                    "nombre": "JobAttributes.DestinationType destination",
                     "description": ""
                 }
             ]

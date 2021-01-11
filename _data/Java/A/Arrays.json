@@ -1,36 +1,30 @@
 {
     "description": "",
-    "code": "",
+    "code": "int[] numeros = {7,4,5,2,1,10,8};\nArrays.sort(numeros);\nfor (int numero:numeros)\n  System.out.println(numero);\n",
     "ldc": [],
     "metodos": [
         {
             "nombre": "asList",
-            "description": "",
+            "description": "Convierte un array en una lista.\n",
             "parametros": [
                 {
                     "nombre": "T... a",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "private static boolean searchNumber(int[] numbers, int numberToSearch) {\n  return Arrays.asList(numbers)\n    .contains(numberToSearch);\n}\n\npublic static void main(String[] args) {\n\n int[] numeros = {1,2,3,4,5,6,7,8};\n int numberToSearch = 3;\n\n if (searchNumber(numeros,numberToSearch))\n   System.out.println(\"El n\u00famero \" + numberToSearch + \" est\u00e1 en la lista\");\n else\n   System.out.println(\"El n\u00famero \" + numberToSearch + \" NO est\u00e1 en la lista\");\t \n}\n",
+            "ldc": []
         },
         {
             "nombre": "binarySearch",
             "description": "",
             "parametros": [
                 {
+                    "nombre": "char[] a",
+                    "description": ""
+                },
+                {
                     "nombre": "short key",
-                    "description": ""
-                },
-                {
-                    "nombre": "int fromIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object key",
                     "description": ""
                 },
                 {
@@ -38,15 +32,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float[] a",
+                    "nombre": "Object[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "short[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object key",
+                    "description": ""
+                },
+                {
+                    "nombre": "double key",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "float key",
                     "description": ""
                 },
                 {
@@ -58,11 +60,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "T[] a",
+                    "nombre": "float key",
                     "description": ""
                 },
                 {
-                    "nombre": "double key",
+                    "nombre": "float[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "T[] a",
                     "description": ""
                 },
                 {
@@ -70,15 +76,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char key",
-                    "description": ""
-                },
-                {
-                    "nombre": "int key",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] a",
+                    "nombre": "Comparator<? super T> c",
                     "description": ""
                 },
                 {
@@ -86,19 +84,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] a",
+                    "nombre": "int[] a",
                     "description": ""
                 },
                 {
-                    "nombre": "Comparator<? super T> c",
+                    "nombre": "int key",
                     "description": ""
                 },
                 {
-                    "nombre": "short[] a",
+                    "nombre": "char key",
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] a",
+                    "nombre": "double[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fromIndex",
                     "description": ""
                 }
             ]
@@ -108,27 +110,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "Comparator<? super T> cmp",
-                    "description": ""
-                },
-                {
-                    "nombre": "long[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int aToIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] a",
+                    "nombre": "char[] a",
                     "description": ""
                 },
                 {
@@ -136,7 +118,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int bToIndex",
+                    "nombre": "double[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] b",
                     "description": ""
                 },
                 {
@@ -144,15 +130,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] a",
+                    "nombre": "short[] a",
                     "description": ""
                 },
                 {
@@ -160,7 +138,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean[] b",
+                    "nombre": "float[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "T[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int aToIndex",
                     "description": ""
                 },
                 {
@@ -168,7 +158,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double[] b",
+                    "nombre": "long[] a",
                     "description": ""
                 },
                 {
@@ -176,11 +166,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long[] a",
+                    "nombre": "Comparator<? super T> cmp",
                     "description": ""
                 },
                 {
-                    "nombre": "char[] b",
+                    "nombre": "boolean[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bToIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] a",
                     "description": ""
                 },
                 {
@@ -188,15 +186,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] a",
-                    "description": ""
-                },
-                {
                     "nombre": "int aFromIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "short[] a",
+                    "nombre": "byte[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] b",
                     "description": ""
                 }
             ]
@@ -206,27 +208,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "short[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "long[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int aFromIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "int aToIndex",
+                    "nombre": "int bToIndex",
                     "description": ""
                 },
                 {
@@ -234,7 +216,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] a",
+                    "nombre": "int aToIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "short[] b",
                     "description": ""
                 },
                 {
@@ -242,15 +228,31 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int bFromIndex",
-                    "description": ""
-                },
-                {
                     "nombre": "long[] a",
                     "description": ""
                 },
                 {
-                    "nombre": "int bToIndex",
+                    "nombre": "int bFromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int aFromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] b",
                     "description": ""
                 }
             ]
@@ -260,7 +262,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "short[] original",
+                    "nombre": "float[] original",
                     "description": ""
                 },
                 {
@@ -268,11 +270,31 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float[] original",
+                    "nombre": "long[] original",
+                    "description": ""
+                },
+                {
+                    "nombre": "short[] original",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newLength",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] original",
                     "description": ""
                 },
                 {
                     "nombre": "T[] original",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] original",
+                    "description": ""
+                },
+                {
+                    "nombre": "U[] original",
                     "description": ""
                 },
                 {
@@ -284,27 +306,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] original",
-                    "description": ""
-                },
-                {
-                    "nombre": "int newLength",
-                    "description": ""
-                },
-                {
                     "nombre": "Class<? extends T[]> newType",
-                    "description": ""
-                },
-                {
-                    "nombre": "U[] original",
-                    "description": ""
-                },
-                {
-                    "nombre": "long[] original",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] original",
                     "description": ""
                 }
             ]
@@ -314,15 +316,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "short[] original",
-                    "description": ""
-                },
-                {
-                    "nombre": "int from",
-                    "description": ""
-                },
-                {
-                    "nombre": "int to",
+                    "nombre": "float[] original",
                     "description": ""
                 },
                 {
@@ -330,7 +324,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float[] original",
+                    "nombre": "long[] original",
+                    "description": ""
+                },
+                {
+                    "nombre": "short[] original",
+                    "description": ""
+                },
+                {
+                    "nombre": "int to",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] original",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] original",
                     "description": ""
                 },
                 {
@@ -342,11 +352,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean[] original",
+                    "nombre": "U[] original",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] original",
+                    "nombre": "boolean[] original",
                     "description": ""
                 },
                 {
@@ -354,15 +364,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "U[] original",
-                    "description": ""
-                },
-                {
-                    "nombre": "long[] original",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] original",
+                    "nombre": "int from",
                     "description": ""
                 }
             ]
@@ -406,127 +408,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object[] a2",
-                    "description": ""
-                },
-                {
-                    "nombre": "T[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "Comparator<? super T> cmp",
-                    "description": ""
-                },
-                {
-                    "nombre": "long[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int aToIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "int bToIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "short[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "T[] a2",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "short[] a2",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "long[] a2",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] a2",
-                    "description": ""
-                },
-                {
-                    "nombre": "T[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean[] a2",
-                    "description": ""
-                },
-                {
-                    "nombre": "int bFromIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] a2",
-                    "description": ""
-                },
-                {
-                    "nombre": "long[] a",
-                    "description": ""
-                },
-                {
                     "nombre": "int[] a2",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] a2",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object[] b",
                     "description": ""
                 },
                 {
@@ -534,7 +416,31 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int aFromIndex",
+                    "nombre": "float[] a2",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] a2",
+                    "description": ""
+                },
+                {
+                    "nombre": "short[] b",
                     "description": ""
                 },
                 {
@@ -542,7 +448,103 @@
                     "description": ""
                 },
                 {
+                    "nombre": "short[] a2",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean[] a2",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] a",
+                    "description": ""
+                },
+                {
                     "nombre": "char[] a2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] a2",
+                    "description": ""
+                },
+                {
+                    "nombre": "T[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int aToIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "T[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bFromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super T> cmp",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bToIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] a2",
+                    "description": ""
+                },
+                {
+                    "nombre": "T[] a2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] a2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int aFromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] b",
                     "description": ""
                 }
             ]
@@ -552,50 +554,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int toIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "short val",
-                    "description": ""
-                },
-                {
-                    "nombre": "double val",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "char val",
-                    "description": ""
-                },
-                {
-                    "nombre": "int val",
-                    "description": ""
-                },
-                {
-                    "nombre": "float val",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object val",
-                    "description": ""
-                },
-                {
-                    "nombre": "int fromIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] a",
-                    "description": ""
-                },
-                {
                     "nombre": "float[] a",
                     "description": ""
                 },
@@ -604,15 +562,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] a",
-                    "description": ""
-                },
-                {
                     "nombre": "long val",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte val",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] a",
                     "description": ""
                 },
                 {
@@ -628,7 +586,51 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte val",
+                    "nombre": "boolean[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object val",
+                    "description": ""
+                },
+                {
+                    "nombre": "char val",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "short val",
+                    "description": ""
+                },
+                {
+                    "nombre": "double val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "float val",
+                    "description": ""
+                },
+                {
+                    "nombre": "int val",
                     "description": ""
                 }
             ]
@@ -638,18 +640,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] a",
-                    "description": ""
-                },
-                {
                     "nombre": "float[] a",
                     "description": ""
                 },
@@ -658,11 +648,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] a",
+                    "nombre": "char[] a",
                     "description": ""
                 },
                 {
@@ -671,6 +657,22 @@
                 },
                 {
                     "nombre": "long[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] a",
                     "description": ""
                 }
             ]
@@ -680,27 +682,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "Comparator<? super T> cmp",
-                    "description": ""
-                },
-                {
-                    "nombre": "long[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int aToIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] a",
+                    "nombre": "char[] a",
                     "description": ""
                 },
                 {
@@ -708,35 +690,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int bToIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "short[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "T[] a",
+                    "nombre": "Object[] a",
                     "description": ""
                 },
                 {
@@ -744,31 +698,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int bFromIndex",
+                    "nombre": "int[] b",
                     "description": ""
                 },
                 {
-                    "nombre": "long[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "int aFromIndex",
+                    "nombre": "short[] b",
                     "description": ""
                 },
                 {
@@ -776,7 +710,75 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] a",
+                    "nombre": "byte[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "T[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int aToIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "T[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bFromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super T> cmp",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bToIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int aFromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] b",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] b",
                     "description": ""
                 }
             ]
@@ -786,15 +788,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int toIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "BinaryOperator<T> op",
-                    "description": ""
-                },
-                {
-                    "nombre": "long[] array",
+                    "nombre": "T[] array",
                     "description": ""
                 },
                 {
@@ -802,7 +796,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "DoubleBinaryOperator op",
+                    "description": ""
+                },
+                {
                     "nombre": "double[] array",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<T> op",
                     "description": ""
                 },
                 {
@@ -814,15 +820,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "T[] array",
-                    "description": ""
-                },
-                {
                     "nombre": "int fromIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "DoubleBinaryOperator op",
+                    "nombre": "long[] array",
                     "description": ""
                 }
             ]
@@ -832,22 +834,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long[] array",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] array",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] array",
-                    "description": ""
-                },
-                {
-                    "nombre": "IntFunction<? extends T> generator",
-                    "description": ""
-                },
-                {
                     "nombre": "T[] array",
                     "description": ""
                 },
@@ -856,11 +842,27 @@
                     "description": ""
                 },
                 {
-                    "nombre": "IntToDoubleFunction generator",
+                    "nombre": "int[] array",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntFunction<? extends T> generator",
                     "description": ""
                 },
                 {
                     "nombre": "IntToLongFunction generator",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] array",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntToDoubleFunction generator",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] array",
                     "description": ""
                 }
             ]
@@ -870,27 +872,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int toIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "Comparator<? super T> cmp",
-                    "description": ""
-                },
-                {
-                    "nombre": "T[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "int fromIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] a",
+                    "nombre": "float[] a",
                     "description": ""
                 },
                 {
@@ -898,11 +880,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float[] a",
+                    "nombre": "char[] a",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] a",
+                    "nombre": "T[] a",
                     "description": ""
                 },
                 {
@@ -911,6 +893,26 @@
                 },
                 {
                     "nombre": "long[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super T> cmp",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fromIndex",
                     "description": ""
                 }
             ]
@@ -920,22 +922,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long[] array",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] array",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] array",
-                    "description": ""
-                },
-                {
-                    "nombre": "IntFunction<? extends T> generator",
-                    "description": ""
-                },
-                {
                     "nombre": "T[] array",
                     "description": ""
                 },
@@ -944,45 +930,37 @@
                     "description": ""
                 },
                 {
-                    "nombre": "IntToDoubleFunction generator",
+                    "nombre": "int[] array",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntFunction<? extends T> generator",
                     "description": ""
                 },
                 {
                     "nombre": "IntToLongFunction generator",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] array",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntToDoubleFunction generator",
+                    "description": ""
+                },
+                {
+                    "nombre": "long[] array",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "sort",
-            "description": "",
+            "description": "Devuelve un elemento del ArrayList de la posici\u00f3n indicada como par\u00e1metro.\n",
             "parametros": [
                 {
-                    "nombre": "int toIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "T[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "int fromIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "Comparator<? super T> c",
+                    "nombre": "float[] a",
                     "description": ""
                 },
                 {
@@ -990,11 +968,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float[] a",
+                    "nombre": "char[] a",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] a",
+                    "nombre": "T[] a",
                     "description": ""
                 },
                 {
@@ -1004,19 +982,45 @@
                 {
                     "nombre": "long[] a",
                     "description": ""
+                },
+                {
+                    "nombre": "double[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int toIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fromIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super T> c",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "int[] numeros = {7,4,5,2,1,10,8};\nArrays.sort(numeros);\nfor (int numero:numeros)\n  System.out.println(numero);\n",
+            "ldc": []
         },
         {
             "nombre": "spliterator",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int endExclusive",
+                    "nombre": "T[] array",
                     "description": ""
                 },
                 {
-                    "nombre": "long[] array",
+                    "nombre": "int startInclusive",
                     "description": ""
                 },
                 {
@@ -1024,15 +1028,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int endExclusive",
+                    "description": ""
+                },
+                {
                     "nombre": "double[] array",
                     "description": ""
                 },
                 {
-                    "nombre": "T[] array",
-                    "description": ""
-                },
-                {
-                    "nombre": "int startInclusive",
+                    "nombre": "long[] array",
                     "description": ""
                 }
             ]
@@ -1042,11 +1046,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int endExclusive",
+                    "nombre": "T[] array",
                     "description": ""
                 },
                 {
-                    "nombre": "long[] array",
+                    "nombre": "int startInclusive",
                     "description": ""
                 },
                 {
@@ -1054,15 +1058,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int endExclusive",
+                    "description": ""
+                },
+                {
                     "nombre": "double[] array",
                     "description": ""
                 },
                 {
-                    "nombre": "T[] array",
-                    "description": ""
-                },
-                {
-                    "nombre": "int startInclusive",
+                    "nombre": "long[] array",
                     "description": ""
                 }
             ]
@@ -1072,18 +1076,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] a",
-                    "description": ""
-                },
-                {
                     "nombre": "float[] a",
                     "description": ""
                 },
@@ -1092,11 +1084,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean[] a",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] a",
+                    "nombre": "char[] a",
                     "description": ""
                 },
                 {
@@ -1105,6 +1093,22 @@
                 },
                 {
                     "nombre": "long[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] a",
                     "description": ""
                 }
             ]

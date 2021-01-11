@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "String[] s = \"Esto es una frase muy interesante\".split(\"\");\nString cadena = IntStream.range(0, s.length)\n  .mapToObj(i -> i%2!=0\u00a0? s[i].toUpperCase():s[i].toLowerCase())\n  .collect(Collectors.joining());\n",
     "ldc": [],
     "metodos": [
         {
@@ -45,10 +45,10 @@
         },
         {
             "nombre": "collect",
-            "description": "",
+            "description": "Realiza una operaci\u00f3n de reducci\u00f3n mutable sobre los elementos del Stream. Una reducci\u00f3n mutable es una en la que el valor reducido es un contenedor resultado mutable, tal como un ArrayList, y los elementos se incorporan mediante la actualizaci\u00f3n del estado del resultado en lugar de mediante la sustituci\u00f3n del resultado. \n",
             "parametros": [
                 {
-                    "nombre": "BiConsumer<R",
+                    "nombre": "ObjIntConsumer<R> accumulator",
                     "description": ""
                 },
                 {
@@ -60,21 +60,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ObjIntConsumer<R> accumulator",
+                    "nombre": "BiConsumer<R",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "String[] s = \"Esto es una frase muy interesante\".split(\"\");\nString cadena = IntStream.range(0, s.length)\n  .mapToObj(i -> i%2!=0\u00a0? s[i].toUpperCase():s[i].toLowerCase())\n  .collect(Collectors.joining());\n",
+            "ldc": []
         },
         {
             "nombre": "concat",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "IntStream a",
+                    "nombre": "IntStream b",
                     "description": ""
                 },
                 {
-                    "nombre": "IntStream b",
+                    "nombre": "IntStream a",
                     "description": ""
                 }
             ]
@@ -164,10 +166,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "IntPredicate hasNext",
-                    "description": ""
-                },
-                {
                     "nombre": "IntUnaryOperator next",
                     "description": ""
                 },
@@ -177,6 +175,10 @@
                 },
                 {
                     "nombre": "IntUnaryOperator f",
+                    "description": ""
+                },
+                {
+                    "nombre": "IntPredicate hasNext",
                     "description": ""
                 }
             ]
@@ -223,13 +225,15 @@
         },
         {
             "nombre": "mapToObj",
-            "description": "",
+            "description": "Obtiene un Stream de objetos resultado de ejecutar la funci\u00f3n del mapper.\n",
             "parametros": [
                 {
                     "nombre": "IntFunction<? extends U> mapper",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "String[] s = \"Esto es una frase muy interesante\".split(\"\");\nString cadena = IntStream.range(0, s.length)\n  .mapToObj(i -> i%2!=0\u00a0? s[i].toUpperCase():s[i].toLowerCase())\n  .collect(Collectors.joining());\n",
+            "ldc": []
         },
         {
             "nombre": "max",
@@ -254,11 +258,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int... values",
+                    "nombre": "int t",
                     "description": ""
                 },
                 {
-                    "nombre": "int t",
+                    "nombre": "int... values",
                     "description": ""
                 }
             ]
@@ -278,11 +282,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int endExclusive",
+                    "nombre": "int startInclusive",
                     "description": ""
                 },
                 {
-                    "nombre": "int startInclusive",
+                    "nombre": "int endExclusive",
                     "description": ""
                 }
             ]
@@ -292,11 +296,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int endInclusive",
+                    "nombre": "int startInclusive",
                     "description": ""
                 },
                 {
-                    "nombre": "int startInclusive",
+                    "nombre": "int endInclusive",
                     "description": ""
                 }
             ]

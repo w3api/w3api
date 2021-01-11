@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "Date d = new Date();\nCalendar c = new GregorianCalendar(); \nc.setTime(d);\n\nString dia, mes, annio, hora, minuto, segundo;\n\ndia = Integer.toString(c.get(Calendar.DATE));\nmes = Integer.toString(c.get(Calendar.MONTH));\nannio = Integer.toString(c.get(Calendar.YEAR));\nhora = Integer.toString(c.get(Calendar.HOUR_OF_DAY));\nminuto = Integer.toString(c.get(Calendar.MINUTE));\nsegundo = Integer.toString(c.get(Calendar.SECOND));\n\nSystem.out.println (hora + \":\" + minuto + \":\" + segundo + \" \" + dia + \"/\" + mes +\"/\" + annio);\n",
     "ldc": [],
     "constructores": [
         {
@@ -101,13 +101,15 @@
         },
         {
             "nombre": "get",
-            "description": "",
+            "description": "M\u00e9todo que nos devuelve un valor del calendario atendiendo al valor del par\u00e1metro enviado. Por ejemplo si se env\u00eda Calendar.DAY_OF_WEEK nos devolver\u00e1 el d\u00eda, si se le env\u00eda Calendar.MONTH nos devuelve el mes del a\u00f1o,...\n",
             "parametros": [
                 {
                     "nombre": "int field",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "Calendar c = new GregorianCalendar(); \n\nString dia, mes, annio;\n\t   \ndia = Integer.toString(c.get(Calendar.DATE));\nmes = Integer.toString(c.get(Calendar.MONTH));\nannio = Integer.toString(c.get(Calendar.YEAR));\n   \nSystem.out.println (dia + \"/\" + mes +\"/\" + annio);\n",
+            "ldc": []
         },
         {
             "nombre": "getActualMaximum",
@@ -146,11 +148,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Locale locale",
+                    "nombre": "int field",
                     "description": ""
                 },
                 {
-                    "nombre": "int field",
+                    "nombre": "Locale locale",
                     "description": ""
                 },
                 {
@@ -164,11 +166,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Locale locale",
+                    "nombre": "int field",
                     "description": ""
                 },
                 {
-                    "nombre": "int field",
+                    "nombre": "Locale locale",
                     "description": ""
                 },
                 {
@@ -193,7 +195,7 @@
         },
         {
             "nombre": "getInstance",
-            "description": "",
+            "description": "Obtiene una instancia de un calendario, bien sea la instancia por defecto si no le especificamos anda o bien la instancia que se asocie a la TimeZone o el Locale que le pasemos como par\u00e1metro.\n",
             "parametros": [
                 {
                     "nombre": "Locale aLocale",
@@ -203,7 +205,9 @@
                     "nombre": "TimeZone zone",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "Calendar c = Calendar.getInstance();\n\nString dia, mes, annio;\n\t   \ndia = Integer.toString(c.get(Calendar.DATE));\nmes = Integer.toString(c.get(Calendar.MONTH));\nannio = Integer.toString(c.get(Calendar.YEAR));\n   \nSystem.out.println (dia + \"/\" + mes +\"/\" + annio);\n",
+            "ldc": []
         },
         {
             "nombre": "getLeastMaximum",
@@ -300,11 +304,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int field",
+                    "nombre": "boolean up",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean up",
+                    "nombre": "int field",
                     "description": ""
                 }
             ]
@@ -314,15 +318,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int date",
+                    "nombre": "int value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hourOfDay",
                     "description": ""
                 },
                 {
                     "nombre": "int month",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
                     "description": ""
                 },
                 {
@@ -338,11 +342,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int value",
+                    "nombre": "int year",
                     "description": ""
                 },
                 {
-                    "nombre": "int hourOfDay",
+                    "nombre": "int date",
                     "description": ""
                 }
             ]
@@ -412,7 +416,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int dayOfWeek",
+                    "nombre": "int weekYear",
                     "description": ""
                 },
                 {
@@ -420,7 +424,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int weekYear",
+                    "nombre": "int dayOfWeek",
                     "description": ""
                 }
             ]
@@ -461,7 +465,9 @@
         },
         {
             "nombre": "DATE",
-            "description": ""
+            "description": "Campo que representa el d\u00eda del mes. El primer d\u00eda del mes devolver\u00e1 un valor de 1. Es sin\u00f3nimo de DAY_OF_MONTH.\n",
+            "code": "Date d = new Date();\nCalendar c = new GregorianCalendar(); \nc.setTime(d);\n\nString dia, mes, annio, hora, minuto, segundo;\n\ndia = Integer.toString(c.get(Calendar.DATE));\nmes = Integer.toString(c.get(Calendar.MONTH));\nannio = Integer.toString(c.get(Calendar.YEAR));\nhora = Integer.toString(c.get(Calendar.HOUR_OF_DAY));\nminuto = Integer.toString(c.get(Calendar.MINUTE));\nsegundo = Integer.toString(c.get(Calendar.SECOND));\n\nSystem.out.println (hora + \":\" + minuto + \":\" + segundo + \" \" + dia + \"/\" + mes +\"/\" + annio);\n",
+            "ldc": []
         },
         {
             "nombre": "DAY_OF_MONTH",
@@ -469,11 +475,15 @@
         },
         {
             "nombre": "DAY_OF_WEEK",
-            "description": ""
+            "description": "Campo que representa el d\u00eda de la semana. Los valores ser\u00edan SUNDAY, MONDAY,... SATURDAY.\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "DAY_OF_WEEK_IN_MONTH",
-            "description": ""
+            "description": "Campo que representa el d\u00eda de la semana dentro del mes.\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "DAY_OF_YEAR",
@@ -561,7 +571,9 @@
         },
         {
             "nombre": "MINUTE",
-            "description": ""
+            "description": "Campo final que representa el minuto de una hora. Por ejemplo para la hora 11:15:02.120 PM el valor de Calendar.MINUTE ser\u00eda 15.\n",
+            "code": "Date d = new Date();\nCalendar c = new GregorianCalendar(); \nc.setTime(d);\n\nString dia, mes, annio, hora, minuto, segundo;\n\ndia = Integer.toString(c.get(Calendar.DATE));\nmes = Integer.toString(c.get(Calendar.MONTH));\nannio = Integer.toString(c.get(Calendar.YEAR));\nhora = Integer.toString(c.get(Calendar.HOUR_OF_DAY));\nminuto = Integer.toString(c.get(Calendar.MINUTE));\nsegundo = Integer.toString(c.get(Calendar.SECOND));\n\nSystem.out.println (hora + \":\" + minuto + \":\" + segundo + \" \" + dia + \"/\" + mes +\"/\" + annio);\n",
+            "ldc": []
         },
         {
             "nombre": "MONDAY",
@@ -569,7 +581,9 @@
         },
         {
             "nombre": "MONTH",
-            "description": ""
+            "description": "Campo final que representa el mes de una fecha. Los valores retornados van desde el 0 para Enero (Calendar.JANUARY) a el 11 para Diciembre (Calendar.DECEMBER).\n",
+            "code": "Date d = new Date();\nCalendar c = new GregorianCalendar(); \nc.setTime(d);\n\nString dia, mes, annio, hora, minuto, segundo;\n\ndia = Integer.toString(c.get(Calendar.DATE));\nmes = Integer.toString(c.get(Calendar.MONTH));\nannio = Integer.toString(c.get(Calendar.YEAR));\nhora = Integer.toString(c.get(Calendar.HOUR_OF_DAY));\nminuto = Integer.toString(c.get(Calendar.MINUTE));\nsegundo = Integer.toString(c.get(Calendar.SECOND));\n\nSystem.out.println (hora + \":\" + minuto + \":\" + segundo + \" \" + dia + \"/\" + mes +\"/\" + annio);\n",
+            "ldc": []
         },
         {
             "nombre": "NARROW_FORMAT",
@@ -645,7 +659,9 @@
         },
         {
             "nombre": "WEEK_OF_YEAR",
-            "description": ""
+            "description": "Campo que representa la semana dentro del a\u00f1o.\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "YEAR",

@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SecureDirectoryStream<T> targetdir",
+                    "nombre": "T targetpath",
                     "description": ""
                 },
                 {
-                    "nombre": "T targetpath",
+                    "nombre": "SecureDirectoryStream<T> targetdir",
                     "description": ""
                 },
                 {
@@ -64,15 +64,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T path",
-                    "description": ""
-                },
-                {
                     "nombre": "Set<? extends OpenOption> options",
                     "description": ""
                 },
                 {
                     "nombre": "FileAttribute<?>... attrs",
+                    "description": ""
+                },
+                {
+                    "nombre": "T path",
                     "description": ""
                 }
             ]

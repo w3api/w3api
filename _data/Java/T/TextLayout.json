@@ -8,19 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FontRenderContext frc",
-                    "description": ""
-                },
-                {
                     "nombre": "?> attributes",
-                    "description": ""
-                },
-                {
-                    "nombre": "Font font",
-                    "description": ""
-                },
-                {
-                    "nombre": "AttributedCharacterIterator text",
                     "description": ""
                 },
                 {
@@ -28,7 +16,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "FontRenderContext frc",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                },
+                {
                     "nombre": "String string",
+                    "description": ""
+                },
+                {
+                    "nombre": "Font font",
                     "description": ""
                 }
             ]
@@ -44,15 +44,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float y",
-                    "description": ""
-                },
-                {
                     "nombre": "float x",
                     "description": ""
                 },
                 {
                     "nombre": "Graphics2D g2",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
                     "description": ""
                 }
             ]
@@ -106,11 +106,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TextHitInfo hit",
+                    "nombre": "Rectangle2D bounds",
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle2D bounds",
+                    "nombre": "TextHitInfo hit",
                     "description": ""
                 }
             ]
@@ -120,11 +120,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TextHitInfo hit",
+                    "nombre": "Rectangle2D bounds",
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle2D bounds",
+                    "nombre": "TextHitInfo hit",
                     "description": ""
                 }
             ]
@@ -134,7 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "Rectangle2D bounds",
                     "description": ""
                 },
                 {
@@ -142,7 +142,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle2D bounds",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -188,15 +188,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle2D bounds",
+                    "description": ""
+                },
+                {
                     "nombre": "int firstEndpoint",
                     "description": ""
                 },
                 {
                     "nombre": "int secondEndpoint",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle2D bounds",
                     "description": ""
                 }
             ]
@@ -206,11 +206,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TextHitInfo secondEndpoint",
+                    "nombre": "TextHitInfo firstEndpoint",
                     "description": ""
                 },
                 {
-                    "nombre": "TextHitInfo firstEndpoint",
+                    "nombre": "TextHitInfo secondEndpoint",
                     "description": ""
                 }
             ]
@@ -220,15 +220,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "TextHitInfo hit",
                     "description": ""
                 },
                 {
                     "nombre": "TextLayout.CaretPolicy policy",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -238,15 +238,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "TextHitInfo hit",
                     "description": ""
                 },
                 {
                     "nombre": "TextLayout.CaretPolicy policy",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -266,7 +266,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FontRenderContext frc",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -274,7 +274,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "FontRenderContext frc",
                     "description": ""
                 }
             ]
@@ -288,15 +288,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TextHitInfo secondEndpoint",
-                    "description": ""
-                },
-                {
                     "nombre": "Rectangle2D bounds",
                     "description": ""
                 },
                 {
                     "nombre": "TextHitInfo firstEndpoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "TextHitInfo secondEndpoint",
                     "description": ""
                 }
             ]
@@ -326,15 +326,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float y",
-                    "description": ""
-                },
-                {
                     "nombre": "float x",
                     "description": ""
                 },
                 {
                     "nombre": "Rectangle2D bounds",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
                     "description": ""
                 }
             ]
@@ -344,11 +344,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TextHitInfo hit",
+                    "nombre": "Point2D point",
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D point",
+                    "nombre": "TextHitInfo hit",
                     "description": ""
                 }
             ]

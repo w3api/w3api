@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] classfileBuffer",
-                    "description": ""
-                },
-                {
-                    "nombre": "ProtectionDomain protectionDomain",
+                    "nombre": "ClassLoader loader",
                     "description": ""
                 },
                 {
@@ -20,15 +16,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ClassLoader loader",
-                    "description": ""
-                },
-                {
-                    "nombre": "String className",
+                    "nombre": "ProtectionDomain protectionDomain",
                     "description": ""
                 },
                 {
                     "nombre": "Module module",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] classfileBuffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "String className",
                     "description": ""
                 }
             ]

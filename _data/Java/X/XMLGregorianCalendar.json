@@ -196,15 +196,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int millisecond",
-                    "description": ""
-                },
-                {
                     "nombre": "BigDecimal fractional",
                     "description": ""
                 },
                 {
-                    "nombre": "int hour",
+                    "nombre": "int millisecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "int second",
                     "description": ""
                 },
                 {
@@ -212,7 +212,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int second",
+                    "nombre": "int hour",
                     "description": ""
                 }
             ]
@@ -250,11 +250,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "XMLGregorianCalendar defaults",
+                    "nombre": "TimeZone timezone",
                     "description": ""
                 },
                 {
-                    "nombre": "TimeZone timezone",
+                    "nombre": "XMLGregorianCalendar defaults",
                     "description": ""
                 }
             ]

@@ -1,7 +1,16 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "Componente de Java Swing que representa un campo de entrada.\n",
+    "code": "CrearJTextField(){\n super(\"Crear un JTextField\");\n JTextField input = new JTextField(\"texto por defecto\",20);\n add(input);\n}\n",
+    "ldc": [
+        {
+            "nombre": "Crear un componente JTextField",
+            "url": "http://lineadecodigo.com/java/crear-un-componente-jtextfield/"
+        },
+        {
+            "nombre": "Ventanas con estilo gracias a Substances",
+            "url": "http://lineadecodigo.com/java/ventanas-con-estilo-gracias-a-substances/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "JTextField",

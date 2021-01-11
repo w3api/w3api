@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FontRenderContext frc",
-                    "description": ""
-                },
-                {
                     "nombre": "BreakIterator breakIter",
                     "description": ""
                 },
                 {
                     "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontRenderContext frc",
                     "description": ""
                 }
             ]
@@ -28,11 +28,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributedCharacterIterator newParagraph",
+                    "nombre": "int deletePos",
                     "description": ""
                 },
                 {
-                    "nombre": "int deletePos",
+                    "nombre": "AttributedCharacterIterator newParagraph",
                     "description": ""
                 }
             ]
@@ -60,11 +60,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean requireNextWord",
+                    "nombre": "float wrappingWidth",
                     "description": ""
                 },
                 {
-                    "nombre": "float wrappingWidth",
+                    "nombre": "boolean requireNextWord",
                     "description": ""
                 },
                 {
@@ -78,11 +78,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean requireNextWord",
+                    "nombre": "float wrappingWidth",
                     "description": ""
                 },
                 {
-                    "nombre": "float wrappingWidth",
+                    "nombre": "boolean requireNextWord",
                     "description": ""
                 },
                 {

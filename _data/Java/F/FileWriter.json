@@ -1,7 +1,12 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "Clase que nos permite realizar escrituras de caracteres de texto sobre un fichero.\n",
+    "code": "// Validamos si existe el fichero\nString sFichero = \"fichero.txt\";\nFile fichero = new File(sFichero);\n\nif (fichero.exists())\n  System.out.println(\"El fichero \" + sFichero + \" ya existe\");\nelse {\n  try{\n     BufferedWriter bw = new BufferedWriter(new FileWriter(sFichero));\n\t\t\n     // Escribimos 10 filas\n     for (int x=0;x<10;x++)\n       bw.write(\"Fila numero \" + x + \"\\n\");\n\n     // Hay que cerrar el fichero\n     bw.close();\n  } catch (IOException ioe){\n     ioe.printStackTrace();\n  }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Vaciar el contenido de un fichero con Java",
+            "url": "http://lineadecodigo.com/java/vaciar-el-contenido-de-un-fichero-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "FileWriter",
@@ -12,7 +17,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean append",
+                    "nombre": "String fileName",
                     "description": ""
                 },
                 {
@@ -20,7 +25,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String fileName",
+                    "nombre": "boolean append",
                     "description": ""
                 }
             ]

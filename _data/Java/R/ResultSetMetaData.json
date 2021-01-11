@@ -25,7 +25,9 @@
         },
         {
             "nombre": "getColumnCount",
-            "description": ""
+            "description": "Devuelve el n\u00famero de columnas que contiene un ResultSet.\n",
+            "code": "stmt = con.prepareStatement(\"SELECT * FROM personas\");\n\t      \nrs = stmt.executeQuery();\n\t      \n// Desconocemos el n\u00famero de columnas y filas que tiene la tabla\n// Primero pintamos los nombres de las columnas\nfor (int x=1;x<=rs.getMetaData().getColumnCount();x++)\n  System.out.print(rs.getMetaData().getColumnName(x)+ \"\\t\");\n\t      \nSystem.out.println(\"\");\n\t      \n// Ahora volcamos los datos\nwhile(rs.next()) {\n  for (int x=1;x<=rs.getMetaData().getColumnCount();x++)\n    System.out.print(rs.getString(x)+ \"\\t\");\n\t      \n  System.out.println(\"\");\n}\n",
+            "ldc": []
         },
         {
             "nombre": "getColumnDisplaySize",

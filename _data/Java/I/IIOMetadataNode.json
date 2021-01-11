@@ -60,11 +60,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String namespaceURI",
+                    "nombre": "String localName",
                     "description": ""
                 },
                 {
-                    "nombre": "String localName",
+                    "nombre": "String namespaceURI",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String namespaceURI",
+                    "nombre": "String localName",
                     "description": ""
                 },
                 {
-                    "nombre": "String localName",
+                    "nombre": "String namespaceURI",
                     "description": ""
                 }
             ]
@@ -100,11 +100,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String namespaceURI",
+                    "nombre": "String localName",
                     "description": ""
                 },
                 {
-                    "nombre": "String localName",
+                    "nombre": "String namespaceURI",
                     "description": ""
                 }
             ]
@@ -114,11 +114,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String version",
+                    "nombre": "String feature",
                     "description": ""
                 },
                 {
-                    "nombre": "String feature",
+                    "nombre": "String version",
                     "description": ""
                 }
             ]
@@ -202,11 +202,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String namespaceURI",
+                    "nombre": "String localName",
                     "description": ""
                 },
                 {
-                    "nombre": "String localName",
+                    "nombre": "String namespaceURI",
                     "description": ""
                 }
             ]
@@ -220,11 +220,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Node newChild",
+                    "nombre": "Node refChild",
                     "description": ""
                 },
                 {
-                    "nombre": "Node refChild",
+                    "nombre": "Node newChild",
                     "description": ""
                 }
             ]
@@ -264,11 +264,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String version",
+                    "nombre": "String feature",
                     "description": ""
                 },
                 {
-                    "nombre": "String feature",
+                    "nombre": "String version",
                     "description": ""
                 }
             ]
@@ -302,11 +302,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String namespaceURI",
+                    "nombre": "String localName",
                     "description": ""
                 },
                 {
-                    "nombre": "String localName",
+                    "nombre": "String namespaceURI",
                     "description": ""
                 }
             ]
@@ -326,11 +326,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Node newChild",
+                    "nombre": "Node oldChild",
                     "description": ""
                 },
                 {
-                    "nombre": "Node oldChild",
+                    "nombre": "Node newChild",
                     "description": ""
                 }
             ]
@@ -350,11 +350,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String qualifiedName",
+                    "nombre": "String value",
                     "description": ""
                 },
                 {
-                    "nombre": "String value",
+                    "nombre": "String qualifiedName",
                     "description": ""
                 },
                 {
@@ -396,15 +396,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String namespaceURI",
-                    "description": ""
-                },
-                {
                     "nombre": "String localName",
                     "description": ""
                 },
                 {
                     "nombre": "boolean isId",
+                    "description": ""
+                },
+                {
+                    "nombre": "String namespaceURI",
                     "description": ""
                 }
             ]
@@ -444,11 +444,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "UserDataHandler handler",
+                    "nombre": "String key",
                     "description": ""
                 },
                 {
-                    "nombre": "String key",
+                    "nombre": "UserDataHandler handler",
                     "description": ""
                 },
                 {

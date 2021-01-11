@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AffineTransform xform",
-                    "description": ""
-                },
-                {
                     "nombre": "RenderingHints hints",
                     "description": ""
                 },
                 {
                     "nombre": "int interpolationType",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform xform",
                     "description": ""
                 }
             ]
@@ -52,7 +52,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "WritableRaster dst",
+                    "nombre": "Raster src",
                     "description": ""
                 },
                 {
@@ -60,7 +60,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Raster src",
+                    "nombre": "WritableRaster dst",
                     "description": ""
                 },
                 {
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BufferedImage src",
+                    "nombre": "Raster src",
                     "description": ""
                 },
                 {
-                    "nombre": "Raster src",
+                    "nombre": "BufferedImage src",
                     "description": ""
                 }
             ]
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point2D dstPt",
+                    "nombre": "Point2D srcPt",
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D srcPt",
+                    "nombre": "Point2D dstPt",
                     "description": ""
                 }
             ]

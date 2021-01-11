@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String minLabel",
+                    "nombre": "float initialValue",
                     "description": ""
                 },
                 {
-                    "nombre": "float minimum",
+                    "nombre": "float maximum",
                     "description": ""
                 },
                 {
@@ -20,15 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float initialValue",
+                    "nombre": "FloatControl.Type type",
                     "description": ""
                 },
                 {
                     "nombre": "String maxLabel",
-                    "description": ""
-                },
-                {
-                    "nombre": "String midLabel",
                     "description": ""
                 },
                 {
@@ -40,11 +36,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float maximum",
+                    "nombre": "float minimum",
                     "description": ""
                 },
                 {
-                    "nombre": "FloatControl.Type type",
+                    "nombre": "String midLabel",
+                    "description": ""
+                },
+                {
+                    "nombre": "String minLabel",
                     "description": ""
                 }
             ]
@@ -106,11 +106,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int microseconds",
+                    "nombre": "float to",
                     "description": ""
                 },
                 {
-                    "nombre": "float to",
+                    "nombre": "int microseconds",
                     "description": ""
                 }
             ]

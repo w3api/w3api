@@ -42,7 +42,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String qName",
+                    "nombre": "String uri",
                     "description": ""
                 },
                 {
@@ -50,7 +50,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String uri",
+                    "nombre": "String qName",
                     "description": ""
                 }
             ]
@@ -88,11 +88,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputSource input",
+                    "nombre": "String systemId",
                     "description": ""
                 },
                 {
-                    "nombre": "String systemId",
+                    "nombre": "InputSource input",
                     "description": ""
                 }
             ]
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String target",
+                    "nombre": "String data",
                     "description": ""
                 },
                 {
-                    "nombre": "String data",
+                    "nombre": "String target",
                     "description": ""
                 }
             ]
@@ -190,11 +190,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String qName",
-                    "description": ""
-                },
-                {
-                    "nombre": "String localName",
+                    "nombre": "Attributes atts",
                     "description": ""
                 },
                 {
@@ -202,7 +198,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Attributes atts",
+                    "nombre": "String localName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String qName",
                     "description": ""
                 }
             ]
@@ -212,11 +212,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String prefix",
+                    "nombre": "String uri",
                     "description": ""
                 },
                 {
-                    "nombre": "String uri",
+                    "nombre": "String prefix",
                     "description": ""
                 }
             ]

@@ -12,15 +12,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Callable<V> callable",
+                    "description": ""
+                },
+                {
                     "nombre": "Runnable command",
                     "description": ""
                 },
                 {
                     "nombre": "TimeUnit unit",
-                    "description": ""
-                },
-                {
-                    "nombre": "Callable<V> callable",
                     "description": ""
                 }
             ]
@@ -29,6 +29,10 @@
             "nombre": "scheduleAtFixedRate",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "long period",
+                    "description": ""
+                },
                 {
                     "nombre": "long initialDelay",
                     "description": ""
@@ -39,10 +43,6 @@
                 },
                 {
                     "nombre": "TimeUnit unit",
-                    "description": ""
-                },
-                {
-                    "nombre": "long period",
                     "description": ""
                 }
             ]

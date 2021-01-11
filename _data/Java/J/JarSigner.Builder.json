@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PrivateKey privateKey",
+                    "nombre": "CertPath certPath",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CertPath certPath",
+                    "nombre": "PrivateKey privateKey",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BiConsumer<String",
+                    "nombre": "String> handler",
                     "description": ""
                 },
                 {
-                    "nombre": "String> handler",
+                    "nombre": "BiConsumer<String",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String value",
+                    "nombre": "String key",
                     "description": ""
                 },
                 {
-                    "nombre": "String key",
+                    "nombre": "String value",
                     "description": ""
                 }
             ]

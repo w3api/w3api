@@ -12,11 +12,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<? extends Annotation> a",
+                    "nombre": "TypeElement a",
                     "description": ""
                 },
                 {
-                    "nombre": "TypeElement a",
+                    "nombre": "Class<? extends Annotation> a",
                     "description": ""
                 }
             ]
@@ -26,11 +26,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TypeElement... annotations",
+                    "nombre": "Set<Class<? extends Annotation>> annotations",
                     "description": ""
                 },
                 {
-                    "nombre": "Set<Class<? extends Annotation>> annotations",
+                    "nombre": "TypeElement... annotations",
                     "description": ""
                 }
             ]

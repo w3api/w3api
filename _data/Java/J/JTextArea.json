@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "code": "",
+    "description": "JTextArea es un componente de texto multi-l\u00ednea.\n",
+    "code": "public class FilaColumna extends JFrame {\n\n  private JTextArea editor;\n  private JTextField status;\n\n  public FilaColumna() {\n        \n    setTitle(\"Columna y Fila en un TextArea\");\n    setSize(500,500);\n\n     // Inicializamos el Layout\n    setLayout(new BorderLayout());\n    setDefaultCloseOperation(EXIT_ON_CLOSE);\n\n    editor = new JTextArea();\n    // A\u00f1adimos los campos al Layout\n    add(editor, BorderLayout.CENTER);\n\n    status = new JTextField();\n    add(status, BorderLayout.SOUTH);\n  }\n\n  public static void main(String args[]) {\n    FilaColumna app = new FilaColumna();\n    app.setVisible(true);\n  }\t\n}\n",
     "ldc": [],
     "constructores": [
         {
@@ -12,15 +12,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int rows",
+                    "description": ""
+                },
+                {
                     "nombre": "int columns",
                     "description": ""
                 },
                 {
                     "nombre": "Document doc",
-                    "description": ""
-                },
-                {
-                    "nombre": "int rows",
                     "description": ""
                 }
             ]
@@ -69,23 +69,27 @@
         },
         {
             "nombre": "getLineOfOffset",
-            "description": "",
+            "description": "Transforma un offset de desplazamiento dentro de un componente JTextArea en un n\u00famero de l\u00ednea.\n",
             "parametros": [
                 {
                     "nombre": "int offset",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "editor = new JTextArea();\neditor.addCaretListener(new CaretListener() {           \n   \n  public void caretUpdate(CaretEvent e) {\n \n    JTextArea editArea = (JTextArea)e.getSource();\n\n    int linea = 1;\n    int columna = 1;\n \n     try {\n       int caretpos = editArea.getCaretPosition();\n       linea= editArea.getLineOfOffset(caretpos);\n       columna = caretpos - editArea.getLineStartOffset(linea);\n       linea += 1;\n     } catch(Exception ex) { }\n  }\n \n});\n\nadd(editor, BorderLayout.CENTER);\n",
+            "ldc": []
         },
         {
             "nombre": "getLineStartOffset",
-            "description": "",
+            "description": "Calcula el offset que hay dentro de una determinada l\u00ednea. El offset siempre ser\u00e1 mayor o igual a cero.\n",
             "parametros": [
                 {
                     "nombre": "int line",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "editor = new JTextArea();\neditor.addCaretListener(new CaretListener() {           \n   \n  public void caretUpdate(CaretEvent e) {\n \n    JTextArea editArea = (JTextArea)e.getSource();\n\n    int linea = 1;\n    int columna = 1;\n \n     try {\n       int caretpos = editArea.getCaretPosition();\n       linea= editArea.getLineOfOffset(caretpos);\n       columna = caretpos - editArea.getLineStartOffset(linea);\n       linea += 1;\n     } catch(Exception ex) { }\n  }\n \n});\n\nadd(editor, BorderLayout.CENTER);\n",
+            "ldc": []
         },
         {
             "nombre": "getLineWrap",
@@ -120,11 +124,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int direction",
+                    "nombre": "int orientation",
                     "description": ""
                 },
                 {
-                    "nombre": "int orientation",
+                    "nombre": "int direction",
                     "description": ""
                 }
             ]
@@ -164,15 +168,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
                     "nombre": "int end",
                     "description": ""
                 },
                 {
                     "nombre": "int start",
-                    "description": ""
-                },
-                {
-                    "nombre": "String str",
                     "description": ""
                 }
             ]

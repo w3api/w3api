@@ -8,11 +8,27 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<ObjectName> unregMBeanList",
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<ObjectName> oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "String notifType",
                     "description": ""
                 },
                 {
                     "nombre": "long sequence",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object sourceObj",
+                    "description": ""
+                },
+                {
+                    "nombre": "String message",
                     "description": ""
                 },
                 {
@@ -24,7 +40,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String typeName",
+                    "nombre": "List<ObjectName> unregMBeanList",
                     "description": ""
                 },
                 {
@@ -32,27 +48,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
-                    "description": ""
-                },
-                {
-                    "nombre": "String message",
-                    "description": ""
-                },
-                {
-                    "nombre": "String notifType",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object sourceObj",
-                    "description": ""
-                },
-                {
                     "nombre": "long timeStamp",
                     "description": ""
                 },
                 {
-                    "nombre": "List<ObjectName> oldValue",
+                    "nombre": "String typeName",
                     "description": ""
                 }
             ]

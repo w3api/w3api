@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "public class MiPrimerApplet extends Applet {\n\n private static final long serialVersionUID = 1L;\n \n public MiPrimerApplet() {\n   super();\n }\n\n public void init() {\n   this.setSize(150, 200);\n }\n\n public void paint(Graphics g){\n   g.drawString(\"Este es mi primer applet\",30,30);\n }\n}\n",
     "ldc": [],
     "constructores": [
         {
@@ -81,7 +81,9 @@
         },
         {
             "nombre": "init",
-            "description": ""
+            "description": "Applet\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isActive",
@@ -120,15 +122,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
                 {
                     "nombre": "Dimension d",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -145,13 +147,15 @@
         },
         {
             "nombre": "showStatus",
-            "description": "",
+            "description": "Muestra un mensaje en la barra de estado de la ventana.\n",
             "parametros": [
                 {
                     "nombre": "String msg",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "class ManejoClicks extends MouseAdapter {\n  public void mouseClicked(MouseEvent evt) {\n    if (evt.getClickCount() == 3) {\n      showStatus (\"Se ha producido un triple click\");\n    } else if (evt.getClickCount()==2) {\n      showStatus (\"Se ha producido un doble click\");\n    }\n  }\n}\n",
+            "ldc": []
         },
         {
             "nombre": "start",

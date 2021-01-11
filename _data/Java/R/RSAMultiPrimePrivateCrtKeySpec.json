@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BigInteger publicExponent",
+                    "nombre": "BigInteger primeQ",
                     "description": ""
                 },
                 {
-                    "nombre": "RSAOtherPrimeInfo[] otherPrimeInfo",
+                    "nombre": "BigInteger crtCoefficient",
                     "description": ""
                 },
                 {
@@ -20,11 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger primeQ",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger primeExponentP",
+                    "nombre": "BigInteger publicExponent",
                     "description": ""
                 },
                 {
@@ -36,11 +32,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger privateExponent",
+                    "nombre": "BigInteger primeExponentP",
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger crtCoefficient",
+                    "nombre": "RSAOtherPrimeInfo[] otherPrimeInfo",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger privateExponent",
                     "description": ""
                 }
             ]

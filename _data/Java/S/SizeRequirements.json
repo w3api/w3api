@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pref",
-                    "description": ""
-                },
-                {
-                    "nombre": "int min",
+                    "nombre": "int max",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int max",
+                    "nombre": "int min",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pref",
                     "description": ""
                 }
             ]
@@ -46,11 +46,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SizeRequirements[] children",
+                    "nombre": "int[] spans",
                     "description": ""
                 },
                 {
-                    "nombre": "int allocated",
+                    "nombre": "SizeRequirements total",
+                    "description": ""
+                },
+                {
+                    "nombre": "SizeRequirements[] children",
                     "description": ""
                 },
                 {
@@ -58,15 +62,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] spans",
+                    "nombre": "int allocated",
                     "description": ""
                 },
                 {
                     "nombre": "int[] offsets",
-                    "description": ""
-                },
-                {
-                    "nombre": "SizeRequirements total",
                     "description": ""
                 }
             ]
@@ -76,19 +76,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SizeRequirements[] children",
-                    "description": ""
-                },
-                {
-                    "nombre": "int allocated",
-                    "description": ""
-                },
-                {
                     "nombre": "int[] spans",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] offsets",
                     "description": ""
                 },
                 {
@@ -96,7 +84,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "SizeRequirements[] children",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean forward",
+                    "description": ""
+                },
+                {
+                    "nombre": "int allocated",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
                     "description": ""
                 }
             ]

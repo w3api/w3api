@@ -8,19 +8,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int len",
-                    "description": ""
-                },
-                {
                     "nombre": "Writer w",
                     "description": ""
                 },
                 {
-                    "nombre": "int pos",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
                     "nombre": "StyledDocument doc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -98,11 +98,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean needsIndenting",
+                    "nombre": "Element elem",
                     "description": ""
                 },
                 {
-                    "nombre": "Element elem",
+                    "nombre": "boolean needsIndenting",
                     "description": ""
                 }
             ]

@@ -78,11 +78,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int bufferSize",
+                    "nombre": "HttpResponse.BodyHandler<T> downstreamHandler",
                     "description": ""
                 },
                 {
-                    "nombre": "HttpResponse.BodyHandler<T> downstreamHandler",
+                    "nombre": "int bufferSize",
                     "description": ""
                 }
             ]
@@ -102,19 +102,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Flow.Subscriber<? super List<ByteBuffer>> subscriber",
-                    "description": ""
-                },
-                {
                     "nombre": "S subscriber",
                     "description": ""
                 },
                 {
-                    "nombre": "T> finisher",
+                    "nombre": "Function<S",
                     "description": ""
                 },
                 {
-                    "nombre": "Function<S",
+                    "nombre": "Flow.Subscriber<? super List<ByteBuffer>> subscriber",
+                    "description": ""
+                },
+                {
+                    "nombre": "T> finisher",
                     "description": ""
                 }
             ]

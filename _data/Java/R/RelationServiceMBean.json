@@ -28,11 +28,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String relationTypeName",
+                    "nombre": "String roleName",
                     "description": ""
                 },
                 {
-                    "nombre": "String roleName",
+                    "nombre": "String relationTypeName",
                     "description": ""
                 }
             ]
@@ -42,11 +42,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Boolean initFlag",
+                    "nombre": "Role role",
                     "description": ""
                 },
                 {
-                    "nombre": "Role role",
+                    "nombre": "Boolean initFlag",
                     "description": ""
                 },
                 {
@@ -60,15 +60,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String relationId",
-                    "description": ""
-                },
-                {
                     "nombre": "RoleList roleList",
                     "description": ""
                 },
                 {
                     "nombre": "String relationTypeName",
+                    "description": ""
+                },
+                {
+                    "nombre": "String relationId",
                     "description": ""
                 }
             ]
@@ -180,11 +180,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String relationId",
+                    "nombre": "String roleName",
                     "description": ""
                 },
                 {
-                    "nombre": "String roleName",
+                    "nombre": "String relationId",
                     "description": ""
                 }
             ]
@@ -194,11 +194,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String relationId",
+                    "nombre": "String roleName",
                     "description": ""
                 },
                 {
-                    "nombre": "String roleName",
+                    "nombre": "String relationId",
                     "description": ""
                 }
             ]
@@ -208,11 +208,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String relationTypeName",
+                    "nombre": "String roleInfoName",
                     "description": ""
                 },
                 {
-                    "nombre": "String roleInfoName",
+                    "nombre": "String relationTypeName",
                     "description": ""
                 }
             ]
@@ -232,11 +232,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String relationId",
+                    "nombre": "String[] roleNameArray",
                     "description": ""
                 },
                 {
-                    "nombre": "String[] roleNameArray",
+                    "nombre": "String relationId",
                     "description": ""
                 }
             ]
@@ -328,15 +328,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "List<ObjectName> oldRoleValue",
+                    "description": ""
+                },
+                {
                     "nombre": "String relationId",
                     "description": ""
                 },
                 {
                     "nombre": "Role newRole",
-                    "description": ""
-                },
-                {
-                    "nombre": "List<ObjectName> oldRoleValue",
                     "description": ""
                 }
             ]
@@ -356,11 +356,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String relationId",
+                    "nombre": "Role role",
                     "description": ""
                 },
                 {
-                    "nombre": "Role role",
+                    "nombre": "String relationId",
                     "description": ""
                 }
             ]
@@ -370,11 +370,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String relationId",
+                    "nombre": "RoleList roleList",
                     "description": ""
                 },
                 {
-                    "nombre": "RoleList roleList",
+                    "nombre": "String relationId",
                     "description": ""
                 }
             ]
@@ -384,15 +384,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "List<ObjectName> oldRoleValue",
+                    "description": ""
+                },
+                {
                     "nombre": "String relationId",
                     "description": ""
                 },
                 {
                     "nombre": "Role newRole",
-                    "description": ""
-                },
-                {
-                    "nombre": "List<ObjectName> oldRoleValue",
                     "description": ""
                 }
             ]

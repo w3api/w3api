@@ -86,6 +86,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "JapaneseEra era",
+                    "description": ""
+                },
+                {
                     "nombre": "int month",
                     "description": ""
                 },
@@ -95,10 +99,6 @@
                 },
                 {
                     "nombre": "int prolepticYear",
-                    "description": ""
-                },
-                {
-                    "nombre": "JapaneseEra era",
                     "description": ""
                 },
                 {
@@ -112,15 +112,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "long amountToAdd",
+                    "description": ""
+                },
+                {
                     "nombre": "TemporalUnit unit",
                     "description": ""
                 },
                 {
                     "nombre": "TemporalAmount amount",
-                    "description": ""
-                },
-                {
-                    "nombre": "long amountToAdd",
                     "description": ""
                 }
             ]
@@ -148,7 +148,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TemporalAdjuster adjuster",
+                    "nombre": "long value",
                     "description": ""
                 },
                 {
@@ -156,7 +156,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long value",
+                    "nombre": "TemporalAdjuster adjuster",
                     "description": ""
                 }
             ]

@@ -58,11 +58,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -82,6 +82,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
                     "nombre": "int h",
                     "description": ""
                 },
@@ -90,11 +94,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "int off",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -106,15 +106,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "ColorModel model",
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "ColorModel model",
                     "description": ""
                 }
             ]
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "?> props",
+                    "nombre": "Hashtable<?",
                     "description": ""
                 },
                 {
-                    "nombre": "Hashtable<?",
+                    "nombre": "?> props",
                     "description": ""
                 }
             ]

@@ -18,11 +18,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Appendable appendable",
+                    "nombre": "TemporalAccessor temporal",
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAccessor temporal",
+                    "nombre": "Appendable appendable",
                     "description": ""
                 }
             ]
@@ -80,11 +80,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "FormatStyle dateStyle",
+                    "nombre": "FormatStyle timeStyle",
                     "description": ""
                 },
                 {
-                    "nombre": "FormatStyle timeStyle",
+                    "nombre": "FormatStyle dateStyle",
                     "description": ""
                 }
             ]
@@ -104,11 +104,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String pattern",
+                    "nombre": "Locale locale",
                     "description": ""
                 },
                 {
-                    "nombre": "Locale locale",
+                    "nombre": "String pattern",
                     "description": ""
                 }
             ]
@@ -118,7 +118,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TemporalQuery<T> query",
+                    "nombre": "CharSequence text",
                     "description": ""
                 },
                 {
@@ -126,7 +126,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence text",
+                    "nombre": "TemporalQuery<T> query",
                     "description": ""
                 }
             ]
@@ -136,11 +136,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TemporalQuery<?>... queries",
+                    "nombre": "CharSequence text",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence text",
+                    "nombre": "TemporalQuery<?>... queries",
                     "description": ""
                 }
             ]
@@ -158,11 +158,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ParsePosition position",
+                    "nombre": "CharSequence text",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence text",
+                    "nombre": "ParsePosition position",
                     "description": ""
                 }
             ]
@@ -216,11 +216,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TemporalField... resolverFields",
+                    "nombre": "Set<TemporalField> resolverFields",
                     "description": ""
                 },
                 {
-                    "nombre": "Set<TemporalField> resolverFields",
+                    "nombre": "TemporalField... resolverFields",
                     "description": ""
                 }
             ]

@@ -14,19 +14,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object newValue",
-                    "description": ""
-                },
-                {
                     "nombre": "Object oldValue",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean newValue",
+                    "nombre": "Object newValue",
                     "description": ""
                 },
                 {
                     "nombre": "String propertyName",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean newValue",
                     "description": ""
                 },
                 {
@@ -40,11 +40,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int row",
+                    "nombre": "int column",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean hasFocus",
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
                     "description": ""
                 },
                 {
@@ -56,11 +60,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int column",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object value",
+                    "nombre": "boolean hasFocus",
                     "description": ""
                 }
             ]
@@ -78,10 +78,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle r",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
@@ -94,11 +90,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long tm",
+                    "nombre": "Rectangle r",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "long tm",
                     "description": ""
                 }
             ]

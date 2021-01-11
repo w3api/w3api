@@ -8,7 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Map.Entry<? extends K",
+                    "nombre": "? extends V> entry",
+                    "description": ""
+                },
+                {
+                    "nombre": "V value",
                     "description": ""
                 },
                 {
@@ -16,11 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? extends V> entry",
-                    "description": ""
-                },
-                {
-                    "nombre": "V value",
+                    "nombre": "Map.Entry<? extends K",
                     "description": ""
                 }
             ]

@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "code": "",
+    "description": "Objeto que nos permite hacer una lectura y escritura de caracteres por consola.\n",
+    "code": "String answer = \"\";\nConsole console = null;\ntry {\n console = System.console();\n if (console\u00a0!= null) {\n   answer = console.readLine(msg);\n }\t\t\n} catch (Exception ex) {}\n",
     "ldc": [],
     "metodos": [
         {
@@ -41,7 +41,7 @@
         },
         {
             "nombre": "readLine",
-            "description": "",
+            "description": "Lee una l\u00ednea de texto de la consola.\n",
             "parametros": [
                 {
                     "nombre": "Object... args",
@@ -51,11 +51,13 @@
                     "nombre": "String fmt",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "String answer = \"\";\nConsole console = null;\ntry {\n console = System.console();\n if (console\u00a0!= null) {\n   answer = console.readLine(msg);\n }\t\t\n} catch (Exception ex) {}\n",
+            "ldc": []
         },
         {
             "nombre": "readPassword",
-            "description": "",
+            "description": "Lee una contrase\u00f1a de la consola sin hacer eco de la misma. Es decir, mientras el usuario la escribe no se ven los caracteres que est\u00e1 introduciendo.\n",
             "parametros": [
                 {
                     "nombre": "Object... args",
@@ -65,7 +67,9 @@
                     "nombre": "String fmt",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "String answer = \"\";\nConsole console = null;\ntry {\n console = System.console();\n if (console\u00a0!= null) {\n   answer = console.readPassword(msg);\n }\t\t\n} catch (Exception ex) {}\n",
+            "ldc": []
         },
         {
             "nombre": "writer",

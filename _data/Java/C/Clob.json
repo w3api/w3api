@@ -30,11 +30,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "long pos",
                     "description": ""
                 },
                 {
-                    "nombre": "long pos",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -48,11 +48,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Clob searchstr",
+                    "nombre": "String searchstr",
                     "description": ""
                 },
                 {
-                    "nombre": "String searchstr",
+                    "nombre": "Clob searchstr",
                     "description": ""
                 },
                 {
@@ -86,10 +86,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "String str",
                     "description": ""
                 },
@@ -99,6 +95,10 @@
                 },
                 {
                     "nombre": "long pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]

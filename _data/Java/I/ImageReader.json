@@ -62,15 +62,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ImageReadParam param",
-                    "description": ""
-                },
-                {
                     "nombre": "int numDstBands",
                     "description": ""
                 },
                 {
                     "nombre": "int numSrcBands",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageReadParam param",
                     "description": ""
                 }
             ]
@@ -84,11 +84,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle srcRegion",
-                    "description": ""
-                },
-                {
-                    "nombre": "BufferedImage image",
+                    "nombre": "ImageReadParam param",
                     "description": ""
                 },
                 {
@@ -96,15 +92,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle destRegion",
-                    "description": ""
-                },
-                {
-                    "nombre": "ImageReadParam param",
+                    "nombre": "BufferedImage image",
                     "description": ""
                 },
                 {
                     "nombre": "int srcWidth",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle destRegion",
+                    "description": ""
+                },
+                {
+                    "nombre": "Rectangle srcRegion",
                     "description": ""
                 }
             ]
@@ -136,11 +136,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Iterator<ImageTypeSpecifier> imageTypes",
-                    "description": ""
-                },
-                {
-                    "nombre": "ImageReadParam param",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
@@ -148,7 +144,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "ImageReadParam param",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterator<ImageTypeSpecifier> imageTypes",
                     "description": ""
                 }
             ]
@@ -172,15 +172,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Set<String> nodeNames",
+                    "description": ""
+                },
+                {
                     "nombre": "String formatName",
                     "description": ""
                 },
                 {
                     "nombre": "int imageIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "Set<String> nodeNames",
                     "description": ""
                 }
             ]
@@ -246,7 +246,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ImageReadParam param",
+                    "nombre": "int srcHeight",
                     "description": ""
                 },
                 {
@@ -254,7 +254,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int srcHeight",
+                    "nombre": "ImageReadParam param",
                     "description": ""
                 }
             ]
@@ -264,11 +264,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String formatName",
+                    "nombre": "Set<String> nodeNames",
                     "description": ""
                 },
                 {
-                    "nombre": "Set<String> nodeNames",
+                    "nombre": "String formatName",
                     "description": ""
                 }
             ]
@@ -278,11 +278,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int thumbnailIndex",
+                    "nombre": "int imageIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int imageIndex",
+                    "nombre": "int thumbnailIndex",
                     "description": ""
                 }
             ]
@@ -292,11 +292,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int thumbnailIndex",
+                    "nombre": "int imageIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int imageIndex",
+                    "nombre": "int thumbnailIndex",
                     "description": ""
                 }
             ]
@@ -418,7 +418,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int periodX",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
@@ -426,7 +426,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] bands",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
@@ -438,7 +438,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int[] bands",
                     "description": ""
                 },
                 {
@@ -446,7 +446,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int periodX",
                     "description": ""
                 }
             ]
@@ -466,11 +466,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int periodX",
-                    "description": ""
-                },
-                {
-                    "nombre": "int maxPass",
+                    "nombre": "int pass",
                     "description": ""
                 },
                 {
@@ -482,10 +478,6 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] bands",
-                    "description": ""
-                },
-                {
                     "nombre": "int minY",
                     "description": ""
                 },
@@ -494,11 +486,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int[] bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "int maxPass",
+                    "description": ""
+                },
+                {
                     "nombre": "BufferedImage theImage",
                     "description": ""
                 },
                 {
-                    "nombre": "int pass",
+                    "nombre": "int periodX",
                     "description": ""
                 }
             ]
@@ -540,23 +540,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int periodX",
-                    "description": ""
-                },
-                {
-                    "nombre": "int maxPass",
-                    "description": ""
-                },
-                {
                     "nombre": "int minX",
                     "description": ""
                 },
                 {
-                    "nombre": "int minPass",
+                    "nombre": "int pass",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] bands",
+                    "nombre": "BufferedImage theThumbnail",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minPass",
                     "description": ""
                 },
                 {
@@ -568,11 +564,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BufferedImage theThumbnail",
+                    "nombre": "int maxPass",
                     "description": ""
                 },
                 {
-                    "nombre": "int pass",
+                    "nombre": "int[] bands",
+                    "description": ""
+                },
+                {
+                    "nombre": "int periodX",
                     "description": ""
                 }
             ]
@@ -592,11 +592,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int thumbnailIndex",
+                    "nombre": "int imageIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int imageIndex",
+                    "nombre": "int thumbnailIndex",
                     "description": ""
                 }
             ]
@@ -606,7 +606,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int periodX",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
@@ -614,7 +614,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] bands",
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "BufferedImage theThumbnail",
                     "description": ""
                 },
                 {
@@ -626,15 +630,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BufferedImage theThumbnail",
+                    "nombre": "int[] bands",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
+                    "nombre": "int periodX",
                     "description": ""
                 }
             ]
@@ -648,11 +648,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String warning",
+                    "nombre": "String keyword",
                     "description": ""
                 },
                 {
-                    "nombre": "String keyword",
+                    "nombre": "String warning",
                     "description": ""
                 }
             ]
@@ -676,15 +676,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Iterator<? extends ImageReadParam> params",
-                    "description": ""
-                },
-                {
                     "nombre": "ImageReadParam param",
                     "description": ""
                 },
                 {
                     "nombre": "int imageIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterator<? extends ImageReadParam> params",
                     "description": ""
                 }
             ]
@@ -726,11 +726,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int thumbnailIndex",
+                    "nombre": "int imageIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int imageIndex",
+                    "nombre": "int thumbnailIndex",
                     "description": ""
                 }
             ]
@@ -740,11 +740,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int tileX",
+                    "nombre": "int tileY",
                     "description": ""
                 },
                 {
-                    "nombre": "int tileY",
+                    "nombre": "int tileX",
                     "description": ""
                 },
                 {
@@ -758,11 +758,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int tileX",
+                    "nombre": "int tileY",
                     "description": ""
                 },
                 {
-                    "nombre": "int tileY",
+                    "nombre": "int tileX",
                     "description": ""
                 },
                 {
@@ -822,11 +822,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean seekForwardOnly",
+                    "nombre": "Object input",
                     "description": ""
                 },
                 {
-                    "nombre": "Object input",
+                    "nombre": "boolean seekForwardOnly",
                     "description": ""
                 },
                 {

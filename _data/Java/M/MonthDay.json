@@ -158,15 +158,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
                     "nombre": "int dayOfMonth",
                     "description": ""
                 },
                 {
                     "nombre": "Month month",
-                    "description": ""
-                },
-                {
-                    "nombre": "int month",
                     "description": ""
                 }
             ]
@@ -176,11 +176,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DateTimeFormatter formatter",
+                    "nombre": "CharSequence text",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence text",
+                    "nombre": "DateTimeFormatter formatter",
                     "description": ""
                 }
             ]

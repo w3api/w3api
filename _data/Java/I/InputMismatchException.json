@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "List<Integer> lista = new ArrayList<Integer>();\nScanner reader = new Scanner(System.in);\nSystem.out.println(\"Introduce n\u00fameros. El cero para salir\");\t\t\t\n\nint numero = 0;\ndo {\n  try {\n    numero = reader.nextInt();\n    lista.add(numero);\n  } catch (InputMismatchException ime){\n    System.out.println(\"\u00a1Cuidado! Solo puedes insertar n\u00fameros. \");\n    reader.next();\n  }\t\t\t\n} while (numero!=0);\n",
     "ldc": [],
     "constructores": [
         {

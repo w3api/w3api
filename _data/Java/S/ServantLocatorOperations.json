@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Servant the_servant",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object the_cookie",
+                    "nombre": "byte[] oid",
                     "description": ""
                 },
                 {
@@ -20,11 +16,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Object the_cookie",
+                    "description": ""
+                },
+                {
                     "nombre": "POA adapter",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] oid",
+                    "nombre": "Servant the_servant",
                     "description": ""
                 }
             ]
@@ -34,7 +34,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String operation",
+                    "nombre": "CookieHolder the_cookie",
                     "description": ""
                 },
                 {
@@ -42,7 +42,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CookieHolder the_cookie",
+                    "nombre": "String operation",
                     "description": ""
                 },
                 {

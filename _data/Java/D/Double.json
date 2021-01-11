@@ -1,18 +1,23 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "La clase Double representa a un n\u00famero double.\n",
+    "code": "Double d = new Double(\"10.15\");\nint i = d.intValue();\nSystem.out.println(d.toString());\n",
+    "ldc": [
+        {
+            "nombre": "Calcular el volumen de un cubo con Java",
+            "url": "http://lineadecodigo.com/java/calcular-el-volumen-de-un-cubo-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Double",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String s",
+                    "nombre": "double value",
                     "description": ""
                 },
                 {
-                    "nombre": "double value",
+                    "nombre": "String s",
                     "description": ""
                 }
             ]
@@ -28,11 +33,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double d2",
+                    "nombre": "double d1",
                     "description": ""
                 },
                 {
-                    "nombre": "double d1",
+                    "nombre": "double d2",
                     "description": ""
                 }
             ]
@@ -97,7 +102,9 @@
         },
         {
             "nombre": "intValue",
-            "description": ""
+            "description": "Devuelve el valor del doble como un entero.\n",
+            "code": "Double d = new Double(\"10.15\");\nint i = d.intValue();\n",
+            "ldc": []
         },
         {
             "nombre": "isFinite",
@@ -148,11 +155,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double b",
+                    "nombre": "double a",
                     "description": ""
                 },
                 {
-                    "nombre": "double a",
+                    "nombre": "double b",
                     "description": ""
                 }
             ]
@@ -162,11 +169,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double b",
+                    "nombre": "double a",
                     "description": ""
                 },
                 {
-                    "nombre": "double a",
+                    "nombre": "double b",
                     "description": ""
                 }
             ]
@@ -190,11 +197,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double b",
+                    "nombre": "double a",
                     "description": ""
                 },
                 {
-                    "nombre": "double a",
+                    "nombre": "double b",
                     "description": ""
                 }
             ]
@@ -211,17 +218,19 @@
         },
         {
             "nombre": "toString",
-            "description": "",
+            "description": "Convierte a cadena el tipo double representado por la clase Double.\n",
             "parametros": [
                 {
                     "nombre": "double d",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "Double d = Double.valueOf(\"12.40\");\nSystem.out.println(\"El valor calculado es de \" + d.toString());\n",
+            "ldc": []
         },
         {
             "nombre": "valueOf",
-            "description": "",
+            "description": "Devuelve una objeto Double representado por el valor double o la cadena de texto pasada por par\u00e1metro.\n",
             "parametros": [
                 {
                     "nombre": "String s",
@@ -231,7 +240,9 @@
                     "nombre": "double d",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "Double d = Double.valueOf(\"12.40\");\nint i = Double.valueOf(Math.pow(2,4)).valueOf();\n",
+            "ldc": []
         }
     ],
     "campos": [

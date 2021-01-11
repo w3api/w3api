@@ -28,11 +28,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double centerX",
-                    "description": ""
-                },
-                {
-                    "nombre": "double radiusY",
+                    "nombre": "double centerY",
                     "description": ""
                 },
                 {
@@ -40,15 +36,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double centerX",
+                    "description": ""
+                },
+                {
                     "nombre": "double length",
                     "description": ""
                 },
                 {
-                    "nombre": "double startAngle",
+                    "nombre": "double radiusY",
                     "description": ""
                 },
                 {
-                    "nombre": "double centerY",
+                    "nombre": "double startAngle",
                     "description": ""
                 }
             ]
@@ -58,11 +58,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y1",
+                    "nombre": "double x1",
                     "description": ""
                 },
                 {
-                    "nombre": "double x2",
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
                     "description": ""
                 },
                 {
@@ -70,11 +74,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x1",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y2",
+                    "nombre": "double x2",
                     "description": ""
                 }
             ]
@@ -88,11 +88,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y1",
-                    "description": ""
-                },
-                {
-                    "nombre": "double yc2",
+                    "nombre": "double xc1",
                     "description": ""
                 },
                 {
@@ -104,11 +100,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double yc1",
+                    "nombre": "double yc2",
                     "description": ""
                 },
                 {
-                    "nombre": "double xc1",
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double yc1",
                     "description": ""
                 }
             ]
@@ -118,7 +118,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -126,11 +126,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double w",
+                    "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double w",
                     "description": ""
                 }
             ]
@@ -148,7 +148,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double sh",
+                    "nombre": "double dx",
                     "description": ""
                 },
                 {
@@ -156,19 +156,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
-                    "description": ""
-                },
-                {
-                    "nombre": "double sx",
-                    "description": ""
-                },
-                {
-                    "nombre": "Image img",
-                    "description": ""
-                },
-                {
                     "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sh",
                     "description": ""
                 },
                 {
@@ -176,19 +168,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
                     "nombre": "double y",
-                    "description": ""
-                },
-                {
-                    "nombre": "double sw",
-                    "description": ""
-                },
-                {
-                    "nombre": "double sy",
-                    "description": ""
-                },
-                {
-                    "nombre": "double dy",
                     "description": ""
                 },
                 {
@@ -196,7 +180,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double dx",
+                    "nombre": "Image img",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sw",
+                    "description": ""
+                },
+                {
+                    "nombre": "double dy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double sy",
                     "description": ""
                 }
             ]
@@ -214,6 +214,14 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "ArcType closure",
+                    "description": ""
+                },
+                {
                     "nombre": "double arcExtent",
                     "description": ""
                 },
@@ -222,15 +230,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double w",
-                    "description": ""
-                },
-                {
                     "nombre": "double y",
-                    "description": ""
-                },
-                {
-                    "nombre": "ArcType closure",
                     "description": ""
                 },
                 {
@@ -244,7 +244,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -252,11 +252,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double w",
+                    "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double w",
                     "description": ""
                 }
             ]
@@ -270,11 +270,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double[] xPoints",
+                    "nombre": "double[] yPoints",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] yPoints",
+                    "nombre": "double[] xPoints",
                     "description": ""
                 }
             ]
@@ -284,7 +284,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -292,11 +292,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double w",
+                    "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double w",
                     "description": ""
                 }
             ]
@@ -306,15 +306,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double h",
-                    "description": ""
-                },
-                {
-                    "nombre": "double x",
-                    "description": ""
-                },
-                {
                     "nombre": "double arcHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
                     "description": ""
                 },
                 {
@@ -322,11 +318,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double y",
+                    "nombre": "double arcWidth",
                     "description": ""
                 },
                 {
-                    "nombre": "double arcWidth",
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
                     "description": ""
                 }
             ]
@@ -340,7 +340,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double maxWidth",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -348,7 +348,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double maxWidth",
                     "description": ""
                 }
             ]
@@ -446,11 +446,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double y",
                     "description": ""
                 }
             ]
@@ -474,11 +474,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y0",
+                    "nombre": "double x0",
                     "description": ""
                 },
                 {
-                    "nombre": "double x0",
+                    "nombre": "double y0",
                     "description": ""
                 }
             ]
@@ -488,11 +488,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double xc",
+                    "nombre": "double x1",
                     "description": ""
                 },
                 {
-                    "nombre": "double yc",
+                    "nombre": "double xc",
                     "description": ""
                 },
                 {
@@ -500,7 +500,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x1",
+                    "nombre": "double yc",
                     "description": ""
                 }
             ]
@@ -510,7 +510,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -518,11 +518,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double w",
+                    "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double w",
                     "description": ""
                 }
             ]
@@ -550,11 +550,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double y",
                     "description": ""
                 }
             ]
@@ -724,7 +724,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double mxy",
+                    "nombre": "Affine xform",
                     "description": ""
                 },
                 {
@@ -732,15 +732,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double myx",
-                    "description": ""
-                },
-                {
-                    "nombre": "Affine xform",
-                    "description": ""
-                },
-                {
                     "nombre": "double mxt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
                     "description": ""
                 },
                 {
@@ -748,7 +744,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double mxx",
+                    "nombre": "double mxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myx",
                     "description": ""
                 }
             ]
@@ -766,6 +766,14 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "ArcType closure",
+                    "description": ""
+                },
+                {
                     "nombre": "double arcExtent",
                     "description": ""
                 },
@@ -774,15 +782,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double w",
-                    "description": ""
-                },
-                {
                     "nombre": "double y",
-                    "description": ""
-                },
-                {
-                    "nombre": "ArcType closure",
                     "description": ""
                 },
                 {
@@ -800,7 +800,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double y1",
+                    "nombre": "double x2",
                     "description": ""
                 },
                 {
@@ -808,7 +808,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x2",
+                    "nombre": "double y1",
                     "description": ""
                 }
             ]
@@ -818,7 +818,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -826,11 +826,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double w",
+                    "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double w",
                     "description": ""
                 }
             ]
@@ -844,11 +844,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double[] xPoints",
+                    "nombre": "double[] yPoints",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] yPoints",
+                    "nombre": "double[] xPoints",
                     "description": ""
                 }
             ]
@@ -862,11 +862,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double[] xPoints",
+                    "nombre": "double[] yPoints",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] yPoints",
+                    "nombre": "double[] xPoints",
                     "description": ""
                 }
             ]
@@ -876,7 +876,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -884,11 +884,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double w",
+                    "nombre": "double y",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double w",
                     "description": ""
                 }
             ]
@@ -898,15 +898,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double h",
-                    "description": ""
-                },
-                {
-                    "nombre": "double x",
-                    "description": ""
-                },
-                {
                     "nombre": "double arcHeight",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
                     "description": ""
                 },
                 {
@@ -914,11 +910,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double y",
+                    "nombre": "double arcWidth",
                     "description": ""
                 },
                 {
-                    "nombre": "double arcWidth",
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
                     "description": ""
                 }
             ]
@@ -932,7 +932,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double maxWidth",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -940,7 +940,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double maxWidth",
                     "description": ""
                 }
             ]
@@ -950,7 +950,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double mxy",
+                    "nombre": "Affine xform",
                     "description": ""
                 },
                 {
@@ -958,15 +958,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double myx",
-                    "description": ""
-                },
-                {
-                    "nombre": "Affine xform",
-                    "description": ""
-                },
-                {
                     "nombre": "double mxt",
+                    "description": ""
+                },
+                {
+                    "nombre": "double mxx",
                     "description": ""
                 },
                 {
@@ -974,7 +970,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double mxx",
+                    "nombre": "double mxy",
+                    "description": ""
+                },
+                {
+                    "nombre": "double myx",
                     "description": ""
                 }
             ]
@@ -984,11 +984,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double y",
                     "description": ""
                 }
             ]

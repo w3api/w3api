@@ -22,11 +22,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Position.Bias firstBias",
+                    "nombre": "Position.Bias secondBias",
                     "description": ""
                 },
                 {
-                    "nombre": "Position.Bias secondBias",
+                    "nombre": "Position.Bias firstBias",
                     "description": ""
                 },
                 {
@@ -50,10 +50,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
                     "nombre": "Position.Bias[] biasRet",
                     "description": ""
                 },
@@ -62,11 +58,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JTextComponent t",
+                    "nombre": "int pos",
                     "description": ""
                 },
                 {
                     "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTextComponent t",
                     "description": ""
                 }
             ]
@@ -100,11 +100,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JTextComponent t",
+                    "nombre": "Point2D pt",
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D pt",
+                    "nombre": "JTextComponent t",
                     "description": ""
                 }
             ]
@@ -114,15 +114,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Position.Bias bias",
-                    "description": ""
-                },
-                {
                     "nombre": "JTextComponent t",
                     "description": ""
                 },
                 {
                     "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
                     "description": ""
                 }
             ]
@@ -132,15 +132,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Position.Bias bias",
-                    "description": ""
-                },
-                {
                     "nombre": "JTextComponent t",
                     "description": ""
                 },
                 {
                     "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
                     "description": ""
                 }
             ]
@@ -154,11 +154,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Position.Bias[] biasReturn",
+                    "nombre": "JTextComponent t",
                     "description": ""
                 },
                 {
-                    "nombre": "JTextComponent t",
+                    "nombre": "Position.Bias[] biasReturn",
                     "description": ""
                 }
             ]
@@ -168,7 +168,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Position.Bias[] biasReturn",
+                    "nombre": "Point2D pt",
                     "description": ""
                 },
                 {
@@ -176,7 +176,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D pt",
+                    "nombre": "Position.Bias[] biasReturn",
                     "description": ""
                 }
             ]

@@ -14,11 +14,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -26,7 +22,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -36,11 +36,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -48,7 +44,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -58,15 +58,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dy",
                     "description": ""
                 },
                 {
@@ -75,6 +67,14 @@
                 },
                 {
                     "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dy",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -88,11 +88,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -100,7 +96,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -114,10 +114,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean raised",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
@@ -127,6 +123,10 @@
                 },
                 {
                     "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean raised",
                     "description": ""
                 },
                 {
@@ -148,19 +148,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int arcAngle",
-                    "description": ""
-                },
-                {
                     "nombre": "int y",
                     "description": ""
                 },
                 {
-                    "nombre": "int startAngle",
+                    "nombre": "int arcAngle",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startAngle",
                     "description": ""
                 }
             ]
@@ -170,11 +170,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] data",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -182,11 +178,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] data",
                     "description": ""
                 }
             ]
@@ -196,7 +196,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -208,7 +208,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -222,7 +222,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int dx1",
+                    "nombre": "int sy2",
                     "description": ""
                 },
                 {
@@ -230,15 +230,35 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int dy1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dx2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dx1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int sy1",
+                    "description": ""
+                },
+                {
                     "nombre": "Color bgcolor",
-                    "description": ""
-                },
-                {
-                    "nombre": "int sy2",
-                    "description": ""
-                },
-                {
-                    "nombre": "int sx1",
                     "description": ""
                 },
                 {
@@ -246,7 +266,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -258,27 +278,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int sy1",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dx2",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dy1",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
+                    "nombre": "int sx1",
                     "description": ""
                 }
             ]
@@ -288,7 +288,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y2",
+                    "nombre": "int x1",
                     "description": ""
                 },
                 {
@@ -300,21 +300,17 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x1",
+                    "nombre": "int y2",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "drawOval",
-            "description": "",
+            "description": "M\u00e9todo que nos permite dibujar un \u00f3valo en una posici\u00f3n (x,y) especificando su ancho y alto.\n",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -322,21 +318,27 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "drawPolygon",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int nPoints",
+                    "nombre": "Polygon p",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] yPoints",
+                    "nombre": "int nPoints",
                     "description": ""
                 },
                 {
@@ -344,7 +346,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Polygon p",
+                    "nombre": "int[] yPoints",
                     "description": ""
                 }
             ]
@@ -358,11 +360,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] yPoints",
+                    "nombre": "int[] xPoints",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] xPoints",
+                    "nombre": "int[] yPoints",
                     "description": ""
                 }
             ]
@@ -372,11 +374,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -384,7 +382,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -394,15 +396,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int arcHeight",
-                    "description": ""
-                },
-                {
-                    "nombre": "int arcWidth",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arcHeight",
                     "description": ""
                 },
                 {
@@ -415,6 +413,10 @@
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arcWidth",
                     "description": ""
                 }
             ]
@@ -424,11 +426,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "String str",
                     "description": ""
                 },
                 {
-                    "nombre": "String str",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -436,7 +438,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -445,10 +447,6 @@
             "nombre": "fill3DRect",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "boolean raised",
-                    "description": ""
-                },
                 {
                     "nombre": "int height",
                     "description": ""
@@ -459,6 +457,10 @@
                 },
                 {
                     "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean raised",
                     "description": ""
                 },
                 {
@@ -480,19 +482,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int arcAngle",
-                    "description": ""
-                },
-                {
                     "nombre": "int y",
                     "description": ""
                 },
                 {
-                    "nombre": "int startAngle",
+                    "nombre": "int arcAngle",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startAngle",
                     "description": ""
                 }
             ]
@@ -502,11 +504,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -514,7 +512,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -524,11 +526,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int nPoints",
+                    "nombre": "Polygon p",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] yPoints",
+                    "nombre": "int nPoints",
                     "description": ""
                 },
                 {
@@ -536,7 +538,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Polygon p",
+                    "nombre": "int[] yPoints",
                     "description": ""
                 }
             ]
@@ -546,11 +548,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -558,7 +556,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -568,15 +570,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int arcHeight",
-                    "description": ""
-                },
-                {
-                    "nombre": "int arcWidth",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arcHeight",
                     "description": ""
                 },
                 {
@@ -589,6 +587,10 @@
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int arcWidth",
                     "description": ""
                 }
             ]
@@ -638,11 +640,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -650,7 +648,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -724,11 +726,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]

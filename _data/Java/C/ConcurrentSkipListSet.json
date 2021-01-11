@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Comparator<? super E> comparator",
+                    "nombre": "Collection<? extends E> c",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<? extends E> c",
+                    "nombre": "Comparator<? super E> comparator",
                     "description": ""
                 }
             ]
@@ -172,7 +172,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "E fromElement",
+                    "nombre": "E toElement",
                     "description": ""
                 },
                 {
@@ -180,7 +180,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "E toElement",
+                    "nombre": "E fromElement",
                     "description": ""
                 },
                 {

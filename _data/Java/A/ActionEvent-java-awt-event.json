@@ -1,0 +1,83 @@
+{
+    "description": "",
+    "code": "public class BotonPulsado extends JFrame {\n  \n  private static final long serialVersionUID = 1L;\n  \n  private JLabel etiqueta;\n  private JButton b1, b2, b3;\n     \n  BotonPulsado(){\n     super(\"\u00bfQu\u00e9 bot\u00f3n es Pulsado?\");\n     getContentPane().setLayout(new FlowLayout());   \n     \n     b1 = new JButton(\"Bot\u00f3n 1\");\n     b2 = new JButton(\"Bot\u00f3n 2\");\n     b3 = new JButton(\"Bot\u00f3n 3\");\n           \n     etiqueta = new JLabel(\"\");\n     \n     add(b1);\n     add(b2);\n     add(b3);   \n     add(etiqueta);\n     \n     \n     b1.addActionListener(new BotonPulsadoListener());\n     b2.addActionListener(new BotonPulsadoListener());\n     b3.addActionListener(new BotonPulsadoListener());\n     \n     addWindowListener(new WindowAdapter() {\n        public void windowClosing(WindowEvent e) {\n           System.exit(0);\n        }\n     });\n     \n     setSize(400,300);\n     setVisible(true);\n     \n  }\n  \n  private class BotonPulsadoListener implements ActionListener{      \n     @Override\n     public void actionPerformed(ActionEvent e) {\n        etiqueta.setText(\"Has pulsado el bot\u00f3n \" + e.getActionCommand());         \n     }               \n  }\n   \n  public static void main(String[] args) {\n     new BotonPulsado();\n\n  }\n\n}\n",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "ActionEvent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int modifiers",
+                    "description": ""
+                },
+                {
+                    "nombre": "long when",
+                    "description": ""
+                },
+                {
+                    "nombre": "int id",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
+                    "nombre": "String command",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getActionCommand",
+            "description": "Devuelve el comando asociado a la acci\u00f3n realizada. Por ejemplo, si pulsamos sobre un bot\u00f3n, devuelve el nombre del bot\u00f3n. Se devuelve una cadena String.\n",
+            "code": "public class BotonPulsado extends JFrame {\n  \n  private static final long serialVersionUID = 1L;\n  \n  private JLabel etiqueta;\n  private JButton b1, b2, b3;\n     \n  BotonPulsado(){\n     super(\"\u00bfQu\u00e9 bot\u00f3n es Pulsado?\");\n     getContentPane().setLayout(new FlowLayout());   \n     \n     b1 = new JButton(\"Bot\u00f3n 1\");\n     b2 = new JButton(\"Bot\u00f3n 2\");\n     b3 = new JButton(\"Bot\u00f3n 3\");\n           \n     etiqueta = new JLabel(\"\");\n     \n     add(b1);\n     add(b2);\n     add(b3);   \n     add(etiqueta);\n     \n     \n     b1.addActionListener(new BotonPulsadoListener());\n     b2.addActionListener(new BotonPulsadoListener());\n     b3.addActionListener(new BotonPulsadoListener());\n     \n     addWindowListener(new WindowAdapter() {\n        public void windowClosing(WindowEvent e) {\n           System.exit(0);\n        }\n     });\n     \n     setSize(400,300);\n     setVisible(true);\n     \n  }\n  \n  private class BotonPulsadoListener implements ActionListener{      \n     @Override\n     public void actionPerformed(ActionEvent e) {\n        etiqueta.setText(\"Has pulsado el bot\u00f3n \" + e.getActionCommand());         \n     }               \n  }\n   \n  public static void main(String[] args) {\n     new BotonPulsado();\n\n  }\n\n}\n",
+            "ldc": []
+        },
+        {
+            "nombre": "getModifiers",
+            "description": ""
+        },
+        {
+            "nombre": "getWhen",
+            "description": ""
+        },
+        {
+            "nombre": "paramString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "ACTION_FIRST",
+            "description": ""
+        },
+        {
+            "nombre": "ACTION_LAST",
+            "description": ""
+        },
+        {
+            "nombre": "ACTION_PERFORMED",
+            "description": ""
+        },
+        {
+            "nombre": "ALT_MASK",
+            "description": ""
+        },
+        {
+            "nombre": "CTRL_MASK",
+            "description": ""
+        },
+        {
+            "nombre": "META_MASK",
+            "description": ""
+        },
+        {
+            "nombre": "SHIFT_MASK",
+            "description": ""
+        }
+    ]
+}

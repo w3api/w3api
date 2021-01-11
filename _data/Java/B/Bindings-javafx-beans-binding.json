@@ -1,0 +1,1613 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "metodos": [
+        {
+            "nombre": "add",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "and",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableBooleanValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableBooleanValue op2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bindBidirectional",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Property<T> property2",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                },
+                {
+                    "nombre": "Property<T> property1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Property<?> otherProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "Property<T> otherProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "Property<String> stringProperty",
+                    "description": ""
+                },
+                {
+                    "nombre": "Format format",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bindContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableSet<? extends E> set2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<? extends K",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<? extends E> list2",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<E> list1",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> map2",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> map1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<E> set1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "bindContentBidirectional",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableList<E> list2",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> map2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableSet<E> set2",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> map1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<E> list1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableSet<E> set1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "booleanValueAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Boolean> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<? extends K> key",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableIntegerValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<Boolean> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "concat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object... args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "convert",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableValue<?> observableValue",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createBooleanBinding",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callable<Boolean> func",
+                    "description": ""
+                },
+                {
+                    "nombre": "Observable... dependencies",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createDoubleBinding",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Callable<Double> func",
+                    "description": ""
+                },
+                {
+                    "nombre": "Observable... dependencies",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createFloatBinding",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Observable... dependencies",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<Float> func",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createIntegerBinding",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Observable... dependencies",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<Integer> func",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createLongBinding",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Observable... dependencies",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<Long> func",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createObjectBinding",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Observable... dependencies",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<T> func",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "createStringBinding",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Observable... dependencies",
+                    "description": ""
+                },
+                {
+                    "nombre": "Callable<String> func",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "divide",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "doubleValueAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends Number> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<? extends K> key",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<? extends Number> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableIntegerValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equal",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableObjectValue<?> op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableObjectValue<?> op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double epsilon",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableBooleanValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableBooleanValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equalIgnoreCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableStringValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "floatValueAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends Number> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<? extends K> key",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableFloatArray op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<? extends Number> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableIntegerValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "format",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String format",
+                    "description": ""
+                },
+                {
+                    "nombre": "Locale locale",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... args",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "greaterThan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "greaterThanOrEqual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "integerValueAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableIntegerArray op",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends Number> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<? extends K> key",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<? extends Number> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableIntegerValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEmpty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableStringValue op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableSet<E> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<E> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNotEmpty",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableStringValue op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableSet<E> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<E> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNotNull",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableObjectValue<?> op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isNull",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableObjectValue<?> op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "length",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableStringValue op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lessThan",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "lessThanOrEqual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "longValueAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "? extends Number> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<? extends K> key",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<? extends Number> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableIntegerValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "max",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "min",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "multiply",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "negate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableNumberValue value",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "not",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableBooleanValue op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "notEqual",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableObjectValue<?> op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableObjectValue<?> op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double epsilon",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableBooleanValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableBooleanValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "notEqualIgnoreCase",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableStringValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableStringValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "String op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "or",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableBooleanValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableBooleanValue op2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "select",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String... steps",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object root",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<?> root",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectBoolean",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String... steps",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object root",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<?> root",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectDouble",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String... steps",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object root",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<?> root",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectFloat",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String... steps",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object root",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<?> root",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectInteger",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String... steps",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object root",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<?> root",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectLong",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String... steps",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object root",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<?> root",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "selectString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String... steps",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object root",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<?> root",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "size",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableSet<E> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<E> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableArray op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> op",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "stringValueAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableNumberValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<? extends K> key",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableIntegerValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<String> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "String> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "subtract",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "long op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableNumberValue op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "int op2",
+                    "description": ""
+                },
+                {
+                    "nombre": "long op1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float op1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unbindBidirectional",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Property<T> property2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object property1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object property2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Property<T> property1",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unbindContent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "unbindContentBidirectional",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj1",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj2",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "valueAt",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableNumberValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableList<E> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<? extends K> key",
+                    "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableIntegerValue index",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableMap<K",
+                    "description": ""
+                },
+                {
+                    "nombre": "V> op",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "when",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ObservableBooleanValue condition",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "Locale localBrasil = new Locale(\"pt\",\"BR\");\nDateFormat df = DateFormat.getDateInstance(DateFormat.LONG, localBrasil);\nDate fecha = new Date();\nSystem.out.println(df.format(fecha));\n",
     "ldc": [],
     "constructores": [
         {
@@ -28,7 +28,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "StringBuffer toAppendTo",
+                    "nombre": "FieldPosition fieldPosition",
                     "description": ""
                 },
                 {
@@ -36,11 +36,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Date date",
+                    "nombre": "StringBuffer toAppendTo",
                     "description": ""
                 },
                 {
-                    "nombre": "FieldPosition fieldPosition",
+                    "nombre": "Date date",
                     "description": ""
                 }
             ]
@@ -55,7 +55,7 @@
         },
         {
             "nombre": "getDateInstance",
-            "description": "",
+            "description": "M\u00e9todo que aplica un formato a una fecha. Para ello le podemos indicar el estilo o el Locale a aplicar.\n",
             "parametros": [
                 {
                     "nombre": "Locale aLocale",
@@ -65,7 +65,9 @@
                     "nombre": "int style",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "Locale localBrasil = new Locale(\"pt\",\"BR\");\nDateFormat df = DateFormat.getDateInstance(DateFormat.LONG, localBrasil);\nDate fecha = new Date();\nSystem.out.println(df.format(fecha));\n",
+            "ldc": []
         },
         {
             "nombre": "getDateTimeInstance",
@@ -76,11 +78,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int timeStyle",
+                    "nombre": "int dateStyle",
                     "description": ""
                 },
                 {
-                    "nombre": "int dateStyle",
+                    "nombre": "int timeStyle",
                     "description": ""
                 }
             ]
@@ -124,11 +126,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ParsePosition pos",
+                    "nombre": "String source",
                     "description": ""
                 },
                 {
-                    "nombre": "String source",
+                    "nombre": "ParsePosition pos",
                     "description": ""
                 }
             ]
@@ -138,11 +140,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ParsePosition pos",
+                    "nombre": "String source",
                     "description": ""
                 },
                 {
-                    "nombre": "String source",
+                    "nombre": "ParsePosition pos",
                     "description": ""
                 }
             ]

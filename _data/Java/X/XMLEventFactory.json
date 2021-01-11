@@ -18,19 +18,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String value",
-                    "description": ""
-                },
-                {
-                    "nombre": "String prefix",
-                    "description": ""
-                },
-                {
                     "nombre": "String localName",
                     "description": ""
                 },
                 {
                     "nombre": "String namespaceURI",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
                     "description": ""
                 }
             ]
@@ -84,15 +84,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String namespaceUri",
-                    "description": ""
-                },
-                {
                     "nombre": "QName name",
-                    "description": ""
-                },
-                {
-                    "nombre": "String prefix",
                     "description": ""
                 },
                 {
@@ -100,7 +92,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String namespaceUri",
+                    "description": ""
+                },
+                {
                     "nombre": "Iterator<? extends Namespace> namespaces",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prefix",
                     "description": ""
                 }
             ]
@@ -138,11 +138,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String namespaceURI",
+                    "nombre": "String prefix",
                     "description": ""
                 },
                 {
-                    "nombre": "String prefix",
+                    "nombre": "String namespaceURI",
                     "description": ""
                 }
             ]
@@ -152,11 +152,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String target",
+                    "nombre": "String data",
                     "description": ""
                 },
                 {
-                    "nombre": "String data",
+                    "nombre": "String target",
                     "description": ""
                 }
             ]
@@ -180,11 +180,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String version",
+                    "nombre": "String encoding",
                     "description": ""
                 },
                 {
-                    "nombre": "String encoding",
+                    "nombre": "String version",
                     "description": ""
                 }
             ]
@@ -194,15 +194,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String namespaceUri",
-                    "description": ""
-                },
-                {
                     "nombre": "QName name",
-                    "description": ""
-                },
-                {
-                    "nombre": "String prefix",
                     "description": ""
                 },
                 {
@@ -210,15 +202,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String namespaceUri",
+                    "description": ""
+                },
+                {
                     "nombre": "Iterator<? extends Namespace> namespaces",
                     "description": ""
                 },
                 {
-                    "nombre": "Iterator<? extends Attribute> attributes",
+                    "nombre": "NamespaceContext context",
                     "description": ""
                 },
                 {
-                    "nombre": "NamespaceContext context",
+                    "nombre": "String prefix",
+                    "description": ""
+                },
+                {
+                    "nombre": "Iterator<? extends Attribute> attributes",
                     "description": ""
                 }
             ]
@@ -232,11 +232,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ClassLoader classLoader",
+                    "nombre": "String factoryId",
                     "description": ""
                 },
                 {
-                    "nombre": "String factoryId",
+                    "nombre": "ClassLoader classLoader",
                     "description": ""
                 }
             ]
@@ -246,11 +246,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ClassLoader classLoader",
+                    "nombre": "String factoryId",
                     "description": ""
                 },
                 {
-                    "nombre": "String factoryId",
+                    "nombre": "ClassLoader classLoader",
                     "description": ""
                 }
             ]

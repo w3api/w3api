@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] dataArray",
+                    "nombre": "int size",
                     "description": ""
                 },
                 {
@@ -20,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int size",
+                    "nombre": "double[] dataArray",
                     "description": ""
                 },
                 {
@@ -29,6 +25,10 @@
                 },
                 {
                     "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -96,15 +96,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int val",
-                    "description": ""
-                },
-                {
                     "nombre": "int bank",
                     "description": ""
                 },
                 {
                     "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int val",
                     "description": ""
                 }
             ]

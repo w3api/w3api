@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean newContinuousLayout",
+                    "description": ""
+                },
+                {
                     "nombre": "Component newRightComponent",
                     "description": ""
                 },
                 {
                     "nombre": "Component newLeftComponent",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean newContinuousLayout",
                     "description": ""
                 },
                 {
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Object constraints",
                     "description": ""
                 },
                 {
-                    "nombre": "Object constraints",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
@@ -132,11 +132,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Component component",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "Component component",
                     "description": ""
                 }
             ]
@@ -174,11 +174,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double proportionalLocation",
+                    "nombre": "int location",
                     "description": ""
                 },
                 {
-                    "nombre": "int location",
+                    "nombre": "double proportionalLocation",
                     "description": ""
                 }
             ]

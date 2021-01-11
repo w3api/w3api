@@ -24,7 +24,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float len",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -32,7 +32,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "float len",
                     "description": ""
                 },
                 {
@@ -66,11 +66,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
-                    "nombre": "int direction",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -78,15 +74,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Shape a",
+                    "nombre": "int direction",
                     "description": ""
                 },
                 {
-                    "nombre": "GlyphView v",
+                    "nombre": "int pos",
                     "description": ""
                 },
                 {
                     "nombre": "Position.Bias b",
+                    "description": ""
+                },
+                {
+                    "nombre": "GlyphView v",
                     "description": ""
                 }
             ]
@@ -100,11 +100,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int p0",
+                    "nombre": "int p1",
                     "description": ""
                 },
                 {
-                    "nombre": "int p1",
+                    "nombre": "int p0",
                     "description": ""
                 }
             ]
@@ -114,11 +114,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int p1",
+                    "nombre": "GlyphView v",
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "int p1",
                     "description": ""
                 },
                 {
@@ -126,11 +126,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TabExpander e",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
-                    "nombre": "GlyphView v",
+                    "nombre": "TabExpander e",
                     "description": ""
                 }
             ]
@@ -139,10 +139,6 @@
             "nombre": "modelToView",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "Position.Bias bias",
-                    "description": ""
-                },
                 {
                     "nombre": "GlyphView v",
                     "description": ""
@@ -153,6 +149,10 @@
                 },
                 {
                     "nombre": "int pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "Position.Bias bias",
                     "description": ""
                 }
             ]
@@ -166,7 +166,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int p0",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -174,7 +174,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Shape a",
+                    "nombre": "int p0",
                     "description": ""
                 },
                 {
@@ -188,6 +188,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
                     "nombre": "float y",
                     "description": ""
                 },
@@ -196,15 +200,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Position.Bias[] biasReturn",
-                    "description": ""
-                },
-                {
                     "nombre": "GlyphView v",
                     "description": ""
                 },
                 {
-                    "nombre": "Shape a",
+                    "nombre": "Position.Bias[] biasReturn",
                     "description": ""
                 }
             ]

@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String mgfName",
+                    "description": ""
+                },
+                {
                     "nombre": "int trailerField",
                     "description": ""
                 },
                 {
-                    "nombre": "int saltLen",
-                    "description": ""
-                },
-                {
-                    "nombre": "String mgfName",
+                    "nombre": "AlgorithmParameterSpec mgfSpec",
                     "description": ""
                 },
                 {
@@ -24,7 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AlgorithmParameterSpec mgfSpec",
+                    "nombre": "int saltLen",
                     "description": ""
                 }
             ]

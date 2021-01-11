@@ -302,7 +302,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LocalTime time",
+                    "nombre": "ZoneOffset offset",
                     "description": ""
                 },
                 {
@@ -318,23 +318,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int year",
-                    "description": ""
-                },
-                {
-                    "nombre": "int nanoOfSecond",
-                    "description": ""
-                },
-                {
-                    "nombre": "int hour",
-                    "description": ""
-                },
-                {
-                    "nombre": "LocalDateTime dateTime",
-                    "description": ""
-                },
-                {
-                    "nombre": "ZoneOffset offset",
+                    "nombre": "LocalTime time",
                     "description": ""
                 },
                 {
@@ -343,6 +327,22 @@
                 },
                 {
                     "nombre": "int second",
+                    "description": ""
+                },
+                {
+                    "nombre": "int nanoOfSecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "LocalDateTime dateTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hour",
                     "description": ""
                 }
             ]
@@ -366,11 +366,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DateTimeFormatter formatter",
+                    "nombre": "CharSequence text",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence text",
+                    "nombre": "DateTimeFormatter formatter",
                     "description": ""
                 }
             ]
@@ -380,15 +380,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "long amountToAdd",
+                    "description": ""
+                },
+                {
                     "nombre": "TemporalUnit unit",
                     "description": ""
                 },
                 {
                     "nombre": "TemporalAmount amountToAdd",
-                    "description": ""
-                },
-                {
-                    "nombre": "long amountToAdd",
                     "description": ""
                 }
             ]
@@ -562,11 +562,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAdjuster adjuster",
+                    "nombre": "TemporalField field",
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalField field",
+                    "nombre": "TemporalAdjuster adjuster",
                     "description": ""
                 }
             ]

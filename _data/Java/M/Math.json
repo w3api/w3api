@@ -1,27 +1,55 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "La clase Math contiene un conjunto de m\u00e9todos para realizar operaciones matem\u00e1ticas b\u00e1sicas.\n",
+    "code": "System.out.println(Math.PI);\nSystem.out.println(Math.pow(2,3));\n",
+    "ldc": [
+        {
+            "nombre": "Calcular el volumen de un cubo con Java",
+            "url": "http://lineadecodigo.com/java/calcular-el-volumen-de-un-cubo-con-java/"
+        },
+        {
+            "nombre": "Calcular el per\u00edmetro de un c\u00edrculo con Java",
+            "url": "http://lineadecodigo.com/java/calcular-el-perimetro-de-un-circulo-con-java/"
+        },
+        {
+            "nombre": "Sacar un naipe de la baraja",
+            "url": "http://lineadecodigo.com/java/sacar-un-naipe-de-la-baraja/"
+        },
+        {
+            "nombre": "\u00c1rea de un pent\u00e1gono en Java",
+            "url": "http://lineadecodigo.com/java/area-de-un-pentagono-en-java/"
+        },
+        {
+            "nombre": "Calcular el n\u00famero feliz con Java",
+            "url": "http://lineadecodigo.com/java/calcular-el-numero-feliz-con-java/"
+        }
+    ],
     "metodos": [
         {
             "nombre": "abs",
-            "description": "",
+            "description": "M\u00e9todo que nos permite calcular el valor absoluto de un n\u00famero.\n",
             "parametros": [
-                {
-                    "nombre": "long a",
-                    "description": ""
-                },
                 {
                     "nombre": "float a",
                     "description": ""
                 },
                 {
-                    "nombre": "int a",
+                    "nombre": "double a",
                     "description": ""
                 },
                 {
-                    "nombre": "double a",
+                    "nombre": "long a",
                     "description": ""
+                },
+                {
+                    "nombre": "int a",
+                    "description": ""
+                }
+            ],
+            "code": "// Si queremos |-3|\nSystem.out.println(Math.abs(-3));\n",
+            "ldc": [
+                {
+                    "nombre": "Calcular el volumen de un cubo con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-el-volumen-de-un-cubo-con-java/"
                 }
             ]
         },
@@ -40,11 +68,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long x",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "long x",
                     "description": ""
                 },
                 {
@@ -52,7 +80,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -116,7 +144,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double magnitude",
+                    "nombre": "float sign",
+                    "description": ""
+                },
+                {
+                    "nombre": "float magnitude",
                     "description": ""
                 },
                 {
@@ -124,11 +156,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float sign",
-                    "description": ""
-                },
-                {
-                    "nombre": "float magnitude",
+                    "nombre": "double magnitude",
                     "description": ""
                 }
             ]
@@ -202,11 +230,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long x",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "long x",
                     "description": ""
                 },
                 {
@@ -214,7 +242,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -224,11 +252,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long x",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "long x",
                     "description": ""
                 },
                 {
@@ -236,7 +264,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -246,19 +274,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float c",
-                    "description": ""
-                },
-                {
                     "nombre": "double b",
                     "description": ""
                 },
                 {
-                    "nombre": "double c",
-                    "description": ""
-                },
-                {
-                    "nombre": "double a",
+                    "nombre": "float a",
                     "description": ""
                 },
                 {
@@ -266,7 +286,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float a",
+                    "nombre": "double a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float c",
+                    "description": ""
+                },
+                {
+                    "nombre": "double c",
                     "description": ""
                 }
             ]
@@ -287,28 +315,30 @@
         },
         {
             "nombre": "hypot",
-            "description": "",
+            "description": "M\u00e9todo que calcula la hipotenusa dados los valores de los dos catetos.\n",
             "parametros": [
-                {
-                    "nombre": "double y",
-                    "description": ""
-                },
                 {
                     "nombre": "double x",
                     "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "double hypo = 0;\ndouble cateto1 = 2;\ndouble cateto2 = 3;\nhypo = Math.sqrt(Math.pow(cateto1, 2) + Math.pow(cateto2, 2));\nSystem.out.println(\"La hipotenusa de un triangulo de lados \"+cateto1+\" y \"+cateto2+\" es \" + hypo);\n\nSystem.out.println(\"La hipotenusa de un triangulo de lados \"+cateto1+\" y \"+cateto2+\" es \" + Math.hypot(cateto1, cateto2));\n",
+            "ldc": []
         },
         {
             "nombre": "IEEEremainder",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double f2",
+                    "nombre": "double f1",
                     "description": ""
                 },
                 {
-                    "nombre": "double f1",
+                    "nombre": "double f2",
                     "description": ""
                 }
             ]
@@ -359,30 +389,10 @@
         },
         {
             "nombre": "max",
-            "description": "",
+            "description": "Devuelve el valor del m\u00e1ximo de dos valores num\u00e9ricos.\n",
             "parametros": [
                 {
                     "nombre": "double b",
-                    "description": ""
-                },
-                {
-                    "nombre": "double a",
-                    "description": ""
-                },
-                {
-                    "nombre": "long b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int a",
-                    "description": ""
-                },
-                {
-                    "nombre": "float b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int b",
                     "description": ""
                 },
                 {
@@ -390,10 +400,32 @@
                     "description": ""
                 },
                 {
+                    "nombre": "float b",
+                    "description": ""
+                },
+                {
+                    "nombre": "double a",
+                    "description": ""
+                },
+                {
                     "nombre": "long a",
                     "description": ""
+                },
+                {
+                    "nombre": "int a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "long b",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "public static void main(String[] args) {\n       int a = 12;\n       int b = 21;\n       int c = 0;\n       c = Math.max(a,b);\n       System.out.println(c);\n}\n",
+            "ldc": []
         },
         {
             "nombre": "min",
@@ -404,15 +436,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double a",
-                    "description": ""
-                },
-                {
-                    "nombre": "long b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int a",
+                    "nombre": "float a",
                     "description": ""
                 },
                 {
@@ -420,15 +444,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int b",
-                    "description": ""
-                },
-                {
-                    "nombre": "float a",
+                    "nombre": "double a",
                     "description": ""
                 },
                 {
                     "nombre": "long a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "long b",
                     "description": ""
                 }
             ]
@@ -438,11 +470,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long x",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "long x",
                     "description": ""
                 },
                 {
@@ -450,7 +482,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -460,11 +492,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -502,7 +534,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float start",
+                    "nombre": "double direction",
                     "description": ""
                 },
                 {
@@ -510,7 +542,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double direction",
+                    "nombre": "float start",
                     "description": ""
                 }
             ]
@@ -545,21 +577,43 @@
         },
         {
             "nombre": "pow",
-            "description": "",
+            "description": "M\u00e9todo que nos permite ejecutar potencias.\n",
             "parametros": [
-                {
-                    "nombre": "double b",
-                    "description": ""
-                },
                 {
                     "nombre": "double a",
                     "description": ""
+                },
+                {
+                    "nombre": "double b",
+                    "description": ""
+                }
+            ],
+            "code": "// Si queremos 23\nSystem.out.println(Math.pow(2,3));\n",
+            "ldc": [
+                {
+                    "nombre": "Calcular el volumen de un cubo con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-el-volumen-de-un-cubo-con-java/"
+                },
+                {
+                    "nombre": "\u00c1rea de un pent\u00e1gono en Java",
+                    "url": "http://lineadecodigo.com/java/area-de-un-pentagono-en-java/"
+                },
+                {
+                    "nombre": "Calcular el n\u00famero feliz con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-el-numero-feliz-con-java/"
                 }
             ]
         },
         {
             "nombre": "random",
-            "description": ""
+            "description": "M\u00e9todo que nos devuelve un valor aleatorio entre 0.0 y 1.0\n",
+            "code": "public class NumeroAleatorio {\n  public static void main(String[] args) {\n    int numeroAleatorio = (int) (Math.random()*25+1);\n    System.out.println(\"El n\u00famero aleatorio entre 1 y 25 es: \" + numeroAleatorio);\n  }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Sacar un naipe de la baraja",
+                    "url": "http://lineadecodigo.com/java/sacar-un-naipe-de-la-baraja/"
+                }
+            ]
         },
         {
             "nombre": "rint",
@@ -590,11 +644,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float f",
+                    "nombre": "int scaleFactor",
                     "description": ""
                 },
                 {
-                    "nombre": "int scaleFactor",
+                    "nombre": "float f",
                     "description": ""
                 },
                 {
@@ -639,11 +693,18 @@
         },
         {
             "nombre": "sqrt",
-            "description": "",
+            "description": "M\u00e9todo que nos calcula la ra\u00edz cuadrada de un n\u00famero.\n",
             "parametros": [
                 {
                     "nombre": "double a",
                     "description": ""
+                }
+            ],
+            "code": "// La ra\u00edz cuadrada de 16\nSystem.out.println(Math.sqrt(16));\n",
+            "ldc": [
+                {
+                    "nombre": "\u00c1rea de un pent\u00e1gono en Java",
+                    "url": "http://lineadecodigo.com/java/area-de-un-pentagono-en-java/"
                 }
             ]
         },
@@ -652,11 +713,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long x",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "long x",
                     "description": ""
                 },
                 {
@@ -664,7 +725,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -741,7 +802,18 @@
         },
         {
             "nombre": "PI",
-            "description": ""
+            "description": "Representa la variable matem\u00e1tica PI = 3,1416.\n",
+            "code": "public static void main(String[] args) {\n \n   double perimetro,radio;\n\n   System.out.println(\"Introduce el r\u00e1dio del c\u00edrculo: \");\n   Scanner reader = new Scanner(System.in);\n   radio = reader.nextDouble();\n\n   perimetro = 2*Math.PI*radio;\n\n   System.out.println(\"Un c\u00edrculo de r\u00e1dio \" + radio + \"tiene un per\u00edmetro de \" + perimetro);\n}\n",
+            "ldc": [
+                {
+                    "nombre": "N\u00famero PI en Java",
+                    "url": "http://lineadecodigo.com/java/numero-pi-en-java/"
+                },
+                {
+                    "nombre": "Calcular el per\u00edmetro de un c\u00edrculo con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-el-perimetro-de-un-circulo-con-java/"
+                }
+            ]
         }
     ]
 }

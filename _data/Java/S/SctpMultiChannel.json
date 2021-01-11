@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int backlog",
+                    "nombre": "SocketAddress local",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketAddress local",
+                    "nombre": "int backlog",
                     "description": ""
                 }
             ]
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Association association",
+                    "nombre": "SctpSocketOption<T> name",
                     "description": ""
                 },
                 {
-                    "nombre": "SctpSocketOption<T> name",
+                    "nombre": "Association association",
                     "description": ""
                 }
             ]
@@ -90,11 +90,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "NotificationHandler<T> handler",
+                    "nombre": "T attachment",
                     "description": ""
                 },
                 {
-                    "nombre": "T attachment",
+                    "nombre": "NotificationHandler<T> handler",
                     "description": ""
                 },
                 {
@@ -122,15 +122,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "SctpSocketOption<T> name",
+                    "description": ""
+                },
+                {
                     "nombre": "Association association",
                     "description": ""
                 },
                 {
                     "nombre": "T value",
-                    "description": ""
-                },
-                {
-                    "nombre": "SctpSocketOption<T> name",
                     "description": ""
                 }
             ]

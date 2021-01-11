@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "Hashtable<String,String> paises = new Hashtable<String,String>();\npaises.put(\"ES\", \"Espa\u00f1a\");\npaises.put(\"UK\", \"Reino Unido\");\npaises.put(\"US\", \"Estados Unidos\");\npaises.put(\"FR\", \"Francia\");\n\t\t\t\t\nEnumeration<String> e = paises.keys();\n\t\t\nwhile(e.hasMoreElements())\n  System.out.println(e.nextElement());\n",
     "ldc": [],
     "metodos": [
         {
@@ -9,11 +9,15 @@
         },
         {
             "nombre": "hasMoreElements",
-            "description": ""
+            "description": "Comprueba si la enumeraci\u00f3n tiene m\u00e1s elementos.\n",
+            "code": "Hashtable<String,String> paises = new Hashtable<String,String>();\npaises.put(\"ES\", \"Espa\u00f1a\");\npaises.put(\"UK\", \"Reino Unido\");\npaises.put(\"US\", \"Estados Unidos\");\npaises.put(\"FR\", \"Francia\");\n\t\t\t\t\nEnumeration<String> e = paises.keys();\n\t\t\nwhile(e.hasMoreElements())\n  System.out.println(e.nextElement());\n",
+            "ldc": []
         },
         {
             "nombre": "nextElement",
-            "description": ""
+            "description": "M\u00e9todo que devuelve, si existe, el siguiente elemento de una enumeraci\u00f3n.\n",
+            "code": "Hashtable<String,String> paises = new Hashtable<String,String>();\npaises.put(\"ES\", \"Espa\u00f1a\");\npaises.put(\"UK\", \"Reino Unido\");\npaises.put(\"US\", \"Estados Unidos\");\npaises.put(\"FR\", \"Francia\");\n\t\t\t\t\nEnumeration<String> e = paises.keys();\n\t\t\nwhile(e.hasMoreElements())\n  System.out.println(e.nextElement());\n",
+            "ldc": []
         }
     ]
 }

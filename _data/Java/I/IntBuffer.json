@@ -58,11 +58,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "int[] dst",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] dst",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
@@ -70,7 +70,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -96,14 +96,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "int length",
                     "description": ""
                 },
@@ -112,11 +104,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
                     "nombre": "IntBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
                     "description": ""
                 }
             ]
@@ -134,7 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "int[] array",
                     "description": ""
                 },
                 {
@@ -142,7 +142,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] array",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]

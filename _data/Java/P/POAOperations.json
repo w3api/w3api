@@ -72,7 +72,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String adapter_name",
+                    "nombre": "POAManager a_POAManager",
                     "description": ""
                 },
                 {
@@ -80,7 +80,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "POAManager a_POAManager",
+                    "nombre": "String adapter_name",
                     "description": ""
                 }
             ]
@@ -100,11 +100,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] oid",
+                    "nombre": "String intf",
                     "description": ""
                 },
                 {
-                    "nombre": "String intf",
+                    "nombre": "byte[] oid",
                     "description": ""
                 }
             ]
@@ -154,11 +154,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean etherealize_objects",
+                    "nombre": "boolean wait_for_completion",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean wait_for_completion",
+                    "nombre": "boolean etherealize_objects",
                     "description": ""
                 }
             ]
@@ -168,11 +168,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String adapter_name",
+                    "nombre": "boolean activate_it",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean activate_it",
+                    "nombre": "String adapter_name",
                     "description": ""
                 }
             ]

@@ -62,15 +62,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int maxTabWidth",
+                    "description": ""
+                },
+                {
                     "nombre": "int tabPlacement",
                     "description": ""
                 },
                 {
                     "nombre": "int vertRunCount",
-                    "description": ""
-                },
-                {
-                    "nombre": "int maxTabWidth",
                     "description": ""
                 }
             ]
@@ -80,15 +80,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int fontHeight",
-                    "description": ""
-                },
-                {
                     "nombre": "int tabPlacement",
                     "description": ""
                 },
                 {
                     "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int fontHeight",
                     "description": ""
                 }
             ]
@@ -102,11 +102,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int tabIndex",
+                    "nombre": "FontMetrics metrics",
                     "description": ""
                 },
                 {
-                    "nombre": "FontMetrics metrics",
+                    "nombre": "int tabIndex",
                     "description": ""
                 }
             ]
@@ -160,19 +160,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JComponent c",
-                    "description": ""
-                },
-                {
                     "nombre": "int tab",
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "JComponent c",
                     "description": ""
                 },
                 {
                     "nombre": "int height",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -234,11 +234,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int tabCount",
+                    "nombre": "int base",
                     "description": ""
                 },
                 {
-                    "nombre": "int base",
+                    "nombre": "int tabCount",
                     "description": ""
                 }
             ]
@@ -268,11 +268,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int tabCount",
+                    "nombre": "int base",
                     "description": ""
                 },
                 {
-                    "nombre": "int base",
+                    "nombre": "int tabCount",
                     "description": ""
                 }
             ]
@@ -330,11 +330,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle dest",
+                    "nombre": "JTabbedPane pane",
                     "description": ""
                 },
                 {
-                    "nombre": "JTabbedPane pane",
+                    "nombre": "Rectangle dest",
                     "description": ""
                 },
                 {
@@ -366,15 +366,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean isSelected",
-                    "description": ""
-                },
-                {
                     "nombre": "int tabPlacement",
                     "description": ""
                 },
                 {
                     "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
                     "description": ""
                 }
             ]
@@ -384,15 +384,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean isSelected",
-                    "description": ""
-                },
-                {
                     "nombre": "int tabPlacement",
                     "description": ""
                 },
                 {
                     "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
                     "description": ""
                 }
             ]
@@ -402,11 +402,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int run",
+                    "nombre": "int tabPlacement",
                     "description": ""
                 },
                 {
-                    "nombre": "int tabPlacement",
+                    "nombre": "int run",
                     "description": ""
                 }
             ]
@@ -416,7 +416,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int tabCount",
+                    "nombre": "boolean forward",
                     "description": ""
                 },
                 {
@@ -424,11 +424,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int tabIndex",
+                    "nombre": "int tabCount",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean forward",
+                    "nombre": "int tabIndex",
                     "description": ""
                 }
             ]
@@ -492,6 +492,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle textRect",
+                    "description": ""
+                },
+                {
                     "nombre": "Icon icon",
                     "description": ""
                 },
@@ -500,15 +504,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int tabIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "FontMetrics metrics",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isSelected",
+                    "nombre": "Rectangle iconRect",
                     "description": ""
                 },
                 {
@@ -520,11 +516,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle iconRect",
+                    "nombre": "boolean isSelected",
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle textRect",
+                    "nombre": "FontMetrics metrics",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
                     "description": ""
                 }
             ]
@@ -562,6 +562,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int selectedIndex",
+                    "description": ""
+                },
+                {
                     "nombre": "Graphics g",
                     "description": ""
                 },
@@ -570,11 +574,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "int selectedIndex",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -582,7 +582,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -596,6 +596,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int selectedIndex",
+                    "description": ""
+                },
+                {
                     "nombre": "Graphics g",
                     "description": ""
                 },
@@ -604,11 +608,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "int selectedIndex",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -616,7 +616,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -630,6 +630,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int selectedIndex",
+                    "description": ""
+                },
+                {
                     "nombre": "Graphics g",
                     "description": ""
                 },
@@ -638,11 +642,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "int selectedIndex",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -650,7 +650,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -664,6 +664,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int selectedIndex",
+                    "description": ""
+                },
+                {
                     "nombre": "Graphics g",
                     "description": ""
                 },
@@ -672,11 +676,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "int selectedIndex",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -684,7 +684,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -706,11 +706,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int tabIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isSelected",
+                    "nombre": "Rectangle iconRect",
                     "description": ""
                 },
                 {
@@ -718,11 +714,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle iconRect",
+                    "nombre": "boolean isSelected",
                     "description": ""
                 },
                 {
                     "nombre": "Rectangle textRect",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
                     "description": ""
                 }
             ]
@@ -732,19 +732,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Icon icon",
-                    "description": ""
-                },
-                {
                     "nombre": "Graphics g",
                     "description": ""
                 },
                 {
-                    "nombre": "int tabIndex",
+                    "nombre": "Icon icon",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isSelected",
+                    "nombre": "Rectangle iconRect",
                     "description": ""
                 },
                 {
@@ -752,7 +748,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle iconRect",
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
                     "description": ""
                 }
             ]
@@ -770,7 +770,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int tabIndex",
+                    "nombre": "Rectangle iconRect",
                     "description": ""
                 },
                 {
@@ -778,11 +778,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle iconRect",
+                    "nombre": "Rectangle textRect",
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle textRect",
+                    "nombre": "int tabIndex",
                     "description": ""
                 }
             ]
@@ -818,15 +818,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int tabIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isSelected",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -834,11 +826,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
                     "description": ""
                 }
             ]
@@ -856,15 +856,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int tabIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isSelected",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -872,11 +864,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
                     "description": ""
                 }
             ]
@@ -886,19 +886,11 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rectangle textRect",
+                    "description": ""
+                },
+                {
                     "nombre": "Graphics g",
-                    "description": ""
-                },
-                {
-                    "nombre": "Font font",
-                    "description": ""
-                },
-                {
-                    "nombre": "int tabIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "FontMetrics metrics",
                     "description": ""
                 },
                 {
@@ -906,15 +898,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isSelected",
-                    "description": ""
-                },
-                {
                     "nombre": "int tabPlacement",
                     "description": ""
                 },
                 {
-                    "nombre": "Rectangle textRect",
+                    "nombre": "Font font",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isSelected",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics metrics",
+                    "description": ""
+                },
+                {
+                    "nombre": "int tabIndex",
                     "description": ""
                 }
             ]
@@ -942,15 +942,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "int tabPlacement",
                     "description": ""
                 },
                 {
                     "nombre": "int tabIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -1020,11 +1020,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int run",
+                    "nombre": "int tabPlacement",
                     "description": ""
                 },
                 {
-                    "nombre": "int tabPlacement",
+                    "nombre": "int run",
                     "description": ""
                 }
             ]
@@ -1048,11 +1048,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]

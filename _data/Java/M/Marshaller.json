@@ -54,10 +54,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Writer writer",
-                    "description": ""
-                },
-                {
                     "nombre": "Result result",
                     "description": ""
                 },
@@ -66,7 +62,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "XMLStreamWriter writer",
+                    "nombre": "Object jaxbElement",
+                    "description": ""
+                },
+                {
+                    "nombre": "Writer writer",
                     "description": ""
                 },
                 {
@@ -78,7 +78,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object jaxbElement",
+                    "nombre": "OutputStream os",
                     "description": ""
                 },
                 {
@@ -86,7 +86,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "OutputStream os",
+                    "nombre": "XMLStreamWriter writer",
                     "description": ""
                 }
             ]
@@ -96,7 +96,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<A> type",
+                    "nombre": "XmlAdapter adapter",
                     "description": ""
                 },
                 {
@@ -104,7 +104,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "XmlAdapter adapter",
+                    "nombre": "Class<A> type",
                     "description": ""
                 }
             ]

@@ -18,6 +18,14 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Era era",
+                    "description": ""
+                },
+                {
+                    "nombre": "TemporalAccessor temporal",
+                    "description": ""
+                },
+                {
                     "nombre": "int month",
                     "description": ""
                 },
@@ -27,14 +35,6 @@
                 },
                 {
                     "nombre": "int prolepticYear",
-                    "description": ""
-                },
-                {
-                    "nombre": "TemporalAccessor temporal",
-                    "description": ""
-                },
-                {
-                    "nombre": "Era era",
                     "description": ""
                 },
                 {
@@ -72,7 +72,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int prolepticYear",
+                    "nombre": "Era era",
+                    "description": ""
+                },
+                {
+                    "nombre": "int yearOfEra",
                     "description": ""
                 },
                 {
@@ -80,11 +84,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Era era",
-                    "description": ""
-                },
-                {
-                    "nombre": "int yearOfEra",
+                    "nombre": "int prolepticYear",
                     "description": ""
                 }
             ]
@@ -94,6 +94,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Era era",
+                    "description": ""
+                },
+                {
                     "nombre": "int month",
                     "description": ""
                 },
@@ -102,19 +106,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int minute",
+                    "description": ""
+                },
+                {
+                    "nombre": "int second",
+                    "description": ""
+                },
+                {
                     "nombre": "int prolepticYear",
-                    "description": ""
-                },
-                {
-                    "nombre": "int hour",
-                    "description": ""
-                },
-                {
-                    "nombre": "Era era",
-                    "description": ""
-                },
-                {
-                    "nombre": "int yearOfEra",
                     "description": ""
                 },
                 {
@@ -122,11 +122,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int minute",
+                    "nombre": "int hour",
                     "description": ""
                 },
                 {
-                    "nombre": "int second",
+                    "nombre": "int yearOfEra",
                     "description": ""
                 }
             ]
@@ -244,11 +244,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int days",
+                    "nombre": "int years",
                     "description": ""
                 },
                 {
-                    "nombre": "int years",
+                    "nombre": "int days",
                     "description": ""
                 }
             ]
@@ -282,7 +282,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Long> fieldValues",
+                    "nombre": "ResolverStyle resolverStyle",
                     "description": ""
                 },
                 {
@@ -290,7 +290,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ResolverStyle resolverStyle",
+                    "nombre": "Long> fieldValues",
                     "description": ""
                 }
             ]

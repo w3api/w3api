@@ -1,0 +1,333 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "DTD",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "defAttributeList",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "int modifier",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                },
+                {
+                    "nombre": "String values",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeList atts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defContentModel",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "ContentModel next",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] exclusions",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean omitStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] inclusions",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean omitEnd",
+                    "description": ""
+                },
+                {
+                    "nombre": "ContentModel content",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeList atts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defEntity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "String str",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defineAttributes",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeList atts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defineElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "BitSet inclusions",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean omitStart",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean omitEnd",
+                    "description": ""
+                },
+                {
+                    "nombre": "ContentModel content",
+                    "description": ""
+                },
+                {
+                    "nombre": "BitSet exclusions",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeList atts",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "defineEntity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] data",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDTD",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getElement",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getEntity",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "String name",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getName",
+            "description": ""
+        },
+        {
+            "nombre": "putDTDHash",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
+                    "nombre": "DTD dtd",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "read",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "DataInputStream in",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": ""
+        }
+    ],
+    "campos": [
+        {
+            "nombre": "applet",
+            "description": ""
+        },
+        {
+            "nombre": "base",
+            "description": ""
+        },
+        {
+            "nombre": "body",
+            "description": ""
+        },
+        {
+            "nombre": "elementHash",
+            "description": ""
+        },
+        {
+            "nombre": "elements",
+            "description": ""
+        },
+        {
+            "nombre": "entityHash",
+            "description": ""
+        },
+        {
+            "nombre": "FILE_VERSION",
+            "description": ""
+        },
+        {
+            "nombre": "head",
+            "description": ""
+        },
+        {
+            "nombre": "html",
+            "description": ""
+        },
+        {
+            "nombre": "isindex",
+            "description": ""
+        },
+        {
+            "nombre": "meta",
+            "description": ""
+        },
+        {
+            "nombre": "name",
+            "description": ""
+        },
+        {
+            "nombre": "p",
+            "description": ""
+        },
+        {
+            "nombre": "param",
+            "description": ""
+        },
+        {
+            "nombre": "pcdata",
+            "description": ""
+        },
+        {
+            "nombre": "title",
+            "description": ""
+        }
+    ]
+}

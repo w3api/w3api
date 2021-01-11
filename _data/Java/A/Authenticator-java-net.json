@@ -1,0 +1,143 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Authenticator",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "getDefault",
+            "description": ""
+        },
+        {
+            "nombre": "getPasswordAuthentication",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingHost",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingPort",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingPrompt",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingProtocol",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingScheme",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingSite",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestingURL",
+            "description": ""
+        },
+        {
+            "nombre": "getRequestorType",
+            "description": ""
+        },
+        {
+            "nombre": "requestPasswordAuthentication",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prompt",
+                    "description": ""
+                },
+                {
+                    "nombre": "Authenticator.RequestorType reqType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String scheme",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "Authenticator authenticator",
+                    "description": ""
+                },
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress addr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "requestPasswordAuthenticationInstance",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "URL url",
+                    "description": ""
+                },
+                {
+                    "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "String prompt",
+                    "description": ""
+                },
+                {
+                    "nombre": "Authenticator.RequestorType reqType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String scheme",
+                    "description": ""
+                },
+                {
+                    "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "String protocol",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress addr",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "setDefault",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Authenticator a",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

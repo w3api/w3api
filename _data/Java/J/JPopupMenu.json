@@ -24,11 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "JMenuItem menuItem",
                     "description": ""
                 },
                 {
-                    "nombre": "JMenuItem menuItem",
+                    "nombre": "String s",
                     "description": ""
                 }
             ]
@@ -162,15 +162,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Component component",
-                    "description": ""
-                },
-                {
                     "nombre": "Action a",
                     "description": ""
                 },
                 {
                     "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component component",
                     "description": ""
                 }
             ]
@@ -230,11 +230,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MenuSelectionManager manager",
-                    "description": ""
-                },
-                {
-                    "nombre": "KeyEvent evt",
+                    "nombre": "MenuElement[] path",
                     "description": ""
                 },
                 {
@@ -242,7 +238,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MenuElement[] path",
+                    "nombre": "KeyEvent evt",
+                    "description": ""
+                },
+                {
+                    "nombre": "MenuSelectionManager manager",
                     "description": ""
                 }
             ]
@@ -252,15 +252,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MenuSelectionManager manager",
-                    "description": ""
-                },
-                {
                     "nombre": "MenuElement[] path",
                     "description": ""
                 },
                 {
                     "nombre": "MouseEvent event",
+                    "description": ""
+                },
+                {
+                    "nombre": "MenuSelectionManager manager",
                     "description": ""
                 }
             ]
@@ -350,11 +350,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -364,15 +364,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
                 {
                     "nombre": "Dimension d",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -422,7 +422,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -430,7 +430,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]

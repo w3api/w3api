@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nListIterator<String> it = al.listIterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t    \nwhile(it.hasPrevious())\n System.out.println(it.previous());\n",
     "ldc": [],
     "metodos": [
         {
@@ -15,15 +15,21 @@
         },
         {
             "nombre": "hasNext",
-            "description": ""
+            "description": "M\u00e9todo que devuelve true si existe un siguiente elemento a la hora de iterar sobre una colecci\u00f3n.\n",
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nListIterator<String> it = al.listIterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t    \nwhile(it.hasPrevious())\n System.out.println(it.previous());\n",
+            "ldc": []
         },
         {
             "nombre": "hasPrevious",
-            "description": ""
+            "description": "M\u00e9todo que devuelve true si existe un elemento anterior a la hora de iterar sobre una colecci\u00f3n.\n",
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nListIterator<String> it = al.listIterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t    \nwhile(it.hasPrevious())\n System.out.println(it.previous());\n",
+            "ldc": []
         },
         {
             "nombre": "next",
-            "description": ""
+            "description": "M\u00e9todo que permite recuperar el siguiente elemento dentro de una colecci\u00f3n.\n",
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nListIterator<String> it = al.listIterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t    \nwhile(it.hasPrevious())\n System.out.println(it.previous());\n",
+            "ldc": []
         },
         {
             "nombre": "nextIndex",
@@ -31,7 +37,9 @@
         },
         {
             "nombre": "previous",
-            "description": ""
+            "description": "M\u00e9todo que permite recuperar el elemento anterior dentro de una colecci\u00f3n.\n",
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nListIterator<String> it = al.listIterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t    \nwhile(it.hasPrevious())\n System.out.println(it.previous());\n",
+            "ldc": []
         },
         {
             "nombre": "previousIndex",

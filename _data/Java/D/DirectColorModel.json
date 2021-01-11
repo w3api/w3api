@@ -8,22 +8,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int bmask",
-                    "description": ""
-                },
-                {
-                    "nombre": "int gmask",
-                    "description": ""
-                },
-                {
-                    "nombre": "int bits",
-                    "description": ""
-                },
-                {
-                    "nombre": "int rmask",
-                    "description": ""
-                },
-                {
                     "nombre": "int amask",
                     "description": ""
                 },
@@ -32,11 +16,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int transferType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rmask",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bits",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bmask",
+                    "description": ""
+                },
+                {
                     "nombre": "ColorSpace space",
                     "description": ""
                 },
                 {
-                    "nombre": "int transferType",
+                    "nombre": "int gmask",
                     "description": ""
                 }
             ]
@@ -48,11 +48,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "WritableRaster raster",
+                    "nombre": "boolean isAlphaPremultiplied",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isAlphaPremultiplied",
+                    "nombre": "WritableRaster raster",
                     "description": ""
                 }
             ]
@@ -112,7 +112,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object pixel",
+                    "nombre": "int[] components",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
                     "description": ""
                 },
                 {
@@ -120,11 +124,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] components",
-                    "description": ""
-                },
-                {
-                    "nombre": "int pixel",
+                    "nombre": "Object pixel",
                     "description": ""
                 }
             ]
@@ -134,11 +134,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "int[] components",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] components",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -148,7 +148,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int[] components",
+                    "description": ""
+                },
+                {
                     "nombre": "Object pixel",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rgb",
                     "description": ""
                 },
                 {
@@ -157,14 +165,6 @@
                 },
                 {
                     "nombre": "Object obj",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] components",
-                    "description": ""
-                },
-                {
-                    "nombre": "int rgb",
                     "description": ""
                 }
             ]

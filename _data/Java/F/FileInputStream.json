@@ -1,22 +1,27 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "// Copiar ficheros\nFile origen = new File(\"origen.txt\");\nFile destino = new File(\"destino.txt\");\n\ntry {\n  InputStream in = new FileInputStream(origen);\n  OutputStream out = new FileOutputStream(destino);\n\t\t\t\t\n  byte[] buf = new byte[1024];\n  int len;\n\n  while ((len = in.read(buf)) > 0) {\n    out.write(buf, 0, len);\n  }\n\t\t\n  in.close();\n  out.close();\n} catch (IOException ioe){\n  ioe.printStackTrace();\n}\n",
+    "ldc": [
+        {
+            "nombre": "Copiar un fichero con Java",
+            "url": "http://lineadecodigo.com/java/copiar-un-fichero-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "FileInputStream",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "File file",
-                    "description": ""
-                },
-                {
                     "nombre": "String name",
                     "description": ""
                 },
                 {
                     "nombre": "FileDescriptor fdObj",
+                    "description": ""
+                },
+                {
+                    "nombre": "File file",
                     "description": ""
                 }
             ]
@@ -48,7 +53,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] b",
+                    "nombre": "int off",
                     "description": ""
                 },
                 {
@@ -56,7 +61,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int off",
+                    "nombre": "byte[] b",
                     "description": ""
                 }
             ]

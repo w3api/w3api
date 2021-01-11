@@ -8,7 +8,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean inheritThreadLocals",
+                    "description": ""
+                },
+                {
+                    "nombre": "long stackSize",
                     "description": ""
                 },
                 {
@@ -16,15 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
-                    "description": ""
-                },
-                {
                     "nombre": "ThreadGroup group",
-                    "description": ""
-                },
-                {
-                    "nombre": "long stackSize",
                     "description": ""
                 }
             ]
@@ -163,7 +163,9 @@
         },
         {
             "nombre": "run",
-            "description": ""
+            "description": "Si el hilo fue construido mediante un objeto Runnable separado, entonces ese objeto Runnable ejecutar\u00e1 este m\u00e9todo .run().\n",
+            "code": "public class CierreAplicacion {\n  public void attachShutDownHook(){\n    Runtime.getRuntime().addShutdownHook(new Thread() {\n      @Override\n      public void run() {\n        System.out.println(\"Esto lo ejecutamos cuando acabe el programa\");\n       }\n    });\n\t\n     System.out.println(\"Creado el hook en el programa\");\n\t\t\n  }\n\t\t\n  public static void main(String[] args) {\n\t\n    CierreAplicacion app = new CierreAplicacion();\n    app.attachShutDownHook();\n    System.out.println(\"\u00daltima instrucci\u00f3n del programa\");\n    System.exit(0);\t\n   }\n}\n",
+            "ldc": []
         },
         {
             "nombre": "setContextClassLoader",

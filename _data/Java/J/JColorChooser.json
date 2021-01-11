@@ -34,10 +34,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ActionListener okListener",
-                    "description": ""
-                },
-                {
                     "nombre": "String title",
                     "description": ""
                 },
@@ -46,15 +42,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "ActionListener okListener",
+                    "description": ""
+                },
+                {
+                    "nombre": "JColorChooser chooserPane",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean modal",
                     "description": ""
                 },
                 {
                     "nombre": "Component c",
-                    "description": ""
-                },
-                {
-                    "nombre": "JColorChooser chooserPane",
                     "description": ""
                 }
             ]
@@ -120,7 +120,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int g",
+                    "nombre": "int c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
                     "description": ""
                 },
                 {
@@ -132,11 +136,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int c",
-                    "description": ""
-                },
-                {
-                    "nombre": "int b",
+                    "nombre": "int g",
                     "description": ""
                 }
             ]
@@ -186,11 +186,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Component component",
-                    "description": ""
-                },
-                {
-                    "nombre": "String title",
+                    "nombre": "Color initialColor",
                     "description": ""
                 },
                 {
@@ -198,7 +194,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Color initialColor",
+                    "nombre": "String title",
+                    "description": ""
+                },
+                {
+                    "nombre": "Component component",
                     "description": ""
                 }
             ]

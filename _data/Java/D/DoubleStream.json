@@ -40,7 +40,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BiConsumer<R",
+                    "nombre": "ObjDoubleConsumer<R> accumulator",
                     "description": ""
                 },
                 {
@@ -48,11 +48,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ObjDoubleConsumer<R> accumulator",
+                    "nombre": "Supplier<R> supplier",
                     "description": ""
                 },
                 {
-                    "nombre": "Supplier<R> supplier",
+                    "nombre": "BiConsumer<R",
                     "description": ""
                 }
             ]
@@ -62,11 +62,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DoubleStream a",
+                    "nombre": "DoubleStream b",
                     "description": ""
                 },
                 {
-                    "nombre": "DoubleStream b",
+                    "nombre": "DoubleStream a",
                     "description": ""
                 }
             ]
@@ -156,7 +156,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DoubleUnaryOperator next",
+                    "nombre": "DoubleUnaryOperator f",
                     "description": ""
                 },
                 {
@@ -164,7 +164,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "DoubleUnaryOperator f",
+                    "nombre": "DoubleUnaryOperator next",
                     "description": ""
                 },
                 {
@@ -246,11 +246,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double t",
+                    "nombre": "double... values",
                     "description": ""
                 },
                 {
-                    "nombre": "double... values",
+                    "nombre": "double t",
                     "description": ""
                 }
             ]

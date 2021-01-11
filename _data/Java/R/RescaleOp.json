@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "RenderingHints hints",
+                    "nombre": "float scaleFactor",
                     "description": ""
                 },
                 {
@@ -20,11 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float scaleFactor",
+                    "nombre": "float offset",
                     "description": ""
                 },
                 {
-                    "nombre": "float offset",
+                    "nombre": "RenderingHints hints",
                     "description": ""
                 }
             ]
@@ -60,7 +60,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "WritableRaster dst",
+                    "nombre": "Raster src",
                     "description": ""
                 },
                 {
@@ -68,7 +68,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Raster src",
+                    "nombre": "WritableRaster dst",
                     "description": ""
                 },
                 {
@@ -82,11 +82,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BufferedImage src",
+                    "nombre": "Raster src",
                     "description": ""
                 },
                 {
-                    "nombre": "Raster src",
+                    "nombre": "BufferedImage src",
                     "description": ""
                 }
             ]
@@ -110,11 +110,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point2D dstPt",
+                    "nombre": "Point2D srcPt",
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D srcPt",
+                    "nombre": "Point2D dstPt",
                     "description": ""
                 }
             ]

@@ -18,7 +18,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CharSequence csq",
+                    "nombre": "int end",
                     "description": ""
                 },
                 {
@@ -26,11 +26,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char c",
+                    "nombre": "CharSequence csq",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "char c",
                     "description": ""
                 }
             ]
@@ -90,11 +90,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
@@ -102,7 +98,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -132,7 +132,27 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "CharBuffer src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "String src",
+                    "description": ""
+                },
+                {
                     "nombre": "int end",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] src",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
                     "description": ""
                 },
                 {
@@ -144,27 +164,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CharBuffer src",
-                    "description": ""
-                },
-                {
-                    "nombre": "int length",
-                    "description": ""
-                },
-                {
-                    "nombre": "char c",
-                    "description": ""
-                },
-                {
                     "nombre": "int index",
-                    "description": ""
-                },
-                {
-                    "nombre": "String src",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] src",
                     "description": ""
                 }
             ]
@@ -206,19 +206,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int end",
-                    "description": ""
-                },
-                {
                     "nombre": "CharSequence csq",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int start",
                     "description": ""
                 },
                 {
@@ -227,6 +215,18 @@
                 },
                 {
                     "nombre": "char[] array",
+                    "description": ""
+                },
+                {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
                     "description": ""
                 }
             ]

@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Callable<? extends T> callable",
+                    "nombre": "Runnable runnable",
                     "description": ""
                 },
                 {
-                    "nombre": "Runnable runnable",
+                    "nombre": "Callable<? extends T> callable",
                     "description": ""
                 },
                 {
@@ -84,11 +84,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long timeout",
                     "description": ""
                 },
                 {
-                    "nombre": "long timeout",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 }
             ]
@@ -134,7 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ForkJoinTask<?>... tasks",
+                    "nombre": "Collection<T> tasks",
                     "description": ""
                 },
                 {
@@ -146,7 +146,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<T> tasks",
+                    "nombre": "ForkJoinTask<?>... tasks",
                     "description": ""
                 }
             ]

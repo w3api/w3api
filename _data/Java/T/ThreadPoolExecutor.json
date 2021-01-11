@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long keepAliveTime",
+                    "nombre": "RejectedExecutionHandler handler",
                     "description": ""
                 },
                 {
@@ -16,15 +16,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int corePoolSize",
+                    "description": ""
+                },
+                {
                     "nombre": "TimeUnit unit",
                     "description": ""
                 },
                 {
-                    "nombre": "BlockingQueue<Runnable> workQueue",
-                    "description": ""
-                },
-                {
-                    "nombre": "int corePoolSize",
+                    "nombre": "long keepAliveTime",
                     "description": ""
                 },
                 {
@@ -32,7 +32,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "RejectedExecutionHandler handler",
+                    "nombre": "BlockingQueue<Runnable> workQueue",
                     "description": ""
                 }
             ]
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Throwable t",
+                    "nombre": "Runnable r",
                     "description": ""
                 },
                 {
-                    "nombre": "Runnable r",
+                    "nombre": "Throwable t",
                     "description": ""
                 }
             ]
@@ -72,11 +72,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Thread t",
+                    "nombre": "Runnable r",
                     "description": ""
                 },
                 {
-                    "nombre": "Runnable r",
+                    "nombre": "Thread t",
                     "description": ""
                 }
             ]

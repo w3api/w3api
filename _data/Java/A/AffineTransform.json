@@ -8,6 +8,38 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "double m00",
+                    "description": ""
+                },
+                {
+                    "nombre": "float m01",
+                    "description": ""
+                },
+                {
+                    "nombre": "float m11",
+                    "description": ""
+                },
+                {
+                    "nombre": "AffineTransform Tx",
+                    "description": ""
+                },
+                {
+                    "nombre": "double m10",
+                    "description": ""
+                },
+                {
+                    "nombre": "float m10",
+                    "description": ""
+                },
+                {
+                    "nombre": "float m00",
+                    "description": ""
+                },
+                {
+                    "nombre": "double m12",
+                    "description": ""
+                },
+                {
                     "nombre": "double m01",
                     "description": ""
                 },
@@ -16,7 +48,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float m10",
+                    "nombre": "float m02",
                     "description": ""
                 },
                 {
@@ -24,19 +56,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float m02",
-                    "description": ""
-                },
-                {
-                    "nombre": "double m02",
-                    "description": ""
-                },
-                {
-                    "nombre": "float m11",
-                    "description": ""
-                },
-                {
-                    "nombre": "double m10",
+                    "nombre": "double[] flatmatrix",
                     "description": ""
                 },
                 {
@@ -44,27 +64,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float m00",
-                    "description": ""
-                },
-                {
-                    "nombre": "AffineTransform Tx",
-                    "description": ""
-                },
-                {
-                    "nombre": "double m00",
-                    "description": ""
-                },
-                {
-                    "nombre": "double m12",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] flatmatrix",
-                    "description": ""
-                },
-                {
-                    "nombre": "float m01",
+                    "nombre": "double m02",
                     "description": ""
                 }
             ]
@@ -104,11 +104,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int srcOff",
+                    "nombre": "Point2D ptSrc",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] dstPts",
+                    "nombre": "int srcOff",
                     "description": ""
                 },
                 {
@@ -116,15 +116,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D ptDst",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point2D ptSrc",
-                    "description": ""
-                },
-                {
                     "nombre": "int dstOff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dstPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D ptDst",
                     "description": ""
                 },
                 {
@@ -162,7 +162,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double anchory",
+                    "nombre": "int numquadrants",
                     "description": ""
                 },
                 {
@@ -170,7 +170,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int numquadrants",
+                    "nombre": "double anchory",
                     "description": ""
                 }
             ]
@@ -184,10 +184,6 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double anchorx",
-                    "description": ""
-                },
-                {
                     "nombre": "double vecx",
                     "description": ""
                 },
@@ -197,6 +193,10 @@
                 },
                 {
                     "nombre": "double theta",
+                    "description": ""
+                },
+                {
+                    "nombre": "double anchorx",
                     "description": ""
                 }
             ]
@@ -228,11 +228,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double shx",
+                    "nombre": "double shy",
                     "description": ""
                 },
                 {
-                    "nombre": "double shy",
+                    "nombre": "double shx",
                     "description": ""
                 }
             ]
@@ -280,11 +280,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int srcOff",
+                    "nombre": "Point2D ptSrc",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] dstPts",
+                    "nombre": "int srcOff",
                     "description": ""
                 },
                 {
@@ -292,15 +292,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D ptDst",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point2D ptSrc",
-                    "description": ""
-                },
-                {
                     "nombre": "int dstOff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dstPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D ptDst",
                     "description": ""
                 },
                 {
@@ -332,7 +332,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double anchory",
+                    "nombre": "int numquadrants",
                     "description": ""
                 },
                 {
@@ -340,7 +340,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int numquadrants",
+                    "nombre": "double anchory",
                     "description": ""
                 }
             ]
@@ -354,10 +354,6 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double anchorx",
-                    "description": ""
-                },
-                {
                     "nombre": "double vecx",
                     "description": ""
                 },
@@ -367,6 +363,10 @@
                 },
                 {
                     "nombre": "double theta",
+                    "description": ""
+                },
+                {
+                    "nombre": "double anchorx",
                     "description": ""
                 }
             ]
@@ -394,7 +394,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double anchory",
+                    "nombre": "int numquadrants",
                     "description": ""
                 },
                 {
@@ -402,7 +402,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int numquadrants",
+                    "nombre": "double anchory",
                     "description": ""
                 }
             ]
@@ -416,10 +416,6 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double anchorx",
-                    "description": ""
-                },
-                {
                     "nombre": "double vecx",
                     "description": ""
                 },
@@ -429,6 +425,10 @@
                 },
                 {
                     "nombre": "double theta",
+                    "description": ""
+                },
+                {
+                    "nombre": "double anchorx",
                     "description": ""
                 }
             ]
@@ -452,11 +452,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double shx",
+                    "nombre": "double shy",
                     "description": ""
                 },
                 {
-                    "nombre": "double shy",
+                    "nombre": "double shx",
                     "description": ""
                 }
             ]
@@ -480,19 +480,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double m01",
-                    "description": ""
-                },
-                {
-                    "nombre": "double m02",
-                    "description": ""
-                },
-                {
-                    "nombre": "double m10",
-                    "description": ""
-                },
-                {
-                    "nombre": "double m11",
+                    "nombre": "double m00",
                     "description": ""
                 },
                 {
@@ -500,11 +488,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double m00",
+                    "nombre": "double m10",
                     "description": ""
                 },
                 {
                     "nombre": "double m12",
+                    "description": ""
+                },
+                {
+                    "nombre": "double m01",
+                    "description": ""
+                },
+                {
+                    "nombre": "double m11",
+                    "description": ""
+                },
+                {
+                    "nombre": "double m02",
                     "description": ""
                 }
             ]
@@ -514,11 +514,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double shx",
+                    "nombre": "double shy",
                     "description": ""
                 },
                 {
-                    "nombre": "double shy",
+                    "nombre": "double shx",
                     "description": ""
                 }
             ]
@@ -532,7 +532,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point2D[] ptSrc",
+                    "nombre": "Point2D ptSrc",
                     "description": ""
                 },
                 {
@@ -540,19 +540,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float[] dstPts",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] dstPts",
-                    "description": ""
-                },
-                {
                     "nombre": "double[] srcPts",
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D ptDst",
+                    "nombre": "float[] dstPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D[] ptSrc",
                     "description": ""
                 },
                 {
@@ -560,15 +556,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D ptSrc",
-                    "description": ""
-                },
-                {
                     "nombre": "int dstOff",
                     "description": ""
                 },
                 {
+                    "nombre": "double[] dstPts",
+                    "description": ""
+                },
+                {
                     "nombre": "float[] srcPts",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D ptDst",
                     "description": ""
                 },
                 {

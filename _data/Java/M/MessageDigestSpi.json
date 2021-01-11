@@ -18,7 +18,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "byte[] buf",
                     "description": ""
                 },
                 {
@@ -26,7 +26,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] buf",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -48,11 +48,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte input",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -60,7 +56,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte input",
                     "description": ""
                 }
             ]

@@ -78,11 +78,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int firstRow",
+                    "nombre": "int endRow",
                     "description": ""
                 },
                 {
-                    "nombre": "int endRow",
+                    "nombre": "int firstRow",
                     "description": ""
                 }
             ]
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int firstRow",
+                    "nombre": "int endRow",
                     "description": ""
                 },
                 {
-                    "nombre": "int endRow",
+                    "nombre": "int firstRow",
                     "description": ""
                 }
             ]
@@ -106,7 +106,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int firstRow",
+                    "nombre": "int column",
                     "description": ""
                 },
                 {
@@ -114,7 +114,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int column",
+                    "nombre": "int firstRow",
                     "description": ""
                 }
             ]
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Comparator<?> comparator",
+                    "nombre": "int column",
                     "description": ""
                 },
                 {
-                    "nombre": "int column",
+                    "nombre": "Comparator<?> comparator",
                     "description": ""
                 }
             ]
@@ -148,11 +148,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "I> modelWrapper",
+                    "nombre": "DefaultRowSorter.ModelWrapper<M",
                     "description": ""
                 },
                 {
-                    "nombre": "DefaultRowSorter.ModelWrapper<M",
+                    "nombre": "I> modelWrapper",
                     "description": ""
                 }
             ]
@@ -162,11 +162,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "RowFilter<? super M",
+                    "nombre": "? super I> filter",
                     "description": ""
                 },
                 {
-                    "nombre": "? super I> filter",
+                    "nombre": "RowFilter<? super M",
                     "description": ""
                 }
             ]
@@ -176,11 +176,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean sortable",
+                    "nombre": "int column",
                     "description": ""
                 },
                 {
-                    "nombre": "int column",
+                    "nombre": "boolean sortable",
                     "description": ""
                 }
             ]

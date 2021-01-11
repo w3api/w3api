@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String algorithm",
+                    "nombre": "Provider provider",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Provider provider",
+                    "nombre": "String algorithm",
                     "description": ""
                 }
             ]
@@ -74,15 +74,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AlgorithmParameterSpec paramSpec",
-                    "description": ""
-                },
-                {
                     "nombre": "String format",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] params",
+                    "description": ""
+                },
+                {
+                    "nombre": "AlgorithmParameterSpec paramSpec",
                     "description": ""
                 }
             ]

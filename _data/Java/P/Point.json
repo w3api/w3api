@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "Point p",
                     "description": ""
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -50,11 +50,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -63,6 +63,10 @@
             "nombre": "setLocation",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
                 {
                     "nombre": "double x",
                     "description": ""
@@ -73,10 +77,6 @@
                 },
                 {
                     "nombre": "Point p",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
                     "description": ""
                 },
                 {

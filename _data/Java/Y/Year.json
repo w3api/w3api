@@ -28,11 +28,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Month month",
+                    "nombre": "int month",
                     "description": ""
                 },
                 {
-                    "nombre": "int month",
+                    "nombre": "Month month",
                     "description": ""
                 }
             ]
@@ -230,11 +230,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DateTimeFormatter formatter",
+                    "nombre": "CharSequence text",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence text",
+                    "nombre": "DateTimeFormatter formatter",
                     "description": ""
                 }
             ]
@@ -244,15 +244,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "long amountToAdd",
+                    "description": ""
+                },
+                {
                     "nombre": "TemporalUnit unit",
                     "description": ""
                 },
                 {
                     "nombre": "TemporalAmount amountToAdd",
-                    "description": ""
-                },
-                {
-                    "nombre": "long amountToAdd",
                     "description": ""
                 }
             ]
@@ -314,11 +314,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAdjuster adjuster",
+                    "nombre": "TemporalField field",
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalField field",
+                    "nombre": "TemporalAdjuster adjuster",
                     "description": ""
                 }
             ]

@@ -46,11 +46,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BeanContextServiceRevokedListener bcsrl",
+                    "nombre": "Object serviceSelector",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?> serviceClass",
+                    "nombre": "Object requestor",
+                    "description": ""
+                },
+                {
+                    "nombre": "BeanContextServiceRevokedListener bcsrl",
                     "description": ""
                 },
                 {
@@ -58,11 +62,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object serviceSelector",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object requestor",
+                    "nombre": "Class<?> serviceClass",
                     "description": ""
                 }
             ]
@@ -82,15 +82,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Object service",
+                    "description": ""
+                },
+                {
                     "nombre": "BeanContextChild child",
                     "description": ""
                 },
                 {
                     "nombre": "Object requestor",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object service",
                     "description": ""
                 }
             ]
@@ -110,15 +110,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean revokeCurrentServicesNow",
+                    "description": ""
+                },
+                {
                     "nombre": "BeanContextServiceProvider serviceProvider",
                     "description": ""
                 },
                 {
                     "nombre": "Class<?> serviceClass",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean revokeCurrentServicesNow",
                     "description": ""
                 }
             ]

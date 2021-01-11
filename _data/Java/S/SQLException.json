@@ -1,18 +1,19 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "public class InsertarDatos {\n\n  public static void main(String[] args) {\n \n    Connection con = null;\n     PreparedStatement stmt = null;\n\n     String sDriver = \"com.mysql.jdbc.Driver\";\n     String sURL = \"jdbc:mysql://localhost:3306/lineadecodigo\";\n\n     try{\n        Class.forName(sDriver).newInstance();    \n        con = DriverManager.getConnection(sURL,\"root\",\"\");\n        \n        String sISBN = \"84-9815-212-7\";\n        String sTitulo = \"Yo, Claudio\";\n        String sDescripcion=\"Supuesta autobiograf\u00eda de Claudio\";\n        String sCategoria = \"Novela Hist\u00f3rica\";\n        int idAutor = 3;\n                     \n        stmt = con.prepareStatement(\"INSERT INTO libros VALUES (?,?,?,?,?)\");\n        stmt.setString(1,sISBN);\n        stmt.setInt(2,idAutor);\n        stmt.setString(3,sTitulo);\n        stmt.setString(4,sDescripcion);\n        stmt.setString(5,sCategoria);\n                     \n        int retorno = stmt.executeUpdate();\n        if (retorno>0)\n           System.out.println(\"Insertado correctamente\");      \n                     \n     } catch (SQLException sqle){\n        System.out.println(\"SQLState: \" \n           + sqle.getSQLState());\n        System.out.println(\"SQLErrorCode: \" \n           + sqle.getErrorCode());\n        sqle.printStackTrace();\n     } catch (Exception e){\n        e.printStackTrace();\n     } finally {\n        if (con\u00a0!= null) {\n           try{\n              stmt.close();\n              con.close();\n           } catch(Exception e){\n              e.printStackTrace();\n           }\n        }\n     }           \n   }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Actualizar datos con JDBC",
+            "url": "http://lineadecodigo.com/java/actualizar-datos-con-jdbc/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "SQLException",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String reason",
-                    "description": ""
-                },
-                {
-                    "nombre": "Throwable cause",
+                    "nombre": "String SQLState",
                     "description": ""
                 },
                 {
@@ -20,11 +21,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String SQLState",
+                    "nombre": "String sqlState",
                     "description": ""
                 },
                 {
-                    "nombre": "String sqlState",
+                    "nombre": "String reason",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable cause",
                     "description": ""
                 }
             ]

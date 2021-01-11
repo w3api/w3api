@@ -8,15 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreeTableView<S> source",
-                    "description": ""
-                },
-                {
-                    "nombre": "S oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventType<? extends TreeTableView.EditEvent> eventType",
+                    "nombre": "TreeItem<S> treeItem",
                     "description": ""
                 },
                 {
@@ -24,7 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TreeItem<S> treeItem",
+                    "nombre": "TreeTableView<S> source",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<? extends TreeTableView.EditEvent> eventType",
+                    "description": ""
+                },
+                {
+                    "nombre": "S oldValue",
                     "description": ""
                 }
             ]

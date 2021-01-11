@@ -236,11 +236,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LocalTime time",
+                    "nombre": "LocalDate date",
                     "description": ""
                 },
                 {
-                    "nombre": "LocalDate date",
+                    "nombre": "ZoneId zone",
                     "description": ""
                 },
                 {
@@ -252,23 +252,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "LocalDateTime localDateTime",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
-                    "description": ""
-                },
-                {
-                    "nombre": "int nanoOfSecond",
-                    "description": ""
-                },
-                {
-                    "nombre": "int hour",
-                    "description": ""
-                },
-                {
-                    "nombre": "ZoneId zone",
+                    "nombre": "LocalTime time",
                     "description": ""
                 },
                 {
@@ -278,6 +262,22 @@
                 {
                     "nombre": "int second",
                     "description": ""
+                },
+                {
+                    "nombre": "int nanoOfSecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "LocalDateTime localDateTime",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hour",
+                    "description": ""
                 }
             ]
         },
@@ -286,7 +286,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LocalDateTime localDateTime",
+                    "nombre": "ZoneOffset offset",
                     "description": ""
                 },
                 {
@@ -298,7 +298,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ZoneOffset offset",
+                    "nombre": "LocalDateTime localDateTime",
                     "description": ""
                 }
             ]
@@ -312,11 +312,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "LocalDateTime localDateTime",
+                    "nombre": "ZoneId zone",
                     "description": ""
                 },
                 {
-                    "nombre": "ZoneId zone",
+                    "nombre": "LocalDateTime localDateTime",
                     "description": ""
                 }
             ]
@@ -326,15 +326,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LocalDateTime localDateTime",
-                    "description": ""
-                },
-                {
                     "nombre": "ZoneOffset offset",
                     "description": ""
                 },
                 {
                     "nombre": "ZoneId zone",
+                    "description": ""
+                },
+                {
+                    "nombre": "LocalDateTime localDateTime",
                     "description": ""
                 }
             ]
@@ -344,11 +344,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DateTimeFormatter formatter",
+                    "nombre": "CharSequence text",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence text",
+                    "nombre": "DateTimeFormatter formatter",
                     "description": ""
                 }
             ]
@@ -358,15 +358,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "long amountToAdd",
+                    "description": ""
+                },
+                {
                     "nombre": "TemporalUnit unit",
                     "description": ""
                 },
                 {
                     "nombre": "TemporalAmount amountToAdd",
-                    "description": ""
-                },
-                {
-                    "nombre": "long amountToAdd",
                     "description": ""
                 }
             ]
@@ -524,11 +524,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAdjuster adjuster",
+                    "nombre": "TemporalField field",
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalField field",
+                    "nombre": "TemporalAdjuster adjuster",
                     "description": ""
                 }
             ]

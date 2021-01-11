@@ -34,11 +34,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int row",
+                    "nombre": "int column",
                     "description": ""
                 },
                 {
-                    "nombre": "int column",
+                    "nombre": "int row",
                     "description": ""
                 }
             ]
@@ -166,15 +166,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object aValue",
-                    "description": ""
-                },
-                {
                     "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
                     "nombre": "int rowIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object aValue",
                     "description": ""
                 }
             ]

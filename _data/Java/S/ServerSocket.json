@@ -1,14 +1,19 @@
 {
     "description": "",
     "code": "",
-    "ldc": [],
+    "ldc": [
+        {
+            "nombre": "Evitar que un programa Java se cargue dos veces",
+            "url": "http://lineadecodigo.com/java/evitar-que-un-programa-java-se-cargue-dos-veces/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "ServerSocket",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InetAddress bindAddr",
+                    "nombre": "int port",
                     "description": ""
                 },
                 {
@@ -16,7 +21,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int port",
+                    "nombre": "InetAddress bindAddr",
                     "description": ""
                 }
             ]
@@ -32,11 +37,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int backlog",
+                    "nombre": "SocketAddress endpoint",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketAddress endpoint",
+                    "nombre": "int backlog",
                     "description": ""
                 }
             ]
@@ -124,11 +129,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int latency",
+                    "nombre": "int connectionTime",
                     "description": ""
                 },
                 {
-                    "nombre": "int connectionTime",
+                    "nombre": "int latency",
                     "description": ""
                 }
             ]

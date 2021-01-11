@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "code": "",
+    "description": "Integer.parseInt()\n",
+    "code": "try {\n String cadena = \"1243e\";\n Integer.parseInt(cadena);\n} catch (NumberFormatException nfe){\n  nfe.printStackTrace();\n}\n",
     "ldc": [],
     "constructores": [
         {

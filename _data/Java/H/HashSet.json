@@ -1,18 +1,23 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "Alumnos person1 = new Alumnos(\"Juan\",18);\nAlumnos person2 = new Alumnos(\"Miguel\",25);\nAlumnos person3 = new Alumnos(\"Luis\",18);\nAlumnos person4 = new Alumnos(\"Luis\",18);\n\nHashSet<Alumnos> personas = new HashSet<Alumnos>();\npersonas.add(person1);\npersonas.add(person2);\npersonas.add(person3);\npersonas.add(person4);\n\nSystem.out.println(personas.size());\n",
+    "ldc": [
+        {
+            "nombre": "Calcular el n\u00famero feliz con Java",
+            "url": "http://lineadecodigo.com/java/calcular-el-numero-feliz-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "HashSet",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int initialCapacity",
+                    "nombre": "float loadFactor",
                     "description": ""
                 },
                 {
-                    "nombre": "float loadFactor",
+                    "nombre": "int initialCapacity",
                     "description": ""
                 },
                 {
@@ -25,11 +30,18 @@
     "metodos": [
         {
             "nombre": "add",
-            "description": "",
+            "description": "A\u00f1ade un elemento al conjunto siempre y cuando este no exista. Si el elemento no existe el m\u00e9todo devuelve true y false si ya existe.\n",
             "parametros": [
                 {
                     "nombre": "E e",
                     "description": ""
+                }
+            ],
+            "code": "HashSet<String> personas = new HashSet<String>();\npersonas.add(\"Victor\");\npersonas.add(\"Julio\");\npersonas.add(\"Josefina\");\npersonas.add(\"Carmen\");\n\t\t\t\t\n",
+            "ldc": [
+                {
+                    "nombre": "Calcular el n\u00famero feliz con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-el-numero-feliz-con-java/"
                 }
             ]
         },
@@ -43,13 +55,15 @@
         },
         {
             "nombre": "contains",
-            "description": "",
+            "description": "M\u00e9todo que comprueba si el objeto pasado como par\u00e1metro ya existe en el conjunto.\n",
             "parametros": [
                 {
                     "nombre": "Object o",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "Set<Integer> miconjunto = new HashSet<Integer>();\nmiconjunto.add(2);\nmiconjunto.add(3);\nmiconjunto.add(4);\nmiconjunto.add(5);\n\nif (miconjunto.contains(2))\n  System.out.println(\"El elemento ya existe en el conjunto\");\n\t\t\t\t\n",
+            "ldc": []
         },
         {
             "nombre": "isEmpty",

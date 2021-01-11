@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "Process process = Runtime.getRuntime().exec(\"lsb_release -a\");\nInputStream inputstream = process.getInputStream();\nBufferedInputStream bis = new BufferedInputStream(inputstream);\n",
     "ldc": [],
     "constructores": [
         {
@@ -35,7 +35,9 @@
         },
         {
             "nombre": "getInputStream",
-            "description": ""
+            "description": "Genera un Inputstream sobre el proceso. El stream obtiene un pipe sobre la salida del proceso.\n",
+            "code": "Process process = Runtime.getRuntime().exec(\"lsb_release -a\");\nInputStream inputstream = process.getInputStream();\n",
+            "ldc": []
         },
         {
             "nombre": "getOutputStream",
@@ -70,11 +72,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long timeout",
                     "description": ""
                 },
                 {
-                    "nombre": "long timeout",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 }
             ]

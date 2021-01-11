@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -46,11 +46,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int band",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -58,7 +54,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int band",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -68,7 +68,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float s2",
+                    "nombre": "float s0",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -76,15 +80,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float s0",
+                    "nombre": "float s2",
                     "description": ""
                 },
                 {
                     "nombre": "float s3",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
                     "description": ""
                 },
                 {

@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BlockingQueue<Future<V>> completionQueue",
+                    "nombre": "Executor executor",
                     "description": ""
                 },
                 {
-                    "nombre": "Executor executor",
+                    "nombre": "BlockingQueue<Future<V>> completionQueue",
                     "description": ""
                 }
             ]
@@ -24,15 +24,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Runnable task",
-                    "description": ""
-                },
-                {
                     "nombre": "V result",
                     "description": ""
                 },
                 {
                     "nombre": "Callable<V> task",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable task",
                     "description": ""
                 }
             ]

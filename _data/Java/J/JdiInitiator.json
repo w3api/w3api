@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean isLaunch",
+                    "nombre": "int timeout",
                     "description": ""
                 },
                 {
-                    "nombre": "int timeout",
+                    "nombre": "List<String> remoteVMOptions",
                     "description": ""
                 },
                 {
@@ -20,15 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String remoteAgent",
-                    "description": ""
-                },
-                {
-                    "nombre": "Map<String",
-                    "description": ""
-                },
-                {
                     "nombre": "String host",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isLaunch",
                     "description": ""
                 },
                 {
@@ -36,7 +32,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "List<String> remoteVMOptions",
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "String remoteAgent",
                     "description": ""
                 }
             ]

@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                },
+                {
                     "nombre": "String name",
                     "description": ""
                 },
                 {
                     "nombre": "MethodType concatType",
-                    "description": ""
-                },
-                {
-                    "nombre": "MethodHandles.Lookup lookup",
                     "description": ""
                 }
             ]
@@ -26,15 +26,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MethodType concatType",
-                    "description": ""
-                },
-                {
                     "nombre": "String name",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object... constants",
                     "description": ""
                 },
                 {
@@ -43,6 +35,14 @@
                 },
                 {
                     "nombre": "MethodHandles.Lookup lookup",
+                    "description": ""
+                },
+                {
+                    "nombre": "MethodType concatType",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object... constants",
                     "description": ""
                 }
             ]

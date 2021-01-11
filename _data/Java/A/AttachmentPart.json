@@ -116,11 +116,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String contentType",
+                    "nombre": "InputStream content",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream content",
+                    "nombre": "String contentType",
                     "description": ""
                 }
             ]
@@ -130,11 +130,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object object",
+                    "nombre": "String contentType",
                     "description": ""
                 },
                 {
-                    "nombre": "String contentType",
+                    "nombre": "Object object",
                     "description": ""
                 }
             ]
@@ -198,11 +198,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String contentType",
+                    "nombre": "InputStream content",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream content",
+                    "nombre": "String contentType",
                     "description": ""
                 }
             ]
@@ -212,19 +212,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] content",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "String contentType",
                     "description": ""
                 },
                 {
                     "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] content",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]

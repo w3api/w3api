@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String host",
+                    "nombre": "int port",
                     "description": ""
                 },
                 {
-                    "nombre": "int port",
+                    "nombre": "String host",
                     "description": ""
                 }
             ]
@@ -28,11 +28,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Thread t",
+                    "nombre": "ThreadGroup g",
                     "description": ""
                 },
                 {
-                    "nombre": "ThreadGroup g",
+                    "nombre": "Thread t",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String host",
+                    "nombre": "int port",
                     "description": ""
                 },
                 {
-                    "nombre": "int port",
+                    "nombre": "String host",
                     "description": ""
                 },
                 {
@@ -118,11 +118,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> clazz",
+                    "nombre": "int which",
                     "description": ""
                 },
                 {
-                    "nombre": "int which",
+                    "nombre": "Class<?> clazz",
                     "description": ""
                 }
             ]
@@ -132,11 +132,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InetAddress maddr",
+                    "nombre": "byte ttl",
                     "description": ""
                 },
                 {
-                    "nombre": "byte ttl",
+                    "nombre": "InetAddress maddr",
                     "description": ""
                 }
             ]
@@ -166,11 +166,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object context",
+                    "nombre": "Permission perm",
                     "description": ""
                 },
                 {
-                    "nombre": "Permission perm",
+                    "nombre": "Object context",
                     "description": ""
                 }
             ]

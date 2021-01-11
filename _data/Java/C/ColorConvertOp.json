@@ -8,15 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "RenderingHints hints",
+                    "nombre": "ColorSpace cspace",
                     "description": ""
                 },
                 {
                     "nombre": "ColorSpace dstCspace",
-                    "description": ""
-                },
-                {
-                    "nombre": "ColorSpace cspace",
                     "description": ""
                 },
                 {
@@ -25,6 +21,10 @@
                 },
                 {
                     "nombre": "ColorSpace srcCspace",
+                    "description": ""
+                },
+                {
+                    "nombre": "RenderingHints hints",
                     "description": ""
                 }
             ]
@@ -68,11 +68,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BufferedImage dest",
+                    "nombre": "WritableRaster dest",
                     "description": ""
                 },
                 {
-                    "nombre": "WritableRaster dest",
+                    "nombre": "BufferedImage dest",
                     "description": ""
                 }
             ]
@@ -82,11 +82,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BufferedImage src",
+                    "nombre": "Raster src",
                     "description": ""
                 },
                 {
-                    "nombre": "Raster src",
+                    "nombre": "BufferedImage src",
                     "description": ""
                 }
             ]
@@ -100,11 +100,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point2D dstPt",
+                    "nombre": "Point2D srcPt",
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D srcPt",
+                    "nombre": "Point2D dstPt",
                     "description": ""
                 }
             ]

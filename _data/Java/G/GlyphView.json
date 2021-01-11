@@ -20,7 +20,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float pos",
+                    "nombre": "int axis",
                     "description": ""
                 },
                 {
@@ -28,11 +28,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int axis",
+                    "nombre": "int p0",
                     "description": ""
                 },
                 {
-                    "nombre": "int p0",
+                    "nombre": "float pos",
                     "description": ""
                 }
             ]
@@ -42,7 +42,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DocumentEvent e",
+                    "nombre": "ViewFactory f",
                     "description": ""
                 },
                 {
@@ -50,7 +50,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ViewFactory f",
+                    "nombre": "DocumentEvent e",
                     "description": ""
                 }
             ]
@@ -96,7 +96,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float pos",
+                    "nombre": "int axis",
                     "description": ""
                 },
                 {
@@ -104,7 +104,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int axis",
+                    "nombre": "float pos",
                     "description": ""
                 }
             ]
@@ -140,7 +140,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -152,7 +152,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Shape a",
+                    "nombre": "int pos",
                     "description": ""
                 },
                 {
@@ -194,11 +194,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TabExpander e",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "TabExpander e",
                     "description": ""
                 }
             ]
@@ -226,7 +226,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DocumentEvent e",
+                    "nombre": "ViewFactory f",
                     "description": ""
                 },
                 {
@@ -234,7 +234,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ViewFactory f",
+                    "nombre": "DocumentEvent e",
                     "description": ""
                 }
             ]
@@ -292,7 +292,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DocumentEvent e",
+                    "nombre": "ViewFactory f",
                     "description": ""
                 },
                 {
@@ -300,7 +300,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ViewFactory f",
+                    "nombre": "DocumentEvent e",
                     "description": ""
                 }
             ]
@@ -320,19 +320,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
-                    "description": ""
-                },
-                {
-                    "nombre": "float y",
-                    "description": ""
-                },
-                {
                     "nombre": "float x",
                     "description": ""
                 },
                 {
                     "nombre": "Position.Bias[] biasReturn",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
                     "description": ""
                 }
             ]

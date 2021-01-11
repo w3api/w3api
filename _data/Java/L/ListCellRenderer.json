@@ -8,7 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean cellHasFocus",
+                    "nombre": "JList<? extends E> list",
+                    "description": ""
+                },
+                {
+                    "nombre": "E value",
                     "description": ""
                 },
                 {
@@ -20,11 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JList<? extends E> list",
-                    "description": ""
-                },
-                {
-                    "nombre": "E value",
+                    "nombre": "boolean cellHasFocus",
                     "description": ""
                 }
             ]

@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "File file",
+                    "nombre": "URL url",
                     "description": ""
                 },
                 {
-                    "nombre": "URL url",
+                    "nombre": "File file",
                     "description": ""
                 },
                 {
@@ -44,7 +44,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "nombre": "InputStream stream",
                     "description": ""
                 },
                 {
@@ -52,11 +52,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AudioInputStream sourceStream",
+                    "nombre": "AudioFormat.Encoding targetEncoding",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream stream",
+                    "nombre": "AudioInputStream sourceStream",
                     "description": ""
                 }
             ]
@@ -100,11 +100,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Mixer.Info mixerinfo",
+                    "nombre": "AudioFormat format",
                     "description": ""
                 },
                 {
-                    "nombre": "AudioFormat format",
+                    "nombre": "Mixer.Info mixerinfo",
                     "description": ""
                 }
             ]
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Mixer.Info mixerinfo",
+                    "nombre": "AudioFormat format",
                     "description": ""
                 },
                 {
-                    "nombre": "AudioFormat format",
+                    "nombre": "Mixer.Info mixerinfo",
                     "description": ""
                 }
             ]
@@ -152,11 +152,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AudioFormat sourceFormat",
+                    "nombre": "AudioFormat.Encoding targetEncoding",
                     "description": ""
                 },
                 {
-                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "nombre": "AudioFormat sourceFormat",
                     "description": ""
                 }
             ]
@@ -176,7 +176,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AudioFormat sourceFormat",
+                    "nombre": "AudioFormat.Encoding targetEncoding",
                     "description": ""
                 },
                 {
@@ -184,7 +184,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "nombre": "AudioFormat sourceFormat",
                     "description": ""
                 }
             ]
@@ -222,15 +222,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AudioInputStream stream",
-                    "description": ""
-                },
-                {
                     "nombre": "OutputStream out",
                     "description": ""
                 },
                 {
                     "nombre": "File out",
+                    "description": ""
+                },
+                {
+                    "nombre": "AudioInputStream stream",
                     "description": ""
                 }
             ]

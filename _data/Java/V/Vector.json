@@ -1,22 +1,27 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "El Vector representa a un array de objetos.\n",
+    "code": "Vector<String> mivector = new Vector<String>();\nmivector.add(\"Elemento Uno\");\n",
+    "ldc": [
+        {
+            "nombre": "Ordenando alfab\u00e9ticamente con CASE_INSENSITIVE_ORDER",
+            "url": "http://lineadecodigo.com/java/ordenando-alfabeticamente-con-case_insensitive_order/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Vector",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int initialCapacity",
-                    "description": ""
-                },
-                {
                     "nombre": "int capacityIncrement",
                     "description": ""
                 },
                 {
                     "nombre": "Collection<? extends E> c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int initialCapacity",
                     "description": ""
                 }
             ]
@@ -25,32 +30,34 @@
     "metodos": [
         {
             "nombre": "add",
-            "description": "",
+            "description": "M\u00e9todo que nos permite a\u00f1adir elementos a un Vector. Bien sea a\u00f1adir elementos en la parte de atr\u00e1s del Vector,con .add(E element), o en una posicion en concreto, con .add(int index, E element).\n",
             "parametros": [
                 {
-                    "nombre": "E e",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "E e",
                     "description": ""
                 },
                 {
                     "nombre": "E element",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "Vector<String> mivector = new Vector<String>();\nmivector.add(\"Elemento Uno\");\nmivector.add(2,\"Elemento Nuevo en la posici\u00f3n 2\");\n",
+            "ldc": []
         },
         {
             "nombre": "addAll",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Collection<? extends E> c",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<? extends E> c",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -188,11 +195,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "E obj",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "E obj",
                     "description": ""
                 }
             ]
@@ -296,11 +303,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int toIndex",
+                    "nombre": "int fromIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "int toIndex",
                     "description": ""
                 }
             ]
@@ -344,11 +351,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "E obj",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "E obj",
                     "description": ""
                 }
             ]
@@ -376,11 +383,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int toIndex",
+                    "nombre": "int fromIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "int toIndex",
                     "description": ""
                 }
             ]

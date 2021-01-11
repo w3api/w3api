@@ -8,19 +8,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int initialCapacity",
-                    "description": ""
-                },
-                {
-                    "nombre": "int rule",
-                    "description": ""
-                },
-                {
                     "nombre": "AffineTransform at",
                     "description": ""
                 },
                 {
+                    "nombre": "int initialCapacity",
+                    "description": ""
+                },
+                {
                     "nombre": "Shape s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rule",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PathIterator pi",
+                    "nombre": "boolean connect",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean connect",
+                    "nombre": "PathIterator pi",
                     "description": ""
                 }
             ]
@@ -49,14 +49,6 @@
             "nombre": "curveTo",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "double y1",
-                    "description": ""
-                },
-                {
-                    "nombre": "double x2",
-                    "description": ""
-                },
                 {
                     "nombre": "double x3",
                     "description": ""
@@ -71,6 +63,14 @@
                 },
                 {
                     "nombre": "double y2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
                     "description": ""
                 }
             ]
@@ -94,11 +94,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double y",
                     "description": ""
                 }
             ]
@@ -108,11 +108,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double y",
                     "description": ""
                 }
             ]
@@ -126,7 +126,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double y1",
+                    "nombre": "double x2",
                     "description": ""
                 },
                 {
@@ -134,7 +134,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x2",
+                    "nombre": "double y1",
                     "description": ""
                 }
             ]

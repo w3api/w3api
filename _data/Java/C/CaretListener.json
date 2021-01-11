@@ -1,17 +1,19 @@
 {
     "description": "",
-    "code": "",
+    "code": "editor = new JTextArea();\neditor.addCaretListener(new CaretListener() {           \n   \n  public void caretUpdate(CaretEvent e) {\n \n    JTextArea editArea = (JTextArea)e.getSource();\n\n    int linea = 1;\n    int columna = 1;\n \n     try {\n       int caretpos = editArea.getCaretPosition();\n       linea= editArea.getLineOfOffset(caretpos);\n       columna = caretpos - editArea.getLineStartOffset(linea);\n       linea += 1;\n     } catch(Exception ex) { }\n  }\n \n});\n\nadd(editor, BorderLayout.CENTER);\n",
     "ldc": [],
     "metodos": [
         {
             "nombre": "caretUpdate",
-            "description": "",
+            "description": "M\u00e9todo invocado cuando se ha modificado el cursor en un componente de texto.\n",
             "parametros": [
                 {
                     "nombre": "CaretEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "editor = new JTextArea();\neditor.addCaretListener(new CaretListener() {           \n   \n  public void caretUpdate(CaretEvent e) {\n \n    JTextArea editArea = (JTextArea)e.getSource();\n\n    int linea = 1;\n    int columna = 1;\n \n     try {\n       int caretpos = editArea.getCaretPosition();\n       linea= editArea.getLineOfOffset(caretpos);\n       columna = caretpos - editArea.getLineStartOffset(linea);\n       linea += 1;\n     } catch(Exception ex) { }\n  }\n \n});\n\nadd(editor, BorderLayout.CENTER);\n",
+            "ldc": []
         }
     ]
 }

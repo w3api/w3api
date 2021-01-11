@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "mapa.put(1, \"Victor\");\nmapa.put(2,  \"Nacho\");\nmapa.put(3, \"Julio\");\nmapa.put(4, \"David\");\nmapa.put(1, \"Pepe\"); // Para demostrar el uso del HashMap\n \nString[] nombres = mapa.values().toArray(new String[0]);\n\t\t\nfor (String nombre: nombres)\n  System.out.println(nombre);\n",
     "ldc": [],
     "metodos": [
         {
@@ -127,13 +127,15 @@
         },
         {
             "nombre": "toArray",
-            "description": "",
+            "description": "M\u00e9todo que devuelve todos los elementos de una colecci\u00f3n como si fuesen un array.\n",
             "parametros": [
                 {
                     "nombre": "T[] a",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "Map<Integer,String> mapa = new HashMap<Integer,String>();\n",
+            "ldc": []
         }
     ]
 }

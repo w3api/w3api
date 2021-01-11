@@ -8,10 +8,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Socket s",
-                    "description": ""
-                },
-                {
                     "nombre": "DatagramSocket s",
                     "description": ""
                 },
@@ -21,6 +17,10 @@
                 },
                 {
                     "nombre": "ServerSocket s",
+                    "description": ""
+                },
+                {
+                    "nombre": "Socket s",
                     "description": ""
                 }
             ]
@@ -30,11 +30,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DatagramSocket s",
+                    "nombre": "SocketOption<T> name",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketOption<T> name",
+                    "nombre": "Socket s",
+                    "description": ""
+                },
+                {
+                    "nombre": "DatagramSocket s",
                     "description": ""
                 },
                 {
@@ -43,10 +47,6 @@
                 },
                 {
                     "nombre": "ServerSocket s",
-                    "description": ""
-                },
-                {
-                    "nombre": "Socket s",
                     "description": ""
                 }
             ]

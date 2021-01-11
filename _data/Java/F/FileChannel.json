@@ -1,7 +1,12 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "try {\n \n  // Definimos el fichero y el canal a utilizar\n  File file = new File(\"test.txt\");\n  FileChannel channel = new RandomAccessFile(file, \"rw\").getChannel();\n\n  // Bloqueamos el fichero\n  FileLock lock = channel.lock();\n\n  // Intentamos adquirir el bloqueo del fichero\n  try {\n     lock = channel.tryLock();\n  } catch (OverlappingFileLockException e) {\n     // Fichero ya bloqueado\n  }\t    \n\t    \n  // Liberamos el bloqueo\n  lock.release();\t    \n  channel.close();\t   \n\n  } catch (Exception e) {\n}\n",
+    "ldc": [
+        {
+            "nombre": "Bloquear un fichero con Java",
+            "url": "http://lineadecodigo.com/java/bloquear-un-fichero-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "FileChannel",
@@ -21,19 +26,26 @@
         },
         {
             "nombre": "lock",
-            "description": "",
+            "description": "Obtiene un bloqueo sobre una regi\u00f3n del fichero correspondiente a la posici\u00f3n pasada como par\u00e1metro.\n",
             "parametros": [
-                {
-                    "nombre": "long size",
-                    "description": ""
-                },
                 {
                     "nombre": "boolean shared",
                     "description": ""
                 },
                 {
+                    "nombre": "long size",
+                    "description": ""
+                },
+                {
                     "nombre": "long position",
                     "description": ""
+                }
+            ],
+            "code": "try {\n \n  // Definimos el fichero y el canal a utilizar\n  File file = new File(\"test.txt\");\n  FileChannel channel = new RandomAccessFile(file, \"rw\").getChannel();\n\n  // Bloqueamos el fichero\n  FileLock lock = channel.lock();\n\n  // Intentamos adquirir el bloqueo del fichero\n  try {\n     lock = channel.tryLock();\n  } catch (OverlappingFileLockException e) {\n     // Fichero ya bloqueado\n  }\t    \n\t    \n  // Liberamos el bloqueo\n  lock.release();\t    \n  channel.close();\t   \n\n  } catch (Exception e) {\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Bloquear un fichero con Java",
+                    "url": "http://lineadecodigo.com/java/bloquear-un-fichero-con-java/"
                 }
             ]
         },
@@ -42,11 +54,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "FileChannel.MapMode mode",
+                    "nombre": "long size",
                     "description": ""
                 },
                 {
-                    "nombre": "long size",
+                    "nombre": "FileChannel.MapMode mode",
                     "description": ""
                 },
                 {
@@ -64,15 +76,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Set<? extends OpenOption> options",
-                    "description": ""
-                },
-                {
                     "nombre": "FileAttribute<?>... attrs",
                     "description": ""
                 },
                 {
                     "nombre": "Path path",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<? extends OpenOption> options",
                     "description": ""
                 }
             ]
@@ -92,11 +104,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ByteBuffer[] dsts",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
+                    "nombre": "long position",
                     "description": ""
                 },
                 {
@@ -104,11 +112,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long position",
+                    "nombre": "ByteBuffer dst",
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer dst",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer[] dsts",
                     "description": ""
                 }
             ]
@@ -122,15 +134,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ReadableByteChannel src",
-                    "description": ""
-                },
-                {
                     "nombre": "long count",
                     "description": ""
                 },
                 {
                     "nombre": "long position",
+                    "description": ""
+                },
+                {
+                    "nombre": "ReadableByteChannel src",
                     "description": ""
                 }
             ]
@@ -140,11 +152,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long count",
+                    "nombre": "WritableByteChannel target",
                     "description": ""
                 },
                 {
-                    "nombre": "WritableByteChannel target",
+                    "nombre": "long count",
                     "description": ""
                 },
                 {
@@ -165,19 +177,26 @@
         },
         {
             "nombre": "tryLock",
-            "description": "",
+            "description": "Intenta adquirir un bloqueo exclusivo sobre el fichero del canal.\n",
             "parametros": [
-                {
-                    "nombre": "long size",
-                    "description": ""
-                },
                 {
                     "nombre": "boolean shared",
                     "description": ""
                 },
                 {
+                    "nombre": "long size",
+                    "description": ""
+                },
+                {
                     "nombre": "long position",
                     "description": ""
+                }
+            ],
+            "code": "try {\n \n  // Definimos el fichero y el canal a utilizar\n  File file = new File(\"test.txt\");\n  FileChannel channel = new RandomAccessFile(file, \"rw\").getChannel();\n\n  // Bloqueamos el fichero\n  FileLock lock = channel.lock();\n\n  // Intentamos adquirir el bloqueo del fichero\n  try {\n     lock = channel.tryLock();\n  } catch (OverlappingFileLockException e) {\n     // Fichero ya bloqueado\n  }\t    \n\t    \n  // Liberamos el bloqueo\n  lock.release();\t    \n  channel.close();\t   \n\n  } catch (Exception e) {\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Bloquear un fichero con Java",
+                    "url": "http://lineadecodigo.com/java/bloquear-un-fichero-con-java/"
                 }
             ]
         },
@@ -186,15 +205,11 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "long position",
+                    "description": ""
+                },
+                {
                     "nombre": "ByteBuffer src",
-                    "description": ""
-                },
-                {
-                    "nombre": "ByteBuffer[] srcs",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -202,7 +217,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long position",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer[] srcs",
                     "description": ""
                 }
             ]

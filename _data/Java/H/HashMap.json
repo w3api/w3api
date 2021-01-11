@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "Map<String,String> hm = new HashMap<String,String>();\n\t\t   \nhm.put(\"1\",\"Luis\");\nhm.put(\"2\",\"Amaya\");\nhm.put(\"3\",\"Julio\");\n\n// A\u00f1adimos un elemento con clave existente. Se sobrescribe su valor\n// ya que no puede haber valores duplicados\nhm.put(\"1\",\"Victor\");\n\t   \nIterator<Entry<String,String>> it = hm.entrySet().iterator();\n\t\t\nwhile (it.hasNext()) {\n  Entry<String,String> e = it.next();\n  System.out.println(e.getKey() + \" \" + e.getValue());\n}\n",
     "ldc": [],
     "constructores": [
         {
@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int initialCapacity",
+                    "nombre": "Map<? extends K",
                     "description": ""
                 },
                 {
@@ -16,11 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "? extends V> m",
+                    "nombre": "int initialCapacity",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<? extends K",
+                    "nombre": "? extends V> m",
                     "description": ""
                 }
             ]
@@ -40,11 +40,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super V",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -52,7 +48,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super V",
                     "description": ""
                 }
             ]
@@ -80,11 +80,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super V",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -92,20 +88,26 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super V",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "containsKey",
-            "description": "",
+            "description": "M\u00e9todo que devuelve true si el mapa contiene la clave pasada como par\u00e1metro.\n",
             "parametros": [
                 {
                     "nombre": "Object key",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "// N\u00famero de ocurrencias\nint[] listaNumeros = {1,4,7,8,9,2,7,15,4,6,9,9,8};\nHashMap<Integer, Integer> hm = new HashMap<Integer, Integer>();\nint clave;\n\t\t\nfor (int x=0;x<listaNumeros.length;x++) {\t\t\t\n  clave = listaNumeros[x];\n  if (hm.containsKey(clave))\n    hm.put(clave, hm.get(clave)+1);\n  else\n    hm.put(clave,1);\t\t\t\n}\n",
+            "ldc": []
         },
         {
             "nombre": "containsValue",
@@ -119,17 +121,21 @@
         },
         {
             "nombre": "entrySet",
-            "description": ""
+            "description": "M\u00e9todo que devuelve una vista del HashMap en formato colecci\u00f3n. Cualquier modificaci\u00f3n en la vista afecta directamente al contenido del HashMap.\n",
+            "code": "Iterator<Entry<Integer,Integer>> it = hm.entrySet().iterator();\n\t\nwhile (it.hasNext()) {\n Entry<Integer,Integer> e = it.next();\n System.out.println(e.getKey() + e.getValue());\n}\n",
+            "ldc": []
         },
         {
             "nombre": "get",
-            "description": "",
+            "description": "Retorna el valor del HashMap para la clave pasada como par\u00e1metro.\n",
             "parametros": [
                 {
                     "nombre": "Object key",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "Map<String,String> hm = new HashMap<String,String>();\n\t\t   \nhm.put(\"1\",\"Luis\");\nhm.put(\"2\",\"Amaya\");\nhm.put(\"3\",\"Julio\");\n\nIterator<Entry<String,String>> it = hm.entrySet().iterator();\n\t\t\nwhile (it.hasNext()) {\n Entry<String,String> e = it.next();\n System.out.println(e.getKey() + \" \" + e.getValue());\n}\n",
+            "ldc": []
         },
         {
             "nombre": "isEmpty",
@@ -137,22 +143,24 @@
         },
         {
             "nombre": "keySet",
-            "description": ""
+            "description": "Devuelve un conjunto con las claves que hay en el HashMap.\n",
+            "code": "Map<String,String> m = new HashMap<String,String>();\n  \nm.put(\"c1\", \"valor1\");\nm.put(\"c2\", \"valor2\");\nm.put(\"c3\", \"valor1\");\nm.put(\"c4\", \"mi valor\");\n \nSystem.out.println(m.keySet());\n",
+            "ldc": []
         },
         {
             "nombre": "merge",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
                     "nombre": "? super V",
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super V",
+                    "nombre": "V value",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 },
                 {
@@ -160,35 +168,37 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V value",
+                    "nombre": "BiFunction<? super V",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "put",
-            "description": "",
+            "description": "Inserta un par clave/valor en el mapa utilizando los valores pasados como par\u00e1metros.\n",
             "parametros": [
-                {
-                    "nombre": "K key",
-                    "description": ""
-                },
                 {
                     "nombre": "V value",
                     "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "Map<String,String> hm = new HashMap<String,String>();\n\t   \nhm.put(\"1\",\"Luis\");\nhm.put(\"2\",\"Amaya\");\nhm.put(\"3\",\"Julio\");\n",
+            "ldc": []
         },
         {
             "nombre": "putAll",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> m",
+                    "nombre": "Map<? extends K",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<? extends K",
+                    "nombre": "? extends V> m",
                     "description": ""
                 }
             ]
@@ -205,11 +215,15 @@
         },
         {
             "nombre": "size",
-            "description": ""
+            "description": "Retorna el n\u00famero de elemento clave/valor que tiene el HashMap.\n",
+            "code": "Map<String,String> hm = new HashMap<String,String>();\n\t\t   \nhm.put(\"1\",\"Luis\");\nhm.put(\"2\",\"Amaya\");\nhm.put(\"3\",\"Julio\");\n\nSystem.out.println(hm.size());\n",
+            "ldc": []
         },
         {
             "nombre": "values",
-            "description": ""
+            "description": "Devuelve una colecci\u00f3n con los valores del HashMap.\n",
+            "code": "Map<Integer,String> mapa = new HashMap<Integer,String>();\n",
+            "ldc": []
         }
     ]
 }

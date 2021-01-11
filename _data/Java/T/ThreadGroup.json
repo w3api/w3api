@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ThreadGroup parent",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "ThreadGroup parent",
                     "description": ""
                 }
             ]
@@ -50,15 +50,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Thread[] list",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean recurse",
                     "description": ""
                 },
                 {
                     "nombre": "ThreadGroup[] list",
+                    "description": ""
+                },
+                {
+                    "nombre": "Thread[] list",
                     "description": ""
                 }
             ]
@@ -142,11 +142,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Thread t",
+                    "nombre": "Throwable e",
                     "description": ""
                 },
                 {
-                    "nombre": "Throwable e",
+                    "nombre": "Thread t",
                     "description": ""
                 }
             ]

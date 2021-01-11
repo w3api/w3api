@@ -8,7 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String prompt",
+                    "nombre": "int defaultOption",
+                    "description": ""
+                },
+                {
+                    "nombre": "String[] options",
                     "description": ""
                 },
                 {
@@ -16,15 +20,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String prompt",
+                    "description": ""
+                },
+                {
                     "nombre": "int optionType",
-                    "description": ""
-                },
-                {
-                    "nombre": "int defaultOption",
-                    "description": ""
-                },
-                {
-                    "nombre": "String[] options",
                     "description": ""
                 }
             ]

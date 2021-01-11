@@ -1,0 +1,307 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Delegate",
+            "description": ""
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "create_request",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ContextList ctxlist",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExceptionList exclist",
+                    "description": ""
+                },
+                {
+                    "nombre": "NVList arg_list",
+                    "description": ""
+                },
+                {
+                    "nombre": "String operation",
+                    "description": ""
+                },
+                {
+                    "nombre": "NamedValue result",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "Context ctx",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "duplicate",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "equals",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_domain_managers",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_interface_def",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "get_policy",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "int policy_type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hash",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int max",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "hashCode",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "invoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "OutputStream output",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_a",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "String repository_id",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_equivalent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object other",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "is_local",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "non_existent",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "orb",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "release",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "releaseReply",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "InputStream input",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "request",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean responseExpected",
+                    "description": ""
+                },
+                {
+                    "nombre": "String operation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "servant_postinvoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "ServantObject servant",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "servant_preinvoke",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Class expectedType",
+                    "description": ""
+                },
+                {
+                    "nombre": "String operation",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "set_policy_override",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "SetOverrideType set_add",
+                    "description": ""
+                },
+                {
+                    "nombre": "Policy[] policies",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "toString",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Object self",
+                    "description": ""
+                }
+            ]
+        }
+    ]
+}

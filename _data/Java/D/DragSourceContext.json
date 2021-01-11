@@ -8,10 +8,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DragGestureEvent trigger",
-                    "description": ""
-                },
-                {
                     "nombre": "Transferable t",
                     "description": ""
                 },
@@ -24,11 +20,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "DragSourceListener dsl",
+                    "nombre": "DragGestureEvent trigger",
                     "description": ""
                 },
                 {
                     "nombre": "Cursor dragCursor",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragSourceListener dsl",
                     "description": ""
                 }
             ]
@@ -158,15 +158,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int status",
+                    "description": ""
+                },
+                {
                     "nombre": "int sourceAct",
                     "description": ""
                 },
                 {
                     "nombre": "int targetAct",
-                    "description": ""
-                },
-                {
-                    "nombre": "int status",
                     "description": ""
                 }
             ]

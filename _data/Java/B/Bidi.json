@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int paragraphLength",
+                    "nombre": "char[] text",
                     "description": ""
                 },
                 {
-                    "nombre": "char[] text",
+                    "nombre": "int textStart",
                     "description": ""
                 },
                 {
@@ -20,11 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] embeddings",
-                    "description": ""
-                },
-                {
-                    "nombre": "String paragraph",
+                    "nombre": "int paragraphLength",
                     "description": ""
                 },
                 {
@@ -36,7 +32,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int textStart",
+                    "nombre": "String paragraph",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] embeddings",
                     "description": ""
                 }
             ]
@@ -52,11 +52,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int lineLimit",
+                    "nombre": "int lineStart",
                     "description": ""
                 },
                 {
-                    "nombre": "int lineStart",
+                    "nombre": "int lineLimit",
                     "description": ""
                 }
             ]
@@ -134,11 +134,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] levels",
+                    "nombre": "int count",
                     "description": ""
                 },
                 {
-                    "nombre": "int count",
+                    "nombre": "byte[] levels",
                     "description": ""
                 },
                 {
@@ -156,15 +156,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "char[] text",
+                    "description": ""
+                },
+                {
                     "nombre": "int start",
                     "description": ""
                 },
                 {
                     "nombre": "int limit",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] text",
                     "description": ""
                 }
             ]

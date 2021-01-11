@@ -8,19 +8,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int versionNum",
-                    "description": ""
-                },
-                {
                     "nombre": "byte[] keyBytes",
                     "description": ""
                 },
                 {
-                    "nombre": "int keyType",
+                    "nombre": "KerberosPrincipal principal",
                     "description": ""
                 },
                 {
-                    "nombre": "KerberosPrincipal principal",
+                    "nombre": "int versionNum",
                     "description": ""
                 },
                 {
@@ -29,6 +25,10 @@
                 },
                 {
                     "nombre": "String algorithm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int keyType",
                     "description": ""
                 }
             ]

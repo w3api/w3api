@@ -1,22 +1,27 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "Clase abstracta que representa la AWT.\n",
+    "code": "public class ResolucionPantalla {\n public static void main(String[] args) {                \n   Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();\n   System.out.println(\"Tu resoluci\u00f3n es de \" + screenSize.width + \"x\" + screenSize.height);                \n }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Conocer la resoluci\u00f3n de la pantalla con Java",
+            "url": "http://lineadecodigo.com/java/conocer-la-resolucion-de-la-pantalla-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Dimension",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
                 {
                     "nombre": "Dimension d",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -54,14 +59,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double height",
-                    "description": ""
-                },
-                {
-                    "nombre": "double width",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
@@ -70,7 +67,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double width",
+                    "description": ""
+                },
+                {
                     "nombre": "Dimension d",
+                    "description": ""
+                },
+                {
+                    "nombre": "double height",
                     "description": ""
                 }
             ]
@@ -83,11 +88,25 @@
     "campos": [
         {
             "nombre": "height",
-            "description": ""
+            "description": "Representa la altura en la dimensi\u00f3n de un componente.\n",
+            "code": "public class ResolucionPantalla {\n public static void main(String[] args) {                \n   Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();\n   System.out.println(\"Tu resoluci\u00f3n es de \" + screenSize.width + \"x\" + screenSize.height);                \n }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Conocer la resoluci\u00f3n de la pantalla con Java",
+                    "url": "http://lineadecodigo.com/java/conocer-la-resolucion-de-la-pantalla-con-java/"
+                }
+            ]
         },
         {
             "nombre": "width",
-            "description": ""
+            "description": "Representa el ancho en la dimensi\u00f3n de un componente.\n",
+            "code": "public class ResolucionPantalla {\n public static void main(String[] args) {                \n   Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();\n   System.out.println(\"Tu resoluci\u00f3n es de \" + screenSize.width + \"x\" + screenSize.height);                \n }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Conocer la resoluci\u00f3n de la pantalla con Java",
+                    "url": "http://lineadecodigo.com/java/conocer-la-resolucion-de-la-pantalla-con-java/"
+                }
+            ]
         }
     ]
 }

@@ -56,7 +56,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String param",
+                    "nombre": "AlgorithmParameterSpec params",
                     "description": ""
                 },
                 {
@@ -64,7 +64,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AlgorithmParameterSpec params",
+                    "nombre": "String param",
                     "description": ""
                 }
             ]
@@ -74,7 +74,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] outbuf",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -82,7 +82,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "byte[] outbuf",
                     "description": ""
                 }
             ]
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte b",
+                    "nombre": "ByteBuffer input",
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer input",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -104,11 +104,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int off",
+                    "nombre": "byte b",
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "int off",
                     "description": ""
                 }
             ]
@@ -118,7 +118,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "byte[] sigBytes",
                     "description": ""
                 },
                 {
@@ -126,7 +126,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] sigBytes",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]

@@ -24,11 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float dx",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "float dx",
                     "description": ""
                 }
             ]
@@ -38,11 +38,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float dy",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
-                    "nombre": "float y",
+                    "nombre": "float dy",
                     "description": ""
                 }
             ]
@@ -52,11 +52,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float sOffset",
+                    "nombre": "int aOffset",
                     "description": ""
                 },
                 {
                     "nombre": "float bOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color color1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float hOffset",
                     "description": ""
                 },
                 {
@@ -68,19 +76,11 @@
                     "description": ""
                 },
                 {
+                    "nombre": "float sOffset",
+                    "description": ""
+                },
+                {
                     "nombre": "Color color2",
-                    "description": ""
-                },
-                {
-                    "nombre": "int aOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "float hOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color color1",
                     "description": ""
                 }
             ]
@@ -90,6 +90,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "float y2",
+                    "description": ""
+                },
+                {
                     "nombre": "float[] midpoints",
                     "description": ""
                 },
@@ -98,7 +102,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float y2",
+                    "nombre": "float y1",
                     "description": ""
                 },
                 {
@@ -108,10 +112,6 @@
                 {
                     "nombre": "float x2",
                     "description": ""
-                },
-                {
-                    "nombre": "float y1",
-                    "description": ""
                 }
             ]
         },
@@ -120,19 +120,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float y",
-                    "description": ""
-                },
-                {
-                    "nombre": "float x",
-                    "description": ""
-                },
-                {
                     "nombre": "float[] midpoints",
                     "description": ""
                 },
                 {
                     "nombre": "Color[] colors",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -170,19 +170,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
-                    "description": ""
-                },
-                {
                     "nombre": "Graphics2D g",
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
                     "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -192,19 +192,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float brightnessOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color defaultColor",
-                    "description": ""
-                },
-                {
                     "nombre": "String property",
-                    "description": ""
-                },
-                {
-                    "nombre": "int alphaOffset",
                     "description": ""
                 },
                 {
@@ -213,6 +201,18 @@
                 },
                 {
                     "nombre": "JComponent c",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color defaultColor",
+                    "description": ""
+                },
+                {
+                    "nombre": "float brightnessOffset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int alphaOffset",
                     "description": ""
                 }
             ]

@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "public class MandarEmail {\n\n       public static void main(java.lang.String[] args) {\n               \n               try {\n\n                       // Configuramos las propiedades\n                       Properties props = new Properties();\n                       props.put(\"mail.transport.protocol\",\"smtp\");\n                       props.put(\"mail.smtp.host\",\"mail.lineadecodigo.com\");\n       \n                       // Creo la sesi\u00f3n y un nuevo mensaje de correo\n                       Autentificacion pwd = new Autentificacion();\n                       Session mailSession = Session.getInstance(props,pwd);\n                       Message msg = new MimeMessage(mailSession);\n                       \n                       // Configuramos los campos del mensaje\n                       msg.setFrom(new InternetAddress(\"yo@lineadecodigo.com\"));               \n                       msg.setRecipients(Message.RecipientType.TO,InternetAddress.parse(\"destinatario@email.com\"));\n                       msg.setSubject(\"Tema del mensaje\");\n                       String msgBody = \"Cuerpo del mensaje\";\n                       DataHandler dh = new DataHandler(msgBody,\"text/plain\");\n                       msg.setDataHandler(dh);\n                       \n                       // Pedimos a la clase Transport que envie el mensaje de correo\n                       javax.mail.Transport.send(msg);\n                       \n               } catch (Exception e) {\n                       e.printStackTrace();\n               }       \n       }\n}\n",
     "ldc": [],
     "constructores": [
         {
@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DataSource ds",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
+                    "nombre": "URL url",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "URL url",
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataSource ds",
                     "description": ""
                 }
             ]

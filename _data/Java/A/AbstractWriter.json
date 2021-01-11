@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
-                    "nombre": "Document doc",
+                    "nombre": "Element root",
                     "description": ""
                 },
                 {
@@ -20,11 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Element root",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "Document doc",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -194,11 +194,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String content",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] chars",
+                    "nombre": "int startIndex",
                     "description": ""
                 },
                 {
@@ -210,7 +206,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int startIndex",
+                    "nombre": "String content",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] chars",
                     "description": ""
                 }
             ]

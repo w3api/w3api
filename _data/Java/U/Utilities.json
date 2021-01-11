@@ -14,11 +14,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float y",
-                    "description": ""
-                },
-                {
-                    "nombre": "float x",
+                    "nombre": "Graphics g",
                     "description": ""
                 },
                 {
@@ -26,7 +22,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Graphics g",
+                    "nombre": "Graphics2D g",
                     "description": ""
                 },
                 {
@@ -34,11 +30,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Graphics2D g",
-                    "description": ""
-                },
-                {
-                    "nombre": "TabExpander e",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
@@ -46,7 +38,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "TabExpander e",
                     "description": ""
                 }
             ]
@@ -56,15 +56,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float x",
-                    "description": ""
-                },
-                {
                     "nombre": "Segment s",
-                    "description": ""
-                },
-                {
-                    "nombre": "int startOffset",
                     "description": ""
                 },
                 {
@@ -72,11 +64,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "FontMetrics metrics",
+                    "nombre": "int startOffset",
                     "description": ""
                 },
                 {
-                    "nombre": "TabExpander e",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -85,6 +77,14 @@
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "TabExpander e",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics metrics",
                     "description": ""
                 }
             ]
@@ -94,11 +94,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JTextComponent c",
+                    "nombre": "int offs",
                     "description": ""
                 },
                 {
-                    "nombre": "int offs",
+                    "nombre": "JTextComponent c",
                     "description": ""
                 }
             ]
@@ -108,11 +108,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JTextComponent c",
+                    "nombre": "int offs",
                     "description": ""
                 },
                 {
-                    "nombre": "int offs",
+                    "nombre": "JTextComponent c",
                     "description": ""
                 }
             ]
@@ -122,19 +122,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
-                    "description": ""
-                },
-                {
                     "nombre": "float x",
                     "description": ""
                 },
                 {
-                    "nombre": "JTextComponent c",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
                     "nombre": "int offs",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTextComponent c",
                     "description": ""
                 }
             ]
@@ -144,19 +144,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
-                    "description": ""
-                },
-                {
                     "nombre": "float x",
                     "description": ""
                 },
                 {
-                    "nombre": "JTextComponent c",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
                     "nombre": "int offs",
+                    "description": ""
+                },
+                {
+                    "nombre": "JTextComponent c",
                     "description": ""
                 }
             ]
@@ -166,11 +166,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JTextComponent c",
+                    "nombre": "int offs",
                     "description": ""
                 },
                 {
-                    "nombre": "int offs",
+                    "nombre": "JTextComponent c",
                     "description": ""
                 }
             ]
@@ -180,11 +180,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JTextComponent c",
+                    "nombre": "int offs",
                     "description": ""
                 },
                 {
-                    "nombre": "int offs",
+                    "nombre": "JTextComponent c",
                     "description": ""
                 }
             ]
@@ -194,11 +194,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JTextComponent c",
+                    "nombre": "int offs",
                     "description": ""
                 },
                 {
-                    "nombre": "int offs",
+                    "nombre": "JTextComponent c",
                     "description": ""
                 }
             ]
@@ -208,7 +208,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float x",
+                    "nombre": "boolean round",
                     "description": ""
                 },
                 {
@@ -216,23 +216,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int startOffset",
-                    "description": ""
-                },
-                {
                     "nombre": "float x0",
                     "description": ""
                 },
                 {
-                    "nombre": "FontMetrics metrics",
+                    "nombre": "int startOffset",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean round",
-                    "description": ""
-                },
-                {
-                    "nombre": "TabExpander e",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -242,6 +234,14 @@
                 {
                     "nombre": "int x",
                     "description": ""
+                },
+                {
+                    "nombre": "TabExpander e",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontMetrics metrics",
+                    "description": ""
                 }
             ]
         },
@@ -249,10 +249,6 @@
             "nombre": "getTabbedTextWidth",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "float x",
-                    "description": ""
-                },
                 {
                     "nombre": "Segment s",
                     "description": ""
@@ -262,7 +258,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "FontMetrics metrics",
+                    "nombre": "float x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -270,7 +270,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "FontMetrics metrics",
                     "description": ""
                 }
             ]
@@ -280,11 +280,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JTextComponent c",
+                    "nombre": "int offs",
                     "description": ""
                 },
                 {
-                    "nombre": "int offs",
+                    "nombre": "JTextComponent c",
                     "description": ""
                 }
             ]
@@ -294,11 +294,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JTextComponent c",
+                    "nombre": "int offs",
                     "description": ""
                 },
                 {
-                    "nombre": "int offs",
+                    "nombre": "JTextComponent c",
                     "description": ""
                 }
             ]

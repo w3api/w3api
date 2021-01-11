@@ -40,11 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object provider",
+                    "nombre": "Class<T> category",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<T> category",
+                    "nombre": "Object provider",
                     "description": ""
                 },
                 {
@@ -76,15 +76,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean useOrdering",
-                    "description": ""
-                },
-                {
                     "nombre": "ServiceRegistry.Filter filter",
                     "description": ""
                 },
                 {
                     "nombre": "Class<T> category",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean useOrdering",
                     "description": ""
                 }
             ]
@@ -108,11 +108,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object provider",
+                    "nombre": "Class<T> category",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<T> category",
+                    "nombre": "Object provider",
                     "description": ""
                 },
                 {
@@ -136,15 +136,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T secondProvider",
-                    "description": ""
-                },
-                {
                     "nombre": "T firstProvider",
                     "description": ""
                 },
                 {
                     "nombre": "Class<T> category",
+                    "description": ""
+                },
+                {
+                    "nombre": "T secondProvider",
                     "description": ""
                 }
             ]
@@ -154,15 +154,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T secondProvider",
-                    "description": ""
-                },
-                {
                     "nombre": "T firstProvider",
                     "description": ""
                 },
                 {
                     "nombre": "Class<T> category",
+                    "description": ""
+                },
+                {
+                    "nombre": "T secondProvider",
                     "description": ""
                 }
             ]

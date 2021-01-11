@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[][] dataArray",
+                    "nombre": "int size",
                     "description": ""
                 },
                 {
@@ -16,19 +16,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int size",
-                    "description": ""
-                },
-                {
-                    "nombre": "int numBanks",
+                    "nombre": "byte[][] dataArray",
                     "description": ""
                 },
                 {
                     "nombre": "int[] offsets",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int numBanks",
                     "description": ""
                 }
             ]
@@ -68,15 +68,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int val",
-                    "description": ""
-                },
-                {
                     "nombre": "int bank",
                     "description": ""
                 },
                 {
                     "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int val",
                     "description": ""
                 }
             ]

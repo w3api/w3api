@@ -26,11 +26,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int toIndex",
+                    "nombre": "int fromIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "int toIndex",
                     "description": ""
                 },
                 {
@@ -58,15 +58,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Comparator<? super T> c",
-                    "description": ""
-                },
-                {
                     "nombre": "T b",
                     "description": ""
                 },
                 {
                     "nombre": "T a",
+                    "description": ""
+                },
+                {
+                    "nombre": "Comparator<? super T> c",
                     "description": ""
                 }
             ]
@@ -76,11 +76,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object b",
+                    "nombre": "Object a",
                     "description": ""
                 },
                 {
-                    "nombre": "Object a",
+                    "nombre": "Object b",
                     "description": ""
                 }
             ]
@@ -90,11 +90,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object b",
+                    "nombre": "Object a",
                     "description": ""
                 },
                 {
-                    "nombre": "Object a",
+                    "nombre": "Object b",
                     "description": ""
                 }
             ]
@@ -144,7 +144,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T obj",
+                    "nombre": "Supplier<String> messageSupplier",
                     "description": ""
                 },
                 {
@@ -152,7 +152,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Supplier<String> messageSupplier",
+                    "nombre": "T obj",
                     "description": ""
                 }
             ]
@@ -190,11 +190,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String nullDefault",
+                    "nombre": "Object o",
                     "description": ""
                 },
                 {
-                    "nombre": "Object o",
+                    "nombre": "String nullDefault",
                     "description": ""
                 }
             ]

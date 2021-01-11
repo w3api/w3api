@@ -16,11 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int scanlineStride",
+                    "nombre": "int dataType",
                     "description": ""
                 },
                 {
-                    "nombre": "int dataType",
+                    "nombre": "int dataBitOffset",
                     "description": ""
                 },
                 {
@@ -28,7 +28,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int dataBitOffset",
+                    "nombre": "int scanlineStride",
                     "description": ""
                 }
             ]
@@ -82,6 +82,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "DataBuffer data",
                     "description": ""
                 },
@@ -91,10 +95,6 @@
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -108,11 +108,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -122,7 +122,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] iArray",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -134,7 +134,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int[] iArray",
                     "description": ""
                 }
             ]
@@ -148,11 +148,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -160,7 +156,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -188,6 +188,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "DataBuffer data",
                     "description": ""
                 },
@@ -198,10 +202,6 @@
                 {
                     "nombre": "int y",
                     "description": ""
-                },
-                {
-                    "nombre": "int x",
-                    "description": ""
                 }
             ]
         },
@@ -210,7 +210,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] iArray",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -222,7 +222,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int[] iArray",
                     "description": ""
                 }
             ]
@@ -236,19 +236,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "int s",
                     "description": ""
                 },
                 {
-                    "nombre": "int b",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
                     "description": ""
                 }
             ]

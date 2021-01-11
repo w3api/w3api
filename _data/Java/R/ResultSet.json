@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "PreparedStatement stmt = null;\nResultSet rs = null;\n\nstmt = con.prepareStatement(\"SELECT * FROM personas\");\nrs = stmt.executeQuery();\n\nwhile(rs.next()) {\n   for (int x=1;x<=rs.getMetaData().getColumnCount();x++)\n     System.out.print(rs.getString(x)+ \"\\t\");\n   \n   System.out.println(\"\");\n}\n",
     "ldc": [],
     "metodos": [
         {
@@ -88,11 +88,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String columnLabel",
+                    "nombre": "int scale",
                     "description": ""
                 },
                 {
-                    "nombre": "int scale",
+                    "nombre": "String columnLabel",
                     "description": ""
                 }
             ]
@@ -208,11 +208,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Calendar cal",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "Calendar cal",
                     "description": ""
                 },
                 {
@@ -291,7 +291,9 @@
         },
         {
             "nombre": "getMetaData",
-            "description": ""
+            "description": "M\u00e9todo que obtiene el n\u00famero, tipo y propiedades de las columnas de un ResultSet.\n",
+            "code": "stmt = con.prepareStatement(\"SELECT * FROM personas\");\n\t      \nrs = stmt.executeQuery();\n\t      \n// Desconocemos el n\u00famero de columnas y filas que tiene la tabla\n// Primero pintamos los nombres de las columnas\nfor (int x=1;x<=rs.getMetaData().getColumnCount();x++)\n  System.out.print(rs.getMetaData().getColumnName(x)+ \"\\t\");\n\t      \nSystem.out.println(\"\");\n\t      \n// Ahora volcamos los datos\nwhile(rs.next()) {\n  for (int x=1;x<=rs.getMetaData().getColumnCount();x++)\n    System.out.print(rs.getString(x)+ \"\\t\");\n\t      \n  System.out.println(\"\");\n}\n",
+            "ldc": []
         },
         {
             "nombre": "getNCharacterStream",
@@ -340,19 +342,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int columnIndex",
-                    "description": ""
-                },
-                {
                     "nombre": "Class<T> type",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?>> map",
+                    "nombre": "String columnLabel",
                     "description": ""
                 },
                 {
-                    "nombre": "String columnLabel",
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>> map",
                     "description": ""
                 },
                 {
@@ -444,11 +446,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Calendar cal",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "Calendar cal",
                     "description": ""
                 },
                 {
@@ -462,11 +464,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Calendar cal",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "Calendar cal",
                     "description": ""
                 },
                 {
@@ -549,7 +551,9 @@
         },
         {
             "nombre": "next",
-            "description": ""
+            "description": "M\u00e9todo que mueve el cursor una fila dentro del ResultSet. Inicialmente el cursor se sit\u00faa antes de la primera fila. Cuando el cursor se posiciona despu\u00e9s de la \u00faltima fila el m\u00e9todo devuelve false.\n",
+            "code": "stmt = con.prepareStatement(\"SELECT * FROM personas\");\n\t      \nrs = stmt.executeQuery();\n\t      \n// Desconocemos el n\u00famero de columnas y filas que tiene la tabla\n// Primero pintamos los nombres de las columnas\nfor (int x=1;x<=rs.getMetaData().getColumnCount();x++)\n  System.out.print(rs.getMetaData().getColumnName(x)+ \"\\t\");\n\t      \nSystem.out.println(\"\");\n\t      \n// Ahora volcamos los datos\nwhile(rs.next()) {\n  for (int x=1;x<=rs.getMetaData().getColumnCount();x++)\n    System.out.print(rs.getString(x)+ \"\\t\");\n\t      \n  System.out.println(\"\");\n}\n",
+            "ldc": []
         },
         {
             "nombre": "previous",
@@ -606,11 +610,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Array x",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "Array x",
                     "description": ""
                 },
                 {
@@ -624,7 +628,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "InputStream x",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
                     "description": ""
                 },
                 {
@@ -636,11 +644,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long length",
-                    "description": ""
-                },
-                {
-                    "nombre": "InputStream x",
+                    "nombre": "int columnIndex",
                     "description": ""
                 }
             ]
@@ -650,15 +654,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String columnLabel",
-                    "description": ""
-                },
-                {
                     "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
                     "nombre": "BigDecimal x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
                     "description": ""
                 }
             ]
@@ -668,7 +672,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "InputStream x",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
                     "description": ""
                 },
                 {
@@ -680,11 +688,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long length",
-                    "description": ""
-                },
-                {
-                    "nombre": "InputStream x",
+                    "nombre": "int columnIndex",
                     "description": ""
                 }
             ]
@@ -694,7 +698,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream inputStream",
                     "description": ""
                 },
                 {
@@ -706,11 +714,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream inputStream",
-                    "description": ""
-                },
-                {
-                    "nombre": "long length",
+                    "nombre": "int columnIndex",
                     "description": ""
                 }
             ]
@@ -720,15 +724,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String columnLabel",
-                    "description": ""
-                },
-                {
                     "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
                     "nombre": "boolean x",
+                    "description": ""
+                },
+                {
+                    "nombre": "String columnLabel",
                     "description": ""
                 }
             ]
@@ -756,11 +760,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] x",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "byte[] x",
                     "description": ""
                 },
                 {
@@ -774,15 +778,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int columnIndex",
-                    "description": ""
-                },
-                {
                     "nombre": "Reader reader",
                     "description": ""
                 },
                 {
-                    "nombre": "String columnLabel",
+                    "nombre": "long length",
                     "description": ""
                 },
                 {
@@ -790,11 +790,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Reader x",
+                    "nombre": "String columnLabel",
                     "description": ""
                 },
                 {
-                    "nombre": "long length",
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Reader x",
                     "description": ""
                 }
             ]
@@ -804,15 +808,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Clob x",
-                    "description": ""
-                },
-                {
-                    "nombre": "int columnIndex",
-                    "description": ""
-                },
-                {
                     "nombre": "Reader reader",
+                    "description": ""
+                },
+                {
+                    "nombre": "long length",
                     "description": ""
                 },
                 {
@@ -820,7 +820,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long length",
+                    "nombre": "int columnIndex",
+                    "description": ""
+                },
+                {
+                    "nombre": "Clob x",
                     "description": ""
                 }
             ]
@@ -852,11 +856,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String columnLabel",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "String columnLabel",
                     "description": ""
                 }
             ]
@@ -888,11 +892,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String columnLabel",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "String columnLabel",
                     "description": ""
                 }
             ]
@@ -902,11 +906,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long x",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "long x",
                     "description": ""
                 },
                 {
@@ -920,11 +924,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "Reader reader",
                     "description": ""
                 },
                 {
-                    "nombre": "Reader reader",
+                    "nombre": "long length",
                     "description": ""
                 },
                 {
@@ -932,11 +936,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Reader x",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "long length",
+                    "nombre": "Reader x",
                     "description": ""
                 }
             ]
@@ -950,7 +954,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "long length",
                     "description": ""
                 },
                 {
@@ -962,7 +966,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long length",
+                    "nombre": "int columnIndex",
                     "description": ""
                 }
             ]
@@ -1004,11 +1008,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object x",
+                    "nombre": "int scaleOrLength",
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "SQLType targetSqlType",
                     "description": ""
                 },
                 {
@@ -1016,11 +1020,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int scaleOrLength",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "SQLType targetSqlType",
+                    "nombre": "Object x",
                     "description": ""
                 }
             ]
@@ -1030,11 +1034,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Ref x",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "Ref x",
                     "description": ""
                 },
                 {
@@ -1056,11 +1060,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String columnLabel",
+                    "nombre": "RowId x",
                     "description": ""
                 },
                 {
-                    "nombre": "RowId x",
+                    "nombre": "String columnLabel",
                     "description": ""
                 }
             ]
@@ -1074,11 +1078,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String columnLabel",
+                    "nombre": "short x",
                     "description": ""
                 },
                 {
-                    "nombre": "short x",
+                    "nombre": "String columnLabel",
                     "description": ""
                 }
             ]
@@ -1088,11 +1092,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SQLXML xmlObject",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "SQLXML xmlObject",
                     "description": ""
                 },
                 {
@@ -1106,11 +1110,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String x",
+                    "nombre": "int columnIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int columnIndex",
+                    "nombre": "String x",
                     "description": ""
                 },
                 {
@@ -1128,11 +1132,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String columnLabel",
+                    "nombre": "Time x",
                     "description": ""
                 },
                 {
-                    "nombre": "Time x",
+                    "nombre": "String columnLabel",
                     "description": ""
                 }
             ]
@@ -1146,11 +1150,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String columnLabel",
+                    "nombre": "Timestamp x",
                     "description": ""
                 },
                 {
-                    "nombre": "Timestamp x",
+                    "nombre": "String columnLabel",
                     "description": ""
                 }
             ]

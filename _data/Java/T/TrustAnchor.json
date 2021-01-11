@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "X500Principal caPrincipal",
+                    "description": ""
+                },
+                {
                     "nombre": "PublicKey pubKey",
                     "description": ""
                 },
                 {
-                    "nombre": "X509Certificate trustedCert",
-                    "description": ""
-                },
-                {
-                    "nombre": "X500Principal caPrincipal",
+                    "nombre": "String caName",
                     "description": ""
                 },
                 {
@@ -24,7 +24,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String caName",
+                    "nombre": "X509Certificate trustedCert",
                     "description": ""
                 }
             ]

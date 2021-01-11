@@ -38,11 +38,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "A attachment",
+                    "nombre": "SocketAddress remote",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketAddress remote",
+                    "nombre": "A attachment",
                     "description": ""
                 }
             ]
@@ -74,27 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ByteBuffer[] dsts",
+                    "nombre": "CompletionHandler<Long",
                     "description": ""
                 },
                 {
                     "nombre": "A attachment",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "TimeUnit unit",
-                    "description": ""
-                },
-                {
-                    "nombre": "int length",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super A> handler",
                     "description": ""
                 },
                 {
@@ -106,11 +90,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
                     "nombre": "ByteBuffer dst",
                     "description": ""
                 },
                 {
-                    "nombre": "CompletionHandler<Long",
+                    "nombre": "? super A> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer[] dsts",
                     "description": ""
                 }
             ]
@@ -142,7 +142,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ByteBuffer src",
+                    "nombre": "CompletionHandler<Long",
                     "description": ""
                 },
                 {
@@ -150,27 +150,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer[] srcs",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "TimeUnit unit",
-                    "description": ""
-                },
-                {
-                    "nombre": "int length",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super A> handler",
-                    "description": ""
-                },
-                {
                     "nombre": "CompletionHandler<Integer",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer src",
                     "description": ""
                 },
                 {
@@ -178,7 +162,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CompletionHandler<Long",
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "TimeUnit unit",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super A> handler",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer[] srcs",
                     "description": ""
                 }
             ]

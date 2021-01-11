@@ -22,11 +22,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double w",
                     "description": ""
                 },
                 {
-                    "nombre": "double w",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -68,7 +68,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double[] coords",
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
                     "description": ""
                 },
                 {
@@ -76,7 +80,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x2",
+                    "nombre": "double ctrlx",
                     "description": ""
                 },
                 {
@@ -84,15 +88,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x1",
+                    "nombre": "double[] coords",
                     "description": ""
                 },
                 {
-                    "nombre": "double ctrlx",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y2",
+                    "nombre": "double x2",
                     "description": ""
                 }
             ]
@@ -106,7 +106,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double[] coords",
+                    "nombre": "double x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y2",
                     "description": ""
                 },
                 {
@@ -114,7 +118,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x2",
+                    "nombre": "double ctrlx",
                     "description": ""
                 },
                 {
@@ -122,15 +126,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x1",
+                    "nombre": "double[] coords",
                     "description": ""
                 },
                 {
-                    "nombre": "double ctrlx",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y2",
+                    "nombre": "double x2",
                     "description": ""
                 }
             ]
@@ -182,11 +182,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double w",
                     "description": ""
                 },
                 {
-                    "nombre": "double w",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -208,43 +208,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Point2D p1",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] coords",
-                    "description": ""
-                },
-                {
-                    "nombre": "double y1",
-                    "description": ""
-                },
-                {
-                    "nombre": "QuadCurve2D c",
-                    "description": ""
-                },
-                {
-                    "nombre": "double x2",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point2D cp",
-                    "description": ""
-                },
-                {
                     "nombre": "double x1",
-                    "description": ""
-                },
-                {
-                    "nombre": "double ctrlx",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point2D p2",
                     "description": ""
                 },
                 {
@@ -252,7 +216,43 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Point2D p2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double ctrlx",
+                    "description": ""
+                },
+                {
+                    "nombre": "QuadCurve2D c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] coords",
+                    "description": ""
+                },
+                {
                     "nombre": "Point2D[] pts",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D cp",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p1",
                     "description": ""
                 }
             ]
@@ -262,11 +262,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double[] eqn",
+                    "nombre": "double[] res",
                     "description": ""
                 },
                 {
-                    "nombre": "double[] res",
+                    "nombre": "double[] eqn",
                     "description": ""
                 }
             ]
@@ -276,31 +276,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "QuadCurve2D src",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] right",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] src",
-                    "description": ""
-                },
-                {
                     "nombre": "QuadCurve2D left",
                     "description": ""
                 },
                 {
-                    "nombre": "int rightoff",
-                    "description": ""
-                },
-                {
-                    "nombre": "double[] left",
-                    "description": ""
-                },
-                {
-                    "nombre": "QuadCurve2D right",
+                    "nombre": "QuadCurve2D src",
                     "description": ""
                 },
                 {
@@ -308,7 +288,27 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double[] src",
+                    "description": ""
+                },
+                {
+                    "nombre": "QuadCurve2D right",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] left",
+                    "description": ""
+                },
+                {
                     "nombre": "int srcoff",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rightoff",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] right",
                     "description": ""
                 }
             ]

@@ -8,18 +8,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Color highlightInner",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color shadowInner",
-                    "description": ""
-                },
-                {
-                    "nombre": "int type",
-                    "description": ""
-                },
-                {
                     "nombre": "Color shadow",
                     "description": ""
                 },
@@ -28,11 +16,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Color shadowOuter",
+                    "nombre": "Color highlightInner",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color shadowInner",
                     "description": ""
                 },
                 {
                     "nombre": "Color highlightOuter",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color shadowOuter",
                     "description": ""
                 }
             ]
@@ -56,19 +56,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float spacing",
-                    "description": ""
-                },
-                {
-                    "nombre": "Paint paint",
-                    "description": ""
-                },
-                {
                     "nombre": "float length",
                     "description": ""
                 },
                 {
                     "nombre": "float thickness",
+                    "description": ""
+                },
+                {
+                    "nombre": "float spacing",
+                    "description": ""
+                },
+                {
+                    "nombre": "Paint paint",
                     "description": ""
                 },
                 {
@@ -86,11 +86,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int left",
+                    "nombre": "int right",
                     "description": ""
                 },
                 {
-                    "nombre": "int right",
+                    "nombre": "int left",
                     "description": ""
                 },
                 {
@@ -108,11 +108,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int type",
+                    "nombre": "Color highlight",
                     "description": ""
                 },
                 {
-                    "nombre": "Color highlight",
+                    "nombre": "int type",
                     "description": ""
                 }
             ]
@@ -126,11 +126,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int thickness",
+                    "nombre": "boolean rounded",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean rounded",
+                    "nombre": "int thickness",
                     "description": ""
                 }
             ]
@@ -148,11 +148,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int bottom",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color color",
+                    "nombre": "int top",
                     "description": ""
                 },
                 {
@@ -160,7 +156,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int top",
+                    "nombre": "Icon tileIcon",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color color",
                     "description": ""
                 },
                 {
@@ -168,7 +168,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Icon tileIcon",
+                    "nombre": "int bottom",
                     "description": ""
                 }
             ]
@@ -186,18 +186,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Color highlightInner",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color shadowInner",
-                    "description": ""
-                },
-                {
-                    "nombre": "int type",
-                    "description": ""
-                },
-                {
                     "nombre": "Color shadow",
                     "description": ""
                 },
@@ -206,11 +194,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Color shadowOuter",
+                    "nombre": "Color highlightInner",
+                    "description": ""
+                },
+                {
+                    "nombre": "int type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color shadowInner",
                     "description": ""
                 },
                 {
                     "nombre": "Color highlightOuter",
+                    "description": ""
+                },
+                {
+                    "nombre": "Color shadowOuter",
                     "description": ""
                 }
             ]
@@ -220,11 +220,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BasicStroke stroke",
+                    "nombre": "Paint paint",
                     "description": ""
                 },
                 {
-                    "nombre": "Paint paint",
+                    "nombre": "BasicStroke stroke",
                     "description": ""
                 }
             ]
@@ -234,7 +234,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Color titleColor",
+                    "description": ""
+                },
+                {
                     "nombre": "Border border",
+                    "description": ""
+                },
+                {
+                    "nombre": "String title",
                     "description": ""
                 },
                 {
@@ -243,14 +251,6 @@
                 },
                 {
                     "nombre": "int titleJustification",
-                    "description": ""
-                },
-                {
-                    "nombre": "String title",
-                    "description": ""
-                },
-                {
-                    "nombre": "Color titleColor",
                     "description": ""
                 },
                 {

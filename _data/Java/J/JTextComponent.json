@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "editor = new JTextArea();\neditor.addCaretListener(new CaretListener() {           \n   \n  public void caretUpdate(CaretEvent e) {\n \n    JTextArea editArea = (JTextArea)e.getSource();\n\n    int linea = 1;\n    int columna = 1;\n \n     try {\n       int caretpos = editArea.getCaretPosition();\n       linea= editArea.getLineOfOffset(caretpos);\n       columna = caretpos - editArea.getLineStartOffset(linea);\n       linea += 1;\n     } catch(Exception ex) { }\n  }\n \n});\n\nadd(editor, BorderLayout.CENTER);\n",
     "ldc": [],
     "constructores": [
         {
@@ -11,24 +11,26 @@
     "metodos": [
         {
             "nombre": "addCaretListener",
-            "description": "",
+            "description": "M\u00e9todo que nos permite a\u00f1adir un escuchador que est\u00e9 atento a los eventos generados ante un cambio en el cursor.\n",
             "parametros": [
                 {
                     "nombre": "CaretListener listener",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "editor = new JTextArea();\neditor.addCaretListener(new CaretListener() {           \n   \n  public void caretUpdate(CaretEvent e) {\n \n    JTextArea editArea = (JTextArea)e.getSource();\n\n    int linea = 1;\n    int columna = 1;\n \n     try {\n       int caretpos = editArea.getCaretPosition();\n       linea= editArea.getLineOfOffset(caretpos);\n       columna = caretpos - editArea.getLineStartOffset(linea);\n       linea += 1;\n     } catch(Exception ex) { }\n  }\n \n});\n\nadd(editor, BorderLayout.CENTER);\n",
+            "ldc": []
         },
         {
             "nombre": "addKeymap",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String nm",
+                    "nombre": "Keymap parent",
                     "description": ""
                 },
                 {
-                    "nombre": "Keymap parent",
+                    "nombre": "String nm",
                     "description": ""
                 }
             ]
@@ -73,7 +75,9 @@
         },
         {
             "nombre": "getCaretPosition",
-            "description": ""
+            "description": "Devuelve la posici\u00f3n del cursor dentro del componente de texto. Esta posici\u00f3n siempre ser\u00e1 mayor o igual a cero.\n",
+            "code": "editor = new JTextArea();\neditor.addCaretListener(new CaretListener() {           \n   \n  public void caretUpdate(CaretEvent e) {\n \n    JTextArea editArea = (JTextArea)e.getSource();\n\n    int linea = 1;\n    int columna = 1;\n \n     try {\n       int caretpos = editArea.getCaretPosition();\n       linea= editArea.getLineOfOffset(caretpos);\n       columna = caretpos - editArea.getLineStartOffset(linea);\n       linea += 1;\n     } catch(Exception ex) { }\n  }\n \n});\n\nadd(editor, BorderLayout.CENTER);\n",
+            "ldc": []
         },
         {
             "nombre": "getDisabledTextColor",
@@ -130,11 +134,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MessageFormat footerFormat",
+                    "nombre": "MessageFormat headerFormat",
                     "description": ""
                 },
                 {
-                    "nombre": "MessageFormat headerFormat",
+                    "nombre": "MessageFormat footerFormat",
                     "description": ""
                 }
             ]
@@ -148,11 +152,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int direction",
+                    "nombre": "int orientation",
                     "description": ""
                 },
                 {
-                    "nombre": "int orientation",
+                    "nombre": "int direction",
                     "description": ""
                 }
             ]
@@ -174,11 +178,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int direction",
+                    "nombre": "int orientation",
                     "description": ""
                 },
                 {
-                    "nombre": "int orientation",
+                    "nombre": "int direction",
                     "description": ""
                 }
             ]
@@ -240,11 +244,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Action[] actions",
+                    "nombre": "Keymap map",
                     "description": ""
                 },
                 {
-                    "nombre": "Keymap map",
+                    "nombre": "Action[] actions",
                     "description": ""
                 },
                 {
@@ -296,15 +300,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MessageFormat footerFormat",
-                    "description": ""
-                },
-                {
-                    "nombre": "MessageFormat headerFormat",
-                    "description": ""
-                },
-                {
-                    "nombre": "PrintService service",
+                    "nombre": "boolean showPrintDialog",
                     "description": ""
                 },
                 {
@@ -312,11 +308,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean showPrintDialog",
+                    "nombre": "MessageFormat footerFormat",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintService service",
                     "description": ""
                 },
                 {
                     "nombre": "PrintRequestAttributeSet attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "MessageFormat headerFormat",
                     "description": ""
                 }
             ]
@@ -384,11 +388,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int selectionStart",
+                    "nombre": "int selectionEnd",
                     "description": ""
                 },
                 {
-                    "nombre": "int selectionEnd",
+                    "nombre": "int selectionStart",
                     "description": ""
                 }
             ]

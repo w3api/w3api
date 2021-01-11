@@ -14,15 +14,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "long handshakeTimeout",
+                    "description": ""
+                },
+                {
                     "nombre": "long acceptTimeout",
                     "description": ""
                 },
                 {
                     "nombre": "TransportService.ListenKey listenKey",
-                    "description": ""
-                },
-                {
-                    "nombre": "long handshakeTimeout",
                     "description": ""
                 }
             ]
@@ -32,7 +32,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String address",
+                    "nombre": "long attachTimeout",
                     "description": ""
                 },
                 {
@@ -40,7 +40,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long attachTimeout",
+                    "nombre": "String address",
                     "description": ""
                 }
             ]

@@ -1,22 +1,27 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "StringBuffer sb = new StringBuffer(\"texto\");\n",
+    "ldc": [
+        {
+            "nombre": "Invertir una cadena con reverse en Java",
+            "url": "http://lineadecodigo.com/java/invertir-una-cadena-con-reverse-en-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "StringBuffer",
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
                     "nombre": "CharSequence seq",
                     "description": ""
                 },
                 {
                     "nombre": "int capacity",
-                    "description": ""
-                },
-                {
-                    "nombre": "String str",
                     "description": ""
                 }
             ]
@@ -25,50 +30,10 @@
     "metodos": [
         {
             "nombre": "append",
-            "description": "",
+            "description": "A\u00f1ade el contenido pasado por par\u00e1metro al StringBuffer. En el caso de querer a\u00f1adir un array de caracteres char[], se puede especificar a partir de que car\u00e1cter y  qu\u00e9 cantidad mediante los par\u00e1metros offset y len.\n",
             "parametros": [
                 {
-                    "nombre": "int end",
-                    "description": ""
-                },
-                {
-                    "nombre": "CharSequence s",
-                    "description": ""
-                },
-                {
-                    "nombre": "StringBuffer sb",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean b",
-                    "description": ""
-                },
-                {
-                    "nombre": "double d",
-                    "description": ""
-                },
-                {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
-                    "nombre": "char c",
-                    "description": ""
-                },
-                {
                     "nombre": "float f",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
                     "description": ""
                 },
                 {
@@ -76,7 +41,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] str",
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean b",
                     "description": ""
                 },
                 {
@@ -84,8 +53,51 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
                     "nombre": "int len",
                     "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence s",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringBuffer sb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] str",
+                    "description": ""
+                }
+            ],
+            "code": "StringBuffer sb = new StringBuffer(\"cadena\");\nsb.append(\" de \");\nsb.append(\"texto\");\n\n// La salida ser\u00e1 \"cadena de texto\"\nSystem.out.println(sb.toString());\n",
+            "ldc": [
+                {
+                    "nombre": "Convertir un array en un String con Java",
+                    "url": "http://lineadecodigo.com/java/convertir-un-array-en-un-string-con-java/"
                 }
             ]
         },
@@ -142,11 +154,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int endIndex",
+                    "nombre": "int beginIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int beginIndex",
+                    "nombre": "int endIndex",
                     "description": ""
                 }
             ]
@@ -194,19 +206,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "char[] dst",
-                    "description": ""
-                },
-                {
                     "nombre": "int dstBegin",
                     "description": ""
                 },
                 {
-                    "nombre": "int srcBegin",
+                    "nombre": "char[] dst",
                     "description": ""
                 },
                 {
                     "nombre": "int srcEnd",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcBegin",
                     "description": ""
                 }
             ]
@@ -216,11 +228,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "String str",
                     "description": ""
                 },
                 {
-                    "nombre": "String str",
+                    "nombre": "int fromIndex",
                     "description": ""
                 }
             ]
@@ -230,51 +242,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int end",
-                    "description": ""
-                },
-                {
-                    "nombre": "CharSequence s",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dstOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean b",
-                    "description": ""
-                },
-                {
-                    "nombre": "double d",
-                    "description": ""
-                },
-                {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
-                    "nombre": "char c",
-                    "description": ""
-                },
-                {
                     "nombre": "float f",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
-                    "description": ""
-                },
-                {
-                    "nombre": "int index",
                     "description": ""
                 },
                 {
@@ -282,7 +250,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] str",
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dstOffset",
                     "description": ""
                 },
                 {
@@ -290,7 +266,43 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
                     "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence s",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] str",
                     "description": ""
                 }
             ]
@@ -300,11 +312,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "String str",
                     "description": ""
                 },
                 {
-                    "nombre": "String str",
+                    "nombre": "int fromIndex",
                     "description": ""
                 }
             ]
@@ -332,22 +344,33 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
                     "nombre": "int end",
                     "description": ""
                 },
                 {
                     "nombre": "int start",
                     "description": ""
-                },
-                {
-                    "nombre": "String str",
-                    "description": ""
                 }
             ]
         },
         {
             "nombre": "reverse",
-            "description": ""
+            "description": "Retorna la cadena de caracteres invertida.\n",
+            "code": "StringBuffer sb = new StringBuffer(\"cadena de texto\");\nsb = sb.reverse();\n// La salida ser\u00e1 \"otxet ed anedac\"\nSystem.out.println(sb.toString());\n",
+            "ldc": [
+                {
+                    "nombre": "Invertir una frase en Java",
+                    "url": "http://lineadecodigo.com/java/invertir-una-frase-en-java/"
+                },
+                {
+                    "nombre": "Invertir una cadena con reverse en Java",
+                    "url": "http://lineadecodigo.com/java/invertir-una-cadena-con-reverse-en-java/"
+                }
+            ]
         },
         {
             "nombre": "setCharAt",
@@ -403,7 +426,14 @@
         },
         {
             "nombre": "toString",
-            "description": ""
+            "description": "Convierte el StringBuffer en una cadena o String\n",
+            "code": "StringBuffer sb = new StringBuffer(\"cadena\");\nsb.append(\" de \");\nsb.append(\"texto\");\n\n// La salida ser\u00e1 \"cadena de texto\"\nSystem.out.println(sb.toString());\n",
+            "ldc": [
+                {
+                    "nombre": "Invertir una cadena con reverse en Java",
+                    "url": "http://lineadecodigo.com/java/invertir-una-cadena-con-reverse-en-java/"
+                }
+            ]
         },
         {
             "nombre": "trimToSize",

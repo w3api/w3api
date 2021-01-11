@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorrer un ArrayList con un Iterador\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
     "ldc": [],
     "constructores": [
         {
@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int initialCapacity",
+                    "nombre": "Collection<? extends E> c",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<? extends E> c",
+                    "nombre": "int initialCapacity",
                     "description": ""
                 }
             ]
@@ -21,39 +21,45 @@
     "metodos": [
         {
             "nombre": "add",
-            "description": "",
+            "description": "M\u00e9todo que nos permite a\u00f1adir un elemento a un ArrayList.\n",
             "parametros": [
                 {
-                    "nombre": "E e",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "E e",
                     "description": ""
                 },
                 {
                     "nombre": "E element",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "ArrayList<String> al = new ArrayList<String>();\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\n",
+            "ldc": []
         },
         {
             "nombre": "addAll",
-            "description": "",
+            "description": "M\u00e9todo que nos permite a\u00f1adir una colecci\u00f3n al final o en un punto en concreto de un ArrayList.\n",
             "parametros": [
-                {
-                    "nombre": "int index",
-                    "description": ""
-                },
                 {
                     "nombre": "Collection<? extends E> c",
                     "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\nVector<String> vector = new Vector<String>();\nvector.add(\"Irene\");\nvector.add(\"Mar\u00eda\");\n\t\t\n// A\u00f1adir elementos al final del ArrayList\n// Es una colecci\u00f3n\nal.addAll(vector);\n",
+            "ldc": []
         },
         {
             "nombre": "clear",
-            "description": ""
+            "description": "Elimina todos los elementos de un ArrayList.\n",
+            "code": "ArrayList<String> al = new ArrayList<String>();\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\n\nSystem.out.println(\"La lista contiene \"+al.size()+\" elementos\");\n\t\t\n// Eliminamos todos los elementos\nal.clear();\n\t    \nSystem.out.println(\"La lista contiene \"+al.size()+\" elementos\");\n",
+            "ldc": []
         },
         {
             "nombre": "clone",
@@ -91,13 +97,15 @@
         },
         {
             "nombre": "get",
-            "description": "",
+            "description": "Devuelve un elemento del ArrayList de la posici\u00f3n indicada como par\u00e1metro.\n",
             "parametros": [
                 {
                     "nombre": "int index",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorremos el Array\nfor(int x=0;x<al.size();x++) {\n System.out.println(al.get(x));\n}\n",
+            "ldc": []
         },
         {
             "nombre": "indexOf",
@@ -115,7 +123,9 @@
         },
         {
             "nombre": "iterator",
-            "description": ""
+            "description": "Devuelve un iterador sobre los elementos de la lista.\n",
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
+            "ldc": []
         },
         {
             "nombre": "lastIndexOf",
@@ -129,17 +139,19 @@
         },
         {
             "nombre": "listIterator",
-            "description": "",
+            "description": "Devuelve un iterador sobre los elementos de la lista en la posici\u00f3n indicada como par\u00e1metro.\n",
             "parametros": [
                 {
                     "nombre": "int index",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nListIterator<String> it = al.listIterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t    \nwhile(it.hasPrevious())\n System.out.println(it.previous());\n",
+            "ldc": []
         },
         {
             "nombre": "remove",
-            "description": "",
+            "description": "Elimina un elemento dentro de un ArrayList. Bien indicando la posici\u00f3n en la que se encuentra el elemento. O bien por coincidencia con el objeto pasado como par\u00e1metro.\n",
             "parametros": [
                 {
                     "nombre": "Object o",
@@ -149,7 +161,9 @@
                     "nombre": "int index",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorrer un ArrayList con un Iterador\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t\t\n// Eliminamos el segundo elemento\nal.remove(1);\n\nit = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
+            "ldc": []
         },
         {
             "nombre": "removeAll",
@@ -176,11 +190,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int toIndex",
+                    "nombre": "int fromIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "int toIndex",
                     "description": ""
                 }
             ]
@@ -197,7 +211,7 @@
         },
         {
             "nombre": "set",
-            "description": "",
+            "description": "M\u00e9todo que permite sustituir un elemento por otro dentro de un ArrayList.\n",
             "parametros": [
                 {
                     "nombre": "int index",
@@ -207,11 +221,15 @@
                     "nombre": "E element",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "ArrayList<String> al = new ArrayList<String>();\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\n\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n\t\t\n// Eliminamos el primer elemento\n al.set(2,\"Teresa\");\n\t    \nit = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
+            "ldc": []
         },
         {
             "nombre": "size",
-            "description": ""
+            "description": "Devuelve el tama\u00f1o de un ArrayList.\n",
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\t\n// Recorremos el Array\nfor(int x=0;x<al.size();x++) {\n System.out.println(al.get(x));\n}\n",
+            "ldc": []
         },
         {
             "nombre": "spliterator",
@@ -222,11 +240,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int toIndex",
+                    "nombre": "int fromIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "int toIndex",
                     "description": ""
                 }
             ]

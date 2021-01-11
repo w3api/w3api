@@ -12,11 +12,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int capacity",
+                    "nombre": "Collection<? extends E> c",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<? extends E> c",
+                    "nombre": "int capacity",
                     "description": ""
                 }
             ]
@@ -52,11 +52,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Collection<? super E> c",
+                    "nombre": "int maxElements",
                     "description": ""
                 },
                 {
-                    "nombre": "int maxElements",
+                    "nombre": "Collection<? super E> c",
                     "description": ""
                 }
             ]
@@ -80,15 +80,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "long timeout",
+                    "description": ""
+                },
+                {
                     "nombre": "E e",
                     "description": ""
                 },
                 {
                     "nombre": "TimeUnit unit",
-                    "description": ""
-                },
-                {
-                    "nombre": "long timeout",
                     "description": ""
                 }
             ]

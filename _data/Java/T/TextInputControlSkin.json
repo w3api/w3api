@@ -20,11 +20,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<? extends Node> nodes",
+                    "nombre": "int start",
                     "description": ""
                 },
                 {
-                    "nombre": "int start",
+                    "nombre": "List<? extends Node> nodes",
                     "description": ""
                 }
             ]
@@ -60,11 +60,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double y",
                     "description": ""
                 }
             ]
@@ -150,15 +150,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "TextInputControlSkin.Direction dir",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean select",
                     "description": ""
                 },
                 {
                     "nombre": "TextInputControlSkin.TextUnit unit",
-                    "description": ""
-                },
-                {
-                    "nombre": "TextInputControlSkin.Direction dir",
                     "description": ""
                 }
             ]

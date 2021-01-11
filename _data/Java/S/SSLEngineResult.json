@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long sequenceNumber",
-                    "description": ""
-                },
-                {
-                    "nombre": "int bytesConsumed",
+                    "nombre": "SSLEngineResult.HandshakeStatus handshakeStatus",
                     "description": ""
                 },
                 {
@@ -24,7 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "SSLEngineResult.HandshakeStatus handshakeStatus",
+                    "nombre": "int bytesConsumed",
+                    "description": ""
+                },
+                {
+                    "nombre": "long sequenceNumber",
                     "description": ""
                 }
             ]

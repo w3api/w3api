@@ -18,15 +18,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "TableColumnBase<T",
+                    "description": ""
+                },
+                {
                     "nombre": "?> column",
                     "description": ""
                 },
                 {
                     "nombre": "int row",
-                    "description": ""
-                },
-                {
-                    "nombre": "TableColumnBase<T",
                     "description": ""
                 }
             ]
@@ -36,19 +36,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "?> column",
-                    "description": ""
-                },
-                {
-                    "nombre": "int row",
-                    "description": ""
-                },
-                {
                     "nombre": "TableColumnBase<T",
                     "description": ""
                 },
                 {
+                    "nombre": "?> column",
+                    "description": ""
+                },
+                {
                     "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
                     "description": ""
                 }
             ]
@@ -102,19 +102,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "?> column",
-                    "description": ""
-                },
-                {
-                    "nombre": "int row",
-                    "description": ""
-                },
-                {
                     "nombre": "TableColumnBase<T",
                     "description": ""
                 },
                 {
+                    "nombre": "?> column",
+                    "description": ""
+                },
+                {
                     "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
                     "description": ""
                 }
             ]
@@ -124,19 +124,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "?> column",
-                    "description": ""
-                },
-                {
-                    "nombre": "int row",
-                    "description": ""
-                },
-                {
                     "nombre": "TableColumnBase<T",
                     "description": ""
                 },
                 {
+                    "nombre": "?> column",
+                    "description": ""
+                },
+                {
                     "nombre": "T obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
                     "description": ""
                 }
             ]
@@ -162,11 +162,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int row",
+                    "nombre": "int... rows",
                     "description": ""
                 },
                 {
-                    "nombre": "int... rows",
+                    "nombre": "int row",
                     "description": ""
                 }
             ]
@@ -192,7 +192,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TableColumnBase<T",
+                    "nombre": "?> minColumn",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> maxColumn",
                     "description": ""
                 },
                 {
@@ -200,11 +204,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "?> minColumn",
-                    "description": ""
-                },
-                {
-                    "nombre": "?> maxColumn",
+                    "nombre": "TableColumnBase<T",
                     "description": ""
                 },
                 {

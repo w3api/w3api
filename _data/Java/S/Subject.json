@@ -8,19 +8,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Set<?> pubCredentials",
-                    "description": ""
-                },
-                {
                     "nombre": "Set<?> privCredentials",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean readOnly",
+                    "nombre": "Set<?> pubCredentials",
                     "description": ""
                 },
                 {
                     "nombre": "Set<? extends Principal> principals",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean readOnly",
                     "description": ""
                 }
             ]
@@ -50,15 +50,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "AccessControlContext acc",
+                    "description": ""
+                },
+                {
                     "nombre": "PrivilegedAction<T> action",
                     "description": ""
                 },
                 {
                     "nombre": "Subject subject",
-                    "description": ""
-                },
-                {
-                    "nombre": "AccessControlContext acc",
                     "description": ""
                 },
                 {

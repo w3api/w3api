@@ -8,19 +8,11 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String name",
+                    "description": ""
+                },
+                {
                     "nombre": "OpenType<?> openType",
-                    "description": ""
-                },
-                {
-                    "nombre": "Descriptor descriptor",
-                    "description": ""
-                },
-                {
-                    "nombre": "OpenType<T> openType",
-                    "description": ""
-                },
-                {
-                    "nombre": "T[] legalValues",
                     "description": ""
                 },
                 {
@@ -28,11 +20,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "T defaultValue",
+                    "description": ""
+                },
+                {
                     "nombre": "Comparable<T> minValue",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "T[] legalValues",
+                    "description": ""
+                },
+                {
+                    "nombre": "Descriptor descriptor",
                     "description": ""
                 },
                 {
@@ -40,7 +40,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "T defaultValue",
+                    "nombre": "OpenType<T> openType",
                     "description": ""
                 }
             ]

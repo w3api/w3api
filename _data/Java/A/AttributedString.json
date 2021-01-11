@@ -8,15 +8,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "?> attributes",
-                    "description": ""
-                },
-                {
-                    "nombre": "int endIndex",
+                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
                     "description": ""
                 },
                 {
                     "nombre": "AttributedCharacterIterator text",
+                    "description": ""
+                },
+                {
+                    "nombre": "?> attributes",
+                    "description": ""
+                },
+                {
+                    "nombre": "String text",
                     "description": ""
                 },
                 {
@@ -28,11 +32,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
-                    "description": ""
-                },
-                {
-                    "nombre": "String text",
+                    "nombre": "int endIndex",
                     "description": ""
                 }
             ]
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributedCharacterIterator.Attribute attribute",
+                    "nombre": "int beginIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int endIndex",
+                    "nombre": "AttributedCharacterIterator.Attribute attribute",
                     "description": ""
                 },
                 {
@@ -56,7 +56,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int beginIndex",
+                    "nombre": "int endIndex",
                     "description": ""
                 }
             ]
@@ -66,11 +66,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
-                    "description": ""
-                },
-                {
-                    "nombre": "int endIndex",
+                    "nombre": "?> attributes",
                     "description": ""
                 },
                 {
@@ -78,7 +74,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "?> attributes",
+                    "nombre": "Map<? extends AttributedCharacterIterator.Attribute",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endIndex",
                     "description": ""
                 }
             ]
@@ -88,7 +88,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int endIndex",
+                    "nombre": "AttributedCharacterIterator.Attribute[] attributes",
                     "description": ""
                 },
                 {
@@ -96,7 +96,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AttributedCharacterIterator.Attribute[] attributes",
+                    "nombre": "int endIndex",
                     "description": ""
                 }
             ]

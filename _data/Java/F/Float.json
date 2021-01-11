@@ -1,22 +1,27 @@
 {
-    "description": "",
+    "description": "La clase Float representa a un n\u00famero decimal. Internamente contiene un tipo primitivo float.\n",
     "code": "",
-    "ldc": [],
+    "ldc": [
+        {
+            "nombre": "Conversor de monedas",
+            "url": "http://lineadecodigo.com/java/conversor-de-monedas/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Float",
             "description": "",
             "parametros": [
                 {
+                    "nombre": "double value",
+                    "description": ""
+                },
+                {
                     "nombre": "float value",
                     "description": ""
                 },
                 {
                     "nombre": "String s",
-                    "description": ""
-                },
-                {
-                    "nombre": "double value",
                     "description": ""
                 }
             ]
@@ -32,11 +37,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float f1",
+                    "nombre": "float f2",
                     "description": ""
                 },
                 {
-                    "nombre": "float f2",
+                    "nombre": "float f1",
                     "description": ""
                 }
             ]
@@ -152,11 +157,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float b",
+                    "nombre": "float a",
                     "description": ""
                 },
                 {
-                    "nombre": "float a",
+                    "nombre": "float b",
                     "description": ""
                 }
             ]
@@ -166,22 +171,29 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float b",
+                    "nombre": "float a",
                     "description": ""
                 },
                 {
-                    "nombre": "float a",
+                    "nombre": "float b",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "parseFloat",
-            "description": "",
+            "description": "Convierte una cadena de texto en un n\u00famero decimal (float).\n",
             "parametros": [
                 {
                     "nombre": "String s",
                     "description": ""
+                }
+            ],
+            "code": "float dolar;\nBufferedReader br;                      \n               \nbr = new BufferedReader(new InputStreamReader(System.in));\nSystem.out.println(\"Cuantos dolares tienes?\");\ndolar; = Float.parseFloat(br.readLine());\n",
+            "ldc": [
+                {
+                    "nombre": "Conversor de monedas",
+                    "url": "http://lineadecodigo.com/java/conversor-de-monedas/"
                 }
             ]
         },
@@ -194,11 +206,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float b",
+                    "nombre": "float a",
                     "description": ""
                 },
                 {
-                    "nombre": "float a",
+                    "nombre": "float b",
                     "description": ""
                 }
             ]

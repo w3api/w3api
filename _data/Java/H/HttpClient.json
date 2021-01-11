@@ -60,7 +60,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "HttpResponse.MultiSubscriber<U",
+                    "nombre": "HttpResponse.BodyHandler<T> responseBodyHandler",
+                    "description": ""
+                },
+                {
+                    "nombre": "HttpRequest req",
                     "description": ""
                 },
                 {
@@ -68,11 +72,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "HttpResponse.BodyHandler<T> responseBodyHandler",
-                    "description": ""
-                },
-                {
-                    "nombre": "HttpRequest req",
+                    "nombre": "HttpResponse.MultiSubscriber<U",
                     "description": ""
                 }
             ]

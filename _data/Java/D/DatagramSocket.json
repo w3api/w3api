@@ -8,6 +8,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "InetAddress laddr",
+                    "description": ""
+                },
+                {
                     "nombre": "int port",
                     "description": ""
                 },
@@ -17,10 +21,6 @@
                 },
                 {
                     "nombre": "DatagramSocketImpl impl",
-                    "description": ""
-                },
-                {
-                    "nombre": "InetAddress laddr",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int port",
+                    "nombre": "SocketAddress addr",
                     "description": ""
                 },
                 {
-                    "nombre": "SocketAddress addr",
+                    "nombre": "int port",
                     "description": ""
                 },
                 {

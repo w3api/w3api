@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<Rdn> rdns",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "List<Rdn> rdns",
                     "description": ""
                 }
             ]
@@ -24,15 +24,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Rdn comp",
+                    "description": ""
+                },
+                {
                     "nombre": "int posn",
                     "description": ""
                 },
                 {
                     "nombre": "String comp",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rdn comp",
                     "description": ""
                 }
             ]
@@ -42,15 +42,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "List<Rdn> suffixRdns",
+                    "description": ""
+                },
+                {
                     "nombre": "Name suffix",
                     "description": ""
                 },
                 {
                     "nombre": "int posn",
-                    "description": ""
-                },
-                {
-                    "nombre": "List<Rdn> suffixRdns",
                     "description": ""
                 }
             ]

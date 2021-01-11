@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String endpointAddress",
+                    "nombre": "QName portName",
                     "description": ""
                 },
                 {
-                    "nombre": "QName portName",
+                    "nombre": "String endpointAddress",
                     "description": ""
                 },
                 {
@@ -32,6 +32,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "EndpointReference endpointReference",
+                    "description": ""
+                },
+                {
                     "nombre": "WebServiceFeature... features",
                     "description": ""
                 },
@@ -40,19 +44,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "JAXBContext context",
+                    "description": ""
+                },
+                {
                     "nombre": "QName portName",
                     "description": ""
                 },
                 {
-                    "nombre": "EndpointReference endpointReference",
-                    "description": ""
-                },
-                {
                     "nombre": "Service.Mode mode",
-                    "description": ""
-                },
-                {
-                    "nombre": "JAXBContext context",
                     "description": ""
                 }
             ]
@@ -70,7 +70,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "WebServiceFeature... features",
+                    "nombre": "EndpointReference endpointReference",
                     "description": ""
                 },
                 {
@@ -78,11 +78,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<T> serviceEndpointInterface",
+                    "nombre": "WebServiceFeature... features",
                     "description": ""
                 },
                 {
-                    "nombre": "EndpointReference endpointReference",
+                    "nombre": "Class<T> serviceEndpointInterface",
                     "description": ""
                 }
             ]

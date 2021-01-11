@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreeNode root",
+                    "nombre": "boolean asksAllowsChildren",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean asksAllowsChildren",
+                    "nombre": "TreeNode root",
                     "description": ""
                 }
             ]
@@ -38,19 +38,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object source",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] childIndices",
-                    "description": ""
-                },
-                {
                     "nombre": "Object[] children",
                     "description": ""
                 },
                 {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
                     "nombre": "Object[] path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] childIndices",
                     "description": ""
                 }
             ]
@@ -60,19 +60,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object source",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] childIndices",
-                    "description": ""
-                },
-                {
                     "nombre": "Object[] children",
                     "description": ""
                 },
                 {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
                     "nombre": "Object[] path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] childIndices",
                     "description": ""
                 }
             ]
@@ -82,19 +82,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object source",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] childIndices",
-                    "description": ""
-                },
-                {
                     "nombre": "Object[] children",
                     "description": ""
                 },
                 {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
                     "nombre": "Object[] path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] childIndices",
                     "description": ""
                 }
             ]
@@ -104,19 +104,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object source",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] childIndices",
-                    "description": ""
-                },
-                {
                     "nombre": "Object[] children",
                     "description": ""
                 },
                 {
+                    "nombre": "Object source",
+                    "description": ""
+                },
+                {
                     "nombre": "Object[] path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] childIndices",
                     "description": ""
                 }
             ]
@@ -150,11 +150,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object parent",
+                    "nombre": "Object child",
                     "description": ""
                 },
                 {
-                    "nombre": "Object child",
+                    "nombre": "Object parent",
                     "description": ""
                 }
             ]
@@ -174,11 +174,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreeNode aNode",
+                    "nombre": "int depth",
                     "description": ""
                 },
                 {
-                    "nombre": "int depth",
+                    "nombre": "TreeNode aNode",
                     "description": ""
                 }
             ]
@@ -196,15 +196,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "MutableTreeNode newChild",
+                    "description": ""
+                },
+                {
                     "nombre": "MutableTreeNode parent",
                     "description": ""
                 },
                 {
                     "nombre": "int index",
-                    "description": ""
-                },
-                {
-                    "nombre": "MutableTreeNode newChild",
                     "description": ""
                 }
             ]
@@ -272,11 +272,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] childIndices",
+                    "nombre": "Object[] removedChildren",
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] removedChildren",
+                    "nombre": "int[] childIndices",
                     "description": ""
                 },
                 {
@@ -340,11 +340,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object newValue",
+                    "nombre": "TreePath path",
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "Object newValue",
                     "description": ""
                 }
             ]

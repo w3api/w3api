@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "SampleModel sampleModel",
-                    "description": ""
-                },
-                {
                     "nombre": "RenderedImage image",
                     "description": ""
                 },
                 {
                     "nombre": "ColorModel colorModel",
+                    "description": ""
+                },
+                {
+                    "nombre": "SampleModel sampleModel",
                     "description": ""
                 }
             ]
@@ -28,7 +28,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] bandOffsets",
+                    "nombre": "int[] bankIndices",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
                     "description": ""
                 },
                 {
@@ -40,15 +44,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isAlphaPremultiplied",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean hasAlpha",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] bankIndices",
+                    "nombre": "int[] bandOffsets",
                     "description": ""
                 }
             ]
@@ -58,11 +58,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -92,11 +92,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean isAlphaPremultiplied",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dataType",
+                    "nombre": "int bits",
                     "description": ""
                 },
                 {
@@ -104,7 +100,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int bits",
+                    "nombre": "int dataType",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
                     "description": ""
                 }
             ]
@@ -118,11 +118,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] blueLUT",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] alphaLUT",
+                    "nombre": "int dataType",
                     "description": ""
                 },
                 {
@@ -130,11 +126,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int dataType",
+                    "nombre": "byte[] redLUT",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] redLUT",
+                    "nombre": "byte[] blueLUT",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] alphaLUT",
                     "description": ""
                 }
             ]
@@ -144,7 +144,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] bandOffsets",
+                    "nombre": "boolean isAlphaPremultiplied",
                     "description": ""
                 },
                 {
@@ -156,11 +156,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isAlphaPremultiplied",
+                    "nombre": "boolean hasAlpha",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean hasAlpha",
+                    "nombre": "int[] bandOffsets",
                     "description": ""
                 }
             ]
@@ -170,6 +170,18 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int blueMask",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isAlphaPremultiplied",
+                    "description": ""
+                },
+                {
+                    "nombre": "int transferType",
+                    "description": ""
+                },
+                {
                     "nombre": "int greenMask",
                     "description": ""
                 },
@@ -178,23 +190,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int blueMask",
-                    "description": ""
-                },
-                {
                     "nombre": "int alphaMask",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isAlphaPremultiplied",
-                    "description": ""
-                },
-                {
                     "nombre": "int redMask",
-                    "description": ""
-                },
-                {
-                    "nombre": "int transferType",
                     "description": ""
                 }
             ]
@@ -240,11 +240,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 }
             ]

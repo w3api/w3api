@@ -1,18 +1,23 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "La clase Integer representa a un n\u00famero entero. Internamente contiene un tipo primitivo int.\n",
+    "code": "Integer entero = new Integer(4);\nSystem.out.println(entero.toString());\n",
+    "ldc": [
+        {
+            "nombre": "Transformar c\u00f3digo binario a decimal",
+            "url": "http://lineadecodigo.com/java/transformar-codigo-binario-a-decimal/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Integer",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String s",
+                    "nombre": "int value",
                     "description": ""
                 },
                 {
-                    "nombre": "int value",
+                    "nombre": "String s",
                     "description": ""
                 }
             ]
@@ -38,11 +43,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -62,11 +67,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -86,11 +91,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int divisor",
+                    "nombre": "int dividend",
                     "description": ""
                 },
                 {
-                    "nombre": "int dividend",
+                    "nombre": "int divisor",
                     "description": ""
                 }
             ]
@@ -118,7 +123,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String nm",
+                    "nombre": "Integer val",
                     "description": ""
                 },
                 {
@@ -126,7 +131,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Integer val",
+                    "nombre": "String nm",
                     "description": ""
                 }
             ]
@@ -219,14 +224,14 @@
         },
         {
             "nombre": "parseInt",
-            "description": "",
+            "description": "Convierte una cadena de texto en un n\u00famero entero.\n",
             "parametros": [
                 {
-                    "nombre": "CharSequence s",
+                    "nombre": "String s",
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "int beginIndex",
                     "description": ""
                 },
                 {
@@ -234,12 +239,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int endIndex",
+                    "nombre": "CharSequence s",
                     "description": ""
                 },
                 {
-                    "nombre": "int beginIndex",
+                    "nombre": "int endIndex",
                     "description": ""
+                }
+            ],
+            "code": "Integer numero = Integer.parseInt(\"12\");\n",
+            "ldc": [
+                {
+                    "nombre": "Transformar c\u00f3digo binario a decimal",
+                    "url": "http://lineadecodigo.com/java/transformar-codigo-binario-a-decimal/"
                 }
             ]
         },
@@ -248,11 +260,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CharSequence s",
+                    "nombre": "String s",
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "int beginIndex",
                     "description": ""
                 },
                 {
@@ -260,11 +272,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int endIndex",
+                    "nombre": "CharSequence s",
                     "description": ""
                 },
                 {
-                    "nombre": "int beginIndex",
+                    "nombre": "int endIndex",
                     "description": ""
                 }
             ]
@@ -274,11 +286,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int divisor",
+                    "nombre": "int dividend",
                     "description": ""
                 },
                 {
-                    "nombre": "int dividend",
+                    "nombre": "int divisor",
                     "description": ""
                 }
             ]
@@ -391,7 +403,7 @@
         },
         {
             "nombre": "toString",
-            "description": "",
+            "description": "Devuelve una cadena de texto (String) asociada al valor que tenga el Integer.\n",
             "parametros": [
                 {
                     "nombre": "int radix",
@@ -400,6 +412,13 @@
                 {
                     "nombre": "int i",
                     "description": ""
+                }
+            ],
+            "code": "Integer numero = new Integer(23);\nSytem.out.println(numero.toString()):\n",
+            "ldc": [
+                {
+                    "nombre": "Recibir un parametro num\u00e9rico en una JSP",
+                    "url": "http://lineadecodigo.com/java/recibir-un-parametro-numerico-en-una-jsp/"
                 }
             ]
         },
@@ -432,11 +451,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int radix",
+                    "nombre": "String s",
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "int radix",
                     "description": ""
                 },
                 {

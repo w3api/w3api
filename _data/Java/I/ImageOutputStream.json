@@ -18,11 +18,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
+                    "nombre": "int off",
                     "description": ""
                 },
                 {
@@ -30,7 +26,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int off",
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
                     "description": ""
                 }
             ]
@@ -50,11 +50,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long bits",
+                    "nombre": "int numBits",
                     "description": ""
                 },
                 {
-                    "nombre": "int numBits",
+                    "nombre": "long bits",
                     "description": ""
                 }
             ]
@@ -108,7 +108,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "int off",
                     "description": ""
                 },
                 {
@@ -116,7 +116,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int off",
+                    "nombre": "String s",
                     "description": ""
                 }
             ]
@@ -164,15 +164,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int off",
+                    "description": ""
+                },
+                {
                     "nombre": "int len",
                     "description": ""
                 },
                 {
                     "nombre": "float[] f",
-                    "description": ""
-                },
-                {
-                    "nombre": "int off",
                     "description": ""
                 }
             ]
@@ -192,11 +192,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int len",
+                    "nombre": "int[] i",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] i",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -224,11 +224,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long[] l",
+                    "nombre": "int off",
                     "description": ""
                 },
                 {
-                    "nombre": "int off",
+                    "nombre": "long[] l",
                     "description": ""
                 }
             ]
@@ -248,11 +248,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int len",
+                    "nombre": "short[] s",
                     "description": ""
                 },
                 {
-                    "nombre": "short[] s",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {

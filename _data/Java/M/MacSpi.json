@@ -26,11 +26,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Key key",
+                    "nombre": "AlgorithmParameterSpec params",
                     "description": ""
                 },
                 {
-                    "nombre": "AlgorithmParameterSpec params",
+                    "nombre": "Key key",
                     "description": ""
                 }
             ]
@@ -48,11 +48,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte input",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -60,7 +56,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte input",
                     "description": ""
                 }
             ]

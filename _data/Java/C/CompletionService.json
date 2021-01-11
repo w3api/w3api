@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TimeUnit unit",
+                    "nombre": "long timeout",
                     "description": ""
                 },
                 {
-                    "nombre": "long timeout",
+                    "nombre": "TimeUnit unit",
                     "description": ""
                 }
             ]
@@ -22,15 +22,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Runnable task",
-                    "description": ""
-                },
-                {
                     "nombre": "V result",
                     "description": ""
                 },
                 {
                     "nombre": "Callable<V> task",
+                    "description": ""
+                },
+                {
+                    "nombre": "Runnable task",
                     "description": ""
                 }
             ]

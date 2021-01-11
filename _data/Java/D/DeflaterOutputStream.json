@@ -8,7 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean syncFlush",
+                    "nombre": "Deflater def",
+                    "description": ""
+                },
+                {
+                    "nombre": "OutputStream out",
                     "description": ""
                 },
                 {
@@ -16,11 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Deflater def",
-                    "description": ""
-                },
-                {
-                    "nombre": "OutputStream out",
+                    "nombre": "boolean syncFlush",
                     "description": ""
                 }
             ]
@@ -48,11 +48,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
+                    "nombre": "int off",
                     "description": ""
                 },
                 {
@@ -60,7 +56,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int off",
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
                     "description": ""
                 }
             ]

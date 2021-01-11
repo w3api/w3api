@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "code": "",
+    "description": "Indica que el \u00edndice pasado como par\u00e1metro est\u00e1 fuera de rango. Esto aplica a elementos como Array, Vector, String,...\n",
+    "code": "String cadena = new String(\"Mi cadena\");\nchar caracter; \n\ntry{ \n caracter = cadena.charAt(40);\n} catch (IndexOutOfBoundsException ioobe){ \n System.out.println(\"No existe un car\u00e1cter en esa posici\u00f3n\");\n}\n",
     "ldc": [],
     "constructores": [
         {
@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String s",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "String s",
                     "description": ""
                 }
             ]

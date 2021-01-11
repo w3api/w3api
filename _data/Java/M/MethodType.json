@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?>... ptypesToInsert",
+                    "nombre": "List<Class<?>> ptypesToInsert",
                     "description": ""
                 },
                 {
-                    "nombre": "List<Class<?>> ptypesToInsert",
+                    "nombre": "Class<?>... ptypesToInsert",
                     "description": ""
                 }
             ]
@@ -22,11 +22,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> nptype",
+                    "nombre": "int num",
                     "description": ""
                 },
                 {
-                    "nombre": "int num",
+                    "nombre": "Class<?> nptype",
                     "description": ""
                 }
             ]
@@ -118,15 +118,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?>... ptypesToInsert",
-                    "description": ""
-                },
-                {
                     "nombre": "int num",
                     "description": ""
                 },
                 {
                     "nombre": "List<Class<?>> ptypesToInsert",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?>... ptypesToInsert",
                     "description": ""
                 }
             ]
@@ -148,7 +148,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodType ptypes",
+                    "nombre": "Class<?>[] ptypes",
                     "description": ""
                 },
                 {
@@ -160,7 +160,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?>[] ptypes",
+                    "nombre": "MethodType ptypes",
                     "description": ""
                 }
             ]

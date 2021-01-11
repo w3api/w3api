@@ -1,16 +1,29 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "System.out.println(\"Salida de texto\");\n",
+    "ldc": [
+        {
+            "nombre": "Separador de directorios en Java",
+            "url": "http://lineadecodigo.com/java/separador-de-directorios-en-java/"
+        },
+        {
+            "nombre": "Finalizar un objeto en Java",
+            "url": "http://lineadecodigo.com/java/finalizar-un-objeto-en-java/"
+        },
+        {
+            "nombre": "Crear la ruta de un fichero con Java",
+            "url": "http://lineadecodigo.com/java/crear-la-ruta-de-un-fichero-con-java/"
+        },
+        {
+            "nombre": "Cambiar la fecha de modificaci\u00f3n de un fichero con Java",
+            "url": "http://lineadecodigo.com/java/cambiar-la-fecha-de-modificacion-de-un-fichero-con-java/"
+        }
+    ],
     "metodos": [
         {
             "nombre": "arraycopy",
-            "description": "",
+            "description": "M\u00e9todo que copia desde la posici\u00f3n origen de un array a un array destino en una posici\u00f3n espec\u00edfica. El n\u00famero de elementos copiados tambi\u00e9n se identifica como par\u00e1metro.\n",
             "parametros": [
-                {
-                    "nombre": "int destPos",
-                    "description": ""
-                },
                 {
                     "nombre": "int srcPos",
                     "description": ""
@@ -26,8 +39,14 @@
                 {
                     "nombre": "Object dest",
                     "description": ""
+                },
+                {
+                    "nombre": "int destPos",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "String a1[] = {\"Avila\",\"Burgos\",\"Le\u00f3n\",\"Palencia\",\"Salamanca\", \"Segovia\",\"Soria\",\"Valladolid\",\"Zamora\"};\t   \nString[] a2 = new String[9]; \nSystem.arraycopy(a1,0,a2,0,a1.length);\n",
+            "ldc": []
         },
         {
             "nombre": "clearProperty",
@@ -45,21 +64,37 @@
         },
         {
             "nombre": "currentTimeMillis",
-            "description": ""
+            "description": "M\u00e9todo que devuelve la hora actual del sistema en milisegundos. Los milisegundos van desde el 1 de enero de 1970 hasta la actualidad.\n",
+            "code": "File fichero = new File(\"test.txt\");\nlong ms = System.currentTimeMillis();\nboolean cambio = fichero.setLastModified(ms);\n\nif (cambio)\n  System.out.println(\"Se ha cambiado la hora del sistema satisfactoriamente\");\nelse\n  System.out.println(\"NO se ha podido cambiar la hora\");\t\n",
+            "ldc": [
+                {
+                    "nombre": "Cambiar la fecha de modificaci\u00f3n de un fichero con Java",
+                    "url": "http://lineadecodigo.com/java/cambiar-la-fecha-de-modificacion-de-un-fichero-con-java/"
+                }
+            ]
         },
         {
             "nombre": "exit",
-            "description": "",
+            "description": "System\n",
             "parametros": [
                 {
                     "nombre": "int status",
                     "description": ""
                 }
+            ],
+            "code": "",
+            "ldc": [
+                {
+                    "nombre": "Cerrar una ventana con Java Swing",
+                    "url": "http://lineadecodigo.com/java/cerrar-una-ventana-con-java-swing/"
+                }
             ]
         },
         {
             "nombre": "gc",
-            "description": ""
+            "description": "M\u00e9todo que ejecuta el garbage collector del sistema. El garbage collector realiza un reciclado de los objetos de la memoria de la JVM para optimizar el espacio de la misma.\n",
+            "code": "System.gc();\n",
+            "ldc": []
         },
         {
             "nombre": "getenv",
@@ -91,7 +126,7 @@
         },
         {
             "nombre": "getProperty",
-            "description": "",
+            "description": "Obtiene una propiedad del sistema indicada mediante la clave.\n",
             "parametros": [
                 {
                     "nombre": "String key",
@@ -100,6 +135,17 @@
                 {
                     "nombre": "String def",
                     "description": ""
+                }
+            ],
+            "code": "String sSistemaOperativo = System.getProperty(\"os.name\");\nSystem.out.println(sSistemaOperativo);\n",
+            "ldc": [
+                {
+                    "nombre": "Separador de directorios en Java",
+                    "url": "http://lineadecodigo.com/java/separador-de-directorios-en-java/"
+                },
+                {
+                    "nombre": "Crear la ruta de un fichero con Java",
+                    "url": "http://lineadecodigo.com/java/crear-la-ruta-de-un-fichero-con-java/"
                 }
             ]
         },
@@ -161,7 +207,14 @@
         },
         {
             "nombre": "runFinalization",
-            "description": ""
+            "description": "Sugiere la ejecuci\u00f3n de los m\u00e9todos finalize pendientes de ejecutar\n",
+            "code": "public class FinalizarUnObjeto {\n public static void main(String[] args) {\n\n   FinalizarUnObjeto fuo = new FinalizarUnObjeto();\n   System.out.println(fuo.toString());\n   fuo = null;\n   System.runFinalization();\t\t\t\t\n }\n\n protected void finalize() throws Throwable{\n   System.out.println(\"Finalizando el Objeto\");\n   super.finalize();\n }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Finalizar un objeto en Java",
+                    "url": "http://lineadecodigo.com/java/finalizar-un-objeto-en-java/"
+                }
+            ]
         },
         {
             "nombre": "runFinalizersOnExit",
@@ -218,11 +271,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String value",
+                    "nombre": "String key",
                     "description": ""
                 },
                 {
-                    "nombre": "String key",
+                    "nombre": "String value",
                     "description": ""
                 }
             ]
@@ -245,11 +298,15 @@
         },
         {
             "nombre": "in",
-            "description": ""
+            "description": "Es la entrada est\u00e1ndar de datos. Con ella recuperamos informaci\u00f3n a la consola.\n",
+            "code": "InputStreamReader isr = new InputStreamReader(System.in);\nBufferedReader br = new BufferedReader(isr);\nString sCadena = br.readLine();\n",
+            "ldc": []
         },
         {
             "nombre": "out",
-            "description": ""
+            "description": "Es la salida est\u00e1ndar de datos. Con ella enviamos informaci\u00f3n a la consola.\n",
+            "code": "System.out.println(\"Salida a la consola\");\n",
+            "ldc": []
         }
     ]
 }

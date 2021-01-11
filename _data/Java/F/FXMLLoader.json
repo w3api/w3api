@@ -8,6 +8,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Object> controllerFactory",
+                    "description": ""
+                },
+                {
                     "nombre": "ResourceBundle resources",
                     "description": ""
                 },
@@ -16,19 +20,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "LinkedList<FXMLLoader> loaders",
+                    "description": ""
+                },
+                {
                     "nombre": "Callback<Class<?>",
                     "description": ""
                 },
                 {
-                    "nombre": "Object> controllerFactory",
-                    "description": ""
-                },
-                {
                     "nombre": "BuilderFactory builderFactory",
-                    "description": ""
-                },
-                {
-                    "nombre": "LinkedList<FXMLLoader> loaders",
                     "description": ""
                 },
                 {
@@ -92,11 +92,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Charset charset",
+                    "nombre": "Object> controllerFactory",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream inputStream",
+                    "nombre": "Charset charset",
                     "description": ""
                 },
                 {
@@ -104,7 +104,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object> controllerFactory",
+                    "nombre": "InputStream inputStream",
                     "description": ""
                 },
                 {
@@ -122,11 +122,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
+                    "nombre": "String packageName",
                     "description": ""
                 },
                 {
-                    "nombre": "String packageName",
+                    "nombre": "String className",
                     "description": ""
                 }
             ]

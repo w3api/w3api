@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super V",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super V",
                     "description": ""
                 }
             ]
@@ -48,11 +48,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super V",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -60,7 +56,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super V",
                     "description": ""
                 }
             ]
@@ -70,11 +70,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BiConsumer<? super K",
+                    "nombre": "? super V> action",
                     "description": ""
                 },
                 {
-                    "nombre": "? super V> action",
+                    "nombre": "BiConsumer<? super K",
                     "description": ""
                 }
             ]
@@ -84,11 +84,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object key",
+                    "nombre": "V defaultValue",
                     "description": ""
                 },
                 {
-                    "nombre": "V defaultValue",
+                    "nombre": "Object key",
                     "description": ""
                 }
             ]
@@ -98,15 +98,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
                     "nombre": "? super V",
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super V",
+                    "nombre": "V value",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 },
                 {
@@ -114,7 +114,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V value",
+                    "nombre": "BiFunction<? super V",
                     "description": ""
                 }
             ]
@@ -124,11 +124,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 },
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 }
             ]
@@ -138,11 +138,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object value",
+                    "nombre": "Object key",
                     "description": ""
                 },
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object value",
                     "description": ""
                 }
             ]
@@ -152,11 +152,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V newValue",
+                    "nombre": "V value",
                     "description": ""
                 },
                 {
-                    "nombre": "V oldValue",
+                    "nombre": "V newValue",
                     "description": ""
                 },
                 {
@@ -164,7 +164,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V value",
+                    "nombre": "V oldValue",
                     "description": ""
                 }
             ]
@@ -174,7 +174,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? super V",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -182,7 +182,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "? super V",
                     "description": ""
                 }
             ]

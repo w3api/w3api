@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int outputOffset",
+                    "nombre": "byte[] output",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] output",
+                    "nombre": "int outputOffset",
                     "description": ""
                 }
             ]
@@ -38,15 +38,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Key key",
-                    "description": ""
-                },
-                {
                     "nombre": "AlgorithmParameterSpec params",
                     "description": ""
                 },
                 {
                     "nombre": "AlgorithmParameters params",
+                    "description": ""
+                },
+                {
+                    "nombre": "Key key",
                     "description": ""
                 }
             ]

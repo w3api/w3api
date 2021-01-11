@@ -1,7 +1,12 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "La clase String representa un car\u00e1cter char.\n",
+    "code": "public static boolean esVocal(char c){\n  if ((Character.toLowerCase(c)=='a') || (Character.toLowerCase(c)=='e')\n        || (Character.toLowerCase(c)=='i') || (Character.toLowerCase(c)=='o')\n        || (Character.toLowerCase(c)=='u'))\n    return true;\n  else\n    return false;\n",
+    "ldc": [
+        {
+            "nombre": "Contar las consonantes de una palabra",
+            "url": "http://lineadecodigo.com/java/contar-las-consonantes-de-una-palabra-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Character",
@@ -38,15 +43,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
                     "nombre": "char[] a",
                     "description": ""
                 },
                 {
                     "nombre": "int limit",
-                    "description": ""
-                },
-                {
-                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -64,11 +69,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] a",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "char[] a",
                     "description": ""
                 }
             ]
@@ -78,11 +83,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CharSequence seq",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
+                    "nombre": "char[] a",
                     "description": ""
                 },
                 {
@@ -90,15 +91,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int endIndex",
-                    "description": ""
-                },
-                {
                     "nombre": "int beginIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "char[] a",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence seq",
+                    "description": ""
+                },
+                {
+                    "nombre": "int endIndex",
                     "description": ""
                 }
             ]
@@ -142,15 +147,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int radix",
-                    "description": ""
-                },
-                {
                     "nombre": "char ch",
                     "description": ""
                 },
                 {
                     "nombre": "int codePoint",
+                    "description": ""
+                },
+                {
+                    "nombre": "int radix",
                     "description": ""
                 }
             ]
@@ -287,7 +292,7 @@
         },
         {
             "nombre": "isDigit",
-            "description": "",
+            "description": "Comprueba si el car\u00e1cter pasado como par\u00e1metro es un d\u00edgito. Si es un d\u00edgito devuelve true, en caso contrario devuelve false.\n",
             "parametros": [
                 {
                     "nombre": "char ch",
@@ -297,7 +302,9 @@
                     "nombre": "int codePoint",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "if (Character.isDigit('3'))\n  System.out.println(\"El caracter es un d\u00edgito\");\nelse\n  System.out.println(\"El caracter NO es un d\u00edgito\");\n",
+            "ldc": []
         },
         {
             "nombre": "isHighSurrogate",
@@ -397,7 +404,7 @@
         },
         {
             "nombre": "isLetter",
-            "description": "",
+            "description": "M\u00e9todo que comprueba que el car\u00e1cter pasado como par\u00e1metro es una letra. Si es una letra devuelve true, si no devuelve false.\n",
             "parametros": [
                 {
                     "nombre": "char ch",
@@ -406,6 +413,13 @@
                 {
                     "nombre": "int codePoint",
                     "description": ""
+                }
+            ],
+            "code": "for(int x=0;x<sPalabra.length();x++) {\t\t\t\n  if (Character.isLetter(sPalabra.charAt(x)))\n   contador++;\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Contar las consonantes de una palabra",
+                    "url": "http://lineadecodigo.com/java/contar-las-consonantes-de-una-palabra-con-java/"
                 }
             ]
         },
@@ -614,6 +628,14 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "char[] a",
+                    "description": ""
+                },
+                {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
                     "nombre": "int codePointOffset",
                     "description": ""
                 },
@@ -623,14 +645,6 @@
                 },
                 {
                     "nombre": "int start",
-                    "description": ""
-                },
-                {
-                    "nombre": "int count",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] a",
                     "description": ""
                 },
                 {
@@ -658,11 +672,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int dstIndex",
+                    "nombre": "int codePoint",
                     "description": ""
                 },
                 {
-                    "nombre": "int codePoint",
+                    "nombre": "int dstIndex",
                     "description": ""
                 }
             ]
@@ -683,7 +697,7 @@
         },
         {
             "nombre": "toLowerCase",
-            "description": "",
+            "description": "Convierte el car\u00e1cter pasado como par\u00e1metro en min\u00fasculas.\n",
             "parametros": [
                 {
                     "nombre": "char ch",
@@ -692,6 +706,13 @@
                 {
                     "nombre": "int codePoint",
                     "description": ""
+                }
+            ],
+            "code": "public static boolean esVocal(char c){\n  if ((Character.toLowerCase(c)=='a') || (Character.toLowerCase(c)=='e') || (Character.toLowerCase(c)=='i') || (Character.toLowerCase(c)=='o') || (Character.toLowerCase(c)=='u'))\n    return true;\n  else\n    return false;\t\t\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Contar las consonantes de una palabra",
+                    "url": "http://lineadecodigo.com/java/contar-las-consonantes-de-una-palabra-con-java/"
                 }
             ]
         },

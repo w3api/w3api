@@ -18,35 +18,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean isPositive",
-                    "description": ""
-                },
-                {
-                    "nombre": "int months",
-                    "description": ""
-                },
-                {
-                    "nombre": "int days",
-                    "description": ""
-                },
-                {
-                    "nombre": "int years",
-                    "description": ""
-                },
-                {
-                    "nombre": "int hours",
-                    "description": ""
-                },
-                {
-                    "nombre": "int minutes",
-                    "description": ""
-                },
-                {
                     "nombre": "int seconds",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger years",
                     "description": ""
                 },
                 {
@@ -54,15 +26,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger minutes",
-                    "description": ""
-                },
-                {
                     "nombre": "long durationInMilliSeconds",
                     "description": ""
                 },
                 {
-                    "nombre": "String lexicalRepresentation",
+                    "nombre": "int minutes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int days",
+                    "description": ""
+                },
+                {
+                    "nombre": "int months",
                     "description": ""
                 },
                 {
@@ -70,11 +46,35 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BigDecimal seconds",
+                    "nombre": "BigInteger years",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isPositive",
                     "description": ""
                 },
                 {
                     "nombre": "BigInteger days",
+                    "description": ""
+                },
+                {
+                    "nombre": "int years",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal seconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "String lexicalRepresentation",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger minutes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hours",
                     "description": ""
                 }
             ]
@@ -84,15 +84,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean isPositive",
-                    "description": ""
-                },
-                {
                     "nombre": "int day",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger minute",
                     "description": ""
                 },
                 {
@@ -100,23 +92,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String lexicalRepresentation",
-                    "description": ""
-                },
-                {
                     "nombre": "BigInteger hour",
                     "description": ""
                 },
                 {
-                    "nombre": "int hour",
+                    "nombre": "boolean isPositive",
                     "description": ""
                 },
                 {
-                    "nombre": "BigInteger day",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigInteger second",
+                    "nombre": "int second",
                     "description": ""
                 },
                 {
@@ -124,7 +108,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int second",
+                    "nombre": "BigInteger day",
+                    "description": ""
+                },
+                {
+                    "nombre": "String lexicalRepresentation",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger minute",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigInteger second",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hour",
                     "description": ""
                 }
             ]
@@ -134,23 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean isPositive",
-                    "description": ""
-                },
-                {
-                    "nombre": "int month",
-                    "description": ""
-                },
-                {
-                    "nombre": "long durationInMilliseconds",
-                    "description": ""
-                },
-                {
                     "nombre": "String lexicalRepresentation",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
                     "description": ""
                 },
                 {
@@ -158,7 +142,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "long durationInMilliseconds",
+                    "description": ""
+                },
+                {
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
                     "nombre": "BigInteger year",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isPositive",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
                     "description": ""
                 }
             ]
@@ -182,11 +182,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int day",
-                    "description": ""
-                },
-                {
-                    "nombre": "int month",
+                    "nombre": "GregorianCalendar cal",
                     "description": ""
                 },
                 {
@@ -194,7 +190,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int timezone",
+                    "nombre": "int day",
                     "description": ""
                 },
                 {
@@ -202,19 +198,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int year",
+                    "nombre": "int timezone",
                     "description": ""
                 },
                 {
-                    "nombre": "GregorianCalendar cal",
-                    "description": ""
-                },
-                {
-                    "nombre": "int hour",
-                    "description": ""
-                },
-                {
-                    "nombre": "BigDecimal fractionalSecond",
+                    "nombre": "int month",
                     "description": ""
                 },
                 {
@@ -228,6 +216,18 @@
                 {
                     "nombre": "int second",
                     "description": ""
+                },
+                {
+                    "nombre": "int year",
+                    "description": ""
+                },
+                {
+                    "nombre": "BigDecimal fractionalSecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hour",
+                    "description": ""
                 }
             ]
         },
@@ -236,7 +236,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int day",
+                    "nombre": "int month",
+                    "description": ""
+                },
+                {
+                    "nombre": "int year",
                     "description": ""
                 },
                 {
@@ -244,11 +248,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int month",
-                    "description": ""
-                },
-                {
-                    "nombre": "int year",
+                    "nombre": "int day",
                     "description": ""
                 }
             ]
@@ -262,15 +262,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int hours",
-                    "description": ""
-                },
-                {
                     "nombre": "int minutes",
                     "description": ""
                 },
                 {
-                    "nombre": "int milliseconds",
+                    "nombre": "int timezone",
                     "description": ""
                 },
                 {
@@ -278,7 +274,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int timezone",
+                    "nombre": "int hours",
+                    "description": ""
+                },
+                {
+                    "nombre": "int milliseconds",
                     "description": ""
                 }
             ]

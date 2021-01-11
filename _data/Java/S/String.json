@@ -1,14 +1,76 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "La clase String representa una cadena de texto.\n",
+    "code": "String cadena = new String(\"una cadena de texto\");\nSystem.out.println(cadena);\nSystem.out.println(cadena.substring(4));\n",
+    "ldc": [
+        {
+            "nombre": "Alinear cadena a la izquierda",
+            "url": "http://lineadecodigo.com/java/alinear-cadena-a-la-izquierda/"
+        },
+        {
+            "nombre": "Ordenando alfab\u00e9ticamente con CASE_INSENSITIVE_ORDER",
+            "url": "http://lineadecodigo.com/java/ordenando-alfabeticamente-con-case_insensitive_order/"
+        },
+        {
+            "nombre": "Obtener un car\u00e1cter de una cadena con Java",
+            "url": "http://lineadecodigo.com/java/obtener-un-caracter-de-una-cadena-con-java/"
+        },
+        {
+            "nombre": "Obtener los c\u00f3digos ASCII de una cadena de texto",
+            "url": "http://lineadecodigo.com/java/obtener-los-codigos-ascii-de-una-cadena-de-texto/"
+        },
+        {
+            "nombre": "Convertir un array en un String con Java",
+            "url": "http://lineadecodigo.com/java/convertir-un-array-en-un-string-con-java/"
+        },
+        {
+            "nombre": "Extraer contenido con delimitadores din\u00e1micos",
+            "url": "http://lineadecodigo.com/java/extraer-contenido-con-delimitadores-dinamicos/"
+        },
+        {
+            "nombre": "Extraer una parte de una cadena",
+            "url": "http://lineadecodigo.com/java/extraer-una-parte-de-una-cadena/"
+        },
+        {
+            "nombre": "Detectar emails que finalicen en .com",
+            "url": "http://lineadecodigo.com/java/detectar-emails-que-finalicen-en-com/"
+        },
+        {
+            "nombre": "Reemplazar contenido con Java",
+            "url": "http://lineadecodigo.com/java/reemplazar-contenido-con-java/"
+        },
+        {
+            "nombre": "Convertir un array de caracteres en un String",
+            "url": "http://lineadecodigo.com/java/convertir-un-array-de-caracteres-en-un-string/"
+        },
+        {
+            "nombre": "Palabras que empiecen por...",
+            "url": "http://lineadecodigo.com/java/palabras-que-empiecen-por/"
+        },
+        {
+            "nombre": "Transformar c\u00f3digo binario a decimal",
+            "url": "http://lineadecodigo.com/java/transformar-codigo-binario-a-decimal/"
+        },
+        {
+            "nombre": "Contar las vocales de una palabra con Java",
+            "url": "http://lineadecodigo.com/java/contar-las-vocales-de-una-palabra-con-java/"
+        },
+        {
+            "nombre": "Invertir una cadena con reverse en Java",
+            "url": "http://lineadecodigo.com/java/invertir-una-cadena-con-reverse-en-java/"
+        },
+        {
+            "nombre": "Pasar par\u00e1metros a una aplicaci\u00f3n Java",
+            "url": "http://lineadecodigo.com/java/pasar-parametros-a-una-aplicacion-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "String",
-            "description": "",
+            "description": "Permite construir una cadena de texto.\n",
+            "code": "String cadena = new String(\"Cadena de Texto\");\nSystem.out.println(cadena);\n",
             "parametros": [
                 {
-                    "nombre": "byte[] bytes",
+                    "nombre": "String charsetName",
                     "description": ""
                 },
                 {
@@ -16,19 +78,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] value",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int count",
-                    "description": ""
-                },
-                {
-                    "nombre": "String charsetName",
+                    "nombre": "int hibyte",
                     "description": ""
                 },
                 {
@@ -36,11 +86,31 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int count",
+                    "description": ""
+                },
+                {
                     "nombre": "String original",
                     "description": ""
                 },
                 {
+                    "nombre": "byte[] bytes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] codePoints",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
                     "nombre": "StringBuffer buffer",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] value",
                     "description": ""
                 },
                 {
@@ -50,14 +120,6 @@
                 {
                     "nombre": "byte[] ascii",
                     "description": ""
-                },
-                {
-                    "nombre": "int[] codePoints",
-                    "description": ""
-                },
-                {
-                    "nombre": "int hibyte",
-                    "description": ""
                 }
             ]
         }
@@ -65,11 +127,26 @@
     "metodos": [
         {
             "nombre": "charAt",
-            "description": "",
+            "description": "Devuelve el car\u00e1cter situado en la posici\u00f3n 'index' pasada por par\u00e1metro. La primera posici\u00f3n es la 0.\n",
             "parametros": [
                 {
                     "nombre": "int index",
                     "description": ""
+                }
+            ],
+            "code": "String cadena = new String(\"Cadena de Texto\");\nSystem.out.println(cadena.charAt(2));  // Devuelve la letra 'd'\n",
+            "ldc": [
+                {
+                    "nombre": "Obtener un car\u00e1cter de una cadena con Java",
+                    "url": "http://lineadecodigo.com/java/obtener-un-caracter-de-una-cadena-con-java/"
+                },
+                {
+                    "nombre": "Obtener los c\u00f3digos ASCII de una cadena de texto",
+                    "url": "http://lineadecodigo.com/java/obtener-los-codigos-ascii-de-una-cadena-de-texto/"
+                },
+                {
+                    "nombre": "Contar las vocales de una palabra con Java",
+                    "url": "http://lineadecodigo.com/java/contar-las-vocales-de-una-palabra-con-java/"
                 }
             ]
         },
@@ -79,37 +156,48 @@
         },
         {
             "nombre": "codePointAt",
-            "description": "",
+            "description": "Devuelve el c\u00f3digo ASCII en la posici\u00f3n 'index' pasada por par\u00e1metro. La primera posici\u00f3n es la 0.\nSi quieres informaci\u00f3n sobre los c\u00f3digos ASCII puedes echarle un ojo a http://www.ascii.cl/es/\n",
             "parametros": [
                 {
                     "nombre": "int index",
                     "description": ""
+                }
+            ],
+            "code": "String cadena = new String(\"Cadena de Texto\");\nSystem.out.println(cadena.codePointAt(2));  // Devuelve el c\u00f3digo ASCII 97 que corresponde a la 'a'\n",
+            "ldc": [
+                {
+                    "nombre": "Obtener los c\u00f3digos ASCII de una cadena de texto",
+                    "url": "http://lineadecodigo.com/java/obtener-los-codigos-ascii-de-una-cadena-de-texto/"
                 }
             ]
         },
         {
             "nombre": "codePointBefore",
-            "description": "",
+            "description": "String\n",
             "parametros": [
                 {
                     "nombre": "int index",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "codePointCount",
-            "description": "",
+            "description": "String\n",
             "parametros": [
-                {
-                    "nombre": "int endIndex",
-                    "description": ""
-                },
                 {
                     "nombre": "int beginIndex",
                     "description": ""
+                },
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "codePoints",
@@ -117,23 +205,27 @@
         },
         {
             "nombre": "compareTo",
-            "description": "",
+            "description": "M\u00e9todo que realiza una comparaci\u00f3n entre dos cadenas, la que invoca y la que es pasada por par\u00e1metro. La comparaci\u00f3n est\u00e1 basada en el valor Unicode de las cadenas.\n",
             "parametros": [
                 {
                     "nombre": "String anotherString",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "compareToIgnoreCase",
-            "description": "",
+            "description": "M\u00e9todo que realiza una comparaci\u00f3n entre dos cadenas, la que invoca y la que es pasada por par\u00e1metro. La comparaci\u00f3n est\u00e1 basada en el valor Unicode de las cadenas. A diferencia de .compareTo(), el m\u00e9todo .compareToIgnoreCase() no tiene en cuenta las may\u00fasculas y min\u00fasculas.\n",
             "parametros": [
                 {
                     "nombre": "String str",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "concat",
@@ -147,17 +239,19 @@
         },
         {
             "nombre": "contains",
-            "description": "",
+            "description": "String\n",
             "parametros": [
                 {
                     "nombre": "CharSequence s",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "contentEquals",
-            "description": "",
+            "description": "String\n",
             "parametros": [
                 {
                     "nombre": "CharSequence cs",
@@ -167,12 +261,18 @@
                     "nombre": "StringBuffer sb",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "copyValueOf",
-            "description": "",
+            "description": "String\n",
             "parametros": [
+                {
+                    "nombre": "char[] data",
+                    "description": ""
+                },
                 {
                     "nombre": "int offset",
                     "description": ""
@@ -180,75 +280,78 @@
                 {
                     "nombre": "int count",
                     "description": ""
-                },
-                {
-                    "nombre": "char[] data",
-                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "endsWith",
-            "description": "",
+            "description": "Comprueba si la cadena termina con el sufijo pasado como par\u00e1metro.\n",
             "parametros": [
                 {
                     "nombre": "String suffix",
                     "description": ""
                 }
+            ],
+            "code": "public class EmailsAcabadosEnDotCom {\t\n public static void main(String[] args) {\n \n  String emails[] = {\"julio@gmail.com\",\"maria@red.es\",\"lucia@hotmail.com\",\"javi@email.it\",\"laura@telecom.fr\",\n       \"sonia@aulambra.com\",\"luis@hotmail.com\",\"pedro@yahoo.com\",\"enrique@fcbarcelona.cat\"};\n\n   for (String email: emails)\n       if (email.endsWith(\".com\")) System.out.println(email);\n }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Detectar emails que finalicen en .com",
+                    "url": "http://lineadecodigo.com/java/detectar-emails-que-finalicen-en-com/"
+                }
             ]
         },
         {
             "nombre": "equals",
-            "description": "",
+            "description": "Compara la cadena de texto contra un objeto. Devolver\u00e1 true si las cadenas comparadas son iguales. En caso contrario devolver\u00e1 false.\n",
             "parametros": [
                 {
                     "nombre": "Object anObject",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "String sCadena1 = new String(\"Avila\");\nString sCadena2 = new String(\"Salamanca\");\nString sCadena3 = new String(\"Avila\");\n\t\t\nif (sCadena1.equals(sCadena2))\n System.out.println(sCadena1 + \" y \" + sCadena2 + \" son IGUALES\");\nelse\n System.out.println(sCadena1 + \" y \" + sCadena2 + \" son DIFERENTES\");\n\t\nif (sCadena1.equals(sCadena3))\n System.out.println(sCadena1 + \" y \" + sCadena3 + \" son IGUALES\");\nelse\n System.out.println(sCadena1 + \" y \" + sCadena3 + \" son DIFERENTES\");\n",
+            "ldc": []
         },
         {
             "nombre": "equalsIgnoreCase",
-            "description": "",
+            "description": "Compara la cadena de texto contra un objeto ignorando may\u00fasculas y min\u00fasculas. Devolver\u00e1 true si las cadenas comparadas son iguales. En caso contrario devolver\u00e1 false.\n",
             "parametros": [
                 {
                     "nombre": "String anotherString",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "String sCadena1 = new String(\"Avila\");\nString sCadena2 = new String(\"Salamanca\");\nString sCadena3 = new String(\"AVILA\");\n\nif (sCadena1.equalsIgnoreCase(sCadena2))\n System.out.println(sCadena1 + \" y \" + sCadena2 + \" son IGUALES\");\nelse\n System.out.println(sCadena1 + \" y \" + sCadena2 + \" son DIFERENTES\");\n\nif (sCadena1.equalsIgnoreCase(sCadena3))\n System.out.println(sCadena1 + \" y \" + sCadena3 + \" son IGUALES\");\nelse\n System.out.println(sCadena1 + \" y \" + sCadena3 + \" son DIFERENTES\");\n",
+            "ldc": []
         },
         {
             "nombre": "format",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String format",
+                    "nombre": "Locale l",
                     "description": ""
                 },
                 {
-                    "nombre": "Locale l",
+                    "nombre": "String format",
                     "description": ""
                 },
                 {
                     "nombre": "Object... args",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "int numero = 425;\n\nString formateado = String.format(\"Contenido\u00a0%-8d unidades\", number);\t\t\nSystem.out.println(formateado);\n",
+            "ldc": []
         },
         {
             "nombre": "getBytes",
-            "description": "",
+            "description": "String\n",
             "parametros": [
                 {
-                    "nombre": "int dstBegin",
-                    "description": ""
-                },
-                {
-                    "nombre": "int srcBegin",
-                    "description": ""
-                },
-                {
-                    "nombre": "Charset charset",
+                    "nombre": "String charsetName",
                     "description": ""
                 },
                 {
@@ -256,25 +359,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String charsetName",
-                    "description": ""
-                },
-                {
-                    "nombre": "int srcEnd",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "nombre": "getChars",
-            "description": "",
-            "parametros": [
-                {
-                    "nombre": "char[] dst",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dstBegin",
+                    "nombre": "Charset charset",
                     "description": ""
                 },
                 {
@@ -282,19 +367,55 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int dstBegin",
+                    "description": ""
+                },
+                {
                     "nombre": "int srcEnd",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "getChars",
+            "description": "String\n",
+            "parametros": [
+                {
+                    "nombre": "int dstBegin",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcEnd",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcBegin",
+                    "description": ""
+                }
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "hashCode",
-            "description": ""
+            "description": "String\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "indexOf",
-            "description": "",
+            "description": "La funci\u00f3n .indexOf() nos devuelve la posici\u00f3n, mediante un n\u00famero entero, de una cadena o un car\u00e1cter dentro de una cadena de texto nada. En el caso de que el car\u00e1cter o la cadena no exista se devuelve un -1.\n",
             "parametros": [
+                {
+                    "nombre": "int ch",
+                    "description": ""
+                },
                 {
                     "nombre": "int fromIndex",
                     "description": ""
@@ -302,29 +423,32 @@
                 {
                     "nombre": "String str",
                     "description": ""
-                },
+                }
+            ],
+            "code": "public class ContadorDePalabras {\n\n\t\n\tpublic static void main(String[] args) {\n\t\t\n\t    // Texto\n\t    String sTexto = \"palabra o palabra y palabra\";\n\t    // Texto que vamos a buscar\n\t    String sTextoBuscado = \"palabra\";\n\t    // Contador de ocurrencias \n\t    int contador = 0;\n\n\t    while (sTexto.indexOf(sTextoBuscado) > -1) {\n\t      sTexto = sTexto.substring(sTexto.indexOf(\n\t        sTextoBuscado)+sTextoBuscado.length(),sTexto.length());\n\t      contador++; \n\t    }\n\n\t    System.out.println (contador);\n\n\t}\n\n}\n",
+            "ldc": [
                 {
-                    "nombre": "int ch",
-                    "description": ""
+                    "nombre": "Poner may\u00fasculas despu\u00e9s de punto",
+                    "url": "http://lineadecodigo.com/java/poner-en-mayusculas-despues-de-punto/"
                 }
             ]
         },
         {
             "nombre": "intern",
-            "description": ""
+            "description": "String\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isEmpty",
-            "description": ""
+            "description": "M\u00e9todo que devuelve true en el caso de que el tama\u00f1o de la cadena sera 0. En otro caso devuelve false.\n",
+            "code": "try {\n  FileReader fr = new FileReader(\"resources/fichero.txt\");\n\t\t\n  BufferedReader bf = new BufferedReader(fr);\n\t\t\t\n  String sCadena = \"\";\n  long lNumeroLineasVacias = 0;\n\t\t\t\n  while ((sCadena = bf.readLine())!=null) {\n    if (sCadena.isEmpty())\n      lNumeroLineasVacias++;\n  }\n\t\t\t\n  bf.close();\n\t\t\t\n} catch (FileNotFoundException fnfe){\n  fnfe.printStackTrace();\n} catch (IOException ioe){\n  ioe.printStackTrace();\n}\n",
+            "ldc": []
         },
         {
             "nombre": "join",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "CharSequence delimiter",
-                    "description": ""
-                },
                 {
                     "nombre": "Iterable<? extends CharSequence> elements",
                     "description": ""
@@ -332,13 +456,21 @@
                 {
                     "nombre": "CharSequence... elements",
                     "description": ""
+                },
+                {
+                    "nombre": "CharSequence delimiter",
+                    "description": ""
                 }
             ]
         },
         {
             "nombre": "lastIndexOf",
-            "description": "",
+            "description": "La funci\u00f3n .lastIndexOf() nos devuelve la \u00faltima posici\u00f3n, mediante un n\u00famero entero, de una cadena o un car\u00e1cter dentro de una cadena de texto nada. En el caso de que el car\u00e1cter o la cadena no exista se devuelve un -1.\n",
             "parametros": [
+                {
+                    "nombre": "int ch",
+                    "description": ""
+                },
                 {
                     "nombre": "int fromIndex",
                     "description": ""
@@ -346,30 +478,41 @@
                 {
                     "nombre": "String str",
                     "description": ""
+                }
+            ],
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "length",
+            "description": "Devuelve el tama\u00f1o de la cadena de texto.\n",
+            "code": "String cadena = new String(\"Cadena de Texto\");\nSystem.out.println(\"El tama\u00f1o de \" + cadena + \" es de \" + cadena.length() + \" caracteres\");\n",
+            "ldc": [
+                {
+                    "nombre": "Poner may\u00fasculas despu\u00e9s de punto",
+                    "url": "http://lineadecodigo.com/java/poner-en-mayusculas-despues-de-punto/"
                 },
                 {
-                    "nombre": "int ch",
-                    "description": ""
+                    "nombre": "Obtener los c\u00f3digos ASCII de una cadena de texto",
+                    "url": "http://lineadecodigo.com/java/obtener-los-codigos-ascii-de-una-cadena-de-texto/"
                 }
             ]
         },
         {
-            "nombre": "length",
-            "description": ""
-        },
-        {
             "nombre": "matches",
-            "description": "",
+            "description": "M\u00e9todo que realiza el matching entre la cadena de texto y la expresi\u00f3n regular que recibe como par\u00e1metro.\n",
             "parametros": [
                 {
                     "nombre": "String regex",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "offsetByCodePoints",
-            "description": "",
+            "description": "String\n",
             "parametros": [
                 {
                     "nombre": "int codePointOffset",
@@ -379,18 +522,16 @@
                     "nombre": "int index",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "regionMatches",
-            "description": "",
+            "description": "String\n",
             "parametros": [
                 {
-                    "nombre": "boolean ignoreCase",
-                    "description": ""
-                },
-                {
-                    "nombre": "String other",
+                    "nombre": "int ooffset",
                     "description": ""
                 },
                 {
@@ -398,25 +539,27 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int ooffset",
+                    "nombre": "boolean ignoreCase",
                     "description": ""
                 },
                 {
                     "nombre": "int len",
                     "description": ""
+                },
+                {
+                    "nombre": "String other",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "replace",
-            "description": "",
+            "description": "M\u00e9todo que nos permite cambiar un car\u00e1cter por otro dentro de una cadena.\n",
             "parametros": [
                 {
-                    "nombre": "CharSequence replacement",
-                    "description": ""
-                },
-                {
-                    "nombre": "char newChar",
+                    "nombre": "char oldChar",
                     "description": ""
                 },
                 {
@@ -424,14 +567,20 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char oldChar",
+                    "nombre": "char newChar",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence replacement",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "String cadena = new String(\"secar\");\nSystem.out.println(cadena.replace('e','a')); //sacar\n",
+            "ldc": []
         },
         {
             "nombre": "replaceAll",
-            "description": "",
+            "description": "M\u00e9todo que busca todas las apariciones de una expresi\u00f3n regular en una cadena y las cambia por un nuevo valor.\n",
             "parametros": [
                 {
                     "nombre": "String regex",
@@ -440,12 +589,19 @@
                 {
                     "nombre": "String replacement",
                     "description": ""
+                }
+            ],
+            "code": "String s = \"La pausa la realiz\u00f3 Fernando. En las representaciones de teatro, Fernando era el que mejor llevaba el tempo\";\ns = s.replaceAll(\"Fernando\", \"Maria\");\nSystem.out.println(s);\n",
+            "ldc": [
+                {
+                    "nombre": "Reemplazar contenido con Java",
+                    "url": "http://lineadecodigo.com/java/reemplazar-contenido-con-java/"
                 }
             ]
         },
         {
             "nombre": "replaceFirst",
-            "description": "",
+            "description": "String\n",
             "parametros": [
                 {
                     "nombre": "String regex",
@@ -455,11 +611,13 @@
                     "nombre": "String replacement",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "split",
-            "description": "",
+            "description": "Divide una cadena cada vez que encuentra un delimitador que coincida con la expresi\u00f3n regular pasada como par\u00e1metro.\n",
             "parametros": [
                 {
                     "nombre": "String regex",
@@ -469,88 +627,134 @@
                     "nombre": "int limit",
                     "description": ""
                 }
+            ],
+            "code": "String sCiudades = \"#01avila#02madrid#03toledo#04santander\";\nString[] items = sCiudades.split(\"#0[0-9]\");\n\nfor (String item: items)\n System.out.println(item);\t\n",
+            "ldc": [
+                {
+                    "nombre": "Extraer contenido con delimitadores din\u00e1micos",
+                    "url": "http://lineadecodigo.com/java/extraer-contenido-con-delimitadores-dinamicos/"
+                }
             ]
         },
         {
             "nombre": "startsWith",
-            "description": "",
+            "description": "Comprueba si la cadena empieza por el prefijo pasado como par\u00e1metro.\n",
             "parametros": [
-                {
-                    "nombre": "int toffset",
-                    "description": ""
-                },
                 {
                     "nombre": "String prefix",
                     "description": ""
+                },
+                {
+                    "nombre": "int toffset",
+                    "description": ""
+                }
+            ],
+            "code": "Scanner reader = new Scanner(System.in);\nSystem.out.println(\"Escribe palabras que empiecen por '\" + sInicio + \"'\");\nsTexto = reader.next();\n\nwhile(sTexto.startsWith(\"ca\")) {\n  System.out.println(\"Correcto... \" + sTexto);\n  contador++;\n  System.out.println(\"Dime otra palabra...\");\n  sTexto = reader.next();\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Palabras que empiecen por...",
+                    "url": "http://lineadecodigo.com/java/palabras-que-empiecen-por/"
                 }
             ]
         },
         {
             "nombre": "subSequence",
-            "description": "",
+            "description": "String\n",
             "parametros": [
-                {
-                    "nombre": "int endIndex",
-                    "description": ""
-                },
                 {
                     "nombre": "int beginIndex",
                     "description": ""
+                },
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "substring",
-            "description": "",
+            "description": "Devuelve una subcadena, la cual corresponde al contenido entre los valores beginIndex y endIndex. En el caso de que no se especifique endIndex, se asumir\u00e1 como \u00edndice el final de la cadena.\n",
             "parametros": [
-                {
-                    "nombre": "int endIndex",
-                    "description": ""
-                },
                 {
                     "nombre": "int beginIndex",
                     "description": ""
+                },
+                {
+                    "nombre": "int endIndex",
+                    "description": ""
+                }
+            ],
+            "code": "String s = \"Manual Web\"</pre>\ns.substring(7); // Nos devuelve \"Web\".\n",
+            "ldc": [
+                {
+                    "nombre": "Poner may\u00fasculas despu\u00e9s de punto",
+                    "url": "http://lineadecodigo.com/java/poner-en-mayusculas-despues-de-punto/"
+                },
+                {
+                    "nombre": "Extraer una parte de una cadena",
+                    "url": "http://lineadecodigo.com/java/extraer-una-parte-de-una-cadena/"
                 }
             ]
         },
         {
             "nombre": "toCharArray",
-            "description": ""
+            "description": "Convierte una cadena en un array de caracteres.\n",
+            "code": "String sCadena = \"Esto es una cadena de texto\";\nchar[] aCaracteres = sCadena.toCharArray();\n\nfor (int x=0;x<aCaracteres.length;x++)\n  System.out.println(\"[\" + x + \"] \" + aCaracteres[x]);\n",
+            "ldc": []
         },
         {
             "nombre": "toLowerCase",
-            "description": "",
+            "description": "Convierte todos los caracteres de la cadena a min\u00fasculas.\n",
             "parametros": [
                 {
                     "nombre": "Locale locale",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "String sCadena = \"Esto Es Una Cadena\";\nSystem.out.println(sCadena.toLowerCase());  //esto es una cadena\n",
+            "ldc": []
         },
         {
             "nombre": "toString",
-            "description": ""
+            "description": "String\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "toUpperCase",
-            "description": "",
+            "description": "Convierte todos los caracteres de la cadena a may\u00fasculas.\n",
             "parametros": [
                 {
                     "nombre": "Locale locale",
                     "description": ""
+                }
+            ],
+            "code": "String sCadena = \"Esto Es Una Cadena\";\nSystem.out.println(sCadena.toUpperCase());  //ESTO ES UNA CADENA\n",
+            "ldc": [
+                {
+                    "nombre": "Poner may\u00fasculas despu\u00e9s de punto",
+                    "url": "http://lineadecodigo.com/java/poner-en-mayusculas-despues-de-punto/"
                 }
             ]
         },
         {
             "nombre": "trim",
-            "description": ""
+            "description": "M\u00e9todo que elimina los caracteres blancos iniciales y finales de la cadena, devolviendo una copia de la misma.\n",
+            "code": "String sCadena = \" Esto Es Una Cadena\"\u00a0;\nSystem.out.println(sCadena.trim());  //Devuelve \"Esto Es Una Cadena\"\n",
+            "ldc": []
         },
         {
             "nombre": "valueOf",
-            "description": "",
+            "description": "Convierte a cadenas los tipos de datos pasados como par\u00e1metro. En el caso de que queramos convertir un array de caracteres en una cadena podemos tener una excepci\u00f3n IndexOutOfBoundsException en el caso de que intentemos acceder a un elemento que no exista.\n",
             "parametros": [
                 {
-                    "nombre": "boolean b",
+                    "nombre": "float f",
+                    "description": ""
+                },
+                {
+                    "nombre": "long l",
                     "description": ""
                 },
                 {
@@ -558,11 +762,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
+                    "nombre": "boolean b",
                     "description": ""
                 },
                 {
@@ -570,15 +770,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char c",
-                    "description": ""
-                },
-                {
                     "nombre": "char[] data",
                     "description": ""
                 },
                 {
-                    "nombre": "float f",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
                     "description": ""
                 },
                 {
@@ -586,8 +786,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long l",
+                    "nombre": "int i",
                     "description": ""
+                }
+            ],
+            "code": "char miarray[] = {'A','V','I','L','A'};\nSystem.out.println(String.valueOf(miarray));\n",
+            "ldc": [
+                {
+                    "nombre": "Convertir un array de caracteres en un String",
+                    "url": "http://lineadecodigo.com/java/convertir-un-array-de-caracteres-en-un-string/"
                 }
             ]
         }
@@ -595,7 +802,14 @@
     "campos": [
         {
             "nombre": "CASE_INSENSITIVE_ORDER",
-            "description": ""
+            "description": "Comparador que puede ser utilizado para ordenaciones. Funciona de forma que se ejecutan ordenaciones ignorando las may\u00fasculas.\n",
+            "code": "Vector<String> miVector = new Vector<String>();\nmiVector.add(\"Victor\");\nmiVector.add(\"julio\");\nmiVector.add(\"amaya\");\t\t\t\t\t\t\t\t\n \t\t\nCollections.sort(miVector,String.CASE_INSENSITIVE_ORDER);\t\t\n\t\t\nfor(String sElemento: miVector){\n System.out.println(sElemento);\t\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Ordenando alfab\u00e9ticamente con CASE_INSENSITIVE_ORDER",
+                    "url": "http://lineadecodigo.com/java/ordenando-alfabeticamente-con-case_insensitive_order/"
+                }
+            ]
         }
     ]
 }

@@ -1,7 +1,16 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "PrintWriter es un objeto que nos permite imprimir representaciones formateadas de una salida de stream de texto.\n",
+    "code": "PrintWriter = request.getWriter();\n",
+    "ldc": [
+        {
+            "nombre": "Mi primer servlet",
+            "url": "http://lineadecodigo.com/java/mi-primer-servlet/"
+        },
+        {
+            "nombre": "Recuperar la cabecera X-Forwarded-For",
+            "url": "http://lineadecodigo.com/java/recuperar-la-cabecera-x-forwarded-for/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "PrintWriter",
@@ -12,15 +21,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String fileName",
-                    "description": ""
-                },
-                {
                     "nombre": "Charset charset",
-                    "description": ""
-                },
-                {
-                    "nombre": "Writer out",
                     "description": ""
                 },
                 {
@@ -34,6 +35,14 @@
                 {
                     "nombre": "OutputStream out",
                     "description": ""
+                },
+                {
+                    "nombre": "String fileName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Writer out",
+                    "description": ""
                 }
             ]
         }
@@ -44,7 +53,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CharSequence csq",
+                    "nombre": "int end",
                     "description": ""
                 },
                 {
@@ -52,11 +61,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char c",
+                    "nombre": "CharSequence csq",
                     "description": ""
                 },
                 {
-                    "nombre": "int end",
+                    "nombre": "char c",
                     "description": ""
                 }
             ]
@@ -82,11 +91,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String format",
+                    "nombre": "Locale l",
                     "description": ""
                 },
                 {
-                    "nombre": "Locale l",
+                    "nombre": "String format",
                     "description": ""
                 },
                 {
@@ -97,10 +106,14 @@
         },
         {
             "nombre": "print",
-            "description": "",
+            "description": "M\u00e9todo que imprime el valor que se le pasa como par\u00e1metro. Atendiendo al tipo de objeto que se le pase se imprimir\u00e1 una cosa u otra.\n",
             "parametros": [
                 {
-                    "nombre": "boolean b",
+                    "nombre": "float f",
+                    "description": ""
+                },
+                {
+                    "nombre": "long l",
                     "description": ""
                 },
                 {
@@ -112,7 +125,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int i",
+                    "nombre": "boolean b",
                     "description": ""
                 },
                 {
@@ -124,29 +137,27 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float f",
-                    "description": ""
-                },
-                {
                     "nombre": "Object obj",
                     "description": ""
                 },
                 {
-                    "nombre": "long l",
+                    "nombre": "int i",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "protected void doGet(HttpServletRequest request, HttpServletResponse response)\n  throws ServletException, IOException {\n\n   String ip = null; // IP del cliente\n   String host = null; // Host del cliente\n\t   \n   ip = request.getRemoteAddr();\n   host = request.getRemoteHost();\n   PrintWriter out = response.getWriter();\n   response.setContentType(\"text/html\");\n  \n   out.println(\"<html><head><title>Obtener IP del cliente</title></head><body>\");\n   out.println(\"Obtener la IP del cliente\");\n   out.println(\"La ip del cliente es \" + ip);\n   out.println(\"El host del cliente es \" + host);\n   out.println(\"</body></html>\");\t\t\n}\n",
+            "ldc": []
         },
         {
             "nombre": "printf",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String format",
+                    "nombre": "Locale l",
                     "description": ""
                 },
                 {
-                    "nombre": "Locale l",
+                    "nombre": "String format",
                     "description": ""
                 },
                 {
@@ -160,7 +171,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object x",
+                    "nombre": "char[] x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -168,7 +183,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "long x",
                     "description": ""
                 },
                 {
@@ -180,19 +195,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean x",
                     "description": ""
                 },
                 {
-                    "nombre": "long x",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] x",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
+                    "nombre": "Object x",
                     "description": ""
                 }
             ]
@@ -210,19 +221,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] buf",
-                    "description": ""
-                },
-                {
                     "nombre": "int c",
                     "description": ""
                 },
                 {
-                    "nombre": "int off",
+                    "nombre": "char[] buf",
                     "description": ""
                 },
                 {
                     "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int off",
                     "description": ""
                 }
             ]

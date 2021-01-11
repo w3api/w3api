@@ -58,7 +58,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
@@ -66,11 +66,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long[] dst",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "long[] dst",
                     "description": ""
                 }
             ]
@@ -96,15 +96,19 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "long l",
+                    "description": ""
+                },
+                {
                     "nombre": "long[] src",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -113,10 +117,6 @@
                 },
                 {
                     "nombre": "int index",
-                    "description": ""
-                },
-                {
-                    "nombre": "long l",
                     "description": ""
                 }
             ]
@@ -134,7 +134,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
@@ -142,7 +142,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]

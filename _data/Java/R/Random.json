@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "code": "",
+    "description": "Clase que nos sirve para generar n\u00fameros pseudo-aleatorios.\n",
+    "code": "Random r = new Random();\nint limite=10;\n\nSystem.out.println(r.nextInt());\nSystem.out.println(r.nextInt(limite+1));\n",
     "ldc": [],
     "constructores": [
         {
@@ -20,15 +20,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "double randomNumberBound",
+                    "description": ""
+                },
+                {
                     "nombre": "double randomNumberOrigin",
                     "description": ""
                 },
                 {
                     "nombre": "long streamSize",
-                    "description": ""
-                },
-                {
-                    "nombre": "double randomNumberBound",
                     "description": ""
                 }
             ]
@@ -42,11 +42,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long streamSize",
+                    "nombre": "int randomNumberOrigin",
                     "description": ""
                 },
                 {
-                    "nombre": "int randomNumberOrigin",
+                    "nombre": "long streamSize",
                     "description": ""
                 }
             ]
@@ -56,15 +56,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long streamSize",
-                    "description": ""
-                },
-                {
                     "nombre": "long randomNumberBound",
                     "description": ""
                 },
                 {
                     "nombre": "long randomNumberOrigin",
+                    "description": ""
+                },
+                {
+                    "nombre": "long streamSize",
                     "description": ""
                 }
             ]

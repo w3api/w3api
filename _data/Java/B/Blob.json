@@ -26,11 +26,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "long pos",
                     "description": ""
                 },
                 {
-                    "nombre": "long pos",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -48,11 +48,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long start",
+                    "nombre": "byte[] pattern",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] pattern",
+                    "nombre": "long start",
                     "description": ""
                 }
             ]
@@ -72,7 +72,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "long pos",
                     "description": ""
                 },
                 {
@@ -80,11 +84,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
-                    "description": ""
-                },
-                {
-                    "nombre": "long pos",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]

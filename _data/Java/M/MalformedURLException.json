@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "code": "",
+    "description": "File.toURL()\n",
+    "code": "File fichero = new File(\"test.txt\");\t\t\nURL url = null;\n\t\t\ntry {\t\t    \n  url = fichero.toURL();\n  System.out.println(url.toString());\t\t\n\n  File fichero2 = new File(url.getFile());\n  System.out.println(fichero2.toString());\n} catch (MalformedURLException e) {}\n",
     "ldc": [],
     "constructores": [
         {

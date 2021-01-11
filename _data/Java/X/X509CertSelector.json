@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String name",
+                    "nombre": "byte[] name",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] name",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String name",
+                    "nombre": "byte[] name",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] name",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
@@ -202,11 +202,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "X500Principal issuer",
+                    "nombre": "String issuerDN",
                     "description": ""
                 },
                 {
-                    "nombre": "String issuerDN",
+                    "nombre": "X500Principal issuer",
                     "description": ""
                 },
                 {
@@ -290,15 +290,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "X500Principal subject",
+                    "description": ""
+                },
+                {
                     "nombre": "String subjectDN",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] subjectDN",
-                    "description": ""
-                },
-                {
-                    "nombre": "X500Principal subject",
                     "description": ""
                 }
             ]

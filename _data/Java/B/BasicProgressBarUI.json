@@ -50,11 +50,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -84,11 +84,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int availableLength",
+                    "nombre": "int otherDimension",
                     "description": ""
                 },
                 {
-                    "nombre": "int otherDimension",
+                    "nombre": "int availableLength",
                     "description": ""
                 }
             ]
@@ -140,6 +140,10 @@
                     "description": ""
                 },
                 {
+                    "nombre": "String progressString",
+                    "description": ""
+                },
+                {
                     "nombre": "int height",
                     "description": ""
                 },
@@ -153,10 +157,6 @@
                 },
                 {
                     "nombre": "int x",
-                    "description": ""
-                },
-                {
-                    "nombre": "String progressString",
                     "description": ""
                 }
             ]
@@ -220,10 +220,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Insets b",
-                    "description": ""
-                },
-                {
                     "nombre": "Graphics g",
                     "description": ""
                 },
@@ -237,6 +233,10 @@
                 },
                 {
                     "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets b",
                     "description": ""
                 },
                 {

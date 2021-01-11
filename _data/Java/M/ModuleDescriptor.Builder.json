@@ -12,10 +12,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Set<String> targets",
-                    "description": ""
-                },
-                {
                     "nombre": "ModuleDescriptor.Exports e",
                     "description": ""
                 },
@@ -25,6 +21,10 @@
                 },
                 {
                     "nombre": "Set<ModuleDescriptor.Exports.Modifier> ms",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<String> targets",
                     "description": ""
                 }
             ]
@@ -48,15 +48,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Set<String> targets",
-                    "description": ""
-                },
-                {
                     "nombre": "Set<ModuleDescriptor.Opens.Modifier> ms",
                     "description": ""
                 },
                 {
                     "nombre": "String pn",
+                    "description": ""
+                },
+                {
+                    "nombre": "Set<String> targets",
                     "description": ""
                 }
             ]
@@ -76,11 +76,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ModuleDescriptor.Provides p",
+                    "nombre": "String service",
                     "description": ""
                 },
                 {
-                    "nombre": "String service",
+                    "nombre": "ModuleDescriptor.Provides p",
                     "description": ""
                 },
                 {
@@ -94,7 +94,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String mn",
+                    "nombre": "Set<ModuleDescriptor.Requires.Modifier> ms",
                     "description": ""
                 },
                 {
@@ -102,11 +102,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Set<ModuleDescriptor.Requires.Modifier> ms",
+                    "nombre": "ModuleDescriptor.Version compiledVersion",
                     "description": ""
                 },
                 {
-                    "nombre": "ModuleDescriptor.Version compiledVersion",
+                    "nombre": "String mn",
                     "description": ""
                 }
             ]
@@ -126,11 +126,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ModuleDescriptor.Version v",
+                    "nombre": "String vs",
                     "description": ""
                 },
                 {
-                    "nombre": "String vs",
+                    "nombre": "ModuleDescriptor.Version v",
                     "description": ""
                 }
             ]

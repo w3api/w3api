@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "Locale localBrasil = new Locale(\"pt\",\"BR\");\nDateFormat df = DateFormat.getDateInstance(DateFormat.LONG, localBrasil);\nDate fecha = new Date();\nSystem.out.println(df.format(fecha));\n",
     "ldc": [],
     "constructores": [
         {
@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String language",
+                    "description": ""
+                },
+                {
                     "nombre": "String country",
                     "description": ""
                 },
                 {
                     "nombre": "String variant",
-                    "description": ""
-                },
-                {
-                    "nombre": "String language",
                     "description": ""
                 }
             ]
@@ -42,7 +42,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<Locale.LanguageRange> priorityList",
+                    "nombre": "Locale.FilteringMode mode",
                     "description": ""
                 },
                 {
@@ -50,7 +50,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Locale.FilteringMode mode",
+                    "nombre": "List<Locale.LanguageRange> priorityList",
                     "description": ""
                 }
             ]
@@ -60,11 +60,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<Locale.LanguageRange> priorityList",
+                    "nombre": "Collection<String> tags",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<String> tags",
+                    "nombre": "List<Locale.LanguageRange> priorityList",
                     "description": ""
                 },
                 {
@@ -230,11 +230,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<Locale.LanguageRange> priorityList",
+                    "nombre": "Collection<Locale> locales",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<Locale> locales",
+                    "nombre": "List<Locale.LanguageRange> priorityList",
                     "description": ""
                 }
             ]
@@ -244,11 +244,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<Locale.LanguageRange> priorityList",
+                    "nombre": "Collection<String> tags",
                     "description": ""
                 },
                 {
-                    "nombre": "Collection<String> tags",
+                    "nombre": "List<Locale.LanguageRange> priorityList",
                     "description": ""
                 }
             ]

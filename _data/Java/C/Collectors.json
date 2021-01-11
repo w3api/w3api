@@ -1,6 +1,6 @@
 {
-    "description": "",
-    "code": "",
+    "description": "Implementaci\u00f3n del interface Collector para implementar diferentes operaciones de reducci\u00f3n como acumular elementos en colecciones, resumir elementos acordes a diferentes criterios,...\n",
+    "code": "String[] s = \"Esto es una frase muy interesante\".split(\"\");\nString cadena = IntStream.range(0, s.length)\n  .mapToObj(i -> i%2!=0\u00a0? s[i].toUpperCase():s[i].toLowerCase())\n  .collect(Collectors.joining());\n",
     "ldc": [],
     "metodos": [
         {
@@ -38,7 +38,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "A",
+                    "nombre": "Function<R",
                     "description": ""
                 },
                 {
@@ -46,15 +46,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Collector<T",
-                    "description": ""
-                },
-                {
                     "nombre": "RR> finisher",
                     "description": ""
                 },
                 {
-                    "nombre": "Function<R",
+                    "nombre": "Collector<T",
+                    "description": ""
+                },
+                {
+                    "nombre": "A",
                     "description": ""
                 }
             ]
@@ -68,11 +68,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "A",
+                    "nombre": "R> downstream",
                     "description": ""
                 },
                 {
-                    "nombre": "R> downstream",
+                    "nombre": "A",
                     "description": ""
                 },
                 {
@@ -90,10 +90,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "A",
-                    "description": ""
-                },
-                {
                     "nombre": "Collector<? super U",
                     "description": ""
                 },
@@ -102,11 +98,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "? extends Stream<? extends U>> mapper",
+                    "description": ""
+                },
+                {
                     "nombre": "Function<? super T",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends Stream<? extends U>> mapper",
+                    "nombre": "A",
                     "description": ""
                 }
             ]
@@ -116,7 +116,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
                     "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends K> classifier",
                     "description": ""
                 },
                 {
@@ -129,14 +137,6 @@
                 },
                 {
                     "nombre": "Collector<? super T",
-                    "description": ""
-                },
-                {
-                    "nombre": "Function<? super T",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends K> classifier",
                     "description": ""
                 }
             ]
@@ -146,7 +146,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
                     "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends K> classifier",
                     "description": ""
                 },
                 {
@@ -160,21 +168,17 @@
                 {
                     "nombre": "Collector<? super T",
                     "description": ""
-                },
-                {
-                    "nombre": "Function<? super T",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends K> classifier",
-                    "description": ""
                 }
             ]
         },
         {
             "nombre": "joining",
-            "description": "",
+            "description": "Devuelve un Collector que concatena los elementos de entrada en un String en el orden encontrado.\n",
             "parametros": [
+                {
+                    "nombre": "CharSequence suffix",
+                    "description": ""
+                },
                 {
                     "nombre": "CharSequence delimiter",
                     "description": ""
@@ -182,25 +186,15 @@
                 {
                     "nombre": "CharSequence prefix",
                     "description": ""
-                },
-                {
-                    "nombre": "CharSequence suffix",
-                    "description": ""
                 }
-            ]
+            ],
+            "code": "String[] s = \"Esto es una frase muy interesante\".split(\"\");\nString cadena = IntStream.range(0, s.length)\n  .mapToObj(i -> i%2!=0\u00a0? s[i].toUpperCase():s[i].toLowerCase())\n  .collect(Collectors.joining());\n",
+            "ldc": []
         },
         {
             "nombre": "mapping",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "A",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends U> mapper",
-                    "description": ""
-                },
                 {
                     "nombre": "Collector<? super U",
                     "description": ""
@@ -211,6 +205,14 @@
                 },
                 {
                     "nombre": "Function<? super T",
+                    "description": ""
+                },
+                {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> mapper",
                     "description": ""
                 }
             ]
@@ -244,11 +246,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Predicate<? super T> predicate",
+                    "nombre": "D> downstream",
                     "description": ""
                 },
                 {
-                    "nombre": "D> downstream",
+                    "nombre": "Predicate<? super T> predicate",
                     "description": ""
                 },
                 {
@@ -262,11 +264,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BinaryOperator<T> op",
+                    "nombre": "T identity",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends U> mapper",
+                    "nombre": "BinaryOperator<U> op",
                     "description": ""
                 },
                 {
@@ -278,11 +280,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BinaryOperator<U> op",
+                    "nombre": "BinaryOperator<T> op",
                     "description": ""
                 },
                 {
-                    "nombre": "T identity",
+                    "nombre": "? extends U> mapper",
                     "description": ""
                 }
             ]
@@ -362,15 +364,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<M> mapFactory",
-                    "description": ""
-                },
-                {
                     "nombre": "BinaryOperator<U> mergeFunction",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends U> valueMapper",
                     "description": ""
                 },
                 {
@@ -379,6 +373,14 @@
                 },
                 {
                     "nombre": "? extends K> keyMapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<M> mapFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> valueMapper",
                     "description": ""
                 }
             ]
@@ -392,15 +394,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Supplier<M> mapFactory",
-                    "description": ""
-                },
-                {
                     "nombre": "BinaryOperator<U> mergeFunction",
-                    "description": ""
-                },
-                {
-                    "nombre": "? extends U> valueMapper",
                     "description": ""
                 },
                 {
@@ -409,6 +403,14 @@
                 },
                 {
                     "nombre": "? extends K> keyMapper",
+                    "description": ""
+                },
+                {
+                    "nombre": "Supplier<M> mapFactory",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends U> valueMapper",
                     "description": ""
                 }
             ]
@@ -426,7 +428,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends U> valueMapper",
+                    "nombre": "BinaryOperator<U> mergeFunction",
                     "description": ""
                 },
                 {
@@ -434,11 +436,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BinaryOperator<U> mergeFunction",
+                    "nombre": "Function<? super T",
                     "description": ""
                 },
                 {
-                    "nombre": "Function<? super T",
+                    "nombre": "? extends U> valueMapper",
                     "description": ""
                 }
             ]

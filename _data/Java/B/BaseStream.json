@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "sCadena.chars()\n  .parallel()\n  .forEach(c -> System.out.print(Character.toString((char) c)));\n",
     "ldc": [],
     "metodos": [
         {
@@ -27,7 +27,9 @@
         },
         {
             "nombre": "parallel",
-            "description": ""
+            "description": "Retorna un Stream que sea paralelo. Es una operaci\u00f3n intermedia.\n",
+            "code": "String sCadena = \"Esto es una cadena de texto\";\nsCadena.chars()\n  .parallel()\n  .forEach(c -> System.out.print(Character.toString((char) c)));\n",
+            "ldc": []
         },
         {
             "nombre": "sequential",

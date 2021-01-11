@@ -14,15 +14,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "description": ""
+                },
+                {
                     "nombre": "AudioFormat targetFormat",
                     "description": ""
                 },
                 {
                     "nombre": "AudioInputStream sourceStream",
-                    "description": ""
-                },
-                {
-                    "nombre": "AudioFormat.Encoding targetEncoding",
                     "description": ""
                 }
             ]
@@ -46,11 +46,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AudioFormat sourceFormat",
+                    "nombre": "AudioFormat.Encoding targetEncoding",
                     "description": ""
                 },
                 {
-                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "nombre": "AudioFormat sourceFormat",
                     "description": ""
                 }
             ]
@@ -60,7 +60,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AudioFormat sourceFormat",
+                    "nombre": "AudioFormat.Encoding targetEncoding",
                     "description": ""
                 },
                 {
@@ -68,7 +68,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AudioFormat.Encoding targetEncoding",
+                    "nombre": "AudioFormat sourceFormat",
                     "description": ""
                 }
             ]

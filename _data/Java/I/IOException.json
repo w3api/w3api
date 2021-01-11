@@ -1,7 +1,24 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "Significa que se ha producido un error en la entrada/salida. Por ejemplo, cuando estamos leyendo de la consola, un fichero, etc. Es obligatorio tratar la excepci\u00f3n, ya sea en la cabeza del m\u00e9todo con \"throws IOException\" o con un bloque try/catch.\n",
+    "code": "BufferedReader br;\nbr = new BufferedReader(new InputStreamReader(System.in));\nString texto;\n\ntry{ \n br.readLine());\n} catch (IOException ioe){ \n ioe.printStackTrace();\n}\n",
+    "ldc": [
+        {
+            "nombre": "Comparar el contenido de dos ficheros con Java",
+            "url": "http://lineadecodigo.com/java/comparar-el-contenido-de-dos-ficheros-con-java/"
+        },
+        {
+            "nombre": "Vaciar el contenido de un fichero mediante borrado y creaci\u00f3n",
+            "url": "http://lineadecodigo.com/java/vaciar-el-contenido-de-un-fichero-mediante-borrado-y-creacion/"
+        },
+        {
+            "nombre": "Copiar un fichero con Java",
+            "url": "http://lineadecodigo.com/java/copiar-un-fichero-con-java/"
+        },
+        {
+            "nombre": "Guardar unos Properties con Java",
+            "url": "http://lineadecodigo.com/java/guardar-unos-properties-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "IOException",

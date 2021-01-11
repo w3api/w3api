@@ -11,23 +11,34 @@
     "metodos": [
         {
             "nombre": "add",
-            "description": "",
+            "description": "Container\n",
             "parametros": [
-                {
-                    "nombre": "int index",
-                    "description": ""
-                },
                 {
                     "nombre": "Object constraints",
                     "description": ""
                 },
                 {
-                    "nombre": "Component comp",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "int index",
                     "description": ""
+                },
+                {
+                    "nombre": "Component comp",
+                    "description": ""
+                }
+            ],
+            "code": "public class FilaColumna extends JFrame {\n\n  private JTextArea editor;\n  private JTextField status;\n\n  public FilaColumna() {\n        \n    setTitle(\"Columna y Fila en un TextArea\");\n    setSize(500,500);\n\n     // Inicializamos el Layout\n    setLayout(new BorderLayout());\n    setDefaultCloseOperation(EXIT_ON_CLOSE);\n\n    editor = new JTextArea();\n    // A\u00f1adimos los campos al Layout\n    add(editor, BorderLayout.CENTER);\n\n    status = new JTextField();\n    add(status, BorderLayout.SOUTH);\n  }\n\n  public static void main(String args[]) {\n    FilaColumna app = new FilaColumna();\n    app.setVisible(true);\n  }\t\n}\n",
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir un tooltip a un JButton",
+                    "url": "http://lineadecodigo.com/java/anadir-un-tooltip-a-un-jbutton/"
+                },
+                {
+                    "nombre": "Crear un componente JTextField",
+                    "url": "http://lineadecodigo.com/java/crear-un-componente-jtextfield/"
                 }
             ]
         },
@@ -46,11 +57,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Object constraints",
                     "description": ""
                 },
                 {
-                    "nombre": "Object constraints",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
@@ -120,15 +131,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "Point p",
                     "description": ""
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -156,15 +167,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "Point p",
                     "description": ""
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -298,11 +309,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PrintStream out",
+                    "nombre": "int indent",
                     "description": ""
                 },
                 {
-                    "nombre": "int indent",
+                    "nombre": "PrintStream out",
                     "description": ""
                 }
             ]
@@ -312,11 +323,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -398,11 +409,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Component comp",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "Component comp",
                     "description": ""
                 }
             ]
@@ -454,11 +465,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Set<? extends AWTKeyStroke> keystrokes",
+                    "nombre": "int id",
                     "description": ""
                 },
                 {
-                    "nombre": "int id",
+                    "nombre": "Set<? extends AWTKeyStroke> keystrokes",
                     "description": ""
                 }
             ]

@@ -1,7 +1,12 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "Map<String,String> hm = new HashMap<String,String>();\n\t   \nhm.put(\"1\",\"Luis\");\nhm.put(\"2\",\"Amaya\");\nhm.put(\"3\",\"Julio\");\n\n// A\u00f1adimos un elemento con clave existente. Se sobrescribe su valor\n// ya que no puede haber valores duplicados\nhm.put(\"1\",\"Victor\");\n\t\t   \nIterator<Entry<String,String>> it = hm.entrySet().iterator();\n\t\t\nwhile (it.hasNext()) {\n Entry<String,String> e = it.next();\n System.out.println(e.getKey() + \" \" + e.getValue());\n}\n",
+    "ldc": [
+        {
+            "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+            "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
+        }
+    ],
     "metodos": [
         {
             "nombre": "clear",
@@ -12,11 +17,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super V",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -24,7 +25,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super V",
                     "description": ""
                 }
             ]
@@ -52,11 +57,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super V",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -64,18 +65,29 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super V",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "containsKey",
-            "description": "",
+            "description": "M\u00e9todo que comprueba si una clave est\u00e1 dada de alta en el mapa.\n",
             "parametros": [
                 {
                     "nombre": "Object key",
                     "description": ""
+                }
+            ],
+            "code": "int[] elementos = {1,3,4,5,3,2,1,2,2,1,5,5,8,9,6,6,3,4,3,1,3,5,3};\nMap<Integer,Integer> m = new HashMap<Integer,Integer>();\t\t\t\t\n\t\t\nfor (int elemento: elementos){\t\t\t\n  if (m.containsKey(elemento))\t\t\t\t\t\n    m.put(elemento,m.get(elemento)+1);\n  else\n    m.put(elemento,1);\t\t\t\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
                 }
             ]
         },
@@ -136,35 +148,37 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BiConsumer<? super K",
+                    "nombre": "? super V> action",
                     "description": ""
                 },
                 {
-                    "nombre": "? super V> action",
+                    "nombre": "BiConsumer<? super K",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "get",
-            "description": "",
+            "description": "Retorna el valor del mapa para la clave pasada como par\u00e1metro.\n",
             "parametros": [
                 {
                     "nombre": "Object key",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "Iterator<Entry<String,String>> it = hm.entrySet().iterator();\n\t\t\nwhile (it.hasNext()) {\n Entry<String,String> e = it.next();\n System.out.println(e.getKey() + \" \" + e.getValue());\n}\n",
+            "ldc": []
         },
         {
             "nombre": "getOrDefault",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object key",
+                    "nombre": "V defaultValue",
                     "description": ""
                 },
                 {
-                    "nombre": "V defaultValue",
+                    "nombre": "Object key",
                     "description": ""
                 }
             ]
@@ -186,15 +200,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
                     "nombre": "? super V",
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super V",
+                    "nombre": "V value",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 },
                 {
@@ -202,7 +216,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V value",
+                    "nombre": "BiFunction<? super V",
                     "description": ""
                 }
             ]
@@ -212,11 +226,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V v1",
-                    "description": ""
-                },
-                {
-                    "nombre": "K k2",
+                    "nombre": "K k10",
                     "description": ""
                 },
                 {
@@ -224,31 +234,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V v3",
-                    "description": ""
-                },
-                {
-                    "nombre": "K k4",
-                    "description": ""
-                },
-                {
-                    "nombre": "K k9",
-                    "description": ""
-                },
-                {
-                    "nombre": "K k7",
-                    "description": ""
-                },
-                {
-                    "nombre": "V v5",
-                    "description": ""
-                },
-                {
-                    "nombre": "K k10",
-                    "description": ""
-                },
-                {
-                    "nombre": "K k6",
+                    "nombre": "K k2",
                     "description": ""
                 },
                 {
@@ -256,27 +242,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "V v8",
+                    "description": ""
+                },
+                {
+                    "nombre": "V v4",
+                    "description": ""
+                },
+                {
                     "nombre": "K k8",
                     "description": ""
                 },
                 {
-                    "nombre": "V v10",
-                    "description": ""
-                },
-                {
-                    "nombre": "V v9",
-                    "description": ""
-                },
-                {
-                    "nombre": "V v6",
-                    "description": ""
-                },
-                {
-                    "nombre": "K k5",
-                    "description": ""
-                },
-                {
-                    "nombre": "V v8",
+                    "nombre": "K k7",
                     "description": ""
                 },
                 {
@@ -284,11 +262,47 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V v2",
+                    "nombre": "V v1",
                     "description": ""
                 },
                 {
-                    "nombre": "V v4",
+                    "nombre": "V v3",
+                    "description": ""
+                },
+                {
+                    "nombre": "K k5",
+                    "description": ""
+                },
+                {
+                    "nombre": "V v5",
+                    "description": ""
+                },
+                {
+                    "nombre": "K k9",
+                    "description": ""
+                },
+                {
+                    "nombre": "K k4",
+                    "description": ""
+                },
+                {
+                    "nombre": "V v9",
+                    "description": ""
+                },
+                {
+                    "nombre": "V v10",
+                    "description": ""
+                },
+                {
+                    "nombre": "K k6",
+                    "description": ""
+                },
+                {
+                    "nombre": "V v6",
+                    "description": ""
+                },
+                {
+                    "nombre": "V v2",
                     "description": ""
                 }
             ]
@@ -298,26 +312,33 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Map.Entry<? extends K",
+                    "nombre": "? extends V>... entries",
                     "description": ""
                 },
                 {
-                    "nombre": "? extends V>... entries",
+                    "nombre": "Map.Entry<? extends K",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "put",
-            "description": "",
+            "description": "Inserta un par clave/valor en el mapa utilizando los valores pasados como par\u00e1metros.\n",
             "parametros": [
-                {
-                    "nombre": "K key",
-                    "description": ""
-                },
                 {
                     "nombre": "V value",
                     "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                }
+            ],
+            "code": "Map<String,String> hm = new HashMap<String,String>();\n\t   \nhm.put(\"1\",\"Luis\");\nhm.put(\"2\",\"Amaya\");\nhm.put(\"3\",\"Julio\");\n",
+            "ldc": [
+                {
+                    "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+                    "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
                 }
             ]
         },
@@ -326,11 +347,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> m",
+                    "nombre": "Map<? extends K",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<? extends K",
+                    "nombre": "? extends V> m",
                     "description": ""
                 }
             ]
@@ -340,11 +361,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 },
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 }
             ]
@@ -354,11 +375,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object value",
+                    "nombre": "Object key",
                     "description": ""
                 },
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object value",
                     "description": ""
                 }
             ]
@@ -368,11 +389,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "V newValue",
+                    "nombre": "V value",
                     "description": ""
                 },
                 {
-                    "nombre": "V oldValue",
+                    "nombre": "V newValue",
                     "description": ""
                 },
                 {
@@ -380,7 +401,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V value",
+                    "nombre": "V oldValue",
                     "description": ""
                 }
             ]
@@ -390,7 +411,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? super V",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -398,7 +419,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "? super V",
                     "description": ""
                 }
             ]

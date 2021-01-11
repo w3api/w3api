@@ -26,7 +26,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PrintStream cmdErr",
+                    "nombre": "PrintStream userErr",
                     "description": ""
                 },
                 {
@@ -34,7 +34,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PrintStream userErr",
+                    "nombre": "PrintStream cmdErr",
                     "description": ""
                 }
             ]
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream userIn",
+                    "nombre": "InputStream cmdIn",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream cmdIn",
+                    "nombre": "InputStream userIn",
                     "description": ""
                 }
             ]
@@ -68,11 +68,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PrintStream output",
-                    "description": ""
-                },
-                {
-                    "nombre": "PrintStream console",
+                    "nombre": "PrintStream cmdOut",
                     "description": ""
                 },
                 {
@@ -80,7 +76,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PrintStream cmdOut",
+                    "nombre": "PrintStream output",
+                    "description": ""
+                },
+                {
+                    "nombre": "PrintStream console",
                     "description": ""
                 }
             ]

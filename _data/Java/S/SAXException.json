@@ -1,18 +1,23 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "DefaultHandler.characters()\n",
+    "code": "public class MiManejador extends DefaultHandler {\n\n MiManejador(){}\n\n  public void characters(char[] ch, int start, int len)\n    throws SAXException{\n       System.out.println(new String(ch,start,len));\n  }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Acceder al XML con SAX",
+            "url": "http://lineadecodigo.com/java/acceder-al-xml-con-sax/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "SAXException",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String message",
+                    "nombre": "Exception e",
                     "description": ""
                 },
                 {
-                    "nombre": "Exception e",
+                    "nombre": "String message",
                     "description": ""
                 }
             ]

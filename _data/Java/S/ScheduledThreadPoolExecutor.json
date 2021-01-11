@@ -28,7 +28,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Callable<V> callable",
+                    "nombre": "RunnableScheduledFuture<V> task",
                     "description": ""
                 },
                 {
@@ -36,7 +36,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "RunnableScheduledFuture<V> task",
+                    "nombre": "Callable<V> callable",
                     "description": ""
                 }
             ]
@@ -76,15 +76,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Callable<V> callable",
+                    "description": ""
+                },
+                {
                     "nombre": "Runnable command",
                     "description": ""
                 },
                 {
                     "nombre": "TimeUnit unit",
-                    "description": ""
-                },
-                {
-                    "nombre": "Callable<V> callable",
                     "description": ""
                 }
             ]
@@ -93,6 +93,10 @@
             "nombre": "scheduleAtFixedRate",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "long period",
+                    "description": ""
+                },
                 {
                     "nombre": "long initialDelay",
                     "description": ""
@@ -103,10 +107,6 @@
                 },
                 {
                     "nombre": "TimeUnit unit",
-                    "description": ""
-                },
-                {
-                    "nombre": "long period",
                     "description": ""
                 }
             ]
@@ -176,11 +176,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Runnable task",
+                    "nombre": "Callable<T> task",
                     "description": ""
                 },
                 {
-                    "nombre": "Callable<T> task",
+                    "nombre": "Runnable task",
                     "description": ""
                 },
                 {

@@ -20,15 +20,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int row",
-                    "description": ""
-                },
-                {
                     "nombre": "?> column",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "int row",
                     "description": ""
                 },
                 {
@@ -36,11 +32,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TreeTableColumn<S",
+                    "nombre": "TreeTablePosition<S",
                     "description": ""
                 },
                 {
-                    "nombre": "TreeTablePosition<S",
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreeTableColumn<S",
                     "description": ""
                 }
             ]
@@ -78,11 +78,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int row",
+                    "nombre": "TreeTableColumn<S",
                     "description": ""
                 },
                 {
-                    "nombre": "TreeTableColumn<S",
+                    "nombre": "int row",
                     "description": ""
                 }
             ]

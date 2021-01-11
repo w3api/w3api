@@ -12,11 +12,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "JCheckBox checkBox",
+                    "nombre": "JComboBox<?> comboBox",
                     "description": ""
                 },
                 {
-                    "nombre": "JComboBox<?> comboBox",
+                    "nombre": "JCheckBox checkBox",
                     "description": ""
                 }
             ]
@@ -44,6 +44,14 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int column",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
                     "nombre": "int row",
                     "description": ""
                 },
@@ -54,14 +62,6 @@
                 {
                     "nombre": "boolean isSelected",
                     "description": ""
-                },
-                {
-                    "nombre": "int column",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object value",
-                    "description": ""
                 }
             ]
         },
@@ -69,6 +69,14 @@
             "nombre": "getTreeCellEditorComponent",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "boolean leaf",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
                 {
                     "nombre": "int row",
                     "description": ""
@@ -82,15 +90,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean expanded",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean leaf",
                     "description": ""
                 }
             ]

@@ -24,7 +24,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] buf",
                     "description": ""
                 },
                 {
@@ -32,11 +36,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] buf",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -76,11 +76,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] digesta",
+                    "nombre": "byte[] digestb",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] digestb",
+                    "nombre": "byte[] digesta",
                     "description": ""
                 }
             ]
@@ -102,11 +102,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte input",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -114,7 +110,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte input",
                     "description": ""
                 }
             ]

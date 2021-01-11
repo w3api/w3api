@@ -1,7 +1,28 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "public class FilaColumna extends JFrame {\n\n  private JTextArea editor;\n  private JTextField status;\n\n  public FilaColumna() {\n        \n    setTitle(\"Columna y Fila en un TextArea\");\n    setSize(500,500);\n\n     // Inicializamos el Layout\n    setLayout(new BorderLayout());\n    setDefaultCloseOperation(EXIT_ON_CLOSE);\n\n    editor = new JTextArea();\n    // A\u00f1adimos los campos al Layout\n    add(editor, BorderLayout.CENTER);\n\n    status = new JTextField();\n    add(status, BorderLayout.SOUTH);\n  }\n\n  public static void main(String args[]) {\n    FilaColumna app = new FilaColumna();\n    app.setVisible(true);\n  }\t\n}\n",
+    "ldc": [
+        {
+            "nombre": "Hola Mundo con Swing",
+            "url": "http://lineadecodigo.com/java/hola-mundo-con-swing/"
+        },
+        {
+            "nombre": "Formulario B\u00e1sico con Java Swing",
+            "url": "http://lineadecodigo.com/java/formulario-basico-con-java-swing/"
+        },
+        {
+            "nombre": "Centrar un JFrame",
+            "url": "http://lineadecodigo.com/java/centrar-un-jframe/"
+        },
+        {
+            "nombre": "Ventanas con estilo gracias a Substances",
+            "url": "http://lineadecodigo.com/java/ventanas-con-estilo-gracias-a-substances/"
+        },
+        {
+            "nombre": "Crear un componente JTextField",
+            "url": "http://lineadecodigo.com/java/crear-un-componente-jtextfield/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "JFrame",
@@ -21,45 +42,59 @@
     "metodos": [
         {
             "nombre": "addImpl",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "Object constraints",
                     "description": ""
                 },
                 {
-                    "nombre": "Object constraints",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
                     "nombre": "Component comp",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "createRootPane",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "frameInit",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getAccessibleContext",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getContentPane",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getDefaultCloseOperation",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getGlassPane",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getGraphics",
@@ -67,15 +102,21 @@
         },
         {
             "nombre": "getJMenuBar",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getLayeredPane",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getRootPane",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getTransferHandler",
@@ -83,44 +124,50 @@
         },
         {
             "nombre": "isDefaultLookAndFeelDecorated",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isRootPaneCheckingEnabled",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "paramString",
-            "description": ""
+            "description": "JFrame\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "processWindowEvent",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
                     "nombre": "WindowEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "remove",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
                     "nombre": "Component comp",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "repaint",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "long time",
-                    "description": ""
-                },
                 {
                     "nombre": "int height",
                     "description": ""
@@ -134,6 +181,10 @@
                     "description": ""
                 },
                 {
+                    "nombre": "long time",
+                    "description": ""
+                },
+                {
                     "nombre": "int x",
                     "description": ""
                 }
@@ -141,93 +192,120 @@
         },
         {
             "nombre": "setContentPane",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
                     "nombre": "Container contentPane",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setDefaultCloseOperation",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
                     "nombre": "int operation",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setDefaultLookAndFeelDecorated",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
                     "nombre": "boolean defaultLookAndFeelDecorated",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setGlassPane",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
                     "nombre": "Component glassPane",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setJMenuBar",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
                     "nombre": "JMenuBar menubar",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setLayeredPane",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
                     "nombre": "JLayeredPane layeredPane",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setLayout",
-            "description": "",
+            "description": "M\u00e9todo que permite establecer un Layout sobre el JFrame al que se aplica.\n",
             "parametros": [
                 {
                     "nombre": "LayoutManager manager",
                     "description": ""
                 }
+            ],
+            "code": "public class FormularioBasicoSwing extends JFrame {\n\n private static final long serialVersionUID = 1L;\n\n  public FormularioBasicoSwing() {\n   super(\"Formulario B\u00e1sico\");\t\n\t\t\n   getContentPane().setLayout(new FlowLayout());\n\t\t\n   JLabel label = new JLabel(\"Hola Mundo\");\n   getContentPane().add(label);\n\t\t\t\n   setSize(400,300);\n   setVisible(true);\n  }\n\t\n  public static void main(String argv[]) {\n   new FormularioBasicoSwing();\n  }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Formulario B\u00e1sico con Java Swing",
+                    "url": "http://lineadecodigo.com/java/formulario-basico-con-java-swing/"
+                },
+                {
+                    "nombre": "Ventanas con estilo gracias a Substances",
+                    "url": "http://lineadecodigo.com/java/ventanas-con-estilo-gracias-a-substances/"
+                }
             ]
         },
         {
             "nombre": "setRootPane",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
                     "nombre": "JRootPane root",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setRootPaneCheckingEnabled",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
                     "nombre": "boolean enabled",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setTransferHandler",
@@ -241,13 +319,15 @@
         },
         {
             "nombre": "update",
-            "description": "",
+            "description": "JFrame\n",
             "parametros": [
                 {
                     "nombre": "Graphics g",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         }
     ],
     "campos": [

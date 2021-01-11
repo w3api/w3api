@@ -146,11 +146,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String> selector",
+                    "nombre": "List<String>",
                     "description": ""
                 },
                 {
-                    "nombre": "List<String>",
+                    "nombre": "String> selector",
                     "description": ""
                 },
                 {
@@ -204,15 +204,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ByteBuffer[] dsts",
-                    "description": ""
-                },
-                {
                     "nombre": "ByteBuffer src",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -221,6 +213,14 @@
                 },
                 {
                     "nombre": "ByteBuffer dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer[] dsts",
                     "description": ""
                 }
             ]
@@ -234,7 +234,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer[] srcs",
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer dst",
                     "description": ""
                 },
                 {
@@ -242,11 +246,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
-                    "description": ""
-                },
-                {
-                    "nombre": "ByteBuffer dst",
+                    "nombre": "ByteBuffer[] srcs",
                     "description": ""
                 }
             ]

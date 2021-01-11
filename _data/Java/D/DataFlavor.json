@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ClassLoader classLoader",
+                    "nombre": "String mimeType",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String mimeType",
+                    "nombre": "ClassLoader classLoader",
                     "description": ""
                 },
                 {
@@ -188,11 +188,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String parameterName",
+                    "nombre": "String parameterValue",
                     "description": ""
                 },
                 {
-                    "nombre": "String parameterValue",
+                    "nombre": "String parameterName",
                     "description": ""
                 }
             ]
@@ -236,11 +236,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String className",
+                    "nombre": "ClassLoader fallback",
                     "description": ""
                 },
                 {
-                    "nombre": "ClassLoader fallback",
+                    "nombre": "String className",
                     "description": ""
                 }
             ]

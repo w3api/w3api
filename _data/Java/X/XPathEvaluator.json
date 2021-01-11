@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "XPathNSResolver resolver",
+                    "nombre": "String expression",
                     "description": ""
                 },
                 {
-                    "nombre": "String expression",
+                    "nombre": "XPathNSResolver resolver",
                     "description": ""
                 }
             ]
@@ -32,11 +32,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "short type",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object result",
+                    "nombre": "String expression",
                     "description": ""
                 },
                 {
@@ -44,11 +40,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Node contextNode",
+                    "nombre": "Object result",
                     "description": ""
                 },
                 {
-                    "nombre": "String expression",
+                    "nombre": "short type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Node contextNode",
                     "description": ""
                 }
             ]

@@ -12,11 +12,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Class<?> mbeanInterface",
+                    "nombre": "Class<T> mbeanInterface",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<T> mbeanInterface",
+                    "nombre": "Class<?> mbeanInterface",
                     "description": ""
                 },
                 {
@@ -56,11 +56,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MBeanConstructorInfo[] ctors",
+                    "nombre": "Object impl",
                     "description": ""
                 },
                 {
-                    "nombre": "Object impl",
+                    "nombre": "MBeanConstructorInfo[] ctors",
                     "description": ""
                 }
             ]
@@ -70,23 +70,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int sequence",
-                    "description": ""
-                },
-                {
-                    "nombre": "MBeanConstructorInfo ctor",
-                    "description": ""
-                },
-                {
-                    "nombre": "MBeanFeatureInfo info",
-                    "description": ""
-                },
-                {
-                    "nombre": "MBeanParameterInfo param",
-                    "description": ""
-                },
-                {
-                    "nombre": "MBeanOperationInfo info",
+                    "nombre": "MBeanAttributeInfo info",
                     "description": ""
                 },
                 {
@@ -94,15 +78,31 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int sequence",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanFeatureInfo info",
+                    "description": ""
+                },
+                {
                     "nombre": "MBeanInfo info",
                     "description": ""
                 },
                 {
-                    "nombre": "MBeanAttributeInfo info",
+                    "nombre": "MBeanParameterInfo param",
                     "description": ""
                 },
                 {
                     "nombre": "MBeanConstructorInfo info",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanOperationInfo info",
+                    "description": ""
+                },
+                {
+                    "nombre": "MBeanConstructorInfo ctor",
                     "description": ""
                 }
             ]
@@ -142,7 +142,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MBeanConstructorInfo ctor",
+                    "nombre": "MBeanParameterInfo param",
                     "description": ""
                 },
                 {
@@ -150,7 +150,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MBeanParameterInfo param",
+                    "nombre": "MBeanConstructorInfo ctor",
                     "description": ""
                 }
             ]

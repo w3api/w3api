@@ -1,7 +1,12 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "public class InsertarDatos {\n\n  public static void main(String[] args) {\n \n    Connection con = null;\n     PreparedStatement stmt = null;\n\n     String sDriver = \"com.mysql.jdbc.Driver\";\n     String sURL = \"jdbc:mysql://localhost:3306/lineadecodigo\";\n\n     try{\n        Class.forName(sDriver).newInstance();    \n        con = DriverManager.getConnection(sURL,\"root\",\"\");\n        \n        String sISBN = \"84-9815-212-7\";\n        String sTitulo = \"Yo, Claudio\";\n        String sDescripcion=\"Supuesta autobiograf\u00eda de Claudio\";\n        String sCategoria = \"Novela Hist\u00f3rica\";\n        int idAutor = 3;\n                     \n        stmt = con.prepareStatement(\"INSERT INTO libros VALUES (?,?,?,?,?)\");\n        stmt.setString(1,sISBN);\n        stmt.setInt(2,idAutor);\n        stmt.setString(3,sTitulo);\n        stmt.setString(4,sDescripcion);\n        stmt.setString(5,sCategoria);\n                     \n        int retorno = stmt.executeUpdate();\n        if (retorno>0)\n           System.out.println(\"Insertado correctamente\");      \n                     \n     } catch (SQLException sqle){\n        System.out.println(\"SQLState: \" \n           + sqle.getSQLState());\n        System.out.println(\"SQLErrorCode: \" \n           + sqle.getErrorCode());\n        sqle.printStackTrace();\n     } catch (Exception e){\n        e.printStackTrace();\n     } finally {\n        if (con\u00a0!= null) {\n           try{\n              stmt.close();\n              con.close();\n           } catch(Exception e){\n              e.printStackTrace();\n           }\n        }\n     }           \n   }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Actualizar datos con JDBC",
+            "url": "http://lineadecodigo.com/java/actualizar-datos-con-jdbc/"
+        }
+    ],
     "metodos": [
         {
             "nombre": "addBatch",
@@ -21,7 +26,9 @@
         },
         {
             "nombre": "executeQuery",
-            "description": ""
+            "description": "M\u00e9todo que ejecuta una query y devuelve el resultado en un ResultSet.\n",
+            "code": "try {\n    stmt = con.prepareStatement(\"SELECT pais FROM paises\");\n    rs = stmt.executeQuery();\n\n    while (rs.next())\n      System.out.println (rs.getString(\"pais\"));\n\n} catch (SQLException sqle) { \n    System.out.println(\"Error en la ejecuci\u00f3n:\" \n      + sqle.getErrorCode() + \" \" + sqle.getMessage());    \n}\n",
+            "ldc": []
         },
         {
             "nombre": "executeUpdate",
@@ -54,19 +61,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream x",
-                    "description": ""
-                },
-                {
                     "nombre": "long length",
                     "description": ""
                 },
                 {
-                    "nombre": "int parameterIndex",
+                    "nombre": "InputStream x",
                     "description": ""
                 },
                 {
                     "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
                     "description": ""
                 }
             ]
@@ -90,19 +97,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream x",
-                    "description": ""
-                },
-                {
                     "nombre": "long length",
                     "description": ""
                 },
                 {
-                    "nombre": "int parameterIndex",
+                    "nombre": "InputStream x",
                     "description": ""
                 },
                 {
                     "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
                     "description": ""
                 }
             ]
@@ -112,11 +119,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream inputStream",
+                    "nombre": "long length",
                     "description": ""
                 },
                 {
-                    "nombre": "long length",
+                    "nombre": "InputStream inputStream",
                     "description": ""
                 },
                 {
@@ -176,19 +183,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long length",
-                    "description": ""
-                },
-                {
-                    "nombre": "int parameterIndex",
-                    "description": ""
-                },
-                {
                     "nombre": "Reader reader",
                     "description": ""
                 },
                 {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
                     "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
                     "description": ""
                 }
             ]
@@ -197,6 +204,10 @@
             "nombre": "setClob",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "Reader reader",
+                    "description": ""
+                },
                 {
                     "nombre": "long length",
                     "description": ""
@@ -207,10 +218,6 @@
                 },
                 {
                     "nombre": "int parameterIndex",
-                    "description": ""
-                },
-                {
-                    "nombre": "Reader reader",
                     "description": ""
                 }
             ]
@@ -238,11 +245,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int parameterIndex",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "int parameterIndex",
                     "description": ""
                 }
             ]
@@ -266,11 +273,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int parameterIndex",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int parameterIndex",
                     "description": ""
                 }
             ]
@@ -312,19 +319,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long length",
-                    "description": ""
-                },
-                {
-                    "nombre": "int parameterIndex",
-                    "description": ""
-                },
-                {
                     "nombre": "Reader reader",
                     "description": ""
                 },
                 {
+                    "nombre": "long length",
+                    "description": ""
+                },
+                {
                     "nombre": "NClob value",
+                    "description": ""
+                },
+                {
+                    "nombre": "int parameterIndex",
                     "description": ""
                 }
             ]
@@ -366,11 +373,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object x",
+                    "nombre": "int scaleOrLength",
                     "description": ""
                 },
                 {
-                    "nombre": "int scaleOrLength",
+                    "nombre": "SQLType targetSqlType",
                     "description": ""
                 },
                 {
@@ -378,7 +385,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "SQLType targetSqlType",
+                    "nombre": "Object x",
                     "description": ""
                 },
                 {
@@ -406,11 +413,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int parameterIndex",
+                    "nombre": "RowId x",
                     "description": ""
                 },
                 {
-                    "nombre": "RowId x",
+                    "nombre": "int parameterIndex",
                     "description": ""
                 }
             ]
@@ -420,11 +427,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int parameterIndex",
+                    "nombre": "short x",
                     "description": ""
                 },
                 {
-                    "nombre": "short x",
+                    "nombre": "int parameterIndex",
                     "description": ""
                 }
             ]
@@ -484,11 +491,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int parameterIndex",
+                    "nombre": "Timestamp x",
                     "description": ""
                 },
                 {
-                    "nombre": "Timestamp x",
+                    "nombre": "int parameterIndex",
                     "description": ""
                 }
             ]
@@ -502,11 +509,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int parameterIndex",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "int parameterIndex",
                     "description": ""
                 }
             ]

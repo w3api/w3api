@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int axis",
+                    "nombre": "Element elem",
                     "description": ""
                 },
                 {
-                    "nombre": "Element elem",
+                    "nombre": "int axis",
                     "description": ""
                 }
             ]
@@ -116,7 +116,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int pos",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -128,7 +128,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Shape a",
+                    "nombre": "int pos",
                     "description": ""
                 },
                 {
@@ -212,11 +212,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float delta",
+                    "nombre": "AsyncBoxView.ChildState cs",
                     "description": ""
                 },
                 {
-                    "nombre": "AsyncBoxView.ChildState cs",
+                    "nombre": "float delta",
                     "description": ""
                 }
             ]
@@ -254,11 +254,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape alloc",
+                    "nombre": "Graphics g",
                     "description": ""
                 },
                 {
-                    "nombre": "Graphics g",
+                    "nombre": "Shape alloc",
                     "description": ""
                 }
             ]
@@ -268,15 +268,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean height",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean width",
                     "description": ""
                 },
                 {
                     "nombre": "View child",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean height",
                     "description": ""
                 }
             ]
@@ -286,15 +286,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "View[] views",
                     "description": ""
                 },
                 {
                     "nombre": "int length",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -354,11 +354,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float height",
+                    "nombre": "float width",
                     "description": ""
                 },
                 {
-                    "nombre": "float width",
+                    "nombre": "float height",
                     "description": ""
                 }
             ]
@@ -378,7 +378,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DocumentEvent e",
+                    "nombre": "DocumentEvent.ElementChange ec",
                     "description": ""
                 },
                 {
@@ -386,7 +386,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "DocumentEvent.ElementChange ec",
+                    "nombre": "DocumentEvent e",
                     "description": ""
                 }
             ]
@@ -396,19 +396,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
-                    "description": ""
-                },
-                {
-                    "nombre": "float y",
-                    "description": ""
-                },
-                {
                     "nombre": "float x",
                     "description": ""
                 },
                 {
                     "nombre": "Position.Bias[] biasReturn",
+                    "description": ""
+                },
+                {
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
                     "description": ""
                 }
             ]

@@ -122,6 +122,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "ModuleElement m",
+                    "description": ""
+                },
+                {
                     "nombre": "AnnotationMirror a",
                     "description": ""
                 },
@@ -136,10 +140,6 @@
                 {
                     "nombre": "Element e",
                     "description": ""
-                },
-                {
-                    "nombre": "ModuleElement m",
-                    "description": ""
                 }
             ]
         },
@@ -148,11 +148,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ModuleElement module",
+                    "nombre": "CharSequence name",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence name",
+                    "nombre": "ModuleElement module",
                     "description": ""
                 }
             ]
@@ -172,11 +172,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ModuleElement module",
+                    "nombre": "CharSequence name",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence name",
+                    "nombre": "ModuleElement module",
                     "description": ""
                 }
             ]
@@ -186,11 +186,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Element hider",
+                    "nombre": "Element hidden",
                     "description": ""
                 },
                 {
-                    "nombre": "Element hidden",
+                    "nombre": "Element hider",
                     "description": ""
                 }
             ]
@@ -230,15 +230,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ExecutableElement overrider",
-                    "description": ""
-                },
-                {
                     "nombre": "ExecutableElement overridden",
                     "description": ""
                 },
                 {
                     "nombre": "TypeElement type",
+                    "description": ""
+                },
+                {
+                    "nombre": "ExecutableElement overrider",
                     "description": ""
                 }
             ]

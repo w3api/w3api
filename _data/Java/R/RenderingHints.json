@@ -8,6 +8,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "RenderingHints.Key key",
+                    "description": ""
+                },
+                {
                     "nombre": "?> init",
                     "description": ""
                 },
@@ -17,10 +21,6 @@
                 },
                 {
                     "nombre": "Map<RenderingHints.Key",
-                    "description": ""
-                },
-                {
-                    "nombre": "RenderingHints.Key key",
                     "description": ""
                 }
             ]
@@ -106,11 +106,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object value",
+                    "nombre": "Object key",
                     "description": ""
                 },
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object value",
                     "description": ""
                 }
             ]

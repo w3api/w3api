@@ -8,11 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean delegateToCLR",
-                    "description": ""
-                },
-                {
-                    "nombre": "URLStreamHandlerFactory factory",
+                    "nombre": "URL[] urls",
                     "description": ""
                 },
                 {
@@ -20,7 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "URL[] urls",
+                    "nombre": "URLStreamHandlerFactory factory",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean delegateToCLR",
                     "description": ""
                 }
             ]
@@ -46,11 +46,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String version",
-                    "description": ""
-                },
-                {
-                    "nombre": "String jarfile",
+                    "nombre": "URL codebase",
                     "description": ""
                 },
                 {
@@ -58,7 +54,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "URL codebase",
+                    "nombre": "String jarfile",
+                    "description": ""
+                },
+                {
+                    "nombre": "String version",
                     "description": ""
                 }
             ]

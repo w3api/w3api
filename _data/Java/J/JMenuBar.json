@@ -126,19 +126,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "KeyEvent e",
-                    "description": ""
-                },
-                {
                     "nombre": "KeyStroke ks",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean pressed",
+                    "nombre": "int condition",
                     "description": ""
                 },
                 {
-                    "nombre": "int condition",
+                    "nombre": "KeyEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean pressed",
                     "description": ""
                 }
             ]
@@ -148,7 +148,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MenuSelectionManager manager",
+                    "nombre": "MenuElement[] path",
                     "description": ""
                 },
                 {
@@ -156,7 +156,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MenuElement[] path",
+                    "nombre": "MenuSelectionManager manager",
                     "description": ""
                 }
             ]
@@ -166,15 +166,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "MenuSelectionManager manager",
-                    "description": ""
-                },
-                {
                     "nombre": "MenuElement[] path",
                     "description": ""
                 },
                 {
                     "nombre": "MouseEvent event",
+                    "description": ""
+                },
+                {
+                    "nombre": "MenuSelectionManager manager",
                     "description": ""
                 }
             ]

@@ -1,7 +1,12 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "Clase que representa a una estructura de datos que sea una pila.\n",
+    "code": "public class Pila {\n \npublic static void main(String[] args) {\n\t\n  Stack<String> pila = new Stack<String>();\n\n  for (int x=1;x<=10;x++)\n   pila.push(Integer.toString(x));\n\t\t\n  while (!pila.empty())\n   System.out.println(pila.pop());\n\t\t\n }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Crear una pila en Java",
+            "url": "http://lineadecodigo.com/java/crear-una-pila-en-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Stack",
@@ -11,7 +16,14 @@
     "metodos": [
         {
             "nombre": "empty",
-            "description": ""
+            "description": "Comprueba si no quedan elementos en la pila. Es decir, si est\u00e1 vac\u00eda.\n",
+            "code": "public class Pila {\n \npublic static void main(String[] args) {\n\t\n  Stack<String> pila = new Stack<String>();\n\n  for (int x=1;x<=10;x++)\n   pila.push(Integer.toString(x));\n\t\t\n  while (!pila.empty())\n   System.out.println(pila.pop());\n\t\t\n }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Crear una pila en Java",
+                    "url": "http://lineadecodigo.com/java/crear-una-pila-en-java/"
+                }
+            ]
         },
         {
             "nombre": "peek",
@@ -19,15 +31,37 @@
         },
         {
             "nombre": "pop",
-            "description": ""
+            "description": "Desapila un elemento a la pila, retir\u00e1ndolo de la misma.\n",
+            "code": "public class Pila {\n \npublic static void main(String[] args) {\n\t\n  Stack<String> pila = new Stack<String>();\n\n  for (int x=1;x<=10;x++)\n   pila.push(Integer.toString(x));\n\t\t\n  while (!pila.empty())\n   System.out.println(pila.pop());\n\t\t\n }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Crear una pila en Java",
+                    "url": "http://lineadecodigo.com/java/crear-una-pila-en-java/"
+                },
+                {
+                    "nombre": "Invertir una frase en Java",
+                    "url": "http://lineadecodigo.com/java/invertir-una-frase-en-java/"
+                }
+            ]
         },
         {
             "nombre": "push",
-            "description": "",
+            "description": "Apila un elemento a la pila. Devuelve el elemento que ha sido insertado en la pila.\n",
             "parametros": [
                 {
                     "nombre": "E item",
                     "description": ""
+                }
+            ],
+            "code": "public class Pila {\n \npublic static void main(String[] args) {\n\t\n  Stack<String> pila = new Stack<String>();\n\n  for (int x=1;x<=10;x++)\n   pila.push(Integer.toString(x)); \t\t\n\t\t\n }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Crear una pila en Java",
+                    "url": "http://lineadecodigo.com/java/crear-una-pila-en-java/"
+                },
+                {
+                    "nombre": "Invertir una frase en Java",
+                    "url": "http://lineadecodigo.com/java/invertir-una-frase-en-java/"
                 }
             ]
         },

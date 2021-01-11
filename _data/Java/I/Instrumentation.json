@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean canRetransform",
+                    "nombre": "ClassFileTransformer transformer",
                     "description": ""
                 },
                 {
-                    "nombre": "ClassFileTransformer transformer",
+                    "nombre": "boolean canRetransform",
                     "description": ""
                 }
             ]
@@ -108,15 +108,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Map<Class<?>",
-                    "description": ""
-                },
-                {
-                    "nombre": "List<Class<?>>> extraProvides",
-                    "description": ""
-                },
-                {
                     "nombre": "Set<Module>> extraExports",
+                    "description": ""
+                },
+                {
+                    "nombre": "Module module",
                     "description": ""
                 },
                 {
@@ -124,11 +120,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Map<String",
-                    "description": ""
-                },
-                {
-                    "nombre": "Set<Module>> extraOpens",
+                    "nombre": "List<Class<?>>> extraProvides",
                     "description": ""
                 },
                 {
@@ -136,7 +128,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Module module",
+                    "nombre": "Set<Module>> extraOpens",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<String",
+                    "description": ""
+                },
+                {
+                    "nombre": "Map<Class<?>",
                     "description": ""
                 }
             ]

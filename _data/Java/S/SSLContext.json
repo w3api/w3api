@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
                     "nombre": "SSLContextSpi contextSpi",
                     "description": ""
                 },
                 {
                     "nombre": "String protocol",
-                    "description": ""
-                },
-                {
-                    "nombre": "Provider provider",
                     "description": ""
                 }
             ]
@@ -96,11 +96,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TrustManager[] tm",
+                    "nombre": "SecureRandom random",
                     "description": ""
                 },
                 {
-                    "nombre": "SecureRandom random",
+                    "nombre": "TrustManager[] tm",
                     "description": ""
                 },
                 {

@@ -8,7 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> m",
+                    "nombre": "Comparator<? super K> comparator",
+                    "description": ""
+                },
+                {
+                    "nombre": "SortedMap<K",
                     "description": ""
                 },
                 {
@@ -16,11 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Comparator<? super K> comparator",
-                    "description": ""
-                },
-                {
-                    "nombre": "SortedMap<K",
+                    "nombre": "? extends V> m",
                     "description": ""
                 }
             ]
@@ -130,11 +130,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean inclusive",
+                    "nombre": "K toKey",
                     "description": ""
                 },
                 {
-                    "nombre": "K toKey",
+                    "nombre": "boolean inclusive",
                     "description": ""
                 }
             ]
@@ -208,11 +208,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "K key",
+                    "nombre": "V value",
                     "description": ""
                 },
                 {
-                    "nombre": "V value",
+                    "nombre": "K key",
                     "description": ""
                 }
             ]
@@ -250,7 +250,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean toInclusive",
+                    "nombre": "K fromKey",
                     "description": ""
                 },
                 {
@@ -258,11 +258,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "K fromKey",
+                    "nombre": "K toKey",
                     "description": ""
                 },
                 {
-                    "nombre": "K toKey",
+                    "nombre": "boolean toInclusive",
                     "description": ""
                 }
             ]

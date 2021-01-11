@@ -1,7 +1,12 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "Clase base de los manejadores de SAX2.\n",
+    "code": "public class MiManejador extends DefaultHandler {\n\n MiManejador(){}\n\n  public void characters(char[] ch, int start, int len)\n    throws SAXException{\n       System.out.println(new String(ch,start,len));\n  }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Acceder al XML con SAX",
+            "url": "http://lineadecodigo.com/java/acceder-al-xml-con-sax/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "DefaultHandler",
@@ -11,7 +16,7 @@
     "metodos": [
         {
             "nombre": "characters",
-            "description": "",
+            "description": "M\u00e9todo que recibe una notificaci\u00f3n cuando hay datos dentro de un elemento XML.\n",
             "parametros": [
                 {
                     "nombre": "int start",
@@ -24,19 +29,28 @@
                 {
                     "nombre": "int length",
                     "description": ""
+                }
+            ],
+            "code": "public class MiManejador extends DefaultHandler {\n\n MiManejador(){}\n\n  public void characters(char[] ch, int start, int len)\n    throws SAXException{\n       System.out.println(new String(ch,start,len));\n  }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Acceder al XML con SAX",
+                    "url": "http://lineadecodigo.com/java/acceder-al-xml-con-sax/"
                 }
             ]
         },
         {
             "nombre": "endDocument",
-            "description": ""
+            "description": "DefaultHandler\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "endElement",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
                 {
-                    "nombre": "String qName",
+                    "nombre": "String uri",
                     "description": ""
                 },
                 {
@@ -44,44 +58,52 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String uri",
+                    "nombre": "String qName",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "endPrefixMapping",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
                 {
                     "nombre": "String prefix",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "error",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
                 {
                     "nombre": "SAXParseException e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "fatalError",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
                 {
                     "nombre": "SAXParseException e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "ignorableWhitespace",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
                 {
                     "nombre": "int start",
@@ -95,43 +117,49 @@
                     "nombre": "int length",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "notationDecl",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
-                {
-                    "nombre": "String systemId",
-                    "description": ""
-                },
                 {
                     "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String publicId",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "nombre": "processingInstruction",
-            "description": "",
-            "parametros": [
-                {
-                    "nombre": "String target",
+                    "nombre": "String systemId",
                     "description": ""
                 },
                 {
-                    "nombre": "String data",
+                    "nombre": "String publicId",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "processingInstruction",
+            "description": "DefaultHandler\n",
+            "parametros": [
+                {
+                    "nombre": "String data",
+                    "description": ""
+                },
+                {
+                    "nombre": "String target",
+                    "description": ""
+                }
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "resolveEntity",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
                 {
                     "nombre": "String systemId",
@@ -141,42 +169,46 @@
                     "nombre": "String publicId",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setDocumentLocator",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
                 {
                     "nombre": "Locator locator",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "skippedEntity",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
                 {
                     "nombre": "String name",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "startDocument",
-            "description": ""
+            "description": "DefaultHandler\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "startElement",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
                 {
-                    "nombre": "Attributes attributes",
-                    "description": ""
-                },
-                {
-                    "nombre": "String qName",
+                    "nombre": "String uri",
                     "description": ""
                 },
                 {
@@ -184,56 +216,68 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String uri",
+                    "nombre": "String qName",
+                    "description": ""
+                },
+                {
+                    "nombre": "Attributes attributes",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "startPrefixMapping",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
-                {
-                    "nombre": "String prefix",
-                    "description": ""
-                },
                 {
                     "nombre": "String uri",
                     "description": ""
+                },
+                {
+                    "nombre": "String prefix",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "unparsedEntityDecl",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
-                {
-                    "nombre": "String systemId",
-                    "description": ""
-                },
                 {
                     "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String notationName",
+                    "nombre": "String systemId",
                     "description": ""
                 },
                 {
                     "nombre": "String publicId",
                     "description": ""
+                },
+                {
+                    "nombre": "String notationName",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "warning",
-            "description": "",
+            "description": "DefaultHandler\n",
             "parametros": [
                 {
                     "nombre": "SAXParseException e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         }
     ]
 }

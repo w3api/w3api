@@ -56,15 +56,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String schemaLanguage",
+                    "description": ""
+                },
+                {
                     "nombre": "ClassLoader classLoader",
                     "description": ""
                 },
                 {
                     "nombre": "String factoryClassName",
-                    "description": ""
-                },
-                {
-                    "nombre": "String schemaLanguage",
                     "description": ""
                 }
             ]
@@ -74,11 +74,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Source schema",
-                    "description": ""
-                },
-                {
-                    "nombre": "URL schema",
+                    "nombre": "File schema",
                     "description": ""
                 },
                 {
@@ -86,7 +82,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "File schema",
+                    "nombre": "Source schema",
+                    "description": ""
+                },
+                {
+                    "nombre": "URL schema",
                     "description": ""
                 }
             ]
@@ -120,11 +120,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object object",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "Object object",
                     "description": ""
                 }
             ]

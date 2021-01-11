@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int axis",
+                    "nombre": "Element elem",
                     "description": ""
                 },
                 {
-                    "nombre": "Element elem",
+                    "nombre": "int axis",
                     "description": ""
                 }
             ]
@@ -24,19 +24,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int targetSpan",
-                    "description": ""
-                },
-                {
                     "nombre": "int[] spans",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] offsets",
+                    "nombre": "int targetSpan",
                     "description": ""
                 },
                 {
                     "nombre": "int axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
                     "description": ""
                 }
             ]
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Position.Bias bias",
+                    "nombre": "int position",
                     "description": ""
                 },
                 {
-                    "nombre": "int position",
+                    "nombre": "Position.Bias bias",
                     "description": ""
                 }
             ]
@@ -116,11 +116,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DocumentEvent e",
-                    "description": ""
-                },
-                {
-                    "nombre": "Shape a",
+                    "nombre": "DocumentEvent.ElementChange ec",
                     "description": ""
                 },
                 {
@@ -128,7 +124,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "DocumentEvent.ElementChange ec",
+                    "nombre": "Shape a",
+                    "description": ""
+                },
+                {
+                    "nombre": "DocumentEvent e",
                     "description": ""
                 }
             ]
@@ -190,11 +190,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int childIndex",
+                    "nombre": "int axis",
                     "description": ""
                 },
                 {
-                    "nombre": "int axis",
+                    "nombre": "int childIndex",
                     "description": ""
                 }
             ]
@@ -224,11 +224,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int childIndex",
+                    "nombre": "int axis",
                     "description": ""
                 },
                 {
-                    "nombre": "int axis",
+                    "nombre": "int childIndex",
                     "description": ""
                 }
             ]
@@ -238,15 +238,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "Rectangle alloc",
                     "description": ""
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -260,7 +260,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -268,7 +268,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -282,7 +282,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -290,7 +290,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -310,11 +310,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -334,19 +334,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int targetSpan",
-                    "description": ""
-                },
-                {
                     "nombre": "int[] spans",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] offsets",
+                    "nombre": "int targetSpan",
                     "description": ""
                 },
                 {
                     "nombre": "int axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
                     "description": ""
                 }
             ]
@@ -356,19 +356,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int targetSpan",
-                    "description": ""
-                },
-                {
                     "nombre": "int[] spans",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] offsets",
+                    "nombre": "int targetSpan",
                     "description": ""
                 },
                 {
                     "nombre": "int axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
                     "description": ""
                 }
             ]
@@ -414,11 +414,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "Graphics g",
                     "description": ""
                 },
                 {
-                    "nombre": "Graphics g",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -428,15 +428,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean height",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean width",
                     "description": ""
                 },
                 {
                     "nombre": "View child",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean height",
                     "description": ""
                 }
             ]
@@ -474,11 +474,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float height",
+                    "nombre": "float width",
                     "description": ""
                 },
                 {
-                    "nombre": "float width",
+                    "nombre": "float height",
                     "description": ""
                 }
             ]
@@ -488,11 +488,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Shape a",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
-                    "nombre": "Position.Bias[] bias",
+                    "nombre": "Shape a",
                     "description": ""
                 },
                 {
@@ -500,7 +500,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "Position.Bias[] bias",
                     "description": ""
                 }
             ]

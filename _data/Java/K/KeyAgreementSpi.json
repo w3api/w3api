@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Key key",
+                    "nombre": "boolean lastPhase",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean lastPhase",
+                    "nombre": "Key key",
                     "description": ""
                 }
             ]
@@ -28,15 +28,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "String algorithm",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] sharedSecret",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -46,15 +46,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Key key",
-                    "description": ""
-                },
-                {
                     "nombre": "AlgorithmParameterSpec params",
                     "description": ""
                 },
                 {
                     "nombre": "SecureRandom random",
+                    "description": ""
+                },
+                {
+                    "nombre": "Key key",
                     "description": ""
                 }
             ]

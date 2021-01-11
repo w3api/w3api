@@ -1,18 +1,23 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "Properties props = new Properties();\nprops.put(\"nombre\",\"Victor\");\nprops.put(\"ciudad\",\"Avila\");\n",
+    "ldc": [
+        {
+            "nombre": "Guardar unos Properties con Java",
+            "url": "http://lineadecodigo.com/java/guardar-unos-properties-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Properties",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int initialCapacity",
+                    "nombre": "Properties defaults",
                     "description": ""
                 },
                 {
-                    "nombre": "Properties defaults",
+                    "nombre": "int initialCapacity",
                     "description": ""
                 }
             ]
@@ -21,7 +26,7 @@
     "metodos": [
         {
             "nombre": "getProperty",
-            "description": "",
+            "description": "Obtiene el valor de una propiedad atendiendo a la clave pasada como par\u00e1metro. Si no encuentra la clave devuelve el valor por defecto, si no se ha especificado valor por defecto y no encuentra la clave devuelve un null.\n",
             "parametros": [
                 {
                     "nombre": "String key",
@@ -31,7 +36,9 @@
                     "nombre": "String defaultValue",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "Properties prop = new Properties();\nInputStream is = null;\n \ntry {\n  is=new FileInputStream(\"d:\\fichero.properties\");\n  prop.load(is);\n} catch(IOException ioe) {}\n\nfor (Enumeration e = prop.keys(); e.hasMoreElements()\u00a0; ) {\n  // Obtenemos el objeto\n  Object obj = e.nextElement();\n  System.out.println(obj + \": \" + prop.getProperty(obj.toString()));\n}\n",
+            "ldc": []
         },
         {
             "nombre": "list",
@@ -52,11 +59,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream inStream",
+                    "nombre": "Reader reader",
                     "description": ""
                 },
                 {
-                    "nombre": "Reader reader",
+                    "nombre": "InputStream inStream",
                     "description": ""
                 }
             ]
@@ -91,26 +98,33 @@
         },
         {
             "nombre": "setProperty",
-            "description": "",
+            "description": "Ejecuta el m\u00e9todo .push() sobre una HashTable para almacenar el par clave/valor pasado como par\u00e1metro. Devuelve el anterior valor asociado a la clave, si existe o null si no existiera.\n",
             "parametros": [
-                {
-                    "nombre": "String value",
-                    "description": ""
-                },
                 {
                     "nombre": "String key",
                     "description": ""
+                },
+                {
+                    "nombre": "String value",
+                    "description": ""
+                }
+            ],
+            "code": "Properties prop = new Properties();\nprop.setProperty(\"nombre\",\"Linea de C\u00f3digo\");\nprop.setProperty(\"url\",\"http://lineadecodigo.com\");\n\t\nFileOutputStream os = null;\t   \n\t    \ntry {\n  os=new FileOutputStream(\"fichero.prop\");\t\n  prop.store(os, \"Fichero de Propiedades de la Web\");\n} catch(IOException ioe) {ioe.printStackTrace();}\n",
+            "ldc": [
+                {
+                    "nombre": "http://lineadecodigo.com",
+                    "url": "http://lineadecodigo.com"
+                },
+                {
+                    "nombre": "Guardar unos Properties con Java",
+                    "url": "http://lineadecodigo.com/java/guardar-unos-properties-con-java/"
                 }
             ]
         },
         {
             "nombre": "store",
-            "description": "",
+            "description": "M\u00e9todo que permite almacenar en un fichero los valores de propiedades guardadas en una clase Properties\n",
             "parametros": [
-                {
-                    "nombre": "Writer writer",
-                    "description": ""
-                },
                 {
                     "nombre": "String comments",
                     "description": ""
@@ -118,6 +132,21 @@
                 {
                     "nombre": "OutputStream out",
                     "description": ""
+                },
+                {
+                    "nombre": "Writer writer",
+                    "description": ""
+                }
+            ],
+            "code": "Properties prop = new Properties();\nprop.setProperty(\"nombre\",\"Linea de C\u00f3digo\");\nprop.setProperty(\"url\",\"http://lineadecodigo.com\");\n\t\nFileOutputStream os = null;\t   \n\t    \ntry {\n  os=new FileOutputStream(\"fichero.prop\");\t\n  prop.store(os, \"Fichero de Propiedades de la Web\");\n} catch(IOException ioe) {ioe.printStackTrace();}\n",
+            "ldc": [
+                {
+                    "nombre": "http://lineadecodigo.com",
+                    "url": "http://lineadecodigo.com"
+                },
+                {
+                    "nombre": "Guardar unos Properties con Java",
+                    "url": "http://lineadecodigo.com/java/guardar-unos-properties-con-java/"
                 }
             ]
         },
@@ -130,15 +159,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
                     "nombre": "String encoding",
                     "description": ""
                 },
                 {
                     "nombre": "String comment",
-                    "description": ""
-                },
-                {
-                    "nombre": "Charset charset",
                     "description": ""
                 }
             ]

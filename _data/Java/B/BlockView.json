@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int axis",
+                    "nombre": "Element elem",
                     "description": ""
                 },
                 {
-                    "nombre": "Element elem",
+                    "nombre": "int axis",
                     "description": ""
                 }
             ]
@@ -110,19 +110,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int targetSpan",
-                    "description": ""
-                },
-                {
                     "nombre": "int[] spans",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] offsets",
+                    "nombre": "int targetSpan",
                     "description": ""
                 },
                 {
                     "nombre": "int axis",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] offsets",
                     "description": ""
                 }
             ]

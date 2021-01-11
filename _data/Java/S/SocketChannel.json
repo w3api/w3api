@@ -74,15 +74,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
                     "nombre": "ByteBuffer[] dsts",
                     "description": ""
                 },
                 {
                     "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -122,7 +122,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "ByteBuffer[] srcs",
                     "description": ""
                 },
                 {
@@ -134,7 +134,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer[] srcs",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]

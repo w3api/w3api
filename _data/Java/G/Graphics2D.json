@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "?> hints",
+                    "nombre": "Map<?",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<?",
+                    "nombre": "?> hints",
                     "description": ""
                 }
             ]
@@ -48,10 +48,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean raised",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
@@ -61,6 +57,10 @@
                 },
                 {
                     "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean raised",
                     "description": ""
                 },
                 {
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float y",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
@@ -92,6 +92,18 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "BufferedImage img",
+                    "description": ""
+                },
+                {
+                    "nombre": "ImageObserver obs",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
                     "nombre": "AffineTransform xform",
                     "description": ""
                 },
@@ -100,23 +112,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ImageObserver obs",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
                     "nombre": "BufferedImageOp op",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "BufferedImage img",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -140,11 +140,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AffineTransform xform",
+                    "nombre": "RenderedImage img",
                     "description": ""
                 },
                 {
-                    "nombre": "RenderedImage img",
+                    "nombre": "AffineTransform xform",
                     "description": ""
                 }
             ]
@@ -154,11 +154,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float y",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
@@ -170,7 +170,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
@@ -194,10 +194,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean raised",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
@@ -207,6 +203,10 @@
                 },
                 {
                     "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean raised",
                     "description": ""
                 },
                 {
@@ -262,7 +262,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle rect",
+                    "nombre": "boolean onStroke",
                     "description": ""
                 },
                 {
@@ -270,7 +270,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean onStroke",
+                    "nombre": "Rectangle rect",
                     "description": ""
                 }
             ]
@@ -342,11 +342,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object hintValue",
+                    "nombre": "RenderingHints.Key hintKey",
                     "description": ""
                 },
                 {
-                    "nombre": "RenderingHints.Key hintKey",
+                    "nombre": "Object hintValue",
                     "description": ""
                 }
             ]
@@ -356,11 +356,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "?> hints",
+                    "nombre": "Map<?",
                     "description": ""
                 },
                 {
-                    "nombre": "Map<?",
+                    "nombre": "?> hints",
                     "description": ""
                 }
             ]
@@ -390,11 +390,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double shx",
+                    "nombre": "double shy",
                     "description": ""
                 },
                 {
-                    "nombre": "double shy",
+                    "nombre": "double shx",
                     "description": ""
                 }
             ]
@@ -414,19 +414,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double tx",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "int x",
                     "description": ""
                 },
                 {
+                    "nombre": "double tx",
+                    "description": ""
+                },
+                {
                     "nombre": "double ty",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]

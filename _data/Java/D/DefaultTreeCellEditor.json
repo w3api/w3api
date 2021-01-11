@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreeCellEditor editor",
+                    "nombre": "JTree tree",
                     "description": ""
                 },
                 {
-                    "nombre": "JTree tree",
+                    "nombre": "TreeCellEditor editor",
                     "description": ""
                 },
                 {
@@ -70,6 +70,14 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean leaf",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
                     "nombre": "int row",
                     "description": ""
                 },
@@ -82,15 +90,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean expanded",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean leaf",
                     "description": ""
                 }
             ]
@@ -116,6 +116,14 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean leaf",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object value",
+                    "description": ""
+                },
+                {
                     "nombre": "int row",
                     "description": ""
                 },
@@ -128,15 +136,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object value",
-                    "description": ""
-                },
-                {
                     "nombre": "boolean expanded",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean leaf",
                     "description": ""
                 }
             ]
@@ -146,11 +146,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]

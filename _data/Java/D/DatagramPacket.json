@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "InetAddress address",
                     "description": ""
                 },
                 {
@@ -16,19 +16,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "InetAddress address",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] buf",
-                    "description": ""
-                },
-                {
                     "nombre": "int port",
                     "description": ""
                 },
                 {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
                     "nombre": "SocketAddress address",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] buf",
                     "description": ""
                 }
             ]
@@ -74,7 +74,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "byte[] buf",
                     "description": ""
                 },
                 {
@@ -82,7 +82,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] buf",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]

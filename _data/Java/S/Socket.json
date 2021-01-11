@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "String dirWeb = \"www.lineadecodigo.com\";\nint puerto = 80;\n\ntry{\n  Socket s = new Socket(dirWeb, puerto);\n  if(s.isConnected()){\n    System.out.println(\"Conexi\u00f3n establecida con la direcci\u00f3n: \" + dirWeb + \" a trav\u00e9z del puerto: \" + puerto);\n  }\n}catch(Exception e){\n  System.err.println(\"No se pudo establecer conexi\u00f3n con: \" + dirWeb + \" a travez del puerto: \" + puerto);\n}\n",
     "ldc": [],
     "constructores": [
         {
@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Proxy proxy",
+                    "nombre": "SocketImpl impl",
+                    "description": ""
+                },
+                {
+                    "nombre": "int localPort",
                     "description": ""
                 },
                 {
                     "nombre": "InetAddress address",
-                    "description": ""
-                },
-                {
-                    "nombre": "InetAddress host",
                     "description": ""
                 },
                 {
@@ -28,19 +28,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "InetAddress host",
+                    "description": ""
+                },
+                {
                     "nombre": "int port",
                     "description": ""
                 },
                 {
+                    "nombre": "Proxy proxy",
+                    "description": ""
+                },
+                {
                     "nombre": "InetAddress localAddr",
-                    "description": ""
-                },
-                {
-                    "nombre": "int localPort",
-                    "description": ""
-                },
-                {
-                    "nombre": "SocketImpl impl",
                     "description": ""
                 }
             ]
@@ -167,7 +167,9 @@
         },
         {
             "nombre": "isConnected",
-            "description": ""
+            "description": "Devuelve estado de la conexi\u00f3n del Socket. Si el socket est\u00e1 contectado devuelve true.\n",
+            "code": "String dirWeb = \"www.lineadecodigo.com\";\nint puerto = 80;\n\ntry{\n  Socket s = new Socket(dirWeb, puerto);\n  if(s.isConnected()){\n    System.out.println(\"Conexi\u00f3n establecida con la direcci\u00f3n: \" + dirWeb + \" a trav\u00e9z del puerto: \" + puerto);\n  }\n}catch(Exception e){\n  System.err.println(\"No se pudo establecer conexi\u00f3n con: \" + dirWeb + \" a travez del puerto: \" + puerto);\n}\n",
+            "ldc": []
         },
         {
             "nombre": "isInputShutdown",
@@ -230,11 +232,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int latency",
+                    "nombre": "int connectionTime",
                     "description": ""
                 },
                 {
-                    "nombre": "int connectionTime",
+                    "nombre": "int latency",
                     "description": ""
                 }
             ]
@@ -284,11 +286,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int linger",
+                    "nombre": "boolean on",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean on",
+                    "nombre": "int linger",
                     "description": ""
                 }
             ]

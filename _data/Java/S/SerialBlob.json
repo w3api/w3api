@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] b",
+                    "nombre": "Blob blob",
                     "description": ""
                 },
                 {
-                    "nombre": "Blob blob",
+                    "nombre": "byte[] b",
                     "description": ""
                 }
             ]
@@ -56,11 +56,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int length",
+                    "nombre": "long pos",
                     "description": ""
                 },
                 {
-                    "nombre": "long pos",
+                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -82,11 +82,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long start",
+                    "nombre": "byte[] pattern",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] pattern",
+                    "nombre": "long start",
                     "description": ""
                 }
             ]
@@ -106,11 +106,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] bytes",
+                    "nombre": "long pos",
                     "description": ""
                 },
                 {
@@ -118,7 +114,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long pos",
+                    "nombre": "byte[] bytes",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]

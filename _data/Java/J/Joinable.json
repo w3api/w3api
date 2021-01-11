@@ -16,11 +16,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int columnIdx",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] columnIdxes",
+                    "nombre": "String[] columnNames",
                     "description": ""
                 },
                 {
@@ -28,7 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String[] columnNames",
+                    "nombre": "int columnIdx",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] columnIdxes",
                     "description": ""
                 }
             ]
@@ -38,19 +38,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int columnIdx",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] columnIdxes",
-                    "description": ""
-                },
-                {
                     "nombre": "String columnName",
                     "description": ""
                 },
                 {
                     "nombre": "String[] columnName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int columnIdx",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] columnIdxes",
                     "description": ""
                 }
             ]

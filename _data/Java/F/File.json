@@ -1,18 +1,47 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "File es la representaci\u00f3n abstracta del path de un fichero o un directorio.\n",
+    "code": "File f = new File(\"fichero.txt\");\n",
+    "ldc": [
+        {
+            "nombre": "Vaciar el contenido de un fichero con Java",
+            "url": "http://lineadecodigo.com/java/vaciar-el-contenido-de-un-fichero-con-java/"
+        },
+        {
+            "nombre": "Vaciar el contenido de un fichero mediante borrado y creaci\u00f3n",
+            "url": "http://lineadecodigo.com/java/vaciar-el-contenido-de-un-fichero-mediante-borrado-y-creacion/"
+        },
+        {
+            "nombre": "Copiar un fichero con Java",
+            "url": "http://lineadecodigo.com/java/copiar-un-fichero-con-java/"
+        },
+        {
+            "nombre": "Crear la ruta de un fichero con Java",
+            "url": "http://lineadecodigo.com/java/crear-la-ruta-de-un-fichero-con-java/"
+        },
+        {
+            "nombre": "Cambiar la fecha de modificaci\u00f3n de un fichero con Java",
+            "url": "http://lineadecodigo.com/java/cambiar-la-fecha-de-modificacion-de-un-fichero-con-java/"
+        },
+        {
+            "nombre": "Listar ficheros ocultos de un directorio con Java",
+            "url": "http://lineadecodigo.com/java/listar-ficheros-ocultos-de-un-directorio-con-java/"
+        },
+        {
+            "nombre": "Bloquear un fichero con Java",
+            "url": "http://lineadecodigo.com/java/bloquear-un-fichero-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "File",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "URI uri",
+                    "nombre": "String parent",
                     "description": ""
                 },
                 {
-                    "nombre": "String pathname",
+                    "nombre": "URI uri",
                     "description": ""
                 },
                 {
@@ -24,7 +53,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String parent",
+                    "nombre": "String pathname",
                     "description": ""
                 }
             ]
@@ -55,14 +84,21 @@
         },
         {
             "nombre": "createNewFile",
-            "description": ""
+            "description": "M\u00e9todo que crea un fichero vac\u00edo. Siempre y cuando el fichero no exista. Si el fichero es creado satisfactoriamente devuelve true, en caso de que el fichero exista devuelve false.\n",
+            "code": "File fichero = new File(\"c:\\\\temp\\\\miFichero.txt\");\n\ntry {\n // A partir del objeto File creamos el fichero f\u00edsicamente\n if (fichero.createNewFile())\n   System.out.println(\"El fichero se ha creado correctamente\");\n else\n   System.out.println(\"No ha podido ser creado el fichero\");\n} catch (IOException ioe) {\n   ioe.printStackTrace();\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Vaciar el contenido de un fichero mediante borrado y creaci\u00f3n",
+                    "url": "http://lineadecodigo.com/java/vaciar-el-contenido-de-un-fichero-mediante-borrado-y-creacion/"
+                }
+            ]
         },
         {
             "nombre": "createTempFile",
-            "description": "",
+            "description": "M\u00e9todo que crea un fichero temporal dentro de un directorio y dentro del directorio temporal del sistema.\n",
             "parametros": [
                 {
-                    "nombre": "File directory",
+                    "nombre": "String suffix",
                     "description": ""
                 },
                 {
@@ -70,18 +106,29 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String suffix",
+                    "nombre": "File directory",
                     "description": ""
+                }
+            ],
+            "code": "try {\n  // Genera el fichero temporal con prefijos y sufijos. Genera un texto aleatorio.\n  // Lo genera el el directorio temporal del sistema\n  File tempFile = File.createTempFile(\"mificherotemporal\",null);\n                       \n  // Permite que el fichero se borre al salir del programa\n  // tempFile.deleteOnExit();\n                       \n  //Escribimos informaci\u00f3n en el fichero\n  BufferedWriter out = new BufferedWriter(new FileWriter(tempFile));\n  out.write(\"Esto es un fichero temporal\");\n  out.close();\n                       \n} catch (UnsupportedEncodingException e) {\n  e.printStackTrace();\n} catch (IOException e) {\n  e.printStackTrace();\n}\n",
+            "ldc": []
+        },
+        {
+            "nombre": "delete",
+            "description": "Ejecuta el borrado de un fichero o directorio instanciado en un objeto File. Si se borra el fichero el m\u00e9todo devuelve true, en caso contrario devuelve false.\n",
+            "code": "String sFichero = \"c:\\\\mifichero.txt\";\nFile f = new File(sFichero);\nf.delete();\n",
+            "ldc": [
+                {
+                    "nombre": "Vaciar el contenido de un fichero mediante borrado y creaci\u00f3n",
+                    "url": "http://lineadecodigo.com/java/vaciar-el-contenido-de-un-fichero-mediante-borrado-y-creacion/"
                 }
             ]
         },
         {
-            "nombre": "delete",
-            "description": ""
-        },
-        {
             "nombre": "deleteOnExit",
-            "description": ""
+            "description": "Elimina el fichero al finalizar la ejecuci\u00f3n de la m\u00e1quina virtual (JVM). Solo si la m\u00e1quina virtual termina de forma correcta.\n",
+            "code": "try {\n  // Genera el fichero temporal con prefijos y sufijos. Genera un texto aleatorio.\n  // Lo genera el el directorio temporal del sistema\n  File tempFile = File.createTempFile(\"mificherotemporal\",null);\n                       \n  // Permite que el fichero se borre al salir del programa\n  tempFile.deleteOnExit();\n                       \n  //Escribimos informaci\u00f3n en el fichero\n  BufferedWriter out = new BufferedWriter(new FileWriter(tempFile));\n  out.write(\"Esto es un fichero temporal\");\n  out.close();\n                       \n} catch (UnsupportedEncodingException e) {\n  e.printStackTrace();\n} catch (IOException e) {\n  e.printStackTrace();\n}\n",
+            "ldc": []
         },
         {
             "nombre": "equals",
@@ -95,7 +142,9 @@
         },
         {
             "nombre": "exists",
-            "description": ""
+            "description": "M\u00e9todo que determina si existe un fichero o directorio instanciado con la clase File. Retorna un valor boolean el cual indica con un valor true que existe el fichero o directorio y con un valor false el que no existe el fichero o directorio.\n",
+            "code": "String sFichero = \"c:\\\\datos.txt\";\nFile f = new File(sFichero);\n\nif (f.exists()){\n System.out.println(\"El fichero existe\");\n} else {\n System.out.println(\"El fichero no existe\");\n}\n",
+            "ldc": []
         },
         {
             "nombre": "getAbsoluteFile",
@@ -103,7 +152,9 @@
         },
         {
             "nombre": "getAbsolutePath",
-            "description": ""
+            "description": "M\u00e9todo que nos proporciona la ruta absoluta de un fichero.\n",
+            "code": "File fichero = new File(\"test.txt\");\nSystem.out.println(\"La ruta del fichero es: \" + fichero.getAbsolutePath());\n",
+            "ldc": []
         },
         {
             "nombre": "getCanonicalFile",
@@ -119,11 +170,15 @@
         },
         {
             "nombre": "getName",
-            "description": ""
+            "description": "M\u00e9todo que devuelve el nombre del fichero o directorio instanciado mediante la clase File. Solo devuelve la parte final del path.\n",
+            "code": "String sFichero = \"c:\\\\datos.txt\";\nFile f = new File(sFichero);\nSystem.out.println(f.getName());\n",
+            "ldc": []
         },
         {
             "nombre": "getParent",
-            "description": ""
+            "description": "M\u00e9todo que devuelve el padre del File instanciado o null en el caso de que no exista padre. El padre corresponder\u00e1 con un path.\n",
+            "code": "File fichero = new File(\"test.txt\");\nFile fichero2 = new File(fichero.getAbsolutePath());\n\t\t\nSystem.out.println(\"La ruta absoluta del fichero es \" + fichero.getAbsolutePath());\nSystem.out.println(\"El directorio padre del fichero es \" + fichero.getParent());\nSystem.out.println(\"El directorio padre del fichero es \" + fichero2.getParent());\n",
+            "ldc": []
         },
         {
             "nombre": "getParentFile",
@@ -151,7 +206,9 @@
         },
         {
             "nombre": "isDirectory",
-            "description": ""
+            "description": "M\u00e9todo que comprueba si el fichero instanciado en una clase File es un directorio o no. En caso afirmativo devolver\u00e1 un valor de true.\n",
+            "code": "String sDirectorio = \"c:\\\\midirectorio\";\nFile f = new File(sDirectorio);\nif (f.isDirectory())\n System.out.println(\"Es un directorio\");\nelse\n System.out.println(\"No es un directorio\");\n",
+            "ldc": []
         },
         {
             "nombre": "isFile",
@@ -159,47 +216,66 @@
         },
         {
             "nombre": "isHidden",
-            "description": ""
+            "description": "Indica si un fichero es oculto. Los ficheros ocultos en sistemas UNIX son aquellos que se les antepone un punto y en sistemas Windows son aquellos que tienen su propiedad de hidden activada. El m\u00e9todo isHidden devolver\u00e1 true en el caso de que el fichero sea oculto.\n",
+            "code": "String sDirectorio = \"d:\\\\test\";\nFile f = new File(sDirectorio); \n\t\nSystem.out.println(\"Listando ficheros ocultos de \" + sDirectorio);\nSystem.out.println(\"-----------------------------\");\n\nif (f.exists()){\n File[] ficheros = f.listFiles();\n for (int x=0;x<ficheros.length;x++){\n   if (ficheros[x].isHidden())\n     System.out.println(ficheros[x].getName());\n   }\n} else{\n   System.out.println(\"No existe ese directorio\");\n}\t\t\n",
+            "ldc": [
+                {
+                    "nombre": "Listar ficheros ocultos de un directorio con Java",
+                    "url": "http://lineadecodigo.com/java/listar-ficheros-ocultos-de-un-directorio-con-java/"
+                }
+            ]
         },
         {
             "nombre": "lastModified",
-            "description": ""
+            "description": "Devuelve la \u00faltima vez que el fichero ha sido modificado.\n",
+            "code": "File fichero = new File(\"test.txt\");\nlong ms = fichero.lastModified();\n\t\t\nDate d = new Date(ms);\nCalendar c = new GregorianCalendar(); \nc.setTime(d);\n\t\t\nString dia, mes, annio, hora, minuto, segundo;\n\t   \ndia = Integer.toString(c.get(Calendar.DATE));\nmes = Integer.toString(c.get(Calendar.MONTH));\nannio = Integer.toString(c.get(Calendar.YEAR));\nhora = Integer.toString(c.get(Calendar.HOUR_OF_DAY));\nminuto = Integer.toString(c.get(Calendar.MINUTE));\nsegundo = Integer.toString(c.get(Calendar.SECOND));\n\t\t  \nSystem.out.println (hora + \":\" + minuto + \":\" + segundo + \" \" + dia + \"/\" + mes +\"/\" + annio);\n",
+            "ldc": []
         },
         {
             "nombre": "length",
-            "description": ""
+            "description": "M\u00e9todo que devuelve el tama\u00f1o del fichero al que represente File.\n",
+            "code": "String sFichero = \"c:\\\\temp\\\\pelicula.avi\";\nFile fichero = new File(sFichero);\nSystem.out.println(\"El tama\u00f1o del fichero \" + sFichero + \" es: \" + Long.toString(fichero.length()) + \" bytes\");\n",
+            "ldc": []
         },
         {
             "nombre": "list",
-            "description": "",
+            "description": "File\n",
             "parametros": [
                 {
                     "nombre": "FilenameFilter filter",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "listFiles",
-            "description": "",
+            "description": "Retorna una lista de los ficheros y directorios que tenga un objeto File instanciado mediante un pathname. En el caso que el objeto File instanciado no sea un directorio, retorna null.\n",
             "parametros": [
-                {
-                    "nombre": "FileFilter filter",
-                    "description": ""
-                },
                 {
                     "nombre": "FilenameFilter filter",
                     "description": ""
+                },
+                {
+                    "nombre": "FileFilter filter",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "File[] ficheros = f.listFiles();\nfor (int x=0;x<ficheros.length;x++){\n  System.out.println(ficheros[x].getName());\n}\n",
+            "ldc": []
         },
         {
             "nombre": "listRoots",
-            "description": ""
+            "description": "M\u00e9todo que nos devuelve la lista de unidades del sistema de ficheros. Las unidades las devuelve como objetos de tipo File.\n",
+            "code": "File[] roots = File.listRoots();\nfor (int i=0; i<roots.length; i++) {\n   System.out.println(roots[i]);\n}\n",
+            "ldc": []
         },
         {
             "nombre": "mkdir",
-            "description": ""
+            "description": "File\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "mkdirs",
@@ -207,13 +283,15 @@
         },
         {
             "nombre": "renameTo",
-            "description": "",
+            "description": "M\u00e9todo que crea renombra el fichero sobre el cual se aplica.\n",
             "parametros": [
                 {
                     "nombre": "File dest",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "File f1 = new File(\"fichero1.txt\");\nFile f2 = new File(\"fichero2.txt\");\n\nboolean correcto = f1.renameTo(f2);\n\nif (correcto)\n System.out.println(\"El renombrado ha sido correcto\");\nelse\n System.out.println(\"El renombrado no se ha podido realizar\");\n",
+            "ldc": []
         },
         {
             "nombre": "setExecutable",
@@ -231,11 +309,18 @@
         },
         {
             "nombre": "setLastModified",
-            "description": "",
+            "description": "Cambia la fecha de modificaci\u00f3n del fichero.\n",
             "parametros": [
                 {
                     "nombre": "long time",
                     "description": ""
+                }
+            ],
+            "code": "File fichero = new File(\"test.txt\");\nlong ms = System.currentTimeMillis();\nboolean cambio = fichero.setLastModified(ms);\n\nif (cambio)\n  System.out.println(\"Se ha cambiado la hora del sistema satisfactoriamente\");\nelse\n  System.out.println(\"NO se ha podido cambiar la hora\");\n",
+            "ldc": [
+                {
+                    "nombre": "Cambiar la fecha de modificaci\u00f3n de un fichero con Java",
+                    "url": "http://lineadecodigo.com/java/cambiar-la-fecha-de-modificacion-de-un-fichero-con-java/"
                 }
             ]
         },
@@ -244,11 +329,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean readable",
+                    "nombre": "boolean ownerOnly",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean ownerOnly",
+                    "nombre": "boolean readable",
                     "description": ""
                 }
             ]
@@ -262,11 +347,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean writable",
+                    "nombre": "boolean ownerOnly",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean ownerOnly",
+                    "nombre": "boolean writable",
                     "description": ""
                 }
             ]
@@ -285,7 +370,9 @@
         },
         {
             "nombre": "toURL",
-            "description": ""
+            "description": "Convierte un fichero en una URL.\n",
+            "code": "File fichero = new File(\"test.txt\");\t\t\nURL url = null;\n\t\t\ntry {\t\t    \n  url = fichero.toURL();\n  System.out.println(url.toString());\t\t\n\n  File fichero2 = new File(url.getFile());\n  System.out.println(fichero2.toString());\n} catch (MalformedURLException e) {}\n",
+            "ldc": []
         }
     ],
     "campos": [
@@ -299,7 +386,14 @@
         },
         {
             "nombre": "separator",
-            "description": ""
+            "description": "Representa el separador de directorios dependiendo el sistema operativo en el que estemos.\n",
+            "code": "String sFichero = \"mifichero.txt\";\nString sDirectorio = \"midirectorio\";\n\nString sPath = File.separator + sDirectorio + File.separator + sFichero;\nSystem.out.println(sPath);\n",
+            "ldc": [
+                {
+                    "nombre": "Crear la ruta de un fichero con Java",
+                    "url": "http://lineadecodigo.com/java/crear-la-ruta-de-un-fichero-con-java/"
+                }
+            ]
         },
         {
             "nombre": "separatorChar",

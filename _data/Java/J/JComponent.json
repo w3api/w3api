@@ -48,11 +48,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -74,7 +74,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int oldValue",
+                    "nombre": "String propertyName",
                     "description": ""
                 },
                 {
@@ -82,11 +82,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String propertyName",
+                    "nombre": "int newValue",
                     "description": ""
                 },
                 {
-                    "nombre": "int newValue",
+                    "nombre": "int oldValue",
                     "description": ""
                 },
                 {
@@ -100,7 +100,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object newValue",
+                    "nombre": "String propertyName",
                     "description": ""
                 },
                 {
@@ -108,7 +108,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String propertyName",
+                    "nombre": "Object newValue",
                     "description": ""
                 }
             ]
@@ -148,11 +148,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -482,19 +482,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle r",
-                    "description": ""
-                },
-                {
                     "nombre": "int h",
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "Rectangle r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -572,19 +572,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "KeyEvent e",
-                    "description": ""
-                },
-                {
                     "nombre": "KeyStroke ks",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean pressed",
+                    "nombre": "int condition",
                     "description": ""
                 },
                 {
-                    "nombre": "int condition",
+                    "nombre": "KeyEvent e",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean pressed",
                     "description": ""
                 }
             ]
@@ -624,11 +624,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object value",
+                    "nombre": "Object key",
                     "description": ""
                 },
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object value",
                     "description": ""
                 }
             ]
@@ -646,11 +646,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "KeyStroke aKeyStroke",
+                    "nombre": "String aCommand",
                     "description": ""
                 },
                 {
-                    "nombre": "String aCommand",
+                    "nombre": "KeyStroke aKeyStroke",
                     "description": ""
                 }
             ]
@@ -684,10 +684,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle r",
-                    "description": ""
-                },
-                {
                     "nombre": "int height",
                     "description": ""
                 },
@@ -700,11 +696,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long tm",
+                    "nombre": "Rectangle r",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "long tm",
                     "description": ""
                 }
             ]
@@ -742,11 +742,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int h",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -754,7 +754,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -888,11 +888,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Set<? extends AWTKeyStroke> keystrokes",
+                    "nombre": "int id",
                     "description": ""
                 },
                 {
-                    "nombre": "int id",
+                    "nombre": "Set<? extends AWTKeyStroke> keystrokes",
                     "description": ""
                 }
             ]
@@ -932,11 +932,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputMap map",
+                    "nombre": "int condition",
                     "description": ""
                 },
                 {
-                    "nombre": "int condition",
+                    "nombre": "InputMap map",
                     "description": ""
                 }
             ]
@@ -1013,11 +1013,18 @@
         },
         {
             "nombre": "setToolTipText",
-            "description": "",
+            "description": "JComponent\n",
             "parametros": [
                 {
                     "nombre": "String text",
                     "description": ""
+                }
+            ],
+            "code": "",
+            "ldc": [
+                {
+                    "nombre": "A\u00f1adir un tooltip a un JButton",
+                    "url": "http://lineadecodigo.com/java/anadir-un-tooltip-a-un-jbutton/"
                 }
             ]
         },

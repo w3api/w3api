@@ -1,14 +1,19 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "Hashtable<String,String> paises = new Hashtable<String,String>();\n\npaises.put(\"ES\", \"Espa\u00f1a\");\npaises.put(\"UK\", \"Reino Unido\");\npaises.put(\"US\", \"Estados Unidos\");\npaises.put(\"FR\", \"Francia\");\n",
+    "ldc": [
+        {
+            "nombre": "Crear una Hashtable",
+            "url": "http://lineadecodigo.com/java/crear-una-hashtable/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Hashtable",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int initialCapacity",
+                    "nombre": "Map<? extends K",
                     "description": ""
                 },
                 {
@@ -16,7 +21,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Map<? extends K",
+                    "nombre": "int initialCapacity",
                     "description": ""
                 },
                 {
@@ -40,11 +45,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super V",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -52,7 +53,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super V",
                     "description": ""
                 }
             ]
@@ -80,11 +85,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
-                    "nombre": "? super V",
+                    "nombre": "BiFunction<? super K",
                     "description": ""
                 },
                 {
@@ -92,7 +93,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super K",
+                    "nombre": "? extends V> remappingFunction",
+                    "description": ""
+                },
+                {
+                    "nombre": "? super V",
                     "description": ""
                 }
             ]
@@ -147,11 +152,18 @@
         },
         {
             "nombre": "get",
-            "description": "",
+            "description": "M\u00e9todo que recupera el valor asociado a una clave de una Hashtable. Si la clave es nula se lanza una NullPointerException\n",
             "parametros": [
                 {
                     "nombre": "Object key",
                     "description": ""
+                }
+            ],
+            "code": "Hashtable<String,String> paises = new Hashtable<String,String>();\npaises.put(\"ES\", \"Espa\u00f1a\");\npaises.put(\"UK\", \"Reino Unido\");\npaises.put(\"US\", \"Estados Unidos\");\npaises.put(\"FR\", \"Francia\");\n\nString clave = \"US\";\t\t\nSystem.out.println(\"El valor de la clave \" + clave + \" es \" + paises.get(clave));\n",
+            "ldc": [
+                {
+                    "nombre": "Crear una Hashtable",
+                    "url": "http://lineadecodigo.com/java/crear-una-hashtable/"
                 }
             ]
         },
@@ -165,7 +177,9 @@
         },
         {
             "nombre": "keys",
-            "description": ""
+            "description": "Devuelve una enumeraci\u00f3n con las claves del Hashtable.\n",
+            "code": "Hashtable<String,String> paises = new Hashtable<String,String>();\npaises.put(\"ES\", \"Espa\u00f1a\");\npaises.put(\"UK\", \"Reino Unido\");\npaises.put(\"US\", \"Estados Unidos\");\npaises.put(\"FR\", \"Francia\");\n\t\t\t\t\nEnumeration<String> e = paises.keys();\n\t\nwhile(e.hasMoreElements())\n  System.out.println(e.nextElement());\n",
+            "ldc": []
         },
         {
             "nombre": "keySet",
@@ -176,15 +190,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends V> remappingFunction",
-                    "description": ""
-                },
-                {
                     "nombre": "? super V",
                     "description": ""
                 },
                 {
-                    "nombre": "BiFunction<? super V",
+                    "nombre": "V value",
+                    "description": ""
+                },
+                {
+                    "nombre": "? extends V> remappingFunction",
                     "description": ""
                 },
                 {
@@ -192,22 +206,29 @@
                     "description": ""
                 },
                 {
-                    "nombre": "V value",
+                    "nombre": "BiFunction<? super V",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "put",
-            "description": "",
+            "description": "M\u00e9todo que inserta en el mapa una clave asoci\u00e1ndola un valor. Si la clave es un nula saltar\u00e1 una NullPointerException.\n",
             "parametros": [
-                {
-                    "nombre": "K key",
-                    "description": ""
-                },
                 {
                     "nombre": "V value",
                     "description": ""
+                },
+                {
+                    "nombre": "K key",
+                    "description": ""
+                }
+            ],
+            "code": "Hashtable<String,String> paises = new Hashtable<String,String>();\npaises.put(\"ES\", \"Espa\u00f1a\");\npaises.put(\"UK\", \"Reino Unido\");\npaises.put(\"US\", \"Estados Unidos\");\npaises.put(\"FR\", \"Francia\");\n\t\t\t\t\nEnumeration<String> e = paises.keys();\n\t\nwhile(e.hasMoreElements())\n  System.out.println(e.nextElement());\n",
+            "ldc": [
+                {
+                    "nombre": "Crear una Hashtable",
+                    "url": "http://lineadecodigo.com/java/crear-una-hashtable/"
                 }
             ]
         },

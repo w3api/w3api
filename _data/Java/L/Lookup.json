@@ -38,7 +38,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> rtype",
+                    "nombre": "MethodHandles.Lookup lookup",
                     "description": ""
                 },
                 {
@@ -50,7 +50,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandles.Lookup lookup",
+                    "nombre": "Class<?> rtype",
                     "description": ""
                 }
             ]
@@ -60,7 +60,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> rtype",
+                    "nombre": "MethodHandles.Lookup lookup",
                     "description": ""
                 },
                 {
@@ -72,7 +72,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandles.Lookup lookup",
+                    "nombre": "Class<?> rtype",
                     "description": ""
                 }
             ]
@@ -82,15 +82,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> declaringClass",
-                    "description": ""
-                },
-                {
                     "nombre": "String name",
                     "description": ""
                 },
                 {
                     "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> declaringClass",
                     "description": ""
                 }
             ]
@@ -100,15 +100,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> declaringClass",
-                    "description": ""
-                },
-                {
                     "nombre": "String name",
                     "description": ""
                 },
                 {
                     "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> declaringClass",
                     "description": ""
                 }
             ]
@@ -118,15 +118,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> declaringClass",
-                    "description": ""
-                },
-                {
                     "nombre": "String name",
                     "description": ""
                 },
                 {
                     "nombre": "MethodType type",
+                    "description": ""
+                },
+                {
+                    "nombre": "Class<?> declaringClass",
                     "description": ""
                 }
             ]
@@ -136,11 +136,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Method m",
+                    "nombre": "MethodHandles.Lookup lookup",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandles.Lookup lookup",
+                    "nombre": "Method m",
                     "description": ""
                 }
             ]
@@ -150,11 +150,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Constructor<?> c",
+                    "nombre": "MethodHandles.Lookup lookup",
                     "description": ""
                 },
                 {
-                    "nombre": "MethodHandles.Lookup lookup",
+                    "nombre": "Constructor<?> c",
                     "description": ""
                 }
             ]

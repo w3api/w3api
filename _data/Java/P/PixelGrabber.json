@@ -8,7 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ImageProducer ip",
+                    "nombre": "boolean forceRGB",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] pix",
                     "description": ""
                 },
                 {
@@ -20,6 +24,10 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
                     "nombre": "int w",
                     "description": ""
                 },
@@ -28,23 +36,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean forceRGB",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] pix",
+                    "nombre": "ImageProducer ip",
                     "description": ""
                 },
                 {
                     "nombre": "int off",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -110,11 +110,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -146,15 +146,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int srcX",
-                    "description": ""
-                },
-                {
                     "nombre": "int srcScan",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] pixels",
                     "description": ""
                 },
                 {
@@ -162,7 +154,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int[] pixels",
+                    "description": ""
+                },
+                {
                     "nombre": "int srcH",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcX",
                     "description": ""
                 },
                 {
@@ -176,11 +176,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "?> props",
+                    "nombre": "Hashtable<?",
                     "description": ""
                 },
                 {
-                    "nombre": "Hashtable<?",
+                    "nombre": "?> props",
                     "description": ""
                 }
             ]

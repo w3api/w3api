@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "long vacias = bf.lines().filter(l -> l.isEmpty()).count();\n",
     "ldc": [],
     "metodos": [
         {
@@ -32,22 +32,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "BiConsumer<R",
-                    "description": ""
-                },
-                {
-                    "nombre": "R> combiner",
-                    "description": ""
-                },
-                {
-                    "nombre": "A",
-                    "description": ""
-                },
-                {
-                    "nombre": "Collector<? super T",
-                    "description": ""
-                },
-                {
                     "nombre": "Supplier<R> supplier",
                     "description": ""
                 },
@@ -56,7 +40,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "A",
+                    "description": ""
+                },
+                {
                     "nombre": "? super T> accumulator",
+                    "description": ""
+                },
+                {
+                    "nombre": "R> combiner",
+                    "description": ""
+                },
+                {
+                    "nombre": "BiConsumer<R",
+                    "description": ""
+                },
+                {
+                    "nombre": "Collector<? super T",
                     "description": ""
                 }
             ]
@@ -66,18 +66,20 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Stream<? extends T> b",
+                    "nombre": "Stream<? extends T> a",
                     "description": ""
                 },
                 {
-                    "nombre": "Stream<? extends T> a",
+                    "nombre": "Stream<? extends T> b",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "count",
-            "description": ""
+            "description": "Devuelve el n\u00famero de elementos del Stream. Es una operaci\u00f3n terminal.\n",
+            "code": "long vacias = bf.lines().filter(l -> l.isEmpty()).count();\n",
+            "ldc": []
         },
         {
             "nombre": "distinct",
@@ -99,13 +101,15 @@
         },
         {
             "nombre": "filter",
-            "description": "",
+            "description": "Devuelve un Stream que contiene los datos una vez se ejecute el filtro especificado por el Lambda del predicado. Es una operaci\u00f3n intermedia.\n",
             "parametros": [
                 {
                     "nombre": "Predicate<? super T> predicate",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "long vacias = bf.lines().filter(l -> l.isEmpty()).count();\n",
+            "ldc": []
         },
         {
             "nombre": "findAny",
@@ -148,11 +152,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "? extends IntStream> mapper",
+                    "nombre": "Function<? super T",
                     "description": ""
                 },
                 {
-                    "nombre": "Function<? super T",
+                    "nombre": "? extends IntStream> mapper",
                     "description": ""
                 }
             ]
@@ -173,13 +177,15 @@
         },
         {
             "nombre": "forEach",
-            "description": "",
+            "description": "Realiza una operaci\u00f3n de \"por cada\" en el Stream. Es una operaci\u00f3n terminal.\n",
             "parametros": [
                 {
                     "nombre": "Consumer<? super T> action",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "String sCadena = \"Esto es una cadena de texto\";\nsCadena.chars()\n  .forEach(c -> System.out.print(Character.toString((char) c)));\n",
+            "ldc": []
         },
         {
             "nombre": "forEachOrdered",
@@ -206,15 +212,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "UnaryOperator<T> f",
+                    "description": ""
+                },
+                {
                     "nombre": "UnaryOperator<T> next",
                     "description": ""
                 },
                 {
                     "nombre": "T seed",
-                    "description": ""
-                },
-                {
-                    "nombre": "UnaryOperator<T> f",
                     "description": ""
                 },
                 {
@@ -346,11 +352,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "U identity",
+                    "nombre": "T identity",
                     "description": ""
                 },
                 {
                     "nombre": "BiFunction<U",
+                    "description": ""
+                },
+                {
+                    "nombre": "U identity",
+                    "description": ""
+                },
+                {
+                    "nombre": "BinaryOperator<U> combiner",
                     "description": ""
                 },
                 {
@@ -363,14 +377,6 @@
                 },
                 {
                     "nombre": "U> accumulator",
-                    "description": ""
-                },
-                {
-                    "nombre": "T identity",
-                    "description": ""
-                },
-                {
-                    "nombre": "BinaryOperator<U> combiner",
                     "description": ""
                 }
             ]

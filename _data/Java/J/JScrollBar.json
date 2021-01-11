@@ -8,15 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int min",
-                    "description": ""
-                },
-                {
-                    "nombre": "int max",
-                    "description": ""
-                },
-                {
-                    "nombre": "int orientation",
+                    "nombre": "int value",
                     "description": ""
                 },
                 {
@@ -24,7 +16,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int value",
+                    "nombre": "int orientation",
+                    "description": ""
+                },
+                {
+                    "nombre": "int max",
+                    "description": ""
+                },
+                {
+                    "nombre": "int min",
                     "description": ""
                 }
             ]
@@ -46,15 +46,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int value",
+                    "description": ""
+                },
+                {
                     "nombre": "int id",
                     "description": ""
                 },
                 {
                     "nombre": "int type",
-                    "description": ""
-                },
-                {
-                    "nombre": "int value",
                     "description": ""
                 }
             ]
@@ -250,7 +250,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int newMin",
+                    "nombre": "int newValue",
                     "description": ""
                 },
                 {
@@ -258,7 +258,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int newValue",
+                    "nombre": "int newMin",
                     "description": ""
                 },
                 {

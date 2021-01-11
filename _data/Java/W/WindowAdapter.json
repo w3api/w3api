@@ -1,7 +1,12 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "public class CerrarVentana extends JFrame {\n private static final long serialVersionUID = 1L;\n\n  public CerrarVentana(){\n    super(\"Hola Mundo\");\n\t\n    JLabel label = new JLabel(\"Hola Mundo\");\n    getContentPane().add(label);\n\t\n    addWindowListener(new WindowAdapter() {\n         public void windowClosing(WindowEvent e) {\n              System.exit(0);\n         }\n    });\n\n    setSize(200,100);\n    setVisible(true);\n }\t\n\n public static void main(String[] args) {\n    new CerrarVentana();\n }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Cerrar una ventana con Java Swing",
+            "url": "http://lineadecodigo.com/java/cerrar-una-ventana-con-java-swing/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "WindowAdapter",
@@ -11,103 +16,128 @@
     "metodos": [
         {
             "nombre": "windowActivated",
-            "description": "",
+            "description": "WindowAdapter\n",
             "parametros": [
                 {
                     "nombre": "WindowEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "windowClosed",
-            "description": "",
+            "description": "WindowAdapter\n",
             "parametros": [
                 {
                     "nombre": "WindowEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "windowClosing",
-            "description": "",
+            "description": "WindowAdapter\n",
             "parametros": [
                 {
                     "nombre": "WindowEvent e",
                     "description": ""
+                }
+            ],
+            "code": "",
+            "ldc": [
+                {
+                    "nombre": "Cerrar una ventana con Java Swing",
+                    "url": "http://lineadecodigo.com/java/cerrar-una-ventana-con-java-swing/"
                 }
             ]
         },
         {
             "nombre": "windowDeactivated",
-            "description": "",
+            "description": "WindowAdapter\n",
             "parametros": [
                 {
                     "nombre": "WindowEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "windowDeiconified",
-            "description": "",
+            "description": "WindowAdapter\n",
             "parametros": [
                 {
                     "nombre": "WindowEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "windowGainedFocus",
-            "description": "",
+            "description": "WindowAdapter\n",
             "parametros": [
                 {
                     "nombre": "WindowEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "windowIconified",
-            "description": "",
+            "description": "WindowAdapter\n",
             "parametros": [
                 {
                     "nombre": "WindowEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "windowLostFocus",
-            "description": "",
+            "description": "WindowAdapter\n",
             "parametros": [
                 {
                     "nombre": "WindowEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "windowOpened",
-            "description": "",
+            "description": "WindowAdapter\n",
             "parametros": [
                 {
                     "nombre": "WindowEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "windowStateChanged",
-            "description": "",
+            "description": "WindowAdapter\n",
             "parametros": [
                 {
                     "nombre": "WindowEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         }
     ]
 }

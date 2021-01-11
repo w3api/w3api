@@ -46,11 +46,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int beginGlyphIndex",
+                    "nombre": "int numEntries",
                     "description": ""
                 },
                 {
-                    "nombre": "int numEntries",
+                    "nombre": "int beginGlyphIndex",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int beginGlyphIndex",
+                    "nombre": "int numEntries",
                     "description": ""
                 },
                 {
-                    "nombre": "int numEntries",
+                    "nombre": "int beginGlyphIndex",
                     "description": ""
                 }
             ]
@@ -118,7 +118,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float y",
+                    "nombre": "int glyphIndex",
                     "description": ""
                 },
                 {
@@ -126,7 +126,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int glyphIndex",
+                    "nombre": "float y",
                     "description": ""
                 }
             ]
@@ -136,19 +136,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float y",
-                    "description": ""
-                },
-                {
                     "nombre": "float x",
                     "description": ""
                 },
                 {
-                    "nombre": "FontRenderContext renderFRC",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
                     "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "FontRenderContext renderFRC",
                     "description": ""
                 }
             ]
@@ -168,15 +168,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int beginGlyphIndex",
-                    "description": ""
-                },
-                {
                     "nombre": "float[] positionReturn",
                     "description": ""
                 },
                 {
                     "nombre": "int numEntries",
+                    "description": ""
+                },
+                {
+                    "nombre": "int beginGlyphIndex",
                     "description": ""
                 }
             ]
@@ -218,11 +218,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float y",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "float y",
                     "description": ""
                 }
             ]
@@ -232,11 +232,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float y",
+                    "nombre": "float x",
                     "description": ""
                 },
                 {
-                    "nombre": "float x",
+                    "nombre": "float y",
                     "description": ""
                 },
                 {
@@ -258,11 +258,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Point2D newPos",
+                    "nombre": "int glyphIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int glyphIndex",
+                    "nombre": "Point2D newPos",
                     "description": ""
                 }
             ]
@@ -272,11 +272,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AffineTransform newTX",
+                    "nombre": "int glyphIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int glyphIndex",
+                    "nombre": "AffineTransform newTX",
                     "description": ""
                 }
             ]

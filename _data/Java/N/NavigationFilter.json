@@ -14,14 +14,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int direction",
-                    "description": ""
-                },
-                {
-                    "nombre": "int pos",
-                    "description": ""
-                },
-                {
                     "nombre": "Position.Bias[] biasRet",
                     "description": ""
                 },
@@ -30,7 +22,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int direction",
+                    "description": ""
+                },
+                {
                     "nombre": "Position.Bias bias",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pos",
                     "description": ""
                 }
             ]
@@ -40,11 +40,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "NavigationFilter.FilterBypass fb",
+                    "nombre": "int dot",
                     "description": ""
                 },
                 {
-                    "nombre": "int dot",
+                    "nombre": "NavigationFilter.FilterBypass fb",
                     "description": ""
                 },
                 {
@@ -58,11 +58,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "NavigationFilter.FilterBypass fb",
+                    "nombre": "int dot",
                     "description": ""
                 },
                 {
-                    "nombre": "int dot",
+                    "nombre": "NavigationFilter.FilterBypass fb",
                     "description": ""
                 },
                 {

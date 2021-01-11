@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "String url = \"http://i.imgur.com/HZ1hq.jpg\";\nString name = \"lineadecodigo.jpg\";\n\nString folder = \"descargas/\";\nFile dir = new File(folder);\nFile file = new File(folder + name);\n\ntry {\n URLConnection conn = new URL(url).openConnection();\n conn.connect();\n\n InputStream in = conn.getInputStream();\n OutputStream out = new FileOutputStream(file);\n\n int b = 0;\n while (b\u00a0!= -1) {\n   b = in.read();\n   if (b\u00a0!= -1)\n     out.write(b);\n }\n\n out.close();\n in.close();\n} catch (MalformedURLException e) {\n System.out.println(\"la url: \" + url + \" no es valida!\");\n} catch (IOException e) {\n e.printStackTrace();\n}\n",
     "ldc": [],
     "constructores": [
         {
@@ -20,11 +20,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String value",
+                    "nombre": "String key",
                     "description": ""
                 },
                 {
-                    "nombre": "String key",
+                    "nombre": "String value",
                     "description": ""
                 }
             ]
@@ -116,11 +116,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int n",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "int n",
                     "description": ""
                 }
             ]
@@ -292,11 +292,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String value",
+                    "nombre": "String key",
                     "description": ""
                 },
                 {
-                    "nombre": "String key",
+                    "nombre": "String value",
                     "description": ""
                 }
             ]
@@ -306,11 +306,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean defaultVal",
+                    "nombre": "String protocol",
                     "description": ""
                 },
                 {
-                    "nombre": "String protocol",
+                    "nombre": "boolean defaultVal",
                     "description": ""
                 },
                 {
@@ -374,11 +374,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String value",
+                    "nombre": "String key",
                     "description": ""
                 },
                 {
-                    "nombre": "String key",
+                    "nombre": "String value",
                     "description": ""
                 }
             ]

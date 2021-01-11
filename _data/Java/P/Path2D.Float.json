@@ -8,19 +8,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int initialCapacity",
-                    "description": ""
-                },
-                {
-                    "nombre": "int rule",
-                    "description": ""
-                },
-                {
                     "nombre": "AffineTransform at",
                     "description": ""
                 },
                 {
+                    "nombre": "int initialCapacity",
+                    "description": ""
+                },
+                {
                     "nombre": "Shape s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rule",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PathIterator pi",
+                    "nombre": "boolean connect",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean connect",
+                    "nombre": "PathIterator pi",
                     "description": ""
                 }
             ]
@@ -50,27 +50,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y1",
-                    "description": ""
-                },
-                {
-                    "nombre": "double x2",
-                    "description": ""
-                },
-                {
-                    "nombre": "float x3",
+                    "nombre": "float y2",
                     "description": ""
                 },
                 {
                     "nombre": "double x3",
-                    "description": ""
-                },
-                {
-                    "nombre": "float y3",
-                    "description": ""
-                },
-                {
-                    "nombre": "float y2",
                     "description": ""
                 },
                 {
@@ -82,7 +66,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double y2",
+                    "description": ""
+                },
+                {
                     "nombre": "float x1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
                     "description": ""
                 },
                 {
@@ -90,11 +86,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double y2",
+                    "nombre": "float x3",
                     "description": ""
                 },
                 {
-                    "nombre": "float y1",
+                    "nombre": "double x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y3",
                     "description": ""
                 }
             ]
@@ -118,11 +118,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
-                    "description": ""
-                },
-                {
-                    "nombre": "float y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -130,7 +126,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
                     "description": ""
                 }
             ]
@@ -140,11 +140,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y",
-                    "description": ""
-                },
-                {
-                    "nombre": "float y",
+                    "nombre": "double x",
                     "description": ""
                 },
                 {
@@ -152,7 +148,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "float y",
                     "description": ""
                 }
             ]
@@ -162,19 +162,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double y1",
-                    "description": ""
-                },
-                {
-                    "nombre": "double x2",
-                    "description": ""
-                },
-                {
                     "nombre": "float y2",
-                    "description": ""
-                },
-                {
-                    "nombre": "double x1",
                     "description": ""
                 },
                 {
@@ -182,7 +170,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float x2",
+                    "nombre": "double x1",
                     "description": ""
                 },
                 {
@@ -191,6 +179,18 @@
                 },
                 {
                     "nombre": "float y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y1",
+                    "description": ""
+                },
+                {
+                    "nombre": "float x2",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x2",
                     "description": ""
                 }
             ]

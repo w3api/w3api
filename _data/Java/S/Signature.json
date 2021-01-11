@@ -78,11 +78,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PublicKey publicKey",
+                    "nombre": "Certificate certificate",
                     "description": ""
                 },
                 {
-                    "nombre": "Certificate certificate",
+                    "nombre": "PublicKey publicKey",
                     "description": ""
                 }
             ]
@@ -92,7 +92,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String param",
+                    "nombre": "AlgorithmParameterSpec params",
                     "description": ""
                 },
                 {
@@ -100,7 +100,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "AlgorithmParameterSpec params",
+                    "nombre": "String param",
                     "description": ""
                 }
             ]
@@ -110,7 +110,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] outbuf",
+                    "nombre": "int len",
                     "description": ""
                 },
                 {
@@ -118,7 +118,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int len",
+                    "nombre": "byte[] outbuf",
                     "description": ""
                 }
             ]
@@ -132,6 +132,14 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "ByteBuffer data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
                     "nombre": "byte b",
                     "description": ""
                 },
@@ -140,15 +148,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ByteBuffer data",
-                    "description": ""
-                },
-                {
                     "nombre": "int off",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
                     "description": ""
                 }
             ]
@@ -158,15 +158,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
                     "nombre": "int offset",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] signature",
-                    "description": ""
-                },
-                {
-                    "nombre": "int length",
                     "description": ""
                 }
             ]

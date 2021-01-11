@@ -8,15 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "KerberosPrincipal client",
-                    "description": ""
-                },
-                {
-                    "nombre": "Date renewTill",
-                    "description": ""
-                },
-                {
-                    "nombre": "int keyType",
+                    "nombre": "KerberosPrincipal server",
                     "description": ""
                 },
                 {
@@ -24,11 +16,27 @@
                     "description": ""
                 },
                 {
-                    "nombre": "KerberosPrincipal server",
+                    "nombre": "byte[] asn1Encoding",
+                    "description": ""
+                },
+                {
+                    "nombre": "KerberosPrincipal client",
                     "description": ""
                 },
                 {
                     "nombre": "byte[] sessionKey",
+                    "description": ""
+                },
+                {
+                    "nombre": "Date renewTill",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress[] clientAddresses",
+                    "description": ""
+                },
+                {
+                    "nombre": "int keyType",
                     "description": ""
                 },
                 {
@@ -41,14 +49,6 @@
                 },
                 {
                     "nombre": "Date authTime",
-                    "description": ""
-                },
-                {
-                    "nombre": "InetAddress[] clientAddresses",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] asn1Encoding",
                     "description": ""
                 }
             ]

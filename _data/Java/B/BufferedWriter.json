@@ -1,18 +1,23 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "Clase que nos permite escribir texto en un Outputstream, utilizando un buffer para proporcionar una escritura eficiente de caracteres, arrays y strings.\n",
+    "code": "// Validamos si existe el fichero\nString sFichero = \"fichero.txt\";\nFile fichero = new File(sFichero);\n\nif (fichero.exists())\n  System.out.println(\"El fichero \" + sFichero + \" ya existe\");\nelse {\n  try{\n     BufferedWriter bw = new BufferedWriter(new FileWriter(sFichero));\n\t\t\n     // Escribimos 10 filas\n     for (int x=0;x<10;x++)\n       bw.write(\"Fila numero \" + x + \"\\n\");\n\n     // Hay que cerrar el fichero\n     bw.close();\n  } catch (IOException ioe){\n     ioe.printStackTrace();\n  }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Vaciar el contenido de un fichero con Java",
+            "url": "http://lineadecodigo.com/java/vaciar-el-contenido-de-un-fichero-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "BufferedWriter",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int sz",
+                    "nombre": "Writer out",
                     "description": ""
                 },
                 {
-                    "nombre": "Writer out",
+                    "nombre": "int sz",
                     "description": ""
                 }
             ]
@@ -29,14 +34,10 @@
         },
         {
             "nombre": "write",
-            "description": "",
+            "description": "M\u00e9todo que nos permite escribir contenido sobre un buffer de escritura.\n",
             "parametros": [
                 {
                     "nombre": "String s",
-                    "description": ""
-                },
-                {
-                    "nombre": "char[] cbuf",
                     "description": ""
                 },
                 {
@@ -44,12 +45,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int off",
+                    "nombre": "char[] cbuf",
                     "description": ""
                 },
                 {
                     "nombre": "int len",
                     "description": ""
+                },
+                {
+                    "nombre": "int off",
+                    "description": ""
+                }
+            ],
+            "code": "// Validamos si existe el fichero\nString sFichero = \"fichero.txt\";\nFile fichero = new File(sFichero);\n\nif (fichero.exists())\n  System.out.println(\"El fichero \" + sFichero + \" ya existe\");\nelse {\n  try{\n     BufferedWriter bw = new BufferedWriter(new FileWriter(sFichero));\n\t\t\n     // Escribimos 10 filas\n     for (int x=0;x<10;x++)\n       bw.write(\"Fila numero \" + x + \"\\n\");\n\n     // Hay que cerrar el fichero\n     bw.close();\n  } catch (IOException ioe){\n     ioe.printStackTrace();\n  }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Vaciar el contenido de un fichero con Java",
+                    "url": "http://lineadecodigo.com/java/vaciar-el-contenido-de-un-fichero-con-java/"
                 }
             ]
         }

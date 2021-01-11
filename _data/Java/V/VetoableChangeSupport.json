@@ -20,11 +20,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "VetoableChangeListener listener",
+                    "nombre": "String propertyName",
                     "description": ""
                 },
                 {
-                    "nombre": "String propertyName",
+                    "nombre": "VetoableChangeListener listener",
                     "description": ""
                 }
             ]
@@ -34,6 +34,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                },
+                {
                     "nombre": "PropertyChangeEvent event",
                     "description": ""
                 },
@@ -42,11 +46,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "int oldValue",
+                    "nombre": "String propertyName",
                     "description": ""
                 },
                 {
@@ -54,11 +54,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String propertyName",
+                    "nombre": "int newValue",
                     "description": ""
                 },
                 {
-                    "nombre": "int newValue",
+                    "nombre": "int oldValue",
                     "description": ""
                 },
                 {
@@ -92,11 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "VetoableChangeListener listener",
+                    "nombre": "String propertyName",
                     "description": ""
                 },
                 {
-                    "nombre": "String propertyName",
+                    "nombre": "VetoableChangeListener listener",
                     "description": ""
                 }
             ]

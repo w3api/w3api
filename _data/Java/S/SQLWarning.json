@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "public class WarningSQL {\n\n  public static void main(String[] args) {\n    Connection con = null;\n    PreparedStatement stmt = null;\n    ResultSet rs = null;\n\n    String sDriver = \"com.mysql.jdbc.Driver\";\n    String sURL = \"jdbc:mysql://localhost:3306/lineadecodigo\";\n\t    \n    Properties p = new Properties();\n    p.put(\"user\", \"root\");\n    p.put(\"password\",\"\");\n    p.put(\"jdbcCompliantTruncation\",\"false\");\n\n    try {\n      Class.forName(sDriver).newInstance();    \n      con = DriverManager.getConnection(sURL,p);\t      \n\n      try {\n        stmt = con.prepareStatement(\"CREATE TABLE t1 (a TINYINT NOT NULL, b CHAR(4))\");  \n        stmt.execute(); \n        stmt.close();\n\n        stmt = con.prepareStatement(\"INSERT INTO t1 VALUES(10,'mysql'), (NULL,'test'), (300,'xyz')\");\n        stmt.execute();\t       \n\t        \n        SQLWarning warning = stmt.getWarnings();\n        while (warning\u00a0!= null) {\n          System.out.println(\"Warning\");\n          System.out.println(\"Message: \" + warning.getMessage());\n          System.out.println(\"SQLState: \" + warning.getSQLState());\n          System.out.print(\"Vendor error code: \");\n          System.out.println(warning.getErrorCode());\n          System.out.println(\"\");\n          warning = warning.getNextWarning();\n        }\n         \n        stmt.close();\n\n        stmt = con.prepareStatement(\"DROP TABLE t1 \");  \n        stmt.execute(); \n        stmt.close();  \n      } catch (SQLException sqle) { \n        System.out.println(\"Error en la ejecuci\u00f3n: \" \n          + sqle.getErrorCode() + \" \" + sqle.getMessage());    \n      }\n\n    } catch (Exception e) { \n      System.out.println(\"Error en la conexi\u00f3n: \" + e.toString() );\n    } finally {\n      try {\n        if (rs!=null) rs.close();\n        if (stmt!=null) stmt.close();\n        if (con!=null) con.close();    \n      } catch (Exception e) {\n        System.out.println(\"Error cerrando conexiones: \" + e.toString());\n      } \n    } \n   }\n}\n",
     "ldc": [],
     "constructores": [
         {
@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String reason",
+                    "description": ""
+                },
+                {
                     "nombre": "Throwable cause",
                     "description": ""
                 },
                 {
                     "nombre": "String SQLState",
-                    "description": ""
-                },
-                {
-                    "nombre": "String reason",
                     "description": ""
                 },
                 {
@@ -29,7 +29,9 @@
     "metodos": [
         {
             "nombre": "getNextWarning",
-            "description": ""
+            "description": "M\u00e9todo que devuelve el siguiente warning en la cadena de warnings. En el caso de que no haya m\u00e1s warnings se devuelve null.\n",
+            "code": "public class WarningSQL {\n\n  public static void main(String[] args) {\n    Connection con = null;\n    PreparedStatement stmt = null;\n    ResultSet rs = null;\n\n    String sDriver = \"com.mysql.jdbc.Driver\";\n    String sURL = \"jdbc:mysql://localhost:3306/lineadecodigo\";\n\t    \n    Properties p = new Properties();\n    p.put(\"user\", \"root\");\n    p.put(\"password\",\"\");\n    p.put(\"jdbcCompliantTruncation\",\"false\");\n\n    try {\n      Class.forName(sDriver).newInstance();    \n      con = DriverManager.getConnection(sURL,p);\t      \n\n      try {\n        stmt = con.prepareStatement(\"CREATE TABLE t1 (a TINYINT NOT NULL, b CHAR(4))\");  \n        stmt.execute(); \n        stmt.close();\n\n        stmt = con.prepareStatement(\"INSERT INTO t1 VALUES(10,'mysql'), (NULL,'test'), (300,'xyz')\");\n        stmt.execute();\t       \n\t        \n        SQLWarning warning = stmt.getWarnings();\n        while (warning\u00a0!= null) {\n          System.out.println(\"Warning\");\n          System.out.println(\"Message: \" + warning.getMessage());\n          System.out.println(\"SQLState: \" + warning.getSQLState());\n          System.out.print(\"Vendor error code: \");\n          System.out.println(warning.getErrorCode());\n          System.out.println(\"\");\n          warning = warning.getNextWarning();\n        }\n         \n        stmt.close();\n\n        stmt = con.prepareStatement(\"DROP TABLE t1 \");  \n        stmt.execute(); \n        stmt.close();  \n      } catch (SQLException sqle) { \n        System.out.println(\"Error en la ejecuci\u00f3n: \" \n          + sqle.getErrorCode() + \" \" + sqle.getMessage());    \n      }\n\n    } catch (Exception e) { \n      System.out.println(\"Error en la conexi\u00f3n: \" + e.toString() );\n    } finally {\n      try {\n        if (rs!=null) rs.close();\n        if (stmt!=null) stmt.close();\n        if (con!=null) con.close();    \n      } catch (Exception e) {\n        System.out.println(\"Error cerrando conexiones: \" + e.toString());\n      } \n    } \n   }\n}\n",
+            "ldc": []
         },
         {
             "nombre": "setNextWarning",

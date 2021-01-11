@@ -1,7 +1,12 @@
 {
-    "description": "",
+    "description": "No tiene.\n",
     "code": "",
-    "ldc": [],
+    "ldc": [
+        {
+            "nombre": "Obtener el nombre e IP del servidor con Java",
+            "url": "http://lineadecodigo.com/java/obtener-el-nombre-e-ip-del-servidor-con-java/"
+        }
+    ],
     "metodos": [
         {
             "nombre": "equals",
@@ -15,7 +20,14 @@
         },
         {
             "nombre": "getAddress",
-            "description": ""
+            "description": "Devuelve la IP del servidor instanciado en la clase InetAdress\n",
+            "code": "try {\n  InetAddress address = InetAddress.getLocalHost();\n  byte[] bIPAddress = address.getAddress();\t   \n  String sIPAddress = \"\";\n\n  for (int x=0; x<bIPAddress.length; x++) {\n     if (x > 0) {\n        sIPAddress += \".\";\n     }\n     sIPAddress += bIPAddress[x] & 255;   \n  }\n\n  System.out.println(\"IP de la maquina local:\" + sIPAddress);\n\t   \n} catch (UnknownHostException e) {\n  System.out.println(e.toString());\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Obtener el nombre e IP del servidor con Java",
+                    "url": "http://lineadecodigo.com/java/obtener-el-nombre-e-ip-del-servidor-con-java/"
+                }
+            ]
         },
         {
             "nombre": "getAllByName",
@@ -32,24 +44,26 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String host",
+                    "nombre": "byte[] addr",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] addr",
+                    "nombre": "String host",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "getByName",
-            "description": "",
+            "description": "Dado el nombre de un host, nos devuelve su direcci\u00f3n IP.\n",
             "parametros": [
                 {
                     "nombre": "String host",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "public static String obtenerHost(String sIP) {\n  try {\n    InetAddress addr = InetAddress.getByName(sIP);\n    String hostname = addr.getHostName();\n    return hostname;\n  } catch (UnknownHostException e) { return \"Error en la obtenci\u00f3n del nombre del host\"; }\n}\n",
+            "ldc": []
         },
         {
             "nombre": "getCanonicalHostName",
@@ -61,11 +75,20 @@
         },
         {
             "nombre": "getHostName",
-            "description": ""
+            "description": "Devuelve el nombre del servidor de la IP que tenga la clase InetAddress.\n",
+            "code": "InetAddress address = InetAddress.getLocalHost();\nString sHostName;\nsHostName = address.getHostName();\n",
+            "ldc": []
         },
         {
             "nombre": "getLocalHost",
-            "description": ""
+            "description": "Devuelve el servidor local.\n",
+            "code": "InetAddress address = InetAddress.getLocalHost();\nString sHostName;\nsHostName = address.getHostName();\n",
+            "ldc": [
+                {
+                    "nombre": "Obtener el nombre e IP del servidor con Java",
+                    "url": "http://lineadecodigo.com/java/obtener-el-nombre-e-ip-del-servidor-con-java/"
+                }
+            ]
         },
         {
             "nombre": "getLoopbackAddress",
@@ -116,11 +139,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int ttl",
+                    "nombre": "int timeout",
                     "description": ""
                 },
                 {
-                    "nombre": "int timeout",
+                    "nombre": "int ttl",
                     "description": ""
                 },
                 {

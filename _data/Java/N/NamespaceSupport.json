@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String prefix",
+                    "nombre": "String uri",
                     "description": ""
                 },
                 {
-                    "nombre": "String uri",
+                    "nombre": "String prefix",
                     "description": ""
                 }
             ]
@@ -70,15 +70,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean isAttribute",
+                    "description": ""
+                },
+                {
                     "nombre": "String[] parts",
                     "description": ""
                 },
                 {
                     "nombre": "String qName",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isAttribute",
                     "description": ""
                 }
             ]

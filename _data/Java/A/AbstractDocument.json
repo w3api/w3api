@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AbstractDocument.AttributeContext context",
+                    "nombre": "AbstractDocument.Content data",
                     "description": ""
                 },
                 {
-                    "nombre": "AbstractDocument.Content data",
+                    "nombre": "AbstractDocument.AttributeContext context",
                     "description": ""
                 }
             ]
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributeSet a",
+                    "nombre": "Element parent",
                     "description": ""
                 },
                 {
-                    "nombre": "Element parent",
+                    "nombre": "AttributeSet a",
                     "description": ""
                 }
             ]
@@ -58,15 +58,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributeSet a",
-                    "description": ""
-                },
-                {
                     "nombre": "Element parent",
                     "description": ""
                 },
                 {
                     "nombre": "int p1",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet a",
                     "description": ""
                 },
                 {
@@ -222,7 +222,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "Segment txt",
                     "description": ""
                 },
                 {
@@ -230,7 +230,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Segment txt",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -244,15 +244,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AttributeSet a",
-                    "description": ""
-                },
-                {
                     "nombre": "String str",
                     "description": ""
                 },
                 {
                     "nombre": "int offs",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet a",
                     "description": ""
                 }
             ]
@@ -262,11 +262,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
+                    "nombre": "AttributeSet attr",
                     "description": ""
                 },
                 {
-                    "nombre": "AttributeSet attr",
+                    "nombre": "AbstractDocument.DefaultDocumentEvent chng",
                     "description": ""
                 }
             ]
@@ -286,11 +286,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object value",
+                    "nombre": "Object key",
                     "description": ""
                 },
                 {
-                    "nombre": "Object key",
+                    "nombre": "Object value",
                     "description": ""
                 }
             ]
@@ -362,19 +362,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "String text",
                     "description": ""
                 },
                 {
-                    "nombre": "AttributeSet attrs",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "AttributeSet attrs",
                     "description": ""
                 }
             ]
@@ -404,11 +404,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Dictionary<Object",
+                    "nombre": "Object> x",
                     "description": ""
                 },
                 {
-                    "nombre": "Object> x",
+                    "nombre": "Dictionary<Object",
                     "description": ""
                 }
             ]

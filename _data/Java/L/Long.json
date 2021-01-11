@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "Long refLong = new Long(123L);\nlong l = refLong.longValue();\n",
     "ldc": [],
     "constructores": [
         {
@@ -86,11 +86,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long divisor",
+                    "nombre": "long dividend",
                     "description": ""
                 },
                 {
-                    "nombre": "long dividend",
+                    "nombre": "long divisor",
                     "description": ""
                 }
             ]
@@ -118,7 +118,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String nm",
+                    "nombre": "long val",
                     "description": ""
                 },
                 {
@@ -126,7 +126,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long val",
+                    "nombre": "String nm",
                     "description": ""
                 }
             ]
@@ -174,11 +174,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long a",
+                    "nombre": "long b",
                     "description": ""
                 },
                 {
-                    "nombre": "long b",
+                    "nombre": "long a",
                     "description": ""
                 }
             ]
@@ -188,11 +188,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long a",
+                    "nombre": "long b",
                     "description": ""
                 },
                 {
-                    "nombre": "long b",
+                    "nombre": "long a",
                     "description": ""
                 }
             ]
@@ -222,11 +222,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CharSequence s",
+                    "nombre": "String s",
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "int beginIndex",
                     "description": ""
                 },
                 {
@@ -234,11 +234,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int endIndex",
+                    "nombre": "CharSequence s",
                     "description": ""
                 },
                 {
-                    "nombre": "int beginIndex",
+                    "nombre": "int endIndex",
                     "description": ""
                 }
             ]
@@ -248,11 +248,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CharSequence s",
+                    "nombre": "String s",
                     "description": ""
                 },
                 {
-                    "nombre": "String s",
+                    "nombre": "int beginIndex",
                     "description": ""
                 },
                 {
@@ -260,11 +260,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int endIndex",
+                    "nombre": "CharSequence s",
                     "description": ""
                 },
                 {
-                    "nombre": "int beginIndex",
+                    "nombre": "int endIndex",
                     "description": ""
                 }
             ]
@@ -274,11 +274,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long divisor",
+                    "nombre": "long dividend",
                     "description": ""
                 },
                 {
-                    "nombre": "long dividend",
+                    "nombre": "long divisor",
                     "description": ""
                 }
             ]
@@ -308,11 +308,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int distance",
+                    "nombre": "long i",
                     "description": ""
                 },
                 {
-                    "nombre": "long i",
+                    "nombre": "int distance",
                     "description": ""
                 }
             ]
@@ -322,11 +322,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int distance",
+                    "nombre": "long i",
                     "description": ""
                 },
                 {
-                    "nombre": "long i",
+                    "nombre": "int distance",
                     "description": ""
                 }
             ]
@@ -350,11 +350,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long a",
+                    "nombre": "long b",
                     "description": ""
                 },
                 {
-                    "nombre": "long b",
+                    "nombre": "long a",
                     "description": ""
                 }
             ]
@@ -394,11 +394,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int radix",
+                    "nombre": "long i",
                     "description": ""
                 },
                 {
-                    "nombre": "long i",
+                    "nombre": "int radix",
                     "description": ""
                 }
             ]
@@ -408,11 +408,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int radix",
+                    "nombre": "long i",
                     "description": ""
                 },
                 {
-                    "nombre": "long i",
+                    "nombre": "int radix",
                     "description": ""
                 }
             ]
@@ -422,7 +422,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int radix",
+                    "nombre": "long l",
                     "description": ""
                 },
                 {
@@ -430,7 +430,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long l",
+                    "nombre": "int radix",
                     "description": ""
                 }
             ]

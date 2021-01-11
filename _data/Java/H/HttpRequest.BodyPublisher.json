@@ -12,7 +12,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "byte[] buf",
                     "description": ""
                 },
                 {
@@ -20,7 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] buf",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -74,7 +74,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String s",
+                    "nombre": "Charset charset",
                     "description": ""
                 },
                 {
@@ -82,7 +82,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Charset charset",
+                    "nombre": "String s",
                     "description": ""
                 }
             ]

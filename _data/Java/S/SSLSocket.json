@@ -8,15 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int clientPort",
-                    "description": ""
-                },
-                {
                     "nombre": "InetAddress address",
                     "description": ""
                 },
                 {
-                    "nombre": "InetAddress clientAddress",
+                    "nombre": "int clientPort",
                     "description": ""
                 },
                 {
@@ -25,6 +21,10 @@
                 },
                 {
                     "nombre": "int port",
+                    "description": ""
+                },
+                {
+                    "nombre": "InetAddress clientAddress",
                     "description": ""
                 }
             ]
@@ -142,11 +142,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String> selector",
+                    "nombre": "List<String>",
                     "description": ""
                 },
                 {
-                    "nombre": "List<String>",
+                    "nombre": "String> selector",
                     "description": ""
                 },
                 {

@@ -26,7 +26,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "InputStream s",
+                    "nombre": "String fileName",
+                    "description": ""
+                },
+                {
+                    "nombre": "int cspace",
                     "description": ""
                 },
                 {
@@ -34,11 +38,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String fileName",
-                    "description": ""
-                },
-                {
-                    "nombre": "int cspace",
+                    "nombre": "InputStream s",
                     "description": ""
                 }
             ]
@@ -86,11 +86,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String fileName",
+                    "nombre": "OutputStream s",
                     "description": ""
                 },
                 {
-                    "nombre": "OutputStream s",
+                    "nombre": "String fileName",
                     "description": ""
                 }
             ]

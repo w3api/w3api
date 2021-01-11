@@ -8,7 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double deltaX",
+                    "nombre": "PickResult pickResult",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean direct",
                     "description": ""
                 },
                 {
@@ -16,15 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "PickResult pickResult",
+                    "nombre": "double textDeltaY",
                     "description": ""
                 },
                 {
-                    "nombre": "Object source",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean altDown",
+                    "nombre": "ScrollEvent.VerticalTextScrollUnits textDeltaYUnits",
                     "description": ""
                 },
                 {
@@ -36,23 +36,31 @@
                     "description": ""
                 },
                 {
+                    "nombre": "boolean shiftDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean metaDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "int touchCount",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean inertia",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventType<ScrollEvent> eventType",
+                    "description": ""
+                },
+                {
                     "nombre": "ScrollEvent.HorizontalTextScrollUnits textDeltaXUnits",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventTarget target",
-                    "description": ""
-                },
-                {
-                    "nombre": "double multiplierY",
-                    "description": ""
-                },
-                {
-                    "nombre": "double textDeltaX",
-                    "description": ""
-                },
-                {
-                    "nombre": "double screenY",
                     "description": ""
                 },
                 {
@@ -64,47 +72,39 @@
                     "description": ""
                 },
                 {
+                    "nombre": "boolean altDown",
+                    "description": ""
+                },
+                {
+                    "nombre": "EventTarget target",
+                    "description": ""
+                },
+                {
+                    "nombre": "double screenY",
+                    "description": ""
+                },
+                {
                     "nombre": "double multiplierX",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean inertia",
+                    "nombre": "double multiplierY",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean direct",
+                    "nombre": "Object source",
                     "description": ""
                 },
                 {
-                    "nombre": "double x",
+                    "nombre": "double textDeltaX",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean shiftDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "ScrollEvent.VerticalTextScrollUnits textDeltaYUnits",
-                    "description": ""
-                },
-                {
-                    "nombre": "double textDeltaY",
+                    "nombre": "double deltaX",
                     "description": ""
                 },
                 {
                     "nombre": "double y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int touchCount",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean metaDown",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventType<ScrollEvent> eventType",
                     "description": ""
                 }
             ]
@@ -116,15 +116,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "EventType<ScrollEvent> type",
+                    "description": ""
+                },
+                {
                     "nombre": "Object newSource",
                     "description": ""
                 },
                 {
                     "nombre": "EventTarget newTarget",
-                    "description": ""
-                },
-                {
-                    "nombre": "EventType<ScrollEvent> type",
                     "description": ""
                 }
             ]

@@ -8,27 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int imageType",
-                    "description": ""
-                },
-                {
-                    "nombre": "WritableRaster raster",
-                    "description": ""
-                },
-                {
-                    "nombre": "Hashtable<?",
-                    "description": ""
-                },
-                {
                     "nombre": "?> properties",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isRasterPremultiplied",
-                    "description": ""
-                },
-                {
-                    "nombre": "int height",
                     "description": ""
                 },
                 {
@@ -36,11 +16,31 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Hashtable<?",
+                    "description": ""
+                },
+                {
+                    "nombre": "int height",
+                    "description": ""
+                },
+                {
                     "nombre": "int width",
                     "description": ""
                 },
                 {
+                    "nombre": "WritableRaster raster",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isRasterPremultiplied",
+                    "description": ""
+                },
+                {
                     "nombre": "IndexColorModel cm",
+                    "description": ""
+                },
+                {
+                    "nombre": "int imageType",
                     "description": ""
                 }
             ]
@@ -164,7 +164,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] rgbArray",
+                    "nombre": "int startX",
                     "description": ""
                 },
                 {
@@ -172,7 +172,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "int[] rgbArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -184,19 +188,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int startY",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int startX",
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startY",
                     "description": ""
                 }
             ]
@@ -218,11 +218,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int h",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -230,7 +230,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -240,11 +240,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int tileX",
+                    "nombre": "int tileY",
                     "description": ""
                 },
                 {
-                    "nombre": "int tileY",
+                    "nombre": "int tileX",
                     "description": ""
                 }
             ]
@@ -288,11 +288,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int tileX",
+                    "nombre": "int tileY",
                     "description": ""
                 },
                 {
-                    "nombre": "int tileY",
+                    "nombre": "int tileX",
                     "description": ""
                 }
             ]
@@ -314,11 +314,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int tileX",
+                    "nombre": "int tileY",
                     "description": ""
                 },
                 {
-                    "nombre": "int tileY",
+                    "nombre": "int tileX",
                     "description": ""
                 }
             ]
@@ -328,11 +328,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int tileX",
+                    "nombre": "int tileY",
                     "description": ""
                 },
                 {
-                    "nombre": "int tileY",
+                    "nombre": "int tileX",
                     "description": ""
                 }
             ]
@@ -362,7 +362,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] rgbArray",
+                    "nombre": "int startX",
                     "description": ""
                 },
                 {
@@ -370,23 +370,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int scansize",
-                    "description": ""
-                },
-                {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "int startY",
-                    "description": ""
-                },
-                {
-                    "nombre": "int rgb",
+                    "nombre": "int[] rgbArray",
                     "description": ""
                 },
                 {
@@ -394,11 +378,27 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int startX",
+                    "nombre": "int scansize",
+                    "description": ""
+                },
+                {
+                    "nombre": "int rgb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int startY",
                     "description": ""
                 }
             ]

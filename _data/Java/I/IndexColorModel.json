@@ -8,7 +8,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean hasalpha",
+                    "nombre": "byte[] r",
+                    "description": ""
+                },
+                {
+                    "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "int transferType",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
                     "description": ""
                 },
                 {
@@ -20,15 +32,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] g",
-                    "description": ""
-                },
-                {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] cmap",
+                    "nombre": "int[] cmap",
                     "description": ""
                 },
                 {
@@ -36,19 +40,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] cmap",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] r",
-                    "description": ""
-                },
-                {
                     "nombre": "byte[] a",
                     "description": ""
                 },
                 {
-                    "nombre": "int size",
+                    "nombre": "boolean hasalpha",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] g",
                     "description": ""
                 },
                 {
@@ -56,7 +56,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int transferType",
+                    "nombre": "byte[] cmap",
                     "description": ""
                 }
             ]
@@ -68,11 +68,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Raster raster",
+                    "nombre": "boolean forceARGB",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean forceARGB",
+                    "nombre": "Raster raster",
                     "description": ""
                 }
             ]
@@ -164,7 +164,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object pixel",
+                    "nombre": "int[] components",
+                    "description": ""
+                },
+                {
+                    "nombre": "int pixel",
                     "description": ""
                 },
                 {
@@ -172,11 +176,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] components",
-                    "description": ""
-                },
-                {
-                    "nombre": "int pixel",
+                    "nombre": "Object pixel",
                     "description": ""
                 }
             ]
@@ -190,11 +190,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "int[] components",
                     "description": ""
                 },
                 {
-                    "nombre": "int[] components",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -204,19 +204,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "int[] components",
                     "description": ""
                 },
                 {
-                    "nombre": "Object pixel",
+                    "nombre": "int rgb",
                     "description": ""
                 },
                 {
-                    "nombre": "int rgb",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object pixel",
                     "description": ""
                 }
             ]

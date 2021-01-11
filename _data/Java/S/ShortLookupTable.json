@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "short[][] data",
                     "description": ""
                 },
                 {
@@ -16,7 +16,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "short[][] data",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -32,11 +32,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "short[] src",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] dst",
+                    "nombre": "short[] dst",
                     "description": ""
                 },
                 {
@@ -44,7 +40,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "short[] dst",
+                    "nombre": "int[] dst",
+                    "description": ""
+                },
+                {
+                    "nombre": "short[] src",
                     "description": ""
                 }
             ]

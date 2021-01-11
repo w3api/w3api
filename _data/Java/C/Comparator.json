@@ -1,19 +1,31 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "class Comparador implements Comparator<String> {\n  public int compare(String s1, String s2) {        \t\n     return s1.toLowerCase().compareTo(s2.toLowerCase());\n  }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Ordenar un Vector de forma alfab\u00e9tica con Java",
+            "url": "http://lineadecodigo.com/2009/03/25/ordenar-un-vector-de-forma-alfabetica-con-java/"
+        }
+    ],
     "metodos": [
         {
             "nombre": "compare",
-            "description": "",
+            "description": "M\u00e9todo que compara dos objetos para la ordenaci\u00f3n. Los dos objetos son del tipo gen\u00e9rico definido por el Interface Comparator. Este m\u00e9todo deber\u00e1 de devolver un valor negativo si el primer argumento es menor que el segundo, un cero si los dos argumentos son iguales y un n\u00famero positivo sin el primer elemento es mayor que el segundo.\n",
             "parametros": [
-                {
-                    "nombre": "T o2",
-                    "description": ""
-                },
                 {
                     "nombre": "T o1",
                     "description": ""
+                },
+                {
+                    "nombre": "T o2",
+                    "description": ""
+                }
+            ],
+            "code": "public int compare(String s1, String s2) {        \t\n  return s1.toLowerCase().compareTo(s2.toLowerCase());\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Ordenar un Vector de forma alfab\u00e9tica con Java",
+                    "url": "http://lineadecodigo.com/2009/03/25/ordenar-un-vector-de-forma-alfabetica-con-java/"
                 }
             ]
         },

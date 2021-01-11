@@ -18,11 +18,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String columnName",
+                    "nombre": "int idx",
                     "description": ""
                 },
                 {
-                    "nombre": "int idx",
+                    "nombre": "String columnName",
                     "description": ""
                 }
             ]
@@ -98,15 +98,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int startRow",
+                    "description": ""
+                },
+                {
                     "nombre": "ResultSet rs",
                     "description": ""
                 },
                 {
                     "nombre": "ResultSet data",
-                    "description": ""
-                },
-                {
-                    "nombre": "int startRow",
                     "description": ""
                 }
             ]
@@ -138,11 +138,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int numRows",
+                    "nombre": "RowSetEvent event",
                     "description": ""
                 },
                 {
-                    "nombre": "RowSetEvent event",
+                    "nombre": "int numRows",
                     "description": ""
                 }
             ]
@@ -220,11 +220,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String column",
+                    "nombre": "int column",
                     "description": ""
                 },
                 {
-                    "nombre": "int column",
+                    "nombre": "String column",
                     "description": ""
                 }
             ]

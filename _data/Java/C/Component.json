@@ -1,7 +1,16 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "\n",
+    "code": "/** Formulario B\u00e1sico con Swing **/\npublic class FormularioBasicoSwing extends JFrame {\n\n private static final long serialVersionUID = 1L;\n\n  public FormularioBasicoSwing() {\n    super(\"Formulario B\u00e1sico\");\t\n\n    getContentPane().setLayout(new FlowLayout());\n\n    JLabel label = new JLabel(\"Introduce tu nombre:\");\n    JTextField textfield = new JTextField(\"nombre\",20);\n    JButton boton = new JButton(\"Enviar\");\n    getContentPane().add(label);\n    getContentPane().add(textfield);\n    getContentPane().add(boton);\n\t\t\n    setSize(400,300);\n    setVisible(true);\n  }\n\t\n public static void main(String argv[]) {\n    new FormularioBasicoSwing();\n }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Hola Mundo con Swing",
+            "url": "http://lineadecodigo.com/java/hola-mundo-con-swing/"
+        },
+        {
+            "nombre": "Formulario B\u00e1sico con Java Swing",
+            "url": "http://lineadecodigo.com/java/formulario-basico-con-java-swing/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Component",
@@ -11,7 +20,7 @@
     "metodos": [
         {
             "nombre": "action",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Event evt",
@@ -21,115 +30,139 @@
                     "nombre": "Object what",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "add",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "PopupMenu popup",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "addComponentListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "ComponentListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "addFocusListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "FocusListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "addHierarchyBoundsListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "HierarchyBoundsListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "addHierarchyListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "HierarchyListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "addInputMethodListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "InputMethodListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "addKeyListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "KeyListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "addMouseListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "MouseListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "addMouseMotionListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "MouseMotionListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "addMouseWheelListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "MouseWheelListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "addNotify",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "addPropertyChangeListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "PropertyChangeListener listener",
@@ -139,17 +172,21 @@
                     "nombre": "String propertyName",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "applyComponentOrientation",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "ComponentOrientation orientation",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "areFocusTraversalKeysSet",
@@ -163,18 +200,16 @@
         },
         {
             "nombre": "bounds",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "checkImage",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Image image",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
                     "description": ""
                 },
                 {
@@ -182,29 +217,41 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ImageObserver observer",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "nombre": "coalesceEvents",
-            "description": "",
-            "parametros": [
-                {
-                    "nombre": "AWTEvent existingEvent",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
-                    "nombre": "AWTEvent newEvent",
+                    "nombre": "ImageObserver observer",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "coalesceEvents",
+            "description": "Component\n",
+            "parametros": [
+                {
+                    "nombre": "AWTEvent newEvent",
+                    "description": ""
+                },
+                {
+                    "nombre": "AWTEvent existingEvent",
+                    "description": ""
+                }
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "contains",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
                 {
                     "nombre": "Point p",
                     "description": ""
@@ -212,19 +259,17 @@
                 {
                     "nombre": "int y",
                     "description": ""
-                },
-                {
-                    "nombre": "int x",
-                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "createImage",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "ImageProducer producer",
                     "description": ""
                 },
                 {
@@ -232,101 +277,137 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ImageProducer producer",
+                    "nombre": "int width",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "createVolatileImage",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "ImageCapabilities caps",
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "deliverEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Event e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "disable",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "disableEvents",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "long eventsToDisable",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "dispatchEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "AWTEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "doLayout",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "enable",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "boolean b",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "enableEvents",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "long eventsToEnable",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "enableInputMethods",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "boolean enable",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "firePropertyChange",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
+                {
+                    "nombre": "Object oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "short newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "double newValue",
+                    "description": ""
+                },
                 {
                     "nombre": "Object newValue",
                     "description": ""
@@ -336,39 +417,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "int oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "String propertyName",
-                    "description": ""
-                },
-                {
-                    "nombre": "double oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "long oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "char oldValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "char newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "int newValue",
+                    "nombre": "float newValue",
                     "description": ""
                 },
                 {
@@ -376,23 +425,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float oldValue",
+                    "nombre": "double oldValue",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean oldValue",
+                    "nombre": "char oldValue",
                     "description": ""
                 },
                 {
-                    "nombre": "byte newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "short newValue",
-                    "description": ""
-                },
-                {
-                    "nombre": "double newValue",
+                    "nombre": "String propertyName",
                     "description": ""
                 },
                 {
@@ -400,37 +441,71 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float newValue",
+                    "nombre": "boolean newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "long oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "char newValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "int oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean oldValue",
+                    "description": ""
+                },
+                {
+                    "nombre": "float oldValue",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getAccessibleContext",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getAlignmentX",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getAlignmentY",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getBackground",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getBaseline",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -441,22 +516,30 @@
         },
         {
             "nombre": "getBounds",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Rectangle rv",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getColorModel",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getComponentAt",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
                 {
                     "nombre": "Point p",
                     "description": ""
@@ -464,64 +547,82 @@
                 {
                     "nombre": "int y",
                     "description": ""
-                },
-                {
-                    "nombre": "int x",
-                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getComponentListeners",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getComponentOrientation",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getCursor",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getDropTarget",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getFocusCycleRootAncestor",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getFocusListeners",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getFocusTraversalKeys",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "int id",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getFocusTraversalKeysEnabled",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getFont",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getFontMetrics",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Font font",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getForeground",
@@ -529,87 +630,123 @@
         },
         {
             "nombre": "getGraphics",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getGraphicsConfiguration",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getHeight",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getHierarchyBoundsListeners",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getHierarchyListeners",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getIgnoreRepaint",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getInputContext",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getInputMethodListeners",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getInputMethodRequests",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getKeyListeners",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getListeners",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Class<T> listenerType",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getLocale",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getLocation",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Point rv",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getLocationOnScreen",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getMaximumSize",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getMinimumSize",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getMouseListeners",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getMouseMotionListeners",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getMousePosition",
@@ -617,59 +754,81 @@
         },
         {
             "nombre": "getMouseWheelListeners",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getName",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getParent",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getPreferredSize",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getPropertyChangeListeners",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "String propertyName",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getSize",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Dimension rv",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getToolkit",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getTreeLock",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getWidth",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getX",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "getY",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "gotFocus",
@@ -697,22 +856,26 @@
         },
         {
             "nombre": "hasFocus",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "hide",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "imageUpdate",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
-                    "nombre": "int infoflags",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -724,70 +887,92 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int infoflags",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "inside",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
                 {
                     "nombre": "int x",
                     "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "invalidate",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isBackgroundSet",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isCursorSet",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isDisplayable",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isDoubleBuffered",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isEnabled",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isFocusable",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isFocusCycleRoot",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Container container",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isFocusOwner",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isFocusTraversable",
@@ -795,15 +980,21 @@
         },
         {
             "nombre": "isFontSet",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isForegroundSet",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isLightweight",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isMaximumSizeSet",
@@ -815,7 +1006,9 @@
         },
         {
             "nombre": "isOpaque",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isPreferredSizeSet",
@@ -823,26 +1016,32 @@
         },
         {
             "nombre": "isShowing",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isValid",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "isVisible",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "keyDown",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Event evt",
+                    "nombre": "int key",
                     "description": ""
                 },
                 {
-                    "nombre": "int key",
+                    "nombre": "Event evt",
                     "description": ""
                 }
             ]
@@ -852,11 +1051,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Event evt",
+                    "nombre": "int key",
                     "description": ""
                 },
                 {
-                    "nombre": "int key",
+                    "nombre": "Event evt",
                     "description": ""
                 }
             ]
@@ -867,35 +1066,39 @@
         },
         {
             "nombre": "list",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "PrintWriter out",
                     "description": ""
                 },
                 {
-                    "nombre": "PrintStream out",
+                    "nombre": "int indent",
                     "description": ""
                 },
                 {
-                    "nombre": "int indent",
+                    "nombre": "PrintStream out",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "locate",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
                 {
                     "nombre": "int x",
                     "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "location",
@@ -924,15 +1127,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "Event evt",
                     "description": ""
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -942,15 +1145,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "Event evt",
                     "description": ""
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -960,15 +1163,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "Event evt",
                     "description": ""
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -978,15 +1181,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "Event evt",
                     "description": ""
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -996,15 +1199,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "Event evt",
                     "description": ""
                 },
                 {
                     "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]
@@ -1014,32 +1217,34 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "Event evt",
                     "description": ""
                 },
                 {
                     "nombre": "int y",
                     "description": ""
-                },
-                {
-                    "nombre": "int x",
-                    "description": ""
                 }
             ]
         },
         {
             "nombre": "move",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
                 {
                     "nombre": "int x",
                     "description": ""
+                },
+                {
+                    "nombre": "int y",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "nextFocus",
@@ -1047,27 +1252,33 @@
         },
         {
             "nombre": "paint",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Graphics g",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "paintAll",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Graphics g",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "paramString",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "postEvent",
@@ -1085,14 +1296,10 @@
         },
         {
             "nombre": "prepareImage",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Image image",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
                     "description": ""
                 },
                 {
@@ -1100,238 +1307,290 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int width",
+                    "description": ""
+                },
+                {
                     "nombre": "ImageObserver observer",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "print",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Graphics g",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "printAll",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Graphics g",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "processComponentEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "ComponentEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "processEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "AWTEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "processFocusEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "FocusEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "processHierarchyBoundsEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "HierarchyEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "processHierarchyEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "HierarchyEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "processInputMethodEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "InputMethodEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "processKeyEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "KeyEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "processMouseEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "MouseEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "processMouseMotionEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "MouseEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "processMouseWheelEvent",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "MouseWheelEvent e",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "remove",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "MenuComponent popup",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "removeComponentListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "ComponentListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "removeFocusListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "FocusListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "removeHierarchyBoundsListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "HierarchyBoundsListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "removeHierarchyListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "HierarchyListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "removeInputMethodListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "InputMethodListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "removeKeyListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "KeyListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "removeMouseListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "MouseListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "removeMouseMotionListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "MouseMotionListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "removeMouseWheelListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "MouseWheelListener l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "removeNotify",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "removePropertyChangeListener",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "PropertyChangeListener listener",
@@ -1341,11 +1600,13 @@
                     "nombre": "String propertyName",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "repaint",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "int height",
@@ -1357,21 +1618,23 @@
                 },
                 {
                     "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
                     "nombre": "long tm",
                     "description": ""
-                },
-                {
-                    "nombre": "int x",
-                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "requestFocus",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "boolean temporary",
@@ -1381,11 +1644,13 @@
                     "nombre": "FocusEvent.Cause cause",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "requestFocusInWindow",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "boolean temporary",
@@ -1395,18 +1660,16 @@
                     "nombre": "FocusEvent.Cause cause",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "reshape",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int width",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -1414,19 +1677,21 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
-                    "description": ""
-                }
-            ]
-        },
-        {
-            "nombre": "resize",
-            "description": "",
-            "parametros": [
-                {
                     "nombre": "int width",
                     "description": ""
                 },
+                {
+                    "nombre": "int y",
+                    "description": ""
+                }
+            ],
+            "code": "",
+            "ldc": []
+        },
+        {
+            "nombre": "resize",
+            "description": "Component\n",
+            "parametros": [
                 {
                     "nombre": "int height",
                     "description": ""
@@ -1434,8 +1699,14 @@
                 {
                     "nombre": "Dimension d",
                     "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "revalidate",
@@ -1443,22 +1714,20 @@
         },
         {
             "nombre": "setBackground",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Color c",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setBounds",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
-                {
-                    "nombre": "Rectangle r",
-                    "description": ""
-                },
                 {
                     "nombre": "int height",
                     "description": ""
@@ -1472,129 +1741,161 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Rectangle r",
+                    "description": ""
+                },
+                {
                     "nombre": "int x",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setComponentOrientation",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "ComponentOrientation o",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setCursor",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Cursor cursor",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setDropTarget",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "DropTarget dt",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setEnabled",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "boolean b",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setFocusable",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "boolean focusable",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setFocusTraversalKeys",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
-                {
-                    "nombre": "Set<? extends AWTKeyStroke> keystrokes",
-                    "description": ""
-                },
                 {
                     "nombre": "int id",
                     "description": ""
+                },
+                {
+                    "nombre": "Set<? extends AWTKeyStroke> keystrokes",
+                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setFocusTraversalKeysEnabled",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "boolean focusTraversalKeysEnabled",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setFont",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Font f",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setForeground",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Color c",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setIgnoreRepaint",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "boolean ignoreRepaint",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setLocale",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Locale l",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setLocation",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
                 {
                     "nombre": "Point p",
                     "description": ""
@@ -1602,12 +1903,10 @@
                 {
                     "nombre": "int y",
                     "description": ""
-                },
-                {
-                    "nombre": "int x",
-                    "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setMaximumSize",
@@ -1641,13 +1940,15 @@
         },
         {
             "nombre": "setName",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "String name",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "setPreferredSize",
@@ -1661,12 +1962,8 @@
         },
         {
             "nombre": "setSize",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
-                {
-                    "nombre": "int width",
-                    "description": ""
-                },
                 {
                     "nombre": "int height",
                     "description": ""
@@ -1674,16 +1971,42 @@
                 {
                     "nombre": "Dimension d",
                     "description": ""
+                },
+                {
+                    "nombre": "int width",
+                    "description": ""
+                }
+            ],
+            "code": "",
+            "ldc": [
+                {
+                    "nombre": "Hola Mundo con Swing",
+                    "url": "http://lineadecodigo.com/java/hola-mundo-con-swing/"
+                },
+                {
+                    "nombre": "Formulario B\u00e1sico con Java Swing",
+                    "url": "http://lineadecodigo.com/java/formulario-basico-con-java-swing/"
                 }
             ]
         },
         {
             "nombre": "setVisible",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "boolean b",
                     "description": ""
+                }
+            ],
+            "code": "",
+            "ldc": [
+                {
+                    "nombre": "Hola Mundo con Swing",
+                    "url": "http://lineadecodigo.com/java/hola-mundo-con-swing/"
+                },
+                {
+                    "nombre": "Formulario B\u00e1sico con Java Swing",
+                    "url": "http://lineadecodigo.com/java/formulario-basico-con-java-swing/"
                 }
             ]
         },
@@ -1703,33 +2026,45 @@
         },
         {
             "nombre": "toString",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "transferFocus",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "transferFocusBackward",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "transferFocusUpCycle",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "update",
-            "description": "",
+            "description": "Component\n",
             "parametros": [
                 {
                     "nombre": "Graphics g",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "validate",
-            "description": ""
+            "description": "Component\n",
+            "code": "",
+            "ldc": []
         }
     ],
     "campos": [

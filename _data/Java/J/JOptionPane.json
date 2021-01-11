@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "import javax.swing.*;\n\npublic class VolumenCono {\n\n        public static double volumen(double r,double h){\n        return (Math.PI*(r*r)*h)/3;\n    }\n        \n        public static void main(String[] args) {\n\n                try {\n                        double radio = Double.parseDouble(JOptionPane\n                                        .showInputDialog(\"Introduce radio:\"));\n                        double altura = Double.parseDouble(JOptionPane\n                                        .showInputDialog(\"Introduce altura:\"));\n                        JOptionPane.showMessageDialog(\n                                        null,\n                                        \"Volumen obtenido\\n\"\n                                                        + String.valueOf(volumen(radio, altura)), \"Aviso\",\n                                        JOptionPane.PLAIN_MESSAGE, new ImageIcon(\"imagen.jpg\"));\n                        System.exit(0);\n                } catch (Exception ex) {\n                        JOptionPane.showMessageDialog(null, ex.getCause().toString(),\n                                        \"Aviso\", JOptionPane.ERROR_MESSAGE, new ImageIcon(\n                                                        \"ferd.jpg\"));\n                } \n\n        }\n \n}\n",
     "ldc": [],
     "constructores": [
         {
@@ -12,15 +12,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] options",
-                    "description": ""
-                },
-                {
                     "nombre": "int messageType",
                     "description": ""
                 },
                 {
-                    "nombre": "int optionType",
+                    "nombre": "Object[] options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object initialValue",
                     "description": ""
                 },
                 {
@@ -28,7 +28,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object initialValue",
+                    "nombre": "int optionType",
                     "description": ""
                 }
             ]
@@ -306,18 +306,18 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int optionType",
+                    "nombre": "Object message",
                     "description": ""
                 },
                 {
-                    "nombre": "Object message",
+                    "nombre": "int optionType",
                     "description": ""
                 }
             ]
         },
         {
             "nombre": "showInputDialog",
-            "description": "",
+            "description": "Mensaje que se le muestra al usuario para que introduzca un valor.\n",
             "parametros": [
                 {
                     "nombre": "Component parentComponent",
@@ -328,11 +328,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] selectionValues",
+                    "nombre": "int messageType",
                     "description": ""
                 },
                 {
-                    "nombre": "int messageType",
+                    "nombre": "Object initialSelectionValue",
                     "description": ""
                 },
                 {
@@ -344,10 +344,12 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object initialSelectionValue",
+                    "nombre": "Object[] selectionValues",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "import javax.swing.*;\n\npublic class VolumenCono {\n\n        public static double volumen(double r,double h){\n        return (Math.PI*(r*r)*h)/3;\n    }\n        \n        public static void main(String[] args) {\n\n                try {\n                        double radio = Double.parseDouble(JOptionPane\n                                        .showInputDialog(\"Introduce radio:\"));\n                        double altura = Double.parseDouble(JOptionPane\n                                        .showInputDialog(\"Introduce altura:\"));\n                        JOptionPane.showMessageDialog(\n                                        null,\n                                        \"Volumen obtenido\\n\"\n                                                        + String.valueOf(volumen(radio, altura)), \"Aviso\",\n                                        JOptionPane.PLAIN_MESSAGE, new ImageIcon(\"imagen.jpg\"));\n                        System.exit(0);\n                } catch (Exception ex) {\n                        JOptionPane.showMessageDialog(null, ex.getCause().toString(),\n                                        \"Aviso\", JOptionPane.ERROR_MESSAGE, new ImageIcon(\n                                                        \"ferd.jpg\"));\n                } \n\n        }\n \n}\n",
+            "ldc": []
         },
         {
             "nombre": "showInternalConfirmDialog",
@@ -370,11 +372,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int optionType",
+                    "nombre": "Object message",
                     "description": ""
                 },
                 {
-                    "nombre": "Object message",
+                    "nombre": "int optionType",
                     "description": ""
                 }
             ]
@@ -392,11 +394,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] selectionValues",
+                    "nombre": "int messageType",
                     "description": ""
                 },
                 {
-                    "nombre": "int messageType",
+                    "nombre": "Object initialSelectionValue",
                     "description": ""
                 },
                 {
@@ -408,7 +410,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object initialSelectionValue",
+                    "nombre": "Object[] selectionValues",
                     "description": ""
                 }
             ]
@@ -452,10 +454,6 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object[] options",
-                    "description": ""
-                },
-                {
                     "nombre": "int messageType",
                     "description": ""
                 },
@@ -464,7 +462,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int optionType",
+                    "nombre": "Object[] options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object initialValue",
                     "description": ""
                 },
                 {
@@ -472,7 +474,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object initialValue",
+                    "nombre": "int optionType",
                     "description": ""
                 }
             ]
@@ -505,7 +507,7 @@
         },
         {
             "nombre": "showOptionDialog",
-            "description": "",
+            "description": "Muestra un mensaje de dialogo con el icono indicado.\n",
             "parametros": [
                 {
                     "nombre": "Component parentComponent",
@@ -513,10 +515,6 @@
                 },
                 {
                     "nombre": "Icon icon",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object[] options",
                     "description": ""
                 },
                 {
@@ -528,7 +526,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int optionType",
+                    "nombre": "Object[] options",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object initialValue",
                     "description": ""
                 },
                 {
@@ -536,10 +538,12 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object initialValue",
+                    "nombre": "int optionType",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "",
+            "ldc": []
         },
         {
             "nombre": "updateUI",

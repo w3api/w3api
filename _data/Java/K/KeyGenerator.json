@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String algorithm",
-                    "description": ""
-                },
-                {
                     "nombre": "KeyGeneratorSpi keyGenSpi",
                     "description": ""
                 },
                 {
                     "nombre": "Provider provider",
+                    "description": ""
+                },
+                {
+                    "nombre": "String algorithm",
                     "description": ""
                 }
             ]
@@ -58,11 +58,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "AlgorithmParameterSpec params",
+                    "nombre": "int keysize",
                     "description": ""
                 },
                 {
-                    "nombre": "int keysize",
+                    "nombre": "AlgorithmParameterSpec params",
                     "description": ""
                 },
                 {

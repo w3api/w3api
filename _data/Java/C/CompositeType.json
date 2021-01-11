@@ -8,15 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String[] itemDescriptions",
-                    "description": ""
-                },
-                {
                     "nombre": "String description",
                     "description": ""
                 },
                 {
-                    "nombre": "String typeName",
+                    "nombre": "OpenType<?>[] itemTypes",
                     "description": ""
                 },
                 {
@@ -24,7 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "OpenType<?>[] itemTypes",
+                    "nombre": "String[] itemDescriptions",
+                    "description": ""
+                },
+                {
+                    "nombre": "String typeName",
                     "description": ""
                 }
             ]

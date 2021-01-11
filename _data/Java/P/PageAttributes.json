@@ -8,6 +8,14 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "PageAttributes.ColorType color",
+                    "description": ""
+                },
+                {
+                    "nombre": "PageAttributes.OrientationRequestedType orientationRequested",
+                    "description": ""
+                },
+                {
                     "nombre": "int[] printerResolution",
                     "description": ""
                 },
@@ -17,14 +25,6 @@
                 },
                 {
                     "nombre": "PageAttributes obj",
-                    "description": ""
-                },
-                {
-                    "nombre": "PageAttributes.ColorType color",
-                    "description": ""
-                },
-                {
-                    "nombre": "PageAttributes.OrientationRequestedType orientationRequested",
                     "description": ""
                 },
                 {
@@ -166,11 +166,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int printQuality",
+                    "nombre": "PageAttributes.PrintQualityType printQuality",
                     "description": ""
                 },
                 {
-                    "nombre": "PageAttributes.PrintQualityType printQuality",
+                    "nombre": "int printQuality",
                     "description": ""
                 }
             ]

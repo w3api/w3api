@@ -228,19 +228,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LocalTime time",
-                    "description": ""
-                },
-                {
-                    "nombre": "int nanoOfSecond",
-                    "description": ""
-                },
-                {
-                    "nombre": "int hour",
-                    "description": ""
-                },
-                {
                     "nombre": "ZoneOffset offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int second",
                     "description": ""
                 },
                 {
@@ -248,7 +240,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int second",
+                    "nombre": "int nanoOfSecond",
+                    "description": ""
+                },
+                {
+                    "nombre": "LocalTime time",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hour",
                     "description": ""
                 }
             ]
@@ -272,11 +272,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DateTimeFormatter formatter",
+                    "nombre": "CharSequence text",
                     "description": ""
                 },
                 {
-                    "nombre": "CharSequence text",
+                    "nombre": "DateTimeFormatter formatter",
                     "description": ""
                 }
             ]
@@ -286,15 +286,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "long amountToAdd",
+                    "description": ""
+                },
+                {
                     "nombre": "TemporalUnit unit",
                     "description": ""
                 },
                 {
                     "nombre": "TemporalAmount amountToAdd",
-                    "description": ""
-                },
-                {
-                    "nombre": "long amountToAdd",
                     "description": ""
                 }
             ]
@@ -410,11 +410,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAdjuster adjuster",
+                    "nombre": "TemporalField field",
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalField field",
+                    "nombre": "TemporalAdjuster adjuster",
                     "description": ""
                 }
             ]

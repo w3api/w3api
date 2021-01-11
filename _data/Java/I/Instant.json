@@ -202,11 +202,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long nanoAdjustment",
+                    "nombre": "long epochSecond",
                     "description": ""
                 },
                 {
-                    "nombre": "long epochSecond",
+                    "nombre": "long nanoAdjustment",
                     "description": ""
                 }
             ]
@@ -226,15 +226,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "long amountToAdd",
+                    "description": ""
+                },
+                {
                     "nombre": "TemporalUnit unit",
                     "description": ""
                 },
                 {
                     "nombre": "TemporalAmount amountToAdd",
-                    "description": ""
-                },
-                {
-                    "nombre": "long amountToAdd",
                     "description": ""
                 }
             ]
@@ -330,11 +330,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalAdjuster adjuster",
+                    "nombre": "TemporalField field",
                     "description": ""
                 },
                 {
-                    "nombre": "TemporalField field",
+                    "nombre": "TemporalAdjuster adjuster",
                     "description": ""
                 }
             ]

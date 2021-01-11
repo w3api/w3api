@@ -8,15 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
-                    "description": ""
-                },
-                {
-                    "nombre": "TreePath[] paths",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isNew",
+                    "nombre": "TreePath newLeadSelectionPath",
                     "description": ""
                 },
                 {
@@ -28,11 +20,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath newLeadSelectionPath",
+                    "nombre": "TreePath path",
                     "description": ""
                 },
                 {
                     "nombre": "boolean[] areNew",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath[] paths",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isNew",
                     "description": ""
                 }
             ]
@@ -70,11 +70,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "TreePath path",
                     "description": ""
                 }
             ]

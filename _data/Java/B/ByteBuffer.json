@@ -120,15 +120,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int length",
+                    "description": ""
+                },
+                {
                     "nombre": "int index",
                     "description": ""
                 },
                 {
                     "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int length",
                     "description": ""
                 }
             ]
@@ -220,15 +220,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte b",
-                    "description": ""
-                },
-                {
                     "nombre": "ByteBuffer src",
                     "description": ""
                 },
                 {
-                    "nombre": "int offset",
+                    "nombre": "byte[] src",
                     "description": ""
                 },
                 {
@@ -236,11 +232,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "byte b",
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] src",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -264,11 +264,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "double value",
                     "description": ""
                 },
                 {
-                    "nombre": "double value",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -292,11 +292,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
+                    "nombre": "int value",
                     "description": ""
                 },
                 {
-                    "nombre": "int value",
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -342,7 +342,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
@@ -350,7 +350,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]

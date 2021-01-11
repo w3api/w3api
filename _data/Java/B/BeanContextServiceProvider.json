@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Class<?> serviceClass",
+                    "nombre": "BeanContextServices bcs",
                     "description": ""
                 },
                 {
-                    "nombre": "BeanContextServices bcs",
+                    "nombre": "Class<?> serviceClass",
                     "description": ""
                 }
             ]
@@ -21,10 +21,6 @@
             "nombre": "getService",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "Object requestor",
-                    "description": ""
-                },
                 {
                     "nombre": "Object serviceSelector",
                     "description": ""
@@ -35,6 +31,10 @@
                 },
                 {
                     "nombre": "BeanContextServices bcs",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object requestor",
                     "description": ""
                 }
             ]
@@ -48,11 +48,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Object requestor",
+                    "nombre": "BeanContextServices bcs",
                     "description": ""
                 },
                 {
-                    "nombre": "BeanContextServices bcs",
+                    "nombre": "Object requestor",
                     "description": ""
                 }
             ]

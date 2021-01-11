@@ -1,7 +1,12 @@
 {
     "description": "",
-    "code": "",
-    "ldc": [],
+    "code": "Map<Integer,Integer> m = new HashMap<Integer,Integer>();\nIterator<Entry<Integer, Integer>> iter = m.entrySet().iterator();\n\nwhile (iter.hasNext()) {\t      \n  Entry<Integer,Integer> e = iter.next();\t    \t \n  if (e.getValue() > 2)\n   System.out.println(\"Clave \" + e.getKey() + \" con un valor mayor a 2\");\n  else\n   System.out.println(\"Clave \" + e.getKey() + \" con un valor menor a 2\");\n}\n",
+    "ldc": [
+        {
+            "nombre": "Calcular la moda de una distribuci\u00f3n con Java",
+            "url": "http://lineadecodigo.com/java/calcular-la-moda-de-una-distribucion-con-java/"
+        }
+    ],
     "metodos": [
         {
             "nombre": "comparingByKey",
@@ -35,11 +40,15 @@
         },
         {
             "nombre": "getKey",
-            "description": ""
+            "description": "Retorna la clave de la entrada.\n",
+            "code": "Map<Integer,Integer> m = new HashMap<Integer,Integer>();\nIterator<Entry<Integer, Integer>> iter = m.entrySet().iterator();\n\nwhile (iter.hasNext()) {\t      \n  Entry<Integer,Integer> e = iter.next();\t    \t \n  if (e.getValue() > 2)\n   System.out.println(\"Clave \" + e.getKey() + \" con un valor mayor a 2\");\n  else\n   System.out.println(\"Clave \" + e.getKey() + \" con un valor menor a 2\");\n}\n",
+            "ldc": []
         },
         {
             "nombre": "getValue",
-            "description": ""
+            "description": "Retorna el valor de la entrada.\n",
+            "code": "Map<Integer,Integer> m = new HashMap<Integer,Integer>();\nIterator<Entry<Integer, Integer>> iter = m.entrySet().iterator();\n\nwhile (iter.hasNext()) {\t      \n  Entry<Integer,Integer> e = iter.next();\t    \t \n  if (e.getValue() > 2)\n   System.out.println(\"Clave \" + e.getKey() + \" con un valor mayor a 2\");\n  else\n   System.out.println(\"Clave \" + e.getKey() + \" con un valor menor a 2\");\n}\n",
+            "ldc": []
         },
         {
             "nombre": "hashCode",

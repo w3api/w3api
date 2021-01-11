@@ -8,6 +8,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean asksAllowsChildren",
+                    "description": ""
+                },
+                {
                     "nombre": "Object[] value",
                     "description": ""
                 },
@@ -16,7 +20,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean asksAllowsChildren",
+                    "nombre": "TreeModel newModel",
+                    "description": ""
+                },
+                {
+                    "nombre": "Vector<?> value",
                     "description": ""
                 },
                 {
@@ -25,14 +33,6 @@
                 },
                 {
                     "nombre": "TreeNode root",
-                    "description": ""
-                },
-                {
-                    "nombre": "Vector<?> value",
-                    "description": ""
-                },
-                {
-                    "nombre": "TreeModel newModel",
                     "description": ""
                 }
             ]
@@ -44,11 +44,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index0",
+                    "nombre": "int index1",
                     "description": ""
                 },
                 {
-                    "nombre": "int index1",
+                    "nombre": "int index0",
                     "description": ""
                 }
             ]
@@ -160,11 +160,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int row",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean hasFocus",
+                    "nombre": "boolean leaf",
                     "description": ""
                 },
                 {
@@ -176,11 +172,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int row",
+                    "description": ""
+                },
+                {
                     "nombre": "boolean expanded",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean leaf",
+                    "nombre": "boolean hasFocus",
                     "description": ""
                 }
             ]
@@ -290,11 +290,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -304,11 +304,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -390,7 +390,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Position.Bias bias",
+                    "nombre": "int startingRow",
                     "description": ""
                 },
                 {
@@ -398,7 +398,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int startingRow",
+                    "nombre": "Position.Bias bias",
                     "description": ""
                 }
             ]
@@ -408,11 +408,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index0",
+                    "nombre": "int index1",
                     "description": ""
                 },
                 {
-                    "nombre": "int index1",
+                    "nombre": "int index0",
                     "description": ""
                 }
             ]
@@ -432,11 +432,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -474,11 +474,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -506,11 +506,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int direction",
+                    "nombre": "int orientation",
                     "description": ""
                 },
                 {
-                    "nombre": "int orientation",
+                    "nombre": "int direction",
                     "description": ""
                 }
             ]
@@ -532,11 +532,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int direction",
+                    "nombre": "int orientation",
                     "description": ""
                 },
                 {
-                    "nombre": "int orientation",
+                    "nombre": "int direction",
                     "description": ""
                 }
             ]
@@ -622,11 +622,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int row",
+                    "nombre": "TreePath path",
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "int row",
                     "description": ""
                 }
             ]
@@ -644,11 +644,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int row",
+                    "nombre": "TreePath path",
                     "description": ""
                 },
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "int row",
                     "description": ""
                 }
             ]
@@ -728,11 +728,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "boolean includePath",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean includePath",
+                    "nombre": "TreePath path",
                     "description": ""
                 }
             ]
@@ -752,11 +752,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index0",
+                    "nombre": "int index1",
                     "description": ""
                 },
                 {
-                    "nombre": "int index1",
+                    "nombre": "int index0",
                     "description": ""
                 }
             ]
@@ -1010,11 +1010,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index0",
+                    "nombre": "int index1",
                     "description": ""
                 },
                 {
-                    "nombre": "int index1",
+                    "nombre": "int index0",
                     "description": ""
                 }
             ]

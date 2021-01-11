@@ -32,7 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean showLabel",
+                    "nombre": "StringConverter<T> converter",
+                    "description": ""
+                },
+                {
+                    "nombre": "ObservableValue<Boolean>> getSelectedProperty",
                     "description": ""
                 },
                 {
@@ -40,15 +44,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "StringConverter<T> converter",
+                    "nombre": "boolean showLabel",
                     "description": ""
                 },
                 {
                     "nombre": "Callback<Integer",
-                    "description": ""
-                },
-                {
-                    "nombre": "ObservableValue<Boolean>> getSelectedProperty",
                     "description": ""
                 },
                 {

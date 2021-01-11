@@ -20,7 +20,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int row",
+                    "nombre": "?> column",
                     "description": ""
                 },
                 {
@@ -28,15 +28,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "?> column",
-                    "description": ""
-                },
-                {
-                    "nombre": "int index",
+                    "nombre": "int row",
                     "description": ""
                 },
                 {
                     "nombre": "TablePosition pos",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int row",
+                    "nombre": "TableColumn<S",
                     "description": ""
                 },
                 {
-                    "nombre": "TableColumn<S",
+                    "nombre": "int row",
                     "description": ""
                 }
             ]

@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String version",
+                    "nombre": "URL url",
                     "description": ""
                 },
                 {
-                    "nombre": "URL url",
+                    "nombre": "String version",
                     "description": ""
                 }
             ]
@@ -22,11 +22,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String version",
+                    "nombre": "long readSoFar",
                     "description": ""
                 },
                 {
-                    "nombre": "long readSoFar",
+                    "nombre": "int overallPercent",
                     "description": ""
                 },
                 {
@@ -34,11 +34,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long total",
+                    "nombre": "String version",
                     "description": ""
                 },
                 {
-                    "nombre": "int overallPercent",
+                    "nombre": "long total",
                     "description": ""
                 }
             ]
@@ -47,10 +47,6 @@
             "nombre": "upgradingArchive",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "String version",
-                    "description": ""
-                },
                 {
                     "nombre": "int overallPercent",
                     "description": ""
@@ -62,6 +58,10 @@
                 {
                     "nombre": "int patchPercent",
                     "description": ""
+                },
+                {
+                    "nombre": "String version",
+                    "description": ""
                 }
             ]
         },
@@ -70,7 +70,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String version",
+                    "nombre": "int overallPercent",
                     "description": ""
                 },
                 {
@@ -78,15 +78,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long total",
-                    "description": ""
-                },
-                {
-                    "nombre": "int overallPercent",
-                    "description": ""
-                },
-                {
                     "nombre": "long entry",
+                    "description": ""
+                },
+                {
+                    "nombre": "String version",
+                    "description": ""
+                },
+                {
+                    "nombre": "long total",
                     "description": ""
                 }
             ]

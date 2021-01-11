@@ -14,15 +14,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LongBinaryOperator accumulatorFunction",
-                    "description": ""
-                },
-                {
                     "nombre": "long x",
                     "description": ""
                 },
                 {
                     "nombre": "T obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongBinaryOperator accumulatorFunction",
                     "description": ""
                 }
             ]
@@ -32,11 +32,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long delta",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "long delta",
                     "description": ""
                 }
             ]
@@ -46,7 +46,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long update",
+                    "nombre": "long expect",
                     "description": ""
                 },
                 {
@@ -54,7 +54,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long expect",
+                    "nombre": "long update",
                     "description": ""
                 }
             ]
@@ -84,15 +84,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "LongBinaryOperator accumulatorFunction",
-                    "description": ""
-                },
-                {
                     "nombre": "long x",
                     "description": ""
                 },
                 {
                     "nombre": "T obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "LongBinaryOperator accumulatorFunction",
                     "description": ""
                 }
             ]
@@ -102,11 +102,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long delta",
+                    "nombre": "T obj",
                     "description": ""
                 },
                 {
-                    "nombre": "T obj",
+                    "nombre": "long delta",
                     "description": ""
                 }
             ]
@@ -150,11 +150,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T obj",
+                    "nombre": "LongUnaryOperator updateFunction",
                     "description": ""
                 },
                 {
-                    "nombre": "LongUnaryOperator updateFunction",
+                    "nombre": "T obj",
                     "description": ""
                 }
             ]
@@ -188,11 +188,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String fieldName",
+                    "nombre": "Class<U> tclass",
                     "description": ""
                 },
                 {
-                    "nombre": "Class<U> tclass",
+                    "nombre": "String fieldName",
                     "description": ""
                 }
             ]
@@ -216,11 +216,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "T obj",
+                    "nombre": "LongUnaryOperator updateFunction",
                     "description": ""
                 },
                 {
-                    "nombre": "LongUnaryOperator updateFunction",
+                    "nombre": "T obj",
                     "description": ""
                 }
             ]
@@ -230,7 +230,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long update",
+                    "nombre": "long expect",
                     "description": ""
                 },
                 {
@@ -238,7 +238,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "long expect",
+                    "nombre": "long update",
                     "description": ""
                 }
             ]

@@ -8,18 +8,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "WritableRaster parent",
-                    "description": ""
-                },
-                {
-                    "nombre": "DataBuffer dataBuffer",
-                    "description": ""
-                },
-                {
-                    "nombre": "Point sampleModelTranslate",
-                    "description": ""
-                },
-                {
                     "nombre": "Point origin",
                     "description": ""
                 },
@@ -28,7 +16,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "Point sampleModelTranslate",
+                    "description": ""
+                },
+                {
                     "nombre": "Rectangle aRegion",
+                    "description": ""
+                },
+                {
+                    "nombre": "WritableRaster parent",
+                    "description": ""
+                },
+                {
+                    "nombre": "DataBuffer dataBuffer",
                     "description": ""
                 }
             ]
@@ -44,15 +44,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
-                    "description": ""
-                },
-                {
                     "nombre": "int[] bandList",
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -60,11 +56,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int childMinX",
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
                     "nombre": "int childMinY",
+                    "description": ""
+                },
+                {
+                    "nombre": "int childMinX",
                     "description": ""
                 }
             ]
@@ -74,11 +74,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int childMinY",
+                    "nombre": "int childMinX",
                     "description": ""
                 },
                 {
-                    "nombre": "int childMinX",
+                    "nombre": "int childMinY",
                     "description": ""
                 }
             ]
@@ -92,19 +92,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int h",
-                    "description": ""
-                },
-                {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
                     "nombre": "Raster inRaster",
                     "description": ""
                 },
                 {
-                    "nombre": "Object inData",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
@@ -112,7 +104,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object inData",
                     "description": ""
                 }
             ]
@@ -122,7 +122,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double[] dArray",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -130,15 +130,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float[] fArray",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
+                    "nombre": "double[] dArray",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] fArray",
                     "description": ""
                 }
             ]
@@ -148,23 +148,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double[] dArray",
-                    "description": ""
-                },
-                {
                     "nombre": "int h",
-                    "description": ""
-                },
-                {
-                    "nombre": "int[] iArray",
-                    "description": ""
-                },
-                {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "float[] fArray",
                     "description": ""
                 },
                 {
@@ -172,7 +156,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "double[] dArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] fArray",
                     "description": ""
                 }
             ]
@@ -200,14 +200,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "double s",
                     "description": ""
                 },
@@ -216,11 +208,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int b",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
                     "nombre": "float s",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
                     "description": ""
                 }
             ]
@@ -230,11 +230,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "double[] dArray",
+                    "nombre": "int h",
                     "description": ""
                 },
                 {
-                    "nombre": "int h",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -246,19 +246,19 @@
                     "description": ""
                 },
                 {
+                    "nombre": "double[] dArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "float[] fArray",
                     "description": ""
                 },
                 {
                     "nombre": "int b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
-                    "nombre": "int x",
                     "description": ""
                 }
             ]

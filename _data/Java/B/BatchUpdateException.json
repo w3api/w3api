@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "public class ErrorBatchUpdate {\n  public static void main(String[] args) throws SQLException {\n\n    Connection con = null;\n    String sURL = \"jdbc:mysql://localhost:3306/lineadecodigo\";\n\n    try {\n      con = DriverManager.getConnection(sURL,\"root\",\"\");\n      con.setAutoCommit(false);\n\t      \n      PreparedStatement stmt = con.prepareStatement(\"CREATE TABLE temporal (numero TINYINT(1) NOT NULL)\");  \n      stmt.execute(); \n      stmt.close();\n      \n      stmt = con.prepareStatement(\"CREATE UNIQUE INDEX indicenumero ON temporal(numero)\");  \n      stmt.execute(); \n      stmt.close();\t     \n\n      int[] valores = {1,2,2,3,1,4,1,2};\t      \n\t      \n      try {       \n        PreparedStatement carga = con.prepareStatement(\"INSERT INTO temporal VALUES (?)\");\t    \t \n   \t  \n        for (int x=0;x<valores.length;x++) {\n          carga.setInt(1, valores[x]);\n          carga.addBatch();\n        }\n        carga.executeBatch();\n\n      } catch (BatchUpdateException bue) {\n        int[] errores = bue.getUpdateCounts();\n        System.out.println(\"--Errores en el Batch--\\n\");\n   \t  \n        for (int x=0;x<errores.length;x++) {\n          if (errores[x] < 0) \n            System.out.print(\"Error insertando el valor \" + valores[x] + \" de la posici\u00f3n \" + x + \"\\n\");\n        }\t\t    \t  \t    \t \t    \t  \n      }\n\n      con.commit();\n \n      stmt = con.prepareStatement(\"DROP TABLE temporal\");  \n      stmt.execute(); \n      stmt.close();\n   \n    } catch (SQLException sqle) { \n      System.out.println(sqle.getMessage());\n      con.rollback();\t      \n    } finally {\n      if (con!=null) con.close();    \t      \n    } \n   }\n }\n",
     "ldc": [],
     "constructores": [
         {
@@ -8,15 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String reason",
-                    "description": ""
-                },
-                {
-                    "nombre": "Throwable cause",
-                    "description": ""
-                },
-                {
                     "nombre": "long[] updateCounts",
+                    "description": ""
+                },
+                {
+                    "nombre": "String SQLState",
                     "description": ""
                 },
                 {
@@ -28,7 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String SQLState",
+                    "nombre": "String reason",
+                    "description": ""
+                },
+                {
+                    "nombre": "Throwable cause",
                     "description": ""
                 }
             ]
@@ -41,7 +41,9 @@
         },
         {
             "nombre": "getUpdateCounts",
-            "description": ""
+            "description": "M\u00e9todo que devuelve un array de enteros con la ejecuci\u00f3n de un batch update. En el caso de que el registro se haya ejecutado devolver\u00e1 un entero mayor de 0 y si ha fallado devolver\u00e1 un entero menor que cero.\n",
+            "code": "public class ErrorBatchUpdate {\n  public static void main(String[] args) throws SQLException {\n\n    Connection con = null;\n    String sURL = \"jdbc:mysql://localhost:3306/lineadecodigo\";\n\n    try {\n      con = DriverManager.getConnection(sURL,\"root\",\"\");\n      con.setAutoCommit(false);\n\t      \n      PreparedStatement stmt = con.prepareStatement(\"CREATE TABLE temporal (numero TINYINT(1) NOT NULL)\");  \n      stmt.execute(); \n      stmt.close();\n      \n      stmt = con.prepareStatement(\"CREATE UNIQUE INDEX indicenumero ON temporal(numero)\");  \n      stmt.execute(); \n      stmt.close();\t     \n\n      int[] valores = {1,2,2,3,1,4,1,2};\t      \n\t      \n      try {       \n        PreparedStatement carga = con.prepareStatement(\"INSERT INTO temporal VALUES (?)\");\t    \t \n   \t  \n        for (int x=0;x<valores.length;x++) {\n          carga.setInt(1, valores[x]);\n          carga.addBatch();\n        }\n        carga.executeBatch();\n\n      } catch (BatchUpdateException bue) {\n        int[] errores = bue.getUpdateCounts();\n        System.out.println(\"--Errores en el Batch--\\n\");\n   \t  \n        for (int x=0;x<errores.length;x++) {\n          if (errores[x] < 0) \n            System.out.print(\"Error insertando el valor \" + valores[x] + \" de la posici\u00f3n \" + x + \"\\n\");\n        }\t\t    \t  \t    \t \t    \t  \n      }\n\n      con.commit();\n \n      stmt = con.prepareStatement(\"DROP TABLE temporal\");  \n      stmt.execute(); \n      stmt.close();\n   \n    } catch (SQLException sqle) { \n      System.out.println(sqle.getMessage());\n      con.rollback();\t      \n    } finally {\n      if (con!=null) con.close();    \t      \n    } \n   }\n }\n",
+            "ldc": []
         }
     ]
 }

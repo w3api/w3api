@@ -24,15 +24,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
-                    "description": ""
-                },
-                {
                     "nombre": "int mouseY",
                     "description": ""
                 },
                 {
                     "nombre": "int mouseX",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath path",
                     "description": ""
                 }
             ]
@@ -42,11 +42,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "boolean messageTree",
+                    "nombre": "boolean messageCancel",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean messageCancel",
+                    "nombre": "boolean messageTree",
                     "description": ""
                 },
                 {
@@ -146,7 +146,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Component c",
+                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -154,11 +154,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "Component c",
                     "description": ""
                 }
             ]
@@ -168,19 +168,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int x2",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
-                    "description": ""
-                },
-                {
                     "nombre": "int x1",
                     "description": ""
                 },
                 {
+                    "nombre": "int x2",
+                    "description": ""
+                },
+                {
                     "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -190,7 +190,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int y2",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -198,11 +198,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "Graphics g",
                     "description": ""
                 },
                 {
-                    "nombre": "Graphics g",
+                    "nombre": "int y2",
                     "description": ""
                 }
             ]
@@ -230,11 +230,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 }
             ]
@@ -266,11 +266,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -390,11 +390,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "JComponent c",
+                    "nombre": "boolean checkConsistency",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean checkConsistency",
+                    "nombre": "JComponent c",
                     "description": ""
                 }
             ]
@@ -436,11 +436,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int row",
+                    "nombre": "int depth",
                     "description": ""
                 },
                 {
-                    "nombre": "int depth",
+                    "nombre": "int row",
                     "description": ""
                 }
             ]
@@ -462,15 +462,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
-                    "description": ""
-                },
-                {
                     "nombre": "int mouseY",
                     "description": ""
                 },
                 {
                     "nombre": "int mouseX",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath path",
                     "description": ""
                 }
             ]
@@ -534,15 +534,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
-                    "description": ""
-                },
-                {
                     "nombre": "int mouseY",
                     "description": ""
                 },
                 {
                     "nombre": "int mouseX",
+                    "description": ""
+                },
+                {
+                    "nombre": "TreePath path",
                     "description": ""
                 }
             ]
@@ -596,6 +596,22 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean hasBeenExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isLeaf",
+                    "description": ""
+                },
+                {
                     "nombre": "TreePath path",
                     "description": ""
                 },
@@ -608,27 +624,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Graphics g",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isExpanded",
+                    "nombre": "Rectangle clipBounds",
                     "description": ""
                 },
                 {
                     "nombre": "Insets insets",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean hasBeenExpanded",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isLeaf",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle clipBounds",
                     "description": ""
                 }
             ]
@@ -638,15 +638,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int right",
-                    "description": ""
-                },
-                {
                     "nombre": "Graphics g",
-                    "description": ""
-                },
-                {
-                    "nombre": "int left",
                     "description": ""
                 },
                 {
@@ -656,6 +648,14 @@
                 {
                     "nombre": "int y",
                     "description": ""
+                },
+                {
+                    "nombre": "int right",
+                    "description": ""
+                },
+                {
+                    "nombre": "int left",
+                    "description": ""
                 }
             ]
         },
@@ -663,6 +663,22 @@
             "nombre": "paintHorizontalPartOfLeg",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "boolean hasBeenExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isLeaf",
+                    "description": ""
+                },
                 {
                     "nombre": "TreePath path",
                     "description": ""
@@ -676,27 +692,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Graphics g",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isExpanded",
+                    "nombre": "Rectangle clipBounds",
                     "description": ""
                 },
                 {
                     "nombre": "Insets insets",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean hasBeenExpanded",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isLeaf",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle clipBounds",
                     "description": ""
                 }
             ]
@@ -706,6 +706,22 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "boolean hasBeenExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isExpanded",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean isLeaf",
+                    "description": ""
+                },
+                {
                     "nombre": "TreePath path",
                     "description": ""
                 },
@@ -718,27 +734,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Graphics g",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isExpanded",
+                    "nombre": "Rectangle clipBounds",
                     "description": ""
                 },
                 {
                     "nombre": "Insets insets",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean hasBeenExpanded",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean isLeaf",
-                    "description": ""
-                },
-                {
-                    "nombre": "Rectangle clipBounds",
                     "description": ""
                 }
             ]
@@ -748,14 +748,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int bottom",
-                    "description": ""
-                },
-                {
-                    "nombre": "int top",
-                    "description": ""
-                },
-                {
                     "nombre": "Graphics g",
                     "description": ""
                 },
@@ -764,7 +756,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int top",
+                    "description": ""
+                },
+                {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int bottom",
                     "description": ""
                 }
             ]
@@ -774,19 +774,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Rectangle clipBounds",
-                    "description": ""
-                },
-                {
-                    "nombre": "Insets insets",
-                    "description": ""
-                },
-                {
                     "nombre": "TreePath path",
                     "description": ""
                 },
                 {
+                    "nombre": "Rectangle clipBounds",
+                    "description": ""
+                },
+                {
                     "nombre": "Graphics g",
+                    "description": ""
+                },
+                {
+                    "nombre": "Insets insets",
                     "description": ""
                 }
             ]
@@ -824,11 +824,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "MouseEvent event",
                     "description": ""
                 },
                 {
-                    "nombre": "MouseEvent event",
+                    "nombre": "TreePath path",
                     "description": ""
                 }
             ]
@@ -988,11 +988,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
-                    "description": ""
-                },
-                {
-                    "nombre": "int row",
+                    "nombre": "boolean hasBeenExpanded",
                     "description": ""
                 },
                 {
@@ -1000,11 +996,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "boolean hasBeenExpanded",
+                    "nombre": "boolean isLeaf",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean isLeaf",
+                    "nombre": "TreePath path",
+                    "description": ""
+                },
+                {
+                    "nombre": "int row",
                     "description": ""
                 }
             ]
@@ -1014,11 +1014,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "TreePath path",
+                    "nombre": "MouseEvent event",
                     "description": ""
                 },
                 {
-                    "nombre": "MouseEvent event",
+                    "nombre": "TreePath path",
                     "description": ""
                 }
             ]

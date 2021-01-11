@@ -14,11 +14,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Oid mech",
+                    "nombre": "Provider p",
                     "description": ""
                 },
                 {
-                    "nombre": "Provider p",
+                    "nombre": "Oid mech",
                     "description": ""
                 }
             ]
@@ -28,11 +28,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Oid mech",
+                    "nombre": "Provider p",
                     "description": ""
                 },
                 {
-                    "nombre": "Provider p",
+                    "nombre": "Oid mech",
                     "description": ""
                 }
             ]
@@ -46,10 +46,6 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Oid mech",
-                    "description": ""
-                },
-                {
                     "nombre": "int lifetime",
                     "description": ""
                 },
@@ -60,6 +56,10 @@
                 {
                     "nombre": "GSSCredential myCred",
                     "description": ""
+                },
+                {
+                    "nombre": "Oid mech",
+                    "description": ""
                 }
             ]
         },
@@ -68,7 +68,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int usage",
+                    "nombre": "int lifetime",
                     "description": ""
                 },
                 {
@@ -80,7 +80,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int lifetime",
+                    "nombre": "int usage",
                     "description": ""
                 },
                 {
@@ -94,19 +94,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Oid mech",
-                    "description": ""
-                },
-                {
                     "nombre": "byte[] name",
                     "description": ""
                 },
                 {
-                    "nombre": "Oid nameType",
+                    "nombre": "String nameStr",
                     "description": ""
                 },
                 {
-                    "nombre": "String nameStr",
+                    "nombre": "Oid mech",
+                    "description": ""
+                },
+                {
+                    "nombre": "Oid nameType",
                     "description": ""
                 }
             ]

@@ -1,7 +1,12 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "Clase que nos permite realizar lecturas de ficheros de texto.\n",
+    "code": "try {\n\n FileReader fr = new FileReader(\"fichero.txt\");\n BufferedReader bf = new BufferedReader(fr);\n String sCadena;\n  \n while ((sCadena = bf.readLine())!=null) {\n    System.out.println(sCadena);\n } \n\n} catch (FileNotFoundException fnfe){\n fnfe.printStackTrace();\n} catch (IOException ioe){\n ioe.printStackTrace();\n}\n",
+    "ldc": [
+        {
+            "nombre": "Comparar el contenido de dos ficheros con Java",
+            "url": "http://lineadecodigo.com/java/comparar-el-contenido-de-dos-ficheros-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "FileReader",
@@ -12,11 +17,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "File file",
+                    "nombre": "String fileName",
                     "description": ""
                 },
                 {
-                    "nombre": "String fileName",
+                    "nombre": "File file",
                     "description": ""
                 }
             ]

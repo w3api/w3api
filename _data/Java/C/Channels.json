@@ -22,11 +22,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ReadableByteChannel ch",
+                    "nombre": "AsynchronousByteChannel ch",
                     "description": ""
                 },
                 {
-                    "nombre": "AsynchronousByteChannel ch",
+                    "nombre": "ReadableByteChannel ch",
                     "description": ""
                 }
             ]
@@ -50,14 +50,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "CharsetDecoder dec",
-                    "description": ""
-                },
-                {
-                    "nombre": "int minBufferCap",
-                    "description": ""
-                },
-                {
                     "nombre": "String csName",
                     "description": ""
                 },
@@ -66,7 +58,15 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int minBufferCap",
+                    "description": ""
+                },
+                {
                     "nombre": "ReadableByteChannel ch",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharsetDecoder dec",
                     "description": ""
                 }
             ]
@@ -76,15 +76,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int minBufferCap",
-                    "description": ""
-                },
-                {
                     "nombre": "String csName",
                     "description": ""
                 },
                 {
                     "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int minBufferCap",
                     "description": ""
                 },
                 {

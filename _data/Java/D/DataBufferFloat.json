@@ -8,15 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float[] dataArray",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "int size",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[][] dataArray",
                     "description": ""
                 },
                 {
@@ -28,7 +24,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "float[][] dataArray",
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "float[] dataArray",
                     "description": ""
                 }
             ]
@@ -96,15 +96,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int val",
-                    "description": ""
-                },
-                {
                     "nombre": "int bank",
                     "description": ""
                 },
                 {
                     "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "int val",
                     "description": ""
                 }
             ]

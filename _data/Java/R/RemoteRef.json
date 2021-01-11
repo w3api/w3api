@@ -28,15 +28,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Method method",
-                    "description": ""
-                },
-                {
                     "nombre": "Remote obj",
-                    "description": ""
-                },
-                {
-                    "nombre": "RemoteCall call",
                     "description": ""
                 },
                 {
@@ -46,6 +38,14 @@
                 {
                     "nombre": "long opnum",
                     "description": ""
+                },
+                {
+                    "nombre": "RemoteCall call",
+                    "description": ""
+                },
+                {
+                    "nombre": "Method method",
+                    "description": ""
                 }
             ]
         },
@@ -54,11 +54,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "long hash",
-                    "description": ""
-                },
-                {
-                    "nombre": "RemoteObject obj",
+                    "nombre": "int opnum",
                     "description": ""
                 },
                 {
@@ -66,7 +62,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int opnum",
+                    "nombre": "RemoteObject obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "long hash",
                     "description": ""
                 }
             ]

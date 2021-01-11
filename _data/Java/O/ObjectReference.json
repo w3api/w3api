@@ -54,10 +54,6 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int options",
-                    "description": ""
-                },
-                {
                     "nombre": "ThreadReference thread",
                     "description": ""
                 },
@@ -67,6 +63,10 @@
                 },
                 {
                     "nombre": "List<? extends Value> arguments",
+                    "description": ""
+                },
+                {
+                    "nombre": "int options",
                     "description": ""
                 }
             ]
@@ -98,11 +98,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Field field",
+                    "nombre": "Value value",
                     "description": ""
                 },
                 {
-                    "nombre": "Value value",
+                    "nombre": "Field field",
                     "description": ""
                 }
             ]

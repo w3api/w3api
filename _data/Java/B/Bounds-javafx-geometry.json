@@ -1,0 +1,155 @@
+{
+    "description": "",
+    "code": "",
+    "ldc": [],
+    "constructores": [
+        {
+            "nombre": "Bounds",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "double minZ",
+                    "description": ""
+                },
+                {
+                    "nombre": "double minX",
+                    "description": ""
+                },
+                {
+                    "nombre": "double minY",
+                    "description": ""
+                },
+                {
+                    "nombre": "double width",
+                    "description": ""
+                },
+                {
+                    "nombre": "double height",
+                    "description": ""
+                },
+                {
+                    "nombre": "double depth",
+                    "description": ""
+                }
+            ]
+        }
+    ],
+    "metodos": [
+        {
+            "nombre": "contains",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Bounds b",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point3D p",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double z",
+                    "description": ""
+                },
+                {
+                    "nombre": "Point2D p",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "getDepth",
+            "description": ""
+        },
+        {
+            "nombre": "getHeight",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxX",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxY",
+            "description": ""
+        },
+        {
+            "nombre": "getMaxZ",
+            "description": ""
+        },
+        {
+            "nombre": "getMinX",
+            "description": ""
+        },
+        {
+            "nombre": "getMinY",
+            "description": ""
+        },
+        {
+            "nombre": "getMinZ",
+            "description": ""
+        },
+        {
+            "nombre": "getWidth",
+            "description": ""
+        },
+        {
+            "nombre": "intersects",
+            "description": "",
+            "parametros": [
+                {
+                    "nombre": "Bounds b",
+                    "description": ""
+                },
+                {
+                    "nombre": "double h",
+                    "description": ""
+                },
+                {
+                    "nombre": "double w",
+                    "description": ""
+                },
+                {
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "double x",
+                    "description": ""
+                },
+                {
+                    "nombre": "double y",
+                    "description": ""
+                },
+                {
+                    "nombre": "double z",
+                    "description": ""
+                }
+            ]
+        },
+        {
+            "nombre": "isEmpty",
+            "description": ""
+        }
+    ]
+}

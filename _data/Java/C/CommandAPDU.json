@@ -8,11 +8,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ByteBuffer apdu",
+                    "nombre": "byte[] apdu",
                     "description": ""
                 },
                 {
-                    "nombre": "int apduLength",
+                    "nombre": "int cla",
                     "description": ""
                 },
                 {
@@ -20,19 +20,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] data",
-                    "description": ""
-                },
-                {
-                    "nombre": "int apduOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int ne",
-                    "description": ""
-                },
-                {
-                    "nombre": "int ins",
+                    "nombre": "int apduLength",
                     "description": ""
                 },
                 {
@@ -48,11 +36,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "byte[] apdu",
+                    "nombre": "int apduOffset",
                     "description": ""
                 },
                 {
-                    "nombre": "int cla",
+                    "nombre": "byte[] data",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ne",
+                    "description": ""
+                },
+                {
+                    "nombre": "ByteBuffer apdu",
+                    "description": ""
+                },
+                {
+                    "nombre": "int ins",
                     "description": ""
                 }
             ]

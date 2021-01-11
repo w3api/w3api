@@ -1,7 +1,24 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "La clase StringTokenizer permite dividir a una cadena en tokens, atendiendo a un delimitador en concreto.\n",
+    "code": "sTexto = \"En un lugar de la mancha\";\nStringTokenizer stTexto = new StringTokenizer(sTexto);\n\nint palabras = stTexto.countTokens();\n\nfor (int x=0;x><palabras;x++){\n sCadena = stTexto.nextToken();\n \n",
+    "ldc": [
+        {
+            "nombre": "Recuperar la cabecera X-Forwarded-For",
+            "url": "http://lineadecodigo.com/java/recuperar-la-cabecera-x-forwarded-for/"
+        },
+        {
+            "nombre": "Invertir una frase en Java",
+            "url": "http://lineadecodigo.com/java/invertir-una-frase-en-java/"
+        },
+        {
+            "nombre": "Extraer contenido con delimitadores din\u00e1micos",
+            "url": "http://lineadecodigo.com/java/extraer-contenido-con-delimitadores-dinamicos/"
+        },
+        {
+            "nombre": "Extraer contenido separado por delimitadores con Java",
+            "url": "http://lineadecodigo.com/java/extraer-contenido-separado-por-delimitadores-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "StringTokenizer",
@@ -25,7 +42,9 @@
     "metodos": [
         {
             "nombre": "countTokens",
-            "description": ""
+            "description": "Cuenta el n\u00famero de tokens que tiene el StringTokenizer desde la posici\u00f3n en la que estamos recorriendo.\n",
+            "code": "// Cadena de texto\nString sTexto = \"En un lugar de la mancha\";\n\n// Particionador\nStringTokenizer stTexto = new StringTokenizer(sTexto);\n\n//Volcamos el n\u00famero de palabras separadas\n System.out.println (\"El numero de palabras de la frase \\\"\" + sTexto + \"\\\" son \" +  stTexto.countTokens() );\n",
+            "ldc": []
         },
         {
             "nombre": "hasMoreElements",
@@ -33,7 +52,18 @@
         },
         {
             "nombre": "hasMoreTokens",
-            "description": ""
+            "description": "M\u00e9todo que chequea si hay m\u00e1s tokens en el array de tokens que tiene StringTokenizer.\n",
+            "code": "String sTexto = \"En un lugar de la mancha de cuyo nombre no quiero acordarme\";\nStringTokenizer frase = new StringTokenizer(sTexto);\n\nwhile (frase.hasMoreTokens()) {\n System.out.println(frase.nextToken());\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Invertir una frase en Java",
+                    "url": "http://lineadecodigo.com/java/invertir-una-frase-en-java/"
+                },
+                {
+                    "nombre": "Extraer contenido separado por delimitadores con Java",
+                    "url": "http://lineadecodigo.com/java/extraer-contenido-separado-por-delimitadores-con-java/"
+                }
+            ]
         },
         {
             "nombre": "nextElement",
@@ -41,11 +71,22 @@
         },
         {
             "nombre": "nextToken",
-            "description": "",
+            "description": "Devuelve el siguiente token de StringTokenizer.\n",
             "parametros": [
                 {
                     "nombre": "String delim",
                     "description": ""
+                }
+            ],
+            "code": "String sTexto = \"En un lugar de la mancha de cuyo nombre no quiero acordarme\";\nStringTokenizer frase = new StringTokenizer(sTexto);\n\nwhile (frase.hasMoreTokens()) {\n System.out.println(frase.nextToken());\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Invertir una frase en Java",
+                    "url": "http://lineadecodigo.com/java/invertir-una-frase-en-java/"
+                },
+                {
+                    "nombre": "Extraer contenido separado por delimitadores con Java",
+                    "url": "http://lineadecodigo.com/java/extraer-contenido-separado-por-delimitadores-con-java/"
                 }
             ]
         }

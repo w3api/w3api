@@ -1,6 +1,6 @@
 {
     "description": "",
-    "code": "",
+    "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
     "ldc": [],
     "metodos": [
         {
@@ -15,11 +15,15 @@
         },
         {
             "nombre": "hasNext",
-            "description": ""
+            "description": "M\u00e9todo que devuelve true si existe un siguiente elemento a la hora de iterar sobre una colecci\u00f3n.\n",
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
+            "ldc": []
         },
         {
             "nombre": "next",
-            "description": ""
+            "description": "Devuelve el siguiente elemento en una iteracci\u00f3n.\n",
+            "code": "// ArrayList con tama\u00f1o\nArrayList<String> al = new ArrayList<String>();\n\t\t\n// A\u00f1adir elementos a un ArrayList\nal.add(\"Victor\");\nal.add(\"Luis\");\nal.add(\"Elena\");\t\t\n\t\nIterator<String> it = al.iterator();\nwhile(it.hasNext())\n System.out.println(it.next());\n",
+            "ldc": []
         },
         {
             "nombre": "remove",

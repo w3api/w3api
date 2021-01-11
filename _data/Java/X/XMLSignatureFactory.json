@@ -14,7 +14,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String mechanismType",
+                    "nombre": "Provider provider",
                     "description": ""
                 },
                 {
@@ -22,7 +22,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "Provider provider",
+                    "nombre": "String mechanismType",
                     "description": ""
                 }
             ]
@@ -58,15 +58,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "C14NMethodParameterSpec params",
-                    "description": ""
-                },
-                {
                     "nombre": "String algorithm",
                     "description": ""
                 },
                 {
                     "nombre": "XMLStructure params",
+                    "description": ""
+                },
+                {
+                    "nombre": "C14NMethodParameterSpec params",
                     "description": ""
                 }
             ]
@@ -76,11 +76,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "DigestMethodParameterSpec params",
+                    "nombre": "String algorithm",
                     "description": ""
                 },
                 {
-                    "nombre": "String algorithm",
+                    "nombre": "DigestMethodParameterSpec params",
                     "description": ""
                 }
             ]
@@ -90,11 +90,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
+                    "nombre": "List<? extends Reference> references",
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends Reference> references",
+                    "nombre": "String id",
                     "description": ""
                 }
             ]
@@ -103,22 +103,6 @@
             "nombre": "newReference",
             "description": "",
             "parametros": [
-                {
-                    "nombre": "List<? extends Transform> transforms",
-                    "description": ""
-                },
-                {
-                    "nombre": "DigestMethod dm",
-                    "description": ""
-                },
-                {
-                    "nombre": "String id",
-                    "description": ""
-                },
-                {
-                    "nombre": "String type",
-                    "description": ""
-                },
                 {
                     "nombre": "String uri",
                     "description": ""
@@ -132,7 +116,23 @@
                     "description": ""
                 },
                 {
+                    "nombre": "DigestMethod dm",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends Transform> transforms",
+                    "description": ""
+                },
+                {
                     "nombre": "Data result",
+                    "description": ""
+                },
+                {
+                    "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "String type",
                     "description": ""
                 }
             ]
@@ -156,11 +156,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
+                    "nombre": "List<? extends SignatureProperty> properties",
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends SignatureProperty> properties",
+                    "nombre": "String id",
                     "description": ""
                 }
             ]
@@ -174,11 +174,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends XMLStructure> content",
+                    "nombre": "String id",
                     "description": ""
                 },
                 {
-                    "nombre": "String id",
+                    "nombre": "List<? extends XMLStructure> content",
                     "description": ""
                 }
             ]
@@ -188,7 +188,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String id",
+                    "nombre": "CanonicalizationMethod cm",
                     "description": ""
                 },
                 {
@@ -196,11 +196,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "CanonicalizationMethod cm",
+                    "nombre": "List<? extends Reference> references",
                     "description": ""
                 },
                 {
-                    "nombre": "List<? extends Reference> references",
+                    "nombre": "String id",
                     "description": ""
                 }
             ]
@@ -228,19 +228,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String encoding",
-                    "description": ""
-                },
-                {
-                    "nombre": "List<? extends XMLStructure> content",
-                    "description": ""
-                },
-                {
                     "nombre": "String mimeType",
                     "description": ""
                 },
                 {
+                    "nombre": "String encoding",
+                    "description": ""
+                },
+                {
                     "nombre": "String id",
+                    "description": ""
+                },
+                {
+                    "nombre": "List<? extends XMLStructure> content",
                     "description": ""
                 }
             ]
@@ -250,15 +250,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "List<? extends XMLObject> objects",
-                    "description": ""
-                },
-                {
                     "nombre": "KeyInfo ki",
                     "description": ""
                 },
                 {
-                    "nombre": "String id",
+                    "nombre": "List<? extends XMLObject> objects",
                     "description": ""
                 },
                 {
@@ -268,6 +264,10 @@
                 {
                     "nombre": "String signatureValueId",
                     "description": ""
+                },
+                {
+                    "nombre": "String id",
+                    "description": ""
                 }
             ]
         },
@@ -276,11 +276,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "XMLStructure xmlStructure",
+                    "nombre": "XMLValidateContext context",
                     "description": ""
                 },
                 {
-                    "nombre": "XMLValidateContext context",
+                    "nombre": "XMLStructure xmlStructure",
                     "description": ""
                 }
             ]

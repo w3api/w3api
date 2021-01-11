@@ -36,15 +36,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int hibyte",
-                    "description": ""
-                },
-                {
                     "nombre": "String charsetName",
                     "description": ""
                 },
                 {
                     "nombre": "Charset charset",
+                    "description": ""
+                },
+                {
+                    "nombre": "int hibyte",
                     "description": ""
                 }
             ]
@@ -54,11 +54,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "byte[] b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int len",
+                    "nombre": "int off",
                     "description": ""
                 },
                 {
@@ -66,7 +62,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int off",
+                    "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] b",
                     "description": ""
                 }
             ]

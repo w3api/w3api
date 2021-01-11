@@ -1,7 +1,12 @@
 {
-    "description": "",
-    "code": "",
-    "ldc": [],
+    "description": "Clase abstracta que representa la AWT.\n",
+    "code": "public class ResolucionPantalla {\n public static void main(String[] args) {                \n   Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();\n   System.out.println(\"Tu resoluci\u00f3n es de \" + screenSize.width + \"x\" + screenSize.height);                \n }\n}\n",
+    "ldc": [
+        {
+            "nombre": "Conocer la resoluci\u00f3n de la pantalla con Java",
+            "url": "http://lineadecodigo.com/java/conocer-la-resolucion-de-la-pantalla-con-java/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "Toolkit",
@@ -28,11 +33,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PropertyChangeListener pcl",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "PropertyChangeListener pcl",
                     "description": ""
                 }
             ]
@@ -54,11 +59,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
@@ -90,7 +95,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "Class<T> abstractRecognizerClass",
+                    "description": ""
+                },
+                {
                     "nombre": "int srcActions",
+                    "description": ""
+                },
+                {
+                    "nombre": "DragGestureListener dgl",
                     "description": ""
                 },
                 {
@@ -100,14 +113,6 @@
                 {
                     "nombre": "Component c",
                     "description": ""
-                },
-                {
-                    "nombre": "DragGestureListener dgl",
-                    "description": ""
-                },
-                {
-                    "nombre": "Class<T> abstractRecognizerClass",
-                    "description": ""
                 }
             ]
         },
@@ -116,15 +121,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String filename",
-                    "description": ""
-                },
-                {
-                    "nombre": "int imagelength",
-                    "description": ""
-                },
-                {
-                    "nombre": "byte[] imagedata",
+                    "nombre": "ImageProducer producer",
                     "description": ""
                 },
                 {
@@ -136,7 +133,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "ImageProducer producer",
+                    "nombre": "int imagelength",
+                    "description": ""
+                },
+                {
+                    "nombre": "byte[] imagedata",
+                    "description": ""
+                },
+                {
+                    "nombre": "String filename",
                     "description": ""
                 }
             ]
@@ -156,11 +161,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int preferredHeight",
+                    "nombre": "int preferredWidth",
                     "description": ""
                 },
                 {
-                    "nombre": "int preferredWidth",
+                    "nombre": "int preferredHeight",
                     "description": ""
                 }
             ]
@@ -171,7 +176,14 @@
         },
         {
             "nombre": "getDefaultToolkit",
-            "description": ""
+            "description": "Toolkit\n",
+            "code": "",
+            "ldc": [
+                {
+                    "nombre": "Conocer la resoluci\u00f3n de la pantalla con Java",
+                    "url": "http://lineadecodigo.com/java/conocer-la-resolucion-de-la-pantalla-con-java/"
+                }
+            ]
         },
         {
             "nombre": "getDesktopProperty",
@@ -202,11 +214,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String filename",
+                    "nombre": "URL url",
                     "description": ""
                 },
                 {
-                    "nombre": "URL url",
+                    "nombre": "String filename",
                     "description": ""
                 }
             ]
@@ -248,11 +260,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PageAttributes pageAttributes",
+                    "nombre": "Properties props",
                     "description": ""
                 },
                 {
-                    "nombre": "Properties props",
+                    "nombre": "PageAttributes pageAttributes",
                     "description": ""
                 },
                 {
@@ -260,11 +272,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "String jobtitle",
+                    "nombre": "Frame frame",
                     "description": ""
                 },
                 {
-                    "nombre": "Frame frame",
+                    "nombre": "String jobtitle",
                     "description": ""
                 }
             ]
@@ -309,7 +321,14 @@
         },
         {
             "nombre": "getScreenSize",
-            "description": ""
+            "description": "M\u00e9todo que devuelve el tama\u00f1o de la pantalla en pixels. Devuelve el contenido en una clase Dimension\n",
+            "code": "public class ResolucionPantalla {\n public static void main(String[] args) {                \n   Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();\n   System.out.println(\"Tu resoluci\u00f3n es de \" + screenSize.width + \"x\" + screenSize.height);                \n }\n}\n",
+            "ldc": [
+                {
+                    "nombre": "Conocer la resoluci\u00f3n de la pantalla con Java",
+                    "url": "http://lineadecodigo.com/java/conocer-la-resolucion-de-la-pantalla-con-java/"
+                }
+            ]
         },
         {
             "nombre": "getSystemClipboard",
@@ -412,11 +431,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int width",
+                    "nombre": "int height",
                     "description": ""
                 },
                 {
-                    "nombre": "int height",
+                    "nombre": "int width",
                     "description": ""
                 },
                 {
@@ -440,11 +459,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "PropertyChangeListener pcl",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "PropertyChangeListener pcl",
                     "description": ""
                 }
             ]
@@ -454,11 +473,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "Object newValue",
+                    "nombre": "String name",
                     "description": ""
                 },
                 {
-                    "nombre": "String name",
+                    "nombre": "Object newValue",
                     "description": ""
                 }
             ]
@@ -478,11 +497,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int keyCode",
+                    "nombre": "boolean on",
                     "description": ""
                 },
                 {
-                    "nombre": "boolean on",
+                    "nombre": "int keyCode",
                     "description": ""
                 }
             ]

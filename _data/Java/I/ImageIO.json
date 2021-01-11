@@ -178,19 +178,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "ImageInputStream stream",
-                    "description": ""
-                },
-                {
                     "nombre": "File input",
                     "description": ""
                 },
                 {
-                    "nombre": "InputStream input",
+                    "nombre": "ImageInputStream stream",
                     "description": ""
                 },
                 {
                     "nombre": "URL input",
+                    "description": ""
+                },
+                {
+                    "nombre": "InputStream input",
                     "description": ""
                 }
             ]
@@ -224,11 +224,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "OutputStream output",
+                    "description": ""
+                },
+                {
                     "nombre": "String formatName",
                     "description": ""
                 },
                 {
-                    "nombre": "OutputStream output",
+                    "nombre": "ImageOutputStream output",
                     "description": ""
                 },
                 {
@@ -237,10 +241,6 @@
                 },
                 {
                     "nombre": "RenderedImage im",
-                    "description": ""
-                },
-                {
-                    "nombre": "ImageOutputStream output",
                     "description": ""
                 }
             ]

@@ -8,15 +8,15 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
                     "nombre": "CharSequence seq",
                     "description": ""
                 },
                 {
                     "nombre": "int capacity",
-                    "description": ""
-                },
-                {
-                    "nombre": "String str",
                     "description": ""
                 }
             ]
@@ -28,47 +28,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int end",
-                    "description": ""
-                },
-                {
-                    "nombre": "CharSequence s",
-                    "description": ""
-                },
-                {
-                    "nombre": "StringBuffer sb",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean b",
-                    "description": ""
-                },
-                {
-                    "nombre": "double d",
-                    "description": ""
-                },
-                {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
-                    "nombre": "char c",
-                    "description": ""
-                },
-                {
                     "nombre": "float f",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
                     "description": ""
                 },
                 {
@@ -76,7 +36,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] str",
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean b",
                     "description": ""
                 },
                 {
@@ -84,7 +48,43 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
                     "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence s",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "StringBuffer sb",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] str",
                     "description": ""
                 }
             ]
@@ -105,13 +105,15 @@
         },
         {
             "nombre": "charAt",
-            "description": "",
+            "description": "Retorna el caracter que se encuentre en la posici\u00f3n especificada como par\u00e1metro del m\u00e9todo.\n",
             "parametros": [
                 {
                     "nombre": "int index",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "StringBuilder sCadena = new StringBuilder(\"Esto es una frase muy interesante\");\nString caracter;\nSystem.out.println(sCadena);\n\t\t\nfor (int x=0;x<sCadena.length();x++) {\n  caracter = Character.toString(sCadena.charAt(x));\n  if (x%2 == 0)\n    sCadena.setCharAt(x,caracter.toUpperCase().charAt(0));\n  else\n    sCadena.setCharAt(x,caracter.toLowerCase().charAt(0));\t\t\t\n}\n\t\t\nSystem.out.println(sCadena);\n",
+            "ldc": []
         },
         {
             "nombre": "chars",
@@ -142,11 +144,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int endIndex",
+                    "nombre": "int beginIndex",
                     "description": ""
                 },
                 {
-                    "nombre": "int beginIndex",
+                    "nombre": "int endIndex",
                     "description": ""
                 }
             ]
@@ -194,19 +196,19 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "char[] dst",
-                    "description": ""
-                },
-                {
                     "nombre": "int dstBegin",
                     "description": ""
                 },
                 {
-                    "nombre": "int srcBegin",
+                    "nombre": "char[] dst",
                     "description": ""
                 },
                 {
                     "nombre": "int srcEnd",
+                    "description": ""
+                },
+                {
+                    "nombre": "int srcBegin",
                     "description": ""
                 }
             ]
@@ -216,11 +218,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "String str",
                     "description": ""
                 },
                 {
-                    "nombre": "String str",
+                    "nombre": "int fromIndex",
                     "description": ""
                 }
             ]
@@ -230,51 +232,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int end",
-                    "description": ""
-                },
-                {
-                    "nombre": "CharSequence s",
-                    "description": ""
-                },
-                {
-                    "nombre": "int dstOffset",
-                    "description": ""
-                },
-                {
-                    "nombre": "boolean b",
-                    "description": ""
-                },
-                {
-                    "nombre": "double d",
-                    "description": ""
-                },
-                {
-                    "nombre": "int i",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
-                    "nombre": "int start",
-                    "description": ""
-                },
-                {
-                    "nombre": "char c",
-                    "description": ""
-                },
-                {
                     "nombre": "float f",
-                    "description": ""
-                },
-                {
-                    "nombre": "Object obj",
-                    "description": ""
-                },
-                {
-                    "nombre": "int index",
                     "description": ""
                 },
                 {
@@ -282,7 +240,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "char[] str",
+                    "nombre": "double d",
+                    "description": ""
+                },
+                {
+                    "nombre": "boolean b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int dstOffset",
                     "description": ""
                 },
                 {
@@ -290,7 +256,43 @@
                     "description": ""
                 },
                 {
+                    "nombre": "int end",
+                    "description": ""
+                },
+                {
                     "nombre": "int len",
+                    "description": ""
+                },
+                {
+                    "nombre": "int i",
+                    "description": ""
+                },
+                {
+                    "nombre": "char c",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
+                    "description": ""
+                },
+                {
+                    "nombre": "CharSequence s",
+                    "description": ""
+                },
+                {
+                    "nombre": "Object obj",
+                    "description": ""
+                },
+                {
+                    "nombre": "int start",
+                    "description": ""
+                },
+                {
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "char[] str",
                     "description": ""
                 }
             ]
@@ -300,11 +302,11 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int fromIndex",
+                    "nombre": "String str",
                     "description": ""
                 },
                 {
-                    "nombre": "String str",
+                    "nombre": "int fromIndex",
                     "description": ""
                 }
             ]
@@ -332,26 +334,28 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "String str",
+                    "description": ""
+                },
+                {
                     "nombre": "int end",
                     "description": ""
                 },
                 {
                     "nombre": "int start",
                     "description": ""
-                },
-                {
-                    "nombre": "String str",
-                    "description": ""
                 }
             ]
         },
         {
             "nombre": "reverse",
-            "description": ""
+            "description": "Realiza la inversi\u00f3n de caracteres a la cadena de texto.\n",
+            "code": "String sCadena= \"En un lugar de la mancha de cuyo nombre no quiero acordarme\";\nStringBuilder builder=new StringBuilder(sCadena);\nsCadena=builder.reverse().toString();\n",
+            "ldc": []
         },
         {
             "nombre": "setCharAt",
-            "description": "",
+            "description": "Modifica el car\u00e1cter que se encuentre en la posici\u00f3n especificada con un nuevo car\u00e1cter.\n",
             "parametros": [
                 {
                     "nombre": "char ch",
@@ -361,7 +365,9 @@
                     "nombre": "int index",
                     "description": ""
                 }
-            ]
+            ],
+            "code": "StringBuilder sCadena = new StringBuilder(\"Esto es una frase muy interesante\");\nString caracter;\nSystem.out.println(sCadena);\n\t\t\nfor (int x=0;x<sCadena.length();x++) {\n  caracter = Character.toString(sCadena.charAt(x));\n  if (x%2 == 0)\n    sCadena.setCharAt(x,caracter.toUpperCase().charAt(0));\n  else\n    sCadena.setCharAt(x,caracter.toLowerCase().charAt(0));\t\t\t\n}\n\t\t\nSystem.out.println(sCadena);\n",
+            "ldc": []
         },
         {
             "nombre": "setLength",

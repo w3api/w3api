@@ -8,7 +8,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int scanlineStride",
+                    "nombre": "int[] bankIndices",
                     "description": ""
                 },
                 {
@@ -16,11 +16,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] bandOffsets",
+                    "nombre": "int dataType",
                     "description": ""
                 },
                 {
-                    "nombre": "int dataType",
+                    "nombre": "int numBands",
                     "description": ""
                 },
                 {
@@ -28,11 +28,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int[] bankIndices",
+                    "nombre": "int scanlineStride",
                     "description": ""
                 },
                 {
-                    "nombre": "int numBands",
+                    "nombre": "int[] bandOffsets",
                     "description": ""
                 }
             ]
@@ -72,6 +72,10 @@
             "description": "",
             "parametros": [
                 {
+                    "nombre": "int x",
+                    "description": ""
+                },
+                {
                     "nombre": "DataBuffer data",
                     "description": ""
                 },
@@ -82,10 +86,6 @@
                 {
                     "nombre": "int y",
                     "description": ""
-                },
-                {
-                    "nombre": "int x",
-                    "description": ""
                 }
             ]
         },
@@ -94,7 +94,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] iArray",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -106,7 +106,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int[] iArray",
                     "description": ""
                 }
             ]
@@ -116,7 +116,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] iArray",
+                    "nombre": "DataBuffer data",
                     "description": ""
                 },
                 {
@@ -124,15 +124,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "DataBuffer data",
-                    "description": ""
-                },
-                {
                     "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -146,11 +146,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -158,7 +154,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -168,11 +168,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -180,7 +176,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -190,11 +190,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int b",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -202,7 +198,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int b",
+                    "description": ""
+                },
+                {
+                    "nombre": "int y",
                     "description": ""
                 }
             ]
@@ -212,7 +212,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] iArray",
+                    "nombre": "DataBuffer data",
                     "description": ""
                 },
                 {
@@ -220,23 +220,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "DataBuffer data",
-                    "description": ""
-                },
-                {
-                    "nombre": "int b",
-                    "description": ""
-                },
-                {
                     "nombre": "int y",
                     "description": ""
                 },
                 {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
                     "description": ""
                 }
             ]
@@ -245,6 +245,10 @@
             "nombre": "setDataElements",
             "description": "",
             "parametros": [
+                {
+                    "nombre": "int x",
+                    "description": ""
+                },
                 {
                     "nombre": "DataBuffer data",
                     "description": ""
@@ -256,10 +260,6 @@
                 {
                     "nombre": "int y",
                     "description": ""
-                },
-                {
-                    "nombre": "int x",
-                    "description": ""
                 }
             ]
         },
@@ -268,7 +268,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] iArray",
+                    "nombre": "int x",
                     "description": ""
                 },
                 {
@@ -280,7 +280,7 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int x",
+                    "nombre": "int[] iArray",
                     "description": ""
                 }
             ]
@@ -290,7 +290,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] iArray",
+                    "nombre": "DataBuffer data",
                     "description": ""
                 },
                 {
@@ -298,15 +298,15 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "DataBuffer data",
-                    "description": ""
-                },
-                {
                     "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
                     "description": ""
                 },
                 {
@@ -320,15 +320,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "float s",
-                    "description": ""
-                },
-                {
                     "nombre": "DataBuffer data",
-                    "description": ""
-                },
-                {
-                    "nombre": "int y",
                     "description": ""
                 },
                 {
@@ -340,11 +332,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int b",
+                    "nombre": "int y",
+                    "description": ""
+                },
+                {
+                    "nombre": "float s",
                     "description": ""
                 },
                 {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
                     "description": ""
                 }
             ]
@@ -354,7 +354,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int[] iArray",
+                    "nombre": "DataBuffer data",
                     "description": ""
                 },
                 {
@@ -362,23 +362,23 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int w",
-                    "description": ""
-                },
-                {
-                    "nombre": "DataBuffer data",
-                    "description": ""
-                },
-                {
-                    "nombre": "int b",
-                    "description": ""
-                },
-                {
                     "nombre": "int y",
                     "description": ""
                 },
                 {
+                    "nombre": "int[] iArray",
+                    "description": ""
+                },
+                {
+                    "nombre": "int w",
+                    "description": ""
+                },
+                {
                     "nombre": "int x",
+                    "description": ""
+                },
+                {
+                    "nombre": "int b",
                     "description": ""
                 }
             ]

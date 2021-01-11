@@ -1,18 +1,23 @@
 {
-    "description": "",
+    "description": "Excepci\u00f3n que se lanza cuando intentamos acceder a un \u00edndice err\u00f3neo del array. Es decir, un \u00edndice negativo o un \u00edndice por encima del tama\u00f1o del array.\n",
     "code": "",
-    "ldc": [],
+    "ldc": [
+        {
+            "nombre": "Rotar un array",
+            "url": "http://lineadecodigo.com/java/rotar-un-array/"
+        }
+    ],
     "constructores": [
         {
             "nombre": "ArrayIndexOutOfBoundsException",
             "description": "",
             "parametros": [
                 {
-                    "nombre": "String s",
+                    "nombre": "int index",
                     "description": ""
                 },
                 {
-                    "nombre": "int index",
+                    "nombre": "String s",
                     "description": ""
                 }
             ]

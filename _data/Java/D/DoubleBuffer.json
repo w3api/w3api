@@ -58,11 +58,7 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int index",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
+                    "nombre": "int length",
                     "description": ""
                 },
                 {
@@ -70,7 +66,11 @@
                     "description": ""
                 },
                 {
-                    "nombre": "int length",
+                    "nombre": "int index",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
@@ -100,19 +100,19 @@
                     "description": ""
                 },
                 {
-                    "nombre": "DoubleBuffer src",
-                    "description": ""
-                },
-                {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "int length",
                     "description": ""
                 },
                 {
+                    "nombre": "DoubleBuffer src",
+                    "description": ""
+                },
+                {
                     "nombre": "double[] src",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 },
                 {
@@ -134,15 +134,15 @@
             "description": "",
             "parametros": [
                 {
-                    "nombre": "int offset",
-                    "description": ""
-                },
-                {
                     "nombre": "int length",
                     "description": ""
                 },
                 {
                     "nombre": "double[] array",
+                    "description": ""
+                },
+                {
+                    "nombre": "int offset",
                     "description": ""
                 }
             ]
