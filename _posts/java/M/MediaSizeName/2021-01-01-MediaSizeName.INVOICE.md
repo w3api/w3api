@@ -1,0 +1,37 @@
+---
+title: MediaSizeName.INVOICE
+permalink: Java/MediaSizeName/INVOICE
+date: 2021-01-11
+key: JavaJava.M.MediaSizeName
+category: java
+tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.M.MediaSizeName.campos valor="INVOICE" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+static MediaSizeName INVOICE
+~~~
+
+## Clase Padre
+[MediaSizeName](/Java/MediaSizeName/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
