@@ -1,0 +1,37 @@
+---
+title: ExtensionInstallerService.getExtensionLocation()
+permalink: Java/ExtensionInstallerService/getExtensionLocation
+date: 2021-01-11
+key: JavaJava.E.ExtensionInstallerService
+category: java
+tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.4.2']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.E.ExtensionInstallerService.metodos valor="getExtensionLocation" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+URL getExtensionLocation()
+~~~
+
+## Clase Padre
+[ExtensionInstallerService](/Java/ExtensionInstallerService/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

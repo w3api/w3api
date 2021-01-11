@@ -1,0 +1,43 @@
+---
+title: DocumentationTool.DocumentationTask.setLocale()
+permalink: Java/DocumentationTool/DocumentationTask/setLocale
+date: 2021-01-11
+key: JavaJava.D.DocumentationTool.DocumentationTask
+category: java
+tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.0']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.D.DocumentationTool.DocumentationTask.metodos valor="setLocale" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+void setLocale(Locale locale)
+~~~
+
+## Parámetros
+* **Locale locale**,  {% include w3api/param_description.html metodo=_dato parametro="Locale locale" %}
+
+## Excepciones
+[IllegalStateException](/Java/IllegalStateException/)
+
+## Clase Padre
+[DocumentationTool.DocumentationTask](/Java/DocumentationTool/DocumentationTask/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

@@ -1,0 +1,37 @@
+---
+title: EffectConverter.clearCache()
+permalink: Java/EffectConverter/clearCache
+date: 2021-01-11
+key: JavaJava.E.EffectConverter
+category: java
+tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.E.EffectConverter.metodos valor="clearCache" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+public static void clearCache()
+~~~
+
+## Clase Padre
+[EffectConverter](/Java/EffectConverter/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
