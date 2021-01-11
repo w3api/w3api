@@ -1,0 +1,185 @@
+---
+title: PageAttributes.MediaType
+permalink: Java/PageAttributes/MediaType
+date: 2021-01-11
+key: JavaJava.P.PageAttributes.MediaType
+category: java
+tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.3']
+sidebar: 
+  nav: java
+---
+
+## Descripción
+{{site.data.Java.P.PageAttributes.MediaType.description }}
+
+## Sintaxis
+~~~java
+public static final class PageAttributes.MediaType extends Object
+~~~
+
+## Campos
+* [A](/Java/PageAttributes/MediaType/A)
+* [A0](/Java/PageAttributes/MediaType/A0)
+* [A1](/Java/PageAttributes/MediaType/A1)
+* [A10](/Java/PageAttributes/MediaType/A10)
+* [A2](/Java/PageAttributes/MediaType/A2)
+* [A3](/Java/PageAttributes/MediaType/A3)
+* [A4](/Java/PageAttributes/MediaType/A4)
+* [A5](/Java/PageAttributes/MediaType/A5)
+* [A6](/Java/PageAttributes/MediaType/A6)
+* [A7](/Java/PageAttributes/MediaType/A7)
+* [A8](/Java/PageAttributes/MediaType/A8)
+* [A9](/Java/PageAttributes/MediaType/A9)
+* [B](/Java/PageAttributes/MediaType/B)
+* [B0](/Java/PageAttributes/MediaType/B0)
+* [B1](/Java/PageAttributes/MediaType/B1)
+* [B10](/Java/PageAttributes/MediaType/B10)
+* [B2](/Java/PageAttributes/MediaType/B2)
+* [B3](/Java/PageAttributes/MediaType/B3)
+* [B4](/Java/PageAttributes/MediaType/B4)
+* [B5](/Java/PageAttributes/MediaType/B5)
+* [B6](/Java/PageAttributes/MediaType/B6)
+* [B7](/Java/PageAttributes/MediaType/B7)
+* [B8](/Java/PageAttributes/MediaType/B8)
+* [B9](/Java/PageAttributes/MediaType/B9)
+* [C](/Java/PageAttributes/MediaType/C)
+* [C0](/Java/PageAttributes/MediaType/C0)
+* [C1](/Java/PageAttributes/MediaType/C1)
+* [C10](/Java/PageAttributes/MediaType/C10)
+* [C2](/Java/PageAttributes/MediaType/C2)
+* [C3](/Java/PageAttributes/MediaType/C3)
+* [C4](/Java/PageAttributes/MediaType/C4)
+* [C5](/Java/PageAttributes/MediaType/C5)
+* [C6](/Java/PageAttributes/MediaType/C6)
+* [C7](/Java/PageAttributes/MediaType/C7)
+* [C8](/Java/PageAttributes/MediaType/C8)
+* [C9](/Java/PageAttributes/MediaType/C9)
+* [D](/Java/PageAttributes/MediaType/D)
+* [E](/Java/PageAttributes/MediaType/E)
+* [ENV_10](/Java/PageAttributes/MediaType/ENV_10)
+* [ENV_10X13](/Java/PageAttributes/MediaType/ENV_10X13)
+* [ENV_10X14](/Java/PageAttributes/MediaType/ENV_10X14)
+* [ENV_10X15](/Java/PageAttributes/MediaType/ENV_10X15)
+* [ENV_11](/Java/PageAttributes/MediaType/ENV_11)
+* [ENV_12](/Java/PageAttributes/MediaType/ENV_12)
+* [ENV_14](/Java/PageAttributes/MediaType/ENV_14)
+* [ENV_6X9](/Java/PageAttributes/MediaType/ENV_6X9)
+* [ENV_7X9](/Java/PageAttributes/MediaType/ENV_7X9)
+* [ENV_9](/Java/PageAttributes/MediaType/ENV_9)
+* [ENV_9X11](/Java/PageAttributes/MediaType/ENV_9X11)
+* [ENV_9X12](/Java/PageAttributes/MediaType/ENV_9X12)
+* [ENV_INVITE](/Java/PageAttributes/MediaType/ENV_INVITE)
+* [ENV_ITALY](/Java/PageAttributes/MediaType/ENV_ITALY)
+* [ENV_MONARCH](/Java/PageAttributes/MediaType/ENV_MONARCH)
+* [ENV_PERSONAL](/Java/PageAttributes/MediaType/ENV_PERSONAL)
+* [EXECUTIVE](/Java/PageAttributes/MediaType/EXECUTIVE)
+* [FOLIO](/Java/PageAttributes/MediaType/FOLIO)
+* [INVITE](/Java/PageAttributes/MediaType/INVITE)
+* [INVITE_ENVELOPE](/Java/PageAttributes/MediaType/INVITE_ENVELOPE)
+* [INVOICE](/Java/PageAttributes/MediaType/INVOICE)
+* [ISO_2A0](/Java/PageAttributes/MediaType/ISO_2A0)
+* [ISO_4A0](/Java/PageAttributes/MediaType/ISO_4A0)
+* [ISO_A0](/Java/PageAttributes/MediaType/ISO_A0)
+* [ISO_A1](/Java/PageAttributes/MediaType/ISO_A1)
+* [ISO_A10](/Java/PageAttributes/MediaType/ISO_A10)
+* [ISO_A2](/Java/PageAttributes/MediaType/ISO_A2)
+* [ISO_A3](/Java/PageAttributes/MediaType/ISO_A3)
+* [ISO_A4](/Java/PageAttributes/MediaType/ISO_A4)
+* [ISO_A5](/Java/PageAttributes/MediaType/ISO_A5)
+* [ISO_A6](/Java/PageAttributes/MediaType/ISO_A6)
+* [ISO_A7](/Java/PageAttributes/MediaType/ISO_A7)
+* [ISO_A8](/Java/PageAttributes/MediaType/ISO_A8)
+* [ISO_A9](/Java/PageAttributes/MediaType/ISO_A9)
+* [ISO_B0](/Java/PageAttributes/MediaType/ISO_B0)
+* [ISO_B1](/Java/PageAttributes/MediaType/ISO_B1)
+* [ISO_B10](/Java/PageAttributes/MediaType/ISO_B10)
+* [ISO_B2](/Java/PageAttributes/MediaType/ISO_B2)
+* [ISO_B3](/Java/PageAttributes/MediaType/ISO_B3)
+* [ISO_B4](/Java/PageAttributes/MediaType/ISO_B4)
+* [ISO_B4_ENVELOPE](/Java/PageAttributes/MediaType/ISO_B4_ENVELOPE)
+* [ISO_B5](/Java/PageAttributes/MediaType/ISO_B5)
+* [ISO_B5_ENVELOPE](/Java/PageAttributes/MediaType/ISO_B5_ENVELOPE)
+* [ISO_B6](/Java/PageAttributes/MediaType/ISO_B6)
+* [ISO_B7](/Java/PageAttributes/MediaType/ISO_B7)
+* [ISO_B8](/Java/PageAttributes/MediaType/ISO_B8)
+* [ISO_B9](/Java/PageAttributes/MediaType/ISO_B9)
+* [ISO_C0](/Java/PageAttributes/MediaType/ISO_C0)
+* [ISO_C0_ENVELOPE](/Java/PageAttributes/MediaType/ISO_C0_ENVELOPE)
+* [ISO_C1](/Java/PageAttributes/MediaType/ISO_C1)
+* [ISO_C1_ENVELOPE](/Java/PageAttributes/MediaType/ISO_C1_ENVELOPE)
+* [ISO_C10](/Java/PageAttributes/MediaType/ISO_C10)
+* [ISO_C10_ENVELOPE](/Java/PageAttributes/MediaType/ISO_C10_ENVELOPE)
+* [ISO_C2](/Java/PageAttributes/MediaType/ISO_C2)
+* [ISO_C2_ENVELOPE](/Java/PageAttributes/MediaType/ISO_C2_ENVELOPE)
+* [ISO_C3](/Java/PageAttributes/MediaType/ISO_C3)
+* [ISO_C3_ENVELOPE](/Java/PageAttributes/MediaType/ISO_C3_ENVELOPE)
+* [ISO_C4](/Java/PageAttributes/MediaType/ISO_C4)
+* [ISO_C4_ENVELOPE](/Java/PageAttributes/MediaType/ISO_C4_ENVELOPE)
+* [ISO_C5](/Java/PageAttributes/MediaType/ISO_C5)
+* [ISO_C5_ENVELOPE](/Java/PageAttributes/MediaType/ISO_C5_ENVELOPE)
+* [ISO_C6](/Java/PageAttributes/MediaType/ISO_C6)
+* [ISO_C6_ENVELOPE](/Java/PageAttributes/MediaType/ISO_C6_ENVELOPE)
+* [ISO_C7](/Java/PageAttributes/MediaType/ISO_C7)
+* [ISO_C7_ENVELOPE](/Java/PageAttributes/MediaType/ISO_C7_ENVELOPE)
+* [ISO_C8](/Java/PageAttributes/MediaType/ISO_C8)
+* [ISO_C8_ENVELOPE](/Java/PageAttributes/MediaType/ISO_C8_ENVELOPE)
+* [ISO_C9](/Java/PageAttributes/MediaType/ISO_C9)
+* [ISO_C9_ENVELOPE](/Java/PageAttributes/MediaType/ISO_C9_ENVELOPE)
+* [ISO_DESIGNATED_LONG](/Java/PageAttributes/MediaType/ISO_DESIGNATED_LONG)
+* [ISO_DESIGNATED_LONG_ENVELOPE](/Java/PageAttributes/MediaType/ISO_DESIGNATED_LONG_ENVELOPE)
+* [ITALY](/Java/PageAttributes/MediaType/ITALY)
+* [ITALY_ENVELOPE](/Java/PageAttributes/MediaType/ITALY_ENVELOPE)
+* [JIS_B0](/Java/PageAttributes/MediaType/JIS_B0)
+* [JIS_B1](/Java/PageAttributes/MediaType/JIS_B1)
+* [JIS_B10](/Java/PageAttributes/MediaType/JIS_B10)
+* [JIS_B2](/Java/PageAttributes/MediaType/JIS_B2)
+* [JIS_B3](/Java/PageAttributes/MediaType/JIS_B3)
+* [JIS_B4](/Java/PageAttributes/MediaType/JIS_B4)
+* [JIS_B5](/Java/PageAttributes/MediaType/JIS_B5)
+* [JIS_B6](/Java/PageAttributes/MediaType/JIS_B6)
+* [JIS_B7](/Java/PageAttributes/MediaType/JIS_B7)
+* [JIS_B8](/Java/PageAttributes/MediaType/JIS_B8)
+* [JIS_B9](/Java/PageAttributes/MediaType/JIS_B9)
+* [LEDGER](/Java/PageAttributes/MediaType/LEDGER)
+* [LEGAL](/Java/PageAttributes/MediaType/LEGAL)
+* [LETTER](/Java/PageAttributes/MediaType/LETTER)
+* [MONARCH](/Java/PageAttributes/MediaType/MONARCH)
+* [MONARCH_ENVELOPE](/Java/PageAttributes/MediaType/MONARCH_ENVELOPE)
+* [NA_10X13_ENVELOPE](/Java/PageAttributes/MediaType/NA_10X13_ENVELOPE)
+* [NA_10X14_ENVELOPE](/Java/PageAttributes/MediaType/NA_10X14_ENVELOPE)
+* [NA_10X15_ENVELOPE](/Java/PageAttributes/MediaType/NA_10X15_ENVELOPE)
+* [NA_6X9_ENVELOPE](/Java/PageAttributes/MediaType/NA_6X9_ENVELOPE)
+* [NA_7X9_ENVELOPE](/Java/PageAttributes/MediaType/NA_7X9_ENVELOPE)
+* [NA_9X11_ENVELOPE](/Java/PageAttributes/MediaType/NA_9X11_ENVELOPE)
+* [NA_9X12_ENVELOPE](/Java/PageAttributes/MediaType/NA_9X12_ENVELOPE)
+* [NA_LEGAL](/Java/PageAttributes/MediaType/NA_LEGAL)
+* [NA_LETTER](/Java/PageAttributes/MediaType/NA_LETTER)
+* [NA_NUMBER_10_ENVELOPE](/Java/PageAttributes/MediaType/NA_NUMBER_10_ENVELOPE)
+* [NA_NUMBER_11_ENVELOPE](/Java/PageAttributes/MediaType/NA_NUMBER_11_ENVELOPE)
+* [NA_NUMBER_12_ENVELOPE](/Java/PageAttributes/MediaType/NA_NUMBER_12_ENVELOPE)
+* [NA_NUMBER_14_ENVELOPE](/Java/PageAttributes/MediaType/NA_NUMBER_14_ENVELOPE)
+* [NA_NUMBER_9_ENVELOPE](/Java/PageAttributes/MediaType/NA_NUMBER_9_ENVELOPE)
+* [NOTE](/Java/PageAttributes/MediaType/NOTE)
+* [PERSONAL](/Java/PageAttributes/MediaType/PERSONAL)
+* [PERSONAL_ENVELOPE](/Java/PageAttributes/MediaType/PERSONAL_ENVELOPE)
+* [QUARTO](/Java/PageAttributes/MediaType/QUARTO)
+* [STATEMENT](/Java/PageAttributes/MediaType/STATEMENT)
+* [TABLOID](/Java/PageAttributes/MediaType/TABLOID)
+
+## Métodos
+* [hashCode()](/Java/PageAttributes/MediaType/hashCode)
+* [toString()](/Java/PageAttributes/MediaType/toString)
+
+## Ejemplo
+~~~java
+{{ site.data.Java.P.PageAttributes.MediaType.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in site.data.Java.P.PageAttributes.MediaType.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
