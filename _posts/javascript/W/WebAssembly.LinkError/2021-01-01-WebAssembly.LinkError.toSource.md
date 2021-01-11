@@ -1,0 +1,37 @@
+---
+title: WebAssembly.LinkError.toSource()
+permalink: Javascript/WebAssembly/LinkError/toSource
+date: 2021-01-11
+key: JavascriptJavascript.W.WebAssembly.LinkError
+category: javascript
+tags: ['metodo javascript']
+sidebar: 
+  nav: javascript
+---
+
+{% include w3api/datos.html clase=site.data.Javascript.W.WebAssembly.LinkError.metodos valor="toSource" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~javascript
+e.toSource()
+~~~
+
+## Objeto Padre
+[WebAssembly.LinkError](/javascript/WebAssembly/LinkError/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

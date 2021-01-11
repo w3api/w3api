@@ -1,0 +1,41 @@
+---
+title: Uint8ClampedArray.map()
+permalink: Javascript/Uint8ClampedArray/map
+date: 2021-01-11
+key: JavascriptJavascript.U.Uint8ClampedArray
+category: javascript
+tags: ['metodo javascript']
+sidebar: 
+  nav: javascript
+---
+
+{% include w3api/datos.html clase=site.data.Javascript.U.Uint8ClampedArray.metodos valor="map" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~javascript
+typedArray.map(mapFn[, thisArg])
+~~~
+
+## Parámetros
+* **mapFn**,  {% include w3api/param_description.html metodo=_dato parametro="mapFn" %}
+* **thisArg**,  {% include w3api/param_description.html metodo=_dato parametro="thisArg" %}
+
+## Objeto Padre
+[Uint8ClampedArray](/javascript/Uint8ClampedArray/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>

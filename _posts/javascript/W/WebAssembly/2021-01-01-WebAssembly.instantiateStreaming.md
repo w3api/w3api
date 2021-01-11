@@ -1,0 +1,41 @@
+---
+title: WebAssembly.instantiateStreaming()
+permalink: Javascript/WebAssembly/instantiateStreaming
+date: 2021-01-11
+key: JavascriptJavascript.W.WebAssembly
+category: javascript
+tags: ['metodo javascript']
+sidebar: 
+  nav: javascript
+---
+
+{% include w3api/datos.html clase=site.data.Javascript.W.WebAssembly.metodos valor="instantiateStreaming" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~javascript
+Promise<ResultObject> WebAssembly.instantiateStreaming(source, importObject);
+~~~
+
+## Parámetros
+* **source**,  {% include w3api/param_description.html metodo=_dato parametro="source" %}
+* **importObject**,  {% include w3api/param_description.html metodo=_dato parametro="importObject" %}
+
+## Objeto Padre
+[WebAssembly](/javascript/WebAssembly/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
