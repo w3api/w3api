@@ -1,0 +1,37 @@
+---
+title: InputMethodEvent.CARET_POSITION_CHANGED
+permalink: Java/InputMethodEvent-java-awt-event/CARET_POSITION_CHANGED
+date: 2021-01-11
+key: JavaJava.I.InputMethodEvent-java-awt-event
+category: java
+tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.2']
+sidebar: 
+  nav: java
+---
+
+{% include w3api/datos.html clase=site.data.Java.I.InputMethodEvent-java-awt-event.campos valor="CARET_POSITION_CHANGED" %}
+
+## Descripción
+{{_dato.description }}
+
+## Sintaxis
+~~~java
+static int CARET_POSITION_CHANGED
+~~~
+
+## Clase Padre
+[InputMethodEvent](/Java/InputMethodEvent-java-awt-event/)
+
+## Ejemplo
+~~~java
+{{ _dato.code}}
+~~~
+
+## Líneas de Código
+<ul>
+{%- for _ldc in _dato.ldc -%}
+   <li>
+       <a href="{{_ldc['url'] }}">{{ _ldc['nombre'] }}</a>
+   </li>
+{%- endfor -%}
+</ul>
