@@ -1,9 +1,9 @@
 ---
 title: TypeMismatchHelper
-permalink: Java/TypeMismatchHelper/
+permalink: /Java/TypeMismatchHelper//
 date: 2021-01-11
-key: JavaJava.T.TypeMismatchHelper
-category: java
+key: Java.T.TypeMismatchHelper
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

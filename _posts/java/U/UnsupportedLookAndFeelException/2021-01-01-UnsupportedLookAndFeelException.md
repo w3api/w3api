@@ -1,9 +1,9 @@
 ---
 title: UnsupportedLookAndFeelException
-permalink: Java/UnsupportedLookAndFeelException
+permalink: /Java/UnsupportedLookAndFeelException/
 date: 2021-01-11
-key: JavaJava.U.UnsupportedLookAndFeelException
-category: java
+key: Java.U.UnsupportedLookAndFeelException
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

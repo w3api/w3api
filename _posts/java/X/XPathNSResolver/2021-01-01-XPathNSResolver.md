@@ -1,9 +1,9 @@
 ---
 title: XPathNSResolver
-permalink: Java/XPathNSResolver
+permalink: /Java/XPathNSResolver/
 date: 2021-01-11
-key: JavaJava.X.XPathNSResolver
-category: java
+key: Java.X.XPathNSResolver
+category: Java
 tags: ['java se', 'org.w3c.dom.xpath', 'jdk.xml.dom', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

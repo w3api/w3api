@@ -1,9 +1,9 @@
 ---
 title: UnixPrincipal
-permalink: Java/UnixPrincipal
+permalink: /Java/UnixPrincipal/
 date: 2021-01-11
-key: JavaJava.U.UnixPrincipal
-category: java
+key: Java.U.UnixPrincipal
+category: Java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

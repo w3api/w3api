@@ -1,9 +1,9 @@
 ---
 title: XPathException.getCause()
-permalink: Java/XPathException-javax-xml-xpath/getCause
+permalink: /Java/XPathException-javax-xml-xpath/getCause/
 date: 2021-01-11
-key: JavaJava.X.XPathException-javax-xml-xpath
-category: java
+key: Java.X.XPathException-javax-xml-xpath
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

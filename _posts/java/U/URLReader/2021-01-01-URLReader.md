@@ -1,9 +1,9 @@
 ---
 title: URLReader
-permalink: Java/URLReader
+permalink: /Java/URLReader/
 date: 2021-01-11
-key: JavaJava.U.URLReader
-category: java
+key: Java.U.URLReader
+category: Java
 tags: ['java se', 'jdk.nashorn.api.scripting', 'jdk.scripting.nashorn', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

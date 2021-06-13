@@ -1,9 +1,9 @@
 ---
 title: ZonedDateTime.withDayOfYear()
-permalink: Java/ZonedDateTime/withDayOfYear
+permalink: /Java/ZonedDateTime/withDayOfYear/
 date: 2021-01-11
-key: JavaJava.Z.ZonedDateTime
-category: java
+key: Java.Z.ZonedDateTime
+category: Java
 tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

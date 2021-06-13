@@ -1,9 +1,9 @@
 ---
 title: UserPrincipalNotFoundException
-permalink: Java/UserPrincipalNotFoundException
+permalink: /Java/UserPrincipalNotFoundException/
 date: 2021-01-11
-key: JavaJava.U.UserPrincipalNotFoundException
-category: java
+key: Java.U.UserPrincipalNotFoundException
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

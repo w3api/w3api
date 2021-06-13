@@ -1,9 +1,9 @@
 ---
 title: TreeViewSkin.TreeViewSkin()
-permalink: Java/TreeViewSkin/TreeViewSkin
+permalink: /Java/TreeViewSkin/TreeViewSkin/
 date: 2021-01-11
-key: JavaJava.T.TreeViewSkin
-category: java
+key: Java.T.TreeViewSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

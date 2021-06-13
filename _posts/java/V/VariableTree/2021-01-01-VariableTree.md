@@ -1,9 +1,9 @@
 ---
 title: VariableTree
-permalink: Java/VariableTree/
+permalink: /Java/VariableTree//
 date: 2021-01-11
-key: JavaJava.V.VariableTree
-category: java
+key: Java.V.VariableTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

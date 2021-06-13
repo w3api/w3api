@@ -1,9 +1,9 @@
 ---
 title: XmlAnyAttribute
-permalink: Java/XmlAnyAttribute
+permalink: /Java/XmlAnyAttribute/
 date: 2021-01-11
-key: JavaJava.X.XmlAnyAttribute
-category: java
+key: Java.X.XmlAnyAttribute
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'anotacion java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

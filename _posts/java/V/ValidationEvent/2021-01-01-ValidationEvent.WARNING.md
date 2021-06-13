@@ -1,9 +1,9 @@
 ---
 title: ValidationEvent.WARNING
-permalink: Java/ValidationEvent/WARNING
+permalink: /Java/ValidationEvent/WARNING/
 date: 2021-01-11
-key: JavaJava.V.ValidationEvent
-category: java
+key: Java.V.ValidationEvent
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'campo java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 
   nav: java

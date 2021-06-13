@@ -1,9 +1,9 @@
 ---
 title: Visibility.dontUseGui()
-permalink: Java/Visibility/dontUseGui
+permalink: /Java/Visibility/dontUseGui/
 date: 2021-01-11
-key: JavaJava.V.Visibility
-category: java
+key: Java.V.Visibility
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UnrecoverableEntryException
-permalink: Java/UnrecoverableEntryException
+permalink: /Java/UnrecoverableEntryException/
 date: 2021-01-11
-key: JavaJava.U.UnrecoverableEntryException
-category: java
+key: Java.U.UnrecoverableEntryException
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

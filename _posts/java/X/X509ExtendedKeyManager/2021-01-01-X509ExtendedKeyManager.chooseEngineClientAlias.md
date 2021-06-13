@@ -1,9 +1,9 @@
 ---
 title: X509ExtendedKeyManager.chooseEngineClientAlias()
-permalink: Java/X509ExtendedKeyManager/chooseEngineClientAlias
+permalink: /Java/X509ExtendedKeyManager/chooseEngineClientAlias/
 date: 2021-01-11
-key: JavaJava.X.X509ExtendedKeyManager
-category: java
+key: Java.X.X509ExtendedKeyManager
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

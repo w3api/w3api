@@ -1,9 +1,9 @@
 ---
 title: UnsolicitedNotificationEvent
-permalink: Java/UnsolicitedNotificationEvent
+permalink: /Java/UnsolicitedNotificationEvent/
 date: 2021-01-11
-key: JavaJava.U.UnsolicitedNotificationEvent
-category: java
+key: Java.U.UnsolicitedNotificationEvent
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

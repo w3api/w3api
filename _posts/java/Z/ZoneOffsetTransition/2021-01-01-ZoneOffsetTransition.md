@@ -1,9 +1,9 @@
 ---
 title: ZoneOffsetTransition
-permalink: Java/ZoneOffsetTransition
+permalink: /Java/ZoneOffsetTransition/
 date: 2021-01-11
-key: JavaJava.Z.ZoneOffsetTransition
-category: java
+key: Java.Z.ZoneOffsetTransition
+category: Java
 tags: ['java se', 'java.time.zone', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

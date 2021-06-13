@@ -1,9 +1,9 @@
 ---
 title: VirtualMachineDescriptor
-permalink: Java/VirtualMachineDescriptor
+permalink: /Java/VirtualMachineDescriptor/
 date: 2021-01-11
-key: JavaJava.V.VirtualMachineDescriptor
-category: java
+key: Java.V.VirtualMachineDescriptor
+category: Java
 tags: ['java se', 'com.sun.tools.attach', 'jdk.attach', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

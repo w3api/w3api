@@ -1,9 +1,9 @@
 ---
 title: TypeKindVisitor8.visitIntersection()
-permalink: Java/TypeKindVisitor8/visitIntersection
+permalink: /Java/TypeKindVisitor8/visitIntersection/
 date: 2021-01-11
-key: JavaJava.T.TypeKindVisitor8
-category: java
+key: Java.T.TypeKindVisitor8
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

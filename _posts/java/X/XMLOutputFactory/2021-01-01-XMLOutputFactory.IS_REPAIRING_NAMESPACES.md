@@ -1,9 +1,9 @@
 ---
 title: XMLOutputFactory.IS_REPAIRING_NAMESPACES
-permalink: Java/XMLOutputFactory/IS_REPAIRING_NAMESPACES
+permalink: /Java/XMLOutputFactory/IS_REPAIRING_NAMESPACES/
 date: 2021-01-11
-key: JavaJava.X.XMLOutputFactory
-category: java
+key: Java.X.XMLOutputFactory
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

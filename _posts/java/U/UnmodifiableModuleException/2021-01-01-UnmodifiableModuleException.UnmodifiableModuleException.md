@@ -1,9 +1,9 @@
 ---
 title: UnmodifiableModuleException.UnmodifiableModuleException()
-permalink: Java/UnmodifiableModuleException/UnmodifiableModuleException
+permalink: /Java/UnmodifiableModuleException/UnmodifiableModuleException/
 date: 2021-01-11
-key: JavaJava.U.UnmodifiableModuleException
-category: java
+key: Java.U.UnmodifiableModuleException
+category: Java
 tags: ['java se', 'java.lang.instrument', 'java.instrument', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

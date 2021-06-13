@@ -1,9 +1,9 @@
 ---
 title: XMLInputFactory.IS_VALIDATING
-permalink: Java/XMLInputFactory/IS_VALIDATING
+permalink: /Java/XMLInputFactory/IS_VALIDATING/
 date: 2021-01-11
-key: JavaJava.X.XMLInputFactory
-category: java
+key: Java.X.XMLInputFactory
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

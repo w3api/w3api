@@ -1,9 +1,9 @@
 ---
 title: X509CRLSelector.match()
-permalink: Java/X509CRLSelector/match
+permalink: /Java/X509CRLSelector/match/
 date: 2021-01-11
-key: JavaJava.X.X509CRLSelector
-category: java
+key: Java.X.X509CRLSelector
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XMLEventAllocator
-permalink: Java/XMLEventAllocator
+permalink: /Java/XMLEventAllocator/
 date: 2021-01-11
-key: JavaJava.X.XMLEventAllocator
-category: java
+key: Java.X.XMLEventAllocator
+category: Java
 tags: ['java se', 'javax.xml.stream.util', 'java.xml', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ValueAxis.currentLowerBound
-permalink: Java/ValueAxis/currentLowerBound
+permalink: /Java/ValueAxis/currentLowerBound/
 date: 2021-01-11
-key: JavaJava.V.ValueAxis
-category: java
+key: Java.V.ValueAxis
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

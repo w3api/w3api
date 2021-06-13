@@ -1,9 +1,9 @@
 ---
 title: VolatileCallSite.setTarget()
-permalink: Java/VolatileCallSite/setTarget
+permalink: /Java/VolatileCallSite/setTarget/
 date: 2021-01-11
-key: JavaJava.V.VolatileCallSite
-category: java
+key: Java.V.VolatileCallSite
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

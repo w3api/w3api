@@ -1,9 +1,9 @@
 ---
 title: TypeBasedGuardingDynamicLinker
-permalink: Java/TypeBasedGuardingDynamicLinker
+permalink: /Java/TypeBasedGuardingDynamicLinker/
 date: 2021-01-11
-key: JavaJava.T.TypeBasedGuardingDynamicLinker
-category: java
+key: Java.T.TypeBasedGuardingDynamicLinker
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

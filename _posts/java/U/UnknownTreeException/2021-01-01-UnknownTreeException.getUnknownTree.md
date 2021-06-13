@@ -1,9 +1,9 @@
 ---
 title: UnknownTreeException.getUnknownTree()
-permalink: Java/UnknownTreeException/getUnknownTree
+permalink: /Java/UnknownTreeException/getUnknownTree/
 date: 2021-01-11
-key: JavaJava.U.UnknownTreeException
-category: java
+key: Java.U.UnknownTreeException
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

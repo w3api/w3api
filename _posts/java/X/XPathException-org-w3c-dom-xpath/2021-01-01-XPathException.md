@@ -1,9 +1,9 @@
 ---
 title: XPathException
-permalink: Java/XPathException-org-w3c-dom-xpath
+permalink: /Java/XPathException-org-w3c-dom-xpath/
 date: 2021-01-11
-key: JavaJava.X.XPathException-org-w3c-dom-xpath
-category: java
+key: Java.X.XPathException-org-w3c-dom-xpath
+category: Java
 tags: ['java se', 'org.w3c.dom.xpath', 'jdk.xml.dom', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

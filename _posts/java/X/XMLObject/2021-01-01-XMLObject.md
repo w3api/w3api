@@ -1,9 +1,9 @@
 ---
 title: XMLObject
-permalink: Java/XMLObject
+permalink: /Java/XMLObject/
 date: 2021-01-11
-key: JavaJava.X.XMLObject
-category: java
+key: Java.X.XMLObject
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

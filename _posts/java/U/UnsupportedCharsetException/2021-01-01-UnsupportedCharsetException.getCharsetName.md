@@ -1,9 +1,9 @@
 ---
 title: UnsupportedCharsetException.getCharsetName()
-permalink: Java/UnsupportedCharsetException/getCharsetName
+permalink: /Java/UnsupportedCharsetException/getCharsetName/
 date: 2021-01-11
-key: JavaJava.U.UnsupportedCharsetException
-category: java
+key: Java.U.UnsupportedCharsetException
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

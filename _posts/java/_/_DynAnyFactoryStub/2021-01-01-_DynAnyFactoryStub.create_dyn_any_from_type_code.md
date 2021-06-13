@@ -2,8 +2,8 @@
 title: _DynAnyFactoryStub.create_dyn_any_from_type_code()
 permalink: /Java/_DynAnyFactoryStub/create_dyn_any_from_type_code/
 date: 2021-01-11
-key: JavaJava._._DynAnyFactoryStub
-category: java
+key: Java._._DynAnyFactoryStub
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: _NamingContextExtStub.resolve_str()
 permalink: /Java/_NamingContextExtStub/resolve_str/
 date: 2021-01-11
-key: JavaJava._._NamingContextExtStub
-category: java
+key: Java._._NamingContextExtStub
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

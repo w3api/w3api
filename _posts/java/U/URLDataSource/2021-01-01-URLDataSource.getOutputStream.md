@@ -1,9 +1,9 @@
 ---
 title: URLDataSource.getOutputStream()
-permalink: Java/URLDataSource/getOutputStream
+permalink: /Java/URLDataSource/getOutputStream/
 date: 2021-01-11
-key: JavaJava.U.URLDataSource
-category: java
+key: Java.U.URLDataSource
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

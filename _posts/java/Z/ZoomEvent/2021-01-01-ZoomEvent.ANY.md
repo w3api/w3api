@@ -1,9 +1,9 @@
 ---
 title: ZoomEvent.ANY
-permalink: Java/ZoomEvent/ANY
+permalink: /Java/ZoomEvent/ANY/
 date: 2021-01-11
-key: JavaJava.Z.ZoomEvent
-category: java
+key: Java.Z.ZoomEvent
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'campo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UTFDataFormatException
-permalink: Java/UTFDataFormatException
+permalink: /Java/UTFDataFormatException/
 date: 2021-01-11
-key: JavaJava.U.UTFDataFormatException
-category: java
+key: Java.U.UTFDataFormatException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

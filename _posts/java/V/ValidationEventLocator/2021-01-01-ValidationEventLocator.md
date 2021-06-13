@@ -1,9 +1,9 @@
 ---
 title: ValidationEventLocator
-permalink: Java/ValidationEventLocator
+permalink: /Java/ValidationEventLocator/
 date: 2021-01-11
-key: JavaJava.V.ValidationEventLocator
-category: java
+key: Java.V.ValidationEventLocator
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'interface java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 
   nav: java

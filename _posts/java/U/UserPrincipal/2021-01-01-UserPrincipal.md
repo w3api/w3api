@@ -1,9 +1,9 @@
 ---
 title: UserPrincipal
-permalink: Java/UserPrincipal/
+permalink: /Java/UserPrincipal//
 date: 2021-01-11
-key: JavaJava.U.UserPrincipal
-category: java
+key: Java.U.UserPrincipal
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

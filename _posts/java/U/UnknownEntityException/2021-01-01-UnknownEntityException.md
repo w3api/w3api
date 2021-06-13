@@ -1,9 +1,9 @@
 ---
 title: UnknownEntityException
-permalink: Java/UnknownEntityException
+permalink: /Java/UnknownEntityException/
 date: 2021-01-11
-key: JavaJava.U.UnknownEntityException
-category: java
+key: Java.U.UnknownEntityException
+category: Java
 tags: ['java se', 'javax.lang.model', 'java.compiler', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

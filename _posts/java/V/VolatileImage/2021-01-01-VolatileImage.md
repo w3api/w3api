@@ -1,9 +1,9 @@
 ---
 title: VolatileImage
-permalink: Java/VolatileImage
+permalink: /Java/VolatileImage/
 date: 2021-01-11
-key: JavaJava.V.VolatileImage
-category: java
+key: Java.V.VolatileImage
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

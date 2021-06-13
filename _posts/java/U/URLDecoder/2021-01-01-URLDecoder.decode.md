@@ -1,9 +1,9 @@
 ---
 title: URLDecoder.decode()
-permalink: Java/URLDecoder/decode
+permalink: /Java/URLDecoder/decode/
 date: 2021-01-11
-key: JavaJava.U.URLDecoder
-category: java
+key: Java.U.URLDecoder
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

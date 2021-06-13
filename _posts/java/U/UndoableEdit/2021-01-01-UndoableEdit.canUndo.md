@@ -1,9 +1,9 @@
 ---
 title: UndoableEdit.canUndo()
-permalink: Java/UndoableEdit/canUndo
+permalink: /Java/UndoableEdit/canUndo/
 date: 2021-01-11
-key: JavaJava.U.UndoableEdit
-category: java
+key: Java.U.UndoableEdit
+category: Java
 tags: ['java se', 'javax.swing.undo', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

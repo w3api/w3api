@@ -1,9 +1,9 @@
 ---
 title: XPathVariableResolver
-permalink: Java/XPathVariableResolver
+permalink: /Java/XPathVariableResolver/
 date: 2021-01-11
-key: JavaJava.X.XPathVariableResolver
-category: java
+key: Java.X.XPathVariableResolver
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

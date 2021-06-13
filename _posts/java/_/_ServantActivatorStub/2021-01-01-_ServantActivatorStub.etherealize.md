@@ -2,8 +2,8 @@
 title: _ServantActivatorStub.etherealize()
 permalink: /Java/_ServantActivatorStub/etherealize/
 date: 2021-01-11
-key: JavaJava._._ServantActivatorStub
-category: java
+key: Java._._ServantActivatorStub
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: VetoableChangeSupport
-permalink: Java/VetoableChangeSupport
+permalink: /Java/VetoableChangeSupport/
 date: 2021-01-11
-key: JavaJava.V.VetoableChangeSupport
-category: java
+key: Java.V.VetoableChangeSupport
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

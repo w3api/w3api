@@ -1,9 +1,9 @@
 ---
 title: UIResource
-permalink: Java/UIResource
+permalink: /Java/UIResource/
 date: 2021-01-11
-key: JavaJava.U.UIResource
-category: java
+key: Java.U.UIResource
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UnionMemberHelper
-permalink: Java/UnionMemberHelper
+permalink: /Java/UnionMemberHelper/
 date: 2021-01-11
-key: JavaJava.U.UnionMemberHelper
-category: java
+key: Java.U.UnionMemberHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

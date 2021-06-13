@@ -1,9 +1,9 @@
 ---
 title: X509CertSelector.getMatchAllSubjectAltNames()
-permalink: Java/X509CertSelector/getMatchAllSubjectAltNames
+permalink: /Java/X509CertSelector/getMatchAllSubjectAltNames/
 date: 2021-01-11
-key: JavaJava.X.X509CertSelector
-category: java
+key: Java.X.X509CertSelector
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UnsupportedFlavorException
-permalink: Java/UnsupportedFlavorException
+permalink: /Java/UnsupportedFlavorException/
 date: 2021-01-11
-key: JavaJava.U.UnsupportedFlavorException
-category: java
+key: Java.U.UnsupportedFlavorException
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

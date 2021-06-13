@@ -1,9 +1,9 @@
 ---
 title: XMLGregorianCalendar
-permalink: Java/XMLGregorianCalendar
+permalink: /Java/XMLGregorianCalendar/
 date: 2021-01-11
-key: JavaJava.X.XMLGregorianCalendar
-category: java
+key: Java.X.XMLGregorianCalendar
+category: Java
 tags: ['java se', 'javax.xml.datatype', 'java.xml', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

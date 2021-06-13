@@ -1,9 +1,9 @@
 ---
 title: XMLEventConsumer
-permalink: Java/XMLEventConsumer
+permalink: /Java/XMLEventConsumer/
 date: 2021-01-11
-key: JavaJava.X.XMLEventConsumer
-category: java
+key: Java.X.XMLEventConsumer
+category: Java
 tags: ['java se', 'javax.xml.stream.util', 'java.xml', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XMLStructure
-permalink: Java/XMLStructure
+permalink: /Java/XMLStructure/
 date: 2021-01-11
-key: JavaJava.X.XMLStructure
-category: java
+key: Java.X.XMLStructure
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ZipInputStream.getNextEntry()
-permalink: Java/ZipInputStream/getNextEntry
+permalink: /Java/ZipInputStream/getNextEntry/
 date: 2021-01-11
-key: JavaJava.Z.ZipInputStream
-category: java
+key: Java.Z.ZipInputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

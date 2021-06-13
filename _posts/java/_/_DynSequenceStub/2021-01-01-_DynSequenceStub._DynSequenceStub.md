@@ -2,8 +2,8 @@
 title: _DynSequenceStub._DynSequenceStub()
 permalink: /Java/_DynSequenceStub/_DynSequenceStub/
 date: 2021-01-11
-key: JavaJava._._DynSequenceStub
-category: java
+key: Java._._DynSequenceStub
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

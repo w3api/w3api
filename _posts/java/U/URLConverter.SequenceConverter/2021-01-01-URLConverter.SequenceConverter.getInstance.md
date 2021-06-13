@@ -1,9 +1,9 @@
 ---
 title: URLConverter.SequenceConverter.getInstance()
-permalink: Java/URLConverter/SequenceConverter/getInstance
+permalink: /Java/URLConverter/SequenceConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.U.URLConverter.SequenceConverter
-category: java
+key: Java.U.URLConverter.SequenceConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

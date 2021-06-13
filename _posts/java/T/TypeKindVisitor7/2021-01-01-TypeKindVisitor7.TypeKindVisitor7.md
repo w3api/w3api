@@ -1,9 +1,9 @@
 ---
 title: TypeKindVisitor7.TypeKindVisitor7()
-permalink: Java/TypeKindVisitor7/TypeKindVisitor7
+permalink: /Java/TypeKindVisitor7/TypeKindVisitor7/
 date: 2021-01-11
-key: JavaJava.T.TypeKindVisitor7
-category: java
+key: Java.T.TypeKindVisitor7
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

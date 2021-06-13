@@ -1,9 +1,9 @@
 ---
 title: ViewFactory
-permalink: Java/ViewFactory
+permalink: /Java/ViewFactory/
 date: 2021-01-11
-key: JavaJava.V.ViewFactory
-category: java
+key: Java.V.ViewFactory
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

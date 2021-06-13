@@ -1,9 +1,9 @@
 ---
 title: TypeElement.getSuperclass()
-permalink: Java/TypeElement/getSuperclass
+permalink: /Java/TypeElement/getSuperclass/
 date: 2021-01-11
-key: JavaJava.T.TypeElement
-category: java
+key: Java.T.TypeElement
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

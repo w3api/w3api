@@ -1,9 +1,9 @@
 ---
 title: VMStartEvent.thread()
-permalink: Java/VMStartEvent/thread
+permalink: /Java/VMStartEvent/thread/
 date: 2021-01-11
-key: JavaJava.V.VMStartEvent
-category: java
+key: Java.V.VMStartEvent
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

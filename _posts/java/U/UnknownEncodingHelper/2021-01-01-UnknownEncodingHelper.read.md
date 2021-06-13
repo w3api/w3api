@@ -1,9 +1,9 @@
 ---
 title: UnknownEncodingHelper.read()
-permalink: Java/UnknownEncodingHelper/read
+permalink: /Java/UnknownEncodingHelper/read/
 date: 2021-01-11
-key: JavaJava.U.UnknownEncodingHelper
-category: java
+key: Java.U.UnknownEncodingHelper
+category: Java
 tags: ['java se', 'org.omg.IOP.CodecFactoryPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XmlSchemaType.DEFAULT
-permalink: Java/XmlSchemaType/DEFAULT
+permalink: /Java/XmlSchemaType/DEFAULT/
 date: 2021-01-11
-key: JavaJava.X.XmlSchemaType.DEFAULT
-category: java
+key: Java.X.XmlSchemaType.DEFAULT
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

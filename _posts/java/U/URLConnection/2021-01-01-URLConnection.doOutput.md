@@ -1,9 +1,9 @@
 ---
 title: URLConnection.doOutput
-permalink: Java/URLConnection/doOutput
+permalink: /Java/URLConnection/doOutput/
 date: 2021-01-11
-key: JavaJava.U.URLConnection
-category: java
+key: Java.U.URLConnection
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

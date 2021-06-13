@@ -1,9 +1,9 @@
 ---
 title: VoiceStatus.VoiceStatus()
-permalink: Java/VoiceStatus/VoiceStatus
+permalink: /Java/VoiceStatus/VoiceStatus/
 date: 2021-01-11
-key: JavaJava.V.VoiceStatus
-category: java
+key: Java.V.VoiceStatus
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

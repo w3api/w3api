@@ -1,9 +1,9 @@
 ---
 title: UnresolvedPermission.getActions()
-permalink: Java/UnresolvedPermission/getActions
+permalink: /Java/UnresolvedPermission/getActions/
 date: 2021-01-11
-key: JavaJava.U.UnresolvedPermission
-category: java
+key: Java.U.UnresolvedPermission
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

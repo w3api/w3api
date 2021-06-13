@@ -1,9 +1,9 @@
 ---
 title: XAException.XAException()
-permalink: Java/XAException/XAException
+permalink: /Java/XAException/XAException/
 date: 2021-01-11
-key: JavaJava.X.XAException
-category: java
+key: Java.X.XAException
+category: Java
 tags: ['java se', 'javax.transaction.xa', 'java.sql', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TypeCodeHolder
-permalink: Java/TypeCodeHolder
+permalink: /Java/TypeCodeHolder/
 date: 2021-01-11
-key: JavaJava.T.TypeCodeHolder
-category: java
+key: Java.T.TypeCodeHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 
   nav: java

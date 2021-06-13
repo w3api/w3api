@@ -1,9 +1,9 @@
 ---
 title: UnmodifiableClassException.UnmodifiableClassException()
-permalink: Java/UnmodifiableClassException/UnmodifiableClassException
+permalink: /Java/UnmodifiableClassException/UnmodifiableClassException/
 date: 2021-01-11
-key: JavaJava.U.UnmodifiableClassException
-category: java
+key: Java.U.UnmodifiableClassException
+category: Java
 tags: ['java se', 'java.lang.instrument', 'java.instrument', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

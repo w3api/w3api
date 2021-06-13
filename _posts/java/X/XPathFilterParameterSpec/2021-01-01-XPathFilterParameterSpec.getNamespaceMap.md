@@ -1,9 +1,9 @@
 ---
 title: XPathFilterParameterSpec.getNamespaceMap()
-permalink: Java/XPathFilterParameterSpec/getNamespaceMap
+permalink: /Java/XPathFilterParameterSpec/getNamespaceMap/
 date: 2021-01-11
-key: JavaJava.X.XPathFilterParameterSpec
-category: java
+key: Java.X.XPathFilterParameterSpec
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

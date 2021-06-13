@@ -1,9 +1,9 @@
 ---
 title: UserSessionEvent.Reason.values()
-permalink: Java/UserSessionEvent/Reason/values
+permalink: /Java/UserSessionEvent/Reason/values/
 date: 2021-01-11
-key: JavaJava.U.UserSessionEvent.Reason
-category: java
+key: Java.U.UserSessionEvent.Reason
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

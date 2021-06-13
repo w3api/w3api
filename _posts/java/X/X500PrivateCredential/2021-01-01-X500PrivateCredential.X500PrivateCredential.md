@@ -1,9 +1,9 @@
 ---
 title: X500PrivateCredential.X500PrivateCredential()
-permalink: Java/X500PrivateCredential/X500PrivateCredential
+permalink: /Java/X500PrivateCredential/X500PrivateCredential/
 date: 2021-01-11
-key: JavaJava.X.X500PrivateCredential
-category: java
+key: Java.X.X500PrivateCredential
+category: Java
 tags: ['java se', 'javax.security.auth.x500', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

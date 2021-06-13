@@ -1,9 +1,9 @@
 ---
 title: UnionTypeTree.getTypeAlternatives()
-permalink: Java/UnionTypeTree/getTypeAlternatives
+permalink: /Java/UnionTypeTree/getTypeAlternatives/
 date: 2021-01-11
-key: JavaJava.U.UnionTypeTree
-category: java
+key: Java.U.UnionTypeTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

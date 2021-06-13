@@ -1,9 +1,9 @@
 ---
 title: URIDereferencer
-permalink: Java/URIDereferencer
+permalink: /Java/URIDereferencer/
 date: 2021-01-11
-key: JavaJava.U.URIDereferencer
-category: java
+key: Java.U.URIDereferencer
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

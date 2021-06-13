@@ -1,9 +1,9 @@
 ---
 title: XmlElementDecl.GLOBAL.XmlElementDecl.GLOBAL()
-permalink: Java/XmlElementDecl/GLOBAL/XmlElementDecl/GLOBAL
+permalink: /Java/XmlElementDecl/GLOBAL/XmlElementDecl/GLOBAL/
 date: 2021-01-11
-key: JavaJava.X.XmlElementDecl.GLOBAL
-category: java
+key: Java.X.XmlElementDecl.GLOBAL
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

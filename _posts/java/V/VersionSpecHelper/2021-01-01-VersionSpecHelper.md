@@ -1,9 +1,9 @@
 ---
 title: VersionSpecHelper
-permalink: Java/VersionSpecHelper
+permalink: /Java/VersionSpecHelper/
 date: 2021-01-11
-key: JavaJava.V.VersionSpecHelper
-category: java
+key: Java.V.VersionSpecHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

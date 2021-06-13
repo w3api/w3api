@@ -1,9 +1,9 @@
 ---
 title: TrustManagerFactorySpi
-permalink: Java/TrustManagerFactorySpi
+permalink: /Java/TrustManagerFactorySpi/
 date: 2021-01-11
-key: JavaJava.T.TrustManagerFactorySpi
-category: java
+key: Java.T.TrustManagerFactorySpi
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

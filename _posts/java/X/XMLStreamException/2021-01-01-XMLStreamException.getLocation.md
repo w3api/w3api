@@ -1,9 +1,9 @@
 ---
 title: XMLStreamException.getLocation()
-permalink: Java/XMLStreamException/getLocation
+permalink: /Java/XMLStreamException/getLocation/
 date: 2021-01-11
-key: JavaJava.X.XMLStreamException
-category: java
+key: Java.X.XMLStreamException
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

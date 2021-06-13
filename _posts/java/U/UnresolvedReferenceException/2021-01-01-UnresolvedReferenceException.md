@@ -1,9 +1,9 @@
 ---
 title: UnresolvedReferenceException
-permalink: Java/UnresolvedReferenceException
+permalink: /Java/UnresolvedReferenceException/
 date: 2021-01-11
-key: JavaJava.U.UnresolvedReferenceException
-category: java
+key: Java.U.UnresolvedReferenceException
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TypeVariable.annotations()
-permalink: Java/TypeVariable-com-sun-javadoc/annotations
+permalink: /Java/TypeVariable-com-sun-javadoc/annotations/
 date: 2021-01-11
-key: JavaJava.T.TypeVariable-com-sun-javadoc
-category: java
+key: Java.T.TypeVariable-com-sun-javadoc
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

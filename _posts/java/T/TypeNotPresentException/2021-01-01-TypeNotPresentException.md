@@ -1,9 +1,9 @@
 ---
 title: TypeNotPresentException
-permalink: Java/TypeNotPresentException
+permalink: /Java/TypeNotPresentException/
 date: 2021-01-11
-key: JavaJava.T.TypeNotPresentException
-category: java
+key: Java.T.TypeNotPresentException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

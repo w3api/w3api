@@ -1,9 +1,9 @@
 ---
 title: ZoneRulesException.ZoneRulesException()
-permalink: Java/ZoneRulesException/ZoneRulesException
+permalink: /Java/ZoneRulesException/ZoneRulesException/
 date: 2021-01-11
-key: JavaJava.Z.ZoneRulesException
-category: java
+key: Java.Z.ZoneRulesException
+category: Java
 tags: ['java se', 'java.time.zone', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

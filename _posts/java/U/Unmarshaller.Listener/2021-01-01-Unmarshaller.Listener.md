@@ -1,9 +1,9 @@
 ---
 title: Unmarshaller.Listener
-permalink: Java/Unmarshaller/Listener
+permalink: /Java/Unmarshaller/Listener/
 date: 2021-01-11
-key: JavaJava.U.Unmarshaller.Listener
-category: java
+key: Java.U.Unmarshaller.Listener
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'clase java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

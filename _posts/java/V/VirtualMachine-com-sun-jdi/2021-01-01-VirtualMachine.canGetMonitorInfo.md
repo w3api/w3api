@@ -1,9 +1,9 @@
 ---
 title: VirtualMachine.canGetMonitorInfo()
-permalink: Java/VirtualMachine-com-sun-jdi/canGetMonitorInfo
+permalink: /Java/VirtualMachine-com-sun-jdi/canGetMonitorInfo/
 date: 2021-01-11
-key: JavaJava.V.VirtualMachine-com-sun-jdi
-category: java
+key: Java.V.VirtualMachine-com-sun-jdi
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

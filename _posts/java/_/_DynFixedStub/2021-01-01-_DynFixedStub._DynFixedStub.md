@@ -2,8 +2,8 @@
 title: _DynFixedStub._DynFixedStub()
 permalink: /Java/_DynFixedStub/_DynFixedStub/
 date: 2021-01-11
-key: JavaJava._._DynFixedStub
-category: java
+key: Java._._DynFixedStub
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

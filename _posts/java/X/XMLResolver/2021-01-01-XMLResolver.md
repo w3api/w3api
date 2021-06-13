@@ -1,9 +1,9 @@
 ---
 title: XMLResolver
-permalink: Java/XMLResolver
+permalink: /Java/XMLResolver/
 date: 2021-01-11
-key: JavaJava.X.XMLResolver
-category: java
+key: Java.X.XMLResolver
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XMLCryptoContext.put()
-permalink: Java/XMLCryptoContext/put
+permalink: /Java/XMLCryptoContext/put/
 date: 2021-01-11
-key: JavaJava.X.XMLCryptoContext
-category: java
+key: Java.X.XMLCryptoContext
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UnrecoverableKeyException.UnrecoverableKeyException()
-permalink: Java/UnrecoverableKeyException/UnrecoverableKeyException
+permalink: /Java/UnrecoverableKeyException/UnrecoverableKeyException/
 date: 2021-01-11
-key: JavaJava.U.UnrecoverableKeyException
-category: java
+key: Java.U.UnrecoverableKeyException
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

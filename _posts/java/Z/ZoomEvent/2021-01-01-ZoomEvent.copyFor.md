@@ -1,9 +1,9 @@
 ---
 title: ZoomEvent.copyFor()
-permalink: Java/ZoomEvent/copyFor
+permalink: /Java/ZoomEvent/copyFor/
 date: 2021-01-11
-key: JavaJava.Z.ZoomEvent
-category: java
+key: Java.Z.ZoomEvent
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

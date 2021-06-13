@@ -1,9 +1,9 @@
 ---
 title: XMLFormatter
-permalink: Java/XMLFormatter
+permalink: /Java/XMLFormatter/
 date: 2021-01-11
-key: JavaJava.X.XMLFormatter
-category: java
+key: Java.X.XMLFormatter
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

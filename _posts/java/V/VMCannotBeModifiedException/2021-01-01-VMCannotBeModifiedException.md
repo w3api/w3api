@@ -1,9 +1,9 @@
 ---
 title: VMCannotBeModifiedException
-permalink: Java/VMCannotBeModifiedException
+permalink: /Java/VMCannotBeModifiedException/
 date: 2021-01-11
-key: JavaJava.V.VMCannotBeModifiedException
-category: java
+key: Java.V.VMCannotBeModifiedException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

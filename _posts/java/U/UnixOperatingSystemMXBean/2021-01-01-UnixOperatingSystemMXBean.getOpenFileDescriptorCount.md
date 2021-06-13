@@ -1,9 +1,9 @@
 ---
 title: UnixOperatingSystemMXBean.getOpenFileDescriptorCount()
-permalink: Java/UnixOperatingSystemMXBean/getOpenFileDescriptorCount
+permalink: /Java/UnixOperatingSystemMXBean/getOpenFileDescriptorCount/
 date: 2021-01-11
-key: JavaJava.U.UnixOperatingSystemMXBean
-category: java
+key: Java.U.UnixOperatingSystemMXBean
+category: Java
 tags: ['java se', 'com.sun.management', 'jdk.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

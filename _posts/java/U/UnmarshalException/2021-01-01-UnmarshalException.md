@@ -1,9 +1,9 @@
 ---
 title: UnmarshalException
-permalink: Java/UnmarshalException/
+permalink: /Java/UnmarshalException//
 date: 2021-01-11
-key: JavaJava.U.UnmarshalException
-category: java
+key: Java.U.UnmarshalException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

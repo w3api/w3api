@@ -1,9 +1,9 @@
 ---
 title: XPathException
-permalink: Java/XPathException/
+permalink: /Java/XPathException//
 date: 2021-01-11
-key: JavaJava.X.XPathException
-category: java
+key: Java.X.XPathException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

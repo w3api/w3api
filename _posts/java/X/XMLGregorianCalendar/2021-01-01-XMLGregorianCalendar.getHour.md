@@ -1,9 +1,9 @@
 ---
 title: XMLGregorianCalendar.getHour()
-permalink: Java/XMLGregorianCalendar/getHour
+permalink: /Java/XMLGregorianCalendar/getHour/
 date: 2021-01-11
-key: JavaJava.X.XMLGregorianCalendar
-category: java
+key: Java.X.XMLGregorianCalendar
+category: Java
 tags: ['java se', 'javax.xml.datatype', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

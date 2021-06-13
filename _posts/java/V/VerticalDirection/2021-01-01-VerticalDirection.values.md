@@ -1,9 +1,9 @@
 ---
 title: VerticalDirection.values()
-permalink: Java/VerticalDirection/values
+permalink: /Java/VerticalDirection/values/
 date: 2021-01-11
-key: JavaJava.V.VerticalDirection
-category: java
+key: Java.V.VerticalDirection
+category: Java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

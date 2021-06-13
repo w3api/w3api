@@ -1,9 +1,9 @@
 ---
 title: URIResolver
-permalink: Java/URIResolver
+permalink: /Java/URIResolver/
 date: 2021-01-11
-key: JavaJava.U.URIResolver
-category: java
+key: Java.U.URIResolver
+category: Java
 tags: ['java se', 'javax.xml.transform', 'java.xml', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

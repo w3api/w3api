@@ -1,9 +1,9 @@
 ---
 title: TriangleMesh.getPoints()
-permalink: Java/TriangleMesh/getPoints
+permalink: /Java/TriangleMesh/getPoints/
 date: 2021-01-11
-key: JavaJava.T.TriangleMesh
-category: java
+key: Java.T.TriangleMesh
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

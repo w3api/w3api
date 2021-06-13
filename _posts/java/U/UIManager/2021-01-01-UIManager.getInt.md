@@ -1,9 +1,9 @@
 ---
 title: UIManager.getInt()
-permalink: Java/UIManager/getInt
+permalink: /Java/UIManager/getInt/
 date: 2021-01-11
-key: JavaJava.U.UIManager
-category: java
+key: Java.U.UIManager
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

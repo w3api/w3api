@@ -1,9 +1,9 @@
 ---
 title: XMLFilter
-permalink: Java/XMLFilter
+permalink: /Java/XMLFilter/
 date: 2021-01-11
-key: JavaJava.X.XMLFilter
-category: java
+key: Java.X.XMLFilter
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'interface java', 'Java 1.4', 'SAX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TypeMismatch
-permalink: Java/TypeMismatch/
+permalink: /Java/TypeMismatch//
 date: 2021-01-11
-key: JavaJava.T.TypeMismatch
-category: java
+key: Java.T.TypeMismatch
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

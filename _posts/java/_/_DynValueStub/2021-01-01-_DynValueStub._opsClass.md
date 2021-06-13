@@ -2,8 +2,8 @@
 title: _DynValueStub._opsClass
 permalink: /Java/_DynValueStub/_opsClass/
 date: 2021-01-11
-key: JavaJava._._DynValueStub
-category: java
+key: Java._._DynValueStub
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

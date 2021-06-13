@@ -1,9 +1,9 @@
 ---
 title: ZoneOffsetTransitionRule.getTimeDefinition()
-permalink: Java/ZoneOffsetTransitionRule/getTimeDefinition
+permalink: /Java/ZoneOffsetTransitionRule/getTimeDefinition/
 date: 2021-01-11
-key: JavaJava.Z.ZoneOffsetTransitionRule
-category: java
+key: Java.Z.ZoneOffsetTransitionRule
+category: Java
 tags: ['java se', 'java.time.zone', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

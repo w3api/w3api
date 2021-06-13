@@ -1,9 +1,9 @@
 ---
 title: X509Certificate.getSigAlgOID()
-permalink: Java/X509Certificate-javax-security-cert/getSigAlgOID
+permalink: /Java/X509Certificate-javax-security-cert/getSigAlgOID/
 date: 2021-01-11
-key: JavaJava.X.X509Certificate-javax-security-cert
-category: java
+key: Java.X.X509Certificate-javax-security-cert
+category: Java
 tags: ['java se', 'javax.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

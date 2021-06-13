@@ -1,9 +1,9 @@
 ---
 title: VertexFormat.getPointIndexOffset()
-permalink: Java/VertexFormat/getPointIndexOffset
+permalink: /Java/VertexFormat/getPointIndexOffset/
 date: 2021-01-11
-key: JavaJava.V.VertexFormat
-category: java
+key: Java.V.VertexFormat
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

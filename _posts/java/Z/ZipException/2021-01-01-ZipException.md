@@ -2,8 +2,8 @@
 title: ZipException
 permalink: /Java/ZipException/
 date: 2021-01-11
-key: JavaJava.Z.ZipException
-category: java
+key: Java.Z.ZipException
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

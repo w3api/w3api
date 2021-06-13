@@ -1,9 +1,9 @@
 ---
 title: VisibilityHelper.id()
-permalink: Java/VisibilityHelper/id
+permalink: /Java/VisibilityHelper/id/
 date: 2021-01-11
-key: JavaJava.V.VisibilityHelper
-category: java
+key: Java.V.VisibilityHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

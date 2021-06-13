@@ -1,9 +1,9 @@
 ---
 title: UnresolvedReferenceException.getSnippet()
-permalink: Java/UnresolvedReferenceException/getSnippet
+permalink: /Java/UnresolvedReferenceException/getSnippet/
 date: 2021-01-11
-key: JavaJava.U.UnresolvedReferenceException
-category: java
+key: Java.U.UnresolvedReferenceException
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

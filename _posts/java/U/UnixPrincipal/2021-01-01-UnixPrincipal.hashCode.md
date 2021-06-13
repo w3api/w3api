@@ -1,9 +1,9 @@
 ---
 title: UnixPrincipal.hashCode()
-permalink: Java/UnixPrincipal/hashCode
+permalink: /Java/UnixPrincipal/hashCode/
 date: 2021-01-11
-key: JavaJava.U.UnixPrincipal
-category: java
+key: Java.U.UnixPrincipal
+category: Java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

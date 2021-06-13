@@ -2,8 +2,8 @@
 title: _DynStructStub.to_any()
 permalink: /Java/_DynStructStub/to_any/
 date: 2021-01-11
-key: JavaJava._._DynStructStub
-category: java
+key: Java._._DynStructStub
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

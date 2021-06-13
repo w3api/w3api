@@ -1,9 +1,9 @@
 ---
 title: USER_EXCEPTION
-permalink: Java/USER_EXCEPTION
+permalink: /Java/USER_EXCEPTION/
 date: 2021-01-11
-key: JavaJava.U.USER_EXCEPTION
-category: java
+key: Java.U.USER_EXCEPTION
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

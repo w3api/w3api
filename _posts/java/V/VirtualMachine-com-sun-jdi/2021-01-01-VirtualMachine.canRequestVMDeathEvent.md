@@ -1,9 +1,9 @@
 ---
 title: VirtualMachine.canRequestVMDeathEvent()
-permalink: Java/VirtualMachine-com-sun-jdi/canRequestVMDeathEvent
+permalink: /Java/VirtualMachine-com-sun-jdi/canRequestVMDeathEvent/
 date: 2021-01-11
-key: JavaJava.V.VirtualMachine-com-sun-jdi
-category: java
+key: Java.V.VirtualMachine-com-sun-jdi
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

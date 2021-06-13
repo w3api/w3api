@@ -1,9 +1,9 @@
 ---
 title: UserDataHandler.NODE_IMPORTED
-permalink: Java/UserDataHandler/NODE_IMPORTED
+permalink: /Java/UserDataHandler/NODE_IMPORTED/
 date: 2021-01-11
-key: JavaJava.U.UserDataHandler
-category: java
+key: Java.U.UserDataHandler
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'campo java', 'Java 1.5', 'DOM Level 3']
 sidebar: 
   nav: java

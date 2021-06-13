@@ -1,9 +1,9 @@
 ---
 title: UnknownHostException
-permalink: Java/UnknownHostException/
+permalink: /Java/UnknownHostException//
 date: 2021-01-11
-key: JavaJava.U.UnknownHostException
-category: java
+key: Java.U.UnknownHostException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

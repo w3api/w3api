@@ -1,9 +1,9 @@
 ---
 title: XmlWriter
-permalink: Java/XmlWriter
+permalink: /Java/XmlWriter/
 date: 2021-01-11
-key: JavaJava.X.XmlWriter
-category: java
+key: Java.X.XmlWriter
+category: Java
 tags: ['java se', 'javax.sql.rowset.spi', 'java.sql.rowset', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

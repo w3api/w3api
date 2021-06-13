@@ -1,9 +1,9 @@
 ---
 title: UnknownBlockTagTree
-permalink: Java/UnknownBlockTagTree
+permalink: /Java/UnknownBlockTagTree/
 date: 2021-01-11
-key: JavaJava.U.UnknownBlockTagTree
-category: java
+key: Java.U.UnknownBlockTagTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

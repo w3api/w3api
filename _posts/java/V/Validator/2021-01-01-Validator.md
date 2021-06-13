@@ -1,9 +1,9 @@
 ---
 title: Validator
-permalink: Java/Validator/
+permalink: /Java/Validator//
 date: 2021-01-11
-key: JavaJava.V.Validator
-category: java
+key: Java.V.Validator
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

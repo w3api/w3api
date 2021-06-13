@@ -1,9 +1,9 @@
 ---
 title: TypeVariable
-permalink: Java/TypeVariable/
+permalink: /Java/TypeVariable//
 date: 2021-01-11
-key: JavaJava.T.TypeVariable
-category: java
+key: Java.T.TypeVariable
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

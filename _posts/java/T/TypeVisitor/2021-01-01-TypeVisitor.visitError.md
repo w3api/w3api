@@ -1,9 +1,9 @@
 ---
 title: TypeVisitor.visitError()
-permalink: Java/TypeVisitor/visitError
+permalink: /Java/TypeVisitor/visitError/
 date: 2021-01-11
-key: JavaJava.T.TypeVisitor
-category: java
+key: Java.T.TypeVisitor
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XPathFactoryConfigurationException.XPathFactoryConfigurationException()
-permalink: Java/XPathFactoryConfigurationException/XPathFactoryConfigurationException
+permalink: /Java/XPathFactoryConfigurationException/XPathFactoryConfigurationException/
 date: 2021-01-11
-key: JavaJava.X.XPathFactoryConfigurationException
-category: java
+key: Java.X.XPathFactoryConfigurationException
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

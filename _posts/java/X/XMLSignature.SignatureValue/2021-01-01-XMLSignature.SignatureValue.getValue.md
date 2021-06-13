@@ -1,9 +1,9 @@
 ---
 title: XMLSignature.SignatureValue.getValue()
-permalink: Java/XMLSignature/SignatureValue/getValue
+permalink: /Java/XMLSignature/SignatureValue/getValue/
 date: 2021-01-11
-key: JavaJava.X.XMLSignature.SignatureValue
-category: java
+key: Java.X.XMLSignature.SignatureValue
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

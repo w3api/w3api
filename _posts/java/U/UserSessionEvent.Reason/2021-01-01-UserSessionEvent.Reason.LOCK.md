@@ -1,9 +1,9 @@
 ---
 title: UserSessionEvent.Reason.LOCK
-permalink: Java/UserSessionEvent/Reason/LOCK
+permalink: /Java/UserSessionEvent/Reason/LOCK/
 date: 2021-01-11
-key: JavaJava.U.UserSessionEvent.Reason
-category: java
+key: Java.U.UserSessionEvent.Reason
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

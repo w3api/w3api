@@ -2,8 +2,8 @@
 title: _DynUnionStub.component_count()
 permalink: /Java/_DynUnionStub/component_count/
 date: 2021-01-11
-key: JavaJava._._DynUnionStub
-category: java
+key: Java._._DynUnionStub
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

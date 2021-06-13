@@ -1,9 +1,9 @@
 ---
 title: ValidationEventCollector.reset()
-permalink: Java/ValidationEventCollector/reset
+permalink: /Java/ValidationEventCollector/reset/
 date: 2021-01-11
-key: JavaJava.V.ValidationEventCollector
-category: java
+key: Java.V.ValidationEventCollector
+category: Java
 tags: ['java se', 'javax.xml.bind.util', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 
   nav: java

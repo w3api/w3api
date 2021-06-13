@@ -1,9 +1,9 @@
 ---
 title: URIReferenceException.printStackTrace()
-permalink: Java/URIReferenceException/printStackTrace
+permalink: /Java/URIReferenceException/printStackTrace/
 date: 2021-01-11
-key: JavaJava.U.URIReferenceException
-category: java
+key: Java.U.URIReferenceException
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

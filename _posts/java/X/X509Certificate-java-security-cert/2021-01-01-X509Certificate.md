@@ -1,9 +1,9 @@
 ---
 title: X509Certificate
-permalink: Java/X509Certificate-java-security-cert
+permalink: /Java/X509Certificate-java-security-cert/
 date: 2021-01-11
-key: JavaJava.X.X509Certificate-java-security-cert
-category: java
+key: Java.X.X509Certificate-java-security-cert
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

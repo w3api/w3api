@@ -1,9 +1,9 @@
 ---
 title: UnknownException
-permalink: Java/UnknownException
+permalink: /Java/UnknownException/
 date: 2021-01-11
-key: JavaJava.U.UnknownException
-category: java
+key: Java.U.UnknownException
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

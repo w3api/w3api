@@ -1,9 +1,9 @@
 ---
 title: Unreferenced.unreferenced()
-permalink: Java/Unreferenced/unreferenced
+permalink: /Java/Unreferenced/unreferenced/
 date: 2021-01-11
-key: JavaJava.U.Unreferenced
-category: java
+key: Java.U.Unreferenced
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

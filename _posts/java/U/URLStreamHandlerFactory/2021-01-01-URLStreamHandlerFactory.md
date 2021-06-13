@@ -1,9 +1,9 @@
 ---
 title: URLStreamHandlerFactory
-permalink: Java/URLStreamHandlerFactory
+permalink: /Java/URLStreamHandlerFactory/
 date: 2021-01-11
-key: JavaJava.U.URLStreamHandlerFactory
-category: java
+key: Java.U.URLStreamHandlerFactory
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UnsolicitedNotification.getException()
-permalink: Java/UnsolicitedNotification/getException
+permalink: /Java/UnsolicitedNotification/getException/
 date: 2021-01-11
-key: JavaJava.U.UnsolicitedNotification
-category: java
+key: Java.U.UnsolicitedNotification
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

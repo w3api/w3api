@@ -1,9 +1,9 @@
 ---
 title: XAException.XA_HEURHAZ
-permalink: Java/XAException/XA_HEURHAZ
+permalink: /Java/XAException/XA_HEURHAZ/
 date: 2021-01-11
 key: Java.X.XAException
-category: java
+category: Java
 tags: ['java se', 'javax.transaction.xa', 'java.sql', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UndoManager.getRedoPresentationName()
-permalink: Java/UndoManager/getRedoPresentationName
+permalink: /Java/UndoManager/getRedoPresentationName/
 date: 2021-01-11
-key: JavaJava.U.UndoManager
-category: java
+key: Java.U.UndoManager
+category: Java
 tags: ['java se', 'javax.swing.undo', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

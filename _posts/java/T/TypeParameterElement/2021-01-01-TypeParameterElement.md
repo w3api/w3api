@@ -1,9 +1,9 @@
 ---
 title: TypeParameterElement
-permalink: Java/TypeParameterElement
+permalink: /Java/TypeParameterElement/
 date: 2021-01-11
-key: JavaJava.T.TypeParameterElement
-category: java
+key: Java.T.TypeParameterElement
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

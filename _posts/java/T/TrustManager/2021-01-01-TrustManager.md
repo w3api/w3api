@@ -1,9 +1,9 @@
 ---
 title: TrustManager
-permalink: Java/TrustManager
+permalink: /Java/TrustManager/
 date: 2021-01-11
-key: JavaJava.T.TrustManager
-category: java
+key: Java.T.TrustManager
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XPathFunctionException.XPathFunctionException()
-permalink: Java/XPathFunctionException/XPathFunctionException
+permalink: /Java/XPathFunctionException/XPathFunctionException/
 date: 2021-01-11
-key: JavaJava.X.XPathFunctionException
-category: java
+key: Java.X.XPathFunctionException
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

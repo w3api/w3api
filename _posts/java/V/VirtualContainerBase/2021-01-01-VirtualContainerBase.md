@@ -1,9 +1,9 @@
 ---
 title: VirtualContainerBase
-permalink: Java/VirtualContainerBase
+permalink: /Java/VirtualContainerBase/
 date: 2021-01-11
-key: JavaJava.V.VirtualContainerBase
-category: java
+key: Java.V.VirtualContainerBase
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

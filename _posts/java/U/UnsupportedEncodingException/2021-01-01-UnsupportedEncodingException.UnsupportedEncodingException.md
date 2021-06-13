@@ -1,9 +1,9 @@
 ---
 title: UnsupportedEncodingException.UnsupportedEncodingException()
-permalink: Java/UnsupportedEncodingException/UnsupportedEncodingException
+permalink: /Java/UnsupportedEncodingException/UnsupportedEncodingException/
 date: 2021-01-11
-key: JavaJava.U.UnsupportedEncodingException
-category: java
+key: Java.U.UnsupportedEncodingException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

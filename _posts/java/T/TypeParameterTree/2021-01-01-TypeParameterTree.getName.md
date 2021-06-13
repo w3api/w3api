@@ -1,9 +1,9 @@
 ---
 title: TypeParameterTree.getName()
-permalink: Java/TypeParameterTree/getName
+permalink: /Java/TypeParameterTree/getName/
 date: 2021-01-11
-key: JavaJava.T.TypeParameterTree
-category: java
+key: Java.T.TypeParameterTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

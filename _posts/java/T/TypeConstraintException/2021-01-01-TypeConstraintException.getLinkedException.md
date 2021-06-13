@@ -1,9 +1,9 @@
 ---
 title: TypeConstraintException.getLinkedException()
-permalink: Java/TypeConstraintException/getLinkedException
+permalink: /Java/TypeConstraintException/getLinkedException/
 date: 2021-01-11
-key: JavaJava.T.TypeConstraintException
-category: java
+key: Java.T.TypeConstraintException
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UnmarshalException.UnmarshalException()
-permalink: Java/UnmarshalException-javax-xml-bind/UnmarshalException
+permalink: /Java/UnmarshalException-javax-xml-bind/UnmarshalException/
 date: 2021-01-11
-key: JavaJava.U.UnmarshalException-javax-xml-bind
-category: java
+key: Java.U.UnmarshalException-javax-xml-bind
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 
   nav: java

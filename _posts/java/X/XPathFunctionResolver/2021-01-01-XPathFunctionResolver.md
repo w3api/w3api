@@ -1,9 +1,9 @@
 ---
 title: XPathFunctionResolver
-permalink: Java/XPathFunctionResolver
+permalink: /Java/XPathFunctionResolver/
 date: 2021-01-11
-key: JavaJava.X.XPathFunctionResolver
-category: java
+key: Java.X.XPathFunctionResolver
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

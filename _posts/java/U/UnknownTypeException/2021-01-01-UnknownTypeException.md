@@ -1,9 +1,9 @@
 ---
 title: UnknownTypeException
-permalink: Java/UnknownTypeException
+permalink: /Java/UnknownTypeException/
 date: 2021-01-11
-key: JavaJava.U.UnknownTypeException
-category: java
+key: Java.U.UnknownTypeException
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

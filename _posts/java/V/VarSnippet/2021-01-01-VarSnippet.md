@@ -1,9 +1,9 @@
 ---
 title: VarSnippet
-permalink: Java/VarSnippet
+permalink: /Java/VarSnippet/
 date: 2021-01-11
-key: JavaJava.V.VarSnippet
-category: java
+key: Java.V.VarSnippet
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

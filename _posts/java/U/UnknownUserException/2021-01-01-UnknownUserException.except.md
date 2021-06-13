@@ -1,9 +1,9 @@
 ---
 title: UnknownUserException.except
-permalink: Java/UnknownUserException/except
+permalink: /Java/UnknownUserException/except/
 date: 2021-01-11
-key: JavaJava.U.UnknownUserException
-category: java
+key: Java.U.UnknownUserException
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: VersionTree.getBody()
-permalink: Java/VersionTree/getBody
+permalink: /Java/VersionTree/getBody/
 date: 2021-01-11
-key: JavaJava.V.VersionTree
-category: java
+key: Java.V.VersionTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

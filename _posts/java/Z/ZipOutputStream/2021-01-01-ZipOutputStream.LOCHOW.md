@@ -1,9 +1,9 @@
 ---
 title: ZipOutputStream.LOCHOW
-permalink: Java/ZipOutputStream/LOCHOW
+permalink: /Java/ZipOutputStream/LOCHOW/
 date: 2021-01-11
-key: JavaJava.Z.ZipOutputStream
-category: java
+key: Java.Z.ZipOutputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

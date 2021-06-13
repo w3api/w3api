@@ -1,9 +1,9 @@
 ---
 title: ValidationEventLocatorImpl.setLineNumber()
-permalink: Java/ValidationEventLocatorImpl/setLineNumber
+permalink: /Java/ValidationEventLocatorImpl/setLineNumber/
 date: 2021-01-11
-key: JavaJava.V.ValidationEventLocatorImpl
-category: java
+key: Java.V.ValidationEventLocatorImpl
+category: Java
 tags: ['java se', 'javax.xml.bind.helpers', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ValueDescriptor.getContentType()
-permalink: Java/ValueDescriptor/getContentType
+permalink: /Java/ValueDescriptor/getContentType/
 date: 2021-01-11
-key: JavaJava.V.ValueDescriptor
-category: java
+key: Java.V.ValueDescriptor
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

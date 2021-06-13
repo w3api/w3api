@@ -1,9 +1,9 @@
 ---
 title: UserDefinedFileAttributeView.size()
-permalink: Java/UserDefinedFileAttributeView/size
+permalink: /Java/UserDefinedFileAttributeView/size/
 date: 2021-01-11
-key: JavaJava.U.UserDefinedFileAttributeView
-category: java
+key: Java.U.UserDefinedFileAttributeView
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

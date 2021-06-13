@@ -1,9 +1,9 @@
 ---
 title: XPathEvaluationResult.XPathResultType.NODE
-permalink: Java/XPathEvaluationResult/XPathResultType/NODE
+permalink: /Java/XPathEvaluationResult/XPathResultType/NODE/
 date: 2021-01-11
-key: JavaJava.X.XPathEvaluationResult.XPathResultType
-category: java
+key: Java.X.XPathEvaluationResult.XPathResultType
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

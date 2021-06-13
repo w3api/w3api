@@ -2,8 +2,8 @@
 title: _DynArrayStub.get_elements()
 permalink: /Java/_DynArrayStub/get_elements/
 date: 2021-01-11
-key: JavaJava._._DynArrayStub
-category: java
+key: Java._._DynArrayStub
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

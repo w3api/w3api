@@ -1,9 +1,9 @@
 ---
 title: ValidatorHandler.setErrorHandler()
-permalink: Java/ValidatorHandler/setErrorHandler
+permalink: /Java/ValidatorHandler/setErrorHandler/
 date: 2021-01-11
-key: JavaJava.V.ValidatorHandler
-category: java
+key: Java.V.ValidatorHandler
+category: Java
 tags: ['java se', 'javax.xml.validation', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

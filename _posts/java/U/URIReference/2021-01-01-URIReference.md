@@ -1,9 +1,9 @@
 ---
 title: URIReference
-permalink: Java/URIReference
+permalink: /Java/URIReference/
 date: 2021-01-11
-key: JavaJava.U.URIReference
-category: java
+key: Java.U.URIReference
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

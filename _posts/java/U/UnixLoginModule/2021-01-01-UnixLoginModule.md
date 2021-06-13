@@ -1,9 +1,9 @@
 ---
 title: UnixLoginModule
-permalink: Java/UnixLoginModule
+permalink: /Java/UnixLoginModule/
 date: 2021-01-11
-key: JavaJava.U.UnixLoginModule
-category: java
+key: Java.U.UnixLoginModule
+category: Java
 tags: ['java se', 'com.sun.security.auth.module', 'jdk.security.auth', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

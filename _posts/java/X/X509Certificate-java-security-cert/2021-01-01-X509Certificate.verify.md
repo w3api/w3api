@@ -1,9 +1,9 @@
 ---
 title: X509Certificate.verify()
-permalink: Java/X509Certificate-java-security-cert/verify
+permalink: /Java/X509Certificate-java-security-cert/verify/
 date: 2021-01-11
-key: JavaJava.X.X509Certificate-java-security-cert
-category: java
+key: Java.X.X509Certificate-java-security-cert
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

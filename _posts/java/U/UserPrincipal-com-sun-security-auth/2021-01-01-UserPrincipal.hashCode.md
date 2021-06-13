@@ -1,9 +1,9 @@
 ---
 title: UserPrincipal.hashCode()
-permalink: Java/UserPrincipal-com-sun-security-auth/hashCode
+permalink: /Java/UserPrincipal-com-sun-security-auth/hashCode/
 date: 2021-01-11
-key: JavaJava.U.UserPrincipal-com-sun-security-auth
-category: java
+key: Java.U.UserPrincipal-com-sun-security-auth
+category: Java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

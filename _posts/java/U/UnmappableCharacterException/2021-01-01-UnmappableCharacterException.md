@@ -1,9 +1,9 @@
 ---
 title: UnmappableCharacterException
-permalink: Java/UnmappableCharacterException
+permalink: /Java/UnmappableCharacterException/
 date: 2021-01-11
-key: JavaJava.U.UnmappableCharacterException
-category: java
+key: Java.U.UnmappableCharacterException
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

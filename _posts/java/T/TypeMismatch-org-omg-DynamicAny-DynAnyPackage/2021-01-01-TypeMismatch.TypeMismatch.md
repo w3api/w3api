@@ -1,9 +1,9 @@
 ---
 title: TypeMismatch.TypeMismatch()
-permalink: Java/TypeMismatch-org-omg-DynamicAny-DynAnyPackage/TypeMismatch
+permalink: /Java/TypeMismatch-org-omg-DynamicAny-DynAnyPackage/TypeMismatch/
 date: 2021-01-11
-key: JavaJava.T.TypeMismatch-org-omg-DynamicAny-DynAnyPackage
-category: java
+key: Java.T.TypeMismatch-org-omg-DynamicAny-DynAnyPackage
+category: Java
 tags: ['java se', 'org.omg.DynamicAny.DynAnyPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

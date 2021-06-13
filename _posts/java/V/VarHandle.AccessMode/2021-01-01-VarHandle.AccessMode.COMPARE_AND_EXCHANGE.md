@@ -1,9 +1,9 @@
 ---
 title: VarHandle.AccessMode.COMPARE_AND_EXCHANGE
-permalink: Java/VarHandle/AccessMode/COMPARE_AND_EXCHANGE
+permalink: /Java/VarHandle/AccessMode/COMPARE_AND_EXCHANGE/
 date: 2021-01-11
-key: JavaJava.V.VarHandle.AccessMode
-category: java
+key: Java.V.VarHandle.AccessMode
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

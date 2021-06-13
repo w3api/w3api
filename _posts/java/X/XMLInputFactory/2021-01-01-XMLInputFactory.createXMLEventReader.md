@@ -1,9 +1,9 @@
 ---
 title: XMLInputFactory.createXMLEventReader()
-permalink: Java/XMLInputFactory/createXMLEventReader
+permalink: /Java/XMLInputFactory/createXMLEventReader/
 date: 2021-01-11
-key: JavaJava.X.XMLInputFactory
-category: java
+key: Java.X.XMLInputFactory
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

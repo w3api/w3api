@@ -1,9 +1,9 @@
 ---
 title: Visibility
-permalink: Java/Visibility
+permalink: /Java/Visibility/
 date: 2021-01-11
-key: JavaJava.V.Visibility
-category: java
+key: Java.V.Visibility
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XMLSignatureFactory
-permalink: Java/XMLSignatureFactory
+permalink: /Java/XMLSignatureFactory/
 date: 2021-01-11
-key: JavaJava.X.XMLSignatureFactory
-category: java
+key: Java.X.XMLSignatureFactory
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

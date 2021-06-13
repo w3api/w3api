@@ -1,9 +1,9 @@
 ---
 title: UndoableEditListener
-permalink: Java/UndoableEditListener
+permalink: /Java/UndoableEditListener/
 date: 2021-01-11
-key: JavaJava.U.UndoableEditListener
-category: java
+key: Java.U.UndoableEditListener
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

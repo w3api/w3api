@@ -1,9 +1,9 @@
 ---
 title: URLStreamHandlerProvider
-permalink: Java/URLStreamHandlerProvider
+permalink: /Java/URLStreamHandlerProvider/
 date: 2021-01-11
-key: JavaJava.U.URLStreamHandlerProvider
-category: java
+key: Java.U.URLStreamHandlerProvider
+category: Java
 tags: ['java se', 'java.net.spi', 'java.base', 'clase java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TreeVisitor.visitImport()
-permalink: Java/TreeVisitor-com-sun-source-tree/visitImport
+permalink: /Java/TreeVisitor-com-sun-source-tree/visitImport/
 date: 2021-01-11
-key: JavaJava.T.TreeVisitor-com-sun-source-tree
-category: java
+key: Java.T.TreeVisitor-com-sun-source-tree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

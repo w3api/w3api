@@ -1,9 +1,9 @@
 ---
 title: UserPrincipalLookupService.UserPrincipalLookupService()
-permalink: Java/UserPrincipalLookupService/UserPrincipalLookupService
+permalink: /Java/UserPrincipalLookupService/UserPrincipalLookupService/
 date: 2021-01-11
-key: JavaJava.U.UserPrincipalLookupService
-category: java
+key: Java.U.UserPrincipalLookupService
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

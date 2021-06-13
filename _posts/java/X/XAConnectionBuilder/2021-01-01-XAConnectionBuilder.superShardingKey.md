@@ -1,9 +1,9 @@
 ---
 title: XAConnectionBuilder.superShardingKey()
-permalink: Java/XAConnectionBuilder/superShardingKey
+permalink: /Java/XAConnectionBuilder/superShardingKey/
 date: 2021-01-11
-key: JavaJava.X.XAConnectionBuilder
-category: java
+key: Java.X.XAConnectionBuilder
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

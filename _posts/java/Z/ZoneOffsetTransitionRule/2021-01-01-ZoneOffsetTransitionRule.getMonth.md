@@ -1,9 +1,9 @@
 ---
 title: ZoneOffsetTransitionRule.getMonth()
-permalink: Java/ZoneOffsetTransitionRule/getMonth
+permalink: /Java/ZoneOffsetTransitionRule/getMonth/
 date: 2021-01-11
-key: JavaJava.Z.ZoneOffsetTransitionRule
-category: java
+key: Java.Z.ZoneOffsetTransitionRule
+category: Java
 tags: ['java se', 'java.time.zone', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

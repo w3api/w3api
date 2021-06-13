@@ -1,9 +1,9 @@
 ---
 title: ValueHandlerMultiFormat
-permalink: Java/ValueHandlerMultiFormat
+permalink: /Java/ValueHandlerMultiFormat/
 date: 2021-01-11
-key: JavaJava.V.ValueHandlerMultiFormat
-category: java
+key: Java.V.ValueHandlerMultiFormat
+category: Java
 tags: ['java se', 'javax.rmi.CORBA', 'java.corba', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

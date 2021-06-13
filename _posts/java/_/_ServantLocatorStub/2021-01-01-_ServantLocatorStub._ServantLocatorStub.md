@@ -2,8 +2,8 @@
 title: _ServantLocatorStub._ServantLocatorStub()
 permalink: /Java/_ServantLocatorStub/_ServantLocatorStub/
 date: 2021-01-11
-key: JavaJava._._ServantLocatorStub
-category: java
+key: Java._._ServantLocatorStub
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

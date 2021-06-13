@@ -1,9 +1,9 @@
 ---
 title: XAException.XA_RBROLLBACK
-permalink: Java/XAException/XA_RBROLLBACK
+permalink: /Java/XAException/XA_RBROLLBACK/
 date: 2021-01-11
 key: Java.X.XAException
-category: java
+category: Java
 tags: ['java se', 'javax.transaction.xa', 'java.sql', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

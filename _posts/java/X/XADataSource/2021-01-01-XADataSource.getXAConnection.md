@@ -1,9 +1,9 @@
 ---
 title: XADataSource.getXAConnection()
-permalink: Java/XADataSource/getXAConnection
+permalink: /Java/XADataSource/getXAConnection/
 date: 2021-01-11
-key: JavaJava.X.XADataSource
-category: java
+key: Java.X.XADataSource
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

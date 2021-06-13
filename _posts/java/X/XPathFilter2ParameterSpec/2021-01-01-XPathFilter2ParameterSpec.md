@@ -1,9 +1,9 @@
 ---
 title: XPathFilter2ParameterSpec
-permalink: Java/XPathFilter2ParameterSpec
+permalink: /Java/XPathFilter2ParameterSpec/
 date: 2021-01-11
-key: JavaJava.X.XPathFilter2ParameterSpec
-category: java
+key: Java.X.XPathFilter2ParameterSpec
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

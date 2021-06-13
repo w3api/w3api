@@ -1,9 +1,9 @@
 ---
 title: ValueMemberHelper.id()
-permalink: Java/ValueMemberHelper/id
+permalink: /Java/ValueMemberHelper/id/
 date: 2021-01-11
-key: JavaJava.V.ValueMemberHelper
-category: java
+key: Java.V.ValueMemberHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

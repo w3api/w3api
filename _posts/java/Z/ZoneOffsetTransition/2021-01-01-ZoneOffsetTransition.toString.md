@@ -1,9 +1,9 @@
 ---
 title: ZoneOffsetTransition.toString()
-permalink: Java/ZoneOffsetTransition/toString
+permalink: /Java/ZoneOffsetTransition/toString/
 date: 2021-01-11
-key: JavaJava.Z.ZoneOffsetTransition
-category: java
+key: Java.Z.ZoneOffsetTransition
+category: Java
 tags: ['java se', 'java.time.zone', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

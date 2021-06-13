@@ -1,9 +1,9 @@
 ---
 title: VarHandle.AccessMode.valueFromMethodName()
-permalink: Java/VarHandle/AccessMode/valueFromMethodName
+permalink: /Java/VarHandle/AccessMode/valueFromMethodName/
 date: 2021-01-11
-key: JavaJava.V.VarHandle.AccessMode
-category: java
+key: Java.V.VarHandle.AccessMode
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UnknownUserExceptionHelper.read()
-permalink: Java/UnknownUserExceptionHelper/read
+permalink: /Java/UnknownUserExceptionHelper/read/
 date: 2021-01-11
-key: JavaJava.U.UnknownUserExceptionHelper
-category: java
+key: Java.U.UnknownUserExceptionHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

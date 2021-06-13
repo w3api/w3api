@@ -1,9 +1,9 @@
 ---
 title: XMLReaderFactory
-permalink: Java/XMLReaderFactory
+permalink: /Java/XMLReaderFactory/
 date: 2021-01-11
-key: JavaJava.X.XMLReaderFactory
-category: java
+key: Java.X.XMLReaderFactory
+category: Java
 tags: ['java se', 'org.xml.sax.helpers', 'java.xml', 'clase java', 'Java 1.4', 'SAX 2.0']
 sidebar: 
   nav: java

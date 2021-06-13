@@ -1,9 +1,9 @@
 ---
 title: VolatileImage.IMAGE_INCOMPATIBLE
-permalink: Java/VolatileImage/IMAGE_INCOMPATIBLE
+permalink: /Java/VolatileImage/IMAGE_INCOMPATIBLE/
 date: 2021-01-11
-key: JavaJava.V.VolatileImage
-category: java
+key: Java.V.VolatileImage
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

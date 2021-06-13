@@ -1,9 +1,9 @@
 ---
 title: UIDefaults.LazyValue
-permalink: Java/UIDefaults/LazyValue
+permalink: /Java/UIDefaults/LazyValue/
 date: 2021-01-11
-key: JavaJava.U.UIDefaults.LazyValue
-category: java
+key: Java.U.UIDefaults.LazyValue
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UnaryOperator.identity()
-permalink: Java/UnaryOperator/identity
+permalink: /Java/UnaryOperator/identity/
 date: 2021-01-11
-key: JavaJava.U.UnaryOperator
-category: java
+key: Java.U.UnaryOperator
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

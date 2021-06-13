@@ -1,9 +1,9 @@
 ---
 title: URLPermission.implies()
-permalink: Java/URLPermission/implies
+permalink: /Java/URLPermission/implies/
 date: 2021-01-11
-key: JavaJava.U.URLPermission
-category: java
+key: Java.U.URLPermission
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

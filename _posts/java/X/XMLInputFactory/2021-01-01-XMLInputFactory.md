@@ -1,9 +1,9 @@
 ---
 title: XMLInputFactory
-permalink: Java/XMLInputFactory
+permalink: /Java/XMLInputFactory/
 date: 2021-01-11
-key: JavaJava.X.XMLInputFactory
-category: java
+key: Java.X.XMLInputFactory
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

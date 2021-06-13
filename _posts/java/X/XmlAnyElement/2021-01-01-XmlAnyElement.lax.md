@@ -1,9 +1,9 @@
 ---
 title: XmlAnyElement.lax
-permalink: Java/XmlAnyElement/lax
+permalink: /Java/XmlAnyElement/lax/
 date: 2021-01-11
-key: JavaJava.X.XmlAnyElement
-category: java
+key: Java.X.XmlAnyElement
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'elemento java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

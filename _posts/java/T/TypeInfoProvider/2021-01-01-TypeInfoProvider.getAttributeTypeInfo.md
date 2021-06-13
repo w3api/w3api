@@ -1,9 +1,9 @@
 ---
 title: TypeInfoProvider.getAttributeTypeInfo()
-permalink: Java/TypeInfoProvider/getAttributeTypeInfo
+permalink: /Java/TypeInfoProvider/getAttributeTypeInfo/
 date: 2021-01-11
-key: JavaJava.T.TypeInfoProvider
-category: java
+key: Java.T.TypeInfoProvider
+category: Java
 tags: ['java se', 'javax.xml.validation', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

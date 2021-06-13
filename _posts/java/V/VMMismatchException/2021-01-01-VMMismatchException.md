@@ -1,9 +1,9 @@
 ---
 title: VMMismatchException
-permalink: Java/VMMismatchException
+permalink: /Java/VMMismatchException/
 date: 2021-01-11
-key: JavaJava.V.VMMismatchException
-category: java
+key: Java.V.VMMismatchException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

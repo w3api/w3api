@@ -1,9 +1,9 @@
 ---
 title: VirtualMachineManager.createVirtualMachine()
-permalink: Java/VirtualMachineManager/createVirtualMachine
+permalink: /Java/VirtualMachineManager/createVirtualMachine/
 date: 2021-01-11
-key: JavaJava.V.VirtualMachineManager
-category: java
+key: Java.V.VirtualMachineManager
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XMLParseException.XMLParseException()
-permalink: Java/XMLParseException/XMLParseException
+permalink: /Java/XMLParseException/XMLParseException/
 date: 2021-01-11
-key: JavaJava.X.XMLParseException
-category: java
+key: Java.X.XMLParseException
+category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

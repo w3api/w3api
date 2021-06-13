@@ -1,9 +1,9 @@
 ---
 title: XMLReporter.report()
-permalink: Java/XMLReporter/report
+permalink: /Java/XMLReporter/report/
 date: 2021-01-11
-key: JavaJava.X.XMLReporter
-category: java
+key: Java.X.XMLReporter
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

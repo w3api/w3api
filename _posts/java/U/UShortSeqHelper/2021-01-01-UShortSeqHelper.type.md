@@ -1,9 +1,9 @@
 ---
 title: UShortSeqHelper.type()
-permalink: Java/UShortSeqHelper/type
+permalink: /Java/UShortSeqHelper/type/
 date: 2021-01-11
-key: JavaJava.U.UShortSeqHelper
-category: java
+key: Java.U.UShortSeqHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

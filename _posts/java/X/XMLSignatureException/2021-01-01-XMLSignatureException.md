@@ -1,9 +1,9 @@
 ---
 title: XMLSignatureException
-permalink: Java/XMLSignatureException
+permalink: /Java/XMLSignatureException/
 date: 2021-01-11
-key: JavaJava.X.XMLSignatureException
-category: java
+key: Java.X.XMLSignatureException
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

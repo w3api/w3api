@@ -1,9 +1,9 @@
 ---
 title: TriangleMesh
-permalink: Java/TriangleMesh
+permalink: /Java/TriangleMesh/
 date: 2021-01-11
-key: JavaJava.T.TriangleMesh
-category: java
+key: Java.T.TriangleMesh
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

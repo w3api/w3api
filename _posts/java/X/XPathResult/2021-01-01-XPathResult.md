@@ -1,9 +1,9 @@
 ---
 title: XPathResult
-permalink: Java/XPathResult
+permalink: /Java/XPathResult/
 date: 2021-01-11
-key: JavaJava.X.XPathResult
-category: java
+key: Java.X.XPathResult
+category: Java
 tags: ['java se', 'org.w3c.dom.xpath', 'jdk.xml.dom', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

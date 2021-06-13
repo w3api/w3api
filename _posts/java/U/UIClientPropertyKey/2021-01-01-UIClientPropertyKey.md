@@ -1,9 +1,9 @@
 ---
 title: UIClientPropertyKey
-permalink: Java/UIClientPropertyKey
+permalink: /Java/UIClientPropertyKey/
 date: 2021-01-11
-key: JavaJava.U.UIClientPropertyKey
-category: java
+key: Java.U.UIClientPropertyKey
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 
   nav: java

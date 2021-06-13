@@ -2,8 +2,8 @@
 title: _Remote_Stub._Remote_Stub()
 permalink: /Java/_Remote_Stub/_Remote_Stub/
 date: 2021-01-11
-key: JavaJava._._Remote_Stub
-category: java
+key: Java._._Remote_Stub
+category: Java
 tags: ['java se', 'org.omg.stub.java.rmi', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XMLStreamReader.getAttributeCount()
-permalink: Java/XMLStreamReader/getAttributeCount
+permalink: /Java/XMLStreamReader/getAttributeCount/
 date: 2021-01-11
-key: JavaJava.X.XMLStreamReader
-category: java
+key: Java.X.XMLStreamReader
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

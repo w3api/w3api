@@ -1,9 +1,9 @@
 ---
 title: UnsupportedOperationException
-permalink: Java/UnsupportedOperationException
+permalink: /Java/UnsupportedOperationException/
 date: 2021-01-11
-key: JavaJava.U.UnsupportedOperationException
-category: java
+key: Java.U.UnsupportedOperationException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

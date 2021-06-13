@@ -1,9 +1,9 @@
 ---
 title: TypeParameterTree
-permalink: Java/TypeParameterTree
+permalink: /Java/TypeParameterTree/
 date: 2021-01-11
-key: JavaJava.T.TypeParameterTree
-category: java
+key: Java.T.TypeParameterTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

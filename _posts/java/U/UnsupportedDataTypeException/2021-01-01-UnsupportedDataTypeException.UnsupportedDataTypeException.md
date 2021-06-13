@@ -1,9 +1,9 @@
 ---
 title: UnsupportedDataTypeException.UnsupportedDataTypeException()
-permalink: Java/UnsupportedDataTypeException/UnsupportedDataTypeException
+permalink: /Java/UnsupportedDataTypeException/UnsupportedDataTypeException/
 date: 2021-01-11
-key: JavaJava.U.UnsupportedDataTypeException
-category: java
+key: Java.U.UnsupportedDataTypeException
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

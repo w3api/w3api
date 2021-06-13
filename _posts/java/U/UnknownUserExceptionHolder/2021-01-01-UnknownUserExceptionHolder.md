@@ -1,9 +1,9 @@
 ---
 title: UnknownUserExceptionHolder
-permalink: Java/UnknownUserExceptionHolder
+permalink: /Java/UnknownUserExceptionHolder/
 date: 2021-01-11
-key: JavaJava.U.UnknownUserExceptionHolder
-category: java
+key: Java.U.UnknownUserExceptionHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

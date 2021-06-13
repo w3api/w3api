@@ -1,9 +1,9 @@
 ---
 title: XmlAccessorOrder.value
-permalink: Java/XmlAccessorOrder/value
+permalink: /Java/XmlAccessorOrder/value/
 date: 2021-01-11
-key: JavaJava.X.XmlAccessorOrder
-category: java
+key: Java.X.XmlAccessorOrder
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'elemento java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

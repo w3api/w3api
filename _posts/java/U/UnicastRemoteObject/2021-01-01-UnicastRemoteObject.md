@@ -1,9 +1,9 @@
 ---
 title: UnicastRemoteObject
-permalink: Java/UnicastRemoteObject
+permalink: /Java/UnicastRemoteObject/
 date: 2021-01-11
-key: JavaJava.U.UnicastRemoteObject
-category: java
+key: Java.U.UnicastRemoteObject
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

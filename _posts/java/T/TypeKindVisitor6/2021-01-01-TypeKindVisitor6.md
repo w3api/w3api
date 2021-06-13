@@ -1,9 +1,9 @@
 ---
 title: TypeKindVisitor6
-permalink: Java/TypeKindVisitor6
+permalink: /Java/TypeKindVisitor6/
 date: 2021-01-11
-key: JavaJava.T.TypeKindVisitor6
-category: java
+key: Java.T.TypeKindVisitor6
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: VM_TRUNCATABLE.value
-permalink: Java/VM_TRUNCATABLE/value
+permalink: /Java/VM_TRUNCATABLE/value/
 date: 2021-01-11
-key: JavaJava.V.VM_TRUNCATABLE
-category: java
+key: Java.V.VM_TRUNCATABLE
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ViewportUI.ViewportUI()
-permalink: Java/ViewportUI/ViewportUI
+permalink: /Java/ViewportUI/ViewportUI/
 date: 2021-01-11
-key: JavaJava.V.ViewportUI
-category: java
+key: Java.V.ViewportUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

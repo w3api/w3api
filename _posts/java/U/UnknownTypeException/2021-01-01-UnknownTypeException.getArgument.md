@@ -1,9 +1,9 @@
 ---
 title: UnknownTypeException.getArgument()
-permalink: Java/UnknownTypeException/getArgument
+permalink: /Java/UnknownTypeException/getArgument/
 date: 2021-01-11
-key: JavaJava.U.UnknownTypeException
-category: java
+key: Java.U.UnknownTypeException
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

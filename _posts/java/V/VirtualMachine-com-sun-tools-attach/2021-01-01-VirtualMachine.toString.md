@@ -1,9 +1,9 @@
 ---
 title: VirtualMachine.toString()
-permalink: Java/VirtualMachine-com-sun-tools-attach/toString
+permalink: /Java/VirtualMachine-com-sun-tools-attach/toString/
 date: 2021-01-11
-key: JavaJava.V.VirtualMachine-com-sun-tools-attach
-category: java
+key: Java.V.VirtualMachine-com-sun-tools-attach
+category: Java
 tags: ['java se', 'com.sun.tools.attach', 'jdk.attach', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

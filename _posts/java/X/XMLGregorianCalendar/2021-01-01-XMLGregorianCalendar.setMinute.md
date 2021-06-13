@@ -1,9 +1,9 @@
 ---
 title: XMLGregorianCalendar.setMinute()
-permalink: Java/XMLGregorianCalendar/setMinute
+permalink: /Java/XMLGregorianCalendar/setMinute/
 date: 2021-01-11
-key: JavaJava.X.XMLGregorianCalendar
-category: java
+key: Java.X.XMLGregorianCalendar
+category: Java
 tags: ['java se', 'javax.xml.datatype', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

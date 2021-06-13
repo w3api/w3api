@@ -1,9 +1,9 @@
 ---
 title: ValueInputStream.end_value()
-permalink: Java/ValueInputStream/end_value
+permalink: /Java/ValueInputStream/end_value/
 date: 2021-01-11
-key: JavaJava.V.ValueInputStream
-category: java
+key: Java.V.ValueInputStream
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

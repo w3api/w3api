@@ -1,9 +1,9 @@
 ---
 title: XmlAnyElement
-permalink: Java/XmlAnyElement
+permalink: /Java/XmlAnyElement/
 date: 2021-01-11
-key: JavaJava.X.XmlAnyElement
-category: java
+key: Java.X.XmlAnyElement
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'anotacion java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

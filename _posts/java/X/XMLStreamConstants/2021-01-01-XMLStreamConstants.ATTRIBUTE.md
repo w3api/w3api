@@ -1,9 +1,9 @@
 ---
 title: XMLStreamConstants.ATTRIBUTE
-permalink: Java/XMLStreamConstants/ATTRIBUTE
+permalink: /Java/XMLStreamConstants/ATTRIBUTE/
 date: 2021-01-11
-key: JavaJava.X.XMLStreamConstants
-category: java
+key: Java.X.XMLStreamConstants
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

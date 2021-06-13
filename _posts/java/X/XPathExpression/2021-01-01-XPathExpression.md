@@ -1,9 +1,9 @@
 ---
 title: XPathExpression
-permalink: Java/XPathExpression/
+permalink: /Java/XPathExpression//
 date: 2021-01-11
-key: JavaJava.X.XPathExpression
-category: java
+key: Java.X.XPathExpression
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

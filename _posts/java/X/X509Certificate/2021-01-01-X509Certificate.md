@@ -1,9 +1,9 @@
 ---
 title: X509Certificate
-permalink: Java/X509Certificate/
+permalink: /Java/X509Certificate//
 date: 2021-01-11
-key: JavaJava.X.X509Certificate
-category: java
+key: Java.X.X509Certificate
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

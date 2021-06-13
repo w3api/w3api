@@ -1,9 +1,9 @@
 ---
 title: UIDefaults.ProxyLazyValue
-permalink: Java/UIDefaults/ProxyLazyValue
+permalink: /Java/UIDefaults/ProxyLazyValue/
 date: 2021-01-11
-key: JavaJava.U.UIDefaults.ProxyLazyValue
-category: java
+key: Java.U.UIDefaults.ProxyLazyValue
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

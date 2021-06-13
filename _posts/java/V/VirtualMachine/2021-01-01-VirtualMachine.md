@@ -1,9 +1,9 @@
 ---
 title: VirtualMachine
-permalink: Java/VirtualMachine/
+permalink: /Java/VirtualMachine//
 date: 2021-01-11
-key: JavaJava.V.VirtualMachine
-category: java
+key: Java.V.VirtualMachine
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

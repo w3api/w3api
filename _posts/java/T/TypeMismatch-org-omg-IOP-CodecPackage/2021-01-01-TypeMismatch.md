@@ -1,9 +1,9 @@
 ---
 title: TypeMismatch
-permalink: Java/TypeMismatch-org-omg-IOP-CodecPackage
+permalink: /Java/TypeMismatch-org-omg-IOP-CodecPackage/
 date: 2021-01-11
-key: JavaJava.T.TypeMismatch-org-omg-IOP-CodecPackage
-category: java
+key: Java.T.TypeMismatch-org-omg-IOP-CodecPackage
+category: Java
 tags: ['java se', 'org.omg.IOP.CodecPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

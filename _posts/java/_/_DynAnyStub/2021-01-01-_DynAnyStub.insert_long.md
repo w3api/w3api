@@ -2,8 +2,8 @@
 title: _DynAnyStub.insert_long()
 permalink: /Java/_DynAnyStub/insert_long/
 date: 2021-01-11
-key: JavaJava._._DynAnyStub
-category: java
+key: Java._._DynAnyStub
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

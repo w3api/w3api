@@ -1,9 +1,9 @@
 ---
 title: XPathType
-permalink: Java/XPathType
+permalink: /Java/XPathType/
 date: 2021-01-11
-key: JavaJava.X.XPathType
-category: java
+key: Java.X.XPathType
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

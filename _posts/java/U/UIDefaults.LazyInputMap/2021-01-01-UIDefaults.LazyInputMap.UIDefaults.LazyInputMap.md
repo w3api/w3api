@@ -1,9 +1,9 @@
 ---
 title: UIDefaults.LazyInputMap.UIDefaults.LazyInputMap()
-permalink: Java/UIDefaults/LazyInputMap/UIDefaults/LazyInputMap
+permalink: /Java/UIDefaults/LazyInputMap/UIDefaults/LazyInputMap/
 date: 2021-01-11
-key: JavaJava.U.UIDefaults.LazyInputMap
-category: java
+key: Java.U.UIDefaults.LazyInputMap
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

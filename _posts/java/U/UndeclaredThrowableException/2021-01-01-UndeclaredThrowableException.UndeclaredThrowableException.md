@@ -1,9 +1,9 @@
 ---
 title: UndeclaredThrowableException.UndeclaredThrowableException()
-permalink: Java/UndeclaredThrowableException/UndeclaredThrowableException
+permalink: /Java/UndeclaredThrowableException/UndeclaredThrowableException/
 date: 2021-01-11
-key: JavaJava.U.UndeclaredThrowableException
-category: java
+key: Java.U.UndeclaredThrowableException
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

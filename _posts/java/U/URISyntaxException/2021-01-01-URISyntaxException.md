@@ -1,9 +1,9 @@
 ---
 title: URISyntaxException
-permalink: Java/URISyntaxException
+permalink: /Java/URISyntaxException/
 date: 2021-01-11
-key: JavaJava.U.URISyntaxException
-category: java
+key: Java.U.URISyntaxException
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

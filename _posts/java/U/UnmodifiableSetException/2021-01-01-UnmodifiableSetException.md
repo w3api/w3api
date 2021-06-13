@@ -1,9 +1,9 @@
 ---
 title: UnmodifiableSetException
-permalink: Java/UnmodifiableSetException
+permalink: /Java/UnmodifiableSetException/
 date: 2021-01-11
-key: JavaJava.U.UnmodifiableSetException
-category: java
+key: Java.U.UnmodifiableSetException
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

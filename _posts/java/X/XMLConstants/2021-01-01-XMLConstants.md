@@ -1,9 +1,9 @@
 ---
 title: XMLConstants
-permalink: Java/XMLConstants
+permalink: /Java/XMLConstants/
 date: 2021-01-11
-key: JavaJava.X.XMLConstants
-category: java
+key: Java.X.XMLConstants
+category: Java
 tags: ['java se', 'javax.xml', 'java.xml', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: VariableTree.getInitializer()
-permalink: Java/VariableTree-com-sun-source-tree/getInitializer
+permalink: /Java/VariableTree-com-sun-source-tree/getInitializer/
 date: 2021-01-11
-key: JavaJava.V.VariableTree-com-sun-source-tree
-category: java
+key: Java.V.VariableTree-com-sun-source-tree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

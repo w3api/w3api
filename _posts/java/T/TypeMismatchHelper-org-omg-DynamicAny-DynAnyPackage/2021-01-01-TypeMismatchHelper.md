@@ -1,9 +1,9 @@
 ---
 title: TypeMismatchHelper
-permalink: Java/TypeMismatchHelper-org-omg-DynamicAny-DynAnyPackage
+permalink: /Java/TypeMismatchHelper-org-omg-DynamicAny-DynAnyPackage/
 date: 2021-01-11
-key: JavaJava.T.TypeMismatchHelper-org-omg-DynamicAny-DynAnyPackage
-category: java
+key: Java.T.TypeMismatchHelper-org-omg-DynamicAny-DynAnyPackage
+category: Java
 tags: ['java se', 'org.omg.DynamicAny.DynAnyPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

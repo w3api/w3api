@@ -1,9 +1,9 @@
 ---
 title: XAResource
-permalink: Java/XAResource
+permalink: /Java/XAResource/
 date: 2021-01-11
-key: JavaJava.X.XAResource
-category: java
+key: Java.X.XAResource
+category: Java
 tags: ['java se', 'javax.transaction.xa', 'java.sql', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

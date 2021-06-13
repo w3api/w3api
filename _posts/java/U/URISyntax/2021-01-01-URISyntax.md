@@ -1,9 +1,9 @@
 ---
 title: URISyntax
-permalink: Java/URISyntax
+permalink: /Java/URISyntax/
 date: 2021-01-11
-key: JavaJava.U.URISyntax
-category: java
+key: Java.U.URISyntax
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

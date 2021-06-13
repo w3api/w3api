@@ -1,9 +1,9 @@
 ---
 title: UnexpectedException.UnexpectedException()
-permalink: Java/UnexpectedException/UnexpectedException
+permalink: /Java/UnexpectedException/UnexpectedException/
 date: 2021-01-11
-key: JavaJava.U.UnexpectedException
-category: java
+key: Java.U.UnexpectedException
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

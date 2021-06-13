@@ -1,9 +1,9 @@
 ---
 title: XPathFactory
-permalink: Java/XPathFactory
+permalink: /Java/XPathFactory/
 date: 2021-01-11
-key: JavaJava.X.XPathFactory
-category: java
+key: Java.X.XPathFactory
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

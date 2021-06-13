@@ -1,9 +1,9 @@
 ---
 title: UNSUPPORTED_POLICY_VALUE
-permalink: Java/UNSUPPORTED_POLICY_VALUE
+permalink: /Java/UNSUPPORTED_POLICY_VALUE/
 date: 2021-01-11
-key: JavaJava.U.UNSUPPORTED_POLICY_VALUE
-category: java
+key: Java.U.UNSUPPORTED_POLICY_VALUE
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

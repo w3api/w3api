@@ -1,9 +1,9 @@
 ---
 title: XMLEncoder.writeExpression()
-permalink: Java/XMLEncoder/writeExpression
+permalink: /Java/XMLEncoder/writeExpression/
 date: 2021-01-11
-key: JavaJava.X.XMLEncoder
-category: java
+key: Java.X.XMLEncoder
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

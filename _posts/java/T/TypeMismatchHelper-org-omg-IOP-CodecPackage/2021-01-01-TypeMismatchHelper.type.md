@@ -1,9 +1,9 @@
 ---
 title: TypeMismatchHelper.type()
-permalink: Java/TypeMismatchHelper-org-omg-IOP-CodecPackage/type
+permalink: /Java/TypeMismatchHelper-org-omg-IOP-CodecPackage/type/
 date: 2021-01-11
-key: JavaJava.T.TypeMismatchHelper-org-omg-IOP-CodecPackage
-category: java
+key: Java.T.TypeMismatchHelper-org-omg-IOP-CodecPackage
+category: Java
 tags: ['java se', 'org.omg.IOP.CodecPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

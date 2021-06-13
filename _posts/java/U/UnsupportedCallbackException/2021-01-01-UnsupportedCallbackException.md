@@ -1,9 +1,9 @@
 ---
 title: UnsupportedCallbackException
-permalink: Java/UnsupportedCallbackException
+permalink: /Java/UnsupportedCallbackException/
 date: 2021-01-11
-key: JavaJava.U.UnsupportedCallbackException
-category: java
+key: Java.U.UnsupportedCallbackException
+category: Java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

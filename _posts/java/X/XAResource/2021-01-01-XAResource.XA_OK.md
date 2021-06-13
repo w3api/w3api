@@ -1,9 +1,9 @@
 ---
 title: XAResource.XA_OK
-permalink: Java/XAResource/XA_OK
+permalink: /Java/XAResource/XA_OK/
 date: 2021-01-11
-key: JavaJava.X.XAResource
-category: java
+key: Java.X.XAResource
+category: Java
 tags: ['java se', 'javax.transaction.xa', 'java.sql', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

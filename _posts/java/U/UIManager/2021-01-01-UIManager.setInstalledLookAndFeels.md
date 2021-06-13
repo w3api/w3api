@@ -1,9 +1,9 @@
 ---
 title: UIManager.setInstalledLookAndFeels()
-permalink: Java/UIManager/setInstalledLookAndFeels
+permalink: /Java/UIManager/setInstalledLookAndFeels/
 date: 2021-01-11
-key: JavaJava.U.UIManager
-category: java
+key: Java.U.UIManager
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

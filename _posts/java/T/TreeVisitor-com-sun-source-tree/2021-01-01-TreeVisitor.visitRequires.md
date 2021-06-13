@@ -1,9 +1,9 @@
 ---
 title: TreeVisitor.visitRequires()
-permalink: Java/TreeVisitor-com-sun-source-tree/visitRequires
+permalink: /Java/TreeVisitor-com-sun-source-tree/visitRequires/
 date: 2021-01-11
-key: JavaJava.T.TreeVisitor-com-sun-source-tree
-category: java
+key: Java.T.TreeVisitor-com-sun-source-tree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

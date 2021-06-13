@@ -1,9 +1,9 @@
 ---
 title: URICertStoreParameters.toString()
-permalink: Java/URICertStoreParameters/toString
+permalink: /Java/URICertStoreParameters/toString/
 date: 2021-01-11
-key: JavaJava.U.URICertStoreParameters
-category: java
+key: Java.U.URICertStoreParameters
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XSLTTransformParameterSpec
-permalink: Java/XSLTTransformParameterSpec
+permalink: /Java/XSLTTransformParameterSpec/
 date: 2021-01-11
-key: JavaJava.X.XSLTTransformParameterSpec
-category: java
+key: Java.X.XSLTTransformParameterSpec
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

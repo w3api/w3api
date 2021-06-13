@@ -1,9 +1,9 @@
 ---
 title: UnionMemberHelper.extract()
-permalink: Java/UnionMemberHelper/extract
+permalink: /Java/UnionMemberHelper/extract/
 date: 2021-01-11
-key: JavaJava.U.UnionMemberHelper
-category: java
+key: Java.U.UnionMemberHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UnmarshalException.UnmarshalException()
-permalink: Java/UnmarshalException-java-rmi/UnmarshalException
+permalink: /Java/UnmarshalException-java-rmi/UnmarshalException/
 date: 2021-01-11
-key: JavaJava.U.UnmarshalException-java-rmi
-category: java
+key: Java.U.UnmarshalException-java-rmi
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

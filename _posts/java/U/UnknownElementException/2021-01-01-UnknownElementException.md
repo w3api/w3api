@@ -1,9 +1,9 @@
 ---
 title: UnknownElementException
-permalink: Java/UnknownElementException
+permalink: /Java/UnknownElementException/
 date: 2021-01-11
-key: JavaJava.U.UnknownElementException
-category: java
+key: Java.U.UnknownElementException
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

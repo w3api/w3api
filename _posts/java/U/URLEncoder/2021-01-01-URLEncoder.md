@@ -1,9 +1,9 @@
 ---
 title: URLEncoder
-permalink: Java/URLEncoder
+permalink: /Java/URLEncoder/
 date: 2021-01-11
-key: JavaJava.U.URLEncoder
-category: java
+key: Java.U.URLEncoder
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

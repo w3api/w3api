@@ -1,9 +1,9 @@
 ---
 title: XmlAccessType
-permalink: Java/XmlAccessType
+permalink: /Java/XmlAccessType/
 date: 2021-01-11
-key: JavaJava.X.XmlAccessType
-category: java
+key: Java.X.XmlAccessType
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'enumerado java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

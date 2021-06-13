@@ -1,9 +1,9 @@
 ---
 title: XAConnection
-permalink: Java/XAConnection
+permalink: /Java/XAConnection/
 date: 2021-01-11
-key: JavaJava.X.XAConnection
-category: java
+key: Java.X.XAConnection
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

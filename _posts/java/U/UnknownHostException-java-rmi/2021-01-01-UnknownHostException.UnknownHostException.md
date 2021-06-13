@@ -1,9 +1,9 @@
 ---
 title: UnknownHostException.UnknownHostException()
-permalink: Java/UnknownHostException-java-rmi/UnknownHostException
+permalink: /Java/UnknownHostException-java-rmi/UnknownHostException/
 date: 2021-01-11
-key: JavaJava.U.UnknownHostException-java-rmi
-category: java
+key: Java.U.UnknownHostException-java-rmi
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: VMDeathEvent
-permalink: Java/VMDeathEvent
+permalink: /Java/VMDeathEvent/
 date: 2021-01-11
-key: JavaJava.V.VMDeathEvent
-category: java
+key: Java.V.VMDeathEvent
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

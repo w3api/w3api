@@ -1,9 +1,9 @@
 ---
 title: XmlAttribute.required
-permalink: Java/XmlAttribute/required
+permalink: /Java/XmlAttribute/required/
 date: 2021-01-11
-key: JavaJava.X.XmlAttribute
-category: java
+key: Java.X.XmlAttribute
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'elemento java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

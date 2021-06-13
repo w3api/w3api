@@ -1,9 +1,9 @@
 ---
 title: UserSessionEvent
-permalink: Java/UserSessionEvent
+permalink: /Java/UserSessionEvent/
 date: 2021-01-11
-key: JavaJava.U.UserSessionEvent
-category: java
+key: Java.U.UserSessionEvent
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

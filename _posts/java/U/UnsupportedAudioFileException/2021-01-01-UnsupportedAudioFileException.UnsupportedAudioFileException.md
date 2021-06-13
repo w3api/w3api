@@ -1,9 +1,9 @@
 ---
 title: UnsupportedAudioFileException.UnsupportedAudioFileException()
-permalink: Java/UnsupportedAudioFileException/UnsupportedAudioFileException
+permalink: /Java/UnsupportedAudioFileException/UnsupportedAudioFileException/
 date: 2021-01-11
-key: JavaJava.U.UnsupportedAudioFileException
-category: java
+key: Java.U.UnsupportedAudioFileException
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

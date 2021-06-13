@@ -1,9 +1,9 @@
 ---
 title: XMLInputFactory.isPropertySupported()
-permalink: Java/XMLInputFactory/isPropertySupported
+permalink: /Java/XMLInputFactory/isPropertySupported/
 date: 2021-01-11
 key: Java.X.XMLInputFactory
-category: java
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

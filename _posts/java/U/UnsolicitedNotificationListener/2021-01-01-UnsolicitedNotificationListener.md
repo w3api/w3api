@@ -1,9 +1,9 @@
 ---
 title: UnsolicitedNotificationListener
-permalink: Java/UnsolicitedNotificationListener
+permalink: /Java/UnsolicitedNotificationListener/
 date: 2021-01-11
-key: JavaJava.U.UnsolicitedNotificationListener
-category: java
+key: Java.U.UnsolicitedNotificationListener
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

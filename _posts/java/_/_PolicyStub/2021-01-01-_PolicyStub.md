@@ -2,8 +2,8 @@
 title: _PolicyStub
 permalink: /Java/_PolicyStub/
 date: 2021-01-11
-key: JavaJava._._PolicyStub
-category: java
+key: Java._._PolicyStub
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

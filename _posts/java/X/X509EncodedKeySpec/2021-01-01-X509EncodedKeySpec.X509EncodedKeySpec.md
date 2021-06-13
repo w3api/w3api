@@ -1,9 +1,9 @@
 ---
 title: X509EncodedKeySpec.X509EncodedKeySpec()
-permalink: Java/X509EncodedKeySpec/X509EncodedKeySpec
+permalink: /Java/X509EncodedKeySpec/X509EncodedKeySpec/
 date: 2021-01-11
-key: JavaJava.X.X509EncodedKeySpec
-category: java
+key: Java.X.X509EncodedKeySpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

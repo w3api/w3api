@@ -1,9 +1,9 @@
 ---
 title: URLStreamHandler.URLStreamHandler()
-permalink: Java/URLStreamHandler/URLStreamHandler
+permalink: /Java/URLStreamHandler/URLStreamHandler/
 date: 2021-01-11
-key: JavaJava.U.URLStreamHandler
-category: java
+key: Java.U.URLStreamHandler
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

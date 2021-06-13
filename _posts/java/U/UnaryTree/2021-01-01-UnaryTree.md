@@ -1,9 +1,9 @@
 ---
 title: UnaryTree
-permalink: Java/UnaryTree/
+permalink: /Java/UnaryTree//
 date: 2021-01-11
-key: JavaJava.U.UnaryTree
-category: java
+key: Java.U.UnaryTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

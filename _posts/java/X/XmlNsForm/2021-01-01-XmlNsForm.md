@@ -1,9 +1,9 @@
 ---
 title: XmlNsForm
-permalink: Java/XmlNsForm
+permalink: /Java/XmlNsForm/
 date: 2021-01-11
 key: Java.X.XmlNsForm
-category: java
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'enumerado java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

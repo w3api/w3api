@@ -1,9 +1,9 @@
 ---
 title: XmlReader.readXML()
-permalink: Java/XmlReader-javax-sql-rowset-spi/readXML
+permalink: /Java/XmlReader-javax-sql-rowset-spi/readXML/
 date: 2021-01-11
-key: JavaJava.X.XmlReader-javax-sql-rowset-spi
-category: java
+key: Java.X.XmlReader-javax-sql-rowset-spi
+category: Java
 tags: ['java se', 'javax.sql.rowset.spi', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

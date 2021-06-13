@@ -1,9 +1,9 @@
 ---
 title: UserJvmOptionsService.getUserJVMDefaults()
-permalink: Java/UserJvmOptionsService/getUserJVMDefaults
+permalink: /Java/UserJvmOptionsService/getUserJVMDefaults/
 date: 2021-01-11
-key: JavaJava.U.UserJvmOptionsService
-category: java
+key: Java.U.UserJvmOptionsService
+category: Java
 tags: ['java se', 'jdk.packager.services', 'jdk.packager.services', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

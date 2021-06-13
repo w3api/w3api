@@ -2,8 +2,8 @@
 title: _BindingIteratorStub.next_n()
 permalink: /Java/_BindingIteratorStub/next_n/
 date: 2021-01-11
-key: JavaJava._._BindingIteratorStub
-category: java
+key: Java._._BindingIteratorStub
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XmlReader
-permalink: Java/XmlReader/
+permalink: /Java/XmlReader//
 date: 2021-01-11
-key: JavaJava.X.XmlReader
-category: java
+key: Java.X.XmlReader
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

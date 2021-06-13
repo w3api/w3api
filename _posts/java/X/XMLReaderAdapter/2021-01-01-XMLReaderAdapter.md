@@ -1,9 +1,9 @@
 ---
 title: XMLReaderAdapter
-permalink: Java/XMLReaderAdapter
+permalink: /Java/XMLReaderAdapter/
 date: 2021-01-11
-key: JavaJava.X.XMLReaderAdapter
-category: java
+key: Java.X.XMLReaderAdapter
+category: Java
 tags: ['java se', 'org.xml.sax.helpers', 'java.xml', 'clase java', 'Java 1.4', 'SAX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: URIReference.getType()
-permalink: Java/URIReference/getType
+permalink: /Java/URIReference/getType/
 date: 2021-01-11
-key: JavaJava.U.URIReference
-category: java
+key: Java.U.URIReference
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: VetoableChangeSupport.hasListeners()
-permalink: Java/VetoableChangeSupport/hasListeners
+permalink: /Java/VetoableChangeSupport/hasListeners/
 date: 2021-01-11
-key: JavaJava.V.VetoableChangeSupport
-category: java
+key: Java.V.VetoableChangeSupport
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

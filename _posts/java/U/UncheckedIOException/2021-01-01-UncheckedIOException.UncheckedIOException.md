@@ -1,9 +1,9 @@
 ---
 title: UncheckedIOException.UncheckedIOException()
-permalink: Java/UncheckedIOException/UncheckedIOException
+permalink: /Java/UncheckedIOException/UncheckedIOException/
 date: 2021-01-11
-key: JavaJava.U.UncheckedIOException
-category: java
+key: Java.U.UncheckedIOException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

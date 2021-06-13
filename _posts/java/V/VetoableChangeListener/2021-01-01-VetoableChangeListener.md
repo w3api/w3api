@@ -1,9 +1,9 @@
 ---
 title: VetoableChangeListener
-permalink: Java/VetoableChangeListener
+permalink: /Java/VetoableChangeListener/
 date: 2021-01-11
-key: JavaJava.V.VetoableChangeListener
-category: java
+key: Java.V.VetoableChangeListener
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

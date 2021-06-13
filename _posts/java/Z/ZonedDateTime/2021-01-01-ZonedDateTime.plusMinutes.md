@@ -1,9 +1,9 @@
 ---
 title: ZonedDateTime.plusMinutes()
-permalink: Java/ZonedDateTime/plusMinutes
+permalink: /Java/ZonedDateTime/plusMinutes/
 date: 2021-01-11
-key: JavaJava.Z.ZonedDateTime
-category: java
+key: Java.Z.ZonedDateTime
+category: Java
 tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

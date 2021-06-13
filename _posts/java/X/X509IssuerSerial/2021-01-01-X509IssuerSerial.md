@@ -1,9 +1,9 @@
 ---
 title: X509IssuerSerial
-permalink: Java/X509IssuerSerial
+permalink: /Java/X509IssuerSerial/
 date: 2021-01-11
-key: JavaJava.X.X509IssuerSerial
-category: java
+key: Java.X.X509IssuerSerial
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.keyinfo', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

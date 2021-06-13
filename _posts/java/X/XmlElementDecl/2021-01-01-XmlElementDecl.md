@@ -1,9 +1,9 @@
 ---
 title: XmlElementDecl
-permalink: Java/XmlElementDecl
+permalink: /Java/XmlElementDecl/
 date: 2021-01-11
-key: JavaJava.X.XmlElementDecl
-category: java
+key: Java.X.XmlElementDecl
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'anotacion java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

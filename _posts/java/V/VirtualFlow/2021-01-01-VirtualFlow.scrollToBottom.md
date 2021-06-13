@@ -1,9 +1,9 @@
 ---
 title: VirtualFlow.scrollToBottom()
-permalink: Java/VirtualFlow/scrollToBottom
+permalink: /Java/VirtualFlow/scrollToBottom/
 date: 2021-01-11
-key: JavaJava.V.VirtualFlow
-category: java
+key: Java.V.VirtualFlow
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

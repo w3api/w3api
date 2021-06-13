@@ -1,9 +1,9 @@
 ---
 title: XAException.XA_RBEND
-permalink: Java/XAException/XA_RBEND
+permalink: /Java/XAException/XA_RBEND/
 date: 2021-01-11
-key: JavaJava.X.XAException
-category: java
+key: Java.X.XAException
+category: Java
 tags: ['java se', 'javax.transaction.xa', 'java.sql', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

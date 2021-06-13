@@ -1,9 +1,9 @@
 ---
 title: VM_ABSTRACT
-permalink: Java/VM_ABSTRACT
+permalink: /Java/VM_ABSTRACT/
 date: 2021-01-11
-key: JavaJava.V.VM_ABSTRACT
-category: java
+key: Java.V.VM_ABSTRACT
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

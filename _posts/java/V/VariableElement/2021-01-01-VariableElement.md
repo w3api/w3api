@@ -1,9 +1,9 @@
 ---
 title: VariableElement
-permalink: Java/VariableElement
+permalink: /Java/VariableElement/
 date: 2021-01-11
-key: JavaJava.V.VariableElement
-category: java
+key: Java.V.VariableElement
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

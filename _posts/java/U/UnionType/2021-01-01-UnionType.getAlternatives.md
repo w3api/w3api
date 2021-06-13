@@ -1,9 +1,9 @@
 ---
 title: UnionType.getAlternatives()
-permalink: Java/UnionType/getAlternatives
+permalink: /Java/UnionType/getAlternatives/
 date: 2021-01-11
-key: JavaJava.U.UnionType
-category: java
+key: Java.U.UnionType
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

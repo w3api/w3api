@@ -1,9 +1,9 @@
 ---
 title: URLDataSource
-permalink: Java/URLDataSource
+permalink: /Java/URLDataSource/
 date: 2021-01-11
-key: JavaJava.U.URLDataSource
-category: java
+key: Java.U.URLDataSource
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

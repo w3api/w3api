@@ -1,9 +1,9 @@
 ---
 title: ValueFactory.read_value()
-permalink: Java/ValueFactory/read_value
+permalink: /Java/ValueFactory/read_value/
 date: 2021-01-11
-key: JavaJava.V.ValueFactory
-category: java
+key: Java.V.ValueFactory
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

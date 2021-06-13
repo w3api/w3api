@@ -1,9 +1,9 @@
 ---
 title: UnknownDirectiveException
-permalink: Java/UnknownDirectiveException
+permalink: /Java/UnknownDirectiveException/
 date: 2021-01-11
-key: JavaJava.U.UnknownDirectiveException
-category: java
+key: Java.U.UnknownDirectiveException
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'clase java', 'Java 9']
 sidebar: 
   nav: java

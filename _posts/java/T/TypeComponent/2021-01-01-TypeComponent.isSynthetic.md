@@ -1,9 +1,9 @@
 ---
 title: TypeComponent.isSynthetic()
-permalink: Java/TypeComponent/isSynthetic
+permalink: /Java/TypeComponent/isSynthetic/
 date: 2021-01-11
-key: JavaJava.T.TypeComponent
-category: java
+key: Java.T.TypeComponent
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

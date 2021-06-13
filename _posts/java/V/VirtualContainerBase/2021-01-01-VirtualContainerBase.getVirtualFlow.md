@@ -1,9 +1,9 @@
 ---
 title: VirtualContainerBase.getVirtualFlow()
-permalink: Java/VirtualContainerBase/getVirtualFlow
+permalink: /Java/VirtualContainerBase/getVirtualFlow/
 date: 2021-01-11
-key: JavaJava.V.VirtualContainerBase
-category: java
+key: Java.V.VirtualContainerBase
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

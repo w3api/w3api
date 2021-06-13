@@ -1,9 +1,9 @@
 ---
 title: VetoableChangeListenerProxy
-permalink: Java/VetoableChangeListenerProxy
+permalink: /Java/VetoableChangeListenerProxy/
 date: 2021-01-11
-key: JavaJava.V.VetoableChangeListenerProxy
-category: java
+key: Java.V.VetoableChangeListenerProxy
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

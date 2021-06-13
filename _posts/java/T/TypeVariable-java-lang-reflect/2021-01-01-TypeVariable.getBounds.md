@@ -1,9 +1,9 @@
 ---
 title: TypeVariable.getBounds()
-permalink: Java/TypeVariable-java-lang-reflect/getBounds
+permalink: /Java/TypeVariable-java-lang-reflect/getBounds/
 date: 2021-01-11
-key: JavaJava.T.TypeVariable-java-lang-reflect
-category: java
+key: Java.T.TypeVariable-java-lang-reflect
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

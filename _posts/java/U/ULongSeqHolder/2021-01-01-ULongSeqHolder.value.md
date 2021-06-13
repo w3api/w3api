@@ -1,9 +1,9 @@
 ---
 title: ULongSeqHolder.value
-permalink: Java/ULongSeqHolder/value
+permalink: /Java/ULongSeqHolder/value/
 date: 2021-01-11
-key: JavaJava.U.ULongSeqHolder
-category: java
+key: Java.U.ULongSeqHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

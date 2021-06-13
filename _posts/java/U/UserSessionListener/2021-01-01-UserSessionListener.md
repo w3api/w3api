@@ -1,9 +1,9 @@
 ---
 title: UserSessionListener
-permalink: Java/UserSessionListener
+permalink: /Java/UserSessionListener/
 date: 2021-01-11
-key: JavaJava.U.UserSessionListener
-category: java
+key: Java.U.UserSessionListener
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 
   nav: java

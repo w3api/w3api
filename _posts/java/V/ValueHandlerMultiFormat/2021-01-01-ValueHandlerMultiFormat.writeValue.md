@@ -1,9 +1,9 @@
 ---
 title: ValueHandlerMultiFormat.writeValue()
-permalink: Java/ValueHandlerMultiFormat/writeValue
+permalink: /Java/ValueHandlerMultiFormat/writeValue/
 date: 2021-01-11
-key: JavaJava.V.ValueHandlerMultiFormat
-category: java
+key: Java.V.ValueHandlerMultiFormat
+category: Java
 tags: ['java se', 'javax.rmi.CORBA', 'java.corba', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

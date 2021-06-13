@@ -1,9 +1,9 @@
 ---
 title: TypeUtilities.isMethodInvocationConvertible()
-permalink: Java/TypeUtilities/isMethodInvocationConvertible
+permalink: /Java/TypeUtilities/isMethodInvocationConvertible/
 date: 2021-01-11
-key: JavaJava.T.TypeUtilities
-category: java
+key: Java.T.TypeUtilities
+category: Java
 tags: ['java se', 'jdk.dynalink.linker.support', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: X509ExtendedTrustManager.checkClientTrusted()
-permalink: Java/X509ExtendedTrustManager/checkClientTrusted
+permalink: /Java/X509ExtendedTrustManager/checkClientTrusted/
 date: 2021-01-11
-key: JavaJava.X.X509ExtendedTrustManager
-category: java
+key: Java.X.X509ExtendedTrustManager
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

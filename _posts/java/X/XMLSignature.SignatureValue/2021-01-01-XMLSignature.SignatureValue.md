@@ -1,9 +1,9 @@
 ---
 title: XMLSignature.SignatureValue
-permalink: Java/XMLSignature/SignatureValue
+permalink: /Java/XMLSignature/SignatureValue/
 date: 2021-01-11
-key: JavaJava.X.XMLSignature.SignatureValue
-category: java
+key: Java.X.XMLSignature.SignatureValue
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

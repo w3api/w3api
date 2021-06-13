@@ -1,9 +1,9 @@
 ---
 title: Validator.setProperty()
-permalink: Java/Validator-javax-xml-validation/setProperty
+permalink: /Java/Validator-javax-xml-validation/setProperty/
 date: 2021-01-11
-key: JavaJava.V.Validator-javax-xml-validation
-category: java
+key: Java.V.Validator-javax-xml-validation
+category: Java
 tags: ['java se', 'javax.xml.validation', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

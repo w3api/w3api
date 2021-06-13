@@ -1,9 +1,9 @@
 ---
 title: XMLDecoder.setOwner()
-permalink: Java/XMLDecoder/setOwner
+permalink: /Java/XMLDecoder/setOwner/
 date: 2021-01-11
-key: JavaJava.X.XMLDecoder
-category: java
+key: Java.X.XMLDecoder
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

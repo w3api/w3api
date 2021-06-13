@@ -1,9 +1,9 @@
 ---
 title: XPathConstants.DOM_OBJECT_MODEL
-permalink: Java/XPathConstants/DOM_OBJECT_MODEL
+permalink: /Java/XPathConstants/DOM_OBJECT_MODEL/
 date: 2021-01-11
-key: JavaJava.X.XPathConstants
-category: java
+key: Java.X.XPathConstants
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

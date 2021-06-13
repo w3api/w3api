@@ -1,9 +1,9 @@
 ---
 title: X509IssuerSerial.getIssuerName()
-permalink: Java/X509IssuerSerial/getIssuerName
+permalink: /Java/X509IssuerSerial/getIssuerName/
 date: 2021-01-11
-key: JavaJava.X.X509IssuerSerial
-category: java
+key: Java.X.X509IssuerSerial
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.keyinfo', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ViewportLayout
-permalink: Java/ViewportLayout
+permalink: /Java/ViewportLayout/
 date: 2021-01-11
-key: JavaJava.V.ViewportLayout
-category: java
+key: Java.V.ViewportLayout
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

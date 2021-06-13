@@ -1,9 +1,9 @@
 ---
 title: UnknownError
-permalink: Java/UnknownError
+permalink: /Java/UnknownError/
 date: 2021-01-11
-key: JavaJava.U.UnknownError
-category: java
+key: Java.U.UnknownError
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TrustAnchor
-permalink: Java/TrustAnchor
+permalink: /Java/TrustAnchor/
 date: 2021-01-11
-key: JavaJava.T.TrustAnchor
-category: java
+key: Java.T.TrustAnchor
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

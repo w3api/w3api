@@ -1,9 +1,9 @@
 ---
 title: URLStringHelper.insert()
-permalink: Java/URLStringHelper/insert
+permalink: /Java/URLStringHelper/insert/
 date: 2021-01-11
-key: JavaJava.U.URLStringHelper
-category: java
+key: Java.U.URLStringHelper
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextExtPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

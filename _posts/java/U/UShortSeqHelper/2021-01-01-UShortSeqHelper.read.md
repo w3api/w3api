@@ -1,9 +1,9 @@
 ---
 title: UShortSeqHelper.read()
-permalink: Java/UShortSeqHelper/read
+permalink: /Java/UShortSeqHelper/read/
 date: 2021-01-11
-key: JavaJava.U.UShortSeqHelper
-category: java
+key: Java.U.UShortSeqHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

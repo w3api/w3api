@@ -1,9 +1,9 @@
 ---
 title: VarHandle.getAcquire()
-permalink: Java/VarHandle/getAcquire
+permalink: /Java/VarHandle/getAcquire/
 date: 2021-01-11
-key: JavaJava.V.VarHandle
-category: java
+key: Java.V.VarHandle
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

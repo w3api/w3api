@@ -1,9 +1,9 @@
 ---
 title: UIManager.LookAndFeelInfo.UIManager.LookAndFeelInfo()
-permalink: Java/UIManager/LookAndFeelInfo/UIManager/LookAndFeelInfo
+permalink: /Java/UIManager/LookAndFeelInfo/UIManager/LookAndFeelInfo/
 date: 2021-01-11
-key: JavaJava.U.UIManager.LookAndFeelInfo
-category: java
+key: Java.U.UIManager.LookAndFeelInfo
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

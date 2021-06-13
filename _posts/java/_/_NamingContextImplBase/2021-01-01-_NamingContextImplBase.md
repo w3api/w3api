@@ -2,8 +2,8 @@
 title: _NamingContextImplBase
 permalink: /Java/_NamingContextImplBase/
 date: 2021-01-11
-key: JavaJava._._NamingContextImplBase
-category: java
+key: Java._._NamingContextImplBase
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

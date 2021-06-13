@@ -1,9 +1,9 @@
 ---
 title: VMDeathRequest
-permalink: Java/VMDeathRequest
+permalink: /Java/VMDeathRequest/
 date: 2021-01-11
-key: JavaJava.V.VMDeathRequest
-category: java
+key: Java.V.VMDeathRequest
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

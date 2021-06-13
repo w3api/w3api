@@ -2,8 +2,8 @@
 title: _NamingContextExtStub.to_url()
 permalink: /Java/_NamingContextExtStub/to_url/
 date: 2021-01-11
-key: JavaJava._._NamingContextExtStub
-category: java
+key: Java._._NamingContextExtStub
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

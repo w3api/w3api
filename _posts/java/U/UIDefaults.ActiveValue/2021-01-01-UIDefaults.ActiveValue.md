@@ -1,9 +1,9 @@
 ---
 title: UIDefaults.ActiveValue
-permalink: Java/UIDefaults/ActiveValue
+permalink: /Java/UIDefaults/ActiveValue/
 date: 2021-01-11
-key: JavaJava.U.UIDefaults.ActiveValue
-category: java
+key: Java.U.UIDefaults.ActiveValue
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XPathType.Filter.SUBTRACT
-permalink: Java/XPathType/Filter/SUBTRACT
+permalink: /Java/XPathType/Filter/SUBTRACT/
 date: 2021-01-11
-key: JavaJava.X.XPathType.Filter
-category: java
+key: Java.X.XPathType.Filter
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

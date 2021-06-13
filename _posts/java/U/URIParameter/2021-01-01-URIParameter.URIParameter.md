@@ -1,9 +1,9 @@
 ---
 title: URIParameter.URIParameter()
-permalink: Java/URIParameter/URIParameter
+permalink: /Java/URIParameter/URIParameter/
 date: 2021-01-11
-key: JavaJava.U.URIParameter
-category: java
+key: Java.U.URIParameter
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

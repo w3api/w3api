@@ -1,9 +1,9 @@
 ---
 title: XMLSignature.XMLNS
-permalink: Java/XMLSignature/XMLNS
+permalink: /Java/XMLSignature/XMLNS/
 date: 2021-01-11
-key: JavaJava.X.XMLSignature
-category: java
+key: Java.X.XMLSignature
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

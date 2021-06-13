@@ -1,9 +1,9 @@
 ---
 title: XPathEvaluationResult.type()
-permalink: Java/XPathEvaluationResult/type
+permalink: /Java/XPathEvaluationResult/type/
 date: 2021-01-11
-key: JavaJava.X.XPathEvaluationResult
-category: java
+key: Java.X.XPathEvaluationResult
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

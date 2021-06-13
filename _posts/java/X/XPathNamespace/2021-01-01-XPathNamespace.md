@@ -1,9 +1,9 @@
 ---
 title: XPathNamespace
-permalink: Java/XPathNamespace
+permalink: /Java/XPathNamespace/
 date: 2021-01-11
-key: JavaJava.X.XPathNamespace
-category: java
+key: Java.X.XPathNamespace
+category: Java
 tags: ['java se', 'org.w3c.dom.xpath', 'jdk.xml.dom', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: VirtualMachineError
-permalink: Java/VirtualMachineError
+permalink: /Java/VirtualMachineError/
 date: 2021-01-11
-key: JavaJava.V.VirtualMachineError
-category: java
+key: Java.V.VirtualMachineError
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

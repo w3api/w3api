@@ -1,9 +1,9 @@
 ---
 title: ValueMember.type_def
-permalink: Java/ValueMember/type_def
+permalink: /Java/ValueMember/type_def/
 date: 2021-01-11
-key: JavaJava.V.ValueMember
-category: java
+key: Java.V.ValueMember
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

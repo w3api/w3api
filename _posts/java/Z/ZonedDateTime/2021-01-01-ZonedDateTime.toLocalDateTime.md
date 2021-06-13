@@ -1,9 +1,9 @@
 ---
 title: ZonedDateTime.toLocalDateTime()
-permalink: Java/ZonedDateTime/toLocalDateTime
+permalink: /Java/ZonedDateTime/toLocalDateTime/
 date: 2021-01-11
-key: JavaJava.Z.ZonedDateTime
-category: java
+key: Java.Z.ZonedDateTime
+category: Java
 tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

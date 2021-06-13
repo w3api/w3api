@@ -1,9 +1,9 @@
 ---
 title: ViewportLayout.preferredLayoutSize()
-permalink: Java/ViewportLayout/preferredLayoutSize
+permalink: /Java/ViewportLayout/preferredLayoutSize/
 date: 2021-01-11
-key: JavaJava.V.ViewportLayout
-category: java
+key: Java.V.ViewportLayout
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

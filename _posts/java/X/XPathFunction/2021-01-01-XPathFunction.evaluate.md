@@ -1,9 +1,9 @@
 ---
 title: XPathFunction.evaluate()
-permalink: Java/XPathFunction/evaluate
+permalink: /Java/XPathFunction/evaluate/
 date: 2021-01-11
-key: JavaJava.X.XPathFunction
-category: java
+key: Java.X.XPathFunction
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

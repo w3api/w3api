@@ -1,9 +1,9 @@
 ---
 title: TreeWalker
-permalink: Java/TreeWalker
+permalink: /Java/TreeWalker/
 date: 2021-01-11
-key: JavaJava.T.TreeWalker
-category: java
+key: Java.T.TreeWalker
+category: Java
 tags: ['java se', 'org.w3c.dom.traversal', 'java.xml', 'interface java', 'Java 9', 'DOM Level 2']
 sidebar: 
   nav: java

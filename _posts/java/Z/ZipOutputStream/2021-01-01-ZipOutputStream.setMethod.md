@@ -1,9 +1,9 @@
 ---
 title: ZipOutputStream.setMethod()
-permalink: Java/ZipOutputStream/setMethod
+permalink: /Java/ZipOutputStream/setMethod/
 date: 2021-01-11
-key: JavaJava.Z.ZipOutputStream
-category: java
+key: Java.Z.ZipOutputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

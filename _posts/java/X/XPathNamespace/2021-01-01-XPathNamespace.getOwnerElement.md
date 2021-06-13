@@ -1,9 +1,9 @@
 ---
 title: XPathNamespace.getOwnerElement()
-permalink: Java/XPathNamespace/getOwnerElement
+permalink: /Java/XPathNamespace/getOwnerElement/
 date: 2021-01-11
-key: JavaJava.X.XPathNamespace
-category: java
+key: Java.X.XPathNamespace
+category: Java
 tags: ['java se', 'org.w3c.dom.xpath', 'jdk.xml.dom', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

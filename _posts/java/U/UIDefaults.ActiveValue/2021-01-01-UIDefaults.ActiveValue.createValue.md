@@ -1,9 +1,9 @@
 ---
 title: UIDefaults.ActiveValue.createValue()
-permalink: Java/UIDefaults/ActiveValue/createValue
+permalink: /Java/UIDefaults/ActiveValue/createValue/
 date: 2021-01-11
-key: JavaJava.U.UIDefaults.ActiveValue
-category: java
+key: Java.U.UIDefaults.ActiveValue
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

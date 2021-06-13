@@ -1,9 +1,9 @@
 ---
 title: UnknownEncoding.UnknownEncoding()
-permalink: Java/UnknownEncoding/UnknownEncoding
+permalink: /Java/UnknownEncoding/UnknownEncoding/
 date: 2021-01-11
-key: JavaJava.U.UnknownEncoding
-category: java
+key: Java.U.UnknownEncoding
+category: Java
 tags: ['java se', 'org.omg.IOP.CodecFactoryPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

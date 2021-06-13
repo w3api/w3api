@@ -1,9 +1,9 @@
 ---
 title: ValidationEventHandler.handleEvent()
-permalink: Java/ValidationEventHandler/handleEvent
+permalink: /Java/ValidationEventHandler/handleEvent/
 date: 2021-01-11
-key: JavaJava.V.ValidationEventHandler
-category: java
+key: Java.V.ValidationEventHandler
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 
   nav: java

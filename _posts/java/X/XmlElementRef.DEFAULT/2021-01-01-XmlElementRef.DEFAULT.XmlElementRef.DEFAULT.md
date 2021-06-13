@@ -1,9 +1,9 @@
 ---
 title: XmlElementRef.DEFAULT.XmlElementRef.DEFAULT()
-permalink: Java/XmlElementRef/DEFAULT/XmlElementRef/DEFAULT
+permalink: /Java/XmlElementRef/DEFAULT/XmlElementRef/DEFAULT/
 date: 2021-01-11
-key: JavaJava.X.XmlElementRef.DEFAULT
-category: java
+key: Java.X.XmlElementRef.DEFAULT
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

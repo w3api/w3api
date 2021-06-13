@@ -1,9 +1,9 @@
 ---
 title: TypeBasedGuardingDynamicLinker.canLinkType()
-permalink: Java/TypeBasedGuardingDynamicLinker/canLinkType
+permalink: /Java/TypeBasedGuardingDynamicLinker/canLinkType/
 date: 2021-01-11
-key: JavaJava.T.TypeBasedGuardingDynamicLinker
-category: java
+key: Java.T.TypeBasedGuardingDynamicLinker
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

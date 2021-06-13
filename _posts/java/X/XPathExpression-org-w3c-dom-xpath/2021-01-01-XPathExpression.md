@@ -1,9 +1,9 @@
 ---
 title: XPathExpression
-permalink: Java/XPathExpression-org-w3c-dom-xpath
+permalink: /Java/XPathExpression-org-w3c-dom-xpath/
 date: 2021-01-11
-key: JavaJava.X.XPathExpression-org-w3c-dom-xpath
-category: java
+key: Java.X.XPathExpression-org-w3c-dom-xpath
+category: Java
 tags: ['java se', 'org.w3c.dom.xpath', 'jdk.xml.dom', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

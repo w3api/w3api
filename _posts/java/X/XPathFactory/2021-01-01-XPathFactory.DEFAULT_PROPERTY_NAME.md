@@ -1,9 +1,9 @@
 ---
 title: XPathFactory.DEFAULT_PROPERTY_NAME
-permalink: Java/XPathFactory/DEFAULT_PROPERTY_NAME
+permalink: /Java/XPathFactory/DEFAULT_PROPERTY_NAME/
 date: 2021-01-11
-key: JavaJava.X.XPathFactory
-category: java
+key: Java.X.XPathFactory
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

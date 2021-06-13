@@ -1,9 +1,9 @@
 ---
 title: ValueFactory
-permalink: Java/ValueFactory
+permalink: /Java/ValueFactory/
 date: 2021-01-11
-key: JavaJava.V.ValueFactory
-category: java
+key: Java.V.ValueFactory
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UIDefaults.LazyValue.createValue()
-permalink: Java/UIDefaults/LazyValue/createValue
+permalink: /Java/UIDefaults/LazyValue/createValue/
 date: 2021-01-11
-key: JavaJava.U.UIDefaults.LazyValue
-category: java
+key: Java.U.UIDefaults.LazyValue
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

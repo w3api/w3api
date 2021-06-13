@@ -1,9 +1,9 @@
 ---
 title: TreeVisitor
-permalink: Java/TreeVisitor/
+permalink: /Java/TreeVisitor//
 date: 2021-01-11
-key: JavaJava.T.TreeVisitor
-category: java
+key: Java.T.TreeVisitor
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

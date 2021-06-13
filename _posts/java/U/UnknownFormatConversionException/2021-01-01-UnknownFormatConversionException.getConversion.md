@@ -1,9 +1,9 @@
 ---
 title: UnknownFormatConversionException.getConversion()
-permalink: Java/UnknownFormatConversionException/getConversion
+permalink: /Java/UnknownFormatConversionException/getConversion/
 date: 2021-01-11
-key: JavaJava.U.UnknownFormatConversionException
-category: java
+key: Java.U.UnknownFormatConversionException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

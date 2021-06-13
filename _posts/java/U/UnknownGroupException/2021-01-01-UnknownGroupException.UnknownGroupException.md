@@ -1,9 +1,9 @@
 ---
 title: UnknownGroupException.UnknownGroupException()
-permalink: Java/UnknownGroupException/UnknownGroupException
+permalink: /Java/UnknownGroupException/UnknownGroupException/
 date: 2021-01-11
-key: JavaJava.U.UnknownGroupException
-category: java
+key: Java.U.UnknownGroupException
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

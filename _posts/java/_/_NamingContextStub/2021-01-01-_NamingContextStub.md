@@ -2,8 +2,8 @@
 title: _NamingContextStub
 permalink: /Java/_NamingContextStub/
 date: 2021-01-11
-key: JavaJava._._NamingContextStub
-category: java
+key: Java._._NamingContextStub
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

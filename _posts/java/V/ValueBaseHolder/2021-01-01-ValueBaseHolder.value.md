@@ -1,9 +1,9 @@
 ---
 title: ValueBaseHolder.value
-permalink: Java/ValueBaseHolder/value
+permalink: /Java/ValueBaseHolder/value/
 date: 2021-01-11
-key: JavaJava.V.ValueBaseHolder
-category: java
+key: Java.V.ValueBaseHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

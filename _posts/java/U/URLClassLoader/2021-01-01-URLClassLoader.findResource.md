@@ -1,9 +1,9 @@
 ---
 title: URLClassLoader.findResource()
-permalink: Java/URLClassLoader/findResource
+permalink: /Java/URLClassLoader/findResource/
 date: 2021-01-11
-key: JavaJava.U.URLClassLoader
-category: java
+key: Java.U.URLClassLoader
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

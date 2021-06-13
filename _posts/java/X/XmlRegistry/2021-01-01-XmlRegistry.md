@@ -1,9 +1,9 @@
 ---
 title: XmlRegistry
-permalink: Java/XmlRegistry
+permalink: /Java/XmlRegistry/
 date: 2021-01-11
-key: JavaJava.X.XmlRegistry
-category: java
+key: Java.X.XmlRegistry
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'anotacion java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

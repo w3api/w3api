@@ -2,8 +2,8 @@
 title: _DynValueStub.get_float()
 permalink: /Java/_DynValueStub/get_float/
 date: 2021-01-11
-key: JavaJava._._DynValueStub
-category: java
+key: Java._._DynValueStub
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

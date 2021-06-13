@@ -2,8 +2,8 @@
 title: _IDLTypeStub._IDLTypeStub()
 permalink: /Java/_IDLTypeStub/_IDLTypeStub/
 date: 2021-01-11
-key: JavaJava._._IDLTypeStub
-category: java
+key: Java._._IDLTypeStub
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

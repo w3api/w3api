@@ -1,9 +1,9 @@
 ---
 title: XMLEventAllocator.newInstance()
-permalink: Java/XMLEventAllocator/newInstance
+permalink: /Java/XMLEventAllocator/newInstance/
 date: 2021-01-11
-key: JavaJava.X.XMLEventAllocator
-category: java
+key: Java.X.XMLEventAllocator
+category: Java
 tags: ['java se', 'javax.xml.stream.util', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

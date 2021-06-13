@@ -1,9 +1,9 @@
 ---
 title: UnixNumericUserPrincipal.getName()
-permalink: Java/UnixNumericUserPrincipal/getName
+permalink: /Java/UnixNumericUserPrincipal/getName/
 date: 2021-01-11
-key: JavaJava.U.UnixNumericUserPrincipal
-category: java
+key: Java.U.UnixNumericUserPrincipal
+category: Java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

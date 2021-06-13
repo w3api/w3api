@@ -1,9 +1,9 @@
 ---
 title: TypeCastTree.getExpression()
-permalink: Java/TypeCastTree/getExpression
+permalink: /Java/TypeCastTree/getExpression/
 date: 2021-01-11
-key: JavaJava.T.TypeCastTree
-category: java
+key: Java.T.TypeCastTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

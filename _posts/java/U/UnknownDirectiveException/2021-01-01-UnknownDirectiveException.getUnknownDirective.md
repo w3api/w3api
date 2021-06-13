@@ -1,9 +1,9 @@
 ---
 title: UnknownDirectiveException.getUnknownDirective()
-permalink: Java/UnknownDirectiveException/getUnknownDirective
+permalink: /Java/UnknownDirectiveException/getUnknownDirective/
 date: 2021-01-11
-key: JavaJava.U.UnknownDirectiveException
-category: java
+key: Java.U.UnknownDirectiveException
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

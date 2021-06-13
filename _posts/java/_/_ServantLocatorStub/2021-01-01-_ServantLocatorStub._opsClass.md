@@ -2,8 +2,8 @@
 title: _ServantLocatorStub._opsClass
 permalink: /Java/_ServantLocatorStub/_opsClass/
 date: 2021-01-11
-key: JavaJava._._ServantLocatorStub
-category: java
+key: Java._._ServantLocatorStub
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

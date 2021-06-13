@@ -1,9 +1,9 @@
 ---
 title: XMLStreamWriter.writeAttribute()
-permalink: Java/XMLStreamWriter/writeAttribute
+permalink: /Java/XMLStreamWriter/writeAttribute/
 date: 2021-01-11
-key: JavaJava.X.XMLStreamWriter
-category: java
+key: Java.X.XMLStreamWriter
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UtilDelegate.readAny()
-permalink: Java/UtilDelegate/readAny
+permalink: /Java/UtilDelegate/readAny/
 date: 2021-01-11
-key: JavaJava.U.UtilDelegate
-category: java
+key: Java.U.UtilDelegate
+category: Java
 tags: ['java se', 'javax.rmi.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

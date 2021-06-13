@@ -1,9 +1,9 @@
 ---
 title: VerifyError.VerifyError()
-permalink: Java/VerifyError/VerifyError
+permalink: /Java/VerifyError/VerifyError/
 date: 2021-01-11
-key: JavaJava.V.VerifyError
-category: java
+key: Java.V.VerifyError
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: UnixSystem
-permalink: Java/UnixSystem
+permalink: /Java/UnixSystem/
 date: 2021-01-11
-key: JavaJava.U.UnixSystem
-category: java
+key: Java.U.UnixSystem
+category: Java
 tags: ['java se', 'com.sun.security.auth.module', 'jdk.security.auth', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

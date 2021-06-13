@@ -1,9 +1,9 @@
 ---
 title: UnknownObjectException
-permalink: Java/UnknownObjectException
+permalink: /Java/UnknownObjectException/
 date: 2021-01-11
-key: JavaJava.U.UnknownObjectException
-category: java
+key: Java.U.UnknownObjectException
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

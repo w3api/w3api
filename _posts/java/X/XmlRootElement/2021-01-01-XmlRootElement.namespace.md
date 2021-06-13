@@ -1,9 +1,9 @@
 ---
 title: XmlRootElement.namespace
-permalink: Java/XmlRootElement/namespace
+permalink: /Java/XmlRootElement/namespace/
 date: 2021-01-11
-key: JavaJava.X.XmlRootElement
-category: java
+key: Java.X.XmlRootElement
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'elemento java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

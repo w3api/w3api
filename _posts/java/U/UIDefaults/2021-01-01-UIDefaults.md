@@ -1,9 +1,9 @@
 ---
 title: UIDefaults
-permalink: Java/UIDefaults
+permalink: /Java/UIDefaults/
 date: 2021-01-11
-key: JavaJava.U.UIDefaults
-category: java
+key: Java.U.UIDefaults
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: XPathNodes.iterator()
-permalink: Java/XPathNodes/iterator
+permalink: /Java/XPathNodes/iterator/
 date: 2021-01-11
-key: JavaJava.X.XPathNodes
-category: java
+key: Java.X.XPathNodes
+category: Java
 tags: ['java se', 'javax.xml.xpath', 'java.xml', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

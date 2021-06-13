@@ -1,9 +1,9 @@
 ---
 title: TypeUtilities
-permalink: Java/TypeUtilities
+permalink: /Java/TypeUtilities/
 date: 2021-01-11
-key: JavaJava.T.TypeUtilities
-category: java
+key: Java.T.TypeUtilities
+category: Java
 tags: ['java se', 'jdk.dynalink.linker.support', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

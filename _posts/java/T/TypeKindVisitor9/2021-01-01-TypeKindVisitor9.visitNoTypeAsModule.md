@@ -1,9 +1,9 @@
 ---
 title: TypeKindVisitor9.visitNoTypeAsModule()
-permalink: Java/TypeKindVisitor9/visitNoTypeAsModule
+permalink: /Java/TypeKindVisitor9/visitNoTypeAsModule/
 date: 2021-01-11
-key: JavaJava.T.TypeKindVisitor9
-category: java
+key: Java.T.TypeKindVisitor9
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Utilities.Utilities()
-permalink: Java/Utilities/Utilities
+permalink: /Java/Utilities/Utilities/
 date: 2021-01-11
-key: JavaJava.U.Utilities
-category: java
+key: Java.U.Utilities
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

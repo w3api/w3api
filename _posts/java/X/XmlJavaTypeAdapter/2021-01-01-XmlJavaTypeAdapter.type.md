@@ -1,9 +1,9 @@
 ---
 title: XmlJavaTypeAdapter.type
-permalink: Java/XmlJavaTypeAdapter/type
+permalink: /Java/XmlJavaTypeAdapter/type/
 date: 2021-01-11
-key: JavaJava.X.XmlJavaTypeAdapter
-category: java
+key: Java.X.XmlJavaTypeAdapter
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation.adapters', 'java.xml.bind', 'elemento java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

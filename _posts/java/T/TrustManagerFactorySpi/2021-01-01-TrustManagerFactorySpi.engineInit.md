@@ -1,9 +1,9 @@
 ---
 title: TrustManagerFactorySpi.engineInit()
-permalink: Java/TrustManagerFactorySpi/engineInit
+permalink: /Java/TrustManagerFactorySpi/engineInit/
 date: 2021-01-11
-key: JavaJava.T.TrustManagerFactorySpi
-category: java
+key: Java.T.TrustManagerFactorySpi
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java
