@@ -2,8 +2,8 @@
 title: ObservableBooleanValue.get()
 permalink: /Java/ObservableBooleanValue/get/
 date: 2021-01-11
-key: JavaJava.O.ObservableBooleanValue
-category: java
+key: Java.O.ObservableBooleanValue
+category: Java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,8 +1,8 @@
 ---
 title: NodeChangeEvent.NodeChangeEvent()
-permalink: Java/NodeChangeEvent/NodeChangeEvent
+permalink: /Java/NodeChangeEvent/NodeChangeEvent/
 date: 2021-01-11
-key: JavaJava.N.NodeChangeEvent
+key: Java.N.NodeChangeEvent
 category: Java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'metodo java', 'Java 1.4']
 sidebar: 

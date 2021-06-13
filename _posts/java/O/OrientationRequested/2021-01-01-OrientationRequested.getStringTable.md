@@ -2,8 +2,8 @@
 title: OrientationRequested.getStringTable()
 permalink: /Java/OrientationRequested/getStringTable/
 date: 2021-01-11
-key: JavaJava.O.OrientationRequested
-category: java
+key: Java.O.OrientationRequested
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

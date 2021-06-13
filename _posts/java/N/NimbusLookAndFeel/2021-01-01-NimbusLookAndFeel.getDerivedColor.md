@@ -1,8 +1,8 @@
 ---
 title: NimbusLookAndFeel.getDerivedColor()
-permalink: Java/NimbusLookAndFeel/getDerivedColor
+permalink: /Java/NimbusLookAndFeel/getDerivedColor/
 date: 2021-01-11
-key: JavaJava.N.NimbusLookAndFeel
+key: Java.N.NimbusLookAndFeel
 category: Java
 tags: ['java se', 'javax.swing.plaf.nimbus', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -2,8 +2,8 @@
 title: ObjectOutputStream.PutField
 permalink: /Java/ObjectOutputStream/PutField/
 date: 2021-01-11
-key: JavaJava.O.ObjectOutputStream.PutField
-category: java
+key: Java.O.ObjectOutputStream.PutField
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

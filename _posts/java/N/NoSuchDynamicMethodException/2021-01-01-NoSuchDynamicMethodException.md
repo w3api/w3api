@@ -1,8 +1,8 @@
 ---
 title: NoSuchDynamicMethodException
-permalink: Java/NoSuchDynamicMethodException
+permalink: /Java/NoSuchDynamicMethodException/
 date: 2021-01-11
-key: JavaJava.N.NoSuchDynamicMethodException
+key: Java.N.NoSuchDynamicMethodException
 category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 

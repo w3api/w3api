@@ -2,8 +2,8 @@
 title: OptionalDataException
 permalink: /Java/OptionalDataException/
 date: 2021-01-11
-key: JavaJava.O.OptionalDataException
-category: java
+key: Java.O.OptionalDataException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

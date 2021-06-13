@@ -1,9 +1,9 @@
 ---
 title: RSAKeyGenParameterSpec
-permalink: Java/RSAKeyGenParameterSpec
+permalink: /Java/RSAKeyGenParameterSpec/
 date: 2021-01-11
 key: Java.R.RSAKeyGenParameterSpec
-category: java
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

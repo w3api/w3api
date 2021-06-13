@@ -1,8 +1,8 @@
 ---
 title: NoServantHelper.write()
-permalink: Java/NoServantHelper/write
+permalink: /Java/NoServantHelper/write/
 date: 2021-01-11
-key: JavaJava.N.NoServantHelper
+key: Java.N.NoServantHelper
 category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

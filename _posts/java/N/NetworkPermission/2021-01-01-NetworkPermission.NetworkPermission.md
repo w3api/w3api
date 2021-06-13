@@ -1,8 +1,8 @@
 ---
 title: NetworkPermission.NetworkPermission()
-permalink: Java/NetworkPermission/NetworkPermission
+permalink: /Java/NetworkPermission/NetworkPermission/
 date: 2021-01-11
-key: JavaJava.N.NetworkPermission
+key: Java.N.NetworkPermission
 category: Java
 tags: ['java se', 'jdk.net', 'jdk.net', 'metodo java', 'Java 1.8']
 sidebar: 

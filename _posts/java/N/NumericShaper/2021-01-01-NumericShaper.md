@@ -1,8 +1,8 @@
 ---
 title: NumericShaper
-permalink: Java/NumericShaper
+permalink: /Java/NumericShaper/
 date: 2021-01-11
-key: JavaJava.N.NumericShaper
+key: Java.N.NumericShaper
 category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 

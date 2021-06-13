@@ -1,9 +1,9 @@
 ---
 title: SAXParseException.getColumnNumber()
-permalink: Java/SAXParseException/getColumnNumber
+permalink: /Java/SAXParseException/getColumnNumber/
 date: 2021-01-11
-key: JavaJava.S.SAXParseException
-category: java
+key: Java.S.SAXParseException
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'metodo java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 
   nav: java

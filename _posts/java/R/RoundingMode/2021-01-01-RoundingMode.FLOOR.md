@@ -1,9 +1,9 @@
 ---
 title: RoundingMode.FLOOR
-permalink: Java/RoundingMode/FLOOR
+permalink: /Java/RoundingMode/FLOOR/
 date: 2021-01-11
 key: Java.R.RoundingMode
-category: java
+category: Java
 tags: ['java se', 'java.math', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

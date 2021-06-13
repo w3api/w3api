@@ -1,9 +1,9 @@
 ---
 title: RSAOtherPrimeInfo.getExponent()
-permalink: Java/RSAOtherPrimeInfo/getExponent
+permalink: /Java/RSAOtherPrimeInfo/getExponent/
 date: 2021-01-11
 key: Java.R.RSAOtherPrimeInfo
-category: java
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

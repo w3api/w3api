@@ -2,8 +2,8 @@
 title: OutputKeys.STANDALONE
 permalink: /Java/OutputKeys/STANDALONE/
 date: 2021-01-11
-key: JavaJava.O.OutputKeys
-category: java
+key: Java.O.OutputKeys
+category: Java
 tags: ['java se', 'javax.xml.transform', 'java.xml', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

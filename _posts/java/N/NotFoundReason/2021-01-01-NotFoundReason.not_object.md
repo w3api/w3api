@@ -1,8 +1,8 @@
 ---
 title: NotFoundReason.not_object
-permalink: Java/NotFoundReason/not_object
+permalink: /Java/NotFoundReason/not_object/
 date: 2021-01-11
-key: JavaJava.N.NotFoundReason
+key: Java.N.NotFoundReason
 category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

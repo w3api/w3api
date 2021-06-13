@@ -1,9 +1,9 @@
 ---
 title: RMIServerImpl_Stub.RMIServerImpl_Stub()
-permalink: Java/RMIServerImpl_Stub/RMIServerImpl_Stub
+permalink: /Java/RMIServerImpl_Stub/RMIServerImpl_Stub/
 date: 2021-01-11
 key: Java.R.RMIServerImpl_Stub
-category: java
+category: Java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

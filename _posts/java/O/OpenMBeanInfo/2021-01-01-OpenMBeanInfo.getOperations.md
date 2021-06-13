@@ -2,8 +2,8 @@
 title: OpenMBeanInfo.getOperations()
 permalink: /Java/OpenMBeanInfo/getOperations/
 date: 2021-01-11
-key: JavaJava.O.OpenMBeanInfo
-category: java
+key: Java.O.OpenMBeanInfo
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

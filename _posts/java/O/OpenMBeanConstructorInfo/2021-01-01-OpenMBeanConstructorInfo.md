@@ -2,8 +2,8 @@
 title: OpenMBeanConstructorInfo
 permalink: /Java/OpenMBeanConstructorInfo/
 date: 2021-01-11
-key: JavaJava.O.OpenMBeanConstructorInfo
-category: java
+key: Java.O.OpenMBeanConstructorInfo
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

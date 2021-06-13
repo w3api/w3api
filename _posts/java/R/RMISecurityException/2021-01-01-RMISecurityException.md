@@ -1,9 +1,9 @@
 ---
 title: RMISecurityException
-permalink: Java/RMISecurityException
+permalink: /Java/RMISecurityException/
 date: 2021-01-11
 key: Java.R.RMISecurityException
-category: java
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

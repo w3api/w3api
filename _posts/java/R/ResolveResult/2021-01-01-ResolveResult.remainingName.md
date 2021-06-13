@@ -1,9 +1,9 @@
 ---
 title: ResolveResult.remainingName
-permalink: Java/ResolveResult/remainingName
+permalink: /Java/ResolveResult/remainingName/
 date: 2021-01-11
 key: Java.R.ResolveResult
-category: java
+category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

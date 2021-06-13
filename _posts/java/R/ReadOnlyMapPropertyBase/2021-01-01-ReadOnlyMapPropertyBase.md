@@ -1,9 +1,9 @@
 ---
 title: ReadOnlyMapPropertyBase
-permalink: Java/ReadOnlyMapPropertyBase
+permalink: /Java/ReadOnlyMapPropertyBase/
 date: 2021-01-11
 key: Java.R.ReadOnlyMapPropertyBase
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

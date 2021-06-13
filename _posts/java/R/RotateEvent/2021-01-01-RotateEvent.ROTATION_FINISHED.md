@@ -1,9 +1,9 @@
 ---
 title: RotateEvent.ROTATION_FINISHED
-permalink: Java/RotateEvent/ROTATION_FINISHED
+permalink: /Java/RotateEvent/ROTATION_FINISHED/
 date: 2021-01-11
 key: Java.R.RotateEvent
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'campo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

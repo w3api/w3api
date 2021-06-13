@@ -2,8 +2,8 @@
 title: OperatingSystemMXBean.getCommittedVirtualMemorySize()
 permalink: /Java/OperatingSystemMXBean-com-sun-management/getCommittedVirtualMemorySize/
 date: 2021-01-11
-key: JavaJava.O.OperatingSystemMXBean-com-sun-management
-category: java
+key: Java.O.OperatingSystemMXBean-com-sun-management
+category: Java
 tags: ['java se', 'com.sun.management', 'jdk.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

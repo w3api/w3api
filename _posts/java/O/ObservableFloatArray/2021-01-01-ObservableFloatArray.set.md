@@ -2,8 +2,8 @@
 title: ObservableFloatArray.set()
 permalink: /Java/ObservableFloatArray/set/
 date: 2021-01-11
-key: JavaJava.O.ObservableFloatArray
-category: java
+key: Java.O.ObservableFloatArray
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

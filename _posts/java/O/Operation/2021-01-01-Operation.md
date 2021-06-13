@@ -2,8 +2,8 @@
 title: Operation
 permalink: /Java/Operation//
 date: 2021-01-11
-key: JavaJava.O.Operation
-category: java
+key: Java.O.Operation
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

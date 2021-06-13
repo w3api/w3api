@@ -1,9 +1,9 @@
 ---
 title: RowSorter.SortKey.hashCode()
-permalink: Java/RowSorter/SortKey/hashCode
+permalink: /Java/RowSorter/SortKey/hashCode/
 date: 2021-01-11
 key: Java.R.RowSorter.SortKey
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

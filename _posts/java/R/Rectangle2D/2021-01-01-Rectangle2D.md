@@ -1,9 +1,9 @@
 ---
 title: Rectangle2D
-permalink: Java/Rectangle2D/
+permalink: /Java/Rectangle2D//
 date: 2021-01-11
 key: Java.R.Rectangle2D
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

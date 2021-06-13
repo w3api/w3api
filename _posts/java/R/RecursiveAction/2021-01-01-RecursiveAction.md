@@ -1,9 +1,9 @@
 ---
 title: RecursiveAction
-permalink: Java/RecursiveAction
+permalink: /Java/RecursiveAction/
 date: 2021-01-11
 key: Java.R.RecursiveAction
-category: java
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

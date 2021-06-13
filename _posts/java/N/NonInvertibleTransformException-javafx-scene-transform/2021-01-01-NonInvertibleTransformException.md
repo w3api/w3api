@@ -1,8 +1,8 @@
 ---
 title: NonInvertibleTransformException
-permalink: Java/NonInvertibleTransformException-javafx-scene-transform
+permalink: /Java/NonInvertibleTransformException-javafx-scene-transform/
 date: 2021-01-11
-key: JavaJava.N.NonInvertibleTransformException-javafx-scene-transform
+key: Java.N.NonInvertibleTransformException-javafx-scene-transform
 category: Java
 tags: ['java se', 'javafx.scene.transform', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 

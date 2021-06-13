@@ -1,8 +1,8 @@
 ---
 title: Normalizer
-permalink: Java/Normalizer
+permalink: /Java/Normalizer/
 date: 2021-01-11
-key: JavaJava.N.Normalizer
+key: Java.N.Normalizer
 category: Java
 tags: ['java se', 'java.text', 'java.base', 'clase java', 'Java 1.6']
 sidebar: 

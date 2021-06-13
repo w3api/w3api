@@ -2,8 +2,8 @@
 title: OBJ_ADAPTER
 permalink: /Java/OBJ_ADAPTER/
 date: 2021-01-11
-key: JavaJava.O.OBJ_ADAPTER
-category: java
+key: Java.O.OBJ_ADAPTER
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: RoundEnvironment
-permalink: Java/RoundEnvironment
+permalink: /Java/RoundEnvironment/
 date: 2021-01-11
 key: Java.R.RoundEnvironment
-category: java
+category: Java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

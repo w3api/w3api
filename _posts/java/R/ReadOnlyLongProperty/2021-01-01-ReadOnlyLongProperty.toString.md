@@ -1,9 +1,9 @@
 ---
 title: ReadOnlyLongProperty.toString()
-permalink: Java/ReadOnlyLongProperty/toString
+permalink: /Java/ReadOnlyLongProperty/toString/
 date: 2021-01-11
 key: Java.R.ReadOnlyLongProperty
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: RC5ParameterSpec.getWordSize()
-permalink: Java/RC5ParameterSpec/getWordSize
+permalink: /Java/RC5ParameterSpec/getWordSize/
 date: 2021-01-11
 key: Java.R.RC5ParameterSpec
-category: java
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

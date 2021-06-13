@@ -1,9 +1,9 @@
 ---
 title: SAAJResult.getResult()
-permalink: Java/SAAJResult/getResult
+permalink: /Java/SAAJResult/getResult/
 date: 2021-01-11
-key: JavaJava.S.SAAJResult
-category: java
+key: Java.S.SAAJResult
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'metodo java', 'Java 1.6', 'SAAJ Java 1.3']
 sidebar: 
   nav: java

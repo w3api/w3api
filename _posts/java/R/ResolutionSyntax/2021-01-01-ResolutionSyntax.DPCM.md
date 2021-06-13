@@ -1,9 +1,9 @@
 ---
 title: ResolutionSyntax.DPCM
-permalink: Java/ResolutionSyntax/DPCM
+permalink: /Java/ResolutionSyntax/DPCM/
 date: 2021-01-11
 key: Java.R.ResolutionSyntax
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: QuitEvent
-permalink: Java/QuitEvent
+permalink: /Java/QuitEvent/
 date: 2021-01-11
-key: JavaJava.Q.QuitEvent
-category: java
+key: Java.Q.QuitEvent
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

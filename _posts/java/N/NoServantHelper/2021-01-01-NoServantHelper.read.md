@@ -1,8 +1,8 @@
 ---
 title: NoServantHelper.read()
-permalink: Java/NoServantHelper/read
+permalink: /Java/NoServantHelper/read/
 date: 2021-01-11
-key: JavaJava.N.NoServantHelper
+key: Java.N.NoServantHelper
 category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -2,8 +2,8 @@
 title: OpenDataException.OpenDataException()
 permalink: /Java/OpenDataException/OpenDataException/
 date: 2021-01-11
-key: JavaJava.O.OpenDataException
-category: java
+key: Java.O.OpenDataException
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

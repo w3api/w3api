@@ -1,9 +1,9 @@
 ---
 title: RecursiveAction.compute()
-permalink: Java/RecursiveAction/compute
+permalink: /Java/RecursiveAction/compute/
 date: 2021-01-11
 key: Java.R.RecursiveAction
-category: java
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

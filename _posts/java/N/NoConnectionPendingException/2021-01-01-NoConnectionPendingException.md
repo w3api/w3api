@@ -1,8 +1,8 @@
 ---
 title: NoConnectionPendingException
-permalink: Java/NoConnectionPendingException
+permalink: /Java/NoConnectionPendingException/
 date: 2021-01-11
-key: JavaJava.N.NoConnectionPendingException
+key: Java.N.NoConnectionPendingException
 category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

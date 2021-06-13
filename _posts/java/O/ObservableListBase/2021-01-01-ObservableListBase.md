@@ -2,8 +2,8 @@
 title: ObservableListBase
 permalink: /Java/ObservableListBase/
 date: 2021-01-11
-key: JavaJava.O.ObservableListBase
-category: java
+key: Java.O.ObservableListBase
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

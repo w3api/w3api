@@ -1,8 +1,8 @@
 ---
 title: NimbusStyle.getFontForState()
-permalink: Java/NimbusStyle/getFontForState
+permalink: /Java/NimbusStyle/getFontForState/
 date: 2021-01-11
-key: JavaJava.N.NimbusStyle
+key: Java.N.NimbusStyle
 category: Java
 tags: ['java se', 'javax.swing.plaf.nimbus', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

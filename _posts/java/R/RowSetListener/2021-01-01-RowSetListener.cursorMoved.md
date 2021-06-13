@@ -1,9 +1,9 @@
 ---
 title: RowSetListener.cursorMoved()
-permalink: Java/RowSetListener/cursorMoved
+permalink: /Java/RowSetListener/cursorMoved/
 date: 2021-01-11
 key: Java.R.RowSetListener
-category: java
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

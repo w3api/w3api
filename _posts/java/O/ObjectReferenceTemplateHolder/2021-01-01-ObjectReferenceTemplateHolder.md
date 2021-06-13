@@ -2,8 +2,8 @@
 title: ObjectReferenceTemplateHolder
 permalink: /Java/ObjectReferenceTemplateHolder/
 date: 2021-01-11
-key: JavaJava.O.ObjectReferenceTemplateHolder
-category: java
+key: Java.O.ObjectReferenceTemplateHolder
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

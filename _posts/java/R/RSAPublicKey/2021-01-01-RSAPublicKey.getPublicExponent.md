@@ -1,9 +1,9 @@
 ---
 title: RSAPublicKey.getPublicExponent()
-permalink: Java/RSAPublicKey/getPublicExponent
+permalink: /Java/RSAPublicKey/getPublicExponent/
 date: 2021-01-11
 key: Java.R.RSAPublicKey
-category: java
+category: Java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,8 +1,8 @@
 ---
 title: NotCompliantMBeanException
-permalink: Java/NotCompliantMBeanException
+permalink: /Java/NotCompliantMBeanException/
 date: 2021-01-11
-key: JavaJava.N.NotCompliantMBeanException
+key: Java.N.NotCompliantMBeanException
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

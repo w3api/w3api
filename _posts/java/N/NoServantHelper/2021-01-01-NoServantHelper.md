@@ -1,8 +1,8 @@
 ---
 title: NoServantHelper
-permalink: Java/NoServantHelper
+permalink: /Java/NoServantHelper/
 date: 2021-01-11
-key: JavaJava.N.NoServantHelper
+key: Java.N.NoServantHelper
 category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

@@ -1,9 +1,9 @@
 ---
 title: RandomAccessFile.writeLong()
-permalink: Java/RandomAccessFile/writeLong
+permalink: /Java/RandomAccessFile/writeLong/
 date: 2021-01-11
 key: Java.R.RandomAccessFile
-category: java
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

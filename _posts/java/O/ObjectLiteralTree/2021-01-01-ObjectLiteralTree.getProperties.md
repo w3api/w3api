@@ -2,8 +2,8 @@
 title: ObjectLiteralTree.getProperties()
 permalink: /Java/ObjectLiteralTree/getProperties/
 date: 2021-01-11
-key: JavaJava.O.ObjectLiteralTree
-category: java
+key: Java.O.ObjectLiteralTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: RotateTransition.setDuration()
-permalink: Java/RotateTransition/setDuration
+permalink: /Java/RotateTransition/setDuration/
 date: 2021-01-11
 key: Java.R.RotateTransition
-category: java
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

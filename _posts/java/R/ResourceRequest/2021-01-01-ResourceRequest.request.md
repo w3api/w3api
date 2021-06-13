@@ -1,9 +1,9 @@
 ---
 title: ResourceRequest.request()
-permalink: Java/ResourceRequest/request
+permalink: /Java/ResourceRequest/request/
 date: 2021-01-11
 key: Java.R.ResourceRequest
-category: java
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 
   nav: java

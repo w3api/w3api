@@ -1,9 +1,9 @@
 ---
 title: SAXTransformerFactory.FEATURE_XMLFILTER
-permalink: Java/SAXTransformerFactory/FEATURE_XMLFILTER
+permalink: /Java/SAXTransformerFactory/FEATURE_XMLFILTER/
 date: 2021-01-11
-key: JavaJava.S.SAXTransformerFactory
-category: java
+key: Java.S.SAXTransformerFactory
+category: Java
 tags: ['java se', 'javax.xml.transform.sax', 'java.xml', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

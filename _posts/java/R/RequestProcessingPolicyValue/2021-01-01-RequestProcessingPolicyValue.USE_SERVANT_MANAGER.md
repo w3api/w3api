@@ -1,9 +1,9 @@
 ---
 title: RequestProcessingPolicyValue.USE_SERVANT_MANAGER
-permalink: Java/RequestProcessingPolicyValue/USE_SERVANT_MANAGER
+permalink: /Java/RequestProcessingPolicyValue/USE_SERVANT_MANAGER/
 date: 2021-01-11
 key: Java.R.RequestProcessingPolicyValue
-category: java
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

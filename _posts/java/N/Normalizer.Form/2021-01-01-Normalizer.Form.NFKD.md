@@ -1,8 +1,8 @@
 ---
 title: Normalizer.Form.NFKD
-permalink: Java/Normalizer/Form/NFKD
+permalink: /Java/Normalizer/Form/NFKD/
 date: 2021-01-11
-key: JavaJava.N.Normalizer.Form
+key: Java.N.Normalizer.Form
 category: Java
 tags: ['java se', 'java.text', 'java.base', 'campo java', 'Java 1.6']
 sidebar: 

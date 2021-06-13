@@ -1,8 +1,8 @@
 ---
 title: NoSuchMethodError.NoSuchMethodError()
-permalink: Java/NoSuchMethodError/NoSuchMethodError
+permalink: /Java/NoSuchMethodError/NoSuchMethodError/
 date: 2021-01-11
-key: JavaJava.N.NoSuchMethodError
+key: Java.N.NoSuchMethodError
 category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

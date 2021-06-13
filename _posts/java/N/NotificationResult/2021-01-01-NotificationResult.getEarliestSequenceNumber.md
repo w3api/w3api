@@ -1,8 +1,8 @@
 ---
 title: NotificationResult.getEarliestSequenceNumber()
-permalink: Java/NotificationResult/getEarliestSequenceNumber
+permalink: /Java/NotificationResult/getEarliestSequenceNumber/
 date: 2021-01-11
-key: JavaJava.N.NotificationResult
+key: Java.N.NotificationResult
 category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

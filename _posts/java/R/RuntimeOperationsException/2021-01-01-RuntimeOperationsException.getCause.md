@@ -1,9 +1,9 @@
 ---
 title: RuntimeOperationsException.getCause()
-permalink: Java/RuntimeOperationsException/getCause
+permalink: /Java/RuntimeOperationsException/getCause/
 date: 2021-01-11
 key: Java.R.RuntimeOperationsException
-category: java
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

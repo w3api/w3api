@@ -2,8 +2,8 @@
 title: OctetStreamData
 permalink: /Java/OctetStreamData/
 date: 2021-01-11
-key: JavaJava.O.OctetStreamData
-category: java
+key: Java.O.OctetStreamData
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

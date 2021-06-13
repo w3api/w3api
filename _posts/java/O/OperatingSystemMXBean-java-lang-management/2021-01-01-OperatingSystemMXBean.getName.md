@@ -2,8 +2,8 @@
 title: OperatingSystemMXBean.getName()
 permalink: /Java/OperatingSystemMXBean-java-lang-management/getName/
 date: 2021-01-11
-key: JavaJava.O.OperatingSystemMXBean-java-lang-management
-category: java
+key: Java.O.OperatingSystemMXBean-java-lang-management
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

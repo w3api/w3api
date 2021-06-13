@@ -1,9 +1,9 @@
 ---
 title: RoundingMode
-permalink: Java/RoundingMode
+permalink: /Java/RoundingMode/
 date: 2021-01-11
 key: Java.R.RoundingMode
-category: java
+category: Java
 tags: ['java se', 'java.math', 'java.base', 'enumerado java', 'Java 1.5']
 sidebar: 
   nav: java

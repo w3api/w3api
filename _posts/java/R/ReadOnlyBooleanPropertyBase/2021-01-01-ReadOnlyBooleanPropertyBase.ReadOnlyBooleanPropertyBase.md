@@ -1,9 +1,9 @@
 ---
 title: ReadOnlyBooleanPropertyBase.ReadOnlyBooleanPropertyBase()
-permalink: Java/ReadOnlyBooleanPropertyBase/ReadOnlyBooleanPropertyBase
+permalink: /Java/ReadOnlyBooleanPropertyBase/ReadOnlyBooleanPropertyBase/
 date: 2021-01-11
 key: Java.R.ReadOnlyBooleanPropertyBase
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

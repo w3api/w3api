@@ -1,8 +1,8 @@
 ---
 title: NumericShaper.MONGOLIAN
-permalink: Java/NumericShaper/MONGOLIAN
+permalink: /Java/NumericShaper/MONGOLIAN/
 date: 2021-01-11
-key: JavaJava.N.NumericShaper
+key: Java.N.NumericShaper
 category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'campo java', 'Java 1.4']
 sidebar: 

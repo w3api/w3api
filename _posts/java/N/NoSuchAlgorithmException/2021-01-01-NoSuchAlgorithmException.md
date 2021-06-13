@@ -1,8 +1,8 @@
 ---
 title: NoSuchAlgorithmException
-permalink: Java/NoSuchAlgorithmException
+permalink: /Java/NoSuchAlgorithmException/
 date: 2021-01-11
-key: JavaJava.N.NoSuchAlgorithmException
+key: Java.N.NoSuchAlgorithmException
 category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

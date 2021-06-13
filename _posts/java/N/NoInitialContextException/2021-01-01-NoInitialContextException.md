@@ -1,8 +1,8 @@
 ---
 title: NoInitialContextException
-permalink: Java/NoInitialContextException
+permalink: /Java/NoInitialContextException/
 date: 2021-01-11
-key: JavaJava.N.NoInitialContextException
+key: Java.N.NoInitialContextException
 category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 

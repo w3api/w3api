@@ -1,9 +1,9 @@
 ---
 title: SAAJMetaFactory
-permalink: Java/SAAJMetaFactory
+permalink: /Java/SAAJMetaFactory/
 date: 2021-01-11
-key: JavaJava.S.SAAJMetaFactory
-category: java
+key: Java.S.SAAJMetaFactory
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'clase java', 'Java 1.6', 'SAAJ Java 1.3']
 sidebar: 
   nav: java

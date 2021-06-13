@@ -1,9 +1,9 @@
 ---
 title: RoleStatus.LESS_THAN_MIN_ROLE_DEGREE
-permalink: Java/RoleStatus/LESS_THAN_MIN_ROLE_DEGREE
+permalink: /Java/RoleStatus/LESS_THAN_MIN_ROLE_DEGREE/
 date: 2021-01-11
 key: Java.R.RoleStatus
-category: java
+category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

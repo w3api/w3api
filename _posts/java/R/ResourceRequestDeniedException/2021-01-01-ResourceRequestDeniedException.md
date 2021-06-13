@@ -1,9 +1,9 @@
 ---
 title: ResourceRequestDeniedException
-permalink: Java/ResourceRequestDeniedException
+permalink: /Java/ResourceRequestDeniedException/
 date: 2021-01-11
 key: Java.R.ResourceRequestDeniedException
-category: java
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'clase java', '8u40']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: ObjectNotActiveHelper
 permalink: /Java/ObjectNotActiveHelper/
 date: 2021-01-11
-key: JavaJava.O.ObjectNotActiveHelper
-category: java
+key: Java.O.ObjectNotActiveHelper
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

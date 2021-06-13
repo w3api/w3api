@@ -1,9 +1,9 @@
 ---
 title: ReturnTree
-permalink: Java/ReturnTree/
+permalink: /Java/ReturnTree//
 date: 2021-01-11
 key: Java.R.ReturnTree
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

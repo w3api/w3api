@@ -2,8 +2,8 @@
 title: ObservableNumberValue.doubleValue()
 permalink: /Java/ObservableNumberValue/doubleValue/
 date: 2021-01-11
-key: JavaJava.O.ObservableNumberValue
-category: java
+key: Java.O.ObservableNumberValue
+category: Java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

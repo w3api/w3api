@@ -2,8 +2,8 @@
 title: ObjectBinding
 permalink: /Java/ObjectBinding/
 date: 2021-01-11
-key: JavaJava.O.ObjectBinding
-category: java
+key: Java.O.ObjectBinding
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

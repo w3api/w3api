@@ -1,9 +1,9 @@
 ---
 title: REQUEST_PROCESSING_POLICY_ID.value
-permalink: Java/REQUEST_PROCESSING_POLICY_ID/value
+permalink: /Java/REQUEST_PROCESSING_POLICY_ID/value/
 date: 2021-01-11
 key: Java.R.REQUEST_PROCESSING_POLICY_ID
-category: java
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

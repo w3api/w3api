@@ -1,9 +1,9 @@
 ---
 title: Rectangle2D.Float.x
-permalink: Java/Rectangle2D/Float/x
+permalink: /Java/Rectangle2D/Float/x/
 date: 2021-01-11
 key: Java.R.Rectangle2D.Float
-category: java
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

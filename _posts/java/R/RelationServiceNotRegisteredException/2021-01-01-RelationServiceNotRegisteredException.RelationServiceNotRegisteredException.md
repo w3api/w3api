@@ -1,9 +1,9 @@
 ---
 title: RelationServiceNotRegisteredException.RelationServiceNotRegisteredException()
-permalink: Java/RelationServiceNotRegisteredException/RelationServiceNotRegisteredException
+permalink: /Java/RelationServiceNotRegisteredException/RelationServiceNotRegisteredException/
 date: 2021-01-11
 key: Java.R.RelationServiceNotRegisteredException
-category: java
+category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

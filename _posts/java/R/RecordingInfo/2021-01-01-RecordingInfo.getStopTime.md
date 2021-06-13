@@ -1,9 +1,9 @@
 ---
 title: RecordingInfo.getStopTime()
-permalink: Java/RecordingInfo/getStopTime
+permalink: /Java/RecordingInfo/getStopTime/
 date: 2021-01-11
 key: Java.R.RecordingInfo
-category: java
+category: Java
 tags: ['java se', 'jdk.management.jfr', 'jdk.management.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

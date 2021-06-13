@@ -2,8 +2,8 @@
 title: ObservableStringValue
 permalink: /Java/ObservableStringValue/
 date: 2021-01-11
-key: JavaJava.O.ObservableStringValue
-category: java
+key: Java.O.ObservableStringValue
+category: Java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

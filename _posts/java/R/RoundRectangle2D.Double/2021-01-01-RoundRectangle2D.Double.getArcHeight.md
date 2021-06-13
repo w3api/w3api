@@ -1,9 +1,9 @@
 ---
 title: RoundRectangle2D.Double.getArcHeight()
-permalink: Java/RoundRectangle2D/Double/getArcHeight
+permalink: /Java/RoundRectangle2D/Double/getArcHeight/
 date: 2021-01-11
 key: Java.R.RoundRectangle2D.Double
-category: java
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

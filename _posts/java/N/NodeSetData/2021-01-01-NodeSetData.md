@@ -1,8 +1,8 @@
 ---
 title: NodeSetData
-permalink: Java/NodeSetData
+permalink: /Java/NodeSetData/
 date: 2021-01-11
-key: JavaJava.N.NodeSetData
+key: Java.N.NodeSetData
 category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 

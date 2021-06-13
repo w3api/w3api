@@ -2,8 +2,8 @@
 title: Operation
 permalink: /Java/Operation-jdk-dynalink/
 date: 2021-01-11
-key: JavaJava.O.Operation-jdk-dynalink
-category: java
+key: Java.O.Operation-jdk-dynalink
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

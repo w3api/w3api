@@ -1,9 +1,9 @@
 ---
 title: QuadCurveTo.xProperty()
-permalink: Java/QuadCurveTo/xProperty
+permalink: /Java/QuadCurveTo/xProperty/
 date: 2021-01-11
-key: JavaJava.Q.QuadCurveTo
-category: java
+key: Java.Q.QuadCurveTo
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

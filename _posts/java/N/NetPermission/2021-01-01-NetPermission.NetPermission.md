@@ -1,8 +1,8 @@
 ---
 title: NetPermission.NetPermission()
-permalink: Java/NetPermission/NetPermission
+permalink: /Java/NetPermission/NetPermission/
 date: 2021-01-11
-key: JavaJava.N.NetPermission
+key: Java.N.NetPermission
 category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

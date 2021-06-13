@@ -1,9 +1,9 @@
 ---
 title: RotateTransition.toAngleProperty()
-permalink: Java/RotateTransition/toAngleProperty
+permalink: /Java/RotateTransition/toAngleProperty/
 date: 2021-01-11
 key: Java.R.RotateTransition
-category: java
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

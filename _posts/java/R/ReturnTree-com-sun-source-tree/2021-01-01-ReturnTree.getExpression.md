@@ -1,9 +1,9 @@
 ---
 title: ReturnTree.getExpression()
-permalink: Java/ReturnTree-com-sun-source-tree/getExpression
+permalink: /Java/ReturnTree-com-sun-source-tree/getExpression/
 date: 2021-01-11
 key: Java.R.ReturnTree-com-sun-source-tree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

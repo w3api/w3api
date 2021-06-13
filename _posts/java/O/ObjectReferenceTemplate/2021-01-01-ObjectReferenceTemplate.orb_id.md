@@ -2,8 +2,8 @@
 title: ObjectReferenceTemplate.orb_id()
 permalink: /Java/ObjectReferenceTemplate/orb_id/
 date: 2021-01-11
-key: JavaJava.O.ObjectReferenceTemplate
-category: java
+key: Java.O.ObjectReferenceTemplate
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

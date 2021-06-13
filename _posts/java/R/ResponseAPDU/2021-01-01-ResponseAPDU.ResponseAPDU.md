@@ -1,9 +1,9 @@
 ---
 title: ResponseAPDU.ResponseAPDU()
-permalink: Java/ResponseAPDU/ResponseAPDU
+permalink: /Java/ResponseAPDU/ResponseAPDU/
 date: 2021-01-11
 key: Java.R.ResponseAPDU
-category: java
+category: Java
 tags: ['java se', 'javax.smartcardio', 'java.smartcardio', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

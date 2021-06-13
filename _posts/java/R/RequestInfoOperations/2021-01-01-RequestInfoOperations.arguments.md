@@ -1,9 +1,9 @@
 ---
 title: RequestInfoOperations.arguments()
-permalink: Java/RequestInfoOperations/arguments
+permalink: /Java/RequestInfoOperations/arguments/
 date: 2021-01-11
 key: Java.R.RequestInfoOperations
-category: java
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ReferralException
-permalink: Java/ReferralException
+permalink: /Java/ReferralException/
 date: 2021-01-11
 key: Java.R.ReferralException
-category: java
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

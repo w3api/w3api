@@ -1,8 +1,8 @@
 ---
 title: NoSuchFieldError
-permalink: Java/NoSuchFieldError
+permalink: /Java/NoSuchFieldError/
 date: 2021-01-11
-key: JavaJava.N.NoSuchFieldError
+key: Java.N.NoSuchFieldError
 category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 

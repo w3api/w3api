@@ -1,9 +1,9 @@
 ---
 title: RowFilter.Entry
-permalink: Java/RowFilter/Entry
+permalink: /Java/RowFilter/Entry/
 date: 2021-01-11
 key: Java.R.RowFilter.Entry
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

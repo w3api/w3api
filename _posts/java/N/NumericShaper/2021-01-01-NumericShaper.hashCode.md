@@ -1,8 +1,8 @@
 ---
 title: NumericShaper.hashCode()
-permalink: Java/NumericShaper/hashCode
+permalink: /Java/NumericShaper/hashCode/
 date: 2021-01-11
-key: JavaJava.N.NumericShaper
+key: Java.N.NumericShaper
 category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 

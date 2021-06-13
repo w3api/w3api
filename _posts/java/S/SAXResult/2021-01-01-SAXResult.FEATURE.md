@@ -1,9 +1,9 @@
 ---
 title: SAXResult.FEATURE
-permalink: Java/SAXResult/FEATURE
+permalink: /Java/SAXResult/FEATURE/
 date: 2021-01-11
-key: JavaJava.S.SAXResult
-category: java
+key: Java.S.SAXResult
+category: Java
 tags: ['java se', 'javax.xml.transform.sax', 'java.xml', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

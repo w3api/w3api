@@ -1,8 +1,8 @@
 ---
 title: NotEmptyHelper.write()
-permalink: Java/NotEmptyHelper/write
+permalink: /Java/NotEmptyHelper/write/
 date: 2021-01-11
-key: JavaJava.N.NotEmptyHelper
+key: Java.N.NotEmptyHelper
 category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

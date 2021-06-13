@@ -1,9 +1,9 @@
 ---
 title: RecordedEvent.getEventType()
-permalink: Java/RecordedEvent/getEventType
+permalink: /Java/RecordedEvent/getEventType/
 date: 2021-01-11
 key: Java.R.RecordedEvent
-category: java
+category: Java
 tags: ['java se', 'jdk.jfr.consumer', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

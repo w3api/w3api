@@ -1,8 +1,8 @@
 ---
 title: NoninvertibleTransformException
-permalink: Java/NoninvertibleTransformException/
+permalink: /Java/NoninvertibleTransformException//
 date: 2021-01-11
-key: JavaJava.N.NoninvertibleTransformException
+key: Java.N.NoninvertibleTransformException
 category: Java
 tags: ['java se']
 sidebar: 

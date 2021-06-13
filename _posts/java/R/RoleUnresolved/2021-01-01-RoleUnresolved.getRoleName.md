@@ -1,9 +1,9 @@
 ---
 title: RoleUnresolved.getRoleName()
-permalink: Java/RoleUnresolved/getRoleName
+permalink: /Java/RoleUnresolved/getRoleName/
 date: 2021-01-11
 key: Java.R.RoleUnresolved
-category: java
+category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

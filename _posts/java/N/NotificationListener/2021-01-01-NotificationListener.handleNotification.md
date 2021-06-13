@@ -1,8 +1,8 @@
 ---
 title: NotificationListener.handleNotification()
-permalink: Java/NotificationListener/handleNotification
+permalink: /Java/NotificationListener/handleNotification/
 date: 2021-01-11
-key: JavaJava.N.NotificationListener
+key: Java.N.NotificationListener
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

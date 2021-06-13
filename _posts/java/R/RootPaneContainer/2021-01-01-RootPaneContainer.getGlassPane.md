@@ -1,9 +1,9 @@
 ---
 title: RootPaneContainer.getGlassPane()
-permalink: Java/RootPaneContainer/getGlassPane
+permalink: /Java/RootPaneContainer/getGlassPane/
 date: 2021-01-11
 key: Java.R.RootPaneContainer
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

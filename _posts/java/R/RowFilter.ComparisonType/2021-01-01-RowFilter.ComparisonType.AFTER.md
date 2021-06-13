@@ -1,9 +1,9 @@
 ---
 title: RowFilter.ComparisonType.AFTER
-permalink: Java/RowFilter/ComparisonType/AFTER
+permalink: /Java/RowFilter/ComparisonType/AFTER/
 date: 2021-01-11
 key: Java.R.RowFilter.ComparisonType
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

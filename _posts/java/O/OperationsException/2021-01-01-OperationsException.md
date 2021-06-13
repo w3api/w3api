@@ -2,8 +2,8 @@
 title: OperationsException
 permalink: /Java/OperationsException/
 date: 2021-01-11
-key: JavaJava.O.OperationsException
-category: java
+key: Java.O.OperationsException
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

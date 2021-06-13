@@ -1,8 +1,8 @@
 ---
 title: NodeChangeListener
-permalink: Java/NodeChangeListener
+permalink: /Java/NodeChangeListener/
 date: 2021-01-11
-key: JavaJava.N.NodeChangeListener
+key: Java.N.NodeChangeListener
 category: Java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'interface java', 'Java 1.4']
 sidebar: 

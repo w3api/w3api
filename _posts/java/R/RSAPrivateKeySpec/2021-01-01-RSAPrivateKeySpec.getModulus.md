@@ -1,9 +1,9 @@
 ---
 title: RSAPrivateKeySpec.getModulus()
-permalink: Java/RSAPrivateKeySpec/getModulus
+permalink: /Java/RSAPrivateKeySpec/getModulus/
 date: 2021-01-11
 key: Java.R.RSAPrivateKeySpec
-category: java
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

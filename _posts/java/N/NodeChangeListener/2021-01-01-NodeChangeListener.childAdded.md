@@ -1,8 +1,8 @@
 ---
 title: NodeChangeListener.childAdded()
-permalink: Java/NodeChangeListener/childAdded
+permalink: /Java/NodeChangeListener/childAdded/
 date: 2021-01-11
-key: JavaJava.N.NodeChangeListener
+key: Java.N.NodeChangeListener
 category: Java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'metodo java', 'Java 1.4']
 sidebar: 

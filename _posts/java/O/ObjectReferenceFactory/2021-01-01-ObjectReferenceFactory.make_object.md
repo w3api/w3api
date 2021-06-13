@@ -2,8 +2,8 @@
 title: ObjectReferenceFactory.make_object()
 permalink: /Java/ObjectReferenceFactory/make_object/
 date: 2021-01-11
-key: JavaJava.O.ObjectReferenceFactory
-category: java
+key: Java.O.ObjectReferenceFactory
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

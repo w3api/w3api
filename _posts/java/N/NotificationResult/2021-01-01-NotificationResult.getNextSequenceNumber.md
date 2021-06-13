@@ -1,8 +1,8 @@
 ---
 title: NotificationResult.getNextSequenceNumber()
-permalink: Java/NotificationResult/getNextSequenceNumber
+permalink: /Java/NotificationResult/getNextSequenceNumber/
 date: 2021-01-11
-key: JavaJava.N.NotificationResult
+key: Java.N.NotificationResult
 category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

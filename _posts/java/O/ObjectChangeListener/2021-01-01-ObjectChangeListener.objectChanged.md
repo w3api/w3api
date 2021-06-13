@@ -2,8 +2,8 @@
 title: ObjectChangeListener.objectChanged()
 permalink: /Java/ObjectChangeListener/objectChanged/
 date: 2021-01-11
-key: JavaJava.O.ObjectChangeListener
-category: java
+key: Java.O.ObjectChangeListener
+category: Java
 tags: ['java se', 'javax.naming.event', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

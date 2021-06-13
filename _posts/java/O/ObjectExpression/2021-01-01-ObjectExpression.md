@@ -2,8 +2,8 @@
 title: ObjectExpression
 permalink: /Java/ObjectExpression/
 date: 2021-01-11
-key: JavaJava.O.ObjectExpression
-category: java
+key: Java.O.ObjectExpression
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

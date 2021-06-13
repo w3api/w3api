@@ -1,9 +1,9 @@
 ---
 title: RootPaneUI
-permalink: Java/RootPaneUI
+permalink: /Java/RootPaneUI/
 date: 2021-01-11
 key: Java.R.RootPaneUI
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

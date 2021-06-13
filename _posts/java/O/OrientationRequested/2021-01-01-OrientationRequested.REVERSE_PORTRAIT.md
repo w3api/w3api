@@ -2,8 +2,8 @@
 title: OrientationRequested.REVERSE_PORTRAIT
 permalink: /Java/OrientationRequested/REVERSE_PORTRAIT/
 date: 2021-01-11
-key: JavaJava.O.OrientationRequested
-category: java
+key: Java.O.OrientationRequested
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

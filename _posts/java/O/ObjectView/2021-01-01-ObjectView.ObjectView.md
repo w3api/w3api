@@ -2,8 +2,8 @@
 title: ObjectView.ObjectView()
 permalink: /Java/ObjectView/ObjectView/
 date: 2021-01-11
-key: JavaJava.O.ObjectView
-category: java
+key: Java.O.ObjectView
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

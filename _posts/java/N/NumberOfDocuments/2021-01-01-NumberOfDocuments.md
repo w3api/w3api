@@ -1,8 +1,8 @@
 ---
 title: NumberOfDocuments
-permalink: Java/NumberOfDocuments
+permalink: /Java/NumberOfDocuments/
 date: 2021-01-11
-key: JavaJava.N.NumberOfDocuments
+key: Java.N.NumberOfDocuments
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

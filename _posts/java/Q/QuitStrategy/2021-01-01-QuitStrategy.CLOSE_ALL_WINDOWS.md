@@ -1,9 +1,9 @@
 ---
 title: QuitStrategy.CLOSE_ALL_WINDOWS
-permalink: Java/QuitStrategy/CLOSE_ALL_WINDOWS
+permalink: /Java/QuitStrategy/CLOSE_ALL_WINDOWS/
 date: 2021-01-11
-key: JavaJava.Q.QuitStrategy
-category: java
+key: Java.Q.QuitStrategy
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

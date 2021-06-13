@@ -2,8 +2,8 @@
 title: OpenFilesEvent
 permalink: /Java/OpenFilesEvent/
 date: 2021-01-11
-key: JavaJava.O.OpenFilesEvent
-category: java
+key: Java.O.OpenFilesEvent
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

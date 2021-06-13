@@ -1,9 +1,9 @@
 ---
 title: RoundRectangle2D.Float.height
-permalink: Java/RoundRectangle2D/Float/height
+permalink: /Java/RoundRectangle2D/Float/height/
 date: 2021-01-11
 key: Java.R.RoundRectangle2D.Float
-category: java
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

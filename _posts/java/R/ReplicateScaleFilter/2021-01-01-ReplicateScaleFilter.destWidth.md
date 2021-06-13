@@ -1,9 +1,9 @@
 ---
 title: ReplicateScaleFilter.destWidth
-permalink: Java/ReplicateScaleFilter/destWidth
+permalink: /Java/ReplicateScaleFilter/destWidth/
 date: 2021-01-11
 key: Java.R.ReplicateScaleFilter
-category: java
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

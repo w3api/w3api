@@ -1,9 +1,9 @@
 ---
 title: ReflectiveOperationException
-permalink: Java/ReflectiveOperationException
+permalink: /Java/ReflectiveOperationException/
 date: 2021-01-11
 key: Java.R.ReflectiveOperationException
-category: java
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

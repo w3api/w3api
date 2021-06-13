@@ -1,9 +1,9 @@
 ---
 title: ResourceBundle.parent
-permalink: Java/ResourceBundle/parent
+permalink: /Java/ResourceBundle/parent/
 date: 2021-01-11
 key: Java.R.ResourceBundle
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

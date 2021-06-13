@@ -2,8 +2,8 @@
 title: ObjectReferenceTemplate
 permalink: /Java/ObjectReferenceTemplate/
 date: 2021-01-11
-key: JavaJava.O.ObjectReferenceTemplate
-category: java
+key: Java.O.ObjectReferenceTemplate
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

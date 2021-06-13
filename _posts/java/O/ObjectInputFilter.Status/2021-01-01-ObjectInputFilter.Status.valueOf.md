@@ -2,8 +2,8 @@
 title: ObjectInputFilter.Status.valueOf()
 permalink: /Java/ObjectInputFilter/Status/valueOf/
 date: 2021-01-11
-key: JavaJava.O.ObjectInputFilter.Status
-category: java
+key: Java.O.ObjectInputFilter.Status
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

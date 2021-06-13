@@ -1,9 +1,9 @@
 ---
 title: RemoteExecutionControl.RemoteExecutionControl()
-permalink: Java/RemoteExecutionControl/RemoteExecutionControl
+permalink: /Java/RemoteExecutionControl/RemoteExecutionControl/
 date: 2021-01-11
 key: Java.R.RemoteExecutionControl
-category: java
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

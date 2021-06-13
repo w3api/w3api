@@ -1,9 +1,9 @@
 ---
 title: Reflection
-permalink: Java/Reflection
+permalink: /Java/Reflection/
 date: 2021-01-11
 key: Java.R.Reflection
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

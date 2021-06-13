@@ -1,8 +1,8 @@
 ---
 title: NoSuchObjectException.NoSuchObjectException()
-permalink: Java/NoSuchObjectException/NoSuchObjectException
+permalink: /Java/NoSuchObjectException/NoSuchObjectException/
 date: 2021-01-11
-key: JavaJava.N.NoSuchObjectException
+key: Java.N.NoSuchObjectException
 category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 

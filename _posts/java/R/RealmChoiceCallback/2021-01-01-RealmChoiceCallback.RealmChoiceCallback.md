@@ -1,9 +1,9 @@
 ---
 title: RealmChoiceCallback.RealmChoiceCallback()
-permalink: Java/RealmChoiceCallback/RealmChoiceCallback
+permalink: /Java/RealmChoiceCallback/RealmChoiceCallback/
 date: 2021-01-11
 key: Java.R.RealmChoiceCallback
-category: java
+category: Java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

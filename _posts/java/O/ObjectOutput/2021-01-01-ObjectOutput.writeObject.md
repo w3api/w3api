@@ -2,8 +2,8 @@
 title: ObjectOutput.writeObject()
 permalink: /Java/ObjectOutput/writeObject/
 date: 2021-01-11
-key: JavaJava.O.ObjectOutput
-category: java
+key: Java.O.ObjectOutput
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

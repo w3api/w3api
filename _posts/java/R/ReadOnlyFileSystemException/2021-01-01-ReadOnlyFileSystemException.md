@@ -1,9 +1,9 @@
 ---
 title: ReadOnlyFileSystemException
-permalink: Java/ReadOnlyFileSystemException
+permalink: /Java/ReadOnlyFileSystemException/
 date: 2021-01-11
 key: Java.R.ReadOnlyFileSystemException
-category: java
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

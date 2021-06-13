@@ -1,8 +1,8 @@
 ---
 title: NotificationResult
-permalink: Java/NotificationResult
+permalink: /Java/NotificationResult/
 date: 2021-01-11
-key: JavaJava.N.NotificationResult
+key: Java.N.NotificationResult
 category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

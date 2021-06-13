@@ -1,9 +1,9 @@
 ---
 title: RMISecurityManager
-permalink: Java/RMISecurityManager
+permalink: /Java/RMISecurityManager/
 date: 2021-01-11
 key: Java.R.RMISecurityManager
-category: java
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

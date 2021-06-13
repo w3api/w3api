@@ -2,8 +2,8 @@
 title: ORBInitInfoOperations.arguments()
 permalink: /Java/ORBInitInfoOperations/arguments/
 date: 2021-01-11
-key: JavaJava.O.ORBInitInfoOperations
-category: java
+key: Java.O.ORBInitInfoOperations
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

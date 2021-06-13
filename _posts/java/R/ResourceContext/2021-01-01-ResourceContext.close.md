@@ -1,9 +1,9 @@
 ---
 title: ResourceContext.close()
-permalink: Java/ResourceContext/close
+permalink: /Java/ResourceContext/close/
 date: 2021-01-11
 key: Java.R.ResourceContext
-category: java
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 
   nav: java

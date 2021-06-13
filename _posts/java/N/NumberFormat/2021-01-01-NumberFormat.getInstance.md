@@ -1,8 +1,8 @@
 ---
 title: NumberFormat.getInstance()
-permalink: Java/NumberFormat/getInstance
+permalink: /Java/NumberFormat/getInstance/
 date: 2021-01-11
-key: JavaJava.N.NumberFormat
+key: Java.N.NumberFormat
 category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

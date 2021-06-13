@@ -2,8 +2,8 @@
 title: OpenMBeanAttributeInfoSupport.OpenMBeanAttributeInfoSupport()
 permalink: /Java/OpenMBeanAttributeInfoSupport/OpenMBeanAttributeInfoSupport/
 date: 2021-01-11
-key: JavaJava.O.OpenMBeanAttributeInfoSupport
-category: java
+key: Java.O.OpenMBeanAttributeInfoSupport
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

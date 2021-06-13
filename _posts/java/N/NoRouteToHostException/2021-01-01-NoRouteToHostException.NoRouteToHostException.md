@@ -1,8 +1,8 @@
 ---
 title: NoRouteToHostException.NoRouteToHostException()
-permalink: Java/NoRouteToHostException/NoRouteToHostException
+permalink: /Java/NoRouteToHostException/NoRouteToHostException/
 date: 2021-01-11
-key: JavaJava.N.NoRouteToHostException
+key: Java.N.NoRouteToHostException
 category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

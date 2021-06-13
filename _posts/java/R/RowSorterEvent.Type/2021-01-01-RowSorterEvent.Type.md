@@ -1,9 +1,9 @@
 ---
 title: RowSorterEvent.Type
-permalink: Java/RowSorterEvent/Type
+permalink: /Java/RowSorterEvent/Type/
 date: 2021-01-11
 key: Java.R.RowSorterEvent.Type
-category: java
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'enumerado java', 'Java 1.6']
 sidebar: 
   nav: java

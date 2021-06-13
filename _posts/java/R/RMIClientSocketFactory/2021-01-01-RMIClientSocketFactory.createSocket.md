@@ -1,9 +1,9 @@
 ---
 title: RMIClientSocketFactory.createSocket()
-permalink: Java/RMIClientSocketFactory/createSocket
+permalink: /Java/RMIClientSocketFactory/createSocket/
 date: 2021-01-11
 key: Java.R.RMIClientSocketFactory
-category: java
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

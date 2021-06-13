@@ -1,9 +1,9 @@
 ---
 title: RowSorter.setSortKeys()
-permalink: Java/RowSorter/setSortKeys
+permalink: /Java/RowSorter/setSortKeys/
 date: 2021-01-11
 key: Java.R.RowSorter
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

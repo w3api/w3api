@@ -1,8 +1,8 @@
 ---
 title: NumberFormatException
-permalink: Java/NumberFormatException
+permalink: /Java/NumberFormatException/
 date: 2021-01-11
-key: JavaJava.N.NumberFormatException
+key: Java.N.NumberFormatException
 category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 

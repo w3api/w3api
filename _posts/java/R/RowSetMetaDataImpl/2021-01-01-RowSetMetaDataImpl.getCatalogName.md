@@ -1,9 +1,9 @@
 ---
 title: RowSetMetaDataImpl.getCatalogName()
-permalink: Java/RowSetMetaDataImpl/getCatalogName
+permalink: /Java/RowSetMetaDataImpl/getCatalogName/
 date: 2021-01-11
 key: Java.R.RowSetMetaDataImpl
-category: java
+category: Java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

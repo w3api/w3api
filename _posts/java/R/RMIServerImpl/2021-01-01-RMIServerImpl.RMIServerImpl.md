@@ -1,9 +1,9 @@
 ---
 title: RMIServerImpl.RMIServerImpl()
-permalink: Java/RMIServerImpl/RMIServerImpl
+permalink: /Java/RMIServerImpl/RMIServerImpl/
 date: 2021-01-11
 key: Java.R.RMIServerImpl
-category: java
+category: Java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

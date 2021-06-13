@@ -1,9 +1,9 @@
 ---
 title: ReentrantReadWriteLock.WriteLock.toString()
-permalink: Java/ReentrantReadWriteLock/WriteLock/toString
+permalink: /Java/ReentrantReadWriteLock/WriteLock/toString/
 date: 2021-01-11
 key: Java.R.ReentrantReadWriteLock.WriteLock
-category: java
+category: Java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

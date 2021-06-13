@@ -1,8 +1,8 @@
 ---
 title: NumberExpression.isNotEqualTo()
-permalink: Java/NumberExpression/isNotEqualTo
+permalink: /Java/NumberExpression/isNotEqualTo/
 date: 2021-01-11
-key: JavaJava.N.NumberExpression
+key: Java.N.NumberExpression
 category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

@@ -1,9 +1,9 @@
 ---
 title: RenderableImageOp.createDefaultRendering()
-permalink: Java/RenderableImageOp/createDefaultRendering
+permalink: /Java/RenderableImageOp/createDefaultRendering/
 date: 2021-01-11
 key: Java.R.RenderableImageOp
-category: java
+category: Java
 tags: ['java se', 'java.awt.image.renderable', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

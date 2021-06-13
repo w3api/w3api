@@ -1,8 +1,8 @@
 ---
 title: Normalizer.Form
-permalink: Java/Normalizer/Form
+permalink: /Java/Normalizer/Form/
 date: 2021-01-11
-key: JavaJava.N.Normalizer.Form
+key: Java.N.Normalizer.Form
 category: Java
 tags: ['java se', 'java.text', 'java.base', 'enumerado java', 'Java 1.6']
 sidebar: 

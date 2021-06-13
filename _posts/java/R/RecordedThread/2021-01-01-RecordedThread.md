@@ -1,9 +1,9 @@
 ---
 title: RecordedThread
-permalink: Java/RecordedThread
+permalink: /Java/RecordedThread/
 date: 2021-01-11
 key: Java.R.RecordedThread
-category: java
+category: Java
 tags: ['java se', 'jdk.jfr.consumer', 'jdk.jfr', 'clase java', 'Java 9']
 sidebar: 
   nav: java

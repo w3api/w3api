@@ -1,9 +1,9 @@
 ---
 title: ReentrantLock.getOwner()
-permalink: Java/ReentrantLock/getOwner
+permalink: /Java/ReentrantLock/getOwner/
 date: 2021-01-11
 key: Java.R.ReentrantLock
-category: java
+category: Java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

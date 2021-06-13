@@ -2,8 +2,8 @@
 title: ObjectIdHelper.write()
 permalink: /Java/ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage/write/
 date: 2021-01-11
-key: JavaJava.O.ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage
-category: java
+key: Java.O.ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor.ORBInitInfoPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

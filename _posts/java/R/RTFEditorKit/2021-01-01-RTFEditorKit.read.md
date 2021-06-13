@@ -1,9 +1,9 @@
 ---
 title: RTFEditorKit.read()
-permalink: Java/RTFEditorKit/read
+permalink: /Java/RTFEditorKit/read/
 date: 2021-01-11
 key: Java.R.RTFEditorKit
-category: java
+category: Java
 tags: ['java se', 'javax.swing.text.rtf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

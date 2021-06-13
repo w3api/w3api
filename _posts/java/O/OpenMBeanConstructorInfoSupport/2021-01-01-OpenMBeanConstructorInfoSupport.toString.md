@@ -2,8 +2,8 @@
 title: OpenMBeanConstructorInfoSupport.toString()
 permalink: /Java/OpenMBeanConstructorInfoSupport/toString/
 date: 2021-01-11
-key: JavaJava.O.OpenMBeanConstructorInfoSupport
-category: java
+key: Java.O.OpenMBeanConstructorInfoSupport
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

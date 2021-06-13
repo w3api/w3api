@@ -1,8 +1,8 @@
 ---
 title: NimbusLookAndFeel
-permalink: Java/NimbusLookAndFeel
+permalink: /Java/NimbusLookAndFeel/
 date: 2021-01-11
-key: JavaJava.N.NimbusLookAndFeel
+key: Java.N.NimbusLookAndFeel
 category: Java
 tags: ['java se', 'javax.swing.plaf.nimbus', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

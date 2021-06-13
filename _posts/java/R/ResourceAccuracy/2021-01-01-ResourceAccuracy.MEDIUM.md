@@ -1,9 +1,9 @@
 ---
 title: ResourceAccuracy.MEDIUM
-permalink: Java/ResourceAccuracy/MEDIUM
+permalink: /Java/ResourceAccuracy/MEDIUM/
 date: 2021-01-11
 key: Java.R.ResourceAccuracy
-category: java
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'campo java', '8u40']
 sidebar: 
   nav: java

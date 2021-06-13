@@ -1,8 +1,8 @@
 ---
 title: NoContextHelper.write()
-permalink: Java/NoContextHelper/write
+permalink: /Java/NoContextHelper/write/
 date: 2021-01-11
-key: JavaJava.N.NoContextHelper
+key: Java.N.NoContextHelper
 category: Java
 tags: ['java se', 'org.omg.PortableServer.CurrentPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

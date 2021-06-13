@@ -1,8 +1,8 @@
 ---
 title: NewArrayTree
-permalink: Java/NewArrayTree
+permalink: /Java/NewArrayTree/
 date: 2021-01-11
-key: JavaJava.N.NewArrayTree
+key: Java.N.NewArrayTree
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 

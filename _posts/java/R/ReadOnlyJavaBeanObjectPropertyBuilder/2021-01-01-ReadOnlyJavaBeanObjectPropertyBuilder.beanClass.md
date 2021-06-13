@@ -1,9 +1,9 @@
 ---
 title: ReadOnlyJavaBeanObjectPropertyBuilder.beanClass()
-permalink: Java/ReadOnlyJavaBeanObjectPropertyBuilder/beanClass
+permalink: /Java/ReadOnlyJavaBeanObjectPropertyBuilder/beanClass/
 date: 2021-01-11
 key: Java.R.ReadOnlyJavaBeanObjectPropertyBuilder
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

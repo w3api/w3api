@@ -1,9 +1,9 @@
 ---
 title: RecordingState.STOPPED
-permalink: Java/RecordingState/STOPPED
+permalink: /Java/RecordingState/STOPPED/
 date: 2021-01-11
 key: Java.R.RecordingState
-category: java
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'campo java', 'Java 9']
 sidebar: 
   nav: java

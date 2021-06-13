@@ -1,8 +1,8 @@
 ---
 title: NotYetBoundException.NotYetBoundException()
-permalink: Java/NotYetBoundException/NotYetBoundException
+permalink: /Java/NotYetBoundException/NotYetBoundException/
 date: 2021-01-11
-key: JavaJava.N.NotYetBoundException
+key: Java.N.NotYetBoundException
 category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

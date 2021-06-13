@@ -1,9 +1,9 @@
 ---
 title: ReadOnlyIntegerProperty
-permalink: Java/ReadOnlyIntegerProperty
+permalink: /Java/ReadOnlyIntegerProperty/
 date: 2021-01-11
 key: Java.R.ReadOnlyIntegerProperty
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

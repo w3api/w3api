@@ -2,8 +2,8 @@
 title: OffsetDateTime.MAX
 permalink: /Java/OffsetDateTime/MAX/
 date: 2021-01-11
-key: JavaJava.O.OffsetDateTime
-category: java
+key: Java.O.OffsetDateTime
+category: Java
 tags: ['java se', 'java.time', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

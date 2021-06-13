@@ -1,8 +1,8 @@
 ---
 title: NoServant.NoServant()
-permalink: Java/NoServant/NoServant
+permalink: /Java/NoServant/NoServant/
 date: 2021-01-11
-key: JavaJava.N.NoServant
+key: Java.N.NoServant
 category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

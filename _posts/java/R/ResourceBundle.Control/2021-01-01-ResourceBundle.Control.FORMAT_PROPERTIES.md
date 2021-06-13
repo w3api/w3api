@@ -1,9 +1,9 @@
 ---
 title: ResourceBundle.Control.FORMAT_PROPERTIES
-permalink: Java/ResourceBundle/Control/FORMAT_PROPERTIES
+permalink: /Java/ResourceBundle/Control/FORMAT_PROPERTIES/
 date: 2021-01-11
 key: Java.R.ResourceBundle.Control
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

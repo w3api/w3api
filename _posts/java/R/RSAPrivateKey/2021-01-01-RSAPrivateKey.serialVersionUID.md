@@ -1,9 +1,9 @@
 ---
 title: RSAPrivateKey.serialVersionUID
-permalink: Java/RSAPrivateKey/serialVersionUID
+permalink: /Java/RSAPrivateKey/serialVersionUID/
 date: 2021-01-11
 key: Java.R.RSAPrivateKey
-category: java
+category: Java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

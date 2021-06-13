@@ -2,8 +2,8 @@
 title: OutputStream
 permalink: /Java/OutputStream//
 date: 2021-01-11
-key: JavaJava.O.OutputStream
-category: java
+key: Java.O.OutputStream
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

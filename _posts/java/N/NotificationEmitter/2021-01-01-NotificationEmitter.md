@@ -1,8 +1,8 @@
 ---
 title: NotificationEmitter
-permalink: Java/NotificationEmitter
+permalink: /Java/NotificationEmitter/
 date: 2021-01-11
-key: JavaJava.N.NotificationEmitter
+key: Java.N.NotificationEmitter
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 

@@ -1,9 +1,9 @@
 ---
 title: RowSorter
-permalink: Java/RowSorter
+permalink: /Java/RowSorter/
 date: 2021-01-11
 key: Java.R.RowSorter
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

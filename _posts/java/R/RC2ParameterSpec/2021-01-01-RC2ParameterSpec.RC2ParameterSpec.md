@@ -1,9 +1,9 @@
 ---
 title: RC2ParameterSpec.RC2ParameterSpec()
-permalink: Java/RC2ParameterSpec/RC2ParameterSpec
+permalink: /Java/RC2ParameterSpec/RC2ParameterSpec/
 date: 2021-01-11
 key: Java.R.RC2ParameterSpec
-category: java
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

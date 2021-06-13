@@ -1,9 +1,9 @@
 ---
 title: RectangularShape.getBounds()
-permalink: Java/RectangularShape/getBounds
+permalink: /Java/RectangularShape/getBounds/
 date: 2021-01-11
 key: Java.R.RectangularShape
-category: java
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

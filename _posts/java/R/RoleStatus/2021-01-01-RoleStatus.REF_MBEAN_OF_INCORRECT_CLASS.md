@@ -1,9 +1,9 @@
 ---
 title: RoleStatus.REF_MBEAN_OF_INCORRECT_CLASS
-permalink: Java/RoleStatus/REF_MBEAN_OF_INCORRECT_CLASS
+permalink: /Java/RoleStatus/REF_MBEAN_OF_INCORRECT_CLASS/
 date: 2021-01-11
 key: Java.R.RoleStatus
-category: java
+category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

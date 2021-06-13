@@ -2,8 +2,8 @@
 title: ORBInitializer
 permalink: /Java/ORBInitializer/
 date: 2021-01-11
-key: JavaJava.O.ORBInitializer
-category: java
+key: Java.O.ORBInitializer
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

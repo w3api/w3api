@@ -1,9 +1,9 @@
 ---
 title: RelinkableCallSite
-permalink: Java/RelinkableCallSite
+permalink: /Java/RelinkableCallSite/
 date: 2021-01-11
 key: Java.R.RelinkableCallSite
-category: java
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

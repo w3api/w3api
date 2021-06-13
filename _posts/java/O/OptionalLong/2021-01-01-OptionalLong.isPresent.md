@@ -2,8 +2,8 @@
 title: OptionalLong.isPresent()
 permalink: /Java/OptionalLong/isPresent/
 date: 2021-01-11
-key: JavaJava.O.OptionalLong
-category: java
+key: Java.O.OptionalLong
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

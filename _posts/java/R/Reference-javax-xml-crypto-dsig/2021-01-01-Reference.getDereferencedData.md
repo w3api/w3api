@@ -1,9 +1,9 @@
 ---
 title: Reference.getDereferencedData()
-permalink: Java/Reference-javax-xml-crypto-dsig/getDereferencedData
+permalink: /Java/Reference-javax-xml-crypto-dsig/getDereferencedData/
 date: 2021-01-11
 key: Java.R.Reference-javax-xml-crypto-dsig
-category: java
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

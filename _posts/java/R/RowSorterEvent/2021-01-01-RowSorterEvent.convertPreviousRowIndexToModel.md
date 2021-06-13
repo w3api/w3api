@@ -1,9 +1,9 @@
 ---
 title: RowSorterEvent.convertPreviousRowIndexToModel()
-permalink: Java/RowSorterEvent/convertPreviousRowIndexToModel
+permalink: /Java/RowSorterEvent/convertPreviousRowIndexToModel/
 date: 2021-01-11
 key: Java.R.RowSorterEvent
-category: java
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

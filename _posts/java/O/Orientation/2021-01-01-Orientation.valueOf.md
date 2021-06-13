@@ -2,8 +2,8 @@
 title: Orientation.valueOf()
 permalink: /Java/Orientation/valueOf/
 date: 2021-01-11
-key: JavaJava.O.Orientation
-category: java
+key: Java.O.Orientation
+category: Java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

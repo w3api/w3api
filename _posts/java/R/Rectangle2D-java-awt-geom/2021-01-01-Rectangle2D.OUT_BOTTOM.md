@@ -1,9 +1,9 @@
 ---
 title: Rectangle2D.OUT_BOTTOM
-permalink: Java/Rectangle2D-java-awt-geom/OUT_BOTTOM
+permalink: /Java/Rectangle2D-java-awt-geom/OUT_BOTTOM/
 date: 2021-01-11
 key: Java.R.Rectangle2D-java-awt-geom
-category: java
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

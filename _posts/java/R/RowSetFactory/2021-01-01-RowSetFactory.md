@@ -1,9 +1,9 @@
 ---
 title: RowSetFactory
-permalink: Java/RowSetFactory
+permalink: /Java/RowSetFactory/
 date: 2021-01-11
 key: Java.R.RowSetFactory
-category: java
+category: Java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

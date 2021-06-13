@@ -1,9 +1,9 @@
 ---
 title: ResourceContextFactory.getUnassignedContext()
-permalink: Java/ResourceContextFactory/getUnassignedContext
+permalink: /Java/ResourceContextFactory/getUnassignedContext/
 date: 2021-01-11
 key: Java.R.ResourceContextFactory
-category: java
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 
   nav: java

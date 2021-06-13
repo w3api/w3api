@@ -1,8 +1,8 @@
 ---
 title: NotFoundReasonHolder.NotFoundReasonHolder()
-permalink: Java/NotFoundReasonHolder/NotFoundReasonHolder
+permalink: /Java/NotFoundReasonHolder/NotFoundReasonHolder/
 date: 2021-01-11
-key: JavaJava.N.NotFoundReasonHolder
+key: Java.N.NotFoundReasonHolder
 category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

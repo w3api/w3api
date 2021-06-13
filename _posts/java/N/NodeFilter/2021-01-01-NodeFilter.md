@@ -1,8 +1,8 @@
 ---
 title: NodeFilter
-permalink: Java/NodeFilter
+permalink: /Java/NodeFilter/
 date: 2021-01-11
-key: JavaJava.N.NodeFilter
+key: Java.N.NodeFilter
 category: Java
 tags: ['java se', 'org.w3c.dom.traversal', 'java.xml', 'interface java', 'Java 9', 'DOM Level 2']
 sidebar: 

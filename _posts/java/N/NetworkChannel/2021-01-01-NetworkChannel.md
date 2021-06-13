@@ -1,8 +1,8 @@
 ---
 title: NetworkChannel
-permalink: Java/NetworkChannel
+permalink: /Java/NetworkChannel/
 date: 2021-01-11
-key: JavaJava.N.NetworkChannel
+key: Java.N.NetworkChannel
 category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 

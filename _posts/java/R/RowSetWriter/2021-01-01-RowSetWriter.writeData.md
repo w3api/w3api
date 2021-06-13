@@ -1,9 +1,9 @@
 ---
 title: RowSetWriter.writeData()
-permalink: Java/RowSetWriter/writeData
+permalink: /Java/RowSetWriter/writeData/
 date: 2021-01-11
 key: Java.R.RowSetWriter
-category: java
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

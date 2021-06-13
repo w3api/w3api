@@ -1,8 +1,8 @@
 ---
 title: NoSuchPaddingException
-permalink: Java/NoSuchPaddingException
+permalink: /Java/NoSuchPaddingException/
 date: 2021-01-11
-key: JavaJava.N.NoSuchPaddingException
+key: Java.N.NoSuchPaddingException
 category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

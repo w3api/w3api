@@ -1,8 +1,8 @@
 ---
 title: NotificationFilterSupport.disableAllTypes()
-permalink: Java/NotificationFilterSupport/disableAllTypes
+permalink: /Java/NotificationFilterSupport/disableAllTypes/
 date: 2021-01-11
-key: JavaJava.N.NotificationFilterSupport
+key: Java.N.NotificationFilterSupport
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

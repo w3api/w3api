@@ -1,9 +1,9 @@
 ---
 title: ResourceContextFactory
-permalink: Java/ResourceContextFactory
+permalink: /Java/ResourceContextFactory/
 date: 2021-01-11
 key: Java.R.ResourceContextFactory
-category: java
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'clase java', '8u40']
 sidebar: 
   nav: java

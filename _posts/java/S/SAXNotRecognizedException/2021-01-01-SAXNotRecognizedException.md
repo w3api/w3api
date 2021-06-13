@@ -1,9 +1,9 @@
 ---
 title: SAXNotRecognizedException
-permalink: Java/SAXNotRecognizedException
+permalink: /Java/SAXNotRecognizedException/
 date: 2021-01-11
-key: JavaJava.S.SAXNotRecognizedException
-category: java
+key: Java.S.SAXNotRecognizedException
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'clase java', 'Java 1.4', 'SAX 2.0']
 sidebar: 
   nav: java

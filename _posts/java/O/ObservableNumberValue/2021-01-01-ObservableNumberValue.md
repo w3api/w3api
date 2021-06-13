@@ -2,8 +2,8 @@
 title: ObservableNumberValue
 permalink: /Java/ObservableNumberValue/
 date: 2021-01-11
-key: JavaJava.O.ObservableNumberValue
-category: java
+key: Java.O.ObservableNumberValue
+category: Java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

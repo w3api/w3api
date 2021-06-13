@@ -2,8 +2,8 @@
 title: OptionPaneUI.OptionPaneUI()
 permalink: /Java/OptionPaneUI/OptionPaneUI/
 date: 2021-01-11
-key: JavaJava.O.OptionPaneUI
-category: java
+key: Java.O.OptionPaneUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

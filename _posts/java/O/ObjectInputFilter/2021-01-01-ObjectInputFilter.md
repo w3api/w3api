@@ -2,8 +2,8 @@
 title: ObjectInputFilter
 permalink: /Java/ObjectInputFilter/
 date: 2021-01-11
-key: JavaJava.O.ObjectInputFilter
-category: java
+key: Java.O.ObjectInputFilter
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'interface java', 'Java 9']
 sidebar: 
   nav: java

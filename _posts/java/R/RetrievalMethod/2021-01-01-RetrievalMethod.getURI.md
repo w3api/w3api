@@ -1,9 +1,9 @@
 ---
 title: RetrievalMethod.getURI()
-permalink: Java/RetrievalMethod/getURI
+permalink: /Java/RetrievalMethod/getURI/
 date: 2021-01-11
 key: Java.R.RetrievalMethod
-category: java
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.keyinfo', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

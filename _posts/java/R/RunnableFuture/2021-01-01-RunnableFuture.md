@@ -1,9 +1,9 @@
 ---
 title: RunnableFuture
-permalink: Java/RunnableFuture
+permalink: /Java/RunnableFuture/
 date: 2021-01-11
 key: Java.R.RunnableFuture
-category: java
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

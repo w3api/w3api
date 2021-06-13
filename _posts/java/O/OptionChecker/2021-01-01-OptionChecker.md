@@ -2,8 +2,8 @@
 title: OptionChecker
 permalink: /Java/OptionChecker/
 date: 2021-01-11
-key: JavaJava.O.OptionChecker
-category: java
+key: Java.O.OptionChecker
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

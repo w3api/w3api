@@ -2,8 +2,8 @@
 title: OutputStream.write_abstract_interface()
 permalink: /Java/OutputStream-org-omg-CORBA_2_3-portable/write_abstract_interface/
 date: 2021-01-11
-key: JavaJava.O.OutputStream-org-omg-CORBA_2_3-portable
-category: java
+key: Java.O.OutputStream-org-omg-CORBA_2_3-portable
+category: Java
 tags: ['java se', 'org.omg.CORBA_2_3.portable', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

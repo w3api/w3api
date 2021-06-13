@@ -2,8 +2,8 @@
 title: ObjectReferenceFactoryHolder
 permalink: /Java/ObjectReferenceFactoryHolder/
 date: 2021-01-11
-key: JavaJava.O.ObjectReferenceFactoryHolder
-category: java
+key: Java.O.ObjectReferenceFactoryHolder
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

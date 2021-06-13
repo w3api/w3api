@@ -1,8 +1,8 @@
 ---
 title: NumberFormatProvider
-permalink: Java/NumberFormatProvider
+permalink: /Java/NumberFormatProvider/
 date: 2021-01-11
-key: JavaJava.N.NumberFormatProvider
+key: Java.N.NumberFormatProvider
 category: Java
 tags: ['java se', 'java.text.spi', 'java.base', 'clase java', 'Java 1.6']
 sidebar: 

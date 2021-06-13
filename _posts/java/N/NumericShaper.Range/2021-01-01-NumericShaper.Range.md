@@ -1,8 +1,8 @@
 ---
 title: NumericShaper.Range
-permalink: Java/NumericShaper/Range
+permalink: /Java/NumericShaper/Range/
 date: 2021-01-11
-key: JavaJava.N.NumericShaper.Range
+key: Java.N.NumericShaper.Range
 category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'enumerado java', 'Java 1.7']
 sidebar: 

@@ -1,9 +1,9 @@
 ---
 title: RecordedObject
-permalink: Java/RecordedObject
+permalink: /Java/RecordedObject/
 date: 2021-01-11
 key: Java.R.RecordedObject
-category: java
+category: Java
 tags: ['java se', 'jdk.jfr.consumer', 'jdk.jfr', 'clase java', 'Java 9']
 sidebar: 
   nav: java

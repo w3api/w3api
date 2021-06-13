@@ -1,9 +1,9 @@
 ---
 title: RoundingMode.HALF_UP
-permalink: Java/RoundingMode/HALF_UP
+permalink: /Java/RoundingMode/HALF_UP/
 date: 2021-01-11
 key: Java.R.RoundingMode
-category: java
+category: Java
 tags: ['java se', 'java.math', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

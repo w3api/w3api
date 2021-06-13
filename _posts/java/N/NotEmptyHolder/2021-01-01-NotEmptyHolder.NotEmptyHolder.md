@@ -1,8 +1,8 @@
 ---
 title: NotEmptyHolder.NotEmptyHolder()
-permalink: Java/NotEmptyHolder/NotEmptyHolder
+permalink: /Java/NotEmptyHolder/NotEmptyHolder/
 date: 2021-01-11
-key: JavaJava.N.NotEmptyHolder
+key: Java.N.NotEmptyHolder
 category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

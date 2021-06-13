@@ -1,9 +1,9 @@
 ---
 title: RuntimeMBeanException.getTargetException()
-permalink: Java/RuntimeMBeanException/getTargetException
+permalink: /Java/RuntimeMBeanException/getTargetException/
 date: 2021-01-11
 key: Java.R.RuntimeMBeanException
-category: java
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SAXParserFactory.setXIncludeAware()
-permalink: Java/SAXParserFactory/setXIncludeAware
+permalink: /Java/SAXParserFactory/setXIncludeAware/
 date: 2021-01-11
-key: JavaJava.S.SAXParserFactory
-category: java
+key: Java.S.SAXParserFactory
+category: Java
 tags: ['java se', 'javax.xml.parsers', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

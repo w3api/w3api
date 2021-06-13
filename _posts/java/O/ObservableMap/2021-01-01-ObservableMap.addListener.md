@@ -2,8 +2,8 @@
 title: ObservableMap.addListener()
 permalink: /Java/ObservableMap/addListener/
 date: 2021-01-11
-key: JavaJava.O.ObservableMap
-category: java
+key: Java.O.ObservableMap
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

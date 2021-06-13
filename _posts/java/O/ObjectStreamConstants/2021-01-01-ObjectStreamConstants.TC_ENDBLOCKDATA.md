@@ -2,8 +2,8 @@
 title: ObjectStreamConstants.TC_ENDBLOCKDATA
 permalink: /Java/ObjectStreamConstants/TC_ENDBLOCKDATA/
 date: 2021-01-11
-key: JavaJava.O.ObjectStreamConstants
-category: java
+key: Java.O.ObjectStreamConstants
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,8 +1,8 @@
 ---
 title: Normalizer.Form.NFC
-permalink: Java/Normalizer/Form/NFC
+permalink: /Java/Normalizer/Form/NFC/
 date: 2021-01-11
-key: JavaJava.N.Normalizer.Form
+key: Java.N.Normalizer.Form
 category: Java
 tags: ['java se', 'java.text', 'java.base', 'campo java', 'Java 1.6']
 sidebar: 

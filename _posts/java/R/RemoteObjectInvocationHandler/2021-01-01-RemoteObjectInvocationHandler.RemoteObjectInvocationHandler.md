@@ -1,9 +1,9 @@
 ---
 title: RemoteObjectInvocationHandler.RemoteObjectInvocationHandler()
-permalink: Java/RemoteObjectInvocationHandler/RemoteObjectInvocationHandler
+permalink: /Java/RemoteObjectInvocationHandler/RemoteObjectInvocationHandler/
 date: 2021-01-11
 key: Java.R.RemoteObjectInvocationHandler
-category: java
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

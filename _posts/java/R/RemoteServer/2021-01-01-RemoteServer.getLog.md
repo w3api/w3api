@@ -1,9 +1,9 @@
 ---
 title: RemoteServer.getLog()
-permalink: Java/RemoteServer/getLog
+permalink: /Java/RemoteServer/getLog/
 date: 2021-01-11
 key: Java.R.RemoteServer
-category: java
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

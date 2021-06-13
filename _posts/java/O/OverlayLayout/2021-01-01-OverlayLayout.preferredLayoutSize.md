@@ -2,8 +2,8 @@
 title: OverlayLayout.preferredLayoutSize()
 permalink: /Java/OverlayLayout/preferredLayoutSize/
 date: 2021-01-11
-key: JavaJava.O.OverlayLayout
-category: java
+key: Java.O.OverlayLayout
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

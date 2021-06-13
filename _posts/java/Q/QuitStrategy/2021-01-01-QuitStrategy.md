@@ -1,9 +1,9 @@
 ---
 title: QuitStrategy
-permalink: Java/QuitStrategy
+permalink: /Java/QuitStrategy/
 date: 2021-01-11
-key: JavaJava.Q.QuitStrategy
-category: java
+key: Java.Q.QuitStrategy
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'enumerado java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,8 +1,8 @@
 ---
 title: NumberUpSupported.getCategory()
-permalink: Java/NumberUpSupported/getCategory
+permalink: /Java/NumberUpSupported/getCategory/
 date: 2021-01-11
-key: JavaJava.N.NumberUpSupported
+key: Java.N.NumberUpSupported
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

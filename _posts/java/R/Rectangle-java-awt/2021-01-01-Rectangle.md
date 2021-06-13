@@ -1,9 +1,9 @@
 ---
 title: Rectangle
-permalink: Java/Rectangle-java-awt
+permalink: /Java/Rectangle-java-awt/
 date: 2021-01-11
 key: Java.R.Rectangle-java-awt
-category: java
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

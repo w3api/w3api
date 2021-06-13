@@ -2,8 +2,8 @@
 title: OpensTree.getPackageName()
 permalink: /Java/OpensTree/getPackageName/
 date: 2021-01-11
-key: JavaJava.O.OpensTree
-category: java
+key: Java.O.OpensTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

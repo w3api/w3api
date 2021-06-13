@@ -1,8 +1,8 @@
 ---
 title: NotDirectoryException.NotDirectoryException()
-permalink: Java/NotDirectoryException/NotDirectoryException
+permalink: /Java/NotDirectoryException/NotDirectoryException/
 date: 2021-01-11
-key: JavaJava.N.NotDirectoryException
+key: Java.N.NotDirectoryException
 category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

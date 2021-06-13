@@ -1,8 +1,8 @@
 ---
 title: NestingKind
-permalink: Java/NestingKind
+permalink: /Java/NestingKind/
 date: 2021-01-11
-key: JavaJava.N.NestingKind
+key: Java.N.NestingKind
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'enumerado java', 'Java 1.6']
 sidebar: 

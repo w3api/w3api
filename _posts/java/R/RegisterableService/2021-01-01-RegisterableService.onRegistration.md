@@ -1,9 +1,9 @@
 ---
 title: RegisterableService.onRegistration()
-permalink: Java/RegisterableService/onRegistration
+permalink: /Java/RegisterableService/onRegistration/
 date: 2021-01-11
 key: Java.R.RegisterableService
-category: java
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

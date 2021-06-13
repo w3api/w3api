@@ -1,9 +1,9 @@
 ---
 title: Rectangle.setHeight()
-permalink: Java/Rectangle-javafx-scene-shape/setHeight
+permalink: /Java/Rectangle-javafx-scene-shape/setHeight/
 date: 2021-01-11
 key: Java.R.Rectangle-javafx-scene-shape
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

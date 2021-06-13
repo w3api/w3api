@@ -2,8 +2,8 @@
 title: OAEPParameterSpec.DEFAULT
 permalink: /Java/OAEPParameterSpec/DEFAULT/
 date: 2021-01-11
-key: JavaJava.O.OAEPParameterSpec
-category: java
+key: Java.O.OAEPParameterSpec
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

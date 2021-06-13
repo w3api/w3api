@@ -1,9 +1,9 @@
 ---
 title: RoundRectangle2D
-permalink: Java/RoundRectangle2D
+permalink: /Java/RoundRectangle2D/
 date: 2021-01-11
 key: Java.R.RoundRectangle2D
-category: java
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

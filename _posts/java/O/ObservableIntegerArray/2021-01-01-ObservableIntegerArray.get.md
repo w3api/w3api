@@ -2,8 +2,8 @@
 title: ObservableIntegerArray.get()
 permalink: /Java/ObservableIntegerArray/get/
 date: 2021-01-11
-key: JavaJava.O.ObservableIntegerArray
-category: java
+key: Java.O.ObservableIntegerArray
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

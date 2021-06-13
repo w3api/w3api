@@ -1,8 +1,8 @@
 ---
 title: NetworkInterface.getHardwareAddress()
-permalink: Java/NetworkInterface/getHardwareAddress
+permalink: /Java/NetworkInterface/getHardwareAddress/
 date: 2021-01-11
-key: JavaJava.N.NetworkInterface
+key: Java.N.NetworkInterface
 category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

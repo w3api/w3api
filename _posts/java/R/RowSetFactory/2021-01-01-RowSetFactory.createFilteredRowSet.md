@@ -1,9 +1,9 @@
 ---
 title: RowSetFactory.createFilteredRowSet()
-permalink: Java/RowSetFactory/createFilteredRowSet
+permalink: /Java/RowSetFactory/createFilteredRowSet/
 date: 2021-01-11
 key: Java.R.RowSetFactory
-category: java
+category: Java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

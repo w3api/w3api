@@ -1,9 +1,9 @@
 ---
 title: RenderableImageProducer
-permalink: Java/RenderableImageProducer
+permalink: /Java/RenderableImageProducer/
 date: 2021-01-11
 key: Java.R.RenderableImageProducer
-category: java
+category: Java
 tags: ['java se', 'java.awt.image.renderable', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

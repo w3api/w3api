@@ -1,8 +1,8 @@
 ---
 title: NoContext
-permalink: Java/NoContext
+permalink: /Java/NoContext/
 date: 2021-01-11
-key: JavaJava.N.NoContext
+key: Java.N.NoContext
 category: Java
 tags: ['java se', 'org.omg.PortableServer.CurrentPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

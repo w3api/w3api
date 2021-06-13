@@ -2,8 +2,8 @@
 title: ORBIdHelper
 permalink: /Java/ORBIdHelper/
 date: 2021-01-11
-key: JavaJava.O.ORBIdHelper
-category: java
+key: Java.O.ORBIdHelper
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

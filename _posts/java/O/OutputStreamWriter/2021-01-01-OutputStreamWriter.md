@@ -2,8 +2,8 @@
 title: OutputStreamWriter
 permalink: /Java/OutputStreamWriter/
 date: 2021-01-11
-key: JavaJava.O.OutputStreamWriter
-category: java
+key: Java.O.OutputStreamWriter
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

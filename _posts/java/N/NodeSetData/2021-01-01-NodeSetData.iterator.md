@@ -1,8 +1,8 @@
 ---
 title: NodeSetData.iterator()
-permalink: Java/NodeSetData/iterator
+permalink: /Java/NodeSetData/iterator/
 date: 2021-01-11
-key: JavaJava.N.NodeSetData
+key: Java.N.NodeSetData
 category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 

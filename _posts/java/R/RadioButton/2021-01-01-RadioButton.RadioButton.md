@@ -1,9 +1,9 @@
 ---
 title: RadioButton.RadioButton()
-permalink: Java/RadioButton/RadioButton
+permalink: /Java/RadioButton/RadioButton/
 date: 2021-01-11
 key: Java.R.RadioButton
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

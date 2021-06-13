@@ -1,8 +1,8 @@
 ---
 title: NotificationFilter
-permalink: Java/NotificationFilter
+permalink: /Java/NotificationFilter/
 date: 2021-01-11
-key: JavaJava.N.NotificationFilter
+key: Java.N.NotificationFilter
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 

@@ -1,9 +1,9 @@
 ---
 title: RandomAccessFile.setLength()
-permalink: Java/RandomAccessFile/setLength
+permalink: /Java/RandomAccessFile/setLength/
 date: 2021-01-11
 key: Java.R.RandomAccessFile
-category: java
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

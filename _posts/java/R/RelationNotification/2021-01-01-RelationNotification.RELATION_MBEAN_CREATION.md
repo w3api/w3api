@@ -1,9 +1,9 @@
 ---
 title: RelationNotification.RELATION_MBEAN_CREATION
-permalink: Java/RelationNotification/RELATION_MBEAN_CREATION
+permalink: /Java/RelationNotification/RELATION_MBEAN_CREATION/
 date: 2021-01-11
 key: Java.R.RelationNotification
-category: java
+category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

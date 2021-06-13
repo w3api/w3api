@@ -1,9 +1,9 @@
 ---
 title: QuitResponse
-permalink: Java/QuitResponse
+permalink: /Java/QuitResponse/
 date: 2021-01-11
-key: JavaJava.Q.QuitResponse
-category: java
+key: Java.Q.QuitResponse
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 
   nav: java

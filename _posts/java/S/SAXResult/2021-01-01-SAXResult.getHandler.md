@@ -1,9 +1,9 @@
 ---
 title: SAXResult.getHandler()
-permalink: Java/SAXResult/getHandler
+permalink: /Java/SAXResult/getHandler/
 date: 2021-01-11
-key: JavaJava.S.SAXResult
-category: java
+key: Java.S.SAXResult
+category: Java
 tags: ['java se', 'javax.xml.transform.sax', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

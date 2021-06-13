@@ -1,9 +1,9 @@
 ---
 title: RenderingHints.VALUE_COLOR_RENDER_QUALITY
-permalink: Java/RenderingHints/VALUE_COLOR_RENDER_QUALITY
+permalink: /Java/RenderingHints/VALUE_COLOR_RENDER_QUALITY/
 date: 2021-01-11
 key: Java.R.RenderingHints
-category: java
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

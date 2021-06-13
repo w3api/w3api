@@ -1,9 +1,9 @@
 ---
 title: RuleBasedCollator.equals()
-permalink: Java/RuleBasedCollator/equals
+permalink: /Java/RuleBasedCollator/equals/
 date: 2021-01-11
 key: Java.R.RuleBasedCollator
-category: java
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

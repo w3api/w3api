@@ -1,8 +1,8 @@
 ---
 title: NotFoundReasonHelper
-permalink: Java/NotFoundReasonHelper
+permalink: /Java/NotFoundReasonHelper/
 date: 2021-01-11
-key: JavaJava.N.NotFoundReasonHelper
+key: Java.N.NotFoundReasonHelper
 category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

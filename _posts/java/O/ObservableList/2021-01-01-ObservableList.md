@@ -2,8 +2,8 @@
 title: ObservableList
 permalink: /Java/ObservableList/
 date: 2021-01-11
-key: JavaJava.O.ObservableList
-category: java
+key: Java.O.ObservableList
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

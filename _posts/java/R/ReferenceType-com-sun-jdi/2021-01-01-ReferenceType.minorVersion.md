@@ -1,9 +1,9 @@
 ---
 title: ReferenceType.minorVersion()
-permalink: Java/ReferenceType-com-sun-jdi/minorVersion
+permalink: /Java/ReferenceType-com-sun-jdi/minorVersion/
 date: 2021-01-11
 key: Java.R.ReferenceType-com-sun-jdi
-category: java
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

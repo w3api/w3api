@@ -2,8 +2,8 @@
 title: ObjectName
 permalink: /Java/ObjectName/
 date: 2021-01-11
-key: JavaJava.O.ObjectName
-category: java
+key: Java.O.ObjectName
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

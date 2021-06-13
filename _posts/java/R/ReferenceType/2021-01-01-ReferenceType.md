@@ -1,9 +1,9 @@
 ---
 title: ReferenceType
-permalink: Java/ReferenceType/
+permalink: /Java/ReferenceType//
 date: 2021-01-11
 key: Java.R.ReferenceType
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

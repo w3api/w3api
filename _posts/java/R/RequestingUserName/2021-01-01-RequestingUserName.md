@@ -1,9 +1,9 @@
 ---
 title: RequestingUserName
-permalink: Java/RequestingUserName
+permalink: /Java/RequestingUserName/
 date: 2021-01-11
 key: Java.R.RequestingUserName
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

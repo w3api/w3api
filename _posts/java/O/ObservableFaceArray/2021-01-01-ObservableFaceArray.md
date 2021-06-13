@@ -2,8 +2,8 @@
 title: ObservableFaceArray
 permalink: /Java/ObservableFaceArray/
 date: 2021-01-11
-key: JavaJava.O.ObservableFaceArray
-category: java
+key: Java.O.ObservableFaceArray
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'interface java', 'JavaFX 8.0']
 sidebar: 
   nav: java

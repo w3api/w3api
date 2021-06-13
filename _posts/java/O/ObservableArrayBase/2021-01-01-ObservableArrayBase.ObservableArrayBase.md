@@ -2,8 +2,8 @@
 title: ObservableArrayBase.ObservableArrayBase()
 permalink: /Java/ObservableArrayBase/ObservableArrayBase/
 date: 2021-01-11
-key: JavaJava.O.ObservableArrayBase
-category: java
+key: Java.O.ObservableArrayBase
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

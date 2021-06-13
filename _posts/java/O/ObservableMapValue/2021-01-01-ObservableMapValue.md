@@ -2,8 +2,8 @@
 title: ObservableMapValue
 permalink: /Java/ObservableMapValue/
 date: 2021-01-11
-key: JavaJava.O.ObservableMapValue
-category: java
+key: Java.O.ObservableMapValue
+category: Java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'interface java', 'JavaFX 2.1']
 sidebar: 
   nav: java

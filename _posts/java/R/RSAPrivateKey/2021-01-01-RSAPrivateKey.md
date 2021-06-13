@@ -1,9 +1,9 @@
 ---
 title: RSAPrivateKey
-permalink: Java/RSAPrivateKey
+permalink: /Java/RSAPrivateKey/
 date: 2021-01-11
 key: Java.R.RSAPrivateKey
-category: java
+category: Java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

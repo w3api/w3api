@@ -2,8 +2,8 @@
 title: ObjectOutput
 permalink: /Java/ObjectOutput/
 date: 2021-01-11
-key: JavaJava.O.ObjectOutput
-category: java
+key: Java.O.ObjectOutput
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

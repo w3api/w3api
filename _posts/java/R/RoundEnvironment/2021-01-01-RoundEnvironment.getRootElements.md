@@ -1,9 +1,9 @@
 ---
 title: RoundEnvironment.getRootElements()
-permalink: Java/RoundEnvironment/getRootElements
+permalink: /Java/RoundEnvironment/getRootElements/
 date: 2021-01-11
 key: Java.R.RoundEnvironment
-category: java
+category: Java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ResponseCache.getDefault()
-permalink: Java/ResponseCache/getDefault
+permalink: /Java/ResponseCache/getDefault/
 date: 2021-01-11
 key: Java.R.ResponseCache
-category: java
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

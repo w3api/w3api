@@ -1,9 +1,9 @@
 ---
 title: RefreshFailedException.RefreshFailedException()
-permalink: Java/RefreshFailedException/RefreshFailedException
+permalink: /Java/RefreshFailedException/RefreshFailedException/
 date: 2021-01-11
 key: Java.R.RefreshFailedException
-category: java
+category: Java
 tags: ['java se', 'javax.security.auth', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

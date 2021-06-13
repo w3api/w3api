@@ -2,8 +2,8 @@
 title: Observable.notifyObservers()
 permalink: /Java/Observable-java-util/notifyObservers/
 date: 2021-01-11
-key: JavaJava.O.Observable-java-util
-category: java
+key: Java.O.Observable-java-util
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

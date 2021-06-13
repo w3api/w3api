@@ -2,8 +2,8 @@
 title: Orientation.HORIZONTAL
 permalink: /Java/Orientation/HORIZONTAL/
 date: 2021-01-11
-key: JavaJava.O.Orientation
-category: java
+key: Java.O.Orientation
+category: Java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

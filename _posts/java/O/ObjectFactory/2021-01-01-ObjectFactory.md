@@ -2,8 +2,8 @@
 title: ObjectFactory
 permalink: /Java/ObjectFactory/
 date: 2021-01-11
-key: JavaJava.O.ObjectFactory
-category: java
+key: Java.O.ObjectFactory
+category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

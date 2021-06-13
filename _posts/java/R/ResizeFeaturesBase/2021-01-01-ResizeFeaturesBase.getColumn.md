@@ -1,9 +1,9 @@
 ---
 title: ResizeFeaturesBase.getColumn()
-permalink: Java/ResizeFeaturesBase/getColumn
+permalink: /Java/ResizeFeaturesBase/getColumn/
 date: 2021-01-11
 key: Java.R.ResizeFeaturesBase
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

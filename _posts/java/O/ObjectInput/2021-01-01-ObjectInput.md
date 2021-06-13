@@ -2,8 +2,8 @@
 title: ObjectInput
 permalink: /Java/ObjectInput/
 date: 2021-01-11
-key: JavaJava.O.ObjectInput
-category: java
+key: Java.O.ObjectInput
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

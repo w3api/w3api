@@ -1,9 +1,9 @@
 ---
 title: RangeException.RangeException()
-permalink: Java/RangeException/RangeException
+permalink: /Java/RangeException/RangeException/
 date: 2021-01-11
 key: Java.R.RangeException
-category: java
+category: Java
 tags: ['java se', 'org.w3c.dom.ranges', 'java.xml', 'metodo java', 'Java 9', 'DOM Level 2']
 sidebar: 
   nav: java

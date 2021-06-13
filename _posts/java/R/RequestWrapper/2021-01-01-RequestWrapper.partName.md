@@ -1,9 +1,9 @@
 ---
 title: RequestWrapper.partName
-permalink: Java/RequestWrapper/partName
+permalink: /Java/RequestWrapper/partName/
 date: 2021-01-11
 key: Java.R.RequestWrapper
-category: java
+category: Java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'elemento java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: QuadCurve
-permalink: Java/QuadCurve
+permalink: /Java/QuadCurve/
 date: 2021-01-11
-key: JavaJava.Q.QuadCurve
-category: java
+key: Java.Q.QuadCurve
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

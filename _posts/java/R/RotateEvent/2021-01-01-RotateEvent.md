@@ -1,9 +1,9 @@
 ---
 title: RotateEvent
-permalink: Java/RotateEvent
+permalink: /Java/RotateEvent/
 date: 2021-01-11
 key: Java.R.RotateEvent
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'clase java', 'JavaFX 2.2']
 sidebar: 
   nav: java

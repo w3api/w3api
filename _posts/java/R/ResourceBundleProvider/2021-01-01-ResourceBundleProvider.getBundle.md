@@ -1,9 +1,9 @@
 ---
 title: ResourceBundleProvider.getBundle()
-permalink: Java/ResourceBundleProvider/getBundle
+permalink: /Java/ResourceBundleProvider/getBundle/
 date: 2021-01-11
 key: Java.R.ResourceBundleProvider
-category: java
+category: Java
 tags: ['java se', 'java.util.spi', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: RMIIIOPServerImpl
-permalink: Java/RMIIIOPServerImpl
+permalink: /Java/RMIIIOPServerImpl/
 date: 2021-01-11
 key: Java.R.RMIIIOPServerImpl
-category: java
+category: Java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

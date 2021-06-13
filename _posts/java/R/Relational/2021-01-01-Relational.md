@@ -1,9 +1,9 @@
 ---
 title: Relational
-permalink: Java/Relational
+permalink: /Java/Relational/
 date: 2021-01-11
 key: Java.R.Relational
-category: java
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'anotacion java', 'Java 9']
 sidebar: 
   nav: java

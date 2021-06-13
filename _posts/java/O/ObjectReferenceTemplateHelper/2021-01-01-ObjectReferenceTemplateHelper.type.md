@@ -2,8 +2,8 @@
 title: ObjectReferenceTemplateHelper.type()
 permalink: /Java/ObjectReferenceTemplateHelper/type/
 date: 2021-01-11
-key: JavaJava.O.ObjectReferenceTemplateHelper
-category: java
+key: Java.O.ObjectReferenceTemplateHelper
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

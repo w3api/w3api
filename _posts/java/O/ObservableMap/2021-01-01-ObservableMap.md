@@ -2,8 +2,8 @@
 title: ObservableMap
 permalink: /Java/ObservableMap/
 date: 2021-01-11
-key: JavaJava.O.ObservableMap
-category: java
+key: Java.O.ObservableMap
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

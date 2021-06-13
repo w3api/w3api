@@ -1,8 +1,8 @@
 ---
 title: NotificationBroadcasterSupport
-permalink: Java/NotificationBroadcasterSupport
+permalink: /Java/NotificationBroadcasterSupport/
 date: 2021-01-11
-key: JavaJava.N.NotificationBroadcasterSupport
+key: Java.N.NotificationBroadcasterSupport
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

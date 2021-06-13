@@ -1,9 +1,9 @@
 ---
 title: ResultSet.CLOSE_CURSORS_AT_COMMIT
-permalink: Java/ResultSet/CLOSE_CURSORS_AT_COMMIT
+permalink: /Java/ResultSet/CLOSE_CURSORS_AT_COMMIT/
 date: 2021-01-11
 key: Java.R.ResultSet
-category: java
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

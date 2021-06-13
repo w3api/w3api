@@ -1,9 +1,9 @@
 ---
 title: ReadOnlyJavaBeanBooleanPropertyBuilder.ReadOnlyJavaBeanBooleanPropertyBuilder()
-permalink: Java/ReadOnlyJavaBeanBooleanPropertyBuilder/ReadOnlyJavaBeanBooleanPropertyBuilder
+permalink: /Java/ReadOnlyJavaBeanBooleanPropertyBuilder/ReadOnlyJavaBeanBooleanPropertyBuilder/
 date: 2021-01-11
 key: Java.R.ReadOnlyJavaBeanBooleanPropertyBuilder
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

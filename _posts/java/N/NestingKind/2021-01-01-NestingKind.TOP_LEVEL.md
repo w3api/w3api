@@ -1,8 +1,8 @@
 ---
 title: NestingKind.TOP_LEVEL
-permalink: Java/NestingKind/TOP_LEVEL
+permalink: /Java/NestingKind/TOP_LEVEL/
 date: 2021-01-11
-key: JavaJava.N.NestingKind
+key: Java.N.NestingKind
 category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'campo java', 'Java 1.6']
 sidebar: 

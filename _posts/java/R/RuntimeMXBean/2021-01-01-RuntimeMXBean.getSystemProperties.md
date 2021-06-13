@@ -1,9 +1,9 @@
 ---
 title: RuntimeMXBean.getSystemProperties()
-permalink: Java/RuntimeMXBean/getSystemProperties
+permalink: /Java/RuntimeMXBean/getSystemProperties/
 date: 2021-01-11
 key: Java.R.RuntimeMXBean
-category: java
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SAXSource
-permalink: Java/SAXSource
+permalink: /Java/SAXSource/
 date: 2021-01-11
-key: JavaJava.S.SAXSource
-category: java
+key: Java.S.SAXSource
+category: Java
 tags: ['java se', 'javax.xml.transform.sax', 'java.xml', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

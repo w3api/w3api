@@ -1,8 +1,8 @@
 ---
 title: NullCipher.NullCipher()
-permalink: Java/NullCipher/NullCipher
+permalink: /Java/NullCipher/NullCipher/
 date: 2021-01-11
-key: JavaJava.N.NullCipher
+key: Java.N.NullCipher
 category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

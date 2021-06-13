@@ -1,9 +1,9 @@
 ---
 title: ReadOnlyJavaBeanFloatProperty
-permalink: Java/ReadOnlyJavaBeanFloatProperty
+permalink: /Java/ReadOnlyJavaBeanFloatProperty/
 date: 2021-01-11
 key: Java.R.ReadOnlyJavaBeanFloatProperty
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

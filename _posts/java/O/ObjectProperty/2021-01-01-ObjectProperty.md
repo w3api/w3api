@@ -2,8 +2,8 @@
 title: ObjectProperty
 permalink: /Java/ObjectProperty/
 date: 2021-01-11
-key: JavaJava.O.ObjectProperty
-category: java
+key: Java.O.ObjectProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: RSAPrivateCrtKeySpec.getPrimeExponentQ()
-permalink: Java/RSAPrivateCrtKeySpec/getPrimeExponentQ
+permalink: /Java/RSAPrivateCrtKeySpec/getPrimeExponentQ/
 date: 2021-01-11
 key: Java.R.RSAPrivateCrtKeySpec
-category: java
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

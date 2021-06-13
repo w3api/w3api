@@ -1,9 +1,9 @@
 ---
 title: RMIConnectorServer.JNDI_REBIND_ATTRIBUTE
-permalink: Java/RMIConnectorServer/JNDI_REBIND_ATTRIBUTE
+permalink: /Java/RMIConnectorServer/JNDI_REBIND_ATTRIBUTE/
 date: 2021-01-11
 key: Java.R.RMIConnectorServer
-category: java
+category: Java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

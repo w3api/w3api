@@ -1,9 +1,9 @@
 ---
 title: ReverbType.getEarlyReflectionDelay()
-permalink: Java/ReverbType/getEarlyReflectionDelay
+permalink: /Java/ReverbType/getEarlyReflectionDelay/
 date: 2021-01-11
 key: Java.R.ReverbType
-category: java
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: RelationService.findRelationsOfType()
-permalink: Java/RelationService/findRelationsOfType
+permalink: /Java/RelationService/findRelationsOfType/
 date: 2021-01-11
 key: Java.R.RelationService
-category: java
+category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

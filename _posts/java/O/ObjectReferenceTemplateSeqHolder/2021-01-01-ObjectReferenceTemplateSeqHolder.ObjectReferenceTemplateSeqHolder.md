@@ -2,8 +2,8 @@
 title: ObjectReferenceTemplateSeqHolder.ObjectReferenceTemplateSeqHolder()
 permalink: /Java/ObjectReferenceTemplateSeqHolder/ObjectReferenceTemplateSeqHolder/
 date: 2021-01-11
-key: JavaJava.O.ObjectReferenceTemplateSeqHolder
-category: java
+key: Java.O.ObjectReferenceTemplateSeqHolder
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

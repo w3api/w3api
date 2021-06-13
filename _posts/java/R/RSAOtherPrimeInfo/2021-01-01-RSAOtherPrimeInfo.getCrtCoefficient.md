@@ -1,9 +1,9 @@
 ---
 title: RSAOtherPrimeInfo.getCrtCoefficient()
-permalink: Java/RSAOtherPrimeInfo/getCrtCoefficient
+permalink: /Java/RSAOtherPrimeInfo/getCrtCoefficient/
 date: 2021-01-11
 key: Java.R.RSAOtherPrimeInfo
-category: java
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

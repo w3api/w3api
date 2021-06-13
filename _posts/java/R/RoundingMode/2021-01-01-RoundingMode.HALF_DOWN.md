@@ -1,9 +1,9 @@
 ---
 title: RoundingMode.HALF_DOWN
-permalink: Java/RoundingMode/HALF_DOWN
+permalink: /Java/RoundingMode/HALF_DOWN/
 date: 2021-01-11
 key: Java.R.RoundingMode
-category: java
+category: Java
 tags: ['java se', 'java.math', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

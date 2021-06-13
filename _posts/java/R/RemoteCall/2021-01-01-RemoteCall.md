@@ -1,9 +1,9 @@
 ---
 title: RemoteCall
-permalink: Java/RemoteCall
+permalink: /Java/RemoteCall/
 date: 2021-01-11
 key: Java.R.RemoteCall
-category: java
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

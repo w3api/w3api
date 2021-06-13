@@ -1,9 +1,9 @@
 ---
 title: ReadPendingException.ReadPendingException()
-permalink: Java/ReadPendingException/ReadPendingException
+permalink: /Java/ReadPendingException/ReadPendingException/
 date: 2021-01-11
 key: Java.R.ReadPendingException
-category: java
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

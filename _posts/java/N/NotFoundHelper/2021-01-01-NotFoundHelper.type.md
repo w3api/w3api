@@ -1,8 +1,8 @@
 ---
 title: NotFoundHelper.type()
-permalink: Java/NotFoundHelper/type
+permalink: /Java/NotFoundHelper/type/
 date: 2021-01-11
-key: JavaJava.N.NotFoundHelper
+key: Java.N.NotFoundHelper
 category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

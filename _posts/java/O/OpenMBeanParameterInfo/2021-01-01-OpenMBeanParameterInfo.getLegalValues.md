@@ -2,8 +2,8 @@
 title: OpenMBeanParameterInfo.getLegalValues()
 permalink: /Java/OpenMBeanParameterInfo/getLegalValues/
 date: 2021-01-11
-key: JavaJava.O.OpenMBeanParameterInfo
-category: java
+key: Java.O.OpenMBeanParameterInfo
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

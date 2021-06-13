@@ -1,9 +1,9 @@
 ---
 title: RelationNotification.RELATION_BASIC_UPDATE
-permalink: Java/RelationNotification/RELATION_BASIC_UPDATE
+permalink: /Java/RelationNotification/RELATION_BASIC_UPDATE/
 date: 2021-01-11
 key: Java.R.RelationNotification
-category: java
+category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

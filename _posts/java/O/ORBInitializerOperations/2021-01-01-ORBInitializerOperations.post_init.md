@@ -2,8 +2,8 @@
 title: ORBInitializerOperations.post_init()
 permalink: /Java/ORBInitializerOperations/post_init/
 date: 2021-01-11
-key: JavaJava.O.ORBInitializerOperations
-category: java
+key: Java.O.ORBInitializerOperations
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

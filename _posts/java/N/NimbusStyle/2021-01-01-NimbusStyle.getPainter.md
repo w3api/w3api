@@ -1,8 +1,8 @@
 ---
 title: NimbusStyle.getPainter()
-permalink: Java/NimbusStyle/getPainter
+permalink: /Java/NimbusStyle/getPainter/
 date: 2021-01-11
-key: JavaJava.N.NimbusStyle
+key: Java.N.NimbusStyle
 category: Java
 tags: ['java se', 'javax.swing.plaf.nimbus', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: NonWritableChannelException.NonWritableChannelException()
-permalink: Java/NonWritableChannelException/NonWritableChannelException
+permalink: /Java/NonWritableChannelException/NonWritableChannelException/
 date: 2021-01-11
-key: JavaJava.N.NonWritableChannelException
+key: Java.N.NonWritableChannelException
 category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

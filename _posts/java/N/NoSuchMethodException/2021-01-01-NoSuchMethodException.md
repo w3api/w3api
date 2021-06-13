@@ -1,8 +1,8 @@
 ---
 title: NoSuchMethodException
-permalink: Java/NoSuchMethodException
+permalink: /Java/NoSuchMethodException/
 date: 2021-01-11
-key: JavaJava.N.NoSuchMethodException
+key: Java.N.NoSuchMethodException
 category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 

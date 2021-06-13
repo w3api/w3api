@@ -1,8 +1,8 @@
 ---
 title: NewClassTree.getClassBody()
-permalink: Java/NewClassTree/getClassBody
+permalink: /Java/NewClassTree/getClassBody/
 date: 2021-01-11
-key: JavaJava.N.NewClassTree
+key: Java.N.NewClassTree
 category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

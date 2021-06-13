@@ -1,9 +1,9 @@
 ---
 title: RowSetReader
-permalink: Java/RowSetReader
+permalink: /Java/RowSetReader/
 date: 2021-01-11
 key: Java.R.RowSetReader
-category: java
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

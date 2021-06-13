@@ -1,9 +1,9 @@
 ---
 title: RelationNotFoundException.RelationNotFoundException()
-permalink: Java/RelationNotFoundException/RelationNotFoundException
+permalink: /Java/RelationNotFoundException/RelationNotFoundException/
 date: 2021-01-11
 key: Java.R.RelationNotFoundException
-category: java
+category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

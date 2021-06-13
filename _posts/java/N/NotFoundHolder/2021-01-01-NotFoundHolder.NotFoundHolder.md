@@ -1,8 +1,8 @@
 ---
 title: NotFoundHolder.NotFoundHolder()
-permalink: Java/NotFoundHolder/NotFoundHolder
+permalink: /Java/NotFoundHolder/NotFoundHolder/
 date: 2021-01-11
-key: JavaJava.N.NotFoundHolder
+key: Java.N.NotFoundHolder
 category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,9 +1,9 @@
 ---
 title: Rectangle2D.createIntersection()
-permalink: Java/Rectangle2D-java-awt-geom/createIntersection
+permalink: /Java/Rectangle2D-java-awt-geom/createIntersection/
 date: 2021-01-11
 key: Java.R.Rectangle2D-java-awt-geom
-category: java
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

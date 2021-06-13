@@ -2,8 +2,8 @@
 title: ObservableSetValue
 permalink: /Java/ObservableSetValue/
 date: 2021-01-11
-key: JavaJava.O.ObservableSetValue
-category: java
+key: Java.O.ObservableSetValue
+category: Java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'interface java', 'JavaFX 2.1']
 sidebar: 
   nav: java

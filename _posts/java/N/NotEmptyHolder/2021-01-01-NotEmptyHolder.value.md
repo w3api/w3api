@@ -1,8 +1,8 @@
 ---
 title: NotEmptyHolder.value
-permalink: Java/NotEmptyHolder/value
+permalink: /Java/NotEmptyHolder/value/
 date: 2021-01-11
-key: JavaJava.N.NotEmptyHolder
+key: Java.N.NotEmptyHolder
 category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

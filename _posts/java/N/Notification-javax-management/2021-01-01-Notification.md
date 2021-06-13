@@ -1,8 +1,8 @@
 ---
 title: Notification
-permalink: Java/Notification-javax-management
+permalink: /Java/Notification-javax-management/
 date: 2021-01-11
-key: JavaJava.N.Notification-javax-management
+key: Java.N.Notification-javax-management
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

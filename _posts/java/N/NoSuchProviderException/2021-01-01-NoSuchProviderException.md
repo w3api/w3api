@@ -1,8 +1,8 @@
 ---
 title: NoSuchProviderException
-permalink: Java/NoSuchProviderException
+permalink: /Java/NoSuchProviderException/
 date: 2021-01-11
-key: JavaJava.N.NoSuchProviderException
+key: Java.N.NoSuchProviderException
 category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

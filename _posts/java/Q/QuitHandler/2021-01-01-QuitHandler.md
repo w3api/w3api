@@ -1,9 +1,9 @@
 ---
 title: QuitHandler
-permalink: Java/QuitHandler
+permalink: /Java/QuitHandler/
 date: 2021-01-11
-key: JavaJava.Q.QuitHandler
-category: java
+key: Java.Q.QuitHandler
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 
   nav: java

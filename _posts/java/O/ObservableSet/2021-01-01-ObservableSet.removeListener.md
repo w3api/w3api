@@ -2,8 +2,8 @@
 title: ObservableSet.removeListener()
 permalink: /Java/ObservableSet/removeListener/
 date: 2021-01-11
-key: JavaJava.O.ObservableSet
-category: java
+key: Java.O.ObservableSet
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

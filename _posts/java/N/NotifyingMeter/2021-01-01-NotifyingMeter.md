@@ -1,8 +1,8 @@
 ---
 title: NotifyingMeter
-permalink: Java/NotifyingMeter
+permalink: /Java/NotifyingMeter/
 date: 2021-01-11
-key: JavaJava.N.NotifyingMeter
+key: Java.N.NotifyingMeter
 category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'clase java', '8u40']
 sidebar: 

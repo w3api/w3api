@@ -1,9 +1,9 @@
 ---
 title: RMIConnectionImpl_Stub.RMIConnectionImpl_Stub()
-permalink: Java/RMIConnectionImpl_Stub/RMIConnectionImpl_Stub
+permalink: /Java/RMIConnectionImpl_Stub/RMIConnectionImpl_Stub/
 date: 2021-01-11
 key: Java.R.RMIConnectionImpl_Stub
-category: java
+category: Java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

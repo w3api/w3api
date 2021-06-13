@@ -1,8 +1,8 @@
 ---
 title: NoninvertibleTransformException.NoninvertibleTransformException()
-permalink: Java/NoninvertibleTransformException-java-awt-geom/NoninvertibleTransformException
+permalink: /Java/NoninvertibleTransformException-java-awt-geom/NoninvertibleTransformException/
 date: 2021-01-11
-key: JavaJava.N.NoninvertibleTransformException-java-awt-geom
+key: Java.N.NoninvertibleTransformException-java-awt-geom
 category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

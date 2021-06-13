@@ -1,9 +1,9 @@
 ---
 title: ResourceBundleProvider
-permalink: Java/ResourceBundleProvider
+permalink: /Java/ResourceBundleProvider/
 date: 2021-01-11
 key: Java.R.ResourceBundleProvider
-category: java
+category: Java
 tags: ['java se', 'java.util.spi', 'java.base', 'interface java', 'Java 9']
 sidebar: 
   nav: java

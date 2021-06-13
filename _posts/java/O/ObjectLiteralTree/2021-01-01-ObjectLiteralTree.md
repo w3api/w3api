@@ -2,8 +2,8 @@
 title: ObjectLiteralTree
 permalink: /Java/ObjectLiteralTree/
 date: 2021-01-11
-key: JavaJava.O.ObjectLiteralTree
-category: java
+key: Java.O.ObjectLiteralTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 9']
 sidebar: 
   nav: java

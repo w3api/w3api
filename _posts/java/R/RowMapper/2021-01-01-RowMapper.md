@@ -1,9 +1,9 @@
 ---
 title: RowMapper
-permalink: Java/RowMapper
+permalink: /Java/RowMapper/
 date: 2021-01-11
 key: Java.R.RowMapper
-category: java
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

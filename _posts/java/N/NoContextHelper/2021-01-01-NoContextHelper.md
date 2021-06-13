@@ -1,8 +1,8 @@
 ---
 title: NoContextHelper
-permalink: Java/NoContextHelper
+permalink: /Java/NoContextHelper/
 date: 2021-01-11
-key: JavaJava.N.NoContextHelper
+key: Java.N.NoContextHelper
 category: Java
 tags: ['java se', 'org.omg.PortableServer.CurrentPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

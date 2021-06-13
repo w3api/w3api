@@ -1,8 +1,8 @@
 ---
 title: NotBoundException
-permalink: Java/NotBoundException
+permalink: /Java/NotBoundException/
 date: 2021-01-11
-key: JavaJava.N.NotBoundException
+key: Java.N.NotBoundException
 category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 

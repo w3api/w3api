@@ -1,9 +1,9 @@
 ---
 title: RepaintManager
-permalink: Java/RepaintManager
+permalink: /Java/RepaintManager/
 date: 2021-01-11
 key: Java.R.RepaintManager
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

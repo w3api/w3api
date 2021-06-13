@@ -1,9 +1,9 @@
 ---
 title: ResultSetMetaData.getPrecision()
-permalink: Java/ResultSetMetaData/getPrecision
+permalink: /Java/ResultSetMetaData/getPrecision/
 date: 2021-01-11
 key: Java.R.ResultSetMetaData
-category: java
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

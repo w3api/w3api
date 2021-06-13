@@ -2,8 +2,8 @@
 title: OpenMBeanOperationInfoSupport
 permalink: /Java/OpenMBeanOperationInfoSupport/
 date: 2021-01-11
-key: JavaJava.O.OpenMBeanOperationInfoSupport
-category: java
+key: Java.O.OpenMBeanOperationInfoSupport
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

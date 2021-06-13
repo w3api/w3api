@@ -2,8 +2,8 @@
 title: ObjectInputStream.GetField.get()
 permalink: /Java/ObjectInputStream/GetField/get/
 date: 2021-01-11
-key: JavaJava.O.ObjectInputStream.GetField
-category: java
+key: Java.O.ObjectInputStream.GetField
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

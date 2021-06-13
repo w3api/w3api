@@ -1,9 +1,9 @@
 ---
 title: RowSetWarning
-permalink: Java/RowSetWarning
+permalink: /Java/RowSetWarning/
 date: 2021-01-11
 key: Java.R.RowSetWarning
-category: java
+category: Java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: RowSorterEvent.Type.valueOf()
-permalink: Java/RowSorterEvent/Type/valueOf
+permalink: /Java/RowSorterEvent/Type/valueOf/
 date: 2021-01-11
 key: Java.R.RowSorterEvent.Type
-category: java
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ResourceAccuracy.LOW
-permalink: Java/ResourceAccuracy/LOW
+permalink: /Java/ResourceAccuracy/LOW/
 date: 2021-01-11
 key: Java.R.ResourceAccuracy
-category: java
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'campo java', '8u40']
 sidebar: 
   nav: java

@@ -1,8 +1,8 @@
 ---
 title: NodeIterator.detach()
-permalink: Java/NodeIterator/detach
+permalink: /Java/NodeIterator/detach/
 date: 2021-01-11
-key: JavaJava.N.NodeIterator
+key: Java.N.NodeIterator
 category: Java
 tags: ['java se', 'org.w3c.dom.traversal', 'java.xml', 'metodo java', 'Java 9', 'DOM Level 2']
 sidebar: 

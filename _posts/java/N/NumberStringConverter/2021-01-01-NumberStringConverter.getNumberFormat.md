@@ -1,8 +1,8 @@
 ---
 title: NumberStringConverter.getNumberFormat()
-permalink: Java/NumberStringConverter/getNumberFormat
+permalink: /Java/NumberStringConverter/getNumberFormat/
 date: 2021-01-11
-key: JavaJava.N.NumberStringConverter
+key: Java.N.NumberStringConverter
 category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

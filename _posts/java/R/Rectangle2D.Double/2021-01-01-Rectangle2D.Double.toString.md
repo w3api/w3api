@@ -1,9 +1,9 @@
 ---
 title: Rectangle2D.Double.toString()
-permalink: Java/Rectangle2D/Double/toString
+permalink: /Java/Rectangle2D/Double/toString/
 date: 2021-01-11
 key: Java.R.Rectangle2D.Double
-category: java
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: ObjectIdHelper
 permalink: /Java/ObjectIdHelper//
 date: 2021-01-11
-key: JavaJava.O.ObjectIdHelper
-category: java
+key: Java.O.ObjectIdHelper
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

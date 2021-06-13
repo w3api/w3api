@@ -2,8 +2,8 @@
 title: OptionalInt.equals()
 permalink: /Java/OptionalInt/equals/
 date: 2021-01-11
-key: JavaJava.O.OptionalInt
-category: java
+key: Java.O.OptionalInt
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

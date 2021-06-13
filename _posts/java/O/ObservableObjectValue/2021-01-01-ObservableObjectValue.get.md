@@ -2,8 +2,8 @@
 title: ObservableObjectValue.get()
 permalink: /Java/ObservableObjectValue/get/
 date: 2021-01-11
-key: JavaJava.O.ObservableObjectValue
-category: java
+key: Java.O.ObservableObjectValue
+category: Java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

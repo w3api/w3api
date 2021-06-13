@@ -2,8 +2,8 @@
 title: ObjectImpl
 permalink: /Java/ObjectImpl//
 date: 2021-01-11
-key: JavaJava.O.ObjectImpl
-category: java
+key: Java.O.ObjectImpl
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

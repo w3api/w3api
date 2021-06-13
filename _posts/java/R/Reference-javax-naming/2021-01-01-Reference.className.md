@@ -1,9 +1,9 @@
 ---
 title: Reference.className
-permalink: Java/Reference-javax-naming/className
+permalink: /Java/Reference-javax-naming/className/
 date: 2021-01-11
 key: Java.R.Reference-javax-naming
-category: java
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

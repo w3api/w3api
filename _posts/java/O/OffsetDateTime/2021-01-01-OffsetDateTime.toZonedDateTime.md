@@ -2,8 +2,8 @@
 title: OffsetDateTime.toZonedDateTime()
 permalink: /Java/OffsetDateTime/toZonedDateTime/
 date: 2021-01-11
-key: JavaJava.O.OffsetDateTime
-category: java
+key: Java.O.OffsetDateTime
+category: Java
 tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

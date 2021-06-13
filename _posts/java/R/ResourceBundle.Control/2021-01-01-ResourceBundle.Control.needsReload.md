@@ -1,9 +1,9 @@
 ---
 title: ResourceBundle.Control.needsReload()
-permalink: Java/ResourceBundle/Control/needsReload
+permalink: /Java/ResourceBundle/Control/needsReload/
 date: 2021-01-11
 key: Java.R.ResourceBundle.Control
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

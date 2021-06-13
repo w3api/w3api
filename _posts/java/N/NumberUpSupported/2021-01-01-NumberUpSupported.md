@@ -1,8 +1,8 @@
 ---
 title: NumberUpSupported
-permalink: Java/NumberUpSupported
+permalink: /Java/NumberUpSupported/
 date: 2021-01-11
-key: JavaJava.N.NumberUpSupported
+key: Java.N.NumberUpSupported
 category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

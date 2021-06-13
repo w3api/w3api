@@ -2,8 +2,8 @@
 title: OperatingSystemMXBean
 permalink: /Java/OperatingSystemMXBean//
 date: 2021-01-11
-key: JavaJava.O.OperatingSystemMXBean
-category: java
+key: Java.O.OperatingSystemMXBean
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

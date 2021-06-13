@@ -1,9 +1,9 @@
 ---
 title: QuadCurve2D.Double.getCtrlY()
-permalink: Java/QuadCurve2D/Double/getCtrlY
+permalink: /Java/QuadCurve2D/Double/getCtrlY/
 date: 2021-01-11
-key: JavaJava.Q.QuadCurve2D.Double
-category: java
+key: Java.Q.QuadCurve2D.Double
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

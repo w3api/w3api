@@ -1,9 +1,9 @@
 ---
 title: RemarshalException.RemarshalException()
-permalink: Java/RemarshalException/RemarshalException
+permalink: /Java/RemarshalException/RemarshalException/
 date: 2021-01-11
 key: Java.R.RemarshalException
-category: java
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

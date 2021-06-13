@@ -2,8 +2,8 @@
 title: OpenFilesHandler
 permalink: /Java/OpenFilesHandler/
 date: 2021-01-11
-key: JavaJava.O.OpenFilesHandler
-category: java
+key: Java.O.OpenFilesHandler
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 
   nav: java

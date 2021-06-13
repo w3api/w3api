@@ -1,9 +1,9 @@
 ---
 title: QualifiedNameable
-permalink: Java/QualifiedNameable
+permalink: /Java/QualifiedNameable/
 date: 2021-01-11
-key: JavaJava.Q.QualifiedNameable
-category: java
+key: Java.Q.QualifiedNameable
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

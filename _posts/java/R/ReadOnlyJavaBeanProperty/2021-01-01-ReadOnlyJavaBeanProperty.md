@@ -1,9 +1,9 @@
 ---
 title: ReadOnlyJavaBeanProperty
-permalink: Java/ReadOnlyJavaBeanProperty
+permalink: /Java/ReadOnlyJavaBeanProperty/
 date: 2021-01-11
 key: Java.R.ReadOnlyJavaBeanProperty
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'interface java', 'JavaFX 2.1']
 sidebar: 
   nav: java

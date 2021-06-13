@@ -1,8 +1,8 @@
 ---
 title: NumericShaper.Range.valueOf()
-permalink: Java/NumericShaper/Range/valueOf
+permalink: /Java/NumericShaper/Range/valueOf/
 date: 2021-01-11
-key: JavaJava.N.NumericShaper.Range
+key: Java.N.NumericShaper.Range
 category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 

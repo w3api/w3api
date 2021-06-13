@@ -1,9 +1,9 @@
 ---
 title: ReturnTree
-permalink: Java/ReturnTree-com-sun-source-doctree
+permalink: /Java/ReturnTree-com-sun-source-doctree/
 date: 2021-01-11
 key: Java.R.ReturnTree-com-sun-source-doctree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,8 +1,8 @@
 ---
 title: NoSuchMechanismException.printStackTrace()
-permalink: Java/NoSuchMechanismException/printStackTrace
+permalink: /Java/NoSuchMechanismException/printStackTrace/
 date: 2021-01-11
-key: JavaJava.N.NoSuchMechanismException
+key: Java.N.NoSuchMechanismException
 category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 

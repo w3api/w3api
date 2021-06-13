@@ -2,8 +2,8 @@
 title: OpenMBeanParameterInfoSupport.toString()
 permalink: /Java/OpenMBeanParameterInfoSupport/toString/
 date: 2021-01-11
-key: JavaJava.O.OpenMBeanParameterInfoSupport
-category: java
+key: Java.O.OpenMBeanParameterInfoSupport
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

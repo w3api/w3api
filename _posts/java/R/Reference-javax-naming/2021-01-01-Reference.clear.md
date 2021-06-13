@@ -1,9 +1,9 @@
 ---
 title: Reference.clear()
-permalink: Java/Reference-javax-naming/clear
+permalink: /Java/Reference-javax-naming/clear/
 date: 2021-01-11
 key: Java.R.Reference-javax-naming
-category: java
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

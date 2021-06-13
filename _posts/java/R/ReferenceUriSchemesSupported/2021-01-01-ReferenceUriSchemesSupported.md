@@ -1,9 +1,9 @@
 ---
 title: ReferenceUriSchemesSupported
-permalink: Java/ReferenceUriSchemesSupported
+permalink: /Java/ReferenceUriSchemesSupported/
 date: 2021-01-11
 key: Java.R.ReferenceUriSchemesSupported
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

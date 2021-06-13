@@ -1,9 +1,9 @@
 ---
 title: RowSetEvent
-permalink: Java/RowSetEvent
+permalink: /Java/RowSetEvent/
 date: 2021-01-11
 key: Java.R.RowSetEvent
-category: java
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

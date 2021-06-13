@@ -1,9 +1,9 @@
 ---
 title: RetentionPolicy.SOURCE
-permalink: Java/RetentionPolicy/SOURCE
+permalink: /Java/RetentionPolicy/SOURCE/
 date: 2021-01-11
 key: Java.R.RetentionPolicy
-category: java
+category: Java
 tags: ['java se', 'java.lang.annotation', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

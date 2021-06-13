@@ -1,9 +1,9 @@
 ---
 title: RetentionPolicy.valueOf()
-permalink: Java/RetentionPolicy/valueOf
+permalink: /Java/RetentionPolicy/valueOf/
 date: 2021-01-11
 key: Java.R.RetentionPolicy
-category: java
+category: Java
 tags: ['java se', 'java.lang.annotation', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

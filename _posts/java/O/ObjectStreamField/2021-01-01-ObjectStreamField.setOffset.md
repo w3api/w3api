@@ -2,8 +2,8 @@
 title: ObjectStreamField.setOffset()
 permalink: /Java/ObjectStreamField/setOffset/
 date: 2021-01-11
-key: JavaJava.O.ObjectStreamField
-category: java
+key: Java.O.ObjectStreamField
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

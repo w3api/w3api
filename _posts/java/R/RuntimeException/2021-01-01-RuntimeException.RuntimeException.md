@@ -1,9 +1,9 @@
 ---
 title: RuntimeException.RuntimeException()
-permalink: Java/RuntimeException/RuntimeException
+permalink: /Java/RuntimeException/RuntimeException/
 date: 2021-01-11
 key: Java.R.RuntimeException
-category: java
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

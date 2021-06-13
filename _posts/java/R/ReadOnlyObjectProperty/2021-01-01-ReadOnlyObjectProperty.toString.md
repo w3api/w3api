@@ -1,9 +1,9 @@
 ---
 title: ReadOnlyObjectProperty.toString()
-permalink: Java/ReadOnlyObjectProperty/toString
+permalink: /Java/ReadOnlyObjectProperty/toString/
 date: 2021-01-11
 key: Java.R.ReadOnlyObjectProperty
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

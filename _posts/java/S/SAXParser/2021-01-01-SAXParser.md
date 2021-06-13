@@ -1,9 +1,9 @@
 ---
 title: SAXParser
-permalink: Java/SAXParser
+permalink: /Java/SAXParser/
 date: 2021-01-11
-key: JavaJava.S.SAXParser
-category: java
+key: Java.S.SAXParser
+category: Java
 tags: ['java se', 'javax.xml.parsers', 'java.xml', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

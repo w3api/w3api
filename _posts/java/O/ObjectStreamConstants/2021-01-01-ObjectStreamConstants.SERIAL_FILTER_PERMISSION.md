@@ -2,8 +2,8 @@
 title: ObjectStreamConstants.SERIAL_FILTER_PERMISSION
 permalink: /Java/ObjectStreamConstants/SERIAL_FILTER_PERMISSION/
 date: 2021-01-11
-key: JavaJava.O.ObjectStreamConstants
-category: java
+key: Java.O.ObjectStreamConstants
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

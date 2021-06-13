@@ -2,8 +2,8 @@
 title: ORBIdHelper.extract()
 permalink: /Java/ORBIdHelper/extract/
 date: 2021-01-11
-key: JavaJava.O.ORBIdHelper
-category: java
+key: Java.O.ORBIdHelper
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

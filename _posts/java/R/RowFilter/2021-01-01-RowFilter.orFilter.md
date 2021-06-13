@@ -1,9 +1,9 @@
 ---
 title: RowFilter.orFilter()
-permalink: Java/RowFilter/orFilter
+permalink: /Java/RowFilter/orFilter/
 date: 2021-01-11
 key: Java.R.RowFilter
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

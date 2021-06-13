@@ -1,8 +1,8 @@
 ---
 title: NumberAxis.DefaultFormatter
-permalink: Java/NumberAxis/DefaultFormatter
+permalink: /Java/NumberAxis/DefaultFormatter/
 date: 2021-01-11
-key: JavaJava.N.NumberAxis.DefaultFormatter
+key: Java.N.NumberAxis.DefaultFormatter
 category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'clase java', 'JavaFX 2.0']
 sidebar: 

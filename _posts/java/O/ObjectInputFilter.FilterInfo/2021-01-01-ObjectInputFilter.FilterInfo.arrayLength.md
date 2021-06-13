@@ -2,8 +2,8 @@
 title: ObjectInputFilter.FilterInfo.arrayLength()
 permalink: /Java/ObjectInputFilter/FilterInfo/arrayLength/
 date: 2021-01-11
-key: JavaJava.O.ObjectInputFilter.FilterInfo
-category: java
+key: Java.O.ObjectInputFilter.FilterInfo
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

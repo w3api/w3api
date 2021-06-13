@@ -1,8 +1,8 @@
 ---
 title: NoSuchFileException.NoSuchFileException()
-permalink: Java/NoSuchFileException/NoSuchFileException
+permalink: /Java/NoSuchFileException/NoSuchFileException/
 date: 2021-01-11
-key: JavaJava.N.NoSuchFileException
+key: Java.N.NoSuchFileException
 category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

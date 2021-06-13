@@ -1,9 +1,9 @@
 ---
 title: RMIConnection.getMBeanCount()
-permalink: Java/RMIConnection/getMBeanCount
+permalink: /Java/RMIConnection/getMBeanCount/
 date: 2021-01-11
 key: Java.R.RMIConnection
-category: java
+category: Java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

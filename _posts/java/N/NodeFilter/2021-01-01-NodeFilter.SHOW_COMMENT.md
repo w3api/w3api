@@ -1,8 +1,8 @@
 ---
 title: NodeFilter.SHOW_COMMENT
-permalink: Java/NodeFilter/SHOW_COMMENT
+permalink: /Java/NodeFilter/SHOW_COMMENT/
 date: 2021-01-11
-key: JavaJava.N.NodeFilter
+key: Java.N.NodeFilter
 category: Java
 tags: ['java se', 'org.w3c.dom.traversal', 'java.xml', 'campo java', 'Java 9', 'DOM Level 2']
 sidebar: 

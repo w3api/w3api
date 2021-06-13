@@ -1,8 +1,8 @@
 ---
 title: Notification
-permalink: Java/Notification/
+permalink: /Java/Notification//
 date: 2021-01-11
-key: JavaJava.N.Notification
+key: Java.N.Notification
 category: Java
 tags: ['java se']
 sidebar: 

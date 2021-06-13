@@ -1,8 +1,8 @@
 ---
 title: NoSuchFieldException
-permalink: Java/NoSuchFieldException
+permalink: /Java/NoSuchFieldException/
 date: 2021-01-11
-key: JavaJava.N.NoSuchFieldException
+key: Java.N.NoSuchFieldException
 category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

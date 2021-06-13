@@ -1,9 +1,9 @@
 ---
 title: ReferenceType.isVerified()
-permalink: Java/ReferenceType-com-sun-jdi/isVerified
+permalink: /Java/ReferenceType-com-sun-jdi/isVerified/
 date: 2021-01-11
 key: Java.R.ReferenceType-com-sun-jdi
-category: java
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Rectangle2D.Rectangle2D()
-permalink: Java/Rectangle2D-javafx-geometry/Rectangle2D
+permalink: /Java/Rectangle2D-javafx-geometry/Rectangle2D/
 date: 2021-01-11
 key: Java.R.Rectangle2D-javafx-geometry
-category: java
+category: Java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

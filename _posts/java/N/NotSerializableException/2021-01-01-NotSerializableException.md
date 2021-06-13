@@ -1,8 +1,8 @@
 ---
 title: NotSerializableException
-permalink: Java/NotSerializableException
+permalink: /Java/NotSerializableException/
 date: 2021-01-11
-key: JavaJava.N.NotSerializableException
+key: Java.N.NotSerializableException
 category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

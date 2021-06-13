@@ -2,8 +2,8 @@
 title: Observable
 permalink: /Java/Observable-javafx-beans/
 date: 2021-01-11
-key: JavaJava.O.Observable-javafx-beans
-category: java
+key: Java.O.Observable-javafx-beans
+category: Java
 tags: ['java se', 'javafx.beans', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

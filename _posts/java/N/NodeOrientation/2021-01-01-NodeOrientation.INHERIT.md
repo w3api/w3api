@@ -1,8 +1,8 @@
 ---
 title: NodeOrientation.INHERIT
-permalink: Java/NodeOrientation/INHERIT
+permalink: /Java/NodeOrientation/INHERIT/
 date: 2021-01-11
-key: JavaJava.N.NodeOrientation
+key: Java.N.NodeOrientation
 category: Java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 

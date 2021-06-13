@@ -1,8 +1,8 @@
 ---
 title: NodeOrientation.RIGHT_TO_LEFT
-permalink: Java/NodeOrientation/RIGHT_TO_LEFT
+permalink: /Java/NodeOrientation/RIGHT_TO_LEFT/
 date: 2021-01-11
-key: JavaJava.N.NodeOrientation
+key: Java.N.NodeOrientation
 category: Java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 

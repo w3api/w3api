@@ -1,8 +1,8 @@
 ---
 title: NumericShaper.Range.TAI_THAM_THAM
-permalink: Java/NumericShaper/Range/TAI_THAM_THAM
+permalink: /Java/NumericShaper/Range/TAI_THAM_THAM/
 date: 2021-01-11
-key: JavaJava.N.NumericShaper.Range
+key: Java.N.NumericShaper.Range
 category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'campo java', 'Java 1.7']
 sidebar: 

@@ -2,8 +2,8 @@
 title: ObjectReference.INVOKE_NONVIRTUAL
 permalink: /Java/ObjectReference/INVOKE_NONVIRTUAL/
 date: 2021-01-11
-key: JavaJava.O.ObjectReference
-category: java
+key: Java.O.ObjectReference
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

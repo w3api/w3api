@@ -1,9 +1,9 @@
 ---
 title: SAXTransformerFactory.newTemplatesHandler()
-permalink: Java/SAXTransformerFactory/newTemplatesHandler
+permalink: /Java/SAXTransformerFactory/newTemplatesHandler/
 date: 2021-01-11
-key: JavaJava.S.SAXTransformerFactory
-category: java
+key: Java.S.SAXTransformerFactory
+category: Java
 tags: ['java se', 'javax.xml.transform.sax', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

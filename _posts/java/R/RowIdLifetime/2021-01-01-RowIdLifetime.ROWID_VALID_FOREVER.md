@@ -1,9 +1,9 @@
 ---
 title: RowIdLifetime.ROWID_VALID_FOREVER
-permalink: Java/RowIdLifetime/ROWID_VALID_FOREVER
+permalink: /Java/RowIdLifetime/ROWID_VALID_FOREVER/
 date: 2021-01-11
 key: Java.R.RowIdLifetime
-category: java
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

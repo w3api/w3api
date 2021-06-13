@@ -1,9 +1,9 @@
 ---
 title: Reference
-permalink: Java/Reference/
+permalink: /Java/Reference//
 date: 2021-01-11
 key: Java.R.Reference
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

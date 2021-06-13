@@ -2,8 +2,8 @@
 title: ObservableIntegerValue
 permalink: /Java/ObservableIntegerValue/
 date: 2021-01-11
-key: JavaJava.O.ObservableIntegerValue
-category: java
+key: Java.O.ObservableIntegerValue
+category: Java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

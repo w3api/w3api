@@ -1,8 +1,8 @@
 ---
 title: NotificationBroadcasterSupport.addNotificationListener()
-permalink: Java/NotificationBroadcasterSupport/addNotificationListener
+permalink: /Java/NotificationBroadcasterSupport/addNotificationListener/
 date: 2021-01-11
-key: JavaJava.N.NotificationBroadcasterSupport
+key: Java.N.NotificationBroadcasterSupport
 category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

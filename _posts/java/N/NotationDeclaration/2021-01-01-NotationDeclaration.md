@@ -1,8 +1,8 @@
 ---
 title: NotationDeclaration
-permalink: Java/NotationDeclaration
+permalink: /Java/NotationDeclaration/
 date: 2021-01-11
-key: JavaJava.N.NotationDeclaration
+key: Java.N.NotationDeclaration
 category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'interface java', 'Java 1.6']
 sidebar: 

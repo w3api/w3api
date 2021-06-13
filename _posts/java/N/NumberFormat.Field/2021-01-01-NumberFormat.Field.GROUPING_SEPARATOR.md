@@ -1,8 +1,8 @@
 ---
 title: NumberFormat.Field.GROUPING_SEPARATOR
-permalink: Java/NumberFormat/Field/GROUPING_SEPARATOR
+permalink: /Java/NumberFormat/Field/GROUPING_SEPARATOR/
 date: 2021-01-11
-key: JavaJava.N.NumberFormat.Field
+key: Java.N.NumberFormat.Field
 category: Java
 tags: ['java se', 'java.text', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 

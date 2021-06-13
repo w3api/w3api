@@ -1,9 +1,9 @@
 ---
 title: RemoteCall.done()
-permalink: Java/RemoteCall/done
+permalink: /Java/RemoteCall/done/
 date: 2021-01-11
 key: Java.R.RemoteCall
-category: java
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

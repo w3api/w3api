@@ -1,9 +1,9 @@
 ---
 title: QueuedJobCount
-permalink: Java/QueuedJobCount
+permalink: /Java/QueuedJobCount/
 date: 2021-01-11
-key: JavaJava.Q.QueuedJobCount
-category: java
+key: Java.Q.QueuedJobCount
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

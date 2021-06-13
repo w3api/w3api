@@ -1,9 +1,9 @@
 ---
 title: ResultSet.moveToCurrentRow()
-permalink: Java/ResultSet/moveToCurrentRow
+permalink: /Java/ResultSet/moveToCurrentRow/
 date: 2021-01-11
 key: Java.R.ResultSet
-category: java
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

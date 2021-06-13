@@ -2,8 +2,8 @@
 title: OpenOption
 permalink: /Java/OpenOption/
 date: 2021-01-11
-key: JavaJava.O.OpenOption
-category: java
+key: Java.O.OpenOption
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

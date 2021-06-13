@@ -1,9 +1,9 @@
 ---
 title: RequiredModelMBean.setModelMBeanInfo()
-permalink: Java/RequiredModelMBean/setModelMBeanInfo
+permalink: /Java/RequiredModelMBean/setModelMBeanInfo/
 date: 2021-01-11
 key: Java.R.RequiredModelMBean
-category: java
+category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

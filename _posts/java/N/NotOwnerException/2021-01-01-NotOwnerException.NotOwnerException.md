@@ -1,8 +1,8 @@
 ---
 title: NotOwnerException.NotOwnerException()
-permalink: Java/NotOwnerException/NotOwnerException
+permalink: /Java/NotOwnerException/NotOwnerException/
 date: 2021-01-11
-key: JavaJava.N.NotOwnerException
+key: Java.N.NotOwnerException
 category: Java
 tags: ['java se', 'java.security.acl', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

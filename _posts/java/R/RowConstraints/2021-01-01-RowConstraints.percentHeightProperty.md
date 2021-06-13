@@ -1,9 +1,9 @@
 ---
 title: RowConstraints.percentHeightProperty()
-permalink: Java/RowConstraints/percentHeightProperty
+permalink: /Java/RowConstraints/percentHeightProperty/
 date: 2021-01-11
 key: Java.R.RowConstraints
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

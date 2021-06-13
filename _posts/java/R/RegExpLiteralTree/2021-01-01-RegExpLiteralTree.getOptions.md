@@ -1,9 +1,9 @@
 ---
 title: RegExpLiteralTree.getOptions()
-permalink: Java/RegExpLiteralTree/getOptions
+permalink: /Java/RegExpLiteralTree/getOptions/
 date: 2021-01-11
 key: Java.R.RegExpLiteralTree
-category: java
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

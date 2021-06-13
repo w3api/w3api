@@ -1,9 +1,9 @@
 ---
 title: QuitResponse.cancelQuit()
-permalink: Java/QuitResponse/cancelQuit
+permalink: /Java/QuitResponse/cancelQuit/
 date: 2021-01-11
-key: JavaJava.Q.QuitResponse
-category: java
+key: Java.Q.QuitResponse
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

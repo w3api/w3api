@@ -2,8 +2,8 @@
 title: OverrunStyle.values()
 permalink: /Java/OverrunStyle/values/
 date: 2021-01-11
-key: JavaJava.O.OverrunStyle
-category: java
+key: Java.O.OverrunStyle
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

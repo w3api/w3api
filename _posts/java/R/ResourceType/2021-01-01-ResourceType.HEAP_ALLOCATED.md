@@ -1,9 +1,9 @@
 ---
 title: ResourceType.HEAP_ALLOCATED
-permalink: Java/ResourceType/HEAP_ALLOCATED
+permalink: /Java/ResourceType/HEAP_ALLOCATED/
 date: 2021-01-11
 key: Java.R.ResourceType
-category: java
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'campo java', '8u40']
 sidebar: 
   nav: java

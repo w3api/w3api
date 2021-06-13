@@ -1,9 +1,9 @@
 ---
 title: RowSorterListener
-permalink: Java/RowSorterListener
+permalink: /Java/RowSorterListener/
 date: 2021-01-11
 key: Java.R.RowSorterListener
-category: java
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

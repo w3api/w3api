@@ -1,9 +1,9 @@
 ---
 title: ResourceBundle.handleKeySet()
-permalink: Java/ResourceBundle/handleKeySet
+permalink: /Java/ResourceBundle/handleKeySet/
 date: 2021-01-11
 key: Java.R.ResourceBundle
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

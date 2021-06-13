@@ -2,8 +2,8 @@
 title: ObjectStreamException
 permalink: /Java/ObjectStreamException/
 date: 2021-01-11
-key: JavaJava.O.ObjectStreamException
-category: java
+key: Java.O.ObjectStreamException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

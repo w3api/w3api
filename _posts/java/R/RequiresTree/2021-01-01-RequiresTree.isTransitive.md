@@ -1,9 +1,9 @@
 ---
 title: RequiresTree.isTransitive()
-permalink: Java/RequiresTree/isTransitive
+permalink: /Java/RequiresTree/isTransitive/
 date: 2021-01-11
 key: Java.R.RequiresTree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

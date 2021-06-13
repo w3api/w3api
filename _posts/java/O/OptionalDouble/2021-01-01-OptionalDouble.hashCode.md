@@ -2,8 +2,8 @@
 title: OptionalDouble.hashCode()
 permalink: /Java/OptionalDouble/hashCode/
 date: 2021-01-11
-key: JavaJava.O.OptionalDouble
-category: java
+key: Java.O.OptionalDouble
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java
