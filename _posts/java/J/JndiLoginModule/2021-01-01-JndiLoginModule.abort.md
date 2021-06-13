@@ -1,9 +1,9 @@
 ---
 title: JndiLoginModule.abort()
-permalink: Java/JndiLoginModule/abort
+permalink: /Java/JndiLoginModule/abort/
 date: 2021-01-11
-key: JavaJava.J.JndiLoginModule
-category: java
+key: Java.J.JndiLoginModule
+category: Java
 tags: ['java se', 'com.sun.security.auth.module', 'jdk.security.auth', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

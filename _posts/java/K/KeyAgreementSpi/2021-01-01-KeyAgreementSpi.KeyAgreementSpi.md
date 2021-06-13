@@ -1,9 +1,9 @@
 ---
 title: KeyAgreementSpi.KeyAgreementSpi()
-permalink: Java/KeyAgreementSpi/KeyAgreementSpi
+permalink: /Java/KeyAgreementSpi/KeyAgreementSpi/
 date: 2021-01-11
-key: JavaJava.K.KeyAgreementSpi
-category: java
+key: Java.K.KeyAgreementSpi
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

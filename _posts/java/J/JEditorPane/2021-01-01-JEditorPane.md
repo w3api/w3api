@@ -1,9 +1,9 @@
 ---
 title: JEditorPane
-permalink: Java/JEditorPane
+permalink: /Java/JEditorPane/
 date: 2021-01-11
-key: JavaJava.J.JEditorPane
-category: java
+key: Java.J.JEditorPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

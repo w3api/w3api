@@ -1,9 +1,9 @@
 ---
 title: JobMessageFromOperator
-permalink: Java/JobMessageFromOperator
+permalink: /Java/JobMessageFromOperator/
 date: 2021-01-11
-key: JavaJava.J.JobMessageFromOperator
-category: java
+key: Java.J.JobMessageFromOperator
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JInternalFrame.show()
-permalink: Java/JInternalFrame/show
+permalink: /Java/JInternalFrame/show/
 date: 2021-01-11
-key: JavaJava.J.JInternalFrame
-category: java
+key: Java.J.JInternalFrame
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

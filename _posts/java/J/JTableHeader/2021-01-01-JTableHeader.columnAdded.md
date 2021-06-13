@@ -1,9 +1,9 @@
 ---
 title: JTableHeader.columnAdded()
-permalink: Java/JTableHeader/columnAdded
+permalink: /Java/JTableHeader/columnAdded/
 date: 2021-01-11
-key: JavaJava.J.JTableHeader
-category: java
+key: Java.J.JTableHeader
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

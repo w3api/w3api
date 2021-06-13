@@ -1,9 +1,9 @@
 ---
 title: KeyGenerator
-permalink: Java/KeyGenerator
+permalink: /Java/KeyGenerator/
 date: 2021-01-11
-key: JavaJava.K.KeyGenerator
-category: java
+key: Java.K.KeyGenerator
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

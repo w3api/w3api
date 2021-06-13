@@ -1,9 +1,9 @@
 ---
 title: LSSerializerFilter.getWhatToShow()
-permalink: Java/LSSerializerFilter/getWhatToShow
+permalink: /Java/LSSerializerFilter/getWhatToShow/
 date: 2021-01-11
 key: Java.L.LSSerializerFilter
-category: java
+category: Java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JRadioButtonMenuItem
-permalink: Java/JRadioButtonMenuItem
+permalink: /Java/JRadioButtonMenuItem/
 date: 2021-01-11
-key: JavaJava.J.JRadioButtonMenuItem
-category: java
+key: Java.J.JRadioButtonMenuItem
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

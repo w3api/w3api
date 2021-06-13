@@ -1,9 +1,9 @@
 ---
 title: JTextField.fireActionPerformed()
-permalink: Java/JTextField/fireActionPerformed
+permalink: /Java/JTextField/fireActionPerformed/
 date: 2021-01-11
-key: JavaJava.J.JTextField
-category: java
+key: Java.J.JTextField
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

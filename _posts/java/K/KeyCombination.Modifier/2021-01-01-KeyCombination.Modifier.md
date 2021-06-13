@@ -1,9 +1,9 @@
 ---
 title: KeyCombination.Modifier
-permalink: Java/KeyCombination/Modifier
+permalink: /Java/KeyCombination/Modifier/
 date: 2021-01-11
-key: JavaJava.K.KeyCombination.Modifier
-category: java
+key: Java.K.KeyCombination.Modifier
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

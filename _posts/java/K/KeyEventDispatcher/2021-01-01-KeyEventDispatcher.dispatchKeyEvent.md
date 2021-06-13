@@ -1,9 +1,9 @@
 ---
 title: KeyEventDispatcher.dispatchKeyEvent()
-permalink: Java/KeyEventDispatcher/dispatchKeyEvent
+permalink: /Java/KeyEventDispatcher/dispatchKeyEvent/
 date: 2021-01-11
-key: JavaJava.K.KeyEventDispatcher
-category: java
+key: Java.K.KeyEventDispatcher
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

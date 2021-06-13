@@ -1,9 +1,9 @@
 ---
 title: KerberosKey
-permalink: Java/KerberosKey
+permalink: /Java/KerberosKey/
 date: 2021-01-11
-key: JavaJava.K.KerberosKey
-category: java
+key: Java.K.KerberosKey
+category: Java
 tags: ['java se', 'javax.security.auth.kerberos', 'java.security.jgss', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: LinkRequest
 permalink: /Java/LinkRequest/
 date: 2021-01-11
 key: Java.L.LinkRequest
-category: java
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

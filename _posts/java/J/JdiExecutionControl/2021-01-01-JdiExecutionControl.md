@@ -1,9 +1,9 @@
 ---
 title: JdiExecutionControl
-permalink: Java/JdiExecutionControl
+permalink: /Java/JdiExecutionControl/
 date: 2021-01-11
-key: JavaJava.J.JdiExecutionControl
-category: java
+key: Java.J.JdiExecutionControl
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

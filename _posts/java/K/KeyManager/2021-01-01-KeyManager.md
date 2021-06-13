@@ -1,9 +1,9 @@
 ---
 title: KeyManager
-permalink: Java/KeyManager
+permalink: /Java/KeyManager/
 date: 2021-01-11
-key: JavaJava.K.KeyManager
-category: java
+key: Java.K.KeyManager
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

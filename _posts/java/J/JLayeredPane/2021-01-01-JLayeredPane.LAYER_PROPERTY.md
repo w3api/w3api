@@ -1,9 +1,9 @@
 ---
 title: JLayeredPane.LAYER_PROPERTY
-permalink: Java/JLayeredPane/LAYER_PROPERTY
+permalink: /Java/JLayeredPane/LAYER_PROPERTY/
 date: 2021-01-11
-key: JavaJava.J.JLayeredPane
-category: java
+key: Java.J.JLayeredPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

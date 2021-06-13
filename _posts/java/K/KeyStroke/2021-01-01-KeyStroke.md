@@ -1,9 +1,9 @@
 ---
 title: KeyStroke
-permalink: Java/KeyStroke
+permalink: /Java/KeyStroke/
 date: 2021-01-11
-key: JavaJava.K.KeyStroke
-category: java
+key: Java.K.KeyStroke
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

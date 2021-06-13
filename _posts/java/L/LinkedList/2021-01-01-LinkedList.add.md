@@ -1,9 +1,9 @@
 ---
 title: LinkedList.add()
-permalink: Java/LinkedList/add
+permalink: /Java/LinkedList/add/
 date: 2021-01-11
 key: Java.L.LinkedList
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

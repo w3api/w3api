@@ -1,9 +1,9 @@
 ---
 title: LinkedTransferQueue.drainTo()
-permalink: Java/LinkedTransferQueue/drainTo
+permalink: /Java/LinkedTransferQueue/drainTo/
 date: 2021-01-11
 key: Java.L.LinkedTransferQueue
-category: java
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

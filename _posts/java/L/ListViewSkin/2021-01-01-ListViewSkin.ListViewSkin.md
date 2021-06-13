@@ -3,7 +3,7 @@ title: ListViewSkin.ListViewSkin()
 permalink: /Java/ListViewSkin/ListViewSkin/
 date: 2021-01-11
 key: Java.L.ListViewSkin
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

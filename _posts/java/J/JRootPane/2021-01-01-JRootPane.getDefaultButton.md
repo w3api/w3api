@@ -1,9 +1,9 @@
 ---
 title: JRootPane.getDefaultButton()
-permalink: Java/JRootPane/getDefaultButton
+permalink: /Java/JRootPane/getDefaultButton/
 date: 2021-01-11
-key: JavaJava.J.JRootPane
-category: java
+key: Java.J.JRootPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

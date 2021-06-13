@@ -1,9 +1,9 @@
 ---
 title: JMException.JMException()
-permalink: Java/JMException/JMException
+permalink: /Java/JMException/JMException/
 date: 2021-01-11
-key: JavaJava.J.JMException
-category: java
+key: Java.J.JMException
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

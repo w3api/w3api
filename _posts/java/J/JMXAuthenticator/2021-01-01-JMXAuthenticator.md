@@ -1,9 +1,9 @@
 ---
 title: JMXAuthenticator
-permalink: Java/JMXAuthenticator
+permalink: /Java/JMXAuthenticator/
 date: 2021-01-11
-key: JavaJava.J.JMXAuthenticator
-category: java
+key: Java.J.JMXAuthenticator
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

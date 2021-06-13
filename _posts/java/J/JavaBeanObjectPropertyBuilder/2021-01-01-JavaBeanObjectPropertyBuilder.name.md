@@ -1,9 +1,9 @@
 ---
 title: JavaBeanObjectPropertyBuilder.name()
-permalink: Java/JavaBeanObjectPropertyBuilder/name
+permalink: /Java/JavaBeanObjectPropertyBuilder/name/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanObjectPropertyBuilder
-category: java
+key: Java.J.JavaBeanObjectPropertyBuilder
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

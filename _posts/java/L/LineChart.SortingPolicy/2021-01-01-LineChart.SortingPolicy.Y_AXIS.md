@@ -3,7 +3,7 @@ title: LineChart.SortingPolicy.Y_AXIS
 permalink: /Java/LineChart/SortingPolicy/Y_AXIS/
 date: 2021-01-11
 key: Java.L.LineChart.SortingPolicy
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

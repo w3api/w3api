@@ -1,9 +1,9 @@
 ---
 title: KeyCharacterCombination
-permalink: Java/KeyCharacterCombination
+permalink: /Java/KeyCharacterCombination/
 date: 2021-01-11
-key: JavaJava.K.KeyCharacterCombination
-category: java
+key: Java.K.KeyCharacterCombination
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

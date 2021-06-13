@@ -1,9 +1,9 @@
 ---
 title: JFileChooser.CANCEL_SELECTION
-permalink: Java/JFileChooser/CANCEL_SELECTION
+permalink: /Java/JFileChooser/CANCEL_SELECTION/
 date: 2021-01-11
-key: JavaJava.J.JFileChooser
-category: java
+key: Java.J.JFileChooser
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

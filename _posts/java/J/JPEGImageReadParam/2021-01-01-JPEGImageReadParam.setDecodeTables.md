@@ -1,9 +1,9 @@
 ---
 title: JPEGImageReadParam.setDecodeTables()
-permalink: Java/JPEGImageReadParam/setDecodeTables
+permalink: /Java/JPEGImageReadParam/setDecodeTables/
 date: 2021-01-11
-key: JavaJava.J.JPEGImageReadParam
-category: java
+key: Java.J.JPEGImageReadParam
+category: Java
 tags: ['java se', 'javax.imageio.plugins.jpeg', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

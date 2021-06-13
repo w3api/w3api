@@ -1,9 +1,9 @@
 ---
 title: JRadioButton
-permalink: Java/JRadioButton
+permalink: /Java/JRadioButton/
 date: 2021-01-11
-key: JavaJava.J.JRadioButton
-category: java
+key: Java.J.JRadioButton
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

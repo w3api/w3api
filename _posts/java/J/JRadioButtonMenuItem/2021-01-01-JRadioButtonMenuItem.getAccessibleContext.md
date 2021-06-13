@@ -1,9 +1,9 @@
 ---
 title: JRadioButtonMenuItem.getAccessibleContext()
-permalink: Java/JRadioButtonMenuItem/getAccessibleContext
+permalink: /Java/JRadioButtonMenuItem/getAccessibleContext/
 date: 2021-01-11
-key: JavaJava.J.JRadioButtonMenuItem
-category: java
+key: Java.J.JRadioButtonMenuItem
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

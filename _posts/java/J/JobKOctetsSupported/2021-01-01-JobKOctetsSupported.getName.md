@@ -1,9 +1,9 @@
 ---
 title: JobKOctetsSupported.getName()
-permalink: Java/JobKOctetsSupported/getName
+permalink: /Java/JobKOctetsSupported/getName/
 date: 2021-01-11
-key: JavaJava.J.JobKOctetsSupported
-category: java
+key: Java.J.JobKOctetsSupported
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

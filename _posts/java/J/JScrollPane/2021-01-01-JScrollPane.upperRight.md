@@ -1,9 +1,9 @@
 ---
 title: JScrollPane.upperRight
-permalink: Java/JScrollPane/upperRight
+permalink: /Java/JScrollPane/upperRight/
 date: 2021-01-11
-key: JavaJava.J.JScrollPane
-category: java
+key: Java.J.JScrollPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

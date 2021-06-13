@@ -1,9 +1,9 @@
 ---
 title: JarInputStream.LOCSIZ
-permalink: Java/JarInputStream/LOCSIZ
+permalink: /Java/JarInputStream/LOCSIZ/
 date: 2021-01-11
-key: JavaJava.J.JarInputStream
-category: java
+key: Java.J.JarInputStream
+category: Java
 tags: ['java se', 'java.util.jar', 'java.base', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

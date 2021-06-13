@@ -1,9 +1,9 @@
 ---
 title: JShellException
-permalink: Java/JShellException
+permalink: /Java/JShellException/
 date: 2021-01-11
-key: JavaJava.J.JShellException
-category: java
+key: Java.J.JShellException
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

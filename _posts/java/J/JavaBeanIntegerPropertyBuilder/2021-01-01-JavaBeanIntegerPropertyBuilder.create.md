@@ -1,9 +1,9 @@
 ---
 title: JavaBeanIntegerPropertyBuilder.create()
-permalink: Java/JavaBeanIntegerPropertyBuilder/create
+permalink: /Java/JavaBeanIntegerPropertyBuilder/create/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanIntegerPropertyBuilder
-category: java
+key: Java.J.JavaBeanIntegerPropertyBuilder
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

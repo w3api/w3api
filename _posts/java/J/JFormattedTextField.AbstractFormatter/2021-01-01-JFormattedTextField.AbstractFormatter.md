@@ -1,9 +1,9 @@
 ---
 title: JFormattedTextField.AbstractFormatter
-permalink: Java/JFormattedTextField/AbstractFormatter
+permalink: /Java/JFormattedTextField/AbstractFormatter/
 date: 2021-01-11
-key: JavaJava.J.JFormattedTextField.AbstractFormatter
-category: java
+key: Java.J.JFormattedTextField.AbstractFormatter
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

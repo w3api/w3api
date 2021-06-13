@@ -1,9 +1,9 @@
 ---
 title: JFileChooser
-permalink: Java/JFileChooser
+permalink: /Java/JFileChooser/
 date: 2021-01-11
-key: JavaJava.J.JFileChooser
-category: java
+key: Java.J.JFileChooser
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

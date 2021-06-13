@@ -1,9 +1,9 @@
 ---
 title: JMXConnectionNotification.OPENED
-permalink: Java/JMXConnectionNotification/OPENED
+permalink: /Java/JMXConnectionNotification/OPENED/
 date: 2021-01-11
-key: JavaJava.J.JMXConnectionNotification
-category: java
+key: Java.J.JMXConnectionNotification
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

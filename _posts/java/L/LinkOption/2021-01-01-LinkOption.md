@@ -1,9 +1,9 @@
 ---
 title: LinkOption
-permalink: Java/LinkOption
+permalink: /Java/LinkOption/
 date: 2021-01-11
 key: Java.L.LinkOption
-category: java
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'enumerado java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JarSigner.Builder.signerName()
-permalink: Java/JarSigner/Builder/signerName
+permalink: /Java/JarSigner/Builder/signerName/
 date: 2021-01-11
-key: JavaJava.J.JarSigner.Builder
-category: java
+key: Java.J.JarSigner.Builder
+category: Java
 tags: ['java se', 'jdk.security.jarsigner', 'jdk.jartool', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

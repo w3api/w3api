@@ -1,9 +1,9 @@
 ---
 title: JapaneseEra.getValue()
-permalink: Java/JapaneseEra/getValue
+permalink: /Java/JapaneseEra/getValue/
 date: 2021-01-11
-key: JavaJava.J.JapaneseEra
-category: java
+key: Java.J.JapaneseEra
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

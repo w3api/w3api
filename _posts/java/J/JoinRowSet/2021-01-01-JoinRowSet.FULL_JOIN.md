@@ -1,9 +1,9 @@
 ---
 title: JoinRowSet.FULL_JOIN
-permalink: Java/JoinRowSet/FULL_JOIN
+permalink: /Java/JoinRowSet/FULL_JOIN/
 date: 2021-01-11
-key: JavaJava.J.JoinRowSet
-category: java
+key: Java.J.JoinRowSet
+category: Java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

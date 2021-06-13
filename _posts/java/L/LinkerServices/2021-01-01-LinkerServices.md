@@ -1,9 +1,9 @@
 ---
 title: LinkerServices
-permalink: Java/LinkerServices
+permalink: /Java/LinkerServices/
 date: 2021-01-11
 key: Java.L.LinkerServices
-category: java
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

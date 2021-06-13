@@ -1,9 +1,9 @@
 ---
 title: JavaFileObject.Kind
-permalink: Java/JavaFileObject/Kind
+permalink: /Java/JavaFileObject/Kind/
 date: 2021-01-11
-key: JavaJava.J.JavaFileObject.Kind
-category: java
+key: Java.J.JavaFileObject.Kind
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'enumerado java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JavaFXBuilderFactory.getBuilder()
-permalink: Java/JavaFXBuilderFactory/getBuilder
+permalink: /Java/JavaFXBuilderFactory/getBuilder/
 date: 2021-01-11
-key: JavaJava.J.JavaFXBuilderFactory
-category: java
+key: Java.J.JavaFXBuilderFactory
+category: Java
 tags: ['java se', 'javafx.fxml', 'javafx.fxml', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

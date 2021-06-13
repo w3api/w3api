@@ -1,9 +1,9 @@
 ---
 title: JarException
-permalink: Java/JarException
+permalink: /Java/JarException/
 date: 2021-01-11
-key: JavaJava.J.JarException
-category: java
+key: Java.J.JarException
+category: Java
 tags: ['java se', 'java.util.jar', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

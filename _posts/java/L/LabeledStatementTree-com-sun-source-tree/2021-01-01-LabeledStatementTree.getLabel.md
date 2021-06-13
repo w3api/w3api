@@ -1,9 +1,9 @@
 ---
 title: LabeledStatementTree.getLabel()
-permalink: Java/LabeledStatementTree-com-sun-source-tree/getLabel
+permalink: /Java/LabeledStatementTree-com-sun-source-tree/getLabel/
 date: 2021-01-11
 key: Java.L.LabeledStatementTree-com-sun-source-tree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

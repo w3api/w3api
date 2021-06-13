@@ -1,9 +1,9 @@
 ---
 title: KeyStroke.getKeyStrokeForEvent()
-permalink: Java/KeyStroke/getKeyStrokeForEvent
+permalink: /Java/KeyStroke/getKeyStrokeForEvent/
 date: 2021-01-11
-key: JavaJava.K.KeyStroke
-category: java
+key: Java.K.KeyStroke
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: KeyManagerFactorySpi
-permalink: Java/KeyManagerFactorySpi
+permalink: /Java/KeyManagerFactorySpi/
 date: 2021-01-11
-key: JavaJava.K.KeyManagerFactorySpi
-category: java
+key: Java.K.KeyManagerFactorySpi
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JTextArea.createDefaultModel()
-permalink: Java/JTextArea/createDefaultModel
+permalink: /Java/JTextArea/createDefaultModel/
 date: 2021-01-11
-key: JavaJava.J.JTextArea
-category: java
+key: Java.J.JTextArea
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

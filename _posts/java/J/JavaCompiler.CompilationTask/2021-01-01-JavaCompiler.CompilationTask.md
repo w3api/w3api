@@ -1,9 +1,9 @@
 ---
 title: JavaCompiler.CompilationTask
-permalink: Java/JavaCompiler/CompilationTask
+permalink: /Java/JavaCompiler/CompilationTask/
 date: 2021-01-11
-key: JavaJava.J.JavaCompiler.CompilationTask
-category: java
+key: Java.J.JavaCompiler.CompilationTask
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

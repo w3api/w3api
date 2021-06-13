@@ -1,9 +1,9 @@
 ---
 title: LdapReferralException
-permalink: Java/LdapReferralException
+permalink: /Java/LdapReferralException/
 date: 2021-01-11
 key: Java.L.LdapReferralException
-category: java
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

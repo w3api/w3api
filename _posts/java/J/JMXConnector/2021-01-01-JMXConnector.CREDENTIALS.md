@@ -1,9 +1,9 @@
 ---
 title: JMXConnector.CREDENTIALS
-permalink: Java/JMXConnector/CREDENTIALS
+permalink: /Java/JMXConnector/CREDENTIALS/
 date: 2021-01-11
-key: JavaJava.J.JMXConnector
-category: java
+key: Java.J.JMXConnector
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

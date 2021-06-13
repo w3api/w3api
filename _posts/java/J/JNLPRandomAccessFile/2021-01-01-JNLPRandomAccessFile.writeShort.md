@@ -1,9 +1,9 @@
 ---
 title: JNLPRandomAccessFile.writeShort()
-permalink: Java/JNLPRandomAccessFile/writeShort
+permalink: /Java/JNLPRandomAccessFile/writeShort/
 date: 2021-01-11
-key: JavaJava.J.JNLPRandomAccessFile
-category: java
+key: Java.J.JNLPRandomAccessFile
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.4.2']
 sidebar: 
   nav: java

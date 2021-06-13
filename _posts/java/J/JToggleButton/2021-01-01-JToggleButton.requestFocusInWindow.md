@@ -1,9 +1,9 @@
 ---
 title: JToggleButton.requestFocusInWindow()
-permalink: Java/JToggleButton/requestFocusInWindow
+permalink: /Java/JToggleButton/requestFocusInWindow/
 date: 2021-01-11
-key: JavaJava.J.JToggleButton
-category: java
+key: Java.J.JToggleButton
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

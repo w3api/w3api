@@ -1,9 +1,9 @@
 ---
 title: JEditorPane.setContentType()
-permalink: Java/JEditorPane/setContentType
+permalink: /Java/JEditorPane/setContentType/
 date: 2021-01-11
-key: JavaJava.J.JEditorPane
-category: java
+key: Java.J.JEditorPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: LSProgressEvent
-permalink: Java/LSProgressEvent
+permalink: /Java/LSProgressEvent/
 date: 2021-01-11
 key: Java.L.LSProgressEvent
-category: java
+category: Java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

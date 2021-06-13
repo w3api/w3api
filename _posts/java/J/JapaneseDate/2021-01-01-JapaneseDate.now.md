@@ -1,9 +1,9 @@
 ---
 title: JapaneseDate.now()
-permalink: Java/JapaneseDate/now
+permalink: /Java/JapaneseDate/now/
 date: 2021-01-11
-key: JavaJava.J.JapaneseDate
-category: java
+key: Java.J.JapaneseDate
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JavacTask.getTypes()
-permalink: Java/JavacTask/getTypes
+permalink: /Java/JavacTask/getTypes/
 date: 2021-01-11
-key: JavaJava.J.JavacTask
-category: java
+key: Java.J.JavacTask
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

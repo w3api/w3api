@@ -1,9 +1,9 @@
 ---
 title: JobStateReasons.getCategory()
-permalink: Java/JobStateReasons/getCategory
+permalink: /Java/JobStateReasons/getCategory/
 date: 2021-01-11
-key: JavaJava.J.JobStateReasons
-category: java
+key: Java.J.JobStateReasons
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

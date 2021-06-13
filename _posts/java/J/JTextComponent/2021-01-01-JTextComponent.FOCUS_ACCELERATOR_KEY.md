@@ -1,9 +1,9 @@
 ---
 title: JTextComponent.FOCUS_ACCELERATOR_KEY
-permalink: Java/JTextComponent/FOCUS_ACCELERATOR_KEY
+permalink: /Java/JTextComponent/FOCUS_ACCELERATOR_KEY/
 date: 2021-01-11
-key: JavaJava.J.JTextComponent
-category: java
+key: Java.J.JTextComponent
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

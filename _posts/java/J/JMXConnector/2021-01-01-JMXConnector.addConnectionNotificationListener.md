@@ -1,9 +1,9 @@
 ---
 title: JMXConnector.addConnectionNotificationListener()
-permalink: Java/JMXConnector/addConnectionNotificationListener
+permalink: /Java/JMXConnector/addConnectionNotificationListener/
 date: 2021-01-11
-key: JavaJava.J.JMXConnector
-category: java
+key: Java.J.JMXConnector
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

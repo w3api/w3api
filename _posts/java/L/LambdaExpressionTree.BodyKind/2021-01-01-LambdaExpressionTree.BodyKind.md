@@ -1,9 +1,9 @@
 ---
 title: LambdaExpressionTree.BodyKind
-permalink: Java/LambdaExpressionTree/BodyKind
+permalink: /Java/LambdaExpressionTree/BodyKind/
 date: 2021-01-11
 key: Java.L.LambdaExpressionTree.BodyKind
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'enumerado java', 'Java 1.0']
 sidebar: 
   nav: java

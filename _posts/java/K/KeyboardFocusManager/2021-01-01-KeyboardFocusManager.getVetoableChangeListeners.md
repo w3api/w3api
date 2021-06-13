@@ -1,9 +1,9 @@
 ---
 title: KeyboardFocusManager.getVetoableChangeListeners()
-permalink: Java/KeyboardFocusManager/getVetoableChangeListeners
+permalink: /Java/KeyboardFocusManager/getVetoableChangeListeners/
 date: 2021-01-11
-key: JavaJava.K.KeyboardFocusManager
-category: java
+key: Java.K.KeyboardFocusManager
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

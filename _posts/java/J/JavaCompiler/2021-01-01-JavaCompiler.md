@@ -1,9 +1,9 @@
 ---
 title: JavaCompiler
-permalink: Java/JavaCompiler
+permalink: /Java/JavaCompiler/
 date: 2021-01-11
-key: JavaJava.J.JavaCompiler
-category: java
+key: Java.J.JavaCompiler
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

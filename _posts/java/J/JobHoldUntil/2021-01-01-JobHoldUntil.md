@@ -1,9 +1,9 @@
 ---
 title: JobHoldUntil
-permalink: Java/JobHoldUntil
+permalink: /Java/JobHoldUntil/
 date: 2021-01-11
-key: JavaJava.J.JobHoldUntil
-category: java
+key: Java.J.JobHoldUntil
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

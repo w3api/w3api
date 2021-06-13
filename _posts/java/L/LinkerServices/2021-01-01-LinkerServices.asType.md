@@ -1,9 +1,9 @@
 ---
 title: LinkerServices.asType()
-permalink: Java/LinkerServices/asType
+permalink: /Java/LinkerServices/asType/
 date: 2021-01-11
 key: Java.L.LinkerServices
-category: java
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

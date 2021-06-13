@@ -1,9 +1,9 @@
 ---
 title: JTabbedPane.setSelectedIndex()
-permalink: Java/JTabbedPane/setSelectedIndex
+permalink: /Java/JTabbedPane/setSelectedIndex/
 date: 2021-01-11
-key: JavaJava.J.JTabbedPane
-category: java
+key: Java.J.JTabbedPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

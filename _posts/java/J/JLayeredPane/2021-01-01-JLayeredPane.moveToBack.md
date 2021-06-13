@@ -1,9 +1,9 @@
 ---
 title: JLayeredPane.moveToBack()
-permalink: Java/JLayeredPane/moveToBack
+permalink: /Java/JLayeredPane/moveToBack/
 date: 2021-01-11
-key: JavaJava.J.JLayeredPane
-category: java
+key: Java.J.JLayeredPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

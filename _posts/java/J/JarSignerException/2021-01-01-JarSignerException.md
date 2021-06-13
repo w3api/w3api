@@ -1,9 +1,9 @@
 ---
 title: JarSignerException
-permalink: Java/JarSignerException
+permalink: /Java/JarSignerException/
 date: 2021-01-11
-key: JavaJava.J.JarSignerException
-category: java
+key: Java.J.JarSignerException
+category: Java
 tags: ['java se', 'jdk.security.jarsigner', 'jdk.jartool', 'clase java', 'Java 9']
 sidebar: 
   nav: java

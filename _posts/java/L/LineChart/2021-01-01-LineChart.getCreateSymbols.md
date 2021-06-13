@@ -3,7 +3,7 @@ title: LineChart.getCreateSymbols()
 permalink: /Java/LineChart/getCreateSymbols/
 date: 2021-01-11
 key: Java.L.LineChart
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

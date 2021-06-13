@@ -1,9 +1,9 @@
 ---
 title: JPEGHuffmanTable.StdACChrominance
-permalink: Java/JPEGHuffmanTable/StdACChrominance
+permalink: /Java/JPEGHuffmanTable/StdACChrominance/
 date: 2021-01-11
-key: JavaJava.J.JPEGHuffmanTable
-category: java
+key: Java.J.JPEGHuffmanTable
+category: Java
 tags: ['java se', 'javax.imageio.plugins.jpeg', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

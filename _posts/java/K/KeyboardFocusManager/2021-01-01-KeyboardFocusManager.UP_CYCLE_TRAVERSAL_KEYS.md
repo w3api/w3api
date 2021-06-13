@@ -1,9 +1,9 @@
 ---
 title: KeyboardFocusManager.UP_CYCLE_TRAVERSAL_KEYS
-permalink: Java/KeyboardFocusManager/UP_CYCLE_TRAVERSAL_KEYS
+permalink: /Java/KeyboardFocusManager/UP_CYCLE_TRAVERSAL_KEYS/
 date: 2021-01-11
-key: JavaJava.K.KeyboardFocusManager
-category: java
+key: Java.K.KeyboardFocusManager
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

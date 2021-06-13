@@ -1,9 +1,9 @@
 ---
 title: JMXConnectorFactory.DEFAULT_CLASS_LOADER
-permalink: Java/JMXConnectorFactory/DEFAULT_CLASS_LOADER
+permalink: /Java/JMXConnectorFactory/DEFAULT_CLASS_LOADER/
 date: 2021-01-11
-key: JavaJava.J.JMXConnectorFactory
-category: java
+key: Java.J.JMXConnectorFactory
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: LayeredHighlighter.LayerPainter.paintLayer()
 permalink: /Java/LayeredHighlighter/LayerPainter/paintLayer/
 date: 2021-01-11
 key: Java.L.LayeredHighlighter.LayerPainter
-category: java
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

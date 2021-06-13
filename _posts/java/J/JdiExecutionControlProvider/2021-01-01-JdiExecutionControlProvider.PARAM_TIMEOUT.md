@@ -1,9 +1,9 @@
 ---
 title: JdiExecutionControlProvider.PARAM_TIMEOUT
-permalink: Java/JdiExecutionControlProvider/PARAM_TIMEOUT
+permalink: /Java/JdiExecutionControlProvider/PARAM_TIMEOUT/
 date: 2021-01-11
-key: JavaJava.J.JdiExecutionControlProvider
-category: java
+key: Java.J.JdiExecutionControlProvider
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'campo java', 'Java 9']
 sidebar: 
   nav: java

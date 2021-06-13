@@ -1,9 +1,9 @@
 ---
 title: JMXConnectorServerFactory.PROTOCOL_PROVIDER_PACKAGES
-permalink: Java/JMXConnectorServerFactory/PROTOCOL_PROVIDER_PACKAGES
+permalink: /Java/JMXConnectorServerFactory/PROTOCOL_PROVIDER_PACKAGES/
 date: 2021-01-11
-key: JavaJava.J.JMXConnectorServerFactory
-category: java
+key: Java.J.JMXConnectorServerFactory
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

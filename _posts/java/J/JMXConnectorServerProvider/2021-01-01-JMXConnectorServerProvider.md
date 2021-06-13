@@ -1,9 +1,9 @@
 ---
 title: JMXConnectorServerProvider
-permalink: Java/JMXConnectorServerProvider
+permalink: /Java/JMXConnectorServerProvider/
 date: 2021-01-11
-key: JavaJava.J.JMXConnectorServerProvider
-category: java
+key: Java.J.JMXConnectorServerProvider
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

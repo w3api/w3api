@@ -1,9 +1,9 @@
 ---
 title: JNLPRandomAccessFile.readBoolean()
-permalink: Java/JNLPRandomAccessFile/readBoolean
+permalink: /Java/JNLPRandomAccessFile/readBoolean/
 date: 2021-01-11
-key: JavaJava.J.JNLPRandomAccessFile
-category: java
+key: Java.J.JNLPRandomAccessFile
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.4.2']
 sidebar: 
   nav: java

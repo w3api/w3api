@@ -1,9 +1,9 @@
 ---
 title: LayoutStyle.ComponentPlacement.INDENT
-permalink: Java/LayoutStyle/ComponentPlacement/INDENT
+permalink: /Java/LayoutStyle/ComponentPlacement/INDENT/
 date: 2021-01-11
 key: Java.L.LayoutStyle.ComponentPlacement
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

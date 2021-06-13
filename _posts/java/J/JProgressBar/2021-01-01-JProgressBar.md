@@ -1,9 +1,9 @@
 ---
 title: JProgressBar
-permalink: Java/JProgressBar
+permalink: /Java/JProgressBar/
 date: 2021-01-11
-key: JavaJava.J.JProgressBar
-category: java
+key: Java.J.JProgressBar
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

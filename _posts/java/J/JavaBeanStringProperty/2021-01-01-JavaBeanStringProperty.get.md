@@ -1,9 +1,9 @@
 ---
 title: JavaBeanStringProperty.get()
-permalink: Java/JavaBeanStringProperty/get
+permalink: /Java/JavaBeanStringProperty/get/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanStringProperty
-category: java
+key: Java.J.JavaBeanStringProperty
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

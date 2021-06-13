@@ -1,9 +1,9 @@
 ---
 title: JMXPrincipal.getName()
-permalink: Java/JMXPrincipal/getName
+permalink: /Java/JMXPrincipal/getName/
 date: 2021-01-11
-key: JavaJava.J.JMXPrincipal
-category: java
+key: Java.J.JMXPrincipal
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

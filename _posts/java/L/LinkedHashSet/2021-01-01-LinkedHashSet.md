@@ -1,9 +1,9 @@
 ---
 title: LinkedHashSet
-permalink: Java/LinkedHashSet
+permalink: /Java/LinkedHashSet/
 date: 2021-01-11
 key: Java.L.LinkedHashSet
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

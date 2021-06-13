@@ -1,9 +1,9 @@
 ---
 title: LineListener.update()
-permalink: Java/LineListener/update
+permalink: /Java/LineListener/update/
 date: 2021-01-11
 key: Java.L.LineListener
-category: java
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

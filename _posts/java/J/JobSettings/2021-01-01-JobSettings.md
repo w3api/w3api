@@ -1,9 +1,9 @@
 ---
 title: JobSettings
-permalink: Java/JobSettings
+permalink: /Java/JobSettings/
 date: 2021-01-11
-key: JavaJava.J.JobSettings
-category: java
+key: Java.J.JobSettings
+category: Java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

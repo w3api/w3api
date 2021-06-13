@@ -1,9 +1,9 @@
 ---
 title: JFormattedTextField.AbstractFormatterFactory.JFormattedTextField.AbstractFormatterFactory()
-permalink: Java/JFormattedTextField/AbstractFormatterFactory/JFormattedTextField/AbstractFormatterFactory
+permalink: /Java/JFormattedTextField/AbstractFormatterFactory/JFormattedTextField/AbstractFormatterFactory/
 date: 2021-01-11
-key: JavaJava.J.JFormattedTextField.AbstractFormatterFactory
-category: java
+key: Java.J.JFormattedTextField.AbstractFormatterFactory
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

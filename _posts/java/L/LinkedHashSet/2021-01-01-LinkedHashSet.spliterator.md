@@ -1,9 +1,9 @@
 ---
 title: LinkedHashSet.spliterator()
-permalink: Java/LinkedHashSet/spliterator
+permalink: /Java/LinkedHashSet/spliterator/
 date: 2021-01-11
 key: Java.L.LinkedHashSet
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

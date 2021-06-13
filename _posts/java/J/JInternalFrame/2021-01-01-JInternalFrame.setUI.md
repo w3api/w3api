@@ -1,9 +1,9 @@
 ---
 title: JInternalFrame.setUI()
-permalink: Java/JInternalFrame/setUI
+permalink: /Java/JInternalFrame/setUI/
 date: 2021-01-11
-key: JavaJava.J.JInternalFrame
-category: java
+key: Java.J.JInternalFrame
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

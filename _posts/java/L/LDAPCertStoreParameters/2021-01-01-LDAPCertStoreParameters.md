@@ -3,7 +3,7 @@ title: LDAPCertStoreParameters
 permalink: /Java/LDAPCertStoreParameters/
 date: 2021-01-11
 key: Java.L.LDAPCertStoreParameters
-category: java
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

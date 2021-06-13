@@ -3,7 +3,7 @@ title: LSException.PARSE_ERR
 permalink: /Java/LSException/PARSE_ERR/
 date: 2021-01-11
 key: Java.L.LSException
-category: java
+category: Java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

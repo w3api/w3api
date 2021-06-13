@@ -1,9 +1,9 @@
 ---
 title: JDesktopPane
-permalink: Java/JDesktopPane
+permalink: /Java/JDesktopPane/
 date: 2021-01-11
-key: JavaJava.J.JDesktopPane
-category: java
+key: Java.J.JDesktopPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JRootPane.contentPane
-permalink: Java/JRootPane/contentPane
+permalink: /Java/JRootPane/contentPane/
 date: 2021-01-11
-key: JavaJava.J.JRootPane
-category: java
+key: Java.J.JRootPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

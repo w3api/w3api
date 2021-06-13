@@ -1,9 +1,9 @@
 ---
 title: KerberosKey.isDestroyed()
-permalink: Java/KerberosKey/isDestroyed
+permalink: /Java/KerberosKey/isDestroyed/
 date: 2021-01-11
-key: JavaJava.K.KerberosKey
-category: java
+key: Java.K.KerberosKey
+category: Java
 tags: ['java se', 'javax.security.auth.kerberos', 'java.security.jgss', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

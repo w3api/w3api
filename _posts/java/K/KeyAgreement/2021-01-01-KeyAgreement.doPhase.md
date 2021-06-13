@@ -1,9 +1,9 @@
 ---
 title: KeyAgreement.doPhase()
-permalink: Java/KeyAgreement/doPhase
+permalink: /Java/KeyAgreement/doPhase/
 date: 2021-01-11
-key: JavaJava.K.KeyAgreement
-category: java
+key: Java.K.KeyAgreement
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JViewport
-permalink: Java/JViewport
+permalink: /Java/JViewport/
 date: 2021-01-11
-key: JavaJava.J.JViewport
-category: java
+key: Java.J.JViewport
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

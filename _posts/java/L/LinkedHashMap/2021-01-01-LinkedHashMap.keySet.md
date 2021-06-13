@@ -1,9 +1,9 @@
 ---
 title: LinkedHashMap.keySet()
-permalink: Java/LinkedHashMap/keySet
+permalink: /Java/LinkedHashMap/keySet/
 date: 2021-01-11
 key: Java.L.LinkedHashMap
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

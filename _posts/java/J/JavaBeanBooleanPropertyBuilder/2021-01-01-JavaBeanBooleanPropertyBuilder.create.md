@@ -1,9 +1,9 @@
 ---
 title: JavaBeanBooleanPropertyBuilder.create()
-permalink: Java/JavaBeanBooleanPropertyBuilder/create
+permalink: /Java/JavaBeanBooleanPropertyBuilder/create/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanBooleanPropertyBuilder
-category: java
+key: Java.J.JavaBeanBooleanPropertyBuilder
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

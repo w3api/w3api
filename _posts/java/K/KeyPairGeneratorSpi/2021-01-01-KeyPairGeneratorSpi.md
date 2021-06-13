@@ -1,9 +1,9 @@
 ---
 title: KeyPairGeneratorSpi
-permalink: Java/KeyPairGeneratorSpi
+permalink: /Java/KeyPairGeneratorSpi/
 date: 2021-01-11
-key: JavaJava.K.KeyPairGeneratorSpi
-category: java
+key: Java.K.KeyPairGeneratorSpi
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

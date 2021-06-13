@@ -1,9 +1,9 @@
 ---
 title: JSeparator
-permalink: Java/JSeparator
+permalink: /Java/JSeparator/
 date: 2021-01-11
-key: JavaJava.J.JSeparator
-category: java
+key: Java.J.JSeparator
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

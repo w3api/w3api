@@ -1,9 +1,9 @@
 ---
 title: KeySelector.Purpose.VERIFY
-permalink: Java/KeySelector/Purpose/VERIFY
+permalink: /Java/KeySelector/Purpose/VERIFY/
 date: 2021-01-11
-key: JavaJava.K.KeySelector.Purpose
-category: java
+key: Java.K.KeySelector.Purpose
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

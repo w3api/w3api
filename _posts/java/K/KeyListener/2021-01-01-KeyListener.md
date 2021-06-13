@@ -1,9 +1,9 @@
 ---
 title: KeyListener
-permalink: Java/KeyListener
+permalink: /Java/KeyListener/
 date: 2021-01-11
-key: JavaJava.K.KeyListener
-category: java
+key: Java.K.KeyListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

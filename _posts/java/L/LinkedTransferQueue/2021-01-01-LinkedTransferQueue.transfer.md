@@ -1,9 +1,9 @@
 ---
 title: LinkedTransferQueue.transfer()
-permalink: Java/LinkedTransferQueue/transfer
+permalink: /Java/LinkedTransferQueue/transfer/
 date: 2021-01-11
 key: Java.L.LinkedTransferQueue
-category: java
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

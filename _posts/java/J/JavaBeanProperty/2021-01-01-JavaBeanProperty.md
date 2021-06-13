@@ -1,9 +1,9 @@
 ---
 title: JavaBeanProperty
-permalink: Java/JavaBeanProperty
+permalink: /Java/JavaBeanProperty/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanProperty
-category: java
+key: Java.J.JavaBeanProperty
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'interface java', 'JavaFX 2.1']
 sidebar: 
   nav: java

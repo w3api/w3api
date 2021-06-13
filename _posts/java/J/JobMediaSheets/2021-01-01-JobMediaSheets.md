@@ -1,9 +1,9 @@
 ---
 title: JobMediaSheets
-permalink: Java/JobMediaSheets
+permalink: /Java/JobMediaSheets/
 date: 2021-01-11
-key: JavaJava.J.JobMediaSheets
-category: java
+key: Java.J.JobMediaSheets
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

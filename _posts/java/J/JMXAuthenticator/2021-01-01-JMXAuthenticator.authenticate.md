@@ -1,9 +1,9 @@
 ---
 title: JMXAuthenticator.authenticate()
-permalink: Java/JMXAuthenticator/authenticate
+permalink: /Java/JMXAuthenticator/authenticate/
 date: 2021-01-11
-key: JavaJava.J.JMXAuthenticator
-category: java
+key: Java.J.JMXAuthenticator
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

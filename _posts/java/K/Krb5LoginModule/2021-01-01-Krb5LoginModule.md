@@ -1,9 +1,9 @@
 ---
 title: Krb5LoginModule
-permalink: Java/Krb5LoginModule
+permalink: /Java/Krb5LoginModule/
 date: 2021-01-11
-key: JavaJava.K.Krb5LoginModule
-category: java
+key: Java.K.Krb5LoginModule
+category: Java
 tags: ['java se', 'com.sun.security.auth.module', 'jdk.security.auth', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

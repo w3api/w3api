@@ -1,9 +1,9 @@
 ---
 title: JMXAddressable
-permalink: Java/JMXAddressable
+permalink: /Java/JMXAddressable/
 date: 2021-01-11
-key: JavaJava.J.JMXAddressable
-category: java
+key: Java.J.JMXAddressable
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

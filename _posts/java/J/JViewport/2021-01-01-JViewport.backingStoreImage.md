@@ -1,9 +1,9 @@
 ---
 title: JViewport.backingStoreImage
-permalink: Java/JViewport/backingStoreImage
+permalink: /Java/JViewport/backingStoreImage/
 date: 2021-01-11
-key: JavaJava.J.JViewport
-category: java
+key: Java.J.JViewport
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

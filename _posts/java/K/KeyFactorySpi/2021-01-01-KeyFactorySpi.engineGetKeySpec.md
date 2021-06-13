@@ -1,9 +1,9 @@
 ---
 title: KeyFactorySpi.engineGetKeySpec()
-permalink: Java/KeyFactorySpi/engineGetKeySpec
+permalink: /Java/KeyFactorySpi/engineGetKeySpec/
 date: 2021-01-11
-key: JavaJava.K.KeyFactorySpi
-category: java
+key: Java.K.KeyFactorySpi
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

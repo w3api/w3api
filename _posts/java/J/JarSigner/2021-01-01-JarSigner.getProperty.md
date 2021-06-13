@@ -1,9 +1,9 @@
 ---
 title: JarSigner.getProperty()
-permalink: Java/JarSigner/getProperty
+permalink: /Java/JarSigner/getProperty/
 date: 2021-01-11
-key: JavaJava.J.JarSigner
-category: java
+key: Java.J.JarSigner
+category: Java
 tags: ['java se', 'jdk.security.jarsigner', 'jdk.jartool', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

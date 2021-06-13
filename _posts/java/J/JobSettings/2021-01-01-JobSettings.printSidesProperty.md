@@ -1,9 +1,9 @@
 ---
 title: JobSettings.printSidesProperty()
-permalink: Java/JobSettings/printSidesProperty
+permalink: /Java/JobSettings/printSidesProperty/
 date: 2021-01-11
-key: JavaJava.J.JobSettings
-category: java
+key: Java.J.JobSettings
+category: Java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

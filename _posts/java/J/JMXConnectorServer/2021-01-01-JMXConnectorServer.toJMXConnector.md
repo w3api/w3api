@@ -1,9 +1,9 @@
 ---
 title: JMXConnectorServer.toJMXConnector()
-permalink: Java/JMXConnectorServer/toJMXConnector
+permalink: /Java/JMXConnectorServer/toJMXConnector/
 date: 2021-01-11
-key: JavaJava.J.JMXConnectorServer
-category: java
+key: Java.J.JMXConnectorServer
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

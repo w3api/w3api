@@ -1,9 +1,9 @@
 ---
 title: JPEGImageWriteParam.getDCHuffmanTables()
-permalink: Java/JPEGImageWriteParam/getDCHuffmanTables
+permalink: /Java/JPEGImageWriteParam/getDCHuffmanTables/
 date: 2021-01-11
-key: JavaJava.J.JPEGImageWriteParam
-category: java
+key: Java.J.JPEGImageWriteParam
+category: Java
 tags: ['java se', 'javax.imageio.plugins.jpeg', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

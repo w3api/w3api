@@ -3,7 +3,7 @@ title: LifespanPolicyOperations.value()
 permalink: /Java/LifespanPolicyOperations/value/
 date: 2021-01-11
 key: Java.L.LifespanPolicyOperations
-category: java
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

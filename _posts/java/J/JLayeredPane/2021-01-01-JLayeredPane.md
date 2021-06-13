@@ -1,9 +1,9 @@
 ---
 title: JLayeredPane
-permalink: Java/JLayeredPane
+permalink: /Java/JLayeredPane/
 date: 2021-01-11
-key: JavaJava.J.JLayeredPane
-category: java
+key: Java.J.JLayeredPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JavaBeanDoubleProperty.set()
-permalink: Java/JavaBeanDoubleProperty/set
+permalink: /Java/JavaBeanDoubleProperty/set/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanDoubleProperty
-category: java
+key: Java.J.JavaBeanDoubleProperty
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

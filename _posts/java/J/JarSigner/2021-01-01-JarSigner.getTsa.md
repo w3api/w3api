@@ -1,9 +1,9 @@
 ---
 title: JarSigner.getTsa()
-permalink: Java/JarSigner/getTsa
+permalink: /Java/JarSigner/getTsa/
 date: 2021-01-11
-key: JavaJava.J.JarSigner
-category: java
+key: Java.J.JarSigner
+category: Java
 tags: ['java se', 'jdk.security.jarsigner', 'jdk.jartool', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JobPrioritySupported.equals()
-permalink: Java/JobPrioritySupported/equals
+permalink: /Java/JobPrioritySupported/equals/
 date: 2021-01-11
-key: JavaJava.J.JobPrioritySupported
-category: java
+key: Java.J.JobPrioritySupported
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

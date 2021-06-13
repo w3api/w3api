@@ -1,9 +1,9 @@
 ---
 title: JMRuntimeException
-permalink: Java/JMRuntimeException
+permalink: /Java/JMRuntimeException/
 date: 2021-01-11
-key: JavaJava.J.JMRuntimeException
-category: java
+key: Java.J.JMRuntimeException
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: KeyboardFocusManager.getGlobalActiveWindow()
-permalink: Java/KeyboardFocusManager/getGlobalActiveWindow
+permalink: /Java/KeyboardFocusManager/getGlobalActiveWindow/
 date: 2021-01-11
-key: JavaJava.K.KeyboardFocusManager
-category: java
+key: Java.K.KeyboardFocusManager
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

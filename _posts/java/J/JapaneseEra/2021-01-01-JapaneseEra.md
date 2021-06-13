@@ -1,9 +1,9 @@
 ---
 title: JapaneseEra
-permalink: Java/JapaneseEra
+permalink: /Java/JapaneseEra/
 date: 2021-01-11
-key: JavaJava.J.JapaneseEra
-category: java
+key: Java.J.JapaneseEra
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

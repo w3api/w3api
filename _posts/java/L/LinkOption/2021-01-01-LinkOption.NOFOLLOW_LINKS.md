@@ -1,9 +1,9 @@
 ---
 title: LinkOption.NOFOLLOW_LINKS
-permalink: Java/LinkOption/NOFOLLOW_LINKS
+permalink: /Java/LinkOption/NOFOLLOW_LINKS/
 date: 2021-01-11
 key: Java.L.LinkOption
-category: java
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

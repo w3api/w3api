@@ -1,9 +1,9 @@
 ---
 title: JPEGImageWriteParam
-permalink: Java/JPEGImageWriteParam
+permalink: /Java/JPEGImageWriteParam/
 date: 2021-01-11
-key: JavaJava.J.JPEGImageWriteParam
-category: java
+key: Java.J.JPEGImageWriteParam
+category: Java
 tags: ['java se', 'javax.imageio.plugins.jpeg', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

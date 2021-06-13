@@ -1,9 +1,9 @@
 ---
 title: JPEGQTable.getScaledInstance()
-permalink: Java/JPEGQTable/getScaledInstance
+permalink: /Java/JPEGQTable/getScaledInstance/
 date: 2021-01-11
-key: JavaJava.J.JPEGQTable
-category: java
+key: Java.J.JPEGQTable
+category: Java
 tags: ['java se', 'javax.imageio.plugins.jpeg', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

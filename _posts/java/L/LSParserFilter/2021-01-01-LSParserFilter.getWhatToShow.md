@@ -1,9 +1,9 @@
 ---
 title: LSParserFilter.getWhatToShow()
-permalink: Java/LSParserFilter/getWhatToShow
+permalink: /Java/LSParserFilter/getWhatToShow/
 date: 2021-01-11
 key: Java.L.LSParserFilter
-category: java
+category: Java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

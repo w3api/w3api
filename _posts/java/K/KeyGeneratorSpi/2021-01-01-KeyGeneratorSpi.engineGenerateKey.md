@@ -1,9 +1,9 @@
 ---
 title: KeyGeneratorSpi.engineGenerateKey()
-permalink: Java/KeyGeneratorSpi/engineGenerateKey
+permalink: /Java/KeyGeneratorSpi/engineGenerateKey/
 date: 2021-01-11
-key: JavaJava.K.KeyGeneratorSpi
-category: java
+key: Java.K.KeyGeneratorSpi
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

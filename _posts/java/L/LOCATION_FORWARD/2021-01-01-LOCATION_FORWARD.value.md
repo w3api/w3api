@@ -3,7 +3,7 @@ title: LOCATION_FORWARD.value
 permalink: /Java/LOCATION_FORWARD/value/
 date: 2021-01-11
 key: Java.L.LOCATION_FORWARD
-category: java
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

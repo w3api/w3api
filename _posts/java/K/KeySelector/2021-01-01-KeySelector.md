@@ -2,8 +2,8 @@
 title: KeySelector
 permalink: /Java/KeySelector/
 date: 2021-01-11
-key: JavaJava.K.KeySelector
-category: java
+key: Java.K.KeySelector
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: KeyAdapter
-permalink: Java/KeyAdapter
+permalink: /Java/KeyAdapter/
 date: 2021-01-11
-key: JavaJava.K.KeyAdapter
-category: java
+key: Java.K.KeyAdapter
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

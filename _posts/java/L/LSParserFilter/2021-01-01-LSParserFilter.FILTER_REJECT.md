@@ -1,9 +1,9 @@
 ---
 title: LSParserFilter.FILTER_REJECT
-permalink: Java/LSParserFilter/FILTER_REJECT
+permalink: /Java/LSParserFilter/FILTER_REJECT/
 date: 2021-01-11
 key: Java.L.LSParserFilter
-category: java
+category: Java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

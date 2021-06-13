@@ -1,9 +1,9 @@
 ---
 title: JobAttributes.DestinationType
-permalink: Java/JobAttributes/DestinationType
+permalink: /Java/JobAttributes/DestinationType/
 date: 2021-01-11
-key: JavaJava.J.JobAttributes.DestinationType
-category: java
+key: Java.J.JobAttributes.DestinationType
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

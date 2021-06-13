@@ -1,9 +1,9 @@
 ---
 title: JProgressBar.setIndeterminate()
-permalink: Java/JProgressBar/setIndeterminate
+permalink: /Java/JProgressBar/setIndeterminate/
 date: 2021-01-11
-key: JavaJava.J.JProgressBar
-category: java
+key: Java.J.JProgressBar
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

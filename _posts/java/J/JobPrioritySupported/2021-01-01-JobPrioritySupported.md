@@ -1,9 +1,9 @@
 ---
 title: JobPrioritySupported
-permalink: Java/JobPrioritySupported
+permalink: /Java/JobPrioritySupported/
 date: 2021-01-11
-key: JavaJava.J.JobPrioritySupported
-category: java
+key: Java.J.JobPrioritySupported
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

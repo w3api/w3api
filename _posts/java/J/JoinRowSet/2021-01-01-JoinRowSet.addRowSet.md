@@ -1,9 +1,9 @@
 ---
 title: JoinRowSet.addRowSet()
-permalink: Java/JoinRowSet/addRowSet
+permalink: /Java/JoinRowSet/addRowSet/
 date: 2021-01-11
-key: JavaJava.J.JoinRowSet
-category: java
+key: Java.J.JoinRowSet
+category: Java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

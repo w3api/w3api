@@ -1,9 +1,9 @@
 ---
 title: JToggleButton
-permalink: Java/JToggleButton
+permalink: /Java/JToggleButton/
 date: 2021-01-11
-key: JavaJava.J.JToggleButton
-category: java
+key: Java.J.JToggleButton
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

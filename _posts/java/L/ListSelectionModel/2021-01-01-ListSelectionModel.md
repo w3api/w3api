@@ -1,9 +1,9 @@
 ---
 title: ListSelectionModel
-permalink: Java/ListSelectionModel
+permalink: /Java/ListSelectionModel/
 date: 2021-01-11
 key: Java.L.ListSelectionModel
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

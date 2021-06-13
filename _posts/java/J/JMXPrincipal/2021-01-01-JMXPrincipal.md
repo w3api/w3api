@@ -1,9 +1,9 @@
 ---
 title: JMXPrincipal
-permalink: Java/JMXPrincipal
+permalink: /Java/JMXPrincipal/
 date: 2021-01-11
-key: JavaJava.J.JMXPrincipal
-category: java
+key: Java.J.JMXPrincipal
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

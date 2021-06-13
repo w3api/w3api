@@ -1,9 +1,9 @@
 ---
 title: JTextComponent.KeyBinding.JTextComponent.KeyBinding()
-permalink: Java/JTextComponent/KeyBinding/JTextComponent/KeyBinding
+permalink: /Java/JTextComponent/KeyBinding/JTextComponent/KeyBinding/
 date: 2021-01-11
-key: JavaJava.J.JTextComponent.KeyBinding
-category: java
+key: Java.J.JTextComponent.KeyBinding
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

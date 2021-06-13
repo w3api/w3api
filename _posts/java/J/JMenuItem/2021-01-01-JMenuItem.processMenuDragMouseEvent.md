@@ -1,9 +1,9 @@
 ---
 title: JMenuItem.processMenuDragMouseEvent()
-permalink: Java/JMenuItem/processMenuDragMouseEvent
+permalink: /Java/JMenuItem/processMenuDragMouseEvent/
 date: 2021-01-11
-key: JavaJava.J.JMenuItem
-category: java
+key: Java.J.JMenuItem
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

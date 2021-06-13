@@ -1,9 +1,9 @@
 ---
 title: JScrollBar.setMinimum()
-permalink: Java/JScrollBar/setMinimum
+permalink: /Java/JScrollBar/setMinimum/
 date: 2021-01-11
-key: JavaJava.J.JScrollBar
-category: java
+key: Java.J.JScrollBar
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

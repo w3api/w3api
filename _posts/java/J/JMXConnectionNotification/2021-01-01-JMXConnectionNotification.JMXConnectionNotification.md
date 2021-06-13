@@ -1,9 +1,9 @@
 ---
 title: JMXConnectionNotification.JMXConnectionNotification()
-permalink: Java/JMXConnectionNotification/JMXConnectionNotification
+permalink: /Java/JMXConnectionNotification/JMXConnectionNotification/
 date: 2021-01-11
-key: JavaJava.J.JMXConnectionNotification
-category: java
+key: Java.J.JMXConnectionNotification
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

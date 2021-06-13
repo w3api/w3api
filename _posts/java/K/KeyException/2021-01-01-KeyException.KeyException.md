@@ -1,9 +1,9 @@
 ---
 title: KeyException.KeyException()
-permalink: Java/KeyException/KeyException
+permalink: /Java/KeyException/KeyException/
 date: 2021-01-11
-key: JavaJava.K.KeyException
-category: java
+key: Java.K.KeyException
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

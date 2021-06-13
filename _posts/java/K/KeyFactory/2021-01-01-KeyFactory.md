@@ -1,9 +1,9 @@
 ---
 title: KeyFactory
-permalink: Java/KeyFactory
+permalink: /Java/KeyFactory/
 date: 2021-01-11
-key: JavaJava.K.KeyFactory
-category: java
+key: Java.K.KeyFactory
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

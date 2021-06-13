@@ -1,9 +1,9 @@
 ---
 title: JTextComponent.DropLocation
-permalink: Java/JTextComponent/DropLocation
+permalink: /Java/JTextComponent/DropLocation/
 date: 2021-01-11
-key: JavaJava.J.JTextComponent.DropLocation
-category: java
+key: Java.J.JTextComponent.DropLocation
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

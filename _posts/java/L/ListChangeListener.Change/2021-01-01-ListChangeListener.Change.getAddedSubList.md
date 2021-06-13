@@ -1,9 +1,9 @@
 ---
 title: ListChangeListener.Change.getAddedSubList()
-permalink: Java/ListChangeListener/Change/getAddedSubList
+permalink: /Java/ListChangeListener/Change/getAddedSubList/
 date: 2021-01-11
 key: Java.L.ListChangeListener.Change
-category: java
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

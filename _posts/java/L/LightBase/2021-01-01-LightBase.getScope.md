@@ -1,9 +1,9 @@
 ---
 title: LightBase.getScope()
-permalink: Java/LightBase/getScope
+permalink: /Java/LightBase/getScope/
 date: 2021-01-11
 key: Java.L.LightBase
-category: java
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

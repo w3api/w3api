@@ -1,9 +1,9 @@
 ---
 title: JPasswordField.getText()
-permalink: Java/JPasswordField/getText
+permalink: /Java/JPasswordField/getText/
 date: 2021-01-11
-key: JavaJava.J.JPasswordField
-category: java
+key: Java.J.JPasswordField
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

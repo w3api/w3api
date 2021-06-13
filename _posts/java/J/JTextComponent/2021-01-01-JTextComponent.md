@@ -1,9 +1,9 @@
 ---
 title: JTextComponent
-permalink: Java/JTextComponent
+permalink: /Java/JTextComponent/
 date: 2021-01-11
-key: JavaJava.J.JTextComponent
-category: java
+key: Java.J.JTextComponent
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

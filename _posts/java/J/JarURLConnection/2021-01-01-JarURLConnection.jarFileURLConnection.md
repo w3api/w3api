@@ -1,9 +1,9 @@
 ---
 title: JarURLConnection.jarFileURLConnection
-permalink: Java/JarURLConnection/jarFileURLConnection
+permalink: /Java/JarURLConnection/jarFileURLConnection/
 date: 2021-01-11
-key: JavaJava.J.JarURLConnection
-category: java
+key: Java.J.JarURLConnection
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

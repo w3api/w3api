@@ -1,9 +1,9 @@
 ---
 title: JavaBeanLongProperty.get()
-permalink: Java/JavaBeanLongProperty/get
+permalink: /Java/JavaBeanLongProperty/get/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanLongProperty
-category: java
+key: Java.J.JavaBeanLongProperty
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

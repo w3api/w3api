@@ -1,9 +1,9 @@
 ---
 title: JdiDefaultExecutionControl
-permalink: Java/JdiDefaultExecutionControl
+permalink: /Java/JdiDefaultExecutionControl/
 date: 2021-01-11
-key: JavaJava.J.JdiDefaultExecutionControl
-category: java
+key: Java.J.JdiDefaultExecutionControl
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

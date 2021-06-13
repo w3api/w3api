@@ -1,9 +1,9 @@
 ---
 title: JobSheets
-permalink: Java/JobSheets
+permalink: /Java/JobSheets/
 date: 2021-01-11
-key: JavaJava.J.JobSheets
-category: java
+key: Java.J.JobSheets
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

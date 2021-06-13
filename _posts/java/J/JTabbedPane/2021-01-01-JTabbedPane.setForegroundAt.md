@@ -1,9 +1,9 @@
 ---
 title: JTabbedPane.setForegroundAt()
-permalink: Java/JTabbedPane/setForegroundAt
+permalink: /Java/JTabbedPane/setForegroundAt/
 date: 2021-01-11
-key: JavaJava.J.JTabbedPane
-category: java
+key: Java.J.JTabbedPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

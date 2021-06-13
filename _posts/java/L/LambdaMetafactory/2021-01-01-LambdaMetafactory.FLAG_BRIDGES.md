@@ -1,9 +1,9 @@
 ---
 title: LambdaMetafactory.FLAG_BRIDGES
-permalink: Java/LambdaMetafactory/FLAG_BRIDGES
+permalink: /Java/LambdaMetafactory/FLAG_BRIDGES/
 date: 2021-01-11
 key: Java.L.LambdaMetafactory
-category: java
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

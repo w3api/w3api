@@ -1,9 +1,9 @@
 ---
 title: KeyStoreException.KeyStoreException()
-permalink: Java/KeyStoreException/KeyStoreException
+permalink: /Java/KeyStoreException/KeyStoreException/
 date: 2021-01-11
-key: JavaJava.K.KeyStoreException
-category: java
+key: Java.K.KeyStoreException
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

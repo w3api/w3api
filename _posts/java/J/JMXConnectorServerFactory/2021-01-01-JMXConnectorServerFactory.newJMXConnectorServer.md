@@ -1,9 +1,9 @@
 ---
 title: JMXConnectorServerFactory.newJMXConnectorServer()
-permalink: Java/JMXConnectorServerFactory/newJMXConnectorServer
+permalink: /Java/JMXConnectorServerFactory/newJMXConnectorServer/
 date: 2021-01-11
-key: JavaJava.J.JMXConnectorServerFactory
-category: java
+key: Java.J.JMXConnectorServerFactory
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

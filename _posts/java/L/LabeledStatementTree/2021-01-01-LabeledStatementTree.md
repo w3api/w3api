@@ -3,7 +3,7 @@ title: LabeledStatementTree
 permalink: /Java/LabeledStatementTree//
 date: 2021-01-11
 key: Java.L.LabeledStatementTree
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

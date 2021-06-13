@@ -3,7 +3,7 @@ title: LayoutManager2.addLayoutComponent()
 permalink: /Java/LayoutManager2/addLayoutComponent/
 date: 2021-01-11
 key: Java.L.LayoutManager2
-category: java
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

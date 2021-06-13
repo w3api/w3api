@@ -1,9 +1,9 @@
 ---
 title: JInternalFrame.JDesktopIcon.getInternalFrame()
-permalink: Java/JInternalFrame/JDesktopIcon/getInternalFrame
+permalink: /Java/JInternalFrame/JDesktopIcon/getInternalFrame/
 date: 2021-01-11
-key: JavaJava.J.JInternalFrame.JDesktopIcon
-category: java
+key: Java.J.JInternalFrame.JDesktopIcon
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

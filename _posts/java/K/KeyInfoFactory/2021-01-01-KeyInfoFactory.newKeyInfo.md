@@ -1,9 +1,9 @@
 ---
 title: KeyInfoFactory.newKeyInfo()
-permalink: Java/KeyInfoFactory/newKeyInfo
+permalink: /Java/KeyInfoFactory/newKeyInfo/
 date: 2021-01-11
-key: JavaJava.K.KeyInfoFactory
-category: java
+key: Java.K.KeyInfoFactory
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.keyinfo', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JobImpressionsCompleted.equals()
-permalink: Java/JobImpressionsCompleted/equals
+permalink: /Java/JobImpressionsCompleted/equals/
 date: 2021-01-11
-key: JavaJava.J.JobImpressionsCompleted
-category: java
+key: Java.J.JobImpressionsCompleted
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

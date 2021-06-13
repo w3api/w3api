@@ -1,9 +1,9 @@
 ---
 title: JobImpressionsSupported
-permalink: Java/JobImpressionsSupported
+permalink: /Java/JobImpressionsSupported/
 date: 2021-01-11
-key: JavaJava.J.JobImpressionsSupported
-category: java
+key: Java.J.JobImpressionsSupported
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

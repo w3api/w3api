@@ -1,9 +1,9 @@
 ---
 title: LinkerServices.asTypeLosslessReturn()
-permalink: Java/LinkerServices/asTypeLosslessReturn
+permalink: /Java/LinkerServices/asTypeLosslessReturn/
 date: 2021-01-11
 key: Java.L.LinkerServices
-category: java
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

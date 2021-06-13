@@ -1,9 +1,9 @@
 ---
 title: KerberosPrincipal.toString()
-permalink: Java/KerberosPrincipal/toString
+permalink: /Java/KerberosPrincipal/toString/
 date: 2021-01-11
-key: JavaJava.K.KerberosPrincipal
-category: java
+key: Java.K.KerberosPrincipal
+category: Java
 tags: ['java se', 'javax.security.auth.kerberos', 'java.security.jgss', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

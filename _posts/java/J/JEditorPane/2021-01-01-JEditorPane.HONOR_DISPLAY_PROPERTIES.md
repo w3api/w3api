@@ -1,9 +1,9 @@
 ---
 title: JEditorPane.HONOR_DISPLAY_PROPERTIES
-permalink: Java/JEditorPane/HONOR_DISPLAY_PROPERTIES
+permalink: /Java/JEditorPane/HONOR_DISPLAY_PROPERTIES/
 date: 2021-01-11
-key: JavaJava.J.JEditorPane
-category: java
+key: Java.J.JEditorPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

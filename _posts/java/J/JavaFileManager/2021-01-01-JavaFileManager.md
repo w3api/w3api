@@ -1,9 +1,9 @@
 ---
 title: JavaFileManager
-permalink: Java/JavaFileManager
+permalink: /Java/JavaFileManager/
 date: 2021-01-11
-key: JavaJava.J.JavaFileManager
-category: java
+key: Java.J.JavaFileManager
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

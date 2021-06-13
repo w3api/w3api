@@ -1,9 +1,9 @@
 ---
 title: KeyCombination.getName()
-permalink: Java/KeyCombination/getName
+permalink: /Java/KeyCombination/getName/
 date: 2021-01-11
-key: JavaJava.K.KeyCombination
-category: java
+key: Java.K.KeyCombination
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

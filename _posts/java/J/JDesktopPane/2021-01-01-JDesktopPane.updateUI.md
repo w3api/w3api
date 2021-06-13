@@ -1,9 +1,9 @@
 ---
 title: JDesktopPane.updateUI()
-permalink: Java/JDesktopPane/updateUI
+permalink: /Java/JDesktopPane/updateUI/
 date: 2021-01-11
-key: JavaJava.J.JDesktopPane
-category: java
+key: Java.J.JDesktopPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

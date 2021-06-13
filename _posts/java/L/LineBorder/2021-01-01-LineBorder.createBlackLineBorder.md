@@ -3,7 +3,7 @@ title: LineBorder.createBlackLineBorder()
 permalink: /Java/LineBorder/createBlackLineBorder/
 date: 2021-01-11
 key: Java.L.LineBorder
-category: java
+category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

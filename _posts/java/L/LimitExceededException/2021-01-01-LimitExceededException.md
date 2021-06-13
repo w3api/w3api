@@ -3,7 +3,7 @@ title: LimitExceededException
 permalink: /Java/LimitExceededException/
 date: 2021-01-11
 key: Java.L.LimitExceededException
-category: java
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

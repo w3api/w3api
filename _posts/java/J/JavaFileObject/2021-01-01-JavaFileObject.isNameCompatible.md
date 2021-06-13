@@ -1,9 +1,9 @@
 ---
 title: JavaFileObject.isNameCompatible()
-permalink: Java/JavaFileObject/isNameCompatible
+permalink: /Java/JavaFileObject/isNameCompatible/
 date: 2021-01-11
-key: JavaJava.J.JavaFileObject
-category: java
+key: Java.J.JavaFileObject
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

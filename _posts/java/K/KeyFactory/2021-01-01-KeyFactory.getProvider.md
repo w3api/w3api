@@ -1,9 +1,9 @@
 ---
 title: KeyFactory.getProvider()
-permalink: Java/KeyFactory/getProvider
+permalink: /Java/KeyFactory/getProvider/
 date: 2021-01-11
-key: JavaJava.K.KeyFactory
-category: java
+key: Java.K.KeyFactory
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

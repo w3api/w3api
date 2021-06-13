@@ -1,9 +1,9 @@
 ---
 title: JOptionPane.INITIAL_VALUE_PROPERTY
-permalink: Java/JOptionPane/INITIAL_VALUE_PROPERTY
+permalink: /Java/JOptionPane/INITIAL_VALUE_PROPERTY/
 date: 2021-01-11
-key: JavaJava.J.JOptionPane
-category: java
+key: Java.J.JOptionPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

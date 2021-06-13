@@ -1,9 +1,9 @@
 ---
 title: JavaBeanBooleanPropertyBuilder
-permalink: Java/JavaBeanBooleanPropertyBuilder
+permalink: /Java/JavaBeanBooleanPropertyBuilder/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanBooleanPropertyBuilder
-category: java
+key: Java.J.JavaBeanBooleanPropertyBuilder
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

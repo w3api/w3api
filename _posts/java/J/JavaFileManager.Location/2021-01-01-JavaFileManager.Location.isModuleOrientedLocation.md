@@ -1,9 +1,9 @@
 ---
 title: JavaFileManager.Location.isModuleOrientedLocation()
-permalink: Java/JavaFileManager/Location/isModuleOrientedLocation
+permalink: /Java/JavaFileManager/Location/isModuleOrientedLocation/
 date: 2021-01-11
-key: JavaJava.J.JavaFileManager.Location
-category: java
+key: Java.J.JavaFileManager.Location
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

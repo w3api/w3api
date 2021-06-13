@@ -1,9 +1,9 @@
 ---
 title: JavaBeanLongProperty
-permalink: Java/JavaBeanLongProperty
+permalink: /Java/JavaBeanLongProperty/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanLongProperty
-category: java
+key: Java.J.JavaBeanLongProperty
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

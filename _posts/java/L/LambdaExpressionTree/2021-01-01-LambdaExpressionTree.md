@@ -1,9 +1,9 @@
 ---
 title: LambdaExpressionTree
-permalink: Java/LambdaExpressionTree
+permalink: /Java/LambdaExpressionTree/
 date: 2021-01-11
 key: Java.L.LambdaExpressionTree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

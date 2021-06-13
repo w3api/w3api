@@ -1,9 +1,9 @@
 ---
 title: JobAttributes.MultipleDocumentHandlingType.toString()
-permalink: Java/JobAttributes/MultipleDocumentHandlingType/toString
+permalink: /Java/JobAttributes/MultipleDocumentHandlingType/toString/
 date: 2021-01-11
-key: JavaJava.J.JobAttributes.MultipleDocumentHandlingType
-category: java
+key: Java.J.JobAttributes.MultipleDocumentHandlingType
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

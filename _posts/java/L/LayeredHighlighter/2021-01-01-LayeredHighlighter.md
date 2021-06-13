@@ -1,9 +1,9 @@
 ---
 title: LayeredHighlighter
-permalink: Java/LayeredHighlighter
+permalink: /Java/LayeredHighlighter/
 date: 2021-01-11
 key: Java.L.LayeredHighlighter
-category: java
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

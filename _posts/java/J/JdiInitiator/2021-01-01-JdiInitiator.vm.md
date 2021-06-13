@@ -1,9 +1,9 @@
 ---
 title: JdiInitiator.vm()
-permalink: Java/JdiInitiator/vm
+permalink: /Java/JdiInitiator/vm/
 date: 2021-01-11
-key: JavaJava.J.JdiInitiator
-category: java
+key: Java.J.JdiInitiator
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JMXConnectorServerMBean.isActive()
-permalink: Java/JMXConnectorServerMBean/isActive
+permalink: /Java/JMXConnectorServerMBean/isActive/
 date: 2021-01-11
-key: JavaJava.J.JMXConnectorServerMBean
-category: java
+key: Java.J.JMXConnectorServerMBean
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

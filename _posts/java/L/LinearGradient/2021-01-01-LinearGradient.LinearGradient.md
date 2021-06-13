@@ -3,7 +3,7 @@ title: LinearGradient.LinearGradient()
 permalink: /Java/LinearGradient/LinearGradient/
 date: 2021-01-11
 key: Java.L.LinearGradient
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.paint', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

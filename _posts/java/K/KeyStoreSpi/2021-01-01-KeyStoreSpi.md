@@ -1,9 +1,9 @@
 ---
 title: KeyStoreSpi
-permalink: Java/KeyStoreSpi
+permalink: /Java/KeyStoreSpi/
 date: 2021-01-11
-key: JavaJava.K.KeyStoreSpi
-category: java
+key: Java.K.KeyStoreSpi
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

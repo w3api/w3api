@@ -1,9 +1,9 @@
 ---
 title: JobMediaSheetsCompleted.getCategory()
-permalink: Java/JobMediaSheetsCompleted/getCategory
+permalink: /Java/JobMediaSheetsCompleted/getCategory/
 date: 2021-01-11
-key: JavaJava.J.JobMediaSheetsCompleted
-category: java
+key: Java.J.JobMediaSheetsCompleted
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

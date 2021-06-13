@@ -1,9 +1,9 @@
 ---
 title: JobKOctetsSupported
-permalink: Java/JobKOctetsSupported
+permalink: /Java/JobKOctetsSupported/
 date: 2021-01-11
-key: JavaJava.J.JobKOctetsSupported
-category: java
+key: Java.J.JobKOctetsSupported
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

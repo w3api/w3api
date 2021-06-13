@@ -1,9 +1,9 @@
 ---
 title: KeyManagementException.KeyManagementException()
-permalink: Java/KeyManagementException/KeyManagementException
+permalink: /Java/KeyManagementException/KeyManagementException/
 date: 2021-01-11
-key: JavaJava.K.KeyManagementException
-category: java
+key: Java.K.KeyManagementException
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

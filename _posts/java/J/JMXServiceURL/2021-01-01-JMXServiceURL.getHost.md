@@ -1,9 +1,9 @@
 ---
 title: JMXServiceURL.getHost()
-permalink: Java/JMXServiceURL/getHost
+permalink: /Java/JMXServiceURL/getHost/
 date: 2021-01-11
-key: JavaJava.J.JMXServiceURL
-category: java
+key: Java.J.JMXServiceURL
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

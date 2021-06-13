@@ -1,9 +1,9 @@
 ---
 title: JSException
-permalink: Java/JSException
+permalink: /Java/JSException/
 date: 2021-01-11
-key: JavaJava.J.JSException
-category: java
+key: Java.J.JSException
+category: Java
 tags: ['java se', 'netscape.javascript', 'jdk.jsobject', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

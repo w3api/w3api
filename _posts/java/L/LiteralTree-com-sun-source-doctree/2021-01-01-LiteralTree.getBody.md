@@ -1,9 +1,9 @@
 ---
 title: LiteralTree.getBody()
-permalink: Java/LiteralTree-com-sun-source-doctree/getBody
+permalink: /Java/LiteralTree-com-sun-source-doctree/getBody/
 date: 2021-01-11
 key: Java.L.LiteralTree-com-sun-source-doctree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

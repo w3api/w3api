@@ -1,9 +1,9 @@
 ---
 title: JobKOctetsProcessed
-permalink: Java/JobKOctetsProcessed
+permalink: /Java/JobKOctetsProcessed/
 date: 2021-01-11
-key: JavaJava.J.JobKOctetsProcessed
-category: java
+key: Java.J.JobKOctetsProcessed
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

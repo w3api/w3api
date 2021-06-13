@@ -1,9 +1,9 @@
 ---
 title: JndiLoginModule.GROUP_PROVIDER
-permalink: Java/JndiLoginModule/GROUP_PROVIDER
+permalink: /Java/JndiLoginModule/GROUP_PROVIDER/
 date: 2021-01-11
-key: JavaJava.J.JndiLoginModule
-category: java
+key: Java.J.JndiLoginModule
+category: Java
 tags: ['java se', 'com.sun.security.auth.module', 'jdk.security.auth', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

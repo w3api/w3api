@@ -1,9 +1,9 @@
 ---
 title: JTextPane
-permalink: Java/JTextPane
+permalink: /Java/JTextPane/
 date: 2021-01-11
-key: JavaJava.J.JTextPane
-category: java
+key: Java.J.JTextPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

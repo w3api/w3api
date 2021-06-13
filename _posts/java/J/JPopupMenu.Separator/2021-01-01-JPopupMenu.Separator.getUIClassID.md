@@ -1,9 +1,9 @@
 ---
 title: JPopupMenu.Separator.getUIClassID()
-permalink: Java/JPopupMenu/Separator/getUIClassID
+permalink: /Java/JPopupMenu/Separator/getUIClassID/
 date: 2021-01-11
-key: JavaJava.J.JPopupMenu.Separator
-category: java
+key: Java.J.JPopupMenu.Separator
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

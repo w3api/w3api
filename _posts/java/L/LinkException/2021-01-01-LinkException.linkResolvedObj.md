@@ -1,9 +1,9 @@
 ---
 title: LinkException.linkResolvedObj
-permalink: Java/LinkException/linkResolvedObj
+permalink: /Java/LinkException/linkResolvedObj/
 date: 2021-01-11
 key: Java.L.LinkException
-category: java
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

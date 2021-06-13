@@ -1,9 +1,9 @@
 ---
 title: JarInputStream.getManifest()
-permalink: Java/JarInputStream/getManifest
+permalink: /Java/JarInputStream/getManifest/
 date: 2021-01-11
-key: JavaJava.J.JarInputStream
-category: java
+key: Java.J.JarInputStream
+category: Java
 tags: ['java se', 'java.util.jar', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

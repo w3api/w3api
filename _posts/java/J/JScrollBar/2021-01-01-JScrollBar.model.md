@@ -1,9 +1,9 @@
 ---
 title: JScrollBar.model
-permalink: Java/JScrollBar/model
+permalink: /Java/JScrollBar/model/
 date: 2021-01-11
-key: JavaJava.J.JScrollBar
-category: java
+key: Java.J.JScrollBar
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

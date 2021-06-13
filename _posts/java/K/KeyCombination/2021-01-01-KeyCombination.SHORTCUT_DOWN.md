@@ -1,9 +1,9 @@
 ---
 title: KeyCombination.SHORTCUT_DOWN
-permalink: Java/KeyCombination/SHORTCUT_DOWN
+permalink: /Java/KeyCombination/SHORTCUT_DOWN/
 date: 2021-01-11
-key: JavaJava.K.KeyCombination
-category: java
+key: Java.K.KeyCombination
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

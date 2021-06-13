@@ -1,9 +1,9 @@
 ---
 title: KeyCombination.Modifier.getValue()
-permalink: Java/KeyCombination/Modifier/getValue
+permalink: /Java/KeyCombination/Modifier/getValue/
 date: 2021-01-11
-key: JavaJava.K.KeyCombination.Modifier
-category: java
+key: Java.K.KeyCombination.Modifier
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JobMessageFromOperator.equals()
-permalink: Java/JobMessageFromOperator/equals
+permalink: /Java/JobMessageFromOperator/equals/
 date: 2021-01-11
-key: JavaJava.J.JobMessageFromOperator
-category: java
+key: Java.J.JobMessageFromOperator
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

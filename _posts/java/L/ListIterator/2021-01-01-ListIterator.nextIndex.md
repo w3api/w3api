@@ -3,7 +3,7 @@ title: ListIterator.nextIndex()
 permalink: /Java/ListIterator/nextIndex/
 date: 2021-01-11
 key: Java.L.ListIterator
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

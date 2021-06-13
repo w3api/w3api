@@ -1,9 +1,9 @@
 ---
 title: JobAttributes.DefaultSelectionType.hashCode()
-permalink: Java/JobAttributes/DefaultSelectionType/hashCode
+permalink: /Java/JobAttributes/DefaultSelectionType/hashCode/
 date: 2021-01-11
-key: JavaJava.J.JobAttributes.DefaultSelectionType
-category: java
+key: Java.J.JobAttributes.DefaultSelectionType
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

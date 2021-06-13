@@ -1,9 +1,9 @@
 ---
 title: JMXServerErrorException
-permalink: Java/JMXServerErrorException
+permalink: /Java/JMXServerErrorException/
 date: 2021-01-11
-key: JavaJava.J.JMXServerErrorException
-category: java
+key: Java.J.JMXServerErrorException
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

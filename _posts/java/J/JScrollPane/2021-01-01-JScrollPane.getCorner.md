@@ -1,9 +1,9 @@
 ---
 title: JScrollPane.getCorner()
-permalink: Java/JScrollPane/getCorner
+permalink: /Java/JScrollPane/getCorner/
 date: 2021-01-11
-key: JavaJava.J.JScrollPane
-category: java
+key: Java.J.JScrollPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

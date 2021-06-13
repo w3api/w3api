@@ -1,9 +1,9 @@
 ---
 title: JdbcRowSet.getAutoCommit()
-permalink: Java/JdbcRowSet/getAutoCommit
+permalink: /Java/JdbcRowSet/getAutoCommit/
 date: 2021-01-11
-key: JavaJava.J.JdbcRowSet
-category: java
+key: Java.J.JdbcRowSet
+category: Java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

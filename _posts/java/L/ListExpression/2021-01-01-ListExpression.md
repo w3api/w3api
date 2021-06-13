@@ -1,9 +1,9 @@
 ---
 title: ListExpression
-permalink: Java/ListExpression
+permalink: /Java/ListExpression/
 date: 2021-01-11
 key: Java.L.ListExpression
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

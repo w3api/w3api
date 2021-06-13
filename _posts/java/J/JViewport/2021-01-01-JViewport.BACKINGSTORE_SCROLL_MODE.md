@@ -1,9 +1,9 @@
 ---
 title: JViewport.BACKINGSTORE_SCROLL_MODE
-permalink: Java/JViewport/BACKINGSTORE_SCROLL_MODE
+permalink: /Java/JViewport/BACKINGSTORE_SCROLL_MODE/
 date: 2021-01-11
-key: JavaJava.J.JViewport
-category: java
+key: Java.J.JViewport
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: LdapContext.newInstance()
 permalink: /Java/LdapContext/newInstance/
 date: 2021-01-11
 key: Java.L.LdapContext
-category: java
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

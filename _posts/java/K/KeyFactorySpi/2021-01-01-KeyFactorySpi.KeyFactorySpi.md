@@ -1,9 +1,9 @@
 ---
 title: KeyFactorySpi.KeyFactorySpi()
-permalink: Java/KeyFactorySpi/KeyFactorySpi
+permalink: /Java/KeyFactorySpi/KeyFactorySpi/
 date: 2021-01-11
-key: JavaJava.K.KeyFactorySpi
-category: java
+key: Java.K.KeyFactorySpi
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

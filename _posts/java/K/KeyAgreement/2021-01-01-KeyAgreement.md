@@ -1,9 +1,9 @@
 ---
 title: KeyAgreement
-permalink: Java/KeyAgreement
+permalink: /Java/KeyAgreement/
 date: 2021-01-11
-key: JavaJava.K.KeyAgreement
-category: java
+key: Java.K.KeyAgreement
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

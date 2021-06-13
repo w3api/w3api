@@ -1,9 +1,9 @@
 ---
 title: JInternalFrame.IS_SELECTED_PROPERTY
-permalink: Java/JInternalFrame/IS_SELECTED_PROPERTY
+permalink: /Java/JInternalFrame/IS_SELECTED_PROPERTY/
 date: 2021-01-11
-key: JavaJava.J.JInternalFrame
-category: java
+key: Java.J.JInternalFrame
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

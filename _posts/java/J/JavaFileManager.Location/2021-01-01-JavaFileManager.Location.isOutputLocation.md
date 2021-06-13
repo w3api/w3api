@@ -1,9 +1,9 @@
 ---
 title: JavaFileManager.Location.isOutputLocation()
-permalink: Java/JavaFileManager/Location/isOutputLocation
+permalink: /Java/JavaFileManager/Location/isOutputLocation/
 date: 2021-01-11
-key: JavaJava.J.JavaFileManager.Location
-category: java
+key: Java.J.JavaFileManager.Location
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

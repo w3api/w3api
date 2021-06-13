@@ -1,9 +1,9 @@
 ---
 title: JobStateReason.DOCUMENT_ACCESS_ERROR
-permalink: Java/JobStateReason/DOCUMENT_ACCESS_ERROR
+permalink: /Java/JobStateReason/DOCUMENT_ACCESS_ERROR/
 date: 2021-01-11
-key: JavaJava.J.JobStateReason
-category: java
+key: Java.J.JobStateReason
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JavaBeanLongPropertyBuilder
-permalink: Java/JavaBeanLongPropertyBuilder
+permalink: /Java/JavaBeanLongPropertyBuilder/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanLongPropertyBuilder
-category: java
+key: Java.J.JavaBeanLongPropertyBuilder
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

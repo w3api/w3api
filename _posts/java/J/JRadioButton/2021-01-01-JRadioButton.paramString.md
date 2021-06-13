@@ -1,9 +1,9 @@
 ---
 title: JRadioButton.paramString()
-permalink: Java/JRadioButton/paramString
+permalink: /Java/JRadioButton/paramString/
 date: 2021-01-11
-key: JavaJava.J.JRadioButton
-category: java
+key: Java.J.JRadioButton
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

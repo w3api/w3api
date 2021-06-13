@@ -1,9 +1,9 @@
 ---
 title: LineNumberReader.readLine()
-permalink: Java/LineNumberReader/readLine
+permalink: /Java/LineNumberReader/readLine/
 date: 2021-01-11
 key: Java.L.LineNumberReader
-category: java
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

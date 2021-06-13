@@ -1,9 +1,9 @@
 ---
 title: JarOutputStream.putNextEntry()
-permalink: Java/JarOutputStream/putNextEntry
+permalink: /Java/JarOutputStream/putNextEntry/
 date: 2021-01-11
-key: JavaJava.J.JarOutputStream
-category: java
+key: Java.J.JarOutputStream
+category: Java
 tags: ['java se', 'java.util.jar', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

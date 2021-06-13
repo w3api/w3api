@@ -1,9 +1,9 @@
 ---
 title: JobStateReason.getStringTable()
-permalink: Java/JobStateReason/getStringTable
+permalink: /Java/JobStateReason/getStringTable/
 date: 2021-01-11
-key: JavaJava.J.JobStateReason
-category: java
+key: Java.J.JobStateReason
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

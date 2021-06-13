@@ -1,9 +1,9 @@
 ---
 title: JFileChooser.getApproveButtonText()
-permalink: Java/JFileChooser/getApproveButtonText
+permalink: /Java/JFileChooser/getApproveButtonText/
 date: 2021-01-11
-key: JavaJava.J.JFileChooser
-category: java
+key: Java.J.JFileChooser
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

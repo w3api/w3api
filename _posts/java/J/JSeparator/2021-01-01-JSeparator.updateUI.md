@@ -1,9 +1,9 @@
 ---
 title: JSeparator.updateUI()
-permalink: Java/JSeparator/updateUI
+permalink: /Java/JSeparator/updateUI/
 date: 2021-01-11
-key: JavaJava.J.JSeparator
-category: java
+key: Java.J.JSeparator
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

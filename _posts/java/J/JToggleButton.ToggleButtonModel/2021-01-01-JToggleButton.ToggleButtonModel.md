@@ -1,9 +1,9 @@
 ---
 title: JToggleButton.ToggleButtonModel
-permalink: Java/JToggleButton/ToggleButtonModel
+permalink: /Java/JToggleButton/ToggleButtonModel/
 date: 2021-01-11
-key: JavaJava.J.JToggleButton.ToggleButtonModel
-category: java
+key: Java.J.JToggleButton.ToggleButtonModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: KerberosCredMessage.getRecipient()
-permalink: Java/KerberosCredMessage/getRecipient
+permalink: /Java/KerberosCredMessage/getRecipient/
 date: 2021-01-11
-key: JavaJava.K.KerberosCredMessage
-category: java
+key: Java.K.KerberosCredMessage
+category: Java
 tags: ['java se', 'javax.security.auth.kerberos', 'java.security.jgss', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

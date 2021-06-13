@@ -1,9 +1,9 @@
 ---
 title: JDIPermission.JDIPermission()
-permalink: Java/JDIPermission/JDIPermission
+permalink: /Java/JDIPermission/JDIPermission/
 date: 2021-01-11
-key: JavaJava.J.JDIPermission
-category: java
+key: Java.J.JDIPermission
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

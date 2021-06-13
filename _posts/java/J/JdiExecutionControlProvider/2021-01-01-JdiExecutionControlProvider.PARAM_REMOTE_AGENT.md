@@ -1,9 +1,9 @@
 ---
 title: JdiExecutionControlProvider.PARAM_REMOTE_AGENT
-permalink: Java/JdiExecutionControlProvider/PARAM_REMOTE_AGENT
+permalink: /Java/JdiExecutionControlProvider/PARAM_REMOTE_AGENT/
 date: 2021-01-11
-key: JavaJava.J.JdiExecutionControlProvider
-category: java
+key: Java.J.JdiExecutionControlProvider
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'campo java', 'Java 9']
 sidebar: 
   nav: java

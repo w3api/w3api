@@ -1,9 +1,9 @@
 ---
 title: JavaBeanIntegerProperty
-permalink: Java/JavaBeanIntegerProperty
+permalink: /Java/JavaBeanIntegerProperty/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanIntegerProperty
-category: java
+key: Java.J.JavaBeanIntegerProperty
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

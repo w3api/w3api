@@ -1,9 +1,9 @@
 ---
 title: KerberosPrincipal.KRB_NT_PRINCIPAL
-permalink: Java/KerberosPrincipal/KRB_NT_PRINCIPAL
+permalink: /Java/KerberosPrincipal/KRB_NT_PRINCIPAL/
 date: 2021-01-11
-key: JavaJava.K.KerberosPrincipal
-category: java
+key: Java.K.KerberosPrincipal
+category: Java
 tags: ['java se', 'javax.security.auth.kerberos', 'java.security.jgss', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

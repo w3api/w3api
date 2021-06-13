@@ -1,9 +1,9 @@
 ---
 title: JobMediaSheetsCompleted
-permalink: Java/JobMediaSheetsCompleted
+permalink: /Java/JobMediaSheetsCompleted/
 date: 2021-01-11
-key: JavaJava.J.JobMediaSheetsCompleted
-category: java
+key: Java.J.JobMediaSheetsCompleted
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

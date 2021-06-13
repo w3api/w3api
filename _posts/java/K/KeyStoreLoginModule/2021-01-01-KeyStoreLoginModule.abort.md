@@ -1,9 +1,9 @@
 ---
 title: KeyStoreLoginModule.abort()
-permalink: Java/KeyStoreLoginModule/abort
+permalink: /Java/KeyStoreLoginModule/abort/
 date: 2021-01-11
-key: JavaJava.K.KeyStoreLoginModule
-category: java
+key: Java.K.KeyStoreLoginModule
+category: Java
 tags: ['java se', 'com.sun.security.auth.module', 'jdk.security.auth', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

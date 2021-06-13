@@ -1,9 +1,9 @@
 ---
 title: JdiExecutionControlProvider.JdiExecutionControlProvider()
-permalink: Java/JdiExecutionControlProvider/JdiExecutionControlProvider
+permalink: /Java/JdiExecutionControlProvider/JdiExecutionControlProvider/
 date: 2021-01-11
-key: JavaJava.J.JdiExecutionControlProvider
-category: java
+key: Java.J.JdiExecutionControlProvider
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: KeyAlreadyExistsException
-permalink: Java/KeyAlreadyExistsException
+permalink: /Java/KeyAlreadyExistsException/
 date: 2021-01-11
-key: JavaJava.K.KeyAlreadyExistsException
-category: java
+key: Java.K.KeyAlreadyExistsException
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

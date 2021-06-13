@@ -1,9 +1,9 @@
 ---
 title: Krb5LoginModule.abort()
-permalink: Java/Krb5LoginModule/abort
+permalink: /Java/Krb5LoginModule/abort/
 date: 2021-01-11
-key: JavaJava.K.Krb5LoginModule
-category: java
+key: Java.K.Krb5LoginModule
+category: Java
 tags: ['java se', 'com.sun.security.auth.module', 'jdk.security.auth', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

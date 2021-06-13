@@ -1,9 +1,9 @@
 ---
 title: JSplitPane.isContinuousLayout()
-permalink: Java/JSplitPane/isContinuousLayout
+permalink: /Java/JSplitPane/isContinuousLayout/
 date: 2021-01-11
-key: JavaJava.J.JSplitPane
-category: java
+key: Java.J.JSplitPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

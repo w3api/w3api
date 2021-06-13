@@ -1,9 +1,9 @@
 ---
 title: LanguageVersion
-permalink: Java/LanguageVersion
+permalink: /Java/LanguageVersion/
 date: 2021-01-11
 key: Java.L.LanguageVersion
-category: java
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'enumerado java', 'Java 1.5']
 sidebar: 
   nav: java

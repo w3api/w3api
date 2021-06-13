@@ -3,7 +3,7 @@ title: LineBreakMeasurer.setPosition()
 permalink: /Java/LineBreakMeasurer/setPosition/
 date: 2021-01-11
 key: Java.L.LineBreakMeasurer
-category: java
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

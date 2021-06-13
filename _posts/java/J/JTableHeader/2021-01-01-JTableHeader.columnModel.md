@@ -1,9 +1,9 @@
 ---
 title: JTableHeader.columnModel
-permalink: Java/JTableHeader/columnModel
+permalink: /Java/JTableHeader/columnModel/
 date: 2021-01-11
-key: JavaJava.J.JTableHeader
-category: java
+key: Java.J.JTableHeader
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

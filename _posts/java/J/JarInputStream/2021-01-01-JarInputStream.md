@@ -1,9 +1,9 @@
 ---
 title: JarInputStream
-permalink: Java/JarInputStream
+permalink: /Java/JarInputStream/
 date: 2021-01-11
-key: JavaJava.J.JarInputStream
-category: java
+key: Java.J.JarInputStream
+category: Java
 tags: ['java se', 'java.util.jar', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

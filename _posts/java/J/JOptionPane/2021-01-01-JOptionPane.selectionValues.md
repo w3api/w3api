@@ -1,9 +1,9 @@
 ---
 title: JOptionPane.selectionValues
-permalink: Java/JOptionPane/selectionValues
+permalink: /Java/JOptionPane/selectionValues/
 date: 2021-01-11
-key: JavaJava.J.JOptionPane
-category: java
+key: Java.J.JOptionPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

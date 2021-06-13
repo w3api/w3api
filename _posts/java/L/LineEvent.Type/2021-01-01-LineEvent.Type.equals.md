@@ -1,9 +1,9 @@
 ---
 title: LineEvent.Type.equals()
-permalink: Java/LineEvent/Type/equals
+permalink: /Java/LineEvent/Type/equals/
 date: 2021-01-11
 key: Java.L.LineEvent.Type
-category: java
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

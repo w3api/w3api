@@ -1,9 +1,9 @@
 ---
 title: ListSelectionEvent
-permalink: Java/ListSelectionEvent
+permalink: /Java/ListSelectionEvent/
 date: 2021-01-11
 key: Java.L.ListSelectionEvent
-category: java
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

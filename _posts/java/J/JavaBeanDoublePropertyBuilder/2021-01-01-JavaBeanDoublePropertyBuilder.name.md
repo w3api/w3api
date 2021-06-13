@@ -1,9 +1,9 @@
 ---
 title: JavaBeanDoublePropertyBuilder.name()
-permalink: Java/JavaBeanDoublePropertyBuilder/name
+permalink: /Java/JavaBeanDoublePropertyBuilder/name/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanDoublePropertyBuilder
-category: java
+key: Java.J.JavaBeanDoublePropertyBuilder
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JobOriginatingUserName
-permalink: Java/JobOriginatingUserName
+permalink: /Java/JobOriginatingUserName/
 date: 2021-01-11
-key: JavaJava.J.JobOriginatingUserName
-category: java
+key: Java.J.JobOriginatingUserName
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

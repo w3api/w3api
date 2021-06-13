@@ -1,9 +1,9 @@
 ---
 title: LinkedBlockingDeque.removeAll()
-permalink: Java/LinkedBlockingDeque/removeAll
+permalink: /Java/LinkedBlockingDeque/removeAll/
 date: 2021-01-11
 key: Java.L.LinkedBlockingDeque
-category: java
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

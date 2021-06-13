@@ -1,9 +1,9 @@
 ---
 title: JFormattedTextField.AbstractFormatter.valueToString()
-permalink: Java/JFormattedTextField/AbstractFormatter/valueToString
+permalink: /Java/JFormattedTextField/AbstractFormatter/valueToString/
 date: 2021-01-11
-key: JavaJava.J.JFormattedTextField.AbstractFormatter
-category: java
+key: Java.J.JFormattedTextField.AbstractFormatter
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

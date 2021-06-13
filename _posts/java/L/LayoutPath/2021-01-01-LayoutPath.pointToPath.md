@@ -3,7 +3,7 @@ title: LayoutPath.pointToPath()
 permalink: /Java/LayoutPath/pointToPath/
 date: 2021-01-11
 key: Java.L.LayoutPath
-category: java
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

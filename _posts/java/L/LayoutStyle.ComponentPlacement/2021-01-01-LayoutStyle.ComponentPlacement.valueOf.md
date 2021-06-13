@@ -1,9 +1,9 @@
 ---
 title: LayoutStyle.ComponentPlacement.valueOf()
-permalink: Java/LayoutStyle/ComponentPlacement/valueOf
+permalink: /Java/LayoutStyle/ComponentPlacement/valueOf/
 date: 2021-01-11
 key: Java.L.LayoutStyle.ComponentPlacement
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

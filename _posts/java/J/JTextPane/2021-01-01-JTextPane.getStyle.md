@@ -1,9 +1,9 @@
 ---
 title: JTextPane.getStyle()
-permalink: Java/JTextPane/getStyle
+permalink: /Java/JTextPane/getStyle/
 date: 2021-01-11
-key: JavaJava.J.JTextPane
-category: java
+key: Java.J.JTextPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

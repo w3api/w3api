@@ -1,9 +1,9 @@
 ---
 title: JavaShellToolBuilder.run()
-permalink: Java/JavaShellToolBuilder/run
+permalink: /Java/JavaShellToolBuilder/run/
 date: 2021-01-11
-key: JavaJava.J.JavaShellToolBuilder
-category: java
+key: Java.J.JavaShellToolBuilder
+category: Java
 tags: ['java se', 'jdk.jshell.tool', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

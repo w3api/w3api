@@ -1,9 +1,9 @@
 ---
 title: JavaBeanFloatProperty.toString()
-permalink: Java/JavaBeanFloatProperty/toString
+permalink: /Java/JavaBeanFloatProperty/toString/
 date: 2021-01-11
-key: JavaJava.J.JavaBeanFloatProperty
-category: java
+key: Java.J.JavaBeanFloatProperty
+category: Java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

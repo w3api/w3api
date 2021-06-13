@@ -1,9 +1,9 @@
 ---
 title: JToggleButton.getAccessibleContext()
-permalink: Java/JToggleButton/getAccessibleContext
+permalink: /Java/JToggleButton/getAccessibleContext/
 date: 2021-01-11
-key: JavaJava.J.JToggleButton
-category: java
+key: Java.J.JToggleButton
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

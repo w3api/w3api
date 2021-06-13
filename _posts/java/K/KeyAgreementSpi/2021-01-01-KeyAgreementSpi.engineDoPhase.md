@@ -1,9 +1,9 @@
 ---
 title: KeyAgreementSpi.engineDoPhase()
-permalink: Java/KeyAgreementSpi/engineDoPhase
+permalink: /Java/KeyAgreementSpi/engineDoPhase/
 date: 2021-01-11
-key: JavaJava.K.KeyAgreementSpi
-category: java
+key: Java.K.KeyAgreementSpi
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

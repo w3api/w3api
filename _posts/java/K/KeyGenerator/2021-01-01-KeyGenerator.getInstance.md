@@ -1,9 +1,9 @@
 ---
 title: KeyGenerator.getInstance()
-permalink: Java/KeyGenerator/getInstance
+permalink: /Java/KeyGenerator/getInstance/
 date: 2021-01-11
-key: JavaJava.K.KeyGenerator
-category: java
+key: Java.K.KeyGenerator
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

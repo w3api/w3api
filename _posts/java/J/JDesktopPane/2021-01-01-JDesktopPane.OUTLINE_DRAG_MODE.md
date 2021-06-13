@@ -1,9 +1,9 @@
 ---
 title: JDesktopPane.OUTLINE_DRAG_MODE
-permalink: Java/JDesktopPane/OUTLINE_DRAG_MODE
+permalink: /Java/JDesktopPane/OUTLINE_DRAG_MODE/
 date: 2021-01-11
-key: JavaJava.J.JDesktopPane
-category: java
+key: Java.J.JDesktopPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

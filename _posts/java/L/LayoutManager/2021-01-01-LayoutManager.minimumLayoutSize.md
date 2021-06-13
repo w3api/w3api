@@ -1,9 +1,9 @@
 ---
 title: LayoutManager.minimumLayoutSize()
-permalink: Java/LayoutManager/minimumLayoutSize
+permalink: /Java/LayoutManager/minimumLayoutSize/
 date: 2021-01-11
 key: Java.L.LayoutManager
-category: java
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

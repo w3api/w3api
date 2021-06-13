@@ -1,9 +1,9 @@
 ---
 title: JarSigner
-permalink: Java/JarSigner
+permalink: /Java/JarSigner/
 date: 2021-01-11
-key: JavaJava.J.JarSigner
-category: java
+key: Java.J.JarSigner
+category: Java
 tags: ['java se', 'jdk.security.jarsigner', 'jdk.jartool', 'clase java', 'Java 9']
 sidebar: 
   nav: java

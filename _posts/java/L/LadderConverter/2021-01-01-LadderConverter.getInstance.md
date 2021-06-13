@@ -1,9 +1,9 @@
 ---
 title: LadderConverter.getInstance()
-permalink: Java/LadderConverter/getInstance
+permalink: /Java/LadderConverter/getInstance/
 date: 2021-01-11
 key: Java.L.LadderConverter
-category: java
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

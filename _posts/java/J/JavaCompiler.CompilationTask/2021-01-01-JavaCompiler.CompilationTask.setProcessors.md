@@ -1,9 +1,9 @@
 ---
 title: JavaCompiler.CompilationTask.setProcessors()
-permalink: Java/JavaCompiler/CompilationTask/setProcessors
+permalink: /Java/JavaCompiler/CompilationTask/setProcessors/
 date: 2021-01-11
-key: JavaJava.J.JavaCompiler.CompilationTask
-category: java
+key: Java.J.JavaCompiler.CompilationTask
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

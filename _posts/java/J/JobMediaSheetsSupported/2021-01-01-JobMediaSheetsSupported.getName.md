@@ -1,9 +1,9 @@
 ---
 title: JobMediaSheetsSupported.getName()
-permalink: Java/JobMediaSheetsSupported/getName
+permalink: /Java/JobMediaSheetsSupported/getName/
 date: 2021-01-11
-key: JavaJava.J.JobMediaSheetsSupported
-category: java
+key: Java.J.JobMediaSheetsSupported
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

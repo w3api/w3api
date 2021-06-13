@@ -1,9 +1,9 @@
 ---
 title: KeyPairGenerator.generateKeyPair()
-permalink: Java/KeyPairGenerator/generateKeyPair
+permalink: /Java/KeyPairGenerator/generateKeyPair/
 date: 2021-01-11
-key: JavaJava.K.KeyPairGenerator
-category: java
+key: Java.K.KeyPairGenerator
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

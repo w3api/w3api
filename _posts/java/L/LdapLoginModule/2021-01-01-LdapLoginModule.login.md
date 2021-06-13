@@ -1,9 +1,9 @@
 ---
 title: LdapLoginModule.login()
-permalink: Java/LdapLoginModule/login
+permalink: /Java/LdapLoginModule/login/
 date: 2021-01-11
 key: Java.L.LdapLoginModule
-category: java
+category: Java
 tags: ['java se', 'com.sun.security.auth.module', 'jdk.security.auth', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

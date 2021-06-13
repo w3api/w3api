@@ -1,9 +1,9 @@
 ---
 title: KeySelectorException
-permalink: Java/KeySelectorException
+permalink: /Java/KeySelectorException/
 date: 2021-01-11
-key: JavaJava.K.KeySelectorException
-category: java
+key: Java.K.KeySelectorException
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JobAttributes.SidesType.TWO_SIDED_SHORT_EDGE
-permalink: Java/JobAttributes/SidesType/TWO_SIDED_SHORT_EDGE
+permalink: /Java/JobAttributes/SidesType/TWO_SIDED_SHORT_EDGE/
 date: 2021-01-11
-key: JavaJava.J.JobAttributes.SidesType
-category: java
+key: Java.J.JobAttributes.SidesType
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

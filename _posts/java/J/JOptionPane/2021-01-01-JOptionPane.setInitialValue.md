@@ -1,9 +1,9 @@
 ---
 title: JOptionPane.setInitialValue()
-permalink: Java/JOptionPane/setInitialValue
+permalink: /Java/JOptionPane/setInitialValue/
 date: 2021-01-11
-key: JavaJava.J.JOptionPane
-category: java
+key: Java.J.JOptionPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JEditorPane.W3C_LENGTH_UNITS
-permalink: Java/JEditorPane/W3C_LENGTH_UNITS
+permalink: /Java/JEditorPane/W3C_LENGTH_UNITS/
 date: 2021-01-11
-key: JavaJava.J.JEditorPane
-category: java
+key: Java.J.JEditorPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java
