@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.getBaselineResizeBehavior()
-permalink: Java/BasicListUI/getBaselineResizeBehavior
+permalink: /Java/BasicListUI/getBaselineResizeBehavior/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

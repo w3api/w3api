@@ -1,6 +1,6 @@
 ---
 title: ByteHolder._read()
-permalink: Java/ByteHolder/_read
+permalink: /Java/ByteHolder/_read/
 date: 2021-01-11
 key: JavaJava.B.ByteHolder
 category: java

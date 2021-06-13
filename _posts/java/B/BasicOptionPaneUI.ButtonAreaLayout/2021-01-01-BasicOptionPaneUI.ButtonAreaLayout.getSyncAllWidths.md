@@ -1,6 +1,6 @@
 ---
 title: BasicOptionPaneUI.ButtonAreaLayout.getSyncAllWidths()
-permalink: Java/BasicOptionPaneUI/ButtonAreaLayout/getSyncAllWidths
+permalink: /Java/BasicOptionPaneUI/ButtonAreaLayout/getSyncAllWidths/
 date: 2021-01-11
 key: JavaJava.B.BasicOptionPaneUI.ButtonAreaLayout
 category: java

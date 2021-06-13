@@ -1,6 +1,6 @@
 ---
 title: BoxedValueHelper.get_id()
-permalink: Java/BoxedValueHelper/get_id
+permalink: /Java/BoxedValueHelper/get_id/
 date: 2021-01-11
 key: JavaJava.B.BoxedValueHelper
 category: java

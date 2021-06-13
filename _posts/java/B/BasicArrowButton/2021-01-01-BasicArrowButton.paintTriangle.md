@@ -1,6 +1,6 @@
 ---
 title: BasicArrowButton.paintTriangle()
-permalink: Java/BasicArrowButton/paintTriangle
+permalink: /Java/BasicArrowButton/paintTriangle/
 date: 2021-01-11
 key: JavaJava.B.BasicArrowButton
 category: java

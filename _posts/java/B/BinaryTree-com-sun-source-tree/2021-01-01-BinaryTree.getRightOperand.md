@@ -1,6 +1,6 @@
 ---
 title: BinaryTree.getRightOperand()
-permalink: Java/BinaryTree-com-sun-source-tree/getRightOperand
+permalink: /Java/BinaryTree-com-sun-source-tree/getRightOperand/
 date: 2021-01-11
 key: JavaJava.B.BinaryTree-com-sun-source-tree
 category: java

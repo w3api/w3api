@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.disabledForeground
-permalink: Java/BasicMenuItemUI/disabledForeground
+permalink: /Java/BasicMenuItemUI/disabledForeground/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

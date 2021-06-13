@@ -1,8 +1,8 @@
 ---
 title: BlockTree
-permalink: Java/BlockTree/
+permalink: /Java/BlockTree//
 date: 2021-01-11
-key: JavaJava.B.BlockTree
+key: Java.B.BlockTree
 category: java
 tags: ['java se']
 sidebar: 

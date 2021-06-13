@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.notSelectedTitleColor
-permalink: Java/BasicInternalFrameTitlePane/notSelectedTitleColor
+permalink: /Java/BasicInternalFrameTitlePane/notSelectedTitleColor/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

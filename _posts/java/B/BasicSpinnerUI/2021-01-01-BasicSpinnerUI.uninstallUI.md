@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.uninstallUI()
-permalink: Java/BasicSpinnerUI/uninstallUI
+permalink: /Java/BasicSpinnerUI/uninstallUI/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

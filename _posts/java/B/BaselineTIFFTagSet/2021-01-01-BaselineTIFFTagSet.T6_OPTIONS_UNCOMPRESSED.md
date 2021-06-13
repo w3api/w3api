@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.T6_OPTIONS_UNCOMPRESSED
-permalink: Java/BaselineTIFFTagSet/T6_OPTIONS_UNCOMPRESSED
+permalink: /Java/BaselineTIFFTagSet/T6_OPTIONS_UNCOMPRESSED/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

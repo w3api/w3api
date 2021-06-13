@@ -1,6 +1,6 @@
 ---
 title: BubbleChart
-permalink: Java/BubbleChart
+permalink: /Java/BubbleChart/
 date: 2021-01-11
 key: JavaJava.B.BubbleChart
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.currentValuePane
-permalink: Java/BasicComboBoxUI/currentValuePane
+permalink: /Java/BasicComboBoxUI/currentValuePane/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

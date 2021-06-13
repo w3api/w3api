@@ -1,6 +1,6 @@
 ---
 title: BufferCapabilities.FlipContents.UNDEFINED
-permalink: Java/BufferCapabilities/FlipContents/UNDEFINED
+permalink: /Java/BufferCapabilities/FlipContents/UNDEFINED/
 date: 2021-01-11
 key: JavaJava.B.BufferCapabilities.FlipContents
 category: java

@@ -1,8 +1,8 @@
 ---
 title: ListModel.getSize()
-permalink: Java/ListModel/getSize
+permalink: /Java/ListModel/getSize/
 date: 2021-01-11
-key: JavaJava.L.ListModel
+key: Java.L.ListModel
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

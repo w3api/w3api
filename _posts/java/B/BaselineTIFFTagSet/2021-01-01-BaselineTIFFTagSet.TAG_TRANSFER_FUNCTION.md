@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_TRANSFER_FUNCTION
-permalink: Java/BaselineTIFFTagSet/TAG_TRANSFER_FUNCTION
+permalink: /Java/BaselineTIFFTagSet/TAG_TRANSFER_FUNCTION/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

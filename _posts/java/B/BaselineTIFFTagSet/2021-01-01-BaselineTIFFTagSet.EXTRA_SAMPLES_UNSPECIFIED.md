@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.EXTRA_SAMPLES_UNSPECIFIED
-permalink: Java/BaselineTIFFTagSet/EXTRA_SAMPLES_UNSPECIFIED
+permalink: /Java/BaselineTIFFTagSet/EXTRA_SAMPLES_UNSPECIFIED/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

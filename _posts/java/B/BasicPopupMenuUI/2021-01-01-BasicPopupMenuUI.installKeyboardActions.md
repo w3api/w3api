@@ -1,6 +1,6 @@
 ---
 title: BasicPopupMenuUI.installKeyboardActions()
-permalink: Java/BasicPopupMenuUI/installKeyboardActions
+permalink: /Java/BasicPopupMenuUI/installKeyboardActions/
 date: 2021-01-11
 key: JavaJava.B.BasicPopupMenuUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_T6_OPTIONS
-permalink: Java/BaselineTIFFTagSet/TAG_T6_OPTIONS
+permalink: /Java/BaselineTIFFTagSet/TAG_T6_OPTIONS/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

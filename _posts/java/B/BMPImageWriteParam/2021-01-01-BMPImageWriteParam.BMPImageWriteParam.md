@@ -1,6 +1,6 @@
 ---
 title: BMPImageWriteParam.BMPImageWriteParam()
-permalink: Java/BMPImageWriteParam/BMPImageWriteParam
+permalink: /Java/BMPImageWriteParam/BMPImageWriteParam/
 date: 2021-01-11
 key: JavaJava.B.BMPImageWriteParam
 category: java

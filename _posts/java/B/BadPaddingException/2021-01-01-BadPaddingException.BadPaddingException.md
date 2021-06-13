@@ -1,6 +1,6 @@
 ---
 title: BadPaddingException.BadPaddingException()
-permalink: Java/BadPaddingException/BadPaddingException
+permalink: /Java/BadPaddingException/BadPaddingException/
 date: 2021-01-11
 key: JavaJava.B.BadPaddingException
 category: java

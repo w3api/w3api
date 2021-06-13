@@ -1,6 +1,6 @@
 ---
 title: BooleanBinding.computeValue()
-permalink: Java/BooleanBinding/computeValue
+permalink: /Java/BooleanBinding/computeValue/
 date: 2021-01-11
 key: JavaJava.B.BooleanBinding
 category: java

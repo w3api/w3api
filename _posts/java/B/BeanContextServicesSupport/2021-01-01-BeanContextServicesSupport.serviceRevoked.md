@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesSupport.serviceRevoked()
-permalink: Java/BeanContextServicesSupport/serviceRevoked
+permalink: /Java/BeanContextServicesSupport/serviceRevoked/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesSupport
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicArrowButton.getMinimumSize()
-permalink: Java/BasicArrowButton/getMinimumSize
+permalink: /Java/BasicArrowButton/getMinimumSize/
 date: 2021-01-11
 key: JavaJava.B.BasicArrowButton
 category: java

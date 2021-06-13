@@ -1,8 +1,8 @@
 ---
 title: BasicGraphicsUtils
-permalink: Java/BasicGraphicsUtils
+permalink: /Java/BasicGraphicsUtils/
 date: 2021-01-11
-key: JavaJava.B.BasicGraphicsUtils
+key: Java.B.BasicGraphicsUtils
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

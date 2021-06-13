@@ -2,7 +2,7 @@
 title: LinkedHashSet
 permalink: Java/LinkedHashSet
 date: 2021-01-11
-key: JavaJava.L.LinkedHashSet
+key: Java.L.LinkedHashSet
 category: java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

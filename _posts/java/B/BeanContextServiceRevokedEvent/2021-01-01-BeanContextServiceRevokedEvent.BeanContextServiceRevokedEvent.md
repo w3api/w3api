@@ -1,6 +1,6 @@
 ---
 title: BeanContextServiceRevokedEvent.BeanContextServiceRevokedEvent()
-permalink: Java/BeanContextServiceRevokedEvent/BeanContextServiceRevokedEvent
+permalink: /Java/BeanContextServiceRevokedEvent/BeanContextServiceRevokedEvent/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServiceRevokedEvent
 category: java

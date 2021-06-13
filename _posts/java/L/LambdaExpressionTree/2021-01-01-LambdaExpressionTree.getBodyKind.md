@@ -2,7 +2,7 @@
 title: LambdaExpressionTree.getBodyKind()
 permalink: Java/LambdaExpressionTree/getBodyKind
 date: 2021-01-11
-key: JavaJava.L.LambdaExpressionTree
+key: Java.L.LambdaExpressionTree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.0']
 sidebar: 

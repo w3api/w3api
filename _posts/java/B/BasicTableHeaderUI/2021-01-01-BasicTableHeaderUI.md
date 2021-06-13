@@ -1,8 +1,8 @@
 ---
 title: BasicTableHeaderUI
-permalink: Java/BasicTableHeaderUI
+permalink: /Java/BasicTableHeaderUI/
 date: 2021-01-11
-key: JavaJava.B.BasicTableHeaderUI
+key: Java.B.BasicTableHeaderUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

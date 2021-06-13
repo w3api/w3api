@@ -1,8 +1,8 @@
 ---
 title: LayeredHighlighter.LayerPainter.paintLayer()
-permalink: Java/LayeredHighlighter/LayerPainter/paintLayer
+permalink: /Java/LayeredHighlighter/LayerPainter/paintLayer/
 date: 2021-01-11
-key: JavaJava.L.LayeredHighlighter.LayerPainter
+key: Java.L.LayeredHighlighter.LayerPainter
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

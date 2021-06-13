@@ -1,6 +1,6 @@
 ---
 title: BooleanPropertyBase.fireValueChangedEvent()
-permalink: Java/BooleanPropertyBase/fireValueChangedEvent
+permalink: /Java/BooleanPropertyBase/fireValueChangedEvent/
 date: 2021-01-11
 key: JavaJava.B.BooleanPropertyBase
 category: java

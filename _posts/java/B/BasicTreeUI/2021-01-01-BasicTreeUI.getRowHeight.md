@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.getRowHeight()
-permalink: Java/BasicTreeUI/getRowHeight
+permalink: /Java/BasicTreeUI/getRowHeight/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

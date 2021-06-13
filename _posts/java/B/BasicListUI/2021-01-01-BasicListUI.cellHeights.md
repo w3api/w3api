@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.cellHeights
-permalink: Java/BasicListUI/cellHeights
+permalink: /Java/BasicListUI/cellHeights/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

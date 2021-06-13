@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_Y_CB_CR_COEFFICIENTS
-permalink: Java/BaselineTIFFTagSet/TAG_Y_CB_CR_COEFFICIENTS
+permalink: /Java/BaselineTIFFTagSet/TAG_Y_CB_CR_COEFFICIENTS/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

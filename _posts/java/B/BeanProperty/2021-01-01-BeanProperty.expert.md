@@ -1,6 +1,6 @@
 ---
 title: BeanProperty.expert
-permalink: Java/BeanProperty/expert
+permalink: /Java/BeanProperty/expert/
 date: 2021-01-11
 key: JavaJava.B.BeanProperty
 category: java

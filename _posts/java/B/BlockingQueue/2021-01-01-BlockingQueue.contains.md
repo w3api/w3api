@@ -1,6 +1,6 @@
 ---
 title: BlockingQueue.contains()
-permalink: Java/BlockingQueue/contains
+permalink: /Java/BlockingQueue/contains/
 date: 2021-01-11
 key: JavaJava.B.BlockingQueue
 category: java

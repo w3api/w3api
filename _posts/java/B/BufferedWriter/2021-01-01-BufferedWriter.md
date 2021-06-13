@@ -1,8 +1,8 @@
 ---
 title: BufferedWriter
-permalink: Java/BufferedWriter
+permalink: /Java/BufferedWriter/
 date: 2021-01-11
-key: JavaJava.B.BufferedWriter
+key: Java.B.BufferedWriter
 category: java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

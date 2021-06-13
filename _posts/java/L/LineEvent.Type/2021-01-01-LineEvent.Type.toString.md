@@ -2,7 +2,7 @@
 title: LineEvent.Type.toString()
 permalink: Java/LineEvent/Type/toString
 date: 2021-01-11
-key: JavaJava.L.LineEvent.Type
+key: Java.L.LineEvent.Type
 category: java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

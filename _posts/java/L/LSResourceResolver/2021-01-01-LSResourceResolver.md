@@ -1,8 +1,8 @@
 ---
 title: LSResourceResolver
-permalink: Java/LSResourceResolver
+permalink: /Java/LSResourceResolver/
 date: 2021-01-11
-key: JavaJava.L.LSResourceResolver
+key: Java.L.LSResourceResolver
 category: java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'interface java', 'Java 1.5']
 sidebar: 

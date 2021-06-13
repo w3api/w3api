@@ -1,6 +1,6 @@
 ---
 title: BorderPane.setCenter()
-permalink: Java/BorderPane/setCenter
+permalink: /Java/BorderPane/setCenter/
 date: 2021-01-11
 key: JavaJava.B.BorderPane
 category: java

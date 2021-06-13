@@ -1,6 +1,6 @@
 ---
 title: BufferedImageOp
-permalink: Java/BufferedImageOp
+permalink: /Java/BufferedImageOp/
 date: 2021-01-11
 key: JavaJava.B.BufferedImageOp
 category: java

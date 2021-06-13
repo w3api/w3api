@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.PHOTOMETRIC_INTERPRETATION_WHITE_IS_ZERO
-permalink: Java/BaselineTIFFTagSet/PHOTOMETRIC_INTERPRETATION_WHITE_IS_ZERO
+permalink: /Java/BaselineTIFFTagSet/PHOTOMETRIC_INTERPRETATION_WHITE_IS_ZERO/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

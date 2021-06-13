@@ -1,6 +1,6 @@
 ---
 title: BasicTextFieldUI
-permalink: Java/BasicTextFieldUI
+permalink: /Java/BasicTextFieldUI/
 date: 2021-01-11
 key: JavaJava.B.BasicTextFieldUI
 category: java

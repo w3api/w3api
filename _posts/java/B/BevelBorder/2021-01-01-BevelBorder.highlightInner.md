@@ -1,6 +1,6 @@
 ---
 title: BevelBorder.highlightInner
-permalink: Java/BevelBorder/highlightInner
+permalink: /Java/BevelBorder/highlightInner/
 date: 2021-01-11
 key: JavaJava.B.BevelBorder
 category: java

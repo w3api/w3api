@@ -1,6 +1,6 @@
 ---
 title: BasicDirectoryModel.BasicDirectoryModel()
-permalink: Java/BasicDirectoryModel/BasicDirectoryModel
+permalink: /Java/BasicDirectoryModel/BasicDirectoryModel/
 date: 2021-01-11
 key: JavaJava.B.BasicDirectoryModel
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicMenuBarUI.changeListener
-permalink: Java/BasicMenuBarUI/changeListener
+permalink: /Java/BasicMenuBarUI/changeListener/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuBarUI
 category: java

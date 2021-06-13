@@ -1,6 +1,6 @@
 ---
 title: BufferedInputStream.markSupported()
-permalink: Java/BufferedInputStream/markSupported
+permalink: /Java/BufferedInputStream/markSupported/
 date: 2021-01-11
 key: JavaJava.B.BufferedInputStream
 category: java

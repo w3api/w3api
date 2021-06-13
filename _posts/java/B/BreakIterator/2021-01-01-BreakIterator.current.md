@@ -1,8 +1,8 @@
 ---
 title: BreakIterator.current()
-permalink: Java/BreakIterator/current
+permalink: /Java/BreakIterator/current/
 date: 2021-01-11
-key: JavaJava.B.BreakIterator
+key: Java.B.BreakIterator
 category: java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

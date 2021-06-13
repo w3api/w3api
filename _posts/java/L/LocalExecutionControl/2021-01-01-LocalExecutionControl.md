@@ -2,7 +2,7 @@
 title: LocalExecutionControl
 permalink: Java/LocalExecutionControl
 date: 2021-01-11
-key: JavaJava.L.LocalExecutionControl
+key: Java.L.LocalExecutionControl
 category: java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 

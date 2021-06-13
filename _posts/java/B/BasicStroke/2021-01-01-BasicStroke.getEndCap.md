@@ -1,6 +1,6 @@
 ---
 title: BasicStroke.getEndCap()
-permalink: Java/BasicStroke/getEndCap
+permalink: /Java/BasicStroke/getEndCap/
 date: 2021-01-11
 key: JavaJava.B.BasicStroke
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.propertyChangeListener
-permalink: Java/BasicMenuItemUI/propertyChangeListener
+permalink: /Java/BasicMenuItemUI/propertyChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

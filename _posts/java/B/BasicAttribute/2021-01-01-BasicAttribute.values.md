@@ -1,8 +1,8 @@
 ---
 title: BasicAttribute.values
-permalink: Java/BasicAttribute/values
+permalink: /Java/BasicAttribute/values/
 date: 2021-01-11
-key: JavaJava.B.BasicAttribute
+key: Java.B.BasicAttribute
 category: java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'campo java', 'Java 1.3']
 sidebar: 

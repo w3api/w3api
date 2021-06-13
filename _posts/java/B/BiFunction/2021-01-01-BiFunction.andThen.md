@@ -1,6 +1,6 @@
 ---
 title: BiFunction.andThen()
-permalink: Java/BiFunction/andThen
+permalink: /Java/BiFunction/andThen/
 date: 2021-01-11
 key: JavaJava.B.BiFunction
 category: java

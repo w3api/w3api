@@ -1,6 +1,6 @@
 ---
 title: BiPredicate.test()
-permalink: Java/BiPredicate/test
+permalink: /Java/BiPredicate/test/
 date: 2021-01-11
 key: JavaJava.B.BiPredicate
 category: java

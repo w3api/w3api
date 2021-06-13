@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.createPropertyChangeListener()
-permalink: Java/BasicTabbedPaneUI/createPropertyChangeListener
+permalink: /Java/BasicTabbedPaneUI/createPropertyChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

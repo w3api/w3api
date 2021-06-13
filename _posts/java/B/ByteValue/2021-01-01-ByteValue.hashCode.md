@@ -1,6 +1,6 @@
 ---
 title: ByteValue.hashCode()
-permalink: Java/ByteValue/hashCode
+permalink: /Java/ByteValue/hashCode/
 date: 2021-01-11
 key: JavaJava.B.ByteValue
 category: java

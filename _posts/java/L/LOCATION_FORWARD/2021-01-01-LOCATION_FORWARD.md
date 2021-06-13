@@ -1,8 +1,8 @@
 ---
 title: LOCATION_FORWARD
-permalink: Java/LOCATION_FORWARD
+permalink: /Java/LOCATION_FORWARD/
 date: 2021-01-11
-key: JavaJava.L.LOCATION_FORWARD
+key: Java.L.LOCATION_FORWARD
 category: java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.getSelectionBackground()
-permalink: Java/BasicProgressBarUI/getSelectionBackground
+permalink: /Java/BasicProgressBarUI/getSelectionBackground/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

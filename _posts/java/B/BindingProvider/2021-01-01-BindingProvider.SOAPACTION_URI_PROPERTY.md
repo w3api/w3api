@@ -1,6 +1,6 @@
 ---
 title: BindingProvider.SOAPACTION_URI_PROPERTY
-permalink: Java/BindingProvider/SOAPACTION_URI_PROPERTY
+permalink: /Java/BindingProvider/SOAPACTION_URI_PROPERTY/
 date: 2021-01-11
 key: JavaJava.B.BindingProvider
 category: java

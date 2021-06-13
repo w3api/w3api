@@ -1,6 +1,6 @@
 ---
 title: BuilderFactory.getBuilder()
-permalink: Java/BuilderFactory/getBuilder
+permalink: /Java/BuilderFactory/getBuilder/
 date: 2021-01-11
 key: JavaJava.B.BuilderFactory
 category: java

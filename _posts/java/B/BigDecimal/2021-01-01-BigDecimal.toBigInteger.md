@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.toBigInteger()
-permalink: Java/BigDecimal/toBigInteger
+permalink: /Java/BigDecimal/toBigInteger/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

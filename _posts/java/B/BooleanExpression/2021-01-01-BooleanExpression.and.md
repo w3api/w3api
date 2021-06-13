@@ -1,6 +1,6 @@
 ---
 title: BooleanExpression.and()
-permalink: Java/BooleanExpression/and
+permalink: /Java/BooleanExpression/and/
 date: 2021-01-11
 key: JavaJava.B.BooleanExpression
 category: java

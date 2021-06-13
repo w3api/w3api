@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesSupport.getCurrentServiceClasses()
-permalink: Java/BeanContextServicesSupport/getCurrentServiceClasses
+permalink: /Java/BeanContextServicesSupport/getCurrentServiceClasses/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesSupport
 category: java

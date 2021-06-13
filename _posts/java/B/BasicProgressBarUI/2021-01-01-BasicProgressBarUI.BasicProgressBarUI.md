@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.BasicProgressBarUI()
-permalink: Java/BasicProgressBarUI/BasicProgressBarUI
+permalink: /Java/BasicProgressBarUI/BasicProgressBarUI/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxRenderer.noFocusBorder
-permalink: Java/BasicComboBoxRenderer/noFocusBorder
+permalink: /Java/BasicComboBoxRenderer/noFocusBorder/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxRenderer
 category: java

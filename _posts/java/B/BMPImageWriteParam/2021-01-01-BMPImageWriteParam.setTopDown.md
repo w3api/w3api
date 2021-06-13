@@ -1,6 +1,6 @@
 ---
 title: BMPImageWriteParam.setTopDown()
-permalink: Java/BMPImageWriteParam/setTopDown
+permalink: /Java/BMPImageWriteParam/setTopDown/
 date: 2021-01-11
 key: JavaJava.B.BMPImageWriteParam
 category: java

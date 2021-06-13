@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.createEditor()
-permalink: Java/BasicComboBoxUI/createEditor
+permalink: /Java/BasicComboBoxUI/createEditor/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

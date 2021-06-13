@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_MIN_SAMPLE_VALUE
-permalink: Java/BaselineTIFFTagSet/TAG_MIN_SAMPLE_VALUE
+permalink: /Java/BaselineTIFFTagSet/TAG_MIN_SAMPLE_VALUE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

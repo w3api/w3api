@@ -1,8 +1,8 @@
 ---
 title: LSLoadEvent.getInput()
-permalink: Java/LSLoadEvent/getInput
+permalink: /Java/LSLoadEvent/getInput/
 date: 2021-01-11
-key: JavaJava.L.LSLoadEvent
+key: Java.L.LSLoadEvent
 category: java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 

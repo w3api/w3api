@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.updateLayoutCacheExpandedNodes()
-permalink: Java/BasicTreeUI/updateLayoutCacheExpandedNodes
+permalink: /Java/BasicTreeUI/updateLayoutCacheExpandedNodes/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

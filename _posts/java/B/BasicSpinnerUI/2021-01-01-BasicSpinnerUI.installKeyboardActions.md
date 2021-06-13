@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.installKeyboardActions()
-permalink: Java/BasicSpinnerUI/installKeyboardActions
+permalink: /Java/BasicSpinnerUI/installKeyboardActions/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

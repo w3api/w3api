@@ -1,6 +1,6 @@
 ---
 title: BasicService.isOffline()
-permalink: Java/BasicService/isOffline
+permalink: /Java/BasicService/isOffline/
 date: 2021-01-11
 key: JavaJava.B.BasicService
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.getInt()
-permalink: Java/ByteBuffer/getInt
+permalink: /Java/ByteBuffer/getInt/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

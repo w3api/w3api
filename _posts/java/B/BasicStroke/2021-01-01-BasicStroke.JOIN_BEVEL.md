@@ -1,6 +1,6 @@
 ---
 title: BasicStroke.JOIN_BEVEL
-permalink: Java/BasicStroke/JOIN_BEVEL
+permalink: /Java/BasicStroke/JOIN_BEVEL/
 date: 2021-01-11
 key: JavaJava.B.BasicStroke
 category: java

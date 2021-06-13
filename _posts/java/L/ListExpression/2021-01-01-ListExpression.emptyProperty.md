@@ -2,7 +2,7 @@
 title: ListExpression.emptyProperty()
 permalink: Java/ListExpression/emptyProperty
 date: 2021-01-11
-key: JavaJava.L.ListExpression
+key: Java.L.ListExpression
 category: java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

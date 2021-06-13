@@ -1,6 +1,6 @@
 ---
 title: BindingListHolder.value
-permalink: Java/BindingListHolder/value
+permalink: /Java/BindingListHolder/value/
 date: 2021-01-11
 key: JavaJava.B.BindingListHolder
 category: java

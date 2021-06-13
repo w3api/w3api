@@ -1,6 +1,6 @@
 ---
 title: BindingIteratorPOA
-permalink: Java/BindingIteratorPOA
+permalink: /Java/BindingIteratorPOA/
 date: 2021-01-11
 key: JavaJava.B.BindingIteratorPOA
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BaseRowSet.setFetchSize()
-permalink: Java/BaseRowSet/setFetchSize
+permalink: /Java/BaseRowSet/setFetchSize/
 date: 2021-01-11
-key: JavaJava.B.BaseRowSet
+key: Java.B.BaseRowSet
 category: java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 

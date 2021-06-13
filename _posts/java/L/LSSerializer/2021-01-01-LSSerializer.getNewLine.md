@@ -1,8 +1,8 @@
 ---
 title: LSSerializer.getNewLine()
-permalink: Java/LSSerializer/getNewLine
+permalink: /Java/LSSerializer/getNewLine/
 date: 2021-01-11
-key: JavaJava.L.LSSerializer
+key: Java.L.LSSerializer
 category: java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 

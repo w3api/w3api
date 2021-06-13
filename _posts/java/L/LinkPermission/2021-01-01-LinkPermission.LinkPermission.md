@@ -1,8 +1,8 @@
 ---
 title: LinkPermission.LinkPermission()
-permalink: Java/LinkPermission/LinkPermission
+permalink: /Java/LinkPermission/LinkPermission/
 date: 2021-01-11
-key: JavaJava.L.LinkPermission
+key: Java.L.LinkPermission
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: BeanContextServiceAvailableEvent.BeanContextServiceAvailableEvent()
-permalink: Java/BeanContextServiceAvailableEvent/BeanContextServiceAvailableEvent
+permalink: /Java/BeanContextServiceAvailableEvent/BeanContextServiceAvailableEvent/
 date: 2021-01-11
-key: JavaJava.B.BeanContextServiceAvailableEvent
+key: Java.B.BeanContextServiceAvailableEvent
 category: java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

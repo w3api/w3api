@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.getHorizontalLegBuffer()
-permalink: Java/BasicTreeUI/getHorizontalLegBuffer
+permalink: /Java/BasicTreeUI/getHorizontalLegBuffer/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

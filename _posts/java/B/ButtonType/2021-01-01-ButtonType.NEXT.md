@@ -1,6 +1,6 @@
 ---
 title: ButtonType.NEXT
-permalink: Java/ButtonType/NEXT
+permalink: /Java/ButtonType/NEXT/
 date: 2021-01-11
 key: JavaJava.B.ButtonType
 category: java

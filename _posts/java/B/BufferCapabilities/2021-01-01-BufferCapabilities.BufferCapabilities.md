@@ -1,6 +1,6 @@
 ---
 title: BufferCapabilities.BufferCapabilities()
-permalink: Java/BufferCapabilities/BufferCapabilities
+permalink: /Java/BufferCapabilities/BufferCapabilities/
 date: 2021-01-11
 key: JavaJava.B.BufferCapabilities
 category: java

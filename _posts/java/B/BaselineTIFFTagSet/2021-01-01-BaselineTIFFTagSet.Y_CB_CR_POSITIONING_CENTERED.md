@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.Y_CB_CR_POSITIONING_CENTERED
-permalink: Java/BaselineTIFFTagSet/Y_CB_CR_POSITIONING_CENTERED
+permalink: /Java/BaselineTIFFTagSet/Y_CB_CR_POSITIONING_CENTERED/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

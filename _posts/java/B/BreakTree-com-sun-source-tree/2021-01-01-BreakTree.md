@@ -1,6 +1,6 @@
 ---
 title: BreakTree
-permalink: Java/BreakTree-com-sun-source-tree
+permalink: /Java/BreakTree-com-sun-source-tree/
 date: 2021-01-11
 key: JavaJava.B.BreakTree-com-sun-source-tree
 category: java

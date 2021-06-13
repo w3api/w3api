@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopIconUI.createMouseInputListener()
-permalink: Java/BasicDesktopIconUI/createMouseInputListener
+permalink: /Java/BasicDesktopIconUI/createMouseInputListener/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopIconUI
 category: java

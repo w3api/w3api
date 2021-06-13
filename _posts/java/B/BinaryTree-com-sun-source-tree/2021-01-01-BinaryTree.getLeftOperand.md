@@ -1,6 +1,6 @@
 ---
 title: BinaryTree.getLeftOperand()
-permalink: Java/BinaryTree-com-sun-source-tree/getLeftOperand
+permalink: /Java/BinaryTree-com-sun-source-tree/getLeftOperand/
 date: 2021-01-11
 key: JavaJava.B.BinaryTree-com-sun-source-tree
 category: java

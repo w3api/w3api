@@ -1,6 +1,6 @@
 ---
 title: BoxLayout.maximumLayoutSize()
-permalink: Java/BoxLayout/maximumLayoutSize
+permalink: /Java/BoxLayout/maximumLayoutSize/
 date: 2021-01-11
 key: JavaJava.B.BoxLayout
 category: java

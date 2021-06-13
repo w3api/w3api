@@ -1,8 +1,8 @@
 ---
 title: LayoutPath.LayoutPath()
-permalink: Java/LayoutPath/LayoutPath
+permalink: /Java/LayoutPath/LayoutPath/
 date: 2021-01-11
-key: JavaJava.L.LayoutPath
+key: Java.L.LayoutPath
 category: java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 

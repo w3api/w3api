@@ -2,7 +2,7 @@
 title: LdapPrincipal
 permalink: Java/LdapPrincipal
 date: 2021-01-11
-key: JavaJava.L.LdapPrincipal
+key: Java.L.LdapPrincipal
 category: java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'clase java', 'Java 1.6']
 sidebar: 

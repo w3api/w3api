@@ -1,6 +1,6 @@
 ---
 title: BasicColorChooserUI.uninstallDefaultChoosers()
-permalink: Java/BasicColorChooserUI/uninstallDefaultChoosers
+permalink: /Java/BasicColorChooserUI/uninstallDefaultChoosers/
 date: 2021-01-11
 key: JavaJava.B.BasicColorChooserUI
 category: java

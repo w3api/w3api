@@ -1,8 +1,8 @@
 ---
 title: BasicFileChooserUI.isDirectorySelected()
-permalink: Java/BasicFileChooserUI/isDirectorySelected
+permalink: /Java/BasicFileChooserUI/isDirectorySelected/
 date: 2021-01-11
-key: JavaJava.B.BasicFileChooserUI
+key: Java.B.BasicFileChooserUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

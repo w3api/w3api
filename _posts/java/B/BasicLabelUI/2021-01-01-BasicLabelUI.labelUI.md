@@ -1,8 +1,8 @@
 ---
 title: BasicLabelUI.labelUI
-permalink: Java/BasicLabelUI/labelUI
+permalink: /Java/BasicLabelUI/labelUI/
 date: 2021-01-11
-key: JavaJava.B.BasicLabelUI
+key: Java.B.BasicLabelUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

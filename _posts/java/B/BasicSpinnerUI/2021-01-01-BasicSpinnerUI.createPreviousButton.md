@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.createPreviousButton()
-permalink: Java/BasicSpinnerUI/createPreviousButton
+permalink: /Java/BasicSpinnerUI/createPreviousButton/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

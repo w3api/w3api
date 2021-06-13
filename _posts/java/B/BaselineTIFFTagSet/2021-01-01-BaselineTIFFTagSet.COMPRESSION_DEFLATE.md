@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.COMPRESSION_DEFLATE
-permalink: Java/BaselineTIFFTagSet/COMPRESSION_DEFLATE
+permalink: /Java/BaselineTIFFTagSet/COMPRESSION_DEFLATE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

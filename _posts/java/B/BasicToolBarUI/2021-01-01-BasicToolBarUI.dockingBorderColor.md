@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.dockingBorderColor
-permalink: Java/BasicToolBarUI/dockingBorderColor
+permalink: /Java/BasicToolBarUI/dockingBorderColor/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

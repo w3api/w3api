@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.updateCachedPreferredSize()
-permalink: Java/BasicTreeUI/updateCachedPreferredSize
+permalink: /Java/BasicTreeUI/updateCachedPreferredSize/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BorderUIResource.EtchedBorderUIResource.BorderUIResource.EtchedBorderUIResource()
-permalink: Java/BorderUIResource/EtchedBorderUIResource/BorderUIResource/EtchedBorderUIResource
+permalink: /Java/BorderUIResource/EtchedBorderUIResource/BorderUIResource/EtchedBorderUIResource/
 date: 2021-01-11
-key: JavaJava.B.BorderUIResource.EtchedBorderUIResource
+key: Java.B.BorderUIResource.EtchedBorderUIResource
 category: java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

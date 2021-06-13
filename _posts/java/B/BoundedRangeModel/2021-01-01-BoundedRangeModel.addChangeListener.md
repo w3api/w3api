@@ -1,6 +1,6 @@
 ---
 title: BoundedRangeModel.addChangeListener()
-permalink: Java/BoundedRangeModel/addChangeListener
+permalink: /Java/BoundedRangeModel/addChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BoundedRangeModel
 category: java

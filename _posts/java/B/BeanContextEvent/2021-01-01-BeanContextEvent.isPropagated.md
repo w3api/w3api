@@ -1,6 +1,6 @@
 ---
 title: BeanContextEvent.isPropagated()
-permalink: Java/BeanContextEvent/isPropagated
+permalink: /Java/BeanContextEvent/isPropagated/
 date: 2021-01-11
 key: JavaJava.B.BeanContextEvent
 category: java

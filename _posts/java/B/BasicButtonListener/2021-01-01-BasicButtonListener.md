@@ -1,6 +1,6 @@
 ---
 title: BasicButtonListener
-permalink: Java/BasicButtonListener
+permalink: /Java/BasicButtonListener/
 date: 2021-01-11
 key: JavaJava.B.BasicButtonListener
 category: java

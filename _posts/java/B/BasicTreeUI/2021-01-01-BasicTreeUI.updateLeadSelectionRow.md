@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.updateLeadSelectionRow()
-permalink: Java/BasicTreeUI/updateLeadSelectionRow
+permalink: /Java/BasicTreeUI/updateLeadSelectionRow/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

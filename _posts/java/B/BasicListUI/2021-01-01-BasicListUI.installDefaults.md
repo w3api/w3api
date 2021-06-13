@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.installDefaults()
-permalink: Java/BasicListUI/installDefaults
+permalink: /Java/BasicListUI/installDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

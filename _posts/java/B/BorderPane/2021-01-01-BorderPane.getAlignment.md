@@ -1,6 +1,6 @@
 ---
 title: BorderPane.getAlignment()
-permalink: Java/BorderPane/getAlignment
+permalink: /Java/BorderPane/getAlignment/
 date: 2021-01-11
 key: JavaJava.B.BorderPane
 category: java

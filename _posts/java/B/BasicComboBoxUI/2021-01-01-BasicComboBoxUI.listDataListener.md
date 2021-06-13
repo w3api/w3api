@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.listDataListener
-permalink: Java/BasicComboBoxUI/listDataListener
+permalink: /Java/BasicComboBoxUI/listDataListener/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

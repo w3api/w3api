@@ -1,8 +1,8 @@
 ---
 title: BasicSplitPaneUI.NON_CONTINUOUS_DIVIDER
-permalink: Java/BasicSplitPaneUI/NON_CONTINUOUS_DIVIDER
+permalink: /Java/BasicSplitPaneUI/NON_CONTINUOUS_DIVIDER/
 date: 2021-01-11
-key: JavaJava.B.BasicSplitPaneUI
+key: Java.B.BasicSplitPaneUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

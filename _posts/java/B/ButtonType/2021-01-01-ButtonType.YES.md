@@ -1,6 +1,6 @@
 ---
 title: ButtonType.YES
-permalink: Java/ButtonType/YES
+permalink: /Java/ButtonType/YES/
 date: 2021-01-11
 key: JavaJava.B.ButtonType
 category: java

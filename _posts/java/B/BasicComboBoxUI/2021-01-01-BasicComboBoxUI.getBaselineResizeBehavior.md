@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.getBaselineResizeBehavior()
-permalink: Java/BasicComboBoxUI/getBaselineResizeBehavior
+permalink: /Java/BasicComboBoxUI/getBaselineResizeBehavior/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

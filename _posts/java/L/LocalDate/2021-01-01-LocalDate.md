@@ -1,8 +1,8 @@
 ---
 title: LocalDate
-permalink: Java/LocalDate
+permalink: /Java/LocalDate/
 date: 2021-01-11
-key: JavaJava.L.LocalDate
+key: Java.L.LocalDate
 category: java
 tags: ['java se', 'java.time', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BindingProvider.getBinding()
-permalink: Java/BindingProvider/getBinding
+permalink: /Java/BindingProvider/getBinding/
 date: 2021-01-11
 key: JavaJava.B.BindingProvider
 category: java

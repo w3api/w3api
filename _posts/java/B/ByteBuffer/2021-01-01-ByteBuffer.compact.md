@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.compact()
-permalink: Java/ByteBuffer/compact
+permalink: /Java/ByteBuffer/compact/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

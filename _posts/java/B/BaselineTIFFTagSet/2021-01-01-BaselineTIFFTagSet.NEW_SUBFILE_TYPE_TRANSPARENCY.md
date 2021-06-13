@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.NEW_SUBFILE_TYPE_TRANSPARENCY
-permalink: Java/BaselineTIFFTagSet/NEW_SUBFILE_TYPE_TRANSPARENCY
+permalink: /Java/BaselineTIFFTagSet/NEW_SUBFILE_TYPE_TRANSPARENCY/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

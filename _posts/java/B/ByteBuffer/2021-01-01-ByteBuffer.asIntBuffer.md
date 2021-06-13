@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.asIntBuffer()
-permalink: Java/ByteBuffer/asIntBuffer
+permalink: /Java/ByteBuffer/asIntBuffer/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

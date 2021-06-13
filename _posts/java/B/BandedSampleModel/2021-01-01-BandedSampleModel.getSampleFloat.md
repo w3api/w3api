@@ -1,6 +1,6 @@
 ---
 title: BandedSampleModel.getSampleFloat()
-permalink: Java/BandedSampleModel/getSampleFloat
+permalink: /Java/BandedSampleModel/getSampleFloat/
 date: 2021-01-11
 key: JavaJava.B.BandedSampleModel
 category: java

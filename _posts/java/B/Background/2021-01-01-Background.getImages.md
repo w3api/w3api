@@ -1,6 +1,6 @@
 ---
 title: Background.getImages()
-permalink: Java/Background/getImages
+permalink: /Java/Background/getImages/
 date: 2021-01-11
 key: JavaJava.B.Background
 category: java

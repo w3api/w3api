@@ -1,6 +1,6 @@
 ---
 title: BeanContextChild.setBeanContext()
-permalink: Java/BeanContextChild/setBeanContext
+permalink: /Java/BeanContextChild/setBeanContext/
 date: 2021-01-11
 key: JavaJava.B.BeanContextChild
 category: java

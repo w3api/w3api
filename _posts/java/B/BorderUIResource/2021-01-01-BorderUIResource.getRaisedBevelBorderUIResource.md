@@ -1,6 +1,6 @@
 ---
 title: BorderUIResource.getRaisedBevelBorderUIResource()
-permalink: Java/BorderUIResource/getRaisedBevelBorderUIResource
+permalink: /Java/BorderUIResource/getRaisedBevelBorderUIResource/
 date: 2021-01-11
 key: JavaJava.B.BorderUIResource
 category: java

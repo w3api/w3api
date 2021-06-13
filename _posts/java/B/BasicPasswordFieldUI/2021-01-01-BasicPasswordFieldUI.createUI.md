@@ -1,6 +1,6 @@
 ---
 title: BasicPasswordFieldUI.createUI()
-permalink: Java/BasicPasswordFieldUI/createUI
+permalink: /Java/BasicPasswordFieldUI/createUI/
 date: 2021-01-11
 key: JavaJava.B.BasicPasswordFieldUI
 category: java

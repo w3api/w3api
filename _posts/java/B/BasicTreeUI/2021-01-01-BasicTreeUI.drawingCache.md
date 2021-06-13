@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.drawingCache
-permalink: Java/BasicTreeUI/drawingCache
+permalink: /Java/BasicTreeUI/drawingCache/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

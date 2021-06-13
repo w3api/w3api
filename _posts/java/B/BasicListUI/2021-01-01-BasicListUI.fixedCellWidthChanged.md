@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.fixedCellWidthChanged
-permalink: Java/BasicListUI/fixedCellWidthChanged
+permalink: /Java/BasicListUI/fixedCellWidthChanged/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

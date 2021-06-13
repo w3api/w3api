@@ -1,6 +1,6 @@
 ---
 title: BasicStroke.getLineJoin()
-permalink: Java/BasicStroke/getLineJoin
+permalink: /Java/BasicStroke/getLineJoin/
 date: 2021-01-11
 key: JavaJava.B.BasicStroke
 category: java

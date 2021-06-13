@@ -1,6 +1,6 @@
 ---
 title: BasicOptionPaneUI.ButtonAreaLayout.syncAllWidths
-permalink: Java/BasicOptionPaneUI/ButtonAreaLayout/syncAllWidths
+permalink: /Java/BasicOptionPaneUI/ButtonAreaLayout/syncAllWidths/
 date: 2021-01-11
 key: JavaJava.B.BasicOptionPaneUI.ButtonAreaLayout
 category: java

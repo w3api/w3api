@@ -1,6 +1,6 @@
 ---
 title: BinaryRefAddr.equals()
-permalink: Java/BinaryRefAddr/equals
+permalink: /Java/BinaryRefAddr/equals/
 date: 2021-01-11
 key: JavaJava.B.BinaryRefAddr
 category: java

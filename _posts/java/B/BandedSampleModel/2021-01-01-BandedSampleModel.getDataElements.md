@@ -1,6 +1,6 @@
 ---
 title: BandedSampleModel.getDataElements()
-permalink: Java/BandedSampleModel/getDataElements
+permalink: /Java/BandedSampleModel/getDataElements/
 date: 2021-01-11
 key: JavaJava.B.BandedSampleModel
 category: java

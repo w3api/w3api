@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_IMAGE_LENGTH
-permalink: Java/BaselineTIFFTagSet/TAG_IMAGE_LENGTH
+permalink: /Java/BaselineTIFFTagSet/TAG_IMAGE_LENGTH/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

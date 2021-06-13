@@ -2,7 +2,7 @@
 title: LambdaMetafactory.FLAG_SERIALIZABLE
 permalink: Java/LambdaMetafactory/FLAG_SERIALIZABLE
 date: 2021-01-11
-key: JavaJava.L.LambdaMetafactory
+key: Java.L.LambdaMetafactory
 category: java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 

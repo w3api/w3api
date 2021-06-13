@@ -1,8 +1,8 @@
 ---
 title: LineChart.SortingPolicy.valueOf()
-permalink: Java/LineChart/SortingPolicy/valueOf
+permalink: /Java/LineChart/SortingPolicy/valueOf/
 date: 2021-01-11
-key: JavaJava.L.LineChart.SortingPolicy
+key: Java.L.LineChart.SortingPolicy
 category: java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BeanProperty.description
-permalink: Java/BeanProperty/description
+permalink: /Java/BeanProperty/description/
 date: 2021-01-11
 key: JavaJava.B.BeanProperty
 category: java

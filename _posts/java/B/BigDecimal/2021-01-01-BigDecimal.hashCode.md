@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.hashCode()
-permalink: Java/BigDecimal/hashCode
+permalink: /Java/BigDecimal/hashCode/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

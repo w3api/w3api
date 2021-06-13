@@ -1,6 +1,6 @@
 ---
 title: BasicTextFieldUI.create()
-permalink: Java/BasicTextFieldUI/create
+permalink: /Java/BasicTextFieldUI/create/
 date: 2021-01-11
 key: JavaJava.B.BasicTextFieldUI
 category: java

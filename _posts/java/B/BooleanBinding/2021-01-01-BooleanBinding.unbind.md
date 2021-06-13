@@ -1,6 +1,6 @@
 ---
 title: BooleanBinding.unbind()
-permalink: Java/BooleanBinding/unbind
+permalink: /Java/BooleanBinding/unbind/
 date: 2021-01-11
 key: JavaJava.B.BooleanBinding
 category: java

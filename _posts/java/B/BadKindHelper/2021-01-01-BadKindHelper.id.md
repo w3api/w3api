@@ -1,6 +1,6 @@
 ---
 title: BadKindHelper.id()
-permalink: Java/BadKindHelper/id
+permalink: /Java/BadKindHelper/id/
 date: 2021-01-11
 key: JavaJava.B.BadKindHelper
 category: java

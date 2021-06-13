@@ -1,8 +1,8 @@
 ---
 title: LayoutQueue
-permalink: Java/LayoutQueue
+permalink: /Java/LayoutQueue/
 date: 2021-01-11
-key: JavaJava.L.LayoutQueue
+key: Java.L.LayoutQueue
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 

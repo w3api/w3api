@@ -1,8 +1,8 @@
 ---
 title: BeanContextServices.getCurrentServiceSelectors()
-permalink: Java/BeanContextServices/getCurrentServiceSelectors
+permalink: /Java/BeanContextServices/getCurrentServiceSelectors/
 date: 2021-01-11
-key: JavaJava.B.BeanContextServices
+key: Java.B.BeanContextServices
 category: java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

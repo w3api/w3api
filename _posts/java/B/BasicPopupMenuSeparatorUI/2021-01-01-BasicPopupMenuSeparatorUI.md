@@ -1,6 +1,6 @@
 ---
 title: BasicPopupMenuSeparatorUI
-permalink: Java/BasicPopupMenuSeparatorUI
+permalink: /Java/BasicPopupMenuSeparatorUI/
 date: 2021-01-11
 key: JavaJava.B.BasicPopupMenuSeparatorUI
 category: java

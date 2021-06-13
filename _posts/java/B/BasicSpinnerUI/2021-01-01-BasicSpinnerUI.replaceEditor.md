@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.replaceEditor()
-permalink: Java/BasicSpinnerUI/replaceEditor
+permalink: /Java/BasicSpinnerUI/replaceEditor/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

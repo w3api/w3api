@@ -1,8 +1,8 @@
 ---
 title: BufferedImage
-permalink: Java/BufferedImage
+permalink: /Java/BufferedImage/
 date: 2021-01-11
-key: JavaJava.B.BufferedImage
+key: Java.B.BufferedImage
 category: java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

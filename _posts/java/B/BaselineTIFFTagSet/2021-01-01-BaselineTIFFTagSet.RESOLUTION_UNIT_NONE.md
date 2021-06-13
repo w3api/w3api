@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.RESOLUTION_UNIT_NONE
-permalink: Java/BaselineTIFFTagSet/RESOLUTION_UNIT_NONE
+permalink: /Java/BaselineTIFFTagSet/RESOLUTION_UNIT_NONE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

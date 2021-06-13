@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.itemListener
-permalink: Java/BasicComboPopup/itemListener
+permalink: /Java/BasicComboPopup/itemListener/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

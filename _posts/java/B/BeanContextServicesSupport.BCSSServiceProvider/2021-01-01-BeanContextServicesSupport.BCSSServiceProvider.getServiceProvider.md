@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesSupport.BCSSServiceProvider.getServiceProvider()
-permalink: Java/BeanContextServicesSupport/BCSSServiceProvider/getServiceProvider
+permalink: /Java/BeanContextServicesSupport/BCSSServiceProvider/getServiceProvider/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesSupport.BCSSServiceProvider
 category: java

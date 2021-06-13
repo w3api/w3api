@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.order()
-permalink: Java/ByteBuffer/order
+permalink: /Java/ByteBuffer/order/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

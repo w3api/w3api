@@ -1,8 +1,8 @@
 ---
 title: BasicBorders.SplitPaneBorder.highlight
-permalink: Java/BasicBorders/SplitPaneBorder/highlight
+permalink: /Java/BasicBorders/SplitPaneBorder/highlight/
 date: 2021-01-11
-key: JavaJava.B.BasicBorders.SplitPaneBorder
+key: Java.B.BasicBorders.SplitPaneBorder
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

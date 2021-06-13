@@ -1,6 +1,6 @@
 ---
 title: BasicViewportUI.uninstallDefaults()
-permalink: Java/BasicViewportUI/uninstallDefaults
+permalink: /Java/BasicViewportUI/uninstallDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicViewportUI
 category: java

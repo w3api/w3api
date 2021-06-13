@@ -1,8 +1,8 @@
 ---
 title: BooleanSeqHelper.type()
-permalink: Java/BooleanSeqHelper/type
+permalink: /Java/BooleanSeqHelper/type/
 date: 2021-01-11
-key: JavaJava.B.BooleanSeqHelper
+key: Java.B.BooleanSeqHelper
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

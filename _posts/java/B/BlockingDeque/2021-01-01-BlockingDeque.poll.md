@@ -1,6 +1,6 @@
 ---
 title: BlockingDeque.poll()
-permalink: Java/BlockingDeque/poll
+permalink: /Java/BlockingDeque/poll/
 date: 2021-01-11
 key: JavaJava.B.BlockingDeque
 category: java

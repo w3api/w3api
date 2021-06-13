@@ -2,7 +2,7 @@
 title: LocalExecutionControlProvider.LocalExecutionControlProvider()
 permalink: Java/LocalExecutionControlProvider/LocalExecutionControlProvider
 date: 2021-01-11
-key: JavaJava.L.LocalExecutionControlProvider
+key: Java.L.LocalExecutionControlProvider
 category: java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.currentCellRenderer
-permalink: Java/BasicTreeUI/currentCellRenderer
+permalink: /Java/BasicTreeUI/currentCellRenderer/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

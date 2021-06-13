@@ -1,6 +1,6 @@
 ---
 title: BasicBorders.RolloverButtonBorder.BasicBorders.RolloverButtonBorder()
-permalink: Java/BasicBorders/RolloverButtonBorder/BasicBorders/RolloverButtonBorder
+permalink: /Java/BasicBorders/RolloverButtonBorder/BasicBorders/RolloverButtonBorder/
 date: 2021-01-11
 key: JavaJava.B.BasicBorders.RolloverButtonBorder
 category: java

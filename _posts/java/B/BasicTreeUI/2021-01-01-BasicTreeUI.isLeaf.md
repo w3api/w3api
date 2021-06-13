@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.isLeaf()
-permalink: Java/BasicTreeUI/isLeaf
+permalink: /Java/BasicTreeUI/isLeaf/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ButtonBase.onActionProperty()
-permalink: Java/ButtonBase/onActionProperty
+permalink: /Java/ButtonBase/onActionProperty/
 date: 2021-01-11
 key: JavaJava.B.ButtonBase
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_JPEG_INTERCHANGE_FORMAT
-permalink: Java/BaselineTIFFTagSet/TAG_JPEG_INTERCHANGE_FORMAT
+permalink: /Java/BaselineTIFFTagSet/TAG_JPEG_INTERCHANGE_FORMAT/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.installComponents()
-permalink: Java/BasicComboBoxUI/installComponents
+permalink: /Java/BasicComboBoxUI/installComponents/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.convertRowToY()
-permalink: Java/BasicListUI/convertRowToY
+permalink: /Java/BasicListUI/convertRowToY/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

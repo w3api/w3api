@@ -1,6 +1,6 @@
 ---
 title: BasicPanelUI
-permalink: Java/BasicPanelUI
+permalink: /Java/BasicPanelUI/
 date: 2021-01-11
 key: JavaJava.B.BasicPanelUI
 category: java

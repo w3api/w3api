@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.createPropertyChangeListener()
-permalink: Java/BasicInternalFrameTitlePane/createPropertyChangeListener
+permalink: /Java/BasicInternalFrameTitlePane/createPropertyChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

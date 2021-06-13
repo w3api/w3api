@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_PHOTOMETRIC_INTERPRETATION
-permalink: Java/BaselineTIFFTagSet/TAG_PHOTOMETRIC_INTERPRETATION
+permalink: /Java/BaselineTIFFTagSet/TAG_PHOTOMETRIC_INTERPRETATION/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

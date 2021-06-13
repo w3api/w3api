@@ -2,7 +2,7 @@
 title: LoadException.LoadException()
 permalink: Java/LoadException/LoadException
 date: 2021-01-11
-key: JavaJava.L.LoadException
+key: Java.L.LoadException
 category: java
 tags: ['java se', 'javafx.fxml', 'javafx.fxml', 'metodo java', 'JavaFX 2.0']
 sidebar: 

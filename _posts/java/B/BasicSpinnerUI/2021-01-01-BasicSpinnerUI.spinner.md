@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.spinner
-permalink: Java/BasicSpinnerUI/spinner
+permalink: /Java/BasicSpinnerUI/spinner/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

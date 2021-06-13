@@ -1,8 +1,8 @@
 ---
 title: BasicScrollBarUI.DECREASE_HIGHLIGHT
-permalink: Java/BasicScrollBarUI/DECREASE_HIGHLIGHT
+permalink: /Java/BasicScrollBarUI/DECREASE_HIGHLIGHT/
 date: 2021-01-11
-key: JavaJava.B.BasicScrollBarUI
+key: Java.B.BasicScrollBarUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

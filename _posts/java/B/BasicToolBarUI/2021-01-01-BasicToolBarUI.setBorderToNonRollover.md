@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.setBorderToNonRollover()
-permalink: Java/BasicToolBarUI/setBorderToNonRollover
+permalink: /Java/BasicToolBarUI/setBorderToNonRollover/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

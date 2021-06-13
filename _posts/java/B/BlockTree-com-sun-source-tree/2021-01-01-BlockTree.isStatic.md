@@ -1,6 +1,6 @@
 ---
 title: BlockTree.isStatic()
-permalink: Java/BlockTree-com-sun-source-tree/isStatic
+permalink: /Java/BlockTree-com-sun-source-tree/isStatic/
 date: 2021-01-11
 key: JavaJava.B.BlockTree-com-sun-source-tree
 category: java

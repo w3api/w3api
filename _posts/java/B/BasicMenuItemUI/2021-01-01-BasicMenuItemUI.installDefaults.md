@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.installDefaults()
-permalink: Java/BasicMenuItemUI/installDefaults
+permalink: /Java/BasicMenuItemUI/installDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

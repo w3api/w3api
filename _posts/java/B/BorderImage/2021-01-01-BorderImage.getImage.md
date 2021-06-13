@@ -1,6 +1,6 @@
 ---
 title: BorderImage.getImage()
-permalink: Java/BorderImage/getImage
+permalink: /Java/BorderImage/getImage/
 date: 2021-01-11
 key: JavaJava.B.BorderImage
 category: java

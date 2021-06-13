@@ -1,8 +1,8 @@
 ---
 title: ButtonBar.ButtonData.RIGHT
-permalink: Java/ButtonBar/ButtonData/RIGHT
+permalink: /Java/ButtonBar/ButtonData/RIGHT/
 date: 2021-01-11
-key: JavaJava.B.ButtonBar.ButtonData
+key: Java.B.ButtonBar.ButtonData
 category: java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 8.0']
 sidebar: 

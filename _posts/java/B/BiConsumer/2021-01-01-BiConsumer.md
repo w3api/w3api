@@ -1,6 +1,6 @@
 ---
 title: BiConsumer
-permalink: Java/BiConsumer
+permalink: /Java/BiConsumer/
 date: 2021-01-11
 key: JavaJava.B.BiConsumer
 category: java

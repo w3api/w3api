@@ -1,8 +1,8 @@
 ---
 title: LIFESPAN_POLICY_ID.value
-permalink: Java/LIFESPAN_POLICY_ID/value
+permalink: /Java/LIFESPAN_POLICY_ID/value/
 date: 2021-01-11
-key: JavaJava.L.LIFESPAN_POLICY_ID
+key: Java.L.LIFESPAN_POLICY_ID
 category: java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

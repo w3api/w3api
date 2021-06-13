@@ -1,6 +1,6 @@
 ---
 title: BufferedInputStream.skip()
-permalink: Java/BufferedInputStream/skip
+permalink: /Java/BufferedInputStream/skip/
 date: 2021-01-11
 key: JavaJava.B.BufferedInputStream
 category: java

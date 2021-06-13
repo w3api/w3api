@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.uninstallKeyboardActions()
-permalink: Java/BasicMenuItemUI/uninstallKeyboardActions
+permalink: /Java/BasicMenuItemUI/uninstallKeyboardActions/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

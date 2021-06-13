@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.getSelectedTabPadInsets()
-permalink: Java/BasicTabbedPaneUI/getSelectedTabPadInsets
+permalink: /Java/BasicTabbedPaneUI/getSelectedTabPadInsets/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

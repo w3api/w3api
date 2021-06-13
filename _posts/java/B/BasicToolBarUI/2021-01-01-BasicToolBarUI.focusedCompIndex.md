@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.focusedCompIndex
-permalink: Java/BasicToolBarUI/focusedCompIndex
+permalink: /Java/BasicToolBarUI/focusedCompIndex/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

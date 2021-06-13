@@ -1,8 +1,8 @@
 ---
 title: BasicScrollPaneUI.scrollpane
-permalink: Java/BasicScrollPaneUI/scrollpane
+permalink: /Java/BasicScrollPaneUI/scrollpane/
 date: 2021-01-11
-key: JavaJava.B.BasicScrollPaneUI
+key: Java.B.BasicScrollPaneUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

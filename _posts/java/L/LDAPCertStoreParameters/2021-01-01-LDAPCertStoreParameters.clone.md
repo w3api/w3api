@@ -1,8 +1,8 @@
 ---
 title: LDAPCertStoreParameters.clone()
-permalink: Java/LDAPCertStoreParameters/clone
+permalink: /Java/LDAPCertStoreParameters/clone/
 date: 2021-01-11
-key: JavaJava.L.LDAPCertStoreParameters
+key: Java.L.LDAPCertStoreParameters
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_HOST_COMPUTER
-permalink: Java/BaselineTIFFTagSet/TAG_HOST_COMPUTER
+permalink: /Java/BaselineTIFFTagSet/TAG_HOST_COMPUTER/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

@@ -1,8 +1,8 @@
 ---
 title: ListeningConnector.supportsMultipleConnections()
-permalink: Java/ListeningConnector/supportsMultipleConnections
+permalink: /Java/ListeningConnector/supportsMultipleConnections/
 date: 2021-01-11
-key: JavaJava.L.ListeningConnector
+key: Java.L.ListeningConnector
 category: java
 tags: ['java se', 'com.sun.jdi.connect', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 

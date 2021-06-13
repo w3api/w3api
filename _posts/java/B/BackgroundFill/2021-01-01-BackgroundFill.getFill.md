@@ -1,6 +1,6 @@
 ---
 title: BackgroundFill.getFill()
-permalink: Java/BackgroundFill/getFill
+permalink: /Java/BackgroundFill/getFill/
 date: 2021-01-11
 key: JavaJava.B.BackgroundFill
 category: java

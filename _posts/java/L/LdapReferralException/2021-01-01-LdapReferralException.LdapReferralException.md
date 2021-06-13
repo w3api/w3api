@@ -2,7 +2,7 @@
 title: LdapReferralException.LdapReferralException()
 permalink: Java/LdapReferralException/LdapReferralException
 date: 2021-01-11
-key: JavaJava.L.LdapReferralException
+key: Java.L.LdapReferralException
 category: java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 

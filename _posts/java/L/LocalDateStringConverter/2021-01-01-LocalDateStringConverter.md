@@ -2,7 +2,7 @@
 title: LocalDateStringConverter
 permalink: Java/LocalDateStringConverter
 date: 2021-01-11
-key: JavaJava.L.LocalDateStringConverter
+key: Java.L.LocalDateStringConverter
 category: java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'clase java', 'JavaFX 8.0']
 sidebar: 

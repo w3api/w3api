@@ -1,6 +1,6 @@
 ---
 title: BasicRadioButtonMenuItemUI.processMouseEvent()
-permalink: Java/BasicRadioButtonMenuItemUI/processMouseEvent
+permalink: /Java/BasicRadioButtonMenuItemUI/processMouseEvent/
 date: 2021-01-11
 key: JavaJava.B.BasicRadioButtonMenuItemUI
 category: java

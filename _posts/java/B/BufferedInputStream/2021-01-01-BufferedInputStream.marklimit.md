@@ -1,6 +1,6 @@
 ---
 title: BufferedInputStream.marklimit
-permalink: Java/BufferedInputStream/marklimit
+permalink: /Java/BufferedInputStream/marklimit/
 date: 2021-01-11
 key: JavaJava.B.BufferedInputStream
 category: java

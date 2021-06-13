@@ -1,6 +1,6 @@
 ---
 title: ByteArrayOutputStream.count
-permalink: Java/ByteArrayOutputStream/count
+permalink: /Java/ByteArrayOutputStream/count/
 date: 2021-01-11
 key: JavaJava.B.ByteArrayOutputStream
 category: java

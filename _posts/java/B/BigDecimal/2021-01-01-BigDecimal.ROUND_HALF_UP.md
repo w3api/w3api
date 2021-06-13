@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.ROUND_HALF_UP
-permalink: Java/BigDecimal/ROUND_HALF_UP
+permalink: /Java/BigDecimal/ROUND_HALF_UP/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

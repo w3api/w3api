@@ -1,6 +1,6 @@
 ---
 title: BooleanProperty.booleanProperty()
-permalink: Java/BooleanProperty/booleanProperty
+permalink: /Java/BooleanProperty/booleanProperty/
 date: 2021-01-11
 key: JavaJava.B.BooleanProperty
 category: java

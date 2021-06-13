@@ -1,8 +1,8 @@
 ---
 title: BooleanType
-permalink: Java/BooleanType
+permalink: /Java/BooleanType/
 date: 2021-01-11
-key: JavaJava.B.BooleanType
+key: Java.B.BooleanType
 category: java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 

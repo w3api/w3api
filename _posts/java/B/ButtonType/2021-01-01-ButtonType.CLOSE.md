@@ -1,6 +1,6 @@
 ---
 title: ButtonType.CLOSE
-permalink: Java/ButtonType/CLOSE
+permalink: /Java/ButtonType/CLOSE/
 date: 2021-01-11
 key: JavaJava.B.ButtonType
 category: java

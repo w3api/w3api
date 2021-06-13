@@ -1,6 +1,6 @@
 ---
 title: BooleanBinding.dispose()
-permalink: Java/BooleanBinding/dispose
+permalink: /Java/BooleanBinding/dispose/
 date: 2021-01-11
 key: JavaJava.B.BooleanBinding
 category: java

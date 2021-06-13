@@ -1,8 +1,8 @@
 ---
 title: LineChart
-permalink: Java/LineChart
+permalink: /Java/LineChart/
 date: 2021-01-11
-key: JavaJava.L.LineChart
+key: Java.L.LineChart
 category: java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'clase java', 'JavaFX 2.0']
 sidebar: 

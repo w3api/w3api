@@ -1,8 +1,8 @@
 ---
 title: BorderUIResource.EmptyBorderUIResource
-permalink: Java/BorderUIResource/EmptyBorderUIResource
+permalink: /Java/BorderUIResource/EmptyBorderUIResource/
 date: 2021-01-11
-key: JavaJava.B.BorderUIResource.EmptyBorderUIResource
+key: Java.B.BorderUIResource.EmptyBorderUIResource
 category: java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

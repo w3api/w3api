@@ -1,6 +1,6 @@
 ---
 title: BufferedReader.mark()
-permalink: Java/BufferedReader/mark
+permalink: /Java/BufferedReader/mark/
 date: 2021-01-11
 key: JavaJava.B.BufferedReader
 category: java

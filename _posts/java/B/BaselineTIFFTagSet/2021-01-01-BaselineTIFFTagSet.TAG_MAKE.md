@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_MAKE
-permalink: Java/BaselineTIFFTagSet/TAG_MAKE
+permalink: /Java/BaselineTIFFTagSet/TAG_MAKE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

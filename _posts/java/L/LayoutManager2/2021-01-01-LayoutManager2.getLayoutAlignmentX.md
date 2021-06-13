@@ -1,8 +1,8 @@
 ---
 title: LayoutManager2.getLayoutAlignmentX()
-permalink: Java/LayoutManager2/getLayoutAlignmentX
+permalink: /Java/LayoutManager2/getLayoutAlignmentX/
 date: 2021-01-11
-key: JavaJava.L.LayoutManager2
+key: Java.L.LayoutManager2
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

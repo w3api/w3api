@@ -1,8 +1,8 @@
 ---
 title: ByteLookupTable.lookupPixel()
-permalink: Java/ByteLookupTable/lookupPixel
+permalink: /Java/ByteLookupTable/lookupPixel/
 date: 2021-01-11
-key: JavaJava.B.ByteLookupTable
+key: Java.B.ByteLookupTable
 category: java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

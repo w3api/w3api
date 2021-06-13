@@ -1,6 +1,6 @@
 ---
 title: BoundedMeter.create()
-permalink: Java/BoundedMeter/create
+permalink: /Java/BoundedMeter/create/
 date: 2021-01-11
 key: JavaJava.B.BoundedMeter
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicPasswordFieldUI.BasicPasswordFieldUI()
-permalink: Java/BasicPasswordFieldUI/BasicPasswordFieldUI
+permalink: /Java/BasicPasswordFieldUI/BasicPasswordFieldUI/
 date: 2021-01-11
 key: JavaJava.B.BasicPasswordFieldUI
 category: java

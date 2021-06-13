@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.isFocusTraversable()
-permalink: Java/BasicComboBoxUI/isFocusTraversable
+permalink: /Java/BasicComboBoxUI/isFocusTraversable/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

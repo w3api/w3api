@@ -1,6 +1,6 @@
 ---
 title: BreakIteratorProvider.getCharacterInstance()
-permalink: Java/BreakIteratorProvider/getCharacterInstance
+permalink: /Java/BreakIteratorProvider/getCharacterInstance/
 date: 2021-01-11
 key: JavaJava.B.BreakIteratorProvider
 category: java

@@ -1,8 +1,8 @@
 ---
 title: LabeledSkinBase.updateChildren()
-permalink: Java/LabeledSkinBase/updateChildren
+permalink: /Java/LabeledSkinBase/updateChildren/
 date: 2021-01-11
-key: JavaJava.L.LabeledSkinBase
+key: Java.L.LabeledSkinBase
 category: java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 

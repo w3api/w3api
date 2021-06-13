@@ -1,6 +1,6 @@
 ---
 title: BasicButtonListener.installKeyboardActions()
-permalink: Java/BasicButtonListener/installKeyboardActions
+permalink: /Java/BasicButtonListener/installKeyboardActions/
 date: 2021-01-11
 key: JavaJava.B.BasicButtonListener
 category: java

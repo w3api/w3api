@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.createFocusListener()
-permalink: Java/BasicTreeUI/createFocusListener
+permalink: /Java/BasicTreeUI/createFocusListener/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

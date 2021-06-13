@@ -1,8 +1,8 @@
 ---
 title: BasicAuthenticator
-permalink: Java/BasicAuthenticator
+permalink: /Java/BasicAuthenticator/
 date: 2021-01-11
-key: JavaJava.B.BasicAuthenticator
+key: Java.B.BasicAuthenticator
 category: java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'clase java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BackgroundFill.getRadii()
-permalink: Java/BackgroundFill/getRadii
+permalink: /Java/BackgroundFill/getRadii/
 date: 2021-01-11
 key: JavaJava.B.BackgroundFill
 category: java

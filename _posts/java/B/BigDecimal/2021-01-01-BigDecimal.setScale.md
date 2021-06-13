@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.setScale()
-permalink: Java/BigDecimal/setScale
+permalink: /Java/BigDecimal/setScale/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

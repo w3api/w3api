@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopIconUI.uninstallListeners()
-permalink: Java/BasicDesktopIconUI/uninstallListeners
+permalink: /Java/BasicDesktopIconUI/uninstallListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopIconUI
 category: java

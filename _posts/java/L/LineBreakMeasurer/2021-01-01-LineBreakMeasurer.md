@@ -1,8 +1,8 @@
 ---
 title: LineBreakMeasurer
-permalink: Java/LineBreakMeasurer
+permalink: /Java/LineBreakMeasurer/
 date: 2021-01-11
-key: JavaJava.L.LineBreakMeasurer
+key: Java.L.LineBreakMeasurer
 category: java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

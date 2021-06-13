@@ -1,8 +1,8 @@
 ---
 title: LinkRequest.replaceArguments()
-permalink: Java/LinkRequest/replaceArguments
+permalink: /Java/LinkRequest/replaceArguments/
 date: 2021-01-11
-key: JavaJava.L.LinkRequest
+key: Java.L.LinkRequest
 category: java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 

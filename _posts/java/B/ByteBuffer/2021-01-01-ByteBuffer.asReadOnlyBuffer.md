@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.asReadOnlyBuffer()
-permalink: Java/ByteBuffer/asReadOnlyBuffer
+permalink: /Java/ByteBuffer/asReadOnlyBuffer/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

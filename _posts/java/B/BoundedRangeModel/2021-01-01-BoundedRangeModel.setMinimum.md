@@ -1,6 +1,6 @@
 ---
 title: BoundedRangeModel.setMinimum()
-permalink: Java/BoundedRangeModel/setMinimum
+permalink: /Java/BoundedRangeModel/setMinimum/
 date: 2021-01-11
 key: JavaJava.B.BoundedRangeModel
 category: java

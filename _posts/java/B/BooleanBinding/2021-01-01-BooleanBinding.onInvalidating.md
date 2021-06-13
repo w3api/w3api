@@ -1,6 +1,6 @@
 ---
 title: BooleanBinding.onInvalidating()
-permalink: Java/BooleanBinding/onInvalidating
+permalink: /Java/BooleanBinding/onInvalidating/
 date: 2021-01-11
 key: JavaJava.B.BooleanBinding
 category: java

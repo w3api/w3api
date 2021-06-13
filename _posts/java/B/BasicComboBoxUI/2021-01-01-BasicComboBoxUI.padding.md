@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.padding
-permalink: Java/BasicComboBoxUI/padding
+permalink: /Java/BasicComboBoxUI/padding/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.incrementAnimationIndex()
-permalink: Java/BasicProgressBarUI/incrementAnimationIndex
+permalink: /Java/BasicProgressBarUI/incrementAnimationIndex/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

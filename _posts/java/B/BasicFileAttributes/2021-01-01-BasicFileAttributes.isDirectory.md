@@ -1,6 +1,6 @@
 ---
 title: BasicFileAttributes.isDirectory()
-permalink: Java/BasicFileAttributes/isDirectory
+permalink: /Java/BasicFileAttributes/isDirectory/
 date: 2021-01-11
 key: JavaJava.B.BasicFileAttributes
 category: java

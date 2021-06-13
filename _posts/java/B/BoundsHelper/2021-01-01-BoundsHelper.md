@@ -1,8 +1,8 @@
 ---
 title: BoundsHelper
-permalink: Java/BoundsHelper/
+permalink: /Java/BoundsHelper//
 date: 2021-01-11
-key: JavaJava.B.BoundsHelper
+key: Java.B.BoundsHelper
 category: java
 tags: ['java se']
 sidebar: 

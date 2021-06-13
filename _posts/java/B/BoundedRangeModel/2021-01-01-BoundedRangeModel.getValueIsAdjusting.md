@@ -1,6 +1,6 @@
 ---
 title: BoundedRangeModel.getValueIsAdjusting()
-permalink: Java/BoundedRangeModel/getValueIsAdjusting
+permalink: /Java/BoundedRangeModel/getValueIsAdjusting/
 date: 2021-01-11
 key: JavaJava.B.BoundedRangeModel
 category: java

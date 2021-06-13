@@ -1,6 +1,6 @@
 ---
 title: BoxLayout.X_AXIS
-permalink: Java/BoxLayout/X_AXIS
+permalink: /Java/BoxLayout/X_AXIS/
 date: 2021-01-11
 key: JavaJava.B.BoxLayout
 category: java

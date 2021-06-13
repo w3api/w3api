@@ -1,6 +1,6 @@
 ---
 title: BindingProvider.getRequestContext()
-permalink: Java/BindingProvider/getRequestContext
+permalink: /Java/BindingProvider/getRequestContext/
 date: 2021-01-11
 key: JavaJava.B.BindingProvider
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_CELL_LENGTH
-permalink: Java/BaselineTIFFTagSet/TAG_CELL_LENGTH
+permalink: /Java/BaselineTIFFTagSet/TAG_CELL_LENGTH/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

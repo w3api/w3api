@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.BasicInternalFrameTitlePane()
-permalink: Java/BasicInternalFrameTitlePane/BasicInternalFrameTitlePane
+permalink: /Java/BasicInternalFrameTitlePane/BasicInternalFrameTitlePane/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

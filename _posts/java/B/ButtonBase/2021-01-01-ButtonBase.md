@@ -1,6 +1,6 @@
 ---
 title: ButtonBase
-permalink: Java/ButtonBase
+permalink: /Java/ButtonBase/
 date: 2021-01-11
 key: JavaJava.B.ButtonBase
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BeanContextMembershipListener
-permalink: Java/BeanContextMembershipListener
+permalink: /Java/BeanContextMembershipListener/
 date: 2021-01-11
 key: JavaJava.B.BeanContextMembershipListener
 category: java

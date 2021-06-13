@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_JPEG_POINT_TRANSFORMS
-permalink: Java/BaselineTIFFTagSet/TAG_JPEG_POINT_TRANSFORMS
+permalink: /Java/BaselineTIFFTagSet/TAG_JPEG_POINT_TRANSFORMS/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

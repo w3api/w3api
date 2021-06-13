@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.createPopup()
-permalink: Java/BasicComboBoxUI/createPopup
+permalink: /Java/BasicComboBoxUI/createPopup/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

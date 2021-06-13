@@ -1,8 +1,8 @@
 ---
 title: BasicBorders.FieldBorder.highlight
-permalink: Java/BasicBorders/FieldBorder/highlight
+permalink: /Java/BasicBorders/FieldBorder/highlight/
 date: 2021-01-11
-key: JavaJava.B.BasicBorders.FieldBorder
+key: Java.B.BasicBorders.FieldBorder
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

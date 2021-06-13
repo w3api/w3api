@@ -1,6 +1,6 @@
 ---
 title: BasicPermission.BasicPermission()
-permalink: Java/BasicPermission/BasicPermission
+permalink: /Java/BasicPermission/BasicPermission/
 date: 2021-01-11
 key: JavaJava.B.BasicPermission
 category: java

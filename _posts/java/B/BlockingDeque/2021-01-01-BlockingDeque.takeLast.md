@@ -1,6 +1,6 @@
 ---
 title: BlockingDeque.takeLast()
-permalink: Java/BlockingDeque/takeLast
+permalink: /Java/BlockingDeque/takeLast/
 date: 2021-01-11
 key: JavaJava.B.BlockingDeque
 category: java

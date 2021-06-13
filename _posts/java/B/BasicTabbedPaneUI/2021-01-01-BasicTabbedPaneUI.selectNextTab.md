@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.selectNextTab()
-permalink: Java/BasicTabbedPaneUI/selectNextTab
+permalink: /Java/BasicTabbedPaneUI/selectNextTab/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

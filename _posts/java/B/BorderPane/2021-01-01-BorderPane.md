@@ -1,6 +1,6 @@
 ---
 title: BorderPane
-permalink: Java/BorderPane
+permalink: /Java/BorderPane/
 date: 2021-01-11
 key: JavaJava.B.BorderPane
 category: java

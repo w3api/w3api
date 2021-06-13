@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.textIconGap
-permalink: Java/BasicTabbedPaneUI/textIconGap
+permalink: /Java/BasicTabbedPaneUI/textIconGap/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

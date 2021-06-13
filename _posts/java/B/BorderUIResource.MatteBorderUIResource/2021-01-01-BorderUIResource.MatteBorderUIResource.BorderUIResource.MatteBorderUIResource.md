@@ -1,6 +1,6 @@
 ---
 title: BorderUIResource.MatteBorderUIResource.BorderUIResource.MatteBorderUIResource()
-permalink: Java/BorderUIResource/MatteBorderUIResource/BorderUIResource/MatteBorderUIResource
+permalink: /Java/BorderUIResource/MatteBorderUIResource/BorderUIResource/MatteBorderUIResource/
 date: 2021-01-11
 key: JavaJava.B.BorderUIResource.MatteBorderUIResource
 category: java

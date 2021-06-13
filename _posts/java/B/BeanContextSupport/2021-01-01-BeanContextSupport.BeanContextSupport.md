@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.BeanContextSupport()
-permalink: Java/BeanContextSupport/BeanContextSupport
+permalink: /Java/BeanContextSupport/BeanContextSupport/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

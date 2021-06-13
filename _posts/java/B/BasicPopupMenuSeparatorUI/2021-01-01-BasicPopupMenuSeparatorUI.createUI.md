@@ -1,6 +1,6 @@
 ---
 title: BasicPopupMenuSeparatorUI.createUI()
-permalink: Java/BasicPopupMenuSeparatorUI/createUI
+permalink: /Java/BasicPopupMenuSeparatorUI/createUI/
 date: 2021-01-11
 key: JavaJava.B.BasicPopupMenuSeparatorUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.getBaselineResizeBehavior()
-permalink: Java/BasicProgressBarUI/getBaselineResizeBehavior
+permalink: /Java/BasicProgressBarUI/getBaselineResizeBehavior/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

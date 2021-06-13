@@ -1,6 +1,6 @@
 ---
 title: BasicColorChooserUI.installListeners()
-permalink: Java/BasicColorChooserUI/installListeners
+permalink: /Java/BasicColorChooserUI/installListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicColorChooserUI
 category: java

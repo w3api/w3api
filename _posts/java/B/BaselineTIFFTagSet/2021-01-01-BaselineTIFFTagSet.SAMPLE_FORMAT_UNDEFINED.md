@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.SAMPLE_FORMAT_UNDEFINED
-permalink: Java/BaselineTIFFTagSet/SAMPLE_FORMAT_UNDEFINED
+permalink: /Java/BaselineTIFFTagSet/SAMPLE_FORMAT_UNDEFINED/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

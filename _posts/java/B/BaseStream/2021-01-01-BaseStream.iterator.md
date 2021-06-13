@@ -1,6 +1,6 @@
 ---
 title: BaseStream.iterator()
-permalink: Java/BaseStream/iterator
+permalink: /Java/BaseStream/iterator/
 date: 2021-01-11
 key: JavaJava.B.BaseStream
 category: java

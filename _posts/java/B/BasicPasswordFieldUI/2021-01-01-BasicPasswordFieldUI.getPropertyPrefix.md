@@ -1,6 +1,6 @@
 ---
 title: BasicPasswordFieldUI.getPropertyPrefix()
-permalink: Java/BasicPasswordFieldUI/getPropertyPrefix
+permalink: /Java/BasicPasswordFieldUI/getPropertyPrefix/
 date: 2021-01-11
 key: JavaJava.B.BasicPasswordFieldUI
 category: java

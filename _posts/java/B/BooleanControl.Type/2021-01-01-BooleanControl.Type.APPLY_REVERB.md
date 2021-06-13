@@ -1,6 +1,6 @@
 ---
 title: BooleanControl.Type.APPLY_REVERB
-permalink: Java/BooleanControl/Type/APPLY_REVERB
+permalink: /Java/BooleanControl/Type/APPLY_REVERB/
 date: 2021-01-11
 key: JavaJava.B.BooleanControl.Type
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicTableUI.BasicTableUI()
-permalink: Java/BasicTableUI/BasicTableUI
+permalink: /Java/BasicTableUI/BasicTableUI/
 date: 2021-01-11
 key: JavaJava.B.BasicTableUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BeanDescriptor.getCustomizerClass()
-permalink: Java/BeanDescriptor/getCustomizerClass
+permalink: /Java/BeanDescriptor/getCustomizerClass/
 date: 2021-01-11
 key: JavaJava.B.BeanDescriptor
 category: java

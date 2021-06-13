@@ -2,7 +2,7 @@
 title: LightBase
 permalink: Java/LightBase
 date: 2021-01-11
-key: JavaJava.L.LightBase
+key: Java.L.LightBase
 category: java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicDirectoryModel.removePropertyChangeListener()
-permalink: Java/BasicDirectoryModel/removePropertyChangeListener
+permalink: /Java/BasicDirectoryModel/removePropertyChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BasicDirectoryModel
 category: java

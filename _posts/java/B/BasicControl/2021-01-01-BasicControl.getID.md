@@ -1,6 +1,6 @@
 ---
 title: BasicControl.getID()
-permalink: Java/BasicControl/getID
+permalink: /Java/BasicControl/getID/
 date: 2021-01-11
 key: JavaJava.B.BasicControl
 category: java

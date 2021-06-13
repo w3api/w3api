@@ -1,6 +1,6 @@
 ---
 title: BooleanValue.hashCode()
-permalink: Java/BooleanValue/hashCode
+permalink: /Java/BooleanValue/hashCode/
 date: 2021-01-11
 key: JavaJava.B.BooleanValue
 category: java

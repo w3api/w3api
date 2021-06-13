@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.rectangleForCurrentValue()
-permalink: Java/BasicComboBoxUI/rectangleForCurrentValue
+permalink: /Java/BasicComboBoxUI/rectangleForCurrentValue/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

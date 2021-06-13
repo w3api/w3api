@@ -1,6 +1,6 @@
 ---
 title: BeanDescriptor
-permalink: Java/BeanDescriptor
+permalink: /Java/BeanDescriptor/
 date: 2021-01-11
 key: JavaJava.B.BeanDescriptor
 category: java

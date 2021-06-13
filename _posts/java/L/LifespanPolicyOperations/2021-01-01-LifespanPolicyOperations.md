@@ -1,8 +1,8 @@
 ---
 title: LifespanPolicyOperations
-permalink: Java/LifespanPolicyOperations
+permalink: /Java/LifespanPolicyOperations/
 date: 2021-01-11
-key: JavaJava.L.LifespanPolicyOperations
+key: Java.L.LifespanPolicyOperations
 category: java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

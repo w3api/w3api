@@ -1,6 +1,6 @@
 ---
 title: BorderUIResource.TitledBorderUIResource
-permalink: Java/BorderUIResource/TitledBorderUIResource
+permalink: /Java/BorderUIResource/TitledBorderUIResource/
 date: 2021-01-11
 key: JavaJava.B.BorderUIResource.TitledBorderUIResource
 category: java

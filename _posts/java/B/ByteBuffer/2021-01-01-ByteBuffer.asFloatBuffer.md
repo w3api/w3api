@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.asFloatBuffer()
-permalink: Java/ByteBuffer/asFloatBuffer
+permalink: /Java/ByteBuffer/asFloatBuffer/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

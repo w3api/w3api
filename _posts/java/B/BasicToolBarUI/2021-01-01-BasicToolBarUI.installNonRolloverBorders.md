@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.installNonRolloverBorders()
-permalink: Java/BasicToolBarUI/installNonRolloverBorders
+permalink: /Java/BasicToolBarUI/installNonRolloverBorders/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

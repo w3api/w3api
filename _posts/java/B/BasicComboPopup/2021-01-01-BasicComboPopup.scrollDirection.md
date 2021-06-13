@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.scrollDirection
-permalink: Java/BasicComboPopup/scrollDirection
+permalink: /Java/BasicComboPopup/scrollDirection/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

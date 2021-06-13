@@ -1,8 +1,8 @@
 ---
 title: LinearGradient.hashCode()
-permalink: Java/LinearGradient/hashCode
+permalink: /Java/LinearGradient/hashCode/
 date: 2021-01-11
-key: JavaJava.L.LinearGradient
+key: Java.L.LinearGradient
 category: java
 tags: ['java se', 'javafx.scene.paint', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

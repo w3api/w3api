@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.comboBox
-permalink: Java/BasicComboBoxUI/comboBox
+permalink: /Java/BasicComboBoxUI/comboBox/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

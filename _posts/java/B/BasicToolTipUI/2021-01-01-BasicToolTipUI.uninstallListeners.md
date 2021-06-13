@@ -1,6 +1,6 @@
 ---
 title: BasicToolTipUI.uninstallListeners()
-permalink: Java/BasicToolTipUI/uninstallListeners
+permalink: /Java/BasicToolTipUI/uninstallListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicToolTipUI
 category: java

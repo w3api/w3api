@@ -1,8 +1,8 @@
 ---
 title: BufferedOutputStream.flush()
-permalink: Java/BufferedOutputStream/flush
+permalink: /Java/BufferedOutputStream/flush/
 date: 2021-01-11
-key: JavaJava.B.BufferedOutputStream
+key: Java.B.BufferedOutputStream
 category: java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

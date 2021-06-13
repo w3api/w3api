@@ -1,8 +1,8 @@
 ---
 title: BackgroundSize.AUTO
-permalink: Java/BackgroundSize/AUTO
+permalink: /Java/BackgroundSize/AUTO/
 date: 2021-01-11
-key: JavaJava.B.BackgroundSize
+key: Java.B.BackgroundSize
 category: java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 

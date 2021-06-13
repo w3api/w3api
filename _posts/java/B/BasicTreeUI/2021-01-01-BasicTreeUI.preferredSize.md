@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.preferredSize
-permalink: Java/BasicTreeUI/preferredSize
+permalink: /Java/BasicTreeUI/preferredSize/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

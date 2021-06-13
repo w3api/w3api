@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.BasicComboPopup()
-permalink: Java/BasicComboPopup/BasicComboPopup
+permalink: /Java/BasicComboPopup/BasicComboPopup/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

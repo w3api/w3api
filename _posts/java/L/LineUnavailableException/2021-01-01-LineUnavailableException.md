@@ -2,7 +2,7 @@
 title: LineUnavailableException
 permalink: Java/LineUnavailableException
 date: 2021-01-11
-key: JavaJava.L.LineUnavailableException
+key: Java.L.LineUnavailableException
 category: java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: BeanContextChildSupport
-permalink: Java/BeanContextChildSupport
+permalink: /Java/BeanContextChildSupport/
 date: 2021-01-11
-key: JavaJava.B.BeanContextChildSupport
+key: Java.B.BeanContextChildSupport
 category: java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 

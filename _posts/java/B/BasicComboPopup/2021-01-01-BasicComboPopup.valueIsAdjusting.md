@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.valueIsAdjusting
-permalink: Java/BasicComboPopup/valueIsAdjusting
+permalink: /Java/BasicComboPopup/valueIsAdjusting/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

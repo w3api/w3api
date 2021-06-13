@@ -1,8 +1,8 @@
 ---
 title: LanguageCallback.LanguageCallback()
-permalink: Java/LanguageCallback/LanguageCallback
+permalink: /Java/LanguageCallback/LanguageCallback/
 date: 2021-01-11
-key: JavaJava.L.LanguageCallback
+key: Java.L.LanguageCallback
 category: java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

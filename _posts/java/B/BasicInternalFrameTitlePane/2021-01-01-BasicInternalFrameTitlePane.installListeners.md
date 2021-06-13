@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.installListeners()
-permalink: Java/BasicInternalFrameTitlePane/installListeners
+permalink: /Java/BasicInternalFrameTitlePane/installListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

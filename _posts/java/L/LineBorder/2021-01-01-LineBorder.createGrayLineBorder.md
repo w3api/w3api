@@ -1,8 +1,8 @@
 ---
 title: LineBorder.createGrayLineBorder()
-permalink: Java/LineBorder/createGrayLineBorder
+permalink: /Java/LineBorder/createGrayLineBorder/
 date: 2021-01-11
-key: JavaJava.L.LineBorder
+key: Java.L.LineBorder
 category: java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

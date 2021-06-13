@@ -1,8 +1,8 @@
 ---
 title: BasicCheckBoxMenuItemUI
-permalink: Java/BasicCheckBoxMenuItemUI
+permalink: /Java/BasicCheckBoxMenuItemUI/
 date: 2021-01-11
-key: JavaJava.B.BasicCheckBoxMenuItemUI
+key: Java.B.BasicCheckBoxMenuItemUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

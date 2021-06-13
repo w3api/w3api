@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.selectedRun
-permalink: Java/BasicTabbedPaneUI/selectedRun
+permalink: /Java/BasicTabbedPaneUI/selectedRun/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

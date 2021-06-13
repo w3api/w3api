@@ -1,6 +1,6 @@
 ---
 title: BinaryOperator.maxBy()
-permalink: Java/BinaryOperator/maxBy
+permalink: /Java/BinaryOperator/maxBy/
 date: 2021-01-11
 key: JavaJava.B.BinaryOperator
 category: java

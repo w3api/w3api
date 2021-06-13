@@ -1,8 +1,8 @@
 ---
 title: BasicSliderUI.getHeightOfTallestLabel()
-permalink: Java/BasicSliderUI/getHeightOfTallestLabel
+permalink: /Java/BasicSliderUI/getHeightOfTallestLabel/
 date: 2021-01-11
-key: JavaJava.B.BasicSliderUI
+key: Java.B.BasicSliderUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

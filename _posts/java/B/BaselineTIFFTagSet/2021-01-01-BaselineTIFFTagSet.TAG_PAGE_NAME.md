@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_PAGE_NAME
-permalink: Java/BaselineTIFFTagSet/TAG_PAGE_NAME
+permalink: /Java/BaselineTIFFTagSet/TAG_PAGE_NAME/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

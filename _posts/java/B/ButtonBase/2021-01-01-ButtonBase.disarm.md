@@ -1,6 +1,6 @@
 ---
 title: ButtonBase.disarm()
-permalink: Java/ButtonBase/disarm
+permalink: /Java/ButtonBase/disarm/
 date: 2021-01-11
 key: JavaJava.B.ButtonBase
 category: java

@@ -1,6 +1,6 @@
 ---
 title: Background.getClassCssMetaData()
-permalink: Java/Background/getClassCssMetaData
+permalink: /Java/Background/getClassCssMetaData/
 date: 2021-01-11
 key: JavaJava.B.Background
 category: java

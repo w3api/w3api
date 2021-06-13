@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopPaneUI.desktop
-permalink: Java/BasicDesktopPaneUI/desktop
+permalink: /Java/BasicDesktopPaneUI/desktop/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopPaneUI
 category: java

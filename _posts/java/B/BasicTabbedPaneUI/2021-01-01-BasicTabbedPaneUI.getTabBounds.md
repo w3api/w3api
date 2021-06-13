@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.getTabBounds()
-permalink: Java/BasicTabbedPaneUI/getTabBounds
+permalink: /Java/BasicTabbedPaneUI/getTabBounds/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

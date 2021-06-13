@@ -1,6 +1,6 @@
 ---
 title: BasicBorders.ButtonBorder.highlight
-permalink: Java/BasicBorders/ButtonBorder/highlight
+permalink: /Java/BasicBorders/ButtonBorder/highlight/
 date: 2021-01-11
 key: JavaJava.B.BasicBorders.ButtonBorder
 category: java

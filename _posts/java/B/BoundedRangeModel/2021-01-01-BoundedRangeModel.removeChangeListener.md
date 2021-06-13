@@ -1,6 +1,6 @@
 ---
 title: BoundedRangeModel.removeChangeListener()
-permalink: Java/BoundedRangeModel/removeChangeListener
+permalink: /Java/BoundedRangeModel/removeChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BoundedRangeModel
 category: java

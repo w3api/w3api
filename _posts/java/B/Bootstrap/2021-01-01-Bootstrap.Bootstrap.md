@@ -1,6 +1,6 @@
 ---
 title: Bootstrap.Bootstrap()
-permalink: Java/Bootstrap/Bootstrap
+permalink: /Java/Bootstrap/Bootstrap/
 date: 2021-01-11
 key: JavaJava.B.Bootstrap
 category: java

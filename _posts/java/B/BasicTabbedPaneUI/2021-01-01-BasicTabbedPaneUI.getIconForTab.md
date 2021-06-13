@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.getIconForTab()
-permalink: Java/BasicTabbedPaneUI/getIconForTab
+permalink: /Java/BasicTabbedPaneUI/getIconForTab/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

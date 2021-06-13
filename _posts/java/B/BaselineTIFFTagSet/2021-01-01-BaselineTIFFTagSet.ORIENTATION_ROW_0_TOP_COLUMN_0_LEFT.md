@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.ORIENTATION_ROW_0_TOP_COLUMN_0_LEFT
-permalink: Java/BaselineTIFFTagSet/ORIENTATION_ROW_0_TOP_COLUMN_0_LEFT
+permalink: /Java/BaselineTIFFTagSet/ORIENTATION_ROW_0_TOP_COLUMN_0_LEFT/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

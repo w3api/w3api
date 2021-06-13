@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.uninstallListeners()
-permalink: Java/BasicProgressBarUI/uninstallListeners
+permalink: /Java/BasicProgressBarUI/uninstallListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

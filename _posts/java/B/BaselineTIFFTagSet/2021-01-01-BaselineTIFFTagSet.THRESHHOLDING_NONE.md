@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.THRESHHOLDING_NONE
-permalink: Java/BaselineTIFFTagSet/THRESHHOLDING_NONE
+permalink: /Java/BaselineTIFFTagSet/THRESHHOLDING_NONE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

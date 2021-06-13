@@ -1,6 +1,6 @@
 ---
 title: ButtonGroup.add()
-permalink: Java/ButtonGroup/add
+permalink: /Java/ButtonGroup/add/
 date: 2021-01-11
 key: JavaJava.B.ButtonGroup
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.longValue()
-permalink: Java/BigDecimal/longValue
+permalink: /Java/BigDecimal/longValue/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

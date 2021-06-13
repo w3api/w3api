@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.paint()
-permalink: Java/BasicProgressBarUI/paint
+permalink: /Java/BasicProgressBarUI/paint/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

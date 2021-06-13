@@ -1,8 +1,8 @@
 ---
 title: BasicTextUI.uninstallListeners()
-permalink: Java/BasicTextUI/uninstallListeners
+permalink: /Java/BasicTextUI/uninstallListeners/
 date: 2021-01-11
-key: JavaJava.B.BasicTextUI
+key: Java.B.BasicTextUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

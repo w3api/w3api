@@ -1,6 +1,6 @@
 ---
 title: BooleanBinding.toString()
-permalink: Java/BooleanBinding/toString
+permalink: /Java/BooleanBinding/toString/
 date: 2021-01-11
 key: JavaJava.B.BooleanBinding
 category: java

@@ -2,7 +2,7 @@
 title: LabeledStatementTree
 permalink: Java/LabeledStatementTree-jdk-nashorn-api-tree
 date: 2021-01-11
-key: JavaJava.L.LabeledStatementTree-jdk-nashorn-api-tree
+key: Java.L.LabeledStatementTree-jdk-nashorn-api-tree
 category: java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 9']
 sidebar: 

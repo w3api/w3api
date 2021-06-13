@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.uninstallDefaults()
-permalink: Java/BasicToolBarUI/uninstallDefaults
+permalink: /Java/BasicToolBarUI/uninstallDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

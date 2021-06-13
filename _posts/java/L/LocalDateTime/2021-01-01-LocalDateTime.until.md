@@ -1,8 +1,8 @@
 ---
 title: LocalDateTime.until()
-permalink: Java/LocalDateTime/until
+permalink: /Java/LocalDateTime/until/
 date: 2021-01-11
-key: JavaJava.L.LocalDateTime
+key: Java.L.LocalDateTime
 category: java
 tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

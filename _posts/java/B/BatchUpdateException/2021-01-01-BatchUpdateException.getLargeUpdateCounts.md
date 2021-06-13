@@ -1,6 +1,6 @@
 ---
 title: BatchUpdateException.getLargeUpdateCounts()
-permalink: Java/BatchUpdateException/getLargeUpdateCounts
+permalink: /Java/BatchUpdateException/getLargeUpdateCounts/
 date: 2021-01-11
 key: JavaJava.B.BatchUpdateException
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicBorders.ButtonBorder.BasicBorders.ButtonBorder()
-permalink: Java/BasicBorders/ButtonBorder/BasicBorders/ButtonBorder
+permalink: /Java/BasicBorders/ButtonBorder/BasicBorders/ButtonBorder/
 date: 2021-01-11
 key: JavaJava.B.BasicBorders.ButtonBorder
 category: java

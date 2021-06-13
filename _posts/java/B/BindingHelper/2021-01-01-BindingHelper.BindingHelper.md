@@ -1,6 +1,6 @@
 ---
 title: BindingHelper.BindingHelper()
-permalink: Java/BindingHelper/BindingHelper
+permalink: /Java/BindingHelper/BindingHelper/
 date: 2021-01-11
 key: JavaJava.B.BindingHelper
 category: java

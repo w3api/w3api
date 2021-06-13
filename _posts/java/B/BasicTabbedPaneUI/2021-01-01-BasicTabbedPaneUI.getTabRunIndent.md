@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.getTabRunIndent()
-permalink: Java/BasicTabbedPaneUI/getTabRunIndent
+permalink: /Java/BasicTabbedPaneUI/getTabRunIndent/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

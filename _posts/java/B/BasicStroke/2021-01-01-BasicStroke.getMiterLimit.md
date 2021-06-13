@@ -1,6 +1,6 @@
 ---
 title: BasicStroke.getMiterLimit()
-permalink: Java/BasicStroke/getMiterLimit
+permalink: /Java/BasicStroke/getMiterLimit/
 date: 2021-01-11
 key: JavaJava.B.BasicStroke
 category: java

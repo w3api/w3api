@@ -1,6 +1,6 @@
 ---
 title: BindingIteratorHolder
-permalink: Java/BindingIteratorHolder
+permalink: /Java/BindingIteratorHolder/
 date: 2021-01-11
 key: JavaJava.B.BindingIteratorHolder
 category: java

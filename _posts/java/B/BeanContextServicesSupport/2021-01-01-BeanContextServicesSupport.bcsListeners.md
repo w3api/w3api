@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesSupport.bcsListeners
-permalink: Java/BeanContextServicesSupport/bcsListeners
+permalink: /Java/BeanContextServicesSupport/bcsListeners/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesSupport
 category: java

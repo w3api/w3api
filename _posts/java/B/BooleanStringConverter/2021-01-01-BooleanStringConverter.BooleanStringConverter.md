@@ -1,6 +1,6 @@
 ---
 title: BooleanStringConverter.BooleanStringConverter()
-permalink: Java/BooleanStringConverter/BooleanStringConverter
+permalink: /Java/BooleanStringConverter/BooleanStringConverter/
 date: 2021-01-11
 key: JavaJava.B.BooleanStringConverter
 category: java

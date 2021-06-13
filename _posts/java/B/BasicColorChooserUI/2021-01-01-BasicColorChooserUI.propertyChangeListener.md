@@ -1,6 +1,6 @@
 ---
 title: BasicColorChooserUI.propertyChangeListener
-permalink: Java/BasicColorChooserUI/propertyChangeListener
+permalink: /Java/BasicColorChooserUI/propertyChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BasicColorChooserUI
 category: java

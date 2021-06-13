@@ -1,6 +1,6 @@
 ---
 title: BasicMenuBarUI.installKeyboardActions()
-permalink: Java/BasicMenuBarUI/installKeyboardActions
+permalink: /Java/BasicMenuBarUI/installKeyboardActions/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuBarUI
 category: java

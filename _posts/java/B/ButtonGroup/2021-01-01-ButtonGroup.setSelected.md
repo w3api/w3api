@@ -1,6 +1,6 @@
 ---
 title: ButtonGroup.setSelected()
-permalink: Java/ButtonGroup/setSelected
+permalink: /Java/ButtonGroup/setSelected/
 date: 2021-01-11
 key: JavaJava.B.ButtonGroup
 category: java

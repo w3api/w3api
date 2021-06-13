@@ -1,6 +1,6 @@
 ---
 title: BaseStream.sequential()
-permalink: Java/BaseStream/sequential
+permalink: /Java/BaseStream/sequential/
 date: 2021-01-11
 key: JavaJava.B.BaseStream
 category: java

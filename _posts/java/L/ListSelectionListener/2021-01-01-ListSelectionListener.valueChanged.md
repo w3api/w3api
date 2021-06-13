@@ -2,7 +2,7 @@
 title: ListSelectionListener.valueChanged()
 permalink: Java/ListSelectionListener/valueChanged
 date: 2021-01-11
-key: JavaJava.L.ListSelectionListener
+key: Java.L.ListSelectionListener
 category: java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

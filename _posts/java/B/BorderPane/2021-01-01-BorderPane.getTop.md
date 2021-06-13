@@ -1,6 +1,6 @@
 ---
 title: BorderPane.getTop()
-permalink: Java/BorderPane/getTop
+permalink: /Java/BorderPane/getTop/
 date: 2021-01-11
 key: JavaJava.B.BorderPane
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BindingTypeHelper.extract()
-permalink: Java/BindingTypeHelper/extract
+permalink: /Java/BindingTypeHelper/extract/
 date: 2021-01-11
-key: JavaJava.B.BindingTypeHelper
+key: Java.B.BindingTypeHelper
 category: java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

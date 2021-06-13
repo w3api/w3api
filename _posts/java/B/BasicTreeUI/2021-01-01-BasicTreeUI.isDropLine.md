@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.isDropLine()
-permalink: Java/BasicTreeUI/isDropLine
+permalink: /Java/BasicTreeUI/isDropLine/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

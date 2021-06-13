@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopPaneUI.maximizeKey
-permalink: Java/BasicDesktopPaneUI/maximizeKey
+permalink: /Java/BasicDesktopPaneUI/maximizeKey/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopPaneUI
 category: java

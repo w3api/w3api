@@ -1,8 +1,8 @@
 ---
 title: BooleanConverter.getInstance()
-permalink: Java/BooleanConverter/getInstance
+permalink: /Java/BooleanConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.B.BooleanConverter
+key: Java.B.BooleanConverter
 category: java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: BasicSplitPaneDivider.splitPane
-permalink: Java/BasicSplitPaneDivider/splitPane
+permalink: /Java/BasicSplitPaneDivider/splitPane/
 date: 2021-01-11
-key: JavaJava.B.BasicSplitPaneDivider
+key: Java.B.BasicSplitPaneDivider
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

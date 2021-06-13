@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.BigDecimal()
-permalink: Java/BigDecimal/BigDecimal
+permalink: /Java/BigDecimal/BigDecimal/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

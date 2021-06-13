@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.uninstallKeyboardActions()
-permalink: Java/BasicComboPopup/uninstallKeyboardActions
+permalink: /Java/BasicComboPopup/uninstallKeyboardActions/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

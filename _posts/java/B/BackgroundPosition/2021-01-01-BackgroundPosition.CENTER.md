@@ -1,8 +1,8 @@
 ---
 title: BackgroundPosition.CENTER
-permalink: Java/BackgroundPosition/CENTER
+permalink: /Java/BackgroundPosition/CENTER/
 date: 2021-01-11
-key: JavaJava.B.BackgroundPosition
+key: Java.B.BackgroundPosition
 category: java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 

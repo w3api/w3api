@@ -1,6 +1,6 @@
 ---
 title: BufferCapabilities.FlipContents.PRIOR
-permalink: Java/BufferCapabilities/FlipContents/PRIOR
+permalink: /Java/BufferCapabilities/FlipContents/PRIOR/
 date: 2021-01-11
 key: JavaJava.B.BufferCapabilities.FlipContents
 category: java

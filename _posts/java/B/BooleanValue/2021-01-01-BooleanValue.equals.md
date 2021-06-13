@@ -1,6 +1,6 @@
 ---
 title: BooleanValue.equals()
-permalink: Java/BooleanValue/equals
+permalink: /Java/BooleanValue/equals/
 date: 2021-01-11
 key: JavaJava.B.BooleanValue
 category: java

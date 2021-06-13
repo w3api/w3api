@@ -1,6 +1,6 @@
 ---
 title: BasicTextPaneUI
-permalink: Java/BasicTextPaneUI
+permalink: /Java/BasicTextPaneUI/
 date: 2021-01-11
 key: JavaJava.B.BasicTextPaneUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BeanDescriptor.getBeanClass()
-permalink: Java/BeanDescriptor/getBeanClass
+permalink: /Java/BeanDescriptor/getBeanClass/
 date: 2021-01-11
 key: JavaJava.B.BeanDescriptor
 category: java

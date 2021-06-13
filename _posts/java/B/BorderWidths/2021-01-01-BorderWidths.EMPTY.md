@@ -1,6 +1,6 @@
 ---
 title: BorderWidths.EMPTY
-permalink: Java/BorderWidths/EMPTY
+permalink: /Java/BorderWidths/EMPTY/
 date: 2021-01-11
 key: JavaJava.B.BorderWidths
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.validatePendingAdd()
-permalink: Java/BeanContextSupport/validatePendingAdd
+permalink: /Java/BeanContextSupport/validatePendingAdd/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

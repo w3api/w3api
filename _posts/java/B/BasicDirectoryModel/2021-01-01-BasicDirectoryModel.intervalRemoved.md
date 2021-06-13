@@ -1,6 +1,6 @@
 ---
 title: BasicDirectoryModel.intervalRemoved()
-permalink: Java/BasicDirectoryModel/intervalRemoved
+permalink: /Java/BasicDirectoryModel/intervalRemoved/
 date: 2021-01-11
 key: JavaJava.B.BasicDirectoryModel
 category: java

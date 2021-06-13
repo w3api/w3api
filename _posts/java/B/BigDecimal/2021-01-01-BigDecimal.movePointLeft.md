@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.movePointLeft()
-permalink: Java/BigDecimal/movePointLeft
+permalink: /Java/BigDecimal/movePointLeft/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

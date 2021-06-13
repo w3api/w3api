@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.oldBorderPainted
-permalink: Java/BasicMenuItemUI/oldBorderPainted
+permalink: /Java/BasicMenuItemUI/oldBorderPainted/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BorderWidths.isTopAsPercentage()
-permalink: Java/BorderWidths/isTopAsPercentage
+permalink: /Java/BorderWidths/isTopAsPercentage/
 date: 2021-01-11
 key: JavaJava.B.BorderWidths
 category: java

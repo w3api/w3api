@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.installDefaults()
-permalink: Java/BasicSpinnerUI/installDefaults
+permalink: /Java/BasicSpinnerUI/installDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

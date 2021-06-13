@@ -1,6 +1,6 @@
 ---
 title: BasicStroke.createStrokedShape()
-permalink: Java/BasicStroke/createStrokedShape
+permalink: /Java/BasicStroke/createStrokedShape/
 date: 2021-01-11
 key: JavaJava.B.BasicStroke
 category: java

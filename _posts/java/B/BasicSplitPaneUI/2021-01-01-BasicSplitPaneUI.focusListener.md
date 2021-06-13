@@ -1,8 +1,8 @@
 ---
 title: BasicSplitPaneUI.focusListener
-permalink: Java/BasicSplitPaneUI/focusListener
+permalink: /Java/BasicSplitPaneUI/focusListener/
 date: 2021-01-11
-key: JavaJava.B.BasicSplitPaneUI
+key: Java.B.BasicSplitPaneUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

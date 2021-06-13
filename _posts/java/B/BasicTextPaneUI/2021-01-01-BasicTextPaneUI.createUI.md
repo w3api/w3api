@@ -1,6 +1,6 @@
 ---
 title: BasicTextPaneUI.createUI()
-permalink: Java/BasicTextPaneUI/createUI
+permalink: /Java/BasicTextPaneUI/createUI/
 date: 2021-01-11
 key: JavaJava.B.BasicTextPaneUI
 category: java

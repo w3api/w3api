@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.JPEG_PROC_BASELINE
-permalink: Java/BaselineTIFFTagSet/JPEG_PROC_BASELINE
+permalink: /Java/BaselineTIFFTagSet/JPEG_PROC_BASELINE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

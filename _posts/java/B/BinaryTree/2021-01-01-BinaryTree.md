@@ -1,8 +1,8 @@
 ---
 title: BinaryTree
-permalink: Java/BinaryTree/
+permalink: /Java/BinaryTree//
 date: 2021-01-11
-key: JavaJava.B.BinaryTree
+key: Java.B.BinaryTree
 category: java
 tags: ['java se']
 sidebar: 

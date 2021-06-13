@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.setSelectionModel()
-permalink: Java/BasicTreeUI/setSelectionModel
+permalink: /Java/BasicTreeUI/setSelectionModel/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.closeIcon
-permalink: Java/BasicInternalFrameTitlePane/closeIcon
+permalink: /Java/BasicInternalFrameTitlePane/closeIcon/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

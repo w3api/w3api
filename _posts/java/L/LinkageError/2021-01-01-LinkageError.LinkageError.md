@@ -2,7 +2,7 @@
 title: LinkageError.LinkageError()
 permalink: Java/LinkageError/LinkageError
 date: 2021-01-11
-key: JavaJava.L.LinkageError
+key: Java.L.LinkageError
 category: java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

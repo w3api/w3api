@@ -1,6 +1,6 @@
 ---
 title: BasicScrollPaneUI.updateColumnHeader()
-permalink: Java/BasicScrollPaneUI/updateColumnHeader
+permalink: /Java/BasicScrollPaneUI/updateColumnHeader/
 date: 2021-01-11
 key: JavaJava.B.BasicScrollPaneUI
 category: java

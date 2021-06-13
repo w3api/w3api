@@ -1,6 +1,6 @@
 ---
 title: ByteOrder.toString()
-permalink: Java/ByteOrder/toString
+permalink: /Java/ByteOrder/toString/
 date: 2021-01-11
 key: JavaJava.B.ByteOrder
 category: java

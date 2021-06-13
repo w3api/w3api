@@ -1,6 +1,6 @@
 ---
 title: BooleanHolder.BooleanHolder()
-permalink: Java/BooleanHolder/BooleanHolder
+permalink: /Java/BooleanHolder/BooleanHolder/
 date: 2021-01-11
 key: JavaJava.B.BooleanHolder
 category: java

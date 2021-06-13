@@ -1,8 +1,8 @@
 ---
 title: BeanContext.globalHierarchyLock
-permalink: Java/BeanContext/globalHierarchyLock
+permalink: /Java/BeanContext/globalHierarchyLock/
 date: 2021-01-11
-key: JavaJava.B.BeanContext
+key: Java.B.BeanContext
 category: java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 

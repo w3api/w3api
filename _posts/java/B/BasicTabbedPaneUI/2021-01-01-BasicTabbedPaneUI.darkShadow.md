@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.darkShadow
-permalink: Java/BasicTabbedPaneUI/darkShadow
+permalink: /Java/BasicTabbedPaneUI/darkShadow/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

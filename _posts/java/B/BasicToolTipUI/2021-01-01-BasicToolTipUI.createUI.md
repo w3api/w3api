@@ -1,6 +1,6 @@
 ---
 title: BasicToolTipUI.createUI()
-permalink: Java/BasicToolTipUI/createUI
+permalink: /Java/BasicToolTipUI/createUI/
 date: 2021-01-11
 key: JavaJava.B.BasicToolTipUI
 category: java

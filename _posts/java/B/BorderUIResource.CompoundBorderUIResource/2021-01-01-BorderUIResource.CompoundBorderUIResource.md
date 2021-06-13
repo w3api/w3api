@@ -1,8 +1,8 @@
 ---
 title: BorderUIResource.CompoundBorderUIResource
-permalink: Java/BorderUIResource/CompoundBorderUIResource
+permalink: /Java/BorderUIResource/CompoundBorderUIResource/
 date: 2021-01-11
-key: JavaJava.B.BorderUIResource.CompoundBorderUIResource
+key: Java.B.BorderUIResource.CompoundBorderUIResource
 category: java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

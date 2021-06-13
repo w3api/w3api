@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.setModel()
-permalink: Java/BasicTreeUI/setModel
+permalink: /Java/BasicTreeUI/setModel/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

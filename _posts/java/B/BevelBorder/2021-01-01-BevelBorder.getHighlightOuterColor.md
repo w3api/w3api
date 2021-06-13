@@ -1,6 +1,6 @@
 ---
 title: BevelBorder.getHighlightOuterColor()
-permalink: Java/BevelBorder/getHighlightOuterColor
+permalink: /Java/BevelBorder/getHighlightOuterColor/
 date: 2021-01-11
 key: JavaJava.B.BevelBorder
 category: java

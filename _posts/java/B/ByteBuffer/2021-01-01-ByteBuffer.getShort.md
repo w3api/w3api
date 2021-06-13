@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.getShort()
-permalink: Java/ByteBuffer/getShort
+permalink: /Java/ByteBuffer/getShort/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.GRAY_RESPONSE_UNIT_HUNDRED_THOUSANDTHS
-permalink: Java/BaselineTIFFTagSet/GRAY_RESPONSE_UNIT_HUNDRED_THOUSANDTHS
+permalink: /Java/BaselineTIFFTagSet/GRAY_RESPONSE_UNIT_HUNDRED_THOUSANDTHS/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

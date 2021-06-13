@@ -1,6 +1,6 @@
 ---
 title: BinaryOperator.minBy()
-permalink: Java/BinaryOperator/minBy
+permalink: /Java/BinaryOperator/minBy/
 date: 2021-01-11
 key: JavaJava.B.BinaryOperator
 category: java

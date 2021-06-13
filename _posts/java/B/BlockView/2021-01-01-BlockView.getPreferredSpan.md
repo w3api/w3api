@@ -1,6 +1,6 @@
 ---
 title: BlockView.getPreferredSpan()
-permalink: Java/BlockView/getPreferredSpan
+permalink: /Java/BlockView/getPreferredSpan/
 date: 2021-01-11
 key: JavaJava.B.BlockView
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BinaryRefAddr.hashCode()
-permalink: Java/BinaryRefAddr/hashCode
+permalink: /Java/BinaryRefAddr/hashCode/
 date: 2021-01-11
 key: JavaJava.B.BinaryRefAddr
 category: java

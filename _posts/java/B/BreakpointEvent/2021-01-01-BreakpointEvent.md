@@ -1,6 +1,6 @@
 ---
 title: BreakpointEvent
-permalink: Java/BreakpointEvent
+permalink: /Java/BreakpointEvent/
 date: 2021-01-11
 key: JavaJava.B.BreakpointEvent
 category: java

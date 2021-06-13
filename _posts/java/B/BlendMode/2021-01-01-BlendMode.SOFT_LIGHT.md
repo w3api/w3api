@@ -1,8 +1,8 @@
 ---
 title: BlendMode.SOFT_LIGHT
-permalink: Java/BlendMode/SOFT_LIGHT
+permalink: /Java/BlendMode/SOFT_LIGHT/
 date: 2021-01-11
-key: JavaJava.B.BlendMode
+key: Java.B.BlendMode
 category: java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 

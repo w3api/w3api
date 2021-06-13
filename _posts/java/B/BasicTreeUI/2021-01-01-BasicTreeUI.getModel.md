@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.getModel()
-permalink: Java/BasicTreeUI/getModel
+permalink: /Java/BasicTreeUI/getModel/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BasicBorders
-permalink: Java/BasicBorders
+permalink: /Java/BasicBorders/
 date: 2021-01-11
-key: JavaJava.B.BasicBorders
+key: Java.B.BasicBorders
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

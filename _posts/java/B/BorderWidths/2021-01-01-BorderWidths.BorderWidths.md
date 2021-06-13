@@ -1,6 +1,6 @@
 ---
 title: BorderWidths.BorderWidths()
-permalink: Java/BorderWidths/BorderWidths
+permalink: /Java/BorderWidths/BorderWidths/
 date: 2021-01-11
 key: JavaJava.B.BorderWidths
 category: java

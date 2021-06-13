@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.installComponents()
-permalink: Java/BasicMenuItemUI/installComponents
+permalink: /Java/BasicMenuItemUI/installComponents/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

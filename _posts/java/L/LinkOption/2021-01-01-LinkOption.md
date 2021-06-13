@@ -2,7 +2,7 @@
 title: LinkOption
 permalink: Java/LinkOption
 date: 2021-01-11
-key: JavaJava.L.LinkOption
+key: Java.L.LinkOption
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'enumerado java', 'Java 1.7']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.getContentBorderInsets()
-permalink: Java/BasicTabbedPaneUI/getContentBorderInsets
+permalink: /Java/BasicTabbedPaneUI/getContentBorderInsets/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

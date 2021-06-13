@@ -1,6 +1,6 @@
 ---
 title: BandCombineOp.filter()
-permalink: Java/BandCombineOp/filter
+permalink: /Java/BandCombineOp/filter/
 date: 2021-01-11
 key: JavaJava.B.BandCombineOp
 category: java

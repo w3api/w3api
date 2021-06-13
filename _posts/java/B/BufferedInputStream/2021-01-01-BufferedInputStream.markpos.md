@@ -1,6 +1,6 @@
 ---
 title: BufferedInputStream.markpos
-permalink: Java/BufferedInputStream/markpos
+permalink: /Java/BufferedInputStream/markpos/
 date: 2021-01-11
 key: JavaJava.B.BufferedInputStream
 category: java

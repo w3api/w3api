@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.installListeners()
-permalink: Java/BasicProgressBarUI/installListeners
+permalink: /Java/BasicProgressBarUI/installListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

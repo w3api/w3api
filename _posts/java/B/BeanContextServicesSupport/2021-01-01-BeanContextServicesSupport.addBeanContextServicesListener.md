@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesSupport.addBeanContextServicesListener()
-permalink: Java/BeanContextServicesSupport/addBeanContextServicesListener
+permalink: /Java/BeanContextServicesSupport/addBeanContextServicesListener/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesSupport
 category: java

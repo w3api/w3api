@@ -1,6 +1,6 @@
 ---
 title: BoxLayout.removeLayoutComponent()
-permalink: Java/BoxLayout/removeLayoutComponent
+permalink: /Java/BoxLayout/removeLayoutComponent/
 date: 2021-01-11
 key: JavaJava.B.BoxLayout
 category: java

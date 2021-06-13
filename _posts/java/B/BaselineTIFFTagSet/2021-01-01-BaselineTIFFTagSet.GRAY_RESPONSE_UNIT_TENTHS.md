@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.GRAY_RESPONSE_UNIT_TENTHS
-permalink: Java/BaselineTIFFTagSet/GRAY_RESPONSE_UNIT_TENTHS
+permalink: /Java/BaselineTIFFTagSet/GRAY_RESPONSE_UNIT_TENTHS/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

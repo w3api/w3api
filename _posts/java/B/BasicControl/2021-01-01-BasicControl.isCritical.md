@@ -1,6 +1,6 @@
 ---
 title: BasicControl.isCritical()
-permalink: Java/BasicControl/isCritical
+permalink: /Java/BasicControl/isCritical/
 date: 2021-01-11
 key: JavaJava.B.BasicControl
 category: java

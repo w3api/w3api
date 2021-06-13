@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.COMPRESSION_CCITT_RLE
-permalink: Java/BaselineTIFFTagSet/COMPRESSION_CCITT_RLE
+permalink: /Java/BaselineTIFFTagSet/COMPRESSION_CCITT_RLE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.isMinimumSizeDirty
-permalink: Java/BasicComboBoxUI/isMinimumSizeDirty
+permalink: /Java/BasicComboBoxUI/isMinimumSizeDirty/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

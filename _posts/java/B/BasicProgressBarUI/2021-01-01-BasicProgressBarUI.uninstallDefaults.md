@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.uninstallDefaults()
-permalink: Java/BasicProgressBarUI/uninstallDefaults
+permalink: /Java/BasicProgressBarUI/uninstallDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

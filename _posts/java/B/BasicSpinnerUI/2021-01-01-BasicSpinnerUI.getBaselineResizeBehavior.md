@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.getBaselineResizeBehavior()
-permalink: Java/BasicSpinnerUI/getBaselineResizeBehavior
+permalink: /Java/BasicSpinnerUI/getBaselineResizeBehavior/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

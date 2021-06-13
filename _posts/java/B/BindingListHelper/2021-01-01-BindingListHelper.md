@@ -1,6 +1,6 @@
 ---
 title: BindingListHelper
-permalink: Java/BindingListHelper
+permalink: /Java/BindingListHelper/
 date: 2021-01-11
 key: JavaJava.B.BindingListHelper
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ButtonBase.getOnAction()
-permalink: Java/ButtonBase/getOnAction
+permalink: /Java/ButtonBase/getOnAction/
 date: 2021-01-11
 key: JavaJava.B.ButtonBase
 category: java

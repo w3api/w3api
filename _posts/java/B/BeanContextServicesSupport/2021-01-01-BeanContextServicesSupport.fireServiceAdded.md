@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesSupport.fireServiceAdded()
-permalink: Java/BeanContextServicesSupport/fireServiceAdded
+permalink: /Java/BeanContextServicesSupport/fireServiceAdded/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesSupport
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.createCellRendererPane()
-permalink: Java/BasicTreeUI/createCellRendererPane
+permalink: /Java/BasicTreeUI/createCellRendererPane/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

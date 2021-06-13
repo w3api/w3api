@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.isRolloverBorders()
-permalink: Java/BasicToolBarUI/isRolloverBorders
+permalink: /Java/BasicToolBarUI/isRolloverBorders/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

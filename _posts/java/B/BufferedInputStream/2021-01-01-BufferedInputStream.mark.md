@@ -1,6 +1,6 @@
 ---
 title: BufferedInputStream.mark()
-permalink: Java/BufferedInputStream/mark
+permalink: /Java/BufferedInputStream/mark/
 date: 2021-01-11
 key: JavaJava.B.BufferedInputStream
 category: java

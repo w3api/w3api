@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.setCellLength()
-permalink: Java/BasicProgressBarUI/setCellLength
+permalink: /Java/BasicProgressBarUI/setCellLength/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

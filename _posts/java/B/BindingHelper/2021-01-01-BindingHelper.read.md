@@ -1,6 +1,6 @@
 ---
 title: BindingHelper.read()
-permalink: Java/BindingHelper/read
+permalink: /Java/BindingHelper/read/
 date: 2021-01-11
 key: JavaJava.B.BindingHelper
 category: java

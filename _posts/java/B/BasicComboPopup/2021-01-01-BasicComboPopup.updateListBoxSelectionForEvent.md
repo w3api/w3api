@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.updateListBoxSelectionForEvent()
-permalink: Java/BasicComboPopup/updateListBoxSelectionForEvent
+permalink: /Java/BasicComboPopup/updateListBoxSelectionForEvent/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

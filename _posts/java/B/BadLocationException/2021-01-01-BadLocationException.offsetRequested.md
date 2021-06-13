@@ -1,6 +1,6 @@
 ---
 title: BadLocationException.offsetRequested()
-permalink: Java/BadLocationException/offsetRequested
+permalink: /Java/BadLocationException/offsetRequested/
 date: 2021-01-11
 key: JavaJava.B.BadLocationException
 category: java

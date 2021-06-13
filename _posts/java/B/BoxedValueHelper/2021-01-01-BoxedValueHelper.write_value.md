@@ -1,6 +1,6 @@
 ---
 title: BoxedValueHelper.write_value()
-permalink: Java/BoxedValueHelper/write_value
+permalink: /Java/BoxedValueHelper/write_value/
 date: 2021-01-11
 key: JavaJava.B.BoxedValueHelper
 category: java

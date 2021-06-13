@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.dragTo()
-permalink: Java/BasicToolBarUI/dragTo
+permalink: /Java/BasicToolBarUI/dragTo/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

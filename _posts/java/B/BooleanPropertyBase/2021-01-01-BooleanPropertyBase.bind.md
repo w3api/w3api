@@ -1,6 +1,6 @@
 ---
 title: BooleanPropertyBase.bind()
-permalink: Java/BooleanPropertyBase/bind
+permalink: /Java/BooleanPropertyBase/bind/
 date: 2021-01-11
 key: JavaJava.B.BooleanPropertyBase
 category: java

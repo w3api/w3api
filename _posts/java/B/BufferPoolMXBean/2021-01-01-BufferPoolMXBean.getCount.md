@@ -1,8 +1,8 @@
 ---
 title: BufferPoolMXBean.getCount()
-permalink: Java/BufferPoolMXBean/getCount
+permalink: /Java/BufferPoolMXBean/getCount/
 date: 2021-01-11
-key: JavaJava.B.BufferPoolMXBean
+key: Java.B.BufferPoolMXBean
 category: java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.7']
 sidebar: 

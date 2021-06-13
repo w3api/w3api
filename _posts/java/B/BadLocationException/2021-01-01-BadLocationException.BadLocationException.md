@@ -1,6 +1,6 @@
 ---
 title: BadLocationException.BadLocationException()
-permalink: Java/BadLocationException/BadLocationException
+permalink: /Java/BadLocationException/BadLocationException/
 date: 2021-01-11
 key: JavaJava.B.BadLocationException
 category: java

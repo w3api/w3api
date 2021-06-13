@@ -1,8 +1,8 @@
 ---
 title: BasicAuthenticator.checkCredentials()
-permalink: Java/BasicAuthenticator/checkCredentials
+permalink: /Java/BasicAuthenticator/checkCredentials/
 date: 2021-01-11
-key: JavaJava.B.BasicAuthenticator
+key: Java.B.BasicAuthenticator
 category: java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.paintTabBorder()
-permalink: Java/BasicTabbedPaneUI/paintTabBorder
+permalink: /Java/BasicTabbedPaneUI/paintTabBorder/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

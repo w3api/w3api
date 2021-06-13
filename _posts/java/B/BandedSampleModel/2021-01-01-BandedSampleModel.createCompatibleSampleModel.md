@@ -1,6 +1,6 @@
 ---
 title: BandedSampleModel.createCompatibleSampleModel()
-permalink: Java/BandedSampleModel/createCompatibleSampleModel
+permalink: /Java/BandedSampleModel/createCompatibleSampleModel/
 date: 2021-01-11
 key: JavaJava.B.BandedSampleModel
 category: java

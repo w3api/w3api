@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.createListDataListener()
-permalink: Java/BasicComboBoxUI/createListDataListener
+permalink: /Java/BasicComboBoxUI/createListDataListener/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

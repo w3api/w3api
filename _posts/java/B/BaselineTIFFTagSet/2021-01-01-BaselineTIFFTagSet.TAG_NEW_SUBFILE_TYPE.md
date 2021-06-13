@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_NEW_SUBFILE_TYPE
-permalink: Java/BaselineTIFFTagSet/TAG_NEW_SUBFILE_TYPE
+permalink: /Java/BaselineTIFFTagSet/TAG_NEW_SUBFILE_TYPE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

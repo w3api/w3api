@@ -1,6 +1,6 @@
 ---
 title: BasicMenuUI.createUI()
-permalink: Java/BasicMenuUI/createUI
+permalink: /Java/BasicMenuUI/createUI/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuUI
 category: java

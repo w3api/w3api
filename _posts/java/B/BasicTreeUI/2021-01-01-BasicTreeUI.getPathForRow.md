@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.getPathForRow()
-permalink: Java/BasicTreeUI/getPathForRow
+permalink: /Java/BasicTreeUI/getPathForRow/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

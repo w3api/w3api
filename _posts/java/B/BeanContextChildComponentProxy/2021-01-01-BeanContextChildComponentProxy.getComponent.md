@@ -1,6 +1,6 @@
 ---
 title: BeanContextChildComponentProxy.getComponent()
-permalink: Java/BeanContextChildComponentProxy/getComponent
+permalink: /Java/BeanContextChildComponentProxy/getComponent/
 date: 2021-01-11
 key: JavaJava.B.BeanContextChildComponentProxy
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopIconUI.frame
-permalink: Java/BasicDesktopIconUI/frame
+permalink: /Java/BasicDesktopIconUI/frame/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopIconUI
 category: java

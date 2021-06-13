@@ -1,6 +1,6 @@
 ---
 title: BeanProperty.preferred
-permalink: Java/BeanProperty/preferred
+permalink: /Java/BeanProperty/preferred/
 date: 2021-01-11
 key: JavaJava.B.BeanProperty
 category: java

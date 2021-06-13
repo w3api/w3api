@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopPaneUI.installDesktopManager()
-permalink: Java/BasicDesktopPaneUI/installDesktopManager
+permalink: /Java/BasicDesktopPaneUI/installDesktopManager/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopPaneUI
 category: java

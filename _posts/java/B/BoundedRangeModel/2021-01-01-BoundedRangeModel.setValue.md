@@ -1,6 +1,6 @@
 ---
 title: BoundedRangeModel.setValue()
-permalink: Java/BoundedRangeModel/setValue
+permalink: /Java/BoundedRangeModel/setValue/
 date: 2021-01-11
 key: JavaJava.B.BoundedRangeModel
 category: java

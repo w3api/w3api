@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.propertyChange()
-permalink: Java/BeanContextSupport/propertyChange
+permalink: /Java/BeanContextSupport/propertyChange/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

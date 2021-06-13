@@ -1,6 +1,6 @@
 ---
 title: BorderUIResource.getBlackLineBorderUIResource()
-permalink: Java/BorderUIResource/getBlackLineBorderUIResource
+permalink: /Java/BorderUIResource/getBlackLineBorderUIResource/
 date: 2021-01-11
 key: JavaJava.B.BorderUIResource
 category: java

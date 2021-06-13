@@ -1,6 +1,6 @@
 ---
 title: BackgroundRepeat.values()
-permalink: Java/BackgroundRepeat/values
+permalink: /Java/BackgroundRepeat/values/
 date: 2021-01-11
 key: JavaJava.B.BackgroundRepeat
 category: java

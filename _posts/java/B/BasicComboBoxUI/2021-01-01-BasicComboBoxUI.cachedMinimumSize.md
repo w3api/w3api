@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.cachedMinimumSize
-permalink: Java/BasicComboBoxUI/cachedMinimumSize
+permalink: /Java/BasicComboBoxUI/cachedMinimumSize/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicColorChooserUI.BasicColorChooserUI()
-permalink: Java/BasicColorChooserUI/BasicColorChooserUI
+permalink: /Java/BasicColorChooserUI/BasicColorChooserUI/
 date: 2021-01-11
 key: JavaJava.B.BasicColorChooserUI
 category: java

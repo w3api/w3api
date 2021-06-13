@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.createUI()
-permalink: Java/BasicTreeUI/createUI
+permalink: /Java/BasicTreeUI/createUI/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BreakpointRequest.location()
-permalink: Java/BreakpointRequest/location
+permalink: /Java/BreakpointRequest/location/
 date: 2021-01-11
 key: JavaJava.B.BreakpointRequest
 category: java

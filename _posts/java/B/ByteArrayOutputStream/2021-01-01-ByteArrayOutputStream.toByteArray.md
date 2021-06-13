@@ -1,6 +1,6 @@
 ---
 title: ByteArrayOutputStream.toByteArray()
-permalink: Java/ByteArrayOutputStream/toByteArray
+permalink: /Java/ByteArrayOutputStream/toByteArray/
 date: 2021-01-11
 key: JavaJava.B.ByteArrayOutputStream
 category: java

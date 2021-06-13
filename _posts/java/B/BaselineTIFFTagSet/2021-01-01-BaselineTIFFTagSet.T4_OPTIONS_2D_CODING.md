@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.T4_OPTIONS_2D_CODING
-permalink: Java/BaselineTIFFTagSet/T4_OPTIONS_2D_CODING
+permalink: /Java/BaselineTIFFTagSet/T4_OPTIONS_2D_CODING/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

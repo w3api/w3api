@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.stopEditing()
-permalink: Java/BasicTreeUI/stopEditing
+permalink: /Java/BasicTreeUI/stopEditing/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

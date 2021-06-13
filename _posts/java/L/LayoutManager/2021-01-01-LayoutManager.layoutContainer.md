@@ -2,7 +2,7 @@
 title: LayoutManager.layoutContainer()
 permalink: Java/LayoutManager/layoutContainer
 date: 2021-01-11
-key: JavaJava.L.LayoutManager
+key: Java.L.LayoutManager
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

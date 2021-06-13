@@ -1,6 +1,6 @@
 ---
 title: BasicTextAreaUI.getBaseline()
-permalink: Java/BasicTextAreaUI/getBaseline
+permalink: /Java/BasicTextAreaUI/getBaseline/
 date: 2021-01-11
 key: JavaJava.B.BasicTextAreaUI
 category: java

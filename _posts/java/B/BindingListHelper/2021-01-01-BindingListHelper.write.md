@@ -1,6 +1,6 @@
 ---
 title: BindingListHelper.write()
-permalink: Java/BindingListHelper/write
+permalink: /Java/BindingListHelper/write/
 date: 2021-01-11
 key: JavaJava.B.BindingListHelper
 category: java

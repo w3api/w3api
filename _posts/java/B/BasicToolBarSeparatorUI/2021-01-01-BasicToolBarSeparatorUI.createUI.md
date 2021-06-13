@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarSeparatorUI.createUI()
-permalink: Java/BasicToolBarSeparatorUI/createUI
+permalink: /Java/BasicToolBarSeparatorUI/createUI/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarSeparatorUI
 category: java

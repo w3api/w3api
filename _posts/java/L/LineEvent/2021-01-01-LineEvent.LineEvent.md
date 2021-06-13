@@ -2,7 +2,7 @@
 title: LineEvent.LineEvent()
 permalink: Java/LineEvent/LineEvent
 date: 2021-01-11
-key: JavaJava.L.LineEvent
+key: Java.L.LineEvent
 category: java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

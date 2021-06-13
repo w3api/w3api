@@ -1,6 +1,6 @@
 ---
 title: BinaryTree
-permalink: Java/BinaryTree-com-sun-source-tree
+permalink: /Java/BinaryTree-com-sun-source-tree/
 date: 2021-01-11
 key: JavaJava.B.BinaryTree-com-sun-source-tree
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BasicComboBoxEditor
-permalink: Java/BasicComboBoxEditor
+permalink: /Java/BasicComboBoxEditor/
 date: 2021-01-11
-key: JavaJava.B.BasicComboBoxEditor
+key: Java.B.BasicComboBoxEditor
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

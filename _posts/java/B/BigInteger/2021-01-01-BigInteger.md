@@ -1,8 +1,8 @@
 ---
 title: BigInteger
-permalink: Java/BigInteger
+permalink: /Java/BigInteger/
 date: 2021-01-11
-key: JavaJava.B.BigInteger
+key: Java.B.BigInteger
 category: java
 tags: ['java se', 'java.math', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

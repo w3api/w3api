@@ -1,6 +1,6 @@
 ---
 title: ButtonBar.BUTTON_ORDER_WINDOWS
-permalink: Java/ButtonBar/BUTTON_ORDER_WINDOWS
+permalink: /Java/ButtonBar/BUTTON_ORDER_WINDOWS/
 date: 2021-01-11
 key: JavaJava.B.ButtonBar
 category: java

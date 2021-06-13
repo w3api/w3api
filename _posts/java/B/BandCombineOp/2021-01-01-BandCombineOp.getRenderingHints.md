@@ -1,6 +1,6 @@
 ---
 title: BandCombineOp.getRenderingHints()
-permalink: Java/BandCombineOp/getRenderingHints
+permalink: /Java/BandCombineOp/getRenderingHints/
 date: 2021-01-11
 key: JavaJava.B.BandCombineOp
 category: java

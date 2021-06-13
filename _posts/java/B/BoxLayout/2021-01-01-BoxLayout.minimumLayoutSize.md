@@ -1,6 +1,6 @@
 ---
 title: BoxLayout.minimumLayoutSize()
-permalink: Java/BoxLayout/minimumLayoutSize
+permalink: /Java/BoxLayout/minimumLayoutSize/
 date: 2021-01-11
 key: JavaJava.B.BoxLayout
 category: java

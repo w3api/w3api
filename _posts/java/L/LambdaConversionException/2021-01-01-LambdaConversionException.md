@@ -1,8 +1,8 @@
 ---
 title: LambdaConversionException
-permalink: Java/LambdaConversionException
+permalink: /Java/LambdaConversionException/
 date: 2021-01-11
-key: JavaJava.L.LambdaConversionException
+key: Java.L.LambdaConversionException
 category: java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 

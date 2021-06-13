@@ -1,6 +1,6 @@
 ---
 title: BufferedInputStream.BufferedInputStream()
-permalink: Java/BufferedInputStream/BufferedInputStream
+permalink: /Java/BufferedInputStream/BufferedInputStream/
 date: 2021-01-11
 key: JavaJava.B.BufferedInputStream
 category: java

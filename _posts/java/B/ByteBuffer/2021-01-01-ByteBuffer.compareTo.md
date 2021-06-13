@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.compareTo()
-permalink: Java/ByteBuffer/compareTo
+permalink: /Java/ByteBuffer/compareTo/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

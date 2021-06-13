@@ -1,6 +1,6 @@
 ---
 title: BasicFormattedTextFieldUI.getPropertyPrefix()
-permalink: Java/BasicFormattedTextFieldUI/getPropertyPrefix
+permalink: /Java/BasicFormattedTextFieldUI/getPropertyPrefix/
 date: 2021-01-11
 key: JavaJava.B.BasicFormattedTextFieldUI
 category: java

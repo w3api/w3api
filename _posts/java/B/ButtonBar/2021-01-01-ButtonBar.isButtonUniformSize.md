@@ -1,6 +1,6 @@
 ---
 title: ButtonBar.isButtonUniformSize()
-permalink: Java/ButtonBar/isButtonUniformSize
+permalink: /Java/ButtonBar/isButtonUniformSize/
 date: 2021-01-11
 key: JavaJava.B.ButtonBar
 category: java

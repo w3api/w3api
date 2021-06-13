@@ -1,6 +1,6 @@
 ---
 title: ButtonBar.buttonMinWidthProperty()
-permalink: Java/ButtonBar/buttonMinWidthProperty
+permalink: /Java/ButtonBar/buttonMinWidthProperty/
 date: 2021-01-11
 key: JavaJava.B.ButtonBar
 category: java

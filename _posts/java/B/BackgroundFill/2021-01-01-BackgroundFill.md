@@ -1,6 +1,6 @@
 ---
 title: BackgroundFill
-permalink: Java/BackgroundFill
+permalink: /Java/BackgroundFill/
 date: 2021-01-11
 key: JavaJava.B.BackgroundFill
 category: java

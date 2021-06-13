@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.uninstallComponents()
-permalink: Java/BasicMenuItemUI/uninstallComponents
+permalink: /Java/BasicMenuItemUI/uninstallComponents/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

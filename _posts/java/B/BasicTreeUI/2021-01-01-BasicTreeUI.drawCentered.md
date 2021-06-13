@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.drawCentered()
-permalink: Java/BasicTreeUI/drawCentered
+permalink: /Java/BasicTreeUI/drawCentered/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

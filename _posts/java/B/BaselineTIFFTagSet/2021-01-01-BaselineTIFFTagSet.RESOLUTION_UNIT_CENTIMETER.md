@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.RESOLUTION_UNIT_CENTIMETER
-permalink: Java/BaselineTIFFTagSet/RESOLUTION_UNIT_CENTIMETER
+permalink: /Java/BaselineTIFFTagSet/RESOLUTION_UNIT_CENTIMETER/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

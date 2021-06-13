@@ -1,8 +1,8 @@
 ---
 title: LaunchingConnector.launch()
-permalink: Java/LaunchingConnector/launch
+permalink: /Java/LaunchingConnector/launch/
 date: 2021-01-11
-key: JavaJava.L.LaunchingConnector
+key: Java.L.LaunchingConnector
 category: java
 tags: ['java se', 'com.sun.jdi.connect', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 

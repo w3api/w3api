@@ -1,6 +1,6 @@
 ---
 title: BlockingQueue.offer()
-permalink: Java/BlockingQueue/offer
+permalink: /Java/BlockingQueue/offer/
 date: 2021-01-11
 key: JavaJava.B.BlockingQueue
 category: java

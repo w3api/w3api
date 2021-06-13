@@ -1,6 +1,6 @@
 ---
 title: BasicMenuBarUI.uninstallDefaults()
-permalink: Java/BasicMenuBarUI/uninstallDefaults
+permalink: /Java/BasicMenuBarUI/uninstallDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuBarUI
 category: java

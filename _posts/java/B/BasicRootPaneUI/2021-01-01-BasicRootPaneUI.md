@@ -1,8 +1,8 @@
 ---
 title: BasicRootPaneUI
-permalink: Java/BasicRootPaneUI
+permalink: /Java/BasicRootPaneUI/
 date: 2021-01-11
-key: JavaJava.B.BasicRootPaneUI
+key: Java.B.BasicRootPaneUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 

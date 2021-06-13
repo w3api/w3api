@@ -1,8 +1,8 @@
 ---
 title: BackgroundImage.getImage()
-permalink: Java/BackgroundImage/getImage
+permalink: /Java/BackgroundImage/getImage/
 date: 2021-01-11
-key: JavaJava.B.BackgroundImage
+key: Java.B.BackgroundImage
 category: java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

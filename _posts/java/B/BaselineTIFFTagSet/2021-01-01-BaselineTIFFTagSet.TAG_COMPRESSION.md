@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_COMPRESSION
-permalink: Java/BaselineTIFFTagSet/TAG_COMPRESSION
+permalink: /Java/BaselineTIFFTagSet/TAG_COMPRESSION/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

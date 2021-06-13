@@ -2,7 +2,7 @@
 title: ListPropertyBase.fireValueChangedEvent()
 permalink: Java/ListPropertyBase/fireValueChangedEvent
 date: 2021-01-11
-key: JavaJava.L.ListPropertyBase
+key: Java.L.ListPropertyBase
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

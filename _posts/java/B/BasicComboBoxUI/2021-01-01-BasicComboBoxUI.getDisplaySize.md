@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.getDisplaySize()
-permalink: Java/BasicComboBoxUI/getDisplaySize
+permalink: /Java/BasicComboBoxUI/getDisplaySize/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

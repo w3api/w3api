@@ -1,8 +1,8 @@
 ---
 title: BeanContextMembershipEvent
-permalink: Java/BeanContextMembershipEvent
+permalink: /Java/BeanContextMembershipEvent/
 date: 2021-01-11
-key: JavaJava.B.BeanContextMembershipEvent
+key: Java.B.BeanContextMembershipEvent
 category: java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 

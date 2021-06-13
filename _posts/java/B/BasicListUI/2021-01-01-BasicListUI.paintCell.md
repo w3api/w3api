@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.paintCell()
-permalink: Java/BasicListUI/paintCell
+permalink: /Java/BasicListUI/paintCell/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BooleanProperty.toString()
-permalink: Java/BooleanProperty/toString
+permalink: /Java/BooleanProperty/toString/
 date: 2021-01-11
 key: JavaJava.B.BooleanProperty
 category: java

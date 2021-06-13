@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.uninstallComponents()
-permalink: Java/BasicComboBoxUI/uninstallComponents
+permalink: /Java/BasicComboBoxUI/uninstallComponents/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

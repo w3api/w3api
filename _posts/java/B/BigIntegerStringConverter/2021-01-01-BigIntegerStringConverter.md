@@ -1,6 +1,6 @@
 ---
 title: BigIntegerStringConverter
-permalink: Java/BigIntegerStringConverter
+permalink: /Java/BigIntegerStringConverter/
 date: 2021-01-11
 key: JavaJava.B.BigIntegerStringConverter
 category: java

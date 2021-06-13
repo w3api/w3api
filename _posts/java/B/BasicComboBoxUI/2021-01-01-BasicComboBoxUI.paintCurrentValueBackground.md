@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.paintCurrentValueBackground()
-permalink: Java/BasicComboBoxUI/paintCurrentValueBackground
+permalink: /Java/BasicComboBoxUI/paintCurrentValueBackground/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

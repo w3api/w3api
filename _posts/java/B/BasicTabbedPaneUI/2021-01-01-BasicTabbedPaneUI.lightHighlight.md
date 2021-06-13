@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.lightHighlight
-permalink: Java/BasicTabbedPaneUI/lightHighlight
+permalink: /Java/BasicTabbedPaneUI/lightHighlight/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

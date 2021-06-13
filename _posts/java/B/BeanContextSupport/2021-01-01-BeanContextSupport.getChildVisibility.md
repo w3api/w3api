@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.getChildVisibility()
-permalink: Java/BeanContextSupport/getChildVisibility
+permalink: /Java/BeanContextSupport/getChildVisibility/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

@@ -1,8 +1,8 @@
 ---
 title: LastOwnerException
-permalink: Java/LastOwnerException
+permalink: /Java/LastOwnerException/
 date: 2021-01-11
-key: JavaJava.L.LastOwnerException
+key: Java.L.LastOwnerException
 category: java
 tags: ['java se', 'java.security.acl', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

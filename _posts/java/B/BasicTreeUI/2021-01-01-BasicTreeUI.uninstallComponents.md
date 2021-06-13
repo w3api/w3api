@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.uninstallComponents()
-permalink: Java/BasicTreeUI/uninstallComponents
+permalink: /Java/BasicTreeUI/uninstallComponents/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

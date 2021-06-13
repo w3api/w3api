@@ -1,6 +1,6 @@
 ---
 title: ButtonBar.setButtonOrder()
-permalink: Java/ButtonBar/setButtonOrder
+permalink: /Java/ButtonBar/setButtonOrder/
 date: 2021-01-11
 key: JavaJava.B.ButtonBar
 category: java

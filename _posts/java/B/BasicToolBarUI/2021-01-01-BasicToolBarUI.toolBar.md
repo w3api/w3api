@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.toolBar
-permalink: Java/BasicToolBarUI/toolBar
+permalink: /Java/BasicToolBarUI/toolBar/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

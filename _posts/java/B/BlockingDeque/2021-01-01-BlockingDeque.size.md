@@ -1,6 +1,6 @@
 ---
 title: BlockingDeque.size()
-permalink: Java/BlockingDeque/size
+permalink: /Java/BlockingDeque/size/
 date: 2021-01-11
 key: JavaJava.B.BlockingDeque
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BorderStrokeStyle.DASHED
-permalink: Java/BorderStrokeStyle/DASHED
+permalink: /Java/BorderStrokeStyle/DASHED/
 date: 2021-01-11
 key: JavaJava.B.BorderStrokeStyle
 category: java

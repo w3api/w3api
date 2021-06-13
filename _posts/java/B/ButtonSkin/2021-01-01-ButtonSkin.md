@@ -1,8 +1,8 @@
 ---
 title: ButtonSkin
-permalink: Java/ButtonSkin
+permalink: /Java/ButtonSkin/
 date: 2021-01-11
-key: JavaJava.B.ButtonSkin
+key: Java.B.ButtonSkin
 category: java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 

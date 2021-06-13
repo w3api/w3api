@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.upKey
-permalink: Java/BasicToolBarUI/upKey
+permalink: /Java/BasicToolBarUI/upKey/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

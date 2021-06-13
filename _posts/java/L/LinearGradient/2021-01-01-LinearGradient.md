@@ -1,8 +1,8 @@
 ---
 title: LinearGradient
-permalink: Java/LinearGradient
+permalink: /Java/LinearGradient/
 date: 2021-01-11
-key: JavaJava.L.LinearGradient
+key: Java.L.LinearGradient
 category: java
 tags: ['java se', 'javafx.scene.paint', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 

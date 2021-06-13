@@ -1,8 +1,8 @@
 ---
 title: LinkedTransferQueue
-permalink: Java/LinkedTransferQueue
+permalink: /Java/LinkedTransferQueue/
 date: 2021-01-11
-key: JavaJava.L.LinkedTransferQueue
+key: Java.L.LinkedTransferQueue
 category: java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 

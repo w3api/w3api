@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.getRolloverBorder()
-permalink: Java/BasicToolBarUI/getRolloverBorder
+permalink: /Java/BasicToolBarUI/getRolloverBorder/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

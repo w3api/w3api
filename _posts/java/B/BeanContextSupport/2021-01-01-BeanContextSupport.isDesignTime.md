@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.isDesignTime()
-permalink: Java/BeanContextSupport/isDesignTime
+permalink: /Java/BeanContextSupport/isDesignTime/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

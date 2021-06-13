@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.COMPRESSION_LZW
-permalink: Java/BaselineTIFFTagSet/COMPRESSION_LZW
+permalink: /Java/BaselineTIFFTagSet/COMPRESSION_LZW/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

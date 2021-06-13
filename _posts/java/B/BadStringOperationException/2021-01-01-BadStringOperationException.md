@@ -1,8 +1,8 @@
 ---
 title: BadStringOperationException
-permalink: Java/BadStringOperationException
+permalink: /Java/BadStringOperationException/
 date: 2021-01-11
-key: JavaJava.B.BadStringOperationException
+key: Java.B.BadStringOperationException
 category: java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

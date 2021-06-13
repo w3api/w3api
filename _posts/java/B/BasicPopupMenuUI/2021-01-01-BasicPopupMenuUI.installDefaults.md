@@ -1,6 +1,6 @@
 ---
 title: BasicPopupMenuUI.installDefaults()
-permalink: Java/BasicPopupMenuUI/installDefaults
+permalink: /Java/BasicPopupMenuUI/installDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicPopupMenuUI
 category: java

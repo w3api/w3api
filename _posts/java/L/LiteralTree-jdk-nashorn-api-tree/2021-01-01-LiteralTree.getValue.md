@@ -2,7 +2,7 @@
 title: LiteralTree.getValue()
 permalink: Java/LiteralTree-jdk-nashorn-api-tree/getValue
 date: 2021-01-11
-key: JavaJava.L.LiteralTree-jdk-nashorn-api-tree
+key: Java.L.LiteralTree-jdk-nashorn-api-tree
 category: java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.SAMPLE_FORMAT_SIGNED_INTEGER
-permalink: Java/BaselineTIFFTagSet/SAMPLE_FORMAT_SIGNED_INTEGER
+permalink: /Java/BaselineTIFFTagSet/SAMPLE_FORMAT_SIGNED_INTEGER/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

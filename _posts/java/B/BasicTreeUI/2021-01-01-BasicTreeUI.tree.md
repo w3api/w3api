@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.tree
-permalink: Java/BasicTreeUI/tree
+permalink: /Java/BasicTreeUI/tree/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BorderImage.isFilled()
-permalink: Java/BorderImage/isFilled
+permalink: /Java/BorderImage/isFilled/
 date: 2021-01-11
 key: JavaJava.B.BorderImage
 category: java

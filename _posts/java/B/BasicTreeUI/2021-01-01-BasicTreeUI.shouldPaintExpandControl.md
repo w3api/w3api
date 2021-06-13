@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.shouldPaintExpandControl()
-permalink: Java/BasicTreeUI/shouldPaintExpandControl
+permalink: /Java/BasicTreeUI/shouldPaintExpandControl/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

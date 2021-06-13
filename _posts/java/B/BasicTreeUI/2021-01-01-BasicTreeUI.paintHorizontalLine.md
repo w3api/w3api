@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.paintHorizontalLine()
-permalink: Java/BasicTreeUI/paintHorizontalLine
+permalink: /Java/BasicTreeUI/paintHorizontalLine/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

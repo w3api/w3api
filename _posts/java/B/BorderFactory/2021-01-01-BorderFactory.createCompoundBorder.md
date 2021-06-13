@@ -1,8 +1,8 @@
 ---
 title: BorderFactory.createCompoundBorder()
-permalink: Java/BorderFactory/createCompoundBorder
+permalink: /Java/BorderFactory/createCompoundBorder/
 date: 2021-01-11
-key: JavaJava.B.BorderFactory
+key: Java.B.BorderFactory
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

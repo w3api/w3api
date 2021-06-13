@@ -1,8 +1,8 @@
 ---
 title: BackgroundImage
-permalink: Java/BackgroundImage
+permalink: /Java/BackgroundImage/
 date: 2021-01-11
-key: JavaJava.B.BackgroundImage
+key: Java.B.BackgroundImage
 category: java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 

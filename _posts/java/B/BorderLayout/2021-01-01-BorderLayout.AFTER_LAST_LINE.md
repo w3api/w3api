@@ -1,8 +1,8 @@
 ---
 title: BorderLayout.AFTER_LAST_LINE
-permalink: Java/BorderLayout/AFTER_LAST_LINE
+permalink: /Java/BorderLayout/AFTER_LAST_LINE/
 date: 2021-01-11
-key: JavaJava.B.BorderLayout
+key: Java.B.BorderLayout
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

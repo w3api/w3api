@@ -1,6 +1,6 @@
 ---
 title: BindingIteratorOperations.next_one()
-permalink: Java/BindingIteratorOperations/next_one
+permalink: /Java/BindingIteratorOperations/next_one/
 date: 2021-01-11
 key: JavaJava.B.BindingIteratorOperations
 category: java

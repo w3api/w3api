@@ -1,8 +1,8 @@
 ---
 title: BooleanConverter
-permalink: Java/BooleanConverter
+permalink: /Java/BooleanConverter/
 date: 2021-01-11
-key: JavaJava.B.BooleanConverter
+key: Java.B.BooleanConverter
 category: java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 

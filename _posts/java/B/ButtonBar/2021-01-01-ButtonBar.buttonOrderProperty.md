@@ -1,6 +1,6 @@
 ---
 title: ButtonBar.buttonOrderProperty()
-permalink: Java/ButtonBar/buttonOrderProperty
+permalink: /Java/ButtonBar/buttonOrderProperty/
 date: 2021-01-11
 key: JavaJava.B.ButtonBar
 category: java

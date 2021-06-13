@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.setPreferredMinSize()
-permalink: Java/BasicTreeUI/setPreferredMinSize
+permalink: /Java/BasicTreeUI/setPreferredMinSize/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

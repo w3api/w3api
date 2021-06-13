@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.startAutoScrolling()
-permalink: Java/BasicComboPopup/startAutoScrolling
+permalink: /Java/BasicComboPopup/startAutoScrolling/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

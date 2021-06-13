@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_JPEG_DC_TABLES
-permalink: Java/BaselineTIFFTagSet/TAG_JPEG_DC_TABLES
+permalink: /Java/BaselineTIFFTagSet/TAG_JPEG_DC_TABLES/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BoundsHelper.insert()
-permalink: Java/BoundsHelper-org-omg-CORBA-TypeCodePackage/insert
+permalink: /Java/BoundsHelper-org-omg-CORBA-TypeCodePackage/insert/
 date: 2021-01-11
-key: JavaJava.B.BoundsHelper-org-omg-CORBA-TypeCodePackage
+key: Java.B.BoundsHelper-org-omg-CORBA-TypeCodePackage
 category: java
 tags: ['java se', 'org.omg.CORBA.TypeCodePackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

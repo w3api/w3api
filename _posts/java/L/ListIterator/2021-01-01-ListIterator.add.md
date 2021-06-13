@@ -1,8 +1,8 @@
 ---
 title: ListIterator.add()
-permalink: Java/ListIterator/add
+permalink: /Java/ListIterator/add/
 date: 2021-01-11
-key: JavaJava.L.ListIterator
+key: Java.L.ListIterator
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

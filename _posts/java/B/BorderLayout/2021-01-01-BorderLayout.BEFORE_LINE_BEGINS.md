@@ -1,8 +1,8 @@
 ---
 title: BorderLayout.BEFORE_LINE_BEGINS
-permalink: Java/BorderLayout/BEFORE_LINE_BEGINS
+permalink: /Java/BorderLayout/BEFORE_LINE_BEGINS/
 date: 2021-01-11
-key: JavaJava.B.BorderLayout
+key: Java.B.BorderLayout
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

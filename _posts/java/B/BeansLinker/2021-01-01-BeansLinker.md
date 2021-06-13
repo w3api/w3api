@@ -1,8 +1,8 @@
 ---
 title: BeansLinker
-permalink: Java/BeansLinker
+permalink: /Java/BeansLinker/
 date: 2021-01-11
-key: JavaJava.B.BeansLinker
+key: Java.B.BeansLinker
 category: java
 tags: ['java se', 'jdk.dynalink.beans', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 

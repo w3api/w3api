@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.createActions()
-permalink: Java/BasicInternalFrameTitlePane/createActions
+permalink: /Java/BasicInternalFrameTitlePane/createActions/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

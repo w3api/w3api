@@ -1,6 +1,6 @@
 ---
 title: BasicTextAreaUI.createUI()
-permalink: Java/BasicTextAreaUI/createUI
+permalink: /Java/BasicTextAreaUI/createUI/
 date: 2021-01-11
 key: JavaJava.B.BasicTextAreaUI
 category: java

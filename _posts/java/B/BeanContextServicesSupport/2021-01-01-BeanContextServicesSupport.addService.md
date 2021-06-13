@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesSupport.addService()
-permalink: Java/BeanContextServicesSupport/addService
+permalink: /Java/BeanContextServicesSupport/addService/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesSupport
 category: java

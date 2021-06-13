@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.createListSelectionListener()
-permalink: Java/BasicComboPopup/createListSelectionListener
+permalink: /Java/BasicComboPopup/createListSelectionListener/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

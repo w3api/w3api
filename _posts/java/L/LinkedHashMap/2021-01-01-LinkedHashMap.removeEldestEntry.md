@@ -2,7 +2,7 @@
 title: LinkedHashMap.removeEldestEntry()
 permalink: Java/LinkedHashMap/removeEldestEntry
 date: 2021-01-11
-key: JavaJava.L.LinkedHashMap
+key: Java.L.LinkedHashMap
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

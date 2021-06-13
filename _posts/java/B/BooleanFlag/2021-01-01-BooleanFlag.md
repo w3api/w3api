@@ -1,6 +1,6 @@
 ---
 title: BooleanFlag
-permalink: Java/BooleanFlag
+permalink: /Java/BooleanFlag/
 date: 2021-01-11
 key: JavaJava.B.BooleanFlag
 category: java

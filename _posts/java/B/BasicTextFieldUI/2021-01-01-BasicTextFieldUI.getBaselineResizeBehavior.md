@@ -1,6 +1,6 @@
 ---
 title: BasicTextFieldUI.getBaselineResizeBehavior()
-permalink: Java/BasicTextFieldUI/getBaselineResizeBehavior
+permalink: /Java/BasicTextFieldUI/getBaselineResizeBehavior/
 date: 2021-01-11
 key: JavaJava.B.BasicTextFieldUI
 category: java

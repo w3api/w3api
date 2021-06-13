@@ -1,6 +1,6 @@
 ---
 title: BooleanValue
-permalink: Java/BooleanValue
+permalink: /Java/BooleanValue/
 date: 2021-01-11
 key: JavaJava.B.BooleanValue
 category: java

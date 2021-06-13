@@ -1,6 +1,6 @@
 ---
 title: BindingProvider.ENDPOINT_ADDRESS_PROPERTY
-permalink: Java/BindingProvider/ENDPOINT_ADDRESS_PROPERTY
+permalink: /Java/BindingProvider/ENDPOINT_ADDRESS_PROPERTY/
 date: 2021-01-11
 key: JavaJava.B.BindingProvider
 category: java

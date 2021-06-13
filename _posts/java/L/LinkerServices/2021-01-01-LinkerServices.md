@@ -2,7 +2,7 @@
 title: LinkerServices
 permalink: Java/LinkerServices
 date: 2021-01-11
-key: JavaJava.L.LinkerServices
+key: Java.L.LinkerServices
 category: java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.getBaseline()
-permalink: Java/BasicTabbedPaneUI/getBaseline
+permalink: /Java/BasicTabbedPaneUI/getBaseline/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

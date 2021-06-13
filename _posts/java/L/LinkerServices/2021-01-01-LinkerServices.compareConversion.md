@@ -2,7 +2,7 @@
 title: LinkerServices.compareConversion()
 permalink: Java/LinkerServices/compareConversion
 date: 2021-01-11
-key: JavaJava.L.LinkerServices
+key: Java.L.LinkerServices
 category: java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 

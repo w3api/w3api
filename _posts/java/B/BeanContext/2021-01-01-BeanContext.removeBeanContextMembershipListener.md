@@ -1,8 +1,8 @@
 ---
 title: BeanContext.removeBeanContextMembershipListener()
-permalink: Java/BeanContext/removeBeanContextMembershipListener
+permalink: /Java/BeanContext/removeBeanContextMembershipListener/
 date: 2021-01-11
-key: JavaJava.B.BeanContext
+key: Java.B.BeanContext
 category: java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

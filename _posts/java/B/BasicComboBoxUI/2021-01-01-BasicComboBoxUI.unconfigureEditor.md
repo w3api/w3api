@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.unconfigureEditor()
-permalink: Java/BasicComboBoxUI/unconfigureEditor
+permalink: /Java/BasicComboBoxUI/unconfigureEditor/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

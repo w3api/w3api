@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.getBaseline()
-permalink: Java/BasicSpinnerUI/getBaseline
+permalink: /Java/BasicSpinnerUI/getBaseline/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

@@ -2,7 +2,7 @@
 title: LambdaExpressionTree.BodyKind.values()
 permalink: Java/LambdaExpressionTree/BodyKind/values
 date: 2021-01-11
-key: JavaJava.L.LambdaExpressionTree.BodyKind
+key: Java.L.LambdaExpressionTree.BodyKind
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.0']
 sidebar: 

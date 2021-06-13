@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.createPropertyChangeListener()
-permalink: Java/BasicSpinnerUI/createPropertyChangeListener
+permalink: /Java/BasicSpinnerUI/createPropertyChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BackgroundFill.getInsets()
-permalink: Java/BackgroundFill/getInsets
+permalink: /Java/BackgroundFill/getInsets/
 date: 2021-01-11
 key: JavaJava.B.BackgroundFill
 category: java

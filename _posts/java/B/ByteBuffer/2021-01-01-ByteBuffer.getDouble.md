@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.getDouble()
-permalink: Java/ByteBuffer/getDouble
+permalink: /Java/ByteBuffer/getDouble/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

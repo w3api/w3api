@@ -1,8 +1,8 @@
 ---
 title: BeanContextChildSupport.serviceRevoked()
-permalink: Java/BeanContextChildSupport/serviceRevoked
+permalink: /Java/BeanContextChildSupport/serviceRevoked/
 date: 2021-01-11
-key: JavaJava.B.BeanContextChildSupport
+key: Java.B.BeanContextChildSupport
 category: java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

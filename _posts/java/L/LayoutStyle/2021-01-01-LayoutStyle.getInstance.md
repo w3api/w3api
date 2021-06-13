@@ -2,7 +2,7 @@
 title: LayoutStyle.getInstance()
 permalink: Java/LayoutStyle/getInstance
 date: 2021-01-11
-key: JavaJava.L.LayoutStyle
+key: Java.L.LayoutStyle
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 

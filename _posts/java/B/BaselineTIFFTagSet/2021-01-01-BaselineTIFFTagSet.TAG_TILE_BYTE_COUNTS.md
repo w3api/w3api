@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_TILE_BYTE_COUNTS
-permalink: Java/BaselineTIFFTagSet/TAG_TILE_BYTE_COUNTS
+permalink: /Java/BaselineTIFFTagSet/TAG_TILE_BYTE_COUNTS/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

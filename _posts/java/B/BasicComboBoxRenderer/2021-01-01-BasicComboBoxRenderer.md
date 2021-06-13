@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxRenderer
-permalink: Java/BasicComboBoxRenderer
+permalink: /Java/BasicComboBoxRenderer/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxRenderer
 category: java

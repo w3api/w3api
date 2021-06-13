@@ -1,6 +1,6 @@
 ---
 title: BlockTagTree.getTagName()
-permalink: Java/BlockTagTree/getTagName
+permalink: /Java/BlockTagTree/getTagName/
 date: 2021-01-11
 key: JavaJava.B.BlockTagTree
 category: java

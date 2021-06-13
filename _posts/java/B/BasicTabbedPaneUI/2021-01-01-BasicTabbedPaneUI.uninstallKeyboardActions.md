@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.uninstallKeyboardActions()
-permalink: Java/BasicTabbedPaneUI/uninstallKeyboardActions
+permalink: /Java/BasicTabbedPaneUI/uninstallKeyboardActions/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

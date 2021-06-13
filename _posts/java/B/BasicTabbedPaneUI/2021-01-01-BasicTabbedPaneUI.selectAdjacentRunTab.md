@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.selectAdjacentRunTab()
-permalink: Java/BasicTabbedPaneUI/selectAdjacentRunTab
+permalink: /Java/BasicTabbedPaneUI/selectAdjacentRunTab/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicMenuBarUI.createContainerListener()
-permalink: Java/BasicMenuBarUI/createContainerListener
+permalink: /Java/BasicMenuBarUI/createContainerListener/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuBarUI
 category: java

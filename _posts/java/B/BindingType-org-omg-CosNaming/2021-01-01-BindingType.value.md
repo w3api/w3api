@@ -1,8 +1,8 @@
 ---
 title: BindingType.value()
-permalink: Java/BindingType-org-omg-CosNaming/value
+permalink: /Java/BindingType-org-omg-CosNaming/value/
 date: 2021-01-11
-key: JavaJava.B.BindingType-org-omg-CosNaming
+key: Java.B.BindingType-org-omg-CosNaming
 category: java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

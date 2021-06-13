@@ -1,6 +1,6 @@
 ---
 title: BaseStream.spliterator()
-permalink: Java/BaseStream/spliterator
+permalink: /Java/BaseStream/spliterator/
 date: 2021-01-11
 key: JavaJava.B.BaseStream
 category: java

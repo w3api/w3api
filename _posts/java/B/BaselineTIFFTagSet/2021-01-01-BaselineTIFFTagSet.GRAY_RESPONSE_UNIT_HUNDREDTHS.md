@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.GRAY_RESPONSE_UNIT_HUNDREDTHS
-permalink: Java/BaselineTIFFTagSet/GRAY_RESPONSE_UNIT_HUNDREDTHS
+permalink: /Java/BaselineTIFFTagSet/GRAY_RESPONSE_UNIT_HUNDREDTHS/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

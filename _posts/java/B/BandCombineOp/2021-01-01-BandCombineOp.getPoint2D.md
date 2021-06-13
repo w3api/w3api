@@ -1,6 +1,6 @@
 ---
 title: BandCombineOp.getPoint2D()
-permalink: Java/BandCombineOp/getPoint2D
+permalink: /Java/BandCombineOp/getPoint2D/
 date: 2021-01-11
 key: JavaJava.B.BandCombineOp
 category: java

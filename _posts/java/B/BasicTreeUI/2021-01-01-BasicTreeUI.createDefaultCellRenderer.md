@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.createDefaultCellRenderer()
-permalink: Java/BasicTreeUI/createDefaultCellRenderer
+permalink: /Java/BasicTreeUI/createDefaultCellRenderer/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

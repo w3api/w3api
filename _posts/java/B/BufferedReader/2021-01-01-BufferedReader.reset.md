@@ -1,6 +1,6 @@
 ---
 title: BufferedReader.reset()
-permalink: Java/BufferedReader/reset
+permalink: /Java/BufferedReader/reset/
 date: 2021-01-11
 key: JavaJava.B.BufferedReader
 category: java

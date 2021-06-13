@@ -1,8 +1,8 @@
 ---
 title: BadBinaryOpValueExpException.BadBinaryOpValueExpException()
-permalink: Java/BadBinaryOpValueExpException/BadBinaryOpValueExpException
+permalink: /Java/BadBinaryOpValueExpException/BadBinaryOpValueExpException/
 date: 2021-01-11
-key: JavaJava.B.BadBinaryOpValueExpException
+key: Java.B.BadBinaryOpValueExpException
 category: java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

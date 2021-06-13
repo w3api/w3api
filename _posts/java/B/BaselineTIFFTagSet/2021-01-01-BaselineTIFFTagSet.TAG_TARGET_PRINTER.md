@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_TARGET_PRINTER
-permalink: Java/BaselineTIFFTagSet/TAG_TARGET_PRINTER
+permalink: /Java/BaselineTIFFTagSet/TAG_TARGET_PRINTER/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicFileAttributes.fileKey()
-permalink: Java/BasicFileAttributes/fileKey
+permalink: /Java/BasicFileAttributes/fileKey/
 date: 2021-01-11
 key: JavaJava.B.BasicFileAttributes
 category: java

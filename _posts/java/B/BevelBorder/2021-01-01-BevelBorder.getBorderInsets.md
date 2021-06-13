@@ -1,6 +1,6 @@
 ---
 title: BevelBorder.getBorderInsets()
-permalink: Java/BevelBorder/getBorderInsets
+permalink: /Java/BevelBorder/getBorderInsets/
 date: 2021-01-11
 key: JavaJava.B.BevelBorder
 category: java

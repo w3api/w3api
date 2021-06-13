@@ -1,6 +1,6 @@
 ---
 title: BasicDirectoryModel.firePropertyChange()
-permalink: Java/BasicDirectoryModel/firePropertyChange
+permalink: /Java/BasicDirectoryModel/firePropertyChange/
 date: 2021-01-11
 key: JavaJava.B.BasicDirectoryModel
 category: java

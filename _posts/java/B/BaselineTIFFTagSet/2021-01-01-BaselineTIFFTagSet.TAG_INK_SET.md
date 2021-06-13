@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_INK_SET
-permalink: Java/BaselineTIFFTagSet/TAG_INK_SET
+permalink: /Java/BaselineTIFFTagSet/TAG_INK_SET/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

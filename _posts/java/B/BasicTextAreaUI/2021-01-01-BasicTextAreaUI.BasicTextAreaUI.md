@@ -1,6 +1,6 @@
 ---
 title: BasicTextAreaUI.BasicTextAreaUI()
-permalink: Java/BasicTextAreaUI/BasicTextAreaUI
+permalink: /Java/BasicTextAreaUI/BasicTextAreaUI/
 date: 2021-01-11
 key: JavaJava.B.BasicTextAreaUI
 category: java

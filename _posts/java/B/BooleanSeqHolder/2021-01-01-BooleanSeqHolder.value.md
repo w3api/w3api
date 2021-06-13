@@ -1,6 +1,6 @@
 ---
 title: BooleanSeqHolder.value
-permalink: Java/BooleanSeqHolder/value
+permalink: /Java/BooleanSeqHolder/value/
 date: 2021-01-11
 key: JavaJava.B.BooleanSeqHolder
 category: java

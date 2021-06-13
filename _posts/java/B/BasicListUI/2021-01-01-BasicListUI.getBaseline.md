@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.getBaseline()
-permalink: Java/BasicListUI/getBaseline
+permalink: /Java/BasicListUI/getBaseline/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

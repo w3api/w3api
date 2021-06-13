@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopIconUI.installListeners()
-permalink: Java/BasicDesktopIconUI/installListeners
+permalink: /Java/BasicDesktopIconUI/installListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopIconUI
 category: java

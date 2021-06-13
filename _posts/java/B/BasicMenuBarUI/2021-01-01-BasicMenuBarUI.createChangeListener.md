@@ -1,6 +1,6 @@
 ---
 title: BasicMenuBarUI.createChangeListener()
-permalink: Java/BasicMenuBarUI/createChangeListener
+permalink: /Java/BasicMenuBarUI/createChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuBarUI
 category: java

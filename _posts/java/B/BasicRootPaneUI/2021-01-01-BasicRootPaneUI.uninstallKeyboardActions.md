@@ -1,8 +1,8 @@
 ---
 title: BasicRootPaneUI.uninstallKeyboardActions()
-permalink: Java/BasicRootPaneUI/uninstallKeyboardActions
+permalink: /Java/BasicRootPaneUI/uninstallKeyboardActions/
 date: 2021-01-11
-key: JavaJava.B.BasicRootPaneUI
+key: Java.B.BasicRootPaneUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

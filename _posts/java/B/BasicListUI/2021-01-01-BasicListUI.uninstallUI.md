@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.uninstallUI()
-permalink: Java/BasicListUI/uninstallUI
+permalink: /Java/BasicListUI/uninstallUI/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

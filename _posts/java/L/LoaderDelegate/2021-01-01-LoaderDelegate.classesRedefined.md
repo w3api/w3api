@@ -2,7 +2,7 @@
 title: LoaderDelegate.classesRedefined()
 permalink: Java/LoaderDelegate/classesRedefined
 date: 2021-01-11
-key: JavaJava.L.LoaderDelegate
+key: Java.L.LoaderDelegate
 category: java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 

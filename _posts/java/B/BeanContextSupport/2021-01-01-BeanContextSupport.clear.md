@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.clear()
-permalink: Java/BeanContextSupport/clear
+permalink: /Java/BeanContextSupport/clear/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

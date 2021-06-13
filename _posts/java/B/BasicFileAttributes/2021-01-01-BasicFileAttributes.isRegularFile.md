@@ -1,6 +1,6 @@
 ---
 title: BasicFileAttributes.isRegularFile()
-permalink: Java/BasicFileAttributes/isRegularFile
+permalink: /Java/BasicFileAttributes/isRegularFile/
 date: 2021-01-11
 key: JavaJava.B.BasicFileAttributes
 category: java

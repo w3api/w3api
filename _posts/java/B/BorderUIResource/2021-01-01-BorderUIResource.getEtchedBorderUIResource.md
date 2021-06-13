@@ -1,6 +1,6 @@
 ---
 title: BorderUIResource.getEtchedBorderUIResource()
-permalink: Java/BorderUIResource/getEtchedBorderUIResource
+permalink: /Java/BorderUIResource/getEtchedBorderUIResource/
 date: 2021-01-11
 key: JavaJava.B.BorderUIResource
 category: java

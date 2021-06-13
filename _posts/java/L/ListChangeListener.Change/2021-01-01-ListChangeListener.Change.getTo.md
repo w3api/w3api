@@ -2,7 +2,7 @@
 title: ListChangeListener.Change.getTo()
 permalink: Java/ListChangeListener/Change/getTo
 date: 2021-01-11
-key: JavaJava.L.ListChangeListener.Change
+key: Java.L.ListChangeListener.Change
 category: java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

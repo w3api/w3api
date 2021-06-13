@@ -1,6 +1,6 @@
 ---
 title: ButtonBase.fire()
-permalink: Java/ButtonBase/fire
+permalink: /Java/ButtonBase/fire/
 date: 2021-01-11
 key: JavaJava.B.ButtonBase
 category: java

@@ -2,7 +2,7 @@
 title: LineEvent.getFramePosition()
 permalink: Java/LineEvent/getFramePosition
 date: 2021-01-11
-key: JavaJava.L.LineEvent
+key: Java.L.LineEvent
 category: java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

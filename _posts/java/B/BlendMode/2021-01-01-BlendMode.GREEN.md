@@ -1,8 +1,8 @@
 ---
 title: BlendMode.GREEN
-permalink: Java/BlendMode/GREEN
+permalink: /Java/BlendMode/GREEN/
 date: 2021-01-11
-key: JavaJava.B.BlendMode
+key: Java.B.BlendMode
 category: java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 

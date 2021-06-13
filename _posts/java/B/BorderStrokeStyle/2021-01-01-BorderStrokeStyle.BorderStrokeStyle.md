@@ -1,6 +1,6 @@
 ---
 title: BorderStrokeStyle.BorderStrokeStyle()
-permalink: Java/BorderStrokeStyle/BorderStrokeStyle
+permalink: /Java/BorderStrokeStyle/BorderStrokeStyle/
 date: 2021-01-11
 key: JavaJava.B.BorderStrokeStyle
 category: java

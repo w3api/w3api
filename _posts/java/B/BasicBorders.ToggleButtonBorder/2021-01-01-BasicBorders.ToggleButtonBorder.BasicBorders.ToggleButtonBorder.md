@@ -1,8 +1,8 @@
 ---
 title: BasicBorders.ToggleButtonBorder.BasicBorders.ToggleButtonBorder()
-permalink: Java/BasicBorders/ToggleButtonBorder/BasicBorders/ToggleButtonBorder
+permalink: /Java/BasicBorders/ToggleButtonBorder/BasicBorders/ToggleButtonBorder/
 date: 2021-01-11
-key: JavaJava.B.BasicBorders.ToggleButtonBorder
+key: Java.B.BasicBorders.ToggleButtonBorder
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

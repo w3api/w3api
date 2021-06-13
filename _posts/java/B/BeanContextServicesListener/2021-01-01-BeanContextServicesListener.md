@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesListener
-permalink: Java/BeanContextServicesListener
+permalink: /Java/BeanContextServicesListener/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesListener
 category: java

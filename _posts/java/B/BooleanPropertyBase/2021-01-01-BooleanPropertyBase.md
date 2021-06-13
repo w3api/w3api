@@ -1,6 +1,6 @@
 ---
 title: BooleanPropertyBase
-permalink: Java/BooleanPropertyBase
+permalink: /Java/BooleanPropertyBase/
 date: 2021-01-11
 key: JavaJava.B.BooleanPropertyBase
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.installNextButtonListeners()
-permalink: Java/BasicSpinnerUI/installNextButtonListeners
+permalink: /Java/BasicSpinnerUI/installNextButtonListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ButtonGroup.getElements()
-permalink: Java/ButtonGroup/getElements
+permalink: /Java/ButtonGroup/getElements/
 date: 2021-01-11
 key: JavaJava.B.ButtonGroup
 category: java

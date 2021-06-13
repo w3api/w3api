@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_PREDICTOR
-permalink: Java/BaselineTIFFTagSet/TAG_PREDICTOR
+permalink: /Java/BaselineTIFFTagSet/TAG_PREDICTOR/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

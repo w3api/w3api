@@ -1,6 +1,6 @@
 ---
 title: BoxLayout.getTarget()
-permalink: Java/BoxLayout/getTarget
+permalink: /Java/BoxLayout/getTarget/
 date: 2021-01-11
 key: JavaJava.B.BoxLayout
 category: java

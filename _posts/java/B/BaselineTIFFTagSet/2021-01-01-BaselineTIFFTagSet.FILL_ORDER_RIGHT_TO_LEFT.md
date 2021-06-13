@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.FILL_ORDER_RIGHT_TO_LEFT
-permalink: Java/BaselineTIFFTagSet/FILL_ORDER_RIGHT_TO_LEFT
+permalink: /Java/BaselineTIFFTagSet/FILL_ORDER_RIGHT_TO_LEFT/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

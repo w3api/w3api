@@ -2,7 +2,7 @@
 title: ListenerNotFoundException.ListenerNotFoundException()
 permalink: Java/ListenerNotFoundException/ListenerNotFoundException
 date: 2021-01-11
-key: JavaJava.L.ListenerNotFoundException
+key: Java.L.ListenerNotFoundException
 category: java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.tabChangeListener
-permalink: Java/BasicTabbedPaneUI/tabChangeListener
+permalink: /Java/BasicTabbedPaneUI/tabChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

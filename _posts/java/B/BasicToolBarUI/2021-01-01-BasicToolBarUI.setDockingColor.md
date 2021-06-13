@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.setDockingColor()
-permalink: Java/BasicToolBarUI/setDockingColor
+permalink: /Java/BasicToolBarUI/setDockingColor/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

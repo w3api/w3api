@@ -1,6 +1,6 @@
 ---
 title: BorderStrokeStyle.NONE
-permalink: Java/BorderStrokeStyle/NONE
+permalink: /Java/BorderStrokeStyle/NONE/
 date: 2021-01-11
 key: JavaJava.B.BorderStrokeStyle
 category: java

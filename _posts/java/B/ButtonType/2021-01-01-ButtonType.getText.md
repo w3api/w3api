@@ -1,6 +1,6 @@
 ---
 title: ButtonType.getText()
-permalink: Java/ButtonType/getText
+permalink: /Java/ButtonType/getText/
 date: 2021-01-11
 key: JavaJava.B.ButtonType
 category: java

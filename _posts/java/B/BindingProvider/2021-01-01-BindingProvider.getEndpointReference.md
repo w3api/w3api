@@ -1,6 +1,6 @@
 ---
 title: BindingProvider.getEndpointReference()
-permalink: Java/BindingProvider/getEndpointReference
+permalink: /Java/BindingProvider/getEndpointReference/
 date: 2021-01-11
 key: JavaJava.B.BindingProvider
 category: java

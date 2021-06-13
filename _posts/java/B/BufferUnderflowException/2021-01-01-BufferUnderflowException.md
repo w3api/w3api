@@ -1,6 +1,6 @@
 ---
 title: BufferUnderflowException
-permalink: Java/BufferUnderflowException
+permalink: /Java/BufferUnderflowException/
 date: 2021-01-11
 key: JavaJava.B.BufferUnderflowException
 category: java

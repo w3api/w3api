@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.changeListener
-permalink: Java/BasicProgressBarUI/changeListener
+permalink: /Java/BasicProgressBarUI/changeListener/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.prototypeCellValueChanged
-permalink: Java/BasicListUI/prototypeCellValueChanged
+permalink: /Java/BasicListUI/prototypeCellValueChanged/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

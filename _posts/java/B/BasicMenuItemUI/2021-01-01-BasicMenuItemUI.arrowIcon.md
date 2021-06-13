@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.arrowIcon
-permalink: Java/BasicMenuItemUI/arrowIcon
+permalink: /Java/BasicMenuItemUI/arrowIcon/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicBorders.ButtonBorder.shadow
-permalink: Java/BasicBorders/ButtonBorder/shadow
+permalink: /Java/BasicBorders/ButtonBorder/shadow/
 date: 2021-01-11
 key: JavaJava.B.BasicBorders.ButtonBorder
 category: java

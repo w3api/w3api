@@ -1,6 +1,6 @@
 ---
 title: BoxLayout.preferredLayoutSize()
-permalink: Java/BoxLayout/preferredLayoutSize
+permalink: /Java/BoxLayout/preferredLayoutSize/
 date: 2021-01-11
 key: JavaJava.B.BoxLayout
 category: java

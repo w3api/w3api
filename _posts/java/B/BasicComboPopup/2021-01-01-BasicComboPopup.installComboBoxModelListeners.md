@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.installComboBoxModelListeners()
-permalink: Java/BasicComboPopup/installComboBoxModelListeners
+permalink: /Java/BasicComboPopup/installComboBoxModelListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

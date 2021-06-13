@@ -1,6 +1,6 @@
 ---
 title: ByteArrayInputStream.pos
-permalink: Java/ByteArrayInputStream/pos
+permalink: /Java/ByteArrayInputStream/pos/
 date: 2021-01-11
 key: JavaJava.B.ByteArrayInputStream
 category: java

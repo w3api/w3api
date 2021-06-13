@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.uninstallKeyboardActions()
-permalink: Java/BasicTreeUI/uninstallKeyboardActions
+permalink: /Java/BasicTreeUI/uninstallKeyboardActions/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

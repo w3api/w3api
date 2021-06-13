@@ -1,6 +1,6 @@
 ---
 title: BoundedMeter.setBound()
-permalink: Java/BoundedMeter/setBound
+permalink: /Java/BoundedMeter/setBound/
 date: 2021-01-11
 key: JavaJava.B.BoundedMeter
 category: java

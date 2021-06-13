@@ -1,6 +1,6 @@
 ---
 title: BufferedReader.markSupported()
-permalink: Java/BufferedReader/markSupported
+permalink: /Java/BufferedReader/markSupported/
 date: 2021-01-11
 key: JavaJava.B.BufferedReader
 category: java

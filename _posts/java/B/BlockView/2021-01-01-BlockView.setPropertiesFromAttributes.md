@@ -1,6 +1,6 @@
 ---
 title: BlockView.setPropertiesFromAttributes()
-permalink: Java/BlockView/setPropertiesFromAttributes
+permalink: /Java/BlockView/setPropertiesFromAttributes/
 date: 2021-01-11
 key: JavaJava.B.BlockView
 category: java

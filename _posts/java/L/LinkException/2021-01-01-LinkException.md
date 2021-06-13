@@ -2,7 +2,7 @@
 title: LinkException
 permalink: Java/LinkException
 date: 2021-01-11
-key: JavaJava.L.LinkException
+key: Java.L.LinkException
 category: java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 

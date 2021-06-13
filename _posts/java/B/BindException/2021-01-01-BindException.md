@@ -1,8 +1,8 @@
 ---
 title: BindException
-permalink: Java/BindException
+permalink: /Java/BindException/
 date: 2021-01-11
-key: JavaJava.B.BindException
+key: Java.B.BindException
 category: java
 tags: ['java se', 'java.net', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

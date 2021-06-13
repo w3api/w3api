@@ -1,6 +1,6 @@
 ---
 title: BasicTableUI.createKeyListener()
-permalink: Java/BasicTableUI/createKeyListener
+permalink: /Java/BasicTableUI/createKeyListener/
 date: 2021-01-11
 key: JavaJava.B.BasicTableUI
 category: java

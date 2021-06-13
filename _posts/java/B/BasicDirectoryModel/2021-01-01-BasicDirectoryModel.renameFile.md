@@ -1,6 +1,6 @@
 ---
 title: BasicDirectoryModel.renameFile()
-permalink: Java/BasicDirectoryModel/renameFile
+permalink: /Java/BasicDirectoryModel/renameFile/
 date: 2021-01-11
 key: JavaJava.B.BasicDirectoryModel
 category: java

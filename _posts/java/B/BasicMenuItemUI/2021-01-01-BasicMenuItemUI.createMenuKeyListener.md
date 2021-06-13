@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.createMenuKeyListener()
-permalink: Java/BasicMenuItemUI/createMenuKeyListener
+permalink: /Java/BasicMenuItemUI/createMenuKeyListener/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

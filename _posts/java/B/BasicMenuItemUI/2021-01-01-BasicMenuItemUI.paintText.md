@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.paintText()
-permalink: Java/BasicMenuItemUI/paintText
+permalink: /Java/BasicMenuItemUI/paintText/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

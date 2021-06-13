@@ -1,6 +1,6 @@
 ---
 title: BoxLayout.layoutContainer()
-permalink: Java/BoxLayout/layoutContainer
+permalink: /Java/BoxLayout/layoutContainer/
 date: 2021-01-11
 key: JavaJava.B.BoxLayout
 category: java

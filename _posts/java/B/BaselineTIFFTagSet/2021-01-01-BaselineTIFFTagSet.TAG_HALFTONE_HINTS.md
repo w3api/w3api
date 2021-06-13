@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_HALFTONE_HINTS
-permalink: Java/BaselineTIFFTagSet/TAG_HALFTONE_HINTS
+permalink: /Java/BaselineTIFFTagSet/TAG_HALFTONE_HINTS/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

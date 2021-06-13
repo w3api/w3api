@@ -1,6 +1,6 @@
 ---
 title: BlockingDeque.putLast()
-permalink: Java/BlockingDeque/putLast
+permalink: /Java/BlockingDeque/putLast/
 date: 2021-01-11
 key: JavaJava.B.BlockingDeque
 category: java

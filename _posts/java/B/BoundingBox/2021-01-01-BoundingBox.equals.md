@@ -1,8 +1,8 @@
 ---
 title: BoundingBox.equals()
-permalink: Java/BoundingBox/equals
+permalink: /Java/BoundingBox/equals/
 date: 2021-01-11
-key: JavaJava.B.BoundingBox
+key: Java.B.BoundingBox
 category: java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

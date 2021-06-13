@@ -1,8 +1,8 @@
 ---
 title: LdapContext.CONTROL_FACTORIES
-permalink: Java/LdapContext/CONTROL_FACTORIES
+permalink: /Java/LdapContext/CONTROL_FACTORIES/
 date: 2021-01-11
-key: JavaJava.L.LdapContext
+key: Java.L.LdapContext
 category: java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'campo java', 'Java 1.3']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopPaneUI.navigateKey
-permalink: Java/BasicDesktopPaneUI/navigateKey
+permalink: /Java/BasicDesktopPaneUI/navigateKey/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopPaneUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicService.isWebBrowserSupported()
-permalink: Java/BasicService/isWebBrowserSupported
+permalink: /Java/BasicService/isWebBrowserSupported/
 date: 2021-01-11
 key: JavaJava.B.BasicService
 category: java

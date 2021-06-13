@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.configureArrowButton()
-permalink: Java/BasicComboBoxUI/configureArrowButton
+permalink: /Java/BasicComboBoxUI/configureArrowButton/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

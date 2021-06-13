@@ -1,6 +1,6 @@
 ---
 title: BufferCapabilities.getBackBufferCapabilities()
-permalink: Java/BufferCapabilities/getBackBufferCapabilities
+permalink: /Java/BufferCapabilities/getBackBufferCapabilities/
 date: 2021-01-11
 key: JavaJava.B.BufferCapabilities
 category: java

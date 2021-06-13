@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.ONE
-permalink: Java/BigDecimal/ONE
+permalink: /Java/BigDecimal/ONE/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

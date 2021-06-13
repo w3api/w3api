@@ -1,6 +1,6 @@
 ---
 title: BeanContextEvent.getBeanContext()
-permalink: Java/BeanContextEvent/getBeanContext
+permalink: /Java/BeanContextEvent/getBeanContext/
 date: 2021-01-11
 key: JavaJava.B.BeanContextEvent
 category: java

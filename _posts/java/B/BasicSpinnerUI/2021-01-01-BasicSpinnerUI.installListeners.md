@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.installListeners()
-permalink: Java/BasicSpinnerUI/installListeners
+permalink: /Java/BasicSpinnerUI/installListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

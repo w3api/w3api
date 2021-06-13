@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.createScroller()
-permalink: Java/BasicComboPopup/createScroller
+permalink: /Java/BasicComboPopup/createScroller/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

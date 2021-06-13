@@ -1,6 +1,6 @@
 ---
 title: BeanContextContainerProxy.getContainer()
-permalink: Java/BeanContextContainerProxy/getContainer
+permalink: /Java/BeanContextContainerProxy/getContainer/
 date: 2021-01-11
 key: JavaJava.B.BeanContextContainerProxy
 category: java

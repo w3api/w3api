@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.downKey
-permalink: Java/BasicTabbedPaneUI/downKey
+permalink: /Java/BasicTabbedPaneUI/downKey/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

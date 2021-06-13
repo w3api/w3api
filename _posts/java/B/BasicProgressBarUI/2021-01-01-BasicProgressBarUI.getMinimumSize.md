@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.getMinimumSize()
-permalink: Java/BasicProgressBarUI/getMinimumSize
+permalink: /Java/BasicProgressBarUI/getMinimumSize/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

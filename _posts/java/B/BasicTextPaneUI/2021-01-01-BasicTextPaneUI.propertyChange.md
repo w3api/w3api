@@ -1,6 +1,6 @@
 ---
 title: BasicTextPaneUI.propertyChange()
-permalink: Java/BasicTextPaneUI/propertyChange
+permalink: /Java/BasicTextPaneUI/propertyChange/
 date: 2021-01-11
 key: JavaJava.B.BasicTextPaneUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BooleanBinding.bind()
-permalink: Java/BooleanBinding/bind
+permalink: /Java/BooleanBinding/bind/
 date: 2021-01-11
 key: JavaJava.B.BooleanBinding
 category: java

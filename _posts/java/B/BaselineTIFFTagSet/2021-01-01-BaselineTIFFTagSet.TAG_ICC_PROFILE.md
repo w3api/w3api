@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_ICC_PROFILE
-permalink: Java/BaselineTIFFTagSet/TAG_ICC_PROFILE
+permalink: /Java/BaselineTIFFTagSet/TAG_ICC_PROFILE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

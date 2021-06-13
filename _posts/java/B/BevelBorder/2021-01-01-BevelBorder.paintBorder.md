@@ -1,6 +1,6 @@
 ---
 title: BevelBorder.paintBorder()
-permalink: Java/BevelBorder/paintBorder
+permalink: /Java/BevelBorder/paintBorder/
 date: 2021-01-11
 key: JavaJava.B.BevelBorder
 category: java

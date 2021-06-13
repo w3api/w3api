@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.minIcon
-permalink: Java/BasicInternalFrameTitlePane/minIcon
+permalink: /Java/BasicInternalFrameTitlePane/minIcon/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

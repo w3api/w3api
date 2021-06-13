@@ -1,6 +1,6 @@
 ---
 title: BeanContextServiceRevokedEvent.isCurrentServiceInvalidNow()
-permalink: Java/BeanContextServiceRevokedEvent/isCurrentServiceInvalidNow
+permalink: /Java/BeanContextServiceRevokedEvent/isCurrentServiceInvalidNow/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServiceRevokedEvent
 category: java

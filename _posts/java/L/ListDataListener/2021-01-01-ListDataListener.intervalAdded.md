@@ -1,8 +1,8 @@
 ---
 title: ListDataListener.intervalAdded()
-permalink: Java/ListDataListener/intervalAdded
+permalink: /Java/ListDataListener/intervalAdded/
 date: 2021-01-11
-key: JavaJava.L.ListDataListener
+key: Java.L.ListDataListener
 category: java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

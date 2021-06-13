@@ -1,6 +1,6 @@
 ---
 title: BlockingQueue.remove()
-permalink: Java/BlockingQueue/remove
+permalink: /Java/BlockingQueue/remove/
 date: 2021-01-11
 key: JavaJava.B.BlockingQueue
 category: java

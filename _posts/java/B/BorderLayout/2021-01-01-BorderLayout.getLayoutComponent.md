@@ -1,8 +1,8 @@
 ---
 title: BorderLayout.getLayoutComponent()
-permalink: Java/BorderLayout/getLayoutComponent
+permalink: /Java/BorderLayout/getLayoutComponent/
 date: 2021-01-11
-key: JavaJava.B.BorderLayout
+key: Java.B.BorderLayout
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

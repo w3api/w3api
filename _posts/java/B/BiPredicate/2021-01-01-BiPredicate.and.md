@@ -1,6 +1,6 @@
 ---
 title: BiPredicate.and()
-permalink: Java/BiPredicate/and
+permalink: /Java/BiPredicate/and/
 date: 2021-01-11
 key: JavaJava.B.BiPredicate
 category: java

@@ -2,7 +2,7 @@
 title: ListSelectionModel.MULTIPLE_INTERVAL_SELECTION
 permalink: Java/ListSelectionModel/MULTIPLE_INTERVAL_SELECTION
 date: 2021-01-11
-key: JavaJava.L.ListSelectionModel
+key: Java.L.ListSelectionModel
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 

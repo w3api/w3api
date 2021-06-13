@@ -1,6 +1,6 @@
 ---
 title: BeanContextEvent.propagatedFrom
-permalink: Java/BeanContextEvent/propagatedFrom
+permalink: /Java/BeanContextEvent/propagatedFrom/
 date: 2021-01-11
 key: JavaJava.B.BeanContextEvent
 category: java

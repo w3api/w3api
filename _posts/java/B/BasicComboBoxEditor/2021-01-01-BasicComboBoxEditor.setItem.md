@@ -1,8 +1,8 @@
 ---
 title: BasicComboBoxEditor.setItem()
-permalink: Java/BasicComboBoxEditor/setItem
+permalink: /Java/BasicComboBoxEditor/setItem/
 date: 2021-01-11
-key: JavaJava.B.BasicComboBoxEditor
+key: Java.B.BasicComboBoxEditor
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

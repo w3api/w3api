@@ -1,6 +1,6 @@
 ---
 title: BlockView.BlockView()
-permalink: Java/BlockView/BlockView
+permalink: /Java/BlockView/BlockView/
 date: 2021-01-11
 key: JavaJava.B.BlockView
 category: java

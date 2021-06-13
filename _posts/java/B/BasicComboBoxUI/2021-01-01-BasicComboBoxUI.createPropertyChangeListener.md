@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.createPropertyChangeListener()
-permalink: Java/BasicComboBoxUI/createPropertyChangeListener
+permalink: /Java/BasicComboBoxUI/createPropertyChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

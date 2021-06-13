@@ -1,8 +1,8 @@
 ---
 title: LocalDate.EPOCH
-permalink: Java/LocalDate/EPOCH
+permalink: /Java/LocalDate/EPOCH/
 date: 2021-01-11
-key: JavaJava.L.LocalDate
+key: Java.L.LocalDate
 category: java
 tags: ['java se', 'java.time', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 

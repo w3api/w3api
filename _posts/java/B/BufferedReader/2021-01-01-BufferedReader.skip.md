@@ -1,6 +1,6 @@
 ---
 title: BufferedReader.skip()
-permalink: Java/BufferedReader/skip
+permalink: /Java/BufferedReader/skip/
 date: 2021-01-11
 key: JavaJava.B.BufferedReader
 category: java

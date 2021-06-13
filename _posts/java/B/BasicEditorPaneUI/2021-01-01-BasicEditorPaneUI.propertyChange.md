@@ -1,6 +1,6 @@
 ---
 title: BasicEditorPaneUI.propertyChange()
-permalink: Java/BasicEditorPaneUI/propertyChange
+permalink: /Java/BasicEditorPaneUI/propertyChange/
 date: 2021-01-11
 key: JavaJava.B.BasicEditorPaneUI
 category: java

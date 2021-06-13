@@ -1,6 +1,6 @@
 ---
 title: BiConsumer.andThen()
-permalink: Java/BiConsumer/andThen
+permalink: /Java/BiConsumer/andThen/
 date: 2021-01-11
 key: JavaJava.B.BiConsumer
 category: java

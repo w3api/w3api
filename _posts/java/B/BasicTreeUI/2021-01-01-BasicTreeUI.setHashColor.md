@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.setHashColor()
-permalink: Java/BasicTreeUI/setHashColor
+permalink: /Java/BasicTreeUI/setHashColor/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

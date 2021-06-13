@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.getChildBeanContextChild()
-permalink: Java/BeanContextSupport/getChildBeanContextChild
+permalink: /Java/BeanContextSupport/getChildBeanContextChild/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

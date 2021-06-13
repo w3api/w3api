@@ -1,6 +1,6 @@
 ---
 title: BeanContextServiceProvider.getService()
-permalink: Java/BeanContextServiceProvider/getService
+permalink: /Java/BeanContextServiceProvider/getService/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServiceProvider
 category: java

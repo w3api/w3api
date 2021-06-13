@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopIconUI.getInsets()
-permalink: Java/BasicDesktopIconUI/getInsets
+permalink: /Java/BasicDesktopIconUI/getInsets/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopIconUI
 category: java

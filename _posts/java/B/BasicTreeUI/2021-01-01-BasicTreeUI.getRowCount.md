@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.getRowCount()
-permalink: Java/BasicTreeUI/getRowCount
+permalink: /Java/BasicTreeUI/getRowCount/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

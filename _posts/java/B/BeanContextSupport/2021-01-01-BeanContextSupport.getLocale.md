@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.getLocale()
-permalink: Java/BeanContextSupport/getLocale
+permalink: /Java/BeanContextSupport/getLocale/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

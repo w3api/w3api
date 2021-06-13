@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_DATE_TIME
-permalink: Java/BaselineTIFFTagSet/TAG_DATE_TIME
+permalink: /Java/BaselineTIFFTagSet/TAG_DATE_TIME/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

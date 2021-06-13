@@ -1,8 +1,8 @@
 ---
 title: ButtonBar.ButtonData.values()
-permalink: Java/ButtonBar/ButtonData/values
+permalink: /Java/ButtonBar/ButtonData/values/
 date: 2021-01-11
-key: JavaJava.B.ButtonBar.ButtonData
+key: Java.B.ButtonBar.ButtonData
 category: java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 

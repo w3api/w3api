@@ -2,7 +2,7 @@
 title: ListDataEvent
 permalink: Java/ListDataEvent
 date: 2021-01-11
-key: JavaJava.L.ListDataEvent
+key: Java.L.ListDataEvent
 category: java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

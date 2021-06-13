@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.createMouseListener()
-permalink: Java/BasicComboPopup/createMouseListener
+permalink: /Java/BasicComboPopup/createMouseListener/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

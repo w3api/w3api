@@ -1,6 +1,6 @@
 ---
 title: BufferCapabilities.FlipContents.hashCode()
-permalink: Java/BufferCapabilities/FlipContents/hashCode
+permalink: /Java/BufferCapabilities/FlipContents/hashCode/
 date: 2021-01-11
 key: JavaJava.B.BufferCapabilities.FlipContents
 category: java

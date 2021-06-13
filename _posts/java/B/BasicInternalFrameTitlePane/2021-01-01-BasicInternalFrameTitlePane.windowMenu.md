@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.windowMenu
-permalink: Java/BasicInternalFrameTitlePane/windowMenu
+permalink: /Java/BasicInternalFrameTitlePane/windowMenu/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

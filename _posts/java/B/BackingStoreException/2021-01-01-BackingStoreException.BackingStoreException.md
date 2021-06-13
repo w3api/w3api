@@ -1,6 +1,6 @@
 ---
 title: BackingStoreException.BackingStoreException()
-permalink: Java/BackingStoreException/BackingStoreException
+permalink: /Java/BackingStoreException/BackingStoreException/
 date: 2021-01-11
 key: JavaJava.B.BackingStoreException
 category: java

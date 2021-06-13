@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.ROUND_UNNECESSARY
-permalink: Java/BigDecimal/ROUND_UNNECESSARY
+permalink: /Java/BigDecimal/ROUND_UNNECESSARY/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

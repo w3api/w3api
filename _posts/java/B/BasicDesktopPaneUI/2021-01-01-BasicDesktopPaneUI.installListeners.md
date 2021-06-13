@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopPaneUI.installListeners()
-permalink: Java/BasicDesktopPaneUI/installListeners
+permalink: /Java/BasicDesktopPaneUI/installListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopPaneUI
 category: java

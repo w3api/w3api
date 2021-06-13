@@ -1,8 +1,8 @@
 ---
 title: LoadListener
-permalink: Java/LoadListener
+permalink: /Java/LoadListener/
 date: 2021-01-11
-key: JavaJava.L.LoadListener
+key: Java.L.LoadListener
 category: java
 tags: ['java se', 'javafx.fxml', 'javafx.fxml', 'interface java', 'Java 9']
 sidebar: 

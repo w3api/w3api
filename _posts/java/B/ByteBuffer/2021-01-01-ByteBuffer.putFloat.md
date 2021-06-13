@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.putFloat()
-permalink: Java/ByteBuffer/putFloat
+permalink: /Java/ByteBuffer/putFloat/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

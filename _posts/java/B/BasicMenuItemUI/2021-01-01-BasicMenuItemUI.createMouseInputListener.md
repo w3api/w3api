@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.createMouseInputListener()
-permalink: Java/BasicMenuItemUI/createMouseInputListener
+permalink: /Java/BasicMenuItemUI/createMouseInputListener/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.paintDeterminate()
-permalink: Java/BasicProgressBarUI/paintDeterminate
+permalink: /Java/BasicProgressBarUI/paintDeterminate/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

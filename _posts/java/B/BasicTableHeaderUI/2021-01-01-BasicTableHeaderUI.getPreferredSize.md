@@ -1,8 +1,8 @@
 ---
 title: BasicTableHeaderUI.getPreferredSize()
-permalink: Java/BasicTableHeaderUI/getPreferredSize
+permalink: /Java/BasicTableHeaderUI/getPreferredSize/
 date: 2021-01-11
-key: JavaJava.B.BasicTableHeaderUI
+key: Java.B.BasicTableHeaderUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

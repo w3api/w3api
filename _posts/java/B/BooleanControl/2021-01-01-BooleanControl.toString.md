@@ -1,8 +1,8 @@
 ---
 title: BooleanControl.toString()
-permalink: Java/BooleanControl/toString
+permalink: /Java/BooleanControl/toString/
 date: 2021-01-11
-key: JavaJava.B.BooleanControl
+key: Java.B.BooleanControl
 category: java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

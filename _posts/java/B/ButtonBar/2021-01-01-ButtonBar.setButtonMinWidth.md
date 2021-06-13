@@ -1,6 +1,6 @@
 ---
 title: ButtonBar.setButtonMinWidth()
-permalink: Java/ButtonBar/setButtonMinWidth
+permalink: /Java/ButtonBar/setButtonMinWidth/
 date: 2021-01-11
 key: JavaJava.B.ButtonBar
 category: java

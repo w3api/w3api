@@ -1,6 +1,6 @@
 ---
 title: BooleanControl.Type.BooleanControl.Type()
-permalink: Java/BooleanControl/Type/BooleanControl/Type
+permalink: /Java/BooleanControl/Type/BooleanControl/Type/
 date: 2021-01-11
 key: JavaJava.B.BooleanControl.Type
 category: java

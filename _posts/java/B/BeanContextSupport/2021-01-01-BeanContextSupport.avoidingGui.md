@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.avoidingGui()
-permalink: Java/BeanContextSupport/avoidingGui
+permalink: /Java/BeanContextSupport/avoidingGui/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

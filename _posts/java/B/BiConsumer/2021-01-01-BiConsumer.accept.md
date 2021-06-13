@@ -1,6 +1,6 @@
 ---
 title: BiConsumer.accept()
-permalink: Java/BiConsumer/accept
+permalink: /Java/BiConsumer/accept/
 date: 2021-01-11
 key: JavaJava.B.BiConsumer
 category: java

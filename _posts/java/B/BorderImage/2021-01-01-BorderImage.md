@@ -1,6 +1,6 @@
 ---
 title: BorderImage
-permalink: Java/BorderImage
+permalink: /Java/BorderImage/
 date: 2021-01-11
 key: JavaJava.B.BorderImage
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.asLongBuffer()
-permalink: Java/ByteBuffer/asLongBuffer
+permalink: /Java/ByteBuffer/asLongBuffer/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicFileAttributes.size()
-permalink: Java/BasicFileAttributes/size
+permalink: /Java/BasicFileAttributes/size/
 date: 2021-01-11
 key: JavaJava.B.BasicFileAttributes
 category: java

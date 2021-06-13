@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_IMAGE_DESCRIPTION
-permalink: Java/BaselineTIFFTagSet/TAG_IMAGE_DESCRIPTION
+permalink: /Java/BaselineTIFFTagSet/TAG_IMAGE_DESCRIPTION/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

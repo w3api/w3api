@@ -1,6 +1,6 @@
 ---
 title: ButtonGroup.clearSelection()
-permalink: Java/ButtonGroup/clearSelection
+permalink: /Java/ButtonGroup/clearSelection/
 date: 2021-01-11
 key: JavaJava.B.ButtonGroup
 category: java

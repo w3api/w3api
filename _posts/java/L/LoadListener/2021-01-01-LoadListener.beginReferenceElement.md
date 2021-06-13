@@ -1,8 +1,8 @@
 ---
 title: LoadListener.beginReferenceElement()
-permalink: Java/LoadListener/beginReferenceElement
+permalink: /Java/LoadListener/beginReferenceElement/
 date: 2021-01-11
-key: JavaJava.L.LoadListener
+key: Java.L.LoadListener
 category: java
 tags: ['java se', 'javafx.fxml', 'javafx.fxml', 'metodo java', 'Java 9']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BreakpointRequest.addInstanceFilter()
-permalink: Java/BreakpointRequest/addInstanceFilter
+permalink: /Java/BreakpointRequest/addInstanceFilter/
 date: 2021-01-11
 key: JavaJava.B.BreakpointRequest
 category: java

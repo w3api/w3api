@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.calculateTabHeight()
-permalink: Java/BasicTabbedPaneUI/calculateTabHeight
+permalink: /Java/BasicTabbedPaneUI/calculateTabHeight/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

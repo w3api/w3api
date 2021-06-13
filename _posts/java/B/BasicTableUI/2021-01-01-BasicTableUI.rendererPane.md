@@ -1,6 +1,6 @@
 ---
 title: BasicTableUI.rendererPane
-permalink: Java/BasicTableUI/rendererPane
+permalink: /Java/BasicTableUI/rendererPane/
 date: 2021-01-11
 key: JavaJava.B.BasicTableUI
 category: java

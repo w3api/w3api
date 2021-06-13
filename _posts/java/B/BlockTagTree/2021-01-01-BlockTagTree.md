@@ -1,6 +1,6 @@
 ---
 title: BlockTagTree
-permalink: Java/BlockTagTree
+permalink: /Java/BlockTagTree/
 date: 2021-01-11
 key: JavaJava.B.BlockTagTree
 category: java

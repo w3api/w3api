@@ -1,8 +1,8 @@
 ---
 title: BeanContextServices.revokeService()
-permalink: Java/BeanContextServices/revokeService
+permalink: /Java/BeanContextServices/revokeService/
 date: 2021-01-11
-key: JavaJava.B.BeanContextServices
+key: Java.B.BeanContextServices
 category: java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

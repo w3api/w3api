@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.getBaseline()
-permalink: Java/BasicTreeUI/getBaseline
+permalink: /Java/BasicTreeUI/getBaseline/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

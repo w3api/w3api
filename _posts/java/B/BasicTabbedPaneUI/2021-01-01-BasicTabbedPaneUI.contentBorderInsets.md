@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.contentBorderInsets
-permalink: Java/BasicTabbedPaneUI/contentBorderInsets
+permalink: /Java/BasicTabbedPaneUI/contentBorderInsets/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

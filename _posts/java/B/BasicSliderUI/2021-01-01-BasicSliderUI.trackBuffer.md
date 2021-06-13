@@ -1,8 +1,8 @@
 ---
 title: BasicSliderUI.trackBuffer
-permalink: Java/BasicSliderUI/trackBuffer
+permalink: /Java/BasicSliderUI/trackBuffer/
 date: 2021-01-11
-key: JavaJava.B.BasicSliderUI
+key: Java.B.BasicSliderUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

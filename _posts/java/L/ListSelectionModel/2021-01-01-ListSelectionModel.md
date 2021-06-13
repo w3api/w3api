@@ -2,7 +2,7 @@
 title: ListSelectionModel
 permalink: Java/ListSelectionModel
 date: 2021-01-11
-key: JavaJava.L.ListSelectionModel
+key: Java.L.ListSelectionModel
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 

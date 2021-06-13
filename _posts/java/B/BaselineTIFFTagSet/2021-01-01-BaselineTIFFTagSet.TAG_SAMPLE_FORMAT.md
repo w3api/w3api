@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_SAMPLE_FORMAT
-permalink: Java/BaselineTIFFTagSet/TAG_SAMPLE_FORMAT
+permalink: /Java/BaselineTIFFTagSet/TAG_SAMPLE_FORMAT/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

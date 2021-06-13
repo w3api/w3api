@@ -1,8 +1,8 @@
 ---
 title: BufferedOutputStream
-permalink: Java/BufferedOutputStream
+permalink: /Java/BufferedOutputStream/
 date: 2021-01-11
-key: JavaJava.B.BufferedOutputStream
+key: Java.B.BufferedOutputStream
 category: java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 

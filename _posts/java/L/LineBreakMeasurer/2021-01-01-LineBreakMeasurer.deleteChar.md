@@ -1,8 +1,8 @@
 ---
 title: LineBreakMeasurer.deleteChar()
-permalink: Java/LineBreakMeasurer/deleteChar
+permalink: /Java/LineBreakMeasurer/deleteChar/
 date: 2021-01-11
-key: JavaJava.L.LineBreakMeasurer
+key: Java.L.LineBreakMeasurer
 category: java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

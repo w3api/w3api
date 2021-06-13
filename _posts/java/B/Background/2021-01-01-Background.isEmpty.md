@@ -1,6 +1,6 @@
 ---
 title: Background.isEmpty()
-permalink: Java/Background/isEmpty
+permalink: /Java/Background/isEmpty/
 date: 2021-01-11
 key: JavaJava.B.Background
 category: java

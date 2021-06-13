@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.needsGui()
-permalink: Java/BeanContextSupport/needsGui
+permalink: /Java/BeanContextSupport/needsGui/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

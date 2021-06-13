@@ -2,7 +2,7 @@
 title: LinkLoopException
 permalink: Java/LinkLoopException
 date: 2021-01-11
-key: JavaJava.L.LinkLoopException
+key: Java.L.LinkLoopException
 category: java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 

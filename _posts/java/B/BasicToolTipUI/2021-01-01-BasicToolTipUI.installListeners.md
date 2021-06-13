@@ -1,6 +1,6 @@
 ---
 title: BasicToolTipUI.installListeners()
-permalink: Java/BasicToolTipUI/installListeners
+permalink: /Java/BasicToolTipUI/installListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicToolTipUI
 category: java

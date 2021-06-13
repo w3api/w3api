@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.toolBarContListener
-permalink: Java/BasicToolBarUI/toolBarContListener
+permalink: /Java/BasicToolBarUI/toolBarContListener/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

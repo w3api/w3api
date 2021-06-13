@@ -1,6 +1,6 @@
 ---
 title: BoxLayout.getLayoutAlignmentX()
-permalink: Java/BoxLayout/getLayoutAlignmentX
+permalink: /Java/BoxLayout/getLayoutAlignmentX/
 date: 2021-01-11
 key: JavaJava.B.BoxLayout
 category: java

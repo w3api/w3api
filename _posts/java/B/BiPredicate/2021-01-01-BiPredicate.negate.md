@@ -1,6 +1,6 @@
 ---
 title: BiPredicate.negate()
-permalink: Java/BiPredicate/negate
+permalink: /Java/BiPredicate/negate/
 date: 2021-01-11
 key: JavaJava.B.BiPredicate
 category: java

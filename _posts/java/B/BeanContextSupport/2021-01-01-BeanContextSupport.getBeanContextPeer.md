@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.getBeanContextPeer()
-permalink: Java/BeanContextSupport/getBeanContextPeer
+permalink: /Java/BeanContextSupport/getBeanContextPeer/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

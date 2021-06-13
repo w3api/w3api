@@ -1,6 +1,6 @@
 ---
 title: BasicCheckBoxUI.BasicCheckBoxUI()
-permalink: Java/BasicCheckBoxUI/BasicCheckBoxUI
+permalink: /Java/BasicCheckBoxUI/BasicCheckBoxUI/
 date: 2021-01-11
 key: JavaJava.B.BasicCheckBoxUI
 category: java

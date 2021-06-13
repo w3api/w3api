@@ -2,7 +2,7 @@
 title: LineMetrics
 permalink: Java/LineMetrics
 date: 2021-01-11
-key: JavaJava.L.LineMetrics
+key: Java.L.LineMetrics
 category: java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

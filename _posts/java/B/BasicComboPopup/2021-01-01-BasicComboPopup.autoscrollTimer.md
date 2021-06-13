@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.autoscrollTimer
-permalink: Java/BasicComboPopup/autoscrollTimer
+permalink: /Java/BasicComboPopup/autoscrollTimer/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

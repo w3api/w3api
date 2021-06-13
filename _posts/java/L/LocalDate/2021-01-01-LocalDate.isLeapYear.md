@@ -1,8 +1,8 @@
 ---
 title: LocalDate.isLeapYear()
-permalink: Java/LocalDate/isLeapYear
+permalink: /Java/LocalDate/isLeapYear/
 date: 2021-01-11
-key: JavaJava.L.LocalDate
+key: Java.L.LocalDate
 category: java
 tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

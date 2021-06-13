@@ -1,8 +1,8 @@
 ---
 title: BorderStroke.getTopStroke()
-permalink: Java/BorderStroke/getTopStroke
+permalink: /Java/BorderStroke/getTopStroke/
 date: 2021-01-11
-key: JavaJava.B.BorderStroke
+key: Java.B.BorderStroke
 category: java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

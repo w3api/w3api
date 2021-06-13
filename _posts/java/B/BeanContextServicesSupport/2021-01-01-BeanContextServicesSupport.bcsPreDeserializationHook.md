@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesSupport.bcsPreDeserializationHook()
-permalink: Java/BeanContextServicesSupport/bcsPreDeserializationHook
+permalink: /Java/BeanContextServicesSupport/bcsPreDeserializationHook/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesSupport
 category: java

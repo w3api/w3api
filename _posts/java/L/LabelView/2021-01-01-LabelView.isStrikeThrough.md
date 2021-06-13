@@ -1,8 +1,8 @@
 ---
 title: LabelView.isStrikeThrough()
-permalink: Java/LabelView/isStrikeThrough
+permalink: /Java/LabelView/isStrikeThrough/
 date: 2021-01-11
-key: JavaJava.L.LabelView
+key: Java.L.LabelView
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

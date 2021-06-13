@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_Y_CB_CR_SUBSAMPLING
-permalink: Java/BaselineTIFFTagSet/TAG_Y_CB_CR_SUBSAMPLING
+permalink: /Java/BaselineTIFFTagSet/TAG_Y_CB_CR_SUBSAMPLING/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

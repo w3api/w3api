@@ -2,7 +2,7 @@
 title: LSParserFilter.FILTER_SKIP
 permalink: Java/LSParserFilter/FILTER_SKIP
 date: 2021-01-11
-key: JavaJava.L.LSParserFilter
+key: Java.L.LSParserFilter
 category: java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'campo java', 'Java 1.5']
 sidebar: 

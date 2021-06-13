@@ -1,8 +1,8 @@
 ---
 title: BoundsHelper
-permalink: Java/BoundsHelper-org-omg-CORBA-TypeCodePackage
+permalink: /Java/BoundsHelper-org-omg-CORBA-TypeCodePackage/
 date: 2021-01-11
-key: JavaJava.B.BoundsHelper-org-omg-CORBA-TypeCodePackage
+key: Java.B.BoundsHelper-org-omg-CORBA-TypeCodePackage
 category: java
 tags: ['java se', 'org.omg.CORBA.TypeCodePackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

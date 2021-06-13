@@ -1,6 +1,6 @@
 ---
 title: BasicSeparatorUI.highlight
-permalink: Java/BasicSeparatorUI/highlight
+permalink: /Java/BasicSeparatorUI/highlight/
 date: 2021-01-11
 key: JavaJava.B.BasicSeparatorUI
 category: java

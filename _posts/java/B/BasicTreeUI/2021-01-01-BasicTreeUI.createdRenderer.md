@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.createdRenderer
-permalink: Java/BasicTreeUI/createdRenderer
+permalink: /Java/BasicTreeUI/createdRenderer/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BooleanControl.Type.MUTE
-permalink: Java/BooleanControl/Type/MUTE
+permalink: /Java/BooleanControl/Type/MUTE/
 date: 2021-01-11
 key: JavaJava.B.BooleanControl.Type
 category: java

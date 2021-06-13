@@ -2,7 +2,7 @@
 title: LocalObject
 permalink: Java/LocalObject
 date: 2021-01-11
-key: JavaJava.L.LocalObject
+key: Java.L.LocalObject
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

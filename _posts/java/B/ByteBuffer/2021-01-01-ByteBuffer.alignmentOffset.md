@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.alignmentOffset()
-permalink: Java/ByteBuffer/alignmentOffset
+permalink: /Java/ByteBuffer/alignmentOffset/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

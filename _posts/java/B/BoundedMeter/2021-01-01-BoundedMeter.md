@@ -1,6 +1,6 @@
 ---
 title: BoundedMeter
-permalink: Java/BoundedMeter
+permalink: /Java/BoundedMeter/
 date: 2021-01-11
 key: JavaJava.B.BoundedMeter
 category: java

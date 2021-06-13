@@ -2,7 +2,7 @@
 title: LanguageVersion.valueOf()
 permalink: Java/LanguageVersion/valueOf
 date: 2021-01-11
-key: JavaJava.L.LanguageVersion
+key: Java.L.LanguageVersion
 category: java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.5']
 sidebar: 

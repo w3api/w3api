@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.selectedTextColor
-permalink: Java/BasicInternalFrameTitlePane/selectedTextColor
+permalink: /Java/BasicInternalFrameTitlePane/selectedTextColor/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

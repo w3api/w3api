@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.getBaseline()
-permalink: Java/BasicComboBoxUI/getBaseline
+permalink: /Java/BasicComboBoxUI/getBaseline/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

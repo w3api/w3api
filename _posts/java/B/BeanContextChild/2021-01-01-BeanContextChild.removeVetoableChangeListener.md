@@ -1,6 +1,6 @@
 ---
 title: BeanContextChild.removeVetoableChangeListener()
-permalink: Java/BeanContextChild/removeVetoableChangeListener
+permalink: /Java/BeanContextChild/removeVetoableChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BeanContextChild
 category: java

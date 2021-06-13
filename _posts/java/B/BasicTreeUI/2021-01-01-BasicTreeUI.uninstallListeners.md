@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.uninstallListeners()
-permalink: Java/BasicTreeUI/uninstallListeners
+permalink: /Java/BasicTreeUI/uninstallListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

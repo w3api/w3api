@@ -1,6 +1,6 @@
 ---
 title: BasicTableUI.getPreferredSize()
-permalink: Java/BasicTableUI/getPreferredSize
+permalink: /Java/BasicTableUI/getPreferredSize/
 date: 2021-01-11
 key: JavaJava.B.BasicTableUI
 category: java

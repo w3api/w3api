@@ -1,6 +1,6 @@
 ---
 title: BooleanHolder._read()
-permalink: Java/BooleanHolder/_read
+permalink: /Java/BooleanHolder/_read/
 date: 2021-01-11
 key: JavaJava.B.BooleanHolder
 category: java

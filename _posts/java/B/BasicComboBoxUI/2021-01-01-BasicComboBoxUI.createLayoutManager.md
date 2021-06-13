@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.createLayoutManager()
-permalink: Java/BasicComboBoxUI/createLayoutManager
+permalink: /Java/BasicComboBoxUI/createLayoutManager/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

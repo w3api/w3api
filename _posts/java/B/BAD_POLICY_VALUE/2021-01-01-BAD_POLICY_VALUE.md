@@ -1,6 +1,6 @@
 ---
 title: BAD_POLICY_VALUE
-permalink: Java/BAD_POLICY_VALUE
+permalink: /Java/BAD_POLICY_VALUE/
 date: 2021-01-11
 key: JavaJava.B.BAD_POLICY_VALUE
 category: java

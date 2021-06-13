@@ -1,6 +1,6 @@
 ---
 title: BindingHelper.insert()
-permalink: Java/BindingHelper/insert
+permalink: /Java/BindingHelper/insert/
 date: 2021-01-11
 key: JavaJava.B.BindingHelper
 category: java

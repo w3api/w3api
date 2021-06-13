@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.mouseListener
-permalink: Java/BasicTabbedPaneUI/mouseListener
+permalink: /Java/BasicTabbedPaneUI/mouseListener/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

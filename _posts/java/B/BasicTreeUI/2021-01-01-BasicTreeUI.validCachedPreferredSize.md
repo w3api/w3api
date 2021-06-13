@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.validCachedPreferredSize
-permalink: Java/BasicTreeUI/validCachedPreferredSize
+permalink: /Java/BasicTreeUI/validCachedPreferredSize/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

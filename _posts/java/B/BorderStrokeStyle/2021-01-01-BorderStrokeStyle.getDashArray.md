@@ -1,6 +1,6 @@
 ---
 title: BorderStrokeStyle.getDashArray()
-permalink: Java/BorderStrokeStyle/getDashArray
+permalink: /Java/BorderStrokeStyle/getDashArray/
 date: 2021-01-11
 key: JavaJava.B.BorderStrokeStyle
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.getFocusIndex()
-permalink: Java/BasicTabbedPaneUI/getFocusIndex
+permalink: /Java/BasicTabbedPaneUI/getFocusIndex/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

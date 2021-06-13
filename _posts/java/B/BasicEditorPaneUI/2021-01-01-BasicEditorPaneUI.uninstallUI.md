@@ -1,6 +1,6 @@
 ---
 title: BasicEditorPaneUI.uninstallUI()
-permalink: Java/BasicEditorPaneUI/uninstallUI
+permalink: /Java/BasicEditorPaneUI/uninstallUI/
 date: 2021-01-11
 key: JavaJava.B.BasicEditorPaneUI
 category: java

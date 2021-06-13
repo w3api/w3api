@@ -1,8 +1,8 @@
 ---
 title: BasicOptionPaneUI
-permalink: Java/BasicOptionPaneUI
+permalink: /Java/BasicOptionPaneUI/
 date: 2021-01-11
-key: JavaJava.B.BasicOptionPaneUI
+key: Java.B.BasicOptionPaneUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

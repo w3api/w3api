@@ -1,8 +1,8 @@
 ---
 title: BoundingBox
-permalink: Java/BoundingBox
+permalink: /Java/BoundingBox/
 date: 2021-01-11
-key: JavaJava.B.BoundingBox
+key: Java.B.BoundingBox
 category: java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 

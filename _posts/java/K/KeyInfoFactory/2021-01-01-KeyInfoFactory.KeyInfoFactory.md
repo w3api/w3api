@@ -2,7 +2,7 @@
 title: KeyInfoFactory.KeyInfoFactory()
 permalink: Java/KeyInfoFactory/KeyInfoFactory
 date: 2021-01-11
-key: JavaJava.K.KeyInfoFactory
+key: Java.K.KeyInfoFactory
 category: java
 tags: ['java se', 'javax.xml.crypto.dsig.keyinfo', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 

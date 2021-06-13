@@ -1,6 +1,6 @@
 ---
 title: BasicDirectoryModel.sort()
-permalink: Java/BasicDirectoryModel/sort
+permalink: /Java/BasicDirectoryModel/sort/
 date: 2021-01-11
 key: JavaJava.B.BasicDirectoryModel
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BindingIteratorHelper
-permalink: Java/BindingIteratorHelper
+permalink: /Java/BindingIteratorHelper/
 date: 2021-01-11
-key: JavaJava.B.BindingIteratorHelper
+key: Java.B.BindingIteratorHelper
 category: java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

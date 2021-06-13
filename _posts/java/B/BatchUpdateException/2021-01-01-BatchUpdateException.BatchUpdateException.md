@@ -1,6 +1,6 @@
 ---
 title: BatchUpdateException.BatchUpdateException()
-permalink: Java/BatchUpdateException/BatchUpdateException
+permalink: /Java/BatchUpdateException/BatchUpdateException/
 date: 2021-01-11
 key: JavaJava.B.BatchUpdateException
 category: java

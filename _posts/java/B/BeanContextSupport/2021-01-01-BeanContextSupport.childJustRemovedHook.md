@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.childJustRemovedHook()
-permalink: Java/BeanContextSupport/childJustRemovedHook
+permalink: /Java/BeanContextSupport/childJustRemovedHook/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BindingTypeHolder.value
-permalink: Java/BindingTypeHolder/value
+permalink: /Java/BindingTypeHolder/value/
 date: 2021-01-11
-key: JavaJava.B.BindingTypeHolder
+key: Java.B.BindingTypeHolder
 category: java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

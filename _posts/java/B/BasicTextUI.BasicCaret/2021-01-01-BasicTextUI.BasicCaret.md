@@ -1,8 +1,8 @@
 ---
 title: BasicTextUI.BasicCaret
-permalink: Java/BasicTextUI/BasicCaret
+permalink: /Java/BasicTextUI/BasicCaret/
 date: 2021-01-11
-key: JavaJava.B.BasicTextUI.BasicCaret
+key: Java.B.BasicTextUI.BasicCaret
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

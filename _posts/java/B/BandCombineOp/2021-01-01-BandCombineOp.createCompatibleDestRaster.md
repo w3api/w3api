@@ -1,6 +1,6 @@
 ---
 title: BandCombineOp.createCompatibleDestRaster()
-permalink: Java/BandCombineOp/createCompatibleDestRaster
+permalink: /Java/BandCombineOp/createCompatibleDestRaster/
 date: 2021-01-11
 key: JavaJava.B.BandCombineOp
 category: java

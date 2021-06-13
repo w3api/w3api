@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.COMPRESSION_NONE
-permalink: Java/BaselineTIFFTagSet/COMPRESSION_NONE
+permalink: /Java/BaselineTIFFTagSet/COMPRESSION_NONE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicArrowButton.direction
-permalink: Java/BasicArrowButton/direction
+permalink: /Java/BasicArrowButton/direction/
 date: 2021-01-11
 key: JavaJava.B.BasicArrowButton
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BinaryRefAddr.toString()
-permalink: Java/BinaryRefAddr/toString
+permalink: /Java/BinaryRefAddr/toString/
 date: 2021-01-11
 key: JavaJava.B.BinaryRefAddr
 category: java

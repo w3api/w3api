@@ -1,6 +1,6 @@
 ---
 title: BoundsHelper.write()
-permalink: Java/BoundsHelper-org-omg-CORBA/write
+permalink: /Java/BoundsHelper-org-omg-CORBA/write/
 date: 2021-01-11
 key: JavaJava.B.BoundsHelper-org-omg-CORBA
 category: java

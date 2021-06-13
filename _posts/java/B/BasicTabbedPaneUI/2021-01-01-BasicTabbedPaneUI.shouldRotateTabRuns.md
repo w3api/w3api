@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.shouldRotateTabRuns()
-permalink: Java/BasicTabbedPaneUI/shouldRotateTabRuns
+permalink: /Java/BasicTabbedPaneUI/shouldRotateTabRuns/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

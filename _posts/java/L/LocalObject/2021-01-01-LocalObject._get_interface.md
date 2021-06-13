@@ -2,7 +2,7 @@
 title: LocalObject._get_interface()
 permalink: Java/LocalObject/_get_interface
 date: 2021-01-11
-key: JavaJava.L.LocalObject
+key: Java.L.LocalObject
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

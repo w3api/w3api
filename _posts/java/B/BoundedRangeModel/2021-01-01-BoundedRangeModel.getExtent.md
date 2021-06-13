@@ -1,6 +1,6 @@
 ---
 title: BoundedRangeModel.getExtent()
-permalink: Java/BoundedRangeModel/getExtent
+permalink: /Java/BoundedRangeModel/getExtent/
 date: 2021-01-11
 key: JavaJava.B.BoundedRangeModel
 category: java

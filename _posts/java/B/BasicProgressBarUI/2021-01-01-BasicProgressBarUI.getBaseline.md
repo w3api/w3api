@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.getBaseline()
-permalink: Java/BasicProgressBarUI/getBaseline
+permalink: /Java/BasicProgressBarUI/getBaseline/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

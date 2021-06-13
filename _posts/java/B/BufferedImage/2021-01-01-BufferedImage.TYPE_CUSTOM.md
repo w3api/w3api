@@ -1,8 +1,8 @@
 ---
 title: BufferedImage.TYPE_CUSTOM
-permalink: Java/BufferedImage/TYPE_CUSTOM
+permalink: /Java/BufferedImage/TYPE_CUSTOM/
 date: 2021-01-11
-key: JavaJava.B.BufferedImage
+key: Java.B.BufferedImage
 category: java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

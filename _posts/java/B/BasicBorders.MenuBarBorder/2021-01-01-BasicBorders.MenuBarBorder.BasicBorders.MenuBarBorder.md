@@ -1,8 +1,8 @@
 ---
 title: BasicBorders.MenuBarBorder.BasicBorders.MenuBarBorder()
-permalink: Java/BasicBorders/MenuBarBorder/BasicBorders/MenuBarBorder
+permalink: /Java/BasicBorders/MenuBarBorder/BasicBorders/MenuBarBorder/
 date: 2021-01-11
-key: JavaJava.B.BasicBorders.MenuBarBorder
+key: Java.B.BasicBorders.MenuBarBorder
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

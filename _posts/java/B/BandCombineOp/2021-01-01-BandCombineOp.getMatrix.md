@@ -1,6 +1,6 @@
 ---
 title: BandCombineOp.getMatrix()
-permalink: Java/BandCombineOp/getMatrix
+permalink: /Java/BandCombineOp/getMatrix/
 date: 2021-01-11
 key: JavaJava.B.BandCombineOp
 category: java

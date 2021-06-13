@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.propertyListener
-permalink: Java/BasicToolBarUI/propertyListener
+permalink: /Java/BasicToolBarUI/propertyListener/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

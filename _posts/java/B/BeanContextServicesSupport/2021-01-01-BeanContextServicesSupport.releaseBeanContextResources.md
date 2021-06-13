@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesSupport.releaseBeanContextResources()
-permalink: Java/BeanContextServicesSupport/releaseBeanContextResources
+permalink: /Java/BeanContextServicesSupport/releaseBeanContextResources/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesSupport
 category: java

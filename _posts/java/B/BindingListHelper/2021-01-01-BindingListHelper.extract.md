@@ -1,6 +1,6 @@
 ---
 title: BindingListHelper.extract()
-permalink: Java/BindingListHelper/extract
+permalink: /Java/BindingListHelper/extract/
 date: 2021-01-11
 key: JavaJava.B.BindingListHelper
 category: java

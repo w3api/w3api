@@ -1,6 +1,6 @@
 ---
 title: BasicDirectoryModel.invalidateFileCache()
-permalink: Java/BasicDirectoryModel/invalidateFileCache
+permalink: /Java/BasicDirectoryModel/invalidateFileCache/
 date: 2021-01-11
 key: JavaJava.B.BasicDirectoryModel
 category: java

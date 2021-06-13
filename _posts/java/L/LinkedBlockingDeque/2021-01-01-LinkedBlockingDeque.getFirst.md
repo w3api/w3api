@@ -2,7 +2,7 @@
 title: LinkedBlockingDeque.getFirst()
 permalink: Java/LinkedBlockingDeque/getFirst
 date: 2021-01-11
-key: JavaJava.L.LinkedBlockingDeque
+key: Java.L.LinkedBlockingDeque
 category: java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 

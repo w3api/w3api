@@ -1,6 +1,6 @@
 ---
 title: BoundsHelper.insert()
-permalink: Java/BoundsHelper-org-omg-CORBA/insert
+permalink: /Java/BoundsHelper-org-omg-CORBA/insert/
 date: 2021-01-11
 key: JavaJava.B.BoundsHelper-org-omg-CORBA
 category: java

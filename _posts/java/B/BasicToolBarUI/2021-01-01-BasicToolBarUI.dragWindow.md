@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.dragWindow
-permalink: Java/BasicToolBarUI/dragWindow
+permalink: /Java/BasicToolBarUI/dragWindow/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

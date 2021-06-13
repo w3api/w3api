@@ -1,6 +1,6 @@
 ---
 title: BeanProperty.required
-permalink: Java/BeanProperty/required
+permalink: /Java/BeanProperty/required/
 date: 2021-01-11
 key: JavaJava.B.BeanProperty
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.downKey
-permalink: Java/BasicToolBarUI/downKey
+permalink: /Java/BasicToolBarUI/downKey/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

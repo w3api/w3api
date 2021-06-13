@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.runCount
-permalink: Java/BasicTabbedPaneUI/runCount
+permalink: /Java/BasicTabbedPaneUI/runCount/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

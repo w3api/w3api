@@ -1,8 +1,8 @@
 ---
 title: ListViewSkin
-permalink: Java/ListViewSkin
+permalink: /Java/ListViewSkin/
 date: 2021-01-11
-key: JavaJava.L.ListViewSkin
+key: Java.L.ListViewSkin
 category: java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 

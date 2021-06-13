@@ -1,6 +1,6 @@
 ---
 title: ButtonGroup.ButtonGroup()
-permalink: Java/ButtonGroup/ButtonGroup
+permalink: /Java/ButtonGroup/ButtonGroup/
 date: 2021-01-11
 key: JavaJava.B.ButtonGroup
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BorderFactory
-permalink: Java/BorderFactory
+permalink: /Java/BorderFactory/
 date: 2021-01-11
-key: JavaJava.B.BorderFactory
+key: Java.B.BorderFactory
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 

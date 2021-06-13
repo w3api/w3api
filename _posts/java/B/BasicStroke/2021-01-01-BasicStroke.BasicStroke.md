@@ -1,6 +1,6 @@
 ---
 title: BasicStroke.BasicStroke()
-permalink: Java/BasicStroke/BasicStroke
+permalink: /Java/BasicStroke/BasicStroke/
 date: 2021-01-11
 key: JavaJava.B.BasicStroke
 category: java

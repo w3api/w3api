@@ -1,6 +1,6 @@
 ---
 title: ByteOrder.BIG_ENDIAN
-permalink: Java/ByteOrder/BIG_ENDIAN
+permalink: /Java/ByteOrder/BIG_ENDIAN/
 date: 2021-01-11
 key: JavaJava.B.ByteOrder
 category: java

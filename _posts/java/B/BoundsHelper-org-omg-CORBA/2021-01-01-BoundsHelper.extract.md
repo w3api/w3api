@@ -1,6 +1,6 @@
 ---
 title: BoundsHelper.extract()
-permalink: Java/BoundsHelper-org-omg-CORBA/extract
+permalink: /Java/BoundsHelper-org-omg-CORBA/extract/
 date: 2021-01-11
 key: JavaJava.B.BoundsHelper-org-omg-CORBA
 category: java

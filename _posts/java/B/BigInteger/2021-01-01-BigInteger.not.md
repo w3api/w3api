@@ -1,8 +1,8 @@
 ---
 title: BigInteger.not()
-permalink: Java/BigInteger/not
+permalink: /Java/BigInteger/not/
 date: 2021-01-11
-key: JavaJava.B.BigInteger
+key: Java.B.BigInteger
 category: java
 tags: ['java se', 'java.math', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

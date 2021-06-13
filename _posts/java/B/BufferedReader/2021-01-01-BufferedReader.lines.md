@@ -1,6 +1,6 @@
 ---
 title: BufferedReader.lines()
-permalink: Java/BufferedReader/lines
+permalink: /Java/BufferedReader/lines/
 date: 2021-01-11
 key: JavaJava.B.BufferedReader
 category: java

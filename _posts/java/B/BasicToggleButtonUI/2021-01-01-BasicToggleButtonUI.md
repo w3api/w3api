@@ -1,8 +1,8 @@
 ---
 title: BasicToggleButtonUI
-permalink: Java/BasicToggleButtonUI
+permalink: /Java/BasicToggleButtonUI/
 date: 2021-01-11
-key: JavaJava.B.BasicToggleButtonUI
+key: Java.B.BasicToggleButtonUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

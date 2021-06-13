@@ -1,6 +1,6 @@
 ---
 title: ByteArrayOutputStream.size()
-permalink: Java/ByteArrayOutputStream/size
+permalink: /Java/ByteArrayOutputStream/size/
 date: 2021-01-11
 key: JavaJava.B.ByteArrayOutputStream
 category: java

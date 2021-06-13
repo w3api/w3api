@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxEditor.UIResource
-permalink: Java/BasicComboBoxEditor/UIResource
+permalink: /Java/BasicComboBoxEditor/UIResource/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxEditor.UIResource
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopIconUI.installDefaults()
-permalink: Java/BasicDesktopIconUI/installDefaults
+permalink: /Java/BasicDesktopIconUI/installDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopIconUI
 category: java

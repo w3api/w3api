@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.toString()
-permalink: Java/ByteBuffer/toString
+permalink: /Java/ByteBuffer/toString/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

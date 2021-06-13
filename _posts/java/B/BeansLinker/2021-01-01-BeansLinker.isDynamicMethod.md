@@ -1,8 +1,8 @@
 ---
 title: BeansLinker.isDynamicMethod()
-permalink: Java/BeansLinker/isDynamicMethod
+permalink: /Java/BeansLinker/isDynamicMethod/
 date: 2021-01-11
-key: JavaJava.B.BeansLinker
+key: Java.B.BeansLinker
 category: java
 tags: ['java se', 'jdk.dynalink.beans', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 

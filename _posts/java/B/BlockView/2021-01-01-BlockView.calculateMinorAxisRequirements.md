@@ -1,6 +1,6 @@
 ---
 title: BlockView.calculateMinorAxisRequirements()
-permalink: Java/BlockView/calculateMinorAxisRequirements
+permalink: /Java/BlockView/calculateMinorAxisRequirements/
 date: 2021-01-11
 key: JavaJava.B.BlockView
 category: java

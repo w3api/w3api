@@ -1,6 +1,6 @@
 ---
 title: BiFunction.apply()
-permalink: Java/BiFunction/apply
+permalink: /Java/BiFunction/apply/
 date: 2021-01-11
 key: JavaJava.B.BiFunction
 category: java

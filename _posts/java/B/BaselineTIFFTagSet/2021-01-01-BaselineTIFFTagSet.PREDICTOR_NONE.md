@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.PREDICTOR_NONE
-permalink: Java/BaselineTIFFTagSet/PREDICTOR_NONE
+permalink: /Java/BaselineTIFFTagSet/PREDICTOR_NONE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

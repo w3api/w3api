@@ -1,6 +1,6 @@
 ---
 title: Background.getFills()
-permalink: Java/Background/getFills
+permalink: /Java/Background/getFills/
 date: 2021-01-11
 key: JavaJava.B.Background
 category: java

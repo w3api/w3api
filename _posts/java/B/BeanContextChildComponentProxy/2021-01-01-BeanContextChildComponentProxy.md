@@ -1,6 +1,6 @@
 ---
 title: BeanContextChildComponentProxy
-permalink: Java/BeanContextChildComponentProxy
+permalink: /Java/BeanContextChildComponentProxy/
 date: 2021-01-11
 key: JavaJava.B.BeanContextChildComponentProxy
 category: java

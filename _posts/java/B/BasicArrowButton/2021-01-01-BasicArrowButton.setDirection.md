@@ -1,6 +1,6 @@
 ---
 title: BasicArrowButton.setDirection()
-permalink: Java/BasicArrowButton/setDirection
+permalink: /Java/BasicArrowButton/setDirection/
 date: 2021-01-11
 key: JavaJava.B.BasicArrowButton
 category: java

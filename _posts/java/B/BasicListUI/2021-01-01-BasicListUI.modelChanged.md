@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.modelChanged
-permalink: Java/BasicListUI/modelChanged
+permalink: /Java/BasicListUI/modelChanged/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

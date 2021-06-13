@@ -1,6 +1,6 @@
 ---
 title: BasicToolTipUI.BasicToolTipUI()
-permalink: Java/BasicToolTipUI/BasicToolTipUI
+permalink: /Java/BasicToolTipUI/BasicToolTipUI/
 date: 2021-01-11
 key: JavaJava.B.BasicToolTipUI
 category: java

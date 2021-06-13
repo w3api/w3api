@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesSupport.serializable
-permalink: Java/BeanContextServicesSupport/serializable
+permalink: /Java/BeanContextServicesSupport/serializable/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesSupport
 category: java

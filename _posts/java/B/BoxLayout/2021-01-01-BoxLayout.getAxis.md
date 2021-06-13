@@ -1,6 +1,6 @@
 ---
 title: BoxLayout.getAxis()
-permalink: Java/BoxLayout/getAxis
+permalink: /Java/BoxLayout/getAxis/
 date: 2021-01-11
 key: JavaJava.B.BoxLayout
 category: java

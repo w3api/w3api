@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.selectionForeground
-permalink: Java/BasicMenuItemUI/selectionForeground
+permalink: /Java/BasicMenuItemUI/selectionForeground/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

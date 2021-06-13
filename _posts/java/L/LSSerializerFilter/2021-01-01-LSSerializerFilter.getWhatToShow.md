@@ -2,7 +2,7 @@
 title: LSSerializerFilter.getWhatToShow()
 permalink: Java/LSSerializerFilter/getWhatToShow
 date: 2021-01-11
-key: JavaJava.L.LSSerializerFilter
+key: Java.L.LSSerializerFilter
 category: java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.mouseInputListener
-permalink: Java/BasicListUI/mouseInputListener
+permalink: /Java/BasicListUI/mouseInputListener/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

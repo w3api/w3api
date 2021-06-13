@@ -2,7 +2,7 @@
 title: LightBase.setLightOn()
 permalink: Java/LightBase/setLightOn
 date: 2021-01-11
-key: JavaJava.L.LightBase
+key: Java.L.LightBase
 category: java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

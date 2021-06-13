@@ -1,6 +1,6 @@
 ---
 title: BoundsHelper.read()
-permalink: Java/BoundsHelper-org-omg-CORBA/read
+permalink: /Java/BoundsHelper-org-omg-CORBA/read/
 date: 2021-01-11
 key: JavaJava.B.BoundsHelper-org-omg-CORBA
 category: java

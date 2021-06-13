@@ -1,6 +1,6 @@
 ---
 title: BorderStrokeStyle.DOTTED
-permalink: Java/BorderStrokeStyle/DOTTED
+permalink: /Java/BorderStrokeStyle/DOTTED/
 date: 2021-01-11
 key: JavaJava.B.BorderStrokeStyle
 category: java

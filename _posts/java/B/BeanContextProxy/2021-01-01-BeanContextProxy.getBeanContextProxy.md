@@ -1,8 +1,8 @@
 ---
 title: BeanContextProxy.getBeanContextProxy()
-permalink: Java/BeanContextProxy/getBeanContextProxy
+permalink: /Java/BeanContextProxy/getBeanContextProxy/
 date: 2021-01-11
-key: JavaJava.B.BeanContextProxy
+key: Java.B.BeanContextProxy
 category: java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

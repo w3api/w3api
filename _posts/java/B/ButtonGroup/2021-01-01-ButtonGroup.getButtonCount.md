@@ -1,6 +1,6 @@
 ---
 title: ButtonGroup.getButtonCount()
-permalink: Java/ButtonGroup/getButtonCount
+permalink: /Java/ButtonGroup/getButtonCount/
 date: 2021-01-11
 key: JavaJava.B.ButtonGroup
 category: java

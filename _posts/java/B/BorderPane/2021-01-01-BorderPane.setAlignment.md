@@ -1,6 +1,6 @@
 ---
 title: BorderPane.setAlignment()
-permalink: Java/BorderPane/setAlignment
+permalink: /Java/BorderPane/setAlignment/
 date: 2021-01-11
 key: JavaJava.B.BorderPane
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopPaneUI.desktopManager
-permalink: Java/BasicDesktopPaneUI/desktopManager
+permalink: /Java/BasicDesktopPaneUI/desktopManager/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopPaneUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.round()
-permalink: Java/BigDecimal/round
+permalink: /Java/BigDecimal/round/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

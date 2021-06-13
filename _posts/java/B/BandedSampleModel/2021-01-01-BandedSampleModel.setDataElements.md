@@ -1,6 +1,6 @@
 ---
 title: BandedSampleModel.setDataElements()
-permalink: Java/BandedSampleModel/setDataElements
+permalink: /Java/BandedSampleModel/setDataElements/
 date: 2021-01-11
 key: JavaJava.B.BandedSampleModel
 category: java

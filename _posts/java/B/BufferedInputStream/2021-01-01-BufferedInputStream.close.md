@@ -1,6 +1,6 @@
 ---
 title: BufferedInputStream.close()
-permalink: Java/BufferedInputStream/close
+permalink: /Java/BufferedInputStream/close/
 date: 2021-01-11
 key: JavaJava.B.BufferedInputStream
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.removeEditor()
-permalink: Java/BasicComboBoxUI/removeEditor
+permalink: /Java/BasicComboBoxUI/removeEditor/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicPanelUI.getBaselineResizeBehavior()
-permalink: Java/BasicPanelUI/getBaselineResizeBehavior
+permalink: /Java/BasicPanelUI/getBaselineResizeBehavior/
 date: 2021-01-11
 key: JavaJava.B.BasicPanelUI
 category: java

@@ -2,7 +2,7 @@
 title: LocalTime.NOON
 permalink: Java/LocalTime/NOON
 date: 2021-01-11
-key: JavaJava.L.LocalTime
+key: Java.L.LocalTime
 category: java
 tags: ['java se', 'java.time', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ButtonGroup.isSelected()
-permalink: Java/ButtonGroup/isSelected
+permalink: /Java/ButtonGroup/isSelected/
 date: 2021-01-11
 key: JavaJava.B.ButtonGroup
 category: java

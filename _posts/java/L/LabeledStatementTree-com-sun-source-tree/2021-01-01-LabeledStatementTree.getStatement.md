@@ -2,7 +2,7 @@
 title: LabeledStatementTree.getStatement()
 permalink: Java/LabeledStatementTree-com-sun-source-tree/getStatement
 date: 2021-01-11
-key: JavaJava.L.LabeledStatementTree-com-sun-source-tree
+key: Java.L.LabeledStatementTree-com-sun-source-tree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

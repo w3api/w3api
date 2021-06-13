@@ -1,8 +1,8 @@
 ---
 title: BufferOverflowException
-permalink: Java/BufferOverflowException
+permalink: /Java/BufferOverflowException/
 date: 2021-01-11
-key: JavaJava.B.BufferOverflowException
+key: Java.B.BufferOverflowException
 category: java
 tags: ['java se', 'java.nio', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

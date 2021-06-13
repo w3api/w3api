@@ -1,6 +1,6 @@
 ---
 title: BoxLayout.addLayoutComponent()
-permalink: Java/BoxLayout/addLayoutComponent
+permalink: /Java/BoxLayout/addLayoutComponent/
 date: 2021-01-11
 key: JavaJava.B.BoxLayout
 category: java

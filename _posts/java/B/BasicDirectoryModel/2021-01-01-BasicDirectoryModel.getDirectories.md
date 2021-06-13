@@ -1,6 +1,6 @@
 ---
 title: BasicDirectoryModel.getDirectories()
-permalink: Java/BasicDirectoryModel/getDirectories
+permalink: /Java/BasicDirectoryModel/getDirectories/
 date: 2021-01-11
 key: JavaJava.B.BasicDirectoryModel
 category: java

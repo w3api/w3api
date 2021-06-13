@@ -1,8 +1,8 @@
 ---
 title: ListCellSkin.ListCellSkin()
-permalink: Java/ListCellSkin/ListCellSkin
+permalink: /Java/ListCellSkin/ListCellSkin/
 date: 2021-01-11
-key: JavaJava.L.ListCellSkin
+key: Java.L.ListCellSkin
 category: java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 

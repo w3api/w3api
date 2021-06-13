@@ -1,6 +1,6 @@
 ---
 title: BasicMenuUI.setupPostTimer()
-permalink: Java/BasicMenuUI/setupPostTimer
+permalink: /Java/BasicMenuUI/setupPostTimer/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuUI
 category: java

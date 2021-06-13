@@ -1,6 +1,6 @@
 ---
 title: BoundsHelper.id()
-permalink: Java/BoundsHelper-org-omg-CORBA/id
+permalink: /Java/BoundsHelper-org-omg-CORBA/id/
 date: 2021-01-11
 key: JavaJava.B.BoundsHelper-org-omg-CORBA
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicPermission.equals()
-permalink: Java/BasicPermission/equals
+permalink: /Java/BasicPermission/equals/
 date: 2021-01-11
 key: JavaJava.B.BasicPermission
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.togglePopup()
-permalink: Java/BasicComboPopup/togglePopup
+permalink: /Java/BasicComboPopup/togglePopup/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

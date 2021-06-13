@@ -1,6 +1,6 @@
 ---
 title: BasicEditorPaneUI.installUI()
-permalink: Java/BasicEditorPaneUI/installUI
+permalink: /Java/BasicEditorPaneUI/installUI/
 date: 2021-01-11
 key: JavaJava.B.BasicEditorPaneUI
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BasicAttribute.add()
-permalink: Java/BasicAttribute/add
+permalink: /Java/BasicAttribute/add/
 date: 2021-01-11
-key: JavaJava.B.BasicAttribute
+key: Java.B.BasicAttribute
 category: java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicDesktopIconUI.iconPane
-permalink: Java/BasicDesktopIconUI/iconPane
+permalink: /Java/BasicDesktopIconUI/iconPane/
 date: 2021-01-11
 key: JavaJava.B.BasicDesktopIconUI
 category: java

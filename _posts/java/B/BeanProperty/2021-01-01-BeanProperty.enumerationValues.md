@@ -1,6 +1,6 @@
 ---
 title: BeanProperty.enumerationValues
-permalink: Java/BeanProperty/enumerationValues
+permalink: /Java/BeanProperty/enumerationValues/
 date: 2021-01-11
 key: JavaJava.B.BeanProperty
 category: java

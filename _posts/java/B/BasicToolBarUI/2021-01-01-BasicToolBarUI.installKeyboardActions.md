@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.installKeyboardActions()
-permalink: Java/BasicToolBarUI/installKeyboardActions
+permalink: /Java/BasicToolBarUI/installKeyboardActions/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

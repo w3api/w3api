@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.getPath()
-permalink: Java/BasicMenuItemUI/getPath
+permalink: /Java/BasicMenuItemUI/getPath/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

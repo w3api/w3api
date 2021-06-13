@@ -1,8 +1,8 @@
 ---
 title: BasicInternalFrameUI.getMinimumSize()
-permalink: Java/BasicInternalFrameUI/getMinimumSize
+permalink: /Java/BasicInternalFrameUI/getMinimumSize/
 date: 2021-01-11
-key: JavaJava.B.BasicInternalFrameUI
+key: Java.B.BasicInternalFrameUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

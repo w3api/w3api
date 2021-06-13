@@ -1,6 +1,6 @@
 ---
 title: BAD_POLICY_TYPE
-permalink: Java/BAD_POLICY_TYPE
+permalink: /Java/BAD_POLICY_TYPE/
 date: 2021-01-11
 key: JavaJava.B.BAD_POLICY_TYPE
 category: java

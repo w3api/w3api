@@ -1,6 +1,6 @@
 ---
 title: BasicTextAreaUI.propertyChange()
-permalink: Java/BasicTextAreaUI/propertyChange
+permalink: /Java/BasicTextAreaUI/propertyChange/
 date: 2021-01-11
 key: JavaJava.B.BasicTextAreaUI
 category: java

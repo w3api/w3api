@@ -1,6 +1,6 @@
 ---
 title: BlockingDeque.addFirst()
-permalink: Java/BlockingDeque/addFirst
+permalink: /Java/BlockingDeque/addFirst/
 date: 2021-01-11
 key: JavaJava.B.BlockingDeque
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.getFloat()
-permalink: Java/ByteBuffer/getFloat
+permalink: /Java/ByteBuffer/getFloat/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

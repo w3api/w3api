@@ -1,8 +1,8 @@
 ---
 title: ButtonModel.removeItemListener()
-permalink: Java/ButtonModel/removeItemListener
+permalink: /Java/ButtonModel/removeItemListener/
 date: 2021-01-11
-key: JavaJava.B.ButtonModel
+key: Java.B.ButtonModel
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

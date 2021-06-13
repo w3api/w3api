@@ -1,8 +1,8 @@
 ---
 title: ListModel
-permalink: Java/ListModel
+permalink: /Java/ListModel/
 date: 2021-01-11
-key: JavaJava.L.ListModel
+key: Java.L.ListModel
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 

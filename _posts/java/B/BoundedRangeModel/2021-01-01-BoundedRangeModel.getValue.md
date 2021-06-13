@@ -1,6 +1,6 @@
 ---
 title: BoundedRangeModel.getValue()
-permalink: Java/BoundedRangeModel/getValue
+permalink: /Java/BoundedRangeModel/getValue/
 date: 2021-01-11
 key: JavaJava.B.BoundedRangeModel
 category: java

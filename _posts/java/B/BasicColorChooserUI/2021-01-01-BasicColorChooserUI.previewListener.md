@@ -1,6 +1,6 @@
 ---
 title: BasicColorChooserUI.previewListener
-permalink: Java/BasicColorChooserUI/previewListener
+permalink: /Java/BasicColorChooserUI/previewListener/
 date: 2021-01-11
 key: JavaJava.B.BasicColorChooserUI
 category: java

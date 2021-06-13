@@ -1,6 +1,6 @@
 ---
 title: ByteArrayOutputStream.buf
-permalink: Java/ByteArrayOutputStream/buf
+permalink: /Java/ByteArrayOutputStream/buf/
 date: 2021-01-11
 key: JavaJava.B.ByteArrayOutputStream
 category: java

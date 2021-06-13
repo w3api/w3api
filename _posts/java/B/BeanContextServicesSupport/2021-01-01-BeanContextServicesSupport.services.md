@@ -1,6 +1,6 @@
 ---
 title: BeanContextServicesSupport.services
-permalink: Java/BeanContextServicesSupport/services
+permalink: /Java/BeanContextServicesSupport/services/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServicesSupport
 category: java

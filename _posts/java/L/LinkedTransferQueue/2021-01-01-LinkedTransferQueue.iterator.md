@@ -2,7 +2,7 @@
 title: LinkedTransferQueue.iterator()
 permalink: Java/LinkedTransferQueue/iterator
 date: 2021-01-11
-key: JavaJava.L.LinkedTransferQueue
+key: Java.L.LinkedTransferQueue
 category: java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

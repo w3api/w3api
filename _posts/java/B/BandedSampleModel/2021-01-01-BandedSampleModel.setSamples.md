@@ -1,6 +1,6 @@
 ---
 title: BandedSampleModel.setSamples()
-permalink: Java/BandedSampleModel/setSamples
+permalink: /Java/BandedSampleModel/setSamples/
 date: 2021-01-11
 key: JavaJava.B.BandedSampleModel
 category: java

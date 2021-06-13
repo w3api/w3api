@@ -1,8 +1,8 @@
 ---
 title: LinkRequest.isCallSiteUnstable()
-permalink: Java/LinkRequest/isCallSiteUnstable
+permalink: /Java/LinkRequest/isCallSiteUnstable/
 date: 2021-01-11
-key: JavaJava.L.LinkRequest
+key: Java.L.LinkRequest
 category: java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicViewportUI
-permalink: Java/BasicViewportUI
+permalink: /Java/BasicViewportUI/
 date: 2021-01-11
 key: JavaJava.B.BasicViewportUI
 category: java

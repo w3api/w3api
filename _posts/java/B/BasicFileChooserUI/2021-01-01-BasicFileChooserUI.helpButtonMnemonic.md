@@ -1,8 +1,8 @@
 ---
 title: BasicFileChooserUI.helpButtonMnemonic
-permalink: Java/BasicFileChooserUI/helpButtonMnemonic
+permalink: /Java/BasicFileChooserUI/helpButtonMnemonic/
 date: 2021-01-11
-key: JavaJava.B.BasicFileChooserUI
+key: Java.B.BasicFileChooserUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

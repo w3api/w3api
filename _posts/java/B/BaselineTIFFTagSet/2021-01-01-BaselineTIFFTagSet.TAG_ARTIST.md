@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_ARTIST
-permalink: Java/BaselineTIFFTagSet/TAG_ARTIST
+permalink: /Java/BaselineTIFFTagSet/TAG_ARTIST/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

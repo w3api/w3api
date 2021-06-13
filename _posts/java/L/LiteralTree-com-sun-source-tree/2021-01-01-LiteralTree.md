@@ -2,7 +2,7 @@
 title: LiteralTree
 permalink: Java/LiteralTree-com-sun-source-tree
 date: 2021-01-11
-key: JavaJava.L.LiteralTree-com-sun-source-tree
+key: Java.L.LiteralTree-com-sun-source-tree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 

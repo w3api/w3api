@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.cellWidth
-permalink: Java/BasicListUI/cellWidth
+permalink: /Java/BasicListUI/cellWidth/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

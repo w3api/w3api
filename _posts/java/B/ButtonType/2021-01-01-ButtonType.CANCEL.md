@@ -1,6 +1,6 @@
 ---
 title: ButtonType.CANCEL
-permalink: Java/ButtonType/CANCEL
+permalink: /Java/ButtonType/CANCEL/
 date: 2021-01-11
 key: JavaJava.B.ButtonType
 category: java

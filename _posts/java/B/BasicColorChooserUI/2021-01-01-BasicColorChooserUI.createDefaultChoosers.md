@@ -1,6 +1,6 @@
 ---
 title: BasicColorChooserUI.createDefaultChoosers()
-permalink: Java/BasicColorChooserUI/createDefaultChoosers
+permalink: /Java/BasicColorChooserUI/createDefaultChoosers/
 date: 2021-01-11
 key: JavaJava.B.BasicColorChooserUI
 category: java

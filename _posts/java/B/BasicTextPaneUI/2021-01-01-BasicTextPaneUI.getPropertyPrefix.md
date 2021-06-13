@@ -1,6 +1,6 @@
 ---
 title: BasicTextPaneUI.getPropertyPrefix()
-permalink: Java/BasicTextPaneUI/getPropertyPrefix
+permalink: /Java/BasicTextPaneUI/getPropertyPrefix/
 date: 2021-01-11
 key: JavaJava.B.BasicTextPaneUI
 category: java

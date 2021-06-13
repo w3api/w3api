@@ -1,6 +1,6 @@
 ---
 title: ByteArrayInputStream.mark
-permalink: Java/ByteArrayInputStream/mark
+permalink: /Java/ByteArrayInputStream/mark/
 date: 2021-01-11
 key: JavaJava.B.ByteArrayInputStream
 category: java

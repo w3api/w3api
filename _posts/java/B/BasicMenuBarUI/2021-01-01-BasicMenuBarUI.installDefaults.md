@@ -1,6 +1,6 @@
 ---
 title: BasicMenuBarUI.installDefaults()
-permalink: Java/BasicMenuBarUI/installDefaults
+permalink: /Java/BasicMenuBarUI/installDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuBarUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BevelBorder.getBevelType()
-permalink: Java/BevelBorder/getBevelType
+permalink: /Java/BevelBorder/getBevelType/
 date: 2021-01-11
 key: JavaJava.B.BevelBorder
 category: java

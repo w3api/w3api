@@ -1,6 +1,6 @@
 ---
 title: ButtonBar.setButtonData()
-permalink: Java/ButtonBar/setButtonData
+permalink: /Java/ButtonBar/setButtonData/
 date: 2021-01-11
 key: JavaJava.B.ButtonBar
 category: java

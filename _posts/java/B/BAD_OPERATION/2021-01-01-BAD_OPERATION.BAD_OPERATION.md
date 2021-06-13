@@ -1,8 +1,8 @@
 ---
 title: BAD_OPERATION.BAD_OPERATION()
-permalink: Java/BAD_OPERATION/BAD_OPERATION
+permalink: /Java/BAD_OPERATION/BAD_OPERATION/
 date: 2021-01-11
-key: JavaJava.B.BAD_OPERATION
+key: Java.B.BAD_OPERATION
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 

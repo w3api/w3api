@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.getInsets()
-permalink: Java/BasicComboBoxUI/getInsets
+permalink: /Java/BasicComboBoxUI/getInsets/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

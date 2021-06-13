@@ -1,6 +1,6 @@
 ---
 title: BlockingQueue.add()
-permalink: Java/BlockingQueue/add
+permalink: /Java/BlockingQueue/add/
 date: 2021-01-11
 key: JavaJava.B.BlockingQueue
 category: java

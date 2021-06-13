@@ -1,6 +1,6 @@
 ---
 title: BasicFileAttributes.lastModifiedTime()
-permalink: Java/BasicFileAttributes/lastModifiedTime
+permalink: /Java/BasicFileAttributes/lastModifiedTime/
 date: 2021-01-11
 key: JavaJava.B.BasicFileAttributes
 category: java

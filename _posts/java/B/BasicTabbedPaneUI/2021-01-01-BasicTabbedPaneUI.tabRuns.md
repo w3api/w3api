@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.tabRuns
-permalink: Java/BasicTabbedPaneUI/tabRuns
+permalink: /Java/BasicTabbedPaneUI/tabRuns/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

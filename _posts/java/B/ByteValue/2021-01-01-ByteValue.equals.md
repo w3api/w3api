@@ -1,6 +1,6 @@
 ---
 title: ByteValue.equals()
-permalink: Java/ByteValue/equals
+permalink: /Java/ByteValue/equals/
 date: 2021-01-11
 key: JavaJava.B.ByteValue
 category: java

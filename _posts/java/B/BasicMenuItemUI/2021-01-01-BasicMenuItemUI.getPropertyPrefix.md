@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.getPropertyPrefix()
-permalink: Java/BasicMenuItemUI/getPropertyPrefix
+permalink: /Java/BasicMenuItemUI/getPropertyPrefix/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

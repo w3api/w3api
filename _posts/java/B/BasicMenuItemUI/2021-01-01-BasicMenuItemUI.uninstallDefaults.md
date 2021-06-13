@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.uninstallDefaults()
-permalink: Java/BasicMenuItemUI/uninstallDefaults
+permalink: /Java/BasicMenuItemUI/uninstallDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

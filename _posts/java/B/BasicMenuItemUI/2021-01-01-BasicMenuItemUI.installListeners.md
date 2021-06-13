@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.installListeners()
-permalink: Java/BasicMenuItemUI/installListeners
+permalink: /Java/BasicMenuItemUI/installListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

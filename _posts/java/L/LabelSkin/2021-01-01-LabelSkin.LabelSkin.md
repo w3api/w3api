@@ -2,7 +2,7 @@
 title: LabelSkin.LabelSkin()
 permalink: Java/LabelSkin/LabelSkin
 date: 2021-01-11
-key: JavaJava.L.LabelSkin
+key: Java.L.LabelSkin
 category: java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 

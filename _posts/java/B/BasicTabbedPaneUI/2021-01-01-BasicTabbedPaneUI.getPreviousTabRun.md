@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.getPreviousTabRun()
-permalink: Java/BasicTabbedPaneUI/getPreviousTabRun
+permalink: /Java/BasicTabbedPaneUI/getPreviousTabRun/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

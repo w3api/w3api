@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_GRAY_RESPONSE_UNIT
-permalink: Java/BaselineTIFFTagSet/TAG_GRAY_RESPONSE_UNIT
+permalink: /Java/BaselineTIFFTagSet/TAG_GRAY_RESPONSE_UNIT/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

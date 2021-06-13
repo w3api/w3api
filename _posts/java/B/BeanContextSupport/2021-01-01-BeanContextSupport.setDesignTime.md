@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.setDesignTime()
-permalink: Java/BeanContextSupport/setDesignTime
+permalink: /Java/BeanContextSupport/setDesignTime/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.closeAction
-permalink: Java/BasicInternalFrameTitlePane/closeAction
+permalink: /Java/BasicInternalFrameTitlePane/closeAction/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BufferedReader.read()
-permalink: Java/BufferedReader/read
+permalink: /Java/BufferedReader/read/
 date: 2021-01-11
 key: JavaJava.B.BufferedReader
 category: java

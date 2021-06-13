@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.BasicTabbedPaneUI()
-permalink: Java/BasicTabbedPaneUI/BasicTabbedPaneUI
+permalink: /Java/BasicTabbedPaneUI/BasicTabbedPaneUI/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

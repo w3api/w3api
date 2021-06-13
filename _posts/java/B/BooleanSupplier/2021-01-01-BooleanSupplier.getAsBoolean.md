@@ -1,8 +1,8 @@
 ---
 title: BooleanSupplier.getAsBoolean()
-permalink: Java/BooleanSupplier/getAsBoolean
+permalink: /Java/BooleanSupplier/getAsBoolean/
 date: 2021-01-11
-key: JavaJava.B.BooleanSupplier
+key: Java.B.BooleanSupplier
 category: java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

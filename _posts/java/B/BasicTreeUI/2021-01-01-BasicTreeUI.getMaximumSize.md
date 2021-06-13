@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.getMaximumSize()
-permalink: Java/BasicTreeUI/getMaximumSize
+permalink: /Java/BasicTreeUI/getMaximumSize/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BindingIterator
-permalink: Java/BindingIterator
+permalink: /Java/BindingIterator/
 date: 2021-01-11
-key: JavaJava.B.BindingIterator
+key: Java.B.BindingIterator
 category: java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

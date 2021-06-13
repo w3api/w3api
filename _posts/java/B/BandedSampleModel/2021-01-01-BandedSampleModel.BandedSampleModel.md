@@ -1,6 +1,6 @@
 ---
 title: BandedSampleModel.BandedSampleModel()
-permalink: Java/BandedSampleModel/BandedSampleModel
+permalink: /Java/BandedSampleModel/BandedSampleModel/
 date: 2021-01-11
 key: JavaJava.B.BandedSampleModel
 category: java

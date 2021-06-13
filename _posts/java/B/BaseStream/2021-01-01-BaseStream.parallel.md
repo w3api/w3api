@@ -1,6 +1,6 @@
 ---
 title: BaseStream.parallel()
-permalink: Java/BaseStream/parallel
+permalink: /Java/BaseStream/parallel/
 date: 2021-01-11
 key: JavaJava.B.BaseStream
 category: java

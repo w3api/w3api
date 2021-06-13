@@ -1,6 +1,6 @@
 ---
 title: BlockView.paint()
-permalink: Java/BlockView/paint
+permalink: /Java/BlockView/paint/
 date: 2021-01-11
 key: JavaJava.B.BlockView
 category: java

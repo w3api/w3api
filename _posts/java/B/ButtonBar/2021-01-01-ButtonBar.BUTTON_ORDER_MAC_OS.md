@@ -1,6 +1,6 @@
 ---
 title: ButtonBar.BUTTON_ORDER_MAC_OS
-permalink: Java/ButtonBar/BUTTON_ORDER_MAC_OS
+permalink: /Java/ButtonBar/BUTTON_ORDER_MAC_OS/
 date: 2021-01-11
 key: JavaJava.B.ButtonBar
 category: java

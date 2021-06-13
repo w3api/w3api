@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.installListeners()
-permalink: Java/BasicTreeUI/installListeners
+permalink: /Java/BasicTreeUI/installListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

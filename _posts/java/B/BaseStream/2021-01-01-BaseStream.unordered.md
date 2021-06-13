@@ -1,6 +1,6 @@
 ---
 title: BaseStream.unordered()
-permalink: Java/BaseStream/unordered
+permalink: /Java/BaseStream/unordered/
 date: 2021-01-11
 key: JavaJava.B.BaseStream
 category: java

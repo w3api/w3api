@@ -1,6 +1,6 @@
 ---
 title: BufferedImageOp.getBounds2D()
-permalink: Java/BufferedImageOp/getBounds2D
+permalink: /Java/BufferedImageOp/getBounds2D/
 date: 2021-01-11
 key: JavaJava.B.BufferedImageOp
 category: java

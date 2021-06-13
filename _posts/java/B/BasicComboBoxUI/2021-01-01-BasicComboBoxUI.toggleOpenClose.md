@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.toggleOpenClose()
-permalink: Java/BasicComboBoxUI/toggleOpenClose
+permalink: /Java/BasicComboBoxUI/toggleOpenClose/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

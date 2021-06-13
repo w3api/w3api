@@ -1,6 +1,6 @@
 ---
 title: BevelBorder.shadowInner
-permalink: Java/BevelBorder/shadowInner
+permalink: /Java/BevelBorder/shadowInner/
 date: 2021-01-11
 key: JavaJava.B.BevelBorder
 category: java

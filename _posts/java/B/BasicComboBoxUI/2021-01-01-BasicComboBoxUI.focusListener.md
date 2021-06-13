@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.focusListener
-permalink: Java/BasicComboBoxUI/focusListener
+permalink: /Java/BasicComboBoxUI/focusListener/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

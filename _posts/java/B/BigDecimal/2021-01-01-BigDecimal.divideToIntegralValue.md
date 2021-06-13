@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.divideToIntegralValue()
-permalink: Java/BigDecimal/divideToIntegralValue
+permalink: /Java/BigDecimal/divideToIntegralValue/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

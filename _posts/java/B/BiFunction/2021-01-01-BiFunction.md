@@ -1,6 +1,6 @@
 ---
 title: BiFunction
-permalink: Java/BiFunction
+permalink: /Java/BiFunction/
 date: 2021-01-11
 key: JavaJava.B.BiFunction
 category: java

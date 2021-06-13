@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.selectPreviousIndex()
-permalink: Java/BasicListUI/selectPreviousIndex
+permalink: /Java/BasicListUI/selectPreviousIndex/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicTableUI.getMaximumSize()
-permalink: Java/BasicTableUI/getMaximumSize
+permalink: /Java/BasicTableUI/getMaximumSize/
 date: 2021-01-11
 key: JavaJava.B.BasicTableUI
 category: java

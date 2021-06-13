@@ -1,6 +1,6 @@
 ---
 title: ButtonBase.armedProperty()
-permalink: Java/ButtonBase/armedProperty
+permalink: /Java/ButtonBase/armedProperty/
 date: 2021-01-11
 key: JavaJava.B.ButtonBase
 category: java

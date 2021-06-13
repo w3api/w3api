@@ -1,8 +1,8 @@
 ---
 title: BasicFileAttributeView.name()
-permalink: Java/BasicFileAttributeView/name
+permalink: /Java/BasicFileAttributeView/name/
 date: 2021-01-11
-key: JavaJava.B.BasicFileAttributeView
+key: Java.B.BasicFileAttributeView
 category: java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

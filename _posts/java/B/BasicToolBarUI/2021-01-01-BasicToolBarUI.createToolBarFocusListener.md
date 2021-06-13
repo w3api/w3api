@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.createToolBarFocusListener()
-permalink: Java/BasicToolBarUI/createToolBarFocusListener
+permalink: /Java/BasicToolBarUI/createToolBarFocusListener/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

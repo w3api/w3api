@@ -1,6 +1,6 @@
 ---
 title: BeanContextServiceProvider.releaseService()
-permalink: Java/BeanContextServiceProvider/releaseService
+permalink: /Java/BeanContextServiceProvider/releaseService/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServiceProvider
 category: java

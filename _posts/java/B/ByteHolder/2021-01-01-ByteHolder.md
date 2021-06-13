@@ -1,6 +1,6 @@
 ---
 title: ByteHolder
-permalink: Java/ByteHolder
+permalink: /Java/ByteHolder/
 date: 2021-01-11
 key: JavaJava.B.ByteHolder
 category: java

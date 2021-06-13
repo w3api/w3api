@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.ensureRowsAreVisible()
-permalink: Java/BasicTreeUI/ensureRowsAreVisible
+permalink: /Java/BasicTreeUI/ensureRowsAreVisible/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

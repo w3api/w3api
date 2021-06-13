@@ -1,6 +1,6 @@
 ---
 title: BufferedInputStream.read()
-permalink: Java/BufferedInputStream/read
+permalink: /Java/BufferedInputStream/read/
 date: 2021-01-11
 key: JavaJava.B.BufferedInputStream
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.rightChildIndent
-permalink: Java/BasicTreeUI/rightChildIndent
+permalink: /Java/BasicTreeUI/rightChildIndent/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

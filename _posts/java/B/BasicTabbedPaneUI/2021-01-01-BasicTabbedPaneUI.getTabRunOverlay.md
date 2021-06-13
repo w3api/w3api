@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.getTabRunOverlay()
-permalink: Java/BasicTabbedPaneUI/getTabRunOverlay
+permalink: /Java/BasicTabbedPaneUI/getTabRunOverlay/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.createNodeDimensions()
-permalink: Java/BasicTreeUI/createNodeDimensions
+permalink: /Java/BasicTreeUI/createNodeDimensions/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

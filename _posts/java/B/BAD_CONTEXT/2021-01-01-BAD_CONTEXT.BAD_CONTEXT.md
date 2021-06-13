@@ -1,6 +1,6 @@
 ---
 title: BAD_CONTEXT.BAD_CONTEXT()
-permalink: Java/BAD_CONTEXT/BAD_CONTEXT
+permalink: /Java/BAD_CONTEXT/BAD_CONTEXT/
 date: 2021-01-11
 key: JavaJava.B.BAD_CONTEXT
 category: java

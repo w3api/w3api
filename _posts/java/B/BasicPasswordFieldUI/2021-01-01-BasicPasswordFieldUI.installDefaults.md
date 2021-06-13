@@ -1,6 +1,6 @@
 ---
 title: BasicPasswordFieldUI.installDefaults()
-permalink: Java/BasicPasswordFieldUI/installDefaults
+permalink: /Java/BasicPasswordFieldUI/installDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicPasswordFieldUI
 category: java

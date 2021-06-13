@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.configureLayoutCache()
-permalink: Java/BasicTreeUI/configureLayoutCache
+permalink: /Java/BasicTreeUI/configureLayoutCache/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

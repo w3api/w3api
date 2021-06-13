@@ -1,6 +1,6 @@
 ---
 title: BasicSeparatorUI.shadow
-permalink: Java/BasicSeparatorUI/shadow
+permalink: /Java/BasicSeparatorUI/shadow/
 date: 2021-01-11
 key: JavaJava.B.BasicSeparatorUI
 category: java

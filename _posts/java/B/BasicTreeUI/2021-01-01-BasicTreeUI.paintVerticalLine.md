@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.paintVerticalLine()
-permalink: Java/BasicTreeUI/paintVerticalLine
+permalink: /Java/BasicTreeUI/paintVerticalLine/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

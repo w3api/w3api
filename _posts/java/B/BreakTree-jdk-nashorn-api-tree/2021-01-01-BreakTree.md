@@ -1,6 +1,6 @@
 ---
 title: BreakTree
-permalink: Java/BreakTree-jdk-nashorn-api-tree
+permalink: /Java/BreakTree-jdk-nashorn-api-tree/
 date: 2021-01-11
 key: JavaJava.B.BreakTree-jdk-nashorn-api-tree
 category: java

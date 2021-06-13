@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.expandTabRunsArray()
-permalink: Java/BasicTabbedPaneUI/expandTabRunsArray
+permalink: /Java/BasicTabbedPaneUI/expandTabRunsArray/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BorderLayout.LINE_START
-permalink: Java/BorderLayout/LINE_START
+permalink: /Java/BorderLayout/LINE_START/
 date: 2021-01-11
-key: JavaJava.B.BorderLayout
+key: Java.B.BorderLayout
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

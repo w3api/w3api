@@ -1,6 +1,6 @@
 ---
 title: BasicProgressBarUI.setCellSpacing()
-permalink: Java/BasicProgressBarUI/setCellSpacing
+permalink: /Java/BasicProgressBarUI/setCellSpacing/
 date: 2021-01-11
 key: JavaJava.B.BasicProgressBarUI
 category: java

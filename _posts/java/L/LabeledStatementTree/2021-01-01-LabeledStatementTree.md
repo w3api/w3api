@@ -1,8 +1,8 @@
 ---
 title: LabeledStatementTree
-permalink: Java/LabeledStatementTree/
+permalink: /Java/LabeledStatementTree//
 date: 2021-01-11
-key: JavaJava.L.LabeledStatementTree
+key: Java.L.LabeledStatementTree
 category: java
 tags: ['java se']
 sidebar: 

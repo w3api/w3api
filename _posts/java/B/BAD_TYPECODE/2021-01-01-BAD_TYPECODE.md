@@ -1,6 +1,6 @@
 ---
 title: BAD_TYPECODE
-permalink: Java/BAD_TYPECODE
+permalink: /Java/BAD_TYPECODE/
 date: 2021-01-11
 key: JavaJava.B.BAD_TYPECODE
 category: java

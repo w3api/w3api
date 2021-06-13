@@ -1,6 +1,6 @@
 ---
 title: BasicMenuBarUI.uninstallListeners()
-permalink: Java/BasicMenuBarUI/uninstallListeners
+permalink: /Java/BasicMenuBarUI/uninstallListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuBarUI
 category: java

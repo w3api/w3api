@@ -1,6 +1,6 @@
 ---
 title: BasicPermission.getActions()
-permalink: Java/BasicPermission/getActions
+permalink: /Java/BasicPermission/getActions/
 date: 2021-01-11
 key: JavaJava.B.BasicPermission
 category: java

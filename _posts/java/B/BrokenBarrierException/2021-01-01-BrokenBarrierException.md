@@ -1,6 +1,6 @@
 ---
 title: BrokenBarrierException
-permalink: Java/BrokenBarrierException
+permalink: /Java/BrokenBarrierException/
 date: 2021-01-11
 key: JavaJava.B.BrokenBarrierException
 category: java

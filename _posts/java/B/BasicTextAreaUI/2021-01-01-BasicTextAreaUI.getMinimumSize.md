@@ -1,6 +1,6 @@
 ---
 title: BasicTextAreaUI.getMinimumSize()
-permalink: Java/BasicTextAreaUI/getMinimumSize
+permalink: /Java/BasicTextAreaUI/getMinimumSize/
 date: 2021-01-11
 key: JavaJava.B.BasicTextAreaUI
 category: java

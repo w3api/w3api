@@ -2,7 +2,7 @@
 title: LayoutPath
 permalink: Java/LayoutPath
 date: 2021-01-11
-key: JavaJava.L.LayoutPath
+key: Java.L.LayoutPath
 category: java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 

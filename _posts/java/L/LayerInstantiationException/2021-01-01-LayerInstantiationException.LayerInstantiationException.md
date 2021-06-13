@@ -1,8 +1,8 @@
 ---
 title: LayerInstantiationException.LayerInstantiationException()
-permalink: Java/LayerInstantiationException/LayerInstantiationException
+permalink: /Java/LayerInstantiationException/LayerInstantiationException/
 date: 2021-01-11
-key: JavaJava.L.LayerInstantiationException
+key: Java.L.LayerInstantiationException
 category: java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

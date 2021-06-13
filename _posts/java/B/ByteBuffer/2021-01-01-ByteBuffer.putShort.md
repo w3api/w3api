@@ -1,6 +1,6 @@
 ---
 title: ByteBuffer.putShort()
-permalink: Java/ByteBuffer/putShort
+permalink: /Java/ByteBuffer/putShort/
 date: 2021-01-11
 key: JavaJava.B.ByteBuffer
 category: java

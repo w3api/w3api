@@ -2,7 +2,7 @@
 title: ListSelectionModel.setLeadSelectionIndex()
 permalink: Java/ListSelectionModel/setLeadSelectionIndex
 date: 2021-01-11
-key: JavaJava.L.ListSelectionModel
+key: Java.L.ListSelectionModel
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicDirectoryModel.indexOf()
-permalink: Java/BasicDirectoryModel/indexOf
+permalink: /Java/BasicDirectoryModel/indexOf/
 date: 2021-01-11
 key: JavaJava.B.BasicDirectoryModel
 category: java

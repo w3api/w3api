@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.paintContentBorderTopEdge()
-permalink: Java/BasicTabbedPaneUI/paintContentBorderTopEdge
+permalink: /Java/BasicTabbedPaneUI/paintContentBorderTopEdge/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

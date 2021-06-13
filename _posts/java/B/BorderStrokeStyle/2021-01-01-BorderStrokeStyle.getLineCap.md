@@ -1,6 +1,6 @@
 ---
 title: BorderStrokeStyle.getLineCap()
-permalink: Java/BorderStrokeStyle/getLineCap
+permalink: /Java/BorderStrokeStyle/getLineCap/
 date: 2021-01-11
 key: JavaJava.B.BorderStrokeStyle
 category: java

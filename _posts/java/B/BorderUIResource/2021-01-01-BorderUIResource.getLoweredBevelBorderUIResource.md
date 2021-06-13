@@ -1,6 +1,6 @@
 ---
 title: BorderUIResource.getLoweredBevelBorderUIResource()
-permalink: Java/BorderUIResource/getLoweredBevelBorderUIResource
+permalink: /Java/BorderUIResource/getLoweredBevelBorderUIResource/
 date: 2021-01-11
 key: JavaJava.B.BorderUIResource
 category: java

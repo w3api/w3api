@@ -1,8 +1,8 @@
 ---
 title: LSException
-permalink: Java/LSException
+permalink: /Java/LSException/
 date: 2021-01-11
-key: JavaJava.L.LSException
+key: Java.L.LSException
 category: java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'clase java', 'Java 1.5']
 sidebar: 

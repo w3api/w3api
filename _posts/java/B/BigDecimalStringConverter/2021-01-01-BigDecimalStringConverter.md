@@ -1,6 +1,6 @@
 ---
 title: BigDecimalStringConverter
-permalink: Java/BigDecimalStringConverter
+permalink: /Java/BigDecimalStringConverter/
 date: 2021-01-11
 key: JavaJava.B.BigDecimalStringConverter
 category: java

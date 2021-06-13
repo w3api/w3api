@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_TRANSFER_RANGE
-permalink: Java/BaselineTIFFTagSet/TAG_TRANSFER_RANGE
+permalink: /Java/BaselineTIFFTagSet/TAG_TRANSFER_RANGE/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BandedSampleModel.createSubsetSampleModel()
-permalink: Java/BandedSampleModel/createSubsetSampleModel
+permalink: /Java/BandedSampleModel/createSubsetSampleModel/
 date: 2021-01-11
 key: JavaJava.B.BandedSampleModel
 category: java

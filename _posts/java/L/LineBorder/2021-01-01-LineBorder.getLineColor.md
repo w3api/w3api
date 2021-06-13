@@ -1,8 +1,8 @@
 ---
 title: LineBorder.getLineColor()
-permalink: Java/LineBorder/getLineColor
+permalink: /Java/LineBorder/getLineColor/
 date: 2021-01-11
-key: JavaJava.L.LineBorder
+key: Java.L.LineBorder
 category: java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

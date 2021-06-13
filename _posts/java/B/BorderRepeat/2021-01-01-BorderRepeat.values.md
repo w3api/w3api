@@ -1,8 +1,8 @@
 ---
 title: BorderRepeat.values()
-permalink: Java/BorderRepeat/values
+permalink: /Java/BorderRepeat/values/
 date: 2021-01-11
-key: JavaJava.B.BorderRepeat
+key: Java.B.BorderRepeat
 category: java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

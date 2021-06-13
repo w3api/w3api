@@ -1,6 +1,6 @@
 ---
 title: BasicOptionPaneUI.ButtonAreaLayout.padding
-permalink: Java/BasicOptionPaneUI/ButtonAreaLayout/padding
+permalink: /Java/BasicOptionPaneUI/ButtonAreaLayout/padding/
 date: 2021-01-11
 key: JavaJava.B.BasicOptionPaneUI.ButtonAreaLayout
 category: java

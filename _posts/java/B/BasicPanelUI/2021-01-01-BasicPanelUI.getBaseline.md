@@ -1,6 +1,6 @@
 ---
 title: BasicPanelUI.getBaseline()
-permalink: Java/BasicPanelUI/getBaseline
+permalink: /Java/BasicPanelUI/getBaseline/
 date: 2021-01-11
 key: JavaJava.B.BasicPanelUI
 category: java

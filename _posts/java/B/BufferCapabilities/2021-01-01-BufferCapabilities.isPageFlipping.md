@@ -1,6 +1,6 @@
 ---
 title: BufferCapabilities.isPageFlipping()
-permalink: Java/BufferCapabilities/isPageFlipping
+permalink: /Java/BufferCapabilities/isPageFlipping/
 date: 2021-01-11
 key: JavaJava.B.BufferCapabilities
 category: java

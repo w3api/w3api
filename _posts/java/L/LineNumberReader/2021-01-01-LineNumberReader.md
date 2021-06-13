@@ -2,7 +2,7 @@
 title: LineNumberReader
 permalink: Java/LineNumberReader
 date: 2021-01-11
-key: JavaJava.L.LineNumberReader
+key: Java.L.LineNumberReader
 category: java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

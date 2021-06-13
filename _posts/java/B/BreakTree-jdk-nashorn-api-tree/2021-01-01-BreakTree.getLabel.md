@@ -1,6 +1,6 @@
 ---
 title: BreakTree.getLabel()
-permalink: Java/BreakTree-jdk-nashorn-api-tree/getLabel
+permalink: /Java/BreakTree-jdk-nashorn-api-tree/getLabel/
 date: 2021-01-11
 key: JavaJava.B.BreakTree-jdk-nashorn-api-tree
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BindingHolder
-permalink: Java/BindingHolder
+permalink: /Java/BindingHolder/
 date: 2021-01-11
-key: JavaJava.B.BindingHolder
+key: Java.B.BindingHolder
 category: java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

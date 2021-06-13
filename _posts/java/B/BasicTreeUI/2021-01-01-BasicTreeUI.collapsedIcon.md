@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.collapsedIcon
-permalink: Java/BasicTreeUI/collapsedIcon
+permalink: /Java/BasicTreeUI/collapsedIcon/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

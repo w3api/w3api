@@ -1,6 +1,6 @@
 ---
 title: BasicMenuBarUI.menuBar
-permalink: Java/BasicMenuBarUI/menuBar
+permalink: /Java/BasicMenuBarUI/menuBar/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuBarUI
 category: java

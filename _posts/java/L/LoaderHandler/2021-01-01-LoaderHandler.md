@@ -1,8 +1,8 @@
 ---
 title: LoaderHandler
-permalink: Java/LoaderHandler
+permalink: /Java/LoaderHandler/
 date: 2021-01-11
-key: JavaJava.L.LoaderHandler
+key: Java.L.LoaderHandler
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'interface java', 'Java 1.1']
 sidebar: 

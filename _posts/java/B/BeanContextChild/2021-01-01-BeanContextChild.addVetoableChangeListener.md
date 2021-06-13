@@ -1,6 +1,6 @@
 ---
 title: BeanContextChild.addVetoableChangeListener()
-permalink: Java/BeanContextChild/addVetoableChangeListener
+permalink: /Java/BeanContextChild/addVetoableChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BeanContextChild
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.BCSIterator
-permalink: Java/BeanContextSupport/BCSIterator
+permalink: /Java/BeanContextSupport/BCSIterator/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport.BCSIterator
 category: java

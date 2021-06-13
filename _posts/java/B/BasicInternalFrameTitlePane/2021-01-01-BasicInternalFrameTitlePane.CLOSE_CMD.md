@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.CLOSE_CMD
-permalink: Java/BasicInternalFrameTitlePane/CLOSE_CMD
+permalink: /Java/BasicInternalFrameTitlePane/CLOSE_CMD/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

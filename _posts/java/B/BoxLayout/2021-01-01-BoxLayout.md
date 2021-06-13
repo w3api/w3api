@@ -1,6 +1,6 @@
 ---
 title: BoxLayout
-permalink: Java/BoxLayout
+permalink: /Java/BoxLayout/
 date: 2021-01-11
 key: JavaJava.B.BoxLayout
 category: java

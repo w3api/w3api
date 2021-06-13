@@ -1,6 +1,6 @@
 ---
 title: BeanContextChild.addPropertyChangeListener()
-permalink: Java/BeanContextChild/addPropertyChangeListener
+permalink: /Java/BeanContextChild/addPropertyChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BeanContextChild
 category: java

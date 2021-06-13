@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_Y_RESOLUTION
-permalink: Java/BaselineTIFFTagSet/TAG_Y_RESOLUTION
+permalink: /Java/BaselineTIFFTagSet/TAG_Y_RESOLUTION/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

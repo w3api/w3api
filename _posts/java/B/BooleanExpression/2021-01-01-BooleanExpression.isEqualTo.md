@@ -1,6 +1,6 @@
 ---
 title: BooleanExpression.isEqualTo()
-permalink: Java/BooleanExpression/isEqualTo
+permalink: /Java/BooleanExpression/isEqualTo/
 date: 2021-01-11
 key: JavaJava.B.BooleanExpression
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BadAttributeValueExpException
-permalink: Java/BadAttributeValueExpException
+permalink: /Java/BadAttributeValueExpException/
 date: 2021-01-11
 key: JavaJava.B.BadAttributeValueExpException
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicEditorPaneUI.BasicEditorPaneUI()
-permalink: Java/BasicEditorPaneUI/BasicEditorPaneUI
+permalink: /Java/BasicEditorPaneUI/BasicEditorPaneUI/
 date: 2021-01-11
 key: JavaJava.B.BasicEditorPaneUI
 category: java

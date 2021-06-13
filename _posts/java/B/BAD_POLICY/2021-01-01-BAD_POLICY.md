@@ -1,8 +1,8 @@
 ---
 title: BAD_POLICY
-permalink: Java/BAD_POLICY
+permalink: /Java/BAD_POLICY/
 date: 2021-01-11
-key: JavaJava.B.BAD_POLICY
+key: Java.B.BAD_POLICY
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

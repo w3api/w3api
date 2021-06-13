@@ -1,6 +1,6 @@
 ---
 title: ButtonType.OK
-permalink: Java/ButtonType/OK
+permalink: /Java/ButtonType/OK/
 date: 2021-01-11
 key: JavaJava.B.ButtonType
 category: java

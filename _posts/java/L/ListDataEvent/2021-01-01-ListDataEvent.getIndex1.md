@@ -2,7 +2,7 @@
 title: ListDataEvent.getIndex1()
 permalink: Java/ListDataEvent/getIndex1
 date: 2021-01-11
-key: JavaJava.L.ListDataEvent
+key: Java.L.ListDataEvent
 category: java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

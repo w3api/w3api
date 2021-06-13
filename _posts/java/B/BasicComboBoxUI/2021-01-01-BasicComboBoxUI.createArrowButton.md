@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.createArrowButton()
-permalink: Java/BasicComboBoxUI/createArrowButton
+permalink: /Java/BasicComboBoxUI/createArrowButton/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

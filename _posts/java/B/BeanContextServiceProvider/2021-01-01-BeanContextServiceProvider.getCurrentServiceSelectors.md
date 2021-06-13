@@ -1,6 +1,6 @@
 ---
 title: BeanContextServiceProvider.getCurrentServiceSelectors()
-permalink: Java/BeanContextServiceProvider/getCurrentServiceSelectors
+permalink: /Java/BeanContextServiceProvider/getCurrentServiceSelectors/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServiceProvider
 category: java

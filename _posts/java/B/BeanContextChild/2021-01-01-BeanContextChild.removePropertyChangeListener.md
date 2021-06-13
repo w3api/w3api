@@ -1,6 +1,6 @@
 ---
 title: BeanContextChild.removePropertyChangeListener()
-permalink: Java/BeanContextChild/removePropertyChangeListener
+permalink: /Java/BeanContextChild/removePropertyChangeListener/
 date: 2021-01-11
 key: JavaJava.B.BeanContextChild
 category: java

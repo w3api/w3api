@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.startEditingAtPath()
-permalink: Java/BasicTreeUI/startEditingAtPath
+permalink: /Java/BasicTreeUI/startEditingAtPath/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

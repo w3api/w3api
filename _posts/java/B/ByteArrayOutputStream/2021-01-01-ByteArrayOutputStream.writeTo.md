@@ -1,6 +1,6 @@
 ---
 title: ByteArrayOutputStream.writeTo()
-permalink: Java/ByteArrayOutputStream/writeTo
+permalink: /Java/ByteArrayOutputStream/writeTo/
 date: 2021-01-11
 key: JavaJava.B.ByteArrayOutputStream
 category: java

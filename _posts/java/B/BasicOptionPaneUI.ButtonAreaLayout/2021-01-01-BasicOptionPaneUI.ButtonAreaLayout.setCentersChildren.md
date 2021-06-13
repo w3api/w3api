@@ -1,6 +1,6 @@
 ---
 title: BasicOptionPaneUI.ButtonAreaLayout.setCentersChildren()
-permalink: Java/BasicOptionPaneUI/ButtonAreaLayout/setCentersChildren
+permalink: /Java/BasicOptionPaneUI/ButtonAreaLayout/setCentersChildren/
 date: 2021-01-11
 key: JavaJava.B.BasicOptionPaneUI.ButtonAreaLayout
 category: java

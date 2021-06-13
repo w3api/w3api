@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.unconfigureArrowButton()
-permalink: Java/BasicComboBoxUI/unconfigureArrowButton
+permalink: /Java/BasicComboBoxUI/unconfigureArrowButton/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

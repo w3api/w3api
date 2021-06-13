@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.createUI()
-permalink: Java/BasicSpinnerUI/createUI
+permalink: /Java/BasicSpinnerUI/createUI/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BindingTypeHelper
-permalink: Java/BindingTypeHelper
+permalink: /Java/BindingTypeHelper/
 date: 2021-01-11
-key: JavaJava.B.BindingTypeHelper
+key: Java.B.BindingTypeHelper
 category: java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

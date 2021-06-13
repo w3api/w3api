@@ -1,6 +1,6 @@
 ---
 title: BasicComboPopup.autoScrollDown()
-permalink: Java/BasicComboPopup/autoScrollDown
+permalink: /Java/BasicComboPopup/autoScrollDown/
 date: 2021-01-11
 key: JavaJava.B.BasicComboPopup
 category: java

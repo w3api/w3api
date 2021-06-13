@@ -2,7 +2,7 @@
 title: ECPublicKeySpec.getParams()
 permalink: Java/ECPublicKeySpec/getParams
 date: 2021-01-11
-key: JavaJava.E.ECPublicKeySpec
+key: Java.E.ECPublicKeySpec
 category: java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

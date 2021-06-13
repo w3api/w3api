@@ -1,8 +1,8 @@
 ---
 title: LexicalHandler.comment()
-permalink: Java/LexicalHandler/comment
+permalink: /Java/LexicalHandler/comment/
 date: 2021-01-11
-key: JavaJava.L.LexicalHandler
+key: Java.L.LexicalHandler
 category: java
 tags: ['java se', 'org.xml.sax.ext', 'java.xml', 'metodo java', 'Java 1.4', 'SAX 2.0 (extensions Java 1.0)']
 sidebar: 

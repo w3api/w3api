@@ -1,6 +1,6 @@
 ---
 title: BAD_INV_ORDER
-permalink: Java/BAD_INV_ORDER
+permalink: /Java/BAD_INV_ORDER/
 date: 2021-01-11
 key: JavaJava.B.BAD_INV_ORDER
 category: java

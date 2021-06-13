@@ -1,8 +1,8 @@
 ---
 title: ListBinding.unbind()
-permalink: Java/ListBinding/unbind
+permalink: /Java/ListBinding/unbind/
 date: 2021-01-11
-key: JavaJava.L.ListBinding
+key: Java.L.ListBinding
 category: java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ByteStringConverter.ByteStringConverter()
-permalink: Java/ByteStringConverter/ByteStringConverter
+permalink: /Java/ByteStringConverter/ByteStringConverter/
 date: 2021-01-11
-key: JavaJava.B.ByteStringConverter
+key: Java.B.ByteStringConverter
 category: java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

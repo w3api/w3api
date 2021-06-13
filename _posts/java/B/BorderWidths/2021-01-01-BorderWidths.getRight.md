@@ -1,6 +1,6 @@
 ---
 title: BorderWidths.getRight()
-permalink: Java/BorderWidths/getRight
+permalink: /Java/BorderWidths/getRight/
 date: 2021-01-11
 key: JavaJava.B.BorderWidths
 category: java

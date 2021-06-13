@@ -1,6 +1,6 @@
 ---
 title: BasicToolBarUI.leftKey
-permalink: Java/BasicToolBarUI/leftKey
+permalink: /Java/BasicToolBarUI/leftKey/
 date: 2021-01-11
 key: JavaJava.B.BasicToolBarUI
 category: java

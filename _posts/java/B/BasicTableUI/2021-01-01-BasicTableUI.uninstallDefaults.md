@@ -1,6 +1,6 @@
 ---
 title: BasicTableUI.uninstallDefaults()
-permalink: Java/BasicTableUI/uninstallDefaults
+permalink: /Java/BasicTableUI/uninstallDefaults/
 date: 2021-01-11
 key: JavaJava.B.BasicTableUI
 category: java

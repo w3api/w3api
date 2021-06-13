@@ -1,6 +1,6 @@
 ---
 title: BoundedRangeModel.getMaximum()
-permalink: Java/BoundedRangeModel/getMaximum
+permalink: /Java/BoundedRangeModel/getMaximum/
 date: 2021-01-11
 key: JavaJava.B.BoundedRangeModel
 category: java

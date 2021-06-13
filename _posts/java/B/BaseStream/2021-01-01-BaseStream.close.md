@@ -1,6 +1,6 @@
 ---
 title: BaseStream.close()
-permalink: Java/BaseStream/close
+permalink: /Java/BaseStream/close/
 date: 2021-01-11
 key: JavaJava.B.BaseStream
 category: java

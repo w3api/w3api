@@ -1,6 +1,6 @@
 ---
 title: BasicRadioButtonMenuItemUI.BasicRadioButtonMenuItemUI()
-permalink: Java/BasicRadioButtonMenuItemUI/BasicRadioButtonMenuItemUI
+permalink: /Java/BasicRadioButtonMenuItemUI/BasicRadioButtonMenuItemUI/
 date: 2021-01-11
 key: JavaJava.B.BasicRadioButtonMenuItemUI
 category: java

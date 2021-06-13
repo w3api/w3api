@@ -1,6 +1,6 @@
 ---
 title: BasicSpinnerUI.createEditor()
-permalink: Java/BasicSpinnerUI/createEditor
+permalink: /Java/BasicSpinnerUI/createEditor/
 date: 2021-01-11
 key: JavaJava.B.BasicSpinnerUI
 category: java

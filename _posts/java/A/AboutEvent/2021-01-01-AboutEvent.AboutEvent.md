@@ -1,8 +1,8 @@
 ---
 title: AboutEvent.AboutEvent()
-permalink: Java/AboutEvent/AboutEvent
+permalink: /Java/AboutEvent/AboutEvent/
 date: 2021-01-11
-key: JavaJava.A.AboutEvent
+key: Java.A.AboutEvent
 category: java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 

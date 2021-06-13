@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.getRolloverTab()
-permalink: Java/BasicTabbedPaneUI/getRolloverTab
+permalink: /Java/BasicTabbedPaneUI/getRolloverTab/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BindingProvider.SESSION_MAINTAIN_PROPERTY
-permalink: Java/BindingProvider/SESSION_MAINTAIN_PROPERTY
+permalink: /Java/BindingProvider/SESSION_MAINTAIN_PROPERTY/
 date: 2021-01-11
 key: JavaJava.B.BindingProvider
 category: java

@@ -2,7 +2,7 @@
 title: LinkedList.descendingIterator()
 permalink: Java/LinkedList/descendingIterator
 date: 2021-01-11
-key: JavaJava.L.LinkedList
+key: Java.L.LinkedList
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BasicListUI.focusListener
-permalink: Java/BasicListUI/focusListener
+permalink: /Java/BasicListUI/focusListener/
 date: 2021-01-11
 key: JavaJava.B.BasicListUI
 category: java

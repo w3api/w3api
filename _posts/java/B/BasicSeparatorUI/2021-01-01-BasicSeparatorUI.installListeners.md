@@ -1,6 +1,6 @@
 ---
 title: BasicSeparatorUI.installListeners()
-permalink: Java/BasicSeparatorUI/installListeners
+permalink: /Java/BasicSeparatorUI/installListeners/
 date: 2021-01-11
 key: JavaJava.B.BasicSeparatorUI
 category: java

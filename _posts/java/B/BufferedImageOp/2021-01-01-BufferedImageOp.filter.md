@@ -1,6 +1,6 @@
 ---
 title: BufferedImageOp.filter()
-permalink: Java/BufferedImageOp/filter
+permalink: /Java/BufferedImageOp/filter/
 date: 2021-01-11
 key: JavaJava.B.BufferedImageOp
 category: java

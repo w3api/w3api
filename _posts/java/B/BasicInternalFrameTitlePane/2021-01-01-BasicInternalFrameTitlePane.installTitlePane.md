@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.installTitlePane()
-permalink: Java/BasicInternalFrameTitlePane/installTitlePane
+permalink: /Java/BasicInternalFrameTitlePane/installTitlePane/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

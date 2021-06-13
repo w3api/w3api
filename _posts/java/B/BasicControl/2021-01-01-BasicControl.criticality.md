@@ -1,6 +1,6 @@
 ---
 title: BasicControl.criticality
-permalink: Java/BasicControl/criticality
+permalink: /Java/BasicControl/criticality/
 date: 2021-01-11
 key: JavaJava.B.BasicControl
 category: java

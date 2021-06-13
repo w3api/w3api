@@ -1,8 +1,8 @@
 ---
 title: ButtonModel.getActionCommand()
-permalink: Java/ButtonModel/getActionCommand
+permalink: /Java/ButtonModel/getActionCommand/
 date: 2021-01-11
-key: JavaJava.B.ButtonModel
+key: Java.B.ButtonModel
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

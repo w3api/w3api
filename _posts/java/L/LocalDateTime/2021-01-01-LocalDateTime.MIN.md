@@ -1,8 +1,8 @@
 ---
 title: LocalDateTime.MIN
-permalink: Java/LocalDateTime/MIN
+permalink: /Java/LocalDateTime/MIN/
 date: 2021-01-11
-key: JavaJava.L.LocalDateTime
+key: Java.L.LocalDateTime
 category: java
 tags: ['java se', 'java.time', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 

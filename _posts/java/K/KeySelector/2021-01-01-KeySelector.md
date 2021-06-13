@@ -1,6 +1,6 @@
 ---
 title: KeySelector
-permalink: Java/KeySelector
+permalink: /Java/KeySelector/
 date: 2021-01-11
 key: JavaJava.K.KeySelector
 category: java

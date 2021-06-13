@@ -1,6 +1,6 @@
 ---
 title: BorderImage.getInsets()
-permalink: Java/BorderImage/getInsets
+permalink: /Java/BorderImage/getInsets/
 date: 2021-01-11
 key: JavaJava.B.BorderImage
 category: java

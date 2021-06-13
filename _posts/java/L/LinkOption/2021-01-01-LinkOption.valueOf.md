@@ -2,7 +2,7 @@
 title: LinkOption.valueOf()
 permalink: Java/LinkOption/valueOf
 date: 2021-01-11
-key: JavaJava.L.LinkOption
+key: Java.L.LinkOption
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

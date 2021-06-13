@@ -1,6 +1,6 @@
 ---
 title: ButtonType.FINISH
-permalink: Java/ButtonType/FINISH
+permalink: /Java/ButtonType/FINISH/
 date: 2021-01-11
 key: JavaJava.B.ButtonType
 category: java

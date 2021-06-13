@@ -1,8 +1,8 @@
 ---
 title: BasicFileChooserUI.cancelButtonText
-permalink: Java/BasicFileChooserUI/cancelButtonText
+permalink: /Java/BasicFileChooserUI/cancelButtonText/
 date: 2021-01-11
-key: JavaJava.B.BasicFileChooserUI
+key: Java.B.BasicFileChooserUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: BigDecimal.ROUND_DOWN
-permalink: Java/BigDecimal/ROUND_DOWN
+permalink: /Java/BigDecimal/ROUND_DOWN/
 date: 2021-01-11
 key: JavaJava.B.BigDecimal
 category: java

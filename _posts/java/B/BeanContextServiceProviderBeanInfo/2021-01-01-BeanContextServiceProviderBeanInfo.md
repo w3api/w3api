@@ -1,6 +1,6 @@
 ---
 title: BeanContextServiceProviderBeanInfo
-permalink: Java/BeanContextServiceProviderBeanInfo
+permalink: /Java/BeanContextServiceProviderBeanInfo/
 date: 2021-01-11
 key: JavaJava.B.BeanContextServiceProviderBeanInfo
 category: java

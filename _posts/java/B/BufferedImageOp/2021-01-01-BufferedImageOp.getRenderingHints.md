@@ -1,6 +1,6 @@
 ---
 title: BufferedImageOp.getRenderingHints()
-permalink: Java/BufferedImageOp/getRenderingHints
+permalink: /Java/BufferedImageOp/getRenderingHints/
 date: 2021-01-11
 key: JavaJava.B.BufferedImageOp
 category: java

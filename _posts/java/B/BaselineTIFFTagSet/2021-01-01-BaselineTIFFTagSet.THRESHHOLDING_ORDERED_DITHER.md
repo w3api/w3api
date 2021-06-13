@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.THRESHHOLDING_ORDERED_DITHER
-permalink: Java/BaselineTIFFTagSet/THRESHHOLDING_ORDERED_DITHER
+permalink: /Java/BaselineTIFFTagSet/THRESHHOLDING_ORDERED_DITHER/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

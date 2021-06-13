@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.getTabRunOffset()
-permalink: Java/BasicTabbedPaneUI/getTabRunOffset
+permalink: /Java/BasicTabbedPaneUI/getTabRunOffset/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

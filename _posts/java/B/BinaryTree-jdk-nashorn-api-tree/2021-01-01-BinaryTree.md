@@ -1,8 +1,8 @@
 ---
 title: BinaryTree
-permalink: Java/BinaryTree-jdk-nashorn-api-tree
+permalink: /Java/BinaryTree-jdk-nashorn-api-tree/
 date: 2021-01-11
-key: JavaJava.B.BinaryTree-jdk-nashorn-api-tree
+key: Java.B.BinaryTree-jdk-nashorn-api-tree
 category: java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 9']
 sidebar: 

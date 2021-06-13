@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.SUBFILE_TYPE_FULL_RESOLUTION
-permalink: Java/BaselineTIFFTagSet/SUBFILE_TYPE_FULL_RESOLUTION
+permalink: /Java/BaselineTIFFTagSet/SUBFILE_TYPE_FULL_RESOLUTION/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

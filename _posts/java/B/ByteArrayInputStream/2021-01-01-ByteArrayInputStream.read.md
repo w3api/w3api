@@ -1,6 +1,6 @@
 ---
 title: ByteArrayInputStream.read()
-permalink: Java/ByteArrayInputStream/read
+permalink: /Java/ByteArrayInputStream/read/
 date: 2021-01-11
 key: JavaJava.B.ByteArrayInputStream
 category: java

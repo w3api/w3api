@@ -1,6 +1,6 @@
 ---
 title: BeanContextSupport.getResource()
-permalink: Java/BeanContextSupport/getResource
+permalink: /Java/BeanContextSupport/getResource/
 date: 2021-01-11
 key: JavaJava.B.BeanContextSupport
 category: java

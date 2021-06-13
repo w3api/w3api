@@ -1,6 +1,6 @@
 ---
 title: ButtonBase.isArmed()
-permalink: Java/ButtonBase/isArmed
+permalink: /Java/ButtonBase/isArmed/
 date: 2021-01-11
 key: JavaJava.B.ButtonBase
 category: java

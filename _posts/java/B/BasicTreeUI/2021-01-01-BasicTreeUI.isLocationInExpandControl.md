@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.isLocationInExpandControl()
-permalink: Java/BasicTreeUI/isLocationInExpandControl
+permalink: /Java/BasicTreeUI/isLocationInExpandControl/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

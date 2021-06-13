@@ -1,6 +1,6 @@
 ---
 title: BootstrapMethodError
-permalink: Java/BootstrapMethodError
+permalink: /Java/BootstrapMethodError/
 date: 2021-01-11
 key: JavaJava.B.BootstrapMethodError
 category: java

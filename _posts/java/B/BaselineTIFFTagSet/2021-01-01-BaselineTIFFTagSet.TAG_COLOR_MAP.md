@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.TAG_COLOR_MAP
-permalink: Java/BaselineTIFFTagSet/TAG_COLOR_MAP
+permalink: /Java/BaselineTIFFTagSet/TAG_COLOR_MAP/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

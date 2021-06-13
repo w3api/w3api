@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.createFocusListener()
-permalink: Java/BasicTabbedPaneUI/createFocusListener
+permalink: /Java/BasicTabbedPaneUI/createFocusListener/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

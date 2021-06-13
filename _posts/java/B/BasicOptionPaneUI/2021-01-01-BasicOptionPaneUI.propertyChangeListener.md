@@ -1,8 +1,8 @@
 ---
 title: BasicOptionPaneUI.propertyChangeListener
-permalink: Java/BasicOptionPaneUI/propertyChangeListener
+permalink: /Java/BasicOptionPaneUI/propertyChangeListener/
 date: 2021-01-11
-key: JavaJava.B.BasicOptionPaneUI
+key: Java.B.BasicOptionPaneUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

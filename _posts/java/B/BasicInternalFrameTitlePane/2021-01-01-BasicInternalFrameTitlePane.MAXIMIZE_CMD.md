@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.MAXIMIZE_CMD
-permalink: Java/BasicInternalFrameTitlePane/MAXIMIZE_CMD
+permalink: /Java/BasicInternalFrameTitlePane/MAXIMIZE_CMD/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

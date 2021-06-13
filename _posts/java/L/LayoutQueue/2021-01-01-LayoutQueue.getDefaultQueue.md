@@ -1,8 +1,8 @@
 ---
 title: LayoutQueue.getDefaultQueue()
-permalink: Java/LayoutQueue/getDefaultQueue
+permalink: /Java/LayoutQueue/getDefaultQueue/
 date: 2021-01-11
-key: JavaJava.L.LayoutQueue
+key: Java.L.LayoutQueue
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

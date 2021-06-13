@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.createUI()
-permalink: Java/BasicTabbedPaneUI/createUI
+permalink: /Java/BasicTabbedPaneUI/createUI/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

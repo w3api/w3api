@@ -1,6 +1,6 @@
 ---
 title: BubbleChart.updateAxisRange()
-permalink: Java/BubbleChart/updateAxisRange
+permalink: /Java/BubbleChart/updateAxisRange/
 date: 2021-01-11
 key: JavaJava.B.BubbleChart
 category: java

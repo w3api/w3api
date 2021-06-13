@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.getPreferredMinSize()
-permalink: Java/BasicTreeUI/getPreferredMinSize
+permalink: /Java/BasicTreeUI/getPreferredMinSize/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

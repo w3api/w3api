@@ -1,6 +1,6 @@
 ---
 title: BufferCapabilities.FlipContents.COPIED
-permalink: Java/BufferCapabilities/FlipContents/COPIED
+permalink: /Java/BufferCapabilities/FlipContents/COPIED/
 date: 2021-01-11
 key: JavaJava.B.BufferCapabilities.FlipContents
 category: java

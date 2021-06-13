@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.selectNextPossibleValue()
-permalink: Java/BasicComboBoxUI/selectNextPossibleValue
+permalink: /Java/BasicComboBoxUI/selectNextPossibleValue/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

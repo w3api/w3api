@@ -2,7 +2,7 @@
 title: LayeredHighlighter.LayerPainter.LayeredHighlighter.LayerPainter()
 permalink: Java/LayeredHighlighter/LayerPainter/LayeredHighlighter/LayerPainter
 date: 2021-01-11
-key: JavaJava.L.LayeredHighlighter.LayerPainter
+key: Java.L.LayeredHighlighter.LayerPainter
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

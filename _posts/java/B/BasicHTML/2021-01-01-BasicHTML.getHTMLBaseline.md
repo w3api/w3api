@@ -1,8 +1,8 @@
 ---
 title: BasicHTML.getHTMLBaseline()
-permalink: Java/BasicHTML/getHTMLBaseline
+permalink: /Java/BasicHTML/getHTMLBaseline/
 date: 2021-01-11
-key: JavaJava.B.BasicHTML
+key: Java.B.BasicHTML
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: BasicLookAndFeel.initComponentDefaults()
-permalink: Java/BasicLookAndFeel/initComponentDefaults
+permalink: /Java/BasicLookAndFeel/initComponentDefaults/
 date: 2021-01-11
-key: JavaJava.B.BasicLookAndFeel
+key: Java.B.BasicLookAndFeel
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

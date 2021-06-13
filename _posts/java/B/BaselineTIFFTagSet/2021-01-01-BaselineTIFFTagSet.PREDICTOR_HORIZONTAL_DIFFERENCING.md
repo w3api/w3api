@@ -1,6 +1,6 @@
 ---
 title: BaselineTIFFTagSet.PREDICTOR_HORIZONTAL_DIFFERENCING
-permalink: Java/BaselineTIFFTagSet/PREDICTOR_HORIZONTAL_DIFFERENCING
+permalink: /Java/BaselineTIFFTagSet/PREDICTOR_HORIZONTAL_DIFFERENCING/
 date: 2021-01-11
 key: JavaJava.B.BaselineTIFFTagSet
 category: java

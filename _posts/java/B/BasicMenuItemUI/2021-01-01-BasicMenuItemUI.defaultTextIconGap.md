@@ -1,6 +1,6 @@
 ---
 title: BasicMenuItemUI.defaultTextIconGap
-permalink: Java/BasicMenuItemUI/defaultTextIconGap
+permalink: /Java/BasicMenuItemUI/defaultTextIconGap/
 date: 2021-01-11
 key: JavaJava.B.BasicMenuItemUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.popupKeyListener
-permalink: Java/BasicComboBoxUI/popupKeyListener
+permalink: /Java/BasicComboBoxUI/popupKeyListener/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

@@ -1,6 +1,6 @@
 ---
 title: BufferedInputStream.pos
-permalink: Java/BufferedInputStream/pos
+permalink: /Java/BufferedInputStream/pos/
 date: 2021-01-11
 key: JavaJava.B.BufferedInputStream
 category: java

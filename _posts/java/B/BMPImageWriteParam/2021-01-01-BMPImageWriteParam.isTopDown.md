@@ -1,6 +1,6 @@
 ---
 title: BMPImageWriteParam.isTopDown()
-permalink: Java/BMPImageWriteParam/isTopDown
+permalink: /Java/BMPImageWriteParam/isTopDown/
 date: 2021-01-11
 key: JavaJava.B.BMPImageWriteParam
 category: java

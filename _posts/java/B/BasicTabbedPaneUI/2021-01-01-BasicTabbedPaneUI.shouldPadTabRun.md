@@ -1,6 +1,6 @@
 ---
 title: BasicTabbedPaneUI.shouldPadTabRun()
-permalink: Java/BasicTabbedPaneUI/shouldPadTabRun
+permalink: /Java/BasicTabbedPaneUI/shouldPadTabRun/
 date: 2021-01-11
 key: JavaJava.B.BasicTabbedPaneUI
 category: java

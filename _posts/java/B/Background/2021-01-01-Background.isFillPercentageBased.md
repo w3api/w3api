@@ -1,6 +1,6 @@
 ---
 title: Background.isFillPercentageBased()
-permalink: Java/Background/isFillPercentageBased
+permalink: /Java/Background/isFillPercentageBased/
 date: 2021-01-11
 key: JavaJava.B.Background
 category: java

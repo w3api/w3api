@@ -1,6 +1,6 @@
 ---
 title: BasicInternalFrameTitlePane.createLayout()
-permalink: Java/BasicInternalFrameTitlePane/createLayout
+permalink: /Java/BasicInternalFrameTitlePane/createLayout/
 date: 2021-01-11
 key: JavaJava.B.BasicInternalFrameTitlePane
 category: java

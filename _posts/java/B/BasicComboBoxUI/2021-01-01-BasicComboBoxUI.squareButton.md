@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.squareButton
-permalink: Java/BasicComboBoxUI/squareButton
+permalink: /Java/BasicComboBoxUI/squareButton/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java

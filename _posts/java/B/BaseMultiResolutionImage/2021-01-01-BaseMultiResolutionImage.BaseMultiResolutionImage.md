@@ -1,6 +1,6 @@
 ---
 title: BaseMultiResolutionImage.BaseMultiResolutionImage()
-permalink: Java/BaseMultiResolutionImage/BaseMultiResolutionImage
+permalink: /Java/BaseMultiResolutionImage/BaseMultiResolutionImage/
 date: 2021-01-11
 key: JavaJava.B.BaseMultiResolutionImage
 category: java

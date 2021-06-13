@@ -1,8 +1,8 @@
 ---
 title: BasicOptionPaneUI.getMessage()
-permalink: Java/BasicOptionPaneUI/getMessage
+permalink: /Java/BasicOptionPaneUI/getMessage/
 date: 2021-01-11
-key: JavaJava.B.BasicOptionPaneUI
+key: Java.B.BasicOptionPaneUI
 category: java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

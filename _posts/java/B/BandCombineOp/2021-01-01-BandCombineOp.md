@@ -1,6 +1,6 @@
 ---
 title: BandCombineOp
-permalink: Java/BandCombineOp
+permalink: /Java/BandCombineOp/
 date: 2021-01-11
 key: JavaJava.B.BandCombineOp
 category: java

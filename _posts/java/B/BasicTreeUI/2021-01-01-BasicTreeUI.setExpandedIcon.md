@@ -1,6 +1,6 @@
 ---
 title: BasicTreeUI.setExpandedIcon()
-permalink: Java/BasicTreeUI/setExpandedIcon
+permalink: /Java/BasicTreeUI/setExpandedIcon/
 date: 2021-01-11
 key: JavaJava.B.BasicTreeUI
 category: java

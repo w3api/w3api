@@ -1,6 +1,6 @@
 ---
 title: BorderPane.setTop()
-permalink: Java/BorderPane/setTop
+permalink: /Java/BorderPane/setTop/
 date: 2021-01-11
 key: JavaJava.B.BorderPane
 category: java

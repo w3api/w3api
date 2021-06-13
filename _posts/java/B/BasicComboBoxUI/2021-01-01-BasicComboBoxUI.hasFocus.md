@@ -1,6 +1,6 @@
 ---
 title: BasicComboBoxUI.hasFocus
-permalink: Java/BasicComboBoxUI/hasFocus
+permalink: /Java/BasicComboBoxUI/hasFocus/
 date: 2021-01-11
 key: JavaJava.B.BasicComboBoxUI
 category: java
