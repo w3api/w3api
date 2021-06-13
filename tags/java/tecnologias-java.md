@@ -11,7 +11,7 @@ aside:
   toc: true
 ---
 
-Elementos Java organizados por **tipos de tecnologías Java***: 
+Elementos Java organizados por **tipos de tecnologías Java**: 
 
 <ul>
   <li><a href="/Java/tag/java-se/">Java SE</a></li>
