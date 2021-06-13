@@ -3,7 +3,7 @@ title: BeanContextServiceRevokedListener
 permalink: /Java/BeanContextServiceRevokedListener/
 date: 2021-01-11
 key: Java.B.BeanContextServiceRevokedListener
-category: java
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

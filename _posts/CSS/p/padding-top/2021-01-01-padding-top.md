@@ -3,7 +3,7 @@ title: padding-top
 permalink: /CSS/padding-top/
 date: 2021-03-07 03:09:11.748390
 key: CSS.p.padding-top
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

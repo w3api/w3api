@@ -3,7 +3,7 @@ title: outline-offset
 permalink: /CSS/outline-offset/
 date: 2021-03-07 03:08:23.950388
 key: CSS.o.outline-offset
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

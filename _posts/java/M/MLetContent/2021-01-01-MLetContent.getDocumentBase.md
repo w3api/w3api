@@ -3,7 +3,7 @@ title: MLetContent.getDocumentBase()
 permalink: Java/MLetContent/getDocumentBase
 date: 2021-01-11
 key: JavaJava.M.MLetContent
-category: java
+category: Java
 tags: ['java se', 'javax.management.loading', 'java.management', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

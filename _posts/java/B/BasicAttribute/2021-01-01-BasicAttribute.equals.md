@@ -3,7 +3,7 @@ title: BasicAttribute.equals()
 permalink: /Java/BasicAttribute/equals/
 date: 2021-01-11
 key: Java.B.BasicAttribute
-category: java
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

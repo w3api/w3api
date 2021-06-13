@@ -3,7 +3,7 @@ title: text-transform
 permalink: /CSS/text-transform/
 date: 2021-03-07 03:12:34.061187
 key: CSS.t.text-transform
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

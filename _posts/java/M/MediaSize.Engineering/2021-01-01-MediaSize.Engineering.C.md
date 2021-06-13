@@ -3,7 +3,7 @@ title: MediaSize.Engineering.C
 permalink: Java/MediaSize/Engineering/C
 date: 2021-01-11
 key: JavaJava.M.MediaSize.Engineering
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

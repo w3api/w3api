@@ -3,7 +3,7 @@ title: BasicGraphicsUtils.BasicGraphicsUtils()
 permalink: /Java/BasicGraphicsUtils/BasicGraphicsUtils/
 date: 2021-01-11
 key: Java.B.BasicGraphicsUtils
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

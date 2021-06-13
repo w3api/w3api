@@ -3,7 +3,7 @@ title: BorderLayout.NORTH
 permalink: /Java/BorderLayout/NORTH/
 date: 2021-01-11
 key: Java.B.BorderLayout
-category: java
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

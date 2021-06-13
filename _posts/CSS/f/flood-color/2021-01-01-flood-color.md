@@ -3,7 +3,7 @@ title: flood-color
 permalink: /CSS/flood-color/
 date: 2021-03-07 03:02:48.851133
 key: CSS.f.flood-color
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

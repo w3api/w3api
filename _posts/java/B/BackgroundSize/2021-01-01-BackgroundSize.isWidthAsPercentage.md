@@ -3,7 +3,7 @@ title: BackgroundSize.isWidthAsPercentage()
 permalink: /Java/BackgroundSize/isWidthAsPercentage/
 date: 2021-01-11
 key: Java.B.BackgroundSize
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

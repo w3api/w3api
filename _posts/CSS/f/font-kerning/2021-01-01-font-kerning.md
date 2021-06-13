@@ -3,7 +3,7 @@ title: font-kerning
 permalink: /CSS/font-kerning/
 date: 2021-03-07 03:03:02.479625
 key: CSS.f.font-kerning
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

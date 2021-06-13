@@ -3,7 +3,7 @@ title: BeanContextChildSupport.beanContextChildPeer
 permalink: /Java/BeanContextChildSupport/beanContextChildPeer/
 date: 2021-01-11
 key: Java.B.BeanContextChildSupport
-category: java
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: voice-volume
 permalink: /CSS/voice-volume/
 date: 2021-03-07 03:13:36.214131
 key: CSS.v.voice-volume
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

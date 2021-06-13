@@ -3,7 +3,7 @@ title: BeanContextServiceAvailableEvent.getCurrentServiceSelectors()
 permalink: /Java/BeanContextServiceAvailableEvent/getCurrentServiceSelectors/
 date: 2021-01-11
 key: Java.B.BeanContextServiceAvailableEvent
-category: java
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

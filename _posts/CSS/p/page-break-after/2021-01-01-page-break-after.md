@@ -3,7 +3,7 @@ title: page-break-after
 permalink: /CSS/page-break-after/
 date: 2021-03-07 03:09:18.710630
 key: CSS.p.page-break-after
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

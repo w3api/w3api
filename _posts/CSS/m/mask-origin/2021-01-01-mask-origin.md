@@ -3,7 +3,7 @@ title: mask-origin
 permalink: /CSS/mask-origin/
 date: 2021-03-07 03:07:25.850733
 key: CSS.m.mask-origin
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

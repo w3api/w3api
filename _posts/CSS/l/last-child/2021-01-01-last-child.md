@@ -3,7 +3,7 @@ title: last-child
 permalink: /CSS/last-child/
 date: 2021-03-07 02:57:10.354620
 key: CSS.l.last-child
-category: css
+category: CSS
 tags: ['selector css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: shape-outside
 permalink: /CSS/shape-outside/
 date: 2021-03-07 03:11:30.342574
 key: CSS.s.shape-outside
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

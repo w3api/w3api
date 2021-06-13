@@ -3,7 +3,7 @@ title: MonitorInfo
 permalink: Java/MonitorInfo/
 date: 2021-01-11
 key: JavaJava.M.MonitorInfo
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

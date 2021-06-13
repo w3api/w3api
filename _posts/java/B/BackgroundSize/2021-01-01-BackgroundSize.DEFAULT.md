@@ -3,7 +3,7 @@ title: BackgroundSize.DEFAULT
 permalink: /Java/BackgroundSize/DEFAULT/
 date: 2021-01-11
 key: Java.B.BackgroundSize
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

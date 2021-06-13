@@ -3,7 +3,7 @@ title: margin-top
 permalink: /CSS/margin-top/
 date: 2021-03-07 03:06:46.759409
 key: CSS.m.margin-top
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

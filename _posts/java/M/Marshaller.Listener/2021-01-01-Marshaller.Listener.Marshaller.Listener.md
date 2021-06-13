@@ -3,7 +3,7 @@ title: Marshaller.Listener.Marshaller.Listener()
 permalink: Java/Marshaller/Listener/Marshaller/Listener
 date: 2021-01-11
 key: JavaJava.M.Marshaller.Listener
-category: java
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

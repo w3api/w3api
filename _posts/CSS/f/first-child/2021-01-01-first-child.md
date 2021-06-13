@@ -3,7 +3,7 @@ title: first-child
 permalink: /CSS/first-child/
 date: 2021-03-07 02:57:10.353435
 key: CSS.f.first-child
-category: css
+category: CSS
 tags: ['selector css']
 sidebar: 
   nav: css

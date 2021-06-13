@@ -3,7 +3,7 @@ title: MessageFormat.format()
 permalink: Java/MessageFormat/format
 date: 2021-01-11
 key: JavaJava.M.MessageFormat
-category: java
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

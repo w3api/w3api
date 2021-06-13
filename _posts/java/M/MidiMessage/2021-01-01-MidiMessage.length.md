@@ -3,7 +3,7 @@ title: MidiMessage.length
 permalink: Java/MidiMessage/length
 date: 2021-01-11
 key: JavaJava.M.MidiMessage
-category: java
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: page-break-before
 permalink: /CSS/page-break-before/
 date: 2021-03-07 03:09:25.528712
 key: CSS.p.page-break-before
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

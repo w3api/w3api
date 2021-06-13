@@ -3,7 +3,7 @@ title: MissingResourceException.getClassName()
 permalink: Java/MissingResourceException/getClassName
 date: 2021-01-11
 key: JavaJava.M.MissingResourceException
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

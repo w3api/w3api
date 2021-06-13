@@ -3,7 +3,7 @@ title: column-gap
 permalink: /CSS/column-gap/
 date: 2021-03-07 03:00:59.744668
 key: CSS.c.column-gap
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

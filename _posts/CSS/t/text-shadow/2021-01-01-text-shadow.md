@@ -3,7 +3,7 @@ title: text-shadow
 permalink: /CSS/text-shadow/
 date: 2021-03-07 03:12:31.155275
 key: CSS.t.text-shadow
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: font-style
 permalink: /CSS/font-style/
 date: 2021-03-07 03:03:09.299752
 key: CSS.f.font-style
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

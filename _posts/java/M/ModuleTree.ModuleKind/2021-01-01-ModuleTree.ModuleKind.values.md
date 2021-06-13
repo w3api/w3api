@@ -3,7 +3,7 @@ title: ModuleTree.ModuleKind.values()
 permalink: Java/ModuleTree/ModuleKind/values
 date: 2021-01-11
 key: JavaJava.M.ModuleTree.ModuleKind
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

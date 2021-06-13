@@ -3,7 +3,7 @@ title: MapProperty.MapProperty()
 permalink: Java/MapProperty/MapProperty
 date: 2021-01-11
 key: JavaJava.M.MapProperty
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

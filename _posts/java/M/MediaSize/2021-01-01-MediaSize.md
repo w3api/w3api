@@ -3,7 +3,7 @@ title: MediaSize
 permalink: Java/MediaSize
 date: 2021-01-11
 key: JavaJava.M.MediaSize
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

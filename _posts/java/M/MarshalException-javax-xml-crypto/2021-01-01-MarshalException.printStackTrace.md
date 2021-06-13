@@ -3,7 +3,7 @@ title: MarshalException.printStackTrace()
 permalink: Java/MarshalException-javax-xml-crypto/printStackTrace
 date: 2021-01-11
 key: JavaJava.M.MarshalException-javax-xml-crypto
-category: java
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

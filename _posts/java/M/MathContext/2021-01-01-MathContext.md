@@ -3,7 +3,7 @@ title: MathContext
 permalink: Java/MathContext
 date: 2021-01-11
 key: JavaJava.M.MathContext
-category: java
+category: Java
 tags: ['java se', 'java.math', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

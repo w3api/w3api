@@ -3,7 +3,7 @@ title: play-during
 permalink: /CSS/play-during/
 date: 2021-03-07 03:09:52.083006
 key: CSS.p.play-during
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

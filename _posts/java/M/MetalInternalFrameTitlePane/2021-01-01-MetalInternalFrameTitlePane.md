@@ -3,7 +3,7 @@ title: MetalInternalFrameTitlePane
 permalink: Java/MetalInternalFrameTitlePane
 date: 2021-01-11
 key: JavaJava.M.MetalInternalFrameTitlePane
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

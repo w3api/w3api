@@ -3,7 +3,7 @@ title: MapChangeListener.Change
 permalink: Java/MapChangeListener/Change
 date: 2021-01-11
 key: JavaJava.M.MapChangeListener.Change
-category: java
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

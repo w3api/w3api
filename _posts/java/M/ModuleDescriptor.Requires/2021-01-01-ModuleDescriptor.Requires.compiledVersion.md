@@ -3,7 +3,7 @@ title: ModuleDescriptor.Requires.compiledVersion()
 permalink: Java/ModuleDescriptor/Requires/compiledVersion
 date: 2021-01-11
 key: JavaJava.M.ModuleDescriptor.Requires
-category: java
+category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

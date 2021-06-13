@@ -3,7 +3,7 @@ title: ModuleElement.RequiresDirective
 permalink: Java/ModuleElement/RequiresDirective
 date: 2021-01-11
 key: JavaJava.M.ModuleElement.RequiresDirective
-category: java
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'interface java', 'Java 9']
 sidebar: 
   nav: java

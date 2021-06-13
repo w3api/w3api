@@ -3,7 +3,7 @@ title: voice-rate
 permalink: /CSS/voice-rate/
 date: 2021-03-07 03:13:31.338482
 key: CSS.v.voice-rate
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

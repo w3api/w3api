@@ -3,7 +3,7 @@ title: MediaException.Type.valueOf()
 permalink: Java/MediaException/Type/valueOf
 date: 2021-01-11
 key: JavaJava.M.MediaException.Type
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

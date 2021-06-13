@@ -3,7 +3,7 @@ title: justify-self
 permalink: /CSS/justify-self/
 date: 2021-03-07 03:05:18.486004
 key: CSS.j.justify-self
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: MenuElement.processMouseEvent()
 permalink: Java/MenuElement/processMouseEvent
 date: 2021-01-11
 key: JavaJava.M.MenuElement
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

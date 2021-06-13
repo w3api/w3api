@@ -3,7 +3,7 @@ title: scroll-snap-align
 permalink: /CSS/scroll-snap-align/
 date: 2021-03-07 03:11:19.321177
 key: CSS.s.scroll-snap-align
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

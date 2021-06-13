@@ -3,7 +3,7 @@ title: page-break-inside
 permalink: /CSS/page-break-inside/
 date: 2021-03-07 03:09:32.672923
 key: CSS.p.page-break-inside
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

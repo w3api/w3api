@@ -3,7 +3,7 @@ title: pause-after
 permalink: /CSS/pause-after/
 date: 2021-03-07 03:09:38.159821
 key: CSS.p.pause-after
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

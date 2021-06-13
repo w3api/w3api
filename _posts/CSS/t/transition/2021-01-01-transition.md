@@ -3,7 +3,7 @@ title: transition
 permalink: /CSS/transition/
 date: 2021-03-07 03:12:52.523017
 key: CSS.t.transition
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

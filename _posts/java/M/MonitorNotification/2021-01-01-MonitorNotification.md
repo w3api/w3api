@@ -3,7 +3,7 @@ title: MonitorNotification
 permalink: Java/MonitorNotification
 date: 2021-01-11
 key: JavaJava.M.MonitorNotification
-category: java
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

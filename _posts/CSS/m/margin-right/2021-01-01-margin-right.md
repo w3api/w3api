@@ -3,7 +3,7 @@ title: margin-right
 permalink: /CSS/margin-right/
 date: 2021-03-07 03:06:40.220854
 key: CSS.m.margin-right
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

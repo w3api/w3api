@@ -3,7 +3,7 @@ title: transition-property
 permalink: /CSS/transition-property/
 date: 2021-03-07 03:12:59.047898
 key: CSS.t.transition-property
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

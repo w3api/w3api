@@ -3,7 +3,7 @@ title: first-of-type
 permalink: /CSS/first-of-type/
 date: 2021-03-07 02:57:10.353929
 key: CSS.f.first-of-type
-category: css
+category: CSS
 tags: ['selector css']
 sidebar: 
   nav: css

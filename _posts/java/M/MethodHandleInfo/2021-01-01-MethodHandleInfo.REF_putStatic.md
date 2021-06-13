@@ -3,7 +3,7 @@ title: MethodHandleInfo.REF_putStatic
 permalink: Java/MethodHandleInfo/REF_putStatic
 date: 2021-01-11
 key: JavaJava.M.MethodHandleInfo
-category: java
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

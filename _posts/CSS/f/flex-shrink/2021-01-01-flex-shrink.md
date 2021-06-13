@@ -3,7 +3,7 @@ title: flex-shrink
 permalink: /CSS/flex-shrink/
 date: 2021-03-07 03:02:31.289376
 key: CSS.f.flex-shrink
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

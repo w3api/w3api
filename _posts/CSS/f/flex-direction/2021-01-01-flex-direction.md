@@ -3,7 +3,7 @@ title: flex-direction
 permalink: /CSS/flex-direction/
 date: 2021-03-07 03:02:19.763290
 key: CSS.f.flex-direction
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

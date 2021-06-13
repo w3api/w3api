@@ -3,7 +3,7 @@ title: scroll-margin-block-end
 permalink: /CSS/scroll-margin-block-end/
 date: 2021-03-07 03:10:33.908198
 key: CSS.s.scroll-margin-block-end
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

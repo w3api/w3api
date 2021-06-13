@@ -3,7 +3,7 @@ title: font-family
 permalink: /CSS/font-family/
 date: 2021-03-07 03:02:58.823713
 key: CSS.f.font-family
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

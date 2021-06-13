@@ -3,7 +3,7 @@ title: BasicFileAttributeView.setTimes()
 permalink: /Java/BasicFileAttributeView/setTimes/
 date: 2021-01-11
 key: Java.B.BasicFileAttributeView
-category: java
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

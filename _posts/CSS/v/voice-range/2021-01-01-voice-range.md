@@ -3,7 +3,7 @@ title: voice-range
 permalink: /CSS/voice-range/
 date: 2021-03-07 03:13:29.005180
 key: CSS.v.voice-range
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

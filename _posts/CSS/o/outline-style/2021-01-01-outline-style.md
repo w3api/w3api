@@ -3,7 +3,7 @@ title: outline-style
 permalink: /CSS/outline-style/
 date: 2021-03-07 03:08:25.892751
 key: CSS.o.outline-style
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

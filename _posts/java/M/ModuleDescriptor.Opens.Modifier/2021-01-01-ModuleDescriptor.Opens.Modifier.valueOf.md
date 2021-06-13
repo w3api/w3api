@@ -3,7 +3,7 @@ title: ModuleDescriptor.Opens.Modifier.valueOf()
 permalink: Java/ModuleDescriptor/Opens/Modifier/valueOf
 date: 2021-01-11
 key: JavaJava.M.ModuleDescriptor.Opens.Modifier
-category: java
+category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

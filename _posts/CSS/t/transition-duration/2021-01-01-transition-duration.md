@@ -3,7 +3,7 @@ title: transition-duration
 permalink: /CSS/transition-duration/
 date: 2021-03-07 03:12:56.779606
 key: CSS.t.transition-duration
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

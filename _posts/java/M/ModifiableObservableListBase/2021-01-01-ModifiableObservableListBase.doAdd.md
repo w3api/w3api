@@ -3,7 +3,7 @@ title: ModifiableObservableListBase.doAdd()
 permalink: Java/ModifiableObservableListBase/doAdd
 date: 2021-01-11
 key: JavaJava.M.ModifiableObservableListBase
-category: java
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: speak-punctuation
 permalink: /CSS/speak-punctuation/
 date: 2021-03-07 03:11:38.071378
 key: CSS.s.speak-punctuation
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

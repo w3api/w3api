@@ -3,7 +3,7 @@ title: font-feature-settings
 permalink: /CSS/font-feature-settings/
 date: 2021-03-07 03:03:00.619338
 key: CSS.f.font-feature-settings
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

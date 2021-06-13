@@ -3,7 +3,7 @@ title: elevation
 permalink: /CSS/elevation/
 date: 2021-03-07 03:01:54.800129
 key: CSS.e.elevation
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

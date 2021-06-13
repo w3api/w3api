@@ -3,7 +3,7 @@ title: text-align
 permalink: /CSS/text-align/
 date: 2021-03-07 03:11:52.467322
 key: CSS.t.text-align
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: ModuleDescriptor.Builder.packages()
 permalink: Java/ModuleDescriptor/Builder/packages
 date: 2021-01-11
 key: JavaJava.M.ModuleDescriptor.Builder
-category: java
+category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

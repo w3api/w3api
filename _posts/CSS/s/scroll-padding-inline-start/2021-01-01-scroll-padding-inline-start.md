@@ -3,7 +3,7 @@ title: scroll-padding-inline-start
 permalink: /CSS/scroll-padding-inline-start/
 date: 2021-03-07 03:11:09.896922
 key: CSS.s.scroll-padding-inline-start
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

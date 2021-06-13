@@ -3,7 +3,7 @@ title: scroll-padding-bottom
 permalink: /CSS/scroll-padding-bottom/
 date: 2021-03-07 03:11:03.162377
 key: CSS.s.scroll-padding-bottom
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: mask-border
 permalink: /CSS/mask-border/
 date: 2021-03-07 03:06:52.767934
 key: CSS.m.mask-border
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

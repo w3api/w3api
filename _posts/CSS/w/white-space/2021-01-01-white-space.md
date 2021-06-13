@@ -3,7 +3,7 @@ title: white-space
 permalink: /CSS/white-space/
 date: 2021-03-07 03:13:40.151331
 key: CSS.w.white-space
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

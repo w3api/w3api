@@ -3,7 +3,7 @@ title: MethodExitEvent
 permalink: Java/MethodExitEvent
 date: 2021-01-11
 key: JavaJava.M.MethodExitEvent
-category: java
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

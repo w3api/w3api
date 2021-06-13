@@ -3,7 +3,7 @@ title: visibility
 permalink: /CSS/visibility/
 date: 2021-03-07 03:13:17.265190
 key: CSS.v.visibility
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

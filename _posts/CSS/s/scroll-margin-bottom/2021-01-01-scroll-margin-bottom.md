@@ -3,7 +3,7 @@ title: scroll-margin-bottom
 permalink: /CSS/scroll-margin-bottom/
 date: 2021-03-07 03:10:38.374767
 key: CSS.s.scroll-margin-bottom
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

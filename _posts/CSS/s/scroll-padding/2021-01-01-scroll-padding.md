@@ -3,7 +3,7 @@ title: scroll-padding
 permalink: /CSS/scroll-padding/
 date: 2021-03-07 03:10:54.230784
 key: CSS.s.scroll-padding
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

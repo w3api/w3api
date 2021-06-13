@@ -3,7 +3,7 @@ title: isolation
 permalink: /CSS/isolation/
 date: 2021-03-07 03:05:09.936610
 key: CSS.i.isolation
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

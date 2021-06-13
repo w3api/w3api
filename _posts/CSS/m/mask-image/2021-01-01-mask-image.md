@@ -3,7 +3,7 @@ title: mask-image
 permalink: /CSS/mask-image/
 date: 2021-03-07 03:07:20.144126
 key: CSS.m.mask-image
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

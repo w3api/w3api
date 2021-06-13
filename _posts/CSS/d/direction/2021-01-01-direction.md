@@ -3,7 +3,7 @@ title: direction
 permalink: /CSS/direction/
 date: 2021-03-07 03:01:51.651717
 key: CSS.d.direction
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

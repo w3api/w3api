@@ -3,7 +3,7 @@ title: ModuleDescriptor.Opens.isQualified()
 permalink: Java/ModuleDescriptor/Opens/isQualified
 date: 2021-01-11
 key: JavaJava.M.ModuleDescriptor.Opens
-category: java
+category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

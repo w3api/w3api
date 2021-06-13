@@ -3,7 +3,7 @@ title: grid-row-gap
 permalink: /CSS/grid-row-gap/
 date: 2021-03-07 03:04:28.162724
 key: CSS.g.grid-row-gap
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

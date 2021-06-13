@@ -3,7 +3,7 @@ title: MethodDoc.overrides()
 permalink: Java/MethodDoc/overrides
 date: 2021-01-11
 key: JavaJava.M.MethodDoc
-category: java
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

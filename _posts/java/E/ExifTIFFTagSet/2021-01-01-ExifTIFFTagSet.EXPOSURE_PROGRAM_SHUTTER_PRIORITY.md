@@ -3,7 +3,7 @@ title: ExifTIFFTagSet.EXPOSURE_PROGRAM_SHUTTER_PRIORITY
 permalink: Java/ExifTIFFTagSet/EXPOSURE_PROGRAM_SHUTTER_PRIORITY
 date: 2021-01-11
 key: JavaJava.E.ExifTIFFTagSet
-category: java
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

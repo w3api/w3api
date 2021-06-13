@@ -3,7 +3,7 @@ title: MapBinding.unbind()
 permalink: Java/MapBinding/unbind
 date: 2021-01-11
 key: JavaJava.M.MapBinding
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

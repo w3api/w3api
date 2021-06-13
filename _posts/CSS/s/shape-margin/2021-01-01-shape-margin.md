@@ -3,7 +3,7 @@ title: shape-margin
 permalink: /CSS/shape-margin/
 date: 2021-03-07 03:11:28.621633
 key: CSS.s.shape-margin
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: mask-position
 permalink: /CSS/mask-position/
 date: 2021-03-07 03:07:28.773735
 key: CSS.m.mask-position
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

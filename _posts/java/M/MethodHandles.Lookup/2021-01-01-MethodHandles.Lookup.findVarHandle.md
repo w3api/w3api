@@ -3,7 +3,7 @@ title: MethodHandles.Lookup.findVarHandle()
 permalink: Java/MethodHandles/Lookup/findVarHandle
 date: 2021-01-11
 key: JavaJava.M.MethodHandles.Lookup
-category: java
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

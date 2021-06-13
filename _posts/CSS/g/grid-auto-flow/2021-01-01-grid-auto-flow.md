@@ -3,7 +3,7 @@ title: grid-auto-flow
 permalink: /CSS/grid-auto-flow/
 date: 2021-03-07 03:03:52.829973
 key: CSS.g.grid-auto-flow
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

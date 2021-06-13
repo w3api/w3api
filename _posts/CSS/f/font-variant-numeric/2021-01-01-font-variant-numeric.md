@@ -3,7 +3,7 @@ title: font-variant-numeric
 permalink: /CSS/font-variant-numeric/
 date: 2021-03-07 03:03:22.065115
 key: CSS.f.font-variant-numeric
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

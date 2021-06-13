@@ -3,7 +3,7 @@ title: MessageContext.HTTP_REQUEST_HEADERS
 permalink: Java/MessageContext/HTTP_REQUEST_HEADERS
 date: 2021-01-11
 key: JavaJava.M.MessageContext
-category: java
+category: Java
 tags: ['java se', 'javax.xml.ws.handler', 'java.xml.ws', 'campo java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: MemberReferenceTree.ReferenceMode.INVOKE
 permalink: Java/MemberReferenceTree/ReferenceMode/INVOKE
 date: 2021-01-11
 key: JavaJava.M.MemberReferenceTree.ReferenceMode
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: MonitorNotification.THRESHOLD_HIGH_VALUE_EXCEEDED
 permalink: Java/MonitorNotification/THRESHOLD_HIGH_VALUE_EXCEEDED
 date: 2021-01-11
 key: JavaJava.M.MonitorNotification
-category: java
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

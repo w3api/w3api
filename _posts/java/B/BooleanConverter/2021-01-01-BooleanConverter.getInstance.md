@@ -3,7 +3,7 @@ title: BooleanConverter.getInstance()
 permalink: /Java/BooleanConverter/getInstance/
 date: 2021-01-11
 key: Java.B.BooleanConverter
-category: java
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

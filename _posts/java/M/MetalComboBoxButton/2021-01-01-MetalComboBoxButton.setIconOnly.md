@@ -3,7 +3,7 @@ title: MetalComboBoxButton.setIconOnly()
 permalink: Java/MetalComboBoxButton/setIconOnly
 date: 2021-01-11
 key: JavaJava.M.MetalComboBoxButton
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

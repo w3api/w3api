@@ -3,7 +3,7 @@ title: place-content
 permalink: /CSS/place-content/
 date: 2021-03-07 03:09:45.379261
 key: CSS.p.place-content
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

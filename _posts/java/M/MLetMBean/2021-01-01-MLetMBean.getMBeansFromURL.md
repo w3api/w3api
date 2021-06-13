@@ -3,7 +3,7 @@ title: MLetMBean.getMBeansFromURL()
 permalink: Java/MLetMBean/getMBeansFromURL
 date: 2021-01-11
 key: JavaJava.M.MLetMBean
-category: java
+category: Java
 tags: ['java se', 'javax.management.loading', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

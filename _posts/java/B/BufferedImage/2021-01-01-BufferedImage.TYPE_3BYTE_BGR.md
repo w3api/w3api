@@ -3,7 +3,7 @@ title: BufferedImage.TYPE_3BYTE_BGR
 permalink: /Java/BufferedImage/TYPE_3BYTE_BGR/
 date: 2021-01-11
 key: Java.B.BufferedImage
-category: java
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

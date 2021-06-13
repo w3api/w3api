@@ -3,7 +3,7 @@ title: outline-color
 permalink: /CSS/outline-color/
 date: 2021-03-07 03:08:21.952020
 key: CSS.o.outline-color
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

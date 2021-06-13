@@ -3,7 +3,7 @@ title: BinaryTree
 permalink: /Java/BinaryTree//
 date: 2021-01-11
 key: Java.B.BinaryTree
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: MaskFormatter.getInvalidCharacters()
 permalink: Java/MaskFormatter/getInvalidCharacters
 date: 2021-01-11
 key: JavaJava.M.MaskFormatter
-category: java
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: BufferPoolMXBean.getCount()
 permalink: /Java/BufferPoolMXBean/getCount/
 date: 2021-01-11
 key: Java.B.BufferPoolMXBean
-category: java
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: MouseEvent.NOBUTTON
 permalink: Java/MouseEvent-java-awt-event/NOBUTTON
 date: 2021-01-11
 key: JavaJava.M.MouseEvent-java-awt-event
-category: java
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: will-change
 permalink: /CSS/will-change/
 date: 2021-03-07 03:13:50.630178
 key: CSS.w.will-change
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: MalformedParametersException
 permalink: Java/MalformedParametersException
 date: 2021-01-11
 key: JavaJava.M.MalformedParametersException
-category: java
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

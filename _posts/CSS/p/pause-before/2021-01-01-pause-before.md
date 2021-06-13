@@ -3,7 +3,7 @@ title: pause-before
 permalink: /CSS/pause-before/
 date: 2021-03-07 03:09:40.804229
 key: CSS.p.pause-before
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

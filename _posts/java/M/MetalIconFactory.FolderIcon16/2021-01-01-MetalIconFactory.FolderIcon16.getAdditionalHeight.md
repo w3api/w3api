@@ -3,7 +3,7 @@ title: MetalIconFactory.FolderIcon16.getAdditionalHeight()
 permalink: Java/MetalIconFactory/FolderIcon16/getAdditionalHeight
 date: 2021-01-11
 key: JavaJava.M.MetalIconFactory.FolderIcon16
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

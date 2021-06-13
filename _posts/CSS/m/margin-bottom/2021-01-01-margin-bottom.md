@@ -3,7 +3,7 @@ title: margin-bottom
 permalink: /CSS/margin-bottom/
 date: 2021-03-07 03:06:26.524236
 key: CSS.m.margin-bottom
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

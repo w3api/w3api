@@ -3,7 +3,7 @@ title: word-break
 permalink: /CSS/word-break/
 date: 2021-03-07 03:13:53.527767
 key: CSS.w.word-break
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

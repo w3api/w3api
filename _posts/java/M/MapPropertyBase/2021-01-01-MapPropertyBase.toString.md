@@ -3,7 +3,7 @@ title: MapPropertyBase.toString()
 permalink: Java/MapPropertyBase/toString
 date: 2021-01-11
 key: JavaJava.M.MapPropertyBase
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

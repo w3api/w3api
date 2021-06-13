@@ -3,7 +3,7 @@ title: BlockTree.getStatements()
 permalink: /Java/BlockTree-jdk-nashorn-api-tree/getStatements/
 date: 2021-01-11
 key: Java.B.BlockTree-jdk-nashorn-api-tree
-category: java
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

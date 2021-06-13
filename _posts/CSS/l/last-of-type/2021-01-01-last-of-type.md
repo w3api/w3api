@@ -3,7 +3,7 @@ title: last-of-type
 permalink: /CSS/last-of-type/
 date: 2021-03-07 02:57:10.354796
 key: CSS.l.last-of-type
-category: css
+category: CSS
 tags: ['selector css']
 sidebar: 
   nav: css

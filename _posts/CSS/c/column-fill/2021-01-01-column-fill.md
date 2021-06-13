@@ -3,7 +3,7 @@ title: column-fill
 permalink: /CSS/column-fill/
 date: 2021-03-07 03:00:56.733043
 key: CSS.c.column-fill
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

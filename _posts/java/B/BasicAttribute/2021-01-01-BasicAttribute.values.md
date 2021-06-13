@@ -3,7 +3,7 @@ title: BasicAttribute.values
 permalink: /Java/BasicAttribute/values/
 date: 2021-01-11
 key: Java.B.BasicAttribute
-category: java
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

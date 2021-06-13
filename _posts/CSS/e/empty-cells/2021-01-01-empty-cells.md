@@ -3,7 +3,7 @@ title: empty-cells
 permalink: /CSS/empty-cells/
 date: 2021-03-07 03:02:01.843581
 key: CSS.e.empty-cells
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

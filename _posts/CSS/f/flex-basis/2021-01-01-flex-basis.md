@@ -3,7 +3,7 @@ title: flex-basis
 permalink: /CSS/flex-basis/
 date: 2021-03-07 03:02:15.962807
 key: CSS.f.flex-basis
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

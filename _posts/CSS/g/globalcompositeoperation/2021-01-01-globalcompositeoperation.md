@@ -3,7 +3,7 @@ title: globalcompositeoperation
 permalink: /CSS/globalcompositeoperation/
 date: 2021-03-07 03:03:31.894284
 key: CSS.g.globalcompositeoperation
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

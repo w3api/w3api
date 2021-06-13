@@ -3,7 +3,7 @@ title: caret-color
 permalink: /CSS/caret-color/
 date: 2021-03-07 03:00:28.555923
 key: CSS.c.caret-color
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

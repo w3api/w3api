@@ -3,7 +3,7 @@ title: text-emphasis-color
 permalink: /CSS/text-emphasis-color/
 date: 2021-03-07 03:12:14.157455
 key: CSS.t.text-emphasis-color
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

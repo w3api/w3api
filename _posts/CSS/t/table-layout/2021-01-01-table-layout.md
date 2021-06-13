@@ -3,7 +3,7 @@ title: table-layout
 permalink: /CSS/table-layout/
 date: 2021-03-07 03:11:46.398386
 key: CSS.t.table-layout
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

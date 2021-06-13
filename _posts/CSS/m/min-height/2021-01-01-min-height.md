@@ -3,7 +3,7 @@ title: min-height
 permalink: /CSS/min-height/
 date: 2021-03-07 03:07:57.897225
 key: CSS.m.min-height
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

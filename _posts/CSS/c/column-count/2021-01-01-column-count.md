@@ -3,7 +3,7 @@ title: column-count
 permalink: /CSS/column-count/
 date: 2021-03-07 03:00:54.703886
 key: CSS.c.column-count
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

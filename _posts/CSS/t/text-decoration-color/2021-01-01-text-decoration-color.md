@@ -3,7 +3,7 @@ title: text-decoration-color
 permalink: /CSS/text-decoration-color/
 date: 2021-03-07 03:12:05.691910
 key: CSS.t.text-decoration-color
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

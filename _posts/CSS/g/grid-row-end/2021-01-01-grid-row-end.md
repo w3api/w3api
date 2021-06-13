@@ -3,7 +3,7 @@ title: grid-row-end
 permalink: /CSS/grid-row-end/
 date: 2021-03-07 03:04:25.258991
 key: CSS.g.grid-row-end
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

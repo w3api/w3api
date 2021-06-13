@@ -3,7 +3,7 @@ title: grid-template
 permalink: /CSS/grid-template/
 date: 2021-03-07 03:04:37.120133
 key: CSS.g.grid-template
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

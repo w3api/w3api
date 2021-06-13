@@ -3,7 +3,7 @@ title: padding-right
 permalink: /CSS/padding-right/
 date: 2021-03-07 03:09:04.981052
 key: CSS.p.padding-right
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

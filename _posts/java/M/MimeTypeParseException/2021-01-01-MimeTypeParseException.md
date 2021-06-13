@@ -3,7 +3,7 @@ title: MimeTypeParseException
 permalink: Java/MimeTypeParseException/
 date: 2021-01-11
 key: JavaJava.M.MimeTypeParseException
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

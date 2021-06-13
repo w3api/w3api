@@ -3,7 +3,7 @@ title: MatrixType.MT_2D_3x3
 permalink: Java/MatrixType/MT_2D_3x3
 date: 2021-01-11
 key: JavaJava.M.MatrixType
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.transform', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

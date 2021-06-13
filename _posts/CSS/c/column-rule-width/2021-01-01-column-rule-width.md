@@ -3,7 +3,7 @@ title: column-rule-width
 permalink: /CSS/column-rule-width/
 date: 2021-03-07 03:01:08.482103
 key: CSS.c.column-rule-width
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

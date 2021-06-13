@@ -3,7 +3,7 @@ title: font-variant
 permalink: /CSS/font-variant/
 date: 2021-03-07 03:03:15.278599
 key: CSS.f.font-variant
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

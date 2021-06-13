@@ -3,7 +3,7 @@ title: only-child
 permalink: /CSS/only-child/
 date: 2021-03-07 02:57:10.356173
 key: CSS.o.only-child
-category: css
+category: CSS
 tags: ['selector css']
 sidebar: 
   nav: css

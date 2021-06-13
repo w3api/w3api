@@ -3,7 +3,7 @@ title: justify-items
 permalink: /CSS/justify-items/
 date: 2021-03-07 03:05:15.646911
 key: CSS.j.justify-items
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

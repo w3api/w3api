@@ -3,7 +3,7 @@ title: MethodHandleProxies.asInterfaceInstance()
 permalink: Java/MethodHandleProxies/asInterfaceInstance
 date: 2021-01-11
 key: JavaJava.M.MethodHandleProxies
-category: java
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

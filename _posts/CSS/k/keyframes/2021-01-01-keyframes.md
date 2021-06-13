@@ -3,7 +3,7 @@ title: keyframes
 permalink: /CSS/keyframes/
 date: 2021-03-07 02:57:10.364316
 key: CSS.k.keyframes
-category: css
+category: CSS
 tags: ['regla css']
 sidebar: 
   nav: css

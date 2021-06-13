@@ -3,7 +3,7 @@ title: ButtonModel.isRollover()
 permalink: /Java/ButtonModel/isRollover/
 date: 2021-01-11
 key: Java.B.ButtonModel
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

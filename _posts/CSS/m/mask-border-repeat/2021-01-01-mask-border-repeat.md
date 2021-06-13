@@ -3,7 +3,7 @@ title: mask-border-repeat
 permalink: /CSS/mask-border-repeat/
 date: 2021-03-07 03:07:01.958142
 key: CSS.m.mask-border-repeat
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

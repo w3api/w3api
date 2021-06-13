@@ -3,7 +3,7 @@ title: MemoryPoolMXBean
 permalink: Java/MemoryPoolMXBean
 date: 2021-01-11
 key: JavaJava.M.MemoryPoolMXBean
-category: java
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

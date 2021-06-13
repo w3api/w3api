@@ -3,7 +3,7 @@ title: MemoryManagerMXBean
 permalink: Java/MemoryManagerMXBean
 date: 2021-01-11
 key: JavaJava.M.MemoryManagerMXBean
-category: java
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

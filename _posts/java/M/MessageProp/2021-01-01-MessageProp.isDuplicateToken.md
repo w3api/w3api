@@ -3,7 +3,7 @@ title: MessageProp.isDuplicateToken()
 permalink: Java/MessageProp/isDuplicateToken
 date: 2021-01-11
 key: JavaJava.M.MessageProp
-category: java
+category: Java
 tags: ['java se', 'org.ietf.jgss', 'java.security.jgss', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

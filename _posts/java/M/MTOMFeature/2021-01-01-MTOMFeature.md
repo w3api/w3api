@@ -3,7 +3,7 @@ title: MTOMFeature
 permalink: Java/MTOMFeature
 date: 2021-01-11
 key: JavaJava.M.MTOMFeature
-category: java
+category: Java
 tags: ['java se', 'javax.xml.ws.soap', 'java.xml.ws', 'clase java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 
   nav: java

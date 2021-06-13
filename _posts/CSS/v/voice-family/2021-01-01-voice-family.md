@@ -3,7 +3,7 @@ title: voice-family
 permalink: /CSS/voice-family/
 date: 2021-03-07 03:13:24.139356
 key: CSS.v.voice-family
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: BoundingBox.contains()
 permalink: /Java/BoundingBox/contains/
 date: 2021-01-11
 key: Java.B.BoundingBox
-category: java
+category: Java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

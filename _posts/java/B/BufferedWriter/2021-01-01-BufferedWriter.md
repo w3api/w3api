@@ -3,7 +3,7 @@ title: BufferedWriter
 permalink: /Java/BufferedWriter/
 date: 2021-01-11
 key: Java.B.BufferedWriter
-category: java
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

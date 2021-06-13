@@ -3,7 +3,7 @@ title: BeanContext.getResource()
 permalink: /Java/BeanContext/getResource/
 date: 2021-01-11
 key: Java.B.BeanContext
-category: java
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

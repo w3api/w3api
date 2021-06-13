@@ -3,7 +3,7 @@ title: shape-image-threshold
 permalink: /CSS/shape-image-threshold/
 date: 2021-03-07 03:11:26.681330
 key: CSS.s.shape-image-threshold
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

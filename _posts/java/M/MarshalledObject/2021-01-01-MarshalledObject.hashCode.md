@@ -3,7 +3,7 @@ title: MarshalledObject.hashCode()
 permalink: Java/MarshalledObject/hashCode
 date: 2021-01-11
 key: JavaJava.M.MarshalledObject
-category: java
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

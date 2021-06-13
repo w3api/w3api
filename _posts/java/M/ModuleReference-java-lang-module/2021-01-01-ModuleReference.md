@@ -3,7 +3,7 @@ title: ModuleReference
 permalink: Java/ModuleReference-java-lang-module
 date: 2021-01-11
 key: JavaJava.M.ModuleReference-java-lang-module
-category: java
+category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'clase java', 'Java 9']
 sidebar: 
   nav: java

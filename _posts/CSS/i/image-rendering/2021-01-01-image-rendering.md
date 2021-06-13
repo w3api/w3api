@@ -3,7 +3,7 @@ title: image-rendering
 permalink: /CSS/image-rendering/
 date: 2021-03-07 03:05:08.135233
 key: CSS.i.image-rendering
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

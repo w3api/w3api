@@ -3,7 +3,7 @@ title: MissingFormatArgumentException.getFormatSpecifier()
 permalink: Java/MissingFormatArgumentException/getFormatSpecifier
 date: 2021-01-11
 key: JavaJava.M.MissingFormatArgumentException
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

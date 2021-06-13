@@ -3,7 +3,7 @@ title: ManagerFactoryParameters
 permalink: Java/ManagerFactoryParameters
 date: 2021-01-11
 key: JavaJava.M.ManagerFactoryParameters
-category: java
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

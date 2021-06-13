@@ -3,7 +3,7 @@ title: MarshalException
 permalink: Java/MarshalException/
 date: 2021-01-11
 key: JavaJava.M.MarshalException
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

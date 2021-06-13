@@ -3,7 +3,7 @@ title: transform-box
 permalink: /CSS/transform-box/
 date: 2021-03-07 03:12:47.875096
 key: CSS.t.transform-box
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: MidiDeviceReceiver
 permalink: Java/MidiDeviceReceiver
 date: 2021-01-11
 key: JavaJava.M.MidiDeviceReceiver
-category: java
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

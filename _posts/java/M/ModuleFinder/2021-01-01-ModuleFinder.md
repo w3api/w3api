@@ -3,7 +3,7 @@ title: ModuleFinder
 permalink: Java/ModuleFinder
 date: 2021-01-11
 key: JavaJava.M.ModuleFinder
-category: java
+category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'interface java', 'Java 9']
 sidebar: 
   nav: java

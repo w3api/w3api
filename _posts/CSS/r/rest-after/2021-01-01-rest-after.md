@@ -3,7 +3,7 @@ title: rest-after
 permalink: /CSS/rest-after/
 date: 2021-03-07 03:10:12.846930
 key: CSS.r.rest-after
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

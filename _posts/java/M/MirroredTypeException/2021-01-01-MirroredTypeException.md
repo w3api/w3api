@@ -3,7 +3,7 @@ title: MirroredTypeException
 permalink: Java/MirroredTypeException
 date: 2021-01-11
 key: JavaJava.M.MirroredTypeException
-category: java
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

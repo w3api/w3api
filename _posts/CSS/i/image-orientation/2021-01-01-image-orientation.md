@@ -3,7 +3,7 @@ title: image-orientation
 permalink: /CSS/image-orientation/
 date: 2021-03-07 03:05:05.723868
 key: CSS.i.image-orientation
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

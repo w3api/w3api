@@ -3,7 +3,7 @@ title: MimeTypeParseException.MimeTypeParseException()
 permalink: Java/MimeTypeParseException-java-awt-datatransfer/MimeTypeParseException
 date: 2021-01-11
 key: JavaJava.M.MimeTypeParseException-java-awt-datatransfer
-category: java
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

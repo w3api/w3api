@@ -3,7 +3,7 @@ title: ModuleLayer.Controller.addReads()
 permalink: Java/ModuleLayer/Controller/addReads
 date: 2021-01-11
 key: JavaJava.M.ModuleLayer.Controller
-category: java
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

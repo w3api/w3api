@@ -3,7 +3,7 @@ title: caption-side
 permalink: /CSS/caption-side/
 date: 2021-03-07 03:00:26.296618
 key: CSS.c.caption-side
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: ModuleReference
 permalink: Java/ModuleReference/
 date: 2021-01-11
 key: JavaJava.M.ModuleReference
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

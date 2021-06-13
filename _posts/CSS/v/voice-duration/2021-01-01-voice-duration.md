@@ -3,7 +3,7 @@ title: voice-duration
 permalink: /CSS/voice-duration/
 date: 2021-03-07 03:13:21.858153
 key: CSS.v.voice-duration
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

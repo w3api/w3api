@@ -3,7 +3,7 @@ title: text-emphasis
 permalink: /CSS/text-emphasis/
 date: 2021-03-07 03:12:12.085570
 key: CSS.t.text-emphasis
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

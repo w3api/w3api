@@ -3,7 +3,7 @@ title: place-items
 permalink: /CSS/place-items/
 date: 2021-03-07 03:09:48.168773
 key: CSS.p.place-items
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

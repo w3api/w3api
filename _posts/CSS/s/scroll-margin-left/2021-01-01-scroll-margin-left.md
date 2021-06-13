@@ -3,7 +3,7 @@ title: scroll-margin-left
 permalink: /CSS/scroll-margin-left/
 date: 2021-03-07 03:10:47.512574
 key: CSS.s.scroll-margin-left
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

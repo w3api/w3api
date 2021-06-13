@@ -3,7 +3,7 @@ title: place-self
 permalink: /CSS/place-self/
 date: 2021-03-07 03:09:51.214504
 key: CSS.p.place-self
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

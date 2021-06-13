@@ -3,7 +3,7 @@ title: grid-auto-columns
 permalink: /CSS/grid-auto-columns/
 date: 2021-03-07 03:03:48.487100
 key: CSS.g.grid-auto-columns
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: ManagementFactory.OPERATING_SYSTEM_MXBEAN_NAME
 permalink: Java/ManagementFactory/OPERATING_SYSTEM_MXBEAN_NAME
 date: 2021-01-11
 key: JavaJava.M.ManagementFactory
-category: java
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

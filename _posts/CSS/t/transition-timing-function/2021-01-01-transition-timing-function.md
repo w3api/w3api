@@ -3,7 +3,7 @@ title: transition-timing-function
 permalink: /CSS/transition-timing-function/
 date: 2021-03-07 03:13:01.162750
 key: CSS.t.transition-timing-function
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

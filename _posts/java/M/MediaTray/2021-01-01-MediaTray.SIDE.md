@@ -3,7 +3,7 @@ title: MediaTray.SIDE
 permalink: Java/MediaTray/SIDE
 date: 2021-01-11
 key: JavaJava.M.MediaTray
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

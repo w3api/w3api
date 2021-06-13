@@ -3,7 +3,7 @@ title: counter-increment
 permalink: /CSS/counter-increment/
 date: 2021-03-07 03:01:32.275880
 key: CSS.c.counter-increment
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

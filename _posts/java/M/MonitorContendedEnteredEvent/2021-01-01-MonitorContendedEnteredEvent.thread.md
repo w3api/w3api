@@ -3,7 +3,7 @@ title: MonitorContendedEnteredEvent.thread()
 permalink: Java/MonitorContendedEnteredEvent/thread
 date: 2021-01-11
 key: JavaJava.M.MonitorContendedEnteredEvent
-category: java
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

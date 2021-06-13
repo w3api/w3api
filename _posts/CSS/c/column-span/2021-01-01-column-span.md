@@ -3,7 +3,7 @@ title: column-span
 permalink: /CSS/column-span/
 date: 2021-03-07 03:01:13.327814
 key: CSS.c.column-span
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

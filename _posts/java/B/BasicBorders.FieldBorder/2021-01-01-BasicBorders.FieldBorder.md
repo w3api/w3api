@@ -3,7 +3,7 @@ title: BasicBorders.FieldBorder
 permalink: /Java/BasicBorders/FieldBorder/
 date: 2021-01-11
 key: Java.B.BasicBorders.FieldBorder
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: vertical-align
 permalink: /CSS/vertical-align/
 date: 2021-03-07 03:13:10.629304
 key: CSS.v.vertical-align
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

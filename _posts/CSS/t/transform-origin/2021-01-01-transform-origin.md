@@ -3,7 +3,7 @@ title: transform-origin
 permalink: /CSS/transform-origin/
 date: 2021-03-07 03:12:50.188486
 key: CSS.t.transform-origin
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

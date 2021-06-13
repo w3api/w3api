@@ -3,7 +3,7 @@ title: hanging-punctuation
 permalink: /CSS/hanging-punctuation/
 date: 2021-03-07 03:04:53.574877
 key: CSS.h.hanging-punctuation
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

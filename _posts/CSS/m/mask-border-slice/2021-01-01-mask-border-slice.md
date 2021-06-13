@@ -3,7 +3,7 @@ title: mask-border-slice
 permalink: /CSS/mask-border-slice/
 date: 2021-03-07 03:07:05.411101
 key: CSS.m.mask-border-slice
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

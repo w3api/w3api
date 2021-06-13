@@ -3,7 +3,7 @@ title: only-of-type
 permalink: /CSS/only-of-type/
 date: 2021-03-07 02:57:10.356397
 key: CSS.o.only-of-type
-category: css
+category: CSS
 tags: ['selector css']
 sidebar: 
   nav: css

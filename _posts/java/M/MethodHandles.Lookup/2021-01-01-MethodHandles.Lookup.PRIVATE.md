@@ -3,7 +3,7 @@ title: MethodHandles.Lookup.PRIVATE
 permalink: Java/MethodHandles/Lookup/PRIVATE
 date: 2021-01-11
 key: JavaJava.M.MethodHandles.Lookup
-category: java
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

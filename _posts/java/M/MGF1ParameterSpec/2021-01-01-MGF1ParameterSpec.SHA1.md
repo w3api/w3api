@@ -3,7 +3,7 @@ title: MGF1ParameterSpec.SHA1
 permalink: Java/MGF1ParameterSpec/SHA1
 date: 2021-01-11
 key: JavaJava.M.MGF1ParameterSpec
-category: java
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

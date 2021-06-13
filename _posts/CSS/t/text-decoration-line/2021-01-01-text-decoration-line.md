@@ -3,7 +3,7 @@ title: text-decoration-line
 permalink: /CSS/text-decoration-line/
 date: 2021-03-07 03:12:08.038958
 key: CSS.t.text-decoration-line
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

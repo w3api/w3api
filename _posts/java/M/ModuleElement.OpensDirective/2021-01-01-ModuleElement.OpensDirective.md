@@ -3,7 +3,7 @@ title: ModuleElement.OpensDirective
 permalink: Java/ModuleElement/OpensDirective
 date: 2021-01-11
 key: JavaJava.M.ModuleElement.OpensDirective
-category: java
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'interface java', 'Java 9']
 sidebar: 
   nav: java

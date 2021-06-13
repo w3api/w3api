@@ -3,7 +3,7 @@ title: BlendMode.SRC_ATOP
 permalink: /Java/BlendMode/SRC_ATOP/
 date: 2021-01-11
 key: Java.B.BlendMode
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

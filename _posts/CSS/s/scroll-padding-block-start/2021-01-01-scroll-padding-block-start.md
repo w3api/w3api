@@ -3,7 +3,7 @@ title: scroll-padding-block-start
 permalink: /CSS/scroll-padding-block-start/
 date: 2021-03-07 03:11:00.927336
 key: CSS.s.scroll-padding-block-start
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

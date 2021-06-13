@@ -3,7 +3,7 @@ title: font-stretch
 permalink: /CSS/font-stretch/
 date: 2021-03-07 03:03:07.543359
 key: CSS.f.font-stretch
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

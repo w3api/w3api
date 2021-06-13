@@ -3,7 +3,7 @@ title: ModuleElement.OpensDirective.getTargetModules()
 permalink: Java/ModuleElement/OpensDirective/getTargetModules
 date: 2021-01-11
 key: JavaJava.M.ModuleElement.OpensDirective
-category: java
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

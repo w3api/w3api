@@ -3,7 +3,7 @@ title: BeanContextMembershipEvent.children
 permalink: /Java/BeanContextMembershipEvent/children/
 date: 2021-01-11
 key: Java.B.BeanContextMembershipEvent
-category: java
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: ModelMBeanNotificationInfo
 permalink: Java/ModelMBeanNotificationInfo
 date: 2021-01-11
 key: JavaJava.M.ModelMBeanNotificationInfo
-category: java
+category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

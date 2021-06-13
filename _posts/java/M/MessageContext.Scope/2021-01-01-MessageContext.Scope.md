@@ -3,7 +3,7 @@ title: MessageContext.Scope
 permalink: Java/MessageContext/Scope
 date: 2021-01-11
 key: JavaJava.M.MessageContext.Scope
-category: java
+category: Java
 tags: ['java se', 'javax.xml.ws.handler', 'java.xml.ws', 'enumerado java', 'Java 1.0']
 sidebar: 
   nav: java

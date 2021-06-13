@@ -3,7 +3,7 @@ title: voice-balance
 permalink: /CSS/voice-balance/
 date: 2021-03-07 03:13:19.422877
 key: CSS.v.voice-balance
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

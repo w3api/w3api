@@ -3,7 +3,7 @@ title: MBeanException.getCause()
 permalink: Java/MBeanException/getCause
 date: 2021-01-11
 key: JavaJava.M.MBeanException
-category: java
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

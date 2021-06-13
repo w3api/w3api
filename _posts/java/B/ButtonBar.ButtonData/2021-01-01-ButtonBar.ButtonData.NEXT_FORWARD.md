@@ -3,7 +3,7 @@ title: ButtonBar.ButtonData.NEXT_FORWARD
 permalink: /Java/ButtonBar/ButtonData/NEXT_FORWARD/
 date: 2021-01-11
 key: Java.B.ButtonBar.ButtonData
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

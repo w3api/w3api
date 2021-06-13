@@ -3,7 +3,7 @@ title: list-style-position
 permalink: /CSS/list-style-position/
 date: 2021-03-07 03:06:05.754765
 key: CSS.l.list-style-position
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

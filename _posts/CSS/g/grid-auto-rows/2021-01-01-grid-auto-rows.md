@@ -3,7 +3,7 @@ title: grid-auto-rows
 permalink: /CSS/grid-auto-rows/
 date: 2021-03-07 03:03:57.141339
 key: CSS.g.grid-auto-rows
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

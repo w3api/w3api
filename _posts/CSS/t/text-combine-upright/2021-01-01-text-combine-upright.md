@@ -3,7 +3,7 @@ title: text-combine-upright
 permalink: /CSS/text-combine-upright/
 date: 2021-03-07 03:12:01.652942
 key: CSS.t.text-combine-upright
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: MidiChannel.setChannelPressure()
 permalink: Java/MidiChannel/setChannelPressure
 date: 2021-01-11
 key: JavaJava.M.MidiChannel
-category: java
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

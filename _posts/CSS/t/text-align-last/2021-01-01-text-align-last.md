@@ -3,7 +3,7 @@ title: text-align-last
 permalink: /CSS/text-align-last/
 date: 2021-03-07 03:11:58.618626
 key: CSS.t.text-align-last
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

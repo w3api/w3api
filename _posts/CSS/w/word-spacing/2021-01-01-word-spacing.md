@@ -3,7 +3,7 @@ title: word-spacing
 permalink: /CSS/word-spacing/
 date: 2021-03-07 03:13:56.633442
 key: CSS.w.word-spacing
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

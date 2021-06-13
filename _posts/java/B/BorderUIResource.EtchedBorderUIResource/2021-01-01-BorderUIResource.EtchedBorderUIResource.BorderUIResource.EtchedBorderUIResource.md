@@ -3,7 +3,7 @@ title: BorderUIResource.EtchedBorderUIResource.BorderUIResource.EtchedBorderUIRe
 permalink: /Java/BorderUIResource/EtchedBorderUIResource/BorderUIResource/EtchedBorderUIResource/
 date: 2021-01-11
 key: Java.B.BorderUIResource.EtchedBorderUIResource
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

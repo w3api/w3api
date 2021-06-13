@@ -3,7 +3,7 @@ title: grid-template-areas
 permalink: /CSS/grid-template-areas/
 date: 2021-03-07 03:04:41.774386
 key: CSS.g.grid-template-areas
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

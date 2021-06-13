@@ -3,7 +3,7 @@ title: grid-template-rows
 permalink: /CSS/grid-template-rows/
 date: 2021-03-07 03:04:50.450489
 key: CSS.g.grid-template-rows
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

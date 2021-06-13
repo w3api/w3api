@@ -3,7 +3,7 @@ title: MimeTypeParseException
 permalink: Java/MimeTypeParseException-javax-activation
 date: 2021-01-11
 key: JavaJava.M.MimeTypeParseException-javax-activation
-category: java
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

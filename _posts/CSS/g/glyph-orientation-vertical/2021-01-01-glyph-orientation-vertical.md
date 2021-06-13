@@ -3,7 +3,7 @@ title: glyph-orientation-vertical
 permalink: /CSS/glyph-orientation-vertical/
 date: 2021-03-07 03:03:35.205912
 key: CSS.g.glyph-orientation-vertical
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

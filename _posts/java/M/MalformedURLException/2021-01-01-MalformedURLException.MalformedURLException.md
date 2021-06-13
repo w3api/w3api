@@ -3,7 +3,7 @@ title: MalformedURLException.MalformedURLException()
 permalink: Java/MalformedURLException/MalformedURLException
 date: 2021-01-11
 key: JavaJava.M.MalformedURLException
-category: java
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

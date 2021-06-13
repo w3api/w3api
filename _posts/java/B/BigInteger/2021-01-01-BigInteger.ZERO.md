@@ -3,7 +3,7 @@ title: BigInteger.ZERO
 permalink: /Java/BigInteger/ZERO/
 date: 2021-01-11
 key: Java.B.BigInteger
-category: java
+category: Java
 tags: ['java se', 'java.math', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

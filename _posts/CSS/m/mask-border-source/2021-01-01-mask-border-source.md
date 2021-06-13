@@ -3,7 +3,7 @@ title: mask-border-source
 permalink: /CSS/mask-border-source/
 date: 2021-03-07 03:07:08.313453
 key: CSS.m.mask-border-source
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: BorderFactory.createCompoundBorder()
 permalink: /Java/BorderFactory/createCompoundBorder/
 date: 2021-01-11
 key: Java.B.BorderFactory
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

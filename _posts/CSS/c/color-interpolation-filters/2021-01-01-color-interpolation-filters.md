@@ -3,7 +3,7 @@ title: color-interpolation-filters
 permalink: /CSS/color-interpolation-filters/
 date: 2021-03-07 03:00:52.639185
 key: CSS.c.color-interpolation-filters
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

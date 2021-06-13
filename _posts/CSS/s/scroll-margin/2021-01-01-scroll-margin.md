@@ -3,7 +3,7 @@ title: scroll-margin
 permalink: /CSS/scroll-margin/
 date: 2021-03-07 03:10:29.253400
 key: CSS.s.scroll-margin
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

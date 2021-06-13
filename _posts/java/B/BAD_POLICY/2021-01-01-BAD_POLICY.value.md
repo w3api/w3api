@@ -3,7 +3,7 @@ title: BAD_POLICY.value
 permalink: /Java/BAD_POLICY/value/
 date: 2021-01-11
 key: Java.B.BAD_POLICY
-category: java
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

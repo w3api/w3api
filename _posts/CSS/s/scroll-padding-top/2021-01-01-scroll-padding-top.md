@@ -3,7 +3,7 @@ title: scroll-padding-top
 permalink: /CSS/scroll-padding-top/
 date: 2021-03-07 03:11:17.107979
 key: CSS.s.scroll-padding-top
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

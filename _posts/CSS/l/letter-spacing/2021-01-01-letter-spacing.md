@@ -3,7 +3,7 @@ title: letter-spacing
 permalink: /CSS/letter-spacing/
 date: 2021-03-07 03:05:28.827095
 key: CSS.l.letter-spacing
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: MemoryCacheImageInputStream
 permalink: Java/MemoryCacheImageInputStream
 date: 2021-01-11
 key: JavaJava.M.MemoryCacheImageInputStream
-category: java
+category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

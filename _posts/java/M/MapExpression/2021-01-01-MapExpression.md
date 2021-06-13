@@ -3,7 +3,7 @@ title: MapExpression
 permalink: Java/MapExpression
 date: 2021-01-11
 key: JavaJava.M.MapExpression
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

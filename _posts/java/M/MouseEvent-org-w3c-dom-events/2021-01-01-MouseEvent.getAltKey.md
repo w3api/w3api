@@ -3,7 +3,7 @@ title: MouseEvent.getAltKey()
 permalink: Java/MouseEvent-org-w3c-dom-events/getAltKey
 date: 2021-01-11
 key: JavaJava.M.MouseEvent-org-w3c-dom-events
-category: java
+category: Java
 tags: ['java se', 'org.w3c.dom.events', 'java.xml', 'metodo java', 'Java 1.5', 'DOM Level 2']
 sidebar: 
   nav: java

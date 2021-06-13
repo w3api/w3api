@@ -3,7 +3,7 @@ title: BorderUIResource.CompoundBorderUIResource
 permalink: /Java/BorderUIResource/CompoundBorderUIResource/
 date: 2021-01-11
 key: Java.B.BorderUIResource.CompoundBorderUIResource
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

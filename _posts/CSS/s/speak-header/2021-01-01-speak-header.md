@@ -3,7 +3,7 @@ title: speak-header
 permalink: /CSS/speak-header/
 date: 2021-03-07 03:11:36.379206
 key: CSS.s.speak-header
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

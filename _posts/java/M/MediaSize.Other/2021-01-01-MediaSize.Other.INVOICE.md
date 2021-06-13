@@ -3,7 +3,7 @@ title: MediaSize.Other.INVOICE
 permalink: Java/MediaSize/Other/INVOICE
 date: 2021-01-11
 key: JavaJava.M.MediaSize.Other
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

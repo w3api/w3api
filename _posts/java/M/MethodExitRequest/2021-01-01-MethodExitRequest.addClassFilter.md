@@ -3,7 +3,7 @@ title: MethodExitRequest.addClassFilter()
 permalink: Java/MethodExitRequest/addClassFilter
 date: 2021-01-11
 key: JavaJava.M.MethodExitRequest
-category: java
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

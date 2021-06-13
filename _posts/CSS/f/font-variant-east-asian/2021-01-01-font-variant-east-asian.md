@@ -3,7 +3,7 @@ title: font-variant-east-asian
 permalink: /CSS/font-variant-east-asian/
 date: 2021-03-07 03:03:18.589259
 key: CSS.f.font-variant-east-asian
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

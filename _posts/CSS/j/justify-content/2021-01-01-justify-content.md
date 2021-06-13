@@ -3,7 +3,7 @@ title: justify-content
 permalink: /CSS/justify-content/
 date: 2021-03-07 03:05:12.839749
 key: CSS.j.justify-content
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

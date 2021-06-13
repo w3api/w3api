@@ -3,7 +3,7 @@ title: text-orientation
 permalink: /CSS/text-orientation/
 date: 2021-03-07 03:12:27.253892
 key: CSS.t.text-orientation
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

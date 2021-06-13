@@ -3,7 +3,7 @@ title: ModuleLayer
 permalink: Java/ModuleLayer
 date: 2021-01-11
 key: JavaJava.M.ModuleLayer
-category: java
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 9']
 sidebar: 
   nav: java

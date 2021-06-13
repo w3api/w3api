@@ -3,7 +3,7 @@ title: MouseEvent.MOUSE_CLICKED
 permalink: Java/MouseEvent-java-awt-event/MOUSE_CLICKED
 date: 2021-01-11
 key: JavaJava.M.MouseEvent-java-awt-event
-category: java
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: scroll-snap-type
 permalink: /CSS/scroll-snap-type/
 date: 2021-03-07 03:11:24.053596
 key: CSS.s.scroll-snap-type
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

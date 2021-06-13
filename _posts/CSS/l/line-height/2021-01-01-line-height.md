@@ -3,7 +3,7 @@ title: line-height
 permalink: /CSS/line-height/
 date: 2021-03-07 03:05:45.610065
 key: CSS.l.line-height
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

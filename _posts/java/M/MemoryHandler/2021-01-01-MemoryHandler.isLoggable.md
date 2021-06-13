@@ -3,7 +3,7 @@ title: MemoryHandler.isLoggable()
 permalink: Java/MemoryHandler/isLoggable
 date: 2021-01-11
 key: JavaJava.M.MemoryHandler
-category: java
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

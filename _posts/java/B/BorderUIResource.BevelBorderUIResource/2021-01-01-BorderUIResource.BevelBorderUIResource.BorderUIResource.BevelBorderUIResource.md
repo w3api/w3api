@@ -3,7 +3,7 @@ title: BorderUIResource.BevelBorderUIResource.BorderUIResource.BevelBorderUIReso
 permalink: /Java/BorderUIResource/BevelBorderUIResource/BorderUIResource/BevelBorderUIResource/
 date: 2021-01-11
 key: Java.B.BorderUIResource.BevelBorderUIResource
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

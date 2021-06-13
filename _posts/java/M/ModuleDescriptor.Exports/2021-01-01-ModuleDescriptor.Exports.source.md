@@ -3,7 +3,7 @@ title: ModuleDescriptor.Exports.source()
 permalink: Java/ModuleDescriptor/Exports/source
 date: 2021-01-11
 key: JavaJava.M.ModuleDescriptor.Exports
-category: java
+category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

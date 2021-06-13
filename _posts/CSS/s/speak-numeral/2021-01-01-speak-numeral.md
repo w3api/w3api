@@ -3,7 +3,7 @@ title: speak-numeral
 permalink: /CSS/speak-numeral/
 date: 2021-03-07 03:11:37.200426
 key: CSS.s.speak-numeral
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: writing-mode
 permalink: /CSS/writing-mode/
 date: 2021-03-07 03:14:02.237546
 key: CSS.w.writing-mode
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

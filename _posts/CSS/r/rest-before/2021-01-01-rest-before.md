@@ -3,7 +3,7 @@ title: rest-before
 permalink: /CSS/rest-before/
 date: 2021-03-07 03:10:15.258976
 key: CSS.r.rest-before
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: MarshalException.MarshalException()
 permalink: Java/MarshalException-java-rmi/MarshalException
 date: 2021-01-11
 key: JavaJava.M.MarshalException-java-rmi
-category: java
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

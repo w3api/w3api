@@ -3,7 +3,7 @@ title: object-position
 permalink: /CSS/object-position/
 date: 2021-03-07 03:08:11.219691
 key: CSS.o.object-position
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

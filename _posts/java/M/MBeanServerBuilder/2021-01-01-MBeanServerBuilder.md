@@ -3,7 +3,7 @@ title: MBeanServerBuilder
 permalink: Java/MBeanServerBuilder
 date: 2021-01-11
 key: JavaJava.M.MBeanServerBuilder
-category: java
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

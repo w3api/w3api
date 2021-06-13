@@ -3,7 +3,7 @@ title: flood-opacity
 permalink: /CSS/flood-opacity/
 date: 2021-03-07 03:02:55.279722
 key: CSS.f.flood-opacity
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

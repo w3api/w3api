@@ -3,7 +3,7 @@ title: MemoryNotificationInfo.MEMORY_COLLECTION_THRESHOLD_EXCEEDED
 permalink: Java/MemoryNotificationInfo/MEMORY_COLLECTION_THRESHOLD_EXCEEDED
 date: 2021-01-11
 key: JavaJava.M.MemoryNotificationInfo
-category: java
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

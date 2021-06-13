@@ -3,7 +3,7 @@ title: counter-style
 permalink: /CSS/counter-style/
 date: 2021-03-07 02:57:10.363780
 key: CSS.c.counter-style
-category: css
+category: CSS
 tags: ['regla css']
 sidebar: 
   nav: css

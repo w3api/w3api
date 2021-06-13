@@ -3,7 +3,7 @@ title: MethodSnippet.signature()
 permalink: Java/MethodSnippet/signature
 date: 2021-01-11
 key: JavaJava.M.MethodSnippet
-category: java
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

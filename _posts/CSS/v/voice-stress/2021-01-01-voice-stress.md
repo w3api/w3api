@@ -3,7 +3,7 @@ title: voice-stress
 permalink: /CSS/voice-stress/
 date: 2021-03-07 03:13:33.980978
 key: CSS.v.voice-stress
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

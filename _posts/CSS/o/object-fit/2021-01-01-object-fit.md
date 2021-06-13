@@ -3,7 +3,7 @@ title: object-fit
 permalink: /CSS/object-fit/
 date: 2021-03-07 03:08:08.639092
 key: CSS.o.object-fit
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

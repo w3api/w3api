@@ -3,7 +3,7 @@ title: MethodTree.getName()
 permalink: Java/MethodTree/getName
 date: 2021-01-11
 key: JavaJava.M.MethodTree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: MemoryMXBean
 permalink: Java/MemoryMXBean
 date: 2021-01-11
 key: JavaJava.M.MemoryMXBean
-category: java
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

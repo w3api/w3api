@@ -3,7 +3,7 @@ title: counter-reset
 permalink: /CSS/counter-reset/
 date: 2021-03-07 03:01:39.269151
 key: CSS.c.counter-reset
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

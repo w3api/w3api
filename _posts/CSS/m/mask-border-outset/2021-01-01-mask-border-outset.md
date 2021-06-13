@@ -3,7 +3,7 @@ title: mask-border-outset
 permalink: /CSS/mask-border-outset/
 date: 2021-03-07 03:06:58.862532
 key: CSS.m.mask-border-outset
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

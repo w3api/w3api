@@ -3,7 +3,7 @@ title: text-underline-position
 permalink: /CSS/text-underline-position/
 date: 2021-03-07 03:12:36.219202
 key: CSS.t.text-underline-position
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

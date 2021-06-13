@@ -3,7 +3,7 @@ title: MapPropertyBase
 permalink: Java/MapPropertyBase
 date: 2021-01-11
 key: JavaJava.M.MapPropertyBase
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

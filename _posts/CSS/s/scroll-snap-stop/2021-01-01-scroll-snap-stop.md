@@ -3,7 +3,7 @@ title: scroll-snap-stop
 permalink: /CSS/scroll-snap-stop/
 date: 2021-03-07 03:11:21.799498
 key: CSS.s.scroll-snap-stop
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

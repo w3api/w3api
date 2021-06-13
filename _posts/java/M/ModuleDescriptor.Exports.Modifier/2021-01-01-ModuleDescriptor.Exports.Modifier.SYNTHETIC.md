@@ -3,7 +3,7 @@ title: ModuleDescriptor.Exports.Modifier.SYNTHETIC
 permalink: Java/ModuleDescriptor/Exports/Modifier/SYNTHETIC
 date: 2021-01-11
 key: JavaJava.M.ModuleDescriptor.Exports.Modifier
-category: java
+category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'campo java', 'Java 9']
 sidebar: 
   nav: java

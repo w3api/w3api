@@ -3,7 +3,7 @@ title: ModuleTree.getModuleType()
 permalink: Java/ModuleTree-com-sun-source-tree/getModuleType
 date: 2021-01-11
 key: JavaJava.M.ModuleTree-com-sun-source-tree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

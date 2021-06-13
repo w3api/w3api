@@ -3,7 +3,7 @@ title: font-synthesis
 permalink: /CSS/font-synthesis/
 date: 2021-03-07 03:03:11.661427
 key: CSS.f.font-synthesis
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

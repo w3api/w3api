@@ -3,7 +3,7 @@ title: cue-before
 permalink: /CSS/cue-before/
 date: 2021-03-07 03:01:46.594378
 key: CSS.c.cue-before
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

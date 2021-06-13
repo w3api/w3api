@@ -3,7 +3,7 @@ title: font-weight
 permalink: /CSS/font-weight/
 date: 2021-03-07 03:03:25.637681
 key: CSS.f.font-weight
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

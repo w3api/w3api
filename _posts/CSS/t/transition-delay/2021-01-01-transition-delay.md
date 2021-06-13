@@ -3,7 +3,7 @@ title: transition-delay
 permalink: /CSS/transition-delay/
 date: 2021-03-07 03:12:54.694434
 key: CSS.t.transition-delay
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

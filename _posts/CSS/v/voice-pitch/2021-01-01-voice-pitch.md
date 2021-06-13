@@ -3,7 +3,7 @@ title: voice-pitch
 permalink: /CSS/voice-pitch/
 date: 2021-03-07 03:13:26.597413
 key: CSS.v.voice-pitch
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

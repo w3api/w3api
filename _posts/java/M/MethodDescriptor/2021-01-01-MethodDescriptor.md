@@ -3,7 +3,7 @@ title: MethodDescriptor
 permalink: Java/MethodDescriptor
 date: 2021-01-11
 key: JavaJava.M.MethodDescriptor
-category: java
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

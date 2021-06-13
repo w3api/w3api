@@ -3,7 +3,7 @@ title: text-indent
 permalink: /CSS/text-indent/
 date: 2021-03-07 03:12:21.030923
 key: CSS.t.text-indent
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: MalformedParameterizedTypeException.MalformedParameterizedTypeException()
 permalink: Java/MalformedParameterizedTypeException/MalformedParameterizedTypeException
 date: 2021-01-11
 key: JavaJava.M.MalformedParameterizedTypeException
-category: java
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

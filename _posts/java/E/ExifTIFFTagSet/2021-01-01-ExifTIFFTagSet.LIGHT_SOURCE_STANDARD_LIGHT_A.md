@@ -3,7 +3,7 @@ title: ExifTIFFTagSet.LIGHT_SOURCE_STANDARD_LIGHT_A
 permalink: Java/ExifTIFFTagSet/LIGHT_SOURCE_STANDARD_LIGHT_A
 date: 2021-01-11
 key: JavaJava.E.ExifTIFFTagSet
-category: java
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

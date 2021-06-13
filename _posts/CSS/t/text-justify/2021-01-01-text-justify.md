@@ -3,7 +3,7 @@ title: text-justify
 permalink: /CSS/text-justify/
 date: 2021-03-07 03:12:24.049708
 key: CSS.t.text-justify
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

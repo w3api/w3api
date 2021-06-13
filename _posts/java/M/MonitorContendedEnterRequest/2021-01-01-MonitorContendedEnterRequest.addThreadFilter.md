@@ -3,7 +3,7 @@ title: MonitorContendedEnterRequest.addThreadFilter()
 permalink: Java/MonitorContendedEnterRequest/addThreadFilter
 date: 2021-01-11
 key: JavaJava.M.MonitorContendedEnterRequest
-category: java
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

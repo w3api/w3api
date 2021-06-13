@@ -3,7 +3,7 @@ title: column-rule
 permalink: /CSS/column-rule/
 date: 2021-03-07 03:01:01.851714
 key: CSS.c.column-rule
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

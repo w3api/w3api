@@ -3,7 +3,7 @@ title: mix-blend-mode
 permalink: /CSS/mix-blend-mode/
 date: 2021-03-07 03:08:06.358234
 key: CSS.m.mix-blend-mode
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

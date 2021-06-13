@@ -3,7 +3,7 @@ title: MouseListener.mouseExited()
 permalink: Java/MouseListener/mouseExited
 date: 2021-01-11
 key: JavaJava.M.MouseListener
-category: java
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

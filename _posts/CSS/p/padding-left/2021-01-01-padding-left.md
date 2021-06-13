@@ -3,7 +3,7 @@ title: padding-left
 permalink: /CSS/padding-left/
 date: 2021-03-07 03:08:58.340695
 key: CSS.p.padding-left
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

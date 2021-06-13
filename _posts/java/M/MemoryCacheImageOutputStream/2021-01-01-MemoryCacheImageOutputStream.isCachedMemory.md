@@ -3,7 +3,7 @@ title: MemoryCacheImageOutputStream.isCachedMemory()
 permalink: Java/MemoryCacheImageOutputStream/isCachedMemory
 date: 2021-01-11
 key: JavaJava.M.MemoryCacheImageOutputStream
-category: java
+category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

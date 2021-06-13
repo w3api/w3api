@@ -3,7 +3,7 @@ title: grid-template-columns
 permalink: /CSS/grid-template-columns/
 date: 2021-03-07 03:04:46.017634
 key: CSS.g.grid-template-columns
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

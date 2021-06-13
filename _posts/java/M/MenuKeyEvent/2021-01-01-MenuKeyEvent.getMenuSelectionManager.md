@@ -3,7 +3,7 @@ title: MenuKeyEvent.getMenuSelectionManager()
 permalink: Java/MenuKeyEvent/getMenuSelectionManager
 date: 2021-01-11
 key: JavaJava.M.MenuKeyEvent
-category: java
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

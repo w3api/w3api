@@ -3,7 +3,7 @@ title: ModuleReference.name()
 permalink: Java/ModuleReference-com-sun-jdi/name
 date: 2021-01-11
 key: JavaJava.M.ModuleReference-com-sun-jdi
-category: java
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: MinguoDate
 permalink: Java/MinguoDate
 date: 2021-01-11
 key: JavaJava.M.MinguoDate
-category: java
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

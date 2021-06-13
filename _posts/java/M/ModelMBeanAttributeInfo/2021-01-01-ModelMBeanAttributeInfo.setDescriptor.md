@@ -3,7 +3,7 @@ title: ModelMBeanAttributeInfo.setDescriptor()
 permalink: Java/ModelMBeanAttributeInfo/setDescriptor
 date: 2021-01-11
 key: JavaJava.M.ModelMBeanAttributeInfo
-category: java
+category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

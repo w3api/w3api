@@ -3,7 +3,7 @@ title: padding-bottom
 permalink: /CSS/padding-bottom/
 date: 2021-03-07 03:08:51.628878
 key: CSS.p.padding-bottom
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

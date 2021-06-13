@@ -3,7 +3,7 @@ title: font-variant-caps
 permalink: /CSS/font-variant-caps/
 date: 2021-03-07 03:03:16.955472
 key: CSS.f.font-variant-caps
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

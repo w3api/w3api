@@ -3,7 +3,7 @@ title: list-style-image
 permalink: /CSS/list-style-image/
 date: 2021-03-07 03:05:59.007340
 key: CSS.l.list-style-image
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

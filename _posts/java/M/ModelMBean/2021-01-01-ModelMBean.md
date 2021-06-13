@@ -3,7 +3,7 @@ title: ModelMBean
 permalink: Java/ModelMBean
 date: 2021-01-11
 key: JavaJava.M.ModelMBean
-category: java
+category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

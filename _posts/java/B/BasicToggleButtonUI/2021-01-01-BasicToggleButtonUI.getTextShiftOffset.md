@@ -3,7 +3,7 @@ title: BasicToggleButtonUI.getTextShiftOffset()
 permalink: /Java/BasicToggleButtonUI/getTextShiftOffset/
 date: 2021-01-11
 key: Java.B.BasicToggleButtonUI
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

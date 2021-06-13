@@ -3,7 +3,7 @@ title: outline-width
 permalink: /CSS/outline-width/
 date: 2021-03-07 03:08:27.927652
 key: CSS.o.outline-width
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

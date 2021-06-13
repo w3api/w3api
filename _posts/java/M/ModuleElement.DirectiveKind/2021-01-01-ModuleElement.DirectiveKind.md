@@ -3,7 +3,7 @@ title: ModuleElement.DirectiveKind
 permalink: Java/ModuleElement/DirectiveKind
 date: 2021-01-11
 key: JavaJava.M.ModuleElement.DirectiveKind
-category: java
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'enumerado java', 'Java 9']
 sidebar: 
   nav: java

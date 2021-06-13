@@ -3,7 +3,7 @@ title: mask-repeat
 permalink: /CSS/mask-repeat/
 date: 2021-03-07 03:07:31.785673
 key: CSS.m.mask-repeat
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

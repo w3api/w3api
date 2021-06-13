@@ -3,7 +3,7 @@ title: mask-composite
 permalink: /CSS/mask-composite/
 date: 2021-03-07 03:07:17.076374
 key: CSS.m.mask-composite
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: lighting-color
 permalink: /CSS/lighting-color/
 date: 2021-03-07 03:05:35.401500
 key: CSS.l.lighting-color
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

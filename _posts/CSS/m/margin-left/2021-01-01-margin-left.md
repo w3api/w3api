@@ -3,7 +3,7 @@ title: margin-left
 permalink: /CSS/margin-left/
 date: 2021-03-07 03:06:33.509204
 key: CSS.m.margin-left
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

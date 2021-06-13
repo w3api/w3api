@@ -3,7 +3,7 @@ title: MonitorWaitEvent.monitor()
 permalink: Java/MonitorWaitEvent/monitor
 date: 2021-01-11
 key: JavaJava.M.MonitorWaitEvent
-category: java
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

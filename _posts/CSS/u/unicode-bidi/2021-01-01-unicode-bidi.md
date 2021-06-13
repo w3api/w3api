@@ -3,7 +3,7 @@ title: unicode-bidi
 permalink: /CSS/unicode-bidi/
 date: 2021-03-07 03:13:03.811848
 key: CSS.u.unicode-bidi
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: line-break
 permalink: /CSS/line-break/
 date: 2021-03-07 03:05:38.590276
 key: CSS.l.line-break
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

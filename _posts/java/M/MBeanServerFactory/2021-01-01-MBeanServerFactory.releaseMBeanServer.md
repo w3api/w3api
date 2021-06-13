@@ -3,7 +3,7 @@ title: MBeanServerFactory.releaseMBeanServer()
 permalink: Java/MBeanServerFactory/releaseMBeanServer
 date: 2021-01-11
 key: JavaJava.M.MBeanServerFactory
-category: java
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

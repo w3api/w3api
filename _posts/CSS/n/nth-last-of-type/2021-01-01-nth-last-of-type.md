@@ -3,7 +3,7 @@ title: nth-last-of-type
 permalink: /CSS/nth-last-of-type/
 date: 2021-03-07 02:57:10.355852
 key: CSS.n.nth-last-of-type
-category: css
+category: CSS
 tags: ['selector css']
 sidebar: 
   nav: css

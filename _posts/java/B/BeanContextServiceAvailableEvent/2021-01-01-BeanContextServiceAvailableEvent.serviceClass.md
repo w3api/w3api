@@ -3,7 +3,7 @@ title: BeanContextServiceAvailableEvent.serviceClass
 permalink: /Java/BeanContextServiceAvailableEvent/serviceClass/
 date: 2021-01-11
 key: Java.B.BeanContextServiceAvailableEvent
-category: java
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

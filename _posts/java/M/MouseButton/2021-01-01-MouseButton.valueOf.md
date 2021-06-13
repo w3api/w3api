@@ -3,7 +3,7 @@ title: MouseButton.valueOf()
 permalink: Java/MouseButton/valueOf
 date: 2021-01-11
 key: JavaJava.M.MouseButton
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: MBeanServerDelegateMBean.getMBeanServerId()
 permalink: Java/MBeanServerDelegateMBean/getMBeanServerId
 date: 2021-01-11
 key: JavaJava.M.MBeanServerDelegateMBean
-category: java
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

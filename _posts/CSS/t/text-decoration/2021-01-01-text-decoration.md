@@ -3,7 +3,7 @@ title: text-decoration
 permalink: /CSS/text-decoration/
 date: 2021-03-07 03:12:03.677955
 key: CSS.t.text-decoration
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

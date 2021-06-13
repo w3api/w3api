@@ -3,7 +3,7 @@ title: column-rule-color
 permalink: /CSS/column-rule-color/
 date: 2021-03-07 03:01:03.930636
 key: CSS.c.column-rule-color
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

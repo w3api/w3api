@@ -3,7 +3,7 @@ title: BooleanControl.toString()
 permalink: /Java/BooleanControl/toString/
 date: 2021-01-11
 key: Java.B.BooleanControl
-category: java
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

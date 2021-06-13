@@ -3,7 +3,7 @@ title: BufferStrategy.show()
 permalink: /Java/BufferStrategy/show/
 date: 2021-01-11
 key: Java.B.BufferStrategy
-category: java
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

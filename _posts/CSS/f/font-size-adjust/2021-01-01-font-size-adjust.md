@@ -3,7 +3,7 @@ title: font-size-adjust
 permalink: /CSS/font-size-adjust/
 date: 2021-03-07 03:03:05.770532
 key: CSS.f.font-size-adjust
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

@@ -3,7 +3,7 @@ title: MediaSize.ISO.C3
 permalink: Java/MediaSize/ISO/C3
 date: 2021-01-11
 key: JavaJava.M.MediaSize.ISO
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

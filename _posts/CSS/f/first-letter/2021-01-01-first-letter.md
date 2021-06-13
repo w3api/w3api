@@ -3,7 +3,7 @@ title: first-letter
 permalink: /CSS/first-letter/
 date: 2021-03-07 02:57:10.353594
 key: CSS.f.first-letter
-category: css
+category: CSS
 tags: ['selector css']
 sidebar: 
   nav: css

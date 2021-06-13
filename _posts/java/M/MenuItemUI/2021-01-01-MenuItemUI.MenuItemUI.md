@@ -3,7 +3,7 @@ title: MenuItemUI.MenuItemUI()
 permalink: Java/MenuItemUI/MenuItemUI
 date: 2021-01-11
 key: JavaJava.M.MenuItemUI
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

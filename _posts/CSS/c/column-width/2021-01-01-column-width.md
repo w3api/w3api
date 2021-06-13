@@ -3,7 +3,7 @@ title: column-width
 permalink: /CSS/column-width/
 date: 2021-03-07 03:01:15.362953
 key: CSS.c.column-width
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

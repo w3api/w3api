@@ -3,7 +3,7 @@ title: scroll-padding-block-end
 permalink: /CSS/scroll-padding-block-end/
 date: 2021-03-07 03:10:58.658678
 key: CSS.s.scroll-padding-block-end
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

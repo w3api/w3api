@@ -3,7 +3,7 @@ title: scroll-margin-inline
 permalink: /CSS/scroll-margin-inline/
 date: 2021-03-07 03:10:40.690397
 key: CSS.s.scroll-margin-inline
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

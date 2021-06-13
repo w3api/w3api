@@ -3,7 +3,7 @@ title: MetalIconFactory.FolderIcon16
 permalink: Java/MetalIconFactory/FolderIcon16
 date: 2021-01-11
 key: JavaJava.M.MetalIconFactory.FolderIcon16
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

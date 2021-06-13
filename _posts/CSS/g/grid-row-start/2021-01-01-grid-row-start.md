@@ -3,7 +3,7 @@ title: grid-row-start
 permalink: /CSS/grid-row-start/
 date: 2021-03-07 03:04:32.487929
 key: CSS.g.grid-row-start
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

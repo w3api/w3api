@@ -3,7 +3,7 @@ title: grid-column-end
 permalink: /CSS/grid-column-end/
 date: 2021-03-07 03:04:05.915279
 key: CSS.g.grid-column-end
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

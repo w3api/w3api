@@ -3,7 +3,7 @@ title: ModuleTree
 permalink: Java/ModuleTree/
 date: 2021-01-11
 key: JavaJava.M.ModuleTree
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

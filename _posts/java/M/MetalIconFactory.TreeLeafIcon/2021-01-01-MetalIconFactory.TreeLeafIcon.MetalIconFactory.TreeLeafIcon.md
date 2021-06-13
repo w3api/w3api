@@ -3,7 +3,7 @@ title: MetalIconFactory.TreeLeafIcon.MetalIconFactory.TreeLeafIcon()
 permalink: Java/MetalIconFactory/TreeLeafIcon/MetalIconFactory/TreeLeafIcon
 date: 2021-01-11
 key: JavaJava.M.MetalIconFactory.TreeLeafIcon
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

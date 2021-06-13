@@ -3,7 +3,7 @@ title: font-variant-ligatures
 permalink: /CSS/font-variant-ligatures/
 date: 2021-03-07 03:03:20.221351
 key: CSS.f.font-variant-ligatures
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css

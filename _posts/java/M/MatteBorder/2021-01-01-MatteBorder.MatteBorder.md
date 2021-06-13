@@ -3,7 +3,7 @@ title: MatteBorder.MatteBorder()
 permalink: Java/MatteBorder/MatteBorder
 date: 2021-01-11
 key: JavaJava.M.MatteBorder
-category: java
+category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

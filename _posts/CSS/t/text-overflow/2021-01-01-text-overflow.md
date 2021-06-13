@@ -3,7 +3,7 @@ title: text-overflow
 permalink: /CSS/text-overflow/
 date: 2021-03-07 03:12:29.245194
 key: CSS.t.text-overflow
-category: css
+category: CSS
 tags: ['propiedad css']
 sidebar: 
   nav: css
