@@ -3,7 +3,7 @@ title: WindowAdapter.windowLostFocus()
 permalink: /Java/WindowAdapter/windowLostFocus/
 date: 2021-01-11
 key: Java.W.WindowAdapter
-category: java
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: Uint8ClampedArray.@@iterator()
 permalink: /Javascript/Uint8ClampedArray/@@iterator/
 date: 2021-01-11
 key: Javascript.U.Uint8ClampedArray
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

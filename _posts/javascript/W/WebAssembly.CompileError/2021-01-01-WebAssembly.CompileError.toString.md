@@ -3,7 +3,7 @@ title: WebAssembly.CompileError.toString()
 permalink: /Javascript/WebAssembly/CompileError/toString/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.CompileError
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

@@ -3,7 +3,7 @@ title: RangeError.name
 permalink: /Javascript/RangeError/name/
 date: 2021-01-11
 key: Javascript.R.RangeError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

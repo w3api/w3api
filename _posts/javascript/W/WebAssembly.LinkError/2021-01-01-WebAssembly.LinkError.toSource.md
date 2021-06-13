@@ -3,7 +3,7 @@ title: WebAssembly.LinkError.toSource()
 permalink: /Javascript/WebAssembly/LinkError/toSource/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.LinkError
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

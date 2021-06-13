@@ -3,7 +3,7 @@ title: WeakReference.WeakReference()
 permalink: /Java/WeakReference/WeakReference/
 date: 2021-01-11
 key: Java.W.WeakReference
-category: java
+category: Java
 tags: ['java se', 'java.lang.ref', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

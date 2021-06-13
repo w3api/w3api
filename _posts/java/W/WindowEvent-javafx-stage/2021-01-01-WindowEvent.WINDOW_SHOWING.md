@@ -3,7 +3,7 @@ title: WindowEvent.WINDOW_SHOWING
 permalink: /Java/WindowEvent-javafx-stage/WINDOW_SHOWING/
 date: 2021-01-11
 key: Java.W.WindowEvent-javafx-stage
-category: java
+category: Java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

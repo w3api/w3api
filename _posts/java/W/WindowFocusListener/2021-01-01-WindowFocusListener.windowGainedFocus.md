@@ -3,7 +3,7 @@ title: WindowFocusListener.windowGainedFocus()
 permalink: /Java/WindowFocusListener/windowGainedFocus/
 date: 2021-01-11
 key: Java.W.WindowFocusListener
-category: java
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

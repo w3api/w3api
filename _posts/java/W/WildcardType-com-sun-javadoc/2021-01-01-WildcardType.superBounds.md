@@ -3,7 +3,7 @@ title: WildcardType.superBounds()
 permalink: /Java/WildcardType-com-sun-javadoc/superBounds/
 date: 2021-01-11
 key: Java.W.WildcardType-com-sun-javadoc
-category: java
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: BigInt64Array.buffer
 permalink: /Javascript/BigInt64Array/buffer/
 date: 2021-01-11
 key: Javascript.B.BigInt64Array
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

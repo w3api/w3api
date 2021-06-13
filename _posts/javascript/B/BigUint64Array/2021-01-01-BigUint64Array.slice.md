@@ -3,7 +3,7 @@ title: BigUint64Array.slice()
 permalink: /Javascript/BigUint64Array/slice/
 date: 2021-01-11
 key: Javascript.B.BigUint64Array
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

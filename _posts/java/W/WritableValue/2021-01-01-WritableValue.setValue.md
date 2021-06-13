@@ -3,7 +3,7 @@ title: WritableValue.setValue()
 permalink: /Java/WritableValue/setValue/
 date: 2021-01-11
 key: Java.W.WritableValue
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

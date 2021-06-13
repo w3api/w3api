@@ -3,7 +3,7 @@ title: Generator.return()
 permalink: /Javascript/Generator/return/
 date: 2021-01-11
 key: Javascript.G.Generator
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

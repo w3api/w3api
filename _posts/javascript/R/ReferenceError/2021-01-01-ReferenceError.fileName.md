@@ -3,7 +3,7 @@ title: ReferenceError.fileName
 permalink: /Javascript/ReferenceError/fileName/
 date: 2021-01-11
 key: Javascript.R.ReferenceError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

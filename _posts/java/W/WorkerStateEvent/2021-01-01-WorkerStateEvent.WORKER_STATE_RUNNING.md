@@ -3,7 +3,7 @@ title: WorkerStateEvent.WORKER_STATE_RUNNING
 permalink: /Java/WorkerStateEvent/WORKER_STATE_RUNNING/
 date: 2021-01-11
 key: Java.W.WorkerStateEvent
-category: java
+category: Java
 tags: ['java se', 'javafx.concurrent', 'javafx.graphics', 'campo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

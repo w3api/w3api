@@ -3,7 +3,7 @@ title: TypeError.columnNumber
 permalink: /Javascript/TypeError/columnNumber/
 date: 2021-01-11
 key: Javascript.T.TypeError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

@@ -3,7 +3,7 @@ title: BigInt64Array.values()
 permalink: /Javascript/BigInt64Array/values/
 date: 2021-01-11
 key: Javascript.B.BigInt64Array
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

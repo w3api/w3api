@@ -3,7 +3,7 @@ title: SyntaxError.fileName
 permalink: /Javascript/SyntaxError/fileName/
 date: 2021-01-11
 key: Javascript.S.SyntaxError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

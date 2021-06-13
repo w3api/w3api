@@ -3,7 +3,7 @@ title: WebAssembly.LinkError.WebAssembly.LinkError()
 permalink: /Javascript/WebAssembly/LinkError/WebAssembly/LinkError/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.LinkError
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

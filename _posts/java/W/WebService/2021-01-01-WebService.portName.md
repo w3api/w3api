@@ -3,7 +3,7 @@ title: WebService.portName
 permalink: /Java/WebService/portName/
 date: 2021-01-11
 key: Java.W.WebService
-category: java
+category: Java
 tags: ['java se', 'javax.jws', 'java.xml.ws', 'elemento java', 'Java 1.6']
 sidebar: 
   nav: java

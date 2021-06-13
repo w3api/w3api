@@ -3,7 +3,7 @@ title: WeakListener.wasGarbageCollected()
 permalink: /Java/WeakListener/wasGarbageCollected/
 date: 2021-01-11
 key: Java.W.WeakListener
-category: java
+category: Java
 tags: ['java se', 'javafx.beans', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

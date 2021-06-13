@@ -3,7 +3,7 @@ title: WebHistory.currentIndexProperty()
 permalink: /Java/WebHistory/currentIndexProperty/
 date: 2021-01-11
 key: Java.W.WebHistory
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

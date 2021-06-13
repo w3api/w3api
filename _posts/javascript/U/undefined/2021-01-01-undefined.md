@@ -3,7 +3,7 @@ title: undefined
 permalink: /Javascript/undefined/
 date: 2021-01-11
 key: Javascript.U.undefined
-category: javascript
+category: Javascript
 tags: ['funcion javascript']
 sidebar: 
   nav: javascript

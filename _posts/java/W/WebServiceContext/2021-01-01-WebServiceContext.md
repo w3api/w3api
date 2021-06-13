@@ -3,7 +3,7 @@ title: WebServiceContext
 permalink: /Java/WebServiceContext/
 date: 2021-01-11
 key: Java.W.WebServiceContext
-category: java
+category: Java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'interface java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

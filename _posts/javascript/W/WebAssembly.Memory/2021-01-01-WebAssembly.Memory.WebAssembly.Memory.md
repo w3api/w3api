@@ -3,7 +3,7 @@ title: WebAssembly.Memory.WebAssembly.Memory()
 permalink: /Javascript/WebAssembly/Memory/WebAssembly/Memory/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.Memory
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

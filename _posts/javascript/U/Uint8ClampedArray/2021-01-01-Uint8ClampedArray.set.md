@@ -3,7 +3,7 @@ title: Uint8ClampedArray.set()
 permalink: /Javascript/Uint8ClampedArray/set/
 date: 2021-01-11
 key: Javascript.U.Uint8ClampedArray
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

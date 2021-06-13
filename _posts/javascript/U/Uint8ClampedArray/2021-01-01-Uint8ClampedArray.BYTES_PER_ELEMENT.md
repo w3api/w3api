@@ -3,7 +3,7 @@ title: Uint8ClampedArray.BYTES_PER_ELEMENT
 permalink: /Javascript/Uint8ClampedArray/BYTES_PER_ELEMENT/
 date: 2021-01-11
 key: Javascript.U.Uint8ClampedArray
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

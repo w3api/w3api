@@ -3,7 +3,7 @@ title: WebAssembly.CompileError.stack
 permalink: /Javascript/WebAssembly/CompileError/stack/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.CompileError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

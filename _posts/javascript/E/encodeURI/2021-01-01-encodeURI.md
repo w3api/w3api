@@ -3,7 +3,7 @@ title: encodeURI
 permalink: /Javascript/encodeURI/
 date: 2021-01-11
 key: Javascript.E.encodeURI
-category: javascript
+category: Javascript
 tags: ['funcion javascript']
 sidebar: 
   nav: javascript

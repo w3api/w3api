@@ -3,7 +3,7 @@ title: BigUint64Array.reduceRight()
 permalink: /Javascript/BigUint64Array/reduceRight/
 date: 2021-01-11
 key: Javascript.B.BigUint64Array
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

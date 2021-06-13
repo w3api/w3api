@@ -3,7 +3,7 @@ title: WebAssembly.Table.set()
 permalink: /Javascript/WebAssembly/Table/set/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.Table
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

@@ -3,7 +3,7 @@ title: WebServiceFeature
 permalink: /Java/WebServiceFeature/
 date: 2021-01-11
 key: Java.W.WebServiceFeature
-category: java
+category: Java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'clase java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 
   nav: java

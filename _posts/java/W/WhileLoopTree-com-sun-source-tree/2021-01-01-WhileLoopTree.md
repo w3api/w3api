@@ -3,7 +3,7 @@ title: WhileLoopTree
 permalink: /Java/WhileLoopTree-com-sun-source-tree/
 date: 2021-01-11
 key: Java.W.WhileLoopTree-com-sun-source-tree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

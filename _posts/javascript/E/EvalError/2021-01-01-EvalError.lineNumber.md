@@ -3,7 +3,7 @@ title: EvalError.lineNumber
 permalink: /Javascript/EvalError/lineNumber/
 date: 2021-01-11
 key: Javascript.E.EvalError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

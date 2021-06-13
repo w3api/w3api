@@ -3,7 +3,7 @@ title: WebSocket.MessagePart.LAST
 permalink: /Java/WebSocket/MessagePart/LAST/
 date: 2021-01-11
 key: Java.W.WebSocket.MessagePart
-category: java
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'campo java', 'Java 9']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: WildcardType.getUpperBounds()
 permalink: /Java/WildcardType-java-lang-reflect/getUpperBounds/
 date: 2021-01-11
 key: Java.W.WildcardType-java-lang-reflect
-category: java
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

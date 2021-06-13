@@ -3,7 +3,7 @@ title: WatchpointRequest.addClassFilter()
 permalink: /Java/WatchpointRequest/addClassFilter/
 date: 2021-01-11
 key: Java.W.WatchpointRequest
-category: java
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

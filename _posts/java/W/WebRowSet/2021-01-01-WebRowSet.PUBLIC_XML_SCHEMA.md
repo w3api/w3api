@@ -3,7 +3,7 @@ title: WebRowSet.PUBLIC_XML_SCHEMA
 permalink: /Java/WebRowSet/PUBLIC_XML_SCHEMA/
 date: 2021-01-11
 key: Java.W.WebRowSet
-category: java
+category: Java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

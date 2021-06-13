@@ -3,7 +3,7 @@ title: WebAssembly.Module.imports
 permalink: /Javascript/WebAssembly/Module/imports/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.Module
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

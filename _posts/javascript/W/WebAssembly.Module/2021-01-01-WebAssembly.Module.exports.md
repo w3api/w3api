@@ -3,7 +3,7 @@ title: WebAssembly.Module.exports
 permalink: /Javascript/WebAssembly/Module/exports/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.Module
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

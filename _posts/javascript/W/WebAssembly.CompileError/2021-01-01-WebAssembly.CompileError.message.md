@@ -3,7 +3,7 @@ title: WebAssembly.CompileError.message
 permalink: /Javascript/WebAssembly/CompileError/message/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.CompileError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

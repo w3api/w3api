@@ -3,7 +3,7 @@ title: WebAssembly.RuntimeError.columnNumber
 permalink: /Javascript/WebAssembly/RuntimeError/columnNumber/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.RuntimeError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

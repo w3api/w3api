@@ -3,7 +3,7 @@ title: WebAssembly.Table
 permalink: /Javascript/WebAssembly/Table/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.Table
-category: javascript
+category: Javascript
 tags: ['objeto javascript']
 sidebar: 
   nav: javascript

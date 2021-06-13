@@ -3,7 +3,7 @@ title: WildcardType.getSuperBound()
 permalink: /Java/WildcardType-javax-lang-model-type/getSuperBound/
 date: 2021-01-11
 key: Java.W.WildcardType-javax-lang-model-type
-category: java
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

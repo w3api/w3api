@@ -3,7 +3,7 @@ title: WritableImage.getPixelWriter()
 permalink: /Java/WritableImage/getPixelWriter/
 date: 2021-01-11
 key: Java.W.WritableImage
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

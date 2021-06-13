@@ -3,7 +3,7 @@ title: WeakInvalidationListener.WeakInvalidationListener()
 permalink: /Java/WeakInvalidationListener/WeakInvalidationListener/
 date: 2021-01-11
 key: Java.W.WeakInvalidationListener
-category: java
+category: Java
 tags: ['java se', 'javafx.beans', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

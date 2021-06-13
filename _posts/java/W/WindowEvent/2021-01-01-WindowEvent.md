@@ -3,7 +3,7 @@ title: WindowEvent
 permalink: /Java/WindowEvent//
 date: 2021-01-11
 key: Java.W.WindowEvent
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: SyntaxError.SyntaxError()
 permalink: /Javascript/SyntaxError/SyntaxError/
 date: 2021-01-11
 key: Javascript.S.SyntaxError
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

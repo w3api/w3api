@@ -3,7 +3,7 @@ title: WebAssembly.Instance.WebAssembly.Instance()
 permalink: /Javascript/WebAssembly/Instance/WebAssembly/Instance/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.Instance
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

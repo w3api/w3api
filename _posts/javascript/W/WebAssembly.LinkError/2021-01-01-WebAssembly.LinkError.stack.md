@@ -3,7 +3,7 @@ title: WebAssembly.LinkError.stack
 permalink: /Javascript/WebAssembly/LinkError/stack/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.LinkError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

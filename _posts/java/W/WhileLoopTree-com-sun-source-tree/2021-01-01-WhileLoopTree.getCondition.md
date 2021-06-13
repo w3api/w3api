@@ -3,7 +3,7 @@ title: WhileLoopTree.getCondition()
 permalink: /Java/WhileLoopTree-com-sun-source-tree/getCondition/
 date: 2021-01-11
 key: Java.W.WhileLoopTree-com-sun-source-tree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

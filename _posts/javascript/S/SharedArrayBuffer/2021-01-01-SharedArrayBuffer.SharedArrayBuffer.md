@@ -3,7 +3,7 @@ title: SharedArrayBuffer.SharedArrayBuffer()
 permalink: /Javascript/SharedArrayBuffer/SharedArrayBuffer/
 date: 2021-01-11
 key: Javascript.S.SharedArrayBuffer
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

@@ -3,7 +3,7 @@ title: globalThis
 permalink: /Javascript/globalThis/
 date: 2021-01-11
 key: Javascript.G.globalThis
-category: javascript
+category: Javascript
 tags: ['funcion javascript']
 sidebar: 
   nav: javascript

@@ -3,7 +3,7 @@ title: BigInt64Array.join()
 permalink: /Javascript/BigInt64Array/join/
 date: 2021-01-11
 key: Javascript.B.BigInt64Array
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

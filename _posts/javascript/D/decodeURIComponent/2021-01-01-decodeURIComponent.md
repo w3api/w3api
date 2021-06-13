@@ -3,7 +3,7 @@ title: decodeURIComponent
 permalink: /Javascript/decodeURIComponent/
 date: 2021-01-11
 key: Javascript.D.decodeURIComponent
-category: javascript
+category: Javascript
 tags: ['funcion javascript']
 sidebar: 
   nav: javascript

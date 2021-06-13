@@ -3,7 +3,7 @@ title: WebServicePermission.WebServicePermission()
 permalink: /Java/WebServicePermission/WebServicePermission/
 date: 2021-01-11
 key: Java.W.WebServicePermission
-category: java
+category: Java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: BigInt64Array.BigInt64Array()
 permalink: /Javascript/BigInt64Array/BigInt64Array/
 date: 2021-01-11
 key: Javascript.B.BigInt64Array
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

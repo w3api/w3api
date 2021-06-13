@@ -3,7 +3,7 @@ title: RangeError.RangeError()
 permalink: /Javascript/RangeError/RangeError/
 date: 2021-01-11
 key: Javascript.R.RangeError
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

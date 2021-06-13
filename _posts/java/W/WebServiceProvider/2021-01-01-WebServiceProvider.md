@@ -3,7 +3,7 @@ title: WebServiceProvider
 permalink: /Java/WebServiceProvider/
 date: 2021-01-11
 key: Java.W.WebServiceProvider
-category: java
+category: Java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'anotacion java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

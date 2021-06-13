@@ -3,7 +3,7 @@ title: WebAssembly.Table.Table.prototype.length
 permalink: /Javascript/WebAssembly/Table/Table.prototype.length/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.Table
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

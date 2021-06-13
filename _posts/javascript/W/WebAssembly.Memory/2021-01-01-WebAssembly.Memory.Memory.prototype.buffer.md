@@ -3,7 +3,7 @@ title: WebAssembly.Memory.Memory.prototype.buffer
 permalink: /Javascript/WebAssembly/Memory/Memory.prototype.buffer/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.Memory
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

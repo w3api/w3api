@@ -3,7 +3,7 @@ title: Uint8ClampedArray.Uint8ClampedArray()
 permalink: /Javascript/Uint8ClampedArray/Uint8ClampedArray/
 date: 2021-01-11
 key: Javascript.U.Uint8ClampedArray
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

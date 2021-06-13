@@ -3,7 +3,7 @@ title: WebAssembly.Instance.Instance.prototype.exports
 permalink: /Javascript/WebAssembly/Instance/Instance.prototype.exports/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.Instance
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

@@ -3,7 +3,7 @@ title: WebErrorEvent.USER_DATA_DIRECTORY_ALREADY_IN_USE
 permalink: /Java/WebErrorEvent/USER_DATA_DIRECTORY_ALREADY_IN_USE/
 date: 2021-01-11
 key: Java.W.WebErrorEvent
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

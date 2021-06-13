@@ -3,7 +3,7 @@ title: ReferenceError.ReferenceError()
 permalink: /Javascript/ReferenceError/ReferenceError/
 date: 2021-01-11
 key: Javascript.R.ReferenceError
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

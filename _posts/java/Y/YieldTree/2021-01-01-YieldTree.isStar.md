@@ -3,7 +3,7 @@ title: YieldTree.isStar()
 permalink: /Java/YieldTree/isStar/
 date: 2021-01-11
 key: Java.Y.YieldTree
-category: java
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

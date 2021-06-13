@@ -3,7 +3,7 @@ title: WhileLoopTree
 permalink: /Java/WhileLoopTree//
 date: 2021-01-11
 key: Java.W.WhileLoopTree
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

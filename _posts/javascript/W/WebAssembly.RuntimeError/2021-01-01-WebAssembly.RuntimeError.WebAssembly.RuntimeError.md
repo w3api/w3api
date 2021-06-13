@@ -3,7 +3,7 @@ title: WebAssembly.RuntimeError.WebAssembly.RuntimeError()
 permalink: /Javascript/WebAssembly/RuntimeError/WebAssembly/RuntimeError/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.RuntimeError
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

@@ -3,7 +3,7 @@ title: BigInt64Array.byteLength
 permalink: /Javascript/BigInt64Array/byteLength/
 date: 2021-01-11
 key: Javascript.B.BigInt64Array
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

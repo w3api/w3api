@@ -3,7 +3,7 @@ title: WebAssembly.RuntimeError.toSource()
 permalink: /Javascript/WebAssembly/RuntimeError/toSource/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.RuntimeError
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

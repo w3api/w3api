@@ -3,7 +3,7 @@ title: WebAssembly
 permalink: /Javascript/WebAssembly/
 date: 2021-01-11
 key: Javascript.W.WebAssembly
-category: javascript
+category: Javascript
 tags: ['objeto javascript']
 sidebar: 
   nav: javascript

@@ -3,7 +3,7 @@ title: WebAssembly.RuntimeError.toString()
 permalink: /Javascript/WebAssembly/RuntimeError/toString/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.RuntimeError
-category: javascript
+category: Javascript
 tags: ['metodo javascript']
 sidebar: 
   nav: javascript

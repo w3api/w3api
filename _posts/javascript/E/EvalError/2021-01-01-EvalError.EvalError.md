@@ -3,7 +3,7 @@ title: EvalError.EvalError()
 permalink: /Javascript/EvalError/EvalError/
 date: 2021-01-11
 key: Javascript.E.EvalError
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

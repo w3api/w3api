@@ -3,7 +3,7 @@ title: WebErrorEvent.getMessage()
 permalink: /Java/WebErrorEvent/getMessage/
 date: 2021-01-11
 key: Java.W.WebErrorEvent
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

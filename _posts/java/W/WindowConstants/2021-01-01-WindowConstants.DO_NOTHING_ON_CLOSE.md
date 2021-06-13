@@ -3,7 +3,7 @@ title: WindowConstants.DO_NOTHING_ON_CLOSE
 permalink: /Java/WindowConstants/DO_NOTHING_ON_CLOSE/
 date: 2021-01-11
 key: Java.W.WindowConstants
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

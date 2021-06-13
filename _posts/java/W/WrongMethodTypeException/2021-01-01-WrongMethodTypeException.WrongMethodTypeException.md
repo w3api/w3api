@@ -3,7 +3,7 @@ title: WrongMethodTypeException.WrongMethodTypeException()
 permalink: /Java/WrongMethodTypeException/WrongMethodTypeException/
 date: 2021-01-11
 key: Java.W.WrongMethodTypeException
-category: java
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

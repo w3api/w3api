@@ -3,7 +3,7 @@ title: RangeError.lineNumber
 permalink: /Javascript/RangeError/lineNumber/
 date: 2021-01-11
 key: Javascript.R.RangeError
-category: javascript
+category: Javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript

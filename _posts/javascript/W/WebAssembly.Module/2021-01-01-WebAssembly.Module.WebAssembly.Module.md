@@ -3,7 +3,7 @@ title: WebAssembly.Module.WebAssembly.Module()
 permalink: /Javascript/WebAssembly/Module/WebAssembly/Module/
 date: 2021-01-11
 key: Javascript.W.WebAssembly.Module
-category: javascript
+category: Javascript
 tags: ['constructor javascript']
 sidebar: 
   nav: javascript

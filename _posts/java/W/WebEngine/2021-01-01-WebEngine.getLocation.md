@@ -3,7 +3,7 @@ title: WebEngine.getLocation()
 permalink: /Java/WebEngine/getLocation/
 date: 2021-01-11
 key: Java.W.WebEngine
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

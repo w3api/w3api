@@ -3,7 +3,7 @@ title: WildcardType
 permalink: /Java/WildcardType-java-lang-reflect/
 date: 2021-01-11
 key: Java.W.WildcardType-java-lang-reflect
-category: java
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java
