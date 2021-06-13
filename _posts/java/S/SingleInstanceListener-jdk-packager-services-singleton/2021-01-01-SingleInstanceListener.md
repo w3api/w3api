@@ -4,7 +4,7 @@ permalink: /Java/SingleInstanceListener-jdk-packager-services-singleton/
 date: 2021-01-11
 key: Java.S.SingleInstanceListener-jdk-packager-services-singleton
 category: Java
-tags: ['java se', 'jdk.packager.services.singleton', 'jdk.packager.services', 'interface java', '10']
+tags: ['java se', 'jdk.packager.services.singleton', 'jdk.packager.services', 'interface java', 'Java 10']
 sidebar: 
   nav: java
 ---

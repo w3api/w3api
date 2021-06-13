@@ -4,7 +4,7 @@ permalink: /Java/SystemResourcePressureMXBean/getMemoryPressure/
 date: 2021-01-11
 key: Java.S.SystemResourcePressureMXBean
 category: Java
-tags: ['java se', 'jdk.management.cmm', 'jdk.management.cmm', 'metodo java', '8u40']
+tags: ['java se', 'jdk.management.cmm', 'jdk.management.cmm', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java
 ---

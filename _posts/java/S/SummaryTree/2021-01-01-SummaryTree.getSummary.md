@@ -4,7 +4,7 @@ permalink: /Java/SummaryTree/getSummary/
 date: 2021-01-11
 key: Java.S.SummaryTree
 category: Java
-tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', '10']
+tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 10']
 sidebar: 
   nav: java
 ---

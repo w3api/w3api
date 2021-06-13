@@ -4,7 +4,7 @@ permalink: /Java/OutputStream-org-omg-CORBA-portable/write_long/
 date: 2021-01-11
 key: Java.O.OutputStream-org-omg-CORBA-portable
 category: Java
-tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'JDKJava 1.2']
+tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java
 ---

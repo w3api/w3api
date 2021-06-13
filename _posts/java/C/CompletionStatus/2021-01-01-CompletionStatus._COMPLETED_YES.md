@@ -4,7 +4,7 @@ permalink: /Java/CompletionStatus/_COMPLETED_YES/
 date: 2021-01-11
 key: Java.C.CompletionStatus
 category: Java
-tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'JDKJava 1.2']
+tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java
 ---

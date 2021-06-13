@@ -4,7 +4,7 @@ permalink: /Java/ThreadMXBean-com-sun-management/getThreadCpuTime/
 date: 2021-01-11
 key: Java.T.ThreadMXBean-com-sun-management
 category: Java
-tags: ['java se', 'com.sun.management', 'jdk.management', 'metodo java', '6u25']
+tags: ['java se', 'com.sun.management', 'jdk.management', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java
 ---

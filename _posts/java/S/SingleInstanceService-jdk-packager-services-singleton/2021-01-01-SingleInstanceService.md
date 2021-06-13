@@ -4,7 +4,7 @@ permalink: /Java/SingleInstanceService-jdk-packager-services-singleton/
 date: 2021-01-11
 key: Java.S.SingleInstanceService-jdk-packager-services-singleton
 category: Java
-tags: ['java se', 'jdk.packager.services.singleton', 'jdk.packager.services', 'clase java', '10']
+tags: ['java se', 'jdk.packager.services.singleton', 'jdk.packager.services', 'clase java', 'Java 10']
 sidebar: 
   nav: java
 ---

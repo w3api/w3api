@@ -4,7 +4,7 @@ permalink: /Java/EntityResolver2/
 date: 2021-01-11
 key: Java.E.EntityResolver2
 category: Java
-tags: ['java se', 'org.xml.sax.ext', 'java.xml', 'interface java', 'Java 1.5', 'SAX 2.0 (extensions Java 1.1 alpha)']
+tags: ['java se', 'org.xml.sax.ext', 'java.xml', 'interface java', 'Java 1.5', 'SAX 2.0']
 sidebar: 
   nav: java
 ---

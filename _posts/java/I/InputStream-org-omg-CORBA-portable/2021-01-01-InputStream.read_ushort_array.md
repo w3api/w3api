@@ -4,7 +4,7 @@ permalink: /Java/InputStream-org-omg-CORBA-portable/read_ushort_array/
 date: 2021-01-11
 key: Java.I.InputStream-org-omg-CORBA-portable
 category: Java
-tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'JDKJava 1.2']
+tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java
 ---

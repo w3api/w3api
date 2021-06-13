@@ -4,7 +4,7 @@ permalink: /Java/CTX_RESTRICT_SCOPE/
 date: 2021-01-11
 key: Java.C.CTX_RESTRICT_SCOPE
 category: Java
-tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'JDKJava 1.2']
+tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java
 ---

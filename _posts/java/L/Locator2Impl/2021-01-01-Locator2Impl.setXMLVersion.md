@@ -4,7 +4,7 @@ permalink: /Java/Locator2Impl/setXMLVersion/
 date: 2021-01-11
 key: Java.L.Locator2Impl
 category: Java
-tags: ['java se', 'org.xml.sax.ext', 'java.xml', 'metodo java', 'Java 1.5', 'SAX 2.0.2']
+tags: ['java se', 'org.xml.sax.ext', 'java.xml', 'metodo java', 'Java 1.5', 'SAX 2.0']
 sidebar: 
   nav: java
 ---

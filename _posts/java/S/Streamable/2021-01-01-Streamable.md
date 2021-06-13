@@ -4,7 +4,7 @@ permalink: /Java/Streamable/
 date: 2021-01-11
 key: Java.S.Streamable
 category: Java
-tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'interface java', 'JDKJava 1.2']
+tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java
 ---

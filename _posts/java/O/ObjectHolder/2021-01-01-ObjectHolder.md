@@ -4,7 +4,7 @@ permalink: /Java/ObjectHolder/
 date: 2021-01-11
 key: Java.O.ObjectHolder
 category: Java
-tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
+tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java
 ---

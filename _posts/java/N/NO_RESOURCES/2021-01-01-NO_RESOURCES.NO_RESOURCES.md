@@ -4,7 +4,7 @@ permalink: /Java/NO_RESOURCES/NO_RESOURCES/
 date: 2021-01-11
 key: Java.N.NO_RESOURCES
 category: Java
-tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
+tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java
 ---

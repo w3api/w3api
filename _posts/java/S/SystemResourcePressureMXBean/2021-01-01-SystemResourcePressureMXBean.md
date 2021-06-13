@@ -4,7 +4,7 @@ permalink: /Java/SystemResourcePressureMXBean/
 date: 2021-01-11
 key: Java.S.SystemResourcePressureMXBean
 category: Java
-tags: ['java se', 'jdk.management.cmm', 'jdk.management.cmm', 'interface java', '8u40']
+tags: ['java se', 'jdk.management.cmm', 'jdk.management.cmm', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java
 ---

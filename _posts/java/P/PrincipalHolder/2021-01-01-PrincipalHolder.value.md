@@ -4,7 +4,7 @@ permalink: /Java/PrincipalHolder/value/
 date: 2021-01-11
 key: Java.P.PrincipalHolder
 category: Java
-tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'JDKJava 1.2']
+tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java
 ---
