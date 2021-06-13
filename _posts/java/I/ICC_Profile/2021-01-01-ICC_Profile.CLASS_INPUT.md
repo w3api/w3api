@@ -1,9 +1,9 @@
 ---
 title: ICC_Profile.CLASS_INPUT
-permalink: Java/ICC_Profile/CLASS_INPUT
+permalink: /Java/ICC_Profile/CLASS_INPUT/
 date: 2021-01-11
-key: JavaJava.I.ICC_Profile
-category: java
+key: Java.I.ICC_Profile
+category: Java
 tags: ['java se', 'java.awt.color', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

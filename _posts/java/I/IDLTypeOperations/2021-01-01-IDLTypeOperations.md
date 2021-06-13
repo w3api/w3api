@@ -1,9 +1,9 @@
 ---
 title: IDLTypeOperations
-permalink: Java/IDLTypeOperations
+permalink: /Java/IDLTypeOperations/
 date: 2021-01-11
-key: JavaJava.I.IDLTypeOperations
-category: java
+key: Java.I.IDLTypeOperations
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

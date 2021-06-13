@@ -1,9 +1,9 @@
 ---
 title: InvalidKeyException
-permalink: Java/InvalidKeyException-javax-management-openmbean
+permalink: /Java/InvalidKeyException-javax-management-openmbean/
 date: 2021-01-11
-key: JavaJava.I.InvalidKeyException-javax-management-openmbean
-category: java
+key: Java.I.InvalidKeyException-javax-management-openmbean
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

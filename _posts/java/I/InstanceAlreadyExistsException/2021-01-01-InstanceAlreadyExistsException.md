@@ -1,9 +1,9 @@
 ---
 title: InstanceAlreadyExistsException
-permalink: Java/InstanceAlreadyExistsException
+permalink: /Java/InstanceAlreadyExistsException/
 date: 2021-01-11
-key: JavaJava.I.InstanceAlreadyExistsException
-category: java
+key: Java.I.InstanceAlreadyExistsException
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

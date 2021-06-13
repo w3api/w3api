@@ -1,9 +1,9 @@
 ---
 title: InitParam
-permalink: Java/InitParam
+permalink: /Java/InitParam/
 date: 2021-01-11
-key: JavaJava.I.InitParam
-category: java
+key: Java.I.InitParam
+category: Java
 tags: ['java se', 'javax.jws.soap', 'java.xml.ws', 'anotacion java', 'Java 1.6']
 sidebar: 
   nav: java

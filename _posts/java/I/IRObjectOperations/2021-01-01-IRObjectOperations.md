@@ -1,9 +1,9 @@
 ---
 title: IRObjectOperations
-permalink: Java/IRObjectOperations
+permalink: /Java/IRObjectOperations/
 date: 2021-01-11
-key: JavaJava.I.IRObjectOperations
-category: java
+key: Java.I.IRObjectOperations
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

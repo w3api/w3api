@@ -1,9 +1,9 @@
 ---
 title: HandlerBase.resolveEntity()
-permalink: Java/HandlerBase/resolveEntity
+permalink: /Java/HandlerBase/resolveEntity/
 date: 2021-01-11
-key: JavaJava.H.HandlerBase
-category: java
+key: Java.H.HandlerBase
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'metodo java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 
   nav: java

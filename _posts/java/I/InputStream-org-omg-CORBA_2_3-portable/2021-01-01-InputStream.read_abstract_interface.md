@@ -1,9 +1,9 @@
 ---
 title: InputStream.read_abstract_interface()
-permalink: Java/InputStream-org-omg-CORBA_2_3-portable/read_abstract_interface
+permalink: /Java/InputStream-org-omg-CORBA_2_3-portable/read_abstract_interface/
 date: 2021-01-11
-key: JavaJava.I.InputStream-org-omg-CORBA_2_3-portable
-category: java
+key: Java.I.InputStream-org-omg-CORBA_2_3-portable
+category: Java
 tags: ['java se', 'org.omg.CORBA_2_3.portable', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

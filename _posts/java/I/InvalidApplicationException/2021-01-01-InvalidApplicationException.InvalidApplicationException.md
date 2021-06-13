@@ -1,9 +1,9 @@
 ---
 title: InvalidApplicationException.InvalidApplicationException()
-permalink: Java/InvalidApplicationException/InvalidApplicationException
+permalink: /Java/InvalidApplicationException/InvalidApplicationException/
 date: 2021-01-11
-key: JavaJava.I.InvalidApplicationException
-category: java
+key: Java.I.InvalidApplicationException
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

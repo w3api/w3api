@@ -1,9 +1,9 @@
 ---
 title: JCheckBoxMenuItem.getUIClassID()
-permalink: Java/JCheckBoxMenuItem/getUIClassID
+permalink: /Java/JCheckBoxMenuItem/getUIClassID/
 date: 2021-01-11
-key: JavaJava.J.JCheckBoxMenuItem
-category: java
+key: Java.J.JCheckBoxMenuItem
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

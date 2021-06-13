@@ -1,9 +1,9 @@
 ---
 title: IIOByteBuffer.IIOByteBuffer()
-permalink: Java/IIOByteBuffer/IIOByteBuffer
+permalink: /Java/IIOByteBuffer/IIOByteBuffer/
 date: 2021-01-11
-key: JavaJava.I.IIOByteBuffer
-category: java
+key: Java.I.IIOByteBuffer
+category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

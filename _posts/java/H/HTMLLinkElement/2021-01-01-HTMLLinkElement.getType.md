@@ -1,9 +1,9 @@
 ---
 title: HTMLLinkElement.getType()
-permalink: Java/HTMLLinkElement/getType
+permalink: /Java/HTMLLinkElement/getType/
 date: 2021-01-11
-key: JavaJava.H.HTMLLinkElement
-category: java
+key: Java.H.HTMLLinkElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

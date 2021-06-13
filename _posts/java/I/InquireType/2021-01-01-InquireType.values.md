@@ -1,9 +1,9 @@
 ---
 title: InquireType.values()
-permalink: Java/InquireType/values
+permalink: /Java/InquireType/values/
 date: 2021-01-11
-key: JavaJava.I.InquireType
-category: java
+key: Java.I.InquireType
+category: Java
 tags: ['java se', 'com.sun.security.jgss', 'jdk.security.jgss', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

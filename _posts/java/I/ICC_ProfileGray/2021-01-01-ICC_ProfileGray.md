@@ -1,9 +1,9 @@
 ---
 title: ICC_ProfileGray
-permalink: Java/ICC_ProfileGray
+permalink: /Java/ICC_ProfileGray/
 date: 2021-01-11
-key: JavaJava.I.ICC_ProfileGray
-category: java
+key: Java.I.ICC_ProfileGray
+category: Java
 tags: ['java se', 'java.awt.color', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

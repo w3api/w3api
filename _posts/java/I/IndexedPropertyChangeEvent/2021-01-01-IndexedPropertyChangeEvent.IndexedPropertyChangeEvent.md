@@ -1,9 +1,9 @@
 ---
 title: IndexedPropertyChangeEvent.IndexedPropertyChangeEvent()
-permalink: Java/IndexedPropertyChangeEvent/IndexedPropertyChangeEvent
+permalink: /Java/IndexedPropertyChangeEvent/IndexedPropertyChangeEvent/
 date: 2021-01-11
-key: JavaJava.I.IndexedPropertyChangeEvent
-category: java
+key: Java.I.IndexedPropertyChangeEvent
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

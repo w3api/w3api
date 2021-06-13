@@ -1,9 +1,9 @@
 ---
 title: InternalFrameListener.internalFrameDeiconified()
-permalink: Java/InternalFrameListener/internalFrameDeiconified
+permalink: /Java/InternalFrameListener/internalFrameDeiconified/
 date: 2021-01-11
-key: JavaJava.I.InternalFrameListener
-category: java
+key: Java.I.InternalFrameListener
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

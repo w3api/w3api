@@ -1,9 +1,9 @@
 ---
 title: ImagePattern
-permalink: Java/ImagePattern
+permalink: /Java/ImagePattern/
 date: 2021-01-11
-key: JavaJava.I.ImagePattern
-category: java
+key: Java.I.ImagePattern
+category: Java
 tags: ['java se', 'javafx.scene.paint', 'javafx.graphics', 'clase java', 'JavaFX 2.2']
 sidebar: 
   nav: java

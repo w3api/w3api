@@ -1,9 +1,9 @@
 ---
 title: InputSource.getCharacterStream()
-permalink: Java/InputSource/getCharacterStream
+permalink: /Java/InputSource/getCharacterStream/
 date: 2021-01-11
-key: JavaJava.I.InputSource
-category: java
+key: Java.I.InputSource
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'metodo java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 
   nav: java

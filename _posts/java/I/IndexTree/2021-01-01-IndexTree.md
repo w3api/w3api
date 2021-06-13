@@ -1,9 +1,9 @@
 ---
 title: IndexTree
-permalink: Java/IndexTree
+permalink: /Java/IndexTree/
 date: 2021-01-11
-key: JavaJava.I.IndexTree
-category: java
+key: Java.I.IndexTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', 'Java 9']
 sidebar: 
   nav: java

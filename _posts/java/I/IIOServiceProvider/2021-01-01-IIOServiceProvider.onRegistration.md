@@ -1,9 +1,9 @@
 ---
 title: IIOServiceProvider.onRegistration()
-permalink: Java/IIOServiceProvider/onRegistration
+permalink: /Java/IIOServiceProvider/onRegistration/
 date: 2021-01-11
-key: JavaJava.I.IIOServiceProvider
-category: java
+key: Java.I.IIOServiceProvider
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InputMethodContext
-permalink: Java/InputMethodContext
+permalink: /Java/InputMethodContext/
 date: 2021-01-11
-key: JavaJava.I.InputMethodContext
-category: java
+key: Java.I.InputMethodContext
+category: Java
 tags: ['java se', 'java.awt.im.spi', 'java.desktop', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

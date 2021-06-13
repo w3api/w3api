@@ -1,9 +1,9 @@
 ---
 title: IndirectionException.offset
-permalink: Java/IndirectionException/offset
+permalink: /Java/IndirectionException/offset/
 date: 2021-01-11
-key: JavaJava.I.IndirectionException
-category: java
+key: Java.I.IndirectionException
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

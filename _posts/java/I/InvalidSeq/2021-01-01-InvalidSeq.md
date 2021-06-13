@@ -1,9 +1,9 @@
 ---
 title: InvalidSeq
-permalink: Java/InvalidSeq
+permalink: /Java/InvalidSeq/
 date: 2021-01-11
-key: JavaJava.I.InvalidSeq
-category: java
+key: Java.I.InvalidSeq
+category: Java
 tags: ['java se', 'org.omg.CORBA.DynAnyPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

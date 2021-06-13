@@ -1,9 +1,9 @@
 ---
 title: InstantiationError.InstantiationError()
-permalink: Java/InstantiationError/InstantiationError
+permalink: /Java/InstantiationError/InstantiationError/
 date: 2021-01-11
-key: JavaJava.I.InstantiationError
-category: java
+key: Java.I.InstantiationError
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

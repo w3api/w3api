@@ -1,9 +1,9 @@
 ---
 title: INITIALIZE.INITIALIZE()
-permalink: Java/INITIALIZE/INITIALIZE
+permalink: /Java/INITIALIZE/INITIALIZE/
 date: 2021-01-11
-key: JavaJava.I.INITIALIZE
-category: java
+key: Java.I.INITIALIZE
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

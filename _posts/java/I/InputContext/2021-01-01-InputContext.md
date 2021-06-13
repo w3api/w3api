@@ -1,9 +1,9 @@
 ---
 title: InputContext
-permalink: Java/InputContext
+permalink: /Java/InputContext/
 date: 2021-01-11
-key: JavaJava.I.InputContext
-category: java
+key: Java.I.InputContext
+category: Java
 tags: ['java se', 'java.awt.im', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

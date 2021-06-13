@@ -1,9 +1,9 @@
 ---
 title: InternalFrameFocusTraversalPolicy.InternalFrameFocusTraversalPolicy()
-permalink: Java/InternalFrameFocusTraversalPolicy/InternalFrameFocusTraversalPolicy
+permalink: /Java/InternalFrameFocusTraversalPolicy/InternalFrameFocusTraversalPolicy/
 date: 2021-01-11
-key: JavaJava.I.InternalFrameFocusTraversalPolicy
-category: java
+key: Java.I.InternalFrameFocusTraversalPolicy
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

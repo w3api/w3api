@@ -1,9 +1,9 @@
 ---
 title: InvalidAttributeValueException
-permalink: Java/InvalidAttributeValueException/
+permalink: /Java/InvalidAttributeValueException//
 date: 2021-01-11
-key: JavaJava.I.InvalidAttributeValueException
-category: java
+key: Java.I.InvalidAttributeValueException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

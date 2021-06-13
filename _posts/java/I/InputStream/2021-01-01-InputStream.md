@@ -1,9 +1,9 @@
 ---
 title: InputStream
-permalink: Java/InputStream/
+permalink: /Java/InputStream//
 date: 2021-01-11
-key: JavaJava.I.InputStream
-category: java
+key: Java.I.InputStream
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

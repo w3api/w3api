@@ -1,9 +1,9 @@
 ---
 title: InvalidTransactionException.InvalidTransactionException()
-permalink: Java/InvalidTransactionException/InvalidTransactionException
+permalink: /Java/InvalidTransactionException/InvalidTransactionException/
 date: 2021-01-11
-key: JavaJava.I.InvalidTransactionException
-category: java
+key: Java.I.InvalidTransactionException
+category: Java
 tags: ['java se', 'javax.transaction', 'java.transaction', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HierarchyListener.hierarchyChanged()
-permalink: Java/HierarchyListener/hierarchyChanged
+permalink: /Java/HierarchyListener/hierarchyChanged/
 date: 2021-01-11
-key: JavaJava.H.HierarchyListener
-category: java
+key: Java.H.HierarchyListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

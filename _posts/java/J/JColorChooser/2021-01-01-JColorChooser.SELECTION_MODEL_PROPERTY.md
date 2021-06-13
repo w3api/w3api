@@ -1,9 +1,9 @@
 ---
 title: JColorChooser.SELECTION_MODEL_PROPERTY
-permalink: Java/JColorChooser/SELECTION_MODEL_PROPERTY
+permalink: /Java/JColorChooser/SELECTION_MODEL_PROPERTY/
 date: 2021-01-11
-key: JavaJava.J.JColorChooser
-category: java
+key: Java.J.JColorChooser
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

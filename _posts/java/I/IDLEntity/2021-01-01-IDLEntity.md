@@ -1,9 +1,9 @@
 ---
 title: IDLEntity
-permalink: Java/IDLEntity
+permalink: /Java/IDLEntity/
 date: 2021-01-11
-key: JavaJava.I.IDLEntity
-category: java
+key: Java.I.IDLEntity
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

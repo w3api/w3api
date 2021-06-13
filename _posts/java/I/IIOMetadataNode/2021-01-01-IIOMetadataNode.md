@@ -1,9 +1,9 @@
 ---
 title: IIOMetadataNode
-permalink: Java/IIOMetadataNode
+permalink: /Java/IIOMetadataNode/
 date: 2021-01-11
-key: JavaJava.I.IIOMetadataNode
-category: java
+key: Java.I.IIOMetadataNode
+category: Java
 tags: ['java se', 'javax.imageio.metadata', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

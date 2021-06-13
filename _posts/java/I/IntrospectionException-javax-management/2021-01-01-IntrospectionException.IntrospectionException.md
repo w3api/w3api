@@ -1,9 +1,9 @@
 ---
 title: IntrospectionException.IntrospectionException()
-permalink: Java/IntrospectionException-javax-management/IntrospectionException
+permalink: /Java/IntrospectionException-javax-management/IntrospectionException/
 date: 2021-01-11
-key: JavaJava.I.IntrospectionException-javax-management
-category: java
+key: Java.I.IntrospectionException-javax-management
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

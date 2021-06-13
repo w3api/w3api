@@ -1,9 +1,9 @@
 ---
 title: InputMethodContext.enableClientWindowNotification()
-permalink: Java/InputMethodContext/enableClientWindowNotification
+permalink: /Java/InputMethodContext/enableClientWindowNotification/
 date: 2021-01-11
-key: JavaJava.I.InputMethodContext
-category: java
+key: Java.I.InputMethodContext
+category: Java
 tags: ['java se', 'java.awt.im.spi', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

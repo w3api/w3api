@@ -1,9 +1,9 @@
 ---
 title: InvokeHandler._invoke()
-permalink: Java/InvokeHandler/_invoke
+permalink: /Java/InvokeHandler/_invoke/
 date: 2021-01-11
-key: JavaJava.I.InvokeHandler
-category: java
+key: Java.I.InvokeHandler
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

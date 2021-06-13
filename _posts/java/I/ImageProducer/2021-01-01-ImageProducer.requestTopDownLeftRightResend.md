@@ -1,9 +1,9 @@
 ---
 title: ImageProducer.requestTopDownLeftRightResend()
-permalink: Java/ImageProducer/requestTopDownLeftRightResend
+permalink: /Java/ImageProducer/requestTopDownLeftRightResend/
 date: 2021-01-11
-key: JavaJava.I.ImageProducer
-category: java
+key: Java.I.ImageProducer
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

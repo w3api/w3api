@@ -1,9 +1,9 @@
 ---
 title: GraphicsDevice.TYPE_PRINTER
-permalink: Java/GraphicsDevice/TYPE_PRINTER
+permalink: /Java/GraphicsDevice/TYPE_PRINTER/
 date: 2021-01-11
-key: JavaJava.G.GraphicsDevice
-category: java
+key: Java.G.GraphicsDevice
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

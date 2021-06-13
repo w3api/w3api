@@ -1,9 +1,9 @@
 ---
 title: IncompatibleThreadStateException.IncompatibleThreadStateException()
-permalink: Java/IncompatibleThreadStateException/IncompatibleThreadStateException
+permalink: /Java/IncompatibleThreadStateException/IncompatibleThreadStateException/
 date: 2021-01-11
-key: JavaJava.I.IncompatibleThreadStateException
-category: java
+key: Java.I.IncompatibleThreadStateException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

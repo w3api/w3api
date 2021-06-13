@@ -1,9 +1,9 @@
 ---
 title: IllegalArgumentException.IllegalArgumentException()
-permalink: Java/IllegalArgumentException/IllegalArgumentException
+permalink: /Java/IllegalArgumentException/IllegalArgumentException/
 date: 2021-01-11
-key: JavaJava.I.IllegalArgumentException
-category: java
+key: Java.I.IllegalArgumentException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

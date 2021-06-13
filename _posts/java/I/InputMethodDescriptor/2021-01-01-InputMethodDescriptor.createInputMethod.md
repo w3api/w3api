@@ -1,9 +1,9 @@
 ---
 title: InputMethodDescriptor.createInputMethod()
-permalink: Java/InputMethodDescriptor/createInputMethod
+permalink: /Java/InputMethodDescriptor/createInputMethod/
 date: 2021-01-11
-key: JavaJava.I.InputMethodDescriptor
-category: java
+key: Java.I.InputMethodDescriptor
+category: Java
 tags: ['java se', 'java.awt.im.spi', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

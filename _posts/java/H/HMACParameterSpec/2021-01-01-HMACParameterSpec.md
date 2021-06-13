@@ -1,9 +1,9 @@
 ---
 title: HMACParameterSpec
-permalink: Java/HMACParameterSpec
+permalink: /Java/HMACParameterSpec/
 date: 2021-01-11
-key: JavaJava.H.HMACParameterSpec
-category: java
+key: Java.H.HMACParameterSpec
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

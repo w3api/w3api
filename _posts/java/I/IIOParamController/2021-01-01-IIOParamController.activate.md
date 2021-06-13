@@ -1,9 +1,9 @@
 ---
 title: IIOParamController.activate()
-permalink: Java/IIOParamController/activate
+permalink: /Java/IIOParamController/activate/
 date: 2021-01-11
-key: JavaJava.I.IIOParamController
-category: java
+key: Java.I.IIOParamController
+category: Java
 tags: ['java se', 'javax.imageio', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

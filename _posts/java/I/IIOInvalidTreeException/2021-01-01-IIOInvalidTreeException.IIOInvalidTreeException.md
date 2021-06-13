@@ -1,9 +1,9 @@
 ---
 title: IIOInvalidTreeException.IIOInvalidTreeException()
-permalink: Java/IIOInvalidTreeException/IIOInvalidTreeException
+permalink: /Java/IIOInvalidTreeException/IIOInvalidTreeException/
 date: 2021-01-11
-key: JavaJava.I.IIOInvalidTreeException
-category: java
+key: Java.I.IIOInvalidTreeException
+category: Java
 tags: ['java se', 'javax.imageio.metadata', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

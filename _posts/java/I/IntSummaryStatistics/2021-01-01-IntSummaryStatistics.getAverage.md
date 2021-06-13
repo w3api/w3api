@@ -1,9 +1,9 @@
 ---
 title: IntSummaryStatistics.getAverage()
-permalink: Java/IntSummaryStatistics/getAverage
+permalink: /Java/IntSummaryStatistics/getAverage/
 date: 2021-01-11
-key: JavaJava.I.IntSummaryStatistics
-category: java
+key: Java.I.IntSummaryStatistics
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

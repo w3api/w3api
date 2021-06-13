@@ -1,9 +1,9 @@
 ---
 title: IIOMetadataFormat.DATATYPE_DOUBLE
-permalink: Java/IIOMetadataFormat/DATATYPE_DOUBLE
+permalink: /Java/IIOMetadataFormat/DATATYPE_DOUBLE/
 date: 2021-01-11
-key: JavaJava.I.IIOMetadataFormat
-category: java
+key: Java.I.IIOMetadataFormat
+category: Java
 tags: ['java se', 'javax.imageio.metadata', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

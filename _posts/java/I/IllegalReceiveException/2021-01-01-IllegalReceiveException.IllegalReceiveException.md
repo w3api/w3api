@@ -1,9 +1,9 @@
 ---
 title: IllegalReceiveException.IllegalReceiveException()
-permalink: Java/IllegalReceiveException/IllegalReceiveException
+permalink: /Java/IllegalReceiveException/IllegalReceiveException/
 date: 2021-01-11
-key: JavaJava.I.IllegalReceiveException
-category: java
+key: Java.I.IllegalReceiveException
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

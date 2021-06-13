@@ -1,9 +1,9 @@
 ---
 title: InputMethodHighlight
-permalink: Java/InputMethodHighlight-java-awt-im
+permalink: /Java/InputMethodHighlight-java-awt-im/
 date: 2021-01-11
-key: JavaJava.I.InputMethodHighlight-java-awt-im
-category: java
+key: Java.I.InputMethodHighlight-java-awt-im
+category: Java
 tags: ['java se', 'java.awt.im', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

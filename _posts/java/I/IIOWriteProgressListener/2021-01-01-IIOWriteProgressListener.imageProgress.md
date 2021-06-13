@@ -1,9 +1,9 @@
 ---
 title: IIOWriteProgressListener.imageProgress()
-permalink: Java/IIOWriteProgressListener/imageProgress
+permalink: /Java/IIOWriteProgressListener/imageProgress/
 date: 2021-01-11
-key: JavaJava.I.IIOWriteProgressListener
-category: java
+key: Java.I.IIOWriteProgressListener
+category: Java
 tags: ['java se', 'javax.imageio.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

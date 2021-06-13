@@ -1,9 +1,9 @@
 ---
 title: HyperlinkEvent.EventType.EXITED
-permalink: Java/HyperlinkEvent/EventType/EXITED
+permalink: /Java/HyperlinkEvent/EventType/EXITED/
 date: 2021-01-11
-key: JavaJava.H.HyperlinkEvent.EventType
-category: java
+key: Java.H.HyperlinkEvent.EventType
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

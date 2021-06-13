@@ -1,9 +1,9 @@
 ---
 title: IllegalStateException
-permalink: Java/IllegalStateException
+permalink: /Java/IllegalStateException/
 date: 2021-01-11
-key: JavaJava.I.IllegalStateException
-category: java
+key: Java.I.IllegalStateException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

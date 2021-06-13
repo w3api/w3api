@@ -1,9 +1,9 @@
 ---
 title: Hashtable.clear()
-permalink: Java/Hashtable/clear
+permalink: /Java/Hashtable/clear/
 date: 2021-01-11
-key: JavaJava.H.Hashtable
-category: java
+key: Java.H.Hashtable
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

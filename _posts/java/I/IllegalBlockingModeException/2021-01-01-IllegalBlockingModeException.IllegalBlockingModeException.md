@@ -1,9 +1,9 @@
 ---
 title: IllegalBlockingModeException.IllegalBlockingModeException()
-permalink: Java/IllegalBlockingModeException/IllegalBlockingModeException
+permalink: /Java/IllegalBlockingModeException/IllegalBlockingModeException/
 date: 2021-01-11
-key: JavaJava.I.IllegalBlockingModeException
-category: java
+key: Java.I.IllegalBlockingModeException
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

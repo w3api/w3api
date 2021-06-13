@@ -1,9 +1,9 @@
 ---
 title: Hyperlink
-permalink: Java/Hyperlink
+permalink: /Java/Hyperlink/
 date: 2021-01-11
-key: JavaJava.H.Hyperlink
-category: java
+key: Java.H.Hyperlink
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

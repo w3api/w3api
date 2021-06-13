@@ -1,9 +1,9 @@
 ---
 title: HttpResponse
-permalink: Java/HttpResponse
+permalink: /Java/HttpResponse/
 date: 2021-01-11
-key: JavaJava.H.HttpResponse
-category: java
+key: Java.H.HttpResponse
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'clase java', 'Java 9']
 sidebar: 
   nav: java

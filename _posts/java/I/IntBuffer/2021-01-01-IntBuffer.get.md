@@ -1,9 +1,9 @@
 ---
 title: IntBuffer.get()
-permalink: Java/IntBuffer/get
+permalink: /Java/IntBuffer/get/
 date: 2021-01-11
-key: JavaJava.I.IntBuffer
-category: java
+key: Java.I.IntBuffer
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

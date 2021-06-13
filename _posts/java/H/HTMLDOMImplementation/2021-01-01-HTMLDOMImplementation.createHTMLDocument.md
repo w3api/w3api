@@ -1,9 +1,9 @@
 ---
 title: HTMLDOMImplementation.createHTMLDocument()
-permalink: Java/HTMLDOMImplementation/createHTMLDocument
+permalink: /Java/HTMLDOMImplementation/createHTMLDocument/
 date: 2021-01-11
-key: JavaJava.H.HTMLDOMImplementation
-category: java
+key: Java.H.HTMLDOMImplementation
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

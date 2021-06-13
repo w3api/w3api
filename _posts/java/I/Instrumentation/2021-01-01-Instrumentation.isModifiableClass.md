@@ -1,9 +1,9 @@
 ---
 title: Instrumentation.isModifiableClass()
-permalink: Java/Instrumentation/isModifiableClass
+permalink: /Java/Instrumentation/isModifiableClass/
 date: 2021-01-11
-key: JavaJava.I.Instrumentation
-category: java
+key: Java.I.Instrumentation
+category: Java
 tags: ['java se', 'java.lang.instrument', 'java.instrument', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

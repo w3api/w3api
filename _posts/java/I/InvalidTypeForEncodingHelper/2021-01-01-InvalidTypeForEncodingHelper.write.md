@@ -1,9 +1,9 @@
 ---
 title: InvalidTypeForEncodingHelper.write()
-permalink: Java/InvalidTypeForEncodingHelper/write
+permalink: /Java/InvalidTypeForEncodingHelper/write/
 date: 2021-01-11
-key: JavaJava.I.InvalidTypeForEncodingHelper
-category: java
+key: Java.I.InvalidTypeForEncodingHelper
+category: Java
 tags: ['java se', 'org.omg.IOP.CodecPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

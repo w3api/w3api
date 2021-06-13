@@ -1,9 +1,9 @@
 ---
 title: InvalidTypeException
-permalink: Java/InvalidTypeException
+permalink: /Java/InvalidTypeException/
 date: 2021-01-11
-key: JavaJava.I.InvalidTypeException
-category: java
+key: Java.I.InvalidTypeException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

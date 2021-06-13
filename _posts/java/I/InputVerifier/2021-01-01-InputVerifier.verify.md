@@ -1,9 +1,9 @@
 ---
 title: InputVerifier.verify()
-permalink: Java/InputVerifier/verify
+permalink: /Java/InputVerifier/verify/
 date: 2021-01-11
-key: JavaJava.I.InputVerifier
-category: java
+key: Java.I.InputVerifier
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

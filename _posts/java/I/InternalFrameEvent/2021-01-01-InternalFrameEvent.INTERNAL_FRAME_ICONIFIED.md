@@ -1,9 +1,9 @@
 ---
 title: InternalFrameEvent.INTERNAL_FRAME_ICONIFIED
-permalink: Java/InternalFrameEvent/INTERNAL_FRAME_ICONIFIED
+permalink: /Java/InternalFrameEvent/INTERNAL_FRAME_ICONIFIED/
 date: 2021-01-11
-key: JavaJava.I.InternalFrameEvent
-category: java
+key: Java.I.InternalFrameEvent
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

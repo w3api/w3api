@@ -1,9 +1,9 @@
 ---
 title: InstanceOfTree
-permalink: Java/InstanceOfTree/
+permalink: /Java/InstanceOfTree//
 date: 2021-01-11
-key: JavaJava.I.InstanceOfTree
-category: java
+key: Java.I.InstanceOfTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

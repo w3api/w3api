@@ -1,9 +1,9 @@
 ---
 title: InternalFrameAdapter
-permalink: Java/InternalFrameAdapter
+permalink: /Java/InternalFrameAdapter/
 date: 2021-01-11
-key: JavaJava.I.InternalFrameAdapter
-category: java
+key: Java.I.InternalFrameAdapter
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

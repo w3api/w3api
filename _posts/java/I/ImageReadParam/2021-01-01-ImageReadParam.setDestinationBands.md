@@ -1,9 +1,9 @@
 ---
 title: ImageReadParam.setDestinationBands()
-permalink: Java/ImageReadParam/setDestinationBands
+permalink: /Java/ImageReadParam/setDestinationBands/
 date: 2021-01-11
-key: JavaJava.I.ImageReadParam
-category: java
+key: Java.I.ImageReadParam
+category: Java
 tags: ['java se', 'javax.imageio', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

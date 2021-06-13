@@ -1,9 +1,9 @@
 ---
 title: InvalidationListener
-permalink: Java/InvalidationListener
+permalink: /Java/InvalidationListener/
 date: 2021-01-11
-key: JavaJava.I.InvalidationListener
-category: java
+key: Java.I.InvalidationListener
+category: Java
 tags: ['java se', 'javafx.beans', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

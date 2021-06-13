@@ -1,9 +1,9 @@
 ---
 title: HTMLSelectElement.blur()
-permalink: Java/HTMLSelectElement/blur
+permalink: /Java/HTMLSelectElement/blur/
 date: 2021-01-11
-key: JavaJava.H.HTMLSelectElement
-category: java
+key: Java.H.HTMLSelectElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

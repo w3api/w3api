@@ -1,9 +1,9 @@
 ---
 title: ImageView.getPreferredSpan()
-permalink: Java/ImageView-javax-swing-text-html/getPreferredSpan
+permalink: /Java/ImageView-javax-swing-text-html/getPreferredSpan/
 date: 2021-01-11
-key: JavaJava.I.ImageView-javax-swing-text-html
-category: java
+key: Java.I.ImageView-javax-swing-text-html
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

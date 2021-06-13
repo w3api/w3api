@@ -1,9 +1,9 @@
 ---
 title: IntPredicate
-permalink: Java/IntPredicate
+permalink: /Java/IntPredicate/
 date: 2021-01-11
-key: JavaJava.I.IntPredicate
-category: java
+key: Java.I.IntPredicate
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

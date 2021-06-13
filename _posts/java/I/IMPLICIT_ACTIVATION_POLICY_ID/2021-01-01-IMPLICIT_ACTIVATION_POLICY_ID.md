@@ -1,9 +1,9 @@
 ---
 title: IMPLICIT_ACTIVATION_POLICY_ID
-permalink: Java/IMPLICIT_ACTIVATION_POLICY_ID
+permalink: /Java/IMPLICIT_ACTIVATION_POLICY_ID/
 date: 2021-01-11
-key: JavaJava.I.IMPLICIT_ACTIVATION_POLICY_ID
-category: java
+key: Java.I.IMPLICIT_ACTIVATION_POLICY_ID
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

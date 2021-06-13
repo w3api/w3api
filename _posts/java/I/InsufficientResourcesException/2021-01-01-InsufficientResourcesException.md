@@ -1,9 +1,9 @@
 ---
 title: InsufficientResourcesException
-permalink: Java/InsufficientResourcesException
+permalink: /Java/InsufficientResourcesException/
 date: 2021-01-11
-key: JavaJava.I.InsufficientResourcesException
-category: java
+key: Java.I.InsufficientResourcesException
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

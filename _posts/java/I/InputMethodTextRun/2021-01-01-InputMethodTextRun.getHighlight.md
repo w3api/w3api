@@ -1,9 +1,9 @@
 ---
 title: InputMethodTextRun.getHighlight()
-permalink: Java/InputMethodTextRun/getHighlight
+permalink: /Java/InputMethodTextRun/getHighlight/
 date: 2021-01-11
-key: JavaJava.I.InputMethodTextRun
-category: java
+key: Java.I.InputMethodTextRun
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

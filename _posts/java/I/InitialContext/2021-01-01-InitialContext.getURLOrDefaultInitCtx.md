@@ -1,9 +1,9 @@
 ---
 title: InitialContext.getURLOrDefaultInitCtx()
-permalink: Java/InitialContext/getURLOrDefaultInitCtx
+permalink: /Java/InitialContext/getURLOrDefaultInitCtx/
 date: 2021-01-11
-key: JavaJava.I.InitialContext
-category: java
+key: Java.I.InitialContext
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3', 'JNDI Java 1.1']
 sidebar: 
   nav: java

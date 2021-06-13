@@ -1,9 +1,9 @@
 ---
 title: InflaterInputStream.mark()
-permalink: Java/InflaterInputStream/mark
+permalink: /Java/InflaterInputStream/mark/
 date: 2021-01-11
-key: JavaJava.I.InflaterInputStream
-category: java
+key: Java.I.InflaterInputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ItemEvent.paramString()
-permalink: Java/ItemEvent/paramString
+permalink: /Java/ItemEvent/paramString/
 date: 2021-01-11
-key: JavaJava.I.ItemEvent
-category: java
+key: Java.I.ItemEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

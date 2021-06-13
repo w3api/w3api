@@ -1,9 +1,9 @@
 ---
 title: InconsistentTypeCode
-permalink: Java/InconsistentTypeCode-org-omg-CORBA-ORBPackage
+permalink: /Java/InconsistentTypeCode-org-omg-CORBA-ORBPackage/
 date: 2021-01-11
-key: JavaJava.I.InconsistentTypeCode-org-omg-CORBA-ORBPackage
-category: java
+key: Java.I.InconsistentTypeCode-org-omg-CORBA-ORBPackage
+category: Java
 tags: ['java se', 'org.omg.CORBA.ORBPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: INV_OBJREF
-permalink: Java/INV_OBJREF
+permalink: /Java/INV_OBJREF/
 date: 2021-01-11
-key: JavaJava.I.INV_OBJREF
-category: java
+key: Java.I.INV_OBJREF
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 
   nav: java

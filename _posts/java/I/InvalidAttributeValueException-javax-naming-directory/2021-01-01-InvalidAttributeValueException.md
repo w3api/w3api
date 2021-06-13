@@ -1,9 +1,9 @@
 ---
 title: InvalidAttributeValueException
-permalink: Java/InvalidAttributeValueException-javax-naming-directory
+permalink: /Java/InvalidAttributeValueException-javax-naming-directory/
 date: 2021-01-11
-key: JavaJava.I.InvalidAttributeValueException-javax-naming-directory
-category: java
+key: Java.I.InvalidAttributeValueException-javax-naming-directory
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

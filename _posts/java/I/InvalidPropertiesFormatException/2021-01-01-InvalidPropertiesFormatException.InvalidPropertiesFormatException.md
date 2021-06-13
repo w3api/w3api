@@ -1,9 +1,9 @@
 ---
 title: InvalidPropertiesFormatException.InvalidPropertiesFormatException()
-permalink: Java/InvalidPropertiesFormatException/InvalidPropertiesFormatException
+permalink: /Java/InvalidPropertiesFormatException/InvalidPropertiesFormatException/
 date: 2021-01-11
-key: JavaJava.I.InvalidPropertiesFormatException
-category: java
+key: Java.I.InvalidPropertiesFormatException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

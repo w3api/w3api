@@ -1,9 +1,9 @@
 ---
 title: JComboBox.isLightWeightPopupEnabled()
-permalink: Java/JComboBox/isLightWeightPopupEnabled
+permalink: /Java/JComboBox/isLightWeightPopupEnabled/
 date: 2021-01-11
-key: JavaJava.J.JComboBox
-category: java
+key: Java.J.JComboBox
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

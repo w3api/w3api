@@ -1,9 +1,9 @@
 ---
 title: HTMLStyleElement.setMedia()
-permalink: Java/HTMLStyleElement/setMedia
+permalink: /Java/HTMLStyleElement/setMedia/
 date: 2021-01-11
-key: JavaJava.H.HTMLStyleElement
-category: java
+key: Java.H.HTMLStyleElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

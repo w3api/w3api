@@ -1,9 +1,9 @@
 ---
 title: IntegerBinding
-permalink: Java/IntegerBinding
+permalink: /Java/IntegerBinding/
 date: 2021-01-11
-key: JavaJava.I.IntegerBinding
-category: java
+key: Java.I.IntegerBinding
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

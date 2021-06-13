@@ -1,9 +1,9 @@
 ---
 title: HttpsServer
-permalink: Java/HttpsServer
+permalink: /Java/HttpsServer/
 date: 2021-01-11
-key: JavaJava.H.HttpsServer
-category: java
+key: Java.H.HttpsServer
+category: Java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IDLTypeHelper.narrow()
-permalink: Java/IDLTypeHelper/narrow
+permalink: /Java/IDLTypeHelper/narrow/
 date: 2021-01-11
-key: JavaJava.I.IDLTypeHelper
-category: java
+key: Java.I.IDLTypeHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

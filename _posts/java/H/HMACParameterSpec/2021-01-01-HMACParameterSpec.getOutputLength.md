@@ -1,9 +1,9 @@
 ---
 title: HMACParameterSpec.getOutputLength()
-permalink: Java/HMACParameterSpec/getOutputLength
+permalink: /Java/HMACParameterSpec/getOutputLength/
 date: 2021-01-11
-key: JavaJava.H.HMACParameterSpec
-category: java
+key: Java.H.HMACParameterSpec
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InvalidNameHelper.InvalidNameHelper()
-permalink: Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/InvalidNameHelper
+permalink: /Java/InvalidNameHelper-org-omg-CosNaming-NamingContextPackage/InvalidNameHelper/
 date: 2021-01-11
-key: JavaJava.I.InvalidNameHelper-org-omg-CosNaming-NamingContextPackage
-category: java
+key: Java.I.InvalidNameHelper-org-omg-CosNaming-NamingContextPackage
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IntStream.Builder.add()
-permalink: Java/IntStream/Builder/add
+permalink: /Java/IntStream/Builder/add/
 date: 2021-01-11
-key: JavaJava.I.IntStream.Builder
-category: java
+key: Java.I.IntStream.Builder
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

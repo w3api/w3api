@@ -1,9 +1,9 @@
 ---
 title: ImageTypeSpecifier.getNumBands()
-permalink: Java/ImageTypeSpecifier/getNumBands
+permalink: /Java/ImageTypeSpecifier/getNumBands/
 date: 2021-01-11
-key: JavaJava.I.ImageTypeSpecifier
-category: java
+key: Java.I.ImageTypeSpecifier
+category: Java
 tags: ['java se', 'javax.imageio', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

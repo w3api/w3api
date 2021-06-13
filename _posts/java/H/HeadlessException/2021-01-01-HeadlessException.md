@@ -1,9 +1,9 @@
 ---
 title: HeadlessException
-permalink: Java/HeadlessException
+permalink: /Java/HeadlessException/
 date: 2021-01-11
-key: JavaJava.H.HeadlessException
-category: java
+key: Java.H.HeadlessException
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

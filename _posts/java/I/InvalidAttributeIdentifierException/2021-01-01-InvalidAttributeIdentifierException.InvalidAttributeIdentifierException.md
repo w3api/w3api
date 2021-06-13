@@ -1,9 +1,9 @@
 ---
 title: InvalidAttributeIdentifierException.InvalidAttributeIdentifierException()
-permalink: Java/InvalidAttributeIdentifierException/InvalidAttributeIdentifierException
+permalink: /Java/InvalidAttributeIdentifierException/InvalidAttributeIdentifierException/
 date: 2021-01-11
-key: JavaJava.I.InvalidAttributeIdentifierException
-category: java
+key: Java.I.InvalidAttributeIdentifierException
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

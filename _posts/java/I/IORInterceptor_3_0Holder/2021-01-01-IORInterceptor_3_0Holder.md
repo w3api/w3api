@@ -1,9 +1,9 @@
 ---
 title: IORInterceptor_3_0Holder
-permalink: Java/IORInterceptor_3_0Holder
+permalink: /Java/IORInterceptor_3_0Holder/
 date: 2021-01-11
-key: JavaJava.I.IORInterceptor_3_0Holder
-category: java
+key: Java.I.IORInterceptor_3_0Holder
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

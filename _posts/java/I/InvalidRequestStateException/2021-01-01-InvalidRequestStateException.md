@@ -1,9 +1,9 @@
 ---
 title: InvalidRequestStateException
-permalink: Java/InvalidRequestStateException
+permalink: /Java/InvalidRequestStateException/
 date: 2021-01-11
-key: JavaJava.I.InvalidRequestStateException
-category: java
+key: Java.I.InvalidRequestStateException
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

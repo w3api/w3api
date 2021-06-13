@@ -1,9 +1,9 @@
 ---
 title: InputMethodEvent.INPUT_METHOD_LAST
-permalink: Java/InputMethodEvent-java-awt-event/INPUT_METHOD_LAST
+permalink: /Java/InputMethodEvent-java-awt-event/INPUT_METHOD_LAST/
 date: 2021-01-11
-key: JavaJava.I.InputMethodEvent-java-awt-event
-category: java
+key: Java.I.InputMethodEvent-java-awt-event
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

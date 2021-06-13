@@ -1,9 +1,9 @@
 ---
 title: IntToDoubleFunction.applyAsDouble()
-permalink: Java/IntToDoubleFunction/applyAsDouble
+permalink: /Java/IntToDoubleFunction/applyAsDouble/
 date: 2021-01-11
-key: JavaJava.I.IntToDoubleFunction
-category: java
+key: Java.I.IntToDoubleFunction
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

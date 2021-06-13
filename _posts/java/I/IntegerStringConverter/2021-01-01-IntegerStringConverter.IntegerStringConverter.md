@@ -1,9 +1,9 @@
 ---
 title: IntegerStringConverter.IntegerStringConverter()
-permalink: Java/IntegerStringConverter/IntegerStringConverter
+permalink: /Java/IntegerStringConverter/IntegerStringConverter/
 date: 2021-01-11
-key: JavaJava.I.IntegerStringConverter
-category: java
+key: Java.I.IntegerStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

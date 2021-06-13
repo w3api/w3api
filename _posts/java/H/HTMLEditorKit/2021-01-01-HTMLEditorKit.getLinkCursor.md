@@ -1,9 +1,9 @@
 ---
 title: HTMLEditorKit.getLinkCursor()
-permalink: Java/HTMLEditorKit/getLinkCursor
+permalink: /Java/HTMLEditorKit/getLinkCursor/
 date: 2021-01-11
-key: JavaJava.H.HTMLEditorKit
-category: java
+key: Java.H.HTMLEditorKit
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

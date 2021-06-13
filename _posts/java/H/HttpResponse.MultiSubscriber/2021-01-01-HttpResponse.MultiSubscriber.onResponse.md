@@ -1,9 +1,9 @@
 ---
 title: HttpResponse.MultiSubscriber.onResponse()
-permalink: Java/HttpResponse/MultiSubscriber/onResponse
+permalink: /Java/HttpResponse/MultiSubscriber/onResponse/
 date: 2021-01-11
-key: JavaJava.H.HttpResponse.MultiSubscriber
-category: java
+key: Java.H.HttpResponse.MultiSubscriber
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

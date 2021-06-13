@@ -1,9 +1,9 @@
 ---
 title: InvalidDnDOperationException.InvalidDnDOperationException()
-permalink: Java/InvalidDnDOperationException/InvalidDnDOperationException
+permalink: /Java/InvalidDnDOperationException/InvalidDnDOperationException/
 date: 2021-01-11
-key: JavaJava.I.InvalidDnDOperationException
-category: java
+key: Java.I.InvalidDnDOperationException
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: GraphicsEnvironment
-permalink: Java/GraphicsEnvironment
+permalink: /Java/GraphicsEnvironment/
 date: 2021-01-11
-key: JavaJava.G.GraphicsEnvironment
-category: java
+key: Java.G.GraphicsEnvironment
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

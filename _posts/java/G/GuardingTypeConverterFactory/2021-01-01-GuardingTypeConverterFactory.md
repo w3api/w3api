@@ -1,9 +1,9 @@
 ---
 title: GuardingTypeConverterFactory
-permalink: Java/GuardingTypeConverterFactory
+permalink: /Java/GuardingTypeConverterFactory/
 date: 2021-01-11
-key: JavaJava.G.GuardingTypeConverterFactory
-category: java
+key: Java.G.GuardingTypeConverterFactory
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

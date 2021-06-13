@@ -1,9 +1,9 @@
 ---
 title: HTMLEditorSkin
-permalink: Java/HTMLEditorSkin
+permalink: /Java/HTMLEditorSkin/
 date: 2021-01-11
-key: JavaJava.H.HTMLEditorSkin
-category: java
+key: Java.H.HTMLEditorSkin
+category: Java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'clase java', 'Java 9']
 sidebar: 
   nav: java

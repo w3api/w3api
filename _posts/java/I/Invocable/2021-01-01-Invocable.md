@@ -1,9 +1,9 @@
 ---
 title: Invocable
-permalink: Java/Invocable
+permalink: /Java/Invocable/
 date: 2021-01-11
-key: JavaJava.I.Invocable
-category: java
+key: Java.I.Invocable
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

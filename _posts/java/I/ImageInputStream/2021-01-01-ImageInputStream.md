@@ -1,9 +1,9 @@
 ---
 title: ImageInputStream
-permalink: Java/ImageInputStream
+permalink: /Java/ImageInputStream/
 date: 2021-01-11
-key: JavaJava.I.ImageInputStream
-category: java
+key: Java.I.ImageInputStream
+category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

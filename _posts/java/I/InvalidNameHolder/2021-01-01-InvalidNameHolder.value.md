@@ -1,9 +1,9 @@
 ---
 title: InvalidNameHolder.value
-permalink: Java/InvalidNameHolder/value
+permalink: /Java/InvalidNameHolder/value/
 date: 2021-01-11
-key: JavaJava.I.InvalidNameHolder
-category: java
+key: Java.I.InvalidNameHolder
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

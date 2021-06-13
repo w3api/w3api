@@ -1,9 +1,9 @@
 ---
 title: HttpURLConnection.getRequestMethod()
-permalink: Java/HttpURLConnection/getRequestMethod
+permalink: /Java/HttpURLConnection/getRequestMethod/
 date: 2021-01-11
-key: JavaJava.H.HttpURLConnection
-category: java
+key: Java.H.HttpURLConnection
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InquireSecContextPermission.InquireSecContextPermission()
-permalink: Java/InquireSecContextPermission/InquireSecContextPermission
+permalink: /Java/InquireSecContextPermission/InquireSecContextPermission/
 date: 2021-01-11
-key: JavaJava.I.InquireSecContextPermission
-category: java
+key: Java.I.InquireSecContextPermission
+category: Java
 tags: ['java se', 'com.sun.security.jgss', 'jdk.security.jgss', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

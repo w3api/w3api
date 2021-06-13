@@ -1,9 +1,9 @@
 ---
 title: HTMLModElement
-permalink: Java/HTMLModElement
+permalink: /Java/HTMLModElement/
 date: 2021-01-11
-key: JavaJava.H.HTMLModElement
-category: java
+key: Java.H.HTMLModElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'interface java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

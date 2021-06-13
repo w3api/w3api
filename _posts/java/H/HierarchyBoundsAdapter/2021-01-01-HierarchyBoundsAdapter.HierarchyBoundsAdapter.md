@@ -1,9 +1,9 @@
 ---
 title: HierarchyBoundsAdapter.HierarchyBoundsAdapter()
-permalink: Java/HierarchyBoundsAdapter/HierarchyBoundsAdapter
+permalink: /Java/HierarchyBoundsAdapter/HierarchyBoundsAdapter/
 date: 2021-01-11
-key: JavaJava.H.HierarchyBoundsAdapter
-category: java
+key: Java.H.HierarchyBoundsAdapter
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InvocationEvent.catchExceptions
-permalink: Java/InvocationEvent/catchExceptions
+permalink: /Java/InvocationEvent/catchExceptions/
 date: 2021-01-11
-key: JavaJava.I.InvocationEvent
-category: java
+key: Java.I.InvocationEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

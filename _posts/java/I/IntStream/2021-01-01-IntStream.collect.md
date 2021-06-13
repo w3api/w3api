@@ -1,9 +1,9 @@
 ---
 title: IntStream.collect()
-permalink: Java/IntStream/collect
+permalink: /Java/IntStream/collect/
 date: 2021-01-11
-key: JavaJava.I.IntStream
-category: java
+key: Java.I.IntStream
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

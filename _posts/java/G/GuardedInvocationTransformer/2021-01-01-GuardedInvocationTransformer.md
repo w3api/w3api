@@ -1,9 +1,9 @@
 ---
 title: GuardedInvocationTransformer
-permalink: Java/GuardedInvocationTransformer
+permalink: /Java/GuardedInvocationTransformer/
 date: 2021-01-11
-key: JavaJava.G.GuardedInvocationTransformer
-category: java
+key: Java.G.GuardedInvocationTransformer
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

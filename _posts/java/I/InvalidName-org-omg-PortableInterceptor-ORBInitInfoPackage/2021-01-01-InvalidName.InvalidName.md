@@ -1,9 +1,9 @@
 ---
 title: InvalidName.InvalidName()
-permalink: Java/InvalidName-org-omg-PortableInterceptor-ORBInitInfoPackage/InvalidName
+permalink: /Java/InvalidName-org-omg-PortableInterceptor-ORBInitInfoPackage/InvalidName/
 date: 2021-01-11
-key: JavaJava.I.InvalidName-org-omg-PortableInterceptor-ORBInitInfoPackage
-category: java
+key: Java.I.InvalidName-org-omg-PortableInterceptor-ORBInitInfoPackage
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor.ORBInitInfoPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

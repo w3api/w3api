@@ -1,9 +1,9 @@
 ---
 title: HttpRequest.Builder.version()
-permalink: Java/HttpRequest/Builder/version
+permalink: /Java/HttpRequest/Builder/version/
 date: 2021-01-11
-key: JavaJava.H.HttpRequest.Builder
-category: java
+key: Java.H.HttpRequest.Builder
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InvalidKeyException
-permalink: Java/InvalidKeyException/
+permalink: /Java/InvalidKeyException//
 date: 2021-01-11
-key: JavaJava.I.InvalidKeyException
-category: java
+key: Java.I.InvalidKeyException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

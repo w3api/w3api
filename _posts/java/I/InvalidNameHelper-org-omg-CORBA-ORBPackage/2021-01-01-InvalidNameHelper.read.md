@@ -1,9 +1,9 @@
 ---
 title: InvalidNameHelper.read()
-permalink: Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/read
+permalink: /Java/InvalidNameHelper-org-omg-CORBA-ORBPackage/read/
 date: 2021-01-11
-key: JavaJava.I.InvalidNameHelper-org-omg-CORBA-ORBPackage
-category: java
+key: Java.I.InvalidNameHelper-org-omg-CORBA-ORBPackage
+category: Java
 tags: ['java se', 'org.omg.CORBA.ORBPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

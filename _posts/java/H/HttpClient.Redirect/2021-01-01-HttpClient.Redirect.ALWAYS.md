@@ -1,9 +1,9 @@
 ---
 title: HttpClient.Redirect.ALWAYS
-permalink: Java/HttpClient/Redirect/ALWAYS
+permalink: /Java/HttpClient/Redirect/ALWAYS/
 date: 2021-01-11
-key: JavaJava.H.HttpClient.Redirect
-category: java
+key: Java.H.HttpClient.Redirect
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'campo java', 'Java 9']
 sidebar: 
   nav: java

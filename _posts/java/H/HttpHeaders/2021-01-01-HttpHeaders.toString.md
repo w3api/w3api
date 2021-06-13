@@ -1,9 +1,9 @@
 ---
 title: HttpHeaders.toString()
-permalink: Java/HttpHeaders/toString
+permalink: /Java/HttpHeaders/toString/
 date: 2021-01-11
-key: JavaJava.H.HttpHeaders
-category: java
+key: Java.H.HttpHeaders
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

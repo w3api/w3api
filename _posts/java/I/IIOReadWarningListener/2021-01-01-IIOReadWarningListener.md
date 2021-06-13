@@ -1,9 +1,9 @@
 ---
 title: IIOReadWarningListener
-permalink: Java/IIOReadWarningListener
+permalink: /Java/IIOReadWarningListener/
 date: 2021-01-11
-key: JavaJava.I.IIOReadWarningListener
-category: java
+key: Java.I.IIOReadWarningListener
+category: Java
 tags: ['java se', 'javax.imageio.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

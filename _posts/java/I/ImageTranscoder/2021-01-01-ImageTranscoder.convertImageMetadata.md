@@ -1,9 +1,9 @@
 ---
 title: ImageTranscoder.convertImageMetadata()
-permalink: Java/ImageTranscoder/convertImageMetadata
+permalink: /Java/ImageTranscoder/convertImageMetadata/
 date: 2021-01-11
-key: JavaJava.I.ImageTranscoder
-category: java
+key: Java.I.ImageTranscoder
+category: Java
 tags: ['java se', 'javax.imageio', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

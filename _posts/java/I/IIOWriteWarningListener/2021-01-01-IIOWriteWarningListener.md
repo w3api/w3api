@@ -1,9 +1,9 @@
 ---
 title: IIOWriteWarningListener
-permalink: Java/IIOWriteWarningListener
+permalink: /Java/IIOWriteWarningListener/
 date: 2021-01-11
-key: JavaJava.I.IIOWriteWarningListener
-category: java
+key: Java.I.IIOWriteWarningListener
+category: Java
 tags: ['java se', 'javax.imageio.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IIOServiceProvider.getVersion()
-permalink: Java/IIOServiceProvider/getVersion
+permalink: /Java/IIOServiceProvider/getVersion/
 date: 2021-01-11
-key: JavaJava.I.IIOServiceProvider
-category: java
+key: Java.I.IIOServiceProvider
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

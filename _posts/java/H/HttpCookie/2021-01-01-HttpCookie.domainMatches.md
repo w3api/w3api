@@ -1,9 +1,9 @@
 ---
 title: HttpCookie.domainMatches()
-permalink: Java/HttpCookie/domainMatches
+permalink: /Java/HttpCookie/domainMatches/
 date: 2021-01-11
-key: JavaJava.H.HttpCookie
-category: java
+key: Java.H.HttpCookie
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

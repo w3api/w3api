@@ -1,9 +1,9 @@
 ---
 title: InquireType.KRB5_GET_SESSION_KEY_EX
-permalink: Java/InquireType/KRB5_GET_SESSION_KEY_EX
+permalink: /Java/InquireType/KRB5_GET_SESSION_KEY_EX/
 date: 2021-01-11
-key: JavaJava.I.InquireType
-category: java
+key: Java.I.InquireType
+category: Java
 tags: ['java se', 'com.sun.security.jgss', 'jdk.security.jgss', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

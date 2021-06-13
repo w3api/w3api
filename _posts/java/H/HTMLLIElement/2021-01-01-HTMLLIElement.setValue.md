@@ -1,9 +1,9 @@
 ---
 title: HTMLLIElement.setValue()
-permalink: Java/HTMLLIElement/setValue
+permalink: /Java/HTMLLIElement/setValue/
 date: 2021-01-11
-key: JavaJava.H.HTMLLIElement
-category: java
+key: Java.H.HTMLLIElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

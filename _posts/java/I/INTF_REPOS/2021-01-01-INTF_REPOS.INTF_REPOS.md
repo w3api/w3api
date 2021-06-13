@@ -1,9 +1,9 @@
 ---
 title: INTF_REPOS.INTF_REPOS()
-permalink: Java/INTF_REPOS/INTF_REPOS
+permalink: /Java/INTF_REPOS/INTF_REPOS/
 date: 2021-01-11
-key: JavaJava.I.INTF_REPOS
-category: java
+key: Java.I.INTF_REPOS
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

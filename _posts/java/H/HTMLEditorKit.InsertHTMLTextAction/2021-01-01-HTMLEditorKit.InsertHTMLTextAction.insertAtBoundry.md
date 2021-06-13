@@ -1,9 +1,9 @@
 ---
 title: HTMLEditorKit.InsertHTMLTextAction.insertAtBoundry()
-permalink: Java/HTMLEditorKit/InsertHTMLTextAction/insertAtBoundry
+permalink: /Java/HTMLEditorKit/InsertHTMLTextAction/insertAtBoundry/
 date: 2021-01-11
-key: JavaJava.H.HTMLEditorKit.InsertHTMLTextAction
-category: java
+key: Java.H.HTMLEditorKit.InsertHTMLTextAction
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

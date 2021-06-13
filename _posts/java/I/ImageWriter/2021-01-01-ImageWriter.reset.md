@@ -1,9 +1,9 @@
 ---
 title: ImageWriter.reset()
-permalink: Java/ImageWriter/reset
+permalink: /Java/ImageWriter/reset/
 date: 2021-01-11
-key: JavaJava.I.ImageWriter
-category: java
+key: Java.I.ImageWriter
+category: Java
 tags: ['java se', 'javax.imageio', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

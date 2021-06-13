@@ -1,9 +1,9 @@
 ---
 title: ImageWriterSpi.ImageWriterSpi()
-permalink: Java/ImageWriterSpi/ImageWriterSpi
+permalink: /Java/ImageWriterSpi/ImageWriterSpi/
 date: 2021-01-11
-key: JavaJava.I.ImageWriterSpi
-category: java
+key: Java.I.ImageWriterSpi
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IllegalComponentStateException
-permalink: Java/IllegalComponentStateException
+permalink: /Java/IllegalComponentStateException/
 date: 2021-01-11
-key: JavaJava.I.IllegalComponentStateException
-category: java
+key: Java.I.IllegalComponentStateException
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

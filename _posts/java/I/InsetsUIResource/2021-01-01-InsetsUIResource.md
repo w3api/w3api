@@ -1,9 +1,9 @@
 ---
 title: InsetsUIResource
-permalink: Java/InsetsUIResource
+permalink: /Java/InsetsUIResource/
 date: 2021-01-11
-key: JavaJava.I.InsetsUIResource
-category: java
+key: Java.I.InsetsUIResource
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

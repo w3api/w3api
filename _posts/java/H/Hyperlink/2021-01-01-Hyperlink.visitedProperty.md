@@ -1,9 +1,9 @@
 ---
 title: Hyperlink.visitedProperty()
-permalink: Java/Hyperlink/visitedProperty
+permalink: /Java/Hyperlink/visitedProperty/
 date: 2021-01-11
-key: JavaJava.H.Hyperlink
-category: java
+key: Java.H.Hyperlink
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

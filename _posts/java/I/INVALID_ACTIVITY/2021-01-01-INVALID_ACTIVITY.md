@@ -1,9 +1,9 @@
 ---
 title: INVALID_ACTIVITY
-permalink: Java/INVALID_ACTIVITY
+permalink: /Java/INVALID_ACTIVITY/
 date: 2021-01-11
-key: JavaJava.I.INVALID_ACTIVITY
-category: java
+key: Java.I.INVALID_ACTIVITY
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

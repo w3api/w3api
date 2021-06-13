@@ -1,9 +1,9 @@
 ---
 title: InstanceOfTree
-permalink: Java/InstanceOfTree-com-sun-source-tree
+permalink: /Java/InstanceOfTree-com-sun-source-tree/
 date: 2021-01-11
-key: JavaJava.I.InstanceOfTree-com-sun-source-tree
-category: java
+key: Java.I.InstanceOfTree-com-sun-source-tree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HandlerChain
-permalink: Java/HandlerChain
+permalink: /Java/HandlerChain/
 date: 2021-01-11
-key: JavaJava.H.HandlerChain
-category: java
+key: Java.H.HandlerChain
+category: Java
 tags: ['java se', 'javax.jws', 'java.xml.ws', 'anotacion java', 'Java 1.6']
 sidebar: 
   nav: java

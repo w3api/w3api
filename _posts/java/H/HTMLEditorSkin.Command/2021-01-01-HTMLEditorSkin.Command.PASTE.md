@@ -1,9 +1,9 @@
 ---
 title: HTMLEditorSkin.Command.PASTE
-permalink: Java/HTMLEditorSkin/Command/PASTE
+permalink: /Java/HTMLEditorSkin/Command/PASTE/
 date: 2021-01-11
-key: JavaJava.H.HTMLEditorSkin.Command
-category: java
+key: Java.H.HTMLEditorSkin.Command
+category: Java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

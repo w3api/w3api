@@ -1,9 +1,9 @@
 ---
 title: HashPrintRequestAttributeSet.HashPrintRequestAttributeSet()
-permalink: Java/HashPrintRequestAttributeSet/HashPrintRequestAttributeSet
+permalink: /Java/HashPrintRequestAttributeSet/HashPrintRequestAttributeSet/
 date: 2021-01-11
-key: JavaJava.H.HashPrintRequestAttributeSet
-category: java
+key: Java.H.HashPrintRequestAttributeSet
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

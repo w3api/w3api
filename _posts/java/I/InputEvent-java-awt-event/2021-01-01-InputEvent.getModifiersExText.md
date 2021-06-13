@@ -1,9 +1,9 @@
 ---
 title: InputEvent.getModifiersExText()
-permalink: Java/InputEvent-java-awt-event/getModifiersExText
+permalink: /Java/InputEvent-java-awt-event/getModifiersExText/
 date: 2021-01-11
-key: JavaJava.I.InputEvent-java-awt-event
-category: java
+key: Java.I.InputEvent-java-awt-event
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

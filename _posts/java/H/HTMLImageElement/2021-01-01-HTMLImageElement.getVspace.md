@@ -1,9 +1,9 @@
 ---
 title: HTMLImageElement.getVspace()
-permalink: Java/HTMLImageElement/getVspace
+permalink: /Java/HTMLImageElement/getVspace/
 date: 2021-01-11
-key: JavaJava.H.HTMLImageElement
-category: java
+key: Java.H.HTMLImageElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

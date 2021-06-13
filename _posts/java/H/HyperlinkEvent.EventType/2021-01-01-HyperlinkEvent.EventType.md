@@ -1,9 +1,9 @@
 ---
 title: HyperlinkEvent.EventType
-permalink: Java/HyperlinkEvent/EventType
+permalink: /Java/HyperlinkEvent/EventType/
 date: 2021-01-11
-key: JavaJava.H.HyperlinkEvent.EventType
-category: java
+key: Java.H.HyperlinkEvent.EventType
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

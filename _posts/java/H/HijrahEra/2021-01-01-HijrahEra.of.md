@@ -1,9 +1,9 @@
 ---
 title: HijrahEra.of()
-permalink: Java/HijrahEra/of
+permalink: /Java/HijrahEra/of/
 date: 2021-01-11
-key: JavaJava.H.HijrahEra
-category: java
+key: Java.H.HijrahEra
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

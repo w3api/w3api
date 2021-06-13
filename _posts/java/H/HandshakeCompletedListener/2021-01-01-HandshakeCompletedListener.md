@@ -1,9 +1,9 @@
 ---
 title: HandshakeCompletedListener
-permalink: Java/HandshakeCompletedListener
+permalink: /Java/HandshakeCompletedListener/
 date: 2021-01-11
-key: JavaJava.H.HandshakeCompletedListener
-category: java
+key: Java.H.HandshakeCompletedListener
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

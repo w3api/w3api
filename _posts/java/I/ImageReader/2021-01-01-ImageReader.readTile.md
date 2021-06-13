@@ -1,9 +1,9 @@
 ---
 title: ImageReader.readTile()
-permalink: Java/ImageReader/readTile
+permalink: /Java/ImageReader/readTile/
 date: 2021-01-11
-key: JavaJava.I.ImageReader
-category: java
+key: Java.I.ImageReader
+category: Java
 tags: ['java se', 'javax.imageio', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

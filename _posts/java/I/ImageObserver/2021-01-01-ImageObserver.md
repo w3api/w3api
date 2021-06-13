@@ -1,9 +1,9 @@
 ---
 title: ImageObserver
-permalink: Java/ImageObserver
+permalink: /Java/ImageObserver/
 date: 2021-01-11
-key: JavaJava.I.ImageObserver
-category: java
+key: Java.I.ImageObserver
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

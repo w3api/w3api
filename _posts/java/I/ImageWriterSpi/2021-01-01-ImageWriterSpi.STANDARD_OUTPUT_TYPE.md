@@ -1,9 +1,9 @@
 ---
 title: ImageWriterSpi.STANDARD_OUTPUT_TYPE
-permalink: Java/ImageWriterSpi/STANDARD_OUTPUT_TYPE
+permalink: /Java/ImageWriterSpi/STANDARD_OUTPUT_TYPE/
 date: 2021-01-11
-key: JavaJava.I.ImageWriterSpi
-category: java
+key: Java.I.ImageWriterSpi
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

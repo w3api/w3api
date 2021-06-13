@@ -1,9 +1,9 @@
 ---
 title: InvalidName
-permalink: Java/InvalidName/
+permalink: /Java/InvalidName//
 date: 2021-01-11
-key: JavaJava.I.InvalidName
-category: java
+key: Java.I.InvalidName
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

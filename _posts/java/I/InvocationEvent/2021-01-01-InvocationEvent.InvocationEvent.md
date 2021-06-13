@@ -1,9 +1,9 @@
 ---
 title: InvocationEvent.InvocationEvent()
-permalink: Java/InvocationEvent/InvocationEvent
+permalink: /Java/InvocationEvent/InvocationEvent/
 date: 2021-01-11
-key: JavaJava.I.InvocationEvent
-category: java
+key: Java.I.InvocationEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

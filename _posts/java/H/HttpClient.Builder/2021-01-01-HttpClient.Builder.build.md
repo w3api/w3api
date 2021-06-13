@@ -1,9 +1,9 @@
 ---
 title: HttpClient.Builder.build()
-permalink: Java/HttpClient/Builder/build
+permalink: /Java/HttpClient/Builder/build/
 date: 2021-01-11
-key: JavaJava.H.HttpClient.Builder
-category: java
+key: Java.H.HttpClient.Builder
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

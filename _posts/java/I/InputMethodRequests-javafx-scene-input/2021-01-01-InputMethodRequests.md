@@ -1,9 +1,9 @@
 ---
 title: InputMethodRequests
-permalink: Java/InputMethodRequests-javafx-scene-input
+permalink: /Java/InputMethodRequests-javafx-scene-input/
 date: 2021-01-11
-key: JavaJava.I.InputMethodRequests-javafx-scene-input
-category: java
+key: Java.I.InputMethodRequests-javafx-scene-input
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

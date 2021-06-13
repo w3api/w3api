@@ -1,9 +1,9 @@
 ---
 title: IIOServiceProvider
-permalink: Java/IIOServiceProvider
+permalink: /Java/IIOServiceProvider/
 date: 2021-01-11
-key: JavaJava.I.IIOServiceProvider
-category: java
+key: Java.I.IIOServiceProvider
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

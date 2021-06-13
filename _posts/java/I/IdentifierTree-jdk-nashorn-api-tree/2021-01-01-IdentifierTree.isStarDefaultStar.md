@@ -1,9 +1,9 @@
 ---
 title: IdentifierTree.isStarDefaultStar()
-permalink: Java/IdentifierTree-jdk-nashorn-api-tree/isStarDefaultStar
+permalink: /Java/IdentifierTree-jdk-nashorn-api-tree/isStarDefaultStar/
 date: 2021-01-11
-key: JavaJava.I.IdentifierTree-jdk-nashorn-api-tree
-category: java
+key: Java.I.IdentifierTree-jdk-nashorn-api-tree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

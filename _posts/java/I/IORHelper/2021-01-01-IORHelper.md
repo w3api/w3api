@@ -1,9 +1,9 @@
 ---
 title: IORHelper
-permalink: Java/IORHelper
+permalink: /Java/IORHelper/
 date: 2021-01-11
-key: JavaJava.I.IORHelper
-category: java
+key: Java.I.IORHelper
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

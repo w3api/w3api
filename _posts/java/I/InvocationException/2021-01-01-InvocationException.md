@@ -1,9 +1,9 @@
 ---
 title: InvocationException
-permalink: Java/InvocationException
+permalink: /Java/InvocationException/
 date: 2021-01-11
-key: JavaJava.I.InvocationException
-category: java
+key: Java.I.InvocationException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

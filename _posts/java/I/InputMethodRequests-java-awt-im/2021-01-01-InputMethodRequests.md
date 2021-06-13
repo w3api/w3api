@@ -1,9 +1,9 @@
 ---
 title: InputMethodRequests
-permalink: Java/InputMethodRequests-java-awt-im
+permalink: /Java/InputMethodRequests-java-awt-im/
 date: 2021-01-11
-key: JavaJava.I.InputMethodRequests-java-awt-im
-category: java
+key: Java.I.InputMethodRequests-java-awt-im
+category: Java
 tags: ['java se', 'java.awt.im', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

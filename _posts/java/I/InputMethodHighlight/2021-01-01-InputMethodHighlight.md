@@ -1,9 +1,9 @@
 ---
 title: InputMethodHighlight
-permalink: Java/InputMethodHighlight/
+permalink: /Java/InputMethodHighlight//
 date: 2021-01-11
-key: JavaJava.I.InputMethodHighlight
-category: java
+key: Java.I.InputMethodHighlight
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

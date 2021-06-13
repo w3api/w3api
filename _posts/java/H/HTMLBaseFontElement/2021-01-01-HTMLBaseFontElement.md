@@ -1,9 +1,9 @@
 ---
 title: HTMLBaseFontElement
-permalink: Java/HTMLBaseFontElement
+permalink: /Java/HTMLBaseFontElement/
 date: 2021-01-11
-key: JavaJava.H.HTMLBaseFontElement
-category: java
+key: Java.H.HTMLBaseFontElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'interface java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

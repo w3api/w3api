@@ -1,9 +1,9 @@
 ---
 title: IndexColorModel
-permalink: Java/IndexColorModel
+permalink: /Java/IndexColorModel/
 date: 2021-01-11
-key: JavaJava.I.IndexColorModel
-category: java
+key: Java.I.IndexColorModel
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IntegerValue.hashCode()
-permalink: Java/IntegerValue/hashCode
+permalink: /Java/IntegerValue/hashCode/
 date: 2021-01-11
-key: JavaJava.I.IntegerValue
-category: java
+key: Java.I.IntegerValue
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

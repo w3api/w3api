@@ -1,9 +1,9 @@
 ---
 title: InputMethodEvent.getCaretPosition()
-permalink: Java/InputMethodEvent-javafx-scene-input/getCaretPosition
+permalink: /Java/InputMethodEvent-javafx-scene-input/getCaretPosition/
 date: 2021-01-11
-key: JavaJava.I.InputMethodEvent-javafx-scene-input
-category: java
+key: Java.I.InputMethodEvent-javafx-scene-input
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

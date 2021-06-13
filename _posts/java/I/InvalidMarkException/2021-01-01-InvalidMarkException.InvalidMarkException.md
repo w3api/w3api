@@ -1,9 +1,9 @@
 ---
 title: InvalidMarkException.InvalidMarkException()
-permalink: Java/InvalidMarkException/InvalidMarkException
+permalink: /Java/InvalidMarkException/InvalidMarkException/
 date: 2021-01-11
-key: JavaJava.I.InvalidMarkException
-category: java
+key: Java.I.InvalidMarkException
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

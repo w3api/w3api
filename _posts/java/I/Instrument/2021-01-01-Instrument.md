@@ -1,9 +1,9 @@
 ---
 title: Instrument
-permalink: Java/Instrument
+permalink: /Java/Instrument/
 date: 2021-01-11
-key: JavaJava.I.Instrument
-category: java
+key: Java.I.Instrument
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

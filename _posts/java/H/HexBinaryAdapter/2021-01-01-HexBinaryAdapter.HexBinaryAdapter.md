@@ -1,9 +1,9 @@
 ---
 title: HexBinaryAdapter.HexBinaryAdapter()
-permalink: Java/HexBinaryAdapter/HexBinaryAdapter
+permalink: /Java/HexBinaryAdapter/HexBinaryAdapter/
 date: 2021-01-11
-key: JavaJava.H.HexBinaryAdapter
-category: java
+key: Java.H.HexBinaryAdapter
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation.adapters', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

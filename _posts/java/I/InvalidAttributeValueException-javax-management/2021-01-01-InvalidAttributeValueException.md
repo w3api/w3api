@@ -1,9 +1,9 @@
 ---
 title: InvalidAttributeValueException
-permalink: Java/InvalidAttributeValueException-javax-management
+permalink: /Java/InvalidAttributeValueException-javax-management/
 date: 2021-01-11
-key: JavaJava.I.InvalidAttributeValueException-javax-management
-category: java
+key: Java.I.InvalidAttributeValueException-javax-management
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

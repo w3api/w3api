@@ -1,9 +1,9 @@
 ---
 title: InvalidObjectException
-permalink: Java/InvalidObjectException
+permalink: /Java/InvalidObjectException/
 date: 2021-01-11
-key: JavaJava.I.InvalidObjectException
-category: java
+key: Java.I.InvalidObjectException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1', 'Java 1.1']
 sidebar: 
   nav: java

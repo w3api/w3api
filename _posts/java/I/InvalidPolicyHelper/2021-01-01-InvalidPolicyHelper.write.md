@@ -1,9 +1,9 @@
 ---
 title: InvalidPolicyHelper.write()
-permalink: Java/InvalidPolicyHelper/write
+permalink: /Java/InvalidPolicyHelper/write/
 date: 2021-01-11
-key: JavaJava.I.InvalidPolicyHelper
-category: java
+key: Java.I.InvalidPolicyHelper
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IIOWriteWarningListener.warningOccurred()
-permalink: Java/IIOWriteWarningListener/warningOccurred
+permalink: /Java/IIOWriteWarningListener/warningOccurred/
 date: 2021-01-11
-key: JavaJava.I.IIOWriteWarningListener
-category: java
+key: Java.I.IIOWriteWarningListener
+category: Java
 tags: ['java se', 'javax.imageio.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JCheckBox.BORDER_PAINTED_FLAT_CHANGED_PROPERTY
-permalink: Java/JCheckBox/BORDER_PAINTED_FLAT_CHANGED_PROPERTY
+permalink: /Java/JCheckBox/BORDER_PAINTED_FLAT_CHANGED_PROPERTY/
 date: 2021-01-11
-key: JavaJava.J.JCheckBox
-category: java
+key: Java.J.JCheckBox
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

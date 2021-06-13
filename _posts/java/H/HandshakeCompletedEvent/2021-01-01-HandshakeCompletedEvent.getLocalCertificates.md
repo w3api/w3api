@@ -1,9 +1,9 @@
 ---
 title: HandshakeCompletedEvent.getLocalCertificates()
-permalink: Java/HandshakeCompletedEvent/getLocalCertificates
+permalink: /Java/HandshakeCompletedEvent/getLocalCertificates/
 date: 2021-01-11
-key: JavaJava.H.HandshakeCompletedEvent
-category: java
+key: Java.H.HandshakeCompletedEvent
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

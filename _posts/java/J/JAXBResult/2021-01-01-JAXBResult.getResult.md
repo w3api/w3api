@@ -1,9 +1,9 @@
 ---
 title: JAXBResult.getResult()
-permalink: Java/JAXBResult/getResult
+permalink: /Java/JAXBResult/getResult/
 date: 2021-01-11
-key: JavaJava.J.JAXBResult
-category: java
+key: Java.J.JAXBResult
+category: Java
 tags: ['java se', 'javax.xml.bind.util', 'java.xml.bind', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

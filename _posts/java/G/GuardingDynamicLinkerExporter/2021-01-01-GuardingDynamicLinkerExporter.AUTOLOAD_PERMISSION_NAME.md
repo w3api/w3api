@@ -1,9 +1,9 @@
 ---
 title: GuardingDynamicLinkerExporter.AUTOLOAD_PERMISSION_NAME
-permalink: Java/GuardingDynamicLinkerExporter/AUTOLOAD_PERMISSION_NAME
+permalink: /Java/GuardingDynamicLinkerExporter/AUTOLOAD_PERMISSION_NAME/
 date: 2021-01-11
-key: JavaJava.G.GuardingDynamicLinkerExporter
-category: java
+key: Java.G.GuardingDynamicLinkerExporter
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

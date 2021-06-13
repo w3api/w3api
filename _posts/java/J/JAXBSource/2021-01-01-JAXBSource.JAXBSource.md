@@ -1,9 +1,9 @@
 ---
 title: JAXBSource.JAXBSource()
-permalink: Java/JAXBSource/JAXBSource
+permalink: /Java/JAXBSource/JAXBSource/
 date: 2021-01-11
-key: JavaJava.J.JAXBSource
-category: java
+key: Java.J.JAXBSource
+category: Java
 tags: ['java se', 'javax.xml.bind.util', 'java.xml.bind', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

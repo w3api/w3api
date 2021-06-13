@@ -1,9 +1,9 @@
 ---
 title: Instrumentation.getInitiatedClasses()
-permalink: Java/Instrumentation/getInitiatedClasses
+permalink: /Java/Instrumentation/getInitiatedClasses/
 date: 2021-01-11
-key: JavaJava.I.Instrumentation
-category: java
+key: Java.I.Instrumentation
+category: Java
 tags: ['java se', 'java.lang.instrument', 'java.instrument', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

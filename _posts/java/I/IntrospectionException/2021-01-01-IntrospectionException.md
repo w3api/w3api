@@ -1,9 +1,9 @@
 ---
 title: IntrospectionException
-permalink: Java/IntrospectionException/
+permalink: /Java/IntrospectionException//
 date: 2021-01-11
-key: JavaJava.I.IntrospectionException
-category: java
+key: Java.I.IntrospectionException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

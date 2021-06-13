@@ -1,9 +1,9 @@
 ---
 title: InterruptedIOException.bytesTransferred
-permalink: Java/InterruptedIOException/bytesTransferred
+permalink: /Java/InterruptedIOException/bytesTransferred/
 date: 2021-01-11
-key: JavaJava.I.InterruptedIOException
-category: java
+key: Java.I.InterruptedIOException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

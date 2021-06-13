@@ -1,9 +1,9 @@
 ---
 title: HttpClient.Redirect.valueOf()
-permalink: Java/HttpClient/Redirect/valueOf
+permalink: /Java/HttpClient/Redirect/valueOf/
 date: 2021-01-11
-key: JavaJava.H.HttpClient.Redirect
-category: java
+key: Java.H.HttpClient.Redirect
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

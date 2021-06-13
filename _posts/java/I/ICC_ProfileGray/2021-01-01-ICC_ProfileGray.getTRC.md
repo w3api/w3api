@@ -1,9 +1,9 @@
 ---
 title: ICC_ProfileGray.getTRC()
-permalink: Java/ICC_ProfileGray/getTRC
+permalink: /Java/ICC_ProfileGray/getTRC/
 date: 2021-01-11
-key: JavaJava.I.ICC_ProfileGray
-category: java
+key: Java.I.ICC_ProfileGray
+category: Java
 tags: ['java se', 'java.awt.color', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

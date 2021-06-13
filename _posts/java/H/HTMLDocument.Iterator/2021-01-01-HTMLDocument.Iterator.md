@@ -1,9 +1,9 @@
 ---
 title: HTMLDocument.Iterator
-permalink: Java/HTMLDocument/Iterator
+permalink: /Java/HTMLDocument/Iterator/
 date: 2021-01-11
-key: JavaJava.H.HTMLDocument.Iterator
-category: java
+key: Java.H.HTMLDocument.Iterator
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

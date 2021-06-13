@@ -1,9 +1,9 @@
 ---
 title: InvocationEvent.INVOCATION_LAST
-permalink: Java/InvocationEvent/INVOCATION_LAST
+permalink: /Java/InvocationEvent/INVOCATION_LAST/
 date: 2021-01-11
-key: JavaJava.I.InvocationEvent
-category: java
+key: Java.I.InvocationEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

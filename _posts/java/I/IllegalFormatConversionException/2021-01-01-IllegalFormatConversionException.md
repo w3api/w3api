@@ -1,9 +1,9 @@
 ---
 title: IllegalFormatConversionException
-permalink: Java/IllegalFormatConversionException
+permalink: /Java/IllegalFormatConversionException/
 date: 2021-01-11
-key: JavaJava.I.IllegalFormatConversionException
-category: java
+key: Java.I.IllegalFormatConversionException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

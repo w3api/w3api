@@ -1,9 +1,9 @@
 ---
 title: IllegalAccessError.IllegalAccessError()
-permalink: Java/IllegalAccessError/IllegalAccessError
+permalink: /Java/IllegalAccessError/IllegalAccessError/
 date: 2021-01-11
-key: JavaJava.I.IllegalAccessError
-category: java
+key: Java.I.IllegalAccessError
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

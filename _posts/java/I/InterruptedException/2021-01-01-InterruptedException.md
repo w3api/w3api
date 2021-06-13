@@ -1,9 +1,9 @@
 ---
 title: InterruptedException
-permalink: Java/InterruptedException
+permalink: /Java/InterruptedException/
 date: 2021-01-11
-key: JavaJava.I.InterruptedException
-category: java
+key: Java.I.InterruptedException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

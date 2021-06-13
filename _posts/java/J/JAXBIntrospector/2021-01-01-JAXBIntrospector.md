@@ -1,9 +1,9 @@
 ---
 title: JAXBIntrospector
-permalink: Java/JAXBIntrospector
+permalink: /Java/JAXBIntrospector/
 date: 2021-01-11
-key: JavaJava.J.JAXBIntrospector
-category: java
+key: Java.J.JAXBIntrospector
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'clase java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

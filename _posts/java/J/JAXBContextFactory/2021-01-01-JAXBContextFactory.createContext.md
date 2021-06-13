@@ -1,9 +1,9 @@
 ---
 title: JAXBContextFactory.createContext()
-permalink: Java/JAXBContextFactory/createContext
+permalink: /Java/JAXBContextFactory/createContext/
 date: 2021-01-11
-key: JavaJava.J.JAXBContextFactory
-category: java
+key: Java.J.JAXBContextFactory
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'metodo java', 'Java 9', 'JAXB 2.3']
 sidebar: 
   nav: java

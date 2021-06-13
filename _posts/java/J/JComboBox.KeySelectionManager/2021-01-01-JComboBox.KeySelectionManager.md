@@ -1,9 +1,9 @@
 ---
 title: JComboBox.KeySelectionManager
-permalink: Java/JComboBox/KeySelectionManager
+permalink: /Java/JComboBox/KeySelectionManager/
 date: 2021-01-11
-key: JavaJava.J.JComboBox.KeySelectionManager
-category: java
+key: Java.J.JComboBox.KeySelectionManager
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

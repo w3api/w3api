@@ -1,9 +1,9 @@
 ---
 title: HostnameVerifier
-permalink: Java/HostnameVerifier
+permalink: /Java/HostnameVerifier/
 date: 2021-01-11
-key: JavaJava.H.HostnameVerifier
-category: java
+key: Java.H.HostnameVerifier
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InvalidPathException
-permalink: Java/InvalidPathException
+permalink: /Java/InvalidPathException/
 date: 2021-01-11
-key: JavaJava.I.InvalidPathException
-category: java
+key: Java.I.InvalidPathException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

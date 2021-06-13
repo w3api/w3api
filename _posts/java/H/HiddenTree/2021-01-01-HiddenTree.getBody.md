@@ -1,9 +1,9 @@
 ---
 title: HiddenTree.getBody()
-permalink: Java/HiddenTree/getBody
+permalink: /Java/HiddenTree/getBody/
 date: 2021-01-11
-key: JavaJava.H.HiddenTree
-category: java
+key: Java.H.HiddenTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

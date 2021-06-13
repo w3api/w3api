@@ -1,9 +1,9 @@
 ---
 title: ImageView
-permalink: Java/ImageView/
+permalink: /Java/ImageView//
 date: 2021-01-11
-key: JavaJava.I.ImageView
-category: java
+key: Java.I.ImageView
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

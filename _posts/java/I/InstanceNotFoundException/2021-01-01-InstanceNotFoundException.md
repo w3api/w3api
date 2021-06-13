@@ -1,9 +1,9 @@
 ---
 title: InstanceNotFoundException
-permalink: Java/InstanceNotFoundException
+permalink: /Java/InstanceNotFoundException/
 date: 2021-01-11
-key: JavaJava.I.InstanceNotFoundException
-category: java
+key: Java.I.InstanceNotFoundException
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

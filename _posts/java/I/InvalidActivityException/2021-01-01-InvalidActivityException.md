@@ -1,9 +1,9 @@
 ---
 title: InvalidActivityException
-permalink: Java/InvalidActivityException
+permalink: /Java/InvalidActivityException/
 date: 2021-01-11
-key: JavaJava.I.InvalidActivityException
-category: java
+key: Java.I.InvalidActivityException
+category: Java
 tags: ['java se', 'javax.activity', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

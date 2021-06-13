@@ -1,9 +1,9 @@
 ---
 title: IORHelper.read()
-permalink: Java/IORHelper/read
+permalink: /Java/IORHelper/read/
 date: 2021-01-11
-key: JavaJava.I.IORHelper
-category: java
+key: Java.I.IORHelper
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: GraphicsDevice.WindowTranslucency
-permalink: Java/GraphicsDevice/WindowTranslucency
+permalink: /Java/GraphicsDevice/WindowTranslucency/
 date: 2021-01-11
-key: JavaJava.G.GraphicsDevice.WindowTranslucency
-category: java
+key: Java.G.GraphicsDevice.WindowTranslucency
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'enumerado java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HTMLEditorKit.Parser.parse()
-permalink: Java/HTMLEditorKit/Parser/parse
+permalink: /Java/HTMLEditorKit/Parser/parse/
 date: 2021-01-11
-key: JavaJava.H.HTMLEditorKit.Parser
-category: java
+key: Java.H.HTMLEditorKit.Parser
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InterfaceAddress.getBroadcast()
-permalink: Java/InterfaceAddress/getBroadcast
+permalink: /Java/InterfaceAddress/getBroadcast/
 date: 2021-01-11
-key: JavaJava.I.InterfaceAddress
-category: java
+key: Java.I.InterfaceAddress
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

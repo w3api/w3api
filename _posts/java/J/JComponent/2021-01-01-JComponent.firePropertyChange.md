@@ -1,9 +1,9 @@
 ---
 title: JComponent.firePropertyChange()
-permalink: Java/JComponent/firePropertyChange
+permalink: /Java/JComponent/firePropertyChange/
 date: 2021-01-11
-key: JavaJava.J.JComponent
-category: java
+key: Java.J.JComponent
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

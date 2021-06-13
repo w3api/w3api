@@ -1,9 +1,9 @@
 ---
 title: HttpContext.handler
-permalink: Java/HttpContext-javax-xml-ws-spi-http/handler
+permalink: /Java/HttpContext-javax-xml-ws-spi-http/handler/
 date: 2021-01-11
-key: JavaJava.H.HttpContext-javax-xml-ws-spi-http
-category: java
+key: Java.H.HttpContext-javax-xml-ws-spi-http
+category: Java
 tags: ['java se', 'javax.xml.ws.spi.http', 'java.xml.ws', 'campo java', 'Java 1.7', 'JAX-WS 2.2']
 sidebar: 
   nav: java

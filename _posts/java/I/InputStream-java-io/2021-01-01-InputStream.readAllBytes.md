@@ -1,9 +1,9 @@
 ---
 title: InputStream.readAllBytes()
-permalink: Java/InputStream-java-io/readAllBytes
+permalink: /Java/InputStream-java-io/readAllBytes/
 date: 2021-01-11
-key: JavaJava.I.InputStream-java-io
-category: java
+key: Java.I.InputStream-java-io
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

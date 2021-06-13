@@ -1,9 +1,9 @@
 ---
 title: InsetsConverter.SequenceConverter.getInstance()
-permalink: Java/InsetsConverter/SequenceConverter/getInstance
+permalink: /Java/InsetsConverter/SequenceConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.I.InsetsConverter.SequenceConverter
-category: java
+key: Java.I.InsetsConverter.SequenceConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

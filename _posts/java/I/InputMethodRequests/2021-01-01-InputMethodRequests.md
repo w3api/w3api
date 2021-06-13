@@ -1,9 +1,9 @@
 ---
 title: InputMethodRequests
-permalink: Java/InputMethodRequests/
+permalink: /Java/InputMethodRequests//
 date: 2021-01-11
-key: JavaJava.I.InputMethodRequests
-category: java
+key: Java.I.InputMethodRequests
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ImageInputStream.getBitOffset()
-permalink: Java/ImageInputStream/getBitOffset
+permalink: /Java/ImageInputStream/getBitOffset/
 date: 2021-01-11
-key: JavaJava.I.ImageInputStream
-category: java
+key: Java.I.ImageInputStream
+category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

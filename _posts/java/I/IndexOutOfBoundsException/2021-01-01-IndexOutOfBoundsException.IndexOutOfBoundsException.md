@@ -1,9 +1,9 @@
 ---
 title: IndexOutOfBoundsException.IndexOutOfBoundsException()
-permalink: Java/IndexOutOfBoundsException/IndexOutOfBoundsException
+permalink: /Java/IndexOutOfBoundsException/IndexOutOfBoundsException/
 date: 2021-01-11
-key: JavaJava.I.IndexOutOfBoundsException
-category: java
+key: Java.I.IndexOutOfBoundsException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

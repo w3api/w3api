@@ -1,9 +1,9 @@
 ---
 title: InquireType.KRB5_GET_KRB_CRED
-permalink: Java/InquireType/KRB5_GET_KRB_CRED
+permalink: /Java/InquireType/KRB5_GET_KRB_CRED/
 date: 2021-01-11
-key: JavaJava.I.InquireType
-category: java
+key: Java.I.InquireType
+category: Java
 tags: ['java se', 'com.sun.security.jgss', 'jdk.security.jgss', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

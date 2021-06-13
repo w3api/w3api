@@ -1,9 +1,9 @@
 ---
 title: InvalidSearchControlsException.InvalidSearchControlsException()
-permalink: Java/InvalidSearchControlsException/InvalidSearchControlsException
+permalink: /Java/InvalidSearchControlsException/InvalidSearchControlsException/
 date: 2021-01-11
-key: JavaJava.I.InvalidSearchControlsException
-category: java
+key: Java.I.InvalidSearchControlsException
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

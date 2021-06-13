@@ -1,9 +1,9 @@
 ---
 title: InputMismatchException
-permalink: Java/InputMismatchException
+permalink: /Java/InputMismatchException/
 date: 2021-01-11
-key: JavaJava.I.InputMismatchException
-category: java
+key: Java.I.InputMismatchException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InputMethodListener.caretPositionChanged()
-permalink: Java/InputMethodListener/caretPositionChanged
+permalink: /Java/InputMethodListener/caretPositionChanged/
 date: 2021-01-11
-key: JavaJava.I.InputMethodListener
-category: java
+key: Java.I.InputMethodListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

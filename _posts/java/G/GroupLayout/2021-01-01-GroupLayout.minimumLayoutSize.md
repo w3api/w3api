@@ -1,9 +1,9 @@
 ---
 title: GroupLayout.minimumLayoutSize()
-permalink: Java/GroupLayout/minimumLayoutSize
+permalink: /Java/GroupLayout/minimumLayoutSize/
 date: 2021-01-11
-key: JavaJava.G.GroupLayout
-category: java
+key: Java.G.GroupLayout
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

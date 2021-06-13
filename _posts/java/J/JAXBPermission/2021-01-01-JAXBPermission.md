@@ -1,9 +1,9 @@
 ---
 title: JAXBPermission
-permalink: Java/JAXBPermission
+permalink: /Java/JAXBPermission/
 date: 2021-01-11
-key: JavaJava.J.JAXBPermission
-category: java
+key: Java.J.JAXBPermission
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'clase java', 'Java 1.7', 'JAXB 2.2']
 sidebar: 
   nav: java

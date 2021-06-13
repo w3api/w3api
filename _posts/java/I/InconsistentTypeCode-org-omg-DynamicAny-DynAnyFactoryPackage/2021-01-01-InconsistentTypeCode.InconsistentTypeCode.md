@@ -1,9 +1,9 @@
 ---
 title: InconsistentTypeCode.InconsistentTypeCode()
-permalink: Java/InconsistentTypeCode-org-omg-DynamicAny-DynAnyFactoryPackage/InconsistentTypeCode
+permalink: /Java/InconsistentTypeCode-org-omg-DynamicAny-DynAnyFactoryPackage/InconsistentTypeCode/
 date: 2021-01-11
-key: JavaJava.I.InconsistentTypeCode-org-omg-DynamicAny-DynAnyFactoryPackage
-category: java
+key: Java.I.InconsistentTypeCode-org-omg-DynamicAny-DynAnyFactoryPackage
+category: Java
 tags: ['java se', 'org.omg.DynamicAny.DynAnyFactoryPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

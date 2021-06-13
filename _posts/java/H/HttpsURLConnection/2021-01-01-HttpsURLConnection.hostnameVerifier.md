@@ -1,9 +1,9 @@
 ---
 title: HttpsURLConnection.hostnameVerifier
-permalink: Java/HttpsURLConnection/hostnameVerifier
+permalink: /Java/HttpsURLConnection/hostnameVerifier/
 date: 2021-01-11
-key: JavaJava.H.HttpsURLConnection
-category: java
+key: Java.H.HttpsURLConnection
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

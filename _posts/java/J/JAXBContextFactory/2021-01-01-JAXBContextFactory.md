@@ -1,9 +1,9 @@
 ---
 title: JAXBContextFactory
-permalink: Java/JAXBContextFactory
+permalink: /Java/JAXBContextFactory/
 date: 2021-01-11
-key: JavaJava.J.JAXBContextFactory
-category: java
+key: Java.J.JAXBContextFactory
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'interface java', 'Java 9', 'JAXB 2.3']
 sidebar: 
   nav: java

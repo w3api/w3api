@@ -1,9 +1,9 @@
 ---
 title: InvalidTargetObjectTypeException
-permalink: Java/InvalidTargetObjectTypeException
+permalink: /Java/InvalidTargetObjectTypeException/
 date: 2021-01-11
-key: JavaJava.I.InvalidTargetObjectTypeException
-category: java
+key: Java.I.InvalidTargetObjectTypeException
+category: Java
 tags: ['java se', 'javax.management.modelmbean', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

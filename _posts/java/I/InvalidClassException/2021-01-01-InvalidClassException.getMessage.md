@@ -1,9 +1,9 @@
 ---
 title: InvalidClassException.getMessage()
-permalink: Java/InvalidClassException/getMessage
+permalink: /Java/InvalidClassException/getMessage/
 date: 2021-01-11
-key: JavaJava.I.InvalidClassException
-category: java
+key: Java.I.InvalidClassException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

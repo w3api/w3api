@@ -1,9 +1,9 @@
 ---
 title: IsoFields
-permalink: Java/IsoFields
+permalink: /Java/IsoFields/
 date: 2021-01-11
-key: JavaJava.I.IsoFields
-category: java
+key: Java.I.IsoFields
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

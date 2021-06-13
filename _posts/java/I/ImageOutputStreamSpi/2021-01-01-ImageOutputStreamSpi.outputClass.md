@@ -1,9 +1,9 @@
 ---
 title: ImageOutputStreamSpi.outputClass
-permalink: Java/ImageOutputStreamSpi/outputClass
+permalink: /Java/ImageOutputStreamSpi/outputClass/
 date: 2021-01-11
-key: JavaJava.I.ImageOutputStreamSpi
-category: java
+key: Java.I.ImageOutputStreamSpi
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

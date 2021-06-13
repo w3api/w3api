@@ -1,9 +1,9 @@
 ---
 title: InvalidRoleInfoException.InvalidRoleInfoException()
-permalink: Java/InvalidRoleInfoException/InvalidRoleInfoException
+permalink: /Java/InvalidRoleInfoException/InvalidRoleInfoException/
 date: 2021-01-11
-key: JavaJava.I.InvalidRoleInfoException
-category: java
+key: Java.I.InvalidRoleInfoException
+category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HTMLIFrameElement.getAlign()
-permalink: Java/HTMLIFrameElement/getAlign
+permalink: /Java/HTMLIFrameElement/getAlign/
 date: 2021-01-11
-key: JavaJava.H.HTMLIFrameElement
-category: java
+key: Java.H.HTMLIFrameElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

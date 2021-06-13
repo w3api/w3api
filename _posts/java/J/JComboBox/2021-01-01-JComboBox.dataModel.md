@@ -1,9 +1,9 @@
 ---
 title: JComboBox.dataModel
-permalink: Java/JComboBox/dataModel
+permalink: /Java/JComboBox/dataModel/
 date: 2021-01-11
-key: JavaJava.J.JComboBox
-category: java
+key: Java.J.JComboBox
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IdAssignmentPolicyValue
-permalink: Java/IdAssignmentPolicyValue
+permalink: /Java/IdAssignmentPolicyValue/
 date: 2021-01-11
-key: JavaJava.I.IdAssignmentPolicyValue
-category: java
+key: Java.I.IdAssignmentPolicyValue
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

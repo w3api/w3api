@@ -1,9 +1,9 @@
 ---
 title: ImportTree.getQualifiedIdentifier()
-permalink: Java/ImportTree/getQualifiedIdentifier
+permalink: /Java/ImportTree/getQualifiedIdentifier/
 date: 2021-01-11
-key: JavaJava.I.ImportTree
-category: java
+key: Java.I.ImportTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HTMLEditorKit.HTMLTextAction
-permalink: Java/HTMLEditorKit/HTMLTextAction
+permalink: /Java/HTMLEditorKit/HTMLTextAction/
 date: 2021-01-11
-key: JavaJava.H.HTMLEditorKit.HTMLTextAction
-category: java
+key: Java.H.HTMLEditorKit.HTMLTextAction
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

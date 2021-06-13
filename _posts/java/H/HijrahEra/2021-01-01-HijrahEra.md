@@ -1,9 +1,9 @@
 ---
 title: HijrahEra
-permalink: Java/HijrahEra
+permalink: /Java/HijrahEra/
 date: 2021-01-11
-key: JavaJava.H.HijrahEra
-category: java
+key: Java.H.HijrahEra
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'enumerado java', 'Java 1.8']
 sidebar: 
   nav: java

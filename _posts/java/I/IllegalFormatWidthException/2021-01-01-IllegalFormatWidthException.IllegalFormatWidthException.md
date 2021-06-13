@@ -1,9 +1,9 @@
 ---
 title: IllegalFormatWidthException.IllegalFormatWidthException()
-permalink: Java/IllegalFormatWidthException/IllegalFormatWidthException
+permalink: /Java/IllegalFormatWidthException/IllegalFormatWidthException/
 date: 2021-01-11
-key: JavaJava.I.IllegalFormatWidthException
-category: java
+key: Java.I.IllegalFormatWidthException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

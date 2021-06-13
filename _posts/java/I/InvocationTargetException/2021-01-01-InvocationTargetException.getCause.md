@@ -1,9 +1,9 @@
 ---
 title: InvocationTargetException.getCause()
-permalink: Java/InvocationTargetException/getCause
+permalink: /Java/InvocationTargetException/getCause/
 date: 2021-01-11
-key: JavaJava.I.InvocationTargetException
-category: java
+key: Java.I.InvocationTargetException
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

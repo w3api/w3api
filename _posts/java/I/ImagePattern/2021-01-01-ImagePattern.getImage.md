@@ -1,9 +1,9 @@
 ---
 title: ImagePattern.getImage()
-permalink: Java/ImagePattern/getImage
+permalink: /Java/ImagePattern/getImage/
 date: 2021-01-11
-key: JavaJava.I.ImagePattern
-category: java
+key: Java.I.ImagePattern
+category: Java
 tags: ['java se', 'javafx.scene.paint', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: JConsolePlugin.dispose()
-permalink: Java/JConsolePlugin/dispose
+permalink: /Java/JConsolePlugin/dispose/
 date: 2021-01-11
-key: JavaJava.J.JConsolePlugin
-category: java
+key: Java.J.JConsolePlugin
+category: Java
 tags: ['java se', 'com.sun.tools.jconsole', 'jdk.jconsole', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

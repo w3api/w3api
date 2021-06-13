@@ -1,9 +1,9 @@
 ---
 title: ImagePattern.getWidth()
-permalink: Java/ImagePattern/getWidth
+permalink: /Java/ImagePattern/getWidth/
 date: 2021-01-11
-key: JavaJava.I.ImagePattern
-category: java
+key: Java.I.ImagePattern
+category: Java
 tags: ['java se', 'javafx.scene.paint', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

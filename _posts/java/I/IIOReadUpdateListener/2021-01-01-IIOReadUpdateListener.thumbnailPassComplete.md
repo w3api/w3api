@@ -1,9 +1,9 @@
 ---
 title: IIOReadUpdateListener.thumbnailPassComplete()
-permalink: Java/IIOReadUpdateListener/thumbnailPassComplete
+permalink: /Java/IIOReadUpdateListener/thumbnailPassComplete/
 date: 2021-01-11
-key: JavaJava.I.IIOReadUpdateListener
-category: java
+key: Java.I.IIOReadUpdateListener
+category: Java
 tags: ['java se', 'javax.imageio.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

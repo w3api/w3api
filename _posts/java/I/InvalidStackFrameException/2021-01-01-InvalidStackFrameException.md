@@ -1,9 +1,9 @@
 ---
 title: InvalidStackFrameException
-permalink: Java/InvalidStackFrameException
+permalink: /Java/InvalidStackFrameException/
 date: 2021-01-11
-key: JavaJava.I.InvalidStackFrameException
-category: java
+key: Java.I.InvalidStackFrameException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

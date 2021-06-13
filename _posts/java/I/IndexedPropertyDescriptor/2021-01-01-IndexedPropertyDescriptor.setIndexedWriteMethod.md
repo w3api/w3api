@@ -1,9 +1,9 @@
 ---
 title: IndexedPropertyDescriptor.setIndexedWriteMethod()
-permalink: Java/IndexedPropertyDescriptor/setIndexedWriteMethod
+permalink: /Java/IndexedPropertyDescriptor/setIndexedWriteMethod/
 date: 2021-01-11
-key: JavaJava.I.IndexedPropertyDescriptor
-category: java
+key: Java.I.IndexedPropertyDescriptor
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

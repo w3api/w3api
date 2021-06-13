@@ -1,9 +1,9 @@
 ---
 title: InconsistentTypeCode
-permalink: Java/InconsistentTypeCode/
+permalink: /Java/InconsistentTypeCode//
 date: 2021-01-11
-key: JavaJava.I.InconsistentTypeCode
-category: java
+key: Java.I.InconsistentTypeCode
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

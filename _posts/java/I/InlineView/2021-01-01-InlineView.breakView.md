@@ -1,9 +1,9 @@
 ---
 title: InlineView.breakView()
-permalink: Java/InlineView/breakView
+permalink: /Java/InlineView/breakView/
 date: 2021-01-11
-key: JavaJava.I.InlineView
-category: java
+key: Java.I.InlineView
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

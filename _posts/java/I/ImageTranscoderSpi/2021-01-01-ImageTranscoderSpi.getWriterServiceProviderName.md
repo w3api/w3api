@@ -1,9 +1,9 @@
 ---
 title: ImageTranscoderSpi.getWriterServiceProviderName()
-permalink: Java/ImageTranscoderSpi/getWriterServiceProviderName
+permalink: /Java/ImageTranscoderSpi/getWriterServiceProviderName/
 date: 2021-01-11
-key: JavaJava.I.ImageTranscoderSpi
-category: java
+key: Java.I.ImageTranscoderSpi
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

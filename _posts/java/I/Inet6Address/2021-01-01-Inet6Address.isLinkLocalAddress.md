@@ -1,9 +1,9 @@
 ---
 title: Inet6Address.isLinkLocalAddress()
-permalink: Java/Inet6Address/isLinkLocalAddress
+permalink: /Java/Inet6Address/isLinkLocalAddress/
 date: 2021-01-11
-key: JavaJava.I.Inet6Address
-category: java
+key: Java.I.Inet6Address
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

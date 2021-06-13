@@ -1,9 +1,9 @@
 ---
 title: ImageReaderSpi.STANDARD_INPUT_TYPE
-permalink: Java/ImageReaderSpi/STANDARD_INPUT_TYPE
+permalink: /Java/ImageReaderSpi/STANDARD_INPUT_TYPE/
 date: 2021-01-11
-key: JavaJava.I.ImageReaderSpi
-category: java
+key: Java.I.ImageReaderSpi
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

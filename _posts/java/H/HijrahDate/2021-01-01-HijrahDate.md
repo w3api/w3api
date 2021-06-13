@@ -1,9 +1,9 @@
 ---
 title: HijrahDate
-permalink: Java/HijrahDate
+permalink: /Java/HijrahDate/
 date: 2021-01-11
-key: JavaJava.H.HijrahDate
-category: java
+key: Java.H.HijrahDate
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

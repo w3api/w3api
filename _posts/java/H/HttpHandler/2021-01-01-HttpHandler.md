@@ -1,9 +1,9 @@
 ---
 title: HttpHandler
-permalink: Java/HttpHandler/
+permalink: /Java/HttpHandler//
 date: 2021-01-11
-key: JavaJava.H.HttpHandler
-category: java
+key: Java.H.HttpHandler
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

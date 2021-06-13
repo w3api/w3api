@@ -1,9 +1,9 @@
 ---
 title: JColorChooser
-permalink: Java/JColorChooser
+permalink: /Java/JColorChooser/
 date: 2021-01-11
-key: JavaJava.J.JColorChooser
-category: java
+key: Java.J.JColorChooser
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

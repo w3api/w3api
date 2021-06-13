@@ -1,9 +1,9 @@
 ---
 title: IntegrationService.requestShortcut()
-permalink: Java/IntegrationService/requestShortcut
+permalink: /Java/IntegrationService/requestShortcut/
 date: 2021-01-11
-key: JavaJava.I.IntegrationService
-category: java
+key: Java.I.IntegrationService
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', '6.0.18']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IORInterceptor_3_0Operations.adapter_manager_state_changed()
-permalink: Java/IORInterceptor_3_0Operations/adapter_manager_state_changed
+permalink: /Java/IORInterceptor_3_0Operations/adapter_manager_state_changed/
 date: 2021-01-11
-key: JavaJava.I.IORInterceptor_3_0Operations
-category: java
+key: Java.I.IORInterceptor_3_0Operations
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

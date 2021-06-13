@@ -1,9 +1,9 @@
 ---
 title: IllegalFormatConversionException.getArgumentClass()
-permalink: Java/IllegalFormatConversionException/getArgumentClass
+permalink: /Java/IllegalFormatConversionException/getArgumentClass/
 date: 2021-01-11
-key: JavaJava.I.IllegalFormatConversionException
-category: java
+key: Java.I.IllegalFormatConversionException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

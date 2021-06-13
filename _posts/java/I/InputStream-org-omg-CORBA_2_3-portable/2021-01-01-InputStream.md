@@ -1,9 +1,9 @@
 ---
 title: InputStream
-permalink: Java/InputStream-org-omg-CORBA_2_3-portable
+permalink: /Java/InputStream-org-omg-CORBA_2_3-portable/
 date: 2021-01-11
-key: JavaJava.I.InputStream-org-omg-CORBA_2_3-portable
-category: java
+key: Java.I.InputStream-org-omg-CORBA_2_3-portable
+category: Java
 tags: ['java se', 'org.omg.CORBA_2_3.portable', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 
   nav: java

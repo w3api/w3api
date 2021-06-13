@@ -1,9 +1,9 @@
 ---
 title: HierarchyEvent
-permalink: Java/HierarchyEvent
+permalink: /Java/HierarchyEvent/
 date: 2021-01-11
-key: JavaJava.H.HierarchyEvent
-category: java
+key: Java.H.HierarchyEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

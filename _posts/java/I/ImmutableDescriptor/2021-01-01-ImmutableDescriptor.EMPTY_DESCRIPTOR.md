@@ -1,9 +1,9 @@
 ---
 title: ImmutableDescriptor.EMPTY_DESCRIPTOR
-permalink: Java/ImmutableDescriptor/EMPTY_DESCRIPTOR
+permalink: /Java/ImmutableDescriptor/EMPTY_DESCRIPTOR/
 date: 2021-01-11
-key: JavaJava.I.ImmutableDescriptor
-category: java
+key: Java.I.ImmutableDescriptor
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

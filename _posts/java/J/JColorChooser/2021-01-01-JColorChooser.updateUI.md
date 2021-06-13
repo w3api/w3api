@@ -1,9 +1,9 @@
 ---
 title: JColorChooser.updateUI()
-permalink: Java/JColorChooser/updateUI
+permalink: /Java/JColorChooser/updateUI/
 date: 2021-01-11
-key: JavaJava.J.JColorChooser
-category: java
+key: Java.J.JColorChooser
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

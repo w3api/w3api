@@ -1,9 +1,9 @@
 ---
 title: ImageInputStreamImpl.bitOffset
-permalink: Java/ImageInputStreamImpl/bitOffset
+permalink: /Java/ImageInputStreamImpl/bitOffset/
 date: 2021-01-11
-key: JavaJava.I.ImageInputStreamImpl
-category: java
+key: Java.I.ImageInputStreamImpl
+category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

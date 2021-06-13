@@ -1,9 +1,9 @@
 ---
 title: ICC_ProfileRGB.getTRC()
-permalink: Java/ICC_ProfileRGB/getTRC
+permalink: /Java/ICC_ProfileRGB/getTRC/
 date: 2021-01-11
-key: JavaJava.I.ICC_ProfileRGB
-category: java
+key: Java.I.ICC_ProfileRGB
+category: Java
 tags: ['java se', 'java.awt.color', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IconUIResource.IconUIResource()
-permalink: Java/IconUIResource/IconUIResource
+permalink: /Java/IconUIResource/IconUIResource/
 date: 2021-01-11
-key: JavaJava.I.IconUIResource
-category: java
+key: Java.I.IconUIResource
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

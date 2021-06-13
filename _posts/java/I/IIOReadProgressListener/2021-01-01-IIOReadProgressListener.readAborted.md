@@ -1,9 +1,9 @@
 ---
 title: IIOReadProgressListener.readAborted()
-permalink: Java/IIOReadProgressListener/readAborted
+permalink: /Java/IIOReadProgressListener/readAborted/
 date: 2021-01-11
-key: JavaJava.I.IIOReadProgressListener
-category: java
+key: Java.I.IIOReadProgressListener
+category: Java
 tags: ['java se', 'javax.imageio.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

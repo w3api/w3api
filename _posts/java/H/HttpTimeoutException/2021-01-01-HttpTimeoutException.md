@@ -1,9 +1,9 @@
 ---
 title: HttpTimeoutException
-permalink: Java/HttpTimeoutException
+permalink: /Java/HttpTimeoutException/
 date: 2021-01-11
-key: JavaJava.H.HttpTimeoutException
-category: java
+key: Java.H.HttpTimeoutException
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

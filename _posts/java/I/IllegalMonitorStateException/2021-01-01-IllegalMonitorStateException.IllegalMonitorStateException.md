@@ -1,9 +1,9 @@
 ---
 title: IllegalMonitorStateException.IllegalMonitorStateException()
-permalink: Java/IllegalMonitorStateException/IllegalMonitorStateException
+permalink: /Java/IllegalMonitorStateException/IllegalMonitorStateException/
 date: 2021-01-11
-key: JavaJava.I.IllegalMonitorStateException
-category: java
+key: Java.I.IllegalMonitorStateException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

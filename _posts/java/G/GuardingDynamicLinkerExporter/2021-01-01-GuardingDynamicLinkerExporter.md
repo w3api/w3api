@@ -1,9 +1,9 @@
 ---
 title: GuardingDynamicLinkerExporter
-permalink: Java/GuardingDynamicLinkerExporter
+permalink: /Java/GuardingDynamicLinkerExporter/
 date: 2021-01-11
-key: JavaJava.G.GuardingDynamicLinkerExporter
-category: java
+key: Java.G.GuardingDynamicLinkerExporter
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

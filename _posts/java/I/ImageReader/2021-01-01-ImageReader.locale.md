@@ -1,9 +1,9 @@
 ---
 title: ImageReader.locale
-permalink: Java/ImageReader/locale
+permalink: /Java/ImageReader/locale/
 date: 2021-01-11
-key: JavaJava.I.ImageReader
-category: java
+key: Java.I.ImageReader
+category: Java
 tags: ['java se', 'javax.imageio', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

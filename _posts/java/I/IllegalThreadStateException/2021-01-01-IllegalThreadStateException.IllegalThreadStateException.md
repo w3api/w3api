@@ -1,9 +1,9 @@
 ---
 title: IllegalThreadStateException.IllegalThreadStateException()
-permalink: Java/IllegalThreadStateException/IllegalThreadStateException
+permalink: /Java/IllegalThreadStateException/IllegalThreadStateException/
 date: 2021-01-11
-key: JavaJava.I.IllegalThreadStateException
-category: java
+key: Java.I.IllegalThreadStateException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

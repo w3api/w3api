@@ -1,9 +1,9 @@
 ---
 title: IllegalFormatPrecisionException.getPrecision()
-permalink: Java/IllegalFormatPrecisionException/getPrecision
+permalink: /Java/IllegalFormatPrecisionException/getPrecision/
 date: 2021-01-11
-key: JavaJava.I.IllegalFormatPrecisionException
-category: java
+key: Java.I.IllegalFormatPrecisionException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

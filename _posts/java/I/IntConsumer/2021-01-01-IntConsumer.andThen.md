@@ -1,9 +1,9 @@
 ---
 title: IntConsumer.andThen()
-permalink: Java/IntConsumer/andThen
+permalink: /Java/IntConsumer/andThen/
 date: 2021-01-11
-key: JavaJava.I.IntConsumer
-category: java
+key: Java.I.IntConsumer
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IntUnaryOperator.applyAsInt()
-permalink: Java/IntUnaryOperator/applyAsInt
+permalink: /Java/IntUnaryOperator/applyAsInt/
 date: 2021-01-11
-key: JavaJava.I.IntUnaryOperator
-category: java
+key: Java.I.IntUnaryOperator
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

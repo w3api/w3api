@@ -1,9 +1,9 @@
 ---
 title: HttpResponse.BodySubscriber.asFile()
-permalink: Java/HttpResponse/BodySubscriber/asFile
+permalink: /Java/HttpResponse/BodySubscriber/asFile/
 date: 2021-01-11
-key: JavaJava.H.HttpResponse.BodySubscriber
-category: java
+key: Java.H.HttpResponse.BodySubscriber
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

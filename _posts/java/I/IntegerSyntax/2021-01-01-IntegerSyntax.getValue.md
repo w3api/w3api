@@ -1,9 +1,9 @@
 ---
 title: IntegerSyntax.getValue()
-permalink: Java/IntegerSyntax/getValue
+permalink: /Java/IntegerSyntax/getValue/
 date: 2021-01-11
-key: JavaJava.I.IntegerSyntax
-category: java
+key: Java.I.IntegerSyntax
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

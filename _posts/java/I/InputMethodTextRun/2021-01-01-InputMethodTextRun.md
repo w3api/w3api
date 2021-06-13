@@ -1,9 +1,9 @@
 ---
 title: InputMethodTextRun
-permalink: Java/InputMethodTextRun
+permalink: /Java/InputMethodTextRun/
 date: 2021-01-11
-key: JavaJava.I.InputMethodTextRun
-category: java
+key: Java.I.InputMethodTextRun
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HttpServer.create()
-permalink: Java/HttpServer/create
+permalink: /Java/HttpServer/create/
 date: 2021-01-11
-key: JavaJava.H.HttpServer
-category: java
+key: Java.H.HttpServer
+category: Java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

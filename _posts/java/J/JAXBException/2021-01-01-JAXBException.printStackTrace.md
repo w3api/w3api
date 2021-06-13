@@ -1,9 +1,9 @@
 ---
 title: JAXBException.printStackTrace()
-permalink: Java/JAXBException/printStackTrace
+permalink: /Java/JAXBException/printStackTrace/
 date: 2021-01-11
-key: JavaJava.J.JAXBException
-category: java
+key: Java.J.JAXBException
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 
   nav: java

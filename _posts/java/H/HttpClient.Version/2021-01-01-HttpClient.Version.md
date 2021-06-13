@@ -1,9 +1,9 @@
 ---
 title: HttpClient.Version
-permalink: Java/HttpClient/Version
+permalink: /Java/HttpClient/Version/
 date: 2021-01-11
-key: JavaJava.H.HttpClient.Version
-category: java
+key: Java.H.HttpClient.Version
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'enumerado java', 'Java 9']
 sidebar: 
   nav: java

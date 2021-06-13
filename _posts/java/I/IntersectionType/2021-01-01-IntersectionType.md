@@ -1,9 +1,9 @@
 ---
 title: IntersectionType
-permalink: Java/IntersectionType
+permalink: /Java/IntersectionType/
 date: 2021-01-11
-key: JavaJava.I.IntersectionType
-category: java
+key: Java.I.IntersectionType
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

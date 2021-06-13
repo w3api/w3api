@@ -1,9 +1,9 @@
 ---
 title: InvalidAttributesException
-permalink: Java/InvalidAttributesException
+permalink: /Java/InvalidAttributesException/
 date: 2021-01-11
-key: JavaJava.I.InvalidAttributesException
-category: java
+key: Java.I.InvalidAttributesException
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

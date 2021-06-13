@@ -1,9 +1,9 @@
 ---
 title: GuardedObject
-permalink: Java/GuardedObject
+permalink: /Java/GuardedObject/
 date: 2021-01-11
-key: JavaJava.G.GuardedObject
-category: java
+key: Java.G.GuardedObject
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

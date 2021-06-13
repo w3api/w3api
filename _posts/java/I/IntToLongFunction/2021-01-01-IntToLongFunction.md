@@ -1,9 +1,9 @@
 ---
 title: IntToLongFunction
-permalink: Java/IntToLongFunction
+permalink: /Java/IntToLongFunction/
 date: 2021-01-11
-key: JavaJava.I.IntToLongFunction
-category: java
+key: Java.I.IntToLongFunction
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

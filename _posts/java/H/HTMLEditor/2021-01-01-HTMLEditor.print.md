@@ -1,9 +1,9 @@
 ---
 title: HTMLEditor.print()
-permalink: Java/HTMLEditor/print
+permalink: /Java/HTMLEditor/print/
 date: 2021-01-11
-key: JavaJava.H.HTMLEditor
-category: java
+key: Java.H.HTMLEditor
+category: Java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

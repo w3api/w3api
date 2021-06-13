@@ -1,9 +1,9 @@
 ---
 title: Inherited
-permalink: Java/Inherited
+permalink: /Java/Inherited/
 date: 2021-01-11
-key: JavaJava.I.Inherited
-category: java
+key: Java.I.Inherited
+category: Java
 tags: ['java se', 'java.lang.annotation', 'java.base', 'anotacion java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IllegalUnbindException.IllegalUnbindException()
-permalink: Java/IllegalUnbindException/IllegalUnbindException
+permalink: /Java/IllegalUnbindException/IllegalUnbindException/
 date: 2021-01-11
-key: JavaJava.I.IllegalUnbindException
-category: java
+key: Java.I.IllegalUnbindException
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

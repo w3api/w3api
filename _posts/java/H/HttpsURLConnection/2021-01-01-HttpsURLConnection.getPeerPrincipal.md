@@ -1,9 +1,9 @@
 ---
 title: HttpsURLConnection.getPeerPrincipal()
-permalink: Java/HttpsURLConnection/getPeerPrincipal
+permalink: /Java/HttpsURLConnection/getPeerPrincipal/
 date: 2021-01-11
-key: JavaJava.H.HttpsURLConnection
-category: java
+key: Java.H.HttpsURLConnection
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

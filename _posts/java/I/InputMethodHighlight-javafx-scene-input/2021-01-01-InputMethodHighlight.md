@@ -1,9 +1,9 @@
 ---
 title: InputMethodHighlight
-permalink: Java/InputMethodHighlight-javafx-scene-input
+permalink: /Java/InputMethodHighlight-javafx-scene-input/
 date: 2021-01-11
-key: JavaJava.I.InputMethodHighlight-javafx-scene-input
-category: java
+key: Java.I.InputMethodHighlight-javafx-scene-input
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'enumerado java', 'JavaFX 2.0']
 sidebar: 
   nav: java

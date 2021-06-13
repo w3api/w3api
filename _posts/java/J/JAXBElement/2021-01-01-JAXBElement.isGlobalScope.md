@@ -1,9 +1,9 @@
 ---
 title: JAXBElement.isGlobalScope()
-permalink: Java/JAXBElement/isGlobalScope
+permalink: /Java/JAXBElement/isGlobalScope/
 date: 2021-01-11
-key: JavaJava.J.JAXBElement
-category: java
+key: Java.J.JAXBElement
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

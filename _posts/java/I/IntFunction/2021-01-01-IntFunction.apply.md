@@ -1,9 +1,9 @@
 ---
 title: IntFunction.apply()
-permalink: Java/IntFunction/apply
+permalink: /Java/IntFunction/apply/
 date: 2021-01-11
-key: JavaJava.I.IntFunction
-category: java
+key: Java.I.IntFunction
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

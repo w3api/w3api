@@ -1,9 +1,9 @@
 ---
 title: ImplicitActivationPolicyOperations.value()
-permalink: Java/ImplicitActivationPolicyOperations/value
+permalink: /Java/ImplicitActivationPolicyOperations/value/
 date: 2021-01-11
-key: JavaJava.I.ImplicitActivationPolicyOperations
-category: java
+key: Java.I.ImplicitActivationPolicyOperations
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

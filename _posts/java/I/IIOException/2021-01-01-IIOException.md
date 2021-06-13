@@ -1,9 +1,9 @@
 ---
 title: IIOException
-permalink: Java/IIOException
+permalink: /Java/IIOException/
 date: 2021-01-11
-key: JavaJava.I.IIOException
-category: java
+key: Java.I.IIOException
+category: Java
 tags: ['java se', 'javax.imageio', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

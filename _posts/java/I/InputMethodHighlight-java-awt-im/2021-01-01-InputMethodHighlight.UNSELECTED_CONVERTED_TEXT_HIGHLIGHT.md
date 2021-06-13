@@ -1,9 +1,9 @@
 ---
 title: InputMethodHighlight.UNSELECTED_CONVERTED_TEXT_HIGHLIGHT
-permalink: Java/InputMethodHighlight-java-awt-im/UNSELECTED_CONVERTED_TEXT_HIGHLIGHT
+permalink: /Java/InputMethodHighlight-java-awt-im/UNSELECTED_CONVERTED_TEXT_HIGHLIGHT/
 date: 2021-01-11
-key: JavaJava.I.InputMethodHighlight-java-awt-im
-category: java
+key: Java.I.InputMethodHighlight-java-awt-im
+category: Java
 tags: ['java se', 'java.awt.im', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

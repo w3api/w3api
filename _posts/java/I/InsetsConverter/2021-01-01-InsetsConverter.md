@@ -1,9 +1,9 @@
 ---
 title: InsetsConverter
-permalink: Java/InsetsConverter
+permalink: /Java/InsetsConverter/
 date: 2021-01-11
-key: JavaJava.I.InsetsConverter
-category: java
+key: Java.I.InsetsConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 
   nav: java

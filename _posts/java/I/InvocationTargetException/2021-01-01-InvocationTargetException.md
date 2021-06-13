@@ -1,9 +1,9 @@
 ---
 title: InvocationTargetException
-permalink: Java/InvocationTargetException
+permalink: /Java/InvocationTargetException/
 date: 2021-01-11
-key: JavaJava.I.InvocationTargetException
-category: java
+key: Java.I.InvocationTargetException
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

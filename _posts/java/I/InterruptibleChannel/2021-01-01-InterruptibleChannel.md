@@ -1,9 +1,9 @@
 ---
 title: InterruptibleChannel
-permalink: Java/InterruptibleChannel
+permalink: /Java/InterruptibleChannel/
 date: 2021-01-11
-key: JavaJava.I.InterruptibleChannel
-category: java
+key: Java.I.InterruptibleChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

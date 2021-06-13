@@ -1,9 +1,9 @@
 ---
 title: IntegerProperty.integerProperty()
-permalink: Java/IntegerProperty/integerProperty
+permalink: /Java/IntegerProperty/integerProperty/
 date: 2021-01-11
-key: JavaJava.I.IntegerProperty
-category: java
+key: Java.I.IntegerProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

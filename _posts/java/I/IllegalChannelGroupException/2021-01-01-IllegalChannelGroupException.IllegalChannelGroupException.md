@@ -1,9 +1,9 @@
 ---
 title: IllegalChannelGroupException.IllegalChannelGroupException()
-permalink: Java/IllegalChannelGroupException/IllegalChannelGroupException
+permalink: /Java/IllegalChannelGroupException/IllegalChannelGroupException/
 date: 2021-01-11
-key: JavaJava.I.IllegalChannelGroupException
-category: java
+key: Java.I.IllegalChannelGroupException
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

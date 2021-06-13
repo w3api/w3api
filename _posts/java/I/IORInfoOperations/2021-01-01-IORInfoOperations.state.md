@@ -1,9 +1,9 @@
 ---
 title: IORInfoOperations.state()
-permalink: Java/IORInfoOperations/state
+permalink: /Java/IORInfoOperations/state/
 date: 2021-01-11
-key: JavaJava.I.IORInfoOperations
-category: java
+key: Java.I.IORInfoOperations
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

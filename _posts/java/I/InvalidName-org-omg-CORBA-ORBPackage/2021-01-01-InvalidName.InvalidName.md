@@ -1,9 +1,9 @@
 ---
 title: InvalidName.InvalidName()
-permalink: Java/InvalidName-org-omg-CORBA-ORBPackage/InvalidName
+permalink: /Java/InvalidName-org-omg-CORBA-ORBPackage/InvalidName/
 date: 2021-01-11
-key: JavaJava.I.InvalidName-org-omg-CORBA-ORBPackage
-category: java
+key: Java.I.InvalidName-org-omg-CORBA-ORBPackage
+category: Java
 tags: ['java se', 'org.omg.CORBA.ORBPackage', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

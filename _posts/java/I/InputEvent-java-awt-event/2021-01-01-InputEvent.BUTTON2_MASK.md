@@ -1,9 +1,9 @@
 ---
 title: InputEvent.BUTTON2_MASK
-permalink: Java/InputEvent-java-awt-event/BUTTON2_MASK
+permalink: /Java/InputEvent-java-awt-event/BUTTON2_MASK/
 date: 2021-01-11
-key: JavaJava.I.InputEvent-java-awt-event
-category: java
+key: Java.I.InputEvent-java-awt-event
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

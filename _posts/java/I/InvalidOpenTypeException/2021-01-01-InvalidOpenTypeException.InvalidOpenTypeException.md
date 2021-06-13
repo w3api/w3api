@@ -1,9 +1,9 @@
 ---
 title: InvalidOpenTypeException.InvalidOpenTypeException()
-permalink: Java/InvalidOpenTypeException/InvalidOpenTypeException
+permalink: /Java/InvalidOpenTypeException/InvalidOpenTypeException/
 date: 2021-01-11
-key: JavaJava.I.InvalidOpenTypeException
-category: java
+key: Java.I.InvalidOpenTypeException
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

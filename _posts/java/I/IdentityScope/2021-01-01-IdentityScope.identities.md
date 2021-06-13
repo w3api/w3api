@@ -1,9 +1,9 @@
 ---
 title: IdentityScope.identities()
-permalink: Java/IdentityScope/identities
+permalink: /Java/IdentityScope/identities/
 date: 2021-01-11
-key: JavaJava.I.IdentityScope
-category: java
+key: Java.I.IdentityScope
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

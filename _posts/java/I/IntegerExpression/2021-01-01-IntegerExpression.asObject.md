@@ -1,9 +1,9 @@
 ---
 title: IntegerExpression.asObject()
-permalink: Java/IntegerExpression/asObject
+permalink: /Java/IntegerExpression/asObject/
 date: 2021-01-11
-key: JavaJava.I.IntegerExpression
-category: java
+key: Java.I.IntegerExpression
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

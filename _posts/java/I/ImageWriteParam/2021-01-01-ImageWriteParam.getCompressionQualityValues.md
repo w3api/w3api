@@ -1,9 +1,9 @@
 ---
 title: ImageWriteParam.getCompressionQualityValues()
-permalink: Java/ImageWriteParam/getCompressionQualityValues
+permalink: /Java/ImageWriteParam/getCompressionQualityValues/
 date: 2021-01-11
-key: JavaJava.I.ImageWriteParam
-category: java
+key: Java.I.ImageWriteParam
+category: Java
 tags: ['java se', 'javax.imageio', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

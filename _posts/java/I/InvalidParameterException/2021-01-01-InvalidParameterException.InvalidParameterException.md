@@ -1,9 +1,9 @@
 ---
 title: InvalidParameterException.InvalidParameterException()
-permalink: Java/InvalidParameterException/InvalidParameterException
+permalink: /Java/InvalidParameterException/InvalidParameterException/
 date: 2021-01-11
-key: JavaJava.I.InvalidParameterException
-category: java
+key: Java.I.InvalidParameterException
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

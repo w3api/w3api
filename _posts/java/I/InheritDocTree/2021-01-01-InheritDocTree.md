@@ -1,9 +1,9 @@
 ---
 title: InheritDocTree
-permalink: Java/InheritDocTree
+permalink: /Java/InheritDocTree/
 date: 2021-01-11
-key: JavaJava.I.InheritDocTree
-category: java
+key: Java.I.InheritDocTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

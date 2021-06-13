@@ -1,9 +1,9 @@
 ---
 title: IllegalBlockSizeException.IllegalBlockSizeException()
-permalink: Java/IllegalBlockSizeException/IllegalBlockSizeException
+permalink: /Java/IllegalBlockSizeException/IllegalBlockSizeException/
 date: 2021-01-11
-key: JavaJava.I.IllegalBlockSizeException
-category: java
+key: Java.I.IllegalBlockSizeException
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

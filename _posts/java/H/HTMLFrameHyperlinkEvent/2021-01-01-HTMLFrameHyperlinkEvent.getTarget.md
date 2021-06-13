@@ -1,9 +1,9 @@
 ---
 title: HTMLFrameHyperlinkEvent.getTarget()
-permalink: Java/HTMLFrameHyperlinkEvent/getTarget
+permalink: /Java/HTMLFrameHyperlinkEvent/getTarget/
 date: 2021-01-11
-key: JavaJava.H.HTMLFrameHyperlinkEvent
-category: java
+key: Java.H.HTMLFrameHyperlinkEvent
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

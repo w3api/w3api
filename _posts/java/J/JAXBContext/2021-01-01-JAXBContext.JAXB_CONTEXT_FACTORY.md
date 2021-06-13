@@ -1,9 +1,9 @@
 ---
 title: JAXBContext.JAXB_CONTEXT_FACTORY
-permalink: Java/JAXBContext/JAXB_CONTEXT_FACTORY
+permalink: /Java/JAXBContext/JAXB_CONTEXT_FACTORY/
 date: 2021-01-11
-key: JavaJava.J.JAXBContext
-category: java
+key: Java.J.JAXBContext
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'campo java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 
   nav: java

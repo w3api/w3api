@@ -1,9 +1,9 @@
 ---
 title: InvalidSearchFilterException.InvalidSearchFilterException()
-permalink: Java/InvalidSearchFilterException/InvalidSearchFilterException
+permalink: /Java/InvalidSearchFilterException/InvalidSearchFilterException/
 date: 2021-01-11
-key: JavaJava.I.InvalidSearchFilterException
-category: java
+key: Java.I.InvalidSearchFilterException
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

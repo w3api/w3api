@@ -1,9 +1,9 @@
 ---
 title: InvalidCodeIndexException.InvalidCodeIndexException()
-permalink: Java/InvalidCodeIndexException/InvalidCodeIndexException
+permalink: /Java/InvalidCodeIndexException/InvalidCodeIndexException/
 date: 2021-01-11
-key: JavaJava.I.InvalidCodeIndexException
-category: java
+key: Java.I.InvalidCodeIndexException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

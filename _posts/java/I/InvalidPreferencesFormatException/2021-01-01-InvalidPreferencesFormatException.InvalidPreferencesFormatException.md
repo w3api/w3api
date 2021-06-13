@@ -1,9 +1,9 @@
 ---
 title: InvalidPreferencesFormatException.InvalidPreferencesFormatException()
-permalink: Java/InvalidPreferencesFormatException/InvalidPreferencesFormatException
+permalink: /Java/InvalidPreferencesFormatException/InvalidPreferencesFormatException/
 date: 2021-01-11
-key: JavaJava.I.InvalidPreferencesFormatException
-category: java
+key: Java.I.InvalidPreferencesFormatException
+category: Java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InputMapUIResource.InputMapUIResource()
-permalink: Java/InputMapUIResource/InputMapUIResource
+permalink: /Java/InputMapUIResource/InputMapUIResource/
 date: 2021-01-11
-key: JavaJava.I.InputMapUIResource
-category: java
+key: Java.I.InputMapUIResource
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

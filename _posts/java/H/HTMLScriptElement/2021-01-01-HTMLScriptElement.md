@@ -1,9 +1,9 @@
 ---
 title: HTMLScriptElement
-permalink: Java/HTMLScriptElement
+permalink: /Java/HTMLScriptElement/
 date: 2021-01-11
-key: JavaJava.H.HTMLScriptElement
-category: java
+key: Java.H.HTMLScriptElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'interface java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

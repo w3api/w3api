@@ -1,9 +1,9 @@
 ---
 title: HotSpotDiagnosticMXBean.dumpHeap()
-permalink: Java/HotSpotDiagnosticMXBean/dumpHeap
+permalink: /Java/HotSpotDiagnosticMXBean/dumpHeap/
 date: 2021-01-11
-key: JavaJava.H.HotSpotDiagnosticMXBean
-category: java
+key: Java.H.HotSpotDiagnosticMXBean
+category: Java
 tags: ['java se', 'com.sun.management', 'jdk.management', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

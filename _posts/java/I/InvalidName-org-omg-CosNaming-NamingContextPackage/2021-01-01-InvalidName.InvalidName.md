@@ -1,9 +1,9 @@
 ---
 title: InvalidName.InvalidName()
-permalink: Java/InvalidName-org-omg-CosNaming-NamingContextPackage/InvalidName
+permalink: /Java/InvalidName-org-omg-CosNaming-NamingContextPackage/InvalidName/
 date: 2021-01-11
-key: JavaJava.I.InvalidName-org-omg-CosNaming-NamingContextPackage
-category: java
+key: Java.I.InvalidName-org-omg-CosNaming-NamingContextPackage
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

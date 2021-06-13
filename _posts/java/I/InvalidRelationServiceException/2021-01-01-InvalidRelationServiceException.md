@@ -1,9 +1,9 @@
 ---
 title: InvalidRelationServiceException
-permalink: Java/InvalidRelationServiceException
+permalink: /Java/InvalidRelationServiceException/
 date: 2021-01-11
-key: JavaJava.I.InvalidRelationServiceException
-category: java
+key: Java.I.InvalidRelationServiceException
+category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

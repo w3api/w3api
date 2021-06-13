@@ -1,9 +1,9 @@
 ---
 title: InconsistentDebugInfoException.InconsistentDebugInfoException()
-permalink: Java/InconsistentDebugInfoException/InconsistentDebugInfoException
+permalink: /Java/InconsistentDebugInfoException/InconsistentDebugInfoException/
 date: 2021-01-11
-key: JavaJava.I.InconsistentDebugInfoException
-category: java
+key: Java.I.InconsistentDebugInfoException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IndexColorModel.getComponentSize()
-permalink: Java/IndexColorModel/getComponentSize
+permalink: /Java/IndexColorModel/getComponentSize/
 date: 2021-01-11
-key: JavaJava.I.IndexColorModel
-category: java
+key: Java.I.IndexColorModel
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

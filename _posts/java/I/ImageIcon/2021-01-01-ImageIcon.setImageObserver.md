@@ -1,9 +1,9 @@
 ---
 title: ImageIcon.setImageObserver()
-permalink: Java/ImageIcon/setImageObserver
+permalink: /Java/ImageIcon/setImageObserver/
 date: 2021-01-11
-key: JavaJava.I.ImageIcon
-category: java
+key: Java.I.ImageIcon
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

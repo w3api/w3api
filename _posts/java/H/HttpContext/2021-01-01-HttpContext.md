@@ -1,9 +1,9 @@
 ---
 title: HttpContext
-permalink: Java/HttpContext/
+permalink: /Java/HttpContext//
 date: 2021-01-11
-key: JavaJava.H.HttpContext
-category: java
+key: Java.H.HttpContext
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

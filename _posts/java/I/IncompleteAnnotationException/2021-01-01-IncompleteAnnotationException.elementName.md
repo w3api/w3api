@@ -1,9 +1,9 @@
 ---
 title: IncompleteAnnotationException.elementName()
-permalink: Java/IncompleteAnnotationException/elementName
+permalink: /Java/IncompleteAnnotationException/elementName/
 date: 2021-01-11
-key: JavaJava.I.IncompleteAnnotationException
-category: java
+key: Java.I.IncompleteAnnotationException
+category: Java
 tags: ['java se', 'java.lang.annotation', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

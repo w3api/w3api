@@ -1,9 +1,9 @@
 ---
 title: GregorianCalendar.setWeekDate()
-permalink: Java/GregorianCalendar/setWeekDate
+permalink: /Java/GregorianCalendar/setWeekDate/
 date: 2021-01-11
-key: JavaJava.G.GregorianCalendar
-category: java
+key: Java.G.GregorianCalendar
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

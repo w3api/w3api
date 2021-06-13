@@ -1,9 +1,9 @@
 ---
 title: Interceptor
-permalink: Java/Interceptor
+permalink: /Java/Interceptor/
 date: 2021-01-11
-key: JavaJava.I.Interceptor
-category: java
+key: Java.I.Interceptor
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

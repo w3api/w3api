@@ -1,9 +1,9 @@
 ---
 title: HTMLModElement.setCite()
-permalink: Java/HTMLModElement/setCite
+permalink: /Java/HTMLModElement/setCite/
 date: 2021-01-11
-key: JavaJava.H.HTMLModElement
-category: java
+key: Java.H.HTMLModElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

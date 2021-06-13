@@ -1,9 +1,9 @@
 ---
 title: HttpsServer.getHttpsConfigurator()
-permalink: Java/HttpsServer/getHttpsConfigurator
+permalink: /Java/HttpsServer/getHttpsConfigurator/
 date: 2021-01-11
-key: JavaJava.H.HttpsServer
-category: java
+key: Java.H.HttpsServer
+category: Java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IORInterceptorOperations
-permalink: Java/IORInterceptorOperations
+permalink: /Java/IORInterceptorOperations/
 date: 2021-01-11
-key: JavaJava.I.IORInterceptorOperations
-category: java
+key: Java.I.IORInterceptorOperations
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InvalidModuleException.InvalidModuleException()
-permalink: Java/InvalidModuleException/InvalidModuleException
+permalink: /Java/InvalidModuleException/InvalidModuleException/
 date: 2021-01-11
-key: JavaJava.I.InvalidModuleException
-category: java
+key: Java.I.InvalidModuleException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

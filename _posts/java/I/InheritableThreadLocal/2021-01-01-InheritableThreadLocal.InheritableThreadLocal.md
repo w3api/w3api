@@ -1,9 +1,9 @@
 ---
 title: InheritableThreadLocal.InheritableThreadLocal()
-permalink: Java/InheritableThreadLocal/InheritableThreadLocal
+permalink: /Java/InheritableThreadLocal/InheritableThreadLocal/
 date: 2021-01-11
-key: JavaJava.I.InheritableThreadLocal
-category: java
+key: Java.I.InheritableThreadLocal
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

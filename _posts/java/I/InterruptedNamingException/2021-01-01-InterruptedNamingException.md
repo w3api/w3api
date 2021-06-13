@@ -1,9 +1,9 @@
 ---
 title: InterruptedNamingException
-permalink: Java/InterruptedNamingException
+permalink: /Java/InterruptedNamingException/
 date: 2021-01-11
-key: JavaJava.I.InterruptedNamingException
-category: java
+key: Java.I.InterruptedNamingException
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InitialContextFactory
-permalink: Java/InitialContextFactory
+permalink: /Java/InitialContextFactory/
 date: 2021-01-11
-key: JavaJava.I.InitialContextFactory
-category: java
+key: Java.I.InitialContextFactory
+category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

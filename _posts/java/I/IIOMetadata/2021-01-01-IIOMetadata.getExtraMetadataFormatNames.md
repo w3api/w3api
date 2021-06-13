@@ -1,9 +1,9 @@
 ---
 title: IIOMetadata.getExtraMetadataFormatNames()
-permalink: Java/IIOMetadata/getExtraMetadataFormatNames
+permalink: /Java/IIOMetadata/getExtraMetadataFormatNames/
 date: 2021-01-11
-key: JavaJava.I.IIOMetadata
-category: java
+key: Java.I.IIOMetadata
+category: Java
 tags: ['java se', 'javax.imageio.metadata', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

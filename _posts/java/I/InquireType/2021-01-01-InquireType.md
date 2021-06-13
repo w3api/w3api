@@ -1,9 +1,9 @@
 ---
 title: InquireType
-permalink: Java/InquireType
+permalink: /Java/InquireType/
 date: 2021-01-11
-key: JavaJava.I.InquireType
-category: java
+key: Java.I.InquireType
+category: Java
 tags: ['java se', 'com.sun.security.jgss', 'jdk.security.jgss', 'enumerado java', 'Java 1.0']
 sidebar: 
   nav: java

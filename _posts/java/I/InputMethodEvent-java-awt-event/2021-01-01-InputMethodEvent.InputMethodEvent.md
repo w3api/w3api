@@ -1,9 +1,9 @@
 ---
 title: InputMethodEvent.InputMethodEvent()
-permalink: Java/InputMethodEvent-java-awt-event/InputMethodEvent
+permalink: /Java/InputMethodEvent-java-awt-event/InputMethodEvent/
 date: 2021-01-11
-key: JavaJava.I.InputMethodEvent-java-awt-event
-category: java
+key: Java.I.InputMethodEvent-java-awt-event
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

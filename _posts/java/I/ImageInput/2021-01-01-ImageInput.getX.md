@@ -1,9 +1,9 @@
 ---
 title: ImageInput.getX()
-permalink: Java/ImageInput/getX
+permalink: /Java/ImageInput/getX/
 date: 2021-01-11
-key: JavaJava.I.ImageInput
-category: java
+key: Java.I.ImageInput
+category: Java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

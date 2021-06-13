@@ -1,9 +1,9 @@
 ---
 title: HandlerResult
-permalink: Java/HandlerResult
+permalink: /Java/HandlerResult/
 date: 2021-01-11
-key: JavaJava.H.HandlerResult
-category: java
+key: Java.H.HandlerResult
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'enumerado java', 'Java 1.7']
 sidebar: 
   nav: java

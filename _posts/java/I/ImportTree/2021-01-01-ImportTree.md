@@ -1,9 +1,9 @@
 ---
 title: ImportTree
-permalink: Java/ImportTree
+permalink: /Java/ImportTree/
 date: 2021-01-11
-key: JavaJava.I.ImportTree
-category: java
+key: Java.I.ImportTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

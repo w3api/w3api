@@ -1,9 +1,9 @@
 ---
 title: GraphicsContext.getTransform()
-permalink: Java/GraphicsContext/getTransform
+permalink: /Java/GraphicsContext/getTransform/
 date: 2021-01-11
-key: JavaJava.G.GraphicsContext
-category: java
+key: Java.G.GraphicsContext
+category: Java
 tags: ['java se', 'javafx.scene.canvas', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HashAttributeSet.HashAttributeSet()
-permalink: Java/HashAttributeSet/HashAttributeSet
+permalink: /Java/HashAttributeSet/HashAttributeSet/
 date: 2021-01-11
-key: JavaJava.H.HashAttributeSet
-category: java
+key: Java.H.HashAttributeSet
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

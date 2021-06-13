@@ -1,9 +1,9 @@
 ---
 title: InternationalFormatter.getMinimum()
-permalink: Java/InternationalFormatter/getMinimum
+permalink: /Java/InternationalFormatter/getMinimum/
 date: 2021-01-11
-key: JavaJava.I.InternationalFormatter
-category: java
+key: Java.I.InternationalFormatter
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

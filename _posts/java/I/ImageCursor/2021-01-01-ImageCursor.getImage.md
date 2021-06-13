@@ -1,9 +1,9 @@
 ---
 title: ImageCursor.getImage()
-permalink: Java/ImageCursor/getImage
+permalink: /Java/ImageCursor/getImage/
 date: 2021-01-11
-key: JavaJava.I.ImageCursor
-category: java
+key: Java.I.ImageCursor
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

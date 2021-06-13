@@ -1,9 +1,9 @@
 ---
 title: HttpRequest.timeout()
-permalink: Java/HttpRequest/timeout
+permalink: /Java/HttpRequest/timeout/
 date: 2021-01-11
-key: JavaJava.H.HttpRequest
-category: java
+key: Java.H.HttpRequest
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

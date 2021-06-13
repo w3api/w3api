@@ -1,9 +1,9 @@
 ---
 title: InputMethod
-permalink: Java/InputMethod
+permalink: /Java/InputMethod/
 date: 2021-01-11
-key: JavaJava.I.InputMethod
-category: java
+key: Java.I.InputMethod
+category: Java
 tags: ['java se', 'java.awt.im.spi', 'java.desktop', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

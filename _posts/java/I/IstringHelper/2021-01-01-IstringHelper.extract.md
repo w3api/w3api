@@ -1,9 +1,9 @@
 ---
 title: IstringHelper.extract()
-permalink: Java/IstringHelper/extract
+permalink: /Java/IstringHelper/extract/
 date: 2021-01-11
-key: JavaJava.I.IstringHelper
-category: java
+key: Java.I.IstringHelper
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

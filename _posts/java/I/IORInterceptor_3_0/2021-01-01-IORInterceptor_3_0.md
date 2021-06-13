@@ -1,9 +1,9 @@
 ---
 title: IORInterceptor_3_0
-permalink: Java/IORInterceptor_3_0
+permalink: /Java/IORInterceptor_3_0/
 date: 2021-01-11
-key: JavaJava.I.IORInterceptor_3_0
-category: java
+key: Java.I.IORInterceptor_3_0
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

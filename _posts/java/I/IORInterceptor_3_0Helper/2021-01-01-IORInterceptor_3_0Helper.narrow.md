@@ -1,9 +1,9 @@
 ---
 title: IORInterceptor_3_0Helper.narrow()
-permalink: Java/IORInterceptor_3_0Helper/narrow
+permalink: /Java/IORInterceptor_3_0Helper/narrow/
 date: 2021-01-11
-key: JavaJava.I.IORInterceptor_3_0Helper
-category: java
+key: Java.I.IORInterceptor_3_0Helper
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

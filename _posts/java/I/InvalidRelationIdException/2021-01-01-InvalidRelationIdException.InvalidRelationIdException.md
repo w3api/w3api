@@ -1,9 +1,9 @@
 ---
 title: InvalidRelationIdException.InvalidRelationIdException()
-permalink: Java/InvalidRelationIdException/InvalidRelationIdException
+permalink: /Java/InvalidRelationIdException/InvalidRelationIdException/
 date: 2021-01-11
-key: JavaJava.I.InvalidRelationIdException
-category: java
+key: Java.I.InvalidRelationIdException
+category: Java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

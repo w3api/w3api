@@ -1,9 +1,9 @@
 ---
 title: JConsoleContext.ConnectionState.valueOf()
-permalink: Java/JConsoleContext/ConnectionState/valueOf
+permalink: /Java/JConsoleContext/ConnectionState/valueOf/
 date: 2021-01-11
-key: JavaJava.J.JConsoleContext.ConnectionState
-category: java
+key: Java.J.JConsoleContext.ConnectionState
+category: Java
 tags: ['java se', 'com.sun.tools.jconsole', 'jdk.jconsole', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

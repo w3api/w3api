@@ -1,9 +1,9 @@
 ---
 title: ImageReaderWriterSpi.isStandardImageMetadataFormatSupported()
-permalink: Java/ImageReaderWriterSpi/isStandardImageMetadataFormatSupported
+permalink: /Java/ImageReaderWriterSpi/isStandardImageMetadataFormatSupported/
 date: 2021-01-11
-key: JavaJava.I.ImageReaderWriterSpi
-category: java
+key: Java.I.ImageReaderWriterSpi
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

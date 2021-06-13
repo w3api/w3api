@@ -1,9 +1,9 @@
 ---
 title: GridBagLayout.addLayoutComponent()
-permalink: Java/GridBagLayout/addLayoutComponent
+permalink: /Java/GridBagLayout/addLayoutComponent/
 date: 2021-01-11
-key: JavaJava.G.GridBagLayout
-category: java
+key: Java.G.GridBagLayout
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

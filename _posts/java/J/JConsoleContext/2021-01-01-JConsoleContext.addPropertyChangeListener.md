@@ -1,9 +1,9 @@
 ---
 title: JConsoleContext.addPropertyChangeListener()
-permalink: Java/JConsoleContext/addPropertyChangeListener
+permalink: /Java/JConsoleContext/addPropertyChangeListener/
 date: 2021-01-11
-key: JavaJava.J.JConsoleContext
-category: java
+key: Java.J.JConsoleContext
+category: Java
 tags: ['java se', 'com.sun.tools.jconsole', 'jdk.jconsole', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

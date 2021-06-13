@@ -1,9 +1,9 @@
 ---
 title: InflaterOutputStream.flush()
-permalink: Java/InflaterOutputStream/flush
+permalink: /Java/InflaterOutputStream/flush/
 date: 2021-01-11
-key: JavaJava.I.InflaterOutputStream
-category: java
+key: Java.I.InflaterOutputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: GraphicsDevice.WindowTranslucency.PERPIXEL_TRANSLUCENT
-permalink: Java/GraphicsDevice/WindowTranslucency/PERPIXEL_TRANSLUCENT
+permalink: /Java/GraphicsDevice/WindowTranslucency/PERPIXEL_TRANSLUCENT/
 date: 2021-01-11
-key: JavaJava.G.GraphicsDevice.WindowTranslucency
-category: java
+key: Java.G.GraphicsDevice.WindowTranslucency
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

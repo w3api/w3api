@@ -1,9 +1,9 @@
 ---
 title: IntBuffer.duplicate()
-permalink: Java/IntBuffer/duplicate
+permalink: /Java/IntBuffer/duplicate/
 date: 2021-01-11
-key: JavaJava.I.IntBuffer
-category: java
+key: Java.I.IntBuffer
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

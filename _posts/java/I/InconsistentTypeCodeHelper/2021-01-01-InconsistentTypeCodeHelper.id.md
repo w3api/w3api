@@ -1,9 +1,9 @@
 ---
 title: InconsistentTypeCodeHelper.id()
-permalink: Java/InconsistentTypeCodeHelper/id
+permalink: /Java/InconsistentTypeCodeHelper/id/
 date: 2021-01-11
-key: JavaJava.I.InconsistentTypeCodeHelper
-category: java
+key: Java.I.InconsistentTypeCodeHelper
+category: Java
 tags: ['java se', 'org.omg.DynamicAny.DynAnyFactoryPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

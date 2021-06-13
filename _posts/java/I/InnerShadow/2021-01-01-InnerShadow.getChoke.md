@@ -1,9 +1,9 @@
 ---
 title: InnerShadow.getChoke()
-permalink: Java/InnerShadow/getChoke
+permalink: /Java/InnerShadow/getChoke/
 date: 2021-01-11
-key: JavaJava.I.InnerShadow
-category: java
+key: Java.I.InnerShadow
+category: Java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

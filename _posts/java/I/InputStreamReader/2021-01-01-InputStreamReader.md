@@ -1,9 +1,9 @@
 ---
 title: InputStreamReader
-permalink: Java/InputStreamReader
+permalink: /Java/InputStreamReader/
 date: 2021-01-11
-key: JavaJava.I.InputStreamReader
-category: java
+key: Java.I.InputStreamReader
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

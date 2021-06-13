@@ -1,9 +1,9 @@
 ---
 title: HTMLFieldSetElement
-permalink: Java/HTMLFieldSetElement
+permalink: /Java/HTMLFieldSetElement/
 date: 2021-01-11
-key: JavaJava.H.HTMLFieldSetElement
-category: java
+key: Java.H.HTMLFieldSetElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'interface java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

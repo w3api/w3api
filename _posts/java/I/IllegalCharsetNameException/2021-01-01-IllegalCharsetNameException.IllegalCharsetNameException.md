@@ -1,9 +1,9 @@
 ---
 title: IllegalCharsetNameException.IllegalCharsetNameException()
-permalink: Java/IllegalCharsetNameException/IllegalCharsetNameException
+permalink: /Java/IllegalCharsetNameException/IllegalCharsetNameException/
 date: 2021-01-11
-key: JavaJava.I.IllegalCharsetNameException
-category: java
+key: Java.I.IllegalCharsetNameException
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

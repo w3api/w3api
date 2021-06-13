@@ -1,9 +1,9 @@
 ---
 title: IdentifierTree
-permalink: Java/IdentifierTree/
+permalink: /Java/IdentifierTree//
 date: 2021-01-11
-key: JavaJava.I.IdentifierTree
-category: java
+key: Java.I.IdentifierTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

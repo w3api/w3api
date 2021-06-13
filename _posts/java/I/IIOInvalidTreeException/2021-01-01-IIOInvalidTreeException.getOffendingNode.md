@@ -1,9 +1,9 @@
 ---
 title: IIOInvalidTreeException.getOffendingNode()
-permalink: Java/IIOInvalidTreeException/getOffendingNode
+permalink: /Java/IIOInvalidTreeException/getOffendingNode/
 date: 2021-01-11
-key: JavaJava.I.IIOInvalidTreeException
-category: java
+key: Java.I.IIOInvalidTreeException
+category: Java
 tags: ['java se', 'javax.imageio.metadata', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

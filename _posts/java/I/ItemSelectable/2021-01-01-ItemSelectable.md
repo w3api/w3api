@@ -1,9 +1,9 @@
 ---
 title: ItemSelectable
-permalink: Java/ItemSelectable
+permalink: /Java/ItemSelectable/
 date: 2021-01-11
-key: JavaJava.I.ItemSelectable
-category: java
+key: Java.I.ItemSelectable
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InvalidTypeForEncoding
-permalink: Java/InvalidTypeForEncoding
+permalink: /Java/InvalidTypeForEncoding/
 date: 2021-01-11
-key: JavaJava.I.InvalidTypeForEncoding
-category: java
+key: Java.I.InvalidTypeForEncoding
+category: Java
 tags: ['java se', 'org.omg.IOP.CodecPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

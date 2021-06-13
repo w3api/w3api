@@ -1,9 +1,9 @@
 ---
 title: InvalidModuleDescriptorException
-permalink: Java/InvalidModuleDescriptorException
+permalink: /Java/InvalidModuleDescriptorException/
 date: 2021-01-11
-key: JavaJava.I.InvalidModuleDescriptorException
-category: java
+key: Java.I.InvalidModuleDescriptorException
+category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'clase java', 'Java 9']
 sidebar: 
   nav: java

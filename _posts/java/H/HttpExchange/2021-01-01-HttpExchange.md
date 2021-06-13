@@ -1,9 +1,9 @@
 ---
 title: HttpExchange
-permalink: Java/HttpExchange/
+permalink: /Java/HttpExchange//
 date: 2021-01-11
-key: JavaJava.H.HttpExchange
-category: java
+key: Java.H.HttpExchange
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

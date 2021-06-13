@@ -1,9 +1,9 @@
 ---
 title: IntSupplier
-permalink: Java/IntSupplier
+permalink: /Java/IntSupplier/
 date: 2021-01-11
-key: JavaJava.I.IntSupplier
-category: java
+key: Java.I.IntSupplier
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

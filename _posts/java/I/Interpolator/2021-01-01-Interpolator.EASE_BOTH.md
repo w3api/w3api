@@ -1,9 +1,9 @@
 ---
 title: Interpolator.EASE_BOTH
-permalink: Java/Interpolator/EASE_BOTH
+permalink: /Java/Interpolator/EASE_BOTH/
 date: 2021-01-11
-key: JavaJava.I.Interpolator
-category: java
+key: Java.I.Interpolator
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

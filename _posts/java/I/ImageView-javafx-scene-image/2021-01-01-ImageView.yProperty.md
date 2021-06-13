@@ -1,9 +1,9 @@
 ---
 title: ImageView.yProperty()
-permalink: Java/ImageView-javafx-scene-image/yProperty
+permalink: /Java/ImageView-javafx-scene-image/yProperty/
 date: 2021-01-11
-key: JavaJava.I.ImageView-javafx-scene-image
-category: java
+key: Java.I.ImageView-javafx-scene-image
+category: Java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

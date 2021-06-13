@@ -1,9 +1,9 @@
 ---
 title: IllegalCallerException.IllegalCallerException()
-permalink: Java/IllegalCallerException/IllegalCallerException
+permalink: /Java/IllegalCallerException/IllegalCallerException/
 date: 2021-01-11
-key: JavaJava.I.IllegalCallerException
-category: java
+key: Java.I.IllegalCallerException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

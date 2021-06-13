@@ -1,9 +1,9 @@
 ---
 title: IdUniquenessPolicyValue
-permalink: Java/IdUniquenessPolicyValue
+permalink: /Java/IdUniquenessPolicyValue/
 date: 2021-01-11
-key: JavaJava.I.IdUniquenessPolicyValue
-category: java
+key: Java.I.IdUniquenessPolicyValue
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

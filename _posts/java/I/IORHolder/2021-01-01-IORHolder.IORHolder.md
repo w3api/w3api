@@ -1,9 +1,9 @@
 ---
 title: IORHolder.IORHolder()
-permalink: Java/IORHolder/IORHolder
+permalink: /Java/IORHolder/IORHolder/
 date: 2021-01-11
-key: JavaJava.I.IORHolder
-category: java
+key: Java.I.IORHolder
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

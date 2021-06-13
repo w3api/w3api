@@ -1,9 +1,9 @@
 ---
 title: IRObjectOperations.def_kind()
-permalink: Java/IRObjectOperations/def_kind
+permalink: /Java/IRObjectOperations/def_kind/
 date: 2021-01-11
-key: JavaJava.I.IRObjectOperations
-category: java
+key: Java.I.IRObjectOperations
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

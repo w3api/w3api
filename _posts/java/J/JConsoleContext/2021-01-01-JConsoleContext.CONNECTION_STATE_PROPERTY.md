@@ -1,9 +1,9 @@
 ---
 title: JConsoleContext.CONNECTION_STATE_PROPERTY
-permalink: Java/JConsoleContext/CONNECTION_STATE_PROPERTY
+permalink: /Java/JConsoleContext/CONNECTION_STATE_PROPERTY/
 date: 2021-01-11
-key: JavaJava.J.JConsoleContext
-category: java
+key: Java.J.JConsoleContext
+category: Java
 tags: ['java se', 'com.sun.tools.jconsole', 'jdk.jconsole', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

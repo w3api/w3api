@@ -1,9 +1,9 @@
 ---
 title: ImageOutputStreamSpi.needsCacheFile()
-permalink: Java/ImageOutputStreamSpi/needsCacheFile
+permalink: /Java/ImageOutputStreamSpi/needsCacheFile/
 date: 2021-01-11
-key: JavaJava.I.ImageOutputStreamSpi
-category: java
+key: Java.I.ImageOutputStreamSpi
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

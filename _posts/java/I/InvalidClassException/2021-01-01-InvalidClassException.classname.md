@@ -1,9 +1,9 @@
 ---
 title: InvalidClassException.classname
-permalink: Java/InvalidClassException/classname
+permalink: /Java/InvalidClassException/classname/
 date: 2021-01-11
-key: JavaJava.I.InvalidClassException
-category: java
+key: Java.I.InvalidClassException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

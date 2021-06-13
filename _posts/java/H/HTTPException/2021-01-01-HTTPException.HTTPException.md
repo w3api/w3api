@@ -1,9 +1,9 @@
 ---
 title: HTTPException.HTTPException()
-permalink: Java/HTTPException/HTTPException
+permalink: /Java/HTTPException/HTTPException/
 date: 2021-01-11
-key: JavaJava.H.HTTPException
-category: java
+key: Java.H.HTTPException
+category: Java
 tags: ['java se', 'javax.xml.ws.http', 'java.xml.ws', 'metodo java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

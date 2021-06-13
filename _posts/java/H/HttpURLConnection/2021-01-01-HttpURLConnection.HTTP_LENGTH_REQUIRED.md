@@ -1,9 +1,9 @@
 ---
 title: HttpURLConnection.HTTP_LENGTH_REQUIRED
-permalink: Java/HttpURLConnection/HTTP_LENGTH_REQUIRED
+permalink: /Java/HttpURLConnection/HTTP_LENGTH_REQUIRED/
 date: 2021-01-11
-key: JavaJava.H.HttpURLConnection
-category: java
+key: Java.H.HttpURLConnection
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

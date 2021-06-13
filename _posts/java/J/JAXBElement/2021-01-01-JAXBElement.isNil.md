@@ -1,9 +1,9 @@
 ---
 title: JAXBElement.isNil()
-permalink: Java/JAXBElement/isNil
+permalink: /Java/JAXBElement/isNil/
 date: 2021-01-11
-key: JavaJava.J.JAXBElement
-category: java
+key: Java.J.JAXBElement
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

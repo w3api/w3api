@@ -1,9 +1,9 @@
 ---
 title: HttpServerProvider.provider()
-permalink: Java/HttpServerProvider/provider
+permalink: /Java/HttpServerProvider/provider/
 date: 2021-01-11
-key: JavaJava.H.HttpServerProvider
-category: java
+key: Java.H.HttpServerProvider
+category: Java
 tags: ['java se', 'com.sun.net.httpserver.spi', 'jdk.httpserver', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

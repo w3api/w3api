@@ -1,9 +1,9 @@
 ---
 title: HttpClient.Builder.NO_PROXY
-permalink: Java/HttpClient/Builder/NO_PROXY
+permalink: /Java/HttpClient/Builder/NO_PROXY/
 date: 2021-01-11
-key: JavaJava.H.HttpClient.Builder
-category: java
+key: Java.H.HttpClient.Builder
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'campo java', 'Java 9']
 sidebar: 
   nav: java

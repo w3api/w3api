@@ -1,9 +1,9 @@
 ---
 title: JComponent.WHEN_IN_FOCUSED_WINDOW
-permalink: Java/JComponent/WHEN_IN_FOCUSED_WINDOW
+permalink: /Java/JComponent/WHEN_IN_FOCUSED_WINDOW/
 date: 2021-01-11
-key: JavaJava.J.JComponent
-category: java
+key: Java.J.JComponent
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

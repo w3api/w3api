@@ -1,9 +1,9 @@
 ---
 title: GroupLayout.Alignment.LEADING
-permalink: Java/GroupLayout/Alignment/LEADING
+permalink: /Java/GroupLayout/Alignment/LEADING/
 date: 2021-01-11
-key: JavaJava.G.GroupLayout.Alignment
-category: java
+key: Java.G.GroupLayout.Alignment
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

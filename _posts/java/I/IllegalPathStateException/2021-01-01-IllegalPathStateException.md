@@ -1,9 +1,9 @@
 ---
 title: IllegalPathStateException
-permalink: Java/IllegalPathStateException
+permalink: /Java/IllegalPathStateException/
 date: 2021-01-11
-key: JavaJava.I.IllegalPathStateException
-category: java
+key: Java.I.IllegalPathStateException
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

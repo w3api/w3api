@@ -1,9 +1,9 @@
 ---
 title: InternalFrameUI
-permalink: Java/InternalFrameUI
+permalink: /Java/InternalFrameUI/
 date: 2021-01-11
-key: JavaJava.I.InternalFrameUI
-category: java
+key: Java.I.InternalFrameUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

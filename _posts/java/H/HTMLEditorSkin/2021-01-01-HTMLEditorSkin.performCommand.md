@@ -1,9 +1,9 @@
 ---
 title: HTMLEditorSkin.performCommand()
-permalink: Java/HTMLEditorSkin/performCommand
+permalink: /Java/HTMLEditorSkin/performCommand/
 date: 2021-01-11
-key: JavaJava.H.HTMLEditorSkin
-category: java
+key: Java.H.HTMLEditorSkin
+category: Java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

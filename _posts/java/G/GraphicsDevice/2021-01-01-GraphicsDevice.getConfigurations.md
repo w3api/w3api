@@ -1,9 +1,9 @@
 ---
 title: GraphicsDevice.getConfigurations()
-permalink: Java/GraphicsDevice/getConfigurations
+permalink: /Java/GraphicsDevice/getConfigurations/
 date: 2021-01-11
-key: JavaJava.G.GraphicsDevice
-category: java
+key: Java.G.GraphicsDevice
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

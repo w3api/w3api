@@ -1,9 +1,9 @@
 ---
 title: HTMLDocument
-permalink: Java/HTMLDocument/
+permalink: /Java/HTMLDocument//
 date: 2021-01-11
-key: JavaJava.H.HTMLDocument
-category: java
+key: Java.H.HTMLDocument
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

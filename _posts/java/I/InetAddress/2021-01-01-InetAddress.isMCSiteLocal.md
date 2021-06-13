@@ -1,9 +1,9 @@
 ---
 title: InetAddress.isMCSiteLocal()
-permalink: Java/InetAddress/isMCSiteLocal
+permalink: /Java/InetAddress/isMCSiteLocal/
 date: 2021-01-11
-key: JavaJava.I.InetAddress
-category: java
+key: Java.I.InetAddress
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

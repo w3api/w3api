@@ -1,9 +1,9 @@
 ---
 title: IntegrationService
-permalink: Java/IntegrationService
+permalink: /Java/IntegrationService/
 date: 2021-01-11
-key: JavaJava.I.IntegrationService
-category: java
+key: Java.I.IntegrationService
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'interface java', '6.0.18']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HierarchyBoundsListener
-permalink: Java/HierarchyBoundsListener
+permalink: /Java/HierarchyBoundsListener/
 date: 2021-01-11
-key: JavaJava.H.HierarchyBoundsListener
-category: java
+key: Java.H.HierarchyBoundsListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ImageOutputStream.writeFloats()
-permalink: Java/ImageOutputStream/writeFloats
+permalink: /Java/ImageOutputStream/writeFloats/
 date: 2021-01-11
-key: JavaJava.I.ImageOutputStream
-category: java
+key: Java.I.ImageOutputStream
+category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ImagingOpException
-permalink: Java/ImagingOpException
+permalink: /Java/ImagingOpException/
 date: 2021-01-11
-key: JavaJava.I.ImagingOpException
-category: java
+key: Java.I.ImagingOpException
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

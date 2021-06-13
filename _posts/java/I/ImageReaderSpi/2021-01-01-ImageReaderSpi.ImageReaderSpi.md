@@ -1,9 +1,9 @@
 ---
 title: ImageReaderSpi.ImageReaderSpi()
-permalink: Java/ImageReaderSpi/ImageReaderSpi
+permalink: /Java/ImageReaderSpi/ImageReaderSpi/
 date: 2021-01-11
-key: JavaJava.I.ImageReaderSpi
-category: java
+key: Java.I.ImageReaderSpi
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

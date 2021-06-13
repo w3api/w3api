@@ -1,9 +1,9 @@
 ---
 title: InputStream.read_ulong()
-permalink: Java/InputStream-org-omg-CORBA-portable/read_ulong
+permalink: /Java/InputStream-org-omg-CORBA-portable/read_ulong/
 date: 2021-01-11
-key: JavaJava.I.InputStream-org-omg-CORBA-portable
-category: java
+key: Java.I.InputStream-org-omg-CORBA-portable
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

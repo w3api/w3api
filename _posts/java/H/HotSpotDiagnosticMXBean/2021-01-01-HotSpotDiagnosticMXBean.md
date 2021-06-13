@@ -1,9 +1,9 @@
 ---
 title: HotSpotDiagnosticMXBean
-permalink: Java/HotSpotDiagnosticMXBean
+permalink: /Java/HotSpotDiagnosticMXBean/
 date: 2021-01-11
-key: JavaJava.H.HotSpotDiagnosticMXBean
-category: java
+key: Java.H.HotSpotDiagnosticMXBean
+category: Java
 tags: ['java se', 'com.sun.management', 'jdk.management', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HTTPBinding
-permalink: Java/HTTPBinding
+permalink: /Java/HTTPBinding/
 date: 2021-01-11
-key: JavaJava.H.HTTPBinding
-category: java
+key: Java.H.HTTPBinding
+category: Java
 tags: ['java se', 'javax.xml.ws.http', 'java.xml.ws', 'interface java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

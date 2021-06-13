@@ -1,9 +1,9 @@
 ---
 title: InternalFrameEvent.paramString()
-permalink: Java/InternalFrameEvent/paramString
+permalink: /Java/InternalFrameEvent/paramString/
 date: 2021-01-11
-key: JavaJava.I.InternalFrameEvent
-category: java
+key: Java.I.InternalFrameEvent
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: GridBagLayoutInfo
-permalink: Java/GridBagLayoutInfo
+permalink: /Java/GridBagLayoutInfo/
 date: 2021-01-11
-key: JavaJava.G.GridBagLayoutInfo
-category: java
+key: Java.G.GridBagLayoutInfo
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

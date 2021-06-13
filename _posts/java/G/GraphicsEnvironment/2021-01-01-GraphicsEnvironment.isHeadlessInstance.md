@@ -1,9 +1,9 @@
 ---
 title: GraphicsEnvironment.isHeadlessInstance()
-permalink: Java/GraphicsEnvironment/isHeadlessInstance
+permalink: /Java/GraphicsEnvironment/isHeadlessInstance/
 date: 2021-01-11
-key: JavaJava.G.GraphicsEnvironment
-category: java
+key: Java.G.GraphicsEnvironment
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InvalidStreamException.InvalidStreamException()
-permalink: Java/InvalidStreamException/InvalidStreamException
+permalink: /Java/InvalidStreamException/InvalidStreamException/
 date: 2021-01-11
-key: JavaJava.I.InvalidStreamException
-category: java
+key: Java.I.InvalidStreamException
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

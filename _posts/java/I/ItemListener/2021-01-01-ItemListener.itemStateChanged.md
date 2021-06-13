@@ -1,9 +1,9 @@
 ---
 title: ItemListener.itemStateChanged()
-permalink: Java/ItemListener/itemStateChanged
+permalink: /Java/ItemListener/itemStateChanged/
 date: 2021-01-11
-key: JavaJava.I.ItemListener
-category: java
+key: Java.I.ItemListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

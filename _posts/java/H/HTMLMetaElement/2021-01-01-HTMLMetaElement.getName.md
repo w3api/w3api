@@ -1,9 +1,9 @@
 ---
 title: HTMLMetaElement.getName()
-permalink: Java/HTMLMetaElement/getName
+permalink: /Java/HTMLMetaElement/getName/
 date: 2021-01-11
-key: JavaJava.H.HTMLMetaElement
-category: java
+key: Java.H.HTMLMetaElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

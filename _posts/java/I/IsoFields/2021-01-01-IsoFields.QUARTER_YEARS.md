@@ -1,9 +1,9 @@
 ---
 title: IsoFields.QUARTER_YEARS
-permalink: Java/IsoFields/QUARTER_YEARS
+permalink: /Java/IsoFields/QUARTER_YEARS/
 date: 2021-01-11
-key: JavaJava.I.IsoFields
-category: java
+key: Java.I.IsoFields
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

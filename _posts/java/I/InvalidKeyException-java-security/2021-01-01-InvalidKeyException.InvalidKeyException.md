@@ -1,9 +1,9 @@
 ---
 title: InvalidKeyException.InvalidKeyException()
-permalink: Java/InvalidKeyException-java-security/InvalidKeyException
+permalink: /Java/InvalidKeyException-java-security/InvalidKeyException/
 date: 2021-01-11
-key: JavaJava.I.InvalidKeyException-java-security
-category: java
+key: Java.I.InvalidKeyException-java-security
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

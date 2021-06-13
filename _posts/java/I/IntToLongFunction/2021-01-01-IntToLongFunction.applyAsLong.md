@@ -1,9 +1,9 @@
 ---
 title: IntToLongFunction.applyAsLong()
-permalink: Java/IntToLongFunction/applyAsLong
+permalink: /Java/IntToLongFunction/applyAsLong/
 date: 2021-01-11
-key: JavaJava.I.IntToLongFunction
-category: java
+key: Java.I.IntToLongFunction
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

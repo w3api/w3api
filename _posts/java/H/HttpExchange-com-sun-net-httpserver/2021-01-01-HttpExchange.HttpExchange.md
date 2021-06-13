@@ -1,9 +1,9 @@
 ---
 title: HttpExchange.HttpExchange()
-permalink: Java/HttpExchange-com-sun-net-httpserver/HttpExchange
+permalink: /Java/HttpExchange-com-sun-net-httpserver/HttpExchange/
 date: 2021-01-11
-key: JavaJava.H.HttpExchange-com-sun-net-httpserver
-category: java
+key: Java.H.HttpExchange-com-sun-net-httpserver
+category: Java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InvocationHandler
-permalink: Java/InvocationHandler
+permalink: /Java/InvocationHandler/
 date: 2021-01-11
-key: JavaJava.I.InvocationHandler
-category: java
+key: Java.I.InvocationHandler
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ItemEvent
-permalink: Java/ItemEvent
+permalink: /Java/ItemEvent/
 date: 2021-01-11
-key: JavaJava.I.ItemEvent
-category: java
+key: Java.I.ItemEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

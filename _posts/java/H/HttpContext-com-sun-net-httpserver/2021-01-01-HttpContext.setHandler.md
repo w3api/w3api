@@ -1,9 +1,9 @@
 ---
 title: HttpContext.setHandler()
-permalink: Java/HttpContext-com-sun-net-httpserver/setHandler
+permalink: /Java/HttpContext-com-sun-net-httpserver/setHandler/
 date: 2021-01-11
-key: JavaJava.H.HttpContext-com-sun-net-httpserver
-category: java
+key: Java.H.HttpContext-com-sun-net-httpserver
+category: Java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

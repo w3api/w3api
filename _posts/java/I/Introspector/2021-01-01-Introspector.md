@@ -1,9 +1,9 @@
 ---
 title: Introspector
-permalink: Java/Introspector
+permalink: /Java/Introspector/
 date: 2021-01-11
-key: JavaJava.I.Introspector
-category: java
+key: Java.I.Introspector
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Inet6Address.isIPv4CompatibleAddress()
-permalink: Java/Inet6Address/isIPv4CompatibleAddress
+permalink: /Java/Inet6Address/isIPv4CompatibleAddress/
 date: 2021-01-11
-key: JavaJava.I.Inet6Address
-category: java
+key: Java.I.Inet6Address
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

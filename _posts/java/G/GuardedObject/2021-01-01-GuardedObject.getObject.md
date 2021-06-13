@@ -1,9 +1,9 @@
 ---
 title: GuardedObject.getObject()
-permalink: Java/GuardedObject/getObject
+permalink: /Java/GuardedObject/getObject/
 date: 2021-01-11
-key: JavaJava.G.GuardedObject
-category: java
+key: Java.G.GuardedObject
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IntPredicate.negate()
-permalink: Java/IntPredicate/negate
+permalink: /Java/IntPredicate/negate/
 date: 2021-01-11
-key: JavaJava.I.IntPredicate
-category: java
+key: Java.I.IntPredicate
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

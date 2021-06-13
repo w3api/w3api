@@ -1,9 +1,9 @@
 ---
 title: HttpClient.newHttpClient()
-permalink: Java/HttpClient/newHttpClient
+permalink: /Java/HttpClient/newHttpClient/
 date: 2021-01-11
-key: JavaJava.H.HttpClient
-category: java
+key: Java.H.HttpClient
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

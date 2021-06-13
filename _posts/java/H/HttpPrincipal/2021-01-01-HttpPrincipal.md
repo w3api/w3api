@@ -1,9 +1,9 @@
 ---
 title: HttpPrincipal
-permalink: Java/HttpPrincipal
+permalink: /Java/HttpPrincipal/
 date: 2021-01-11
-key: JavaJava.H.HttpPrincipal
-category: java
+key: Java.H.HttpPrincipal
+category: Java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

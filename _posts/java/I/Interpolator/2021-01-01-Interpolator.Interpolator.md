@@ -1,9 +1,9 @@
 ---
 title: Interpolator.Interpolator()
-permalink: Java/Interpolator/Interpolator
+permalink: /Java/Interpolator/Interpolator/
 date: 2021-01-11
-key: JavaJava.I.Interpolator
-category: java
+key: Java.I.Interpolator
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

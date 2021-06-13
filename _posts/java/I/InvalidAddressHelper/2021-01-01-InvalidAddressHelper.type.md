@@ -1,9 +1,9 @@
 ---
 title: InvalidAddressHelper.type()
-permalink: Java/InvalidAddressHelper/type
+permalink: /Java/InvalidAddressHelper/type/
 date: 2021-01-11
-key: JavaJava.I.InvalidAddressHelper
-category: java
+key: Java.I.InvalidAddressHelper
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextExtPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

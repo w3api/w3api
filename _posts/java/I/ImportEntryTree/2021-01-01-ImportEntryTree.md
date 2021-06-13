@@ -1,9 +1,9 @@
 ---
 title: ImportEntryTree
-permalink: Java/ImportEntryTree
+permalink: /Java/ImportEntryTree/
 date: 2021-01-11
-key: JavaJava.I.ImportEntryTree
-category: java
+key: Java.I.ImportEntryTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ImageView
-permalink: Java/ImageView-javafx-scene-image
+permalink: /Java/ImageView-javafx-scene-image/
 date: 2021-01-11
-key: JavaJava.I.ImageView-javafx-scene-image
-category: java
+key: Java.I.ImageView-javafx-scene-image
+category: Java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

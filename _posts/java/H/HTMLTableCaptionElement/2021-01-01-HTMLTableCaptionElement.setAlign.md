@@ -1,9 +1,9 @@
 ---
 title: HTMLTableCaptionElement.setAlign()
-permalink: Java/HTMLTableCaptionElement/setAlign
+permalink: /Java/HTMLTableCaptionElement/setAlign/
 date: 2021-01-11
-key: JavaJava.H.HTMLTableCaptionElement
-category: java
+key: Java.H.HTMLTableCaptionElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

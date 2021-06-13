@@ -1,9 +1,9 @@
 ---
 title: InputSubset.LATIN
-permalink: Java/InputSubset/LATIN
+permalink: /Java/InputSubset/LATIN/
 date: 2021-01-11
-key: JavaJava.I.InputSubset
-category: java
+key: Java.I.InputSubset
+category: Java
 tags: ['java se', 'java.awt.im', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

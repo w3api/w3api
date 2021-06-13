@@ -1,9 +1,9 @@
 ---
 title: IdentifierHelper.type()
-permalink: Java/IdentifierHelper/type
+permalink: /Java/IdentifierHelper/type/
 date: 2021-01-11
-key: JavaJava.I.IdentifierHelper
-category: java
+key: Java.I.IdentifierHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

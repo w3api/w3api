@@ -1,9 +1,9 @@
 ---
 title: HTMLQuoteElement
-permalink: Java/HTMLQuoteElement
+permalink: /Java/HTMLQuoteElement/
 date: 2021-01-11
-key: JavaJava.H.HTMLQuoteElement
-category: java
+key: Java.H.HTMLQuoteElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'interface java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HTMLOptGroupElement
-permalink: Java/HTMLOptGroupElement
+permalink: /Java/HTMLOptGroupElement/
 date: 2021-01-11
-key: JavaJava.H.HTMLOptGroupElement
-category: java
+key: Java.H.HTMLOptGroupElement
+category: Java
 tags: ['java se', 'org.w3c.dom.html', 'jdk.xml.dom', 'interface java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HttpResponse.BodyHandler
-permalink: Java/HttpResponse/BodyHandler
+permalink: /Java/HttpResponse/BodyHandler/
 date: 2021-01-11
-key: JavaJava.H.HttpResponse.BodyHandler
-category: java
+key: Java.H.HttpResponse.BodyHandler
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

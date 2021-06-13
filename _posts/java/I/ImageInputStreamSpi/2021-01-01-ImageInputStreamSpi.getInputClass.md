@@ -1,9 +1,9 @@
 ---
 title: ImageInputStreamSpi.getInputClass()
-permalink: Java/ImageInputStreamSpi/getInputClass
+permalink: /Java/ImageInputStreamSpi/getInputClass/
 date: 2021-01-11
-key: JavaJava.I.ImageInputStreamSpi
-category: java
+key: Java.I.ImageInputStreamSpi
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

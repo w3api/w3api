@@ -1,9 +1,9 @@
 ---
 title: IntHolder._read()
-permalink: Java/IntHolder/_read
+permalink: /Java/IntHolder/_read/
 date: 2021-01-11
-key: JavaJava.I.IntHolder
-category: java
+key: Java.I.IntHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

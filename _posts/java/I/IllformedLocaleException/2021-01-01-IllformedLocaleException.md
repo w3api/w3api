@@ -1,9 +1,9 @@
 ---
 title: IllformedLocaleException
-permalink: Java/IllformedLocaleException
+permalink: /Java/IllformedLocaleException/
 date: 2021-01-11
-key: JavaJava.I.IllformedLocaleException
-category: java
+key: Java.I.IllformedLocaleException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

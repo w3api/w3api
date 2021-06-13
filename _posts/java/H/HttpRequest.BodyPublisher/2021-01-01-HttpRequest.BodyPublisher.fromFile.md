@@ -1,9 +1,9 @@
 ---
 title: HttpRequest.BodyPublisher.fromFile()
-permalink: Java/HttpRequest/BodyPublisher/fromFile
+permalink: /Java/HttpRequest/BodyPublisher/fromFile/
 date: 2021-01-11
-key: JavaJava.H.HttpRequest.BodyPublisher
-category: java
+key: Java.H.HttpRequest.BodyPublisher
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

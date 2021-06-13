@@ -1,9 +1,9 @@
 ---
 title: IdentityHashMap.clone()
-permalink: Java/IdentityHashMap/clone
+permalink: /Java/IdentityHashMap/clone/
 date: 2021-01-11
-key: JavaJava.I.IdentityHashMap
-category: java
+key: Java.I.IdentityHashMap
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

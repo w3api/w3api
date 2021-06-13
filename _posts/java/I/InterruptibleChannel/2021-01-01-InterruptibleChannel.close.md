@@ -1,9 +1,9 @@
 ---
 title: InterruptibleChannel.close()
-permalink: Java/InterruptibleChannel/close
+permalink: /Java/InterruptibleChannel/close/
 date: 2021-01-11
-key: JavaJava.I.InterruptibleChannel
-category: java
+key: Java.I.InterruptibleChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

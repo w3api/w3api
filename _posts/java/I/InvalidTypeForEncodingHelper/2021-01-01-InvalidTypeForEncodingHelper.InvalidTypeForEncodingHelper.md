@@ -1,9 +1,9 @@
 ---
 title: InvalidTypeForEncodingHelper.InvalidTypeForEncodingHelper()
-permalink: Java/InvalidTypeForEncodingHelper/InvalidTypeForEncodingHelper
+permalink: /Java/InvalidTypeForEncodingHelper/InvalidTypeForEncodingHelper/
 date: 2021-01-11
-key: JavaJava.I.InvalidTypeForEncodingHelper
-category: java
+key: Java.I.InvalidTypeForEncodingHelper
+category: Java
 tags: ['java se', 'org.omg.IOP.CodecPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

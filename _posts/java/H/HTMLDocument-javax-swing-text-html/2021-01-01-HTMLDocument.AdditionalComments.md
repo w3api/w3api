@@ -1,9 +1,9 @@
 ---
 title: HTMLDocument.AdditionalComments
-permalink: Java/HTMLDocument-javax-swing-text-html/AdditionalComments
+permalink: /Java/HTMLDocument-javax-swing-text-html/AdditionalComments/
 date: 2021-01-11
-key: JavaJava.H.HTMLDocument-javax-swing-text-html
-category: java
+key: Java.H.HTMLDocument-javax-swing-text-html
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

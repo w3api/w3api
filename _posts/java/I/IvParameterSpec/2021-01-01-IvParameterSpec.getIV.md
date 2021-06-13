@@ -1,9 +1,9 @@
 ---
 title: IvParameterSpec.getIV()
-permalink: Java/IvParameterSpec/getIV
+permalink: /Java/IvParameterSpec/getIV/
 date: 2021-01-11
-key: JavaJava.I.IvParameterSpec
-category: java
+key: Java.I.IvParameterSpec
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

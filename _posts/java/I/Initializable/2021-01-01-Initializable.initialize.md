@@ -1,9 +1,9 @@
 ---
 title: Initializable.initialize()
-permalink: Java/Initializable/initialize
+permalink: /Java/Initializable/initialize/
 date: 2021-01-11
-key: JavaJava.I.Initializable
-category: java
+key: Java.I.Initializable
+category: Java
 tags: ['java se', 'javafx.fxml', 'javafx.fxml', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

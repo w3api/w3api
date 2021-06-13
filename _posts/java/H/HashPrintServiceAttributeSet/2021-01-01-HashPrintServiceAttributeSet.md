@@ -1,9 +1,9 @@
 ---
 title: HashPrintServiceAttributeSet
-permalink: Java/HashPrintServiceAttributeSet
+permalink: /Java/HashPrintServiceAttributeSet/
 date: 2021-01-11
-key: JavaJava.H.HashPrintServiceAttributeSet
-category: java
+key: Java.H.HashPrintServiceAttributeSet
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

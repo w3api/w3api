@@ -1,9 +1,9 @@
 ---
 title: ImportSnippet.name()
-permalink: Java/ImportSnippet/name
+permalink: /Java/ImportSnippet/name/
 date: 2021-01-11
-key: JavaJava.I.ImportSnippet
-category: java
+key: Java.I.ImportSnippet
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

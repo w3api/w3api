@@ -1,9 +1,9 @@
 ---
 title: HierarchyEvent.SHOWING_CHANGED
-permalink: Java/HierarchyEvent/SHOWING_CHANGED
+permalink: /Java/HierarchyEvent/SHOWING_CHANGED/
 date: 2021-01-11
-key: JavaJava.H.HierarchyEvent
-category: java
+key: Java.H.HierarchyEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

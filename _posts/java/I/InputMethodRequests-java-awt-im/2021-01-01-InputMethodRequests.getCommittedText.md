@@ -1,9 +1,9 @@
 ---
 title: InputMethodRequests.getCommittedText()
-permalink: Java/InputMethodRequests-java-awt-im/getCommittedText
+permalink: /Java/InputMethodRequests-java-awt-im/getCommittedText/
 date: 2021-01-11
-key: JavaJava.I.InputMethodRequests-java-awt-im
-category: java
+key: Java.I.InputMethodRequests-java-awt-im
+category: Java
 tags: ['java se', 'java.awt.im', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

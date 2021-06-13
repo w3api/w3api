@@ -1,9 +1,9 @@
 ---
 title: IsoChronology.dateNow()
-permalink: Java/IsoChronology/dateNow
+permalink: /Java/IsoChronology/dateNow/
 date: 2021-01-11
-key: JavaJava.I.IsoChronology
-category: java
+key: Java.I.IsoChronology
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

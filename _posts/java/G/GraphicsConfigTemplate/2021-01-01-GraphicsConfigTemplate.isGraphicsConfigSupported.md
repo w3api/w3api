@@ -1,9 +1,9 @@
 ---
 title: GraphicsConfigTemplate.isGraphicsConfigSupported()
-permalink: Java/GraphicsConfigTemplate/isGraphicsConfigSupported
+permalink: /Java/GraphicsConfigTemplate/isGraphicsConfigSupported/
 date: 2021-01-11
-key: JavaJava.G.GraphicsConfigTemplate
-category: java
+key: Java.G.GraphicsConfigTemplate
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

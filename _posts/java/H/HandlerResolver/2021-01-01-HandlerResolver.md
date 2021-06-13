@@ -1,9 +1,9 @@
 ---
 title: HandlerResolver
-permalink: Java/HandlerResolver
+permalink: /Java/HandlerResolver/
 date: 2021-01-11
-key: JavaJava.H.HandlerResolver
-category: java
+key: Java.H.HandlerResolver
+category: Java
 tags: ['java se', 'javax.xml.ws.handler', 'java.xml.ws', 'interface java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

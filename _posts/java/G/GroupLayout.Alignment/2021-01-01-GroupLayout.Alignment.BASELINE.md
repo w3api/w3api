@@ -1,9 +1,9 @@
 ---
 title: GroupLayout.Alignment.BASELINE
-permalink: Java/GroupLayout/Alignment/BASELINE
+permalink: /Java/GroupLayout/Alignment/BASELINE/
 date: 2021-01-11
-key: JavaJava.G.GroupLayout.Alignment
-category: java
+key: Java.G.GroupLayout.Alignment
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

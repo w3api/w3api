@@ -1,9 +1,9 @@
 ---
 title: IntegerSyntax.hashCode()
-permalink: Java/IntegerSyntax/hashCode
+permalink: /Java/IntegerSyntax/hashCode/
 date: 2021-01-11
-key: JavaJava.I.IntegerSyntax
-category: java
+key: Java.I.IntegerSyntax
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

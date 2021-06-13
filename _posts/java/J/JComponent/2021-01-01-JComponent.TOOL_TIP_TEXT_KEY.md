@@ -1,9 +1,9 @@
 ---
 title: JComponent.TOOL_TIP_TEXT_KEY
-permalink: Java/JComponent/TOOL_TIP_TEXT_KEY
+permalink: /Java/JComponent/TOOL_TIP_TEXT_KEY/
 date: 2021-01-11
-key: JavaJava.J.JComponent
-category: java
+key: Java.J.JComponent
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

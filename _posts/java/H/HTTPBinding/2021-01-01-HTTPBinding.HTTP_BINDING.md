@@ -1,9 +1,9 @@
 ---
 title: HTTPBinding.HTTP_BINDING
-permalink: Java/HTTPBinding/HTTP_BINDING
+permalink: /Java/HTTPBinding/HTTP_BINDING/
 date: 2021-01-11
-key: JavaJava.H.HTTPBinding
-category: java
+key: Java.H.HTTPBinding
+category: Java
 tags: ['java se', 'javax.xml.ws.http', 'java.xml.ws', 'campo java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

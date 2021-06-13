@@ -1,9 +1,9 @@
 ---
 title: GregorianCalendar.BC
-permalink: Java/GregorianCalendar/BC
+permalink: /Java/GregorianCalendar/BC/
 date: 2021-01-11
-key: JavaJava.G.GregorianCalendar
-category: java
+key: Java.G.GregorianCalendar
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

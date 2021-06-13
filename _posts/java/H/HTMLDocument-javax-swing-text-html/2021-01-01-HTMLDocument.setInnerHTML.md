@@ -1,9 +1,9 @@
 ---
 title: HTMLDocument.setInnerHTML()
-permalink: Java/HTMLDocument-javax-swing-text-html/setInnerHTML
+permalink: /Java/HTMLDocument-javax-swing-text-html/setInnerHTML/
 date: 2021-01-11
-key: JavaJava.H.HTMLDocument-javax-swing-text-html
-category: java
+key: Java.H.HTMLDocument-javax-swing-text-html
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

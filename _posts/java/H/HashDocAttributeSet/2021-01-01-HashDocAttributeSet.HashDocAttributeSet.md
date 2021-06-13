@@ -1,9 +1,9 @@
 ---
 title: HashDocAttributeSet.HashDocAttributeSet()
-permalink: Java/HashDocAttributeSet/HashDocAttributeSet
+permalink: /Java/HashDocAttributeSet/HashDocAttributeSet/
 date: 2021-01-11
-key: JavaJava.H.HashDocAttributeSet
-category: java
+key: Java.H.HashDocAttributeSet
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HttpResponse.BodyHandler.fromSubscriber()
-permalink: Java/HttpResponse/BodyHandler/fromSubscriber
+permalink: /Java/HttpResponse/BodyHandler/fromSubscriber/
 date: 2021-01-11
-key: JavaJava.H.HttpResponse.BodyHandler
-category: java
+key: Java.H.HttpResponse.BodyHandler
+category: Java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

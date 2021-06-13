@@ -1,9 +1,9 @@
 ---
 title: InitialContextFactoryBuilder.createInitialContextFactory()
-permalink: Java/InitialContextFactoryBuilder/createInitialContextFactory
+permalink: /Java/InitialContextFactoryBuilder/createInitialContextFactory/
 date: 2021-01-11
-key: JavaJava.I.InitialContextFactoryBuilder
-category: java
+key: Java.I.InitialContextFactoryBuilder
+category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

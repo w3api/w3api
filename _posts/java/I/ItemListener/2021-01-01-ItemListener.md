@@ -1,9 +1,9 @@
 ---
 title: ItemListener
-permalink: Java/ItemListener
+permalink: /Java/ItemListener/
 date: 2021-01-11
-key: JavaJava.I.ItemListener
-category: java
+key: Java.I.ItemListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

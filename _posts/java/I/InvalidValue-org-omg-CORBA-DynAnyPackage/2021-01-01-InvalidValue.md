@@ -1,9 +1,9 @@
 ---
 title: InvalidValue
-permalink: Java/InvalidValue-org-omg-CORBA-DynAnyPackage
+permalink: /Java/InvalidValue-org-omg-CORBA-DynAnyPackage/
 date: 2021-01-11
-key: JavaJava.I.InvalidValue-org-omg-CORBA-DynAnyPackage
-category: java
+key: Java.I.InvalidValue-org-omg-CORBA-DynAnyPackage
+category: Java
 tags: ['java se', 'org.omg.CORBA.DynAnyPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

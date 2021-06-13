@@ -1,9 +1,9 @@
 ---
 title: InnerShadow.getOffsetX()
-permalink: Java/InnerShadow/getOffsetX
+permalink: /Java/InnerShadow/getOffsetX/
 date: 2021-01-11
-key: JavaJava.I.InnerShadow
-category: java
+key: Java.I.InnerShadow
+category: Java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IllegalFormatFlagsException.IllegalFormatFlagsException()
-permalink: Java/IllegalFormatFlagsException/IllegalFormatFlagsException
+permalink: /Java/IllegalFormatFlagsException/IllegalFormatFlagsException/
 date: 2021-01-11
-key: JavaJava.I.IllegalFormatFlagsException
-category: java
+key: Java.I.IllegalFormatFlagsException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

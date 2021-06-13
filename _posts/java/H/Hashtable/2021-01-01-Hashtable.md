@@ -1,9 +1,9 @@
 ---
 title: Hashtable
-permalink: Java/Hashtable
+permalink: /Java/Hashtable/
 date: 2021-01-11
-key: JavaJava.H.Hashtable
-category: java
+key: Java.H.Hashtable
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

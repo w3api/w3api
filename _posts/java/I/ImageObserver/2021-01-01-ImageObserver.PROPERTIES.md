@@ -1,9 +1,9 @@
 ---
 title: ImageObserver.PROPERTIES
-permalink: Java/ImageObserver/PROPERTIES
+permalink: /Java/ImageObserver/PROPERTIES/
 date: 2021-01-11
-key: JavaJava.I.ImageObserver
-category: java
+key: Java.I.ImageObserver
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

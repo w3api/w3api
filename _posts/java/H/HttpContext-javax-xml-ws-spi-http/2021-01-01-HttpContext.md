@@ -1,9 +1,9 @@
 ---
 title: HttpContext
-permalink: Java/HttpContext-javax-xml-ws-spi-http
+permalink: /Java/HttpContext-javax-xml-ws-spi-http/
 date: 2021-01-11
-key: JavaJava.H.HttpContext-javax-xml-ws-spi-http
-category: java
+key: Java.H.HttpContext-javax-xml-ws-spi-http
+category: Java
 tags: ['java se', 'javax.xml.ws.spi.http', 'java.xml.ws', 'clase java', 'Java 1.7', 'JAX-WS 2.2']
 sidebar: 
   nav: java

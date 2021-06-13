@@ -1,9 +1,9 @@
 ---
 title: InvalidSlot.InvalidSlot()
-permalink: Java/InvalidSlot/InvalidSlot
+permalink: /Java/InvalidSlot/InvalidSlot/
 date: 2021-01-11
-key: JavaJava.I.InvalidSlot
-category: java
+key: Java.I.InvalidSlot
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: InputSubset.HALFWIDTH_KATAKANA
-permalink: Java/InputSubset/HALFWIDTH_KATAKANA
+permalink: /Java/InputSubset/HALFWIDTH_KATAKANA/
 date: 2021-01-11
-key: JavaJava.I.InputSubset
-category: java
+key: Java.I.InputSubset
+category: Java
 tags: ['java se', 'java.awt.im', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: HandlerBase
-permalink: Java/HandlerBase
+permalink: /Java/HandlerBase/
 date: 2021-01-11
-key: JavaJava.H.HandlerBase
-category: java
+key: Java.H.HandlerBase
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'clase java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 
   nav: java

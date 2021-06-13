@@ -1,9 +1,9 @@
 ---
 title: IntBinaryOperator.applyAsInt()
-permalink: Java/IntBinaryOperator/applyAsInt
+permalink: /Java/IntBinaryOperator/applyAsInt/
 date: 2021-01-11
-key: JavaJava.I.IntBinaryOperator
-category: java
+key: Java.I.IntBinaryOperator
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

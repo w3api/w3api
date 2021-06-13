@@ -1,9 +1,9 @@
 ---
 title: GridLayout
-permalink: Java/GridLayout
+permalink: /Java/GridLayout/
 date: 2021-01-11
-key: JavaJava.G.GridLayout
-category: java
+key: Java.G.GridLayout
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

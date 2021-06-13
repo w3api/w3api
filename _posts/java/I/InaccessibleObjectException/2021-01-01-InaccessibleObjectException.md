@@ -1,9 +1,9 @@
 ---
 title: InaccessibleObjectException
-permalink: Java/InaccessibleObjectException
+permalink: /Java/InaccessibleObjectException/
 date: 2021-01-11
-key: JavaJava.I.InaccessibleObjectException
-category: java
+key: Java.I.InaccessibleObjectException
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'clase java', 'Java 9']
 sidebar: 
   nav: java

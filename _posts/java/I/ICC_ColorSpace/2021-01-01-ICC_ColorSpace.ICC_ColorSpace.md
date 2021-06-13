@@ -1,9 +1,9 @@
 ---
 title: ICC_ColorSpace.ICC_ColorSpace()
-permalink: Java/ICC_ColorSpace/ICC_ColorSpace
+permalink: /Java/ICC_ColorSpace/ICC_ColorSpace/
 date: 2021-01-11
-key: JavaJava.I.ICC_ColorSpace
-category: java
+key: Java.I.ICC_ColorSpace
+category: Java
 tags: ['java se', 'java.awt.color', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

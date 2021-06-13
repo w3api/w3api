@@ -1,9 +1,9 @@
 ---
 title: InitialDirContext
-permalink: Java/InitialDirContext
+permalink: /Java/InitialDirContext/
 date: 2021-01-11
-key: JavaJava.I.InitialDirContext
-category: java
+key: Java.I.InitialDirContext
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: IndexedCell.getIndex()
-permalink: Java/IndexedCell/getIndex
+permalink: /Java/IndexedCell/getIndex/
 date: 2021-01-11
-key: JavaJava.I.IndexedCell
-category: java
+key: Java.I.IndexedCell
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

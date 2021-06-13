@@ -1,9 +1,9 @@
 ---
 title: IllegalClassFormatException
-permalink: Java/IllegalClassFormatException
+permalink: /Java/IllegalClassFormatException/
 date: 2021-01-11
-key: JavaJava.I.IllegalClassFormatException
-category: java
+key: Java.I.IllegalClassFormatException
+category: Java
 tags: ['java se', 'java.lang.instrument', 'java.instrument', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

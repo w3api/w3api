@@ -1,9 +1,9 @@
 ---
 title: InputEvent
-permalink: Java/InputEvent/
+permalink: /Java/InputEvent//
 date: 2021-01-11
-key: JavaJava.I.InputEvent
-category: java
+key: Java.I.InputEvent
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

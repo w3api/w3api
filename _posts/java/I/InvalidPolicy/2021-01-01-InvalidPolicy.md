@@ -1,9 +1,9 @@
 ---
 title: InvalidPolicy
-permalink: Java/InvalidPolicy
+permalink: /Java/InvalidPolicy/
 date: 2021-01-11
-key: JavaJava.I.InvalidPolicy
-category: java
+key: Java.I.InvalidPolicy
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

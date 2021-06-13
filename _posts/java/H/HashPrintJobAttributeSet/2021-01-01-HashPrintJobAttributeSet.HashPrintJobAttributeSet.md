@@ -1,9 +1,9 @@
 ---
 title: HashPrintJobAttributeSet.HashPrintJobAttributeSet()
-permalink: Java/HashPrintJobAttributeSet/HashPrintJobAttributeSet
+permalink: /Java/HashPrintJobAttributeSet/HashPrintJobAttributeSet/
 date: 2021-01-11
-key: JavaJava.H.HashPrintJobAttributeSet
-category: java
+key: Java.H.HashPrintJobAttributeSet
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

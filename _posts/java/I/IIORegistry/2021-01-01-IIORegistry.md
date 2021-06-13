@@ -1,9 +1,9 @@
 ---
 title: IIORegistry
-permalink: Java/IIORegistry
+permalink: /Java/IIORegistry/
 date: 2021-01-11
-key: JavaJava.I.IIORegistry
-category: java
+key: Java.I.IIORegistry
+category: Java
 tags: ['java se', 'javax.imageio.spi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

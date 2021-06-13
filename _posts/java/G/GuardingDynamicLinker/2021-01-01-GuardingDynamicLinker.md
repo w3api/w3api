@@ -1,9 +1,9 @@
 ---
 title: GuardingDynamicLinker
-permalink: Java/GuardingDynamicLinker
+permalink: /Java/GuardingDynamicLinker/
 date: 2021-01-11
-key: JavaJava.G.GuardingDynamicLinker
-category: java
+key: Java.G.GuardingDynamicLinker
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java
