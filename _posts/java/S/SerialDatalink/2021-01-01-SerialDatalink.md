@@ -1,9 +1,9 @@
 ---
 title: SerialDatalink
-permalink: Java/SerialDatalink
+permalink: /Java/SerialDatalink/
 date: 2021-01-11
-key: JavaJava.S.SerialDatalink
-category: java
+key: Java.S.SerialDatalink
+category: Java
 tags: ['java se', 'javax.sql.rowset.serial', 'java.sql.rowset', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

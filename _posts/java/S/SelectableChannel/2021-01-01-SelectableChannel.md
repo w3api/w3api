@@ -1,9 +1,9 @@
 ---
 title: SelectableChannel
-permalink: Java/SelectableChannel
+permalink: /Java/SelectableChannel/
 date: 2021-01-11
-key: JavaJava.S.SelectableChannel
-category: java
+key: Java.S.SelectableChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

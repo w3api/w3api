@@ -1,9 +1,9 @@
 ---
 title: ScrollPane.ScrollBarPolicy.values()
-permalink: Java/ScrollPane/ScrollBarPolicy/values
+permalink: /Java/ScrollPane/ScrollBarPolicy/values/
 date: 2021-01-11
-key: JavaJava.S.ScrollPane.ScrollBarPolicy
-category: java
+key: Java.S.ScrollPane.ScrollBarPolicy
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

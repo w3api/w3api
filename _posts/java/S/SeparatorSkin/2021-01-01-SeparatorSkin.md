@@ -1,9 +1,9 @@
 ---
 title: SeparatorSkin
-permalink: Java/SeparatorSkin
+permalink: /Java/SeparatorSkin/
 date: 2021-01-11
-key: JavaJava.S.SeparatorSkin
-category: java
+key: Java.S.SeparatorSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

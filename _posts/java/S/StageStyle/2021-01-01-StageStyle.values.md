@@ -1,9 +1,9 @@
 ---
 title: StageStyle.values()
-permalink: Java/StageStyle/values
+permalink: /Java/StageStyle/values/
 date: 2021-01-11
-key: JavaJava.S.StageStyle
-category: java
+key: Java.S.StageStyle
+category: Java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

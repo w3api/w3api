@@ -1,9 +1,9 @@
 ---
 title: StatementTree
-permalink: Java/StatementTree/
+permalink: /Java/StatementTree//
 date: 2021-01-11
-key: JavaJava.S.StatementTree
-category: java
+key: Java.S.StatementTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

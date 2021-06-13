@@ -1,9 +1,9 @@
 ---
 title: SplittableRandom.nextInt()
-permalink: Java/SplittableRandom/nextInt
+permalink: /Java/SplittableRandom/nextInt/
 date: 2021-01-11
-key: JavaJava.S.SplittableRandom
-category: java
+key: Java.S.SplittableRandom
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SequenceInputStream.close()
-permalink: Java/SequenceInputStream/close
+permalink: /Java/SequenceInputStream/close/
 date: 2021-01-11
-key: JavaJava.S.SequenceInputStream
-category: java
+key: Java.S.SequenceInputStream
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

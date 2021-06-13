@@ -1,9 +1,9 @@
 ---
 title: Statement.execute()
-permalink: Java/Statement-java-beans/execute
+permalink: /Java/Statement-java-beans/execute/
 date: 2021-01-11
-key: JavaJava.S.Statement-java-beans
-category: java
+key: Java.S.Statement-java-beans
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

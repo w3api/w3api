@@ -1,9 +1,9 @@
 ---
 title: Size2DSyntax.INCH
-permalink: Java/Size2DSyntax/INCH
+permalink: /Java/Size2DSyntax/INCH/
 date: 2021-01-11
-key: JavaJava.S.Size2DSyntax
-category: java
+key: Java.S.Size2DSyntax
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

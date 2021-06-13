@@ -1,9 +1,9 @@
 ---
 title: SepiaTone.setLevel()
-permalink: Java/SepiaTone/setLevel
+permalink: /Java/SepiaTone/setLevel/
 date: 2021-01-11
-key: JavaJava.S.SepiaTone
-category: java
+key: Java.S.SepiaTone
+category: Java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

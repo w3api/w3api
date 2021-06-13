@@ -1,9 +1,9 @@
 ---
 title: ShortLookupTable.ShortLookupTable()
-permalink: Java/ShortLookupTable/ShortLookupTable
+permalink: /Java/ShortLookupTable/ShortLookupTable/
 date: 2021-01-11
-key: JavaJava.S.ShortLookupTable
-category: java
+key: Java.S.ShortLookupTable
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

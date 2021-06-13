@@ -1,9 +1,9 @@
 ---
 title: SaslServer.getNegotiatedProperty()
-permalink: Java/SaslServer/getNegotiatedProperty
+permalink: /Java/SaslServer/getNegotiatedProperty/
 date: 2021-01-11
-key: JavaJava.S.SaslServer
-category: java
+key: Java.S.SaslServer
+category: Java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

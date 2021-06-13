@@ -1,9 +1,9 @@
 ---
 title: SimpleAttributeSet.getResolveParent()
-permalink: Java/SimpleAttributeSet/getResolveParent
+permalink: /Java/SimpleAttributeSet/getResolveParent/
 date: 2021-01-11
-key: JavaJava.S.SimpleAttributeSet
-category: java
+key: Java.S.SimpleAttributeSet
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

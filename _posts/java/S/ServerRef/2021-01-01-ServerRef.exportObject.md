@@ -1,9 +1,9 @@
 ---
 title: ServerRef.exportObject()
-permalink: Java/ServerRef/exportObject
+permalink: /Java/ServerRef/exportObject/
 date: 2021-01-11
-key: JavaJava.S.ServerRef
-category: java
+key: Java.S.ServerRef
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

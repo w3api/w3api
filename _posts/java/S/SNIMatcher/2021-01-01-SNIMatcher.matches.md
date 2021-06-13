@@ -1,9 +1,9 @@
 ---
 title: SNIMatcher.matches()
-permalink: Java/SNIMatcher/matches
+permalink: /Java/SNIMatcher/matches/
 date: 2021-01-11
-key: JavaJava.S.SNIMatcher
-category: java
+key: Java.S.SNIMatcher
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

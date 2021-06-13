@@ -1,9 +1,9 @@
 ---
 title: SYNC_WITH_TRANSPORT
-permalink: Java/SYNC_WITH_TRANSPORT
+permalink: /Java/SYNC_WITH_TRANSPORT/
 date: 2021-01-11
-key: JavaJava.S.SYNC_WITH_TRANSPORT
-category: java
+key: Java.S.SYNC_WITH_TRANSPORT
+category: Java
 tags: ['java se', 'org.omg.Messaging', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

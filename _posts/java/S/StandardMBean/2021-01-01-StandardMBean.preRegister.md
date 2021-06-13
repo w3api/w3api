@@ -1,9 +1,9 @@
 ---
 title: StandardMBean.preRegister()
-permalink: Java/StandardMBean/preRegister
+permalink: /Java/StandardMBean/preRegister/
 date: 2021-01-11
-key: JavaJava.S.StandardMBean
-category: java
+key: Java.S.StandardMBean
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

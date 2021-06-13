@@ -1,9 +1,9 @@
 ---
 title: ServantNotActive
-permalink: Java/ServantNotActive
+permalink: /Java/ServantNotActive/
 date: 2021-01-11
-key: JavaJava.S.ServantNotActive
-category: java
+key: Java.S.ServantNotActive
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

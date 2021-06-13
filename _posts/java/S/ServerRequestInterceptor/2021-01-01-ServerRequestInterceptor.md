@@ -1,9 +1,9 @@
 ---
 title: ServerRequestInterceptor
-permalink: Java/ServerRequestInterceptor
+permalink: /Java/ServerRequestInterceptor/
 date: 2021-01-11
-key: JavaJava.S.ServerRequestInterceptor
-category: java
+key: Java.S.ServerRequestInterceptor
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

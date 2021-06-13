@@ -1,9 +1,9 @@
 ---
 title: StAXSource.setSystemId()
-permalink: Java/StAXSource/setSystemId
+permalink: /Java/StAXSource/setSystemId/
 date: 2021-01-11
-key: JavaJava.S.StAXSource
-category: java
+key: Java.S.StAXSource
+category: Java
 tags: ['java se', 'javax.xml.transform.stax', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

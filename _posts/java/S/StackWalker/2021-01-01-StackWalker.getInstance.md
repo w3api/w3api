@@ -1,9 +1,9 @@
 ---
 title: StackWalker.getInstance()
-permalink: Java/StackWalker/getInstance
+permalink: /Java/StackWalker/getInstance/
 date: 2021-01-11
-key: JavaJava.S.StackWalker
-category: java
+key: Java.S.StackWalker
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

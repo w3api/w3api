@@ -1,9 +1,9 @@
 ---
 title: SplitPane.Divider.getPosition()
-permalink: Java/SplitPane/Divider/getPosition
+permalink: /Java/SplitPane/Divider/getPosition/
 date: 2021-01-11
-key: JavaJava.S.SplitPane.Divider
-category: java
+key: Java.S.SplitPane.Divider
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

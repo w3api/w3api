@@ -1,9 +1,9 @@
 ---
 title: SpringLayout.SpringLayout()
-permalink: Java/SpringLayout/SpringLayout
+permalink: /Java/SpringLayout/SpringLayout/
 date: 2021-01-11
-key: JavaJava.S.SpringLayout
-category: java
+key: Java.S.SpringLayout
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

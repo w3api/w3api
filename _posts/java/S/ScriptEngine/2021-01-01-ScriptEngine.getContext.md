@@ -1,9 +1,9 @@
 ---
 title: ScriptEngine.getContext()
-permalink: Java/ScriptEngine/getContext
+permalink: /Java/ScriptEngine/getContext/
 date: 2021-01-11
-key: JavaJava.S.ScriptEngine
-category: java
+key: Java.S.ScriptEngine
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

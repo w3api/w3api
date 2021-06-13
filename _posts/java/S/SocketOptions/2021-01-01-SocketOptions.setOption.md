@@ -1,9 +1,9 @@
 ---
 title: SocketOptions.setOption()
-permalink: Java/SocketOptions/setOption
+permalink: /Java/SocketOptions/setOption/
 date: 2021-01-11
-key: JavaJava.S.SocketOptions
-category: java
+key: Java.S.SocketOptions
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

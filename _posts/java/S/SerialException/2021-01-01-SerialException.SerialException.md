@@ -1,9 +1,9 @@
 ---
 title: SerialException.SerialException()
-permalink: Java/SerialException/SerialException
+permalink: /Java/SerialException/SerialException/
 date: 2021-01-11
-key: JavaJava.S.SerialException
-category: java
+key: Java.S.SerialException
+category: Java
 tags: ['java se', 'javax.sql.rowset.serial', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

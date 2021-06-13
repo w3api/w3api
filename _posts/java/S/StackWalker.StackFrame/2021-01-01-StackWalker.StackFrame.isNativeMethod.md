@@ -1,9 +1,9 @@
 ---
 title: StackWalker.StackFrame.isNativeMethod()
-permalink: Java/StackWalker/StackFrame/isNativeMethod
+permalink: /Java/StackWalker/StackFrame/isNativeMethod/
 date: 2021-01-11
-key: JavaJava.S.StackWalker.StackFrame
-category: java
+key: Java.S.StackWalker.StackFrame
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

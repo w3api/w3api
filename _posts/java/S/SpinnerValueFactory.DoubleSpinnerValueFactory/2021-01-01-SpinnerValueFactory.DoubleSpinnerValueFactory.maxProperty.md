@@ -1,9 +1,9 @@
 ---
 title: SpinnerValueFactory.DoubleSpinnerValueFactory.maxProperty()
-permalink: Java/SpinnerValueFactory/DoubleSpinnerValueFactory/maxProperty
+permalink: /Java/SpinnerValueFactory/DoubleSpinnerValueFactory/maxProperty/
 date: 2021-01-11
-key: JavaJava.S.SpinnerValueFactory.DoubleSpinnerValueFactory
-category: java
+key: Java.S.SpinnerValueFactory.DoubleSpinnerValueFactory
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

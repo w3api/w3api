@@ -1,9 +1,9 @@
 ---
 title: ScriptContext.getAttributesScope()
-permalink: Java/ScriptContext/getAttributesScope
+permalink: /Java/ScriptContext/getAttributesScope/
 date: 2021-01-11
-key: JavaJava.S.ScriptContext
-category: java
+key: Java.S.ScriptContext
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StandardOperation.values()
-permalink: Java/StandardOperation/values
+permalink: /Java/StandardOperation/values/
 date: 2021-01-11
-key: JavaJava.S.StandardOperation
-category: java
+key: Java.S.StandardOperation
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

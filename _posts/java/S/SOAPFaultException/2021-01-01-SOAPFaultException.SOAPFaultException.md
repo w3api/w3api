@@ -1,9 +1,9 @@
 ---
 title: SOAPFaultException.SOAPFaultException()
-permalink: Java/SOAPFaultException/SOAPFaultException
+permalink: /Java/SOAPFaultException/SOAPFaultException/
 date: 2021-01-11
-key: JavaJava.S.SOAPFaultException
-category: java
+key: Java.S.SOAPFaultException
+category: Java
 tags: ['java se', 'javax.xml.ws.soap', 'java.xml.ws', 'metodo java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

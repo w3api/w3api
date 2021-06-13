@@ -1,9 +1,9 @@
 ---
 title: StringMonitorMBean.setStringToCompare()
-permalink: Java/StringMonitorMBean/setStringToCompare
+permalink: /Java/StringMonitorMBean/setStringToCompare/
 date: 2021-01-11
-key: JavaJava.S.StringMonitorMBean
-category: java
+key: Java.S.StringMonitorMBean
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

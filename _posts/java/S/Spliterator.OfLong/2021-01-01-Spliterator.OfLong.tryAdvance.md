@@ -1,9 +1,9 @@
 ---
 title: Spliterator.OfLong.tryAdvance()
-permalink: Java/Spliterator/OfLong/tryAdvance
+permalink: /Java/Spliterator/OfLong/tryAdvance/
 date: 2021-01-11
-key: JavaJava.S.Spliterator.OfLong
-category: java
+key: Java.S.Spliterator.OfLong
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

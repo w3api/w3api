@@ -1,9 +1,9 @@
 ---
 title: SecretKey.serialVersionUID
-permalink: Java/SecretKey/serialVersionUID
+permalink: /Java/SecretKey/serialVersionUID/
 date: 2021-01-11
-key: JavaJava.S.SecretKey
-category: java
+key: Java.S.SecretKey
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SOAPFactory.createName()
-permalink: Java/SOAPFactory/createName
+permalink: /Java/SOAPFactory/createName/
 date: 2021-01-11
-key: JavaJava.S.SOAPFactory
-category: java
+key: Java.S.SOAPFactory
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

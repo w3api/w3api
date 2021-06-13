@@ -1,9 +1,9 @@
 ---
 title: SizeUnits.points()
-permalink: Java/SizeUnits/points
+permalink: /Java/SizeUnits/points/
 date: 2021-01-11
-key: JavaJava.S.SizeUnits
-category: java
+key: Java.S.SizeUnits
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

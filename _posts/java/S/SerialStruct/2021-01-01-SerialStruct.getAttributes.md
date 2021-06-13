@@ -1,9 +1,9 @@
 ---
 title: SerialStruct.getAttributes()
-permalink: Java/SerialStruct/getAttributes
+permalink: /Java/SerialStruct/getAttributes/
 date: 2021-01-11
-key: JavaJava.S.SerialStruct
-category: java
+key: Java.S.SerialStruct
+category: Java
 tags: ['java se', 'javax.sql.rowset.serial', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

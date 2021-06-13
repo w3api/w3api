@@ -1,9 +1,9 @@
 ---
 title: SimpleTimeZone.WALL_TIME
-permalink: Java/SimpleTimeZone/WALL_TIME
+permalink: /Java/SimpleTimeZone/WALL_TIME/
 date: 2021-01-11
-key: JavaJava.S.SimpleTimeZone
-category: java
+key: Java.S.SimpleTimeZone
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StartTlsResponse
-permalink: Java/StartTlsResponse
+permalink: /Java/StartTlsResponse/
 date: 2021-01-11
-key: JavaJava.S.StartTlsResponse
-category: java
+key: Java.S.StartTlsResponse
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

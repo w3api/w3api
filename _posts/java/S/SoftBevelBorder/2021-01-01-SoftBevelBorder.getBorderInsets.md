@@ -1,9 +1,9 @@
 ---
 title: SoftBevelBorder.getBorderInsets()
-permalink: Java/SoftBevelBorder/getBorderInsets
+permalink: /Java/SoftBevelBorder/getBorderInsets/
 date: 2021-01-11
-key: JavaJava.S.SoftBevelBorder
-category: java
+key: Java.S.SoftBevelBorder
+category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

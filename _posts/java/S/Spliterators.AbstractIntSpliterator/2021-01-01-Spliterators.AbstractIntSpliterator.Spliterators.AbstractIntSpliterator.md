@@ -1,9 +1,9 @@
 ---
 title: Spliterators.AbstractIntSpliterator.Spliterators.AbstractIntSpliterator()
-permalink: Java/Spliterators/AbstractIntSpliterator/Spliterators/AbstractIntSpliterator
+permalink: /Java/Spliterators/AbstractIntSpliterator/Spliterators/AbstractIntSpliterator/
 date: 2021-01-11
-key: JavaJava.S.Spliterators.AbstractIntSpliterator
-category: java
+key: Java.S.Spliterators.AbstractIntSpliterator
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

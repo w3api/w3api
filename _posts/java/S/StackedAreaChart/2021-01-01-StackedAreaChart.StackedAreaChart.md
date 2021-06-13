@@ -1,9 +1,9 @@
 ---
 title: StackedAreaChart.StackedAreaChart()
-permalink: Java/StackedAreaChart/StackedAreaChart
+permalink: /Java/StackedAreaChart/StackedAreaChart/
 date: 2021-01-11
-key: JavaJava.S.StackedAreaChart
-category: java
+key: Java.S.StackedAreaChart
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

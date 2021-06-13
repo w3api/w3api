@@ -1,9 +1,9 @@
 ---
 title: StandardOpenOption.valueOf()
-permalink: Java/StandardOpenOption/valueOf
+permalink: /Java/StandardOpenOption/valueOf/
 date: 2021-01-11
-key: JavaJava.S.StandardOpenOption
-category: java
+key: Java.S.StandardOpenOption
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

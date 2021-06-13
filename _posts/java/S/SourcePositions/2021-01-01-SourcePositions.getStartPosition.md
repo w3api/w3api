@@ -1,9 +1,9 @@
 ---
 title: SourcePositions.getStartPosition()
-permalink: Java/SourcePositions/getStartPosition
+permalink: /Java/SourcePositions/getStartPosition/
 date: 2021-01-11
-key: JavaJava.S.SourcePositions
-category: java
+key: Java.S.SourcePositions
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

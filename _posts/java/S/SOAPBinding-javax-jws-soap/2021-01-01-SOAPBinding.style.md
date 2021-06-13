@@ -1,9 +1,9 @@
 ---
 title: SOAPBinding.style
-permalink: Java/SOAPBinding-javax-jws-soap/style
+permalink: /Java/SOAPBinding-javax-jws-soap/style/
 date: 2021-01-11
-key: JavaJava.S.SOAPBinding-javax-jws-soap
-category: java
+key: Java.S.SOAPBinding-javax-jws-soap
+category: Java
 tags: ['java se', 'javax.jws.soap', 'java.xml.ws', 'elemento java', 'Java 1.6']
 sidebar: 
   nav: java

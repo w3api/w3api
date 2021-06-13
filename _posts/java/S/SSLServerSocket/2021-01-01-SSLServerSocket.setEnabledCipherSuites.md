@@ -1,9 +1,9 @@
 ---
 title: SSLServerSocket.setEnabledCipherSuites()
-permalink: Java/SSLServerSocket/setEnabledCipherSuites
+permalink: /Java/SSLServerSocket/setEnabledCipherSuites/
 date: 2021-01-11
-key: JavaJava.S.SSLServerSocket
-category: java
+key: Java.S.SSLServerSocket
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

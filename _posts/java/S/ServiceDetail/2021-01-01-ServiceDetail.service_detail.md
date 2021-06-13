@@ -1,9 +1,9 @@
 ---
 title: ServiceDetail.service_detail
-permalink: Java/ServiceDetail/service_detail
+permalink: /Java/ServiceDetail/service_detail/
 date: 2021-01-11
-key: JavaJava.S.ServiceDetail
-category: java
+key: Java.S.ServiceDetail
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SaslServerFactory
-permalink: Java/SaslServerFactory
+permalink: /Java/SaslServerFactory/
 date: 2021-01-11
-key: JavaJava.S.SaslServerFactory
-category: java
+key: Java.S.SaslServerFactory
+category: Java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

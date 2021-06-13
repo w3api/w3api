@@ -1,9 +1,9 @@
 ---
 title: SQLTransactionRollbackException
-permalink: Java/SQLTransactionRollbackException
+permalink: /Java/SQLTransactionRollbackException/
 date: 2021-01-11
-key: JavaJava.S.SQLTransactionRollbackException
-category: java
+key: Java.S.SQLTransactionRollbackException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

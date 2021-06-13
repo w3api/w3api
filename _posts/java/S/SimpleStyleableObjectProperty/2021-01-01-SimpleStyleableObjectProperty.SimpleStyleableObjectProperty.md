@@ -1,9 +1,9 @@
 ---
 title: SimpleStyleableObjectProperty.SimpleStyleableObjectProperty()
-permalink: Java/SimpleStyleableObjectProperty/SimpleStyleableObjectProperty
+permalink: /Java/SimpleStyleableObjectProperty/SimpleStyleableObjectProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleStyleableObjectProperty
-category: java
+key: Java.S.SimpleStyleableObjectProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

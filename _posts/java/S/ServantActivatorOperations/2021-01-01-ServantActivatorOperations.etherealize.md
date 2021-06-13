@@ -1,9 +1,9 @@
 ---
 title: ServantActivatorOperations.etherealize()
-permalink: Java/ServantActivatorOperations/etherealize
+permalink: /Java/ServantActivatorOperations/etherealize/
 date: 2021-01-11
-key: JavaJava.S.ServantActivatorOperations
-category: java
+key: Java.S.ServantActivatorOperations
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

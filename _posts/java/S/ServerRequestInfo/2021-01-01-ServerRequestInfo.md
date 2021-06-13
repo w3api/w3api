@@ -1,9 +1,9 @@
 ---
 title: ServerRequestInfo
-permalink: Java/ServerRequestInfo
+permalink: /Java/ServerRequestInfo/
 date: 2021-01-11
-key: JavaJava.S.ServerRequestInfo
-category: java
+key: Java.S.ServerRequestInfo
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

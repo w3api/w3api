@@ -1,9 +1,9 @@
 ---
 title: SingleInstanceService
-permalink: Java/SingleInstanceService/
+permalink: /Java/SingleInstanceService//
 date: 2021-01-11
-key: JavaJava.S.SingleInstanceService
-category: java
+key: Java.S.SingleInstanceService
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

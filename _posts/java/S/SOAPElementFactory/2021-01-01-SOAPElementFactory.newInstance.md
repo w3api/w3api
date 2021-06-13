@@ -1,9 +1,9 @@
 ---
 title: SOAPElementFactory.newInstance()
-permalink: Java/SOAPElementFactory/newInstance
+permalink: /Java/SOAPElementFactory/newInstance/
 date: 2021-01-11
-key: JavaJava.S.SOAPElementFactory
-category: java
+key: Java.S.SOAPElementFactory
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ScrollBar.getControlCssMetaData()
-permalink: Java/ScrollBar-javafx-scene-control/getControlCssMetaData
+permalink: /Java/ScrollBar-javafx-scene-control/getControlCssMetaData/
 date: 2021-01-11
-key: JavaJava.S.ScrollBar-javafx-scene-control
-category: java
+key: Java.S.ScrollBar-javafx-scene-control
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

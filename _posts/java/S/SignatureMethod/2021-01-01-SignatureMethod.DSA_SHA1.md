@@ -1,9 +1,9 @@
 ---
 title: SignatureMethod.DSA_SHA1
-permalink: Java/SignatureMethod/DSA_SHA1
+permalink: /Java/SignatureMethod/DSA_SHA1/
 date: 2021-01-11
-key: JavaJava.S.SignatureMethod
-category: java
+key: Java.S.SignatureMethod
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

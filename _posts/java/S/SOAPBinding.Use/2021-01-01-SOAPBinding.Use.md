@@ -1,9 +1,9 @@
 ---
 title: SOAPBinding.Use
-permalink: Java/SOAPBinding/Use
+permalink: /Java/SOAPBinding/Use/
 date: 2021-01-11
-key: JavaJava.S.SOAPBinding.Use
-category: java
+key: Java.S.SOAPBinding.Use
+category: Java
 tags: ['java se', 'javax.jws.soap', 'java.xml.ws', 'enumerado java', 'Java 1.0']
 sidebar: 
   nav: java

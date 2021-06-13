@@ -1,9 +1,9 @@
 ---
 title: ScrollPaneConstants.HORIZONTAL_SCROLLBAR_ALWAYS
-permalink: Java/ScrollPaneConstants/HORIZONTAL_SCROLLBAR_ALWAYS
+permalink: /Java/ScrollPaneConstants/HORIZONTAL_SCROLLBAR_ALWAYS/
 date: 2021-01-11
-key: JavaJava.S.ScrollPaneConstants
-category: java
+key: Java.S.ScrollPaneConstants
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

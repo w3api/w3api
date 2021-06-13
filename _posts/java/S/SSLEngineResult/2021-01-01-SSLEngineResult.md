@@ -1,9 +1,9 @@
 ---
 title: SSLEngineResult
-permalink: Java/SSLEngineResult
+permalink: /Java/SSLEngineResult/
 date: 2021-01-11
-key: JavaJava.S.SSLEngineResult
-category: java
+key: Java.S.SSLEngineResult
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

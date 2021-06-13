@@ -1,9 +1,9 @@
 ---
 title: StreamSource.getInputStream()
-permalink: Java/StreamSource/getInputStream
+permalink: /Java/StreamSource/getInputStream/
 date: 2021-01-11
-key: JavaJava.S.StreamSource
-category: java
+key: Java.S.StreamSource
+category: Java
 tags: ['java se', 'javax.xml.transform.stream', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

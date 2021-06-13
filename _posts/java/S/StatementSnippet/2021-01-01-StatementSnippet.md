@@ -1,9 +1,9 @@
 ---
 title: StatementSnippet
-permalink: Java/StatementSnippet
+permalink: /Java/StatementSnippet/
 date: 2021-01-11
-key: JavaJava.S.StatementSnippet
-category: java
+key: Java.S.StatementSnippet
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

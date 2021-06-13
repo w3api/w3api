@@ -1,9 +1,9 @@
 ---
 title: SPIResolutionException.SPIResolutionException()
-permalink: Java/SPIResolutionException/SPIResolutionException
+permalink: /Java/SPIResolutionException/SPIResolutionException/
 date: 2021-01-11
-key: JavaJava.S.SPIResolutionException
-category: java
+key: Java.S.SPIResolutionException
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

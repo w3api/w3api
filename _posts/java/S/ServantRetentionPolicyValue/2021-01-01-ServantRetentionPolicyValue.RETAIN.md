@@ -1,9 +1,9 @@
 ---
 title: ServantRetentionPolicyValue.RETAIN
-permalink: Java/ServantRetentionPolicyValue/RETAIN
+permalink: /Java/ServantRetentionPolicyValue/RETAIN/
 date: 2021-01-11
-key: JavaJava.S.ServantRetentionPolicyValue
-category: java
+key: Java.S.ServantRetentionPolicyValue
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

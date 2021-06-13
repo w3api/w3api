@@ -1,9 +1,9 @@
 ---
 title: SortOrder.DESCENDING
-permalink: Java/SortOrder/DESCENDING
+permalink: /Java/SortOrder/DESCENDING/
 date: 2021-01-11
-key: JavaJava.S.SortOrder
-category: java
+key: Java.S.SortOrder
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

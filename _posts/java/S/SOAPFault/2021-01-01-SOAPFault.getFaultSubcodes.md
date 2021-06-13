@@ -1,9 +1,9 @@
 ---
 title: SOAPFault.getFaultSubcodes()
-permalink: Java/SOAPFault/getFaultSubcodes
+permalink: /Java/SOAPFault/getFaultSubcodes/
 date: 2021-01-11
-key: JavaJava.S.SOAPFault
-category: java
+key: Java.S.SOAPFault
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

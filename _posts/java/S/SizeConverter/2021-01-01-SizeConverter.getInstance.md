@@ -1,9 +1,9 @@
 ---
 title: SizeConverter.getInstance()
-permalink: Java/SizeConverter/getInstance
+permalink: /Java/SizeConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.S.SizeConverter
-category: java
+key: Java.S.SizeConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

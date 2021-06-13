@@ -1,9 +1,9 @@
 ---
 title: ScriptEngine.ARGV
-permalink: Java/ScriptEngine/ARGV
+permalink: /Java/ScriptEngine/ARGV/
 date: 2021-01-11
-key: JavaJava.S.ScriptEngine
-category: java
+key: Java.S.ScriptEngine
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

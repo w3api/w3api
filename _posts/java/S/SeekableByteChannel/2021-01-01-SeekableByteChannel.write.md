@@ -1,9 +1,9 @@
 ---
 title: SeekableByteChannel.write()
-permalink: Java/SeekableByteChannel/write
+permalink: /Java/SeekableByteChannel/write/
 date: 2021-01-11
-key: JavaJava.S.SeekableByteChannel
-category: java
+key: Java.S.SeekableByteChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

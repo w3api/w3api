@@ -1,9 +1,9 @@
 ---
 title: SimpleTreeVisitor.visitAnnotation()
-permalink: Java/SimpleTreeVisitor/visitAnnotation
+permalink: /Java/SimpleTreeVisitor/visitAnnotation/
 date: 2021-01-11
-key: JavaJava.S.SimpleTreeVisitor
-category: java
+key: Java.S.SimpleTreeVisitor
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

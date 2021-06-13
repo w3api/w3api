@@ -1,9 +1,9 @@
 ---
 title: SocketFactory.SocketFactory()
-permalink: Java/SocketFactory/SocketFactory
+permalink: /Java/SocketFactory/SocketFactory/
 date: 2021-01-11
-key: JavaJava.S.SocketFactory
-category: java
+key: Java.S.SocketFactory
+category: Java
 tags: ['java se', 'javax.net', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StreamResult.getSystemId()
-permalink: Java/StreamResult/getSystemId
+permalink: /Java/StreamResult/getSystemId/
 date: 2021-01-11
-key: JavaJava.S.StreamResult
-category: java
+key: Java.S.StreamResult
+category: Java
 tags: ['java se', 'javax.xml.transform.stream', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

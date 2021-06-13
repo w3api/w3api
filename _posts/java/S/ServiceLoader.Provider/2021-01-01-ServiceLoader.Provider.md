@@ -1,9 +1,9 @@
 ---
 title: ServiceLoader.Provider
-permalink: Java/ServiceLoader/Provider
+permalink: /Java/ServiceLoader/Provider/
 date: 2021-01-11
-key: JavaJava.S.ServiceLoader.Provider
-category: java
+key: Java.S.ServiceLoader.Provider
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 9']
 sidebar: 
   nav: java

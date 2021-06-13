@@ -1,9 +1,9 @@
 ---
 title: SpinnerValueFactory.increment()
-permalink: Java/SpinnerValueFactory/increment
+permalink: /Java/SpinnerValueFactory/increment/
 date: 2021-01-11
-key: JavaJava.S.SpinnerValueFactory
-category: java
+key: Java.S.SpinnerValueFactory
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

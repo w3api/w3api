@@ -1,9 +1,9 @@
 ---
 title: ServiceUIFactory
-permalink: Java/ServiceUIFactory
+permalink: /Java/ServiceUIFactory/
 date: 2021-01-11
-key: JavaJava.S.ServiceUIFactory
-category: java
+key: Java.S.ServiceUIFactory
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

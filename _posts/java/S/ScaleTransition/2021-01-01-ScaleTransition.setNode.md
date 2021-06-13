@@ -1,9 +1,9 @@
 ---
 title: ScaleTransition.setNode()
-permalink: Java/ScaleTransition/setNode
+permalink: /Java/ScaleTransition/setNode/
 date: 2021-01-11
-key: JavaJava.S.ScaleTransition
-category: java
+key: Java.S.ScaleTransition
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

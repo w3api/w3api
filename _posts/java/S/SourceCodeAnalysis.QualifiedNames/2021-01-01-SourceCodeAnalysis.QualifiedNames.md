@@ -1,9 +1,9 @@
 ---
 title: SourceCodeAnalysis.QualifiedNames
-permalink: Java/SourceCodeAnalysis/QualifiedNames
+permalink: /Java/SourceCodeAnalysis/QualifiedNames/
 date: 2021-01-11
-key: JavaJava.S.SourceCodeAnalysis.QualifiedNames
-category: java
+key: Java.S.SourceCodeAnalysis.QualifiedNames
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

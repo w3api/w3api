@@ -1,9 +1,9 @@
 ---
 title: SerialFieldTag.fieldTypeDoc()
-permalink: Java/SerialFieldTag/fieldTypeDoc
+permalink: /Java/SerialFieldTag/fieldTypeDoc/
 date: 2021-01-11
-key: JavaJava.S.SerialFieldTag
-category: java
+key: Java.S.SerialFieldTag
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

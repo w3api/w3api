@@ -1,9 +1,9 @@
 ---
 title: Spliterators.AbstractSpliterator.characteristics()
-permalink: Java/Spliterators/AbstractSpliterator/characteristics
+permalink: /Java/Spliterators/AbstractSpliterator/characteristics/
 date: 2021-01-11
-key: JavaJava.S.Spliterators.AbstractSpliterator
-category: java
+key: Java.S.Spliterators.AbstractSpliterator
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

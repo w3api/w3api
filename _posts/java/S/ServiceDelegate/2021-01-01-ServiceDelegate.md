@@ -1,9 +1,9 @@
 ---
 title: ServiceDelegate
-permalink: Java/ServiceDelegate
+permalink: /Java/ServiceDelegate/
 date: 2021-01-11
-key: JavaJava.S.ServiceDelegate
-category: java
+key: Java.S.ServiceDelegate
+category: Java
 tags: ['java se', 'javax.xml.ws.spi', 'java.xml.ws', 'clase java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

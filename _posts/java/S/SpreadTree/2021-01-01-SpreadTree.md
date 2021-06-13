@@ -1,9 +1,9 @@
 ---
 title: SpreadTree
-permalink: Java/SpreadTree
+permalink: /Java/SpreadTree/
 date: 2021-01-11
-key: JavaJava.S.SpreadTree
-category: java
+key: Java.S.SpreadTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SQLWarning
-permalink: Java/SQLWarning
+permalink: /Java/SQLWarning/
 date: 2021-01-11
-key: JavaJava.S.SQLWarning
-category: java
+key: Java.S.SQLWarning
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

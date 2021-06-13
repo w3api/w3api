@@ -1,9 +1,9 @@
 ---
 title: StackWalker
-permalink: Java/StackWalker
+permalink: /Java/StackWalker/
 date: 2021-01-11
-key: JavaJava.S.StackWalker
-category: java
+key: Java.S.StackWalker
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 9']
 sidebar: 
   nav: java

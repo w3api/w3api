@@ -1,9 +1,9 @@
 ---
 title: SSLContextSpi.engineInit()
-permalink: Java/SSLContextSpi/engineInit
+permalink: /Java/SSLContextSpi/engineInit/
 date: 2021-01-11
-key: JavaJava.S.SSLContextSpi
-category: java
+key: Java.S.SSLContextSpi
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

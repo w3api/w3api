@@ -1,9 +1,9 @@
 ---
 title: SslRMIServerSocketFactory
-permalink: Java/SslRMIServerSocketFactory
+permalink: /Java/SslRMIServerSocketFactory/
 date: 2021-01-11
-key: JavaJava.S.SslRMIServerSocketFactory
-category: java
+key: Java.S.SslRMIServerSocketFactory
+category: Java
 tags: ['java se', 'javax.rmi.ssl', 'java.rmi', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

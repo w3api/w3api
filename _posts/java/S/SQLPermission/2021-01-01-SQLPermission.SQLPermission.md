@@ -1,9 +1,9 @@
 ---
 title: SQLPermission.SQLPermission()
-permalink: Java/SQLPermission/SQLPermission
+permalink: /Java/SQLPermission/SQLPermission/
 date: 2021-01-11
-key: JavaJava.S.SQLPermission
-category: java
+key: Java.S.SQLPermission
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

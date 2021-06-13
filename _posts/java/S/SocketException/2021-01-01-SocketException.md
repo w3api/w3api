@@ -1,9 +1,9 @@
 ---
 title: SocketException
-permalink: Java/SocketException
+permalink: /Java/SocketException/
 date: 2021-01-11
-key: JavaJava.S.SocketException
-category: java
+key: Java.S.SocketException
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

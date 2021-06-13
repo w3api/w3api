@@ -1,9 +1,9 @@
 ---
 title: StringPropertyBase.fireValueChangedEvent()
-permalink: Java/StringPropertyBase/fireValueChangedEvent
+permalink: /Java/StringPropertyBase/fireValueChangedEvent/
 date: 2021-01-11
-key: JavaJava.S.StringPropertyBase
-category: java
+key: Java.S.StringPropertyBase
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

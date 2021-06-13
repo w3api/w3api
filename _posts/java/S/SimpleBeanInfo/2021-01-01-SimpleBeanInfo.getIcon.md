@@ -1,9 +1,9 @@
 ---
 title: SimpleBeanInfo.getIcon()
-permalink: Java/SimpleBeanInfo/getIcon
+permalink: /Java/SimpleBeanInfo/getIcon/
 date: 2021-01-11
-key: JavaJava.S.SimpleBeanInfo
-category: java
+key: Java.S.SimpleBeanInfo
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SampleModel.setPixel()
-permalink: Java/SampleModel/setPixel
+permalink: /Java/SampleModel/setPixel/
 date: 2021-01-11
-key: JavaJava.S.SampleModel
-category: java
+key: Java.S.SampleModel
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

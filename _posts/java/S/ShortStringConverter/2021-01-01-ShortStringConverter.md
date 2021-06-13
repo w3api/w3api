@@ -1,9 +1,9 @@
 ---
 title: ShortStringConverter
-permalink: Java/ShortStringConverter
+permalink: /Java/ShortStringConverter/
 date: 2021-01-11
-key: JavaJava.S.ShortStringConverter
-category: java
+key: Java.S.ShortStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

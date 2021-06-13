@@ -1,9 +1,9 @@
 ---
 title: SoundbankReader.SoundbankReader()
-permalink: Java/SoundbankReader/SoundbankReader
+permalink: /Java/SoundbankReader/SoundbankReader/
 date: 2021-01-11
-key: JavaJava.S.SoundbankReader
-category: java
+key: Java.S.SoundbankReader
+category: Java
 tags: ['java se', 'javax.sound.midi.spi', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

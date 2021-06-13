@@ -1,9 +1,9 @@
 ---
 title: StartTlsRequest.OID
-permalink: Java/StartTlsRequest/OID
+permalink: /Java/StartTlsRequest/OID/
 date: 2021-01-11
-key: JavaJava.S.StartTlsRequest
-category: java
+key: Java.S.StartTlsRequest
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

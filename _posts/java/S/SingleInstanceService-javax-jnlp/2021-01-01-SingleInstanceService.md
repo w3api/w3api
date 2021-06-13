@@ -1,9 +1,9 @@
 ---
 title: SingleInstanceService
-permalink: Java/SingleInstanceService-javax-jnlp
+permalink: /Java/SingleInstanceService-javax-jnlp/
 date: 2021-01-11
-key: JavaJava.S.SingleInstanceService-javax-jnlp
-category: java
+key: Java.S.SingleInstanceService-javax-jnlp
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

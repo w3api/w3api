@@ -1,9 +1,9 @@
 ---
 title: SourcePosition
-permalink: Java/SourcePosition
+permalink: /Java/SourcePosition/
 date: 2021-01-11
-key: JavaJava.S.SourcePosition
-category: java
+key: Java.S.SourcePosition
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

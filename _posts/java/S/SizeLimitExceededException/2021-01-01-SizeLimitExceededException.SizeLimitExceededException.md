@@ -1,9 +1,9 @@
 ---
 title: SizeLimitExceededException.SizeLimitExceededException()
-permalink: Java/SizeLimitExceededException/SizeLimitExceededException
+permalink: /Java/SizeLimitExceededException/SizeLimitExceededException/
 date: 2021-01-11
-key: JavaJava.S.SizeLimitExceededException
-category: java
+key: Java.S.SizeLimitExceededException
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

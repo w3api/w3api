@@ -1,9 +1,9 @@
 ---
 title: SignatureProperties.getProperties()
-permalink: Java/SignatureProperties/getProperties
+permalink: /Java/SignatureProperties/getProperties/
 date: 2021-01-11
-key: JavaJava.S.SignatureProperties
-category: java
+key: Java.S.SignatureProperties
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

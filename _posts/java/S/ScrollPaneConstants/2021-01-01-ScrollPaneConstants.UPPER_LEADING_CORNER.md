@@ -1,9 +1,9 @@
 ---
 title: ScrollPaneConstants.UPPER_LEADING_CORNER
-permalink: Java/ScrollPaneConstants/UPPER_LEADING_CORNER
+permalink: /Java/ScrollPaneConstants/UPPER_LEADING_CORNER/
 date: 2021-01-11
-key: JavaJava.S.ScrollPaneConstants
-category: java
+key: Java.S.ScrollPaneConstants
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

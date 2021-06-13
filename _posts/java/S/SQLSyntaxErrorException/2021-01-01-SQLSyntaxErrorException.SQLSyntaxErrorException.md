@@ -1,9 +1,9 @@
 ---
 title: SQLSyntaxErrorException.SQLSyntaxErrorException()
-permalink: Java/SQLSyntaxErrorException/SQLSyntaxErrorException
+permalink: /Java/SQLSyntaxErrorException/SQLSyntaxErrorException/
 date: 2021-01-11
-key: JavaJava.S.SQLSyntaxErrorException
-category: java
+key: Java.S.SQLSyntaxErrorException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

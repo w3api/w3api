@@ -1,9 +1,9 @@
 ---
 title: SimpleStringProperty.SimpleStringProperty()
-permalink: Java/SimpleStringProperty/SimpleStringProperty
+permalink: /Java/SimpleStringProperty/SimpleStringProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleStringProperty
-category: java
+key: Java.S.SimpleStringProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

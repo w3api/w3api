@@ -1,9 +1,9 @@
 ---
 title: SourceLocator.getColumnNumber()
-permalink: Java/SourceLocator/getColumnNumber
+permalink: /Java/SourceLocator/getColumnNumber/
 date: 2021-01-11
-key: JavaJava.S.SourceLocator
-category: java
+key: Java.S.SourceLocator
+category: Java
 tags: ['java se', 'javax.xml.transform', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StateEdit.StateEdit()
-permalink: Java/StateEdit/StateEdit
+permalink: /Java/StateEdit/StateEdit/
 date: 2021-01-11
-key: JavaJava.S.StateEdit
-category: java
+key: Java.S.StateEdit
+category: Java
 tags: ['java se', 'javax.swing.undo', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SpinnerDateModel
-permalink: Java/SpinnerDateModel
+permalink: /Java/SpinnerDateModel/
 date: 2021-01-11
-key: JavaJava.S.SpinnerDateModel
-category: java
+key: Java.S.SpinnerDateModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

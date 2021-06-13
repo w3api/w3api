@@ -1,9 +1,9 @@
 ---
 title: StringConverter
-permalink: Java/StringConverter/
+permalink: /Java/StringConverter//
 date: 2021-01-11
-key: JavaJava.S.StringConverter
-category: java
+key: Java.S.StringConverter
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

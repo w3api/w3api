@@ -1,9 +1,9 @@
 ---
 title: SecureRandomParameters
-permalink: Java/SecureRandomParameters
+permalink: /Java/SecureRandomParameters/
 date: 2021-01-11
-key: JavaJava.S.SecureRandomParameters
-category: java
+key: Java.S.SecureRandomParameters
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'interface java', 'Java 9']
 sidebar: 
   nav: java

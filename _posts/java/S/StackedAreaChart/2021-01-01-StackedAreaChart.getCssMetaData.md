@@ -1,9 +1,9 @@
 ---
 title: StackedAreaChart.getCssMetaData()
-permalink: Java/StackedAreaChart/getCssMetaData
+permalink: /Java/StackedAreaChart/getCssMetaData/
 date: 2021-01-11
-key: JavaJava.S.StackedAreaChart
-category: java
+key: Java.S.StackedAreaChart
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

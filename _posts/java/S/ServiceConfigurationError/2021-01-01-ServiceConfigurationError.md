@@ -1,9 +1,9 @@
 ---
 title: ServiceConfigurationError
-permalink: Java/ServiceConfigurationError
+permalink: /Java/ServiceConfigurationError/
 date: 2021-01-11
-key: JavaJava.S.ServiceConfigurationError
-category: java
+key: Java.S.ServiceConfigurationError
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

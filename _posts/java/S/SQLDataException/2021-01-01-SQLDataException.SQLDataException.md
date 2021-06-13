@@ -1,9 +1,9 @@
 ---
 title: SQLDataException.SQLDataException()
-permalink: Java/SQLDataException/SQLDataException
+permalink: /Java/SQLDataException/SQLDataException/
 date: 2021-01-11
-key: JavaJava.S.SQLDataException
-category: java
+key: Java.S.SQLDataException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

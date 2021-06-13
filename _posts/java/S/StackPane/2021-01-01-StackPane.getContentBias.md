@@ -1,9 +1,9 @@
 ---
 title: StackPane.getContentBias()
-permalink: Java/StackPane/getContentBias
+permalink: /Java/StackPane/getContentBias/
 date: 2021-01-11
-key: JavaJava.S.StackPane
-category: java
+key: Java.S.StackPane
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

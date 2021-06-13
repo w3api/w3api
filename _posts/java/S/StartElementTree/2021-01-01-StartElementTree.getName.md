@@ -1,9 +1,9 @@
 ---
 title: StartElementTree.getName()
-permalink: Java/StartElementTree/getName
+permalink: /Java/StartElementTree/getName/
 date: 2021-01-11
-key: JavaJava.S.StartElementTree
-category: java
+key: Java.S.StartElementTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

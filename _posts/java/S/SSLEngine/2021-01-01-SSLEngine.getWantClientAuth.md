@@ -1,9 +1,9 @@
 ---
 title: SSLEngine.getWantClientAuth()
-permalink: Java/SSLEngine/getWantClientAuth
+permalink: /Java/SSLEngine/getWantClientAuth/
 date: 2021-01-11
-key: JavaJava.S.SSLEngine
-category: java
+key: Java.S.SSLEngine
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

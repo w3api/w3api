@@ -1,9 +1,9 @@
 ---
 title: Statement.getQueryTimeout()
-permalink: Java/Statement-java-sql/getQueryTimeout
+permalink: /Java/Statement-java-sql/getQueryTimeout/
 date: 2021-01-11
-key: JavaJava.S.Statement-java-sql
-category: java
+key: Java.S.Statement-java-sql
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

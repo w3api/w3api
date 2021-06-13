@@ -1,9 +1,9 @@
 ---
 title: SctpSocketOption
-permalink: Java/SctpSocketOption
+permalink: /Java/SctpSocketOption/
 date: 2021-01-11
-key: JavaJava.S.SctpSocketOption
-category: java
+key: Java.S.SctpSocketOption
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

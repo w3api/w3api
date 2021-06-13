@@ -1,9 +1,9 @@
 ---
 title: SortedSet.last()
-permalink: Java/SortedSet/last
+permalink: /Java/SortedSet/last/
 date: 2021-01-11
-key: JavaJava.S.SortedSet
-category: java
+key: Java.S.SortedSet
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

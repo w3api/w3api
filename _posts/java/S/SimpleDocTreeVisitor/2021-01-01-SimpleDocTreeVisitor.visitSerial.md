@@ -1,9 +1,9 @@
 ---
 title: SimpleDocTreeVisitor.visitSerial()
-permalink: Java/SimpleDocTreeVisitor/visitSerial
+permalink: /Java/SimpleDocTreeVisitor/visitSerial/
 date: 2021-01-11
-key: JavaJava.S.SimpleDocTreeVisitor
-category: java
+key: Java.S.SimpleDocTreeVisitor
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

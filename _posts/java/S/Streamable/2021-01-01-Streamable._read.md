@@ -1,9 +1,9 @@
 ---
 title: Streamable._read()
-permalink: Java/Streamable/_read
+permalink: /Java/Streamable/_read/
 date: 2021-01-11
-key: JavaJava.S.Streamable
-category: java
+key: Java.S.Streamable
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

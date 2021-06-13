@@ -1,9 +1,9 @@
 ---
 title: Sequencer.addMetaEventListener()
-permalink: Java/Sequencer/addMetaEventListener
+permalink: /Java/Sequencer/addMetaEventListener/
 date: 2021-01-11
-key: JavaJava.S.Sequencer
-category: java
+key: Java.S.Sequencer
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

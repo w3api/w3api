@@ -1,9 +1,9 @@
 ---
 title: SOAPBinding.Use.ENCODED
-permalink: Java/SOAPBinding/Use/ENCODED
+permalink: /Java/SOAPBinding/Use/ENCODED/
 date: 2021-01-11
-key: JavaJava.S.SOAPBinding.Use
-category: java
+key: Java.S.SOAPBinding.Use
+category: Java
 tags: ['java se', 'javax.jws.soap', 'java.xml.ws', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

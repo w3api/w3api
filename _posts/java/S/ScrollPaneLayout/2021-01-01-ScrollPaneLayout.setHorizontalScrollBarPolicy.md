@@ -1,9 +1,9 @@
 ---
 title: ScrollPaneLayout.setHorizontalScrollBarPolicy()
-permalink: Java/ScrollPaneLayout/setHorizontalScrollBarPolicy
+permalink: /Java/ScrollPaneLayout/setHorizontalScrollBarPolicy/
 date: 2021-01-11
-key: JavaJava.S.ScrollPaneLayout
-category: java
+key: Java.S.ScrollPaneLayout
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

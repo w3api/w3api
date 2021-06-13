@@ -1,9 +1,9 @@
 ---
 title: StandardWatchEventKinds.ENTRY_CREATE
-permalink: Java/StandardWatchEventKinds/ENTRY_CREATE
+permalink: /Java/StandardWatchEventKinds/ENTRY_CREATE/
 date: 2021-01-11
-key: JavaJava.S.StandardWatchEventKinds
-category: java
+key: Java.S.StandardWatchEventKinds
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

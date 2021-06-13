@@ -1,9 +1,9 @@
 ---
 title: SOAPElementFactory
-permalink: Java/SOAPElementFactory
+permalink: /Java/SOAPElementFactory/
 date: 2021-01-11
-key: JavaJava.S.SOAPElementFactory
-category: java
+key: Java.S.SOAPElementFactory
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

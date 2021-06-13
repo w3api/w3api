@@ -1,9 +1,9 @@
 ---
 title: SOAPMessageHandler.name
-permalink: Java/SOAPMessageHandler/name
+permalink: /Java/SOAPMessageHandler/name/
 date: 2021-01-11
-key: JavaJava.S.SOAPMessageHandler
-category: java
+key: Java.S.SOAPMessageHandler
+category: Java
 tags: ['java se', 'javax.jws.soap', 'java.xml.ws', 'elemento java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ServiceIdHelper
-permalink: Java/ServiceIdHelper
+permalink: /Java/ServiceIdHelper/
 date: 2021-01-11
-key: JavaJava.S.ServiceIdHelper
-category: java
+key: Java.S.ServiceIdHelper
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

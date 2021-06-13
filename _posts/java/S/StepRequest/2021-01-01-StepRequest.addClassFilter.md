@@ -1,9 +1,9 @@
 ---
 title: StepRequest.addClassFilter()
-permalink: Java/StepRequest/addClassFilter
+permalink: /Java/StepRequest/addClassFilter/
 date: 2021-01-11
-key: JavaJava.S.StepRequest
-category: java
+key: Java.S.StepRequest
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

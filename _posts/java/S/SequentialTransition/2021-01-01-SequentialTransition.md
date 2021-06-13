@@ -1,9 +1,9 @@
 ---
 title: SequentialTransition
-permalink: Java/SequentialTransition
+permalink: /Java/SequentialTransition/
 date: 2021-01-11
-key: JavaJava.S.SequentialTransition
-category: java
+key: Java.S.SequentialTransition
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

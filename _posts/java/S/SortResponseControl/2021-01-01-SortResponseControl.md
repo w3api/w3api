@@ -1,9 +1,9 @@
 ---
 title: SortResponseControl
-permalink: Java/SortResponseControl
+permalink: /Java/SortResponseControl/
 date: 2021-01-11
-key: JavaJava.S.SortResponseControl
-category: java
+key: Java.S.SortResponseControl
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

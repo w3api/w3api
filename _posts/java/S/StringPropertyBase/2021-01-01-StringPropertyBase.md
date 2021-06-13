@@ -1,9 +1,9 @@
 ---
 title: StringPropertyBase
-permalink: Java/StringPropertyBase
+permalink: /Java/StringPropertyBase/
 date: 2021-01-11
-key: JavaJava.S.StringPropertyBase
-category: java
+key: Java.S.StringPropertyBase
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

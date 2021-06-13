@@ -1,9 +1,9 @@
 ---
 title: SctpServerChannel.getOption()
-permalink: Java/SctpServerChannel/getOption
+permalink: /Java/SctpServerChannel/getOption/
 date: 2021-01-11
-key: JavaJava.S.SctpServerChannel
-category: java
+key: Java.S.SctpServerChannel
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

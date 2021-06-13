@@ -1,9 +1,9 @@
 ---
 title: SourceCodeAnalysis.Documentation
-permalink: Java/SourceCodeAnalysis/Documentation
+permalink: /Java/SourceCodeAnalysis/Documentation/
 date: 2021-01-11
-key: JavaJava.S.SourceCodeAnalysis.Documentation
-category: java
+key: Java.S.SourceCodeAnalysis.Documentation
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

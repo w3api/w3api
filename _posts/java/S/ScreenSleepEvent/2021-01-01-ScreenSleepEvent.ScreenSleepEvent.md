@@ -1,9 +1,9 @@
 ---
 title: ScreenSleepEvent.ScreenSleepEvent()
-permalink: Java/ScreenSleepEvent/ScreenSleepEvent
+permalink: /Java/ScreenSleepEvent/ScreenSleepEvent/
 date: 2021-01-11
-key: JavaJava.S.ScreenSleepEvent
-category: java
+key: Java.S.ScreenSleepEvent
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

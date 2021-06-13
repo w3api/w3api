@@ -1,9 +1,9 @@
 ---
 title: ScriptEngineManager
-permalink: Java/ScriptEngineManager
+permalink: /Java/ScriptEngineManager/
 date: 2021-01-11
-key: JavaJava.S.ScriptEngineManager
-category: java
+key: Java.S.ScriptEngineManager
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

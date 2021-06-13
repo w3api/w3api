@@ -1,9 +1,9 @@
 ---
 title: SizeConverter.SequenceConverter
-permalink: Java/SizeConverter/SequenceConverter
+permalink: /Java/SizeConverter/SequenceConverter/
 date: 2021-01-11
-key: JavaJava.S.SizeConverter.SequenceConverter
-category: java
+key: Java.S.SizeConverter.SequenceConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

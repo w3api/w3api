@@ -1,9 +1,9 @@
 ---
 title: Statement.SUCCESS_NO_INFO
-permalink: Java/Statement-java-sql/SUCCESS_NO_INFO
+permalink: /Java/Statement-java-sql/SUCCESS_NO_INFO/
 date: 2021-01-11
-key: JavaJava.S.Statement-java-sql
-category: java
+key: Java.S.Statement-java-sql
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ScriptException
-permalink: Java/ScriptException
+permalink: /Java/ScriptException/
 date: 2021-01-11
-key: JavaJava.S.ScriptException
-category: java
+key: Java.S.ScriptException
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

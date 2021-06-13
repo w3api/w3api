@@ -1,9 +1,9 @@
 ---
 title: SimpleAnnotationValueVisitor7.SimpleAnnotationValueVisitor7()
-permalink: Java/SimpleAnnotationValueVisitor7/SimpleAnnotationValueVisitor7
+permalink: /Java/SimpleAnnotationValueVisitor7/SimpleAnnotationValueVisitor7/
 date: 2021-01-11
-key: JavaJava.S.SimpleAnnotationValueVisitor7
-category: java
+key: Java.S.SimpleAnnotationValueVisitor7
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

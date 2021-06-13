@@ -1,9 +1,9 @@
 ---
 title: StandardOperation.REMOVE
-permalink: Java/StandardOperation/REMOVE
+permalink: /Java/StandardOperation/REMOVE/
 date: 2021-01-11
-key: JavaJava.S.StandardOperation
-category: java
+key: Java.S.StandardOperation
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

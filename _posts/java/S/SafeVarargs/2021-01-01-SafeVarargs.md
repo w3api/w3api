@@ -1,9 +1,9 @@
 ---
 title: SafeVarargs
-permalink: Java/SafeVarargs
+permalink: /Java/SafeVarargs/
 date: 2021-01-11
-key: JavaJava.S.SafeVarargs
-category: java
+key: Java.S.SafeVarargs
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'anotacion java', 'Java 1.7']
 sidebar: 
   nav: java

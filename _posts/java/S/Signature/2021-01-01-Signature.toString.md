@@ -1,9 +1,9 @@
 ---
 title: Signature.toString()
-permalink: Java/Signature/toString
+permalink: /Java/Signature/toString/
 date: 2021-01-11
-key: JavaJava.S.Signature
-category: java
+key: Java.S.Signature
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

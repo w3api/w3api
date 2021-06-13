@@ -1,9 +1,9 @@
 ---
 title: Spliterator.ORDERED
-permalink: Java/Spliterator/ORDERED
+permalink: /Java/Spliterator/ORDERED/
 date: 2021-01-11
-key: JavaJava.S.Spliterator
-category: java
+key: Java.S.Spliterator
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

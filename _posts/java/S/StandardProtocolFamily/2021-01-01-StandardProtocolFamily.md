@@ -1,9 +1,9 @@
 ---
 title: StandardProtocolFamily
-permalink: Java/StandardProtocolFamily
+permalink: /Java/StandardProtocolFamily/
 date: 2021-01-11
-key: JavaJava.S.StandardProtocolFamily
-category: java
+key: Java.S.StandardProtocolFamily
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'enumerado java', 'Java 1.7']
 sidebar: 
   nav: java

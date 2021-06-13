@@ -1,9 +1,9 @@
 ---
 title: SQLRecoverableException.SQLRecoverableException()
-permalink: Java/SQLRecoverableException/SQLRecoverableException
+permalink: /Java/SQLRecoverableException/SQLRecoverableException/
 date: 2021-01-11
-key: JavaJava.S.SQLRecoverableException
-category: java
+key: Java.S.SQLRecoverableException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

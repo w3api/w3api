@@ -1,9 +1,9 @@
 ---
 title: SignatureMethodParameterSpec
-permalink: Java/SignatureMethodParameterSpec
+permalink: /Java/SignatureMethodParameterSpec/
 date: 2021-01-11
-key: JavaJava.S.SignatureMethodParameterSpec
-category: java
+key: Java.S.SignatureMethodParameterSpec
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

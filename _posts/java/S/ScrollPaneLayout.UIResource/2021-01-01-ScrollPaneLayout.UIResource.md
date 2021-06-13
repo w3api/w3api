@@ -1,9 +1,9 @@
 ---
 title: ScrollPaneLayout.UIResource
-permalink: Java/ScrollPaneLayout/UIResource
+permalink: /Java/ScrollPaneLayout/UIResource/
 date: 2021-01-11
-key: JavaJava.S.ScrollPaneLayout.UIResource
-category: java
+key: Java.S.ScrollPaneLayout.UIResource
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

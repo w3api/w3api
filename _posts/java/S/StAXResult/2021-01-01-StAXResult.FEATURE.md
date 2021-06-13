@@ -1,9 +1,9 @@
 ---
 title: StAXResult.FEATURE
-permalink: Java/StAXResult/FEATURE
+permalink: /Java/StAXResult/FEATURE/
 date: 2021-01-11
-key: JavaJava.S.StAXResult
-category: java
+key: Java.S.StAXResult
+category: Java
 tags: ['java se', 'javax.xml.transform.stax', 'java.xml', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

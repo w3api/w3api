@@ -1,9 +1,9 @@
 ---
 title: SocketFlow
-permalink: Java/SocketFlow
+permalink: /Java/SocketFlow/
 date: 2021-01-11
-key: JavaJava.S.SocketFlow
-category: java
+key: Java.S.SocketFlow
+category: Java
 tags: ['java se', 'jdk.net', 'jdk.net', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

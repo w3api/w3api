@@ -1,9 +1,9 @@
 ---
 title: ServiceInformation.ServiceInformation()
-permalink: Java/ServiceInformation/ServiceInformation
+permalink: /Java/ServiceInformation/ServiceInformation/
 date: 2021-01-11
-key: JavaJava.S.ServiceInformation
-category: java
+key: Java.S.ServiceInformation
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SNIServerName
-permalink: Java/SNIServerName
+permalink: /Java/SNIServerName/
 date: 2021-01-11
-key: JavaJava.S.SNIServerName
-category: java
+key: Java.S.SNIServerName
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StopConverter
-permalink: Java/StopConverter
+permalink: /Java/StopConverter/
 date: 2021-01-11
-key: JavaJava.S.StopConverter
-category: java
+key: Java.S.StopConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

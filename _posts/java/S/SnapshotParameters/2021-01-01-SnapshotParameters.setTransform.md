@@ -1,9 +1,9 @@
 ---
 title: SnapshotParameters.setTransform()
-permalink: Java/SnapshotParameters/setTransform
+permalink: /Java/SnapshotParameters/setTransform/
 date: 2021-01-11
-key: JavaJava.S.SnapshotParameters
-category: java
+key: Java.S.SnapshotParameters
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

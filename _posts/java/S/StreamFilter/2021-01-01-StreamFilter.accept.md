@@ -1,9 +1,9 @@
 ---
 title: StreamFilter.accept()
-permalink: Java/StreamFilter/accept
+permalink: /Java/StreamFilter/accept/
 date: 2021-01-11
-key: JavaJava.S.StreamFilter
-category: java
+key: Java.S.StreamFilter
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

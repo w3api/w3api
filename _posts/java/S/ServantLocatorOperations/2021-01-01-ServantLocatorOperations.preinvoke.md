@@ -1,9 +1,9 @@
 ---
 title: ServantLocatorOperations.preinvoke()
-permalink: Java/ServantLocatorOperations/preinvoke
+permalink: /Java/ServantLocatorOperations/preinvoke/
 date: 2021-01-11
-key: JavaJava.S.ServantLocatorOperations
-category: java
+key: Java.S.ServantLocatorOperations
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

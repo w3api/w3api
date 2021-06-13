@@ -1,9 +1,9 @@
 ---
 title: StandardLocation.CLASS_OUTPUT
-permalink: Java/StandardLocation/CLASS_OUTPUT
+permalink: /Java/StandardLocation/CLASS_OUTPUT/
 date: 2021-01-11
-key: JavaJava.S.StandardLocation
-category: java
+key: Java.S.StandardLocation
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

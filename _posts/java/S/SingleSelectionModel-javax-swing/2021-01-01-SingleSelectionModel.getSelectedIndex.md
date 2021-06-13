@@ -1,9 +1,9 @@
 ---
 title: SingleSelectionModel.getSelectedIndex()
-permalink: Java/SingleSelectionModel-javax-swing/getSelectedIndex
+permalink: /Java/SingleSelectionModel-javax-swing/getSelectedIndex/
 date: 2021-01-11
-key: JavaJava.S.SingleSelectionModel-javax-swing
-category: java
+key: Java.S.SingleSelectionModel-javax-swing
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

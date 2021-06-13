@@ -1,9 +1,9 @@
 ---
 title: SetPropertyBase
-permalink: Java/SetPropertyBase
+permalink: /Java/SetPropertyBase/
 date: 2021-01-11
-key: JavaJava.S.SetPropertyBase
-category: java
+key: Java.S.SetPropertyBase
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

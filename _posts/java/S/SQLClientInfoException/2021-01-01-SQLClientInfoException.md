@@ -1,9 +1,9 @@
 ---
 title: SQLClientInfoException
-permalink: Java/SQLClientInfoException
+permalink: /Java/SQLClientInfoException/
 date: 2021-01-11
-key: JavaJava.S.SQLClientInfoException
-category: java
+key: Java.S.SQLClientInfoException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

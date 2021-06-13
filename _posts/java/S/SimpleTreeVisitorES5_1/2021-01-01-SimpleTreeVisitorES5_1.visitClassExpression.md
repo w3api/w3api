@@ -1,9 +1,9 @@
 ---
 title: SimpleTreeVisitorES5_1.visitClassExpression()
-permalink: Java/SimpleTreeVisitorES5_1/visitClassExpression
+permalink: /Java/SimpleTreeVisitorES5_1/visitClassExpression/
 date: 2021-01-11
-key: JavaJava.S.SimpleTreeVisitorES5_1
-category: java
+key: Java.S.SimpleTreeVisitorES5_1
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

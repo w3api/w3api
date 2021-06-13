@@ -1,9 +1,9 @@
 ---
 title: SliderSkin.SliderSkin()
-permalink: Java/SliderSkin/SliderSkin
+permalink: /Java/SliderSkin/SliderSkin/
 date: 2021-01-11
-key: JavaJava.S.SliderSkin
-category: java
+key: Java.S.SliderSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StringJoiner.length()
-permalink: Java/StringJoiner/length
+permalink: /Java/StringJoiner/length/
 date: 2021-01-11
-key: JavaJava.S.StringJoiner
-category: java
+key: Java.S.StringJoiner
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

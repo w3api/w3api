@@ -1,9 +1,9 @@
 ---
 title: Spliterator
-permalink: Java/Spliterator
+permalink: /Java/Spliterator/
 date: 2021-01-11
-key: JavaJava.S.Spliterator
-category: java
+key: Java.S.Spliterator
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SimpleAnnotationValueVisitor6.visitEnumConstant()
-permalink: Java/SimpleAnnotationValueVisitor6/visitEnumConstant
+permalink: /Java/SimpleAnnotationValueVisitor6/visitEnumConstant/
 date: 2021-01-11
-key: JavaJava.S.SimpleAnnotationValueVisitor6
-category: java
+key: Java.S.SimpleAnnotationValueVisitor6
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

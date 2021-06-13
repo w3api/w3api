@@ -1,9 +1,9 @@
 ---
 title: ScrollPaneAdjustable
-permalink: Java/ScrollPaneAdjustable
+permalink: /Java/ScrollPaneAdjustable/
 date: 2021-01-11
-key: JavaJava.S.ScrollPaneAdjustable
-category: java
+key: Java.S.ScrollPaneAdjustable
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

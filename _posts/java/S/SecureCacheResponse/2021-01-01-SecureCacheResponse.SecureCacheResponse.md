@@ -1,9 +1,9 @@
 ---
 title: SecureCacheResponse.SecureCacheResponse()
-permalink: Java/SecureCacheResponse/SecureCacheResponse
+permalink: /Java/SecureCacheResponse/SecureCacheResponse/
 date: 2021-01-11
-key: JavaJava.S.SecureCacheResponse
-category: java
+key: Java.S.SecureCacheResponse
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

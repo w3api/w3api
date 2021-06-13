@@ -1,9 +1,9 @@
 ---
 title: ScrollPaneSkin.getHorizontalScrollBar()
-permalink: Java/ScrollPaneSkin/getHorizontalScrollBar
+permalink: /Java/ScrollPaneSkin/getHorizontalScrollBar/
 date: 2021-01-11
-key: JavaJava.S.ScrollPaneSkin
-category: java
+key: Java.S.ScrollPaneSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

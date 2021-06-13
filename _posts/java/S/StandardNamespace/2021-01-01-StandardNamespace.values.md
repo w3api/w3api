@@ -1,9 +1,9 @@
 ---
 title: StandardNamespace.values()
-permalink: Java/StandardNamespace/values
+permalink: /Java/StandardNamespace/values/
 date: 2021-01-11
-key: JavaJava.S.StandardNamespace
-category: java
+key: Java.S.StandardNamespace
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

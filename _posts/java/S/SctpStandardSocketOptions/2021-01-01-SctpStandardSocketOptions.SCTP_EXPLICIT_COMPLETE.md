@@ -1,9 +1,9 @@
 ---
 title: SctpStandardSocketOptions.SCTP_EXPLICIT_COMPLETE
-permalink: Java/SctpStandardSocketOptions/SCTP_EXPLICIT_COMPLETE
+permalink: /Java/SctpStandardSocketOptions/SCTP_EXPLICIT_COMPLETE/
 date: 2021-01-11
-key: JavaJava.S.SctpStandardSocketOptions
-category: java
+key: Java.S.SctpStandardSocketOptions
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

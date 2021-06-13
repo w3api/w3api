@@ -1,9 +1,9 @@
 ---
 title: ShortMessage.SYSTEM_RESET
-permalink: Java/ShortMessage/SYSTEM_RESET
+permalink: /Java/ShortMessage/SYSTEM_RESET/
 date: 2021-01-11
-key: JavaJava.S.ShortMessage
-category: java
+key: Java.S.ShortMessage
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

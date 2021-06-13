@@ -1,9 +1,9 @@
 ---
 title: SourceCodeAnalysis.Completeness.values()
-permalink: Java/SourceCodeAnalysis/Completeness/values
+permalink: /Java/SourceCodeAnalysis/Completeness/values/
 date: 2021-01-11
-key: JavaJava.S.SourceCodeAnalysis.Completeness
-category: java
+key: Java.S.SourceCodeAnalysis.Completeness
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

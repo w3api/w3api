@@ -1,9 +1,9 @@
 ---
 title: SimpleStyleableIntegerProperty.SimpleStyleableIntegerProperty()
-permalink: Java/SimpleStyleableIntegerProperty/SimpleStyleableIntegerProperty
+permalink: /Java/SimpleStyleableIntegerProperty/SimpleStyleableIntegerProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleStyleableIntegerProperty
-category: java
+key: Java.S.SimpleStyleableIntegerProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

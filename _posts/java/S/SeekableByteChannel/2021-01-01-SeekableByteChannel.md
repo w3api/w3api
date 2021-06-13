@@ -1,9 +1,9 @@
 ---
 title: SeekableByteChannel
-permalink: Java/SeekableByteChannel
+permalink: /Java/SeekableByteChannel/
 date: 2021-01-11
-key: JavaJava.S.SeekableByteChannel
-category: java
+key: Java.S.SeekableByteChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SpinnerUI.SpinnerUI()
-permalink: Java/SpinnerUI/SpinnerUI
+permalink: /Java/SpinnerUI/SpinnerUI/
 date: 2021-01-11
-key: JavaJava.S.SpinnerUI
-category: java
+key: Java.S.SpinnerUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

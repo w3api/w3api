@@ -1,9 +1,9 @@
 ---
 title: ServiceLoader.toString()
-permalink: Java/ServiceLoader/toString
+permalink: /Java/ServiceLoader/toString/
 date: 2021-01-11
-key: JavaJava.S.ServiceLoader
-category: java
+key: Java.S.ServiceLoader
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

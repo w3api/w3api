@@ -1,9 +1,9 @@
 ---
 title: ServiceDetailHelper.read()
-permalink: Java/ServiceDetailHelper/read
+permalink: /Java/ServiceDetailHelper/read/
 date: 2021-01-11
-key: JavaJava.S.ServiceDetailHelper
-category: java
+key: Java.S.ServiceDetailHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

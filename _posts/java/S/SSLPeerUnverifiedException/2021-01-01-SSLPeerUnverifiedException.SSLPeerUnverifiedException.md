@@ -1,9 +1,9 @@
 ---
 title: SSLPeerUnverifiedException.SSLPeerUnverifiedException()
-permalink: Java/SSLPeerUnverifiedException/SSLPeerUnverifiedException
+permalink: /Java/SSLPeerUnverifiedException/SSLPeerUnverifiedException/
 date: 2021-01-11
-key: JavaJava.S.SSLPeerUnverifiedException
-category: java
+key: Java.S.SSLPeerUnverifiedException
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

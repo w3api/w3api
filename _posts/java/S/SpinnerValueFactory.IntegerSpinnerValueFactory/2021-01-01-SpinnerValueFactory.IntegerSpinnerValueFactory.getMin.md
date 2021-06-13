@@ -1,9 +1,9 @@
 ---
 title: SpinnerValueFactory.IntegerSpinnerValueFactory.getMin()
-permalink: Java/SpinnerValueFactory/IntegerSpinnerValueFactory/getMin
+permalink: /Java/SpinnerValueFactory/IntegerSpinnerValueFactory/getMin/
 date: 2021-01-11
-key: JavaJava.S.SpinnerValueFactory.IntegerSpinnerValueFactory
-category: java
+key: Java.S.SpinnerValueFactory.IntegerSpinnerValueFactory
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

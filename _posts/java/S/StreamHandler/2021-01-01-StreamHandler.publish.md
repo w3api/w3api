@@ -1,9 +1,9 @@
 ---
 title: StreamHandler.publish()
-permalink: Java/StreamHandler/publish
+permalink: /Java/StreamHandler/publish/
 date: 2021-01-11
-key: JavaJava.S.StreamHandler
-category: java
+key: Java.S.StreamHandler
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

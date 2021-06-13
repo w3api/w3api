@@ -1,9 +1,9 @@
 ---
 title: SeparatorSkin.layoutChildren()
-permalink: Java/SeparatorSkin/layoutChildren
+permalink: /Java/SeparatorSkin/layoutChildren/
 date: 2021-01-11
-key: JavaJava.S.SeparatorSkin
-category: java
+key: Java.S.SeparatorSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

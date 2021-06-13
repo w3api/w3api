@@ -1,9 +1,9 @@
 ---
 title: SQLTransientConnectionException.SQLTransientConnectionException()
-permalink: Java/SQLTransientConnectionException/SQLTransientConnectionException
+permalink: /Java/SQLTransientConnectionException/SQLTransientConnectionException/
 date: 2021-01-11
-key: JavaJava.S.SQLTransientConnectionException
-category: java
+key: Java.S.SQLTransientConnectionException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

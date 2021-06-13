@@ -1,9 +1,9 @@
 ---
 title: Scrollbar.VERTICAL
-permalink: Java/Scrollbar-java-awt/VERTICAL
+permalink: /Java/Scrollbar-java-awt/VERTICAL/
 date: 2021-01-11
-key: JavaJava.S.Scrollbar-java-awt
-category: java
+key: Java.S.Scrollbar-java-awt
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

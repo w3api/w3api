@@ -1,9 +1,9 @@
 ---
 title: SnippetEvent
-permalink: Java/SnippetEvent
+permalink: /Java/SnippetEvent/
 date: 2021-01-11
-key: JavaJava.S.SnippetEvent
-category: java
+key: Java.S.SnippetEvent
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

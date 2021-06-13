@@ -1,9 +1,9 @@
 ---
 title: SaslServerFactory.createSaslServer()
-permalink: Java/SaslServerFactory/createSaslServer
+permalink: /Java/SaslServerFactory/createSaslServer/
 date: 2021-01-11
-key: JavaJava.S.SaslServerFactory
-category: java
+key: Java.S.SaslServerFactory
+category: Java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

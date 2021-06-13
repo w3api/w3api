@@ -1,9 +1,9 @@
 ---
 title: ServerRequestInfoOperations.get_server_policy()
-permalink: Java/ServerRequestInfoOperations/get_server_policy
+permalink: /Java/ServerRequestInfoOperations/get_server_policy/
 date: 2021-01-11
-key: JavaJava.S.ServerRequestInfoOperations
-category: java
+key: Java.S.ServerRequestInfoOperations
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

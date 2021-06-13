@@ -1,9 +1,9 @@
 ---
 title: SortedMap
-permalink: Java/SortedMap
+permalink: /Java/SortedMap/
 date: 2021-01-11
-key: JavaJava.S.SortedMap
-category: java
+key: Java.S.SortedMap
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

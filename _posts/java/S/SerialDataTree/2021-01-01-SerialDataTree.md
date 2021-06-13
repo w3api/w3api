@@ -1,9 +1,9 @@
 ---
 title: SerialDataTree
-permalink: Java/SerialDataTree
+permalink: /Java/SerialDataTree/
 date: 2021-01-11
-key: JavaJava.S.SerialDataTree
-category: java
+key: Java.S.SerialDataTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

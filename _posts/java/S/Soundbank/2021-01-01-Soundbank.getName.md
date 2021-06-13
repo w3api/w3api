@@ -1,9 +1,9 @@
 ---
 title: Soundbank.getName()
-permalink: Java/Soundbank/getName
+permalink: /Java/Soundbank/getName/
 date: 2021-01-11
-key: JavaJava.S.Soundbank
-category: java
+key: Java.S.Soundbank
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StreamableValue
-permalink: Java/StreamableValue
+permalink: /Java/StreamableValue/
 date: 2021-01-11
-key: JavaJava.S.StreamableValue
-category: java
+key: Java.S.StreamableValue
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

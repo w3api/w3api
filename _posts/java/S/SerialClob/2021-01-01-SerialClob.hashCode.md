@@ -1,9 +1,9 @@
 ---
 title: SerialClob.hashCode()
-permalink: Java/SerialClob/hashCode
+permalink: /Java/SerialClob/hashCode/
 date: 2021-01-11
-key: JavaJava.S.SerialClob
-category: java
+key: Java.S.SerialClob
+category: Java
 tags: ['java se', 'javax.sql.rowset.serial', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ServerSocketChannel.bind()
-permalink: Java/ServerSocketChannel/bind
+permalink: /Java/ServerSocketChannel/bind/
 date: 2021-01-11
-key: JavaJava.S.ServerSocketChannel
-category: java
+key: Java.S.ServerSocketChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

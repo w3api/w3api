@@ -1,9 +1,9 @@
 ---
 title: ServerRequest.op_name()
-permalink: Java/ServerRequest/op_name
+permalink: /Java/ServerRequest/op_name/
 date: 2021-01-11
-key: JavaJava.S.ServerRequest
-category: java
+key: Java.S.ServerRequest
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

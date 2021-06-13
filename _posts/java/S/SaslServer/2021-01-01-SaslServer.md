@@ -1,9 +1,9 @@
 ---
 title: SaslServer
-permalink: Java/SaslServer
+permalink: /Java/SaslServer/
 date: 2021-01-11
-key: JavaJava.S.SaslServer
-category: java
+key: Java.S.SaslServer
+category: Java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StreamingExecutionControl.StreamingExecutionControl()
-permalink: Java/StreamingExecutionControl/StreamingExecutionControl
+permalink: /Java/StreamingExecutionControl/StreamingExecutionControl/
 date: 2021-01-11
-key: JavaJava.S.StreamingExecutionControl
-category: java
+key: Java.S.StreamingExecutionControl
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

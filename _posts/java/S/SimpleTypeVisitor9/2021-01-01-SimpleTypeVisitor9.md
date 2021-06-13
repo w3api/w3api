@@ -1,9 +1,9 @@
 ---
 title: SimpleTypeVisitor9
-permalink: Java/SimpleTypeVisitor9
+permalink: /Java/SimpleTypeVisitor9/
 date: 2021-01-11
-key: JavaJava.S.SimpleTypeVisitor9
-category: java
+key: Java.S.SimpleTypeVisitor9
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 9']
 sidebar: 
   nav: java

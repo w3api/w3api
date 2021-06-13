@@ -1,9 +1,9 @@
 ---
 title: StampedLock.isWriteLocked()
-permalink: Java/StampedLock/isWriteLocked
+permalink: /Java/StampedLock/isWriteLocked/
 date: 2021-01-11
-key: JavaJava.S.StampedLock
-category: java
+key: Java.S.StampedLock
+category: Java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

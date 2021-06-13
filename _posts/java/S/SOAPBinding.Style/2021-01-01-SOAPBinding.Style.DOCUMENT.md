@@ -1,9 +1,9 @@
 ---
 title: SOAPBinding.Style.DOCUMENT
-permalink: Java/SOAPBinding/Style/DOCUMENT
+permalink: /Java/SOAPBinding/Style/DOCUMENT/
 date: 2021-01-11
-key: JavaJava.S.SOAPBinding.Style
-category: java
+key: Java.S.SOAPBinding.Style
+category: Java
 tags: ['java se', 'javax.jws.soap', 'java.xml.ws', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

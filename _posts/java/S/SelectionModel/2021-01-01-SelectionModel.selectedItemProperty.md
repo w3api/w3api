@@ -1,9 +1,9 @@
 ---
 title: SelectionModel.selectedItemProperty()
-permalink: Java/SelectionModel/selectedItemProperty
+permalink: /Java/SelectionModel/selectedItemProperty/
 date: 2021-01-11
-key: JavaJava.S.SelectionModel
-category: java
+key: Java.S.SelectionModel
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SimpleDateFormat.toPattern()
-permalink: Java/SimpleDateFormat/toPattern
+permalink: /Java/SimpleDateFormat/toPattern/
 date: 2021-01-11
-key: JavaJava.S.SimpleDateFormat
-category: java
+key: Java.S.SimpleDateFormat
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

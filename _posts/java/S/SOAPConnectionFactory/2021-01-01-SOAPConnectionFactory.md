@@ -1,9 +1,9 @@
 ---
 title: SOAPConnectionFactory
-permalink: Java/SOAPConnectionFactory
+permalink: /Java/SOAPConnectionFactory/
 date: 2021-01-11
-key: JavaJava.S.SOAPConnectionFactory
-category: java
+key: Java.S.SOAPConnectionFactory
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

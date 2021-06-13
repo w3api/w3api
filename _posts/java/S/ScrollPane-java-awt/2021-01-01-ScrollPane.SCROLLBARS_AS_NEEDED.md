@@ -1,9 +1,9 @@
 ---
 title: ScrollPane.SCROLLBARS_AS_NEEDED
-permalink: Java/ScrollPane-java-awt/SCROLLBARS_AS_NEEDED
+permalink: /Java/ScrollPane-java-awt/SCROLLBARS_AS_NEEDED/
 date: 2021-01-11
-key: JavaJava.S.ScrollPane-java-awt
-category: java
+key: Java.S.ScrollPane-java-awt
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

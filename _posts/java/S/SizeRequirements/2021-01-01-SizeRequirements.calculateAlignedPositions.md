@@ -1,9 +1,9 @@
 ---
 title: SizeRequirements.calculateAlignedPositions()
-permalink: Java/SizeRequirements/calculateAlignedPositions
+permalink: /Java/SizeRequirements/calculateAlignedPositions/
 date: 2021-01-11
-key: JavaJava.S.SizeRequirements
-category: java
+key: Java.S.SizeRequirements
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

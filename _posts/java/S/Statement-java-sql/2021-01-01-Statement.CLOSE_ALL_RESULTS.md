@@ -1,9 +1,9 @@
 ---
 title: Statement.CLOSE_ALL_RESULTS
-permalink: Java/Statement-java-sql/CLOSE_ALL_RESULTS
+permalink: /Java/Statement-java-sql/CLOSE_ALL_RESULTS/
 date: 2021-01-11
-key: JavaJava.S.Statement-java-sql
-category: java
+key: Java.S.Statement-java-sql
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

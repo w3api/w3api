@@ -1,9 +1,9 @@
 ---
 title: ShortValue.equals()
-permalink: Java/ShortValue/equals
+permalink: /Java/ShortValue/equals/
 date: 2021-01-11
-key: JavaJava.S.ShortValue
-category: java
+key: Java.S.ShortValue
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

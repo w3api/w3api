@@ -1,9 +1,9 @@
 ---
 title: SSLEngineResult.Status.CLOSED
-permalink: Java/SSLEngineResult/Status/CLOSED
+permalink: /Java/SSLEngineResult/Status/CLOSED/
 date: 2021-01-11
-key: JavaJava.S.SSLEngineResult.Status
-category: java
+key: Java.S.SSLEngineResult.Status
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

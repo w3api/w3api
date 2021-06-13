@@ -1,9 +1,9 @@
 ---
 title: SimpleFileVisitor
-permalink: Java/SimpleFileVisitor
+permalink: /Java/SimpleFileVisitor/
 date: 2021-01-11
-key: JavaJava.S.SimpleFileVisitor
-category: java
+key: Java.S.SimpleFileVisitor
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SimpleLinkRequest.SimpleLinkRequest()
-permalink: Java/SimpleLinkRequest/SimpleLinkRequest
+permalink: /Java/SimpleLinkRequest/SimpleLinkRequest/
 date: 2021-01-11
-key: JavaJava.S.SimpleLinkRequest
-category: java
+key: Java.S.SimpleLinkRequest
+category: Java
 tags: ['java se', 'jdk.dynalink.linker.support', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

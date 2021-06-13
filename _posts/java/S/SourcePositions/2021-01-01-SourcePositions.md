@@ -1,9 +1,9 @@
 ---
 title: SourcePositions
-permalink: Java/SourcePositions
+permalink: /Java/SourcePositions/
 date: 2021-01-11
-key: JavaJava.S.SourcePositions
-category: java
+key: Java.S.SourcePositions
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SingleSelectionModel
-permalink: Java/SingleSelectionModel/
+permalink: /Java/SingleSelectionModel//
 date: 2021-01-11
-key: JavaJava.S.SingleSelectionModel
-category: java
+key: Java.S.SingleSelectionModel
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SerializablePermission.SerializablePermission()
-permalink: Java/SerializablePermission/SerializablePermission
+permalink: /Java/SerializablePermission/SerializablePermission/
 date: 2021-01-11
-key: JavaJava.S.SerializablePermission
-category: java
+key: Java.S.SerializablePermission
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

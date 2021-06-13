@@ -1,9 +1,9 @@
 ---
 title: SOAPConstants.URI_SOAP_1_2_ROLE_ULTIMATE_RECEIVER
-permalink: Java/SOAPConstants/URI_SOAP_1_2_ROLE_ULTIMATE_RECEIVER
+permalink: /Java/SOAPConstants/URI_SOAP_1_2_ROLE_ULTIMATE_RECEIVER/
 date: 2021-01-11
-key: JavaJava.S.SOAPConstants
-category: java
+key: Java.S.SOAPConstants
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

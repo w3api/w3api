@@ -1,9 +1,9 @@
 ---
 title: SimpleFloatProperty.SimpleFloatProperty()
-permalink: Java/SimpleFloatProperty/SimpleFloatProperty
+permalink: /Java/SimpleFloatProperty/SimpleFloatProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleFloatProperty
-category: java
+key: Java.S.SimpleFloatProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

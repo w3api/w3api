@@ -1,9 +1,9 @@
 ---
 title: StackOverflowError
-permalink: Java/StackOverflowError
+permalink: /Java/StackOverflowError/
 date: 2021-01-11
-key: JavaJava.S.StackOverflowError
-category: java
+key: Java.S.StackOverflowError
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

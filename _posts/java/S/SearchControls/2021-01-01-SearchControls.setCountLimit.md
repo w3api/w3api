@@ -1,9 +1,9 @@
 ---
 title: SearchControls.setCountLimit()
-permalink: Java/SearchControls/setCountLimit
+permalink: /Java/SearchControls/setCountLimit/
 date: 2021-01-11
-key: JavaJava.S.SearchControls
-category: java
+key: Java.S.SearchControls
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SortedList
-permalink: Java/SortedList
+permalink: /Java/SortedList/
 date: 2021-01-11
-key: JavaJava.S.SortedList
-category: java
+key: Java.S.SortedList
+category: Java
 tags: ['java se', 'javafx.collections.transformation', 'javafx.base', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

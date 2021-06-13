@@ -1,9 +1,9 @@
 ---
 title: SocketChannel.connect()
-permalink: Java/SocketChannel/connect
+permalink: /Java/SocketChannel/connect/
 date: 2021-01-11
-key: JavaJava.S.SocketChannel
-category: java
+key: Java.S.SocketChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

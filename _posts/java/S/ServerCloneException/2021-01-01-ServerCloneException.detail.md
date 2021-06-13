@@ -1,9 +1,9 @@
 ---
 title: ServerCloneException.detail
-permalink: Java/ServerCloneException/detail
+permalink: /Java/ServerCloneException/detail/
 date: 2021-01-11
-key: JavaJava.S.ServerCloneException
-category: java
+key: Java.S.ServerCloneException
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

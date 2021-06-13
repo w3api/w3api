@@ -1,9 +1,9 @@
 ---
 title: SctpStandardSocketOptions.InitMaxStreams.maxOutStreams()
-permalink: Java/SctpStandardSocketOptions/InitMaxStreams/maxOutStreams
+permalink: /Java/SctpStandardSocketOptions/InitMaxStreams/maxOutStreams/
 date: 2021-01-11
-key: JavaJava.S.SctpStandardSocketOptions.InitMaxStreams
-category: java
+key: Java.S.SctpStandardSocketOptions.InitMaxStreams
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

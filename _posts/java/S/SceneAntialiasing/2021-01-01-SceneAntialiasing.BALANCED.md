@@ -1,9 +1,9 @@
 ---
 title: SceneAntialiasing.BALANCED
-permalink: Java/SceneAntialiasing/BALANCED
+permalink: /Java/SceneAntialiasing/BALANCED/
 date: 2021-01-11
-key: JavaJava.S.SceneAntialiasing
-category: java
+key: Java.S.SceneAntialiasing
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

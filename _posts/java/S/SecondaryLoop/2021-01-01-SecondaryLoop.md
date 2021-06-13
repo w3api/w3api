@@ -1,9 +1,9 @@
 ---
 title: SecondaryLoop
-permalink: Java/SecondaryLoop
+permalink: /Java/SecondaryLoop/
 date: 2021-01-11
-key: JavaJava.S.SecondaryLoop
-category: java
+key: Java.S.SecondaryLoop
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

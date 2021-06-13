@@ -1,9 +1,9 @@
 ---
 title: SocketOption.type()
-permalink: Java/SocketOption/type
+permalink: /Java/SocketOption/type/
 date: 2021-01-11
-key: JavaJava.S.SocketOption
-category: java
+key: Java.S.SocketOption
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Skinnable
-permalink: Java/Skinnable
+permalink: /Java/Skinnable/
 date: 2021-01-11
-key: JavaJava.S.Skinnable
-category: java
+key: Java.S.Skinnable
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

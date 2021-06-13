@@ -1,9 +1,9 @@
 ---
 title: SplashScreen
-permalink: Java/SplashScreen
+permalink: /Java/SplashScreen/
 date: 2021-01-11
-key: JavaJava.S.SplashScreen
-category: java
+key: Java.S.SplashScreen
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

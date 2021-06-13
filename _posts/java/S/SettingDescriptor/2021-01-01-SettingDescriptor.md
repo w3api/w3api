@@ -1,9 +1,9 @@
 ---
 title: SettingDescriptor
-permalink: Java/SettingDescriptor
+permalink: /Java/SettingDescriptor/
 date: 2021-01-11
-key: JavaJava.S.SettingDescriptor
-category: java
+key: Java.S.SettingDescriptor
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'clase java', 'Java 9']
 sidebar: 
   nav: java

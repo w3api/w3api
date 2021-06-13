@@ -1,9 +1,9 @@
 ---
 title: SimpleFileVisitor.visitFileFailed()
-permalink: Java/SimpleFileVisitor/visitFileFailed
+permalink: /Java/SimpleFileVisitor/visitFileFailed/
 date: 2021-01-11
-key: JavaJava.S.SimpleFileVisitor
-category: java
+key: Java.S.SimpleFileVisitor
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

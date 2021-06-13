@@ -1,9 +1,9 @@
 ---
 title: SecureDirectoryStream
-permalink: Java/SecureDirectoryStream
+permalink: /Java/SecureDirectoryStream/
 date: 2021-01-11
-key: JavaJava.S.SecureDirectoryStream
-category: java
+key: Java.S.SecureDirectoryStream
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

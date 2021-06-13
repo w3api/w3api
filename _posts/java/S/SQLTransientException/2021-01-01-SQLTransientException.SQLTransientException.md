@@ -1,9 +1,9 @@
 ---
 title: SQLTransientException.SQLTransientException()
-permalink: Java/SQLTransientException/SQLTransientException
+permalink: /Java/SQLTransientException/SQLTransientException/
 date: 2021-01-11
-key: JavaJava.S.SQLTransientException
-category: java
+key: Java.S.SQLTransientException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

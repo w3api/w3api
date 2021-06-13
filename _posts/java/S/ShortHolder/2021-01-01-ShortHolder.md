@@ -1,9 +1,9 @@
 ---
 title: ShortHolder
-permalink: Java/ShortHolder
+permalink: /Java/ShortHolder/
 date: 2021-01-11
-key: JavaJava.S.ShortHolder
-category: java
+key: Java.S.ShortHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 
   nav: java

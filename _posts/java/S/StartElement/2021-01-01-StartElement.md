@@ -1,9 +1,9 @@
 ---
 title: StartElement
-permalink: Java/StartElement
+permalink: /Java/StartElement/
 date: 2021-01-11
-key: JavaJava.S.StartElement
-category: java
+key: Java.S.StartElement
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

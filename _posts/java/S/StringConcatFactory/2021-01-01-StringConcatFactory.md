@@ -1,9 +1,9 @@
 ---
 title: StringConcatFactory
-permalink: Java/StringConcatFactory
+permalink: /Java/StringConcatFactory/
 date: 2021-01-11
-key: JavaJava.S.StringConcatFactory
-category: java
+key: Java.S.StringConcatFactory
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'clase java', 'Java 9']
 sidebar: 
   nav: java

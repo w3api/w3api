@@ -1,9 +1,9 @@
 ---
 title: SizeUnits.CM
-permalink: Java/SizeUnits/CM
+permalink: /Java/SizeUnits/CM/
 date: 2021-01-11
-key: JavaJava.S.SizeUnits
-category: java
+key: Java.S.SizeUnits
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'campo java', 'Java 9']
 sidebar: 
   nav: java

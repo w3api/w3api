@@ -1,9 +1,9 @@
 ---
 title: ServiceUIFactory.DIALOG_UI
-permalink: Java/ServiceUIFactory/DIALOG_UI
+permalink: /Java/ServiceUIFactory/DIALOG_UI/
 date: 2021-01-11
-key: JavaJava.S.ServiceUIFactory
-category: java
+key: Java.S.ServiceUIFactory
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

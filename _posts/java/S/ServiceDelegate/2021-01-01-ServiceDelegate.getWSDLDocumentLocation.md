@@ -1,9 +1,9 @@
 ---
 title: ServiceDelegate.getWSDLDocumentLocation()
-permalink: Java/ServiceDelegate/getWSDLDocumentLocation
+permalink: /Java/ServiceDelegate/getWSDLDocumentLocation/
 date: 2021-01-11
-key: JavaJava.S.ServiceDelegate
-category: java
+key: Java.S.ServiceDelegate
+category: Java
 tags: ['java se', 'javax.xml.ws.spi', 'java.xml.ws', 'metodo java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

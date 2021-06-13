@@ -1,9 +1,9 @@
 ---
 title: SSLSocket.setEnabledProtocols()
-permalink: Java/SSLSocket/setEnabledProtocols
+permalink: /Java/SSLSocket/setEnabledProtocols/
 date: 2021-01-11
-key: JavaJava.S.SSLSocket
-category: java
+key: Java.S.SSLSocket
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

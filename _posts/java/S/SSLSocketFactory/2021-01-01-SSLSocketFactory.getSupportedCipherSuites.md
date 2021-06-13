@@ -1,9 +1,9 @@
 ---
 title: SSLSocketFactory.getSupportedCipherSuites()
-permalink: Java/SSLSocketFactory/getSupportedCipherSuites
+permalink: /Java/SSLSocketFactory/getSupportedCipherSuites/
 date: 2021-01-11
-key: JavaJava.S.SSLSocketFactory
-category: java
+key: Java.S.SSLSocketFactory
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SealedObject
-permalink: Java/SealedObject
+permalink: /Java/SealedObject/
 date: 2021-01-11
-key: JavaJava.S.SealedObject
-category: java
+key: Java.S.SealedObject
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

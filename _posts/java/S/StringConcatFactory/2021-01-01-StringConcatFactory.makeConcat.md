@@ -1,9 +1,9 @@
 ---
 title: StringConcatFactory.makeConcat()
-permalink: Java/StringConcatFactory/makeConcat
+permalink: /Java/StringConcatFactory/makeConcat/
 date: 2021-01-11
-key: JavaJava.S.StringConcatFactory
-category: java
+key: Java.S.StringConcatFactory
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

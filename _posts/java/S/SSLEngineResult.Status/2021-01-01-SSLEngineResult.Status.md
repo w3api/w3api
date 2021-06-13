@@ -1,9 +1,9 @@
 ---
 title: SSLEngineResult.Status
-permalink: Java/SSLEngineResult/Status
+permalink: /Java/SSLEngineResult/Status/
 date: 2021-01-11
-key: JavaJava.S.SSLEngineResult.Status
-category: java
+key: Java.S.SSLEngineResult.Status
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'enumerado java', 'Java 1.5']
 sidebar: 
   nav: java

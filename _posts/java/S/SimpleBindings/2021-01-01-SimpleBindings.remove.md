@@ -1,9 +1,9 @@
 ---
 title: SimpleBindings.remove()
-permalink: Java/SimpleBindings/remove
+permalink: /Java/SimpleBindings/remove/
 date: 2021-01-11
-key: JavaJava.S.SimpleBindings
-category: java
+key: Java.S.SimpleBindings
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StandardCharsets
-permalink: Java/StandardCharsets
+permalink: /Java/StandardCharsets/
 date: 2021-01-11
-key: JavaJava.S.StandardCharsets
-category: java
+key: Java.S.StandardCharsets
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StackPane
-permalink: Java/StackPane
+permalink: /Java/StackPane/
 date: 2021-01-11
-key: JavaJava.S.StackPane
-category: java
+key: Java.S.StackPane
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

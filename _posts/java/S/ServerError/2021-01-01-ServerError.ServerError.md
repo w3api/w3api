@@ -1,9 +1,9 @@
 ---
 title: ServerError.ServerError()
-permalink: Java/ServerError/ServerError
+permalink: /Java/ServerError/ServerError/
 date: 2021-01-11
-key: JavaJava.S.ServerError
-category: java
+key: Java.S.ServerError
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

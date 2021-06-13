@@ -1,9 +1,9 @@
 ---
 title: SecurityException
-permalink: Java/SecurityException
+permalink: /Java/SecurityException/
 date: 2021-01-11
-key: JavaJava.S.SecurityException
-category: java
+key: Java.S.SecurityException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

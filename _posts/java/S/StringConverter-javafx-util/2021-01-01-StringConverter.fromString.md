@@ -1,9 +1,9 @@
 ---
 title: StringConverter.fromString()
-permalink: Java/StringConverter-javafx-util/fromString
+permalink: /Java/StringConverter-javafx-util/fromString/
 date: 2021-01-11
-key: JavaJava.S.StringConverter-javafx-util
-category: java
+key: Java.S.StringConverter-javafx-util
+category: Java
 tags: ['java se', 'javafx.util', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

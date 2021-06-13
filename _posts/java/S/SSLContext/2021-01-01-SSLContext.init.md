@@ -1,9 +1,9 @@
 ---
 title: SSLContext.init()
-permalink: Java/SSLContext/init
+permalink: /Java/SSLContext/init/
 date: 2021-01-11
-key: JavaJava.S.SSLContext
-category: java
+key: Java.S.SSLContext
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

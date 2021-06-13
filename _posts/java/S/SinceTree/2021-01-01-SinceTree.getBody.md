@@ -1,9 +1,9 @@
 ---
 title: SinceTree.getBody()
-permalink: Java/SinceTree/getBody
+permalink: /Java/SinceTree/getBody/
 date: 2021-01-11
-key: JavaJava.S.SinceTree
-category: java
+key: Java.S.SinceTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

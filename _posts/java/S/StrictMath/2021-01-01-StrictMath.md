@@ -1,9 +1,9 @@
 ---
 title: StrictMath
-permalink: Java/StrictMath
+permalink: /Java/StrictMath/
 date: 2021-01-11
-key: JavaJava.S.StrictMath
-category: java
+key: Java.S.StrictMath
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

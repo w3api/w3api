@@ -1,9 +1,9 @@
 ---
 title: SoftReference.SoftReference()
-permalink: Java/SoftReference/SoftReference
+permalink: /Java/SoftReference/SoftReference/
 date: 2021-01-11
-key: JavaJava.S.SoftReference
-category: java
+key: Java.S.SoftReference
+category: Java
 tags: ['java se', 'java.lang.ref', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

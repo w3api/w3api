@@ -1,9 +1,9 @@
 ---
 title: StringMonitor.getStringToCompare()
-permalink: Java/StringMonitor/getStringToCompare
+permalink: /Java/StringMonitor/getStringToCompare/
 date: 2021-01-11
-key: JavaJava.S.StringMonitor
-category: java
+key: Java.S.StringMonitor
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

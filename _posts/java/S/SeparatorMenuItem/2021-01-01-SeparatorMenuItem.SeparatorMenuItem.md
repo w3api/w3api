@@ -1,9 +1,9 @@
 ---
 title: SeparatorMenuItem.SeparatorMenuItem()
-permalink: Java/SeparatorMenuItem/SeparatorMenuItem
+permalink: /Java/SeparatorMenuItem/SeparatorMenuItem/
 date: 2021-01-11
-key: JavaJava.S.SeparatorMenuItem
-category: java
+key: Java.S.SeparatorMenuItem
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

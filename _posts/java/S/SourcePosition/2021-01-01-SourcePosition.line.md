@@ -1,9 +1,9 @@
 ---
 title: SourcePosition.line()
-permalink: Java/SourcePosition/line
+permalink: /Java/SourcePosition/line/
 date: 2021-01-11
-key: JavaJava.S.SourcePosition
-category: java
+key: Java.S.SourcePosition
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

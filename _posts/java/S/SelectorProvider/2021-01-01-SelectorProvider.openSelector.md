@@ -1,9 +1,9 @@
 ---
 title: SelectorProvider.openSelector()
-permalink: Java/SelectorProvider/openSelector
+permalink: /Java/SelectorProvider/openSelector/
 date: 2021-01-11
-key: JavaJava.S.SelectorProvider
-category: java
+key: Java.S.SelectorProvider
+category: Java
 tags: ['java se', 'java.nio.channels.spi', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

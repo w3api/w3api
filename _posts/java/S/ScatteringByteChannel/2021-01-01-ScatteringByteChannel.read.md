@@ -1,9 +1,9 @@
 ---
 title: ScatteringByteChannel.read()
-permalink: Java/ScatteringByteChannel/read
+permalink: /Java/ScatteringByteChannel/read/
 date: 2021-01-11
-key: JavaJava.S.ScatteringByteChannel
-category: java
+key: Java.S.ScatteringByteChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

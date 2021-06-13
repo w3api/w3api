@@ -1,9 +1,9 @@
 ---
 title: SctpMultiChannel.associations()
-permalink: Java/SctpMultiChannel/associations
+permalink: /Java/SctpMultiChannel/associations/
 date: 2021-01-11
-key: JavaJava.S.SctpMultiChannel
-category: java
+key: Java.S.SctpMultiChannel
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

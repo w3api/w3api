@@ -1,9 +1,9 @@
 ---
 title: SaslClient.unwrap()
-permalink: Java/SaslClient/unwrap
+permalink: /Java/SaslClient/unwrap/
 date: 2021-01-11
-key: JavaJava.S.SaslClient
-category: java
+key: Java.S.SaslClient
+category: Java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

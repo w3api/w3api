@@ -1,9 +1,9 @@
 ---
 title: ServicePermission
-permalink: Java/ServicePermission
+permalink: /Java/ServicePermission/
 date: 2021-01-11
-key: JavaJava.S.ServicePermission
-category: java
+key: Java.S.ServicePermission
+category: Java
 tags: ['java se', 'javax.security.auth.kerberos', 'java.security.jgss', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

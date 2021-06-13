@@ -1,9 +1,9 @@
 ---
 title: SortEvent
-permalink: Java/SortEvent
+permalink: /Java/SortEvent/
 date: 2021-01-11
-key: JavaJava.S.SortEvent
-category: java
+key: Java.S.SortEvent
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

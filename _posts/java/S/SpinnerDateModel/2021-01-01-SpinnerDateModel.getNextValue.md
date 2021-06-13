@@ -1,9 +1,9 @@
 ---
 title: SpinnerDateModel.getNextValue()
-permalink: Java/SpinnerDateModel/getNextValue
+permalink: /Java/SpinnerDateModel/getNextValue/
 date: 2021-01-11
-key: JavaJava.S.SpinnerDateModel
-category: java
+key: Java.S.SpinnerDateModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

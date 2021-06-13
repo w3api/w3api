@@ -1,9 +1,9 @@
 ---
 title: ServiceContextHelper.write()
-permalink: Java/ServiceContextHelper/write
+permalink: /Java/ServiceContextHelper/write/
 date: 2021-01-11
-key: JavaJava.S.ServiceContextHelper
-category: java
+key: Java.S.ServiceContextHelper
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

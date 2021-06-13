@@ -1,9 +1,9 @@
 ---
 title: SnapshotParameters.getCamera()
-permalink: Java/SnapshotParameters/getCamera
+permalink: /Java/SnapshotParameters/getCamera/
 date: 2021-01-11
-key: JavaJava.S.SnapshotParameters
-category: java
+key: Java.S.SnapshotParameters
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

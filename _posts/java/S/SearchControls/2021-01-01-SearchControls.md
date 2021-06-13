@@ -1,9 +1,9 @@
 ---
 title: SearchControls
-permalink: Java/SearchControls
+permalink: /Java/SearchControls/
 date: 2021-01-11
-key: JavaJava.S.SearchControls
-category: java
+key: Java.S.SearchControls
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

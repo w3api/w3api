@@ -1,9 +1,9 @@
 ---
 title: SourceVersion.RELEASE_6
-permalink: Java/SourceVersion/RELEASE_6
+permalink: /Java/SourceVersion/RELEASE_6/
 date: 2021-01-11
-key: JavaJava.S.SourceVersion
-category: java
+key: Java.S.SourceVersion
+category: Java
 tags: ['java se', 'javax.lang.model', 'java.compiler', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

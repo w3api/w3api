@@ -1,9 +1,9 @@
 ---
 title: SQLOutput.writeTimestamp()
-permalink: Java/SQLOutput/writeTimestamp
+permalink: /Java/SQLOutput/writeTimestamp/
 date: 2021-01-11
-key: JavaJava.S.SQLOutput
-category: java
+key: Java.S.SQLOutput
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

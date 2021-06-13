@@ -1,9 +1,9 @@
 ---
 title: SortedMap.keySet()
-permalink: Java/SortedMap/keySet
+permalink: /Java/SortedMap/keySet/
 date: 2021-01-11
-key: JavaJava.S.SortedMap
-category: java
+key: Java.S.SortedMap
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

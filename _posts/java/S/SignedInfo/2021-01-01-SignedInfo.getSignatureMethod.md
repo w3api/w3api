@@ -1,9 +1,9 @@
 ---
 title: SignedInfo.getSignatureMethod()
-permalink: Java/SignedInfo/getSignatureMethod
+permalink: /Java/SignedInfo/getSignatureMethod/
 date: 2021-01-11
-key: JavaJava.S.SignedInfo
-category: java
+key: Java.S.SignedInfo
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

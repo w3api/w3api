@@ -1,9 +1,9 @@
 ---
 title: SettingDescriptor.getTypeName()
-permalink: Java/SettingDescriptor/getTypeName
+permalink: /Java/SettingDescriptor/getTypeName/
 date: 2021-01-11
-key: JavaJava.S.SettingDescriptor
-category: java
+key: Java.S.SettingDescriptor
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

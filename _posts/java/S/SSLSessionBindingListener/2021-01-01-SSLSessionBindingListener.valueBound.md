@@ -1,9 +1,9 @@
 ---
 title: SSLSessionBindingListener.valueBound()
-permalink: Java/SSLSessionBindingListener/valueBound
+permalink: /Java/SSLSessionBindingListener/valueBound/
 date: 2021-01-11
-key: JavaJava.S.SSLSessionBindingListener
-category: java
+key: Java.S.SSLSessionBindingListener
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SetChangeListener
-permalink: Java/SetChangeListener
+permalink: /Java/SetChangeListener/
 date: 2021-01-11
-key: JavaJava.S.SetChangeListener
-category: java
+key: Java.S.SetChangeListener
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'interface java', 'JavaFX 2.1']
 sidebar: 
   nav: java

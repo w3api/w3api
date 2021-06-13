@@ -1,9 +1,9 @@
 ---
 title: ServerException
-permalink: Java/ServerException
+permalink: /Java/ServerException/
 date: 2021-01-11
-key: JavaJava.S.ServerException
-category: java
+key: Java.S.ServerException
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

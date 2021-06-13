@@ -1,9 +1,9 @@
 ---
 title: SecretKeyFactory.SecretKeyFactory()
-permalink: Java/SecretKeyFactory/SecretKeyFactory
+permalink: /Java/SecretKeyFactory/SecretKeyFactory/
 date: 2021-01-11
-key: JavaJava.S.SecretKeyFactory
-category: java
+key: Java.S.SecretKeyFactory
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

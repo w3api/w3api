@@ -1,9 +1,9 @@
 ---
 title: SerializedLambda
-permalink: Java/SerializedLambda
+permalink: /Java/SerializedLambda/
 date: 2021-01-11
-key: JavaJava.S.SerializedLambda
-category: java
+key: Java.S.SerializedLambda
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

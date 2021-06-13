@@ -1,9 +1,9 @@
 ---
 title: StandardDoclet.StandardDoclet()
-permalink: Java/StandardDoclet/StandardDoclet
+permalink: /Java/StandardDoclet/StandardDoclet/
 date: 2021-01-11
-key: JavaJava.S.StandardDoclet
-category: java
+key: Java.S.StandardDoclet
+category: Java
 tags: ['java se', 'jdk.javadoc.doclet', 'jdk.javadoc', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

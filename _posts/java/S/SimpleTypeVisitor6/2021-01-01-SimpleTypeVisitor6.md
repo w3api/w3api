@@ -1,9 +1,9 @@
 ---
 title: SimpleTypeVisitor6
-permalink: Java/SimpleTypeVisitor6
+permalink: /Java/SimpleTypeVisitor6/
 date: 2021-01-11
-key: JavaJava.S.SimpleTypeVisitor6
-category: java
+key: Java.S.SimpleTypeVisitor6
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

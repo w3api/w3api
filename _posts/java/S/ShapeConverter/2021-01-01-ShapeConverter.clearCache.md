@@ -1,9 +1,9 @@
 ---
 title: ShapeConverter.clearCache()
-permalink: Java/ShapeConverter/clearCache
+permalink: /Java/ShapeConverter/clearCache/
 date: 2021-01-11
-key: JavaJava.S.ShapeConverter
-category: java
+key: Java.S.ShapeConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SocketImpl.available()
-permalink: Java/SocketImpl/available
+permalink: /Java/SocketImpl/available/
 date: 2021-01-11
-key: JavaJava.S.SocketImpl
-category: java
+key: Java.S.SocketImpl
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

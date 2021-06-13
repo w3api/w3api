@@ -1,9 +1,9 @@
 ---
 title: SignedObject.getAlgorithm()
-permalink: Java/SignedObject/getAlgorithm
+permalink: /Java/SignedObject/getAlgorithm/
 date: 2021-01-11
-key: JavaJava.S.SignedObject
-category: java
+key: Java.S.SignedObject
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ShortBufferException.ShortBufferException()
-permalink: Java/ShortBufferException/ShortBufferException
+permalink: /Java/ShortBufferException/ShortBufferException/
 date: 2021-01-11
-key: JavaJava.S.ShortBufferException
-category: java
+key: Java.S.ShortBufferException
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

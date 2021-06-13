@@ -1,9 +1,9 @@
 ---
 title: SourceCodeAnalysis.Suggestion
-permalink: Java/SourceCodeAnalysis/Suggestion
+permalink: /Java/SourceCodeAnalysis/Suggestion/
 date: 2021-01-11
-key: JavaJava.S.SourceCodeAnalysis.Suggestion
-category: java
+key: Java.S.SourceCodeAnalysis.Suggestion
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

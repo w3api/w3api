@@ -1,9 +1,9 @@
 ---
 title: SimpleElementVisitor6.visitVariable()
-permalink: Java/SimpleElementVisitor6/visitVariable
+permalink: /Java/SimpleElementVisitor6/visitVariable/
 date: 2021-01-11
-key: JavaJava.S.SimpleElementVisitor6
-category: java
+key: Java.S.SimpleElementVisitor6
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

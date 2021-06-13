@@ -1,9 +1,9 @@
 ---
 title: ScrollBar.setOrientation()
-permalink: Java/ScrollBar-javafx-scene-control/setOrientation
+permalink: /Java/ScrollBar-javafx-scene-control/setOrientation/
 date: 2021-01-11
-key: JavaJava.S.ScrollBar-javafx-scene-control
-category: java
+key: Java.S.ScrollBar-javafx-scene-control
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

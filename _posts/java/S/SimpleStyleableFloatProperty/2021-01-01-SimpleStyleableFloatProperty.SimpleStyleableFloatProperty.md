@@ -1,9 +1,9 @@
 ---
 title: SimpleStyleableFloatProperty.SimpleStyleableFloatProperty()
-permalink: Java/SimpleStyleableFloatProperty/SimpleStyleableFloatProperty
+permalink: /Java/SimpleStyleableFloatProperty/SimpleStyleableFloatProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleStyleableFloatProperty
-category: java
+key: Java.S.SimpleStyleableFloatProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

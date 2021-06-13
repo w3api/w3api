@@ -1,9 +1,9 @@
 ---
 title: StartDocument.isStandalone()
-permalink: Java/StartDocument/isStandalone
+permalink: /Java/StartDocument/isStandalone/
 date: 2021-01-11
-key: JavaJava.S.StartDocument
-category: java
+key: Java.S.StartDocument
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

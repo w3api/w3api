@@ -1,9 +1,9 @@
 ---
 title: SecureRandom
-permalink: Java/SecureRandom
+permalink: /Java/SecureRandom/
 date: 2021-01-11
-key: JavaJava.S.SecureRandom
-category: java
+key: Java.S.SecureRandom
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

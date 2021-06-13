@@ -1,9 +1,9 @@
 ---
 title: StandardJavaFileManager.PathFactory
-permalink: Java/StandardJavaFileManager/PathFactory
+permalink: /Java/StandardJavaFileManager/PathFactory/
 date: 2021-01-11
-key: JavaJava.S.StandardJavaFileManager.PathFactory
-category: java
+key: Java.S.StandardJavaFileManager.PathFactory
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'interface java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SingleSelectionModel.getItemCount()
-permalink: Java/SingleSelectionModel-javafx-scene-control/getItemCount
+permalink: /Java/SingleSelectionModel-javafx-scene-control/getItemCount/
 date: 2021-01-11
-key: JavaJava.S.SingleSelectionModel-javafx-scene-control
-category: java
+key: Java.S.SingleSelectionModel-javafx-scene-control
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

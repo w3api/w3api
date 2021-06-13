@@ -1,9 +1,9 @@
 ---
 title: SaslClientFactory.createSaslClient()
-permalink: Java/SaslClientFactory/createSaslClient
+permalink: /Java/SaslClientFactory/createSaslClient/
 date: 2021-01-11
-key: JavaJava.S.SaslClientFactory
-category: java
+key: Java.S.SaslClientFactory
+category: Java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

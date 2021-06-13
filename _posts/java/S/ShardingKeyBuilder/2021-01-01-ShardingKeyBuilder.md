@@ -1,9 +1,9 @@
 ---
 title: ShardingKeyBuilder
-permalink: Java/ShardingKeyBuilder
+permalink: /Java/ShardingKeyBuilder/
 date: 2021-01-11
-key: JavaJava.S.ShardingKeyBuilder
-category: java
+key: Java.S.ShardingKeyBuilder
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'interface java', 'Java 9']
 sidebar: 
   nav: java

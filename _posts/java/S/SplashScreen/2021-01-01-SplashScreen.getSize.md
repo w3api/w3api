@@ -1,9 +1,9 @@
 ---
 title: SplashScreen.getSize()
-permalink: Java/SplashScreen/getSize
+permalink: /Java/SplashScreen/getSize/
 date: 2021-01-11
-key: JavaJava.S.SplashScreen
-category: java
+key: Java.S.SplashScreen
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SSLEngineResult.HandshakeStatus.NOT_HANDSHAKING
-permalink: Java/SSLEngineResult/HandshakeStatus/NOT_HANDSHAKING
+permalink: /Java/SSLEngineResult/HandshakeStatus/NOT_HANDSHAKING/
 date: 2021-01-11
-key: JavaJava.S.SSLEngineResult.HandshakeStatus
-category: java
+key: Java.S.SSLEngineResult.HandshakeStatus
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

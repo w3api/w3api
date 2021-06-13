@@ -1,9 +1,9 @@
 ---
 title: SpinnerValueFactory.ListSpinnerValueFactory.getItems()
-permalink: Java/SpinnerValueFactory/ListSpinnerValueFactory/getItems
+permalink: /Java/SpinnerValueFactory/ListSpinnerValueFactory/getItems/
 date: 2021-01-11
-key: JavaJava.S.SpinnerValueFactory.ListSpinnerValueFactory
-category: java
+key: Java.S.SpinnerValueFactory.ListSpinnerValueFactory
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

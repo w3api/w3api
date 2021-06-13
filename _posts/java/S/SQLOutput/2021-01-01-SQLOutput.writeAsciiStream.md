@@ -1,9 +1,9 @@
 ---
 title: SQLOutput.writeAsciiStream()
-permalink: Java/SQLOutput/writeAsciiStream
+permalink: /Java/SQLOutput/writeAsciiStream/
 date: 2021-01-11
-key: JavaJava.S.SQLOutput
-category: java
+key: Java.S.SQLOutput
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

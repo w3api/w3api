@@ -1,9 +1,9 @@
 ---
 title: StateEdit.undoRedoName
-permalink: Java/StateEdit/undoRedoName
+permalink: /Java/StateEdit/undoRedoName/
 date: 2021-01-11
-key: JavaJava.S.StateEdit
-category: java
+key: Java.S.StateEdit
+category: Java
 tags: ['java se', 'javax.swing.undo', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

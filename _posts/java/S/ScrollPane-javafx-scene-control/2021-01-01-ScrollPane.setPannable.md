@@ -1,9 +1,9 @@
 ---
 title: ScrollPane.setPannable()
-permalink: Java/ScrollPane-javafx-scene-control/setPannable
+permalink: /Java/ScrollPane-javafx-scene-control/setPannable/
 date: 2021-01-11
-key: JavaJava.S.ScrollPane-javafx-scene-control
-category: java
+key: Java.S.ScrollPane-javafx-scene-control
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

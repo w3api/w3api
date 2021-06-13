@@ -1,9 +1,9 @@
 ---
 title: ScrollEvent.VerticalTextScrollUnits.NONE
-permalink: Java/ScrollEvent/VerticalTextScrollUnits/NONE
+permalink: /Java/ScrollEvent/VerticalTextScrollUnits/NONE/
 date: 2021-01-11
-key: JavaJava.S.ScrollEvent.VerticalTextScrollUnits
-category: java
+key: Java.S.ScrollEvent.VerticalTextScrollUnits
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

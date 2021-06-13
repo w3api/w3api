@@ -1,9 +1,9 @@
 ---
 title: SerialTree.getDescription()
-permalink: Java/SerialTree/getDescription
+permalink: /Java/SerialTree/getDescription/
 date: 2021-01-11
-key: JavaJava.S.SerialTree
-category: java
+key: Java.S.SerialTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SQLNonTransientException
-permalink: Java/SQLNonTransientException
+permalink: /Java/SQLNonTransientException/
 date: 2021-01-11
-key: JavaJava.S.SQLNonTransientException
-category: java
+key: Java.S.SQLNonTransientException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SocketImpl.port
-permalink: Java/SocketImpl/port
+permalink: /Java/SocketImpl/port/
 date: 2021-01-11
-key: JavaJava.S.SocketImpl
-category: java
+key: Java.S.SocketImpl
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

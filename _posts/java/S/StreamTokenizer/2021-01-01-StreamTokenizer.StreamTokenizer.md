@@ -1,9 +1,9 @@
 ---
 title: StreamTokenizer.StreamTokenizer()
-permalink: Java/StreamTokenizer/StreamTokenizer
+permalink: /Java/StreamTokenizer/StreamTokenizer/
 date: 2021-01-11
-key: JavaJava.S.StreamTokenizer
-category: java
+key: Java.S.StreamTokenizer
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

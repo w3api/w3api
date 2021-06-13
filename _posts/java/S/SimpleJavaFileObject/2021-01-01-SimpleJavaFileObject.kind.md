@@ -1,9 +1,9 @@
 ---
 title: SimpleJavaFileObject.kind
-permalink: Java/SimpleJavaFileObject/kind
+permalink: /Java/SimpleJavaFileObject/kind/
 date: 2021-01-11
-key: JavaJava.S.SimpleJavaFileObject
-category: java
+key: Java.S.SimpleJavaFileObject
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

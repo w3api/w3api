@@ -1,9 +1,9 @@
 ---
 title: SpinnerNumberModel.getStepSize()
-permalink: Java/SpinnerNumberModel/getStepSize
+permalink: /Java/SpinnerNumberModel/getStepSize/
 date: 2021-01-11
-key: JavaJava.S.SpinnerNumberModel
-category: java
+key: Java.S.SpinnerNumberModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

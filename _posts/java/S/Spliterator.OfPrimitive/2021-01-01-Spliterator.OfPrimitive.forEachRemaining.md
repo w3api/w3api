@@ -1,9 +1,9 @@
 ---
 title: Spliterator.OfPrimitive.forEachRemaining()
-permalink: Java/Spliterator/OfPrimitive/forEachRemaining
+permalink: /Java/Spliterator/OfPrimitive/forEachRemaining/
 date: 2021-01-11
-key: JavaJava.S.Spliterator.OfPrimitive
-category: java
+key: Java.S.Spliterator.OfPrimitive
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

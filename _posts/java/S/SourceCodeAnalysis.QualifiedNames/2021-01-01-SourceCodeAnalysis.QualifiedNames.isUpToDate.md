@@ -1,9 +1,9 @@
 ---
 title: SourceCodeAnalysis.QualifiedNames.isUpToDate()
-permalink: Java/SourceCodeAnalysis/QualifiedNames/isUpToDate
+permalink: /Java/SourceCodeAnalysis/QualifiedNames/isUpToDate/
 date: 2021-01-11
-key: JavaJava.S.SourceCodeAnalysis.QualifiedNames
-category: java
+key: Java.S.SourceCodeAnalysis.QualifiedNames
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ScrollPane
-permalink: Java/ScrollPane/
+permalink: /Java/ScrollPane//
 date: 2021-01-11
-key: JavaJava.S.ScrollPane
-category: java
+key: Java.S.ScrollPane
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

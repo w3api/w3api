@@ -1,9 +1,9 @@
 ---
 title: SpinnerListModel.getValue()
-permalink: Java/SpinnerListModel/getValue
+permalink: /Java/SpinnerListModel/getValue/
 date: 2021-01-11
-key: JavaJava.S.SpinnerListModel
-category: java
+key: Java.S.SpinnerListModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

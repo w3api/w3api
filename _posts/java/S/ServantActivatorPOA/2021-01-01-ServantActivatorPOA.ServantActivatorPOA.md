@@ -1,9 +1,9 @@
 ---
 title: ServantActivatorPOA.ServantActivatorPOA()
-permalink: Java/ServantActivatorPOA/ServantActivatorPOA
+permalink: /Java/ServantActivatorPOA/ServantActivatorPOA/
 date: 2021-01-11
-key: JavaJava.S.ServantActivatorPOA
-category: java
+key: Java.S.ServantActivatorPOA
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

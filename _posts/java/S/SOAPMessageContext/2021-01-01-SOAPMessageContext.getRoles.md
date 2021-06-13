@@ -1,9 +1,9 @@
 ---
 title: SOAPMessageContext.getRoles()
-permalink: Java/SOAPMessageContext/getRoles
+permalink: /Java/SOAPMessageContext/getRoles/
 date: 2021-01-11
-key: JavaJava.S.SOAPMessageContext
-category: java
+key: Java.S.SOAPMessageContext
+category: Java
 tags: ['java se', 'javax.xml.ws.handler.soap', 'java.xml.ws', 'metodo java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

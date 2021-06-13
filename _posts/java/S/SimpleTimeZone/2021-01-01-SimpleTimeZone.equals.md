@@ -1,9 +1,9 @@
 ---
 title: SimpleTimeZone.equals()
-permalink: Java/SimpleTimeZone/equals
+permalink: /Java/SimpleTimeZone/equals/
 date: 2021-01-11
-key: JavaJava.S.SimpleTimeZone
-category: java
+key: Java.S.SimpleTimeZone
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

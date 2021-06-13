@@ -1,9 +1,9 @@
 ---
 title: SignatureSpi.appRandom
-permalink: Java/SignatureSpi/appRandom
+permalink: /Java/SignatureSpi/appRandom/
 date: 2021-01-11
-key: JavaJava.S.SignatureSpi
-category: java
+key: Java.S.SignatureSpi
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

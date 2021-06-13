@@ -1,9 +1,9 @@
 ---
 title: ServiceInformation.service_options
-permalink: Java/ServiceInformation/service_options
+permalink: /Java/ServiceInformation/service_options/
 date: 2021-01-11
-key: JavaJava.S.ServiceInformation
-category: java
+key: Java.S.ServiceInformation
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ServerSocketFactory.getDefault()
-permalink: Java/ServerSocketFactory/getDefault
+permalink: /Java/ServerSocketFactory/getDefault/
 date: 2021-01-11
-key: JavaJava.S.ServerSocketFactory
-category: java
+key: Java.S.ServerSocketFactory
+category: Java
 tags: ['java se', 'javax.net', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

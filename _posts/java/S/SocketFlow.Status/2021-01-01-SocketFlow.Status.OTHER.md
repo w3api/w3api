@@ -1,9 +1,9 @@
 ---
 title: SocketFlow.Status.OTHER
-permalink: Java/SocketFlow/Status/OTHER
+permalink: /Java/SocketFlow/Status/OTHER/
 date: 2021-01-11
-key: JavaJava.S.SocketFlow.Status
-category: java
+key: Java.S.SocketFlow.Status
+category: Java
 tags: ['java se', 'jdk.net', 'jdk.net', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

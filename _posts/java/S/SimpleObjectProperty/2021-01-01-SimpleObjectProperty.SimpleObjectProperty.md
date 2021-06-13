@@ -1,9 +1,9 @@
 ---
 title: SimpleObjectProperty.SimpleObjectProperty()
-permalink: Java/SimpleObjectProperty/SimpleObjectProperty
+permalink: /Java/SimpleObjectProperty/SimpleObjectProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleObjectProperty
-category: java
+key: Java.S.SimpleObjectProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

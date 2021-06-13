@@ -1,9 +1,9 @@
 ---
 title: SQLTimeoutException.SQLTimeoutException()
-permalink: Java/SQLTimeoutException/SQLTimeoutException
+permalink: /Java/SQLTimeoutException/SQLTimeoutException/
 date: 2021-01-11
-key: JavaJava.S.SQLTimeoutException
-category: java
+key: Java.S.SQLTimeoutException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

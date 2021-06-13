@@ -1,9 +1,9 @@
 ---
 title: SSLSessionContext.getSession()
-permalink: Java/SSLSessionContext/getSession
+permalink: /Java/SSLSessionContext/getSession/
 date: 2021-01-11
-key: JavaJava.S.SSLSessionContext
-category: java
+key: Java.S.SSLSessionContext
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

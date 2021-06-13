@@ -1,9 +1,9 @@
 ---
 title: SpringLayout.VERTICAL_CENTER
-permalink: Java/SpringLayout/VERTICAL_CENTER
+permalink: /Java/SpringLayout/VERTICAL_CENTER/
 date: 2021-01-11
-key: JavaJava.S.SpringLayout
-category: java
+key: Java.S.SpringLayout
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

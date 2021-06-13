@@ -1,9 +1,9 @@
 ---
 title: Sequencer
-permalink: Java/Sequencer
+permalink: /Java/Sequencer/
 date: 2021-01-11
-key: JavaJava.S.Sequencer
-category: java
+key: Java.S.Sequencer
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

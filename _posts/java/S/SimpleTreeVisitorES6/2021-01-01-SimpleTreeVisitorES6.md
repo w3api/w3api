@@ -1,9 +1,9 @@
 ---
 title: SimpleTreeVisitorES6
-permalink: Java/SimpleTreeVisitorES6
+permalink: /Java/SimpleTreeVisitorES6/
 date: 2021-01-11
-key: JavaJava.S.SimpleTreeVisitorES6
-category: java
+key: Java.S.SimpleTreeVisitorES6
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StreamPrintServiceFactory
-permalink: Java/StreamPrintServiceFactory
+permalink: /Java/StreamPrintServiceFactory/
 date: 2021-01-11
-key: JavaJava.S.StreamPrintServiceFactory
-category: java
+key: Java.S.StreamPrintServiceFactory
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

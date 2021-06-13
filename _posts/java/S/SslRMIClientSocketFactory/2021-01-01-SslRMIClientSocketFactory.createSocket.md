@@ -1,9 +1,9 @@
 ---
 title: SslRMIClientSocketFactory.createSocket()
-permalink: Java/SslRMIClientSocketFactory/createSocket
+permalink: /Java/SslRMIClientSocketFactory/createSocket/
 date: 2021-01-11
-key: JavaJava.S.SslRMIClientSocketFactory
-category: java
+key: Java.S.SslRMIClientSocketFactory
+category: Java
 tags: ['java se', 'javax.rmi.ssl', 'java.rmi', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

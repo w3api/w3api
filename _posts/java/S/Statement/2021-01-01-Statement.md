@@ -1,9 +1,9 @@
 ---
 title: Statement
-permalink: Java/Statement/
+permalink: /Java/Statement//
 date: 2021-01-11
-key: JavaJava.S.Statement
-category: java
+key: Java.S.Statement
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

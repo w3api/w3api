@@ -1,9 +1,9 @@
 ---
 title: Scrollable
-permalink: Java/Scrollable
+permalink: /Java/Scrollable/
 date: 2021-01-11
-key: JavaJava.S.Scrollable
-category: java
+key: Java.S.Scrollable
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StreamFilter
-permalink: Java/StreamFilter
+permalink: /Java/StreamFilter/
 date: 2021-01-11
-key: JavaJava.S.StreamFilter
-category: java
+key: Java.S.StreamFilter
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

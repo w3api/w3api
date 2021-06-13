@@ -1,9 +1,9 @@
 ---
 title: ServantAlreadyActive
-permalink: Java/ServantAlreadyActive
+permalink: /Java/ServantAlreadyActive/
 date: 2021-01-11
-key: JavaJava.S.ServantAlreadyActive
-category: java
+key: Java.S.ServantAlreadyActive
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

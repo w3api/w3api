@@ -1,9 +1,9 @@
 ---
 title: ShortSeqHelper.id()
-permalink: Java/ShortSeqHelper/id
+permalink: /Java/ShortSeqHelper/id/
 date: 2021-01-11
-key: JavaJava.S.ShortSeqHelper
-category: java
+key: Java.S.ShortSeqHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

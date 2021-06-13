@@ -1,9 +1,9 @@
 ---
 title: SimpleElementVisitor8
-permalink: Java/SimpleElementVisitor8
+permalink: /Java/SimpleElementVisitor8/
 date: 2021-01-11
-key: JavaJava.S.SimpleElementVisitor8
-category: java
+key: Java.S.SimpleElementVisitor8
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

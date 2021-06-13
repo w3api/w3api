@@ -1,9 +1,9 @@
 ---
 title: SimpleSelector.getNodeOrientation()
-permalink: Java/SimpleSelector/getNodeOrientation
+permalink: /Java/SimpleSelector/getNodeOrientation/
 date: 2021-01-11
-key: JavaJava.S.SimpleSelector
-category: java
+key: Java.S.SimpleSelector
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

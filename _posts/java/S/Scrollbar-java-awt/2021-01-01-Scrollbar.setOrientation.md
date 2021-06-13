@@ -1,9 +1,9 @@
 ---
 title: Scrollbar.setOrientation()
-permalink: Java/Scrollbar-java-awt/setOrientation
+permalink: /Java/Scrollbar-java-awt/setOrientation/
 date: 2021-01-11
-key: JavaJava.S.Scrollbar-java-awt
-category: java
+key: Java.S.Scrollbar-java-awt
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

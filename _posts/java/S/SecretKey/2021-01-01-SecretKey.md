@@ -1,9 +1,9 @@
 ---
 title: SecretKey
-permalink: Java/SecretKey
+permalink: /Java/SecretKey/
 date: 2021-01-11
-key: JavaJava.S.SecretKey
-category: java
+key: Java.S.SecretKey
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

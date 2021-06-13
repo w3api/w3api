@@ -1,9 +1,9 @@
 ---
 title: StateFactory
-permalink: Java/StateFactory
+permalink: /Java/StateFactory/
 date: 2021-01-11
-key: JavaJava.S.StateFactory
-category: java
+key: Java.S.StateFactory
+category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

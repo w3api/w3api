@@ -1,9 +1,9 @@
 ---
 title: SimpleTimeZone.useDaylightTime()
-permalink: Java/SimpleTimeZone/useDaylightTime
+permalink: /Java/SimpleTimeZone/useDaylightTime/
 date: 2021-01-11
-key: JavaJava.S.SimpleTimeZone
-category: java
+key: Java.S.SimpleTimeZone
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

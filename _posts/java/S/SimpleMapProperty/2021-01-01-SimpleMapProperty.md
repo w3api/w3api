@@ -1,9 +1,9 @@
 ---
 title: SimpleMapProperty
-permalink: Java/SimpleMapProperty
+permalink: /Java/SimpleMapProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleMapProperty
-category: java
+key: Java.S.SimpleMapProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

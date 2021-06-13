@@ -1,9 +1,9 @@
 ---
 title: SctpChannel.unbindAddress()
-permalink: Java/SctpChannel/unbindAddress
+permalink: /Java/SctpChannel/unbindAddress/
 date: 2021-01-11
-key: JavaJava.S.SctpChannel
-category: java
+key: Java.S.SctpChannel
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

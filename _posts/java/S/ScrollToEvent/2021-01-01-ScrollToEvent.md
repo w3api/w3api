@@ -1,9 +1,9 @@
 ---
 title: ScrollToEvent
-permalink: Java/ScrollToEvent
+permalink: /Java/ScrollToEvent/
 date: 2021-01-11
-key: JavaJava.S.ScrollToEvent
-category: java
+key: Java.S.ScrollToEvent
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SizeUnits.DEG
-permalink: Java/SizeUnits/DEG
+permalink: /Java/SizeUnits/DEG/
 date: 2021-01-11
-key: JavaJava.S.SizeUnits
-category: java
+key: Java.S.SizeUnits
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'campo java', 'Java 9']
 sidebar: 
   nav: java

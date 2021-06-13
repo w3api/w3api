@@ -1,9 +1,9 @@
 ---
 title: ServiceInformationHolder.value
-permalink: Java/ServiceInformationHolder/value
+permalink: /Java/ServiceInformationHolder/value/
 date: 2021-01-11
-key: JavaJava.S.ServiceInformationHolder
-category: java
+key: Java.S.ServiceInformationHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

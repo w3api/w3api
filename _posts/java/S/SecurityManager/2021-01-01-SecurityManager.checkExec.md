@@ -1,9 +1,9 @@
 ---
 title: SecurityManager.checkExec()
-permalink: Java/SecurityManager/checkExec
+permalink: /Java/SecurityManager/checkExec/
 date: 2021-01-11
-key: JavaJava.S.SecurityManager
-category: java
+key: Java.S.SecurityManager
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

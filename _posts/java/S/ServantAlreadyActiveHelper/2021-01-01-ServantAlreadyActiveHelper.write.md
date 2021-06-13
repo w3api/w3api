@@ -1,9 +1,9 @@
 ---
 title: ServantAlreadyActiveHelper.write()
-permalink: Java/ServantAlreadyActiveHelper/write
+permalink: /Java/ServantAlreadyActiveHelper/write/
 date: 2021-01-11
-key: JavaJava.S.ServantAlreadyActiveHelper
-category: java
+key: Java.S.ServantAlreadyActiveHelper
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

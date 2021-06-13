@@ -1,9 +1,9 @@
 ---
 title: SNIServerName.getType()
-permalink: Java/SNIServerName/getType
+permalink: /Java/SNIServerName/getType/
 date: 2021-01-11
-key: JavaJava.S.SNIServerName
-category: java
+key: Java.S.SNIServerName
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

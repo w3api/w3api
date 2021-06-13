@@ -1,9 +1,9 @@
 ---
 title: SignatureSpi.SignatureSpi()
-permalink: Java/SignatureSpi/SignatureSpi
+permalink: /Java/SignatureSpi/SignatureSpi/
 date: 2021-01-11
-key: JavaJava.S.SignatureSpi
-category: java
+key: Java.S.SignatureSpi
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

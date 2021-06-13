@@ -1,9 +1,9 @@
 ---
 title: ScriptEngineManager.getEngineFactories()
-permalink: Java/ScriptEngineManager/getEngineFactories
+permalink: /Java/ScriptEngineManager/getEngineFactories/
 date: 2021-01-11
-key: JavaJava.S.ScriptEngineManager
-category: java
+key: Java.S.ScriptEngineManager
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

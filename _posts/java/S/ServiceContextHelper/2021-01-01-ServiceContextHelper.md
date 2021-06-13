@@ -1,9 +1,9 @@
 ---
 title: ServiceContextHelper
-permalink: Java/ServiceContextHelper
+permalink: /Java/ServiceContextHelper/
 date: 2021-01-11
-key: JavaJava.S.ServiceContextHelper
-category: java
+key: Java.S.ServiceContextHelper
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

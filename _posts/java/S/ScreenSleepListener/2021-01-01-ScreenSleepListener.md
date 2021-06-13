@@ -1,9 +1,9 @@
 ---
 title: ScreenSleepListener
-permalink: Java/ScreenSleepListener
+permalink: /Java/ScreenSleepListener/
 date: 2021-01-11
-key: JavaJava.S.ScreenSleepListener
-category: java
+key: Java.S.ScreenSleepListener
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 
   nav: java

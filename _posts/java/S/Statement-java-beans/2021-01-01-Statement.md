@@ -1,9 +1,9 @@
 ---
 title: Statement
-permalink: Java/Statement-java-beans
+permalink: /Java/Statement-java-beans/
 date: 2021-01-11
-key: JavaJava.S.Statement-java-beans
-category: java
+key: Java.S.Statement-java-beans
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

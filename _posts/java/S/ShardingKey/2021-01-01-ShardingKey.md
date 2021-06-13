@@ -1,9 +1,9 @@
 ---
 title: ShardingKey
-permalink: Java/ShardingKey
+permalink: /Java/ShardingKey/
 date: 2021-01-11
-key: JavaJava.S.ShardingKey
-category: java
+key: Java.S.ShardingKey
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'interface java', 'Java 9']
 sidebar: 
   nav: java

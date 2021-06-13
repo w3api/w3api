@@ -1,9 +1,9 @@
 ---
 title: ScatterChart.ScatterChart()
-permalink: Java/ScatterChart/ScatterChart
+permalink: /Java/ScatterChart/ScatterChart/
 date: 2021-01-11
-key: JavaJava.S.ScatterChart
-category: java
+key: Java.S.ScatterChart
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

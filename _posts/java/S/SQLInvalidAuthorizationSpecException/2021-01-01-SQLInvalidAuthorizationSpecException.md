@@ -1,9 +1,9 @@
 ---
 title: SQLInvalidAuthorizationSpecException
-permalink: Java/SQLInvalidAuthorizationSpecException
+permalink: /Java/SQLInvalidAuthorizationSpecException/
 date: 2021-01-11
-key: JavaJava.S.SQLInvalidAuthorizationSpecException
-category: java
+key: Java.S.SQLInvalidAuthorizationSpecException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

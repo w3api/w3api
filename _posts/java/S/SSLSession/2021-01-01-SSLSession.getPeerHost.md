@@ -1,9 +1,9 @@
 ---
 title: SSLSession.getPeerHost()
-permalink: Java/SSLSession/getPeerHost
+permalink: /Java/SSLSession/getPeerHost/
 date: 2021-01-11
-key: JavaJava.S.SSLSession
-category: java
+key: Java.S.SSLSession
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StartDocument.getCharacterEncodingScheme()
-permalink: Java/StartDocument/getCharacterEncodingScheme
+permalink: /Java/StartDocument/getCharacterEncodingScheme/
 date: 2021-01-11
-key: JavaJava.S.StartDocument
-category: java
+key: Java.S.StartDocument
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

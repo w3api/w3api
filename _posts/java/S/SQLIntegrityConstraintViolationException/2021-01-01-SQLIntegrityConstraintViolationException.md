@@ -1,9 +1,9 @@
 ---
 title: SQLIntegrityConstraintViolationException
-permalink: Java/SQLIntegrityConstraintViolationException
+permalink: /Java/SQLIntegrityConstraintViolationException/
 date: 2021-01-11
-key: JavaJava.S.SQLIntegrityConstraintViolationException
-category: java
+key: Java.S.SQLIntegrityConstraintViolationException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SSLParameters.setWantClientAuth()
-permalink: Java/SSLParameters/setWantClientAuth
+permalink: /Java/SSLParameters/setWantClientAuth/
 date: 2021-01-11
-key: JavaJava.S.SSLParameters
-category: java
+key: Java.S.SSLParameters
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

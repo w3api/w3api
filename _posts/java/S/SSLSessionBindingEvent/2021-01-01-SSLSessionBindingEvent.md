@@ -1,9 +1,9 @@
 ---
 title: SSLSessionBindingEvent
-permalink: Java/SSLSessionBindingEvent
+permalink: /Java/SSLSessionBindingEvent/
 date: 2021-01-11
-key: JavaJava.S.SSLSessionBindingEvent
-category: java
+key: Java.S.SSLSessionBindingEvent
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

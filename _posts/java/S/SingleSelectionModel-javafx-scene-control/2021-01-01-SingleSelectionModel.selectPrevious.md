@@ -1,9 +1,9 @@
 ---
 title: SingleSelectionModel.selectPrevious()
-permalink: Java/SingleSelectionModel-javafx-scene-control/selectPrevious
+permalink: /Java/SingleSelectionModel-javafx-scene-control/selectPrevious/
 date: 2021-01-11
-key: JavaJava.S.SingleSelectionModel-javafx-scene-control
-category: java
+key: Java.S.SingleSelectionModel-javafx-scene-control
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

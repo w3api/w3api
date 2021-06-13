@@ -1,9 +1,9 @@
 ---
 title: SOAPEnvelope
-permalink: Java/SOAPEnvelope
+permalink: /Java/SOAPEnvelope/
 date: 2021-01-11
-key: JavaJava.S.SOAPEnvelope
-category: java
+key: Java.S.SOAPEnvelope
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

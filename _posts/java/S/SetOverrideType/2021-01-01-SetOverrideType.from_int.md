@@ -1,9 +1,9 @@
 ---
 title: SetOverrideType.from_int()
-permalink: Java/SetOverrideType/from_int
+permalink: /Java/SetOverrideType/from_int/
 date: 2021-01-11
-key: JavaJava.S.SetOverrideType
-category: java
+key: Java.S.SetOverrideType
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

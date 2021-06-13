@@ -1,9 +1,9 @@
 ---
 title: SingleInstanceService.removeSingleInstanceListener()
-permalink: Java/SingleInstanceService-javax-jnlp/removeSingleInstanceListener
+permalink: /Java/SingleInstanceService-javax-jnlp/removeSingleInstanceListener/
 date: 2021-01-11
-key: JavaJava.S.SingleInstanceService-javax-jnlp
-category: java
+key: Java.S.SingleInstanceService-javax-jnlp
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

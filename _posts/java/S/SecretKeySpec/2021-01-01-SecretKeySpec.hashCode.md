@@ -1,9 +1,9 @@
 ---
 title: SecretKeySpec.hashCode()
-permalink: Java/SecretKeySpec/hashCode
+permalink: /Java/SecretKeySpec/hashCode/
 date: 2021-01-11
-key: JavaJava.S.SecretKeySpec
-category: java
+key: Java.S.SecretKeySpec
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SimpleMeter.equals()
-permalink: Java/SimpleMeter/equals
+permalink: /Java/SimpleMeter/equals/
 date: 2021-01-11
-key: JavaJava.S.SimpleMeter
-category: java
+key: Java.S.SimpleMeter
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 
   nav: java

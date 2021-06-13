@@ -1,9 +1,9 @@
 ---
 title: StringBufferInputStream.pos
-permalink: Java/StringBufferInputStream/pos
+permalink: /Java/StringBufferInputStream/pos/
 date: 2021-01-11
-key: JavaJava.S.StringBufferInputStream
-category: java
+key: Java.S.StringBufferInputStream
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

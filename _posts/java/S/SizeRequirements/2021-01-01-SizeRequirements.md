@@ -1,9 +1,9 @@
 ---
 title: SizeRequirements
-permalink: Java/SizeRequirements
+permalink: /Java/SizeRequirements/
 date: 2021-01-11
-key: JavaJava.S.SizeRequirements
-category: java
+key: Java.S.SizeRequirements
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

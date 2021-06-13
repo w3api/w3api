@@ -1,9 +1,9 @@
 ---
 title: SourceCodeAnalysis.dependents()
-permalink: Java/SourceCodeAnalysis/dependents
+permalink: /Java/SourceCodeAnalysis/dependents/
 date: 2021-01-11
-key: JavaJava.S.SourceCodeAnalysis
-category: java
+key: Java.S.SourceCodeAnalysis
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

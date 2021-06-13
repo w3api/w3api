@@ -1,9 +1,9 @@
 ---
 title: SSLPermission.SSLPermission()
-permalink: Java/SSLPermission/SSLPermission
+permalink: /Java/SSLPermission/SSLPermission/
 date: 2021-01-11
-key: JavaJava.S.SSLPermission
-category: java
+key: Java.S.SSLPermission
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

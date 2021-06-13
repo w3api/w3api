@@ -1,9 +1,9 @@
 ---
 title: Streamable
-permalink: Java/Streamable
+permalink: /Java/Streamable/
 date: 2021-01-11
-key: JavaJava.S.Streamable
-category: java
+key: Java.S.Streamable
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'interface java', 'JDKJava 1.2']
 sidebar: 
   nav: java

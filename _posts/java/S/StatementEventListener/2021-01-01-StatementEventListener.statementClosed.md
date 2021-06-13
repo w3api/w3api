@@ -1,9 +1,9 @@
 ---
 title: StatementEventListener.statementClosed()
-permalink: Java/StatementEventListener/statementClosed
+permalink: /Java/StatementEventListener/statementClosed/
 date: 2021-01-11
-key: JavaJava.S.StatementEventListener
-category: java
+key: Java.S.StatementEventListener
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

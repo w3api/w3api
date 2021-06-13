@@ -1,9 +1,9 @@
 ---
 title: SOAPHandler
-permalink: Java/SOAPHandler
+permalink: /Java/SOAPHandler/
 date: 2021-01-11
-key: JavaJava.S.SOAPHandler
-category: java
+key: Java.S.SOAPHandler
+category: Java
 tags: ['java se', 'javax.xml.ws.handler.soap', 'java.xml.ws', 'interface java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ShortSeqHolder.ShortSeqHolder()
-permalink: Java/ShortSeqHolder/ShortSeqHolder
+permalink: /Java/ShortSeqHolder/ShortSeqHolder/
 date: 2021-01-11
-key: JavaJava.S.ShortSeqHolder
-category: java
+key: Java.S.ShortSeqHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

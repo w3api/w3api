@@ -1,9 +1,9 @@
 ---
 title: StringIndexOutOfBoundsException.StringIndexOutOfBoundsException()
-permalink: Java/StringIndexOutOfBoundsException/StringIndexOutOfBoundsException
+permalink: /Java/StringIndexOutOfBoundsException/StringIndexOutOfBoundsException/
 date: 2021-01-11
-key: JavaJava.S.StringIndexOutOfBoundsException
-category: java
+key: Java.S.StringIndexOutOfBoundsException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ServantAlreadyActiveHelper.ServantAlreadyActiveHelper()
-permalink: Java/ServantAlreadyActiveHelper/ServantAlreadyActiveHelper
+permalink: /Java/ServantAlreadyActiveHelper/ServantAlreadyActiveHelper/
 date: 2021-01-11
-key: JavaJava.S.ServantAlreadyActiveHelper
-category: java
+key: Java.S.ServantAlreadyActiveHelper
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

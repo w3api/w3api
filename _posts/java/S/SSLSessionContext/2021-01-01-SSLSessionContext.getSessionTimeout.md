@@ -1,9 +1,9 @@
 ---
 title: SSLSessionContext.getSessionTimeout()
-permalink: Java/SSLSessionContext/getSessionTimeout
+permalink: /Java/SSLSessionContext/getSessionTimeout/
 date: 2021-01-11
-key: JavaJava.S.SSLSessionContext
-category: java
+key: Java.S.SSLSessionContext
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

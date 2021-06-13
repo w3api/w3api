@@ -1,9 +1,9 @@
 ---
 title: Spliterators.emptyDoubleSpliterator()
-permalink: Java/Spliterators/emptyDoubleSpliterator
+permalink: /Java/Spliterators/emptyDoubleSpliterator/
 date: 2021-01-11
-key: JavaJava.S.Spliterators
-category: java
+key: Java.S.Spliterators
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

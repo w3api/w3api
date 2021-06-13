@@ -1,9 +1,9 @@
 ---
 title: ServantActivatorHelper
-permalink: Java/ServantActivatorHelper
+permalink: /Java/ServantActivatorHelper/
 date: 2021-01-11
-key: JavaJava.S.ServantActivatorHelper
-category: java
+key: Java.S.ServantActivatorHelper
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

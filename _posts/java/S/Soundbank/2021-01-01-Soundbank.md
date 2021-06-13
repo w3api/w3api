@@ -1,9 +1,9 @@
 ---
 title: Soundbank
-permalink: Java/Soundbank
+permalink: /Java/Soundbank/
 date: 2021-01-11
-key: JavaJava.S.Soundbank
-category: java
+key: Java.S.Soundbank
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

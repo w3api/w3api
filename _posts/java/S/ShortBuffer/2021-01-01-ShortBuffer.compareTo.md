@@ -1,9 +1,9 @@
 ---
 title: ShortBuffer.compareTo()
-permalink: Java/ShortBuffer/compareTo
+permalink: /Java/ShortBuffer/compareTo/
 date: 2021-01-11
-key: JavaJava.S.ShortBuffer
-category: java
+key: Java.S.ShortBuffer
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

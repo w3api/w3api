@@ -1,9 +1,9 @@
 ---
 title: SourceCodeAnalysis
-permalink: Java/SourceCodeAnalysis
+permalink: /Java/SourceCodeAnalysis/
 date: 2021-01-11
-key: JavaJava.S.SourceCodeAnalysis
-category: java
+key: Java.S.SourceCodeAnalysis
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

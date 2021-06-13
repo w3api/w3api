@@ -1,9 +1,9 @@
 ---
 title: StringMonitor
-permalink: Java/StringMonitor
+permalink: /Java/StringMonitor/
 date: 2021-01-11
-key: JavaJava.S.StringMonitor
-category: java
+key: Java.S.StringMonitor
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

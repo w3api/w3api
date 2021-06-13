@@ -1,9 +1,9 @@
 ---
 title: SOAPElement.getNamespacePrefixes()
-permalink: Java/SOAPElement/getNamespacePrefixes
+permalink: /Java/SOAPElement/getNamespacePrefixes/
 date: 2021-01-11
-key: JavaJava.S.SOAPElement
-category: java
+key: Java.S.SOAPElement
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

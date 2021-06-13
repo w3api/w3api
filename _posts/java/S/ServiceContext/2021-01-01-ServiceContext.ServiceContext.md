@@ -1,9 +1,9 @@
 ---
 title: ServiceContext.ServiceContext()
-permalink: Java/ServiceContext/ServiceContext
+permalink: /Java/ServiceContext/ServiceContext/
 date: 2021-01-11
-key: JavaJava.S.ServiceContext
-category: java
+key: Java.S.ServiceContext
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

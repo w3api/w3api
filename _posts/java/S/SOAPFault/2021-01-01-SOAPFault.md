@@ -1,9 +1,9 @@
 ---
 title: SOAPFault
-permalink: Java/SOAPFault
+permalink: /Java/SOAPFault/
 date: 2021-01-11
-key: JavaJava.S.SOAPFault
-category: java
+key: Java.S.SOAPFault
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

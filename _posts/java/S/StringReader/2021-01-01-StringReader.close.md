@@ -1,9 +1,9 @@
 ---
 title: StringReader.close()
-permalink: Java/StringReader/close
+permalink: /Java/StringReader/close/
 date: 2021-01-11
-key: JavaJava.S.StringReader
-category: java
+key: Java.S.StringReader
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

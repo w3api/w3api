@@ -1,9 +1,9 @@
 ---
 title: ServantActivatorHelper.unchecked_narrow()
-permalink: Java/ServantActivatorHelper/unchecked_narrow
+permalink: /Java/ServantActivatorHelper/unchecked_narrow/
 date: 2021-01-11
-key: JavaJava.S.ServantActivatorHelper
-category: java
+key: Java.S.ServantActivatorHelper
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

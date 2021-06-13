@@ -1,9 +1,9 @@
 ---
 title: SetChangeListener.Change.getElementRemoved()
-permalink: Java/SetChangeListener/Change/getElementRemoved
+permalink: /Java/SetChangeListener/Change/getElementRemoved/
 date: 2021-01-11
-key: JavaJava.S.SetChangeListener.Change
-category: java
+key: Java.S.SetChangeListener.Change
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

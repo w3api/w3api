@@ -1,9 +1,9 @@
 ---
 title: SUCCESSFUL
-permalink: Java/SUCCESSFUL
+permalink: /Java/SUCCESSFUL/
 date: 2021-01-11
-key: JavaJava.S.SUCCESSFUL
-category: java
+key: Java.S.SUCCESSFUL
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

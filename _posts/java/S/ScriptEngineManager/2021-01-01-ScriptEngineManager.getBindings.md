@@ -1,9 +1,9 @@
 ---
 title: ScriptEngineManager.getBindings()
-permalink: Java/ScriptEngineManager/getBindings
+permalink: /Java/ScriptEngineManager/getBindings/
 date: 2021-01-11
-key: JavaJava.S.ScriptEngineManager
-category: java
+key: Java.S.ScriptEngineManager
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

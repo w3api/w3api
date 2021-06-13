@@ -1,9 +1,9 @@
 ---
 title: ServiceUnavailableException.ServiceUnavailableException()
-permalink: Java/ServiceUnavailableException/ServiceUnavailableException
+permalink: /Java/ServiceUnavailableException/ServiceUnavailableException/
 date: 2021-01-11
-key: JavaJava.S.ServiceUnavailableException
-category: java
+key: Java.S.ServiceUnavailableException
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SettingDescriptorInfo
-permalink: Java/SettingDescriptorInfo
+permalink: /Java/SettingDescriptorInfo/
 date: 2021-01-11
-key: JavaJava.S.SettingDescriptorInfo
-category: java
+key: Java.S.SettingDescriptorInfo
+category: Java
 tags: ['java se', 'jdk.management.jfr', 'jdk.management.jfr', 'clase java', 'Java 9']
 sidebar: 
   nav: java

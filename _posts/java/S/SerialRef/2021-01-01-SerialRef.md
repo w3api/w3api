@@ -1,9 +1,9 @@
 ---
 title: SerialRef
-permalink: Java/SerialRef
+permalink: /Java/SerialRef/
 date: 2021-01-11
-key: JavaJava.S.SerialRef
-category: java
+key: Java.S.SerialRef
+category: Java
 tags: ['java se', 'javax.sql.rowset.serial', 'java.sql.rowset', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

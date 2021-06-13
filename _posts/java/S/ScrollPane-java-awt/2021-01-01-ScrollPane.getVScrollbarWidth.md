@@ -1,9 +1,9 @@
 ---
 title: ScrollPane.getVScrollbarWidth()
-permalink: Java/ScrollPane-java-awt/getVScrollbarWidth
+permalink: /Java/ScrollPane-java-awt/getVScrollbarWidth/
 date: 2021-01-11
-key: JavaJava.S.ScrollPane-java-awt
-category: java
+key: Java.S.ScrollPane-java-awt
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

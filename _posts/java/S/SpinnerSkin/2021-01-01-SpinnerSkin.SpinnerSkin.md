@@ -1,9 +1,9 @@
 ---
 title: SpinnerSkin.SpinnerSkin()
-permalink: Java/SpinnerSkin/SpinnerSkin
+permalink: /Java/SpinnerSkin/SpinnerSkin/
 date: 2021-01-11
-key: JavaJava.S.SpinnerSkin
-category: java
+key: Java.S.SpinnerSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StateFactory.getStateToBind()
-permalink: Java/StateFactory/getStateToBind
+permalink: /Java/StateFactory/getStateToBind/
 date: 2021-01-11
-key: JavaJava.S.StateFactory
-category: java
+key: Java.S.StateFactory
+category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

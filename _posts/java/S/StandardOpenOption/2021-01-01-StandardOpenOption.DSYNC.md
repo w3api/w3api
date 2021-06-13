@@ -1,9 +1,9 @@
 ---
 title: StandardOpenOption.DSYNC
-permalink: Java/StandardOpenOption/DSYNC
+permalink: /Java/StandardOpenOption/DSYNC/
 date: 2021-01-11
-key: JavaJava.S.StandardOpenOption
-category: java
+key: Java.S.StandardOpenOption
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SplittableRandom
-permalink: Java/SplittableRandom
+permalink: /Java/SplittableRandom/
 date: 2021-01-11
-key: JavaJava.S.SplittableRandom
-category: java
+key: Java.S.SplittableRandom
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

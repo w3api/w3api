@@ -1,9 +1,9 @@
 ---
 title: StandardSocketOptions.SO_REUSEPORT
-permalink: Java/StandardSocketOptions/SO_REUSEPORT
+permalink: /Java/StandardSocketOptions/SO_REUSEPORT/
 date: 2021-01-11
-key: JavaJava.S.StandardSocketOptions
-category: java
+key: Java.S.StandardSocketOptions
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

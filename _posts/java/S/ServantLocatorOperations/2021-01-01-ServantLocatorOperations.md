@@ -1,9 +1,9 @@
 ---
 title: ServantLocatorOperations
-permalink: Java/ServantLocatorOperations
+permalink: /Java/ServantLocatorOperations/
 date: 2021-01-11
-key: JavaJava.S.ServantLocatorOperations
-category: java
+key: Java.S.ServantLocatorOperations
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

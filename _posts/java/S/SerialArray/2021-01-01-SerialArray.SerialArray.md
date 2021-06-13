@@ -1,9 +1,9 @@
 ---
 title: SerialArray.SerialArray()
-permalink: Java/SerialArray/SerialArray
+permalink: /Java/SerialArray/SerialArray/
 date: 2021-01-11
-key: JavaJava.S.SerialArray
-category: java
+key: Java.S.SerialArray
+category: Java
 tags: ['java se', 'javax.sql.rowset.serial', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

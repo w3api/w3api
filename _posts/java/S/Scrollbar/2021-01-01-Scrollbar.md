@@ -1,9 +1,9 @@
 ---
 title: Scrollbar
-permalink: Java/Scrollbar/
+permalink: /Java/Scrollbar//
 date: 2021-01-11
-key: JavaJava.S.Scrollbar
-category: java
+key: Java.S.Scrollbar
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

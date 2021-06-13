@@ -1,9 +1,9 @@
 ---
 title: SecurityManager
-permalink: Java/SecurityManager
+permalink: /Java/SecurityManager/
 date: 2021-01-11
-key: JavaJava.S.SecurityManager
-category: java
+key: Java.S.SecurityManager
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

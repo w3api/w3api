@@ -1,9 +1,9 @@
 ---
 title: Spliterator.OfDouble
-permalink: Java/Spliterator/OfDouble
+permalink: /Java/Spliterator/OfDouble/
 date: 2021-01-11
-key: JavaJava.S.Spliterator.OfDouble
-category: java
+key: Java.S.Spliterator.OfDouble
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

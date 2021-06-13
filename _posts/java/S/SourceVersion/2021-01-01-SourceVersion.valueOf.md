@@ -1,9 +1,9 @@
 ---
 title: SourceVersion.valueOf()
-permalink: Java/SourceVersion/valueOf
+permalink: /Java/SourceVersion/valueOf/
 date: 2021-01-11
-key: JavaJava.S.SourceVersion
-category: java
+key: Java.S.SourceVersion
+category: Java
 tags: ['java se', 'javax.lang.model', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

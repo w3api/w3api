@@ -1,9 +1,9 @@
 ---
 title: ScriptUtils.unwrapArray()
-permalink: Java/ScriptUtils/unwrapArray
+permalink: /Java/ScriptUtils/unwrapArray/
 date: 2021-01-11
-key: JavaJava.S.ScriptUtils
-category: java
+key: Java.S.ScriptUtils
+category: Java
 tags: ['java se', 'jdk.nashorn.api.scripting', 'jdk.scripting.nashorn', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

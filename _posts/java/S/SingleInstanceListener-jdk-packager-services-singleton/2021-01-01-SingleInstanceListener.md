@@ -1,9 +1,9 @@
 ---
 title: SingleInstanceListener
-permalink: Java/SingleInstanceListener-jdk-packager-services-singleton
+permalink: /Java/SingleInstanceListener-jdk-packager-services-singleton/
 date: 2021-01-11
-key: JavaJava.S.SingleInstanceListener-jdk-packager-services-singleton
-category: java
+key: Java.S.SingleInstanceListener-jdk-packager-services-singleton
+category: Java
 tags: ['java se', 'jdk.packager.services.singleton', 'jdk.packager.services', 'interface java', '10']
 sidebar: 
   nav: java

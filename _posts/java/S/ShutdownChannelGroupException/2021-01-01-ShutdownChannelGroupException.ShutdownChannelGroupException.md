@@ -1,9 +1,9 @@
 ---
 title: ShutdownChannelGroupException.ShutdownChannelGroupException()
-permalink: Java/ShutdownChannelGroupException/ShutdownChannelGroupException
+permalink: /Java/ShutdownChannelGroupException/ShutdownChannelGroupException/
 date: 2021-01-11
-key: JavaJava.S.ShutdownChannelGroupException
-category: java
+key: Java.S.ShutdownChannelGroupException
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

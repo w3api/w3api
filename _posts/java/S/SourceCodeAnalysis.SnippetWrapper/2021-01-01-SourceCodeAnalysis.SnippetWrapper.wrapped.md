@@ -1,9 +1,9 @@
 ---
 title: SourceCodeAnalysis.SnippetWrapper.wrapped()
-permalink: Java/SourceCodeAnalysis/SnippetWrapper/wrapped
+permalink: /Java/SourceCodeAnalysis/SnippetWrapper/wrapped/
 date: 2021-01-11
-key: JavaJava.S.SourceCodeAnalysis.SnippetWrapper
-category: java
+key: Java.S.SourceCodeAnalysis.SnippetWrapper
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

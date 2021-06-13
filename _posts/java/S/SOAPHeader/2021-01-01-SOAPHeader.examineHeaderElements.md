@@ -1,9 +1,9 @@
 ---
 title: SOAPHeader.examineHeaderElements()
-permalink: Java/SOAPHeader/examineHeaderElements
+permalink: /Java/SOAPHeader/examineHeaderElements/
 date: 2021-01-11
-key: JavaJava.S.SOAPHeader
-category: java
+key: Java.S.SOAPHeader
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

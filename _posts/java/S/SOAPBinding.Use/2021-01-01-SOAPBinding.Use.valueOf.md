@@ -1,9 +1,9 @@
 ---
 title: SOAPBinding.Use.valueOf()
-permalink: Java/SOAPBinding/Use/valueOf
+permalink: /Java/SOAPBinding/Use/valueOf/
 date: 2021-01-11
-key: JavaJava.S.SOAPBinding.Use
-category: java
+key: Java.S.SOAPBinding.Use
+category: Java
 tags: ['java se', 'javax.jws.soap', 'java.xml.ws', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

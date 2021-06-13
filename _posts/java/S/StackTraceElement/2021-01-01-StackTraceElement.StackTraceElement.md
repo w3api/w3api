@@ -1,9 +1,9 @@
 ---
 title: StackTraceElement.StackTraceElement()
-permalink: Java/StackTraceElement/StackTraceElement
+permalink: /Java/StackTraceElement/StackTraceElement/
 date: 2021-01-11
-key: JavaJava.S.StackTraceElement
-category: java
+key: Java.S.StackTraceElement
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

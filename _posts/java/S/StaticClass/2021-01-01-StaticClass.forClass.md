@@ -1,9 +1,9 @@
 ---
 title: StaticClass.forClass()
-permalink: Java/StaticClass/forClass
+permalink: /Java/StaticClass/forClass/
 date: 2021-01-11
-key: JavaJava.S.StaticClass
-category: java
+key: Java.S.StaticClass
+category: Java
 tags: ['java se', 'jdk.dynalink.beans', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

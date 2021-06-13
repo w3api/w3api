@@ -1,9 +1,9 @@
 ---
 title: ScriptEngineFactory.getOutputStatement()
-permalink: Java/ScriptEngineFactory/getOutputStatement
+permalink: /Java/ScriptEngineFactory/getOutputStatement/
 date: 2021-01-11
-key: JavaJava.S.ScriptEngineFactory
-category: java
+key: Java.S.ScriptEngineFactory
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

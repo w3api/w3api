@@ -1,9 +1,9 @@
 ---
 title: SYSTEM_EXCEPTION
-permalink: Java/SYSTEM_EXCEPTION
+permalink: /Java/SYSTEM_EXCEPTION/
 date: 2021-01-11
-key: JavaJava.S.SYSTEM_EXCEPTION
-category: java
+key: Java.S.SYSTEM_EXCEPTION
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

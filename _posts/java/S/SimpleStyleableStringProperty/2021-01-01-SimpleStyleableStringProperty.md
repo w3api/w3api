@@ -1,9 +1,9 @@
 ---
 title: SimpleStyleableStringProperty
-permalink: Java/SimpleStyleableStringProperty
+permalink: /Java/SimpleStyleableStringProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleStyleableStringProperty
-category: java
+key: Java.S.SimpleStyleableStringProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

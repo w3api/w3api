@@ -1,9 +1,9 @@
 ---
 title: SSLProtocolException
-permalink: Java/SSLProtocolException
+permalink: /Java/SSLProtocolException/
 date: 2021-01-11
-key: JavaJava.S.SSLProtocolException
-category: java
+key: Java.S.SSLProtocolException
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

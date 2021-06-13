@@ -1,9 +1,9 @@
 ---
 title: StandardJavaFileManager.getJavaFileObjectsFromStrings()
-permalink: Java/StandardJavaFileManager/getJavaFileObjectsFromStrings
+permalink: /Java/StandardJavaFileManager/getJavaFileObjectsFromStrings/
 date: 2021-01-11
-key: JavaJava.S.StandardJavaFileManager
-category: java
+key: Java.S.StandardJavaFileManager
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

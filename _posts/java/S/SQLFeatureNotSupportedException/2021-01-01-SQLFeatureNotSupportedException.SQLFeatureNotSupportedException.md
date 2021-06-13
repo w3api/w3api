@@ -1,9 +1,9 @@
 ---
 title: SQLFeatureNotSupportedException.SQLFeatureNotSupportedException()
-permalink: Java/SQLFeatureNotSupportedException/SQLFeatureNotSupportedException
+permalink: /Java/SQLFeatureNotSupportedException/SQLFeatureNotSupportedException/
 date: 2021-01-11
-key: JavaJava.S.SQLFeatureNotSupportedException
-category: java
+key: Java.S.SQLFeatureNotSupportedException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

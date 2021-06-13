@@ -1,9 +1,9 @@
 ---
 title: StackedBarChart.getCssMetaData()
-permalink: Java/StackedBarChart/getCssMetaData
+permalink: /Java/StackedBarChart/getCssMetaData/
 date: 2021-01-11
-key: JavaJava.S.StackedBarChart
-category: java
+key: Java.S.StackedBarChart
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

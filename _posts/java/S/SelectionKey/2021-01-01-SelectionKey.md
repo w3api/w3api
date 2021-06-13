@@ -1,9 +1,9 @@
 ---
 title: SelectionKey
-permalink: Java/SelectionKey
+permalink: /Java/SelectionKey/
 date: 2021-01-11
-key: JavaJava.S.SelectionKey
-category: java
+key: Java.S.SelectionKey
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

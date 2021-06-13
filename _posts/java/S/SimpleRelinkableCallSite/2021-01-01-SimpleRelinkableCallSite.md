@@ -1,9 +1,9 @@
 ---
 title: SimpleRelinkableCallSite
-permalink: Java/SimpleRelinkableCallSite
+permalink: /Java/SimpleRelinkableCallSite/
 date: 2021-01-11
-key: JavaJava.S.SimpleRelinkableCallSite
-category: java
+key: Java.S.SimpleRelinkableCallSite
+category: Java
 tags: ['java se', 'jdk.dynalink.support', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

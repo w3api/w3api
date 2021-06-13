@@ -1,9 +1,9 @@
 ---
 title: SpreadTree.getExpression()
-permalink: Java/SpreadTree/getExpression
+permalink: /Java/SpreadTree/getExpression/
 date: 2021-01-11
-key: JavaJava.S.SpreadTree
-category: java
+key: Java.S.SpreadTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

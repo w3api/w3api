@@ -1,9 +1,9 @@
 ---
 title: StringBuffer.subSequence()
-permalink: Java/StringBuffer/subSequence
+permalink: /Java/StringBuffer/subSequence/
 date: 2021-01-11
-key: JavaJava.S.StringBuffer
-category: java
+key: Java.S.StringBuffer
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

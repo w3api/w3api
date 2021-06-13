@@ -1,9 +1,9 @@
 ---
 title: SSLServerSocket
-permalink: Java/SSLServerSocket
+permalink: /Java/SSLServerSocket/
 date: 2021-01-11
-key: JavaJava.S.SSLServerSocket
-category: java
+key: Java.S.SSLServerSocket
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

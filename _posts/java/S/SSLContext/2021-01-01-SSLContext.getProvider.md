@@ -1,9 +1,9 @@
 ---
 title: SSLContext.getProvider()
-permalink: Java/SSLContext/getProvider
+permalink: /Java/SSLContext/getProvider/
 date: 2021-01-11
-key: JavaJava.S.SSLContext
-category: java
+key: Java.S.SSLContext
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

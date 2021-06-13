@@ -1,9 +1,9 @@
 ---
 title: ServerRequestInterceptorOperations.send_exception()
-permalink: Java/ServerRequestInterceptorOperations/send_exception
+permalink: /Java/ServerRequestInterceptorOperations/send_exception/
 date: 2021-01-11
-key: JavaJava.S.ServerRequestInterceptorOperations
-category: java
+key: Java.S.ServerRequestInterceptorOperations
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

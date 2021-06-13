@@ -1,9 +1,9 @@
 ---
 title: ShortHolder._read()
-permalink: Java/ShortHolder/_read
+permalink: /Java/ShortHolder/_read/
 date: 2021-01-11
-key: JavaJava.S.ShortHolder
-category: java
+key: Java.S.ShortHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

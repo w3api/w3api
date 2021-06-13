@@ -1,9 +1,9 @@
 ---
 title: StringConverter
-permalink: Java/StringConverter-javafx-util
+permalink: /Java/StringConverter-javafx-util/
 date: 2021-01-11
-key: JavaJava.S.StringConverter-javafx-util
-category: java
+key: Java.S.StringConverter-javafx-util
+category: Java
 tags: ['java se', 'javafx.util', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

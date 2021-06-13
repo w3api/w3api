@@ -1,9 +1,9 @@
 ---
 title: SortControl.OID
-permalink: Java/SortControl/OID
+permalink: /Java/SortControl/OID/
 date: 2021-01-11
-key: JavaJava.S.SortControl
-category: java
+key: Java.S.SortControl
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

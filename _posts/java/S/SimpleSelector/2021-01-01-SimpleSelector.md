@@ -1,9 +1,9 @@
 ---
 title: SimpleSelector
-permalink: Java/SimpleSelector
+permalink: /Java/SimpleSelector/
 date: 2021-01-11
-key: JavaJava.S.SimpleSelector
-category: java
+key: Java.S.SimpleSelector
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 
   nav: java

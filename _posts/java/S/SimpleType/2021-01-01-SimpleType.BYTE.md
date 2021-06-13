@@ -1,9 +1,9 @@
 ---
 title: SimpleType.BYTE
-permalink: Java/SimpleType/BYTE
+permalink: /Java/SimpleType/BYTE/
 date: 2021-01-11
-key: JavaJava.S.SimpleType
-category: java
+key: Java.S.SimpleType
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

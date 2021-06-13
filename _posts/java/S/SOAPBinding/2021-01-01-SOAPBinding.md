@@ -1,9 +1,9 @@
 ---
 title: SOAPBinding
-permalink: Java/SOAPBinding/
+permalink: /Java/SOAPBinding//
 date: 2021-01-11
-key: JavaJava.S.SOAPBinding
-category: java
+key: Java.S.SOAPBinding
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

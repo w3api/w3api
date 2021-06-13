@@ -1,9 +1,9 @@
 ---
 title: StackWalker.Option
-permalink: Java/StackWalker/Option
+permalink: /Java/StackWalker/Option/
 date: 2021-01-11
-key: JavaJava.S.StackWalker.Option
-category: java
+key: Java.S.StackWalker.Option
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'enumerado java', 'Java 9']
 sidebar: 
   nav: java

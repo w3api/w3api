@@ -1,9 +1,9 @@
 ---
 title: SimpleAnnotationValueVisitor9
-permalink: Java/SimpleAnnotationValueVisitor9
+permalink: /Java/SimpleAnnotationValueVisitor9/
 date: 2021-01-11
-key: JavaJava.S.SimpleAnnotationValueVisitor9
-category: java
+key: Java.S.SimpleAnnotationValueVisitor9
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 9']
 sidebar: 
   nav: java

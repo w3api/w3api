@@ -1,9 +1,9 @@
 ---
 title: SecondaryLoop.enter()
-permalink: Java/SecondaryLoop/enter
+permalink: /Java/SecondaryLoop/enter/
 date: 2021-01-11
-key: JavaJava.S.SecondaryLoop
-category: java
+key: Java.S.SecondaryLoop
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ShortMessage
-permalink: Java/ShortMessage
+permalink: /Java/ShortMessage/
 date: 2021-01-11
-key: JavaJava.S.ShortMessage
-category: java
+key: Java.S.ShortMessage
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

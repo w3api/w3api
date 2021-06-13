@@ -1,9 +1,9 @@
 ---
 title: SocketTimeoutException
-permalink: Java/SocketTimeoutException
+permalink: /Java/SocketTimeoutException/
 date: 2021-01-11
-key: JavaJava.S.SocketTimeoutException
-category: java
+key: Java.S.SocketTimeoutException
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

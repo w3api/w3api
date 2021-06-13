@@ -1,9 +1,9 @@
 ---
 title: SOAPBinding.ParameterStyle.BARE
-permalink: Java/SOAPBinding/ParameterStyle/BARE
+permalink: /Java/SOAPBinding/ParameterStyle/BARE/
 date: 2021-01-11
-key: JavaJava.S.SOAPBinding.ParameterStyle
-category: java
+key: Java.S.SOAPBinding.ParameterStyle
+category: Java
 tags: ['java se', 'javax.jws.soap', 'java.xml.ws', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

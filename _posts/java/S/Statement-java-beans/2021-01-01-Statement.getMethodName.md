@@ -1,9 +1,9 @@
 ---
 title: Statement.getMethodName()
-permalink: Java/Statement-java-beans/getMethodName
+permalink: /Java/Statement-java-beans/getMethodName/
 date: 2021-01-11
-key: JavaJava.S.Statement-java-beans
-category: java
+key: Java.S.Statement-java-beans
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

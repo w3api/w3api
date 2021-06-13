@@ -1,9 +1,9 @@
 ---
 title: SingleInstanceListener
-permalink: Java/SingleInstanceListener/
+permalink: /Java/SingleInstanceListener//
 date: 2021-01-11
-key: JavaJava.S.SingleInstanceListener
-category: java
+key: Java.S.SingleInstanceListener
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

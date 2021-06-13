@@ -1,9 +1,9 @@
 ---
 title: ServiceUIFactory.RESERVED_UIROLE
-permalink: Java/ServiceUIFactory/RESERVED_UIROLE
+permalink: /Java/ServiceUIFactory/RESERVED_UIROLE/
 date: 2021-01-11
-key: JavaJava.S.ServiceUIFactory
-category: java
+key: Java.S.ServiceUIFactory
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

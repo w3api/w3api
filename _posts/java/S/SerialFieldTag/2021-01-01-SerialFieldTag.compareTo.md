@@ -1,9 +1,9 @@
 ---
 title: SerialFieldTag.compareTo()
-permalink: Java/SerialFieldTag/compareTo
+permalink: /Java/SerialFieldTag/compareTo/
 date: 2021-01-11
-key: JavaJava.S.SerialFieldTag
-category: java
+key: Java.S.SerialFieldTag
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

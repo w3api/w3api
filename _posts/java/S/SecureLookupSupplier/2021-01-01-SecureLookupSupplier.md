@@ -1,9 +1,9 @@
 ---
 title: SecureLookupSupplier
-permalink: Java/SecureLookupSupplier
+permalink: /Java/SecureLookupSupplier/
 date: 2021-01-11
-key: JavaJava.S.SecureLookupSupplier
-category: java
+key: Java.S.SecureLookupSupplier
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

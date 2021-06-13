@@ -1,9 +1,9 @@
 ---
 title: SocketSecurityException.SocketSecurityException()
-permalink: Java/SocketSecurityException/SocketSecurityException
+permalink: /Java/SocketSecurityException/SocketSecurityException/
 date: 2021-01-11
-key: JavaJava.S.SocketSecurityException
-category: java
+key: Java.S.SocketSecurityException
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

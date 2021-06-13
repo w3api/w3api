@@ -1,9 +1,9 @@
 ---
 title: StackWalker.Option.RETAIN_CLASS_REFERENCE
-permalink: Java/StackWalker/Option/RETAIN_CLASS_REFERENCE
+permalink: /Java/StackWalker/Option/RETAIN_CLASS_REFERENCE/
 date: 2021-01-11
-key: JavaJava.S.StackWalker.Option
-category: java
+key: Java.S.StackWalker.Option
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'campo java', 'Java 9']
 sidebar: 
   nav: java

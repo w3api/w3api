@@ -1,9 +1,9 @@
 ---
 title: StrictMath.atan2()
-permalink: Java/StrictMath/atan2
+permalink: /Java/StrictMath/atan2/
 date: 2021-01-11
-key: JavaJava.S.StrictMath
-category: java
+key: Java.S.StrictMath
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

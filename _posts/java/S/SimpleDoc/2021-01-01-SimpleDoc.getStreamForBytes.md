@@ -1,9 +1,9 @@
 ---
 title: SimpleDoc.getStreamForBytes()
-permalink: Java/SimpleDoc/getStreamForBytes
+permalink: /Java/SimpleDoc/getStreamForBytes/
 date: 2021-01-11
-key: JavaJava.S.SimpleDoc
-category: java
+key: Java.S.SimpleDoc
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

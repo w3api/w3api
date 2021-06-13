@@ -1,9 +1,9 @@
 ---
 title: SingleInstanceService.unregisterSingleInstance()
-permalink: Java/SingleInstanceService-jdk-packager-services-singleton/unregisterSingleInstance
+permalink: /Java/SingleInstanceService-jdk-packager-services-singleton/unregisterSingleInstance/
 date: 2021-01-11
-key: JavaJava.S.SingleInstanceService-jdk-packager-services-singleton
-category: java
+key: Java.S.SingleInstanceService-jdk-packager-services-singleton
+category: Java
 tags: ['java se', 'jdk.packager.services.singleton', 'jdk.packager.services', 'metodo java', '10']
 sidebar: 
   nav: java

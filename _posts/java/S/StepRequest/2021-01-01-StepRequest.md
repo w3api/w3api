@@ -1,9 +1,9 @@
 ---
 title: StepRequest
-permalink: Java/StepRequest
+permalink: /Java/StepRequest/
 date: 2021-01-11
-key: JavaJava.S.StepRequest
-category: java
+key: Java.S.StepRequest
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

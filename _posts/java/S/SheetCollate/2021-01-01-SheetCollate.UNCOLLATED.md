@@ -1,9 +1,9 @@
 ---
 title: SheetCollate.UNCOLLATED
-permalink: Java/SheetCollate/UNCOLLATED
+permalink: /Java/SheetCollate/UNCOLLATED/
 date: 2021-01-11
-key: JavaJava.S.SheetCollate
-category: java
+key: Java.S.SheetCollate
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

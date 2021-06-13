@@ -1,9 +1,9 @@
 ---
 title: StreamReaderDelegate.setParent()
-permalink: Java/StreamReaderDelegate/setParent
+permalink: /Java/StreamReaderDelegate/setParent/
 date: 2021-01-11
-key: JavaJava.S.StreamReaderDelegate
-category: java
+key: Java.S.StreamReaderDelegate
+category: Java
 tags: ['java se', 'javax.xml.stream.util', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SSLEngineResult.Status.valueOf()
-permalink: Java/SSLEngineResult/Status/valueOf
+permalink: /Java/SSLEngineResult/Status/valueOf/
 date: 2021-01-11
-key: JavaJava.S.SSLEngineResult.Status
-category: java
+key: Java.S.SSLEngineResult.Status
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

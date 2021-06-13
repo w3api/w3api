@@ -1,9 +1,9 @@
 ---
 title: StatementEventListener
-permalink: Java/StatementEventListener
+permalink: /Java/StatementEventListener/
 date: 2021-01-11
-key: JavaJava.S.StatementEventListener
-category: java
+key: Java.S.StatementEventListener
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

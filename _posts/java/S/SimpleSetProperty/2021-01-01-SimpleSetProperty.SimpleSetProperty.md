@@ -1,9 +1,9 @@
 ---
 title: SimpleSetProperty.SimpleSetProperty()
-permalink: Java/SimpleSetProperty/SimpleSetProperty
+permalink: /Java/SimpleSetProperty/SimpleSetProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleSetProperty
-category: java
+key: Java.S.SimpleSetProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

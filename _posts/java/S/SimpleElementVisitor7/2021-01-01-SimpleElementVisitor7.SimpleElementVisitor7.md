@@ -1,9 +1,9 @@
 ---
 title: SimpleElementVisitor7.SimpleElementVisitor7()
-permalink: Java/SimpleElementVisitor7/SimpleElementVisitor7
+permalink: /Java/SimpleElementVisitor7/SimpleElementVisitor7/
 date: 2021-01-11
-key: JavaJava.S.SimpleElementVisitor7
-category: java
+key: Java.S.SimpleElementVisitor7
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

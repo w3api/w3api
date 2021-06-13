@@ -1,9 +1,9 @@
 ---
 title: StreamCorruptedException.StreamCorruptedException()
-permalink: Java/StreamCorruptedException/StreamCorruptedException
+permalink: /Java/StreamCorruptedException/StreamCorruptedException/
 date: 2021-01-11
-key: JavaJava.S.StreamCorruptedException
-category: java
+key: Java.S.StreamCorruptedException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

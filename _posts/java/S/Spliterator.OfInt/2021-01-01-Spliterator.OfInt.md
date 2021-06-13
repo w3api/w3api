@@ -1,9 +1,9 @@
 ---
 title: Spliterator.OfInt
-permalink: Java/Spliterator/OfInt
+permalink: /Java/Spliterator/OfInt/
 date: 2021-01-11
-key: JavaJava.S.Spliterator.OfInt
-category: java
+key: Java.S.Spliterator.OfInt
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

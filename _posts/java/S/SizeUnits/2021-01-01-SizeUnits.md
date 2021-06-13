@@ -1,9 +1,9 @@
 ---
 title: SizeUnits
-permalink: Java/SizeUnits
+permalink: /Java/SizeUnits/
 date: 2021-01-11
-key: JavaJava.S.SizeUnits
-category: java
+key: Java.S.SizeUnits
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'enumerado java', 'Java 9']
 sidebar: 
   nav: java

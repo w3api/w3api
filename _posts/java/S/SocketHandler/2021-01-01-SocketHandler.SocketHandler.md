@@ -1,9 +1,9 @@
 ---
 title: SocketHandler.SocketHandler()
-permalink: Java/SocketHandler/SocketHandler
+permalink: /Java/SocketHandler/SocketHandler/
 date: 2021-01-11
-key: JavaJava.S.SocketHandler
-category: java
+key: Java.S.SocketHandler
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

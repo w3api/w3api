@@ -1,9 +1,9 @@
 ---
 title: SignStyle.values()
-permalink: Java/SignStyle/values
+permalink: /Java/SignStyle/values/
 date: 2021-01-11
-key: JavaJava.S.SignStyle
-category: java
+key: Java.S.SignStyle
+category: Java
 tags: ['java se', 'java.time.format', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

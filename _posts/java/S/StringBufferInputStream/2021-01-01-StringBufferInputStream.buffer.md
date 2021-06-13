@@ -1,9 +1,9 @@
 ---
 title: StringBufferInputStream.buffer
-permalink: Java/StringBufferInputStream/buffer
+permalink: /Java/StringBufferInputStream/buffer/
 date: 2021-01-11
-key: JavaJava.S.StringBufferInputStream
-category: java
+key: Java.S.StringBufferInputStream
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SkeletonMismatchException.SkeletonMismatchException()
-permalink: Java/SkeletonMismatchException/SkeletonMismatchException
+permalink: /Java/SkeletonMismatchException/SkeletonMismatchException/
 date: 2021-01-11
-key: JavaJava.S.SkeletonMismatchException
-category: java
+key: Java.S.SkeletonMismatchException
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

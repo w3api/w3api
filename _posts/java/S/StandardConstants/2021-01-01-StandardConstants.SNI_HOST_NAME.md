@@ -1,9 +1,9 @@
 ---
 title: StandardConstants.SNI_HOST_NAME
-permalink: Java/StandardConstants/SNI_HOST_NAME
+permalink: /Java/StandardConstants/SNI_HOST_NAME/
 date: 2021-01-11
-key: JavaJava.S.StandardConstants
-category: java
+key: Java.S.StandardConstants
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

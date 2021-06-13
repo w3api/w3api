@@ -1,9 +1,9 @@
 ---
 title: SkeletonNotFoundException.SkeletonNotFoundException()
-permalink: Java/SkeletonNotFoundException/SkeletonNotFoundException
+permalink: /Java/SkeletonNotFoundException/SkeletonNotFoundException/
 date: 2021-01-11
-key: JavaJava.S.SkeletonNotFoundException
-category: java
+key: Java.S.SkeletonNotFoundException
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

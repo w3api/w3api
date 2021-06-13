@@ -1,9 +1,9 @@
 ---
 title: StreamResult.FEATURE
-permalink: Java/StreamResult/FEATURE
+permalink: /Java/StreamResult/FEATURE/
 date: 2021-01-11
-key: JavaJava.S.StreamResult
-category: java
+key: Java.S.StreamResult
+category: Java
 tags: ['java se', 'javax.xml.transform.stream', 'java.xml', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

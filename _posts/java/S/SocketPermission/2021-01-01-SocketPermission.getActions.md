@@ -1,9 +1,9 @@
 ---
 title: SocketPermission.getActions()
-permalink: Java/SocketPermission/getActions
+permalink: /Java/SocketPermission/getActions/
 date: 2021-01-11
-key: JavaJava.S.SocketPermission
-category: java
+key: Java.S.SocketPermission
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

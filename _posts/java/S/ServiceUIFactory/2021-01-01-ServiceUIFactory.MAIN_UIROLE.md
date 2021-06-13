@@ -1,9 +1,9 @@
 ---
 title: ServiceUIFactory.MAIN_UIROLE
-permalink: Java/ServiceUIFactory/MAIN_UIROLE
+permalink: /Java/ServiceUIFactory/MAIN_UIROLE/
 date: 2021-01-11
-key: JavaJava.S.ServiceUIFactory
-category: java
+key: Java.S.ServiceUIFactory
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

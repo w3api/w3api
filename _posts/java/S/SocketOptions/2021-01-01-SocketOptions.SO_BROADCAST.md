@@ -1,9 +1,9 @@
 ---
 title: SocketOptions.SO_BROADCAST
-permalink: Java/SocketOptions/SO_BROADCAST
+permalink: /Java/SocketOptions/SO_BROADCAST/
 date: 2021-01-11
-key: JavaJava.S.SocketOptions
-category: java
+key: Java.S.SocketOptions
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

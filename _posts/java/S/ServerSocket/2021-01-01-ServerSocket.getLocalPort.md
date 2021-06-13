@@ -1,9 +1,9 @@
 ---
 title: ServerSocket.getLocalPort()
-permalink: Java/ServerSocket/getLocalPort
+permalink: /Java/ServerSocket/getLocalPort/
 date: 2021-01-11
-key: JavaJava.S.ServerSocket
-category: java
+key: Java.S.ServerSocket
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

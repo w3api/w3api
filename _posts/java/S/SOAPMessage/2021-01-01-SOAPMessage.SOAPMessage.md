@@ -1,9 +1,9 @@
 ---
 title: SOAPMessage.SOAPMessage()
-permalink: Java/SOAPMessage/SOAPMessage
+permalink: /Java/SOAPMessage/SOAPMessage/
 date: 2021-01-11
-key: JavaJava.S.SOAPMessage
-category: java
+key: Java.S.SOAPMessage
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

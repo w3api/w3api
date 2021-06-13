@@ -1,9 +1,9 @@
 ---
 title: SerializedLambda.getCapturedArg()
-permalink: Java/SerializedLambda/getCapturedArg
+permalink: /Java/SerializedLambda/getCapturedArg/
 date: 2021-01-11
-key: JavaJava.S.SerializedLambda
-category: java
+key: Java.S.SerializedLambda
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

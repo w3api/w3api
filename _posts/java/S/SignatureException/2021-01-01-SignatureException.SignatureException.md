@@ -1,9 +1,9 @@
 ---
 title: SignatureException.SignatureException()
-permalink: Java/SignatureException/SignatureException
+permalink: /Java/SignatureException/SignatureException/
 date: 2021-01-11
-key: JavaJava.S.SignatureException
-category: java
+key: Java.S.SignatureException
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

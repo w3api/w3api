@@ -1,9 +1,9 @@
 ---
 title: SNIHostName.hashCode()
-permalink: Java/SNIHostName/hashCode
+permalink: /Java/SNIHostName/hashCode/
 date: 2021-01-11
-key: JavaJava.S.SNIHostName
-category: java
+key: Java.S.SNIHostName
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

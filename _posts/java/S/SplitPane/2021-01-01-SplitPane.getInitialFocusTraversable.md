@@ -1,9 +1,9 @@
 ---
 title: SplitPane.getInitialFocusTraversable()
-permalink: Java/SplitPane/getInitialFocusTraversable
+permalink: /Java/SplitPane/getInitialFocusTraversable/
 date: 2021-01-11
-key: JavaJava.S.SplitPane
-category: java
+key: Java.S.SplitPane
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

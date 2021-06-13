@@ -1,9 +1,9 @@
 ---
 title: SOAPConstants
-permalink: Java/SOAPConstants
+permalink: /Java/SOAPConstants/
 date: 2021-01-11
-key: JavaJava.S.SOAPConstants
-category: java
+key: Java.S.SOAPConstants
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

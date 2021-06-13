@@ -1,9 +1,9 @@
 ---
 title: ScrollPaneConstants
-permalink: Java/ScrollPaneConstants
+permalink: /Java/ScrollPaneConstants/
 date: 2021-01-11
-key: JavaJava.S.ScrollPaneConstants
-category: java
+key: Java.S.ScrollPaneConstants
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

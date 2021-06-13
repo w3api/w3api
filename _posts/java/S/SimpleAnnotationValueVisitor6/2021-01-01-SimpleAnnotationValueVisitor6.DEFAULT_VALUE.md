@@ -1,9 +1,9 @@
 ---
 title: SimpleAnnotationValueVisitor6.DEFAULT_VALUE
-permalink: Java/SimpleAnnotationValueVisitor6/DEFAULT_VALUE
+permalink: /Java/SimpleAnnotationValueVisitor6/DEFAULT_VALUE/
 date: 2021-01-11
-key: JavaJava.S.SimpleAnnotationValueVisitor6
-category: java
+key: Java.S.SimpleAnnotationValueVisitor6
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

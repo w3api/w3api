@@ -1,9 +1,9 @@
 ---
 title: SelectorProvider
-permalink: Java/SelectorProvider
+permalink: /Java/SelectorProvider/
 date: 2021-01-11
-key: JavaJava.S.SelectorProvider
-category: java
+key: Java.S.SelectorProvider
+category: Java
 tags: ['java se', 'java.nio.channels.spi', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

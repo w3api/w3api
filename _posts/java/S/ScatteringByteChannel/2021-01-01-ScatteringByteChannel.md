@@ -1,9 +1,9 @@
 ---
 title: ScatteringByteChannel
-permalink: Java/ScatteringByteChannel
+permalink: /Java/ScatteringByteChannel/
 date: 2021-01-11
-key: JavaJava.S.ScatteringByteChannel
-category: java
+key: Java.S.ScatteringByteChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

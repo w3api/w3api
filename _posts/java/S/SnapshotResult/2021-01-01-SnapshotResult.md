@@ -1,9 +1,9 @@
 ---
 title: SnapshotResult
-permalink: Java/SnapshotResult
+permalink: /Java/SnapshotResult/
 date: 2021-01-11
-key: JavaJava.S.SnapshotResult
-category: java
+key: Java.S.SnapshotResult
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'clase java', 'JavaFX 2.2']
 sidebar: 
   nav: java

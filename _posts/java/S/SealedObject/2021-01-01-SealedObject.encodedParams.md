@@ -1,9 +1,9 @@
 ---
 title: SealedObject.encodedParams
-permalink: Java/SealedObject/encodedParams
+permalink: /Java/SealedObject/encodedParams/
 date: 2021-01-11
-key: JavaJava.S.SealedObject
-category: java
+key: Java.S.SealedObject
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

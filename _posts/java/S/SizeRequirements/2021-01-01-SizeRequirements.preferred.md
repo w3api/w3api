@@ -1,9 +1,9 @@
 ---
 title: SizeRequirements.preferred
-permalink: Java/SizeRequirements/preferred
+permalink: /Java/SizeRequirements/preferred/
 date: 2021-01-11
-key: JavaJava.S.SizeRequirements
-category: java
+key: Java.S.SizeRequirements
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

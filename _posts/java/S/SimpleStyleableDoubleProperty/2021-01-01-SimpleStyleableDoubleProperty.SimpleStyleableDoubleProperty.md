@@ -1,9 +1,9 @@
 ---
 title: SimpleStyleableDoubleProperty.SimpleStyleableDoubleProperty()
-permalink: Java/SimpleStyleableDoubleProperty/SimpleStyleableDoubleProperty
+permalink: /Java/SimpleStyleableDoubleProperty/SimpleStyleableDoubleProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleStyleableDoubleProperty
-category: java
+key: Java.S.SimpleStyleableDoubleProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

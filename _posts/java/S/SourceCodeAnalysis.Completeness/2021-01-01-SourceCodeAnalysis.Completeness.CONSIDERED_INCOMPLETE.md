@@ -1,9 +1,9 @@
 ---
 title: SourceCodeAnalysis.Completeness.CONSIDERED_INCOMPLETE
-permalink: Java/SourceCodeAnalysis/Completeness/CONSIDERED_INCOMPLETE
+permalink: /Java/SourceCodeAnalysis/Completeness/CONSIDERED_INCOMPLETE/
 date: 2021-01-11
-key: JavaJava.S.SourceCodeAnalysis.Completeness
-category: java
+key: Java.S.SourceCodeAnalysis.Completeness
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

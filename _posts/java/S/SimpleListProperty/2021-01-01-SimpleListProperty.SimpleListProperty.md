@@ -1,9 +1,9 @@
 ---
 title: SimpleListProperty.SimpleListProperty()
-permalink: Java/SimpleListProperty/SimpleListProperty
+permalink: /Java/SimpleListProperty/SimpleListProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleListProperty
-category: java
+key: Java.S.SimpleListProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

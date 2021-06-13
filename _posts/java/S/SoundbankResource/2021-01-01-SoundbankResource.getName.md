@@ -1,9 +1,9 @@
 ---
 title: SoundbankResource.getName()
-permalink: Java/SoundbankResource/getName
+permalink: /Java/SoundbankResource/getName/
 date: 2021-01-11
-key: JavaJava.S.SoundbankResource
-category: java
+key: Java.S.SoundbankResource
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

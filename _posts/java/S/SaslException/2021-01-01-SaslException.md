@@ -1,9 +1,9 @@
 ---
 title: SaslException
-permalink: Java/SaslException
+permalink: /Java/SaslException/
 date: 2021-01-11
-key: JavaJava.S.SaslException
-category: java
+key: Java.S.SaslException
+category: Java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

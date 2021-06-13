@@ -1,9 +1,9 @@
 ---
 title: SSLServerSocketFactory
-permalink: Java/SSLServerSocketFactory
+permalink: /Java/SSLServerSocketFactory/
 date: 2021-01-11
-key: JavaJava.S.SSLServerSocketFactory
-category: java
+key: Java.S.SSLServerSocketFactory
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

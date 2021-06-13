@@ -1,9 +1,9 @@
 ---
 title: SimpleTypeVisitor8.visitIntersection()
-permalink: Java/SimpleTypeVisitor8/visitIntersection
+permalink: /Java/SimpleTypeVisitor8/visitIntersection/
 date: 2021-01-11
-key: JavaJava.S.SimpleTypeVisitor8
-category: java
+key: Java.S.SimpleTypeVisitor8
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

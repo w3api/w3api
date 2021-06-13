@@ -1,9 +1,9 @@
 ---
 title: ScrollPaneAdjustable.setMinimum()
-permalink: Java/ScrollPaneAdjustable/setMinimum
+permalink: /Java/ScrollPaneAdjustable/setMinimum/
 date: 2021-01-11
-key: JavaJava.S.ScrollPaneAdjustable
-category: java
+key: Java.S.ScrollPaneAdjustable
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

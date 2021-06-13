@@ -1,9 +1,9 @@
 ---
 title: StepEvent
-permalink: Java/StepEvent
+permalink: /Java/StepEvent/
 date: 2021-01-11
-key: JavaJava.S.StepEvent
-category: java
+key: Java.S.StepEvent
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

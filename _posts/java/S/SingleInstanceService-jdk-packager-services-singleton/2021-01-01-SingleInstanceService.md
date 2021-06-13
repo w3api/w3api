@@ -1,9 +1,9 @@
 ---
 title: SingleInstanceService
-permalink: Java/SingleInstanceService-jdk-packager-services-singleton
+permalink: /Java/SingleInstanceService-jdk-packager-services-singleton/
 date: 2021-01-11
-key: JavaJava.S.SingleInstanceService-jdk-packager-services-singleton
-category: java
+key: Java.S.SingleInstanceService-jdk-packager-services-singleton
+category: Java
 tags: ['java se', 'jdk.packager.services.singleton', 'jdk.packager.services', 'clase java', '10']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SignatureMethod.getParameterSpec()
-permalink: Java/SignatureMethod/getParameterSpec
+permalink: /Java/SignatureMethod/getParameterSpec/
 date: 2021-01-11
-key: JavaJava.S.SignatureMethod
-category: java
+key: Java.S.SignatureMethod
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

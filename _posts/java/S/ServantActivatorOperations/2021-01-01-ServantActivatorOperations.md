@@ -1,9 +1,9 @@
 ---
 title: ServantActivatorOperations
-permalink: Java/ServantActivatorOperations
+permalink: /Java/ServantActivatorOperations/
 date: 2021-01-11
-key: JavaJava.S.ServantActivatorOperations
-category: java
+key: Java.S.ServantActivatorOperations
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

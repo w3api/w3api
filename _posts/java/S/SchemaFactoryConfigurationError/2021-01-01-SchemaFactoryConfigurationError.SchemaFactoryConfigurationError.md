@@ -1,9 +1,9 @@
 ---
 title: SchemaFactoryConfigurationError.SchemaFactoryConfigurationError()
-permalink: Java/SchemaFactoryConfigurationError/SchemaFactoryConfigurationError
+permalink: /Java/SchemaFactoryConfigurationError/SchemaFactoryConfigurationError/
 date: 2021-01-11
-key: JavaJava.S.SchemaFactoryConfigurationError
-category: java
+key: Java.S.SchemaFactoryConfigurationError
+category: Java
 tags: ['java se', 'javax.xml.validation', 'java.xml', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

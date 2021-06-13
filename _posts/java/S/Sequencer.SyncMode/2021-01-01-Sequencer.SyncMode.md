@@ -1,9 +1,9 @@
 ---
 title: Sequencer.SyncMode
-permalink: Java/Sequencer/SyncMode
+permalink: /Java/Sequencer/SyncMode/
 date: 2021-01-11
-key: JavaJava.S.Sequencer.SyncMode
-category: java
+key: Java.S.Sequencer.SyncMode
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

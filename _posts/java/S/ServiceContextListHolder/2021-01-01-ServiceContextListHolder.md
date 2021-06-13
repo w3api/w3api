@@ -1,9 +1,9 @@
 ---
 title: ServiceContextListHolder
-permalink: Java/ServiceContextListHolder
+permalink: /Java/ServiceContextListHolder/
 date: 2021-01-11
-key: JavaJava.S.ServiceContextListHolder
-category: java
+key: Java.S.ServiceContextListHolder
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

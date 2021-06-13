@@ -1,9 +1,9 @@
 ---
 title: Serializable
-permalink: Java/Serializable
+permalink: /Java/Serializable/
 date: 2021-01-11
-key: JavaJava.S.Serializable
-category: java
+key: Java.S.Serializable
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

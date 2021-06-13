@@ -1,9 +1,9 @@
 ---
 title: SourceDataLine
-permalink: Java/SourceDataLine
+permalink: /Java/SourceDataLine/
 date: 2021-01-11
-key: JavaJava.S.SourceDataLine
-category: java
+key: Java.S.SourceDataLine
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

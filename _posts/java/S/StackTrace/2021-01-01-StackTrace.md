@@ -1,9 +1,9 @@
 ---
 title: StackTrace
-permalink: Java/StackTrace
+permalink: /Java/StackTrace/
 date: 2021-01-11
-key: JavaJava.S.StackTrace
-category: java
+key: Java.S.StackTrace
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'anotacion java', 'Java 9']
 sidebar: 
   nav: java

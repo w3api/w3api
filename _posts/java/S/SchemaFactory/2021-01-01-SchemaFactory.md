@@ -1,9 +1,9 @@
 ---
 title: SchemaFactory
-permalink: Java/SchemaFactory
+permalink: /Java/SchemaFactory/
 date: 2021-01-11
-key: JavaJava.S.SchemaFactory
-category: java
+key: Java.S.SchemaFactory
+category: Java
 tags: ['java se', 'javax.xml.validation', 'java.xml', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

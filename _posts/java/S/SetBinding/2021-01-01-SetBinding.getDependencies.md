@@ -1,9 +1,9 @@
 ---
 title: SetBinding.getDependencies()
-permalink: Java/SetBinding/getDependencies
+permalink: /Java/SetBinding/getDependencies/
 date: 2021-01-11
-key: JavaJava.S.SetBinding
-category: java
+key: Java.S.SetBinding
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

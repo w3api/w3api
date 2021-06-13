@@ -1,9 +1,9 @@
 ---
 title: SendFailedNotification.association()
-permalink: Java/SendFailedNotification/association
+permalink: /Java/SendFailedNotification/association/
 date: 2021-01-11
-key: JavaJava.S.SendFailedNotification
-category: java
+key: Java.S.SendFailedNotification
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SetProperty.SetProperty()
-permalink: Java/SetProperty/SetProperty
+permalink: /Java/SetProperty/SetProperty/
 date: 2021-01-11
-key: JavaJava.S.SetProperty
-category: java
+key: Java.S.SetProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

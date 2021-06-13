@@ -1,9 +1,9 @@
 ---
 title: ShutdownNotification
-permalink: Java/ShutdownNotification
+permalink: /Java/ShutdownNotification/
 date: 2021-01-11
-key: JavaJava.S.ShutdownNotification
-category: java
+key: Java.S.ShutdownNotification
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

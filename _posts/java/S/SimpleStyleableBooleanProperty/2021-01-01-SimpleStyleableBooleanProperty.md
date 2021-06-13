@@ -1,9 +1,9 @@
 ---
 title: SimpleStyleableBooleanProperty
-permalink: Java/SimpleStyleableBooleanProperty
+permalink: /Java/SimpleStyleableBooleanProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleStyleableBooleanProperty
-category: java
+key: Java.S.SimpleStyleableBooleanProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

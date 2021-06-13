@@ -1,9 +1,9 @@
 ---
 title: SizeSequence.getSizes()
-permalink: Java/SizeSequence/getSizes
+permalink: /Java/SizeSequence/getSizes/
 date: 2021-01-11
-key: JavaJava.S.SizeSequence
-category: java
+key: Java.S.SizeSequence
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

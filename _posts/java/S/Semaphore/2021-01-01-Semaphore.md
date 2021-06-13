@@ -1,9 +1,9 @@
 ---
 title: Semaphore
-permalink: Java/Semaphore
+permalink: /Java/Semaphore/
 date: 2021-01-11
-key: JavaJava.S.Semaphore
-category: java
+key: Java.S.Semaphore
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

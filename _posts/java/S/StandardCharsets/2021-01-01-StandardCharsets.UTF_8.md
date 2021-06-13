@@ -1,9 +1,9 @@
 ---
 title: StandardCharsets.UTF_8
-permalink: Java/StandardCharsets/UTF_8
+permalink: /Java/StandardCharsets/UTF_8/
 date: 2021-01-11
-key: JavaJava.S.StandardCharsets
-category: java
+key: Java.S.StandardCharsets
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

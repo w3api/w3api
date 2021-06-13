@@ -1,9 +1,9 @@
 ---
 title: ServiceUI.printDialog()
-permalink: Java/ServiceUI/printDialog
+permalink: /Java/ServiceUI/printDialog/
 date: 2021-01-11
-key: JavaJava.S.ServiceUI
-category: java
+key: Java.S.ServiceUI
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

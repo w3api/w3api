@@ -1,9 +1,9 @@
 ---
 title: StandardProtocolFamily.INET
-permalink: Java/StandardProtocolFamily/INET
+permalink: /Java/StandardProtocolFamily/INET/
 date: 2021-01-11
-key: JavaJava.S.StandardProtocolFamily
-category: java
+key: Java.S.StandardProtocolFamily
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

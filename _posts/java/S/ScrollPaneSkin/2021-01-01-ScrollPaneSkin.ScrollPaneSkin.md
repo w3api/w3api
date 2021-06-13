@@ -1,9 +1,9 @@
 ---
 title: ScrollPaneSkin.ScrollPaneSkin()
-permalink: Java/ScrollPaneSkin/ScrollPaneSkin
+permalink: /Java/ScrollPaneSkin/ScrollPaneSkin/
 date: 2021-01-11
-key: JavaJava.S.ScrollPaneSkin
-category: java
+key: Java.S.ScrollPaneSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

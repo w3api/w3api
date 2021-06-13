@@ -1,9 +1,9 @@
 ---
 title: SetOfIntegerSyntax.next()
-permalink: Java/SetOfIntegerSyntax/next
+permalink: /Java/SetOfIntegerSyntax/next/
 date: 2021-01-11
-key: JavaJava.S.SetOfIntegerSyntax
-category: java
+key: Java.S.SetOfIntegerSyntax
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

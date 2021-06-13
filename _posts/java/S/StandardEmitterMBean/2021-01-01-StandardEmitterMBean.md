@@ -1,9 +1,9 @@
 ---
 title: StandardEmitterMBean
-permalink: Java/StandardEmitterMBean
+permalink: /Java/StandardEmitterMBean/
 date: 2021-01-11
-key: JavaJava.S.StandardEmitterMBean
-category: java
+key: Java.S.StandardEmitterMBean
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

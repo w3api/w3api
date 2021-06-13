@@ -1,9 +1,9 @@
 ---
 title: StandardJavaFileManager.isSameFile()
-permalink: Java/StandardJavaFileManager/isSameFile
+permalink: /Java/StandardJavaFileManager/isSameFile/
 date: 2021-01-11
-key: JavaJava.S.StandardJavaFileManager
-category: java
+key: Java.S.StandardJavaFileManager
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

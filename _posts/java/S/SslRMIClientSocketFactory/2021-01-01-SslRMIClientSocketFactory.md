@@ -1,9 +1,9 @@
 ---
 title: SslRMIClientSocketFactory
-permalink: Java/SslRMIClientSocketFactory
+permalink: /Java/SslRMIClientSocketFactory/
 date: 2021-01-11
-key: JavaJava.S.SslRMIClientSocketFactory
-category: java
+key: Java.S.SslRMIClientSocketFactory
+category: Java
 tags: ['java se', 'javax.rmi.ssl', 'java.rmi', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StringConcatException
-permalink: Java/StringConcatException
+permalink: /Java/StringConcatException/
 date: 2021-01-11
-key: JavaJava.S.StringConcatException
-category: java
+key: Java.S.StringConcatException
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'clase java', 'Java 9']
 sidebar: 
   nav: java

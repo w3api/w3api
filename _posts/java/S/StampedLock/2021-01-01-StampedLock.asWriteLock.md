@@ -1,9 +1,9 @@
 ---
 title: StampedLock.asWriteLock()
-permalink: Java/StampedLock/asWriteLock
+permalink: /Java/StampedLock/asWriteLock/
 date: 2021-01-11
-key: JavaJava.S.StampedLock
-category: java
+key: Java.S.StampedLock
+category: Java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

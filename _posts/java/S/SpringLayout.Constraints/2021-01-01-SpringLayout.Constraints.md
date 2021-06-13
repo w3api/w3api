@@ -1,9 +1,9 @@
 ---
 title: SpringLayout.Constraints
-permalink: Java/SpringLayout/Constraints
+permalink: /Java/SpringLayout/Constraints/
 date: 2021-01-11
-key: JavaJava.S.SpringLayout.Constraints
-category: java
+key: Java.S.SpringLayout.Constraints
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

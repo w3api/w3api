@@ -1,9 +1,9 @@
 ---
 title: SimpleScriptContext.getAttributesScope()
-permalink: Java/SimpleScriptContext/getAttributesScope
+permalink: /Java/SimpleScriptContext/getAttributesScope/
 date: 2021-01-11
-key: JavaJava.S.SimpleScriptContext
-category: java
+key: Java.S.SimpleScriptContext
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

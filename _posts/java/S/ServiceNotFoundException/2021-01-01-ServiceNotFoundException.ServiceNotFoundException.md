@@ -1,9 +1,9 @@
 ---
 title: ServiceNotFoundException.ServiceNotFoundException()
-permalink: Java/ServiceNotFoundException/ServiceNotFoundException
+permalink: /Java/ServiceNotFoundException/ServiceNotFoundException/
 date: 2021-01-11
-key: JavaJava.S.ServiceNotFoundException
-category: java
+key: Java.S.ServiceNotFoundException
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

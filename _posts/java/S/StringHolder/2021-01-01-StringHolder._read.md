@@ -1,9 +1,9 @@
 ---
 title: StringHolder._read()
-permalink: Java/StringHolder/_read
+permalink: /Java/StringHolder/_read/
 date: 2021-01-11
-key: JavaJava.S.StringHolder
-category: java
+key: Java.S.StringHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

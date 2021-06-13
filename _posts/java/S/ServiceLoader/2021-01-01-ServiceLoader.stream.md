@@ -1,9 +1,9 @@
 ---
 title: ServiceLoader.stream()
-permalink: Java/ServiceLoader/stream
+permalink: /Java/ServiceLoader/stream/
 date: 2021-01-11
-key: JavaJava.S.ServiceLoader
-category: java
+key: Java.S.ServiceLoader
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

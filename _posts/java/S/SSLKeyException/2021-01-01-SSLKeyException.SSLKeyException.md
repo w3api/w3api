@@ -1,9 +1,9 @@
 ---
 title: SSLKeyException.SSLKeyException()
-permalink: Java/SSLKeyException/SSLKeyException
+permalink: /Java/SSLKeyException/SSLKeyException/
 date: 2021-01-11
-key: JavaJava.S.SSLKeyException
-category: java
+key: Java.S.SSLKeyException
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

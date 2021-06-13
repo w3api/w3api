@@ -1,9 +1,9 @@
 ---
 title: ShardingKeyBuilder.build()
-permalink: Java/ShardingKeyBuilder/build
+permalink: /Java/ShardingKeyBuilder/build/
 date: 2021-01-11
-key: JavaJava.S.ShardingKeyBuilder
-category: java
+key: Java.S.ShardingKeyBuilder
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

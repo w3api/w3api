@@ -1,9 +1,9 @@
 ---
 title: SerialBlob
-permalink: Java/SerialBlob
+permalink: /Java/SerialBlob/
 date: 2021-01-11
-key: JavaJava.S.SerialBlob
-category: java
+key: Java.S.SerialBlob
+category: Java
 tags: ['java se', 'javax.sql.rowset.serial', 'java.sql.rowset', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

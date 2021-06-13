@@ -1,9 +1,9 @@
 ---
 title: SecretKeyFactorySpi.SecretKeyFactorySpi()
-permalink: Java/SecretKeyFactorySpi/SecretKeyFactorySpi
+permalink: /Java/SecretKeyFactorySpi/SecretKeyFactorySpi/
 date: 2021-01-11
-key: JavaJava.S.SecretKeyFactorySpi
-category: java
+key: Java.S.SecretKeyFactorySpi
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

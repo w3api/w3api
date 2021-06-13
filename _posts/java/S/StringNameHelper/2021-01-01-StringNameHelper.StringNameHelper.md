@@ -1,9 +1,9 @@
 ---
 title: StringNameHelper.StringNameHelper()
-permalink: Java/StringNameHelper/StringNameHelper
+permalink: /Java/StringNameHelper/StringNameHelper/
 date: 2021-01-11
-key: JavaJava.S.StringNameHelper
-category: java
+key: Java.S.StringNameHelper
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextExtPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

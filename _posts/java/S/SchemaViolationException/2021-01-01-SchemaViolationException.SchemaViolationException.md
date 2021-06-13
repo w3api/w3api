@@ -1,9 +1,9 @@
 ---
 title: SchemaViolationException.SchemaViolationException()
-permalink: Java/SchemaViolationException/SchemaViolationException
+permalink: /Java/SchemaViolationException/SchemaViolationException/
 date: 2021-01-11
-key: JavaJava.S.SchemaViolationException
-category: java
+key: Java.S.SchemaViolationException
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

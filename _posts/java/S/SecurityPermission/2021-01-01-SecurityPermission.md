@@ -1,9 +1,9 @@
 ---
 title: SecurityPermission
-permalink: Java/SecurityPermission
+permalink: /Java/SecurityPermission/
 date: 2021-01-11
-key: JavaJava.S.SecurityPermission
-category: java
+key: Java.S.SecurityPermission
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

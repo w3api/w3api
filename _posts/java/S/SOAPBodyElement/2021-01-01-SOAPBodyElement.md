@@ -1,9 +1,9 @@
 ---
 title: SOAPBodyElement
-permalink: Java/SOAPBodyElement
+permalink: /Java/SOAPBodyElement/
 date: 2021-01-11
-key: JavaJava.S.SOAPBodyElement
-category: java
+key: Java.S.SOAPBodyElement
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

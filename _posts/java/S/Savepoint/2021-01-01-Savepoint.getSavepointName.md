@@ -1,9 +1,9 @@
 ---
 title: Savepoint.getSavepointName()
-permalink: Java/Savepoint/getSavepointName
+permalink: /Java/Savepoint/getSavepointName/
 date: 2021-01-11
-key: JavaJava.S.Savepoint
-category: java
+key: Java.S.Savepoint
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

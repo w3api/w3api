@@ -1,9 +1,9 @@
 ---
 title: ServantObject.servant
-permalink: Java/ServantObject/servant
+permalink: /Java/ServantObject/servant/
 date: 2021-01-11
-key: JavaJava.S.ServantObject
-category: java
+key: Java.S.ServantObject
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

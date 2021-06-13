@@ -1,9 +1,9 @@
 ---
 title: SingleInstanceListener.newActivation()
-permalink: Java/SingleInstanceListener-javax-jnlp/newActivation
+permalink: /Java/SingleInstanceListener-javax-jnlp/newActivation/
 date: 2021-01-11
-key: JavaJava.S.SingleInstanceListener-javax-jnlp
-category: java
+key: Java.S.SingleInstanceListener-javax-jnlp
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

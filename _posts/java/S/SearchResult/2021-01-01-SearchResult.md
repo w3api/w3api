@@ -1,9 +1,9 @@
 ---
 title: SearchResult
-permalink: Java/SearchResult
+permalink: /Java/SearchResult/
 date: 2021-01-11
-key: JavaJava.S.SearchResult
-category: java
+key: Java.S.SearchResult
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

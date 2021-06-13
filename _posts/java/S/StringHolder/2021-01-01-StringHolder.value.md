@@ -1,9 +1,9 @@
 ---
 title: StringHolder.value
-permalink: Java/StringHolder/value
+permalink: /Java/StringHolder/value/
 date: 2021-01-11
-key: JavaJava.S.StringHolder
-category: java
+key: Java.S.StringHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

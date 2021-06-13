@@ -1,9 +1,9 @@
 ---
 title: StringExpression.concat()
-permalink: Java/StringExpression/concat
+permalink: /Java/StringExpression/concat/
 date: 2021-01-11
-key: JavaJava.S.StringExpression
-category: java
+key: Java.S.StringExpression
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

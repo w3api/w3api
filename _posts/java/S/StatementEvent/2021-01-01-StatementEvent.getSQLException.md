@@ -1,9 +1,9 @@
 ---
 title: StatementEvent.getSQLException()
-permalink: Java/StatementEvent/getSQLException
+permalink: /Java/StatementEvent/getSQLException/
 date: 2021-01-11
-key: JavaJava.S.StatementEvent
-category: java
+key: Java.S.StatementEvent
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

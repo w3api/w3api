@@ -1,9 +1,9 @@
 ---
 title: SignatureProperty.getTarget()
-permalink: Java/SignatureProperty/getTarget
+permalink: /Java/SignatureProperty/getTarget/
 date: 2021-01-11
-key: JavaJava.S.SignatureProperty
-category: java
+key: Java.S.SignatureProperty
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ScriptException.getFileName()
-permalink: Java/ScriptException/getFileName
+permalink: /Java/ScriptException/getFileName/
 date: 2021-01-11
-key: JavaJava.S.ScriptException
-category: java
+key: Java.S.ScriptException
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

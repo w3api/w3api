@@ -1,9 +1,9 @@
 ---
 title: SchemaOutputResolver.SchemaOutputResolver()
-permalink: Java/SchemaOutputResolver/SchemaOutputResolver
+permalink: /Java/SchemaOutputResolver/SchemaOutputResolver/
 date: 2021-01-11
-key: JavaJava.S.SchemaOutputResolver
-category: java
+key: Java.S.SchemaOutputResolver
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

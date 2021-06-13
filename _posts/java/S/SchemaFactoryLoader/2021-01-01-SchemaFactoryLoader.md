@@ -1,9 +1,9 @@
 ---
 title: SchemaFactoryLoader
-permalink: Java/SchemaFactoryLoader
+permalink: /Java/SchemaFactoryLoader/
 date: 2021-01-11
-key: JavaJava.S.SchemaFactoryLoader
-category: java
+key: Java.S.SchemaFactoryLoader
+category: Java
 tags: ['java se', 'javax.xml.validation', 'java.xml', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

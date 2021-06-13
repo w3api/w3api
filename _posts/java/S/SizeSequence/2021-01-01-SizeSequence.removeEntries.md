@@ -1,9 +1,9 @@
 ---
 title: SizeSequence.removeEntries()
-permalink: Java/SizeSequence/removeEntries
+permalink: /Java/SizeSequence/removeEntries/
 date: 2021-01-11
-key: JavaJava.S.SizeSequence
-category: java
+key: Java.S.SizeSequence
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SignStyle.NOT_NEGATIVE
-permalink: Java/SignStyle/NOT_NEGATIVE
+permalink: /Java/SignStyle/NOT_NEGATIVE/
 date: 2021-01-11
-key: JavaJava.S.SignStyle
-category: java
+key: Java.S.SignStyle
+category: Java
 tags: ['java se', 'java.time.format', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

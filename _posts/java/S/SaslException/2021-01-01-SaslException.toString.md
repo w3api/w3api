@@ -1,9 +1,9 @@
 ---
 title: SaslException.toString()
-permalink: Java/SaslException/toString
+permalink: /Java/SaslException/toString/
 date: 2021-01-11
-key: JavaJava.S.SaslException
-category: java
+key: Java.S.SaslException
+category: Java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

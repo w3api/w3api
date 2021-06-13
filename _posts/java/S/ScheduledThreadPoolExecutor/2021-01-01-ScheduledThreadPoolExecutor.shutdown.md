@@ -1,9 +1,9 @@
 ---
 title: ScheduledThreadPoolExecutor.shutdown()
-permalink: Java/ScheduledThreadPoolExecutor/shutdown
+permalink: /Java/ScheduledThreadPoolExecutor/shutdown/
 date: 2021-01-11
-key: JavaJava.S.ScheduledThreadPoolExecutor
-category: java
+key: Java.S.ScheduledThreadPoolExecutor
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

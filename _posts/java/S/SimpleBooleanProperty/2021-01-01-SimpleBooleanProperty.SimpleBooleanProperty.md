@@ -1,9 +1,9 @@
 ---
 title: SimpleBooleanProperty.SimpleBooleanProperty()
-permalink: Java/SimpleBooleanProperty/SimpleBooleanProperty
+permalink: /Java/SimpleBooleanProperty/SimpleBooleanProperty/
 date: 2021-01-11
-key: JavaJava.S.SimpleBooleanProperty
-category: java
+key: Java.S.SimpleBooleanProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

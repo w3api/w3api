@@ -1,9 +1,9 @@
 ---
 title: SingleInstanceNewActivation.main()
-permalink: Java/SingleInstanceNewActivation/main
+permalink: /Java/SingleInstanceNewActivation/main/
 date: 2021-01-11
-key: JavaJava.S.SingleInstanceNewActivation
-category: java
+key: Java.S.SingleInstanceNewActivation
+category: Java
 tags: ['java se', 'jdk.packager.services.singleton', 'jdk.packager.services', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

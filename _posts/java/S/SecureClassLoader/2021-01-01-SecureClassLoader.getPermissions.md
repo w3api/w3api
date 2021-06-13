@@ -1,9 +1,9 @@
 ---
 title: SecureClassLoader.getPermissions()
-permalink: Java/SecureClassLoader/getPermissions
+permalink: /Java/SecureClassLoader/getPermissions/
 date: 2021-01-11
-key: JavaJava.S.SecureClassLoader
-category: java
+key: Java.S.SecureClassLoader
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

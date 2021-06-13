@@ -1,9 +1,9 @@
 ---
 title: ServerRef.serialVersionUID
-permalink: Java/ServerRef/serialVersionUID
+permalink: /Java/ServerRef/serialVersionUID/
 date: 2021-01-11
-key: JavaJava.S.ServerRef
-category: java
+key: Java.S.ServerRef
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

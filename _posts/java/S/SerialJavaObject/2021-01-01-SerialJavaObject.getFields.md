@@ -1,9 +1,9 @@
 ---
 title: SerialJavaObject.getFields()
-permalink: Java/SerialJavaObject/getFields
+permalink: /Java/SerialJavaObject/getFields/
 date: 2021-01-11
-key: JavaJava.S.SerialJavaObject
-category: java
+key: Java.S.SerialJavaObject
+category: Java
 tags: ['java se', 'javax.sql.rowset.serial', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StAXResult
-permalink: Java/StAXResult
+permalink: /Java/StAXResult/
 date: 2021-01-11
-key: JavaJava.S.StAXResult
-category: java
+key: Java.S.StAXResult
+category: Java
 tags: ['java se', 'javax.xml.transform.stax', 'java.xml', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

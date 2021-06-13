@@ -1,9 +1,9 @@
 ---
 title: SocketImplFactory
-permalink: Java/SocketImplFactory
+permalink: /Java/SocketImplFactory/
 date: 2021-01-11
-key: JavaJava.S.SocketImplFactory
-category: java
+key: Java.S.SocketImplFactory
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

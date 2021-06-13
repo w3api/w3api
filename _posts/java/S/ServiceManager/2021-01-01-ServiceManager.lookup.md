@@ -1,9 +1,9 @@
 ---
 title: ServiceManager.lookup()
-permalink: Java/ServiceManager/lookup
+permalink: /Java/ServiceManager/lookup/
 date: 2021-01-11
-key: JavaJava.S.ServiceManager
-category: java
+key: Java.S.ServiceManager
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.4.2']
 sidebar: 
   nav: java

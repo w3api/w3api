@@ -1,9 +1,9 @@
 ---
 title: StandardJavaFileManager
-permalink: Java/StandardJavaFileManager
+permalink: /Java/StandardJavaFileManager/
 date: 2021-01-11
-key: JavaJava.S.StandardJavaFileManager
-category: java
+key: Java.S.StandardJavaFileManager
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

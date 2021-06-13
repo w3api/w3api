@@ -1,9 +1,9 @@
 ---
 title: Savepoint
-permalink: Java/Savepoint
+permalink: /Java/Savepoint/
 date: 2021-01-11
-key: JavaJava.S.Savepoint
-category: java
+key: Java.S.Savepoint
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

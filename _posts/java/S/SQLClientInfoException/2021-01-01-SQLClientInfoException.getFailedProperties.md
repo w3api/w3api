@@ -1,9 +1,9 @@
 ---
 title: SQLClientInfoException.getFailedProperties()
-permalink: Java/SQLClientInfoException/getFailedProperties
+permalink: /Java/SQLClientInfoException/getFailedProperties/
 date: 2021-01-11
-key: JavaJava.S.SQLClientInfoException
-category: java
+key: Java.S.SQLClientInfoException
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

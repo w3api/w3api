@@ -1,9 +1,9 @@
 ---
 title: ServiceInformationHelper.write()
-permalink: Java/ServiceInformationHelper/write
+permalink: /Java/ServiceInformationHelper/write/
 date: 2021-01-11
-key: JavaJava.S.ServiceInformationHelper
-category: java
+key: Java.S.ServiceInformationHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

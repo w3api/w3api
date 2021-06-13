@@ -1,9 +1,9 @@
 ---
 title: SpinnerModel.removeChangeListener()
-permalink: Java/SpinnerModel/removeChangeListener
+permalink: /Java/SpinnerModel/removeChangeListener/
 date: 2021-01-11
-key: JavaJava.S.SpinnerModel
-category: java
+key: Java.S.SpinnerModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

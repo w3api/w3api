@@ -1,9 +1,9 @@
 ---
 title: Sequencer.SyncMode.MIDI_TIME_CODE
-permalink: Java/Sequencer/SyncMode/MIDI_TIME_CODE
+permalink: /Java/Sequencer/SyncMode/MIDI_TIME_CODE/
 date: 2021-01-11
-key: JavaJava.S.Sequencer.SyncMode
-category: java
+key: Java.S.Sequencer.SyncMode
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Spliterator.OfDouble.tryAdvance()
-permalink: Java/Spliterator/OfDouble/tryAdvance
+permalink: /Java/Spliterator/OfDouble/tryAdvance/
 date: 2021-01-11
-key: JavaJava.S.Spliterator.OfDouble
-category: java
+key: Java.S.Spliterator.OfDouble
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

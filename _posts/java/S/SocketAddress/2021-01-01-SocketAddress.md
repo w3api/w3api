@@ -1,9 +1,9 @@
 ---
 title: SocketAddress
-permalink: Java/SocketAddress
+permalink: /Java/SocketAddress/
 date: 2021-01-11
-key: JavaJava.S.SocketAddress
-category: java
+key: Java.S.SocketAddress
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

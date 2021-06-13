@@ -1,9 +1,9 @@
 ---
 title: ScheduledService.setBackoffStrategy()
-permalink: Java/ScheduledService/setBackoffStrategy
+permalink: /Java/ScheduledService/setBackoffStrategy/
 date: 2021-01-11
-key: JavaJava.S.ScheduledService
-category: java
+key: Java.S.ScheduledService
+category: Java
 tags: ['java se', 'javafx.concurrent', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SecureRandomSpi.engineReseed()
-permalink: Java/SecureRandomSpi/engineReseed
+permalink: /Java/SecureRandomSpi/engineReseed/
 date: 2021-01-11
-key: JavaJava.S.SecureRandomSpi
-category: java
+key: Java.S.SecureRandomSpi
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

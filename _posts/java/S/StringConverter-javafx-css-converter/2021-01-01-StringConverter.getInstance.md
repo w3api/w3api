@@ -1,9 +1,9 @@
 ---
 title: StringConverter.getInstance()
-permalink: Java/StringConverter-javafx-css-converter/getInstance
+permalink: /Java/StringConverter-javafx-css-converter/getInstance/
 date: 2021-01-11
-key: JavaJava.S.StringConverter-javafx-css-converter
-category: java
+key: Java.S.StringConverter-javafx-css-converter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

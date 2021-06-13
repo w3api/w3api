@@ -1,9 +1,9 @@
 ---
 title: StreamSupport.longStream()
-permalink: Java/StreamSupport/longStream
+permalink: /Java/StreamSupport/longStream/
 date: 2021-01-11
-key: JavaJava.S.StreamSupport
-category: java
+key: Java.S.StreamSupport
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

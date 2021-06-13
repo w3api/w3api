@@ -1,9 +1,9 @@
 ---
 title: StartElementTree
-permalink: Java/StartElementTree
+permalink: /Java/StartElementTree/
 date: 2021-01-11
-key: JavaJava.S.StartElementTree
-category: java
+key: Java.S.StartElementTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java
