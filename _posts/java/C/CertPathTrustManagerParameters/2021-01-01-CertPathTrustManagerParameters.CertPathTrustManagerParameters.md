@@ -1,9 +1,9 @@
 ---
 title: CertPathTrustManagerParameters.CertPathTrustManagerParameters()
-permalink: Java/CertPathTrustManagerParameters/CertPathTrustManagerParameters
+permalink: /Java/CertPathTrustManagerParameters/CertPathTrustManagerParameters/
 date: 2021-01-11
-key: JavaJava.C.CertPathTrustManagerParameters
-category: java
+key: Java.C.CertPathTrustManagerParameters
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

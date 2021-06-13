@@ -2,8 +2,8 @@
 title: BinaryRefAddr.BinaryRefAddr()
 permalink: /Java/BinaryRefAddr/BinaryRefAddr/
 date: 2021-01-11
-key: JavaJava.B.BinaryRefAddr
-category: java
+key: Java.B.BinaryRefAddr
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: ButtonType.CLOSE
 permalink: /Java/ButtonType/CLOSE/
 date: 2021-01-11
-key: JavaJava.B.ButtonType
-category: java
+key: Java.B.ButtonType
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

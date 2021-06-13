@@ -1,9 +1,9 @@
 ---
 title: CertificateFactory.getCertPathEncodings()
-permalink: Java/CertificateFactory/getCertPathEncodings
+permalink: /Java/CertificateFactory/getCertPathEncodings/
 date: 2021-01-11
-key: JavaJava.C.CertificateFactory
-category: java
+key: Java.C.CertificateFactory
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

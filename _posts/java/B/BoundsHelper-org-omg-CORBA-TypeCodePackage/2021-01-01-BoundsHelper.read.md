@@ -3,7 +3,7 @@ title: BoundsHelper.read()
 permalink: /Java/BoundsHelper-org-omg-CORBA-TypeCodePackage/read/
 date: 2021-01-11
 key: Java.B.BoundsHelper-org-omg-CORBA-TypeCodePackage
-category: java
+category: Java
 tags: ['java se', 'org.omg.CORBA.TypeCodePackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

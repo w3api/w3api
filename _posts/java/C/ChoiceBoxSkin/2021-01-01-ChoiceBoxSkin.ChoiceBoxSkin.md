@@ -1,9 +1,9 @@
 ---
 title: ChoiceBoxSkin.ChoiceBoxSkin()
-permalink: Java/ChoiceBoxSkin/ChoiceBoxSkin
+permalink: /Java/ChoiceBoxSkin/ChoiceBoxSkin/
 date: 2021-01-11
-key: JavaJava.C.ChoiceBoxSkin
-category: java
+key: Java.C.ChoiceBoxSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ClassTree.getImplementsClause()
-permalink: Java/ClassTree/getImplementsClause
+permalink: /Java/ClassTree/getImplementsClause/
 date: 2021-01-11
-key: JavaJava.C.ClassTree
-category: java
+key: Java.C.ClassTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

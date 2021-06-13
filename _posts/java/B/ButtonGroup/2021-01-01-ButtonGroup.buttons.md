@@ -2,8 +2,8 @@
 title: ButtonGroup.buttons
 permalink: /Java/ButtonGroup/buttons/
 date: 2021-01-11
-key: JavaJava.B.ButtonGroup
-category: java
+key: Java.B.ButtonGroup
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

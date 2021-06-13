@@ -1,9 +1,9 @@
 ---
 title: ComboBoxModel
-permalink: Java/ComboBoxModel
+permalink: /Java/ComboBoxModel/
 date: 2021-01-11
-key: JavaJava.C.ComboBoxModel
-category: java
+key: Java.C.ComboBoxModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BorderUIResource.TitledBorderUIResource.BorderUIResource.TitledBorderUIResource()
 permalink: /Java/BorderUIResource/TitledBorderUIResource/BorderUIResource/TitledBorderUIResource/
 date: 2021-01-11
-key: JavaJava.B.BorderUIResource.TitledBorderUIResource
-category: java
+key: Java.B.BorderUIResource.TitledBorderUIResource
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

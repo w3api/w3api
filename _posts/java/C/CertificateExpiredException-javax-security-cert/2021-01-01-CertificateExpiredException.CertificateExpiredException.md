@@ -1,9 +1,9 @@
 ---
 title: CertificateExpiredException.CertificateExpiredException()
-permalink: Java/CertificateExpiredException-javax-security-cert/CertificateExpiredException
+permalink: /Java/CertificateExpiredException-javax-security-cert/CertificateExpiredException/
 date: 2021-01-11
-key: JavaJava.C.CertificateExpiredException-javax-security-cert
-category: java
+key: Java.C.CertificateExpiredException-javax-security-cert
+category: Java
 tags: ['java se', 'javax.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

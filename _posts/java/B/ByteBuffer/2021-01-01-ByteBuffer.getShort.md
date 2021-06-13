@@ -2,8 +2,8 @@
 title: ByteBuffer.getShort()
 permalink: /Java/ByteBuffer/getShort/
 date: 2021-01-11
-key: JavaJava.B.ByteBuffer
-category: java
+key: Java.B.ByteBuffer
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

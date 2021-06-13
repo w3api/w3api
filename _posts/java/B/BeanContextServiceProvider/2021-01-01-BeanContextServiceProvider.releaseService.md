@@ -2,8 +2,8 @@
 title: BeanContextServiceProvider.releaseService()
 permalink: /Java/BeanContextServiceProvider/releaseService/
 date: 2021-01-11
-key: JavaJava.B.BeanContextServiceProvider
-category: java
+key: Java.B.BeanContextServiceProvider
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

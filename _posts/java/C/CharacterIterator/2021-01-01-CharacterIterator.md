@@ -1,9 +1,9 @@
 ---
 title: CharacterIterator
-permalink: Java/CharacterIterator
+permalink: /Java/CharacterIterator/
 date: 2021-01-11
-key: JavaJava.C.CharacterIterator
-category: java
+key: Java.C.CharacterIterator
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

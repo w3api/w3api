@@ -1,9 +1,9 @@
 ---
 title: ComboBoxBase.editableProperty()
-permalink: Java/ComboBoxBase/editableProperty
+permalink: /Java/ComboBoxBase/editableProperty/
 date: 2021-01-11
-key: JavaJava.C.ComboBoxBase
-category: java
+key: Java.C.ComboBoxBase
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

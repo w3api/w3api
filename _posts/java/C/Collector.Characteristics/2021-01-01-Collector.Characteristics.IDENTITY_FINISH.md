@@ -1,9 +1,9 @@
 ---
 title: Collector.Characteristics.IDENTITY_FINISH
-permalink: Java/Collector/Characteristics/IDENTITY_FINISH
+permalink: /Java/Collector/Characteristics/IDENTITY_FINISH/
 date: 2021-01-11
-key: JavaJava.C.Collector.Characteristics
-category: java
+key: Java.C.Collector.Characteristics
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

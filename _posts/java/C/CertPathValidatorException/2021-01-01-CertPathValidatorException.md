@@ -1,9 +1,9 @@
 ---
 title: CertPathValidatorException
-permalink: Java/CertPathValidatorException
+permalink: /Java/CertPathValidatorException/
 date: 2021-01-11
-key: JavaJava.C.CertPathValidatorException
-category: java
+key: Java.C.CertPathValidatorException
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

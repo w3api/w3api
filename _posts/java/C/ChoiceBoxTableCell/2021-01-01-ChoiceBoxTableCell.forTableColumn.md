@@ -1,9 +1,9 @@
 ---
 title: ChoiceBoxTableCell.forTableColumn()
-permalink: Java/ChoiceBoxTableCell/forTableColumn
+permalink: /Java/ChoiceBoxTableCell/forTableColumn/
 date: 2021-01-11
-key: JavaJava.C.ChoiceBoxTableCell
-category: java
+key: Java.C.ChoiceBoxTableCell
+category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

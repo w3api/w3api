@@ -1,9 +1,9 @@
 ---
 title: ClassNotLoadedException.ClassNotLoadedException()
-permalink: Java/ClassNotLoadedException/ClassNotLoadedException
+permalink: /Java/ClassNotLoadedException/ClassNotLoadedException/
 date: 2021-01-11
-key: JavaJava.C.ClassNotLoadedException
-category: java
+key: Java.C.ClassNotLoadedException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

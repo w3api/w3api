@@ -1,9 +1,9 @@
 ---
 title: ClassNotPreparedException
-permalink: Java/ClassNotPreparedException
+permalink: /Java/ClassNotPreparedException/
 date: 2021-01-11
-key: JavaJava.C.ClassNotPreparedException
-category: java
+key: Java.C.ClassNotPreparedException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

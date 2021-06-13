@@ -2,8 +2,8 @@
 title: BlockingDeque
 permalink: /Java/BlockingDeque/
 date: 2021-01-11
-key: JavaJava.B.BlockingDeque
-category: java
+key: Java.B.BlockingDeque
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

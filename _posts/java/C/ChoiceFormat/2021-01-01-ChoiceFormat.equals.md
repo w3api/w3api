@@ -1,9 +1,9 @@
 ---
 title: ChoiceFormat.equals()
-permalink: Java/ChoiceFormat/equals
+permalink: /Java/ChoiceFormat/equals/
 date: 2021-01-11
-key: JavaJava.C.ChoiceFormat
-category: java
+key: Java.C.ChoiceFormat
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

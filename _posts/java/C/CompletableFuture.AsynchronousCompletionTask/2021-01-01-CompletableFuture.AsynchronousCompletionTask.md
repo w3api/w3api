@@ -1,9 +1,9 @@
 ---
 title: CompletableFuture.AsynchronousCompletionTask
-permalink: Java/CompletableFuture/AsynchronousCompletionTask
+permalink: /Java/CompletableFuture/AsynchronousCompletionTask/
 date: 2021-01-11
-key: JavaJava.C.CompletableFuture.AsynchronousCompletionTask
-category: java
+key: Java.C.CompletableFuture.AsynchronousCompletionTask
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

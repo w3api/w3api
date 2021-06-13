@@ -2,8 +2,8 @@
 title: BigDecimal.ROUND_CEILING
 permalink: /Java/BigDecimal/ROUND_CEILING/
 date: 2021-01-11
-key: JavaJava.B.BigDecimal
-category: java
+key: Java.B.BigDecimal
+category: Java
 tags: ['java se', 'java.math', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

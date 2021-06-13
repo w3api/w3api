@@ -1,9 +1,9 @@
 ---
 title: CTX_RESTRICT_SCOPE
-permalink: Java/CTX_RESTRICT_SCOPE
+permalink: /Java/CTX_RESTRICT_SCOPE/
 date: 2021-01-11
-key: JavaJava.C.CTX_RESTRICT_SCOPE
-category: java
+key: Java.C.CTX_RESTRICT_SCOPE
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'JDKJava 1.2']
 sidebar: 
   nav: java

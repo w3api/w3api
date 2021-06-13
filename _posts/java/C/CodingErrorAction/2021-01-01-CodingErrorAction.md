@@ -1,9 +1,9 @@
 ---
 title: CodingErrorAction
-permalink: Java/CodingErrorAction
+permalink: /Java/CodingErrorAction/
 date: 2021-01-11
-key: JavaJava.C.CodingErrorAction
-category: java
+key: Java.C.CodingErrorAction
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

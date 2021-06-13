@@ -1,9 +1,9 @@
 ---
 title: CallbackHandler.handle()
-permalink: Java/CallbackHandler/handle
+permalink: /Java/CallbackHandler/handle/
 date: 2021-01-11
-key: JavaJava.C.CallbackHandler
-category: java
+key: Java.C.CallbackHandler
+category: Java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Character.UnicodeBlock.SPACING_MODIFIER_LETTERS
-permalink: Java/Character/UnicodeBlock/SPACING_MODIFIER_LETTERS
+permalink: /Java/Character/UnicodeBlock/SPACING_MODIFIER_LETTERS/
 date: 2021-01-11
-key: JavaJava.C.Character.UnicodeBlock
-category: java
+key: Java.C.Character.UnicodeBlock
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

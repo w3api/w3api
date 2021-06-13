@@ -1,9 +1,9 @@
 ---
 title: ComboBoxTreeCell
-permalink: Java/ComboBoxTreeCell
+permalink: /Java/ComboBoxTreeCell/
 date: 2021-01-11
-key: JavaJava.C.ComboBoxTreeCell
-category: java
+key: Java.C.ComboBoxTreeCell
+category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'clase java', 'JavaFX 2.2']
 sidebar: 
   nav: java

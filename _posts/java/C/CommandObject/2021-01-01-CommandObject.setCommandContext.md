@@ -1,9 +1,9 @@
 ---
 title: CommandObject.setCommandContext()
-permalink: Java/CommandObject/setCommandContext
+permalink: /Java/CommandObject/setCommandContext/
 date: 2021-01-11
-key: JavaJava.C.CommandObject
-category: java
+key: Java.C.CommandObject
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

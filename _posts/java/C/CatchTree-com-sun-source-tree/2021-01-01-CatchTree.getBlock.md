@@ -1,9 +1,9 @@
 ---
 title: CatchTree.getBlock()
-permalink: Java/CatchTree-com-sun-source-tree/getBlock
+permalink: /Java/CatchTree-com-sun-source-tree/getBlock/
 date: 2021-01-11
-key: JavaJava.C.CatchTree-com-sun-source-tree
-category: java
+key: Java.C.CatchTree-com-sun-source-tree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

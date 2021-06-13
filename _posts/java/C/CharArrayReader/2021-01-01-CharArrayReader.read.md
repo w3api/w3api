@@ -1,9 +1,9 @@
 ---
 title: CharArrayReader.read()
-permalink: Java/CharArrayReader/read
+permalink: /Java/CharArrayReader/read/
 date: 2021-01-11
-key: JavaJava.C.CharArrayReader
-category: java
+key: Java.C.CharArrayReader
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

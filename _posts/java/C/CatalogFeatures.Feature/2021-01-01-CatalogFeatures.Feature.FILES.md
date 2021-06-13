@@ -1,9 +1,9 @@
 ---
 title: CatalogFeatures.Feature.FILES
-permalink: Java/CatalogFeatures/Feature/FILES
+permalink: /Java/CatalogFeatures/Feature/FILES/
 date: 2021-01-11
-key: JavaJava.C.CatalogFeatures.Feature
-category: java
+key: Java.C.CatalogFeatures.Feature
+category: Java
 tags: ['java se', 'javax.xml.catalog', 'java.xml', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CertPathValidatorException.BasicReason.values()
-permalink: Java/CertPathValidatorException/BasicReason/values
+permalink: /Java/CertPathValidatorException/BasicReason/values/
 date: 2021-01-11
-key: JavaJava.C.CertPathValidatorException.BasicReason
-category: java
+key: Java.C.CertPathValidatorException.BasicReason
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

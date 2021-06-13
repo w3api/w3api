@@ -1,9 +1,9 @@
 ---
 title: CardTerminals.list()
-permalink: Java/CardTerminals/list
+permalink: /Java/CardTerminals/list/
 date: 2021-01-11
-key: JavaJava.C.CardTerminals
-category: java
+key: Java.C.CardTerminals
+category: Java
 tags: ['java se', 'javax.smartcardio', 'java.smartcardio', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

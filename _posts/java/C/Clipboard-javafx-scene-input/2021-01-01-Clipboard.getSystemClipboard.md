@@ -1,9 +1,9 @@
 ---
 title: Clipboard.getSystemClipboard()
-permalink: Java/Clipboard-javafx-scene-input/getSystemClipboard
+permalink: /Java/Clipboard-javafx-scene-input/getSystemClipboard/
 date: 2021-01-11
-key: JavaJava.C.Clipboard-javafx-scene-input
-category: java
+key: Java.C.Clipboard-javafx-scene-input
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CallSiteDescriptor
-permalink: Java/CallSiteDescriptor
+permalink: /Java/CallSiteDescriptor/
 date: 2021-01-11
-key: JavaJava.C.CallSiteDescriptor
-category: java
+key: Java.C.CallSiteDescriptor
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

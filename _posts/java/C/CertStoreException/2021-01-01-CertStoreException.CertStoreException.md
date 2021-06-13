@@ -1,9 +1,9 @@
 ---
 title: CertStoreException.CertStoreException()
-permalink: Java/CertStoreException/CertStoreException
+permalink: /Java/CertStoreException/CertStoreException/
 date: 2021-01-11
-key: JavaJava.C.CertStoreException
-category: java
+key: Java.C.CertStoreException
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ClassFilter.exposeToScripts()
-permalink: Java/ClassFilter/exposeToScripts
+permalink: /Java/ClassFilter/exposeToScripts/
 date: 2021-01-11
-key: JavaJava.C.ClassFilter
-category: java
+key: Java.C.ClassFilter
+category: Java
 tags: ['java se', 'jdk.nashorn.api.scripting', 'jdk.scripting.nashorn', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

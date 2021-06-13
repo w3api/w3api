@@ -2,8 +2,8 @@
 title: BeanContextEvent.propagatedFrom
 permalink: /Java/BeanContextEvent/propagatedFrom/
 date: 2021-01-11
-key: JavaJava.B.BeanContextEvent
-category: java
+key: Java.B.BeanContextEvent
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

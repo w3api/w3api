@@ -2,8 +2,8 @@
 title: BevelBorder.shadowOuter
 permalink: /Java/BevelBorder/shadowOuter/
 date: 2021-01-11
-key: JavaJava.B.BevelBorder
-category: java
+key: Java.B.BevelBorder
+category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

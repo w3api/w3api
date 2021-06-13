@@ -2,8 +2,8 @@
 title: BlockView
 permalink: /Java/BlockView/
 date: 2021-01-11
-key: JavaJava.B.BlockView
-category: java
+key: Java.B.BlockView
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

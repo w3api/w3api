@@ -1,9 +1,9 @@
 ---
 title: CipherOutputStream.close()
-permalink: Java/CipherOutputStream/close
+permalink: /Java/CipherOutputStream/close/
 date: 2021-01-11
-key: JavaJava.C.CipherOutputStream
-category: java
+key: Java.C.CipherOutputStream
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

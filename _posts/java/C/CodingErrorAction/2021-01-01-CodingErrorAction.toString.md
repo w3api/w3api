@@ -1,9 +1,9 @@
 ---
 title: CodingErrorAction.toString()
-permalink: Java/CodingErrorAction/toString
+permalink: /Java/CodingErrorAction/toString/
 date: 2021-01-11
-key: JavaJava.C.CodingErrorAction
-category: java
+key: Java.C.CodingErrorAction
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

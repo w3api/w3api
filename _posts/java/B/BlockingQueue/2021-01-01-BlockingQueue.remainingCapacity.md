@@ -2,8 +2,8 @@
 title: BlockingQueue.remainingCapacity()
 permalink: /Java/BlockingQueue/remainingCapacity/
 date: 2021-01-11
-key: JavaJava.B.BlockingQueue
-category: java
+key: Java.B.BlockingQueue
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

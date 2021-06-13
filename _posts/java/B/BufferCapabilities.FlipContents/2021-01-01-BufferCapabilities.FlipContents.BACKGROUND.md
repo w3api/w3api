@@ -2,8 +2,8 @@
 title: BufferCapabilities.FlipContents.BACKGROUND
 permalink: /Java/BufferCapabilities/FlipContents/BACKGROUND/
 date: 2021-01-11
-key: JavaJava.B.BufferCapabilities.FlipContents
-category: java
+key: Java.B.BufferCapabilities.FlipContents
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

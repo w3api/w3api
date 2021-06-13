@@ -1,9 +1,9 @@
 ---
 title: ColorChooserComponentFactory
-permalink: Java/ColorChooserComponentFactory
+permalink: /Java/ColorChooserComponentFactory/
 date: 2021-01-11
-key: JavaJava.C.ColorChooserComponentFactory
-category: java
+key: Java.C.ColorChooserComponentFactory
+category: Java
 tags: ['java se', 'javax.swing.colorchooser', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

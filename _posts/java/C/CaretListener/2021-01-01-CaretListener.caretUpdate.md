@@ -1,9 +1,9 @@
 ---
 title: CaretListener.caretUpdate()
-permalink: Java/CaretListener/caretUpdate
+permalink: /Java/CaretListener/caretUpdate/
 date: 2021-01-11
-key: JavaJava.C.CaretListener
-category: java
+key: Java.C.CaretListener
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

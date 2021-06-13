@@ -1,9 +1,9 @@
 ---
 title: CellEditorListener.editingStopped()
-permalink: Java/CellEditorListener/editingStopped
+permalink: /Java/CellEditorListener/editingStopped/
 date: 2021-01-11
-key: JavaJava.C.CellEditorListener
-category: java
+key: Java.C.CellEditorListener
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CannotProceedHelper.type()
-permalink: Java/CannotProceedHelper/type
+permalink: /Java/CannotProceedHelper/type/
 date: 2021-01-11
-key: JavaJava.C.CannotProceedHelper
-category: java
+key: Java.C.CannotProceedHelper
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BorderStrokeStyle.getDashOffset()
 permalink: /Java/BorderStrokeStyle/getDashOffset/
 date: 2021-01-11
-key: JavaJava.B.BorderStrokeStyle
-category: java
+key: Java.B.BorderStrokeStyle
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CertificateParsingException
-permalink: Java/CertificateParsingException-java-security-cert
+permalink: /Java/CertificateParsingException-java-security-cert/
 date: 2021-01-11
-key: JavaJava.C.CertificateParsingException-java-security-cert
-category: java
+key: Java.C.CertificateParsingException-java-security-cert
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

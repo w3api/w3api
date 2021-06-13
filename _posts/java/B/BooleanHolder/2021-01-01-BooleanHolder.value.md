@@ -2,8 +2,8 @@
 title: BooleanHolder.value
 permalink: /Java/BooleanHolder/value/
 date: 2021-01-11
-key: JavaJava.B.BooleanHolder
-category: java
+key: Java.B.BooleanHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

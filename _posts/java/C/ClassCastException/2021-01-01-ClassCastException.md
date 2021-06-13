@@ -1,9 +1,9 @@
 ---
 title: ClassCastException
-permalink: Java/ClassCastException
+permalink: /Java/ClassCastException/
 date: 2021-01-11
-key: JavaJava.C.ClassCastException
-category: java
+key: Java.C.ClassCastException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

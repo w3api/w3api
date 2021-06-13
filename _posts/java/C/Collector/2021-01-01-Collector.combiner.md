@@ -1,9 +1,9 @@
 ---
 title: Collector.combiner()
-permalink: Java/Collector/combiner
+permalink: /Java/Collector/combiner/
 date: 2021-01-11
-key: JavaJava.C.Collector
-category: java
+key: Java.C.Collector
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

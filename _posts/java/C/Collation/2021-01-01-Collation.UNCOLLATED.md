@@ -1,9 +1,9 @@
 ---
 title: Collation.UNCOLLATED
-permalink: Java/Collation/UNCOLLATED
+permalink: /Java/Collation/UNCOLLATED/
 date: 2021-01-11
-key: JavaJava.C.Collation
-category: java
+key: Java.C.Collation
+category: Java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

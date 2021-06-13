@@ -1,9 +1,9 @@
 ---
 title: ComboBoxListCell.setConverter()
-permalink: Java/ComboBoxListCell/setConverter
+permalink: /Java/ComboBoxListCell/setConverter/
 date: 2021-01-11
-key: JavaJava.C.ComboBoxListCell
-category: java
+key: Java.C.ComboBoxListCell
+category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

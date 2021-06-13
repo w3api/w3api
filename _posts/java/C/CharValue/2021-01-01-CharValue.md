@@ -1,9 +1,9 @@
 ---
 title: CharValue
-permalink: Java/CharValue
+permalink: /Java/CharValue/
 date: 2021-01-11
-key: JavaJava.C.CharValue
-category: java
+key: Java.C.CharValue
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

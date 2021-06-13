@@ -1,9 +1,9 @@
 ---
 title: CardChannel.CardChannel()
-permalink: Java/CardChannel/CardChannel
+permalink: /Java/CardChannel/CardChannel/
 date: 2021-01-11
-key: JavaJava.C.CardChannel
-category: java
+key: Java.C.CardChannel
+category: Java
 tags: ['java se', 'javax.smartcardio', 'java.smartcardio', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

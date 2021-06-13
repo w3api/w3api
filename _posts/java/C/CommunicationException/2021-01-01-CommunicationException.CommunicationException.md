@@ -1,9 +1,9 @@
 ---
 title: CommunicationException.CommunicationException()
-permalink: Java/CommunicationException/CommunicationException
+permalink: /Java/CommunicationException/CommunicationException/
 date: 2021-01-11
-key: JavaJava.C.CommunicationException
-category: java
+key: Java.C.CommunicationException
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

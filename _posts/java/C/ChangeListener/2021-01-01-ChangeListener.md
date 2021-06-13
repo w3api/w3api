@@ -1,9 +1,9 @@
 ---
 title: ChangeListener
-permalink: Java/ChangeListener/
+permalink: /Java/ChangeListener//
 date: 2021-01-11
-key: JavaJava.C.ChangeListener
-category: java
+key: Java.C.ChangeListener
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

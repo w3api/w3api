@@ -1,9 +1,9 @@
 ---
 title: ClassExpressionTree.getName()
-permalink: Java/ClassExpressionTree/getName
+permalink: /Java/ClassExpressionTree/getName/
 date: 2021-01-11
-key: JavaJava.C.ClassExpressionTree
-category: java
+key: Java.C.ClassExpressionTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

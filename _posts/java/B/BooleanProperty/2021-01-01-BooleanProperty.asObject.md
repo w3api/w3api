@@ -2,8 +2,8 @@
 title: BooleanProperty.asObject()
 permalink: /Java/BooleanProperty/asObject/
 date: 2021-01-11
-key: JavaJava.B.BooleanProperty
-category: java
+key: Java.B.BooleanProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

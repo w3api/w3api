@@ -1,9 +1,9 @@
 ---
 title: CheckboxGroup
-permalink: Java/CheckboxGroup
+permalink: /Java/CheckboxGroup/
 date: 2021-01-11
-key: JavaJava.C.CheckboxGroup
-category: java
+key: Java.C.CheckboxGroup
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

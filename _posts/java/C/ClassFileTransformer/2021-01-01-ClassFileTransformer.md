@@ -1,9 +1,9 @@
 ---
 title: ClassFileTransformer
-permalink: Java/ClassFileTransformer
+permalink: /Java/ClassFileTransformer/
 date: 2021-01-11
-key: JavaJava.C.ClassFileTransformer
-category: java
+key: Java.C.ClassFileTransformer
+category: Java
 tags: ['java se', 'java.lang.instrument', 'java.instrument', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

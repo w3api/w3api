@@ -2,8 +2,8 @@
 title: BoxLayout.Y_AXIS
 permalink: /Java/BoxLayout/Y_AXIS/
 date: 2021-01-11
-key: JavaJava.B.BoxLayout
-category: java
+key: Java.B.BoxLayout
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CoderResult.OVERFLOW
-permalink: Java/CoderResult/OVERFLOW
+permalink: /Java/CoderResult/OVERFLOW/
 date: 2021-01-11
-key: JavaJava.C.CoderResult
-category: java
+key: Java.C.CoderResult
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

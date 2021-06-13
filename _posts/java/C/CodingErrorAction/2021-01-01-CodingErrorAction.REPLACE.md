@@ -1,9 +1,9 @@
 ---
 title: CodingErrorAction.REPLACE
-permalink: Java/CodingErrorAction/REPLACE
+permalink: /Java/CodingErrorAction/REPLACE/
 date: 2021-01-11
-key: JavaJava.C.CodingErrorAction
-category: java
+key: Java.C.CodingErrorAction
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

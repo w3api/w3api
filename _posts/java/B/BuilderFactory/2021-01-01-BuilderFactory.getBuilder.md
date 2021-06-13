@@ -2,8 +2,8 @@
 title: BuilderFactory.getBuilder()
 permalink: /Java/BuilderFactory/getBuilder/
 date: 2021-01-11
-key: JavaJava.B.BuilderFactory
-category: java
+key: Java.B.BuilderFactory
+category: Java
 tags: ['java se', 'javafx.util', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Certificate.hashCode()
-permalink: Java/Certificate-javax-security-cert/hashCode
+permalink: /Java/Certificate-javax-security-cert/hashCode/
 date: 2021-01-11
-key: JavaJava.C.Certificate-javax-security-cert
-category: java
+key: Java.C.Certificate-javax-security-cert
+category: Java
 tags: ['java se', 'javax.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

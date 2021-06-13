@@ -1,9 +1,9 @@
 ---
 title: CheckMenuItem.CheckMenuItem()
-permalink: Java/CheckMenuItem/CheckMenuItem
+permalink: /Java/CheckMenuItem/CheckMenuItem/
 date: 2021-01-11
-key: JavaJava.C.CheckMenuItem
-category: java
+key: Java.C.CheckMenuItem
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

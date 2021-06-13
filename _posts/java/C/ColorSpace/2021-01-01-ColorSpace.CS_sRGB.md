@@ -1,9 +1,9 @@
 ---
 title: ColorSpace.CS_sRGB
-permalink: Java/ColorSpace/CS_sRGB
+permalink: /Java/ColorSpace/CS_sRGB/
 date: 2021-01-11
-key: JavaJava.C.ColorSpace
-category: java
+key: Java.C.ColorSpace
+category: Java
 tags: ['java se', 'java.awt.color', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

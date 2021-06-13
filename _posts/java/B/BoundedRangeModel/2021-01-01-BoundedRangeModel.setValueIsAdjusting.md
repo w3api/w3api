@@ -2,8 +2,8 @@
 title: BoundedRangeModel.setValueIsAdjusting()
 permalink: /Java/BoundedRangeModel/setValueIsAdjusting/
 date: 2021-01-11
-key: JavaJava.B.BoundedRangeModel
-category: java
+key: Java.B.BoundedRangeModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

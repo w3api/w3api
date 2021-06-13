@@ -3,7 +3,7 @@ title: BeanContextServices
 permalink: /Java/BeanContextServices/
 date: 2021-01-11
 key: Java.B.BeanContextServices
-category: java
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

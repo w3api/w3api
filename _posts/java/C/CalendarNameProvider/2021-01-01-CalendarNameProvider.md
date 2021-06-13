@@ -1,9 +1,9 @@
 ---
 title: CalendarNameProvider
-permalink: Java/CalendarNameProvider
+permalink: /Java/CalendarNameProvider/
 date: 2021-01-11
-key: JavaJava.C.CalendarNameProvider
-category: java
+key: Java.C.CalendarNameProvider
+category: Java
 tags: ['java se', 'java.util.spi', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

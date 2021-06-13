@@ -1,9 +1,9 @@
 ---
 title: ColorPicker.ColorPicker()
-permalink: Java/ColorPicker/ColorPicker
+permalink: /Java/ColorPicker/ColorPicker/
 date: 2021-01-11
-key: JavaJava.C.ColorPicker
-category: java
+key: Java.C.ColorPicker
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ClientInfoStatus
-permalink: Java/ClientInfoStatus
+permalink: /Java/ClientInfoStatus/
 date: 2021-01-11
-key: JavaJava.C.ClientInfoStatus
-category: java
+key: Java.C.ClientInfoStatus
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'enumerado java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ColorModel.getPixelSize()
-permalink: Java/ColorModel/getPixelSize
+permalink: /Java/ColorModel/getPixelSize/
 date: 2021-01-11
-key: JavaJava.C.ColorModel
-category: java
+key: Java.C.ColorModel
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Character.isUnicodeIdentifierPart()
-permalink: Java/Character/isUnicodeIdentifierPart
+permalink: /Java/Character/isUnicodeIdentifierPart/
 date: 2021-01-11
-key: JavaJava.C.Character
-category: java
+key: Java.C.Character
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

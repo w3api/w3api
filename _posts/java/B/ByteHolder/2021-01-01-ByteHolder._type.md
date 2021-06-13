@@ -2,8 +2,8 @@
 title: ByteHolder._type()
 permalink: /Java/ByteHolder/_type/
 date: 2021-01-11
-key: JavaJava.B.ByteHolder
-category: java
+key: Java.B.ByteHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CMMException
-permalink: Java/CMMException
+permalink: /Java/CMMException/
 date: 2021-01-11
-key: JavaJava.C.CMMException
-category: java
+key: Java.C.CMMException
+category: Java
 tags: ['java se', 'java.awt.color', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ClassDefinition.getDefinitionClass()
-permalink: Java/ClassDefinition/getDefinitionClass
+permalink: /Java/ClassDefinition/getDefinitionClass/
 date: 2021-01-11
-key: JavaJava.C.ClassDefinition
-category: java
+key: Java.C.ClassDefinition
+category: Java
 tags: ['java se', 'java.lang.instrument', 'java.instrument', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

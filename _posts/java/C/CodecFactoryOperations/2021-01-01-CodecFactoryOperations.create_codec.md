@@ -1,9 +1,9 @@
 ---
 title: CodecFactoryOperations.create_codec()
-permalink: Java/CodecFactoryOperations/create_codec
+permalink: /Java/CodecFactoryOperations/create_codec/
 date: 2021-01-11
-key: JavaJava.C.CodecFactoryOperations
-category: java
+key: Java.C.CodecFactoryOperations
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

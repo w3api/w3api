@@ -1,9 +1,9 @@
 ---
 title: ChoiceBoxListCell.getItems()
-permalink: Java/ChoiceBoxListCell/getItems
+permalink: /Java/ChoiceBoxListCell/getItems/
 date: 2021-01-11
-key: JavaJava.C.ChoiceBoxListCell
-category: java
+key: Java.C.ChoiceBoxListCell
+category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BeanContextContainerProxy
 permalink: /Java/BeanContextContainerProxy/
 date: 2021-01-11
-key: JavaJava.B.BeanContextContainerProxy
-category: java
+key: Java.B.BeanContextContainerProxy
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

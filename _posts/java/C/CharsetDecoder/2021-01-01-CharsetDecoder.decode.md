@@ -1,9 +1,9 @@
 ---
 title: CharsetDecoder.decode()
-permalink: Java/CharsetDecoder/decode
+permalink: /Java/CharsetDecoder/decode/
 date: 2021-01-11
-key: JavaJava.C.CharsetDecoder
-category: java
+key: Java.C.CharsetDecoder
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

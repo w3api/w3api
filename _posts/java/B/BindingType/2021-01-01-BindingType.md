@@ -2,8 +2,8 @@
 title: BindingType
 permalink: /Java/BindingType//
 date: 2021-01-11
-key: JavaJava.B.BindingType
-category: java
+key: Java.B.BindingType
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

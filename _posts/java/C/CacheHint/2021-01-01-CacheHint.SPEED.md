@@ -1,9 +1,9 @@
 ---
 title: CacheHint.SPEED
-permalink: Java/CacheHint/SPEED
+permalink: /Java/CacheHint/SPEED/
 date: 2021-01-11
-key: JavaJava.C.CacheHint
-category: java
+key: Java.C.CacheHint
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

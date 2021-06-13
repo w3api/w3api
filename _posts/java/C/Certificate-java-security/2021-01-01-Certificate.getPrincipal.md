@@ -1,9 +1,9 @@
 ---
 title: Certificate.getPrincipal()
-permalink: Java/Certificate-java-security/getPrincipal
+permalink: /Java/Certificate-java-security/getPrincipal/
 date: 2021-01-11
-key: JavaJava.C.Certificate-java-security
-category: java
+key: Java.C.Certificate-java-security
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

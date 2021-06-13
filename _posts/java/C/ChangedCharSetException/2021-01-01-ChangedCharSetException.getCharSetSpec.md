@@ -1,9 +1,9 @@
 ---
 title: ChangedCharSetException.getCharSetSpec()
-permalink: Java/ChangedCharSetException/getCharSetSpec
+permalink: /Java/ChangedCharSetException/getCharSetSpec/
 date: 2021-01-11
-key: JavaJava.C.ChangedCharSetException
-category: java
+key: Java.C.ChangedCharSetException
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

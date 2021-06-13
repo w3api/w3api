@@ -1,9 +1,9 @@
 ---
 title: Certificate.encode()
-permalink: Java/Certificate-java-security/encode
+permalink: /Java/Certificate-java-security/encode/
 date: 2021-01-11
-key: JavaJava.C.Certificate-java-security
-category: java
+key: Java.C.Certificate-java-security
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

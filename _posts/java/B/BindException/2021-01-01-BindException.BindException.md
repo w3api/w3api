@@ -3,7 +3,7 @@ title: BindException.BindException()
 permalink: /Java/BindException/BindException/
 date: 2021-01-11
 key: Java.B.BindException
-category: java
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

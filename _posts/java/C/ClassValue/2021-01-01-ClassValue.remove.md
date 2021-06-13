@@ -1,9 +1,9 @@
 ---
 title: ClassValue.remove()
-permalink: Java/ClassValue/remove
+permalink: /Java/ClassValue/remove/
 date: 2021-01-11
-key: JavaJava.C.ClassValue
-category: java
+key: Java.C.ClassValue
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

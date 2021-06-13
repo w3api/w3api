@@ -1,9 +1,9 @@
 ---
 title: Comparator.nullsFirst()
-permalink: Java/Comparator/nullsFirst
+permalink: /Java/Comparator/nullsFirst/
 date: 2021-01-11
-key: JavaJava.C.Comparator
-category: java
+key: Java.C.Comparator
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

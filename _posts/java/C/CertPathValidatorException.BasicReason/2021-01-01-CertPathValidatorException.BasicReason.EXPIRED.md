@@ -1,9 +1,9 @@
 ---
 title: CertPathValidatorException.BasicReason.EXPIRED
-permalink: Java/CertPathValidatorException/BasicReason/EXPIRED
+permalink: /Java/CertPathValidatorException/BasicReason/EXPIRED/
 date: 2021-01-11
-key: JavaJava.C.CertPathValidatorException.BasicReason
-category: java
+key: Java.C.CertPathValidatorException.BasicReason
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

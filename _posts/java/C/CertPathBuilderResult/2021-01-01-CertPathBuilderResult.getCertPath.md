@@ -1,9 +1,9 @@
 ---
 title: CertPathBuilderResult.getCertPath()
-permalink: Java/CertPathBuilderResult/getCertPath
+permalink: /Java/CertPathBuilderResult/getCertPath/
 date: 2021-01-11
-key: JavaJava.C.CertPathBuilderResult
-category: java
+key: Java.C.CertPathBuilderResult
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

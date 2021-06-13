@@ -1,9 +1,9 @@
 ---
 title: CertificateRevokedException.getRevocationReason()
-permalink: Java/CertificateRevokedException/getRevocationReason
+permalink: /Java/CertificateRevokedException/getRevocationReason/
 date: 2021-01-11
-key: JavaJava.C.CertificateRevokedException
-category: java
+key: Java.C.CertificateRevokedException
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

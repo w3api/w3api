@@ -1,9 +1,9 @@
 ---
 title: CategoryAxis.getZeroPosition()
-permalink: Java/CategoryAxis/getZeroPosition
+permalink: /Java/CategoryAxis/getZeroPosition/
 date: 2021-01-11
-key: JavaJava.C.CategoryAxis
-category: java
+key: Java.C.CategoryAxis
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

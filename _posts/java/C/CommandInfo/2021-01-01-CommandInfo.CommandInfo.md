@@ -1,9 +1,9 @@
 ---
 title: CommandInfo.CommandInfo()
-permalink: Java/CommandInfo/CommandInfo
+permalink: /Java/CommandInfo/CommandInfo/
 date: 2021-01-11
-key: JavaJava.C.CommandInfo
-category: java
+key: Java.C.CommandInfo
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

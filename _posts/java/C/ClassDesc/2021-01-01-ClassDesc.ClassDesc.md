@@ -1,9 +1,9 @@
 ---
 title: ClassDesc.ClassDesc()
-permalink: Java/ClassDesc/ClassDesc
+permalink: /Java/ClassDesc/ClassDesc/
 date: 2021-01-11
-key: JavaJava.C.ClassDesc
-category: java
+key: Java.C.ClassDesc
+category: Java
 tags: ['java se', 'javax.rmi.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CharacterStringConverter.CharacterStringConverter()
-permalink: Java/CharacterStringConverter/CharacterStringConverter
+permalink: /Java/CharacterStringConverter/CharacterStringConverter/
 date: 2021-01-11
-key: JavaJava.C.CharacterStringConverter
-category: java
+key: Java.C.CharacterStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

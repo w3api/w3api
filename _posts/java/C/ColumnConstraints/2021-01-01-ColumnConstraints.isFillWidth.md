@@ -1,9 +1,9 @@
 ---
 title: ColumnConstraints.isFillWidth()
-permalink: Java/ColumnConstraints/isFillWidth
+permalink: /Java/ColumnConstraints/isFillWidth/
 date: 2021-01-11
-key: JavaJava.C.ColumnConstraints
-category: java
+key: Java.C.ColumnConstraints
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

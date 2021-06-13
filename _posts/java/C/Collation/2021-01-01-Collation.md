@@ -1,9 +1,9 @@
 ---
 title: Collation
-permalink: Java/Collation
+permalink: /Java/Collation/
 date: 2021-01-11
-key: JavaJava.C.Collation
-category: java
+key: Java.C.Collation
+category: Java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'enumerado java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ClosedFileSystemException
-permalink: Java/ClosedFileSystemException
+permalink: /Java/ClosedFileSystemException/
 date: 2021-01-11
-key: JavaJava.C.ClosedFileSystemException
-category: java
+key: Java.C.ClosedFileSystemException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

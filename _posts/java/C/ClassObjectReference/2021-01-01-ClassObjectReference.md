@@ -1,9 +1,9 @@
 ---
 title: ClassObjectReference
-permalink: Java/ClassObjectReference
+permalink: /Java/ClassObjectReference/
 date: 2021-01-11
-key: JavaJava.C.ClassObjectReference
-category: java
+key: Java.C.ClassObjectReference
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

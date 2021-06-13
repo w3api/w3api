@@ -1,9 +1,9 @@
 ---
 title: ClipboardService
-permalink: Java/ClipboardService
+permalink: /Java/ClipboardService/
 date: 2021-01-11
-key: JavaJava.C.ClipboardService
-category: java
+key: Java.C.ClipboardService
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'interface java', 'Java 1.4.2']
 sidebar: 
   nav: java

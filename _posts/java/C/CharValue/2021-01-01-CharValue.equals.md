@@ -1,9 +1,9 @@
 ---
 title: CharValue.equals()
-permalink: Java/CharValue/equals
+permalink: /Java/CharValue/equals/
 date: 2021-01-11
-key: JavaJava.C.CharValue
-category: java
+key: Java.C.CharValue
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

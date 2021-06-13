@@ -1,9 +1,9 @@
 ---
 title: CharArrayWriter
-permalink: Java/CharArrayWriter
+permalink: /Java/CharArrayWriter/
 date: 2021-01-11
-key: JavaJava.C.CharArrayWriter
-category: java
+key: Java.C.CharArrayWriter
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

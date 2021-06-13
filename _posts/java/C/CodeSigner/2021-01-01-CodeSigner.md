@@ -1,9 +1,9 @@
 ---
 title: CodeSigner
-permalink: Java/CodeSigner
+permalink: /Java/CodeSigner/
 date: 2021-01-11
-key: JavaJava.C.CodeSigner
-category: java
+key: Java.C.CodeSigner
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CannotProceed.cxt
-permalink: Java/CannotProceed/cxt
+permalink: /Java/CannotProceed/cxt/
 date: 2021-01-11
-key: JavaJava.C.CannotProceed
-category: java
+key: Java.C.CannotProceed
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

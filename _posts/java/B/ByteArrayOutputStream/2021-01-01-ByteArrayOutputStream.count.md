@@ -2,8 +2,8 @@
 title: ByteArrayOutputStream.count
 permalink: /Java/ByteArrayOutputStream/count/
 date: 2021-01-11
-key: JavaJava.B.ByteArrayOutputStream
-category: java
+key: Java.B.ByteArrayOutputStream
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

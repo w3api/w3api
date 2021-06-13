@@ -1,9 +1,9 @@
 ---
 title: CompletableFuture.obtrudeException()
-permalink: Java/CompletableFuture/obtrudeException
+permalink: /Java/CompletableFuture/obtrudeException/
 date: 2021-01-11
-key: JavaJava.C.CompletableFuture
-category: java
+key: Java.C.CompletableFuture
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

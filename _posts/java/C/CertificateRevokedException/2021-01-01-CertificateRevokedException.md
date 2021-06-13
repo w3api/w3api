@@ -1,9 +1,9 @@
 ---
 title: CertificateRevokedException
-permalink: Java/CertificateRevokedException
+permalink: /Java/CertificateRevokedException/
 date: 2021-01-11
-key: JavaJava.C.CertificateRevokedException
-category: java
+key: Java.C.CertificateRevokedException
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

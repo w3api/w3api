@@ -2,8 +2,8 @@
 title: BiConsumer.andThen()
 permalink: /Java/BiConsumer/andThen/
 date: 2021-01-11
-key: JavaJava.B.BiConsumer
-category: java
+key: Java.B.BiConsumer
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CRLReason.AA_COMPROMISE
-permalink: Java/CRLReason/AA_COMPROMISE
+permalink: /Java/CRLReason/AA_COMPROMISE/
 date: 2021-01-11
-key: JavaJava.C.CRLReason
-category: java
+key: Java.C.CRLReason
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Compilable
-permalink: Java/Compilable
+permalink: /Java/Compilable/
 date: 2021-01-11
-key: JavaJava.C.Compilable
-category: java
+key: Java.C.Compilable
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CipherOutputStream
-permalink: Java/CipherOutputStream
+permalink: /Java/CipherOutputStream/
 date: 2021-01-11
-key: JavaJava.C.CipherOutputStream
-category: java
+key: Java.C.CipherOutputStream
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

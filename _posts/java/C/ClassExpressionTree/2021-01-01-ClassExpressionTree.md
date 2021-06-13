@@ -1,9 +1,9 @@
 ---
 title: ClassExpressionTree
-permalink: Java/ClassExpressionTree
+permalink: /Java/ClassExpressionTree/
 date: 2021-01-11
-key: JavaJava.C.ClassExpressionTree
-category: java
+key: Java.C.ClassExpressionTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 9']
 sidebar: 
   nav: java

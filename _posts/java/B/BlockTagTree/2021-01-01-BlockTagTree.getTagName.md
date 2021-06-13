@@ -2,8 +2,8 @@
 title: BlockTagTree.getTagName()
 permalink: /Java/BlockTagTree/getTagName/
 date: 2021-01-11
-key: JavaJava.B.BlockTagTree
-category: java
+key: Java.B.BlockTagTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CertStoreSpi.engineGetCertificates()
-permalink: Java/CertStoreSpi/engineGetCertificates
+permalink: /Java/CertStoreSpi/engineGetCertificates/
 date: 2021-01-11
-key: JavaJava.C.CertStoreSpi
-category: java
+key: Java.C.CertStoreSpi
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

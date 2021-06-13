@@ -1,9 +1,9 @@
 ---
 title: ClosedChannelException
-permalink: Java/ClosedChannelException
+permalink: /Java/ClosedChannelException/
 date: 2021-01-11
-key: JavaJava.C.ClosedChannelException
-category: java
+key: Java.C.ClosedChannelException
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

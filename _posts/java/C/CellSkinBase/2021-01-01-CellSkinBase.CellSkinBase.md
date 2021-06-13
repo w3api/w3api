@@ -1,9 +1,9 @@
 ---
 title: CellSkinBase.CellSkinBase()
-permalink: Java/CellSkinBase/CellSkinBase
+permalink: /Java/CellSkinBase/CellSkinBase/
 date: 2021-01-11
-key: JavaJava.C.CellSkinBase
-category: java
+key: Java.C.CellSkinBase
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CertPathBuilderException
-permalink: Java/CertPathBuilderException
+permalink: /Java/CertPathBuilderException/
 date: 2021-01-11
-key: JavaJava.C.CertPathBuilderException
-category: java
+key: Java.C.CertPathBuilderException
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

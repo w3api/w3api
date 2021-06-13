@@ -1,9 +1,9 @@
 ---
 title: CompiledScript.CompiledScript()
-permalink: Java/CompiledScript/CompiledScript
+permalink: /Java/CompiledScript/CompiledScript/
 date: 2021-01-11
-key: JavaJava.C.CompiledScript
-category: java
+key: Java.C.CompiledScript
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

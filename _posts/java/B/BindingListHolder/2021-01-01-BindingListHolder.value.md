@@ -2,8 +2,8 @@
 title: BindingListHolder.value
 permalink: /Java/BindingListHolder/value/
 date: 2021-01-11
-key: JavaJava.B.BindingListHolder
-category: java
+key: Java.B.BindingListHolder
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

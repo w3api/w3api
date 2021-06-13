@@ -1,9 +1,9 @@
 ---
 title: ChoiceCallback.getChoices()
-permalink: Java/ChoiceCallback/getChoices
+permalink: /Java/ChoiceCallback/getChoices/
 date: 2021-01-11
-key: JavaJava.C.ChoiceCallback
-category: java
+key: Java.C.ChoiceCallback
+category: Java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

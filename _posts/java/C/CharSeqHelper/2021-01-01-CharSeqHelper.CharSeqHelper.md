@@ -1,9 +1,9 @@
 ---
 title: CharSeqHelper.CharSeqHelper()
-permalink: Java/CharSeqHelper/CharSeqHelper
+permalink: /Java/CharSeqHelper/CharSeqHelper/
 date: 2021-01-11
-key: JavaJava.C.CharSeqHelper
-category: java
+key: Java.C.CharSeqHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CharSequence.codePoints()
-permalink: Java/CharSequence/codePoints
+permalink: /Java/CharSequence/codePoints/
 date: 2021-01-11
-key: JavaJava.C.CharSequence
-category: java
+key: Java.C.CharSequence
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

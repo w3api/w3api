@@ -1,9 +1,9 @@
 ---
 title: Certificate
-permalink: Java/Certificate-java-security
+permalink: /Java/Certificate-java-security/
 date: 2021-01-11
-key: JavaJava.C.Certificate-java-security
-category: java
+key: Java.C.Certificate-java-security
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

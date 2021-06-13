@@ -1,9 +1,9 @@
 ---
 title: ClassFilter
-permalink: Java/ClassFilter
+permalink: /Java/ClassFilter/
 date: 2021-01-11
-key: JavaJava.C.ClassFilter
-category: java
+key: Java.C.ClassFilter
+category: Java
 tags: ['java se', 'jdk.nashorn.api.scripting', 'jdk.scripting.nashorn', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

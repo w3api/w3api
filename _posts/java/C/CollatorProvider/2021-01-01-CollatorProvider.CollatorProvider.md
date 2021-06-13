@@ -1,9 +1,9 @@
 ---
 title: CollatorProvider.CollatorProvider()
-permalink: Java/CollatorProvider/CollatorProvider
+permalink: /Java/CollatorProvider/CollatorProvider/
 date: 2021-01-11
-key: JavaJava.C.CollatorProvider
-category: java
+key: Java.C.CollatorProvider
+category: Java
 tags: ['java se', 'java.text.spi', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CancellationException
-permalink: Java/CancellationException
+permalink: /Java/CancellationException/
 date: 2021-01-11
-key: JavaJava.C.CancellationException
-category: java
+key: Java.C.CancellationException
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

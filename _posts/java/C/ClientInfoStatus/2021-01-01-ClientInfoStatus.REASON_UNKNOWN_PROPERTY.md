@@ -1,9 +1,9 @@
 ---
 title: ClientInfoStatus.REASON_UNKNOWN_PROPERTY
-permalink: Java/ClientInfoStatus/REASON_UNKNOWN_PROPERTY
+permalink: /Java/ClientInfoStatus/REASON_UNKNOWN_PROPERTY/
 date: 2021-01-11
-key: JavaJava.C.ClientInfoStatus
-category: java
+key: Java.C.ClientInfoStatus
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

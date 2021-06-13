@@ -1,9 +1,9 @@
 ---
 title: CellRendererPane.accessibleContext
-permalink: Java/CellRendererPane/accessibleContext
+permalink: /Java/CellRendererPane/accessibleContext/
 date: 2021-01-11
-key: JavaJava.C.CellRendererPane
-category: java
+key: Java.C.CellRendererPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Character.UnicodeBlock.KANNADA
-permalink: Java/Character/UnicodeBlock/KANNADA
+permalink: /Java/Character/UnicodeBlock/KANNADA/
 date: 2021-01-11
-key: JavaJava.C.Character.UnicodeBlock
-category: java
+key: Java.C.Character.UnicodeBlock
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

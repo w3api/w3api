@@ -1,9 +1,9 @@
 ---
 title: CardException.CardException()
-permalink: Java/CardException/CardException
+permalink: /Java/CardException/CardException/
 date: 2021-01-11
-key: JavaJava.C.CardException
-category: java
+key: Java.C.CardException
+category: Java
 tags: ['java se', 'javax.smartcardio', 'java.smartcardio', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

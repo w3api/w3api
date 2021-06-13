@@ -1,9 +1,9 @@
 ---
 title: CompiledScript.getEngine()
-permalink: Java/CompiledScript/getEngine
+permalink: /Java/CompiledScript/getEngine/
 date: 2021-01-11
-key: JavaJava.C.CompiledScript
-category: java
+key: Java.C.CompiledScript
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

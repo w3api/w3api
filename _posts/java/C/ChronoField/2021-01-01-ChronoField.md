@@ -1,9 +1,9 @@
 ---
 title: ChronoField
-permalink: Java/ChronoField
+permalink: /Java/ChronoField/
 date: 2021-01-11
-key: JavaJava.C.ChronoField
-category: java
+key: Java.C.ChronoField
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'enumerado java', 'Java 1.8']
 sidebar: 
   nav: java

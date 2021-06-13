@@ -1,9 +1,9 @@
 ---
 title: ClassCircularityError.ClassCircularityError()
-permalink: Java/ClassCircularityError/ClassCircularityError
+permalink: /Java/ClassCircularityError/ClassCircularityError/
 date: 2021-01-11
-key: JavaJava.C.ClassCircularityError
-category: java
+key: Java.C.ClassCircularityError
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

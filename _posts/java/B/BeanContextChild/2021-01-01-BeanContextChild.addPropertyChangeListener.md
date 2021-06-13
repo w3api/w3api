@@ -2,8 +2,8 @@
 title: BeanContextChild.addPropertyChangeListener()
 permalink: /Java/BeanContextChild/addPropertyChangeListener/
 date: 2021-01-11
-key: JavaJava.B.BeanContextChild
-category: java
+key: Java.B.BeanContextChild
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

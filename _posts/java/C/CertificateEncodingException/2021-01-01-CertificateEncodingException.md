@@ -1,9 +1,9 @@
 ---
 title: CertificateEncodingException
-permalink: Java/CertificateEncodingException/
+permalink: /Java/CertificateEncodingException//
 date: 2021-01-11
-key: JavaJava.C.CertificateEncodingException
-category: java
+key: Java.C.CertificateEncodingException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

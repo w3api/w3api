@@ -2,8 +2,8 @@
 title: BufferUnderflowException
 permalink: /Java/BufferUnderflowException/
 date: 2021-01-11
-key: JavaJava.B.BufferUnderflowException
-category: java
+key: Java.B.BufferUnderflowException
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

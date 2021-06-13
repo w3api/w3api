@@ -1,9 +1,9 @@
 ---
 title: CardTerminals.State.ALL
-permalink: Java/CardTerminals/State/ALL
+permalink: /Java/CardTerminals/State/ALL/
 date: 2021-01-11
-key: JavaJava.C.CardTerminals.State
-category: java
+key: Java.C.CardTerminals.State
+category: Java
 tags: ['java se', 'javax.smartcardio', 'java.smartcardio', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BindingProvider
 permalink: /Java/BindingProvider/
 date: 2021-01-11
-key: JavaJava.B.BindingProvider
-category: java
+key: Java.B.BindingProvider
+category: Java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'interface java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

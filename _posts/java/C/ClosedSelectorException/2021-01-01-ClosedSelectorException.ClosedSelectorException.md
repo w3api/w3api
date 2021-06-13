@@ -1,9 +1,9 @@
 ---
 title: ClosedSelectorException.ClosedSelectorException()
-permalink: Java/ClosedSelectorException/ClosedSelectorException
+permalink: /Java/ClosedSelectorException/ClosedSelectorException/
 date: 2021-01-11
-key: JavaJava.C.ClosedSelectorException
-category: java
+key: Java.C.ClosedSelectorException
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

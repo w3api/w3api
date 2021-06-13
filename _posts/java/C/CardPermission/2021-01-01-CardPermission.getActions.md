@@ -1,9 +1,9 @@
 ---
 title: CardPermission.getActions()
-permalink: Java/CardPermission/getActions
+permalink: /Java/CardPermission/getActions/
 date: 2021-01-11
-key: JavaJava.C.CardPermission
-category: java
+key: Java.C.CardPermission
+category: Java
 tags: ['java se', 'javax.smartcardio', 'java.smartcardio', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

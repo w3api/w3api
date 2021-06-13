@@ -1,9 +1,9 @@
 ---
 title: ClipboardContent.getHtml()
-permalink: Java/ClipboardContent/getHtml
+permalink: /Java/ClipboardContent/getHtml/
 date: 2021-01-11
-key: JavaJava.C.ClipboardContent
-category: java
+key: Java.C.ClipboardContent
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

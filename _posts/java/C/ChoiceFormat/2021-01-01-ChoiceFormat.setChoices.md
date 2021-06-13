@@ -1,9 +1,9 @@
 ---
 title: ChoiceFormat.setChoices()
-permalink: Java/ChoiceFormat/setChoices
+permalink: /Java/ChoiceFormat/setChoices/
 date: 2021-01-11
-key: JavaJava.C.ChoiceFormat
-category: java
+key: Java.C.ChoiceFormat
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

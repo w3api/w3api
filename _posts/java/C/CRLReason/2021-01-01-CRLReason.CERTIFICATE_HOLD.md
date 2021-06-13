@@ -1,9 +1,9 @@
 ---
 title: CRLReason.CERTIFICATE_HOLD
-permalink: Java/CRLReason/CERTIFICATE_HOLD
+permalink: /Java/CRLReason/CERTIFICATE_HOLD/
 date: 2021-01-11
-key: JavaJava.C.CRLReason
-category: java
+key: Java.C.CRLReason
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

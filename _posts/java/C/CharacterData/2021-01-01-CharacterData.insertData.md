@@ -1,9 +1,9 @@
 ---
 title: CharacterData.insertData()
-permalink: Java/CharacterData/insertData
+permalink: /Java/CharacterData/insertData/
 date: 2021-01-11
-key: JavaJava.C.CharacterData
-category: java
+key: Java.C.CharacterData
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

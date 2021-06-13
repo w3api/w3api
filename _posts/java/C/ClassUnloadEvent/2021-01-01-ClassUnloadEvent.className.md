@@ -1,9 +1,9 @@
 ---
 title: ClassUnloadEvent.className()
-permalink: Java/ClassUnloadEvent/className
+permalink: /Java/ClassUnloadEvent/className/
 date: 2021-01-11
-key: JavaJava.C.ClassUnloadEvent
-category: java
+key: Java.C.ClassUnloadEvent
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

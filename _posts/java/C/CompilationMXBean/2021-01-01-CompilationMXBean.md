@@ -1,9 +1,9 @@
 ---
 title: CompilationMXBean
-permalink: Java/CompilationMXBean
+permalink: /Java/CompilationMXBean/
 date: 2021-01-11
-key: JavaJava.C.CompilationMXBean
-category: java
+key: Java.C.CompilationMXBean
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

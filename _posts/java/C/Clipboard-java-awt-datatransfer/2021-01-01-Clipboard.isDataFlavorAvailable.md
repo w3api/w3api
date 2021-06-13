@@ -1,9 +1,9 @@
 ---
 title: Clipboard.isDataFlavorAvailable()
-permalink: Java/Clipboard-java-awt-datatransfer/isDataFlavorAvailable
+permalink: /Java/Clipboard-java-awt-datatransfer/isDataFlavorAvailable/
 date: 2021-01-11
-key: JavaJava.C.Clipboard-java-awt-datatransfer
-category: java
+key: Java.C.Clipboard-java-awt-datatransfer
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

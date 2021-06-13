@@ -2,8 +2,8 @@
 title: BeanContextServicesSupport.releaseBeanContextResources()
 permalink: /Java/BeanContextServicesSupport/releaseBeanContextResources/
 date: 2021-01-11
-key: JavaJava.B.BeanContextServicesSupport
-category: java
+key: Java.B.BeanContextServicesSupport
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

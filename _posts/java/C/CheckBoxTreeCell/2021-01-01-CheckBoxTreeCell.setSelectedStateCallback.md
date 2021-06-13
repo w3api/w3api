@@ -1,9 +1,9 @@
 ---
 title: CheckBoxTreeCell.setSelectedStateCallback()
-permalink: Java/CheckBoxTreeCell/setSelectedStateCallback
+permalink: /Java/CheckBoxTreeCell/setSelectedStateCallback/
 date: 2021-01-11
-key: JavaJava.C.CheckBoxTreeCell
-category: java
+key: Java.C.CheckBoxTreeCell
+category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

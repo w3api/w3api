@@ -1,9 +1,9 @@
 ---
 title: ClassDesc
-permalink: Java/ClassDesc
+permalink: /Java/ClassDesc/
 date: 2021-01-11
-key: JavaJava.C.ClassDesc
-category: java
+key: Java.C.ClassDesc
+category: Java
 tags: ['java se', 'javax.rmi.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

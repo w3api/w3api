@@ -1,9 +1,9 @@
 ---
 title: CellEditor.removeCellEditorListener()
-permalink: Java/CellEditor/removeCellEditorListener
+permalink: /Java/CellEditor/removeCellEditorListener/
 date: 2021-01-11
-key: JavaJava.C.CellEditor
-category: java
+key: Java.C.CellEditor
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

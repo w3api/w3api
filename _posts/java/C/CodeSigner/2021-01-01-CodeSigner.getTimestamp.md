@@ -1,9 +1,9 @@
 ---
 title: CodeSigner.getTimestamp()
-permalink: Java/CodeSigner/getTimestamp
+permalink: /Java/CodeSigner/getTimestamp/
 date: 2021-01-11
-key: JavaJava.C.CodeSigner
-category: java
+key: Java.C.CodeSigner
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

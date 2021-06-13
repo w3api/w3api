@@ -2,8 +2,8 @@
 title: BeanContextServiceProviderBeanInfo.getServicesBeanInfo()
 permalink: /Java/BeanContextServiceProviderBeanInfo/getServicesBeanInfo/
 date: 2021-01-11
-key: JavaJava.B.BeanContextServiceProviderBeanInfo
-category: java
+key: Java.B.BeanContextServiceProviderBeanInfo
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

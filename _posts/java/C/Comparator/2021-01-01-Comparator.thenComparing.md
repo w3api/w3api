@@ -1,9 +1,9 @@
 ---
 title: Comparator.thenComparing()
-permalink: Java/Comparator/thenComparing
+permalink: /Java/Comparator/thenComparing/
 date: 2021-01-11
-key: JavaJava.C.Comparator
-category: java
+key: Java.C.Comparator
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CertPathValidatorResult.clone()
-permalink: Java/CertPathValidatorResult/clone
+permalink: /Java/CertPathValidatorResult/clone/
 date: 2021-01-11
-key: JavaJava.C.CertPathValidatorResult
-category: java
+key: Java.C.CertPathValidatorResult
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

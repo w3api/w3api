@@ -1,9 +1,9 @@
 ---
 title: CompilationMXBean.isCompilationTimeMonitoringSupported()
-permalink: Java/CompilationMXBean/isCompilationTimeMonitoringSupported
+permalink: /Java/CompilationMXBean/isCompilationTimeMonitoringSupported/
 date: 2021-01-11
-key: JavaJava.C.CompilationMXBean
-category: java
+key: Java.C.CompilationMXBean
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

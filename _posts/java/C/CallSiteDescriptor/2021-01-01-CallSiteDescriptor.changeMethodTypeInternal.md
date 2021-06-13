@@ -1,9 +1,9 @@
 ---
 title: CallSiteDescriptor.changeMethodTypeInternal()
-permalink: Java/CallSiteDescriptor/changeMethodTypeInternal
+permalink: /Java/CallSiteDescriptor/changeMethodTypeInternal/
 date: 2021-01-11
-key: JavaJava.C.CallSiteDescriptor
-category: java
+key: Java.C.CallSiteDescriptor
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CheckBoxTreeItem.TreeModificationEvent.wasSelectionChanged()
-permalink: Java/CheckBoxTreeItem/TreeModificationEvent/wasSelectionChanged
+permalink: /Java/CheckBoxTreeItem/TreeModificationEvent/wasSelectionChanged/
 date: 2021-01-11
-key: JavaJava.C.CheckBoxTreeItem.TreeModificationEvent
-category: java
+key: Java.C.CheckBoxTreeItem.TreeModificationEvent
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

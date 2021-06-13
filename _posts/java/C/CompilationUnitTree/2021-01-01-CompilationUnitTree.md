@@ -1,9 +1,9 @@
 ---
 title: CompilationUnitTree
-permalink: Java/CompilationUnitTree/
+permalink: /Java/CompilationUnitTree//
 date: 2021-01-11
-key: JavaJava.C.CompilationUnitTree
-category: java
+key: Java.C.CompilationUnitTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

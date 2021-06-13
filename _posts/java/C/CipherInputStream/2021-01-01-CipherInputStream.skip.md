@@ -1,9 +1,9 @@
 ---
 title: CipherInputStream.skip()
-permalink: Java/CipherInputStream/skip
+permalink: /Java/CipherInputStream/skip/
 date: 2021-01-11
-key: JavaJava.C.CipherInputStream
-category: java
+key: Java.C.CipherInputStream
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

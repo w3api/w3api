@@ -1,9 +1,9 @@
 ---
 title: CheckBoxListCell
-permalink: Java/CheckBoxListCell
+permalink: /Java/CheckBoxListCell/
 date: 2021-01-11
-key: JavaJava.C.CheckBoxListCell
-category: java
+key: Java.C.CheckBoxListCell
+category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'clase java', 'JavaFX 2.2']
 sidebar: 
   nav: java

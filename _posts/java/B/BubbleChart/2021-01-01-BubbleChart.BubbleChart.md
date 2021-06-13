@@ -2,8 +2,8 @@
 title: BubbleChart.BubbleChart()
 permalink: /Java/BubbleChart/BubbleChart/
 date: 2021-01-11
-key: JavaJava.B.BubbleChart
-category: java
+key: Java.B.BubbleChart
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

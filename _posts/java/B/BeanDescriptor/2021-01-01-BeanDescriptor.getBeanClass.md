@@ -2,8 +2,8 @@
 title: BeanDescriptor.getBeanClass()
 permalink: /Java/BeanDescriptor/getBeanClass/
 date: 2021-01-11
-key: JavaJava.B.BeanDescriptor
-category: java
+key: Java.B.BeanDescriptor
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

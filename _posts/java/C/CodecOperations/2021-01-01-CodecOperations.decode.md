@@ -1,9 +1,9 @@
 ---
 title: CodecOperations.decode()
-permalink: Java/CodecOperations/decode
+permalink: /Java/CodecOperations/decode/
 date: 2021-01-11
-key: JavaJava.C.CodecOperations
-category: java
+key: Java.C.CodecOperations
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

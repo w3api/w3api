@@ -2,8 +2,8 @@
 title: BlockingDeque.offer()
 permalink: /Java/BlockingDeque/offer/
 date: 2021-01-11
-key: JavaJava.B.BlockingDeque
-category: java
+key: Java.B.BlockingDeque
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

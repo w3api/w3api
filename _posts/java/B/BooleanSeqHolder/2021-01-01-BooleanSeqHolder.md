@@ -2,8 +2,8 @@
 title: BooleanSeqHolder
 permalink: /Java/BooleanSeqHolder/
 date: 2021-01-11
-key: JavaJava.B.BooleanSeqHolder
-category: java
+key: Java.B.BooleanSeqHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

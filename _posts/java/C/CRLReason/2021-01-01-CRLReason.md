@@ -1,9 +1,9 @@
 ---
 title: CRLReason
-permalink: Java/CRLReason
+permalink: /Java/CRLReason/
 date: 2021-01-11
-key: JavaJava.C.CRLReason
-category: java
+key: Java.C.CRLReason
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'enumerado java', 'Java 1.7']
 sidebar: 
   nav: java

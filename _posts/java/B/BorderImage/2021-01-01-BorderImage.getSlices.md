@@ -2,8 +2,8 @@
 title: BorderImage.getSlices()
 permalink: /Java/BorderImage/getSlices/
 date: 2021-01-11
-key: JavaJava.B.BorderImage
-category: java
+key: Java.B.BorderImage
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

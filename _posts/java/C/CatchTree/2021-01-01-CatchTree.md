@@ -1,9 +1,9 @@
 ---
 title: CatchTree
-permalink: Java/CatchTree/
+permalink: /Java/CatchTree//
 date: 2021-01-11
-key: JavaJava.C.CatchTree
-category: java
+key: Java.C.CatchTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

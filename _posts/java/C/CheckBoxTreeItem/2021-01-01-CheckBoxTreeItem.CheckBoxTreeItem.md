@@ -1,9 +1,9 @@
 ---
 title: CheckBoxTreeItem.CheckBoxTreeItem()
-permalink: Java/CheckBoxTreeItem/CheckBoxTreeItem
+permalink: /Java/CheckBoxTreeItem/CheckBoxTreeItem/
 date: 2021-01-11
-key: JavaJava.C.CheckBoxTreeItem
-category: java
+key: Java.C.CheckBoxTreeItem
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

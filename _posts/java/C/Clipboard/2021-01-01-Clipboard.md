@@ -1,9 +1,9 @@
 ---
 title: Clipboard
-permalink: Java/Clipboard/
+permalink: /Java/Clipboard//
 date: 2021-01-11
-key: JavaJava.C.Clipboard
-category: java
+key: Java.C.Clipboard
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

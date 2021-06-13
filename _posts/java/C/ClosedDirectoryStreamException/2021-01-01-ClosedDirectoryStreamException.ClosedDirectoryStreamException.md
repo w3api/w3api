@@ -1,9 +1,9 @@
 ---
 title: ClosedDirectoryStreamException.ClosedDirectoryStreamException()
-permalink: Java/ClosedDirectoryStreamException/ClosedDirectoryStreamException
+permalink: /Java/ClosedDirectoryStreamException/ClosedDirectoryStreamException/
 date: 2021-01-11
-key: JavaJava.C.ClosedDirectoryStreamException
-category: java
+key: Java.C.ClosedDirectoryStreamException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

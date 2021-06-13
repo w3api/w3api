@@ -1,9 +1,9 @@
 ---
 title: ClassPrepareRequest
-permalink: Java/ClassPrepareRequest
+permalink: /Java/ClassPrepareRequest/
 date: 2021-01-11
-key: JavaJava.C.ClassPrepareRequest
-category: java
+key: Java.C.ClassPrepareRequest
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

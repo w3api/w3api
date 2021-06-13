@@ -1,9 +1,9 @@
 ---
 title: CommandMap.getMimeTypes()
-permalink: Java/CommandMap/getMimeTypes
+permalink: /Java/CommandMap/getMimeTypes/
 date: 2021-01-11
-key: JavaJava.C.CommandMap
-category: java
+key: Java.C.CommandMap
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CheckedInputStream.read()
-permalink: Java/CheckedInputStream/read
+permalink: /Java/CheckedInputStream/read/
 date: 2021-01-11
-key: JavaJava.C.CheckedInputStream
-category: java
+key: Java.C.CheckedInputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

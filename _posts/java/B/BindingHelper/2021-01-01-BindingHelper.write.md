@@ -2,8 +2,8 @@
 title: BindingHelper.write()
 permalink: /Java/BindingHelper/write/
 date: 2021-01-11
-key: JavaJava.B.BindingHelper
-category: java
+key: Java.B.BindingHelper
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

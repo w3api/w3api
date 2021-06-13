@@ -2,8 +2,8 @@
 title: BorderPane.getRight()
 permalink: /Java/BorderPane/getRight/
 date: 2021-01-11
-key: JavaJava.B.BorderPane
-category: java
+key: Java.B.BorderPane
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

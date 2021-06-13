@@ -1,9 +1,9 @@
 ---
 title: CSSPageRule
-permalink: Java/CSSPageRule
+permalink: /Java/CSSPageRule/
 date: 2021-01-11
-key: JavaJava.C.CSSPageRule
-category: java
+key: Java.C.CSSPageRule
+category: Java
 tags: ['java se', 'org.w3c.dom.css', 'jdk.xml.dom', 'interface java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

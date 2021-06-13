@@ -1,9 +1,9 @@
 ---
 title: ComboBoxBaseSkin.ComboBoxBaseSkin()
-permalink: Java/ComboBoxBaseSkin/ComboBoxBaseSkin
+permalink: /Java/ComboBoxBaseSkin/ComboBoxBaseSkin/
 date: 2021-01-11
-key: JavaJava.C.ComboBoxBaseSkin
-category: java
+key: Java.C.ComboBoxBaseSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

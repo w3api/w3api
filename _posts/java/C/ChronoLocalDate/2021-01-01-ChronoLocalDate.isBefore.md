@@ -1,9 +1,9 @@
 ---
 title: ChronoLocalDate.isBefore()
-permalink: Java/ChronoLocalDate/isBefore
+permalink: /Java/ChronoLocalDate/isBefore/
 date: 2021-01-11
-key: JavaJava.C.ChronoLocalDate
-category: java
+key: Java.C.ChronoLocalDate
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

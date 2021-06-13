@@ -1,9 +1,9 @@
 ---
 title: CertificateFactorySpi.CertificateFactorySpi()
-permalink: Java/CertificateFactorySpi/CertificateFactorySpi
+permalink: /Java/CertificateFactorySpi/CertificateFactorySpi/
 date: 2021-01-11
-key: JavaJava.C.CertificateFactorySpi
-category: java
+key: Java.C.CertificateFactorySpi
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

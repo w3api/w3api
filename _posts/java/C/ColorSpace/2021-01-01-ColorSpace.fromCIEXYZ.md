@@ -1,9 +1,9 @@
 ---
 title: ColorSpace.fromCIEXYZ()
-permalink: Java/ColorSpace/fromCIEXYZ
+permalink: /Java/ColorSpace/fromCIEXYZ/
 date: 2021-01-11
-key: JavaJava.C.ColorSpace
-category: java
+key: Java.C.ColorSpace
+category: Java
 tags: ['java se', 'java.awt.color', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

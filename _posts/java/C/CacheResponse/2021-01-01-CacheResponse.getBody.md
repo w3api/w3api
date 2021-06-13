@@ -1,9 +1,9 @@
 ---
 title: CacheResponse.getBody()
-permalink: Java/CacheResponse/getBody
+permalink: /Java/CacheResponse/getBody/
 date: 2021-01-11
-key: JavaJava.C.CacheResponse
-category: java
+key: Java.C.CacheResponse
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

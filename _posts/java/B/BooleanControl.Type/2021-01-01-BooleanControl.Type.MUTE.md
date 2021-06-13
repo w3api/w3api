@@ -2,8 +2,8 @@
 title: BooleanControl.Type.MUTE
 permalink: /Java/BooleanControl/Type/MUTE/
 date: 2021-01-11
-key: JavaJava.B.BooleanControl.Type
-category: java
+key: Java.B.BooleanControl.Type
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

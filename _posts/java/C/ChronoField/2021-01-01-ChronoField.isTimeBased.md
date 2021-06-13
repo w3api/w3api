@@ -1,9 +1,9 @@
 ---
 title: ChronoField.isTimeBased()
-permalink: Java/ChronoField/isTimeBased
+permalink: /Java/ChronoField/isTimeBased/
 date: 2021-01-11
-key: JavaJava.C.ChronoField
-category: java
+key: Java.C.ChronoField
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

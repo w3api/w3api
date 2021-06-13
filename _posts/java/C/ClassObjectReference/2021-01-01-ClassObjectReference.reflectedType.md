@@ -1,9 +1,9 @@
 ---
 title: ClassObjectReference.reflectedType()
-permalink: Java/ClassObjectReference/reflectedType
+permalink: /Java/ClassObjectReference/reflectedType/
 date: 2021-01-11
-key: JavaJava.C.ClassObjectReference
-category: java
+key: Java.C.ClassObjectReference
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CharSeqHolder.CharSeqHolder()
-permalink: Java/CharSeqHolder/CharSeqHolder
+permalink: /Java/CharSeqHolder/CharSeqHolder/
 date: 2021-01-11
-key: JavaJava.C.CharSeqHolder
-category: java
+key: Java.C.CharSeqHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CommandAPDU.getData()
-permalink: Java/CommandAPDU/getData
+permalink: /Java/CommandAPDU/getData/
 date: 2021-01-11
-key: JavaJava.C.CommandAPDU
-category: java
+key: Java.C.CommandAPDU
+category: Java
 tags: ['java se', 'javax.smartcardio', 'java.smartcardio', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

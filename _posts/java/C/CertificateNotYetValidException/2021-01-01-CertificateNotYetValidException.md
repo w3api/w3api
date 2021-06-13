@@ -1,9 +1,9 @@
 ---
 title: CertificateNotYetValidException
-permalink: Java/CertificateNotYetValidException/
+permalink: /Java/CertificateNotYetValidException//
 date: 2021-01-11
-key: JavaJava.C.CertificateNotYetValidException
-category: java
+key: Java.C.CertificateNotYetValidException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

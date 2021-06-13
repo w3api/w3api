@@ -1,9 +1,9 @@
 ---
 title: CardNotPresentException
-permalink: Java/CardNotPresentException
+permalink: /Java/CardNotPresentException/
 date: 2021-01-11
-key: JavaJava.C.CardNotPresentException
-category: java
+key: Java.C.CardNotPresentException
+category: Java
 tags: ['java se', 'javax.smartcardio', 'java.smartcardio', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

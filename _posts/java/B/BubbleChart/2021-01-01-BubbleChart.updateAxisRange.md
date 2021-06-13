@@ -2,8 +2,8 @@
 title: BubbleChart.updateAxisRange()
 permalink: /Java/BubbleChart/updateAxisRange/
 date: 2021-01-11
-key: JavaJava.B.BubbleChart
-category: java
+key: Java.B.BubbleChart
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

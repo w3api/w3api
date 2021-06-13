@@ -2,8 +2,8 @@
 title: BeanProperty.description
 permalink: /Java/BeanProperty/description/
 date: 2021-01-11
-key: JavaJava.B.BeanProperty
-category: java
+key: Java.B.BeanProperty
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'elemento java', 'Java 9']
 sidebar: 
   nav: java

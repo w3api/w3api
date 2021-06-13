@@ -2,8 +2,8 @@
 title: BigDecimalStringConverter
 permalink: /Java/BigDecimalStringConverter/
 date: 2021-01-11
-key: JavaJava.B.BigDecimalStringConverter
-category: java
+key: Java.B.BigDecimalStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

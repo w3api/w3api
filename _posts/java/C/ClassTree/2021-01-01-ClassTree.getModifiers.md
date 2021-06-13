@@ -1,9 +1,9 @@
 ---
 title: ClassTree.getModifiers()
-permalink: Java/ClassTree/getModifiers
+permalink: /Java/ClassTree/getModifiers/
 date: 2021-01-11
-key: JavaJava.C.ClassTree
-category: java
+key: Java.C.ClassTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

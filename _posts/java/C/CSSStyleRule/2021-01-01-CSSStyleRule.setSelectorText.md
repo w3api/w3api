@@ -1,9 +1,9 @@
 ---
 title: CSSStyleRule.setSelectorText()
-permalink: Java/CSSStyleRule/setSelectorText
+permalink: /Java/CSSStyleRule/setSelectorText/
 date: 2021-01-11
-key: JavaJava.C.CSSStyleRule
-category: java
+key: Java.C.CSSStyleRule
+category: Java
 tags: ['java se', 'org.w3c.dom.css', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

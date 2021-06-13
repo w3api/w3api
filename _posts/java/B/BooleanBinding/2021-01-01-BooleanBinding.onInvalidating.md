@@ -2,8 +2,8 @@
 title: BooleanBinding.onInvalidating()
 permalink: /Java/BooleanBinding/onInvalidating/
 date: 2021-01-11
-key: JavaJava.B.BooleanBinding
-category: java
+key: Java.B.BooleanBinding
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

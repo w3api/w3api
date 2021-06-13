@@ -1,9 +1,9 @@
 ---
 title: ClientRequestInterceptor
-permalink: Java/ClientRequestInterceptor
+permalink: /Java/ClientRequestInterceptor/
 date: 2021-01-11
-key: JavaJava.C.ClientRequestInterceptor
-category: java
+key: Java.C.ClientRequestInterceptor
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

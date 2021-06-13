@@ -1,9 +1,9 @@
 ---
 title: ComboBoxEditor.selectAll()
-permalink: Java/ComboBoxEditor/selectAll
+permalink: /Java/ComboBoxEditor/selectAll/
 date: 2021-01-11
-key: JavaJava.C.ComboBoxEditor
-category: java
+key: Java.C.ComboBoxEditor
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ColorConverter.getInstance()
-permalink: Java/ColorConverter/getInstance
+permalink: /Java/ColorConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.C.ColorConverter
-category: java
+key: Java.C.ColorConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

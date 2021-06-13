@@ -2,8 +2,8 @@
 title: BreakpointRequest.location()
 permalink: /Java/BreakpointRequest/location/
 date: 2021-01-11
-key: JavaJava.B.BreakpointRequest
-category: java
+key: Java.B.BreakpointRequest
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

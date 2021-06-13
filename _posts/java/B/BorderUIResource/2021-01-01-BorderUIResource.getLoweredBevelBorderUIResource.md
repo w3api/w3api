@@ -2,8 +2,8 @@
 title: BorderUIResource.getLoweredBevelBorderUIResource()
 permalink: /Java/BorderUIResource/getLoweredBevelBorderUIResource/
 date: 2021-01-11
-key: JavaJava.B.BorderUIResource
-category: java
+key: Java.B.BorderUIResource
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

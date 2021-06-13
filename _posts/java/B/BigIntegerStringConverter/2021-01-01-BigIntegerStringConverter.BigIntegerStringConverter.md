@@ -2,8 +2,8 @@
 title: BigIntegerStringConverter.BigIntegerStringConverter()
 permalink: /Java/BigIntegerStringConverter/BigIntegerStringConverter/
 date: 2021-01-11
-key: JavaJava.B.BigIntegerStringConverter
-category: java
+key: Java.B.BigIntegerStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

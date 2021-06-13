@@ -1,9 +1,9 @@
 ---
 title: ColorUIResource.ColorUIResource()
-permalink: Java/ColorUIResource/ColorUIResource
+permalink: /Java/ColorUIResource/ColorUIResource/
 date: 2021-01-11
-key: JavaJava.C.ColorUIResource
-category: java
+key: Java.C.ColorUIResource
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

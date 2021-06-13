@@ -1,9 +1,9 @@
 ---
 title: CaretEvent.getMark()
-permalink: Java/CaretEvent/getMark
+permalink: /Java/CaretEvent/getMark/
 date: 2021-01-11
-key: JavaJava.C.CaretEvent
-category: java
+key: Java.C.CaretEvent
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

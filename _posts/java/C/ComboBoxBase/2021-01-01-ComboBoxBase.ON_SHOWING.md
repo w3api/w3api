@@ -1,9 +1,9 @@
 ---
 title: ComboBoxBase.ON_SHOWING
-permalink: Java/ComboBoxBase/ON_SHOWING
+permalink: /Java/ComboBoxBase/ON_SHOWING/
 date: 2021-01-11
-key: JavaJava.C.ComboBoxBase
-category: java
+key: Java.C.ComboBoxBase
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

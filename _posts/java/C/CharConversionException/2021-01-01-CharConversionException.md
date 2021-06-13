@@ -1,9 +1,9 @@
 ---
 title: CharConversionException
-permalink: Java/CharConversionException
+permalink: /Java/CharConversionException/
 date: 2021-01-11
-key: JavaJava.C.CharConversionException
-category: java
+key: Java.C.CharConversionException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

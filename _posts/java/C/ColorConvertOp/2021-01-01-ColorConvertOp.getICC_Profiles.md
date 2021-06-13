@@ -1,9 +1,9 @@
 ---
 title: ColorConvertOp.getICC_Profiles()
-permalink: Java/ColorConvertOp/getICC_Profiles
+permalink: /Java/ColorConvertOp/getICC_Profiles/
 date: 2021-01-11
-key: JavaJava.C.ColorConvertOp
-category: java
+key: Java.C.ColorConvertOp
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

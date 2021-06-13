@@ -1,9 +1,9 @@
 ---
 title: Character
-permalink: Java/Character
+permalink: /Java/Character/
 date: 2021-01-11
-key: JavaJava.C.Character
-category: java
+key: Java.C.Character
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

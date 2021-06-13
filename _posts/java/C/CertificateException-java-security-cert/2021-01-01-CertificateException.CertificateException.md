@@ -1,9 +1,9 @@
 ---
 title: CertificateException.CertificateException()
-permalink: Java/CertificateException-java-security-cert/CertificateException
+permalink: /Java/CertificateException-java-security-cert/CertificateException/
 date: 2021-01-11
-key: JavaJava.C.CertificateException-java-security-cert
-category: java
+key: Java.C.CertificateException-java-security-cert
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

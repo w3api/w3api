@@ -2,8 +2,8 @@
 title: BeanContextEvent
 permalink: /Java/BeanContextEvent/
 date: 2021-01-11
-key: JavaJava.B.BeanContextEvent
-category: java
+key: Java.B.BeanContextEvent
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ClosedConnectionException.ClosedConnectionException()
-permalink: Java/ClosedConnectionException/ClosedConnectionException
+permalink: /Java/ClosedConnectionException/ClosedConnectionException/
 date: 2021-01-11
-key: JavaJava.C.ClosedConnectionException
-category: java
+key: Java.C.ClosedConnectionException
+category: Java
 tags: ['java se', 'com.sun.jdi.connect.spi', 'jdk.jdi', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

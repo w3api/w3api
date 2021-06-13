@@ -1,9 +1,9 @@
 ---
 title: ChainedCallSite.ChainedCallSite()
-permalink: Java/ChainedCallSite/ChainedCallSite
+permalink: /Java/ChainedCallSite/ChainedCallSite/
 date: 2021-01-11
-key: JavaJava.C.ChainedCallSite
-category: java
+key: Java.C.ChainedCallSite
+category: Java
 tags: ['java se', 'jdk.dynalink.support', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

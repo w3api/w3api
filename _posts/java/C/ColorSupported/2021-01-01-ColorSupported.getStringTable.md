@@ -1,9 +1,9 @@
 ---
 title: ColorSupported.getStringTable()
-permalink: Java/ColorSupported/getStringTable
+permalink: /Java/ColorSupported/getStringTable/
 date: 2021-01-11
-key: JavaJava.C.ColorSupported
-category: java
+key: Java.C.ColorSupported
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

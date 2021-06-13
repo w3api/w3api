@@ -1,9 +1,9 @@
 ---
 title: Cloneable
-permalink: Java/Cloneable
+permalink: /Java/Cloneable/
 date: 2021-01-11
-key: JavaJava.C.Cloneable
-category: java
+key: Java.C.Cloneable
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

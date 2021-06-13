@@ -1,9 +1,9 @@
 ---
 title: CertStore
-permalink: Java/CertStore
+permalink: /Java/CertStore/
 date: 2021-01-11
-key: JavaJava.C.CertStore
-category: java
+key: Java.C.CertStore
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

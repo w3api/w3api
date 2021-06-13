@@ -2,8 +2,8 @@
 title: Bootstrap.Bootstrap()
 permalink: /Java/Bootstrap/Bootstrap/
 date: 2021-01-11
-key: JavaJava.B.Bootstrap
-category: java
+key: Java.B.Bootstrap
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

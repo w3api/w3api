@@ -1,9 +1,9 @@
 ---
 title: Collection.parallelStream()
-permalink: Java/Collection/parallelStream
+permalink: /Java/Collection/parallelStream/
 date: 2021-01-11
-key: JavaJava.C.Collection
-category: java
+key: Java.C.Collection
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

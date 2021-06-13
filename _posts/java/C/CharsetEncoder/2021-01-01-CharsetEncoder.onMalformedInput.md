@@ -1,9 +1,9 @@
 ---
 title: CharsetEncoder.onMalformedInput()
-permalink: Java/CharsetEncoder/onMalformedInput
+permalink: /Java/CharsetEncoder/onMalformedInput/
 date: 2021-01-11
-key: JavaJava.C.CharsetEncoder
-category: java
+key: Java.C.CharsetEncoder
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

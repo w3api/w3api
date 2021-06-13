@@ -2,8 +2,8 @@
 title: BindingIteratorOperations.next_one()
 permalink: /Java/BindingIteratorOperations/next_one/
 date: 2021-01-11
-key: JavaJava.B.BindingIteratorOperations
-category: java
+key: Java.B.BindingIteratorOperations
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

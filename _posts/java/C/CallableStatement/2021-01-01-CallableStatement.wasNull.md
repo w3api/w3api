@@ -1,9 +1,9 @@
 ---
 title: CallableStatement.wasNull()
-permalink: Java/CallableStatement/wasNull
+permalink: /Java/CallableStatement/wasNull/
 date: 2021-01-11
-key: JavaJava.C.CallableStatement
-category: java
+key: Java.C.CallableStatement
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

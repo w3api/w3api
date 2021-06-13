@@ -1,9 +1,9 @@
 ---
 title: Closeable
-permalink: Java/Closeable
+permalink: /Java/Closeable/
 date: 2021-01-11
-key: JavaJava.C.Closeable
-category: java
+key: Java.C.Closeable
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

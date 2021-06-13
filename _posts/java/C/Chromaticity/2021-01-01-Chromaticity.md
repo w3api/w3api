@@ -1,9 +1,9 @@
 ---
 title: Chromaticity
-permalink: Java/Chromaticity
+permalink: /Java/Chromaticity/
 date: 2021-01-11
-key: JavaJava.C.Chromaticity
-category: java
+key: Java.C.Chromaticity
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

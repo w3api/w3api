@@ -1,9 +1,9 @@
 ---
 title: CatalogFeatures.Feature
-permalink: Java/CatalogFeatures/Feature
+permalink: /Java/CatalogFeatures/Feature/
 date: 2021-01-11
-key: JavaJava.C.CatalogFeatures.Feature
-category: java
+key: Java.C.CatalogFeatures.Feature
+category: Java
 tags: ['java se', 'javax.xml.catalog', 'java.xml', 'enumerado java', 'Java 1.0']
 sidebar: 
   nav: java

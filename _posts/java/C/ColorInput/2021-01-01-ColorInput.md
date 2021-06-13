@@ -1,9 +1,9 @@
 ---
 title: ColorInput
-permalink: Java/ColorInput
+permalink: /Java/ColorInput/
 date: 2021-01-11
-key: JavaJava.C.ColorInput
-category: java
+key: Java.C.ColorInput
+category: Java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

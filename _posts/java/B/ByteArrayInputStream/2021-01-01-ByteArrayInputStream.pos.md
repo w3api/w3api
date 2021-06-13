@@ -2,8 +2,8 @@
 title: ByteArrayInputStream.pos
 permalink: /Java/ByteArrayInputStream/pos/
 date: 2021-01-11
-key: JavaJava.B.ByteArrayInputStream
-category: java
+key: Java.B.ByteArrayInputStream
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

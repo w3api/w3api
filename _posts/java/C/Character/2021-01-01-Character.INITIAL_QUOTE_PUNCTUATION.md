@@ -1,9 +1,9 @@
 ---
 title: Character.INITIAL_QUOTE_PUNCTUATION
-permalink: Java/Character/INITIAL_QUOTE_PUNCTUATION
+permalink: /Java/Character/INITIAL_QUOTE_PUNCTUATION/
 date: 2021-01-11
-key: JavaJava.C.Character
-category: java
+key: Java.C.Character
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

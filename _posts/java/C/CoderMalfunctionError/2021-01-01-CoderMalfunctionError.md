@@ -1,9 +1,9 @@
 ---
 title: CoderMalfunctionError
-permalink: Java/CoderMalfunctionError
+permalink: /Java/CoderMalfunctionError/
 date: 2021-01-11
-key: JavaJava.C.CoderMalfunctionError
-category: java
+key: Java.C.CoderMalfunctionError
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

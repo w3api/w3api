@@ -1,9 +1,9 @@
 ---
 title: ChronoField.EPOCH_DAY
-permalink: Java/ChronoField/EPOCH_DAY
+permalink: /Java/ChronoField/EPOCH_DAY/
 date: 2021-01-11
-key: JavaJava.C.ChronoField
-category: java
+key: Java.C.ChronoField
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BiFunction.andThen()
 permalink: /Java/BiFunction/andThen/
 date: 2021-01-11
-key: JavaJava.B.BiFunction
-category: java
+key: Java.B.BiFunction
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

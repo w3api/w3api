@@ -2,8 +2,8 @@
 title: BorderWidths.DEFAULT
 permalink: /Java/BorderWidths/DEFAULT/
 date: 2021-01-11
-key: JavaJava.B.BorderWidths
-category: java
+key: Java.B.BorderWidths
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

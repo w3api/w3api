@@ -1,9 +1,9 @@
 ---
 title: CatalogFeatures.Builder.with()
-permalink: Java/CatalogFeatures/Builder/with
+permalink: /Java/CatalogFeatures/Builder/with/
 date: 2021-01-11
-key: JavaJava.C.CatalogFeatures.Builder
-category: java
+key: Java.C.CatalogFeatures.Builder
+category: Java
 tags: ['java se', 'javax.xml.catalog', 'java.xml', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

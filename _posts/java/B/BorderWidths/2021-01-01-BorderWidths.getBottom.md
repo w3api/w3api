@@ -2,8 +2,8 @@
 title: BorderWidths.getBottom()
 permalink: /Java/BorderWidths/getBottom/
 date: 2021-01-11
-key: JavaJava.B.BorderWidths
-category: java
+key: Java.B.BorderWidths
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

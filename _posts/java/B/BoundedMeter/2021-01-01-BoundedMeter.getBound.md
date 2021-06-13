@@ -2,8 +2,8 @@
 title: BoundedMeter.getBound()
 permalink: /Java/BoundedMeter/getBound/
 date: 2021-01-11
-key: JavaJava.B.BoundedMeter
-category: java
+key: Java.B.BoundedMeter
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 
   nav: java

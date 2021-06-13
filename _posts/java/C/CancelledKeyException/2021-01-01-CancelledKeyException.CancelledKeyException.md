@@ -1,9 +1,9 @@
 ---
 title: CancelledKeyException.CancelledKeyException()
-permalink: Java/CancelledKeyException/CancelledKeyException
+permalink: /Java/CancelledKeyException/CancelledKeyException/
 date: 2021-01-11
-key: JavaJava.C.CancelledKeyException
-category: java
+key: Java.C.CancelledKeyException
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ChronoPeriod
-permalink: Java/ChronoPeriod
+permalink: /Java/ChronoPeriod/
 date: 2021-01-11
-key: JavaJava.C.ChronoPeriod
-category: java
+key: Java.C.ChronoPeriod
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

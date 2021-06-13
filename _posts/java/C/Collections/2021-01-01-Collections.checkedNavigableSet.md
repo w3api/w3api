@@ -1,9 +1,9 @@
 ---
 title: Collections.checkedNavigableSet()
-permalink: Java/Collections/checkedNavigableSet
+permalink: /Java/Collections/checkedNavigableSet/
 date: 2021-01-11
-key: JavaJava.C.Collections
-category: java
+key: Java.C.Collections
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

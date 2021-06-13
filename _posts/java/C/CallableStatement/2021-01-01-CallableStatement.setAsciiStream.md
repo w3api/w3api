@@ -1,9 +1,9 @@
 ---
 title: CallableStatement.setAsciiStream()
-permalink: Java/CallableStatement/setAsciiStream
+permalink: /Java/CallableStatement/setAsciiStream/
 date: 2021-01-11
-key: JavaJava.C.CallableStatement
-category: java
+key: Java.C.CallableStatement
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

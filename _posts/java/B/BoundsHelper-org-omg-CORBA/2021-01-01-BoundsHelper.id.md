@@ -2,8 +2,8 @@
 title: BoundsHelper.id()
 permalink: /Java/BoundsHelper-org-omg-CORBA/id/
 date: 2021-01-11
-key: JavaJava.B.BoundsHelper-org-omg-CORBA
-category: java
+key: Java.B.BoundsHelper-org-omg-CORBA
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

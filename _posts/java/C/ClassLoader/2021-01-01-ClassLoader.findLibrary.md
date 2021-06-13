@@ -1,9 +1,9 @@
 ---
 title: ClassLoader.findLibrary()
-permalink: Java/ClassLoader/findLibrary
+permalink: /Java/ClassLoader/findLibrary/
 date: 2021-01-11
-key: JavaJava.C.ClassLoader
-category: java
+key: Java.C.ClassLoader
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

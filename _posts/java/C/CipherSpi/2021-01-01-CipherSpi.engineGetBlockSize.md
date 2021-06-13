@@ -1,9 +1,9 @@
 ---
 title: CipherSpi.engineGetBlockSize()
-permalink: Java/CipherSpi/engineGetBlockSize
+permalink: /Java/CipherSpi/engineGetBlockSize/
 date: 2021-01-11
-key: JavaJava.C.CipherSpi
-category: java
+key: Java.C.CipherSpi
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

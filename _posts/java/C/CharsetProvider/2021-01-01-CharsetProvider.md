@@ -1,9 +1,9 @@
 ---
 title: CharsetProvider
-permalink: Java/CharsetProvider
+permalink: /Java/CharsetProvider/
 date: 2021-01-11
-key: JavaJava.C.CharsetProvider
-category: java
+key: Java.C.CharsetProvider
+category: Java
 tags: ['java se', 'java.nio.charset.spi', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

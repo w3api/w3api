@@ -1,9 +1,9 @@
 ---
 title: ClientRequestInterceptorOperations.receive_other()
-permalink: Java/ClientRequestInterceptorOperations/receive_other
+permalink: /Java/ClientRequestInterceptorOperations/receive_other/
 date: 2021-01-11
-key: JavaJava.C.ClientRequestInterceptorOperations
-category: java
+key: Java.C.ClientRequestInterceptorOperations
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

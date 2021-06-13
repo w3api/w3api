@@ -1,9 +1,9 @@
 ---
 title: CatalogFeatures
-permalink: Java/CatalogFeatures
+permalink: /Java/CatalogFeatures/
 date: 2021-01-11
-key: JavaJava.C.CatalogFeatures
-category: java
+key: Java.C.CatalogFeatures
+category: Java
 tags: ['java se', 'javax.xml.catalog', 'java.xml', 'clase java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Comparable.compareTo()
-permalink: Java/Comparable/compareTo
+permalink: /Java/Comparable/compareTo/
 date: 2021-01-11
-key: JavaJava.C.Comparable
-category: java
+key: Java.C.Comparable
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

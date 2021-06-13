@@ -1,9 +1,9 @@
 ---
 title: CompiledScript
-permalink: Java/CompiledScript
+permalink: /Java/CompiledScript/
 date: 2021-01-11
-key: JavaJava.C.CompiledScript
-category: java
+key: Java.C.CompiledScript
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

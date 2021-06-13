@@ -2,8 +2,8 @@
 title: BoundedRangeModel
 permalink: /Java/BoundedRangeModel/
 date: 2021-01-11
-key: JavaJava.B.BoundedRangeModel
-category: java
+key: Java.B.BoundedRangeModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

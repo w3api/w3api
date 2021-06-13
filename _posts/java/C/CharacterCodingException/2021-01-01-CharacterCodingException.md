@@ -1,9 +1,9 @@
 ---
 title: CharacterCodingException
-permalink: Java/CharacterCodingException
+permalink: /Java/CharacterCodingException/
 date: 2021-01-11
-key: JavaJava.C.CharacterCodingException
-category: java
+key: Java.C.CharacterCodingException
+category: Java
 tags: ['java se', 'java.nio.charset', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

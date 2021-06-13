@@ -2,8 +2,8 @@
 title: BigDecimal.negate()
 permalink: /Java/BigDecimal/negate/
 date: 2021-01-11
-key: JavaJava.B.BigDecimal
-category: java
+key: Java.B.BigDecimal
+category: Java
 tags: ['java se', 'java.math', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

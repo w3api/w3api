@@ -1,9 +1,9 @@
 ---
 title: ClosedWatchServiceException
-permalink: Java/ClosedWatchServiceException
+permalink: /Java/ClosedWatchServiceException/
 date: 2021-01-11
-key: JavaJava.C.ClosedWatchServiceException
-category: java
+key: Java.C.ClosedWatchServiceException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

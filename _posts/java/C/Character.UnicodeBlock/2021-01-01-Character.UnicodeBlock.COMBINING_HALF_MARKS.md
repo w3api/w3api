@@ -1,9 +1,9 @@
 ---
 title: Character.UnicodeBlock.COMBINING_HALF_MARKS
-permalink: Java/Character/UnicodeBlock/COMBINING_HALF_MARKS
+permalink: /Java/Character/UnicodeBlock/COMBINING_HALF_MARKS/
 date: 2021-01-11
-key: JavaJava.C.Character.UnicodeBlock
-category: java
+key: Java.C.Character.UnicodeBlock
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

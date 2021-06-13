@@ -1,9 +1,9 @@
 ---
 title: ColorConverter
-permalink: Java/ColorConverter
+permalink: /Java/ColorConverter/
 date: 2021-01-11
-key: JavaJava.C.ColorConverter
-category: java
+key: Java.C.ColorConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 
   nav: java

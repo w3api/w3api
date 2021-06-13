@@ -1,9 +1,9 @@
 ---
 title: ComboBoxEditor.getItem()
-permalink: Java/ComboBoxEditor/getItem
+permalink: /Java/ComboBoxEditor/getItem/
 date: 2021-01-11
-key: JavaJava.C.ComboBoxEditor
-category: java
+key: Java.C.ComboBoxEditor
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

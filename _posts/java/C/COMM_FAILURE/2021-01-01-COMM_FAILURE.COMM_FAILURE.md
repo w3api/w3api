@@ -1,9 +1,9 @@
 ---
 title: COMM_FAILURE.COMM_FAILURE()
-permalink: Java/COMM_FAILURE/COMM_FAILURE
+permalink: /Java/COMM_FAILURE/COMM_FAILURE/
 date: 2021-01-11
-key: JavaJava.C.COMM_FAILURE
-category: java
+key: Java.C.COMM_FAILURE
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

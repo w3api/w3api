@@ -1,9 +1,9 @@
 ---
 title: Collation.values()
-permalink: Java/Collation/values
+permalink: /Java/Collation/values/
 date: 2021-01-11
-key: JavaJava.C.Collation
-category: java
+key: Java.C.Collation
+category: Java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

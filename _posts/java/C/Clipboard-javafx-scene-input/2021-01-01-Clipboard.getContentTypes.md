@@ -1,9 +1,9 @@
 ---
 title: Clipboard.getContentTypes()
-permalink: Java/Clipboard-javafx-scene-input/getContentTypes
+permalink: /Java/Clipboard-javafx-scene-input/getContentTypes/
 date: 2021-01-11
-key: JavaJava.C.Clipboard-javafx-scene-input
-category: java
+key: Java.C.Clipboard-javafx-scene-input
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

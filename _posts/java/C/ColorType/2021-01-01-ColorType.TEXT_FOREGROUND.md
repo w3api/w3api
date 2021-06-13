@@ -1,9 +1,9 @@
 ---
 title: ColorType.TEXT_FOREGROUND
-permalink: Java/ColorType/TEXT_FOREGROUND
+permalink: /Java/ColorType/TEXT_FOREGROUND/
 date: 2021-01-11
-key: JavaJava.C.ColorType
-category: java
+key: Java.C.ColorType
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

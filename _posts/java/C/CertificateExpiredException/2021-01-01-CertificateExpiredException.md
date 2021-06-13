@@ -1,9 +1,9 @@
 ---
 title: CertificateExpiredException
-permalink: Java/CertificateExpiredException/
+permalink: /Java/CertificateExpiredException//
 date: 2021-01-11
-key: JavaJava.C.CertificateExpiredException
-category: java
+key: Java.C.CertificateExpiredException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

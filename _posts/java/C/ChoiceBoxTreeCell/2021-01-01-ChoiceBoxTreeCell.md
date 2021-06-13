@@ -1,9 +1,9 @@
 ---
 title: ChoiceBoxTreeCell
-permalink: Java/ChoiceBoxTreeCell
+permalink: /Java/ChoiceBoxTreeCell/
 date: 2021-01-11
-key: JavaJava.C.ChoiceBoxTreeCell
-category: java
+key: Java.C.ChoiceBoxTreeCell
+category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'clase java', 'JavaFX 2.2']
 sidebar: 
   nav: java

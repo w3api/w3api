@@ -2,8 +2,8 @@
 title: BooleanFlag
 permalink: /Java/BooleanFlag/
 date: 2021-01-11
-key: JavaJava.B.BooleanFlag
-category: java
+key: Java.B.BooleanFlag
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'anotacion java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CharBuffer.order()
-permalink: Java/CharBuffer/order
+permalink: /Java/CharBuffer/order/
 date: 2021-01-11
-key: JavaJava.C.CharBuffer
-category: java
+key: Java.C.CharBuffer
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ClassLoaderReference.visibleClasses()
-permalink: Java/ClassLoaderReference/visibleClasses
+permalink: /Java/ClassLoaderReference/visibleClasses/
 date: 2021-01-11
-key: JavaJava.C.ClassLoaderReference
-category: java
+key: Java.C.ClassLoaderReference
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

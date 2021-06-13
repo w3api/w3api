@@ -1,9 +1,9 @@
 ---
 title: ClassUnloadRequest
-permalink: Java/ClassUnloadRequest
+permalink: /Java/ClassUnloadRequest/
 date: 2021-01-11
-key: JavaJava.C.ClassUnloadRequest
-category: java
+key: Java.C.ClassUnloadRequest
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

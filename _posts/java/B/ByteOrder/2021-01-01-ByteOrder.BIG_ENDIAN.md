@@ -2,8 +2,8 @@
 title: ByteOrder.BIG_ENDIAN
 permalink: /Java/ByteOrder/BIG_ENDIAN/
 date: 2021-01-11
-key: JavaJava.B.ByteOrder
-category: java
+key: Java.B.ByteOrder
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

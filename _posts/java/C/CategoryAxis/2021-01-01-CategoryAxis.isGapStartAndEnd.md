@@ -1,9 +1,9 @@
 ---
 title: CategoryAxis.isGapStartAndEnd()
-permalink: Java/CategoryAxis/isGapStartAndEnd
+permalink: /Java/CategoryAxis/isGapStartAndEnd/
 date: 2021-01-11
-key: JavaJava.C.CategoryAxis
-category: java
+key: Java.C.CategoryAxis
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

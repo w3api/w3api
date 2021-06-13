@@ -1,9 +1,9 @@
 ---
 title: ClientRequestInfo
-permalink: Java/ClientRequestInfo
+permalink: /Java/ClientRequestInfo/
 date: 2021-01-11
-key: JavaJava.C.ClientRequestInfo
-category: java
+key: Java.C.ClientRequestInfo
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

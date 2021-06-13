@@ -3,7 +3,7 @@ title: BoundsHelper
 permalink: /Java/BoundsHelper//
 date: 2021-01-11
 key: Java.B.BoundsHelper
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

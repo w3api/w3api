@@ -1,9 +1,9 @@
 ---
 title: ChannelBinding
-permalink: Java/ChannelBinding
+permalink: /Java/ChannelBinding/
 date: 2021-01-11
-key: JavaJava.C.ChannelBinding
-category: java
+key: Java.C.ChannelBinding
+category: Java
 tags: ['java se', 'org.ietf.jgss', 'java.security.jgss', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

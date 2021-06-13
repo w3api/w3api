@@ -1,9 +1,9 @@
 ---
 title: ColumnConstraints.halignmentProperty()
-permalink: Java/ColumnConstraints/halignmentProperty
+permalink: /Java/ColumnConstraints/halignmentProperty/
 date: 2021-01-11
-key: JavaJava.C.ColumnConstraints
-category: java
+key: Java.C.ColumnConstraints
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

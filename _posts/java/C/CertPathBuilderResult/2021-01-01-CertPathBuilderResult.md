@@ -1,9 +1,9 @@
 ---
 title: CertPathBuilderResult
-permalink: Java/CertPathBuilderResult
+permalink: /Java/CertPathBuilderResult/
 date: 2021-01-11
-key: JavaJava.C.CertPathBuilderResult
-category: java
+key: Java.C.CertPathBuilderResult
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

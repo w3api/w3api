@@ -1,9 +1,9 @@
 ---
 title: Character.Subset.toString()
-permalink: Java/Character/Subset/toString
+permalink: /Java/Character/Subset/toString/
 date: 2021-01-11
-key: JavaJava.C.Character.Subset
-category: java
+key: Java.C.Character.Subset
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

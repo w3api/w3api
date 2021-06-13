@@ -1,9 +1,9 @@
 ---
 title: CertStore.getCertStoreParameters()
-permalink: Java/CertStore/getCertStoreParameters
+permalink: /Java/CertStore/getCertStoreParameters/
 date: 2021-01-11
-key: JavaJava.C.CertStore
-category: java
+key: Java.C.CertStore
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

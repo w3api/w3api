@@ -1,9 +1,9 @@
 ---
 title: CellRendererPane
-permalink: Java/CellRendererPane
+permalink: /Java/CellRendererPane/
 date: 2021-01-11
-key: JavaJava.C.CellRendererPane
-category: java
+key: Java.C.CellRendererPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

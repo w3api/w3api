@@ -2,8 +2,8 @@
 title: BeanContextServicesListener
 permalink: /Java/BeanContextServicesListener/
 date: 2021-01-11
-key: JavaJava.B.BeanContextServicesListener
-category: java
+key: Java.B.BeanContextServicesListener
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

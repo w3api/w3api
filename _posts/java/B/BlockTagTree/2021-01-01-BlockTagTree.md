@@ -2,8 +2,8 @@
 title: BlockTagTree
 permalink: /Java/BlockTagTree/
 date: 2021-01-11
-key: JavaJava.B.BlockTagTree
-category: java
+key: Java.B.BlockTagTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ComboBoxUI
-permalink: Java/ComboBoxUI
+permalink: /Java/ComboBoxUI/
 date: 2021-01-11
-key: JavaJava.C.ComboBoxUI
-category: java
+key: Java.C.ComboBoxUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

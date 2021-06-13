@@ -1,9 +1,9 @@
 ---
 title: CommonDataSource.setLoginTimeout()
-permalink: Java/CommonDataSource/setLoginTimeout
+permalink: /Java/CommonDataSource/setLoginTimeout/
 date: 2021-01-11
-key: JavaJava.C.CommonDataSource
-category: java
+key: Java.C.CommonDataSource
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

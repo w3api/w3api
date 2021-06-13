@@ -1,9 +1,9 @@
 ---
 title: Character.UnicodeBlock.LYCIAN
-permalink: Java/Character/UnicodeBlock/LYCIAN
+permalink: /Java/Character/UnicodeBlock/LYCIAN/
 date: 2021-01-11
-key: JavaJava.C.Character.UnicodeBlock
-category: java
+key: Java.C.Character.UnicodeBlock
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

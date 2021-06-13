@@ -1,9 +1,9 @@
 ---
 title: Chronology.compareTo()
-permalink: Java/Chronology/compareTo
+permalink: /Java/Chronology/compareTo/
 date: 2021-01-11
-key: JavaJava.C.Chronology
-category: java
+key: Java.C.Chronology
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

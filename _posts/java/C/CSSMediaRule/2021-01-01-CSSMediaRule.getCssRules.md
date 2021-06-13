@@ -1,9 +1,9 @@
 ---
 title: CSSMediaRule.getCssRules()
-permalink: Java/CSSMediaRule/getCssRules
+permalink: /Java/CSSMediaRule/getCssRules/
 date: 2021-01-11
-key: JavaJava.C.CSSMediaRule
-category: java
+key: Java.C.CSSMediaRule
+category: Java
 tags: ['java se', 'org.w3c.dom.css', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BootstrapMethodError.BootstrapMethodError()
 permalink: /Java/BootstrapMethodError/BootstrapMethodError/
 date: 2021-01-11
-key: JavaJava.B.BootstrapMethodError
-category: java
+key: Java.B.BootstrapMethodError
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

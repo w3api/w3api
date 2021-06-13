@@ -1,9 +1,9 @@
 ---
 title: CertSelector.clone()
-permalink: Java/CertSelector/clone
+permalink: /Java/CertSelector/clone/
 date: 2021-01-11
-key: JavaJava.C.CertSelector
-category: java
+key: Java.C.CertSelector
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

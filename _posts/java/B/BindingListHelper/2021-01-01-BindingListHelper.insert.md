@@ -2,8 +2,8 @@
 title: BindingListHelper.insert()
 permalink: /Java/BindingListHelper/insert/
 date: 2021-01-11
-key: JavaJava.B.BindingListHelper
-category: java
+key: Java.B.BindingListHelper
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

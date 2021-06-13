@@ -1,9 +1,9 @@
 ---
 title: CatalogException.CatalogException()
-permalink: Java/CatalogException/CatalogException
+permalink: /Java/CatalogException/CatalogException/
 date: 2021-01-11
-key: JavaJava.C.CatalogException
-category: java
+key: Java.C.CatalogException
+category: Java
 tags: ['java se', 'javax.xml.catalog', 'java.xml', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CheckBoxTableCell.selectedStateCallbackProperty()
-permalink: Java/CheckBoxTableCell/selectedStateCallbackProperty
+permalink: /Java/CheckBoxTableCell/selectedStateCallbackProperty/
 date: 2021-01-11
-key: JavaJava.C.CheckBoxTableCell
-category: java
+key: Java.C.CheckBoxTableCell
+category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

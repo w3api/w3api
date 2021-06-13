@@ -2,8 +2,8 @@
 title: BreakIteratorProvider.getSentenceInstance()
 permalink: /Java/BreakIteratorProvider/getSentenceInstance/
 date: 2021-01-11
-key: JavaJava.B.BreakIteratorProvider
-category: java
+key: Java.B.BreakIteratorProvider
+category: Java
 tags: ['java se', 'java.text.spi', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

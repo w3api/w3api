@@ -1,9 +1,9 @@
 ---
 title: C14NMethodParameterSpec
-permalink: Java/C14NMethodParameterSpec
+permalink: /Java/C14NMethodParameterSpec/
 date: 2021-01-11
-key: JavaJava.C.C14NMethodParameterSpec
-category: java
+key: Java.C.C14NMethodParameterSpec
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

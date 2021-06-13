@@ -1,9 +1,9 @@
 ---
 title: CheckedOutputStream
-permalink: Java/CheckedOutputStream
+permalink: /Java/CheckedOutputStream/
 date: 2021-01-11
-key: JavaJava.C.CheckedOutputStream
-category: java
+key: Java.C.CheckedOutputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ClassLoaderRepository
-permalink: Java/ClassLoaderRepository
+permalink: /Java/ClassLoaderRepository/
 date: 2021-01-11
-key: JavaJava.C.ClassLoaderRepository
-category: java
+key: Java.C.ClassLoaderRepository
+category: Java
 tags: ['java se', 'javax.management.loading', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

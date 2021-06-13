@@ -2,8 +2,8 @@
 title: BindingIteratorPOA._this()
 permalink: /Java/BindingIteratorPOA/_this/
 date: 2021-01-11
-key: JavaJava.B.BindingIteratorPOA
-category: java
+key: Java.B.BindingIteratorPOA
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

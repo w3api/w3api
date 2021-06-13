@@ -1,9 +1,9 @@
 ---
 title: ClassLoadingMXBean
-permalink: Java/ClassLoadingMXBean
+permalink: /Java/ClassLoadingMXBean/
 date: 2021-01-11
-key: JavaJava.C.ClassLoadingMXBean
-category: java
+key: Java.C.ClassLoadingMXBean
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

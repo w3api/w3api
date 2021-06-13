@@ -1,9 +1,9 @@
 ---
 title: CalendarDataProvider.CalendarDataProvider()
-permalink: Java/CalendarDataProvider/CalendarDataProvider
+permalink: /Java/CalendarDataProvider/CalendarDataProvider/
 date: 2021-01-11
-key: JavaJava.C.CalendarDataProvider
-category: java
+key: Java.C.CalendarDataProvider
+category: Java
 tags: ['java se', 'java.util.spi', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

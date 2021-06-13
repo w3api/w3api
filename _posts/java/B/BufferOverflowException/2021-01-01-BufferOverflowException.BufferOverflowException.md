@@ -3,7 +3,7 @@ title: BufferOverflowException.BufferOverflowException()
 permalink: /Java/BufferOverflowException/BufferOverflowException/
 date: 2021-01-11
 key: Java.B.BufferOverflowException
-category: java
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

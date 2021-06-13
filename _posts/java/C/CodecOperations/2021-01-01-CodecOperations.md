@@ -1,9 +1,9 @@
 ---
 title: CodecOperations
-permalink: Java/CodecOperations
+permalink: /Java/CodecOperations/
 date: 2021-01-11
-key: JavaJava.C.CodecOperations
-category: java
+key: Java.C.CodecOperations
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

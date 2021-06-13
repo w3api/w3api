@@ -1,9 +1,9 @@
 ---
 title: CertStoreSpi
-permalink: Java/CertStoreSpi
+permalink: /Java/CertStoreSpi/
 date: 2021-01-11
-key: JavaJava.C.CertStoreSpi
-category: java
+key: Java.C.CertStoreSpi
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

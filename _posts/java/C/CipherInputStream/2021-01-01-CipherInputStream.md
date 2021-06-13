@@ -1,9 +1,9 @@
 ---
 title: CipherInputStream
-permalink: Java/CipherInputStream
+permalink: /Java/CipherInputStream/
 date: 2021-01-11
-key: JavaJava.C.CipherInputStream
-category: java
+key: Java.C.CipherInputStream
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

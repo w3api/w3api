@@ -2,8 +2,8 @@
 title: BufferedReader
 permalink: /Java/BufferedReader/
 date: 2021-01-11
-key: JavaJava.B.BufferedReader
-category: java
+key: Java.B.BufferedReader
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

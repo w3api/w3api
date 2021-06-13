@@ -1,9 +1,9 @@
 ---
 title: ColorType
-permalink: Java/ColorType
+permalink: /Java/ColorType/
 date: 2021-01-11
-key: JavaJava.C.ColorType
-category: java
+key: Java.C.ColorType
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

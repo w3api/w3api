@@ -2,8 +2,8 @@
 title: ButtonGroup.getSelection()
 permalink: /Java/ButtonGroup/getSelection/
 date: 2021-01-11
-key: JavaJava.B.ButtonGroup
-category: java
+key: Java.B.ButtonGroup
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

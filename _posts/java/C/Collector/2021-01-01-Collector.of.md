@@ -1,9 +1,9 @@
 ---
 title: Collector.of()
-permalink: Java/Collector/of
+permalink: /Java/Collector/of/
 date: 2021-01-11
-key: JavaJava.C.Collector
-category: java
+key: Java.C.Collector
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

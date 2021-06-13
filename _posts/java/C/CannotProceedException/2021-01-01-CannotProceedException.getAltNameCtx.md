@@ -1,9 +1,9 @@
 ---
 title: CannotProceedException.getAltNameCtx()
-permalink: Java/CannotProceedException/getAltNameCtx
+permalink: /Java/CannotProceedException/getAltNameCtx/
 date: 2021-01-11
-key: JavaJava.C.CannotProceedException
-category: java
+key: Java.C.CannotProceedException
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CharHolder.CharHolder()
-permalink: Java/CharHolder/CharHolder
+permalink: /Java/CharHolder/CharHolder/
 date: 2021-01-11
-key: JavaJava.C.CharHolder
-category: java
+key: Java.C.CharHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

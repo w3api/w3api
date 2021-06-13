@@ -1,9 +1,9 @@
 ---
 title: CSSPrimitiveValue.getFloatValue()
-permalink: Java/CSSPrimitiveValue/getFloatValue
+permalink: /Java/CSSPrimitiveValue/getFloatValue/
 date: 2021-01-11
-key: JavaJava.C.CSSPrimitiveValue
-category: java
+key: Java.C.CSSPrimitiveValue
+category: Java
 tags: ['java se', 'org.w3c.dom.css', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

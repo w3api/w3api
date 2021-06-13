@@ -1,9 +1,9 @@
 ---
 title: CRLException
-permalink: Java/CRLException
+permalink: /Java/CRLException/
 date: 2021-01-11
-key: JavaJava.C.CRLException
-category: java
+key: Java.C.CRLException
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

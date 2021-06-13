@@ -2,8 +2,8 @@
 title: BeanContextServicesSupport.BCSSServiceProvider.serviceProvider
 permalink: /Java/BeanContextServicesSupport/BCSSServiceProvider/serviceProvider/
 date: 2021-01-11
-key: JavaJava.B.BeanContextServicesSupport.BCSSServiceProvider
-category: java
+key: Java.B.BeanContextServicesSupport.BCSSServiceProvider
+category: Java
 tags: ['java se', 'java.beans.beancontext', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

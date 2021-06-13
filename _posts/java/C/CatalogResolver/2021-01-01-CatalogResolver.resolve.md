@@ -1,9 +1,9 @@
 ---
 title: CatalogResolver.resolve()
-permalink: Java/CatalogResolver/resolve
+permalink: /Java/CatalogResolver/resolve/
 date: 2021-01-11
-key: JavaJava.C.CatalogResolver
-category: java
+key: Java.C.CatalogResolver
+category: Java
 tags: ['java se', 'javax.xml.catalog', 'java.xml', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

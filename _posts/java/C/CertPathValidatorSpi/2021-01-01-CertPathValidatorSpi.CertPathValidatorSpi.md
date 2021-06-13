@@ -1,9 +1,9 @@
 ---
 title: CertPathValidatorSpi.CertPathValidatorSpi()
-permalink: Java/CertPathValidatorSpi/CertPathValidatorSpi
+permalink: /Java/CertPathValidatorSpi/CertPathValidatorSpi/
 date: 2021-01-11
-key: JavaJava.C.CertPathValidatorSpi
-category: java
+key: Java.C.CertPathValidatorSpi
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

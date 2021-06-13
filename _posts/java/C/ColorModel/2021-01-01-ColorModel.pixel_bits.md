@@ -1,9 +1,9 @@
 ---
 title: ColorModel.pixel_bits
-permalink: Java/ColorModel/pixel_bits
+permalink: /Java/ColorModel/pixel_bits/
 date: 2021-01-11
-key: JavaJava.C.ColorModel
-category: java
+key: Java.C.ColorModel
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

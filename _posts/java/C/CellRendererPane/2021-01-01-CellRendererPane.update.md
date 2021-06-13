@@ -1,9 +1,9 @@
 ---
 title: CellRendererPane.update()
-permalink: Java/CellRendererPane/update
+permalink: /Java/CellRendererPane/update/
 date: 2021-01-11
-key: JavaJava.C.CellRendererPane
-category: java
+key: Java.C.CellRendererPane
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ChoiceBoxTreeTableCell.getItems()
-permalink: Java/ChoiceBoxTreeTableCell/getItems
+permalink: /Java/ChoiceBoxTreeTableCell/getItems/
 date: 2021-01-11
-key: JavaJava.C.ChoiceBoxTreeTableCell
-category: java
+key: Java.C.ChoiceBoxTreeTableCell
+category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

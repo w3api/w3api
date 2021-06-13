@@ -2,8 +2,8 @@
 title: BrokenBarrierException.BrokenBarrierException()
 permalink: /Java/BrokenBarrierException/BrokenBarrierException/
 date: 2021-01-11
-key: JavaJava.B.BrokenBarrierException
-category: java
+key: Java.B.BrokenBarrierException
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

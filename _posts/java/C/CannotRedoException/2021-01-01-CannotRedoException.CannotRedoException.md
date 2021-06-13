@@ -1,9 +1,9 @@
 ---
 title: CannotRedoException.CannotRedoException()
-permalink: Java/CannotRedoException/CannotRedoException
+permalink: /Java/CannotRedoException/CannotRedoException/
 date: 2021-01-11
-key: JavaJava.C.CannotRedoException
-category: java
+key: Java.C.CannotRedoException
+category: Java
 tags: ['java se', 'javax.swing.undo', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

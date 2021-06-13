@@ -1,9 +1,9 @@
 ---
 title: ChronoZonedDateTime.toInstant()
-permalink: Java/ChronoZonedDateTime/toInstant
+permalink: /Java/ChronoZonedDateTime/toInstant/
 date: 2021-01-11
-key: JavaJava.C.ChronoZonedDateTime
-category: java
+key: Java.C.ChronoZonedDateTime
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

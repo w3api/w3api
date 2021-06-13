@@ -1,9 +1,9 @@
 ---
 title: CODESET_INCOMPATIBLE.CODESET_INCOMPATIBLE()
-permalink: Java/CODESET_INCOMPATIBLE/CODESET_INCOMPATIBLE
+permalink: /Java/CODESET_INCOMPATIBLE/CODESET_INCOMPATIBLE/
 date: 2021-01-11
-key: JavaJava.C.CODESET_INCOMPATIBLE
-category: java
+key: Java.C.CODESET_INCOMPATIBLE
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

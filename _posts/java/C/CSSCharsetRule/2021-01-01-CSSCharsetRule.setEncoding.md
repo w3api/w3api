@@ -1,9 +1,9 @@
 ---
 title: CSSCharsetRule.setEncoding()
-permalink: Java/CSSCharsetRule/setEncoding
+permalink: /Java/CSSCharsetRule/setEncoding/
 date: 2021-01-11
-key: JavaJava.C.CSSCharsetRule
-category: java
+key: Java.C.CSSCharsetRule
+category: Java
 tags: ['java se', 'org.w3c.dom.css', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

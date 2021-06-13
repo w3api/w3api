@@ -1,9 +1,9 @@
 ---
 title: Collections
-permalink: Java/Collections
+permalink: /Java/Collections/
 date: 2021-01-11
-key: JavaJava.C.Collections
-category: java
+key: Java.C.Collections
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ClientRequestInfoOperations.target()
-permalink: Java/ClientRequestInfoOperations/target
+permalink: /Java/ClientRequestInfoOperations/target/
 date: 2021-01-11
-key: JavaJava.C.ClientRequestInfoOperations
-category: java
+key: Java.C.ClientRequestInfoOperations
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

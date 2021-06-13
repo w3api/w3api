@@ -1,9 +1,9 @@
 ---
 title: CannotUndoException
-permalink: Java/CannotUndoException
+permalink: /Java/CannotUndoException/
 date: 2021-01-11
-key: JavaJava.C.CannotUndoException
-category: java
+key: Java.C.CannotUndoException
+category: Java
 tags: ['java se', 'javax.swing.undo', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

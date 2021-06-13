@@ -1,9 +1,9 @@
 ---
 title: Certificate
-permalink: Java/Certificate/
+permalink: /Java/Certificate//
 date: 2021-01-11
-key: JavaJava.C.Certificate
-category: java
+key: Java.C.Certificate
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

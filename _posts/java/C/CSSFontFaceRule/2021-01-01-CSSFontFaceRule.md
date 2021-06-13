@@ -1,9 +1,9 @@
 ---
 title: CSSFontFaceRule
-permalink: Java/CSSFontFaceRule
+permalink: /Java/CSSFontFaceRule/
 date: 2021-01-11
-key: JavaJava.C.CSSFontFaceRule
-category: java
+key: Java.C.CSSFontFaceRule
+category: Java
 tags: ['java se', 'org.w3c.dom.css', 'jdk.xml.dom', 'interface java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

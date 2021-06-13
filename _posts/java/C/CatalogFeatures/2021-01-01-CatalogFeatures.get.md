@@ -1,9 +1,9 @@
 ---
 title: CatalogFeatures.get()
-permalink: Java/CatalogFeatures/get
+permalink: /Java/CatalogFeatures/get/
 date: 2021-01-11
-key: JavaJava.C.CatalogFeatures
-category: java
+key: Java.C.CatalogFeatures
+category: Java
 tags: ['java se', 'javax.xml.catalog', 'java.xml', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

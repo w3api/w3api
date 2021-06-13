@@ -3,7 +3,7 @@ title: BorderUIResource.LineBorderUIResource
 permalink: /Java/BorderUIResource/LineBorderUIResource/
 date: 2021-01-11
 key: Java.B.BorderUIResource.LineBorderUIResource
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BuilderFactory
 permalink: /Java/BuilderFactory/
 date: 2021-01-11
-key: JavaJava.B.BuilderFactory
-category: java
+key: Java.B.BuilderFactory
+category: Java
 tags: ['java se', 'javafx.util', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

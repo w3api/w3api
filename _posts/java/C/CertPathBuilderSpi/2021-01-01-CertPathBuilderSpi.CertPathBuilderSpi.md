@@ -1,9 +1,9 @@
 ---
 title: CertPathBuilderSpi.CertPathBuilderSpi()
-permalink: Java/CertPathBuilderSpi/CertPathBuilderSpi
+permalink: /Java/CertPathBuilderSpi/CertPathBuilderSpi/
 date: 2021-01-11
-key: JavaJava.C.CertPathBuilderSpi
-category: java
+key: Java.C.CertPathBuilderSpi
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BoxedValueHelper.get_id()
 permalink: /Java/BoxedValueHelper/get_id/
 date: 2021-01-11
-key: JavaJava.B.BoxedValueHelper
-category: java
+key: Java.B.BoxedValueHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

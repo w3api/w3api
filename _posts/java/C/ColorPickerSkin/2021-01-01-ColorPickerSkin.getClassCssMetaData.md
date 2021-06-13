@@ -1,9 +1,9 @@
 ---
 title: ColorPickerSkin.getClassCssMetaData()
-permalink: Java/ColorPickerSkin/getClassCssMetaData
+permalink: /Java/ColorPickerSkin/getClassCssMetaData/
 date: 2021-01-11
-key: JavaJava.C.ColorPickerSkin
-category: java
+key: Java.C.ColorPickerSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

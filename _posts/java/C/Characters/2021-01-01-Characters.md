@@ -1,9 +1,9 @@
 ---
 title: Characters
-permalink: Java/Characters
+permalink: /Java/Characters/
 date: 2021-01-11
-key: JavaJava.C.Characters
-category: java
+key: Java.C.Characters
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

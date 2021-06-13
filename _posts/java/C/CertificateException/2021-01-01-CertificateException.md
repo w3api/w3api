@@ -1,9 +1,9 @@
 ---
 title: CertificateException
-permalink: Java/CertificateException/
+permalink: /Java/CertificateException//
 date: 2021-01-11
-key: JavaJava.C.CertificateException
-category: java
+key: Java.C.CertificateException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

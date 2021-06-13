@@ -1,9 +1,9 @@
 ---
 title: ClientInfoStatus.REASON_VALUE_TRUNCATED
-permalink: Java/ClientInfoStatus/REASON_VALUE_TRUNCATED
+permalink: /Java/ClientInfoStatus/REASON_VALUE_TRUNCATED/
 date: 2021-01-11
-key: JavaJava.C.ClientInfoStatus
-category: java
+key: Java.C.ClientInfoStatus
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

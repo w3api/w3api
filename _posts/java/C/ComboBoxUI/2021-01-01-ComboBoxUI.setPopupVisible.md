@@ -1,9 +1,9 @@
 ---
 title: ComboBoxUI.setPopupVisible()
-permalink: Java/ComboBoxUI/setPopupVisible
+permalink: /Java/ComboBoxUI/setPopupVisible/
 date: 2021-01-11
-key: JavaJava.C.ComboBoxUI
-category: java
+key: Java.C.ComboBoxUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

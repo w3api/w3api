@@ -1,9 +1,9 @@
 ---
 title: Collectors.toMap()
-permalink: Java/Collectors/toMap
+permalink: /Java/Collectors/toMap/
 date: 2021-01-11
-key: JavaJava.C.Collectors
-category: java
+key: Java.C.Collectors
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

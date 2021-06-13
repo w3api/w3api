@@ -1,9 +1,9 @@
 ---
 title: ChoiceCallback
-permalink: Java/ChoiceCallback
+permalink: /Java/ChoiceCallback/
 date: 2021-01-11
-key: JavaJava.C.ChoiceCallback
-category: java
+key: Java.C.ChoiceCallback
+category: Java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

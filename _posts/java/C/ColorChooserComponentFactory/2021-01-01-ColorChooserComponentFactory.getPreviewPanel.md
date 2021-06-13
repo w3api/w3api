@@ -1,9 +1,9 @@
 ---
 title: ColorChooserComponentFactory.getPreviewPanel()
-permalink: Java/ColorChooserComponentFactory/getPreviewPanel
+permalink: /Java/ColorChooserComponentFactory/getPreviewPanel/
 date: 2021-01-11
-key: JavaJava.C.ColorChooserComponentFactory
-category: java
+key: Java.C.ColorChooserComponentFactory
+category: Java
 tags: ['java se', 'javax.swing.colorchooser', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

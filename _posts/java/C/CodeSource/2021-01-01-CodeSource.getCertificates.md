@@ -1,9 +1,9 @@
 ---
 title: CodeSource.getCertificates()
-permalink: Java/CodeSource/getCertificates
+permalink: /Java/CodeSource/getCertificates/
 date: 2021-01-11
-key: JavaJava.C.CodeSource
-category: java
+key: Java.C.CodeSource
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

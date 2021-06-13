@@ -1,9 +1,9 @@
 ---
 title: Character.UnicodeScript.THAI
-permalink: Java/Character/UnicodeScript/THAI
+permalink: /Java/Character/UnicodeScript/THAI/
 date: 2021-01-11
-key: JavaJava.C.Character.UnicodeScript
-category: java
+key: Java.C.Character.UnicodeScript
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

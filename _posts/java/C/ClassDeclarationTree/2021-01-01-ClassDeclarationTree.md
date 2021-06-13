@@ -1,9 +1,9 @@
 ---
 title: ClassDeclarationTree
-permalink: Java/ClassDeclarationTree
+permalink: /Java/ClassDeclarationTree/
 date: 2021-01-11
-key: JavaJava.C.ClassDeclarationTree
-category: java
+key: Java.C.ClassDeclarationTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 9']
 sidebar: 
   nav: java

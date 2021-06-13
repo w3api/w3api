@@ -1,9 +1,9 @@
 ---
 title: ChoiceDialog.selectedItemProperty()
-permalink: Java/ChoiceDialog/selectedItemProperty
+permalink: /Java/ChoiceDialog/selectedItemProperty/
 date: 2021-01-11
-key: JavaJava.C.ChoiceDialog
-category: java
+key: Java.C.ChoiceDialog
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

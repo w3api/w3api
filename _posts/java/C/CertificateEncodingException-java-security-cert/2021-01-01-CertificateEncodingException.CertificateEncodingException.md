@@ -1,9 +1,9 @@
 ---
 title: CertificateEncodingException.CertificateEncodingException()
-permalink: Java/CertificateEncodingException-java-security-cert/CertificateEncodingException
+permalink: /Java/CertificateEncodingException-java-security-cert/CertificateEncodingException/
 date: 2021-01-11
-key: JavaJava.C.CertificateEncodingException-java-security-cert
-category: java
+key: Java.C.CertificateEncodingException-java-security-cert
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

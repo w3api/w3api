@@ -1,9 +1,9 @@
 ---
 title: CompilationUnitTree.getLineMap()
-permalink: Java/CompilationUnitTree-jdk-nashorn-api-tree/getLineMap
+permalink: /Java/CompilationUnitTree-jdk-nashorn-api-tree/getLineMap/
 date: 2021-01-11
-key: JavaJava.C.CompilationUnitTree-jdk-nashorn-api-tree
-category: java
+key: Java.C.CompilationUnitTree-jdk-nashorn-api-tree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

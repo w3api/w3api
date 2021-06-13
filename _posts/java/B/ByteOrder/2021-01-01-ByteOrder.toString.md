@@ -2,8 +2,8 @@
 title: ByteOrder.toString()
 permalink: /Java/ByteOrder/toString/
 date: 2021-01-11
-key: JavaJava.B.ByteOrder
-category: java
+key: Java.B.ByteOrder
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

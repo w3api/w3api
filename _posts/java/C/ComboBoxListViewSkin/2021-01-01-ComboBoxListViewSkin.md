@@ -1,9 +1,9 @@
 ---
 title: ComboBoxListViewSkin
-permalink: Java/ComboBoxListViewSkin
+permalink: /Java/ComboBoxListViewSkin/
 date: 2021-01-11
-key: JavaJava.C.ComboBoxListViewSkin
-category: java
+key: Java.C.ComboBoxListViewSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

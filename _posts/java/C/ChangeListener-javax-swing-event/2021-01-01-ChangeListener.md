@@ -1,9 +1,9 @@
 ---
 title: ChangeListener
-permalink: Java/ChangeListener-javax-swing-event
+permalink: /Java/ChangeListener-javax-swing-event/
 date: 2021-01-11
-key: JavaJava.C.ChangeListener-javax-swing-event
-category: java
+key: Java.C.ChangeListener-javax-swing-event
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java
