@@ -3,7 +3,7 @@ title: NewArrayTree.getDimAnnotations()
 permalink: Java/NewArrayTree/getDimAnnotations
 date: 2021-01-11
 key: JavaJava.N.NewArrayTree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

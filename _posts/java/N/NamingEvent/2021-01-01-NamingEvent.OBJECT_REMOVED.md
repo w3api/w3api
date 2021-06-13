@@ -3,7 +3,7 @@ title: NamingEvent.OBJECT_REMOVED
 permalink: Java/NamingEvent/OBJECT_REMOVED
 date: 2021-01-11
 key: JavaJava.N.NamingEvent
-category: java
+category: Java
 tags: ['java se', 'javax.naming.event', 'java.naming', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

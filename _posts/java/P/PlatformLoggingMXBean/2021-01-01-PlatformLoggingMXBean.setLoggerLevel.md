@@ -3,7 +3,7 @@ title: PlatformLoggingMXBean.setLoggerLevel()
 permalink: /Java/PlatformLoggingMXBean/setLoggerLevel/
 date: 2021-01-11
 key: Java.P.PlatformLoggingMXBean
-category: java
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

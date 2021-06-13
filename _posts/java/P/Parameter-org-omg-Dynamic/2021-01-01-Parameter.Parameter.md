@@ -3,7 +3,7 @@ title: Parameter.Parameter()
 permalink: /Java/Parameter-org-omg-Dynamic/Parameter/
 date: 2021-01-11
 key: Java.P.Parameter-org-omg-Dynamic
-category: java
+category: Java
 tags: ['java se', 'org.omg.Dynamic', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

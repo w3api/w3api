@@ -3,7 +3,7 @@ title: PrintServiceLookup.lookupPrintServices()
 permalink: /Java/PrintServiceLookup/lookupPrintServices/
 date: 2021-01-11
 key: Java.P.PrintServiceLookup
-category: java
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

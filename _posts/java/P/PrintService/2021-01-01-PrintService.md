@@ -3,7 +3,7 @@ title: PrintService
 permalink: /Java/PrintService//
 date: 2021-01-11
 key: Java.P.PrintService
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

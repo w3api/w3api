@@ -3,7 +3,7 @@ title: PrintFilesEvent.PrintFilesEvent()
 permalink: /Java/PrintFilesEvent/PrintFilesEvent/
 date: 2021-01-11
 key: Java.P.PrintFilesEvent
-category: java
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

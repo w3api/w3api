@@ -3,7 +3,7 @@ title: PrintWriter.out
 permalink: /Java/PrintWriter/out/
 date: 2021-01-11
 key: Java.P.PrintWriter
-category: java
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

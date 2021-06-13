@@ -3,7 +3,7 @@ title: NumberFormat.Field.INTEGER
 permalink: Java/NumberFormat/Field/INTEGER
 date: 2021-01-11
 key: JavaJava.N.NumberFormat.Field
-category: java
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

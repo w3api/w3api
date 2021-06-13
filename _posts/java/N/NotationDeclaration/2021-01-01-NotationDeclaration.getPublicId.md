@@ -3,7 +3,7 @@ title: NotationDeclaration.getPublicId()
 permalink: Java/NotationDeclaration/getPublicId
 date: 2021-01-11
 key: JavaJava.N.NotationDeclaration
-category: java
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: NameValuePairHelper
 permalink: Java/NameValuePairHelper-org-omg-CORBA
 date: 2021-01-11
 key: JavaJava.N.NameValuePairHelper-org-omg-CORBA
-category: java
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

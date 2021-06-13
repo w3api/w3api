@@ -3,7 +3,7 @@ title: MultiDocPrintJob
 permalink: Java/MultiDocPrintJob
 date: 2021-01-11
 key: JavaJava.M.MultiDocPrintJob
-category: java
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

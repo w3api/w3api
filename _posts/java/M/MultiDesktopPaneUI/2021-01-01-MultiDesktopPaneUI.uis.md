@@ -3,7 +3,7 @@ title: MultiDesktopPaneUI.uis
 permalink: Java/MultiDesktopPaneUI/uis
 date: 2021-01-11
 key: JavaJava.M.MultiDesktopPaneUI
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: ParagraphView.getPreferredSpan()
 permalink: /Java/ParagraphView-javax-swing-text-html/getPreferredSpan/
 date: 2021-01-11
 key: Java.P.ParagraphView-javax-swing-text-html
-category: java
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

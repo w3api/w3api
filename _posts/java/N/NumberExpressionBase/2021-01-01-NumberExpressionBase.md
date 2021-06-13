@@ -3,7 +3,7 @@ title: NumberExpressionBase
 permalink: Java/NumberExpressionBase
 date: 2021-01-11
 key: JavaJava.N.NumberExpressionBase
-category: java
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

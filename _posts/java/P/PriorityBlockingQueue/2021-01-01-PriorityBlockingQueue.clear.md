@@ -3,7 +3,7 @@ title: PriorityBlockingQueue.clear()
 permalink: /Java/PriorityBlockingQueue/clear/
 date: 2021-01-11
 key: Java.P.PriorityBlockingQueue
-category: java
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

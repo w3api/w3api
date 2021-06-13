@@ -3,7 +3,7 @@ title: WatchEvent.Kind
 permalink: /Java/WatchEvent/Kind/
 date: 2021-01-11
 key: Java.W.WatchEvent.Kind
-category: java
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

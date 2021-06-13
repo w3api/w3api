@@ -3,7 +3,7 @@ title: PrintJobAttributeSet
 permalink: /Java/PrintJobAttributeSet/
 date: 2021-01-11
 key: Java.P.PrintJobAttributeSet
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

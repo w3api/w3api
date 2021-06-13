@@ -3,7 +3,7 @@ title: MultiResolutionImage
 permalink: Java/MultiResolutionImage
 date: 2021-01-11
 key: JavaJava.M.MultiResolutionImage
-category: java
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 
   nav: java

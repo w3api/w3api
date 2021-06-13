@@ -3,7 +3,7 @@ title: PrivateMLet.PrivateMLet()
 permalink: /Java/PrivateMLet/PrivateMLet/
 date: 2021-01-11
 key: Java.P.PrivateMLet
-category: java
+category: Java
 tags: ['java se', 'javax.management.loading', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

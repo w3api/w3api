@@ -3,7 +3,7 @@ title: PseudoColumnUsage.NO_USAGE_RESTRICTIONS
 permalink: /Java/PseudoColumnUsage/NO_USAGE_RESTRICTIONS/
 date: 2021-01-11
 key: Java.P.PseudoColumnUsage
-category: java
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: NoninvertibleTransformException
 permalink: Java/NoninvertibleTransformException/
 date: 2021-01-11
 key: JavaJava.N.NoninvertibleTransformException
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

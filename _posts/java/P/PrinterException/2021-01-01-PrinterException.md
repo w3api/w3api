@@ -3,7 +3,7 @@ title: PrinterException
 permalink: /Java/PrinterException/
 date: 2021-01-11
 key: Java.P.PrinterException
-category: java
+category: Java
 tags: ['java se', 'java.awt.print', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

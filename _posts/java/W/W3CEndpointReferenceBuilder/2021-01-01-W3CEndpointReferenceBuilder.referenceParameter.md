@@ -3,7 +3,7 @@ title: W3CEndpointReferenceBuilder.referenceParameter()
 permalink: /Java/W3CEndpointReferenceBuilder/referenceParameter/
 date: 2021-01-11
 key: Java.W.W3CEndpointReferenceBuilder
-category: java
+category: Java
 tags: ['java se', 'javax.xml.ws.wsaddressing', 'java.xml.ws', 'metodo java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: NotificationListener
 permalink: Java/NotificationListener
 date: 2021-01-11
 key: JavaJava.N.NotificationListener
-category: java
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

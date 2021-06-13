@@ -3,7 +3,7 @@ title: NamingContextOperations
 permalink: Java/NamingContextOperations
 date: 2021-01-11
 key: JavaJava.N.NamingContextOperations
-category: java
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

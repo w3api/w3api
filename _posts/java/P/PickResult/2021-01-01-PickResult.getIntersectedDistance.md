@@ -3,7 +3,7 @@ title: PickResult.getIntersectedDistance()
 permalink: /Java/PickResult/getIntersectedDistance/
 date: 2021-01-11
 key: Java.P.PickResult
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

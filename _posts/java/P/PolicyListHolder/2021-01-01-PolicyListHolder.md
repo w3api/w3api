@@ -3,7 +3,7 @@ title: PolicyListHolder
 permalink: /Java/PolicyListHolder/
 date: 2021-01-11
 key: Java.P.PolicyListHolder
-category: java
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: ParameterizedType
 permalink: /Java/ParameterizedType//
 date: 2021-01-11
 key: Java.P.ParameterizedType
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

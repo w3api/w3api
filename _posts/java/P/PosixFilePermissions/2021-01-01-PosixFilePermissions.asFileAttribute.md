@@ -3,7 +3,7 @@ title: PosixFilePermissions.asFileAttribute()
 permalink: /Java/PosixFilePermissions/asFileAttribute/
 date: 2021-01-11
 key: Java.P.PosixFilePermissions
-category: java
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

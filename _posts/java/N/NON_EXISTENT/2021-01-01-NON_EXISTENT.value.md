@@ -3,7 +3,7 @@ title: NON_EXISTENT.value
 permalink: Java/NON_EXISTENT/value
 date: 2021-01-11
 key: JavaJava.N.NON_EXISTENT
-category: java
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

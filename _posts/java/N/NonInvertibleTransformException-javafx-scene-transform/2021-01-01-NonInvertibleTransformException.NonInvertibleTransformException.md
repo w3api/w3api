@@ -3,7 +3,7 @@ title: NonInvertibleTransformException.NonInvertibleTransformException()
 permalink: Java/NonInvertibleTransformException-javafx-scene-transform/NonInvertibleTransformException
 date: 2021-01-11
 key: JavaJava.N.NonInvertibleTransformException-javafx-scene-transform
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.transform', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

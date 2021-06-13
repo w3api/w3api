@@ -3,7 +3,7 @@ title: PKIXRevocationChecker.setOcspExtensions()
 permalink: /Java/PKIXRevocationChecker/setOcspExtensions/
 date: 2021-01-11
 key: Java.P.PKIXRevocationChecker
-category: java
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

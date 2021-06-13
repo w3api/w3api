@@ -3,7 +3,7 @@ title: PixelWriter
 permalink: /Java/PixelWriter/
 date: 2021-01-11
 key: Java.P.PixelWriter
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'interface java', 'JavaFX 2.2']
 sidebar: 
   nav: java

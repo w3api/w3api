@@ -3,7 +3,7 @@ title: WatchEvent.Modifier
 permalink: /Java/WatchEvent/Modifier/
 date: 2021-01-11
 key: Java.W.WatchEvent.Modifier
-category: java
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

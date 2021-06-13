@@ -3,7 +3,7 @@ title: PopupFeatures.PopupFeatures()
 permalink: /Java/PopupFeatures/PopupFeatures/
 date: 2021-01-11
 key: Java.P.PopupFeatures
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

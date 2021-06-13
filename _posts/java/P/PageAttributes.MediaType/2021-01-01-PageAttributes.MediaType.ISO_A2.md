@@ -3,7 +3,7 @@ title: PageAttributes.MediaType.ISO_A2
 permalink: /Java/PageAttributes/MediaType/ISO_A2/
 date: 2021-01-11
 key: Java.P.PageAttributes.MediaType
-category: java
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

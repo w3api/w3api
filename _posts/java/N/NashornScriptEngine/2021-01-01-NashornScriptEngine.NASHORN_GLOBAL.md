@@ -3,7 +3,7 @@ title: NashornScriptEngine.NASHORN_GLOBAL
 permalink: Java/NashornScriptEngine/NASHORN_GLOBAL
 date: 2021-01-11
 key: JavaJava.N.NashornScriptEngine
-category: java
+category: Java
 tags: ['java se', 'jdk.nashorn.api.scripting', 'jdk.scripting.nashorn', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

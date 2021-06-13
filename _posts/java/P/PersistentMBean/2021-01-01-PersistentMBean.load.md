@@ -3,7 +3,7 @@ title: PersistentMBean.load()
 permalink: /Java/PersistentMBean/load/
 date: 2021-01-11
 key: Java.P.PersistentMBean
-category: java
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

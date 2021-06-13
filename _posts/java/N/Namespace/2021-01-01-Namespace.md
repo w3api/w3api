@@ -3,7 +3,7 @@ title: Namespace
 permalink: Java/Namespace/
 date: 2021-01-11
 key: JavaJava.N.Namespace
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

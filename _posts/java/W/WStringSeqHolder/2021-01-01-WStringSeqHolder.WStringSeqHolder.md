@@ -3,7 +3,7 @@ title: WStringSeqHolder.WStringSeqHolder()
 permalink: /Java/WStringSeqHolder/WStringSeqHolder/
 date: 2021-01-11
 key: Java.W.WStringSeqHolder
-category: java
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PrimitiveIterator.OfLong.forEachRemaining()
 permalink: /Java/PrimitiveIterator/OfLong/forEachRemaining/
 date: 2021-01-11
 key: Java.P.PrimitiveIterator.OfLong
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

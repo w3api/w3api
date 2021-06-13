@@ -3,7 +3,7 @@ title: PropertyChangeListenerProxy.propertyChange()
 permalink: /Java/PropertyChangeListenerProxy/propertyChange/
 date: 2021-01-11
 key: Java.P.PropertyChangeListenerProxy
-category: java
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

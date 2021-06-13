@@ -3,7 +3,7 @@ title: NamingManager.getStateToBind()
 permalink: Java/NamingManager/getStateToBind
 date: 2021-01-11
 key: JavaJava.N.NamingManager
-category: java
+category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: NameValuePairHelper.write()
 permalink: Java/NameValuePairHelper-org-omg-DynamicAny/write
 date: 2021-01-11
 key: JavaJava.N.NameValuePairHelper-org-omg-DynamicAny
-category: java
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PathTransition.OrientationType.NONE
 permalink: /Java/PathTransition/OrientationType/NONE/
 date: 2021-01-11
 key: Java.P.PathTransition.OrientationType
-category: java
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

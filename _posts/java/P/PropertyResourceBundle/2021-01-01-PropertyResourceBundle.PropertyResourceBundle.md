@@ -3,7 +3,7 @@ title: PropertyResourceBundle.PropertyResourceBundle()
 permalink: /Java/PropertyResourceBundle/PropertyResourceBundle/
 date: 2021-01-11
 key: Java.P.PropertyResourceBundle
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

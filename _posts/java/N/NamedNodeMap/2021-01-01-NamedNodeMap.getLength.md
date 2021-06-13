@@ -3,7 +3,7 @@ title: NamedNodeMap.getLength()
 permalink: Java/NamedNodeMap/getLength
 date: 2021-01-11
 key: JavaJava.N.NamedNodeMap
-category: java
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

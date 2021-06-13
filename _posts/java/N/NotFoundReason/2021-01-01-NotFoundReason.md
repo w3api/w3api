@@ -3,7 +3,7 @@ title: NotFoundReason
 permalink: Java/NotFoundReason
 date: 2021-01-11
 key: JavaJava.N.NotFoundReason
-category: java
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

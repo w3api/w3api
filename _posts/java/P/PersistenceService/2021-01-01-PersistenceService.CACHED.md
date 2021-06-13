@@ -3,7 +3,7 @@ title: PersistenceService.CACHED
 permalink: /Java/PersistenceService/CACHED/
 date: 2021-01-11
 key: Java.P.PersistenceService
-category: java
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'campo java', 'Java 1.4.2']
 sidebar: 
   nav: java

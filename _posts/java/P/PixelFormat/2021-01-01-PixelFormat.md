@@ -3,7 +3,7 @@ title: PixelFormat
 permalink: /Java/PixelFormat/
 date: 2021-01-11
 key: Java.P.PixelFormat
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'clase java', 'JavaFX 2.2']
 sidebar: 
   nav: java

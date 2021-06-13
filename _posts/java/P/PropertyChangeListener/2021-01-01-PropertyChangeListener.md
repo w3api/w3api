@@ -3,7 +3,7 @@ title: PropertyChangeListener
 permalink: /Java/PropertyChangeListener/
 date: 2021-01-11
 key: Java.P.PropertyChangeListener
-category: java
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

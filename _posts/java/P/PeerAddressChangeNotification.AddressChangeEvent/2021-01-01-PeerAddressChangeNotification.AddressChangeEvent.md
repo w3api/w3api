@@ -3,7 +3,7 @@ title: PeerAddressChangeNotification.AddressChangeEvent
 permalink: /Java/PeerAddressChangeNotification/AddressChangeEvent/
 date: 2021-01-11
 key: Java.P.PeerAddressChangeNotification.AddressChangeEvent
-category: java
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'enumerado java', 'Java 1.7']
 sidebar: 
   nav: java

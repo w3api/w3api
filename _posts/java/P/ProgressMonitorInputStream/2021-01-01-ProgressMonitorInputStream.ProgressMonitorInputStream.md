@@ -3,7 +3,7 @@ title: ProgressMonitorInputStream.ProgressMonitorInputStream()
 permalink: /Java/ProgressMonitorInputStream/ProgressMonitorInputStream/
 date: 2021-01-11
 key: Java.P.ProgressMonitorInputStream
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

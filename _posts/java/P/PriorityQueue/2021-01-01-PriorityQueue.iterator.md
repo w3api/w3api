@@ -3,7 +3,7 @@ title: PriorityQueue.iterator()
 permalink: /Java/PriorityQueue/iterator/
 date: 2021-01-11
 key: Java.P.PriorityQueue
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

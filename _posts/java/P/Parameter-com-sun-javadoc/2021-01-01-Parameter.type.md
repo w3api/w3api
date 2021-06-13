@@ -3,7 +3,7 @@ title: Parameter.type()
 permalink: /Java/Parameter-com-sun-javadoc/type/
 date: 2021-01-11
 key: Java.P.Parameter-com-sun-javadoc
-category: java
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

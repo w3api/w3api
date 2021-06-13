@@ -3,7 +3,7 @@ title: PrintService.getSupportedAttributeCategories()
 permalink: /Java/PrintService-javax-print/getSupportedAttributeCategories/
 date: 2021-01-11
 key: Java.P.PrintService-javax-print
-category: java
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

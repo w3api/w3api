@@ -3,7 +3,7 @@ title: PrintWriter.setError()
 permalink: /Java/PrintWriter/setError/
 date: 2021-01-11
 key: Java.P.PrintWriter
-category: java
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

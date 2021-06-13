@@ -3,7 +3,7 @@ title: PackedColorModel.PackedColorModel()
 permalink: /Java/PackedColorModel/PackedColorModel/
 date: 2021-01-11
 key: Java.P.PackedColorModel
-category: java
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

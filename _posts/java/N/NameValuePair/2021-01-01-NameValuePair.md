@@ -3,7 +3,7 @@ title: NameValuePair
 permalink: Java/NameValuePair/
 date: 2021-01-11
 key: JavaJava.N.NameValuePair
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

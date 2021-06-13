@@ -3,7 +3,7 @@ title: ParameterMetaData.parameterNoNulls
 permalink: /Java/ParameterMetaData/parameterNoNulls/
 date: 2021-01-11
 key: Java.P.ParameterMetaData
-category: java
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

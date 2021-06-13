@@ -3,7 +3,7 @@ title: PropertyChangeEvent
 permalink: /Java/PropertyChangeEvent/
 date: 2021-01-11
 key: Java.P.PropertyChangeEvent
-category: java
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

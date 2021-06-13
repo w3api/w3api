@@ -3,7 +3,7 @@ title: MultiRootPaneUI.uis
 permalink: Java/MultiRootPaneUI/uis
 date: 2021-01-11
 key: JavaJava.M.MultiRootPaneUI
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

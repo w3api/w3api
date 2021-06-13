@@ -3,7 +3,7 @@ title: PaintEvent.PAINT_LAST
 permalink: /Java/PaintEvent/PAINT_LAST/
 date: 2021-01-11
 key: Java.P.PaintEvent
-category: java
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

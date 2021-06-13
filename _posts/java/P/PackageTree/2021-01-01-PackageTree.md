@@ -3,7 +3,7 @@ title: PackageTree
 permalink: /Java/PackageTree/
 date: 2021-01-11
 key: Java.P.PackageTree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 9']
 sidebar: 
   nav: java

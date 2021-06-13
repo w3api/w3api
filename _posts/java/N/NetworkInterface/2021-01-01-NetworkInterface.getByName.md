@@ -3,7 +3,7 @@ title: NetworkInterface.getByName()
 permalink: Java/NetworkInterface/getByName
 date: 2021-01-11
 key: JavaJava.N.NetworkInterface
-category: java
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

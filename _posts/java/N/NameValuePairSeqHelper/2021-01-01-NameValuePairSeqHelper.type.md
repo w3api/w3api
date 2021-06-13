@@ -3,7 +3,7 @@ title: NameValuePairSeqHelper.type()
 permalink: Java/NameValuePairSeqHelper/type
 date: 2021-01-11
 key: JavaJava.N.NameValuePairSeqHelper
-category: java
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

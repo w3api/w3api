@@ -3,7 +3,7 @@ title: PrintColor.valueOf()
 permalink: /Java/PrintColor/valueOf/
 date: 2021-01-11
 key: Java.P.PrintColor
-category: java
+category: Java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

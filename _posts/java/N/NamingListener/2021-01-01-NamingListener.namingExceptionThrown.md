@@ -3,7 +3,7 @@ title: NamingListener.namingExceptionThrown()
 permalink: Java/NamingListener/namingExceptionThrown
 date: 2021-01-11
 key: JavaJava.N.NamingListener
-category: java
+category: Java
 tags: ['java se', 'javax.naming.event', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

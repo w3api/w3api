@@ -3,7 +3,7 @@ title: Predicate
 permalink: /Java/Predicate//
 date: 2021-01-11
 key: Java.P.Predicate
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PseudoColumnUsage.valueOf()
 permalink: /Java/PseudoColumnUsage/valueOf/
 date: 2021-01-11
 key: Java.P.PseudoColumnUsage
-category: java
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

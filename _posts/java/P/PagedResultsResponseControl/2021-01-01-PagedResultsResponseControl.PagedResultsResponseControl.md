@@ -3,7 +3,7 @@ title: PagedResultsResponseControl.PagedResultsResponseControl()
 permalink: /Java/PagedResultsResponseControl/PagedResultsResponseControl/
 date: 2021-01-11
 key: Java.P.PagedResultsResponseControl
-category: java
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

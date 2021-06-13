@@ -3,7 +3,7 @@ title: ProcessBuilder.Redirect.Type.PIPE
 permalink: /Java/ProcessBuilder/Redirect/Type/PIPE/
 date: 2021-01-11
 key: Java.P.ProcessBuilder.Redirect.Type
-category: java
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

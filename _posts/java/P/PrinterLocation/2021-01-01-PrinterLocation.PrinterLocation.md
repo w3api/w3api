@@ -3,7 +3,7 @@ title: PrinterLocation.PrinterLocation()
 permalink: /Java/PrinterLocation/PrinterLocation/
 date: 2021-01-11
 key: Java.P.PrinterLocation
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

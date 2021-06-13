@@ -3,7 +3,7 @@ title: Preloader.StateChangeNotification.Type
 permalink: /Java/Preloader/StateChangeNotification/Type/
 date: 2021-01-11
 key: Java.P.Preloader.StateChangeNotification.Type
-category: java
+category: Java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'enumerado java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PackageDoc
 permalink: /Java/PackageDoc/
 date: 2021-01-11
 key: Java.P.PackageDoc
-category: java
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

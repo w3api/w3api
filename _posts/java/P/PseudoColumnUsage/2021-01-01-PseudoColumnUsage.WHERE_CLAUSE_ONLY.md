@@ -3,7 +3,7 @@ title: PseudoColumnUsage.WHERE_CLAUSE_ONLY
 permalink: /Java/PseudoColumnUsage/WHERE_CLAUSE_ONLY/
 date: 2021-01-11
 key: Java.P.PseudoColumnUsage
-category: java
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

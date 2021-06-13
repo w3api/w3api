@@ -3,7 +3,7 @@ title: PaintConverter.SequenceConverter.getInstance()
 permalink: /Java/PaintConverter/SequenceConverter/getInstance/
 date: 2021-01-11
 key: Java.P.PaintConverter.SequenceConverter
-category: java
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

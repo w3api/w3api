@@ -3,7 +3,7 @@ title: PrinterJob
 permalink: /Java/PrinterJob//
 date: 2021-01-11
 key: Java.P.PrinterJob
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

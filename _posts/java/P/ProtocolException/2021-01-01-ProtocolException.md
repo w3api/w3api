@@ -3,7 +3,7 @@ title: ProtocolException
 permalink: /Java/ProtocolException//
 date: 2021-01-11
 key: Java.P.ProtocolException
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

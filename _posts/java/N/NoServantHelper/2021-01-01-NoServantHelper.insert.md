@@ -3,7 +3,7 @@ title: NoServantHelper.insert()
 permalink: Java/NoServantHelper/insert
 date: 2021-01-11
 key: JavaJava.N.NoServantHelper
-category: java
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

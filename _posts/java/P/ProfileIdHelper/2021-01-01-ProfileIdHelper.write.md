@@ -3,7 +3,7 @@ title: ProfileIdHelper.write()
 permalink: /Java/ProfileIdHelper/write/
 date: 2021-01-11
 key: Java.P.ProfileIdHelper
-category: java
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

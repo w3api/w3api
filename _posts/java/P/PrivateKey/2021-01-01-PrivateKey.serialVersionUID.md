@@ -3,7 +3,7 @@ title: PrivateKey.serialVersionUID
 permalink: /Java/PrivateKey/serialVersionUID/
 date: 2021-01-11
 key: Java.P.PrivateKey
-category: java
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

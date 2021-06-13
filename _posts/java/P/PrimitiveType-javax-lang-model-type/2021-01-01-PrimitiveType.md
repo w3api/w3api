@@ -3,7 +3,7 @@ title: PrimitiveType
 permalink: /Java/PrimitiveType-javax-lang-model-type/
 date: 2021-01-11
 key: Java.P.PrimitiveType-javax-lang-model-type
-category: java
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: MultiRootPaneUI.getMaximumSize()
 permalink: Java/MultiRootPaneUI/getMaximumSize
 date: 2021-01-11
 key: JavaJava.M.MultiRootPaneUI
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.multi', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

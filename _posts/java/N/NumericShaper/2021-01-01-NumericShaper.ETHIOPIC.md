@@ -3,7 +3,7 @@ title: NumericShaper.ETHIOPIC
 permalink: Java/NumericShaper/ETHIOPIC
 date: 2021-01-11
 key: JavaJava.N.NumericShaper
-category: java
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

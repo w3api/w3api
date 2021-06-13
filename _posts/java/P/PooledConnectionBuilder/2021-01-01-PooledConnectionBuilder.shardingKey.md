@@ -3,7 +3,7 @@ title: PooledConnectionBuilder.shardingKey()
 permalink: /Java/PooledConnectionBuilder/shardingKey/
 date: 2021-01-11
 key: Java.P.PooledConnectionBuilder
-category: java
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PrintConversionEvent
 permalink: /Java/PrintConversionEvent/
 date: 2021-01-11
 key: Java.P.PrintConversionEvent
-category: java
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'interface java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 
   nav: java

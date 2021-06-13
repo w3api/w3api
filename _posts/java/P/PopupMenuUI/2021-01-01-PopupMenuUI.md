@@ -3,7 +3,7 @@ title: PopupMenuUI
 permalink: /Java/PopupMenuUI/
 date: 2021-01-11
 key: Java.P.PopupMenuUI
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

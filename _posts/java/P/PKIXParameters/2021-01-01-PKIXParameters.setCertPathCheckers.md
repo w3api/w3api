@@ -3,7 +3,7 @@ title: PKIXParameters.setCertPathCheckers()
 permalink: /Java/PKIXParameters/setCertPathCheckers/
 date: 2021-01-11
 key: Java.P.PKIXParameters
-category: java
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PDLOverrideSupported.getEnumValueTable()
 permalink: /Java/PDLOverrideSupported/getEnumValueTable/
 date: 2021-01-11
 key: Java.P.PDLOverrideSupported
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

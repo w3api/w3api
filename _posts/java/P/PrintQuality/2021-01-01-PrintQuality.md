@@ -3,7 +3,7 @@ title: PrintQuality
 permalink: /Java/PrintQuality//
 date: 2021-01-11
 key: Java.P.PrintQuality
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

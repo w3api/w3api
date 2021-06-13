@@ -3,7 +3,7 @@ title: PaperSource.MIDDLE
 permalink: /Java/PaperSource/MIDDLE/
 date: 2021-01-11
 key: Java.P.PaperSource
-category: java
+category: Java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

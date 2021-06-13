@@ -3,7 +3,7 @@ title: NoConnectionPendingException.NoConnectionPendingException()
 permalink: Java/NoConnectionPendingException/NoConnectionPendingException
 date: 2021-01-11
 key: JavaJava.N.NoConnectionPendingException
-category: java
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

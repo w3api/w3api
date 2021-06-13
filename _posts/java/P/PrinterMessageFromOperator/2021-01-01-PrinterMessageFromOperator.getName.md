@@ -3,7 +3,7 @@ title: PrinterMessageFromOperator.getName()
 permalink: /Java/PrinterMessageFromOperator/getName/
 date: 2021-01-11
 key: Java.P.PrinterMessageFromOperator
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

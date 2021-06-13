@@ -3,7 +3,7 @@ title: NameCallback
 permalink: Java/NameCallback
 date: 2021-01-11
 key: JavaJava.N.NameCallback
-category: java
+category: Java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: NotificationResult.toString()
 permalink: Java/NotificationResult/toString
 date: 2021-01-11
 key: JavaJava.N.NotificationResult
-category: java
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: NavigableMap
 permalink: Java/NavigableMap
 date: 2021-01-11
 key: JavaJava.N.NavigableMap
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

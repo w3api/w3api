@@ -3,7 +3,7 @@ title: NotLinkException.NotLinkException()
 permalink: Java/NotLinkException/NotLinkException
 date: 2021-01-11
 key: JavaJava.N.NotLinkException
-category: java
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

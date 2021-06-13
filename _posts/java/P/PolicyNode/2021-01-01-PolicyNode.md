@@ -3,7 +3,7 @@ title: PolicyNode
 permalink: /Java/PolicyNode/
 date: 2021-01-11
 key: Java.P.PolicyNode
-category: java
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

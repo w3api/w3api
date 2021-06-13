@@ -3,7 +3,7 @@ title: W3CDomHandler
 permalink: /Java/W3CDomHandler/
 date: 2021-01-11
 key: Java.W.W3CDomHandler
-category: java
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'clase java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

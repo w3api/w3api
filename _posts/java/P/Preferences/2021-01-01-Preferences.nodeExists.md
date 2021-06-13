@@ -3,7 +3,7 @@ title: Preferences.nodeExists()
 permalink: /Java/Preferences/nodeExists/
 date: 2021-01-11
 key: Java.P.Preferences
-category: java
+category: Java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

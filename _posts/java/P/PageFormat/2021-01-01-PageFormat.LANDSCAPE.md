@@ -3,7 +3,7 @@ title: PageFormat.LANDSCAPE
 permalink: /Java/PageFormat/LANDSCAPE/
 date: 2021-01-11
 key: Java.P.PageFormat
-category: java
+category: Java
 tags: ['java se', 'java.awt.print', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

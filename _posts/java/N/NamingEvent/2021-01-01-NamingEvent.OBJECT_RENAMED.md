@@ -3,7 +3,7 @@ title: NamingEvent.OBJECT_RENAMED
 permalink: Java/NamingEvent/OBJECT_RENAMED
 date: 2021-01-11
 key: JavaJava.N.NamingEvent
-category: java
+category: Java
 tags: ['java se', 'javax.naming.event', 'java.naming', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

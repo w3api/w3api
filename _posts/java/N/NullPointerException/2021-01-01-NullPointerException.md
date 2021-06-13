@@ -3,7 +3,7 @@ title: NullPointerException
 permalink: Java/NullPointerException
 date: 2021-01-11
 key: JavaJava.N.NullPointerException
-category: java
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

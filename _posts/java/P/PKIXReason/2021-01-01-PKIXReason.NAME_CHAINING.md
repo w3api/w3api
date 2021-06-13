@@ -3,7 +3,7 @@ title: PKIXReason.NAME_CHAINING
 permalink: /Java/PKIXReason/NAME_CHAINING/
 date: 2021-01-11
 key: Java.P.PKIXReason
-category: java
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

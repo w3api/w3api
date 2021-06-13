@@ -3,7 +3,7 @@ title: NumberStringConverter
 permalink: Java/NumberStringConverter
 date: 2021-01-11
 key: JavaJava.N.NumberStringConverter
-category: java
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

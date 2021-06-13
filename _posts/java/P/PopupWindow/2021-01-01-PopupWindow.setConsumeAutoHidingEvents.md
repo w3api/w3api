@@ -3,7 +3,7 @@ title: PopupWindow.setConsumeAutoHidingEvents()
 permalink: /Java/PopupWindow/setConsumeAutoHidingEvents/
 date: 2021-01-11
 key: Java.P.PopupWindow
-category: java
+category: Java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: Predicate
 permalink: /Java/Predicate-javax-sql-rowset/
 date: 2021-01-11
 key: Java.P.Predicate-javax-sql-rowset
-category: java
+category: Java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

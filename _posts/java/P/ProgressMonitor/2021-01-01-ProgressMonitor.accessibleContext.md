@@ -3,7 +3,7 @@ title: ProgressMonitor.accessibleContext
 permalink: /Java/ProgressMonitor/accessibleContext/
 date: 2021-01-11
 key: Java.P.ProgressMonitor
-category: java
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

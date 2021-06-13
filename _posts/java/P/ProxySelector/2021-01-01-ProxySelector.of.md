@@ -3,7 +3,7 @@ title: ProxySelector.of()
 permalink: /Java/ProxySelector/of/
 date: 2021-01-11
 key: Java.P.ProxySelector
-category: java
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

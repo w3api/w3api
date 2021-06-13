@@ -3,7 +3,7 @@ title: PrinterJob.JobStatus.PRINTING
 permalink: /Java/PrinterJob/JobStatus/PRINTING/
 date: 2021-01-11
 key: Java.P.PrinterJob.JobStatus
-category: java
+category: Java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

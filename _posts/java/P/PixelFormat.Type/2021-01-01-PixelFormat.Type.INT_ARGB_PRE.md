@@ -3,7 +3,7 @@ title: PixelFormat.Type.INT_ARGB_PRE
 permalink: /Java/PixelFormat/Type/INT_ARGB_PRE/
 date: 2021-01-11
 key: Java.P.PixelFormat.Type
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'campo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

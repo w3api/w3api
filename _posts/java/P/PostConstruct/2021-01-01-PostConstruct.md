@@ -3,7 +3,7 @@ title: PostConstruct
 permalink: /Java/PostConstruct/
 date: 2021-01-11
 key: Java.P.PostConstruct
-category: java
+category: Java
 tags: ['java se', 'javax.annotation', 'java.xml.ws.annotation', 'anotacion java', 'Java 1.6', 'Common Annotations Java 1.0']
 sidebar: 
   nav: java

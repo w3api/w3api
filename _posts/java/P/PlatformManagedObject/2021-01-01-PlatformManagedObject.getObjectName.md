@@ -3,7 +3,7 @@ title: PlatformManagedObject.getObjectName()
 permalink: /Java/PlatformManagedObject/getObjectName/
 date: 2021-01-11
 key: Java.P.PlatformManagedObject
-category: java
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

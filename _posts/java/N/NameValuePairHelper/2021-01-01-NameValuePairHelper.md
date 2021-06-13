@@ -3,7 +3,7 @@ title: NameValuePairHelper
 permalink: Java/NameValuePairHelper/
 date: 2021-01-11
 key: JavaJava.N.NameValuePairHelper
-category: java
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

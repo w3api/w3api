@@ -3,7 +3,7 @@ title: ProgressBarTreeTableCell.forTreeTableColumn()
 permalink: /Java/ProgressBarTreeTableCell/forTreeTableColumn/
 date: 2021-01-11
 key: Java.P.ProgressBarTreeTableCell
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

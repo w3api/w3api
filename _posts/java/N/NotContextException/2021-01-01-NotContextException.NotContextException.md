@@ -3,7 +3,7 @@ title: NotContextException.NotContextException()
 permalink: Java/NotContextException/NotContextException
 date: 2021-01-11
 key: JavaJava.N.NotContextException
-category: java
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

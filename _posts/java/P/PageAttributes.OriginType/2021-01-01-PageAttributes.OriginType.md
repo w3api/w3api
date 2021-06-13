@@ -3,7 +3,7 @@ title: PageAttributes.OriginType
 permalink: /Java/PageAttributes/OriginType/
 date: 2021-01-11
 key: Java.P.PageAttributes.OriginType
-category: java
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: NamedOperation.NamedOperation()
 permalink: Java/NamedOperation/NamedOperation
 date: 2021-01-11
 key: JavaJava.N.NamedOperation
-category: java
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

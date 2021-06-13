@@ -3,7 +3,7 @@ title: ProcessBuilder.Redirect.INHERIT
 permalink: /Java/ProcessBuilder/Redirect/INHERIT/
 date: 2021-01-11
 key: Java.P.ProcessBuilder.Redirect
-category: java
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

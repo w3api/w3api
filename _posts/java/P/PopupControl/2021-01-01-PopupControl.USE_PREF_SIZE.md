@@ -3,7 +3,7 @@ title: PopupControl.USE_PREF_SIZE
 permalink: /Java/PopupControl/USE_PREF_SIZE/
 date: 2021-01-11
 key: Java.P.PopupControl
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

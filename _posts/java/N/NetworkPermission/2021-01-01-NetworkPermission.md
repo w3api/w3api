@@ -3,7 +3,7 @@ title: NetworkPermission
 permalink: Java/NetworkPermission
 date: 2021-01-11
 key: JavaJava.N.NetworkPermission
-category: java
+category: Java
 tags: ['java se', 'jdk.net', 'jdk.net', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

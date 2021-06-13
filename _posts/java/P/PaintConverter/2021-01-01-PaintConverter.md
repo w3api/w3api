@@ -3,7 +3,7 @@ title: PaintConverter
 permalink: /Java/PaintConverter/
 date: 2021-01-11
 key: Java.P.PaintConverter
-category: java
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 
   nav: java

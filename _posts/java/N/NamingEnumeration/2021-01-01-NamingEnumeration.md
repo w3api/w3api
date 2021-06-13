@@ -3,7 +3,7 @@ title: NamingEnumeration
 permalink: Java/NamingEnumeration
 date: 2021-01-11
 key: JavaJava.N.NamingEnumeration
-category: java
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: NamespaceOperation
 permalink: Java/NamespaceOperation
 date: 2021-01-11
 key: JavaJava.N.NamespaceOperation
-category: java
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

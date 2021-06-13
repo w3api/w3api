@@ -3,7 +3,7 @@ title: ParameterizedType.containingType()
 permalink: /Java/ParameterizedType-com-sun-javadoc/containingType/
 date: 2021-01-11
 key: Java.P.ParameterizedType-com-sun-javadoc
-category: java
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

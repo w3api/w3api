@@ -3,7 +3,7 @@ title: MutationEvent.getAttrName()
 permalink: Java/MutationEvent/getAttrName
 date: 2021-01-11
 key: JavaJava.M.MutationEvent
-category: java
+category: Java
 tags: ['java se', 'org.w3c.dom.events', 'java.xml', 'metodo java', 'Java 1.5', 'DOM Level 2']
 sidebar: 
   nav: java

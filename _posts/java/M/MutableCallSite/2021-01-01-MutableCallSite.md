@@ -3,7 +3,7 @@ title: MutableCallSite
 permalink: Java/MutableCallSite
 date: 2021-01-11
 key: JavaJava.M.MutableCallSite
-category: java
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

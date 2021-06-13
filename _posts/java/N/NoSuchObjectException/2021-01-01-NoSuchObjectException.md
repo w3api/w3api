@@ -3,7 +3,7 @@ title: NoSuchObjectException
 permalink: Java/NoSuchObjectException
 date: 2021-01-11
 key: JavaJava.N.NoSuchObjectException
-category: java
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

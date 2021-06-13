@@ -3,7 +3,7 @@ title: NimbusLookAndFeel.getName()
 permalink: Java/NimbusLookAndFeel/getName
 date: 2021-01-11
 key: JavaJava.N.NimbusLookAndFeel
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.nimbus', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

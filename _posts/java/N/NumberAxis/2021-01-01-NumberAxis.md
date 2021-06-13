@@ -3,7 +3,7 @@ title: NumberAxis
 permalink: Java/NumberAxis
 date: 2021-01-11
 key: JavaJava.N.NumberAxis
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

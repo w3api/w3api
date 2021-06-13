@@ -3,7 +3,7 @@ title: PosixFilePermission.OTHERS_READ
 permalink: /Java/PosixFilePermission/OTHERS_READ/
 date: 2021-01-11
 key: Java.P.PosixFilePermission
-category: java
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PlatformLoggingMXBean
 permalink: /Java/PlatformLoggingMXBean/
 date: 2021-01-11
 key: Java.P.PlatformLoggingMXBean
-category: java
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PrinterJob.printPage()
 permalink: /Java/PrinterJob-javafx-print/printPage/
 date: 2021-01-11
 key: Java.P.PrinterJob-javafx-print
-category: java
+category: Java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

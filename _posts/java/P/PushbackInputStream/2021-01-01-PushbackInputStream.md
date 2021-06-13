@@ -3,7 +3,7 @@ title: PushbackInputStream
 permalink: /Java/PushbackInputStream/
 date: 2021-01-11
 key: Java.P.PushbackInputStream
-category: java
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

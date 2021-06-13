@@ -3,7 +3,7 @@ title: PaginationSkin
 permalink: /Java/PaginationSkin/
 date: 2021-01-11
 key: Java.P.PaginationSkin
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

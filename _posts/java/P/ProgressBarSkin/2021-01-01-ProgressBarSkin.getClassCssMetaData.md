@@ -3,7 +3,7 @@ title: ProgressBarSkin.getClassCssMetaData()
 permalink: /Java/ProgressBarSkin/getClassCssMetaData/
 date: 2021-01-11
 key: Java.P.ProgressBarSkin
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

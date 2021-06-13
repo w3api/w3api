@@ -3,7 +3,7 @@ title: PrintSides.ONE_SIDED
 permalink: /Java/PrintSides/ONE_SIDED/
 date: 2021-01-11
 key: Java.P.PrintSides
-category: java
+category: Java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

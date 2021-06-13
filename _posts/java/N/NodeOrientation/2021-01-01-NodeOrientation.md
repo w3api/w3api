@@ -3,7 +3,7 @@ title: NodeOrientation
 permalink: Java/NodeOrientation
 date: 2021-01-11
 key: JavaJava.N.NodeOrientation
-category: java
+category: Java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'enumerado java', 'JavaFX 8.0']
 sidebar: 
   nav: java

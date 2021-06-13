@@ -3,7 +3,7 @@ title: ProcessingInstruction
 permalink: /Java/ProcessingInstruction-org-w3c-dom/
 date: 2021-01-11
 key: Java.P.ProcessingInstruction-org-w3c-dom
-category: java
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

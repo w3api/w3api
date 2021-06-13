@@ -3,7 +3,7 @@ title: PrimitiveIterator.OfDouble
 permalink: /Java/PrimitiveIterator/OfDouble/
 date: 2021-01-11
 key: Java.P.PrimitiveIterator.OfDouble
-category: java
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PixelFormat.Type.BYTE_INDEXED
 permalink: /Java/PixelFormat/Type/BYTE_INDEXED/
 date: 2021-01-11
 key: Java.P.PixelFormat.Type
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'campo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

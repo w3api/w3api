@@ -3,7 +3,7 @@ title: PresentationDirection.TORIGHT_TOTOP
 permalink: /Java/PresentationDirection/TORIGHT_TOTOP/
 date: 2021-01-11
 key: Java.P.PresentationDirection
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PageAttributes.ColorType
 permalink: /Java/PageAttributes/ColorType/
 date: 2021-01-11
 key: Java.P.PageAttributes.ColorType
-category: java
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

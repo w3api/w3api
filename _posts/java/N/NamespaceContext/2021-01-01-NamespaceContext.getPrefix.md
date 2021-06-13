@@ -3,7 +3,7 @@ title: NamespaceContext.getPrefix()
 permalink: Java/NamespaceContext/getPrefix
 date: 2021-01-11
 key: JavaJava.N.NamespaceContext
-category: java
+category: Java
 tags: ['java se', 'javax.xml.namespace', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: NotFoundHolder.value
 permalink: Java/NotFoundHolder/value
 date: 2021-01-11
 key: JavaJava.N.NotFoundHolder
-category: java
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

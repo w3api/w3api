@@ -3,7 +3,7 @@ title: ParallelTransition
 permalink: /Java/ParallelTransition/
 date: 2021-01-11
 key: Java.P.ParallelTransition
-category: java
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

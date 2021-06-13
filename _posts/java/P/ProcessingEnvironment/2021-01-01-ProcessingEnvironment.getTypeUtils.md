@@ -3,7 +3,7 @@ title: ProcessingEnvironment.getTypeUtils()
 permalink: /Java/ProcessingEnvironment/getTypeUtils/
 date: 2021-01-11
 key: Java.P.ProcessingEnvironment
-category: java
+category: Java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

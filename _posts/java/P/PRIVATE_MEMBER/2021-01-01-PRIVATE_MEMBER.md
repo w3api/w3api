@@ -3,7 +3,7 @@ title: PRIVATE_MEMBER
 permalink: /Java/PRIVATE_MEMBER/
 date: 2021-01-11
 key: Java.P.PRIVATE_MEMBER
-category: java
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

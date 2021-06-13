@@ -3,7 +3,7 @@ title: ProgressIndicator.INDETERMINATE_PROGRESS
 permalink: /Java/ProgressIndicator/INDETERMINATE_PROGRESS/
 date: 2021-01-11
 key: Java.P.ProgressIndicator
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

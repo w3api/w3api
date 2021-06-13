@@ -3,7 +3,7 @@ title: PrintResolution
 permalink: /Java/PrintResolution/
 date: 2021-01-11
 key: Java.P.PrintResolution
-category: java
+category: Java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

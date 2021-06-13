@@ -3,7 +3,7 @@ title: PrintQuality.DRAFT
 permalink: /Java/PrintQuality-javax-print-attribute-standard/DRAFT/
 date: 2021-01-11
 key: Java.P.PrintQuality-javax-print-attribute-standard
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

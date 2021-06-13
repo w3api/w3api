@@ -3,7 +3,7 @@ title: PseudoClass.getPseudoClass()
 permalink: /Java/PseudoClass/getPseudoClass/
 date: 2021-01-11
 key: Java.P.PseudoClass
-category: java
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

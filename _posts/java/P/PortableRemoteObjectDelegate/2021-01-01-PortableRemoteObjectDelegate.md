@@ -3,7 +3,7 @@ title: PortableRemoteObjectDelegate
 permalink: /Java/PortableRemoteObjectDelegate/
 date: 2021-01-11
 key: Java.P.PortableRemoteObjectDelegate
-category: java
+category: Java
 tags: ['java se', 'javax.rmi.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: NimbusStyle.SMALL_KEY
 permalink: Java/NimbusStyle/SMALL_KEY
 date: 2021-01-11
 key: JavaJava.N.NimbusStyle
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.nimbus', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

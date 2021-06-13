@@ -3,7 +3,7 @@ title: MultipleComponentProfileHelper.insert()
 permalink: Java/MultipleComponentProfileHelper/insert
 date: 2021-01-11
 key: JavaJava.M.MultipleComponentProfileHelper
-category: java
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

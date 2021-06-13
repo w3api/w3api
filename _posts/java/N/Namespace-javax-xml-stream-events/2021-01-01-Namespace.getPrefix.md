@@ -3,7 +3,7 @@ title: Namespace.getPrefix()
 permalink: Java/Namespace-javax-xml-stream-events/getPrefix
 date: 2021-01-11
 key: JavaJava.N.Namespace-javax-xml-stream-events
-category: java
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

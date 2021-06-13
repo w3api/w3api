@@ -3,7 +3,7 @@ title: Pagination.INDETERMINATE
 permalink: /Java/Pagination/INDETERMINATE/
 date: 2021-01-11
 key: Java.P.Pagination
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

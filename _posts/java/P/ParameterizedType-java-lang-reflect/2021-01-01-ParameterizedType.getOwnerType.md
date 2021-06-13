@@ -3,7 +3,7 @@ title: ParameterizedType.getOwnerType()
 permalink: /Java/ParameterizedType-java-lang-reflect/getOwnerType/
 date: 2021-01-11
 key: Java.P.ParameterizedType-java-lang-reflect
-category: java
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PrintQuality.getCategory()
 permalink: /Java/PrintQuality-javax-print-attribute-standard/getCategory/
 date: 2021-01-11
 key: Java.P.PrintQuality-javax-print-attribute-standard
-category: java
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

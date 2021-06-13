@@ -3,7 +3,7 @@ title: PageAttributes.PrintQualityType.HIGH
 permalink: /Java/PageAttributes/PrintQualityType/HIGH/
 date: 2021-01-11
 key: Java.P.PageAttributes.PrintQualityType
-category: java
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

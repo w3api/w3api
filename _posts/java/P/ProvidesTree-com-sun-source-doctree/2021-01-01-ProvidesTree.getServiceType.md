@@ -3,7 +3,7 @@ title: ProvidesTree.getServiceType()
 permalink: /Java/ProvidesTree-com-sun-source-doctree/getServiceType/
 date: 2021-01-11
 key: Java.P.ProvidesTree-com-sun-source-doctree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

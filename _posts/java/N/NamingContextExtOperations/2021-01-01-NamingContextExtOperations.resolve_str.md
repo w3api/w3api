@@ -3,7 +3,7 @@ title: NamingContextExtOperations.resolve_str()
 permalink: Java/NamingContextExtOperations/resolve_str
 date: 2021-01-11
 key: JavaJava.N.NamingContextExtOperations
-category: java
+category: Java
 tags: ['java se', 'org.omg.CosNaming', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

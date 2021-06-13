@@ -3,7 +3,7 @@ title: Parameter.getType()
 permalink: /Java/Parameter-java-lang-reflect/getType/
 date: 2021-01-11
 key: Java.P.Parameter-java-lang-reflect
-category: java
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

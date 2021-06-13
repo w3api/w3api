@@ -3,7 +3,7 @@ title: Parameterizable
 permalink: /Java/Parameterizable/
 date: 2021-01-11
 key: Java.P.Parameterizable
-category: java
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

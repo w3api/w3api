@@ -3,7 +3,7 @@ title: Preloader
 permalink: /Java/Preloader/
 date: 2021-01-11
 key: Java.P.Preloader
-category: java
+category: Java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

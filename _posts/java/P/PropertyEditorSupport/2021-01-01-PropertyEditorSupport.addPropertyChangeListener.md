@@ -3,7 +3,7 @@ title: PropertyEditorSupport.addPropertyChangeListener()
 permalink: /Java/PropertyEditorSupport/addPropertyChangeListener/
 date: 2021-01-11
 key: Java.P.PropertyEditorSupport
-category: java
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

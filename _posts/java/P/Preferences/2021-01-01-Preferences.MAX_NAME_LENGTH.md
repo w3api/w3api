@@ -3,7 +3,7 @@ title: Preferences.MAX_NAME_LENGTH
 permalink: /Java/Preferences/MAX_NAME_LENGTH/
 date: 2021-01-11
 key: Java.P.Preferences
-category: java
+category: Java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

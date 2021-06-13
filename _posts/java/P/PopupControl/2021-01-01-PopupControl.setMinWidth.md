@@ -3,7 +3,7 @@ title: PopupControl.setMinWidth()
 permalink: /Java/PopupControl/setMinWidth/
 date: 2021-01-11
 key: Java.P.PopupControl
-category: java
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PopupWindow.AnchorLocation.values()
 permalink: /Java/PopupWindow/AnchorLocation/values/
 date: 2021-01-11
 key: Java.P.PopupWindow.AnchorLocation
-category: java
+category: Java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PackageElement.getQualifiedName()
 permalink: /Java/PackageElement/getQualifiedName/
 date: 2021-01-11
 key: Java.P.PackageElement
-category: java
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

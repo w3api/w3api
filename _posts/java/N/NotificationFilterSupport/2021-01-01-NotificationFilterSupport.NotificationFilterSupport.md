@@ -3,7 +3,7 @@ title: NotificationFilterSupport.NotificationFilterSupport()
 permalink: Java/NotificationFilterSupport/NotificationFilterSupport
 date: 2021-01-11
 key: JavaJava.N.NotificationFilterSupport
-category: java
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: NotificationListener.handleNotification()
 permalink: Java/NotificationListener/handleNotification
 date: 2021-01-11
 key: JavaJava.N.NotificationListener
-category: java
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

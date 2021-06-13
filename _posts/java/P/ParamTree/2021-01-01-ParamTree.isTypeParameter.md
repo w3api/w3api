@@ -3,7 +3,7 @@ title: ParamTree.isTypeParameter()
 permalink: /Java/ParamTree/isTypeParameter/
 date: 2021-01-11
 key: Java.P.ParamTree
-category: java
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

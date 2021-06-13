@@ -3,7 +3,7 @@ title: ProviderMismatchException.ProviderMismatchException()
 permalink: /Java/ProviderMismatchException/ProviderMismatchException/
 date: 2021-01-11
 key: Java.P.ProviderMismatchException
-category: java
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

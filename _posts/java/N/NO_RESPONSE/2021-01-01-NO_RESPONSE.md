@@ -3,7 +3,7 @@ title: NO_RESPONSE
 permalink: Java/NO_RESPONSE
 date: 2021-01-11
 key: JavaJava.N.NO_RESPONSE
-category: java
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 
   nav: java

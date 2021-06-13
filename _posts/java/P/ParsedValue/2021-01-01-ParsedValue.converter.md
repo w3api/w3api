@@ -3,7 +3,7 @@ title: ParsedValue.converter
 permalink: /Java/ParsedValue/converter/
 date: 2021-01-11
 key: Java.P.ParsedValue
-category: java
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PersistenceDelegate
 permalink: /Java/PersistenceDelegate/
 date: 2021-01-11
 key: Java.P.PersistenceDelegate
-category: java
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -3,7 +3,7 @@ title: PathTransition.OrientationType
 permalink: /Java/PathTransition/OrientationType/
 date: 2021-01-11
 key: Java.P.PathTransition.OrientationType
-category: java
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'enumerado java', 'JavaFX 2.0']
 sidebar: 
   nav: java
