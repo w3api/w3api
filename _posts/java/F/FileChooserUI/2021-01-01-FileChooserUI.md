@@ -1,9 +1,9 @@
 ---
 title: FileChooserUI
-permalink: Java/FileChooserUI
+permalink: /Java/FileChooserUI/
 date: 2021-01-11
-key: JavaJava.F.FileChooserUI
-category: java
+key: Java.F.FileChooserUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

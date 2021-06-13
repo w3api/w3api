@@ -1,9 +1,9 @@
 ---
 title: ECGenParameterSpec.getName()
-permalink: Java/ECGenParameterSpec/getName
+permalink: /Java/ECGenParameterSpec/getName/
 date: 2021-01-11
-key: JavaJava.E.ECGenParameterSpec
-category: java
+key: Java.E.ECGenParameterSpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

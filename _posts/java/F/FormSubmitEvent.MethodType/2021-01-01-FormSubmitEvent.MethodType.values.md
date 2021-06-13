@@ -1,9 +1,9 @@
 ---
 title: FormSubmitEvent.MethodType.values()
-permalink: Java/FormSubmitEvent/MethodType/values
+permalink: /Java/FormSubmitEvent/MethodType/values/
 date: 2021-01-11
-key: JavaJava.F.FormSubmitEvent.MethodType
-category: java
+key: Java.F.FormSubmitEvent.MethodType
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

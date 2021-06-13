@@ -1,9 +1,9 @@
 ---
 title: ExecutionEnv.closeDown()
-permalink: Java/ExecutionEnv/closeDown
+permalink: /Java/ExecutionEnv/closeDown/
 date: 2021-01-11
-key: JavaJava.E.ExecutionEnv
-category: java
+key: Java.E.ExecutionEnv
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

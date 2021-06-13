@@ -1,9 +1,9 @@
 ---
 title: DoubleFunction.apply()
-permalink: Java/DoubleFunction/apply
+permalink: /Java/DoubleFunction/apply/
 date: 2021-01-11
-key: JavaJava.D.DoubleFunction
-category: java
+key: Java.D.DoubleFunction
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

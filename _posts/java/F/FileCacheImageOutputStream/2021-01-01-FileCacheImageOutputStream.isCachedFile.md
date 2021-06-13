@@ -1,9 +1,9 @@
 ---
 title: FileCacheImageOutputStream.isCachedFile()
-permalink: Java/FileCacheImageOutputStream/isCachedFile
+permalink: /Java/FileCacheImageOutputStream/isCachedFile/
 date: 2021-01-11
-key: JavaJava.F.FileCacheImageOutputStream
-category: java
+key: Java.F.FileCacheImageOutputStream
+category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

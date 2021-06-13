@@ -1,9 +1,9 @@
 ---
 title: FileTypeMap
-permalink: Java/FileTypeMap
+permalink: /Java/FileTypeMap/
 date: 2021-01-11
-key: JavaJava.F.FileTypeMap
-category: java
+key: Java.F.FileTypeMap
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

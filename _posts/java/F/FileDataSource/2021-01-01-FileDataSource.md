@@ -1,9 +1,9 @@
 ---
 title: FileDataSource
-permalink: Java/FileDataSource
+permalink: /Java/FileDataSource/
 date: 2021-01-11
-key: JavaJava.F.FileDataSource
-category: java
+key: Java.F.FileDataSource
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

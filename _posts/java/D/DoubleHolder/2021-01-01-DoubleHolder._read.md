@@ -1,9 +1,9 @@
 ---
 title: DoubleHolder._read()
-permalink: Java/DoubleHolder/_read
+permalink: /Java/DoubleHolder/_read/
 date: 2021-01-11
-key: JavaJava.D.DoubleHolder
-category: java
+key: Java.D.DoubleHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

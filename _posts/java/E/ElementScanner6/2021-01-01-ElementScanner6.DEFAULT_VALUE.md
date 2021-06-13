@@ -1,9 +1,9 @@
 ---
 title: ElementScanner6.DEFAULT_VALUE
-permalink: Java/ElementScanner6/DEFAULT_VALUE
+permalink: /Java/ElementScanner6/DEFAULT_VALUE/
 date: 2021-01-11
-key: JavaJava.E.ElementScanner6
-category: java
+key: Java.E.ElementScanner6
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

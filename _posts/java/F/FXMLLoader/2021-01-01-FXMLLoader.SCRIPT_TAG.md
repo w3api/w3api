@@ -1,9 +1,9 @@
 ---
 title: FXMLLoader.SCRIPT_TAG
-permalink: Java/FXMLLoader/SCRIPT_TAG
+permalink: /Java/FXMLLoader/SCRIPT_TAG/
 date: 2021-01-11
-key: JavaJava.F.FXMLLoader
-category: java
+key: Java.F.FXMLLoader
+category: Java
 tags: ['java se', 'javafx.fxml', 'javafx.fxml', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

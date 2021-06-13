@@ -1,9 +1,9 @@
 ---
 title: GZIPInputStream.read()
-permalink: Java/GZIPInputStream/read
+permalink: /Java/GZIPInputStream/read/
 date: 2021-01-11
-key: JavaJava.G.GZIPInputStream
-category: java
+key: Java.G.GZIPInputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

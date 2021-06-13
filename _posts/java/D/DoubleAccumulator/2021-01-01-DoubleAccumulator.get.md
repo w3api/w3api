@@ -1,9 +1,9 @@
 ---
 title: DoubleAccumulator.get()
-permalink: Java/DoubleAccumulator/get
+permalink: /Java/DoubleAccumulator/get/
 date: 2021-01-11
-key: JavaJava.D.DoubleAccumulator
-category: java
+key: Java.D.DoubleAccumulator
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

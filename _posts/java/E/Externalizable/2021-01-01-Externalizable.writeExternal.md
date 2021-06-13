@@ -1,9 +1,9 @@
 ---
 title: Externalizable.writeExternal()
-permalink: Java/Externalizable/writeExternal
+permalink: /Java/Externalizable/writeExternal/
 date: 2021-01-11
-key: JavaJava.E.Externalizable
-category: java
+key: Java.E.Externalizable
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

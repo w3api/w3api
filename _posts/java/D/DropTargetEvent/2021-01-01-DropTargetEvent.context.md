@@ -1,9 +1,9 @@
 ---
 title: DropTargetEvent.context
-permalink: Java/DropTargetEvent/context
+permalink: /Java/DropTargetEvent/context/
 date: 2021-01-11
-key: JavaJava.D.DropTargetEvent
-category: java
+key: Java.D.DropTargetEvent
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

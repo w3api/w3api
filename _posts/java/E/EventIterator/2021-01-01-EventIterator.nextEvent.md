@@ -1,9 +1,9 @@
 ---
 title: EventIterator.nextEvent()
-permalink: Java/EventIterator/nextEvent
+permalink: /Java/EventIterator/nextEvent/
 date: 2021-01-11
-key: JavaJava.E.EventIterator
-category: java
+key: Java.E.EventIterator
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

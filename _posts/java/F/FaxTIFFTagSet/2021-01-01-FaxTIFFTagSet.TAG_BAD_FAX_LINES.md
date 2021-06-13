@@ -1,9 +1,9 @@
 ---
 title: FaxTIFFTagSet.TAG_BAD_FAX_LINES
-permalink: Java/FaxTIFFTagSet/TAG_BAD_FAX_LINES
+permalink: /Java/FaxTIFFTagSet/TAG_BAD_FAX_LINES/
 date: 2021-01-11
-key: JavaJava.F.FaxTIFFTagSet
-category: java
+key: Java.F.FaxTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

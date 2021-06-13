@@ -1,9 +1,9 @@
 ---
 title: DropTarget
-permalink: Java/DropTarget
+permalink: /Java/DropTarget/
 date: 2021-01-11
-key: JavaJava.D.DropTarget
-category: java
+key: Java.D.DropTarget
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

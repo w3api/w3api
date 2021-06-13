@@ -1,9 +1,9 @@
 ---
 title: ErrorHandler.fatalError()
-permalink: Java/ErrorHandler/fatalError
+permalink: /Java/ErrorHandler/fatalError/
 date: 2021-01-11
-key: JavaJava.E.ErrorHandler
-category: java
+key: Java.E.ErrorHandler
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'metodo java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 
   nav: java

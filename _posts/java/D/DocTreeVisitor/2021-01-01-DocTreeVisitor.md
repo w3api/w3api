@@ -1,9 +1,9 @@
 ---
 title: DocTreeVisitor
-permalink: Java/DocTreeVisitor
+permalink: /Java/DocTreeVisitor/
 date: 2021-01-11
-key: JavaJava.D.DocTreeVisitor
-category: java
+key: Java.D.DocTreeVisitor
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

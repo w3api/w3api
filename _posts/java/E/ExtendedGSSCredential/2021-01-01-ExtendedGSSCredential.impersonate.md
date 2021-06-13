@@ -1,9 +1,9 @@
 ---
 title: ExtendedGSSCredential.impersonate()
-permalink: Java/ExtendedGSSCredential/impersonate
+permalink: /Java/ExtendedGSSCredential/impersonate/
 date: 2021-01-11
-key: JavaJava.E.ExtendedGSSCredential
-category: java
+key: Java.E.ExtendedGSSCredential
+category: Java
 tags: ['java se', 'com.sun.security.jgss', 'jdk.security.jgss', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

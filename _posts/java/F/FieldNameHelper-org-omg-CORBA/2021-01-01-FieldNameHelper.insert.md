@@ -1,9 +1,9 @@
 ---
 title: FieldNameHelper.insert()
-permalink: Java/FieldNameHelper-org-omg-CORBA/insert
+permalink: /Java/FieldNameHelper-org-omg-CORBA/insert/
 date: 2021-01-11
-key: JavaJava.F.FieldNameHelper-org-omg-CORBA
-category: java
+key: Java.F.FieldNameHelper-org-omg-CORBA
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

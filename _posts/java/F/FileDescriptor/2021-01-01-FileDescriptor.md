@@ -1,9 +1,9 @@
 ---
 title: FileDescriptor
-permalink: Java/FileDescriptor
+permalink: /Java/FileDescriptor/
 date: 2021-01-11
-key: JavaJava.F.FileDescriptor
-category: java
+key: Java.F.FileDescriptor
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

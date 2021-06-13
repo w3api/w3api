@@ -1,9 +1,9 @@
 ---
 title: EntityReference
-permalink: Java/EntityReference/
+permalink: /Java/EntityReference//
 date: 2021-01-11
-key: JavaJava.E.EntityReference
-category: java
+key: Java.E.EntityReference
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

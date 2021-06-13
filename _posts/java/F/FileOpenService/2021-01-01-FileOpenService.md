@@ -1,9 +1,9 @@
 ---
 title: FileOpenService
-permalink: Java/FileOpenService
+permalink: /Java/FileOpenService/
 date: 2021-01-11
-key: JavaJava.F.FileOpenService
-category: java
+key: Java.F.FileOpenService
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'interface java', 'Java 1.4.2']
 sidebar: 
   nav: java

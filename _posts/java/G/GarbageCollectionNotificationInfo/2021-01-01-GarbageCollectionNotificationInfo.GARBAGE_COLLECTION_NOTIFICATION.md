@@ -1,9 +1,9 @@
 ---
 title: GarbageCollectionNotificationInfo.GARBAGE_COLLECTION_NOTIFICATION
-permalink: Java/GarbageCollectionNotificationInfo/GARBAGE_COLLECTION_NOTIFICATION
+permalink: /Java/GarbageCollectionNotificationInfo/GARBAGE_COLLECTION_NOTIFICATION/
 date: 2021-01-11
-key: JavaJava.G.GarbageCollectionNotificationInfo
-category: java
+key: Java.G.GarbageCollectionNotificationInfo
+category: Java
 tags: ['java se', 'com.sun.management', 'jdk.management', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

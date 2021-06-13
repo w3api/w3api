@@ -1,9 +1,9 @@
 ---
 title: DragSourceDragEvent.getUserAction()
-permalink: Java/DragSourceDragEvent/getUserAction
+permalink: /Java/DragSourceDragEvent/getUserAction/
 date: 2021-01-11
-key: JavaJava.D.DragSourceDragEvent
-category: java
+key: Java.D.DragSourceDragEvent
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

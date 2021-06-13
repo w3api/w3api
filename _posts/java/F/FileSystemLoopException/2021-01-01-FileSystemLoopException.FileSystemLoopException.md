@@ -1,9 +1,9 @@
 ---
 title: FileSystemLoopException.FileSystemLoopException()
-permalink: Java/FileSystemLoopException/FileSystemLoopException
+permalink: /Java/FileSystemLoopException/FileSystemLoopException/
 date: 2021-01-11
-key: JavaJava.F.FileSystemLoopException
-category: java
+key: Java.F.FileSystemLoopException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

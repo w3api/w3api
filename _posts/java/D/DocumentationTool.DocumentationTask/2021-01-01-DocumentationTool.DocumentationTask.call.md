@@ -1,9 +1,9 @@
 ---
 title: DocumentationTool.DocumentationTask.call()
-permalink: Java/DocumentationTool/DocumentationTask/call
+permalink: /Java/DocumentationTool/DocumentationTask/call/
 date: 2021-01-11
-key: JavaJava.D.DocumentationTool.DocumentationTask
-category: java
+key: Java.D.DocumentationTool.DocumentationTask
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FileOutputStream.getFD()
-permalink: Java/FileOutputStream/getFD
+permalink: /Java/FileOutputStream/getFD/
 date: 2021-01-11
-key: JavaJava.F.FileOutputStream
-category: java
+key: Java.F.FileOutputStream
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

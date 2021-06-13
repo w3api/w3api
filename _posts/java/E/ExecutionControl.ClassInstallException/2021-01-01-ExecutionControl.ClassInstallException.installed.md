@@ -1,9 +1,9 @@
 ---
 title: ExecutionControl.ClassInstallException.installed()
-permalink: Java/ExecutionControl/ClassInstallException/installed
+permalink: /Java/ExecutionControl/ClassInstallException/installed/
 date: 2021-01-11
-key: JavaJava.E.ExecutionControl.ClassInstallException
-category: java
+key: Java.E.ExecutionControl.ClassInstallException
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

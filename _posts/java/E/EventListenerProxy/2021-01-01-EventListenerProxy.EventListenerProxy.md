@@ -1,9 +1,9 @@
 ---
 title: EventListenerProxy.EventListenerProxy()
-permalink: Java/EventListenerProxy/EventListenerProxy
+permalink: /Java/EventListenerProxy/EventListenerProxy/
 date: 2021-01-11
-key: JavaJava.E.EventListenerProxy
-category: java
+key: Java.E.EventListenerProxy
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

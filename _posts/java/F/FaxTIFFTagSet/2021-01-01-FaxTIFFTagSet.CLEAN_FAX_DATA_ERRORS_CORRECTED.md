@@ -1,9 +1,9 @@
 ---
 title: FaxTIFFTagSet.CLEAN_FAX_DATA_ERRORS_CORRECTED
-permalink: Java/FaxTIFFTagSet/CLEAN_FAX_DATA_ERRORS_CORRECTED
+permalink: /Java/FaxTIFFTagSet/CLEAN_FAX_DATA_ERRORS_CORRECTED/
 date: 2021-01-11
-key: JavaJava.F.FaxTIFFTagSet
-category: java
+key: Java.F.FaxTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DuplicateNameHelper.insert()
-permalink: Java/DuplicateNameHelper/insert
+permalink: /Java/DuplicateNameHelper/insert/
 date: 2021-01-11
-key: JavaJava.D.DuplicateNameHelper
-category: java
+key: Java.D.DuplicateNameHelper
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor.ORBInitInfoPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

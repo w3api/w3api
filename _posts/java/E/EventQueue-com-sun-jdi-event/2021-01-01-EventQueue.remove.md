@@ -1,9 +1,9 @@
 ---
 title: EventQueue.remove()
-permalink: Java/EventQueue-com-sun-jdi-event/remove
+permalink: /Java/EventQueue-com-sun-jdi-event/remove/
 date: 2021-01-11
-key: JavaJava.E.EventQueue-com-sun-jdi-event
-category: java
+key: Java.E.EventQueue-com-sun-jdi-event
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

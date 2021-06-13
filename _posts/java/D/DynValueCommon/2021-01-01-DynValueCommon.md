@@ -1,9 +1,9 @@
 ---
 title: DynValueCommon
-permalink: Java/DynValueCommon
+permalink: /Java/DynValueCommon/
 date: 2021-01-11
-key: JavaJava.D.DynValueCommon
-category: java
+key: Java.D.DynValueCommon
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

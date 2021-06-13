@@ -1,9 +1,9 @@
 ---
 title: ExceptionListener
-permalink: Java/ExceptionListener
+permalink: /Java/ExceptionListener/
 date: 2021-01-11
-key: JavaJava.E.ExceptionListener
-category: java
+key: Java.E.ExceptionListener
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

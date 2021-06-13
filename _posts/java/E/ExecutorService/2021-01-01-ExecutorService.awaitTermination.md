@@ -1,9 +1,9 @@
 ---
 title: ExecutorService.awaitTermination()
-permalink: Java/ExecutorService/awaitTermination
+permalink: /Java/ExecutorService/awaitTermination/
 date: 2021-01-11
-key: JavaJava.E.ExecutorService
-category: java
+key: Java.E.ExecutorService
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

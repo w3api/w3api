@@ -1,9 +1,9 @@
 ---
 title: FloatSeqHelper.extract()
-permalink: Java/FloatSeqHelper/extract
+permalink: /Java/FloatSeqHelper/extract/
 date: 2021-01-11
-key: JavaJava.F.FloatSeqHelper
-category: java
+key: Java.F.FloatSeqHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

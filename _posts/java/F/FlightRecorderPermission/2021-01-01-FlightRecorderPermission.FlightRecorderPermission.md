@@ -1,9 +1,9 @@
 ---
 title: FlightRecorderPermission.FlightRecorderPermission()
-permalink: Java/FlightRecorderPermission/FlightRecorderPermission
+permalink: /Java/FlightRecorderPermission/FlightRecorderPermission/
 date: 2021-01-11
-key: JavaJava.F.FlightRecorderPermission
-category: java
+key: Java.F.FlightRecorderPermission
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

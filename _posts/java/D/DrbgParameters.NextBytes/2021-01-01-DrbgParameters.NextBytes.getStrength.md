@@ -1,9 +1,9 @@
 ---
 title: DrbgParameters.NextBytes.getStrength()
-permalink: Java/DrbgParameters/NextBytes/getStrength
+permalink: /Java/DrbgParameters/NextBytes/getStrength/
 date: 2021-01-11
-key: JavaJava.D.DrbgParameters.NextBytes
-category: java
+key: Java.D.DrbgParameters.NextBytes
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

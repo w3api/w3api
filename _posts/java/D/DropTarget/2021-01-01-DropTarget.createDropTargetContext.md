@@ -1,9 +1,9 @@
 ---
 title: DropTarget.createDropTargetContext()
-permalink: Java/DropTarget/createDropTargetContext
+permalink: /Java/DropTarget/createDropTargetContext/
 date: 2021-01-11
-key: JavaJava.D.DropTarget
-category: java
+key: Java.D.DropTarget
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

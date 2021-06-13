@@ -1,9 +1,9 @@
 ---
 title: DocumentEvent.ElementChange.getChildrenRemoved()
-permalink: Java/DocumentEvent/ElementChange/getChildrenRemoved
+permalink: /Java/DocumentEvent/ElementChange/getChildrenRemoved/
 date: 2021-01-11
-key: JavaJava.D.DocumentEvent.ElementChange
-category: java
+key: Java.D.DocumentEvent.ElementChange
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

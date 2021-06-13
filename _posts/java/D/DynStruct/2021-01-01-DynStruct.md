@@ -1,9 +1,9 @@
 ---
 title: DynStruct
-permalink: Java/DynStruct/
+permalink: /Java/DynStruct//
 date: 2021-01-11
-key: JavaJava.D.DynStruct
-category: java
+key: Java.D.DynStruct
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

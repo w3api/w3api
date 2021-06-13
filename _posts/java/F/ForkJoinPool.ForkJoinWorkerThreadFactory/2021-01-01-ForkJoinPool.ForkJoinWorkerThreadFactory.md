@@ -1,9 +1,9 @@
 ---
 title: ForkJoinPool.ForkJoinWorkerThreadFactory
-permalink: Java/ForkJoinPool/ForkJoinWorkerThreadFactory
+permalink: /Java/ForkJoinPool/ForkJoinWorkerThreadFactory/
 date: 2021-01-11
-key: JavaJava.F.ForkJoinPool.ForkJoinWorkerThreadFactory
-category: java
+key: Java.F.ForkJoinPool.ForkJoinWorkerThreadFactory
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

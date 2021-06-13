@@ -1,9 +1,9 @@
 ---
 title: FlavorListener
-permalink: Java/FlavorListener
+permalink: /Java/FlavorListener/
 date: 2021-01-11
-key: JavaJava.F.FlavorListener
-category: java
+key: Java.F.FlavorListener
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

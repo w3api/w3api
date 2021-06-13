@@ -1,9 +1,9 @@
 ---
 title: FactoryConfigurationError.getMessage()
-permalink: Java/FactoryConfigurationError-javax-xml-parsers/getMessage
+permalink: /Java/FactoryConfigurationError-javax-xml-parsers/getMessage/
 date: 2021-01-11
-key: JavaJava.F.FactoryConfigurationError-javax-xml-parsers
-category: java
+key: Java.F.FactoryConfigurationError-javax-xml-parsers
+category: Java
 tags: ['java se', 'javax.xml.parsers', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

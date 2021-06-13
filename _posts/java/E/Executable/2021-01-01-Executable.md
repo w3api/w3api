@@ -1,9 +1,9 @@
 ---
 title: Executable
-permalink: Java/Executable
+permalink: /Java/Executable/
 date: 2021-01-11
-key: JavaJava.E.Executable
-category: java
+key: Java.E.Executable
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

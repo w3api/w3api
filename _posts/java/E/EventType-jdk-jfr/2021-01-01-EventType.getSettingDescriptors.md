@@ -1,9 +1,9 @@
 ---
 title: EventType.getSettingDescriptors()
-permalink: Java/EventType-jdk-jfr/getSettingDescriptors
+permalink: /Java/EventType-jdk-jfr/getSettingDescriptors/
 date: 2021-01-11
-key: JavaJava.E.EventType-jdk-jfr
-category: java
+key: Java.E.EventType-jdk-jfr
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

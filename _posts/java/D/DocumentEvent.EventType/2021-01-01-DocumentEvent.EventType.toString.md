@@ -1,9 +1,9 @@
 ---
 title: DocumentEvent.EventType.toString()
-permalink: Java/DocumentEvent/EventType/toString
+permalink: /Java/DocumentEvent/EventType/toString/
 date: 2021-01-11
-key: JavaJava.D.DocumentEvent.EventType
-category: java
+key: Java.D.DocumentEvent.EventType
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Generated.comments
-permalink: Java/Generated-javax-annotation-processing/comments
+permalink: /Java/Generated-javax-annotation-processing/comments/
 date: 2021-01-11
-key: JavaJava.G.Generated-javax-annotation-processing
-category: java
+key: Java.G.Generated-javax-annotation-processing
+category: Java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'elemento java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DragSource.removeDragSourceMotionListener()
-permalink: Java/DragSource/removeDragSourceMotionListener
+permalink: /Java/DragSource/removeDragSourceMotionListener/
 date: 2021-01-11
-key: JavaJava.D.DragSource
-category: java
+key: Java.D.DragSource
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: EnhancedForLoopTree
-permalink: Java/EnhancedForLoopTree
+permalink: /Java/EnhancedForLoopTree/
 date: 2021-01-11
-key: JavaJava.E.EnhancedForLoopTree
-category: java
+key: Java.E.EnhancedForLoopTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

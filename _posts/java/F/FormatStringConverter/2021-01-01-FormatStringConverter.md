@@ -1,9 +1,9 @@
 ---
 title: FormatStringConverter
-permalink: Java/FormatStringConverter
+permalink: /Java/FormatStringConverter/
 date: 2021-01-11
-key: JavaJava.F.FormatStringConverter
-category: java
+key: Java.F.FormatStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'clase java', 'JavaFX 2.2']
 sidebar: 
   nav: java

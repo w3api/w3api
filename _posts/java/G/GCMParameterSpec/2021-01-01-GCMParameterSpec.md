@@ -1,9 +1,9 @@
 ---
 title: GCMParameterSpec
-permalink: Java/GCMParameterSpec
+permalink: /Java/GCMParameterSpec/
 date: 2021-01-11
-key: JavaJava.G.GCMParameterSpec
-category: java
+key: Java.G.GCMParameterSpec
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

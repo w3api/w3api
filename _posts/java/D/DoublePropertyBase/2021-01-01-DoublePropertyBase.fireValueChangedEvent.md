@@ -1,9 +1,9 @@
 ---
 title: DoublePropertyBase.fireValueChangedEvent()
-permalink: Java/DoublePropertyBase/fireValueChangedEvent
+permalink: /Java/DoublePropertyBase/fireValueChangedEvent/
 date: 2021-01-11
-key: JavaJava.D.DoublePropertyBase
-category: java
+key: Java.D.DoublePropertyBase
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

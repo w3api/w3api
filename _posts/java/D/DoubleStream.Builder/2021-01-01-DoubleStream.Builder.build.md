@@ -1,9 +1,9 @@
 ---
 title: DoubleStream.Builder.build()
-permalink: Java/DoubleStream/Builder/build
+permalink: /Java/DoubleStream/Builder/build/
 date: 2021-01-11
-key: JavaJava.D.DoubleStream.Builder
-category: java
+key: Java.D.DoubleStream.Builder
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

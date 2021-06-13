@@ -1,9 +1,9 @@
 ---
 title: EqualizerBand.MAX_GAIN
-permalink: Java/EqualizerBand/MAX_GAIN
+permalink: /Java/EqualizerBand/MAX_GAIN/
 date: 2021-01-11
-key: JavaJava.E.EqualizerBand
-category: java
+key: Java.E.EqualizerBand
+category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

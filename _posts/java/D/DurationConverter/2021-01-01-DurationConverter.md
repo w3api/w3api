@@ -1,9 +1,9 @@
 ---
 title: DurationConverter
-permalink: Java/DurationConverter
+permalink: /Java/DurationConverter/
 date: 2021-01-11
-key: JavaJava.D.DurationConverter
-category: java
+key: Java.D.DurationConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 
   nav: java

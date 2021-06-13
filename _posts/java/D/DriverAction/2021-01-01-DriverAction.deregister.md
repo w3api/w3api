@@ -1,9 +1,9 @@
 ---
 title: DriverAction.deregister()
-permalink: Java/DriverAction/deregister
+permalink: /Java/DriverAction/deregister/
 date: 2021-01-11
-key: JavaJava.D.DriverAction
-category: java
+key: Java.D.DriverAction
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

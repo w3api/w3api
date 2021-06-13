@@ -1,9 +1,9 @@
 ---
 title: EncryptedPrivateKeyInfo
-permalink: Java/EncryptedPrivateKeyInfo
+permalink: /Java/EncryptedPrivateKeyInfo/
 date: 2021-01-11
-key: JavaJava.E.EncryptedPrivateKeyInfo
-category: java
+key: Java.E.EncryptedPrivateKeyInfo
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

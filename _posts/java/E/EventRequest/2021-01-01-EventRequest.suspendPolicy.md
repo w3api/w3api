@@ -1,9 +1,9 @@
 ---
 title: EventRequest.suspendPolicy()
-permalink: Java/EventRequest/suspendPolicy
+permalink: /Java/EventRequest/suspendPolicy/
 date: 2021-01-11
-key: JavaJava.E.EventRequest
-category: java
+key: Java.E.EventRequest
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

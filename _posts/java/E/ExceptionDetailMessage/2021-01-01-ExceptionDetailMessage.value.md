@@ -1,9 +1,9 @@
 ---
 title: ExceptionDetailMessage.value
-permalink: Java/ExceptionDetailMessage/value
+permalink: /Java/ExceptionDetailMessage/value/
 date: 2021-01-11
-key: JavaJava.E.ExceptionDetailMessage
-category: java
+key: Java.E.ExceptionDetailMessage
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

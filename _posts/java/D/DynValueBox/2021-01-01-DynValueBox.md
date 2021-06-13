@@ -1,9 +1,9 @@
 ---
 title: DynValueBox
-permalink: Java/DynValueBox
+permalink: /Java/DynValueBox/
 date: 2021-01-11
-key: JavaJava.D.DynValueBox
-category: java
+key: Java.D.DynValueBox
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

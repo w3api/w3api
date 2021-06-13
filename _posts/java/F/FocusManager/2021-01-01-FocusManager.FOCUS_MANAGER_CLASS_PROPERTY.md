@@ -1,9 +1,9 @@
 ---
 title: FocusManager.FOCUS_MANAGER_CLASS_PROPERTY
-permalink: Java/FocusManager/FOCUS_MANAGER_CLASS_PROPERTY
+permalink: /Java/FocusManager/FOCUS_MANAGER_CLASS_PROPERTY/
 date: 2021-01-11
-key: JavaJava.F.FocusManager
-category: java
+key: Java.F.FocusManager
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

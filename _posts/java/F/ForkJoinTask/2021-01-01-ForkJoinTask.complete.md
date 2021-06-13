@@ -1,9 +1,9 @@
 ---
 title: ForkJoinTask.complete()
-permalink: Java/ForkJoinTask/complete
+permalink: /Java/ForkJoinTask/complete/
 date: 2021-01-11
-key: JavaJava.F.ForkJoinTask
-category: java
+key: Java.F.ForkJoinTask
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

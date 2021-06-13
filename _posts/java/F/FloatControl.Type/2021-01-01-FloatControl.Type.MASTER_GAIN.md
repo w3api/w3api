@@ -1,9 +1,9 @@
 ---
 title: FloatControl.Type.MASTER_GAIN
-permalink: Java/FloatControl/Type/MASTER_GAIN
+permalink: /Java/FloatControl/Type/MASTER_GAIN/
 date: 2021-01-11
-key: JavaJava.F.FloatControl.Type
-category: java
+key: Java.F.FloatControl.Type
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

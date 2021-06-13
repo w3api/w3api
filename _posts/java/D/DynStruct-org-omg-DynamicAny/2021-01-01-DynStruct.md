@@ -1,9 +1,9 @@
 ---
 title: DynStruct
-permalink: Java/DynStruct-org-omg-DynamicAny
+permalink: /Java/DynStruct-org-omg-DynamicAny/
 date: 2021-01-11
-key: JavaJava.D.DynStruct-org-omg-DynamicAny
-category: java
+key: Java.D.DynStruct-org-omg-DynamicAny
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

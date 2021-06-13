@@ -1,9 +1,9 @@
 ---
 title: FilteredRowSet.getFilter()
-permalink: Java/FilteredRowSet/getFilter
+permalink: /Java/FilteredRowSet/getFilter/
 date: 2021-01-11
-key: JavaJava.F.FilteredRowSet
-category: java
+key: Java.F.FilteredRowSet
+category: Java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FaxTIFFTagSet.TAG_CONSECUTIVE_BAD_LINES
-permalink: Java/FaxTIFFTagSet/TAG_CONSECUTIVE_BAD_LINES
+permalink: /Java/FaxTIFFTagSet/TAG_CONSECUTIVE_BAD_LINES/
 date: 2021-01-11
-key: JavaJava.F.FaxTIFFTagSet
-category: java
+key: Java.F.FaxTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

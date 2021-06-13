@@ -1,9 +1,9 @@
 ---
 title: ForkJoinPool.getUncaughtExceptionHandler()
-permalink: Java/ForkJoinPool/getUncaughtExceptionHandler
+permalink: /Java/ForkJoinPool/getUncaughtExceptionHandler/
 date: 2021-01-11
-key: JavaJava.F.ForkJoinPool
-category: java
+key: Java.F.ForkJoinPool
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

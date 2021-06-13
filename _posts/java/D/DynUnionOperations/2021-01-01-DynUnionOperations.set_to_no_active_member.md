@@ -1,9 +1,9 @@
 ---
 title: DynUnionOperations.set_to_no_active_member()
-permalink: Java/DynUnionOperations/set_to_no_active_member
+permalink: /Java/DynUnionOperations/set_to_no_active_member/
 date: 2021-01-11
-key: JavaJava.D.DynUnionOperations
-category: java
+key: Java.D.DynUnionOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

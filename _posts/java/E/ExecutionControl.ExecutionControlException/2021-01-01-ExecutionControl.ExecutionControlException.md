@@ -1,9 +1,9 @@
 ---
 title: ExecutionControl.ExecutionControlException
-permalink: Java/ExecutionControl/ExecutionControlException
+permalink: /Java/ExecutionControl/ExecutionControlException/
 date: 2021-01-11
-key: JavaJava.E.ExecutionControl.ExecutionControlException
-category: java
+key: Java.E.ExecutionControl.ExecutionControlException
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

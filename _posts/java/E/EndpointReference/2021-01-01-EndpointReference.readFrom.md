@@ -1,9 +1,9 @@
 ---
 title: EndpointReference.readFrom()
-permalink: Java/EndpointReference/readFrom
+permalink: /Java/EndpointReference/readFrom/
 date: 2021-01-11
-key: JavaJava.E.EndpointReference
-category: java
+key: Java.E.EndpointReference
+category: Java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'metodo java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DoubleStringConverter
-permalink: Java/DoubleStringConverter
+permalink: /Java/DoubleStringConverter/
 date: 2021-01-11
-key: JavaJava.D.DoubleStringConverter
-category: java
+key: Java.D.DoubleStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

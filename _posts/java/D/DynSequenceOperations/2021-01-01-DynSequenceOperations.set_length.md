@@ -1,9 +1,9 @@
 ---
 title: DynSequenceOperations.set_length()
-permalink: Java/DynSequenceOperations/set_length
+permalink: /Java/DynSequenceOperations/set_length/
 date: 2021-01-11
-key: JavaJava.D.DynSequenceOperations
-category: java
+key: Java.D.DynSequenceOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

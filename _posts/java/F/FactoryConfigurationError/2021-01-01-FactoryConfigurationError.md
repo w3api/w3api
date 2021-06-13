@@ -1,9 +1,9 @@
 ---
 title: FactoryConfigurationError
-permalink: Java/FactoryConfigurationError/
+permalink: /Java/FactoryConfigurationError//
 date: 2021-01-11
-key: JavaJava.F.FactoryConfigurationError
-category: java
+key: Java.F.FactoryConfigurationError
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

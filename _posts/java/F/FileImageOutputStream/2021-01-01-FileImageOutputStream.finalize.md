@@ -1,9 +1,9 @@
 ---
 title: FileImageOutputStream.finalize()
-permalink: Java/FileImageOutputStream/finalize
+permalink: /Java/FileImageOutputStream/finalize/
 date: 2021-01-11
-key: JavaJava.F.FileImageOutputStream
-category: java
+key: Java.F.FileImageOutputStream
+category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

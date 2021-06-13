@@ -1,9 +1,9 @@
 ---
 title: EventHandler.EventHandler()
-permalink: Java/EventHandler-java-beans/EventHandler
+permalink: /Java/EventHandler-java-beans/EventHandler/
 date: 2021-01-11
-key: JavaJava.E.EventHandler-java-beans
-category: java
+key: Java.E.EventHandler-java-beans
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ECFieldFp.ECFieldFp()
-permalink: Java/ECFieldFp/ECFieldFp
+permalink: /Java/ECFieldFp/ECFieldFp/
 date: 2021-01-11
-key: JavaJava.E.ECFieldFp
-category: java
+key: Java.E.ECFieldFp
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

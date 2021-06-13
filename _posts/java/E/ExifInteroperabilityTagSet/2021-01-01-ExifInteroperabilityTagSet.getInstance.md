@@ -1,9 +1,9 @@
 ---
 title: ExifInteroperabilityTagSet.getInstance()
-permalink: Java/ExifInteroperabilityTagSet/getInstance
+permalink: /Java/ExifInteroperabilityTagSet/getInstance/
 date: 2021-01-11
-key: JavaJava.E.ExifInteroperabilityTagSet
-category: java
+key: Java.E.ExifInteroperabilityTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

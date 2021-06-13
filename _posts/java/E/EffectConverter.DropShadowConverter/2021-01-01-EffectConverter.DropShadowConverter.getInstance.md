@@ -1,9 +1,9 @@
 ---
 title: EffectConverter.DropShadowConverter.getInstance()
-permalink: Java/EffectConverter/DropShadowConverter/getInstance
+permalink: /Java/EffectConverter/DropShadowConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.E.EffectConverter.DropShadowConverter
-category: java
+key: Java.E.EffectConverter.DropShadowConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

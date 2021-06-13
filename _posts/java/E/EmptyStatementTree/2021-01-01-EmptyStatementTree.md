@@ -1,9 +1,9 @@
 ---
 title: EmptyStatementTree
-permalink: Java/EmptyStatementTree/
+permalink: /Java/EmptyStatementTree//
 date: 2021-01-11
-key: JavaJava.E.EmptyStatementTree
-category: java
+key: Java.E.EmptyStatementTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

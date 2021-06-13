@@ -1,9 +1,9 @@
 ---
 title: DropTarget.DropTargetAutoScroller.updateLocation()
-permalink: Java/DropTarget/DropTargetAutoScroller/updateLocation
+permalink: /Java/DropTarget/DropTargetAutoScroller/updateLocation/
 date: 2021-01-11
-key: JavaJava.D.DropTarget.DropTargetAutoScroller
-category: java
+key: Java.D.DropTarget.DropTargetAutoScroller
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

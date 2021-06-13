@@ -1,9 +1,9 @@
 ---
 title: DomainLoadStoreParameter.getProtectionParameter()
-permalink: Java/DomainLoadStoreParameter/getProtectionParameter
+permalink: /Java/DomainLoadStoreParameter/getProtectionParameter/
 date: 2021-01-11
-key: JavaJava.D.DomainLoadStoreParameter
-category: java
+key: Java.D.DomainLoadStoreParameter
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

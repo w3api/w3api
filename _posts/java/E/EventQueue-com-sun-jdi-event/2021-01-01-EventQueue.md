@@ -1,9 +1,9 @@
 ---
 title: EventQueue
-permalink: Java/EventQueue-com-sun-jdi-event
+permalink: /Java/EventQueue-com-sun-jdi-event/
 date: 2021-01-11
-key: JavaJava.E.EventQueue-com-sun-jdi-event
-category: java
+key: Java.E.EventQueue-com-sun-jdi-event
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DrbgParameters.Capability.supportsPredictionResistance()
-permalink: Java/DrbgParameters/Capability/supportsPredictionResistance
+permalink: /Java/DrbgParameters/Capability/supportsPredictionResistance/
 date: 2021-01-11
-key: JavaJava.D.DrbgParameters.Capability
-category: java
+key: Java.D.DrbgParameters.Capability
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

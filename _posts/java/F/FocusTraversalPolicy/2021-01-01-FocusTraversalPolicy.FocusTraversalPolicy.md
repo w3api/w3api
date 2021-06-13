@@ -1,9 +1,9 @@
 ---
 title: FocusTraversalPolicy.FocusTraversalPolicy()
-permalink: Java/FocusTraversalPolicy/FocusTraversalPolicy
+permalink: /Java/FocusTraversalPolicy/FocusTraversalPolicy/
 date: 2021-01-11
-key: JavaJava.F.FocusTraversalPolicy
-category: java
+key: Java.F.FocusTraversalPolicy
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

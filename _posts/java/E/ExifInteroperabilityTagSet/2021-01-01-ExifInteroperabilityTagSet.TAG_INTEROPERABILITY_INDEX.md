@@ -1,9 +1,9 @@
 ---
 title: ExifInteroperabilityTagSet.TAG_INTEROPERABILITY_INDEX
-permalink: Java/ExifInteroperabilityTagSet/TAG_INTEROPERABILITY_INDEX
+permalink: /Java/ExifInteroperabilityTagSet/TAG_INTEROPERABILITY_INDEX/
 date: 2021-01-11
-key: JavaJava.E.ExifInteroperabilityTagSet
-category: java
+key: Java.E.ExifInteroperabilityTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

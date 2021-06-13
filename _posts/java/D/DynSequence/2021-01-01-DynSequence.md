@@ -1,9 +1,9 @@
 ---
 title: DynSequence
-permalink: Java/DynSequence/
+permalink: /Java/DynSequence//
 date: 2021-01-11
-key: JavaJava.D.DynSequence
-category: java
+key: Java.D.DynSequence
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FileVisitOption
-permalink: Java/FileVisitOption
+permalink: /Java/FileVisitOption/
 date: 2021-01-11
-key: JavaJava.F.FileVisitOption
-category: java
+key: Java.F.FileVisitOption
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'enumerado java', 'Java 1.7']
 sidebar: 
   nav: java

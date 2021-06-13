@@ -1,9 +1,9 @@
 ---
 title: ExtendedSocketOptions
-permalink: Java/ExtendedSocketOptions
+permalink: /Java/ExtendedSocketOptions/
 date: 2021-01-11
-key: JavaJava.E.ExtendedSocketOptions
-category: java
+key: Java.E.ExtendedSocketOptions
+category: Java
 tags: ['java se', 'jdk.net', 'jdk.net', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

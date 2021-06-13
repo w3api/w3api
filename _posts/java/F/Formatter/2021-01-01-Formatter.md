@@ -1,9 +1,9 @@
 ---
 title: Formatter
-permalink: Java/Formatter/
+permalink: /Java/Formatter//
 date: 2021-01-11
-key: JavaJava.F.Formatter
-category: java
+key: Java.F.Formatter
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: GlyphVector.FLAG_HAS_POSITION_ADJUSTMENTS
-permalink: Java/GlyphVector/FLAG_HAS_POSITION_ADJUSTMENTS
+permalink: /Java/GlyphVector/FLAG_HAS_POSITION_ADJUSTMENTS/
 date: 2021-01-11
-key: JavaJava.G.GlyphVector
-category: java
+key: Java.G.GlyphVector
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

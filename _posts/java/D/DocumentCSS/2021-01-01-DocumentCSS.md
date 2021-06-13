@@ -1,9 +1,9 @@
 ---
 title: DocumentCSS
-permalink: Java/DocumentCSS
+permalink: /Java/DocumentCSS/
 date: 2021-01-11
-key: JavaJava.D.DocumentCSS
-category: java
+key: Java.D.DocumentCSS
+category: Java
 tags: ['java se', 'org.w3c.dom.css', 'jdk.xml.dom', 'interface java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

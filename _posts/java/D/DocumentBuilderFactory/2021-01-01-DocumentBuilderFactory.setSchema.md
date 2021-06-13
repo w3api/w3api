@@ -1,9 +1,9 @@
 ---
 title: DocumentBuilderFactory.setSchema()
-permalink: Java/DocumentBuilderFactory/setSchema
+permalink: /Java/DocumentBuilderFactory/setSchema/
 date: 2021-01-11
-key: JavaJava.D.DocumentBuilderFactory
-category: java
+key: Java.D.DocumentBuilderFactory
+category: Java
 tags: ['java se', 'javax.xml.parsers', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

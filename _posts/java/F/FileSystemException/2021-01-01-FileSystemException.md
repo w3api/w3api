@@ -1,9 +1,9 @@
 ---
 title: FileSystemException
-permalink: Java/FileSystemException
+permalink: /Java/FileSystemException/
 date: 2021-01-11
-key: JavaJava.F.FileSystemException
-category: java
+key: Java.F.FileSystemException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

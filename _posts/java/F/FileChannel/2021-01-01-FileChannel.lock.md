@@ -1,9 +1,9 @@
 ---
 title: FileChannel.lock()
-permalink: Java/FileChannel/lock
+permalink: /Java/FileChannel/lock/
 date: 2021-01-11
-key: JavaJava.F.FileChannel
-category: java
+key: Java.F.FileChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

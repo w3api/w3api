@@ -1,9 +1,9 @@
 ---
 title: FileFilter
-permalink: Java/FileFilter/
+permalink: /Java/FileFilter//
 date: 2021-01-11
-key: JavaJava.F.FileFilter
-category: java
+key: Java.F.FileFilter
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

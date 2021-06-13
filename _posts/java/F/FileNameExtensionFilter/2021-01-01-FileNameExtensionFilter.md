@@ -1,9 +1,9 @@
 ---
 title: FileNameExtensionFilter
-permalink: Java/FileNameExtensionFilter
+permalink: /Java/FileNameExtensionFilter/
 date: 2021-01-11
-key: JavaJava.F.FileNameExtensionFilter
-category: java
+key: Java.F.FileNameExtensionFilter
+category: Java
 tags: ['java se', 'javax.swing.filechooser', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DoubleSupplier.getAsDouble()
-permalink: Java/DoubleSupplier/getAsDouble
+permalink: /Java/DoubleSupplier/getAsDouble/
 date: 2021-01-11
-key: JavaJava.D.DoubleSupplier
-category: java
+key: Java.D.DoubleSupplier
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

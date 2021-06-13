@@ -1,9 +1,9 @@
 ---
 title: FocusTraversalPolicy.getLastComponent()
-permalink: Java/FocusTraversalPolicy/getLastComponent
+permalink: /Java/FocusTraversalPolicy/getLastComponent/
 date: 2021-01-11
-key: JavaJava.F.FocusTraversalPolicy
-category: java
+key: Java.F.FocusTraversalPolicy
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FormatMismatchHelper
-permalink: Java/FormatMismatchHelper
+permalink: /Java/FormatMismatchHelper/
 date: 2021-01-11
-key: JavaJava.F.FormatMismatchHelper
-category: java
+key: Java.F.FormatMismatchHelper
+category: Java
 tags: ['java se', 'org.omg.IOP.CodecPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

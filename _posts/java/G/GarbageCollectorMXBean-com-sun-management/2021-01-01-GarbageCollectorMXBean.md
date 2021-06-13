@@ -1,9 +1,9 @@
 ---
 title: GarbageCollectorMXBean
-permalink: Java/GarbageCollectorMXBean-com-sun-management
+permalink: /Java/GarbageCollectorMXBean-com-sun-management/
 date: 2021-01-11
-key: JavaJava.G.GarbageCollectorMXBean-com-sun-management
-category: java
+key: Java.G.GarbageCollectorMXBean-com-sun-management
+category: Java
 tags: ['java se', 'com.sun.management', 'jdk.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

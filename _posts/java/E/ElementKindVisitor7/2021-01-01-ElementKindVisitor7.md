@@ -1,9 +1,9 @@
 ---
 title: ElementKindVisitor7
-permalink: Java/ElementKindVisitor7
+permalink: /Java/ElementKindVisitor7/
 date: 2021-01-11
-key: JavaJava.E.ElementKindVisitor7
-category: java
+key: Java.E.ElementKindVisitor7
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

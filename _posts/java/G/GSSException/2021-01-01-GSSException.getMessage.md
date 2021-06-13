@@ -1,9 +1,9 @@
 ---
 title: GSSException.getMessage()
-permalink: Java/GSSException/getMessage
+permalink: /Java/GSSException/getMessage/
 date: 2021-01-11
-key: JavaJava.G.GSSException
-category: java
+key: Java.G.GSSException
+category: Java
 tags: ['java se', 'org.ietf.jgss', 'java.security.jgss', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

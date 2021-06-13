@@ -1,9 +1,9 @@
 ---
 title: ElementKind.isClass()
-permalink: Java/ElementKind/isClass
+permalink: /Java/ElementKind/isClass/
 date: 2021-01-11
-key: JavaJava.E.ElementKind
-category: java
+key: Java.E.ElementKind
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

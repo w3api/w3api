@@ -1,9 +1,9 @@
 ---
 title: FileVisitResult.values()
-permalink: Java/FileVisitResult/values
+permalink: /Java/FileVisitResult/values/
 date: 2021-01-11
-key: JavaJava.F.FileVisitResult
-category: java
+key: Java.F.FileVisitResult
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

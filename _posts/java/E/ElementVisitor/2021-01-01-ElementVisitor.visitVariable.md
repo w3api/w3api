@@ -1,9 +1,9 @@
 ---
 title: ElementVisitor.visitVariable()
-permalink: Java/ElementVisitor/visitVariable
+permalink: /Java/ElementVisitor/visitVariable/
 date: 2021-01-11
-key: JavaJava.E.ElementVisitor
-category: java
+key: Java.E.ElementVisitor
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

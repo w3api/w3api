@@ -1,9 +1,9 @@
 ---
 title: ElementKindVisitor8.ElementKindVisitor8()
-permalink: Java/ElementKindVisitor8/ElementKindVisitor8
+permalink: /Java/ElementKindVisitor8/ElementKindVisitor8/
 date: 2021-01-11
-key: JavaJava.E.ElementKindVisitor8
-category: java
+key: Java.E.ElementKindVisitor8
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

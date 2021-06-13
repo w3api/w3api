@@ -1,9 +1,9 @@
 ---
 title: FunctionCallTree
-permalink: Java/FunctionCallTree
+permalink: /Java/FunctionCallTree/
 date: 2021-01-11
-key: JavaJava.F.FunctionCallTree
-category: java
+key: Java.F.FunctionCallTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 9']
 sidebar: 
   nav: java

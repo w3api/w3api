@@ -1,9 +1,9 @@
 ---
 title: FXPermission.FXPermission()
-permalink: Java/FXPermission/FXPermission
+permalink: /Java/FXPermission/FXPermission/
 date: 2021-01-11
-key: JavaJava.F.FXPermission
-category: java
+key: Java.F.FXPermission
+category: Java
 tags: ['java se', 'javafx.util', 'javafx.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

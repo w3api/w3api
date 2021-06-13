@@ -1,9 +1,9 @@
 ---
 title: EventListener
-permalink: Java/EventListener-org-w3c-dom-events
+permalink: /Java/EventListener-org-w3c-dom-events/
 date: 2021-01-11
-key: JavaJava.E.EventListener-org-w3c-dom-events
-category: java
+key: Java.E.EventListener-org-w3c-dom-events
+category: Java
 tags: ['java se', 'org.w3c.dom.events', 'java.xml', 'interface java', 'Java 1.5', 'DOM Level 2']
 sidebar: 
   nav: java

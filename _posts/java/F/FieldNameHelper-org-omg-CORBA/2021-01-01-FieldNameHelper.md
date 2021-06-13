@@ -1,9 +1,9 @@
 ---
 title: FieldNameHelper
-permalink: Java/FieldNameHelper-org-omg-CORBA
+permalink: /Java/FieldNameHelper-org-omg-CORBA/
 date: 2021-01-11
-key: JavaJava.F.FieldNameHelper-org-omg-CORBA
-category: java
+key: Java.F.FieldNameHelper-org-omg-CORBA
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

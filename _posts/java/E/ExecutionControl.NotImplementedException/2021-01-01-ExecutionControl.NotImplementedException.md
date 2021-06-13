@@ -1,9 +1,9 @@
 ---
 title: ExecutionControl.NotImplementedException
-permalink: Java/ExecutionControl/NotImplementedException
+permalink: /Java/ExecutionControl/NotImplementedException/
 date: 2021-01-11
-key: JavaJava.E.ExecutionControl.NotImplementedException
-category: java
+key: Java.E.ExecutionControl.NotImplementedException
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

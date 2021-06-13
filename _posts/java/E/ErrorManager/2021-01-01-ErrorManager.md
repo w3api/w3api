@@ -1,9 +1,9 @@
 ---
 title: ErrorManager
-permalink: Java/ErrorManager
+permalink: /Java/ErrorManager/
 date: 2021-01-11
-key: JavaJava.E.ErrorManager
-category: java
+key: Java.E.ErrorManager
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

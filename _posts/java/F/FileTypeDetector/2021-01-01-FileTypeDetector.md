@@ -1,9 +1,9 @@
 ---
 title: FileTypeDetector
-permalink: Java/FileTypeDetector
+permalink: /Java/FileTypeDetector/
 date: 2021-01-11
-key: JavaJava.F.FileTypeDetector
-category: java
+key: Java.F.FileTypeDetector
+category: Java
 tags: ['java se', 'java.nio.file.spi', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

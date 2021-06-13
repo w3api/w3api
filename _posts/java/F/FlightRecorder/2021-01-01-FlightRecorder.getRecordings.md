@@ -1,9 +1,9 @@
 ---
 title: FlightRecorder.getRecordings()
-permalink: Java/FlightRecorder/getRecordings
+permalink: /Java/FlightRecorder/getRecordings/
 date: 2021-01-11
-key: JavaJava.F.FlightRecorder
-category: java
+key: Java.F.FlightRecorder
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

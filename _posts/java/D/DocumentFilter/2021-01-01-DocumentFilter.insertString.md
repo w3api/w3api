@@ -1,9 +1,9 @@
 ---
 title: DocumentFilter.insertString()
-permalink: Java/DocumentFilter/insertString
+permalink: /Java/DocumentFilter/insertString/
 date: 2021-01-11
-key: JavaJava.D.DocumentFilter
-category: java
+key: Java.D.DocumentFilter
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

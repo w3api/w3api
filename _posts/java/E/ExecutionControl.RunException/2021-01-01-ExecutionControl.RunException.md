@@ -1,9 +1,9 @@
 ---
 title: ExecutionControl.RunException
-permalink: Java/ExecutionControl/RunException
+permalink: /Java/ExecutionControl/RunException/
 date: 2021-01-11
-key: JavaJava.E.ExecutionControl.RunException
-category: java
+key: Java.E.ExecutionControl.RunException
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

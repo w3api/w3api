@@ -1,9 +1,9 @@
 ---
 title: FileVisitResult.SKIP_SIBLINGS
-permalink: Java/FileVisitResult/SKIP_SIBLINGS
+permalink: /Java/FileVisitResult/SKIP_SIBLINGS/
 date: 2021-01-11
-key: JavaJava.F.FileVisitResult
-category: java
+key: Java.F.FileVisitResult
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

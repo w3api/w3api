@@ -1,9 +1,9 @@
 ---
 title: ElementFilter
-permalink: Java/ElementFilter
+permalink: /Java/ElementFilter/
 date: 2021-01-11
 key: Java.E.ElementFilter
-category: java
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

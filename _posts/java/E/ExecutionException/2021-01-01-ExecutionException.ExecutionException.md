@@ -1,9 +1,9 @@
 ---
 title: ExecutionException.ExecutionException()
-permalink: Java/ExecutionException/ExecutionException
+permalink: /Java/ExecutionException/ExecutionException/
 date: 2021-01-11
-key: JavaJava.E.ExecutionException
-category: java
+key: Java.E.ExecutionException
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

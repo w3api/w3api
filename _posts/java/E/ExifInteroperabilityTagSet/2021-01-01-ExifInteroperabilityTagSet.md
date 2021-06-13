@@ -1,9 +1,9 @@
 ---
 title: ExifInteroperabilityTagSet
-permalink: Java/ExifInteroperabilityTagSet
+permalink: /Java/ExifInteroperabilityTagSet/
 date: 2021-01-11
-key: JavaJava.E.ExifInteroperabilityTagSet
-category: java
+key: Java.E.ExifInteroperabilityTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

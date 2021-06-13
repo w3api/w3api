@@ -1,9 +1,9 @@
 ---
 title: FlightRecorderListener.recordingStateChanged()
-permalink: Java/FlightRecorderListener/recordingStateChanged
+permalink: /Java/FlightRecorderListener/recordingStateChanged/
 date: 2021-01-11
-key: JavaJava.F.FlightRecorderListener
-category: java
+key: Java.F.FlightRecorderListener
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

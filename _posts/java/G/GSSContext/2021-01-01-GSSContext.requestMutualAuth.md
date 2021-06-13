@@ -1,9 +1,9 @@
 ---
 title: GSSContext.requestMutualAuth()
-permalink: Java/GSSContext/requestMutualAuth
+permalink: /Java/GSSContext/requestMutualAuth/
 date: 2021-01-11
-key: JavaJava.G.GSSContext
-category: java
+key: Java.G.GSSContext
+category: Java
 tags: ['java se', 'org.ietf.jgss', 'java.security.jgss', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

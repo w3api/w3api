@@ -1,9 +1,9 @@
 ---
 title: EventObject.toString()
-permalink: Java/EventObject/toString
+permalink: /Java/EventObject/toString/
 date: 2021-01-11
-key: JavaJava.E.EventObject
-category: java
+key: Java.E.EventObject
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

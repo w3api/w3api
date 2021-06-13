@@ -1,9 +1,9 @@
 ---
 title: DocTypeTree
-permalink: Java/DocTypeTree
+permalink: /Java/DocTypeTree/
 date: 2021-01-11
-key: JavaJava.D.DocTypeTree
-category: java
+key: Java.D.DocTypeTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', '10']
 sidebar: 
   nav: java

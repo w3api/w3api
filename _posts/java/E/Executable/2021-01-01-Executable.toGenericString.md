@@ -1,9 +1,9 @@
 ---
 title: Executable.toGenericString()
-permalink: Java/Executable/toGenericString
+permalink: /Java/Executable/toGenericString/
 date: 2021-01-11
-key: JavaJava.E.Executable
-category: java
+key: Java.E.Executable
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

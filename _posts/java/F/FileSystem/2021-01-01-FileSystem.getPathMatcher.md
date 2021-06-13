@@ -1,9 +1,9 @@
 ---
 title: FileSystem.getPathMatcher()
-permalink: Java/FileSystem/getPathMatcher
+permalink: /Java/FileSystem/getPathMatcher/
 date: 2021-01-11
-key: JavaJava.F.FileSystem
-category: java
+key: Java.F.FileSystem
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

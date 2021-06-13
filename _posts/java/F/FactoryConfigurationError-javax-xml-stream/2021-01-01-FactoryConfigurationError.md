@@ -1,9 +1,9 @@
 ---
 title: FactoryConfigurationError
-permalink: Java/FactoryConfigurationError-javax-xml-stream
+permalink: /Java/FactoryConfigurationError-javax-xml-stream/
 date: 2021-01-11
-key: JavaJava.F.FactoryConfigurationError-javax-xml-stream
-category: java
+key: Java.F.FactoryConfigurationError-javax-xml-stream
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

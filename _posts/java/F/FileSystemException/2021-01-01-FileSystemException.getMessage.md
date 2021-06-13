@@ -1,9 +1,9 @@
 ---
 title: FileSystemException.getMessage()
-permalink: Java/FileSystemException/getMessage
+permalink: /Java/FileSystemException/getMessage/
 date: 2021-01-11
-key: JavaJava.F.FileSystemException
-category: java
+key: Java.F.FileSystemException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

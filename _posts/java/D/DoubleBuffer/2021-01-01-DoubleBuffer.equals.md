@@ -1,9 +1,9 @@
 ---
 title: DoubleBuffer.equals()
-permalink: Java/DoubleBuffer/equals
+permalink: /Java/DoubleBuffer/equals/
 date: 2021-01-11
-key: JavaJava.D.DoubleBuffer
-category: java
+key: Java.D.DoubleBuffer
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DuplicateFormatFlagsException
-permalink: Java/DuplicateFormatFlagsException
+permalink: /Java/DuplicateFormatFlagsException/
 date: 2021-01-11
-key: JavaJava.D.DuplicateFormatFlagsException
-category: java
+key: Java.D.DuplicateFormatFlagsException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

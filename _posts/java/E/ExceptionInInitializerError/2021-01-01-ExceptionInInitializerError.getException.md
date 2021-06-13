@@ -1,9 +1,9 @@
 ---
 title: ExceptionInInitializerError.getException()
-permalink: Java/ExceptionInInitializerError/getException
+permalink: /Java/ExceptionInInitializerError/getException/
 date: 2021-01-11
-key: JavaJava.E.ExceptionInInitializerError
-category: java
+key: Java.E.ExceptionInInitializerError
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

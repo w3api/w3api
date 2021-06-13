@@ -1,9 +1,9 @@
 ---
 title: FormSubmitEvent.getMethod()
-permalink: Java/FormSubmitEvent/getMethod
+permalink: /Java/FormSubmitEvent/getMethod/
 date: 2021-01-11
-key: JavaJava.F.FormSubmitEvent
-category: java
+key: Java.F.FormSubmitEvent
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

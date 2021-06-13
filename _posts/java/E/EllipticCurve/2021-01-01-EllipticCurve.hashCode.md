@@ -1,9 +1,9 @@
 ---
 title: EllipticCurve.hashCode()
-permalink: Java/EllipticCurve/hashCode
+permalink: /Java/EllipticCurve/hashCode/
 date: 2021-01-11
-key: JavaJava.E.EllipticCurve
-category: java
+key: Java.E.EllipticCurve
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

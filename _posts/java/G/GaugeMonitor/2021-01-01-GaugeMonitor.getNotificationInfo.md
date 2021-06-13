@@ -1,9 +1,9 @@
 ---
 title: GaugeMonitor.getNotificationInfo()
-permalink: Java/GaugeMonitor/getNotificationInfo
+permalink: /Java/GaugeMonitor/getNotificationInfo/
 date: 2021-01-11
-key: JavaJava.G.GaugeMonitor
-category: java
+key: Java.G.GaugeMonitor
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

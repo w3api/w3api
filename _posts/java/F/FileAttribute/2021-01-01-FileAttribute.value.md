@@ -1,9 +1,9 @@
 ---
 title: FileAttribute.value()
-permalink: Java/FileAttribute/value
+permalink: /Java/FileAttribute/value/
 date: 2021-01-11
-key: JavaJava.F.FileAttribute
-category: java
+key: Java.F.FileAttribute
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

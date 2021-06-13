@@ -1,9 +1,9 @@
 ---
 title: FormattableFlags.ALTERNATE
-permalink: Java/FormattableFlags/ALTERNATE
+permalink: /Java/FormattableFlags/ALTERNATE/
 date: 2021-01-11
-key: JavaJava.F.FormattableFlags
-category: java
+key: Java.F.FormattableFlags
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FeatureDescriptor.isHidden()
-permalink: Java/FeatureDescriptor/isHidden
+permalink: /Java/FeatureDescriptor/isHidden/
 date: 2021-01-11
-key: JavaJava.F.FeatureDescriptor
-category: java
+key: Java.F.FeatureDescriptor
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

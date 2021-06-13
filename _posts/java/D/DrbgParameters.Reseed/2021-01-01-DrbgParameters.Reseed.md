@@ -1,9 +1,9 @@
 ---
 title: DrbgParameters.Reseed
-permalink: Java/DrbgParameters/Reseed
+permalink: /Java/DrbgParameters/Reseed/
 date: 2021-01-11
-key: JavaJava.D.DrbgParameters.Reseed
-category: java
+key: Java.D.DrbgParameters.Reseed
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 9']
 sidebar: 
   nav: java

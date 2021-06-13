@@ -1,8 +1,8 @@
 ---
 title: ExifTIFFTagSet.COMPONENTS_CONFIGURATION_CB
-permalink: Java/ExifTIFFTagSet/COMPONENTS_CONFIGURATION_CB
+permalink: /Java/ExifTIFFTagSet/COMPONENTS_CONFIGURATION_CB/
 date: 2021-01-11
-key: JavaJava.E.ExifTIFFTagSet
+key: Java.E.ExifTIFFTagSet
 category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 

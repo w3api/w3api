@@ -1,9 +1,9 @@
 ---
 title: DrbgParameters.Instantiation.getCapability()
-permalink: Java/DrbgParameters/Instantiation/getCapability
+permalink: /Java/DrbgParameters/Instantiation/getCapability/
 date: 2021-01-11
-key: JavaJava.D.DrbgParameters.Instantiation
-category: java
+key: Java.D.DrbgParameters.Instantiation
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

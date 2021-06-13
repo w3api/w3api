@@ -1,9 +1,9 @@
 ---
 title: DropTargetListener
-permalink: Java/DropTargetListener
+permalink: /Java/DropTargetListener/
 date: 2021-01-11
-key: JavaJava.D.DropTargetListener
-category: java
+key: Java.D.DropTargetListener
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

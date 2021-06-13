@@ -1,9 +1,9 @@
 ---
 title: ExemptionMechanismException.ExemptionMechanismException()
-permalink: Java/ExemptionMechanismException/ExemptionMechanismException
+permalink: /Java/ExemptionMechanismException/ExemptionMechanismException/
 date: 2021-01-11
 key: Java.E.ExemptionMechanismException
-category: java
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

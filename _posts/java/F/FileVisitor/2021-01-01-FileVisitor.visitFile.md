@@ -1,9 +1,9 @@
 ---
 title: FileVisitor.visitFile()
-permalink: Java/FileVisitor/visitFile
+permalink: /Java/FileVisitor/visitFile/
 date: 2021-01-11
-key: JavaJava.F.FileVisitor
-category: java
+key: Java.F.FileVisitor
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

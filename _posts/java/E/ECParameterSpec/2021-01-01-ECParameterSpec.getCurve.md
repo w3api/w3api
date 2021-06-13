@@ -1,9 +1,9 @@
 ---
 title: ECParameterSpec.getCurve()
-permalink: Java/ECParameterSpec/getCurve
+permalink: /Java/ECParameterSpec/getCurve/
 date: 2021-01-11
-key: JavaJava.E.ECParameterSpec
-category: java
+key: Java.E.ECParameterSpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

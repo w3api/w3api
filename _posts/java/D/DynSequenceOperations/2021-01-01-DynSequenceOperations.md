@@ -1,9 +1,9 @@
 ---
 title: DynSequenceOperations
-permalink: Java/DynSequenceOperations
+permalink: /Java/DynSequenceOperations/
 date: 2021-01-11
-key: JavaJava.D.DynSequenceOperations
-category: java
+key: Java.D.DynSequenceOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

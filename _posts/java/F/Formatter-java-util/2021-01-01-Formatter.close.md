@@ -1,9 +1,9 @@
 ---
 title: Formatter.close()
-permalink: Java/Formatter-java-util/close
+permalink: /Java/Formatter-java-util/close/
 date: 2021-01-11
-key: JavaJava.F.Formatter-java-util
-category: java
+key: Java.F.Formatter-java-util
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ExcC14NParameterSpec.ExcC14NParameterSpec()
-permalink: Java/ExcC14NParameterSpec/ExcC14NParameterSpec
+permalink: /Java/ExcC14NParameterSpec/ExcC14NParameterSpec/
 date: 2021-01-11
-key: JavaJava.E.ExcC14NParameterSpec
-category: java
+key: Java.E.ExcC14NParameterSpec
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

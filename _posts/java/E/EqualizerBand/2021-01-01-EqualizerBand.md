@@ -1,9 +1,9 @@
 ---
 title: EqualizerBand
-permalink: Java/EqualizerBand
+permalink: /Java/EqualizerBand/
 date: 2021-01-11
-key: JavaJava.E.EqualizerBand
-category: java
+key: Java.E.EqualizerBand
+category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

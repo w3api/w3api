@@ -1,9 +1,9 @@
 ---
 title: FileLockInterruptionException
-permalink: Java/FileLockInterruptionException
+permalink: /Java/FileLockInterruptionException/
 date: 2021-01-11
-key: JavaJava.F.FileLockInterruptionException
-category: java
+key: Java.F.FileLockInterruptionException
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

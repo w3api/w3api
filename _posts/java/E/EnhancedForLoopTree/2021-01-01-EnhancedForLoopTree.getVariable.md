@@ -1,9 +1,9 @@
 ---
 title: EnhancedForLoopTree.getVariable()
-permalink: Java/EnhancedForLoopTree/getVariable
+permalink: /Java/EnhancedForLoopTree/getVariable/
 date: 2021-01-11
-key: JavaJava.E.EnhancedForLoopTree
-category: java
+key: Java.E.EnhancedForLoopTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

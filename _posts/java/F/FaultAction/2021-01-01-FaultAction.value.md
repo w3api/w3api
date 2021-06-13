@@ -1,9 +1,9 @@
 ---
 title: FaultAction.value
-permalink: Java/FaultAction/value
+permalink: /Java/FaultAction/value/
 date: 2021-01-11
-key: JavaJava.F.FaultAction
-category: java
+key: Java.F.FaultAction
+category: Java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'elemento java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DocTreeFactory
-permalink: Java/DocTreeFactory
+permalink: /Java/DocTreeFactory/
 date: 2021-01-11
-key: JavaJava.D.DocTreeFactory
-category: java
+key: Java.D.DocTreeFactory
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'interface java', 'Java 9']
 sidebar: 
   nav: java

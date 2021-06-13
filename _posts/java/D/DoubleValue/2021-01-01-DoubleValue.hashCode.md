@@ -1,9 +1,9 @@
 ---
 title: DoubleValue.hashCode()
-permalink: Java/DoubleValue/hashCode
+permalink: /Java/DoubleValue/hashCode/
 date: 2021-01-11
-key: JavaJava.D.DoubleValue
-category: java
+key: Java.D.DoubleValue
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

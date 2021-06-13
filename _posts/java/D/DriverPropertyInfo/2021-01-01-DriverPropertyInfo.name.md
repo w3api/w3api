@@ -1,9 +1,9 @@
 ---
 title: DriverPropertyInfo.name
-permalink: Java/DriverPropertyInfo/name
+permalink: /Java/DriverPropertyInfo/name/
 date: 2021-01-11
-key: JavaJava.D.DriverPropertyInfo
-category: java
+key: Java.D.DriverPropertyInfo
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

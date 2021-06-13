@@ -1,9 +1,9 @@
 ---
 title: FileSystemProvider.newFileSystem()
-permalink: Java/FileSystemProvider/newFileSystem
+permalink: /Java/FileSystemProvider/newFileSystem/
 date: 2021-01-11
-key: JavaJava.F.FileSystemProvider
-category: java
+key: Java.F.FileSystemProvider
+category: Java
 tags: ['java se', 'java.nio.file.spi', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

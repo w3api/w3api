@@ -1,9 +1,9 @@
 ---
 title: Extension
-permalink: Java/Extension
+permalink: /Java/Extension/
 date: 2021-01-11
-key: JavaJava.E.Extension
-category: java
+key: Java.E.Extension
+category: Java
 tags: ['java se', 'java.security.cert', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

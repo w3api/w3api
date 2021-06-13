@@ -1,9 +1,9 @@
 ---
 title: DoubleProperty.doubleProperty()
-permalink: Java/DoubleProperty/doubleProperty
+permalink: /Java/DoubleProperty/doubleProperty/
 date: 2021-01-11
-key: JavaJava.D.DoubleProperty
-category: java
+key: Java.D.DoubleProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FormatConversionProvider.FormatConversionProvider()
-permalink: Java/FormatConversionProvider/FormatConversionProvider
+permalink: /Java/FormatConversionProvider/FormatConversionProvider/
 date: 2021-01-11
-key: JavaJava.F.FormatConversionProvider
-category: java
+key: Java.F.FormatConversionProvider
+category: Java
 tags: ['java se', 'javax.sound.sampled.spi', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

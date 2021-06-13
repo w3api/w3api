@@ -1,9 +1,9 @@
 ---
 title: DropTargetAdapter
-permalink: Java/DropTargetAdapter
+permalink: /Java/DropTargetAdapter/
 date: 2021-01-11
-key: JavaJava.D.DropTargetAdapter
-category: java
+key: Java.D.DropTargetAdapter
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

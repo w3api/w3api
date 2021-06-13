@@ -1,9 +1,9 @@
 ---
 title: EndElement
-permalink: Java/EndElement
+permalink: /Java/EndElement/
 date: 2021-01-11
-key: JavaJava.E.EndElement
-category: java
+key: Java.E.EndElement
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Dragboard.setDragViewOffsetY()
-permalink: Java/Dragboard/setDragViewOffsetY
+permalink: /Java/Dragboard/setDragViewOffsetY/
 date: 2021-01-11
-key: JavaJava.D.Dragboard
-category: java
+key: Java.D.Dragboard
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

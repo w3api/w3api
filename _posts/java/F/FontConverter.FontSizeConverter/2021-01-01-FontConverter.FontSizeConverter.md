@@ -1,9 +1,9 @@
 ---
 title: FontConverter.FontSizeConverter
-permalink: Java/FontConverter/FontSizeConverter
+permalink: /Java/FontConverter/FontSizeConverter/
 date: 2021-01-11
-key: JavaJava.F.FontConverter.FontSizeConverter
-category: java
+key: Java.F.FontConverter.FontSizeConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

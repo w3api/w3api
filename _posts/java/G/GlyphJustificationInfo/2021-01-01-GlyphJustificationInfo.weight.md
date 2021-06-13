@@ -1,9 +1,9 @@
 ---
 title: GlyphJustificationInfo.weight
-permalink: Java/GlyphJustificationInfo/weight
+permalink: /Java/GlyphJustificationInfo/weight/
 date: 2021-01-11
-key: JavaJava.G.GlyphJustificationInfo
-category: java
+key: Java.G.GlyphJustificationInfo
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

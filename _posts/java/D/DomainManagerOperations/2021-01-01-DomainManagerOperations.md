@@ -1,9 +1,9 @@
 ---
 title: DomainManagerOperations
-permalink: Java/DomainManagerOperations
+permalink: /Java/DomainManagerOperations/
 date: 2021-01-11
-key: JavaJava.D.DomainManagerOperations
-category: java
+key: Java.D.DomainManagerOperations
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

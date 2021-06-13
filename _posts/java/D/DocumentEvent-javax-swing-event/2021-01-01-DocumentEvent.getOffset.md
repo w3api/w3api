@@ -1,9 +1,9 @@
 ---
 title: DocumentEvent.getOffset()
-permalink: Java/DocumentEvent-javax-swing-event/getOffset
+permalink: /Java/DocumentEvent-javax-swing-event/getOffset/
 date: 2021-01-11
-key: JavaJava.D.DocumentEvent-javax-swing-event
-category: java
+key: Java.D.DocumentEvent-javax-swing-event
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

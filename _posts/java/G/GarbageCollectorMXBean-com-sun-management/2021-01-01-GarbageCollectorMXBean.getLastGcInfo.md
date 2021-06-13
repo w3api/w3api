@@ -1,9 +1,9 @@
 ---
 title: GarbageCollectorMXBean.getLastGcInfo()
-permalink: Java/GarbageCollectorMXBean-com-sun-management/getLastGcInfo
+permalink: /Java/GarbageCollectorMXBean-com-sun-management/getLastGcInfo/
 date: 2021-01-11
-key: JavaJava.G.GarbageCollectorMXBean-com-sun-management
-category: java
+key: Java.G.GarbageCollectorMXBean-com-sun-management
+category: Java
 tags: ['java se', 'com.sun.management', 'jdk.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

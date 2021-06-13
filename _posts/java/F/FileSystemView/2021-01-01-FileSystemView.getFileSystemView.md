@@ -1,9 +1,9 @@
 ---
 title: FileSystemView.getFileSystemView()
-permalink: Java/FileSystemView/getFileSystemView
+permalink: /Java/FileSystemView/getFileSystemView/
 date: 2021-01-11
-key: JavaJava.F.FileSystemView
-category: java
+key: Java.F.FileSystemView
+category: Java
 tags: ['java se', 'javax.swing.filechooser', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

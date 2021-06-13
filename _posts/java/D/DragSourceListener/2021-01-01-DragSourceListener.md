@@ -1,9 +1,9 @@
 ---
 title: DragSourceListener
-permalink: Java/DragSourceListener
+permalink: /Java/DragSourceListener/
 date: 2021-01-11
-key: JavaJava.D.DragSourceListener
-category: java
+key: Java.D.DragSourceListener
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

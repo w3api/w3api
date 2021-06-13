@@ -1,9 +1,9 @@
 ---
 title: ExifGPSTagSet.MEASURE_MODE_2D
-permalink: Java/ExifGPSTagSet/MEASURE_MODE_2D
+permalink: /Java/ExifGPSTagSet/MEASURE_MODE_2D/
 date: 2021-01-11
-key: JavaJava.E.ExifGPSTagSet
-category: java
+key: Java.E.ExifGPSTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

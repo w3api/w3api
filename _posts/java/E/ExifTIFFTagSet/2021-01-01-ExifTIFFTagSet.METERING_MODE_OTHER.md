@@ -1,9 +1,9 @@
 ---
 title: ExifTIFFTagSet.METERING_MODE_OTHER
-permalink: Java/ExifTIFFTagSet/METERING_MODE_OTHER
+permalink: /Java/ExifTIFFTagSet/METERING_MODE_OTHER/
 date: 2021-01-11
-key: JavaJava.E.ExifTIFFTagSet
-category: java
+key: Java.E.ExifTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

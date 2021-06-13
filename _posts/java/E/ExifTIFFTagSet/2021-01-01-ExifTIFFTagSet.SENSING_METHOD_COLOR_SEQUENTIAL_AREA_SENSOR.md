@@ -1,9 +1,9 @@
 ---
 title: ExifTIFFTagSet.SENSING_METHOD_COLOR_SEQUENTIAL_AREA_SENSOR
-permalink: Java/ExifTIFFTagSet/SENSING_METHOD_COLOR_SEQUENTIAL_AREA_SENSOR
+permalink: /Java/ExifTIFFTagSet/SENSING_METHOD_COLOR_SEQUENTIAL_AREA_SENSOR/
 date: 2021-01-11
-key: JavaJava.E.ExifTIFFTagSet
-category: java
+key: Java.E.ExifTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

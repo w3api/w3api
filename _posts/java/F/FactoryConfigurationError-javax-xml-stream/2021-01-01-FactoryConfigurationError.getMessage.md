@@ -1,9 +1,9 @@
 ---
 title: FactoryConfigurationError.getMessage()
-permalink: Java/FactoryConfigurationError-javax-xml-stream/getMessage
+permalink: /Java/FactoryConfigurationError-javax-xml-stream/getMessage/
 date: 2021-01-11
-key: JavaJava.F.FactoryConfigurationError-javax-xml-stream
-category: java
+key: Java.F.FactoryConfigurationError-javax-xml-stream
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

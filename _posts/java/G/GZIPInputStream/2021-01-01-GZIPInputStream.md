@@ -1,9 +1,9 @@
 ---
 title: GZIPInputStream
-permalink: Java/GZIPInputStream
+permalink: /Java/GZIPInputStream/
 date: 2021-01-11
-key: JavaJava.G.GZIPInputStream
-category: java
+key: Java.G.GZIPInputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

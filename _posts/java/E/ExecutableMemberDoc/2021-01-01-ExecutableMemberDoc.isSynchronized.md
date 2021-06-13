@@ -1,9 +1,9 @@
 ---
 title: ExecutableMemberDoc.isSynchronized()
-permalink: Java/ExecutableMemberDoc/isSynchronized
+permalink: /Java/ExecutableMemberDoc/isSynchronized/
 date: 2021-01-11
-key: JavaJava.E.ExecutableMemberDoc
-category: java
+key: Java.E.ExecutableMemberDoc
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

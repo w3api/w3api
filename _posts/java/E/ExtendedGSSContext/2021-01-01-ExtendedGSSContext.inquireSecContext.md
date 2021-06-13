@@ -1,9 +1,9 @@
 ---
 title: ExtendedGSSContext.inquireSecContext()
-permalink: Java/ExtendedGSSContext/inquireSecContext
+permalink: /Java/ExtendedGSSContext/inquireSecContext/
 date: 2021-01-11
-key: JavaJava.E.ExtendedGSSContext
-category: java
+key: Java.E.ExtendedGSSContext
+category: Java
 tags: ['java se', 'com.sun.security.jgss', 'jdk.security.jgss', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

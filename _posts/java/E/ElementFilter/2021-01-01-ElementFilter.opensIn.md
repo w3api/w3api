@@ -1,9 +1,9 @@
 ---
 title: ElementFilter.opensIn()
-permalink: Java/ElementFilter/opensIn
+permalink: /Java/ElementFilter/opensIn/
 date: 2021-01-11
-key: JavaJava.E.ElementFilter
-category: java
+key: Java.E.ElementFilter
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

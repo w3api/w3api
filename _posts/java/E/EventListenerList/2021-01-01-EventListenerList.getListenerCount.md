@@ -1,9 +1,9 @@
 ---
 title: EventListenerList.getListenerCount()
-permalink: Java/EventListenerList/getListenerCount
+permalink: /Java/EventListenerList/getListenerCount/
 date: 2021-01-11
-key: JavaJava.E.EventListenerList
-category: java
+key: Java.E.EventListenerList
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

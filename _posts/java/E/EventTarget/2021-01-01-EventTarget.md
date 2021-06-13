@@ -1,9 +1,9 @@
 ---
 title: EventTarget
-permalink: Java/EventTarget/
+permalink: /Java/EventTarget//
 date: 2021-01-11
-key: JavaJava.E.EventTarget
-category: java
+key: Java.E.EventTarget
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

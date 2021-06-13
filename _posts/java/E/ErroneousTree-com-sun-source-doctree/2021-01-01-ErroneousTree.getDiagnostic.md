@@ -1,9 +1,9 @@
 ---
 title: ErroneousTree.getDiagnostic()
-permalink: Java/ErroneousTree-com-sun-source-doctree/getDiagnostic
+permalink: /Java/ErroneousTree-com-sun-source-doctree/getDiagnostic/
 date: 2021-01-11
-key: JavaJava.E.ErroneousTree-com-sun-source-doctree
-category: java
+key: Java.E.ErroneousTree-com-sun-source-doctree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

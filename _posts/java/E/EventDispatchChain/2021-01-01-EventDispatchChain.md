@@ -1,9 +1,9 @@
 ---
 title: EventDispatchChain
-permalink: Java/EventDispatchChain
+permalink: /Java/EventDispatchChain/
 date: 2021-01-11
-key: JavaJava.E.EventDispatchChain
-category: java
+key: Java.E.EventDispatchChain
+category: Java
 tags: ['java se', 'javafx.event', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

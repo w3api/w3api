@@ -1,9 +1,9 @@
 ---
 title: Finishings.BIND
-permalink: Java/Finishings/BIND
+permalink: /Java/Finishings/BIND/
 date: 2021-01-11
-key: JavaJava.F.Finishings
-category: java
+key: Java.F.Finishings
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

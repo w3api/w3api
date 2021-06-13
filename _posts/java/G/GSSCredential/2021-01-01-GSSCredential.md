@@ -1,9 +1,9 @@
 ---
 title: GSSCredential
-permalink: Java/GSSCredential
+permalink: /Java/GSSCredential/
 date: 2021-01-11
-key: JavaJava.G.GSSCredential
-category: java
+key: Java.G.GSSCredential
+category: Java
 tags: ['java se', 'org.ietf.jgss', 'java.security.jgss', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

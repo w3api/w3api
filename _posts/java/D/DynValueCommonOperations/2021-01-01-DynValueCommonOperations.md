@@ -1,9 +1,9 @@
 ---
 title: DynValueCommonOperations
-permalink: Java/DynValueCommonOperations
+permalink: /Java/DynValueCommonOperations/
 date: 2021-01-11
-key: JavaJava.D.DynValueCommonOperations
-category: java
+key: Java.D.DynValueCommonOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: EventType
-permalink: Java/EventType-javafx-event
+permalink: /Java/EventType-javafx-event/
 date: 2021-01-11
-key: JavaJava.E.EventType-javafx-event
-category: java
+key: Java.E.EventType-javafx-event
+category: Java
 tags: ['java se', 'javafx.event', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

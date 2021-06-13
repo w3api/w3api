@@ -1,9 +1,9 @@
 ---
 title: EffectConverter.DropShadowConverter
-permalink: Java/EffectConverter/DropShadowConverter
+permalink: /Java/EffectConverter/DropShadowConverter/
 date: 2021-01-11
-key: JavaJava.E.EffectConverter.DropShadowConverter
-category: java
+key: Java.E.EffectConverter.DropShadowConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

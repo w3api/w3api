@@ -1,9 +1,9 @@
 ---
 title: DragSourceEvent
-permalink: Java/DragSourceEvent
+permalink: /Java/DragSourceEvent/
 date: 2021-01-11
-key: JavaJava.D.DragSourceEvent
-category: java
+key: Java.D.DragSourceEvent
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

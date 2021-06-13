@@ -1,9 +1,9 @@
 ---
 title: DoubleExpression.doubleExpression()
-permalink: Java/DoubleExpression/doubleExpression
+permalink: /Java/DoubleExpression/doubleExpression/
 date: 2021-01-11
-key: JavaJava.D.DoubleExpression
-category: java
+key: Java.D.DoubleExpression
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

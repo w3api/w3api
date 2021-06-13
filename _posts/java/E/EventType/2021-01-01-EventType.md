@@ -1,9 +1,9 @@
 ---
 title: EventType
-permalink: Java/EventType/
+permalink: /Java/EventType//
 date: 2021-01-11
-key: JavaJava.E.EventType
-category: java
+key: Java.E.EventType
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

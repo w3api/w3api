@@ -1,9 +1,9 @@
 ---
 title: DoubleSeqHolder.value
-permalink: Java/DoubleSeqHolder/value
+permalink: /Java/DoubleSeqHolder/value/
 date: 2021-01-11
-key: JavaJava.D.DoubleSeqHolder
-category: java
+key: Java.D.DoubleSeqHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

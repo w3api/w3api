@@ -1,9 +1,9 @@
 ---
 title: GSSException.DUPLICATE_ELEMENT
-permalink: Java/GSSException/DUPLICATE_ELEMENT
+permalink: /Java/GSSException/DUPLICATE_ELEMENT/
 date: 2021-01-11
-key: JavaJava.G.GSSException
-category: java
+key: Java.G.GSSException
+category: Java
 tags: ['java se', 'org.ietf.jgss', 'java.security.jgss', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

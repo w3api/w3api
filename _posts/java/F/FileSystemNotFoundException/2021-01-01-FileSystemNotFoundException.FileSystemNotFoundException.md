@@ -1,9 +1,9 @@
 ---
 title: FileSystemNotFoundException.FileSystemNotFoundException()
-permalink: Java/FileSystemNotFoundException/FileSystemNotFoundException
+permalink: /Java/FileSystemNotFoundException/FileSystemNotFoundException/
 date: 2021-01-11
-key: JavaJava.F.FileSystemNotFoundException
-category: java
+key: Java.F.FileSystemNotFoundException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

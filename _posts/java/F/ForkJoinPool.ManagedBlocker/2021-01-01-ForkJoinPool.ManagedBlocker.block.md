@@ -1,9 +1,9 @@
 ---
 title: ForkJoinPool.ManagedBlocker.block()
-permalink: Java/ForkJoinPool/ManagedBlocker/block
+permalink: /Java/ForkJoinPool/ManagedBlocker/block/
 date: 2021-01-11
-key: JavaJava.F.ForkJoinPool.ManagedBlocker
-category: java
+key: Java.F.ForkJoinPool.ManagedBlocker
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

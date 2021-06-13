@@ -1,9 +1,9 @@
 ---
 title: FormatStyle
-permalink: Java/FormatStyle
+permalink: /Java/FormatStyle/
 date: 2021-01-11
-key: JavaJava.F.FormatStyle
-category: java
+key: Java.F.FormatStyle
+category: Java
 tags: ['java se', 'java.time.format', 'java.base', 'enumerado java', 'Java 1.8']
 sidebar: 
   nav: java

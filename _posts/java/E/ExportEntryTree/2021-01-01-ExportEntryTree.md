@@ -1,9 +1,9 @@
 ---
 title: ExportEntryTree
-permalink: Java/ExportEntryTree
+permalink: /Java/ExportEntryTree/
 date: 2021-01-11
-key: JavaJava.E.ExportEntryTree
-category: java
+key: Java.E.ExportEntryTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

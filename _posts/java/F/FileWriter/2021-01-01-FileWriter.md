@@ -1,9 +1,9 @@
 ---
 title: FileWriter
-permalink: Java/FileWriter
+permalink: /Java/FileWriter/
 date: 2021-01-11
-key: JavaJava.F.FileWriter
-category: java
+key: Java.F.FileWriter
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

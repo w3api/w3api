@@ -1,9 +1,9 @@
 ---
 title: FilterReader
-permalink: Java/FilterReader
+permalink: /Java/FilterReader/
 date: 2021-01-11
-key: JavaJava.F.FilterReader
-category: java
+key: Java.F.FilterReader
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

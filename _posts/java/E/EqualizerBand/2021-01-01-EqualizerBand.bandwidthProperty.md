@@ -1,9 +1,9 @@
 ---
 title: EqualizerBand.bandwidthProperty()
-permalink: Java/EqualizerBand/bandwidthProperty
+permalink: /Java/EqualizerBand/bandwidthProperty/
 date: 2021-01-11
-key: JavaJava.E.EqualizerBand
-category: java
+key: Java.E.EqualizerBand
+category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

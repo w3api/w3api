@@ -1,9 +1,9 @@
 ---
 title: EntityDeclaration.getName()
-permalink: Java/EntityDeclaration/getName
+permalink: /Java/EntityDeclaration/getName/
 date: 2021-01-11
-key: JavaJava.E.EntityDeclaration
-category: java
+key: Java.E.EntityDeclaration
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

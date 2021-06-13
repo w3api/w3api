@@ -1,9 +1,9 @@
 ---
 title: FXMLLoader.setBuilderFactory()
-permalink: Java/FXMLLoader/setBuilderFactory
+permalink: /Java/FXMLLoader/setBuilderFactory/
 date: 2021-01-11
-key: JavaJava.F.FXMLLoader
-category: java
+key: Java.F.FXMLLoader
+category: Java
 tags: ['java se', 'javafx.fxml', 'javafx.fxml', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

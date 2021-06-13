@@ -1,9 +1,9 @@
 ---
 title: DragSource.DefaultLinkDrop
-permalink: Java/DragSource/DefaultLinkDrop
+permalink: /Java/DragSource/DefaultLinkDrop/
 date: 2021-01-11
-key: JavaJava.D.DragSource
-category: java
+key: Java.D.DragSource
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

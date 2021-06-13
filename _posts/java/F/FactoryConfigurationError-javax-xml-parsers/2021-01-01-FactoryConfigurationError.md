@@ -1,9 +1,9 @@
 ---
 title: FactoryConfigurationError
-permalink: Java/FactoryConfigurationError-javax-xml-parsers
+permalink: /Java/FactoryConfigurationError-javax-xml-parsers/
 date: 2021-01-11
-key: JavaJava.F.FactoryConfigurationError-javax-xml-parsers
-category: java
+key: Java.F.FactoryConfigurationError-javax-xml-parsers
+category: Java
 tags: ['java se', 'javax.xml.parsers', 'java.xml', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

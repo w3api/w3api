@@ -1,9 +1,9 @@
 ---
 title: ECPublicKeySpec.ECPublicKeySpec()
-permalink: Java/ECPublicKeySpec/ECPublicKeySpec
+permalink: /Java/ECPublicKeySpec/ECPublicKeySpec/
 date: 2021-01-11
-key: JavaJava.E.ECPublicKeySpec
-category: java
+key: Java.E.ECPublicKeySpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

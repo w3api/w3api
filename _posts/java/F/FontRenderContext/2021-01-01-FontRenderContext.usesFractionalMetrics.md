@@ -1,9 +1,9 @@
 ---
 title: FontRenderContext.usesFractionalMetrics()
-permalink: Java/FontRenderContext/usesFractionalMetrics
+permalink: /Java/FontRenderContext/usesFractionalMetrics/
 date: 2021-01-11
-key: JavaJava.F.FontRenderContext
-category: java
+key: Java.F.FontRenderContext
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

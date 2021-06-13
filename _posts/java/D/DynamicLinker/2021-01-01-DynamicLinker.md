@@ -1,9 +1,9 @@
 ---
 title: DynamicLinker
-permalink: Java/DynamicLinker
+permalink: /Java/DynamicLinker/
 date: 2021-01-11
-key: JavaJava.D.DynamicLinker
-category: java
+key: Java.D.DynamicLinker
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

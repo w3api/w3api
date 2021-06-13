@@ -1,9 +1,9 @@
 ---
 title: FlavorMap
-permalink: Java/FlavorMap
+permalink: /Java/FlavorMap/
 date: 2021-01-11
-key: JavaJava.F.FlavorMap
-category: java
+key: Java.F.FlavorMap
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

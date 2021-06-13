@@ -1,9 +1,9 @@
 ---
 title: DynamicLinkerFactory.setInternalObjectsFilter()
-permalink: Java/DynamicLinkerFactory/setInternalObjectsFilter
+permalink: /Java/DynamicLinkerFactory/setInternalObjectsFilter/
 date: 2021-01-11
-key: JavaJava.D.DynamicLinkerFactory
-category: java
+key: Java.D.DynamicLinkerFactory
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Frequency
-permalink: Java/Frequency
+permalink: /Java/Frequency/
 date: 2021-01-11
-key: JavaJava.F.Frequency
-category: java
+key: Java.F.Frequency
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'anotacion java', 'Java 9']
 sidebar: 
   nav: java

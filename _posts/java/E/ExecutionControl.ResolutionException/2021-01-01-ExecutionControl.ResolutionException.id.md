@@ -1,9 +1,9 @@
 ---
 title: ExecutionControl.ResolutionException.id()
-permalink: Java/ExecutionControl/ResolutionException/id
+permalink: /Java/ExecutionControl/ResolutionException/id/
 date: 2021-01-11
-key: JavaJava.E.ExecutionControl.ResolutionException
-category: java
+key: Java.E.ExecutionControl.ResolutionException
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ExecutableType.getReturnType()
-permalink: Java/ExecutableType/getReturnType
+permalink: /Java/ExecutableType/getReturnType/
 date: 2021-01-11
-key: JavaJava.E.ExecutableType
-category: java
+key: Java.E.ExecutableType
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

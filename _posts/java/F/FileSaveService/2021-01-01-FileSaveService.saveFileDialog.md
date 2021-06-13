@@ -1,9 +1,9 @@
 ---
 title: FileSaveService.saveFileDialog()
-permalink: Java/FileSaveService/saveFileDialog
+permalink: /Java/FileSaveService/saveFileDialog/
 date: 2021-01-11
-key: JavaJava.F.FileSaveService
-category: java
+key: Java.F.FileSaveService
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.4.2']
 sidebar: 
   nav: java

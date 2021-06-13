@@ -1,9 +1,9 @@
 ---
 title: FlavorMap.getNativesForFlavors()
-permalink: Java/FlavorMap/getNativesForFlavors
+permalink: /Java/FlavorMap/getNativesForFlavors/
 date: 2021-01-11
-key: JavaJava.F.FlavorMap
-category: java
+key: Java.F.FlavorMap
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

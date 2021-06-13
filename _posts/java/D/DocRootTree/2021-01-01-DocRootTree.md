@@ -1,9 +1,9 @@
 ---
 title: DocRootTree
-permalink: Java/DocRootTree
+permalink: /Java/DocRootTree/
 date: 2021-01-11
-key: JavaJava.D.DocRootTree
-category: java
+key: Java.D.DocRootTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FormatStringConverter.getFormat()
-permalink: Java/FormatStringConverter/getFormat
+permalink: /Java/FormatStringConverter/getFormat/
 date: 2021-01-11
-key: JavaJava.F.FormatStringConverter
-category: java
+key: Java.F.FormatStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

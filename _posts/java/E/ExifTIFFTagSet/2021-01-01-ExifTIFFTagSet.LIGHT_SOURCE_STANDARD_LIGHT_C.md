@@ -1,9 +1,9 @@
 ---
 title: ExifTIFFTagSet.LIGHT_SOURCE_STANDARD_LIGHT_C
-permalink: Java/ExifTIFFTagSet/LIGHT_SOURCE_STANDARD_LIGHT_C
+permalink: /Java/ExifTIFFTagSet/LIGHT_SOURCE_STANDARD_LIGHT_C/
 date: 2021-01-11
-key: JavaJava.E.ExifTIFFTagSet
-category: java
+key: Java.E.ExifTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

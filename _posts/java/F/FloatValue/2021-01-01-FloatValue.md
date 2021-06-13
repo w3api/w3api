@@ -1,9 +1,9 @@
 ---
 title: FloatValue
-permalink: Java/FloatValue
+permalink: /Java/FloatValue/
 date: 2021-01-11
-key: JavaJava.F.FloatValue
-category: java
+key: Java.F.FloatValue
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

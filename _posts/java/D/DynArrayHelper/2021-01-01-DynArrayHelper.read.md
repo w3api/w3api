@@ -1,9 +1,9 @@
 ---
 title: DynArrayHelper.read()
-permalink: Java/DynArrayHelper/read
+permalink: /Java/DynArrayHelper/read/
 date: 2021-01-11
-key: JavaJava.D.DynArrayHelper
-category: java
+key: Java.D.DynArrayHelper
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

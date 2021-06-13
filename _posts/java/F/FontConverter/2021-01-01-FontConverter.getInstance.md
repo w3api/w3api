@@ -1,9 +1,9 @@
 ---
 title: FontConverter.getInstance()
-permalink: Java/FontConverter/getInstance
+permalink: /Java/FontConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.F.FontConverter
-category: java
+key: Java.F.FontConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

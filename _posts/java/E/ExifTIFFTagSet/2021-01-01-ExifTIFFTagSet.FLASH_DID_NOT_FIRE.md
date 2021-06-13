@@ -1,8 +1,8 @@
 ---
 title: ExifTIFFTagSet.FLASH_DID_NOT_FIRE
-permalink: Java/ExifTIFFTagSet/FLASH_DID_NOT_FIRE
+permalink: /Java/ExifTIFFTagSet/FLASH_DID_NOT_FIRE/
 date: 2021-01-11
-key: JavaJava.E.ExifTIFFTagSet
+key: Java.E.ExifTIFFTagSet
 category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 

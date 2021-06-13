@@ -1,9 +1,9 @@
 ---
 title: EnumSyntax.hashCode()
-permalink: Java/EnumSyntax/hashCode
+permalink: /Java/EnumSyntax/hashCode/
 date: 2021-01-11
-key: JavaJava.E.EnumSyntax
-category: java
+key: Java.E.EnumSyntax
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

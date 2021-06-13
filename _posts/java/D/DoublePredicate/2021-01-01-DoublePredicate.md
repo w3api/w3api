@@ -1,9 +1,9 @@
 ---
 title: DoublePredicate
-permalink: Java/DoublePredicate
+permalink: /Java/DoublePredicate/
 date: 2021-01-11
-key: JavaJava.D.DoublePredicate
-category: java
+key: Java.D.DoublePredicate
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FieldNameHelper.read()
-permalink: Java/FieldNameHelper-org-omg-DynamicAny/read
+permalink: /Java/FieldNameHelper-org-omg-DynamicAny/read/
 date: 2021-01-11
-key: JavaJava.F.FieldNameHelper-org-omg-DynamicAny
-category: java
+key: Java.F.FieldNameHelper-org-omg-DynamicAny
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

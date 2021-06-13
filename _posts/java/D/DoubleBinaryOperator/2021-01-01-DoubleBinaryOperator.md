@@ -1,9 +1,9 @@
 ---
 title: DoubleBinaryOperator
-permalink: Java/DoubleBinaryOperator
+permalink: /Java/DoubleBinaryOperator/
 date: 2021-01-11
-key: JavaJava.D.DoubleBinaryOperator
-category: java
+key: Java.D.DoubleBinaryOperator
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

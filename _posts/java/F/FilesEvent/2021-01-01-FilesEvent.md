@@ -1,9 +1,9 @@
 ---
 title: FilesEvent
-permalink: Java/FilesEvent
+permalink: /Java/FilesEvent/
 date: 2021-01-11
-key: JavaJava.F.FilesEvent
-category: java
+key: Java.F.FilesEvent
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

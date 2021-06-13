@@ -1,9 +1,9 @@
 ---
 title: DynamicImplementation
-permalink: Java/DynamicImplementation-org-omg-CORBA
+permalink: /Java/DynamicImplementation-org-omg-CORBA/
 date: 2021-01-11
-key: JavaJava.D.DynamicImplementation-org-omg-CORBA
-category: java
+key: Java.D.DynamicImplementation-org-omg-CORBA
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

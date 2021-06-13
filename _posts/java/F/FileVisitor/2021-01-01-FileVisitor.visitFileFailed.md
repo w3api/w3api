@@ -1,9 +1,9 @@
 ---
 title: FileVisitor.visitFileFailed()
-permalink: Java/FileVisitor/visitFileFailed
+permalink: /Java/FileVisitor/visitFileFailed/
 date: 2021-01-11
-key: JavaJava.F.FileVisitor
-category: java
+key: Java.F.FileVisitor
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

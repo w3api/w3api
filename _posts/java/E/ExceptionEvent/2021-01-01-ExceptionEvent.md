@@ -1,9 +1,9 @@
 ---
 title: ExceptionEvent
-permalink: Java/ExceptionEvent
+permalink: /Java/ExceptionEvent/
 date: 2021-01-11
-key: JavaJava.E.ExceptionEvent
-category: java
+key: Java.E.ExceptionEvent
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: EventSettings.withThreshold()
-permalink: Java/EventSettings/withThreshold
+permalink: /Java/EventSettings/withThreshold/
 date: 2021-01-11
-key: JavaJava.E.EventSettings
-category: java
+key: Java.E.EventSettings
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

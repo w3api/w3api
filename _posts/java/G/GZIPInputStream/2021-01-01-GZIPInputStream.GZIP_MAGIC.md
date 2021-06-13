@@ -1,9 +1,9 @@
 ---
 title: GZIPInputStream.GZIP_MAGIC
-permalink: Java/GZIPInputStream/GZIP_MAGIC
+permalink: /Java/GZIPInputStream/GZIP_MAGIC/
 date: 2021-01-11
-key: JavaJava.G.GZIPInputStream
-category: java
+key: Java.G.GZIPInputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

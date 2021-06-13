@@ -1,9 +1,9 @@
 ---
 title: ForwardingFileObject.openWriter()
-permalink: Java/ForwardingFileObject/openWriter
+permalink: /Java/ForwardingFileObject/openWriter/
 date: 2021-01-11
-key: JavaJava.F.ForwardingFileObject
-category: java
+key: Java.F.ForwardingFileObject
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

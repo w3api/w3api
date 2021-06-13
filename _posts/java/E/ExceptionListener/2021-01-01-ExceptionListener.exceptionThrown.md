@@ -1,9 +1,9 @@
 ---
 title: ExceptionListener.exceptionThrown()
-permalink: Java/ExceptionListener/exceptionThrown
+permalink: /Java/ExceptionListener/exceptionThrown/
 date: 2021-01-11
-key: JavaJava.E.ExceptionListener
-category: java
+key: Java.E.ExceptionListener
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

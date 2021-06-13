@@ -1,9 +1,9 @@
 ---
 title: FileFilter.accept()
-permalink: Java/FileFilter-javax-swing-filechooser/accept
+permalink: /Java/FileFilter-javax-swing-filechooser/accept/
 date: 2021-01-11
-key: JavaJava.F.FileFilter-javax-swing-filechooser
-category: java
+key: Java.F.FileFilter-javax-swing-filechooser
+category: Java
 tags: ['java se', 'javax.swing.filechooser', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

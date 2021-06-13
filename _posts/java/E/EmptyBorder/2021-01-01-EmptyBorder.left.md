@@ -1,9 +1,9 @@
 ---
 title: EmptyBorder.left
-permalink: Java/EmptyBorder/left
+permalink: /Java/EmptyBorder/left/
 date: 2021-01-11
-key: JavaJava.E.EmptyBorder
-category: java
+key: Java.E.EmptyBorder
+category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

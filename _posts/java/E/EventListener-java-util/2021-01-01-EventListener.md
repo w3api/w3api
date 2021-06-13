@@ -1,9 +1,9 @@
 ---
 title: EventListener
-permalink: Java/EventListener-java-util
+permalink: /Java/EventListener-java-util/
 date: 2021-01-11
-key: JavaJava.E.EventListener-java-util
-category: java
+key: Java.E.EventListener-java-util
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

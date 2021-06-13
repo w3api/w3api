@@ -1,9 +1,9 @@
 ---
 title: DrbgParameters.Capability.NONE
-permalink: Java/DrbgParameters/Capability/NONE
+permalink: /Java/DrbgParameters/Capability/NONE/
 date: 2021-01-11
-key: JavaJava.D.DrbgParameters.Capability
-category: java
+key: Java.D.DrbgParameters.Capability
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'campo java', 'Java 9']
 sidebar: 
   nav: java

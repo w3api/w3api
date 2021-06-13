@@ -1,9 +1,9 @@
 ---
 title: FontCssMetaData.FontCssMetaData()
-permalink: Java/FontCssMetaData/FontCssMetaData
+permalink: /Java/FontCssMetaData/FontCssMetaData/
 date: 2021-01-11
-key: JavaJava.F.FontCssMetaData
-category: java
+key: Java.F.FontCssMetaData
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

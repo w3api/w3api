@@ -1,9 +1,9 @@
 ---
 title: ElementIterator
-permalink: Java/ElementIterator
+permalink: /Java/ElementIterator/
 date: 2021-01-11
-key: JavaJava.E.ElementIterator
-category: java
+key: Java.E.ElementIterator
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

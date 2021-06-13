@@ -1,9 +1,9 @@
 ---
 title: GraphicAttribute.getAlignment()
-permalink: Java/GraphicAttribute/getAlignment
+permalink: /Java/GraphicAttribute/getAlignment/
 date: 2021-01-11
-key: JavaJava.G.GraphicAttribute
-category: java
+key: Java.G.GraphicAttribute
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

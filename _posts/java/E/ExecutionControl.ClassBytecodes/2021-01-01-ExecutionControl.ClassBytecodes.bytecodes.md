@@ -1,9 +1,9 @@
 ---
 title: ExecutionControl.ClassBytecodes.bytecodes()
-permalink: Java/ExecutionControl/ClassBytecodes/bytecodes
+permalink: /Java/ExecutionControl/ClassBytecodes/bytecodes/
 date: 2021-01-11
-key: JavaJava.E.ExecutionControl.ClassBytecodes
-category: java
+key: Java.E.ExecutionControl.ClassBytecodes
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

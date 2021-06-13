@@ -1,9 +1,9 @@
 ---
 title: ForwardRequest.forward_reference
-permalink: Java/ForwardRequest-org-omg-PortableServer/forward_reference
+permalink: /Java/ForwardRequest-org-omg-PortableServer/forward_reference/
 date: 2021-01-11
-key: JavaJava.F.ForwardRequest-org-omg-PortableServer
-category: java
+key: Java.F.ForwardRequest-org-omg-PortableServer
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

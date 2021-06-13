@@ -1,9 +1,9 @@
 ---
 title: Environment
-permalink: Java/Environment
+permalink: /Java/Environment/
 date: 2021-01-11
-key: JavaJava.E.Environment
-category: java
+key: Java.E.Environment
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 
   nav: java

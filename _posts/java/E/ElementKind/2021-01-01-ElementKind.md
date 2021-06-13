@@ -1,9 +1,9 @@
 ---
 title: ElementKind
-permalink: Java/ElementKind
+permalink: /Java/ElementKind/
 date: 2021-01-11
-key: JavaJava.E.ElementKind
-category: java
+key: Java.E.ElementKind
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'enumerado java', 'Java 1.6']
 sidebar: 
   nav: java

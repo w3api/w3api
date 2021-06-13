@@ -1,9 +1,9 @@
 ---
 title: ECPrivateKey
-permalink: Java/ECPrivateKey
+permalink: /Java/ECPrivateKey/
 date: 2021-01-11
-key: JavaJava.E.ECPrivateKey
-category: java
+key: Java.E.ECPrivateKey
+category: Java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

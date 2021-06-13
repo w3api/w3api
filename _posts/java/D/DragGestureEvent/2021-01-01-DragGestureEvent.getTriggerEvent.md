@@ -1,9 +1,9 @@
 ---
 title: DragGestureEvent.getTriggerEvent()
-permalink: Java/DragGestureEvent/getTriggerEvent
+permalink: /Java/DragGestureEvent/getTriggerEvent/
 date: 2021-01-11
-key: JavaJava.D.DragGestureEvent
-category: java
+key: Java.D.DragGestureEvent
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

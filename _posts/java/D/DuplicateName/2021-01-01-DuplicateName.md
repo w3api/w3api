@@ -1,9 +1,9 @@
 ---
 title: DuplicateName
-permalink: Java/DuplicateName
+permalink: /Java/DuplicateName/
 date: 2021-01-11
-key: JavaJava.D.DuplicateName
-category: java
+key: Java.D.DuplicateName
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor.ORBInitInfoPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

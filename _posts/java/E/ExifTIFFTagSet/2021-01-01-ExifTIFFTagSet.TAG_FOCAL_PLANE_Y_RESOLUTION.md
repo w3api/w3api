@@ -1,8 +1,8 @@
 ---
 title: ExifTIFFTagSet.TAG_FOCAL_PLANE_Y_RESOLUTION
-permalink: Java/ExifTIFFTagSet/TAG_FOCAL_PLANE_Y_RESOLUTION
+permalink: /Java/ExifTIFFTagSet/TAG_FOCAL_PLANE_Y_RESOLUTION/
 date: 2021-01-11
-key: JavaJava.E.ExifTIFFTagSet
+key: Java.E.ExifTIFFTagSet
 category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 

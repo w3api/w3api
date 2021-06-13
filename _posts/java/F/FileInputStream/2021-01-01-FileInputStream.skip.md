@@ -1,9 +1,9 @@
 ---
 title: FileInputStream.skip()
-permalink: Java/FileInputStream/skip
+permalink: /Java/FileInputStream/skip/
 date: 2021-01-11
-key: JavaJava.F.FileInputStream
-category: java
+key: Java.F.FileInputStream
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

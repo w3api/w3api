@@ -1,9 +1,9 @@
 ---
 title: DoubleBinding.DoubleBinding()
-permalink: Java/DoubleBinding/DoubleBinding
+permalink: /Java/DoubleBinding/DoubleBinding/
 date: 2021-01-11
-key: JavaJava.D.DoubleBinding
-category: java
+key: Java.D.DoubleBinding
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

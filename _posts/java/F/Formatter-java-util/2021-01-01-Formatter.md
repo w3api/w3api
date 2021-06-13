@@ -1,9 +1,9 @@
 ---
 title: Formatter
-permalink: Java/Formatter-java-util
+permalink: /Java/Formatter-java-util/
 date: 2021-01-11
-key: JavaJava.F.Formatter-java-util
-category: java
+key: Java.F.Formatter-java-util
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

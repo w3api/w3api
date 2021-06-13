@@ -1,9 +1,9 @@
 ---
 title: ForwardRequestHelper
-permalink: Java/ForwardRequestHelper/
+permalink: /Java/ForwardRequestHelper//
 date: 2021-01-11
-key: JavaJava.F.ForwardRequestHelper
-category: java
+key: Java.F.ForwardRequestHelper
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

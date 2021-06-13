@@ -1,9 +1,9 @@
 ---
 title: FloatBinding
-permalink: Java/FloatBinding
+permalink: /Java/FloatBinding/
 date: 2021-01-11
-key: JavaJava.F.FloatBinding
-category: java
+key: Java.F.FloatBinding
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

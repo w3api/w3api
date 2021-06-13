@@ -1,9 +1,9 @@
 ---
 title: GlyphView.changedUpdate()
-permalink: Java/GlyphView/changedUpdate
+permalink: /Java/GlyphView/changedUpdate/
 date: 2021-01-11
-key: JavaJava.G.GlyphView
-category: java
+key: Java.G.GlyphView
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

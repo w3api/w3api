@@ -1,9 +1,9 @@
 ---
 title: DoubleStream.toArray()
-permalink: Java/DoubleStream/toArray
+permalink: /Java/DoubleStream/toArray/
 date: 2021-01-11
-key: JavaJava.D.DoubleStream
-category: java
+key: Java.D.DoubleStream
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

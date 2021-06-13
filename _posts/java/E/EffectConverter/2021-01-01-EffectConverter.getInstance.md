@@ -1,9 +1,9 @@
 ---
 title: EffectConverter.getInstance()
-permalink: Java/EffectConverter/getInstance
+permalink: /Java/EffectConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.E.EffectConverter
-category: java
+key: Java.E.EffectConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

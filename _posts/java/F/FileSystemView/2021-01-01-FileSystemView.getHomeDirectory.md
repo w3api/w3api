@@ -1,9 +1,9 @@
 ---
 title: FileSystemView.getHomeDirectory()
-permalink: Java/FileSystemView/getHomeDirectory
+permalink: /Java/FileSystemView/getHomeDirectory/
 date: 2021-01-11
-key: JavaJava.F.FileSystemView
-category: java
+key: Java.F.FileSystemView
+category: Java
 tags: ['java se', 'javax.swing.filechooser', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

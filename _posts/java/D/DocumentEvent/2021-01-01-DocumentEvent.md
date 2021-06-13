@@ -1,9 +1,9 @@
 ---
 title: DocumentEvent
-permalink: Java/DocumentEvent/
+permalink: /Java/DocumentEvent//
 date: 2021-01-11
-key: JavaJava.D.DocumentEvent
-category: java
+key: Java.D.DocumentEvent
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

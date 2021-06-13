@@ -1,9 +1,9 @@
 ---
 title: ElementTraversal.getFirstElementChild()
-permalink: Java/ElementTraversal/getFirstElementChild
+permalink: /Java/ElementTraversal/getFirstElementChild/
 date: 2021-01-11
-key: JavaJava.E.ElementTraversal
-category: java
+key: Java.E.ElementTraversal
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

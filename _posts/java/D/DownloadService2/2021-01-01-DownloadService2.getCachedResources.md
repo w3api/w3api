@@ -1,9 +1,9 @@
 ---
 title: DownloadService2.getCachedResources()
-permalink: Java/DownloadService2/getCachedResources
+permalink: /Java/DownloadService2/getCachedResources/
 date: 2021-01-11
-key: JavaJava.D.DownloadService2
-category: java
+key: Java.D.DownloadService2
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', '6.0.18']
 sidebar: 
   nav: java

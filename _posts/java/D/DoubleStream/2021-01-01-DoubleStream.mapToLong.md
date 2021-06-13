@@ -1,9 +1,9 @@
 ---
 title: DoubleStream.mapToLong()
-permalink: Java/DoubleStream/mapToLong
+permalink: /Java/DoubleStream/mapToLong/
 date: 2021-01-11
-key: JavaJava.D.DoubleStream
-category: java
+key: Java.D.DoubleStream
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

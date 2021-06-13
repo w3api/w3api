@@ -1,9 +1,9 @@
 ---
 title: DropTargetListener.dragEnter()
-permalink: Java/DropTargetListener/dragEnter
+permalink: /Java/DropTargetListener/dragEnter/
 date: 2021-01-11
-key: JavaJava.D.DropTargetListener
-category: java
+key: Java.D.DropTargetListener
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

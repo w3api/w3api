@@ -1,9 +1,9 @@
 ---
 title: FlavorEvent
-permalink: Java/FlavorEvent
+permalink: /Java/FlavorEvent/
 date: 2021-01-11
-key: JavaJava.F.FlavorEvent
-category: java
+key: Java.F.FlavorEvent
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

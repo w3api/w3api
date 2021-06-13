@@ -1,9 +1,9 @@
 ---
 title: EventFilter
-permalink: Java/EventFilter
+permalink: /Java/EventFilter/
 date: 2021-01-11
-key: JavaJava.E.EventFilter
-category: java
+key: Java.E.EventFilter
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

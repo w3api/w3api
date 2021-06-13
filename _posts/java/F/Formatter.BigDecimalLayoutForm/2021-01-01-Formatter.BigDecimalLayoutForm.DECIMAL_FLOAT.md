@@ -1,9 +1,9 @@
 ---
 title: Formatter.BigDecimalLayoutForm.DECIMAL_FLOAT
-permalink: Java/Formatter/BigDecimalLayoutForm/DECIMAL_FLOAT
+permalink: /Java/Formatter/BigDecimalLayoutForm/DECIMAL_FLOAT/
 date: 2021-01-11
-key: JavaJava.F.Formatter.BigDecimalLayoutForm
-category: java
+key: Java.F.Formatter.BigDecimalLayoutForm
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

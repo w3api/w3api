@@ -1,9 +1,9 @@
 ---
 title: DocumentFilter.FilterBypass
-permalink: Java/DocumentFilter/FilterBypass
+permalink: /Java/DocumentFilter/FilterBypass/
 date: 2021-01-11
-key: JavaJava.D.DocumentFilter.FilterBypass
-category: java
+key: Java.D.DocumentFilter.FilterBypass
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

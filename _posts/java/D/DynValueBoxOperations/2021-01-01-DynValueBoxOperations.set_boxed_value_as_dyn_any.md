@@ -1,9 +1,9 @@
 ---
 title: DynValueBoxOperations.set_boxed_value_as_dyn_any()
-permalink: Java/DynValueBoxOperations/set_boxed_value_as_dyn_any
+permalink: /Java/DynValueBoxOperations/set_boxed_value_as_dyn_any/
 date: 2021-01-11
-key: JavaJava.D.DynValueBoxOperations
-category: java
+key: Java.D.DynValueBoxOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FileVisitor
-permalink: Java/FileVisitor
+permalink: /Java/FileVisitor/
 date: 2021-01-11
-key: JavaJava.F.FileVisitor
-category: java
+key: Java.F.FileVisitor
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Environment.exception()
-permalink: Java/Environment/exception
+permalink: /Java/Environment/exception/
 date: 2021-01-11
-key: JavaJava.E.Environment
-category: java
+key: Java.E.Environment
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

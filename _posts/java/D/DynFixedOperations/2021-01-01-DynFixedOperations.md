@@ -1,9 +1,9 @@
 ---
 title: DynFixedOperations
-permalink: Java/DynFixedOperations
+permalink: /Java/DynFixedOperations/
 date: 2021-01-11
-key: JavaJava.D.DynFixedOperations
-category: java
+key: Java.D.DynFixedOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

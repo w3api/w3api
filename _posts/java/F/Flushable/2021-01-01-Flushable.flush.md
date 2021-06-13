@@ -1,9 +1,9 @@
 ---
 title: Flushable.flush()
-permalink: Java/Flushable/flush
+permalink: /Java/Flushable/flush/
 date: 2021-01-11
-key: JavaJava.F.Flushable
-category: java
+key: Java.F.Flushable
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

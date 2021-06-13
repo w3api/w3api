@@ -1,9 +1,9 @@
 ---
 title: DynAnyFactoryOperations.create_dyn_any()
-permalink: Java/DynAnyFactoryOperations/create_dyn_any
+permalink: /Java/DynAnyFactoryOperations/create_dyn_any/
 date: 2021-01-11
-key: JavaJava.D.DynAnyFactoryOperations
-category: java
+key: Java.D.DynAnyFactoryOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

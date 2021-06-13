@@ -1,9 +1,9 @@
 ---
 title: DrbgParameters.NextBytes.getAdditionalInput()
-permalink: Java/DrbgParameters/NextBytes/getAdditionalInput
+permalink: /Java/DrbgParameters/NextBytes/getAdditionalInput/
 date: 2021-01-11
-key: JavaJava.D.DrbgParameters.NextBytes
-category: java
+key: Java.D.DrbgParameters.NextBytes
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

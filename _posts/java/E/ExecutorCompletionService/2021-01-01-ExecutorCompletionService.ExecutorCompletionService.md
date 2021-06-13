@@ -1,9 +1,9 @@
 ---
 title: ExecutorCompletionService.ExecutorCompletionService()
-permalink: Java/ExecutorCompletionService/ExecutorCompletionService
+permalink: /Java/ExecutorCompletionService/ExecutorCompletionService/
 date: 2021-01-11
-key: JavaJava.E.ExecutorCompletionService
-category: java
+key: Java.E.ExecutorCompletionService
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

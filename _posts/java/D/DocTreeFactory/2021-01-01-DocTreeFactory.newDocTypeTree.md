@@ -1,9 +1,9 @@
 ---
 title: DocTreeFactory.newDocTypeTree()
-permalink: Java/DocTreeFactory/newDocTypeTree
+permalink: /Java/DocTreeFactory/newDocTypeTree/
 date: 2021-01-11
-key: JavaJava.D.DocTreeFactory
-category: java
+key: Java.D.DocTreeFactory
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

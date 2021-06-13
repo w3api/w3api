@@ -1,9 +1,9 @@
 ---
 title: EnumControl.EnumControl()
-permalink: Java/EnumControl/EnumControl
+permalink: /Java/EnumControl/EnumControl/
 date: 2021-01-11
-key: JavaJava.E.EnumControl
-category: java
+key: Java.E.EnumControl
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

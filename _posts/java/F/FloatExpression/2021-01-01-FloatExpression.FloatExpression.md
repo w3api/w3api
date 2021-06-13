@@ -1,9 +1,9 @@
 ---
 title: FloatExpression.floatExpression()
-permalink: Java/FloatExpression/floatExpression
+permalink: /Java/FloatExpression/floatExpression/
 date: 2021-01-11
-key: JavaJava.F.FloatExpression
-category: java
+key: Java.F.FloatExpression
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ExifParentTIFFTagSet
-permalink: Java/ExifParentTIFFTagSet
+permalink: /Java/ExifParentTIFFTagSet/
 date: 2021-01-11
-key: JavaJava.E.ExifParentTIFFTagSet
-category: java
+key: Java.E.ExifParentTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

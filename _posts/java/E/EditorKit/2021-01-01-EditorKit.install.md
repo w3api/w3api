@@ -1,9 +1,9 @@
 ---
 title: EditorKit.install()
-permalink: Java/EditorKit/install
+permalink: /Java/EditorKit/install/
 date: 2021-01-11
-key: JavaJava.E.EditorKit
-category: java
+key: Java.E.EditorKit
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

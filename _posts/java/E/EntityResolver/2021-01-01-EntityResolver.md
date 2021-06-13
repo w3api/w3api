@@ -1,9 +1,9 @@
 ---
 title: EntityResolver
-permalink: Java/EntityResolver
+permalink: /Java/EntityResolver/
 date: 2021-01-11
-key: JavaJava.E.EntityResolver
-category: java
+key: Java.E.EntityResolver
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'interface java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 
   nav: java

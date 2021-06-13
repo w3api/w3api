@@ -1,9 +1,9 @@
 ---
 title: FileHandler
-permalink: Java/FileHandler
+permalink: /Java/FileHandler/
 date: 2021-01-11
-key: JavaJava.F.FileHandler
-category: java
+key: Java.F.FileHandler
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

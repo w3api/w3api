@@ -1,9 +1,9 @@
 ---
 title: EventContext.addNamingListener()
-permalink: Java/EventContext/addNamingListener
+permalink: /Java/EventContext/addNamingListener/
 date: 2021-01-11
-key: JavaJava.E.EventContext
-category: java
+key: Java.E.EventContext
+category: Java
 tags: ['java se', 'javax.naming.event', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DoubleSeqHelper.insert()
-permalink: Java/DoubleSeqHelper/insert
+permalink: /Java/DoubleSeqHelper/insert/
 date: 2021-01-11
-key: JavaJava.D.DoubleSeqHelper
-category: java
+key: Java.D.DoubleSeqHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

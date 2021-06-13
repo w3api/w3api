@@ -1,9 +1,9 @@
 ---
 title: ErroneousTree
-permalink: Java/ErroneousTree-com-sun-source-tree
+permalink: /Java/ErroneousTree-com-sun-source-tree/
 date: 2021-01-11
-key: JavaJava.E.ErroneousTree-com-sun-source-tree
-category: java
+key: Java.E.ErroneousTree-com-sun-source-tree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

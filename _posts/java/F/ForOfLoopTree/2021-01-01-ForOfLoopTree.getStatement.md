@@ -1,9 +1,9 @@
 ---
 title: ForOfLoopTree.getStatement()
-permalink: Java/ForOfLoopTree/getStatement
+permalink: /Java/ForOfLoopTree/getStatement/
 date: 2021-01-11
-key: JavaJava.F.ForOfLoopTree
-category: java
+key: Java.F.ForOfLoopTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

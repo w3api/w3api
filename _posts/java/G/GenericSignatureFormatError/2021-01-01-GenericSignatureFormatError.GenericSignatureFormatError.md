@@ -1,9 +1,9 @@
 ---
 title: GenericSignatureFormatError.GenericSignatureFormatError()
-permalink: Java/GenericSignatureFormatError/GenericSignatureFormatError
+permalink: /Java/GenericSignatureFormatError/GenericSignatureFormatError/
 date: 2021-01-11
-key: JavaJava.G.GenericSignatureFormatError
-category: java
+key: Java.G.GenericSignatureFormatError
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

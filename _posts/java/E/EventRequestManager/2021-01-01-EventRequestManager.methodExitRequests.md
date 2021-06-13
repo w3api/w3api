@@ -1,9 +1,9 @@
 ---
 title: EventRequestManager.methodExitRequests()
-permalink: Java/EventRequestManager/methodExitRequests
+permalink: /Java/EventRequestManager/methodExitRequests/
 date: 2021-01-11
-key: JavaJava.E.EventRequestManager
-category: java
+key: Java.E.EventRequestManager
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

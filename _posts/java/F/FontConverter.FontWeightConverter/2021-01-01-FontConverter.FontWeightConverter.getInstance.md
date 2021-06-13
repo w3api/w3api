@@ -1,9 +1,9 @@
 ---
 title: FontConverter.FontWeightConverter.getInstance()
-permalink: Java/FontConverter/FontWeightConverter/getInstance
+permalink: /Java/FontConverter/FontWeightConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.F.FontConverter.FontWeightConverter
-category: java
+key: Java.F.FontConverter.FontWeightConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

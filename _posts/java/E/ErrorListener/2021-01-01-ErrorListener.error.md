@@ -1,9 +1,9 @@
 ---
 title: ErrorListener.error()
-permalink: Java/ErrorListener/error
+permalink: /Java/ErrorListener/error/
 date: 2021-01-11
-key: JavaJava.E.ErrorListener
-category: java
+key: Java.E.ErrorListener
+category: Java
 tags: ['java se', 'javax.xml.transform', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

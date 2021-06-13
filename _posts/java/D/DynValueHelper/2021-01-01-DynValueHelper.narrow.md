@@ -1,9 +1,9 @@
 ---
 title: DynValueHelper.narrow()
-permalink: Java/DynValueHelper/narrow
+permalink: /Java/DynValueHelper/narrow/
 date: 2021-01-11
-key: JavaJava.D.DynValueHelper
-category: java
+key: Java.D.DynValueHelper
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

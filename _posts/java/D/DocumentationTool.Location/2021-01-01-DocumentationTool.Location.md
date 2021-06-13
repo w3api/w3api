@@ -1,9 +1,9 @@
 ---
 title: DocumentationTool.Location
-permalink: Java/DocumentationTool/Location
+permalink: /Java/DocumentationTool/Location/
 date: 2021-01-11
-key: JavaJava.D.DocumentationTool.Location
-category: java
+key: Java.D.DocumentationTool.Location
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'enumerado java', 'Java 1.0']
 sidebar: 
   nav: java

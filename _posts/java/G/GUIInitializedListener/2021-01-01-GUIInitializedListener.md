@@ -1,9 +1,9 @@
 ---
 title: GUIInitializedListener
-permalink: Java/GUIInitializedListener
+permalink: /Java/GUIInitializedListener/
 date: 2021-01-11
-key: JavaJava.G.GUIInitializedListener
-category: java
+key: Java.G.GUIInitializedListener
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

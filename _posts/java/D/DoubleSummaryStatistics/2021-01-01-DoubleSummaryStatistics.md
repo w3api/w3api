@@ -1,9 +1,9 @@
 ---
 title: DoubleSummaryStatistics
-permalink: Java/DoubleSummaryStatistics
+permalink: /Java/DoubleSummaryStatistics/
 date: 2021-01-11
-key: JavaJava.D.DoubleSummaryStatistics
-category: java
+key: Java.D.DoubleSummaryStatistics
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

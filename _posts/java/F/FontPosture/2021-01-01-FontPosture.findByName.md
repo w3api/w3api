@@ -1,9 +1,9 @@
 ---
 title: FontPosture.findByName()
-permalink: Java/FontPosture/findByName
+permalink: /Java/FontPosture/findByName/
 date: 2021-01-11
-key: JavaJava.F.FontPosture
-category: java
+key: Java.F.FontPosture
+category: Java
 tags: ['java se', 'javafx.scene.text', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DynamicImplementation
-permalink: Java/DynamicImplementation/
+permalink: /Java/DynamicImplementation//
 date: 2021-01-11
-key: JavaJava.D.DynamicImplementation
-category: java
+key: Java.D.DynamicImplementation
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

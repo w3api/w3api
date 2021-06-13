@@ -1,9 +1,9 @@
 ---
 title: FocusEvent.Cause.ACTIVATION
-permalink: Java/FocusEvent/Cause/ACTIVATION
+permalink: /Java/FocusEvent/Cause/ACTIVATION/
 date: 2021-01-11
-key: JavaJava.F.FocusEvent.Cause
-category: java
+key: Java.F.FocusEvent.Cause
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

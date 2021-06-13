@@ -1,9 +1,9 @@
 ---
 title: EventException
-permalink: Java/EventException
+permalink: /Java/EventException/
 date: 2021-01-11
-key: JavaJava.E.EventException
-category: java
+key: Java.E.EventException
+category: Java
 tags: ['java se', 'org.w3c.dom.events', 'java.xml', 'clase java', 'Java 1.5', 'DOM Level 2']
 sidebar: 
   nav: java

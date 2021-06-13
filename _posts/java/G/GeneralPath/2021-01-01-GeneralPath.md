@@ -1,9 +1,9 @@
 ---
 title: GeneralPath
-permalink: Java/GeneralPath
+permalink: /Java/GeneralPath/
 date: 2021-01-11
-key: JavaJava.G.GeneralPath
-category: java
+key: Java.G.GeneralPath
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

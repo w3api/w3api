@@ -1,9 +1,9 @@
 ---
 title: Generated
-permalink: Java/Generated-javax-annotation-processing
+permalink: /Java/Generated-javax-annotation-processing/
 date: 2021-01-11
-key: JavaJava.G.Generated-javax-annotation-processing
-category: java
+key: Java.G.Generated-javax-annotation-processing
+category: Java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'anotacion java', 'Java 9']
 sidebar: 
   nav: java

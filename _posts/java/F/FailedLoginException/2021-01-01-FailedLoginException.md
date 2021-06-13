@@ -1,9 +1,9 @@
 ---
 title: FailedLoginException
-permalink: Java/FailedLoginException
+permalink: /Java/FailedLoginException/
 date: 2021-01-11
-key: JavaJava.F.FailedLoginException
-category: java
+key: Java.F.FailedLoginException
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

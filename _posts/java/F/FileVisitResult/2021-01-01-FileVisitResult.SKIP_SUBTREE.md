@@ -1,9 +1,9 @@
 ---
 title: FileVisitResult.SKIP_SUBTREE
-permalink: Java/FileVisitResult/SKIP_SUBTREE
+permalink: /Java/FileVisitResult/SKIP_SUBTREE/
 date: 2021-01-11
-key: JavaJava.F.FileVisitResult
-category: java
+key: Java.F.FileVisitResult
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

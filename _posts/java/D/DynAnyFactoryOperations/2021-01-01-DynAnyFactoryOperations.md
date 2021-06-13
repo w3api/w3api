@@ -1,9 +1,9 @@
 ---
 title: DynAnyFactoryOperations
-permalink: Java/DynAnyFactoryOperations
+permalink: /Java/DynAnyFactoryOperations/
 date: 2021-01-11
-key: JavaJava.D.DynAnyFactoryOperations
-category: java
+key: Java.D.DynAnyFactoryOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

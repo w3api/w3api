@@ -1,9 +1,9 @@
 ---
 title: DynUnionOperations
-permalink: Java/DynUnionOperations
+permalink: /Java/DynUnionOperations/
 date: 2021-01-11
-key: JavaJava.D.DynUnionOperations
-category: java
+key: Java.D.DynUnionOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

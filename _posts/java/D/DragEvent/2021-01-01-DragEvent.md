@@ -1,9 +1,9 @@
 ---
 title: DragEvent
-permalink: Java/DragEvent
+permalink: /Java/DragEvent/
 date: 2021-01-11
-key: JavaJava.D.DragEvent
-category: java
+key: Java.D.DragEvent
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FileContents.getInputStream()
-permalink: Java/FileContents/getInputStream
+permalink: /Java/FileContents/getInputStream/
 date: 2021-01-11
-key: JavaJava.F.FileContents
-category: java
+key: Java.F.FileContents
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.4.2']
 sidebar: 
   nav: java

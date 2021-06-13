@@ -1,9 +1,9 @@
 ---
 title: DocumentBuilder.reset()
-permalink: Java/DocumentBuilder/reset
+permalink: /Java/DocumentBuilder/reset/
 date: 2021-01-11
-key: JavaJava.D.DocumentBuilder
-category: java
+key: Java.D.DocumentBuilder
+category: Java
 tags: ['java se', 'javax.xml.parsers', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

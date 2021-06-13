@@ -1,9 +1,9 @@
 ---
 title: DocumentParser.handleEmptyTag()
-permalink: Java/DocumentParser/handleEmptyTag
+permalink: /Java/DocumentParser/handleEmptyTag/
 date: 2021-01-11
-key: JavaJava.D.DocumentParser
-category: java
+key: Java.D.DocumentParser
+category: Java
 tags: ['java se', 'javax.swing.text.html.parser', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

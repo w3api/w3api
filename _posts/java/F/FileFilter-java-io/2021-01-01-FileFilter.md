@@ -1,9 +1,9 @@
 ---
 title: FileFilter
-permalink: Java/FileFilter-java-io
+permalink: /Java/FileFilter-java-io/
 date: 2021-01-11
-key: JavaJava.F.FileFilter-java-io
-category: java
+key: Java.F.FileFilter-java-io
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

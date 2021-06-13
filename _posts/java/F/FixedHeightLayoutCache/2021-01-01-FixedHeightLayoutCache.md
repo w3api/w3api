@@ -1,9 +1,9 @@
 ---
 title: FixedHeightLayoutCache
-permalink: Java/FixedHeightLayoutCache
+permalink: /Java/FixedHeightLayoutCache/
 date: 2021-01-11
-key: JavaJava.F.FixedHeightLayoutCache
-category: java
+key: Java.F.FixedHeightLayoutCache
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FontConverter
-permalink: Java/FontConverter
+permalink: /Java/FontConverter/
 date: 2021-01-11
-key: JavaJava.F.FontConverter
-category: java
+key: Java.F.FontConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 
   nav: java

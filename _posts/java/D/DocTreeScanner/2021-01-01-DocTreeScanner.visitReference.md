@@ -1,9 +1,9 @@
 ---
 title: DocTreeScanner.visitReference()
-permalink: Java/DocTreeScanner/visitReference
+permalink: /Java/DocTreeScanner/visitReference/
 date: 2021-01-11
-key: JavaJava.D.DocTreeScanner
-category: java
+key: Java.D.DocTreeScanner
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

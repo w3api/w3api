@@ -1,9 +1,9 @@
 ---
 title: FormatMismatch
-permalink: Java/FormatMismatch
+permalink: /Java/FormatMismatch/
 date: 2021-01-11
-key: JavaJava.F.FormatMismatch
-category: java
+key: Java.F.FormatMismatch
+category: Java
 tags: ['java se', 'org.omg.IOP.CodecPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

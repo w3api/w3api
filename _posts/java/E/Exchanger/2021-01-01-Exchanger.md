@@ -1,9 +1,9 @@
 ---
 title: Exchanger
-permalink: Java/Exchanger
+permalink: /Java/Exchanger/
 date: 2021-01-11
-key: JavaJava.E.Exchanger
-category: java
+key: Java.E.Exchanger
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

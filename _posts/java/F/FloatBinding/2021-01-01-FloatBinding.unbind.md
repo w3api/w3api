@@ -1,9 +1,9 @@
 ---
 title: FloatBinding.unbind()
-permalink: Java/FloatBinding/unbind
+permalink: /Java/FloatBinding/unbind/
 date: 2021-01-11
-key: JavaJava.F.FloatBinding
-category: java
+key: Java.F.FloatBinding
+category: Java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

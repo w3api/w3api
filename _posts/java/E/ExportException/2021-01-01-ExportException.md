@@ -1,9 +1,9 @@
 ---
 title: ExportException
-permalink: Java/ExportException
+permalink: /Java/ExportException/
 date: 2021-01-11
-key: JavaJava.E.ExportException
-category: java
+key: Java.E.ExportException
+category: Java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

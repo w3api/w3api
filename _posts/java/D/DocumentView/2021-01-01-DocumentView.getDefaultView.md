@@ -1,9 +1,9 @@
 ---
 title: DocumentView.getDefaultView()
-permalink: Java/DocumentView/getDefaultView
+permalink: /Java/DocumentView/getDefaultView/
 date: 2021-01-11
-key: JavaJava.D.DocumentView
-category: java
+key: Java.D.DocumentView
+category: Java
 tags: ['java se', 'org.w3c.dom.views', 'java.xml', 'metodo java', 'Java 1.8', 'DOM Level 2']
 sidebar: 
   nav: java

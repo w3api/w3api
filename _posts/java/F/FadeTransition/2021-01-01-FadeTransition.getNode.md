@@ -1,9 +1,9 @@
 ---
 title: FadeTransition.getNode()
-permalink: Java/FadeTransition/getNode
+permalink: /Java/FadeTransition/getNode/
 date: 2021-01-11
-key: JavaJava.F.FadeTransition
-category: java
+key: Java.F.FadeTransition
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

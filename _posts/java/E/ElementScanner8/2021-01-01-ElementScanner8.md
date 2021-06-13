@@ -1,9 +1,9 @@
 ---
 title: ElementScanner8
-permalink: Java/ElementScanner8
+permalink: /Java/ElementScanner8/
 date: 2021-01-11
-key: JavaJava.E.ElementScanner8
-category: java
+key: Java.E.ElementScanner8
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

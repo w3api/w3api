@@ -1,9 +1,9 @@
 ---
 title: FlavorException.getUnsupportedFlavors()
-permalink: Java/FlavorException/getUnsupportedFlavors
+permalink: /Java/FlavorException/getUnsupportedFlavors/
 date: 2021-01-11
-key: JavaJava.F.FlavorException
-category: java
+key: Java.F.FlavorException
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

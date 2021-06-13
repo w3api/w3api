@@ -1,9 +1,9 @@
 ---
 title: DocletEnvironment
-permalink: Java/DocletEnvironment
+permalink: /Java/DocletEnvironment/
 date: 2021-01-11
-key: JavaJava.D.DocletEnvironment
-category: java
+key: Java.D.DocletEnvironment
+category: Java
 tags: ['java se', 'jdk.javadoc.doclet', 'jdk.javadoc', 'interface java', 'Java 9']
 sidebar: 
   nav: java

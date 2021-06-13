@@ -1,9 +1,9 @@
 ---
 title: FloatStringConverter
-permalink: Java/FloatStringConverter
+permalink: /Java/FloatStringConverter/
 date: 2021-01-11
-key: JavaJava.F.FloatStringConverter
-category: java
+key: Java.F.FloatStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

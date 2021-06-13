@@ -1,9 +1,9 @@
 ---
 title: ExtensionInstallerService.setHeading()
-permalink: Java/ExtensionInstallerService/setHeading
+permalink: /Java/ExtensionInstallerService/setHeading/
 date: 2021-01-11
-key: JavaJava.E.ExtensionInstallerService
-category: java
+key: Java.E.ExtensionInstallerService
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.4.2']
 sidebar: 
   nav: java

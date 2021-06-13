@@ -1,9 +1,9 @@
 ---
 title: GaugeMonitorMBean.getHighThreshold()
-permalink: Java/GaugeMonitorMBean/getHighThreshold
+permalink: /Java/GaugeMonitorMBean/getHighThreshold/
 date: 2021-01-11
-key: JavaJava.G.GaugeMonitorMBean
-category: java
+key: Java.G.GaugeMonitorMBean
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

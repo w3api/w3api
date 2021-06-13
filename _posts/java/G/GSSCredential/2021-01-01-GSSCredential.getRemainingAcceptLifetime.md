@@ -1,9 +1,9 @@
 ---
 title: GSSCredential.getRemainingAcceptLifetime()
-permalink: Java/GSSCredential/getRemainingAcceptLifetime
+permalink: /Java/GSSCredential/getRemainingAcceptLifetime/
 date: 2021-01-11
-key: JavaJava.G.GSSCredential
-category: java
+key: Java.G.GSSCredential
+category: Java
 tags: ['java se', 'org.ietf.jgss', 'java.security.jgss', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ForwardRequest
-permalink: Java/ForwardRequest/
+permalink: /Java/ForwardRequest//
 date: 2021-01-11
-key: JavaJava.F.ForwardRequest
-category: java
+key: Java.F.ForwardRequest
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

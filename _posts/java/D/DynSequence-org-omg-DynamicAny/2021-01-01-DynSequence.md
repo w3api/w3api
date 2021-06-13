@@ -1,9 +1,9 @@
 ---
 title: DynSequence
-permalink: Java/DynSequence-org-omg-DynamicAny
+permalink: /Java/DynSequence-org-omg-DynamicAny/
 date: 2021-01-11
-key: JavaJava.D.DynSequence-org-omg-DynamicAny
-category: java
+key: Java.D.DynSequence-org-omg-DynamicAny
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

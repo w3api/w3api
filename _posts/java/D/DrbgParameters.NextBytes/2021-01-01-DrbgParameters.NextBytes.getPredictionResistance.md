@@ -1,9 +1,9 @@
 ---
 title: DrbgParameters.NextBytes.getPredictionResistance()
-permalink: Java/DrbgParameters/NextBytes/getPredictionResistance
+permalink: /Java/DrbgParameters/NextBytes/getPredictionResistance/
 date: 2021-01-11
-key: JavaJava.D.DrbgParameters.NextBytes
-category: java
+key: Java.D.DrbgParameters.NextBytes
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

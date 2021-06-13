@@ -1,9 +1,9 @@
 ---
 title: FloatProperty
-permalink: Java/FloatProperty
+permalink: /Java/FloatProperty/
 date: 2021-01-11
-key: JavaJava.F.FloatProperty
-category: java
+key: Java.F.FloatProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

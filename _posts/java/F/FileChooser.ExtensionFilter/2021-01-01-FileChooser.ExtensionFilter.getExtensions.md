@@ -1,9 +1,9 @@
 ---
 title: FileChooser.ExtensionFilter.getExtensions()
-permalink: Java/FileChooser/ExtensionFilter/getExtensions
+permalink: /Java/FileChooser/ExtensionFilter/getExtensions/
 date: 2021-01-11
-key: JavaJava.F.FileChooser.ExtensionFilter
-category: java
+key: Java.F.FileChooser.ExtensionFilter
+category: Java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

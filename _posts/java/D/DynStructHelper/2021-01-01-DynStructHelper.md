@@ -1,9 +1,9 @@
 ---
 title: DynStructHelper
-permalink: Java/DynStructHelper
+permalink: /Java/DynStructHelper/
 date: 2021-01-11
-key: JavaJava.D.DynStructHelper
-category: java
+key: Java.D.DynStructHelper
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

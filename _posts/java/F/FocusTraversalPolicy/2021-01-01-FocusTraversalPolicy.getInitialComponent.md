@@ -1,9 +1,9 @@
 ---
 title: FocusTraversalPolicy.getInitialComponent()
-permalink: Java/FocusTraversalPolicy/getInitialComponent
+permalink: /Java/FocusTraversalPolicy/getInitialComponent/
 date: 2021-01-11
-key: JavaJava.F.FocusTraversalPolicy
-category: java
+key: Java.F.FocusTraversalPolicy
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

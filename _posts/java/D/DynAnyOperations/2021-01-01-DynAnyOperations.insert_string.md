@@ -1,9 +1,9 @@
 ---
 title: DynAnyOperations.insert_string()
-permalink: Java/DynAnyOperations/insert_string
+permalink: /Java/DynAnyOperations/insert_string/
 date: 2021-01-11
-key: JavaJava.D.DynAnyOperations
-category: java
+key: Java.D.DynAnyOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

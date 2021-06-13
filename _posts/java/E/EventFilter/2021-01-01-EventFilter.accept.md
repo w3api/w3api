@@ -1,9 +1,9 @@
 ---
 title: EventFilter.accept()
-permalink: Java/EventFilter/accept
+permalink: /Java/EventFilter/accept/
 date: 2021-01-11
-key: JavaJava.E.EventFilter
-category: java
+key: Java.E.EventFilter
+category: Java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

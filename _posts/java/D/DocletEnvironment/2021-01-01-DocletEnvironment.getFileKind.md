@@ -1,9 +1,9 @@
 ---
 title: DocletEnvironment.getFileKind()
-permalink: Java/DocletEnvironment/getFileKind
+permalink: /Java/DocletEnvironment/getFileKind/
 date: 2021-01-11
-key: JavaJava.D.DocletEnvironment
-category: java
+key: Java.D.DocletEnvironment
+category: Java
 tags: ['java se', 'jdk.javadoc.doclet', 'jdk.javadoc', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

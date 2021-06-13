@@ -1,9 +1,9 @@
 ---
 title: FaxTIFFTagSet.getInstance()
-permalink: Java/FaxTIFFTagSet/getInstance
+permalink: /Java/FaxTIFFTagSet/getInstance/
 date: 2021-01-11
-key: JavaJava.F.FaxTIFFTagSet
-category: java
+key: Java.F.FaxTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

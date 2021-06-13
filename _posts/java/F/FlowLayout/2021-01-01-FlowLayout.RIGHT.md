@@ -1,9 +1,9 @@
 ---
 title: FlowLayout.RIGHT
-permalink: Java/FlowLayout/RIGHT
+permalink: /Java/FlowLayout/RIGHT/
 date: 2021-01-11
-key: JavaJava.F.FlowLayout
-category: java
+key: Java.F.FlowLayout
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

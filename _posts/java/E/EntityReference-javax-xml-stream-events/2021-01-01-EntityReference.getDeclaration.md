@@ -1,9 +1,9 @@
 ---
 title: EntityReference.getDeclaration()
-permalink: Java/EntityReference-javax-xml-stream-events/getDeclaration
+permalink: /Java/EntityReference-javax-xml-stream-events/getDeclaration/
 date: 2021-01-11
-key: JavaJava.E.EntityReference-javax-xml-stream-events
-category: java
+key: Java.E.EntityReference-javax-xml-stream-events
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

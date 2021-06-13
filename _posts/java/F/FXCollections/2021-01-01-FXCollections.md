@@ -1,9 +1,9 @@
 ---
 title: FXCollections
-permalink: Java/FXCollections
+permalink: /Java/FXCollections/
 date: 2021-01-11
-key: JavaJava.F.FXCollections
-category: java
+key: Java.F.FXCollections
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

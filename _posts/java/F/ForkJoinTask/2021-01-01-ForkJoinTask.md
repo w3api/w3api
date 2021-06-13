@@ -1,9 +1,9 @@
 ---
 title: ForkJoinTask
-permalink: Java/ForkJoinTask
+permalink: /Java/ForkJoinTask/
 date: 2021-01-11
-key: JavaJava.F.ForkJoinTask
-category: java
+key: Java.F.ForkJoinTask
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

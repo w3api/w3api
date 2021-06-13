@@ -1,9 +1,9 @@
 ---
 title: DocTreePath.getPath()
-permalink: Java/DocTreePath/getPath
+permalink: /Java/DocTreePath/getPath/
 date: 2021-01-11
-key: JavaJava.D.DocTreePath
-category: java
+key: Java.D.DocTreePath
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

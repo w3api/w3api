@@ -1,9 +1,9 @@
 ---
 title: FileTypeMap.getDefaultFileTypeMap()
-permalink: Java/FileTypeMap/getDefaultFileTypeMap
+permalink: /Java/FileTypeMap/getDefaultFileTypeMap/
 date: 2021-01-11
-key: JavaJava.F.FileTypeMap
-category: java
+key: Java.F.FileTypeMap
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

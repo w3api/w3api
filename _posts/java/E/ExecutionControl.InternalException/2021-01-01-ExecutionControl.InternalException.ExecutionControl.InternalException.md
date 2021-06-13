@@ -1,9 +1,9 @@
 ---
 title: ExecutionControl.InternalException.ExecutionControl.InternalException()
-permalink: Java/ExecutionControl/InternalException/ExecutionControl/InternalException
+permalink: /Java/ExecutionControl/InternalException/ExecutionControl/InternalException/
 date: 2021-01-11
-key: JavaJava.E.ExecutionControl.InternalException
-category: java
+key: Java.E.ExecutionControl.InternalException
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

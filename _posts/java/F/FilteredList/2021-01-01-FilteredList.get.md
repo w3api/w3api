@@ -1,9 +1,9 @@
 ---
 title: FilteredList.get()
-permalink: Java/FilteredList/get
+permalink: /Java/FilteredList/get/
 date: 2021-01-11
-key: JavaJava.F.FilteredList
-category: java
+key: Java.F.FilteredList
+category: Java
 tags: ['java se', 'javafx.collections.transformation', 'javafx.base', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

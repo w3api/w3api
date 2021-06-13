@@ -1,9 +1,9 @@
 ---
 title: GeneralSecurityException.GeneralSecurityException()
-permalink: Java/GeneralSecurityException/GeneralSecurityException
+permalink: /Java/GeneralSecurityException/GeneralSecurityException/
 date: 2021-01-11
-key: JavaJava.G.GeneralSecurityException
-category: java
+key: Java.G.GeneralSecurityException
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

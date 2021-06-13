@@ -1,9 +1,9 @@
 ---
 title: EventIterator
-permalink: Java/EventIterator
+permalink: /Java/EventIterator/
 date: 2021-01-11
-key: JavaJava.E.EventIterator
-category: java
+key: Java.E.EventIterator
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FlightRecorderMXBean.getRecordingOptions()
-permalink: Java/FlightRecorderMXBean/getRecordingOptions
+permalink: /Java/FlightRecorderMXBean/getRecordingOptions/
 date: 2021-01-11
-key: JavaJava.F.FlightRecorderMXBean
-category: java
+key: Java.F.FlightRecorderMXBean
+category: Java
 tags: ['java se', 'jdk.management.jfr', 'jdk.management.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

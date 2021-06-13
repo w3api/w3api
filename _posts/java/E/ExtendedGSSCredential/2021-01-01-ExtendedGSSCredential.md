@@ -1,9 +1,9 @@
 ---
 title: ExtendedGSSCredential
-permalink: Java/ExtendedGSSCredential
+permalink: /Java/ExtendedGSSCredential/
 date: 2021-01-11
-key: JavaJava.E.ExtendedGSSCredential
-category: java
+key: Java.E.ExtendedGSSCredential
+category: Java
 tags: ['java se', 'com.sun.security.jgss', 'jdk.security.jgss', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

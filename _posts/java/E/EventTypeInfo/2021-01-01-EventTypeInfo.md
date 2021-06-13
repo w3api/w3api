@@ -1,9 +1,9 @@
 ---
 title: EventTypeInfo
-permalink: Java/EventTypeInfo
+permalink: /Java/EventTypeInfo/
 date: 2021-01-11
-key: JavaJava.E.EventTypeInfo
-category: java
+key: Java.E.EventTypeInfo
+category: Java
 tags: ['java se', 'jdk.management.jfr', 'jdk.management.jfr', 'clase java', 'Java 9']
 sidebar: 
   nav: java

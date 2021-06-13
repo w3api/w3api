@@ -1,9 +1,9 @@
 ---
 title: FieldNameHelper
-permalink: Java/FieldNameHelper/
+permalink: /Java/FieldNameHelper//
 date: 2021-01-11
-key: JavaJava.F.FieldNameHelper
-category: java
+key: Java.F.FieldNameHelper
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

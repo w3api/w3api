@@ -1,9 +1,9 @@
 ---
 title: EventTarget
-permalink: Java/EventTarget-javafx-event
+permalink: /Java/EventTarget-javafx-event/
 date: 2021-01-11
-key: JavaJava.E.EventTarget-javafx-event
-category: java
+key: Java.E.EventTarget-javafx-event
+category: Java
 tags: ['java se', 'javafx.event', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ForLoopTree.getCondition()
-permalink: Java/ForLoopTree-jdk-nashorn-api-tree/getCondition
+permalink: /Java/ForLoopTree-jdk-nashorn-api-tree/getCondition/
 date: 2021-01-11
-key: JavaJava.F.ForLoopTree-jdk-nashorn-api-tree
-category: java
+key: Java.F.ForLoopTree-jdk-nashorn-api-tree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

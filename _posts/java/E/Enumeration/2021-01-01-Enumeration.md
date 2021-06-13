@@ -1,9 +1,9 @@
 ---
 title: Enumeration
-permalink: Java/Enumeration
+permalink: /Java/Enumeration/
 date: 2021-01-11
-key: JavaJava.E.Enumeration
-category: java
+key: Java.E.Enumeration
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

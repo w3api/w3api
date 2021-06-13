@@ -1,9 +1,9 @@
 ---
 title: FileObject
-permalink: Java/FileObject
+permalink: /Java/FileObject/
 date: 2021-01-11
-key: JavaJava.F.FileObject
-category: java
+key: Java.F.FileObject
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

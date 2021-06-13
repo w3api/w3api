@@ -1,9 +1,9 @@
 ---
 title: DocPrintJob.removePrintJobListener()
-permalink: Java/DocPrintJob/removePrintJobListener
+permalink: /Java/DocPrintJob/removePrintJobListener/
 date: 2021-01-11
-key: JavaJava.D.DocPrintJob
-category: java
+key: Java.D.DocPrintJob
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

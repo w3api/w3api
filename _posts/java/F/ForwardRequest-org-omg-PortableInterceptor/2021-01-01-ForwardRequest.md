@@ -1,9 +1,9 @@
 ---
 title: ForwardRequest
-permalink: Java/ForwardRequest-org-omg-PortableInterceptor
+permalink: /Java/ForwardRequest-org-omg-PortableInterceptor/
 date: 2021-01-11
-key: JavaJava.F.ForwardRequest-org-omg-PortableInterceptor
-category: java
+key: Java.F.ForwardRequest-org-omg-PortableInterceptor
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: EventDispatcher
-permalink: Java/EventDispatcher
+permalink: /Java/EventDispatcher/
 date: 2021-01-11
-key: JavaJava.E.EventDispatcher
-category: java
+key: Java.E.EventDispatcher
+category: Java
 tags: ['java se', 'javafx.event', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ExifGPSTagSet.LONGITUDE_REF_EAST
-permalink: Java/ExifGPSTagSet/LONGITUDE_REF_EAST
+permalink: /Java/ExifGPSTagSet/LONGITUDE_REF_EAST/
 date: 2021-01-11
-key: JavaJava.E.ExifGPSTagSet
-category: java
+key: Java.E.ExifGPSTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ExportsTree
-permalink: Java/ExportsTree
+permalink: /Java/ExportsTree/
 date: 2021-01-11
-key: JavaJava.E.ExportsTree
-category: java
+key: Java.E.ExportsTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 9']
 sidebar: 
   nav: java

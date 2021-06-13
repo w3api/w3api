@@ -1,9 +1,9 @@
 ---
 title: GZIPOutputStream.crc
-permalink: Java/GZIPOutputStream/crc
+permalink: /Java/GZIPOutputStream/crc/
 date: 2021-01-11
-key: JavaJava.G.GZIPOutputStream
-category: java
+key: Java.G.GZIPOutputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

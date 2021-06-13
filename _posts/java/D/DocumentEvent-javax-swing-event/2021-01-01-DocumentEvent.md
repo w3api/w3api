@@ -1,9 +1,9 @@
 ---
 title: DocumentEvent
-permalink: Java/DocumentEvent-javax-swing-event
+permalink: /Java/DocumentEvent-javax-swing-event/
 date: 2021-01-11
-key: JavaJava.D.DocumentEvent-javax-swing-event
-category: java
+key: Java.D.DocumentEvent-javax-swing-event
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

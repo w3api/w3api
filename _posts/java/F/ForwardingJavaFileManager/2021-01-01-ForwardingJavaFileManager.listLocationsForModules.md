@@ -1,9 +1,9 @@
 ---
 title: ForwardingJavaFileManager.listLocationsForModules()
-permalink: Java/ForwardingJavaFileManager/listLocationsForModules
+permalink: /Java/ForwardingJavaFileManager/listLocationsForModules/
 date: 2021-01-11
-key: JavaJava.F.ForwardingJavaFileManager
-category: java
+key: Java.F.ForwardingJavaFileManager
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

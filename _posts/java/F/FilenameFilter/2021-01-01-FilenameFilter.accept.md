@@ -1,9 +1,9 @@
 ---
 title: FilenameFilter.accept()
-permalink: Java/FilenameFilter/accept
+permalink: /Java/FilenameFilter/accept/
 date: 2021-01-11
-key: JavaJava.F.FilenameFilter
-category: java
+key: Java.F.FilenameFilter
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

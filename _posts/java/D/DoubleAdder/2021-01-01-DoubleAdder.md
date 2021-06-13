@@ -1,9 +1,9 @@
 ---
 title: DoubleAdder
-permalink: Java/DoubleAdder
+permalink: /Java/DoubleAdder/
 date: 2021-01-11
-key: JavaJava.D.DoubleAdder
-category: java
+key: Java.D.DoubleAdder
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

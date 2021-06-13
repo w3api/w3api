@@ -1,9 +1,9 @@
 ---
 title: FileCacheImageInputStream.close()
-permalink: Java/FileCacheImageInputStream/close
+permalink: /Java/FileCacheImageInputStream/close/
 date: 2021-01-11
-key: JavaJava.F.FileCacheImageInputStream
-category: java
+key: Java.F.FileCacheImageInputStream
+category: Java
 tags: ['java se', 'javax.imageio.stream', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

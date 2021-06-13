@@ -1,9 +1,9 @@
 ---
 title: Finishings.Finishings()
-permalink: Java/Finishings/Finishings
+permalink: /Java/Finishings/Finishings/
 date: 2021-01-11
-key: JavaJava.F.Finishings
-category: java
+key: Java.F.Finishings
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ExecutableElement.getSimpleName()
-permalink: Java/ExecutableElement/getSimpleName
+permalink: /Java/ExecutableElement/getSimpleName/
 date: 2021-01-11
-key: JavaJava.E.ExecutableElement
-category: java
+key: Java.E.ExecutableElement
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

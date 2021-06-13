@@ -1,9 +1,9 @@
 ---
 title: FileChooserUI.getApproveButtonText()
-permalink: Java/FileChooserUI/getApproveButtonText
+permalink: /Java/FileChooserUI/getApproveButtonText/
 date: 2021-01-11
-key: JavaJava.F.FileChooserUI
-category: java
+key: Java.F.FileChooserUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

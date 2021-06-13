@@ -1,9 +1,9 @@
 ---
 title: GlyphView.GlyphPainter.GlyphView.GlyphPainter()
-permalink: Java/GlyphView/GlyphPainter/GlyphView/GlyphPainter
+permalink: /Java/GlyphView/GlyphPainter/GlyphView/GlyphPainter/
 date: 2021-01-11
-key: JavaJava.G.GlyphView.GlyphPainter
-category: java
+key: Java.G.GlyphView.GlyphPainter
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

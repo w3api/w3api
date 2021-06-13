@@ -1,9 +1,9 @@
 ---
 title: DownloadServiceListener.validating()
-permalink: Java/DownloadServiceListener/validating
+permalink: /Java/DownloadServiceListener/validating/
 date: 2021-01-11
-key: JavaJava.D.DownloadServiceListener
-category: java
+key: Java.D.DownloadServiceListener
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.4.2']
 sidebar: 
   nav: java

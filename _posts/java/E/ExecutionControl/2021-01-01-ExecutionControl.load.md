@@ -1,9 +1,9 @@
 ---
 title: ExecutionControl.load()
-permalink: Java/ExecutionControl/load
+permalink: /Java/ExecutionControl/load/
 date: 2021-01-11
-key: JavaJava.E.ExecutionControl
-category: java
+key: Java.E.ExecutionControl
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

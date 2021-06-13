@@ -1,9 +1,9 @@
 ---
 title: EtchedBorder
-permalink: Java/EtchedBorder
+permalink: /Java/EtchedBorder/
 date: 2021-01-11
-key: JavaJava.E.EtchedBorder
-category: java
+key: Java.E.EtchedBorder
+category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

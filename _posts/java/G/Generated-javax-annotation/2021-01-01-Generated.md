@@ -1,9 +1,9 @@
 ---
 title: Generated
-permalink: Java/Generated-javax-annotation
+permalink: /Java/Generated-javax-annotation/
 date: 2021-01-11
-key: JavaJava.G.Generated-javax-annotation
-category: java
+key: Java.G.Generated-javax-annotation
+category: Java
 tags: ['java se', 'javax.annotation', 'java.xml.ws.annotation', 'anotacion java', 'Java 1.6', 'Common Annotations Java 1.0']
 sidebar: 
   nav: java

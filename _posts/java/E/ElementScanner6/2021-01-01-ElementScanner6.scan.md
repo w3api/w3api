@@ -1,9 +1,9 @@
 ---
 title: ElementScanner6.scan()
-permalink: Java/ElementScanner6/scan
+permalink: /Java/ElementScanner6/scan/
 date: 2021-01-11
-key: JavaJava.E.ElementScanner6
-category: java
+key: Java.E.ElementScanner6
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

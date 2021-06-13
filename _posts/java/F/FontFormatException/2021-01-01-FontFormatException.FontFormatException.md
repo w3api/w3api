@@ -1,9 +1,9 @@
 ---
 title: FontFormatException.FontFormatException()
-permalink: Java/FontFormatException/FontFormatException
+permalink: /Java/FontFormatException/FontFormatException/
 date: 2021-01-11
-key: JavaJava.F.FontFormatException
-category: java
+key: Java.F.FontFormatException
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

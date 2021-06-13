@@ -1,9 +1,9 @@
 ---
 title: DoubleBuffer
-permalink: Java/DoubleBuffer
+permalink: /Java/DoubleBuffer/
 date: 2021-01-11
-key: JavaJava.D.DoubleBuffer
-category: java
+key: Java.D.DoubleBuffer
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

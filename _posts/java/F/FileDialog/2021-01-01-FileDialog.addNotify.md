@@ -1,9 +1,9 @@
 ---
 title: FileDialog.addNotify()
-permalink: Java/FileDialog/addNotify
+permalink: /Java/FileDialog/addNotify/
 date: 2021-01-11
-key: JavaJava.F.FileDialog
-category: java
+key: Java.F.FileDialog
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

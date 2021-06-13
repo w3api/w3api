@@ -1,9 +1,9 @@
 ---
 title: Documented
-permalink: Java/Documented
+permalink: /Java/Documented/
 date: 2021-01-11
-key: JavaJava.D.Documented
-category: java
+key: Java.D.Documented
+category: Java
 tags: ['java se', 'java.lang.annotation', 'java.base', 'anotacion java', 'Java 1.5']
 sidebar: 
   nav: java

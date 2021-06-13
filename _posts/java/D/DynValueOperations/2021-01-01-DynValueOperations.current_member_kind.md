@@ -1,9 +1,9 @@
 ---
 title: DynValueOperations.current_member_kind()
-permalink: Java/DynValueOperations/current_member_kind
+permalink: /Java/DynValueOperations/current_member_kind/
 date: 2021-01-11
-key: JavaJava.D.DynValueOperations
-category: java
+key: Java.D.DynValueOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

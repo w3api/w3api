@@ -1,9 +1,9 @@
 ---
 title: ECGenParameterSpec
-permalink: Java/ECGenParameterSpec
+permalink: /Java/ECGenParameterSpec/
 date: 2021-01-11
-key: JavaJava.E.ECGenParameterSpec
-category: java
+key: Java.E.ECGenParameterSpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

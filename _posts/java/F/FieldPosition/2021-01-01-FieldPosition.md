@@ -1,9 +1,9 @@
 ---
 title: FieldPosition
-permalink: Java/FieldPosition
+permalink: /Java/FieldPosition/
 date: 2021-01-11
-key: JavaJava.F.FieldPosition
-category: java
+key: Java.F.FieldPosition
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DocumentStyle.getStyleSheets()
-permalink: Java/DocumentStyle/getStyleSheets
+permalink: /Java/DocumentStyle/getStyleSheets/
 date: 2021-01-11
-key: JavaJava.D.DocumentStyle
-category: java
+key: Java.D.DocumentStyle
+category: Java
 tags: ['java se', 'org.w3c.dom.stylesheets', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

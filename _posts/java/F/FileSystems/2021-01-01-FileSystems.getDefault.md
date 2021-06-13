@@ -1,9 +1,9 @@
 ---
 title: FileSystems.getDefault()
-permalink: Java/FileSystems/getDefault
+permalink: /Java/FileSystems/getDefault/
 date: 2021-01-11
-key: JavaJava.F.FileSystems
-category: java
+key: Java.F.FileSystems
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: GaussianBlur
-permalink: Java/GaussianBlur
+permalink: /Java/GaussianBlur/
 date: 2021-01-11
-key: JavaJava.G.GaussianBlur
-category: java
+key: Java.G.GaussianBlur
+category: Java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

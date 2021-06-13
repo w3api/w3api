@@ -1,9 +1,9 @@
 ---
 title: FocusAdapter
-permalink: Java/FocusAdapter
+permalink: /Java/FocusAdapter/
 date: 2021-01-11
-key: JavaJava.F.FocusAdapter
-category: java
+key: Java.F.FocusAdapter
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

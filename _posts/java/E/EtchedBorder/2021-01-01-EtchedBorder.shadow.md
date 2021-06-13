@@ -1,9 +1,9 @@
 ---
 title: EtchedBorder.shadow
-permalink: Java/EtchedBorder/shadow
+permalink: /Java/EtchedBorder/shadow/
 date: 2021-01-11
-key: JavaJava.E.EtchedBorder
-category: java
+key: Java.E.EtchedBorder
+category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

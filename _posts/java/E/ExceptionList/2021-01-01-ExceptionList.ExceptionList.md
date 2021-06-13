@@ -1,9 +1,9 @@
 ---
 title: ExceptionList.ExceptionList()
-permalink: Java/ExceptionList/ExceptionList
+permalink: /Java/ExceptionList/ExceptionList/
 date: 2021-01-11
-key: JavaJava.E.ExceptionList
-category: java
+key: Java.E.ExceptionList
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

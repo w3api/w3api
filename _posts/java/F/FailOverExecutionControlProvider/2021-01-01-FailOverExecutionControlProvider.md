@@ -1,9 +1,9 @@
 ---
 title: FailOverExecutionControlProvider
-permalink: Java/FailOverExecutionControlProvider
+permalink: /Java/FailOverExecutionControlProvider/
 date: 2021-01-11
-key: JavaJava.F.FailOverExecutionControlProvider
-category: java
+key: Java.F.FailOverExecutionControlProvider
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

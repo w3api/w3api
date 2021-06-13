@@ -1,9 +1,9 @@
 ---
 title: DynamicLinker.getLinkerServices()
-permalink: Java/DynamicLinker/getLinkerServices
+permalink: /Java/DynamicLinker/getLinkerServices/
 date: 2021-01-11
-key: JavaJava.D.DynamicLinker
-category: java
+key: Java.D.DynamicLinker
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

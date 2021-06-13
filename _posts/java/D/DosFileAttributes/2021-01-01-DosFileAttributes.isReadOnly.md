@@ -1,9 +1,9 @@
 ---
 title: DosFileAttributes.isReadOnly()
-permalink: Java/DosFileAttributes/isReadOnly
+permalink: /Java/DosFileAttributes/isReadOnly/
 date: 2021-01-11
-key: JavaJava.D.DosFileAttributes
-category: java
+key: Java.D.DosFileAttributes
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DomainManager
-permalink: Java/DomainManager
+permalink: /Java/DomainManager/
 date: 2021-01-11
-key: JavaJava.D.DomainManager
-category: java
+key: Java.D.DomainManager
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

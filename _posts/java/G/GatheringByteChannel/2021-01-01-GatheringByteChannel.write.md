@@ -1,9 +1,9 @@
 ---
 title: GatheringByteChannel.write()
-permalink: Java/GatheringByteChannel/write
+permalink: /Java/GatheringByteChannel/write/
 date: 2021-01-11
-key: JavaJava.G.GatheringByteChannel
-category: java
+key: Java.G.GatheringByteChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

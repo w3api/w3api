@@ -1,9 +1,9 @@
 ---
 title: FontRenderContext.getTransform()
-permalink: Java/FontRenderContext/getTransform
+permalink: /Java/FontRenderContext/getTransform/
 date: 2021-01-11
-key: JavaJava.F.FontRenderContext
-category: java
+key: Java.F.FontRenderContext
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

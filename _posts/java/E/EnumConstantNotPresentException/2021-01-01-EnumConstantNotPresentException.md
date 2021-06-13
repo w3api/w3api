@@ -1,9 +1,9 @@
 ---
 title: EnumConstantNotPresentException
-permalink: Java/EnumConstantNotPresentException
+permalink: /Java/EnumConstantNotPresentException/
 date: 2021-01-11
-key: JavaJava.E.EnumConstantNotPresentException
-category: java
+key: Java.E.EnumConstantNotPresentException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

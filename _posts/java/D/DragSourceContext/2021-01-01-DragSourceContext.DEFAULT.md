@@ -1,9 +1,9 @@
 ---
 title: DragSourceContext.DEFAULT
-permalink: Java/DragSourceContext/DEFAULT
+permalink: /Java/DragSourceContext/DEFAULT/
 date: 2021-01-11
-key: JavaJava.D.DragSourceContext
-category: java
+key: Java.D.DragSourceContext
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

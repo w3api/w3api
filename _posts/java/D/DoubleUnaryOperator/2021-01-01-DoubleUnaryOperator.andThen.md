@@ -1,9 +1,9 @@
 ---
 title: DoubleUnaryOperator.andThen()
-permalink: Java/DoubleUnaryOperator/andThen
+permalink: /Java/DoubleUnaryOperator/andThen/
 date: 2021-01-11
-key: JavaJava.D.DoubleUnaryOperator
-category: java
+key: Java.D.DoubleUnaryOperator
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DynStructOperations.get_members()
-permalink: Java/DynStructOperations/get_members
+permalink: /Java/DynStructOperations/get_members/
 date: 2021-01-11
-key: JavaJava.D.DynStructOperations
-category: java
+key: Java.D.DynStructOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

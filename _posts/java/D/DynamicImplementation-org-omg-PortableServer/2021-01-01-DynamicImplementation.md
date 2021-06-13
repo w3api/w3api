@@ -1,9 +1,9 @@
 ---
 title: DynamicImplementation
-permalink: Java/DynamicImplementation-org-omg-PortableServer
+permalink: /Java/DynamicImplementation-org-omg-PortableServer/
 date: 2021-01-11
-key: JavaJava.D.DynamicImplementation-org-omg-PortableServer
-category: java
+key: Java.D.DynamicImplementation-org-omg-PortableServer
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

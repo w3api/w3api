@@ -1,9 +1,9 @@
 ---
 title: DynUnionOperations.member_name()
-permalink: Java/DynUnionOperations/member_name
+permalink: /Java/DynUnionOperations/member_name/
 date: 2021-01-11
-key: JavaJava.D.DynUnionOperations
-category: java
+key: Java.D.DynUnionOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

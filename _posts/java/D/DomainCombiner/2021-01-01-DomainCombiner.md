@@ -1,9 +1,9 @@
 ---
 title: DomainCombiner
-permalink: Java/DomainCombiner
+permalink: /Java/DomainCombiner/
 date: 2021-01-11
-key: JavaJava.D.DomainCombiner
-category: java
+key: Java.D.DomainCombiner
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

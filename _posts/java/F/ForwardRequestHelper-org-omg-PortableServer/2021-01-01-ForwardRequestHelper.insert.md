@@ -1,9 +1,9 @@
 ---
 title: ForwardRequestHelper.insert()
-permalink: Java/ForwardRequestHelper-org-omg-PortableServer/insert
+permalink: /Java/ForwardRequestHelper-org-omg-PortableServer/insert/
 date: 2021-01-11
-key: JavaJava.F.ForwardRequestHelper-org-omg-PortableServer
-category: java
+key: Java.F.ForwardRequestHelper-org-omg-PortableServer
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

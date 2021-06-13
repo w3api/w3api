@@ -1,9 +1,9 @@
 ---
 title: FXMLLoader.CHANGE_EVENT_HANDLER_SUFFIX
-permalink: Java/FXMLLoader/CHANGE_EVENT_HANDLER_SUFFIX
+permalink: /Java/FXMLLoader/CHANGE_EVENT_HANDLER_SUFFIX/
 date: 2021-01-11
-key: JavaJava.F.FXMLLoader
-category: java
+key: Java.F.FXMLLoader
+category: Java
 tags: ['java se', 'javafx.fxml', 'javafx.fxml', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DriverManager.deregisterDriver()
-permalink: Java/DriverManager/deregisterDriver
+permalink: /Java/DriverManager/deregisterDriver/
 date: 2021-01-11
-key: JavaJava.D.DriverManager
-category: java
+key: Java.D.DriverManager
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: EventQueue.isDispatchThread()
-permalink: Java/EventQueue-java-awt/isDispatchThread
+permalink: /Java/EventQueue-java-awt/isDispatchThread/
 date: 2021-01-11
-key: JavaJava.E.EventQueue-java-awt
-category: java
+key: Java.E.EventQueue-java-awt
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

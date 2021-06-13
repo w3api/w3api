@@ -1,9 +1,9 @@
 ---
 title: ExtendedSSLSession.ExtendedSSLSession()
-permalink: Java/ExtendedSSLSession/ExtendedSSLSession
+permalink: /Java/ExtendedSSLSession/ExtendedSSLSession/
 date: 2021-01-11
-key: JavaJava.E.ExtendedSSLSession
-category: java
+key: Java.E.ExtendedSSLSession
+category: Java
 tags: ['java se', 'javax.net.ssl', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

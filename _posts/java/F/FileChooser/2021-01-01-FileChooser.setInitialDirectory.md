@@ -1,9 +1,9 @@
 ---
 title: FileChooser.setInitialDirectory()
-permalink: Java/FileChooser/setInitialDirectory
+permalink: /Java/FileChooser/setInitialDirectory/
 date: 2021-01-11
-key: JavaJava.F.FileChooser
-category: java
+key: Java.F.FileChooser
+category: Java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

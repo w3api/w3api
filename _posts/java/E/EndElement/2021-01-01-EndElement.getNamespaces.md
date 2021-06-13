@@ -1,9 +1,9 @@
 ---
 title: EndElement.getNamespaces()
-permalink: Java/EndElement/getNamespaces
+permalink: /Java/EndElement/getNamespaces/
 date: 2021-01-11
-key: JavaJava.E.EndElement
-category: java
+key: Java.E.EndElement
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

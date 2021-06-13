@@ -1,9 +1,9 @@
 ---
 title: EventFactory.newEvent()
-permalink: Java/EventFactory/newEvent
+permalink: /Java/EventFactory/newEvent/
 date: 2021-01-11
-key: JavaJava.E.EventFactory
-category: java
+key: Java.E.EventFactory
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: EventTarget.dispatchEvent()
-permalink: Java/EventTarget-org-w3c-dom-events/dispatchEvent
+permalink: /Java/EventTarget-org-w3c-dom-events/dispatchEvent/
 date: 2021-01-11
-key: JavaJava.E.EventTarget-org-w3c-dom-events
-category: java
+key: Java.E.EventTarget-org-w3c-dom-events
+category: Java
 tags: ['java se', 'org.w3c.dom.events', 'java.xml', 'metodo java', 'Java 1.5', 'DOM Level 2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: EffectConverter
-permalink: Java/EffectConverter
+permalink: /Java/EffectConverter/
 date: 2021-01-11
-key: JavaJava.E.EffectConverter
-category: java
+key: Java.E.EffectConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 
   nav: java

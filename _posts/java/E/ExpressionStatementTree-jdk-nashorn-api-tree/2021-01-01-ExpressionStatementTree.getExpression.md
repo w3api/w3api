@@ -1,9 +1,9 @@
 ---
 title: ExpressionStatementTree.getExpression()
-permalink: Java/ExpressionStatementTree-jdk-nashorn-api-tree/getExpression
+permalink: /Java/ExpressionStatementTree-jdk-nashorn-api-tree/getExpression/
 date: 2021-01-11
-key: JavaJava.E.ExpressionStatementTree-jdk-nashorn-api-tree
-category: java
+key: Java.E.ExpressionStatementTree-jdk-nashorn-api-tree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

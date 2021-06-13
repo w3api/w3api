@@ -1,9 +1,9 @@
 ---
 title: Enumeration.asIterator()
-permalink: Java/Enumeration/asIterator
+permalink: /Java/Enumeration/asIterator/
 date: 2021-01-11
-key: JavaJava.E.Enumeration
-category: java
+key: Java.E.Enumeration
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

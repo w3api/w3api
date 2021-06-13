@@ -1,9 +1,9 @@
 ---
 title: ExemptionMechanismSpi.engineGenExemptionBlob()
-permalink: Java/ExemptionMechanismSpi/engineGenExemptionBlob
+permalink: /Java/ExemptionMechanismSpi/engineGenExemptionBlob/
 date: 2021-01-11
-key: JavaJava.E.ExemptionMechanismSpi
-category: java
+key: Java.E.ExemptionMechanismSpi
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

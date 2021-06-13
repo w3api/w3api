@@ -1,9 +1,9 @@
 ---
 title: DoubleAdder.reset()
-permalink: Java/DoubleAdder/reset
+permalink: /Java/DoubleAdder/reset/
 date: 2021-01-11
-key: JavaJava.D.DoubleAdder
-category: java
+key: Java.D.DoubleAdder
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

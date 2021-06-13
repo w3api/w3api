@@ -1,9 +1,9 @@
 ---
 title: DynValueBoxOperations
-permalink: Java/DynValueBoxOperations
+permalink: /Java/DynValueBoxOperations/
 date: 2021-01-11
-key: JavaJava.D.DynValueBoxOperations
-category: java
+key: Java.D.DynValueBoxOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

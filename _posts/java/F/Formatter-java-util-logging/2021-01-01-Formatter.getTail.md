@@ -1,9 +1,9 @@
 ---
 title: Formatter.getTail()
-permalink: Java/Formatter-java-util-logging/getTail
+permalink: /Java/Formatter-java-util-logging/getTail/
 date: 2021-01-11
-key: JavaJava.F.Formatter-java-util-logging
-category: java
+key: Java.F.Formatter-java-util-logging
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

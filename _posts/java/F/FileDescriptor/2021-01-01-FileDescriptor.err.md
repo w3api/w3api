@@ -1,9 +1,9 @@
 ---
 title: FileDescriptor.err
-permalink: Java/FileDescriptor/err
+permalink: /Java/FileDescriptor/err/
 date: 2021-01-11
-key: JavaJava.F.FileDescriptor
-category: java
+key: Java.F.FileDescriptor
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

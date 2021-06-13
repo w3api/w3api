@@ -1,9 +1,9 @@
 ---
 title: ExpressionSnippet
-permalink: Java/ExpressionSnippet
+permalink: /Java/ExpressionSnippet/
 date: 2021-01-11
-key: JavaJava.E.ExpressionSnippet
-category: java
+key: Java.E.ExpressionSnippet
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

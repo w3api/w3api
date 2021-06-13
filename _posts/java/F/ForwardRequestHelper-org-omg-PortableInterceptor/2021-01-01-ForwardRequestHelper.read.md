@@ -1,9 +1,9 @@
 ---
 title: ForwardRequestHelper.read()
-permalink: Java/ForwardRequestHelper-org-omg-PortableInterceptor/read
+permalink: /Java/ForwardRequestHelper-org-omg-PortableInterceptor/read/
 date: 2021-01-11
-key: JavaJava.F.ForwardRequestHelper-org-omg-PortableInterceptor
-category: java
+key: Java.F.ForwardRequestHelper-org-omg-PortableInterceptor
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

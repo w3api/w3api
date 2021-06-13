@@ -1,9 +1,9 @@
 ---
 title: DynValueOperations.get_members()
-permalink: Java/DynValueOperations/get_members
+permalink: /Java/DynValueOperations/get_members/
 date: 2021-01-11
-key: JavaJava.D.DynValueOperations
-category: java
+key: Java.D.DynValueOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FlatteningPathIterator.next()
-permalink: Java/FlatteningPathIterator/next
+permalink: /Java/FlatteningPathIterator/next/
 date: 2021-01-11
-key: JavaJava.F.FlatteningPathIterator
-category: java
+key: Java.F.FlatteningPathIterator
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

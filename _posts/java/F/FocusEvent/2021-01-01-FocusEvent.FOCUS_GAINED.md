@@ -1,9 +1,9 @@
 ---
 title: FocusEvent.FOCUS_GAINED
-permalink: Java/FocusEvent/FOCUS_GAINED
+permalink: /Java/FocusEvent/FOCUS_GAINED/
 date: 2021-01-11
-key: JavaJava.F.FocusEvent
-category: java
+key: Java.F.FocusEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

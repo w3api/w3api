@@ -1,9 +1,9 @@
 ---
 title: EntityTree.getName()
-permalink: Java/EntityTree/getName
+permalink: /Java/EntityTree/getName/
 date: 2021-01-11
-key: JavaJava.E.EntityTree
-category: java
+key: Java.E.EntityTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

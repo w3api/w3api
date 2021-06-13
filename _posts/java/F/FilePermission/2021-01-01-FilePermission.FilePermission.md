@@ -1,9 +1,9 @@
 ---
 title: FilePermission.FilePermission()
-permalink: Java/FilePermission/FilePermission
+permalink: /Java/FilePermission/FilePermission/
 date: 2021-01-11
-key: JavaJava.F.FilePermission
-category: java
+key: Java.F.FilePermission
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ForwardRequestHelper
-permalink: Java/ForwardRequestHelper-org-omg-PortableServer
+permalink: /Java/ForwardRequestHelper-org-omg-PortableServer/
 date: 2021-01-11
-key: JavaJava.F.ForwardRequestHelper-org-omg-PortableServer
-category: java
+key: Java.F.ForwardRequestHelper-org-omg-PortableServer
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

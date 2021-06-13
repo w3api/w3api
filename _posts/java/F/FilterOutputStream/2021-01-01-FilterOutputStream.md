@@ -1,9 +1,9 @@
 ---
 title: FilterOutputStream
-permalink: Java/FilterOutputStream
+permalink: /Java/FilterOutputStream/
 date: 2021-01-11
-key: JavaJava.F.FilterOutputStream
-category: java
+key: Java.F.FilterOutputStream
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Expression.execute()
-permalink: Java/Expression/execute
+permalink: /Java/Expression/execute/
 date: 2021-01-11
-key: JavaJava.E.Expression
-category: java
+key: Java.E.Expression
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

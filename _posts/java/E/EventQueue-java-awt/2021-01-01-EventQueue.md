@@ -1,9 +1,9 @@
 ---
 title: EventQueue
-permalink: Java/EventQueue-java-awt
+permalink: /Java/EventQueue-java-awt/
 date: 2021-01-11
-key: JavaJava.E.EventQueue-java-awt
-category: java
+key: Java.E.EventQueue-java-awt
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

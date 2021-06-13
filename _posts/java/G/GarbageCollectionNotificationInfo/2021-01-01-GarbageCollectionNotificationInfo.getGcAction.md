@@ -1,9 +1,9 @@
 ---
 title: GarbageCollectionNotificationInfo.getGcAction()
-permalink: Java/GarbageCollectionNotificationInfo/getGcAction
+permalink: /Java/GarbageCollectionNotificationInfo/getGcAction/
 date: 2021-01-11
-key: JavaJava.G.GarbageCollectionNotificationInfo
-category: java
+key: Java.G.GarbageCollectionNotificationInfo
+category: Java
 tags: ['java se', 'com.sun.management', 'jdk.management', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

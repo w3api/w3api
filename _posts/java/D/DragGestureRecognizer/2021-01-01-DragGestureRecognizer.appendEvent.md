@@ -1,9 +1,9 @@
 ---
 title: DragGestureRecognizer.appendEvent()
-permalink: Java/DragGestureRecognizer/appendEvent
+permalink: /Java/DragGestureRecognizer/appendEvent/
 date: 2021-01-11
-key: JavaJava.D.DragGestureRecognizer
-category: java
+key: Java.D.DragGestureRecognizer
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

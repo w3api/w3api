@@ -1,9 +1,9 @@
 ---
 title: ExtendedService
-permalink: Java/ExtendedService
+permalink: /Java/ExtendedService/
 date: 2021-01-11
-key: JavaJava.E.ExtendedService
-category: java
+key: Java.E.ExtendedService
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

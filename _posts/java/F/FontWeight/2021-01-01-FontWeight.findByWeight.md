@@ -1,9 +1,9 @@
 ---
 title: FontWeight.findByWeight()
-permalink: Java/FontWeight/findByWeight
+permalink: /Java/FontWeight/findByWeight/
 date: 2021-01-11
-key: JavaJava.F.FontWeight
-category: java
+key: Java.F.FontWeight
+category: Java
 tags: ['java se', 'javafx.scene.text', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

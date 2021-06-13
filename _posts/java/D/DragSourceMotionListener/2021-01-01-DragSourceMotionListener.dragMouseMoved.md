@@ -1,9 +1,9 @@
 ---
 title: DragSourceMotionListener.dragMouseMoved()
-permalink: Java/DragSourceMotionListener/dragMouseMoved
+permalink: /Java/DragSourceMotionListener/dragMouseMoved/
 date: 2021-01-11
-key: JavaJava.D.DragSourceMotionListener
-category: java
+key: Java.D.DragSourceMotionListener
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ECPublicKey.getW()
-permalink: Java/ECPublicKey/getW
+permalink: /Java/ECPublicKey/getW/
 date: 2021-01-11
-key: JavaJava.E.ECPublicKey
-category: java
+key: Java.E.ECPublicKey
+category: Java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

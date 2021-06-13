@@ -1,9 +1,9 @@
 ---
 title: ForwardingJavaFileObject.ForwardingJavaFileObject()
-permalink: Java/ForwardingJavaFileObject/ForwardingJavaFileObject
+permalink: /Java/ForwardingJavaFileObject/ForwardingJavaFileObject/
 date: 2021-01-11
-key: JavaJava.F.ForwardingJavaFileObject
-category: java
+key: Java.F.ForwardingJavaFileObject
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

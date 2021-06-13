@@ -1,9 +1,9 @@
 ---
 title: Exception.Exception()
-permalink: Java/Exception/Exception
+permalink: /Java/Exception/Exception/
 date: 2021-01-11
-key: JavaJava.E.Exception
-category: java
+key: Java.E.Exception
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

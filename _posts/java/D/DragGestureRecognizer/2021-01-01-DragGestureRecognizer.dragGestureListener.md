@@ -1,9 +1,9 @@
 ---
 title: DragGestureRecognizer.dragGestureListener
-permalink: Java/DragGestureRecognizer/dragGestureListener
+permalink: /Java/DragGestureRecognizer/dragGestureListener/
 date: 2021-01-11
-key: JavaJava.D.DragGestureRecognizer
-category: java
+key: Java.D.DragGestureRecognizer
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

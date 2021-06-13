@@ -1,9 +1,9 @@
 ---
 title: ECPrivateKeySpec
-permalink: Java/ECPrivateKeySpec
+permalink: /Java/ECPrivateKeySpec/
 date: 2021-01-11
-key: JavaJava.E.ECPrivateKeySpec
-category: java
+key: Java.E.ECPrivateKeySpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

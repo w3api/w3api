@@ -1,9 +1,9 @@
 ---
 title: EventObject.EventObject()
-permalink: Java/EventObject/EventObject
+permalink: /Java/EventObject/EventObject/
 date: 2021-01-11
-key: JavaJava.E.EventObject
-category: java
+key: Java.E.EventObject
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

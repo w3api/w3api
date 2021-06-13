@@ -1,9 +1,9 @@
 ---
 title: EventHandler
-permalink: Java/EventHandler/
+permalink: /Java/EventHandler//
 date: 2021-01-11
-key: JavaJava.E.EventHandler
-category: java
+key: Java.E.EventHandler
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

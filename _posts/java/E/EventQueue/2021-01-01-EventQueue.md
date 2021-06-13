@@ -1,9 +1,9 @@
 ---
 title: EventQueue
-permalink: Java/EventQueue/
+permalink: /Java/EventQueue//
 date: 2021-01-11
-key: JavaJava.E.EventQueue
-category: java
+key: Java.E.EventQueue
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

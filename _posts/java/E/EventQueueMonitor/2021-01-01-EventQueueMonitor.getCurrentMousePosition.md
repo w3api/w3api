@@ -1,9 +1,9 @@
 ---
 title: EventQueueMonitor.getCurrentMousePosition()
-permalink: Java/EventQueueMonitor/getCurrentMousePosition
+permalink: /Java/EventQueueMonitor/getCurrentMousePosition/
 date: 2021-01-11
-key: JavaJava.E.EventQueueMonitor
-category: java
+key: Java.E.EventQueueMonitor
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

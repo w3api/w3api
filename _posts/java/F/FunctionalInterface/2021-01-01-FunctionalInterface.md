@@ -1,9 +1,9 @@
 ---
 title: FunctionalInterface
-permalink: Java/FunctionalInterface
+permalink: /Java/FunctionalInterface/
 date: 2021-01-11
-key: JavaJava.F.FunctionalInterface
-category: java
+key: Java.F.FunctionalInterface
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'anotacion java', 'Java 1.8']
 sidebar: 
   nav: java

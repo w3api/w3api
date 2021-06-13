@@ -1,9 +1,9 @@
 ---
 title: FilterWriter
-permalink: Java/FilterWriter
+permalink: /Java/FilterWriter/
 date: 2021-01-11
-key: JavaJava.F.FilterWriter
-category: java
+key: Java.F.FilterWriter
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: EnumControl.Type.EnumControl.Type()
-permalink: Java/EnumControl/Type/EnumControl/Type
+permalink: /Java/EnumControl/Type/EnumControl/Type/
 date: 2021-01-11
-key: JavaJava.E.EnumControl.Type
-category: java
+key: Java.E.EnumControl.Type
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

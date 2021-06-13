@@ -1,9 +1,9 @@
 ---
 title: ExtendedGSSContext
-permalink: Java/ExtendedGSSContext
+permalink: /Java/ExtendedGSSContext/
 date: 2021-01-11
-key: JavaJava.E.ExtendedGSSContext
-category: java
+key: Java.E.ExtendedGSSContext
+category: Java
 tags: ['java se', 'com.sun.security.jgss', 'jdk.security.jgss', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DragSourceMotionListener
-permalink: Java/DragSourceMotionListener
+permalink: /Java/DragSourceMotionListener/
 date: 2021-01-11
-key: JavaJava.D.DragSourceMotionListener
-category: java
+key: Java.D.DragSourceMotionListener
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

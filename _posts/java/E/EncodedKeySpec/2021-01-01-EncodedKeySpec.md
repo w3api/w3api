@@ -1,9 +1,9 @@
 ---
 title: EncodedKeySpec
-permalink: Java/EncodedKeySpec
+permalink: /Java/EncodedKeySpec/
 date: 2021-01-11
-key: JavaJava.E.EncodedKeySpec
-category: java
+key: Java.E.EncodedKeySpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

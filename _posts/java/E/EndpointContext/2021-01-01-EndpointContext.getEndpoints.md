@@ -1,9 +1,9 @@
 ---
 title: EndpointContext.getEndpoints()
-permalink: Java/EndpointContext/getEndpoints
+permalink: /Java/EndpointContext/getEndpoints/
 date: 2021-01-11
-key: JavaJava.E.EndpointContext
-category: java
+key: Java.E.EndpointContext
+category: Java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'metodo java', 'Java 1.7', 'JAX-WS 2.2']
 sidebar: 
   nav: java

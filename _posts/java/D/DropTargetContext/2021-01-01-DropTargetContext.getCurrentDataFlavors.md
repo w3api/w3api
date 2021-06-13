@@ -1,9 +1,9 @@
 ---
 title: DropTargetContext.getCurrentDataFlavors()
-permalink: Java/DropTargetContext/getCurrentDataFlavors
+permalink: /Java/DropTargetContext/getCurrentDataFlavors/
 date: 2021-01-11
-key: JavaJava.D.DropTargetContext
-category: java
+key: Java.D.DropTargetContext
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

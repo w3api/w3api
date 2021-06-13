@@ -1,9 +1,9 @@
 ---
 title: DomHandler
-permalink: Java/DomHandler
+permalink: /Java/DomHandler/
 date: 2021-01-11
-key: JavaJava.D.DomHandler
-category: java
+key: Java.D.DomHandler
+category: Java
 tags: ['java se', 'javax.xml.bind.annotation', 'java.xml.bind', 'interface java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

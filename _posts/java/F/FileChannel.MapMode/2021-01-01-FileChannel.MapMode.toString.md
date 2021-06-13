@@ -1,9 +1,9 @@
 ---
 title: FileChannel.MapMode.toString()
-permalink: Java/FileChannel/MapMode/toString
+permalink: /Java/FileChannel/MapMode/toString/
 date: 2021-01-11
-key: JavaJava.F.FileChannel.MapMode
-category: java
+key: Java.F.FileChannel.MapMode
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

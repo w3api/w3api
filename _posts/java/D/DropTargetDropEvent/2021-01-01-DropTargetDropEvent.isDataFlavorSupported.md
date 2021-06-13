@@ -1,9 +1,9 @@
 ---
 title: DropTargetDropEvent.isDataFlavorSupported()
-permalink: Java/DropTargetDropEvent/isDataFlavorSupported
+permalink: /Java/DropTargetDropEvent/isDataFlavorSupported/
 date: 2021-01-11
-key: JavaJava.D.DropTargetDropEvent
-category: java
+key: Java.D.DropTargetDropEvent
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

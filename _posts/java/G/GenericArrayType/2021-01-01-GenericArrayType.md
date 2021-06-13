@@ -1,9 +1,9 @@
 ---
 title: GenericArrayType
-permalink: Java/GenericArrayType
+permalink: /Java/GenericArrayType/
 date: 2021-01-11
-key: JavaJava.G.GenericArrayType
-category: java
+key: Java.G.GenericArrayType
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

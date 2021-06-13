@@ -1,9 +1,9 @@
 ---
 title: DropTarget.updateAutoscroll()
-permalink: Java/DropTarget/updateAutoscroll
+permalink: /Java/DropTarget/updateAutoscroll/
 date: 2021-01-11
-key: JavaJava.D.DropTarget
-category: java
+key: Java.D.DropTarget
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

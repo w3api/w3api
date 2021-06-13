@@ -1,9 +1,9 @@
 ---
 title: FloatSeqHelper.type()
-permalink: Java/FloatSeqHelper/type
+permalink: /Java/FloatSeqHelper/type/
 date: 2021-01-11
-key: JavaJava.F.FloatSeqHelper
-category: java
+key: Java.F.FloatSeqHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

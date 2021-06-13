@@ -1,9 +1,9 @@
 ---
 title: DocumentFragment
-permalink: Java/DocumentFragment
+permalink: /Java/DocumentFragment/
 date: 2021-01-11
-key: JavaJava.D.DocumentFragment
-category: java
+key: Java.D.DocumentFragment
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

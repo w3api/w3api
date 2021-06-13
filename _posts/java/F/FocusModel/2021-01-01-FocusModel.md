@@ -1,9 +1,9 @@
 ---
 title: FocusModel
-permalink: Java/FocusModel
+permalink: /Java/FocusModel/
 date: 2021-01-11
-key: JavaJava.F.FocusModel
-category: java
+key: Java.F.FocusModel
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

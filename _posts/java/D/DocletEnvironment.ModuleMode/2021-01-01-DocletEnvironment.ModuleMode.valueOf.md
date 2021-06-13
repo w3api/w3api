@@ -1,9 +1,9 @@
 ---
 title: DocletEnvironment.ModuleMode.valueOf()
-permalink: Java/DocletEnvironment/ModuleMode/valueOf
+permalink: /Java/DocletEnvironment/ModuleMode/valueOf/
 date: 2021-01-11
-key: JavaJava.D.DocletEnvironment.ModuleMode
-category: java
+key: Java.D.DocletEnvironment.ModuleMode
+category: Java
 tags: ['java se', 'jdk.javadoc.doclet', 'jdk.javadoc', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

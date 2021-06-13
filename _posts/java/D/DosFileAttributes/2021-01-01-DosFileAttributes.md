@@ -1,9 +1,9 @@
 ---
 title: DosFileAttributes
-permalink: Java/DosFileAttributes
+permalink: /Java/DosFileAttributes/
 date: 2021-01-11
-key: JavaJava.D.DosFileAttributes
-category: java
+key: Java.D.DosFileAttributes
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

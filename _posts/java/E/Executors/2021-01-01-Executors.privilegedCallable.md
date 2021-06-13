@@ -1,9 +1,9 @@
 ---
 title: Executors.privilegedCallable()
-permalink: Java/Executors/privilegedCallable
+permalink: /Java/Executors/privilegedCallable/
 date: 2021-01-11
-key: JavaJava.E.Executors
-category: java
+key: Java.E.Executors
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

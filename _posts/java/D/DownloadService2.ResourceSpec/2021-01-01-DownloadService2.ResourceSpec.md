@@ -1,9 +1,9 @@
 ---
 title: DownloadService2.ResourceSpec
-permalink: Java/DownloadService2/ResourceSpec
+permalink: /Java/DownloadService2/ResourceSpec/
 date: 2021-01-11
-key: JavaJava.D.DownloadService2.ResourceSpec
-category: java
+key: Java.D.DownloadService2.ResourceSpec
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

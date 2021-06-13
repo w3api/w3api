@@ -1,9 +1,9 @@
 ---
 title: DoubleToLongFunction
-permalink: Java/DoubleToLongFunction
+permalink: /Java/DoubleToLongFunction/
 date: 2021-01-11
-key: JavaJava.D.DoubleToLongFunction
-category: java
+key: Java.D.DoubleToLongFunction
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

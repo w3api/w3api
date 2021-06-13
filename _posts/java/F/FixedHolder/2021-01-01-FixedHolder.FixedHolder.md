@@ -1,9 +1,9 @@
 ---
 title: FixedHolder.FixedHolder()
-permalink: Java/FixedHolder/FixedHolder
+permalink: /Java/FixedHolder/FixedHolder/
 date: 2021-01-11
-key: JavaJava.F.FixedHolder
-category: java
+key: Java.F.FixedHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

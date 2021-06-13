@@ -1,9 +1,9 @@
 ---
 title: EffectConverter.InnerShadowConverter
-permalink: Java/EffectConverter/InnerShadowConverter
+permalink: /Java/EffectConverter/InnerShadowConverter/
 date: 2021-01-11
-key: JavaJava.E.EffectConverter.InnerShadowConverter
-category: java
+key: Java.E.EffectConverter.InnerShadowConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: GaugeMonitor
-permalink: Java/GaugeMonitor
+permalink: /Java/GaugeMonitor/
 date: 2021-01-11
-key: JavaJava.G.GaugeMonitor
-category: java
+key: Java.G.GaugeMonitor
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

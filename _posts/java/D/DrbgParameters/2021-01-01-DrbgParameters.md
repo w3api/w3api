@@ -1,9 +1,9 @@
 ---
 title: DrbgParameters
-permalink: Java/DrbgParameters
+permalink: /Java/DrbgParameters/
 date: 2021-01-11
-key: JavaJava.D.DrbgParameters
-category: java
+key: Java.D.DrbgParameters
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 9']
 sidebar: 
   nav: java

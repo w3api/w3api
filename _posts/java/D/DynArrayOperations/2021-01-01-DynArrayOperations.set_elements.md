@@ -1,9 +1,9 @@
 ---
 title: DynArrayOperations.set_elements()
-permalink: Java/DynArrayOperations/set_elements
+permalink: /Java/DynArrayOperations/set_elements/
 date: 2021-01-11
-key: JavaJava.D.DynArrayOperations
-category: java
+key: Java.D.DynArrayOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

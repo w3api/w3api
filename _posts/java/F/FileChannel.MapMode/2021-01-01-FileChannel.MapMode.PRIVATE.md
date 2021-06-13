@@ -1,9 +1,9 @@
 ---
 title: FileChannel.MapMode.PRIVATE
-permalink: Java/FileChannel/MapMode/PRIVATE
+permalink: /Java/FileChannel/MapMode/PRIVATE/
 date: 2021-01-11
-key: JavaJava.F.FileChannel.MapMode
-category: java
+key: Java.F.FileChannel.MapMode
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DuplicateRequestException.DuplicateRequestException()
-permalink: Java/DuplicateRequestException/DuplicateRequestException
+permalink: /Java/DuplicateRequestException/DuplicateRequestException/
 date: 2021-01-11
-key: JavaJava.D.DuplicateRequestException
-category: java
+key: Java.D.DuplicateRequestException
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

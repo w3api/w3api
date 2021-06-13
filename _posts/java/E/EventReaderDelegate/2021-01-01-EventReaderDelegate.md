@@ -1,9 +1,9 @@
 ---
 title: EventReaderDelegate
-permalink: Java/EventReaderDelegate
+permalink: /Java/EventReaderDelegate/
 date: 2021-01-11
-key: JavaJava.E.EventReaderDelegate
-category: java
+key: Java.E.EventReaderDelegate
+category: Java
 tags: ['java se', 'javax.xml.stream.util', 'java.xml', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

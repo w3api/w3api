@@ -1,9 +1,9 @@
 ---
 title: FontSmoothingType.values()
-permalink: Java/FontSmoothingType/values
+permalink: /Java/FontSmoothingType/values/
 date: 2021-01-11
-key: JavaJava.F.FontSmoothingType
-category: java
+key: Java.F.FontSmoothingType
+category: Java
 tags: ['java se', 'javafx.scene.text', 'javafx.graphics', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

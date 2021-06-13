@@ -1,9 +1,9 @@
 ---
 title: DomainManagerOperations.get_domain_policy()
-permalink: Java/DomainManagerOperations/get_domain_policy
+permalink: /Java/DomainManagerOperations/get_domain_policy/
 date: 2021-01-11
-key: JavaJava.D.DomainManagerOperations
-category: java
+key: Java.D.DomainManagerOperations
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

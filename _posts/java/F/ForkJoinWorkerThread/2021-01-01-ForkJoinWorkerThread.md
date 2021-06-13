@@ -1,9 +1,9 @@
 ---
 title: ForkJoinWorkerThread
-permalink: Java/ForkJoinWorkerThread
+permalink: /Java/ForkJoinWorkerThread/
 date: 2021-01-11
-key: JavaJava.F.ForkJoinWorkerThread
-category: java
+key: Java.F.ForkJoinWorkerThread
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

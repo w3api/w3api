@@ -1,9 +1,9 @@
 ---
 title: ExecutionControlProvider
-permalink: Java/ExecutionControlProvider
+permalink: /Java/ExecutionControlProvider/
 date: 2021-01-11
-key: JavaJava.E.ExecutionControlProvider
-category: java
+key: Java.E.ExecutionControlProvider
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'interface java', 'Java 9']
 sidebar: 
   nav: java

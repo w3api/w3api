@@ -1,9 +1,9 @@
 ---
 title: GestureEvent.getX()
-permalink: Java/GestureEvent/getX
+permalink: /Java/GestureEvent/getX/
 date: 2021-01-11
-key: JavaJava.G.GestureEvent
-category: java
+key: Java.G.GestureEvent
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

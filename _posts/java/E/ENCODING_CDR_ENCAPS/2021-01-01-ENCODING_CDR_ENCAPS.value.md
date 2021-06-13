@@ -1,9 +1,9 @@
 ---
 title: ENCODING_CDR_ENCAPS.value
-permalink: Java/ENCODING_CDR_ENCAPS/value
+permalink: /Java/ENCODING_CDR_ENCAPS/value/
 date: 2021-01-11
-key: JavaJava.E.ENCODING_CDR_ENCAPS
-category: java
+key: Java.E.ENCODING_CDR_ENCAPS
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: EventType.getName()
-permalink: Java/EventType-javafx-event/getName
+permalink: /Java/EventType-javafx-event/getName/
 date: 2021-01-11
-key: JavaJava.E.EventType-javafx-event
-category: java
+key: Java.E.EventType-javafx-event
+category: Java
 tags: ['java se', 'javafx.event', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

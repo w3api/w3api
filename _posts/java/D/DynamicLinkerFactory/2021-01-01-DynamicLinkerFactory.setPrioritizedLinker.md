@@ -1,9 +1,9 @@
 ---
 title: DynamicLinkerFactory.setPrioritizedLinker()
-permalink: Java/DynamicLinkerFactory/setPrioritizedLinker
+permalink: /Java/DynamicLinkerFactory/setPrioritizedLinker/
 date: 2021-01-11
-key: JavaJava.D.DynamicLinkerFactory
-category: java
+key: Java.D.DynamicLinkerFactory
+category: Java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

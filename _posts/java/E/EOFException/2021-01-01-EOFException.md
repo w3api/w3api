@@ -1,9 +1,9 @@
 ---
 title: EOFException
-permalink: Java/EOFException
+permalink: /Java/EOFException/
 date: 2021-01-11
-key: JavaJava.E.EOFException
-category: java
+key: Java.E.EOFException
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

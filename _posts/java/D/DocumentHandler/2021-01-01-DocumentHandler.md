@@ -1,9 +1,9 @@
 ---
 title: DocumentHandler
-permalink: Java/DocumentHandler
+permalink: /Java/DocumentHandler/
 date: 2021-01-11
-key: JavaJava.D.DocumentHandler
-category: java
+key: Java.D.DocumentHandler
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'interface java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FXCollections.observableArrayList()
-permalink: Java/FXCollections/observableArrayList
+permalink: /Java/FXCollections/observableArrayList/
 date: 2021-01-11
-key: JavaJava.F.FXCollections
-category: java
+key: Java.F.FXCollections
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

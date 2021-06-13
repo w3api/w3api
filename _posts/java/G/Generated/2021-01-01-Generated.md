@@ -1,9 +1,9 @@
 ---
 title: Generated
-permalink: Java/Generated/
+permalink: /Java/Generated//
 date: 2021-01-11
-key: JavaJava.G.Generated
-category: java
+key: Java.G.Generated
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

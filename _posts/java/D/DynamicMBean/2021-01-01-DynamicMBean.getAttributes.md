@@ -1,9 +1,9 @@
 ---
 title: DynamicMBean.getAttributes()
-permalink: Java/DynamicMBean/getAttributes
+permalink: /Java/DynamicMBean/getAttributes/
 date: 2021-01-11
-key: JavaJava.D.DynamicMBean
-category: java
+key: Java.D.DynamicMBean
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: EnumControl.Type.REVERB
-permalink: Java/EnumControl/Type/REVERB
+permalink: /Java/EnumControl/Type/REVERB/
 date: 2021-01-11
-key: JavaJava.E.EnumControl.Type
-category: java
+key: Java.E.EnumControl.Type
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

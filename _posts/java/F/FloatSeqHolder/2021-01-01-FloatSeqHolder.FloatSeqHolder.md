@@ -1,9 +1,9 @@
 ---
 title: FloatSeqHolder.FloatSeqHolder()
-permalink: Java/FloatSeqHolder/FloatSeqHolder
+permalink: /Java/FloatSeqHolder/FloatSeqHolder/
 date: 2021-01-11
-key: JavaJava.F.FloatSeqHolder
-category: java
+key: Java.F.FloatSeqHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

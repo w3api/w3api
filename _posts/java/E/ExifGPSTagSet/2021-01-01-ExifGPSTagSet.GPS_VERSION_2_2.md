@@ -1,9 +1,9 @@
 ---
 title: ExifGPSTagSet.GPS_VERSION_2_2
-permalink: Java/ExifGPSTagSet/GPS_VERSION_2_2
+permalink: /Java/ExifGPSTagSet/GPS_VERSION_2_2/
 date: 2021-01-11
-key: JavaJava.E.ExifGPSTagSet
-category: java
+key: Java.E.ExifGPSTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

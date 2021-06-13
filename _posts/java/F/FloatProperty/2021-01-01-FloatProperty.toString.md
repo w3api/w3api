@@ -1,9 +1,9 @@
 ---
 title: FloatProperty.toString()
-permalink: Java/FloatProperty/toString
+permalink: /Java/FloatProperty/toString/
 date: 2021-01-11
-key: JavaJava.F.FloatProperty
-category: java
+key: Java.F.FloatProperty
+category: Java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

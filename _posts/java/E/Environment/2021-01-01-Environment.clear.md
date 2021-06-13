@@ -1,9 +1,9 @@
 ---
 title: Environment.clear()
-permalink: Java/Environment/clear
+permalink: /Java/Environment/clear/
 date: 2021-01-11
-key: JavaJava.E.Environment
-category: java
+key: Java.E.Environment
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

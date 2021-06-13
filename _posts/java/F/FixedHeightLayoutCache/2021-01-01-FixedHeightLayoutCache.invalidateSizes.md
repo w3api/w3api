@@ -1,9 +1,9 @@
 ---
 title: FixedHeightLayoutCache.invalidateSizes()
-permalink: Java/FixedHeightLayoutCache/invalidateSizes
+permalink: /Java/FixedHeightLayoutCache/invalidateSizes/
 date: 2021-01-11
-key: JavaJava.F.FixedHeightLayoutCache
-category: java
+key: Java.F.FixedHeightLayoutCache
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

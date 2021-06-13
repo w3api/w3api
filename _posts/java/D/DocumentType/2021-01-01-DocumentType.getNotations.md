@@ -1,9 +1,9 @@
 ---
 title: DocumentType.getNotations()
-permalink: Java/DocumentType/getNotations
+permalink: /Java/DocumentType/getNotations/
 date: 2021-01-11
-key: JavaJava.D.DocumentType
-category: java
+key: Java.D.DocumentType
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

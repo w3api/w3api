@@ -1,9 +1,9 @@
 ---
 title: ErrorManager.OPEN_FAILURE
-permalink: Java/ErrorManager/OPEN_FAILURE
+permalink: /Java/ErrorManager/OPEN_FAILURE/
 date: 2021-01-11
-key: JavaJava.E.ErrorManager
-category: java
+key: Java.E.ErrorManager
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

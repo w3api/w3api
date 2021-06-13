@@ -1,9 +1,9 @@
 ---
 title: FileObject.getName()
-permalink: Java/FileObject/getName
+permalink: /Java/FileObject/getName/
 date: 2021-01-11
-key: JavaJava.F.FileObject
-category: java
+key: Java.F.FileObject
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

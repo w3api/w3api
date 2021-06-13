@@ -1,9 +1,9 @@
 ---
 title: DynAnyHelper.write()
-permalink: Java/DynAnyHelper/write
+permalink: /Java/DynAnyHelper/write/
 date: 2021-01-11
-key: JavaJava.D.DynAnyHelper
-category: java
+key: Java.D.DynAnyHelper
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

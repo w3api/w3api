@@ -1,9 +1,9 @@
 ---
 title: FutureTask
-permalink: Java/FutureTask
+permalink: /Java/FutureTask/
 date: 2021-01-11
-key: JavaJava.F.FutureTask
-category: java
+key: Java.F.FutureTask
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

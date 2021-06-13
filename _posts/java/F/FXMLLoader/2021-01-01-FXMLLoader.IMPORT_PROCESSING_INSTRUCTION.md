@@ -1,9 +1,9 @@
 ---
 title: FXMLLoader.IMPORT_PROCESSING_INSTRUCTION
-permalink: Java/FXMLLoader/IMPORT_PROCESSING_INSTRUCTION
+permalink: /Java/FXMLLoader/IMPORT_PROCESSING_INSTRUCTION/
 date: 2021-01-11
-key: JavaJava.F.FXMLLoader
-category: java
+key: Java.F.FXMLLoader
+category: Java
 tags: ['java se', 'javafx.fxml', 'javafx.fxml', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

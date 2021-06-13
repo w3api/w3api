@@ -1,9 +1,9 @@
 ---
 title: EvalException
-permalink: Java/EvalException
+permalink: /Java/EvalException/
 date: 2021-01-11
-key: JavaJava.E.EvalException
-category: java
+key: Java.E.EvalException
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

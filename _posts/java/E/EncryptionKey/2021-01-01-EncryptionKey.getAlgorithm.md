@@ -1,9 +1,9 @@
 ---
 title: EncryptionKey.getAlgorithm()
-permalink: Java/EncryptionKey/getAlgorithm
+permalink: /Java/EncryptionKey/getAlgorithm/
 date: 2021-01-11
-key: JavaJava.E.EncryptionKey
-category: java
+key: Java.E.EncryptionKey
+category: Java
 tags: ['java se', 'javax.security.auth.kerberos', 'java.security.jgss', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

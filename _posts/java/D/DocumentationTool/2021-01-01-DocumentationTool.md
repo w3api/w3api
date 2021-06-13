@@ -1,9 +1,9 @@
 ---
 title: DocumentationTool
-permalink: Java/DocumentationTool
+permalink: /Java/DocumentationTool/
 date: 2021-01-11
-key: JavaJava.D.DocumentationTool
-category: java
+key: Java.D.DocumentationTool
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

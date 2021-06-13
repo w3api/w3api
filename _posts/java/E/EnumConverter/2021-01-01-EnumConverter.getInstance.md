@@ -1,9 +1,9 @@
 ---
 title: EnumConverter.getInstance()
-permalink: Java/EnumConverter/getInstance
+permalink: /Java/EnumConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.E.EnumConverter
-category: java
+key: Java.E.EnumConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

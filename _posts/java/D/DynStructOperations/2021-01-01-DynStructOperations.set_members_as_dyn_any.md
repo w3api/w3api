@@ -1,9 +1,9 @@
 ---
 title: DynStructOperations.set_members_as_dyn_any()
-permalink: Java/DynStructOperations/set_members_as_dyn_any
+permalink: /Java/DynStructOperations/set_members_as_dyn_any/
 date: 2021-01-11
-key: JavaJava.D.DynStructOperations
-category: java
+key: Java.D.DynStructOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

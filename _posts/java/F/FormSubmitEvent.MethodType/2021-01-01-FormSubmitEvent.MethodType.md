@@ -1,9 +1,9 @@
 ---
 title: FormSubmitEvent.MethodType
-permalink: Java/FormSubmitEvent/MethodType
+permalink: /Java/FormSubmitEvent/MethodType/
 date: 2021-01-11
-key: JavaJava.F.FormSubmitEvent.MethodType
-category: java
+key: Java.F.FormSubmitEvent.MethodType
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'enumerado java', 'Java 1.5']
 sidebar: 
   nav: java

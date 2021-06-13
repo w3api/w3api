@@ -1,9 +1,9 @@
 ---
 title: ExpandVetoException
-permalink: Java/ExpandVetoException
+permalink: /Java/ExpandVetoException/
 date: 2021-01-11
-key: JavaJava.E.ExpandVetoException
-category: java
+key: Java.E.ExpandVetoException
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

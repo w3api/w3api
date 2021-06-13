@@ -1,9 +1,9 @@
 ---
 title: ExecutionControl.EngineTerminationException
-permalink: Java/ExecutionControl/EngineTerminationException
+permalink: /Java/ExecutionControl/EngineTerminationException/
 date: 2021-01-11
-key: JavaJava.E.ExecutionControl.EngineTerminationException
-category: java
+key: Java.E.ExecutionControl.EngineTerminationException
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

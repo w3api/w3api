@@ -1,9 +1,9 @@
 ---
 title: GlyphJustificationInfo
-permalink: Java/GlyphJustificationInfo
+permalink: /Java/GlyphJustificationInfo/
 date: 2021-01-11
-key: JavaJava.G.GlyphJustificationInfo
-category: java
+key: Java.G.GlyphJustificationInfo
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

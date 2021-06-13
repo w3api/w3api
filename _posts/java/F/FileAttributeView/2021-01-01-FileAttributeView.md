@@ -1,9 +1,9 @@
 ---
 title: FileAttributeView
-permalink: Java/FileAttributeView
+permalink: /Java/FileAttributeView/
 date: 2021-01-11
-key: JavaJava.F.FileAttributeView
-category: java
+key: Java.F.FileAttributeView
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

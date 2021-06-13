@@ -1,9 +1,9 @@
 ---
 title: ExecutionControl
-permalink: Java/ExecutionControl
+permalink: /Java/ExecutionControl/
 date: 2021-01-11
-key: JavaJava.E.ExecutionControl
-category: java
+key: Java.E.ExecutionControl
+category: Java
 tags: ['java se', 'jdk.jshell.spi', 'jdk.jshell', 'interface java', 'Java 9']
 sidebar: 
   nav: java

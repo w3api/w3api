@@ -1,9 +1,9 @@
 ---
 title: DrbgParameters.Capability
-permalink: Java/DrbgParameters/Capability
+permalink: /Java/DrbgParameters/Capability/
 date: 2021-01-11
-key: JavaJava.D.DrbgParameters.Capability
-category: java
+key: Java.D.DrbgParameters.Capability
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'enumerado java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FlavorTable.getFlavorsForNative()
-permalink: Java/FlavorTable/getFlavorsForNative
+permalink: /Java/FlavorTable/getFlavorsForNative/
 date: 2021-01-11
-key: JavaJava.F.FlavorTable
-category: java
+key: Java.F.FlavorTable
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

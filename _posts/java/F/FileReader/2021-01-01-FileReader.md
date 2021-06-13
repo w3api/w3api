@@ -1,9 +1,9 @@
 ---
 title: FileReader
-permalink: Java/FileReader
+permalink: /Java/FileReader/
 date: 2021-01-11
-key: JavaJava.F.FileReader
-category: java
+key: Java.F.FileReader
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

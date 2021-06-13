@@ -1,9 +1,9 @@
 ---
 title: EndDocument
-permalink: Java/EndDocument
+permalink: /Java/EndDocument/
 date: 2021-01-11
-key: JavaJava.E.EndDocument
-category: java
+key: Java.E.EndDocument
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

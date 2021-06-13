@@ -1,9 +1,9 @@
 ---
 title: ECPublicKey.serialVersionUID
-permalink: Java/ECPublicKey/serialVersionUID
+permalink: /Java/ECPublicKey/serialVersionUID/
 date: 2021-01-11
-key: JavaJava.E.ECPublicKey
-category: java
+key: Java.E.ECPublicKey
+category: Java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DocSourcePositions.getStartPosition()
-permalink: Java/DocSourcePositions/getStartPosition
+permalink: /Java/DocSourcePositions/getStartPosition/
 date: 2021-01-11
-key: JavaJava.D.DocSourcePositions
-category: java
+key: Java.D.DocSourcePositions
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

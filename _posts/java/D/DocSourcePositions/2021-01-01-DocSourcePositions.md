@@ -1,9 +1,9 @@
 ---
 title: DocSourcePositions
-permalink: Java/DocSourcePositions
+permalink: /Java/DocSourcePositions/
 date: 2021-01-11
-key: JavaJava.D.DocSourcePositions
-category: java
+key: Java.D.DocSourcePositions
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

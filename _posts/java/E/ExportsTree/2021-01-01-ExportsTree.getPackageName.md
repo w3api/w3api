@@ -1,9 +1,9 @@
 ---
 title: ExportsTree.getPackageName()
-permalink: Java/ExportsTree/getPackageName
+permalink: /Java/ExportsTree/getPackageName/
 date: 2021-01-11
-key: JavaJava.E.ExportsTree
-category: java
+key: Java.E.ExportsTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

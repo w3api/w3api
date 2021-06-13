@@ -1,9 +1,9 @@
 ---
 title: ExpressionStatementTree
-permalink: Java/ExpressionStatementTree/
+permalink: /Java/ExpressionStatementTree//
 date: 2021-01-11
-key: JavaJava.E.ExpressionStatementTree
-category: java
+key: Java.E.ExpressionStatementTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

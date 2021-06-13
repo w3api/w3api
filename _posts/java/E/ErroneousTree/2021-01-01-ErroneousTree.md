@@ -1,9 +1,9 @@
 ---
 title: ErroneousTree
-permalink: Java/ErroneousTree/
+permalink: /Java/ErroneousTree//
 date: 2021-01-11
-key: JavaJava.E.ErroneousTree
-category: java
+key: Java.E.ErroneousTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: FloatBuffer.asReadOnlyBuffer()
-permalink: Java/FloatBuffer/asReadOnlyBuffer
+permalink: /Java/FloatBuffer/asReadOnlyBuffer/
 date: 2021-01-11
-key: JavaJava.F.FloatBuffer
-category: java
+key: Java.F.FloatBuffer
+category: Java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

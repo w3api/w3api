@@ -1,9 +1,9 @@
 ---
 title: ExifParentTIFFTagSet.getInstance()
-permalink: Java/ExifParentTIFFTagSet/getInstance
+permalink: /Java/ExifParentTIFFTagSet/getInstance/
 date: 2021-01-11
-key: JavaJava.E.ExifParentTIFFTagSet
-category: java
+key: Java.E.ExifParentTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

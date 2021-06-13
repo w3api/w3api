@@ -1,9 +1,9 @@
 ---
 title: FlightRecorderMXBean
-permalink: Java/FlightRecorderMXBean
+permalink: /Java/FlightRecorderMXBean/
 date: 2021-01-11
-key: JavaJava.F.FlightRecorderMXBean
-category: java
+key: Java.F.FlightRecorderMXBean
+category: Java
 tags: ['java se', 'jdk.management.jfr', 'jdk.management.jfr', 'interface java', 'Java 9']
 sidebar: 
   nav: java

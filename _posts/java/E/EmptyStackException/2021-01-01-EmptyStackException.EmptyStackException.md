@@ -1,9 +1,9 @@
 ---
 title: EmptyStackException.EmptyStackException()
-permalink: Java/EmptyStackException/EmptyStackException
+permalink: /Java/EmptyStackException/EmptyStackException/
 date: 2021-01-11
-key: JavaJava.E.EmptyStackException
-category: java
+key: Java.E.EmptyStackException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

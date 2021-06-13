@@ -1,9 +1,9 @@
 ---
 title: FocusListener.focusLost()
-permalink: Java/FocusListener/focusLost
+permalink: /Java/FocusListener/focusLost/
 date: 2021-01-11
-key: JavaJava.F.FocusListener
-category: java
+key: Java.F.FocusListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

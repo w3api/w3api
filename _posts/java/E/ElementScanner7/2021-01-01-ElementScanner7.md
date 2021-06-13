@@ -1,9 +1,9 @@
 ---
 title: ElementScanner7
-permalink: Java/ElementScanner7
+permalink: /Java/ElementScanner7/
 date: 2021-01-11
-key: JavaJava.E.ElementScanner7
-category: java
+key: Java.E.ElementScanner7
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

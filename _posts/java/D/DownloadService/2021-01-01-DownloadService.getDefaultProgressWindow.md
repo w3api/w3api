@@ -1,9 +1,9 @@
 ---
 title: DownloadService.getDefaultProgressWindow()
-permalink: Java/DownloadService/getDefaultProgressWindow
+permalink: /Java/DownloadService/getDefaultProgressWindow/
 date: 2021-01-11
-key: JavaJava.D.DownloadService
-category: java
+key: Java.D.DownloadService
+category: Java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.4.2']
 sidebar: 
   nav: java

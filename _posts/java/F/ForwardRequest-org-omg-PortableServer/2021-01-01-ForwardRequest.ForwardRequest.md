@@ -1,9 +1,9 @@
 ---
 title: ForwardRequest.ForwardRequest()
-permalink: Java/ForwardRequest-org-omg-PortableServer/ForwardRequest
+permalink: /Java/ForwardRequest-org-omg-PortableServer/ForwardRequest/
 date: 2021-01-11
-key: JavaJava.F.ForwardRequest-org-omg-PortableServer
-category: java
+key: Java.F.ForwardRequest-org-omg-PortableServer
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

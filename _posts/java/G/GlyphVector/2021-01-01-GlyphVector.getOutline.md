@@ -1,9 +1,9 @@
 ---
 title: GlyphVector.getOutline()
-permalink: Java/GlyphVector/getOutline
+permalink: /Java/GlyphVector/getOutline/
 date: 2021-01-11
-key: JavaJava.G.GlyphVector
-category: java
+key: Java.G.GlyphVector
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: GeoTIFFTagSet
-permalink: Java/GeoTIFFTagSet
+permalink: /Java/GeoTIFFTagSet/
 date: 2021-01-11
-key: JavaJava.G.GeoTIFFTagSet
-category: java
+key: Java.G.GeoTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

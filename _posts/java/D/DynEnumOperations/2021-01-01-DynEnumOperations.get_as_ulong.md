@@ -1,9 +1,9 @@
 ---
 title: DynEnumOperations.get_as_ulong()
-permalink: Java/DynEnumOperations/get_as_ulong
+permalink: /Java/DynEnumOperations/get_as_ulong/
 date: 2021-01-11
-key: JavaJava.D.DynEnumOperations
-category: java
+key: Java.D.DynEnumOperations
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

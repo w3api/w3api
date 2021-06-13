@@ -1,9 +1,9 @@
 ---
 title: DragSourceDropEvent.DragSourceDropEvent()
-permalink: Java/DragSourceDropEvent/DragSourceDropEvent
+permalink: /Java/DragSourceDropEvent/DragSourceDropEvent/
 date: 2021-01-11
-key: JavaJava.D.DragSourceDropEvent
-category: java
+key: Java.D.DragSourceDropEvent
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

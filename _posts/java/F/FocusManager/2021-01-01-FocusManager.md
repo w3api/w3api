@@ -1,9 +1,9 @@
 ---
 title: FocusManager
-permalink: Java/FocusManager
+permalink: /Java/FocusManager/
 date: 2021-01-11
-key: JavaJava.F.FocusManager
-category: java
+key: Java.F.FocusManager
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

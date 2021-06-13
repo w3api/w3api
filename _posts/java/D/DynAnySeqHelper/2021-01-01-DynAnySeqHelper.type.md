@@ -1,9 +1,9 @@
 ---
 title: DynAnySeqHelper.type()
-permalink: Java/DynAnySeqHelper/type
+permalink: /Java/DynAnySeqHelper/type/
 date: 2021-01-11
-key: JavaJava.D.DynAnySeqHelper
-category: java
+key: Java.D.DynAnySeqHelper
+category: Java
 tags: ['java se', 'org.omg.DynamicAny', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java
