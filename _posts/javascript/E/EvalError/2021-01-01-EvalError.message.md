@@ -20,7 +20,7 @@ EvalError.prototype.message
 ~~~
 
 ## Objeto Padre
-[EvalError](/javascript/EvalError/)
+[EvalError](/Javascript/EvalError/)
 
 ## Ejemplo
 ~~~java

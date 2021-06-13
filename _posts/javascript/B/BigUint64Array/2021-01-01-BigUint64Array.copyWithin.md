@@ -25,7 +25,7 @@ typedarray.copyWithin(target, start[, end = this.length])
 * **end=this.length**,  {% include w3api/param_description.html metodo=_dato parametro="end=this.length" %}
 
 ## Objeto Padre
-[BigUint64Array](/javascript/BigUint64Array/)
+[BigUint64Array](/Javascript/BigUint64Array/)
 
 ## Ejemplo
 ~~~java

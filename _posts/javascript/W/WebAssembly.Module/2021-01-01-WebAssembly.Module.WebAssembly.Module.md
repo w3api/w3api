@@ -23,7 +23,7 @@ new WebAssembly.Module(bufferSource);
 * **bufferSource**,  {% include w3api/param_description.html metodo=_dato parametro="bufferSource" %}
 
 ## Objeto Padre
-[WebAssembly.Module](/javascript/WebAssembly/Module/)
+[WebAssembly.Module](/Javascript/WebAssembly/Module/)
 
 ## Ejemplo
 ~~~java

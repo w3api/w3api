@@ -23,7 +23,7 @@ gen.return(value)
 * **value**,  {% include w3api/param_description.html metodo=_dato parametro="value" %}
 
 ## Objeto Padre
-[Generator](/javascript/Generator/)
+[Generator](/Javascript/Generator/)
 
 ## Ejemplo
 ~~~java

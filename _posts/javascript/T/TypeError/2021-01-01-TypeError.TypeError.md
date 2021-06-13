@@ -25,7 +25,7 @@ new TypeError([message[, fileName[, lineNumber]]])
 * **lineNumber**,  {% include w3api/param_description.html metodo=_dato parametro="lineNumber" %}
 
 ## Objeto Padre
-[TypeError](/javascript/TypeError/)
+[TypeError](/Javascript/TypeError/)
 
 ## Ejemplo
 ~~~java

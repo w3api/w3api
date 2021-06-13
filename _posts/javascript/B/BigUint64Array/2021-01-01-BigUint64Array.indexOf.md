@@ -24,7 +24,7 @@ typedarray.indexOf(searchElement[, fromIndex = 0])
 * **fromIndex=0**,  {% include w3api/param_description.html metodo=_dato parametro="fromIndex=0" %}
 
 ## Objeto Padre
-[BigUint64Array](/javascript/BigUint64Array/)
+[BigUint64Array](/Javascript/BigUint64Array/)
 
 ## Ejemplo
 ~~~java

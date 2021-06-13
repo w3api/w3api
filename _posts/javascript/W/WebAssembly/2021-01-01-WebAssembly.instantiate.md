@@ -24,7 +24,7 @@ Promise<ResultObject> WebAssembly.instantiate(bufferSource, importObject);
 * **importObject**,  {% include w3api/param_description.html metodo=_dato parametro="importObject" %}
 
 ## Objeto Padre
-[WebAssembly](/javascript/WebAssembly/)
+[WebAssembly](/Javascript/WebAssembly/)
 
 ## Ejemplo
 ~~~java

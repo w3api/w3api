@@ -25,7 +25,7 @@ TypedArray.of(element0[, element1[, ...[, elementN]]])
 * **elementN**,  {% include w3api/param_description.html metodo=_dato parametro="elementN" %}
 
 ## Objeto Padre
-[Uint8ClampedArray](/javascript/Uint8ClampedArray/)
+[Uint8ClampedArray](/Javascript/Uint8ClampedArray/)
 
 ## Ejemplo
 ~~~java

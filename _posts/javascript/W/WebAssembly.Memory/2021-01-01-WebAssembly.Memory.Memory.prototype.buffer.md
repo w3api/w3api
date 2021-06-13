@@ -20,7 +20,7 @@ Memory.prototype.buffer
 ~~~
 
 ## Objeto Padre
-[WebAssembly.Memory](/javascript/WebAssembly/Memory/)
+[WebAssembly.Memory](/Javascript/WebAssembly/Memory/)
 
 ## Ejemplo
 ~~~java

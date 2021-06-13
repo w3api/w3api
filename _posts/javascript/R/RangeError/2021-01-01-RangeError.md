@@ -18,15 +18,15 @@ RangeError
 ~~~
 
 ## Constructores
-* [RangeError()](/javascript/RangeError/RangeError/)
+* [RangeError()](/Javascript/RangeError/RangeError/)
 
 ## Propiedades
-* [message](/javascript/RangeError/message)
-* [name](/javascript/RangeError/name)
-* [fileName](/javascript/RangeError/fileName)
-* [lineNumber](/javascript/RangeError/lineNumber)
-* [columnNumber](/javascript/RangeError/columnNumber)
-* [stack](/javascript/RangeError/stack)
+* [message](/Javascript/RangeError/message)
+* [name](/Javascript/RangeError/name)
+* [fileName](/Javascript/RangeError/fileName)
+* [lineNumber](/Javascript/RangeError/lineNumber)
+* [columnNumber](/Javascript/RangeError/columnNumber)
+* [stack](/Javascript/RangeError/stack)
 
 ## Ejemplo
 ~~~java

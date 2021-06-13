@@ -9,12 +9,14 @@ source "https://rubygems.org"
 #gemspec
 
 
-gem "jekyll", github: "jekyll/jekyll" 
+gem "jekyll","4.2.0" 
 gem "liquid-c"
+gem "jemoji"
 
 group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-commonmark"
   gem "jekyll-paginate-v2"
+  gem "jekyll-feed"
 end
 gemspec

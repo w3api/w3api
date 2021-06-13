@@ -18,7 +18,7 @@ type: article
   {%- assign counter = 1 -%}
 
   <div class="grid">
-    <div class="cell cell--12 cell--lg-6 content" style="word-break: break-word; padding-right: 30px;">
+    <div class="cell cell--12 cell--md-6 cell--lg-6 content" style="word-break: break-word; padding-right: 30px;">
       {%- assign letra = paginator.posts[0].title | truncate: 1, "" -%}
       <h3>{{ letra }}</h3>
       <ul>
@@ -41,7 +41,7 @@ type: article
         {% if counter == mitad %}
           </ul>
           </div>
-          <div class="cell cell--12 cell--lg-6 content" style="word-break: break-word; padding-right: 30px;">            
+          <div class="cell cell--12 cell--md-6 cell--lg-6 content" style="word-break: break-word; padding-right: 30px;">            
         {% endif %}
         {%- assign counter = counter | plus: 1 -%} 
         

@@ -24,7 +24,7 @@ typedarray.slice([begin[, end]])
 * **end**,  {% include w3api/param_description.html metodo=_dato parametro="end" %}
 
 ## Objeto Padre
-[Uint8ClampedArray](/javascript/Uint8ClampedArray/)
+[Uint8ClampedArray](/Javascript/Uint8ClampedArray/)
 
 ## Ejemplo
 ~~~java

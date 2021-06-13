@@ -23,7 +23,7 @@ gen.throw(exception)
 * **exception**,  {% include w3api/param_description.html metodo=_dato parametro="exception" %}
 
 ## Objeto Padre
-[Generator](/javascript/Generator/)
+[Generator](/Javascript/Generator/)
 
 ## Ejemplo
 ~~~java

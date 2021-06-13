@@ -25,7 +25,7 @@ new SyntaxError([message[, fileName[, lineNumber]]])
 * **lineNumber**,  {% include w3api/param_description.html metodo=_dato parametro="lineNumber" %}
 
 ## Objeto Padre
-[SyntaxError](/javascript/SyntaxError/)
+[SyntaxError](/Javascript/SyntaxError/)
 
 ## Ejemplo
 ~~~java

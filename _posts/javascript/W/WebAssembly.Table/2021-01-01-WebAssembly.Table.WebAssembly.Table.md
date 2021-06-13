@@ -23,7 +23,7 @@ new WebAssembly.Table(tableDescriptor);
 * **tableDescriptor**,  {% include w3api/param_description.html metodo=_dato parametro="tableDescriptor" %}
 
 ## Objeto Padre
-[WebAssembly.Table](/javascript/WebAssembly/Table/)
+[WebAssembly.Table](/Javascript/WebAssembly/Table/)
 
 ## Ejemplo
 ~~~java

@@ -20,7 +20,7 @@ ReferenceError.prototype.columnNumber
 ~~~
 
 ## Objeto Padre
-[ReferenceError](/javascript/ReferenceError/)
+[ReferenceError](/Javascript/ReferenceError/)
 
 ## Ejemplo
 ~~~java

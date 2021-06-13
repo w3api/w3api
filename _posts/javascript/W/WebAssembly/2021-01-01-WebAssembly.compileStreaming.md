@@ -23,7 +23,7 @@ Promise<WebAssembly.Module> WebAssembly.compileStreaming(source);
 * **source**,  {% include w3api/param_description.html metodo=_dato parametro="source" %}
 
 ## Objeto Padre
-[WebAssembly](/javascript/WebAssembly/)
+[WebAssembly](/Javascript/WebAssembly/)
 
 ## Ejemplo
 ~~~java

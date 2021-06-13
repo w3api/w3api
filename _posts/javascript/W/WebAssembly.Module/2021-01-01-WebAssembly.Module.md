@@ -18,12 +18,12 @@ WebAssembly.Module
 ~~~
 
 ## Constructores
-* [WebAssembly.Module()](/javascript/WebAssembly/Module/WebAssembly/Module/)
+* [WebAssembly.Module()](/Javascript/WebAssembly/Module/WebAssembly/Module/)
 
 ## Propiedades
-* [customSections()](/javascript/WebAssembly/Module/customSections())
-* [exports()](/javascript/WebAssembly/Module/exports())
-* [imports()](/javascript/WebAssembly/Module/imports())
+* [customSections()](/Javascript/WebAssembly/Module/customSections())
+* [exports()](/Javascript/WebAssembly/Module/exports())
+* [imports()](/Javascript/WebAssembly/Module/imports())
 
 ## Ejemplo
 ~~~java

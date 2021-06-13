@@ -25,7 +25,7 @@ new WebAssembly.RuntimeError(message, fileName, lineNumber)
 * **lineNumber**,  {% include w3api/param_description.html metodo=_dato parametro="lineNumber" %}
 
 ## Objeto Padre
-[WebAssembly.RuntimeError](/javascript/WebAssembly/RuntimeError/)
+[WebAssembly.RuntimeError](/Javascript/WebAssembly/RuntimeError/)
 
 ## Ejemplo
 ~~~java

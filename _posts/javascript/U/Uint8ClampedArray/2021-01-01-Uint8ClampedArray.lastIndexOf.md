@@ -24,7 +24,7 @@ typedarray.lastIndexOf(searchElement[, fromIndex = typedarray.length])
 * **fromIndex=typedarray.length**,  {% include w3api/param_description.html metodo=_dato parametro="fromIndex=typedarray.length" %}
 
 ## Objeto Padre
-[Uint8ClampedArray](/javascript/Uint8ClampedArray/)
+[Uint8ClampedArray](/Javascript/Uint8ClampedArray/)
 
 ## Ejemplo
 ~~~java

@@ -25,7 +25,7 @@ TypedArray.from(source[, mapFn[, thisArg]])
 * **thisArg**,  {% include w3api/param_description.html metodo=_dato parametro="thisArg" %}
 
 ## Objeto Padre
-[BigInt64Array](/javascript/BigInt64Array/)
+[BigInt64Array](/Javascript/BigInt64Array/)
 
 ## Ejemplo
 ~~~java

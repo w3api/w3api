@@ -20,7 +20,7 @@ e.toSource()
 ~~~
 
 ## Objeto Padre
-[WebAssembly.RuntimeError](/javascript/WebAssembly/RuntimeError/)
+[WebAssembly.RuntimeError](/Javascript/WebAssembly/RuntimeError/)
 
 ## Ejemplo
 ~~~java

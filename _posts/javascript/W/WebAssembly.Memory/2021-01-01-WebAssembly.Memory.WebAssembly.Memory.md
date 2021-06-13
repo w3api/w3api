@@ -23,7 +23,7 @@ new WebAssembly.Memory(memoryDescriptor);
 * **memoryDescriptor**,  {% include w3api/param_description.html metodo=_dato parametro="memoryDescriptor" %}
 
 ## Objeto Padre
-[WebAssembly.Memory](/javascript/WebAssembly/Memory/)
+[WebAssembly.Memory](/Javascript/WebAssembly/Memory/)
 
 ## Ejemplo
 ~~~java

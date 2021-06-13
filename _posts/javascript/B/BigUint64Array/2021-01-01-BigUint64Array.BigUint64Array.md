@@ -29,7 +29,7 @@ new BigUint64Array(); new BigUint64Array(length); new BigUint64Array(typedArray)
 * **length**,  {% include w3api/param_description.html metodo=_dato parametro="length" %}
 
 ## Objeto Padre
-[BigUint64Array](/javascript/BigUint64Array/)
+[BigUint64Array](/Javascript/BigUint64Array/)
 
 ## Ejemplo
 ~~~java

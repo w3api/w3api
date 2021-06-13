@@ -23,7 +23,7 @@ typedarray.sort([compareFunction])
 * **compareFunction**,  {% include w3api/param_description.html metodo=_dato parametro="compareFunction" %}
 
 ## Objeto Padre
-[BigInt64Array](/javascript/BigInt64Array/)
+[BigInt64Array](/Javascript/BigInt64Array/)
 
 ## Ejemplo
 ~~~java

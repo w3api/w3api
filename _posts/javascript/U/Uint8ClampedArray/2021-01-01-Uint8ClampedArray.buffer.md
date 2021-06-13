@@ -20,7 +20,7 @@ Uint8ClampedArray.prototype.buffer
 ~~~
 
 ## Objeto Padre
-[Uint8ClampedArray](/javascript/Uint8ClampedArray/)
+[Uint8ClampedArray](/Javascript/Uint8ClampedArray/)
 
 ## Ejemplo
 ~~~java

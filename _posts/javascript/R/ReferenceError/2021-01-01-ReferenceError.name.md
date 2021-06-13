@@ -20,7 +20,7 @@ ReferenceError.prototype.name
 ~~~
 
 ## Objeto Padre
-[ReferenceError](/javascript/ReferenceError/)
+[ReferenceError](/Javascript/ReferenceError/)
 
 ## Ejemplo
 ~~~java

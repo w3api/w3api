@@ -25,7 +25,7 @@ typedarray.fill(value[, start = 0[, end = this.length]])
 * **end=this.length**,  {% include w3api/param_description.html metodo=_dato parametro="end=this.length" %}
 
 ## Objeto Padre
-[BigInt64Array](/javascript/BigInt64Array/)
+[BigInt64Array](/Javascript/BigInt64Array/)
 
 ## Ejemplo
 ~~~java

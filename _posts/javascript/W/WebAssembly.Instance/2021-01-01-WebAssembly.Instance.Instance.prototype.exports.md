@@ -20,7 +20,7 @@ Instance.prototype.exports
 ~~~
 
 ## Objeto Padre
-[WebAssembly.Instance](/javascript/WebAssembly/Instance/)
+[WebAssembly.Instance](/Javascript/WebAssembly/Instance/)
 
 ## Ejemplo
 ~~~java

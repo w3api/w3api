@@ -25,7 +25,7 @@ new WebAssembly.LinkError(message, fileName, lineNumber)
 * **lineNumber**,  {% include w3api/param_description.html metodo=_dato parametro="lineNumber" %}
 
 ## Objeto Padre
-[WebAssembly.LinkError](/javascript/WebAssembly/LinkError/)
+[WebAssembly.LinkError](/Javascript/WebAssembly/LinkError/)
 
 ## Ejemplo
 ~~~java

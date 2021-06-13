@@ -24,7 +24,7 @@ typedarray.join([separator = ',']);
 * **&#x27;**,  {% include w3api/param_description.html metodo=_dato parametro="'" %}
 
 ## Objeto Padre
-[BigInt64Array](/javascript/BigInt64Array/)
+[BigInt64Array](/Javascript/BigInt64Array/)
 
 ## Ejemplo
 ~~~java

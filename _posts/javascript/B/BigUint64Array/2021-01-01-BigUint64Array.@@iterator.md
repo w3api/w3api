@@ -20,7 +20,7 @@ arr[Symbol.iterator]()
 ~~~
 
 ## Objeto Padre
-[BigUint64Array](/javascript/BigUint64Array/)
+[BigUint64Array](/Javascript/BigUint64Array/)
 
 ## Ejemplo
 ~~~java

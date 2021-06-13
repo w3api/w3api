@@ -20,7 +20,7 @@ SyntaxError.prototype.message
 ~~~
 
 ## Objeto Padre
-[SyntaxError](/javascript/SyntaxError/)
+[SyntaxError](/Javascript/SyntaxError/)
 
 ## Ejemplo
 ~~~java

@@ -20,7 +20,7 @@ WebAssembly.Module.customSections()
 ~~~
 
 ## Objeto Padre
-[WebAssembly.Module](/javascript/WebAssembly/Module/)
+[WebAssembly.Module](/Javascript/WebAssembly/Module/)
 
 ## Ejemplo
 ~~~java

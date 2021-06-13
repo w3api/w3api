@@ -24,7 +24,7 @@ table.set(index, value);
 * **value**,  {% include w3api/param_description.html metodo=_dato parametro="value" %}
 
 ## Objeto Padre
-[WebAssembly.Table](/javascript/WebAssembly/Table/)
+[WebAssembly.Table](/Javascript/WebAssembly/Table/)
 
 ## Ejemplo
 ~~~java

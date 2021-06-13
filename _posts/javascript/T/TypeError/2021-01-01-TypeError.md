@@ -18,15 +18,15 @@ TypeError
 ~~~
 
 ## Constructores
-* [TypeError()](/javascript/TypeError/TypeError/)
+* [TypeError()](/Javascript/TypeError/TypeError/)
 
 ## Propiedades
-* [message](/javascript/TypeError/message)
-* [name](/javascript/TypeError/name)
-* [fileName](/javascript/TypeError/fileName)
-* [lineNumber](/javascript/TypeError/lineNumber)
-* [columnNumber](/javascript/TypeError/columnNumber)
-* [stack](/javascript/TypeError/stack)
+* [message](/Javascript/TypeError/message)
+* [name](/Javascript/TypeError/name)
+* [fileName](/Javascript/TypeError/fileName)
+* [lineNumber](/Javascript/TypeError/lineNumber)
+* [columnNumber](/Javascript/TypeError/columnNumber)
+* [stack](/Javascript/TypeError/stack)
 
 ## Ejemplo
 ~~~java

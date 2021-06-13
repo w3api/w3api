@@ -23,7 +23,7 @@ table.grow(number);
 * **number**,  {% include w3api/param_description.html metodo=_dato parametro="number" %}
 
 ## Objeto Padre
-[WebAssembly.Table](/javascript/WebAssembly/Table/)
+[WebAssembly.Table](/Javascript/WebAssembly/Table/)
 
 ## Ejemplo
 ~~~java

@@ -20,7 +20,7 @@ RangeError.prototype.message
 ~~~
 
 ## Objeto Padre
-[RangeError](/javascript/RangeError/)
+[RangeError](/Javascript/RangeError/)
 
 ## Ejemplo
 ~~~java

@@ -20,7 +20,7 @@ Table.prototype.length
 ~~~
 
 ## Objeto Padre
-[WebAssembly.Table](/javascript/WebAssembly/Table/)
+[WebAssembly.Table](/Javascript/WebAssembly/Table/)
 
 ## Ejemplo
 ~~~java

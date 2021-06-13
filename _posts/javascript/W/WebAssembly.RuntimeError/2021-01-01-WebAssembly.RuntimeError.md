@@ -18,19 +18,19 @@ WebAssembly.RuntimeError
 ~~~
 
 ## Constructores
-* [WebAssembly.RuntimeError()](/javascript/WebAssembly/RuntimeError/WebAssembly/RuntimeError/)
+* [WebAssembly.RuntimeError()](/Javascript/WebAssembly/RuntimeError/WebAssembly/RuntimeError/)
 
 ## Propiedades
-* [message](/javascript/WebAssembly/RuntimeError/message)
-* [name](/javascript/WebAssembly/RuntimeError/name)
-* [fileName](/javascript/WebAssembly/RuntimeError/fileName)
-* [lineNumber](/javascript/WebAssembly/RuntimeError/lineNumber)
-* [columnNumber](/javascript/WebAssembly/RuntimeError/columnNumber)
-* [stack](/javascript/WebAssembly/RuntimeError/stack)
+* [message](/Javascript/WebAssembly/RuntimeError/message)
+* [name](/Javascript/WebAssembly/RuntimeError/name)
+* [fileName](/Javascript/WebAssembly/RuntimeError/fileName)
+* [lineNumber](/Javascript/WebAssembly/RuntimeError/lineNumber)
+* [columnNumber](/Javascript/WebAssembly/RuntimeError/columnNumber)
+* [stack](/Javascript/WebAssembly/RuntimeError/stack)
 
 ## Métodos
-* [toSource()](/javascript/WebAssembly/RuntimeError/toSource)
-* [toString()](/javascript/WebAssembly/RuntimeError/toString)
+* [toSource()](/Javascript/WebAssembly/RuntimeError/toSource)
+* [toString()](/Javascript/WebAssembly/RuntimeError/toString)
 
 ## Ejemplo
 ~~~java

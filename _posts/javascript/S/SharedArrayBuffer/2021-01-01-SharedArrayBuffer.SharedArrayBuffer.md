@@ -23,7 +23,7 @@ new SharedArrayBuffer([length])
 * **length**,  {% include w3api/param_description.html metodo=_dato parametro="length" %}
 
 ## Objeto Padre
-[SharedArrayBuffer](/javascript/SharedArrayBuffer/)
+[SharedArrayBuffer](/Javascript/SharedArrayBuffer/)
 
 ## Ejemplo
 ~~~java

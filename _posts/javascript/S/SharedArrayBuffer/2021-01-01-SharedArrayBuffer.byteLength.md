@@ -20,7 +20,7 @@ SharedArrayBuffer.prototype.byteLength
 ~~~
 
 ## Objeto Padre
-[SharedArrayBuffer](/javascript/SharedArrayBuffer/)
+[SharedArrayBuffer](/Javascript/SharedArrayBuffer/)
 
 ## Ejemplo
 ~~~java

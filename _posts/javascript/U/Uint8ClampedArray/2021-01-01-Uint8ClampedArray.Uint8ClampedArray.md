@@ -29,7 +29,7 @@ new Uint8ClampedArray(); // new in ES2017 new Uint8ClampedArray(length); new Uin
 * **length**,  {% include w3api/param_description.html metodo=_dato parametro="length" %}
 
 ## Objeto Padre
-[Uint8ClampedArray](/javascript/Uint8ClampedArray/)
+[Uint8ClampedArray](/Javascript/Uint8ClampedArray/)
 
 ## Ejemplo
 ~~~java

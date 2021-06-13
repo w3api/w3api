@@ -24,7 +24,7 @@ new WebAssembly.Instance(module, importObject);
 * **importObject**,  {% include w3api/param_description.html metodo=_dato parametro="importObject" %}
 
 ## Objeto Padre
-[WebAssembly.Instance](/javascript/WebAssembly/Instance/)
+[WebAssembly.Instance](/Javascript/WebAssembly/Instance/)
 
 ## Ejemplo
 ~~~java

@@ -20,7 +20,7 @@ e.toString()
 ~~~
 
 ## Objeto Padre
-[WebAssembly.CompileError](/javascript/WebAssembly/CompileError/)
+[WebAssembly.CompileError](/Javascript/WebAssembly/CompileError/)
 
 ## Ejemplo
 ~~~java

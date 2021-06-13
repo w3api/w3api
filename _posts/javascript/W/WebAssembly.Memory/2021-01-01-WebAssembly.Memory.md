@@ -18,13 +18,13 @@ WebAssembly.Memory
 ~~~
 
 ## Constructores
-* [WebAssembly.Memory()](/javascript/WebAssembly/Memory/WebAssembly/Memory/)
+* [WebAssembly.Memory()](/Javascript/WebAssembly/Memory/WebAssembly/Memory/)
 
 ## Propiedades
-* [Memory.prototype.buffer](/javascript/WebAssembly/Memory/Memory.prototype.buffer)
+* [Memory.prototype.buffer](/Javascript/WebAssembly/Memory/Memory.prototype.buffer)
 
 ## Métodos
-* [grow()](/javascript/WebAssembly/Memory/grow)
+* [grow()](/Javascript/WebAssembly/Memory/grow)
 
 ## Ejemplo
 ~~~java

@@ -25,7 +25,7 @@ new WebAssembly.CompileError(message, fileName, lineNumber)
 * **lineNumber**,  {% include w3api/param_description.html metodo=_dato parametro="lineNumber" %}
 
 ## Objeto Padre
-[WebAssembly.CompileError](/javascript/WebAssembly/CompileError/)
+[WebAssembly.CompileError](/Javascript/WebAssembly/CompileError/)
 
 ## Ejemplo
 ~~~java

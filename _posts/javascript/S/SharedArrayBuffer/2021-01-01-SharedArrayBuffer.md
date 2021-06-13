@@ -18,13 +18,13 @@ SharedArrayBuffer
 ~~~
 
 ## Constructores
-* [SharedArrayBuffer()](/javascript/SharedArrayBuffer/SharedArrayBuffer/)
+* [SharedArrayBuffer()](/Javascript/SharedArrayBuffer/SharedArrayBuffer/)
 
 ## Propiedades
-* [byteLength](/javascript/SharedArrayBuffer/byteLength)
+* [byteLength](/Javascript/SharedArrayBuffer/byteLength)
 
 ## Métodos
-* [slice()](/javascript/SharedArrayBuffer/slice)
+* [slice()](/Javascript/SharedArrayBuffer/slice)
 
 ## Ejemplo
 ~~~java

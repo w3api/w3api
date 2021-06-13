@@ -18,19 +18,19 @@ WebAssembly.CompileError
 ~~~
 
 ## Constructores
-* [WebAssembly.CompileError()](/javascript/WebAssembly/CompileError/WebAssembly/CompileError/)
+* [WebAssembly.CompileError()](/Javascript/WebAssembly/CompileError/WebAssembly/CompileError/)
 
 ## Propiedades
-* [message](/javascript/WebAssembly/CompileError/message)
-* [name](/javascript/WebAssembly/CompileError/name)
-* [fileName](/javascript/WebAssembly/CompileError/fileName)
-* [lineNumber](/javascript/WebAssembly/CompileError/lineNumber)
-* [columnNumber](/javascript/WebAssembly/CompileError/columnNumber)
-* [stack](/javascript/WebAssembly/CompileError/stack)
+* [message](/Javascript/WebAssembly/CompileError/message)
+* [name](/Javascript/WebAssembly/CompileError/name)
+* [fileName](/Javascript/WebAssembly/CompileError/fileName)
+* [lineNumber](/Javascript/WebAssembly/CompileError/lineNumber)
+* [columnNumber](/Javascript/WebAssembly/CompileError/columnNumber)
+* [stack](/Javascript/WebAssembly/CompileError/stack)
 
 ## Métodos
-* [toSource()](/javascript/WebAssembly/CompileError/toSource)
-* [toString()](/javascript/WebAssembly/CompileError/toString)
+* [toSource()](/Javascript/WebAssembly/CompileError/toSource)
+* [toString()](/Javascript/WebAssembly/CompileError/toString)
 
 ## Ejemplo
 ~~~java

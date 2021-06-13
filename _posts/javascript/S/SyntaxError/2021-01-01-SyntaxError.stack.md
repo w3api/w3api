@@ -20,7 +20,7 @@ SyntaxError.prototype.stack
 ~~~
 
 ## Objeto Padre
-[SyntaxError](/javascript/SyntaxError/)
+[SyntaxError](/Javascript/SyntaxError/)
 
 ## Ejemplo
 ~~~java

@@ -18,15 +18,15 @@ EvalError
 ~~~
 
 ## Constructores
-* [EvalError()](/javascript/EvalError/EvalError/)
+* [EvalError()](/Javascript/EvalError/EvalError/)
 
 ## Propiedades
-* [message](/javascript/EvalError/message)
-* [name](/javascript/EvalError/name)
-* [fileName](/javascript/EvalError/fileName)
-* [lineNumber](/javascript/EvalError/lineNumber)
-* [columnNumber](/javascript/EvalError/columnNumber)
-* [stack](/javascript/EvalError/stack)
+* [message](/Javascript/EvalError/message)
+* [name](/Javascript/EvalError/name)
+* [fileName](/Javascript/EvalError/fileName)
+* [lineNumber](/Javascript/EvalError/lineNumber)
+* [columnNumber](/Javascript/EvalError/columnNumber)
+* [stack](/Javascript/EvalError/stack)
 
 ## Ejemplo
 ~~~java

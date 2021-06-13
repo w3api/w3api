@@ -25,7 +25,7 @@ TypedArray.of(element0[, element1[, ...[, elementN]]])
 * **elementN**,  {% include w3api/param_description.html metodo=_dato parametro="elementN" %}
 
 ## Objeto Padre
-[BigInt64Array](/javascript/BigInt64Array/)
+[BigInt64Array](/Javascript/BigInt64Array/)
 
 ## Ejemplo
 ~~~java

@@ -18,15 +18,15 @@ WebAssembly.Table
 ~~~
 
 ## Constructores
-* [WebAssembly.Table()](/javascript/WebAssembly/Table/WebAssembly/Table/)
+* [WebAssembly.Table()](/Javascript/WebAssembly/Table/WebAssembly/Table/)
 
 ## Propiedades
-* [Table.prototype.length](/javascript/WebAssembly/Table/Table.prototype.length)
+* [Table.prototype.length](/Javascript/WebAssembly/Table/Table.prototype.length)
 
 ## Métodos
-* [get()](/javascript/WebAssembly/Table/get)
-* [grow()](/javascript/WebAssembly/Table/grow)
-* [set()](/javascript/WebAssembly/Table/set)
+* [get()](/Javascript/WebAssembly/Table/get)
+* [grow()](/Javascript/WebAssembly/Table/grow)
+* [set()](/Javascript/WebAssembly/Table/set)
 
 ## Ejemplo
 ~~~java

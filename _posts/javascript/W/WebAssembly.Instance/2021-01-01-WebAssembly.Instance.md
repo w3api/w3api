@@ -18,10 +18,10 @@ WebAssembly.Instance
 ~~~
 
 ## Constructores
-* [WebAssembly.Instance()](/javascript/WebAssembly/Instance/WebAssembly/Instance/)
+* [WebAssembly.Instance()](/Javascript/WebAssembly/Instance/WebAssembly/Instance/)
 
 ## Propiedades
-* [Instance.prototype.exports](/javascript/WebAssembly/Instance/Instance.prototype.exports)
+* [Instance.prototype.exports](/Javascript/WebAssembly/Instance/Instance.prototype.exports)
 
 ## Ejemplo
 ~~~java

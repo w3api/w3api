@@ -24,7 +24,7 @@ sab.slice() sab.slice(begin) sab.slice(begin, end)
 * **end**,  {% include w3api/param_description.html metodo=_dato parametro="end" %}
 
 ## Objeto Padre
-[SharedArrayBuffer](/javascript/SharedArrayBuffer/)
+[SharedArrayBuffer](/Javascript/SharedArrayBuffer/)
 
 ## Ejemplo
 ~~~java

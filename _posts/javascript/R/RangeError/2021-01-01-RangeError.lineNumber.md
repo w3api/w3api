@@ -20,7 +20,7 @@ RangeError.prototype.lineNumber
 ~~~
 
 ## Objeto Padre
-[RangeError](/javascript/RangeError/)
+[RangeError](/Javascript/RangeError/)
 
 ## Ejemplo
 ~~~java

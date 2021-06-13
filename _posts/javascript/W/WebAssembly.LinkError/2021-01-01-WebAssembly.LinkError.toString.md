@@ -20,7 +20,7 @@ e.toString()
 ~~~
 
 ## Objeto Padre
-[WebAssembly.LinkError](/javascript/WebAssembly/LinkError/)
+[WebAssembly.LinkError](/Javascript/WebAssembly/LinkError/)
 
 ## Ejemplo
 ~~~java

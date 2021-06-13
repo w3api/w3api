@@ -18,15 +18,15 @@ SyntaxError
 ~~~
 
 ## Constructores
-* [SyntaxError()](/javascript/SyntaxError/SyntaxError/)
+* [SyntaxError()](/Javascript/SyntaxError/SyntaxError/)
 
 ## Propiedades
-* [message](/javascript/SyntaxError/message)
-* [name](/javascript/SyntaxError/name)
-* [fileName](/javascript/SyntaxError/fileName)
-* [lineNumber](/javascript/SyntaxError/lineNumber)
-* [columnNumber](/javascript/SyntaxError/columnNumber)
-* [stack](/javascript/SyntaxError/stack)
+* [message](/Javascript/SyntaxError/message)
+* [name](/Javascript/SyntaxError/name)
+* [fileName](/Javascript/SyntaxError/fileName)
+* [lineNumber](/Javascript/SyntaxError/lineNumber)
+* [columnNumber](/Javascript/SyntaxError/columnNumber)
+* [stack](/Javascript/SyntaxError/stack)
 
 ## Ejemplo
 ~~~java

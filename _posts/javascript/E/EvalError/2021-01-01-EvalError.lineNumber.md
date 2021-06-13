@@ -20,7 +20,7 @@ EvalError.prototype.lineNumber
 ~~~
 
 ## Objeto Padre
-[EvalError](/javascript/EvalError/)
+[EvalError](/Javascript/EvalError/)
 
 ## Ejemplo
 ~~~java

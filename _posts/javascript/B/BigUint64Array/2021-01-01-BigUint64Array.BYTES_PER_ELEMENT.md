@@ -20,7 +20,7 @@ BigUint64Array.BYTES_PER_ELEMENT
 ~~~
 
 ## Objeto Padre
-[BigUint64Array](/javascript/BigUint64Array/)
+[BigUint64Array](/Javascript/BigUint64Array/)
 
 ## Ejemplo
 ~~~java

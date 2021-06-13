@@ -18,11 +18,11 @@ WebAssembly
 ~~~
 
 ## Métodos
-* [instantiate()](/javascript/WebAssembly/instantiate)
-* [instantiateStreaming()](/javascript/WebAssembly/instantiateStreaming)
-* [compile()](/javascript/WebAssembly/compile)
-* [compileStreaming()](/javascript/WebAssembly/compileStreaming)
-* [validate()](/javascript/WebAssembly/validate)
+* [instantiate()](/Javascript/WebAssembly/instantiate)
+* [instantiateStreaming()](/Javascript/WebAssembly/instantiateStreaming)
+* [compile()](/Javascript/WebAssembly/compile)
+* [compileStreaming()](/Javascript/WebAssembly/compileStreaming)
+* [validate()](/Javascript/WebAssembly/validate)
 
 ## Ejemplo
 ~~~java

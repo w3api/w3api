@@ -20,7 +20,7 @@ TypeError.prototype.lineNumber
 ~~~
 
 ## Objeto Padre
-[TypeError](/javascript/TypeError/)
+[TypeError](/Javascript/TypeError/)
 
 ## Ejemplo
 ~~~java

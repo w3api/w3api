@@ -23,7 +23,7 @@ memory.grow(number);
 * **number**,  {% include w3api/param_description.html metodo=_dato parametro="number" %}
 
 ## Objeto Padre
-[WebAssembly.Memory](/javascript/WebAssembly/Memory/)
+[WebAssembly.Memory](/Javascript/WebAssembly/Memory/)
 
 ## Ejemplo
 ~~~java

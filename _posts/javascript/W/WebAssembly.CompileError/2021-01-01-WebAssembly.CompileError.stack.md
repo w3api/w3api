@@ -20,7 +20,7 @@ WebAssembly.CompileError.prototype.stack
 ~~~
 
 ## Objeto Padre
-[WebAssembly.CompileError](/javascript/WebAssembly/CompileError/)
+[WebAssembly.CompileError](/Javascript/WebAssembly/CompileError/)
 
 ## Ejemplo
 ~~~java

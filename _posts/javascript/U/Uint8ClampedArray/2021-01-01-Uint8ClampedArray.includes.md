@@ -24,7 +24,7 @@ typedarray.includes(searchElement[, fromIndex]);
 * **fromIndex**,  {% include w3api/param_description.html metodo=_dato parametro="fromIndex" %}
 
 ## Objeto Padre
-[Uint8ClampedArray](/javascript/Uint8ClampedArray/)
+[Uint8ClampedArray](/Javascript/Uint8ClampedArray/)
 
 ## Ejemplo
 ~~~java

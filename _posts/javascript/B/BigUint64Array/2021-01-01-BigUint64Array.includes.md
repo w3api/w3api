@@ -24,7 +24,7 @@ typedarray.includes(searchElement[, fromIndex]);
 * **fromIndex**,  {% include w3api/param_description.html metodo=_dato parametro="fromIndex" %}
 
 ## Objeto Padre
-[BigUint64Array](/javascript/BigUint64Array/)
+[BigUint64Array](/Javascript/BigUint64Array/)
 
 ## Ejemplo
 ~~~java
