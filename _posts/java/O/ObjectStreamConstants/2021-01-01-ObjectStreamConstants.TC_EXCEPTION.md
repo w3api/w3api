@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.TC_EXCEPTION
-permalink: Java/ObjectStreamConstants/TC_EXCEPTION
+permalink: /Java/ObjectStreamConstants/TC_EXCEPTION/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

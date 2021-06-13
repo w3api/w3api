@@ -1,6 +1,6 @@
 ---
 title: ObjectIdHelper.type()
-permalink: Java/ObjectIdHelper-org-omg-PortableInterceptor/type
+permalink: /Java/ObjectIdHelper-org-omg-PortableInterceptor/type/
 date: 2021-01-11
 key: JavaJava.O.ObjectIdHelper-org-omg-PortableInterceptor
 category: java

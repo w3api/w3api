@@ -1,8 +1,8 @@
 ---
 title: PrintQuality.getOffset()
-permalink: Java/PrintQuality-javax-print-attribute-standard/getOffset
+permalink: /Java/PrintQuality-javax-print-attribute-standard/getOffset/
 date: 2021-01-11
-key: JavaJava.P.PrintQuality-javax-print-attribute-standard
+key: Java.P.PrintQuality-javax-print-attribute-standard
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RMIClassLoader
 permalink: Java/RMIClassLoader
 date: 2021-01-11
-key: JavaJava.R.RMIClassLoader
+key: Java.R.RMIClassLoader
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 

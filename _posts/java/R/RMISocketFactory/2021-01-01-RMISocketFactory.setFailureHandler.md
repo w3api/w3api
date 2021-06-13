@@ -2,7 +2,7 @@
 title: RMISocketFactory.setFailureHandler()
 permalink: Java/RMISocketFactory/setFailureHandler
 date: 2021-01-11
-key: JavaJava.R.RMISocketFactory
+key: Java.R.RMISocketFactory
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 

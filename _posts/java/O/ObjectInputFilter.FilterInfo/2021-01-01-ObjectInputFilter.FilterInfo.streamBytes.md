@@ -1,6 +1,6 @@
 ---
 title: ObjectInputFilter.FilterInfo.streamBytes()
-permalink: Java/ObjectInputFilter/FilterInfo/streamBytes
+permalink: /Java/ObjectInputFilter/FilterInfo/streamBytes/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputFilter.FilterInfo
 category: java

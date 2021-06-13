@@ -1,6 +1,6 @@
 ---
 title: OverlayLayout.invalidateLayout()
-permalink: Java/OverlayLayout/invalidateLayout
+permalink: /Java/OverlayLayout/invalidateLayout/
 date: 2021-01-11
 key: JavaJava.O.OverlayLayout
 category: java

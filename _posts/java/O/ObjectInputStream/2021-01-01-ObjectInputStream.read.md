@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.read()
-permalink: Java/ObjectInputStream/read
+permalink: /Java/ObjectInputStream/read/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

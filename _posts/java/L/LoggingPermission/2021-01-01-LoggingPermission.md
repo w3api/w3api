@@ -2,7 +2,7 @@
 title: LoggingPermission
 permalink: Java/LoggingPermission
 date: 2021-01-11
-key: JavaJava.L.LoggingPermission
+key: Java.L.LoggingPermission
 category: java
 tags: ['java se', 'java.util.logging', 'java.logging', 'clase java', 'Java 1.4']
 sidebar: 

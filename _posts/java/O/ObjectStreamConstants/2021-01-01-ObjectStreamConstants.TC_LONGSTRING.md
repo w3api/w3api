@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.TC_LONGSTRING
-permalink: Java/ObjectStreamConstants/TC_LONGSTRING
+permalink: /Java/ObjectStreamConstants/TC_LONGSTRING/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

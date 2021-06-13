@@ -1,8 +1,8 @@
 ---
 title: PersistentSnippet
-permalink: Java/PersistentSnippet
+permalink: /Java/PersistentSnippet/
 date: 2021-01-11
-key: JavaJava.P.PersistentSnippet
+key: Java.P.PersistentSnippet
 category: java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 

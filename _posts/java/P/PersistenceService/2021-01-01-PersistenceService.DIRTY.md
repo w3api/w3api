@@ -1,8 +1,8 @@
 ---
 title: PersistenceService.DIRTY
-permalink: Java/PersistenceService/DIRTY
+permalink: /Java/PersistenceService/DIRTY/
 date: 2021-01-11
-key: JavaJava.P.PersistenceService
+key: Java.P.PersistenceService
 category: java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'campo java', 'Java 1.4.2']
 sidebar: 

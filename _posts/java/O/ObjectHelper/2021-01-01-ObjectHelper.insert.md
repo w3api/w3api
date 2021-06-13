@@ -1,6 +1,6 @@
 ---
 title: ObjectHelper.insert()
-permalink: Java/ObjectHelper/insert
+permalink: /Java/ObjectHelper/insert/
 date: 2021-01-11
 key: JavaJava.O.ObjectHelper
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PriorityQueue.clear()
-permalink: Java/PriorityQueue/clear
+permalink: /Java/PriorityQueue/clear/
 date: 2021-01-11
-key: JavaJava.P.PriorityQueue
+key: Java.P.PriorityQueue
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

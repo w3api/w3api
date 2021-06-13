@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.writeUTF()
-permalink: Java/ObjectOutputStream/writeUTF
+permalink: /Java/ObjectOutputStream/writeUTF/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

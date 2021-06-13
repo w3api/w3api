@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.SC_WRITE_METHOD
-permalink: Java/ObjectStreamConstants/SC_WRITE_METHOD
+permalink: /Java/ObjectStreamConstants/SC_WRITE_METHOD/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

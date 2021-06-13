@@ -1,8 +1,8 @@
 ---
 title: Processor.process()
-permalink: Java/Processor/process
+permalink: /Java/Processor/process/
 date: 2021-01-11
-key: JavaJava.P.Processor
+key: Java.P.Processor
 category: java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ProcessHandle.destroyForcibly()
-permalink: Java/ProcessHandle/destroyForcibly
+permalink: /Java/ProcessHandle/destroyForcibly/
 date: 2021-01-11
-key: JavaJava.P.ProcessHandle
+key: Java.P.ProcessHandle
 category: java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

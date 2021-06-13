@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceTemplateSeqHelper.insert()
-permalink: Java/ObjectReferenceTemplateSeqHelper/insert
+permalink: /Java/ObjectReferenceTemplateSeqHelper/insert/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceTemplateSeqHelper
 category: java

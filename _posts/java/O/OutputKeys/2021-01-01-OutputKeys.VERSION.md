@@ -1,6 +1,6 @@
 ---
 title: OutputKeys.VERSION
-permalink: Java/OutputKeys/VERSION
+permalink: /Java/OutputKeys/VERSION/
 date: 2021-01-11
 key: JavaJava.O.OutputKeys
 category: java

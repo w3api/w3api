@@ -1,8 +1,8 @@
 ---
 title: PopupMenuListener.popupMenuWillBecomeInvisible()
-permalink: Java/PopupMenuListener/popupMenuWillBecomeInvisible
+permalink: /Java/PopupMenuListener/popupMenuWillBecomeInvisible/
 date: 2021-01-11
-key: JavaJava.P.PopupMenuListener
+key: Java.P.PopupMenuListener
 category: java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

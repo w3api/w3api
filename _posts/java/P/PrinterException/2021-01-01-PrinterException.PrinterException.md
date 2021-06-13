@@ -1,8 +1,8 @@
 ---
 title: PrinterException.PrinterException()
-permalink: Java/PrinterException/PrinterException
+permalink: /Java/PrinterException/PrinterException/
 date: 2021-01-11
-key: JavaJava.P.PrinterException
+key: Java.P.PrinterException
 category: java
 tags: ['java se', 'java.awt.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

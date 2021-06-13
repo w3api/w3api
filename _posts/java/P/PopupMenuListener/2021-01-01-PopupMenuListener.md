@@ -1,8 +1,8 @@
 ---
 title: PopupMenuListener
-permalink: Java/PopupMenuListener
+permalink: /Java/PopupMenuListener/
 date: 2021-01-11
-key: JavaJava.P.PopupMenuListener
+key: Java.P.PopupMenuListener
 category: java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

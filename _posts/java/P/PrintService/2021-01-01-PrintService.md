@@ -1,8 +1,8 @@
 ---
 title: PrintService
-permalink: Java/PrintService/
+permalink: /Java/PrintService//
 date: 2021-01-11
-key: JavaJava.P.PrintService
+key: Java.P.PrintService
 category: java
 tags: ['java se']
 sidebar: 

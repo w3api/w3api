@@ -1,8 +1,8 @@
 ---
 title: ProgressIndicator
-permalink: Java/ProgressIndicator
+permalink: /Java/ProgressIndicator/
 date: 2021-01-11
-key: JavaJava.P.ProgressIndicator
+key: Java.P.ProgressIndicator
 category: java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'clase java', 'JavaFX 2.0']
 sidebar: 

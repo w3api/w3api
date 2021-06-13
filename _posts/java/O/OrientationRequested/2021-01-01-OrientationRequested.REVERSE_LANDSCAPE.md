@@ -1,6 +1,6 @@
 ---
 title: OrientationRequested.REVERSE_LANDSCAPE
-permalink: Java/OrientationRequested/REVERSE_LANDSCAPE
+permalink: /Java/OrientationRequested/REVERSE_LANDSCAPE/
 date: 2021-01-11
 key: JavaJava.O.OrientationRequested
 category: java

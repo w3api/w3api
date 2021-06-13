@@ -1,6 +1,6 @@
 ---
 title: Observable.deleteObservers()
-permalink: Java/Observable-java-util/deleteObservers
+permalink: /Java/Observable-java-util/deleteObservers/
 date: 2021-01-11
 key: JavaJava.O.Observable-java-util
 category: java

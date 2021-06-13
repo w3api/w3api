@@ -1,8 +1,8 @@
 ---
 title: PrivateCredentialPermission.getPrincipals()
-permalink: Java/PrivateCredentialPermission/getPrincipals
+permalink: /Java/PrivateCredentialPermission/getPrincipals/
 date: 2021-01-11
-key: JavaJava.P.PrivateCredentialPermission
+key: Java.P.PrivateCredentialPermission
 category: java
 tags: ['java se', 'javax.security.auth', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

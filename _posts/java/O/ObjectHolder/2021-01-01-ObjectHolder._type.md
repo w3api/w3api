@@ -1,6 +1,6 @@
 ---
 title: ObjectHolder._type()
-permalink: Java/ObjectHolder/_type
+permalink: /Java/ObjectHolder/_type/
 date: 2021-01-11
 key: JavaJava.O.ObjectHolder
 category: java

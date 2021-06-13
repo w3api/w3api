@@ -1,6 +1,6 @@
 ---
 title: ObservableMap.removeListener()
-permalink: Java/ObservableMap/removeListener
+permalink: /Java/ObservableMap/removeListener/
 date: 2021-01-11
 key: JavaJava.O.ObservableMap
 category: java

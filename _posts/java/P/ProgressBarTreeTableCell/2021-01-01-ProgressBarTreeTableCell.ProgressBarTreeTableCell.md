@@ -1,8 +1,8 @@
 ---
 title: ProgressBarTreeTableCell.ProgressBarTreeTableCell()
-permalink: Java/ProgressBarTreeTableCell/ProgressBarTreeTableCell
+permalink: /Java/ProgressBarTreeTableCell/ProgressBarTreeTableCell/
 date: 2021-01-11
-key: JavaJava.P.ProgressBarTreeTableCell
+key: Java.P.ProgressBarTreeTableCell
 category: java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 

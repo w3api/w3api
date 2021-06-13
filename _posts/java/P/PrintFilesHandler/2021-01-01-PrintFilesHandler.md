@@ -1,8 +1,8 @@
 ---
 title: PrintFilesHandler
-permalink: Java/PrintFilesHandler
+permalink: /Java/PrintFilesHandler/
 date: 2021-01-11
-key: JavaJava.P.PrintFilesHandler
+key: Java.P.PrintFilesHandler
 category: java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 

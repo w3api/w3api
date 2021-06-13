@@ -1,8 +1,8 @@
 ---
 title: PKIXRevocationChecker.Option.values()
-permalink: Java/PKIXRevocationChecker/Option/values
+permalink: /Java/PKIXRevocationChecker/Option/values/
 date: 2021-01-11
-key: JavaJava.P.PKIXRevocationChecker.Option
+key: Java.P.PKIXRevocationChecker.Option
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

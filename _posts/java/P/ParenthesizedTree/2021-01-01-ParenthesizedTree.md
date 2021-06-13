@@ -1,8 +1,8 @@
 ---
 title: ParenthesizedTree
-permalink: Java/ParenthesizedTree/
+permalink: /Java/ParenthesizedTree//
 date: 2021-01-11
-key: JavaJava.P.ParenthesizedTree
+key: Java.P.ParenthesizedTree
 category: java
 tags: ['java se']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.writeDouble()
-permalink: Java/ObjectOutputStream/writeDouble
+permalink: /Java/ObjectOutputStream/writeDouble/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

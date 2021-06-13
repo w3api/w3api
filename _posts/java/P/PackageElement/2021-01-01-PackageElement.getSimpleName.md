@@ -1,8 +1,8 @@
 ---
 title: PackageElement.getSimpleName()
-permalink: Java/PackageElement/getSimpleName
+permalink: /Java/PackageElement/getSimpleName/
 date: 2021-01-11
-key: JavaJava.P.PackageElement
+key: Java.P.PackageElement
 category: java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

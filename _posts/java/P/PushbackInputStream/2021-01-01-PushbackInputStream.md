@@ -1,8 +1,8 @@
 ---
 title: PushbackInputStream
-permalink: Java/PushbackInputStream
+permalink: /Java/PushbackInputStream/
 date: 2021-01-11
-key: JavaJava.P.PushbackInputStream
+key: Java.P.PushbackInputStream
 category: java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 

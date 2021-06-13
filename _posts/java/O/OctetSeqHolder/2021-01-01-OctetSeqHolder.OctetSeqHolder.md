@@ -1,6 +1,6 @@
 ---
 title: OctetSeqHolder.OctetSeqHolder()
-permalink: Java/OctetSeqHolder/OctetSeqHolder
+permalink: /Java/OctetSeqHolder/OctetSeqHolder/
 date: 2021-01-11
 key: JavaJava.O.OctetSeqHolder
 category: java

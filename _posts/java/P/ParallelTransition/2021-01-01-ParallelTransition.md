@@ -1,8 +1,8 @@
 ---
 title: ParallelTransition
-permalink: Java/ParallelTransition
+permalink: /Java/ParallelTransition/
 date: 2021-01-11
-key: JavaJava.P.ParallelTransition
+key: Java.P.ParallelTransition
 category: java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PublicKey.serialVersionUID
-permalink: Java/PublicKey/serialVersionUID
+permalink: /Java/PublicKey/serialVersionUID/
 date: 2021-01-11
-key: JavaJava.P.PublicKey
+key: Java.P.PublicKey
 category: java
 tags: ['java se', 'java.security', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 

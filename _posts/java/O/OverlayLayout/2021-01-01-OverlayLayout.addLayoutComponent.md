@@ -1,6 +1,6 @@
 ---
 title: OverlayLayout.addLayoutComponent()
-permalink: Java/OverlayLayout/addLayoutComponent
+permalink: /Java/OverlayLayout/addLayoutComponent/
 date: 2021-01-11
 key: JavaJava.O.OverlayLayout
 category: java

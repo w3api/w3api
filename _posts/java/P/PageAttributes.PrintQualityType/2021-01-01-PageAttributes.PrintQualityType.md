@@ -1,8 +1,8 @@
 ---
 title: PageAttributes.PrintQualityType
-permalink: Java/PageAttributes/PrintQualityType
+permalink: /Java/PageAttributes/PrintQualityType/
 date: 2021-01-11
-key: JavaJava.P.PageAttributes.PrintQualityType
+key: Java.P.PageAttributes.PrintQualityType
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 

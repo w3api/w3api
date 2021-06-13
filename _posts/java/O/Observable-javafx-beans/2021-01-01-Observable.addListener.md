@@ -1,6 +1,6 @@
 ---
 title: Observable.addListener()
-permalink: Java/Observable-javafx-beans/addListener
+permalink: /Java/Observable-javafx-beans/addListener/
 date: 2021-01-11
 key: JavaJava.O.Observable-javafx-beans
 category: java

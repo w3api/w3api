@@ -1,8 +1,8 @@
 ---
 title: Permission.equals()
-permalink: Java/Permission-java-security-acl/equals
+permalink: /Java/Permission-java-security-acl/equals/
 date: 2021-01-11
-key: JavaJava.P.Permission-java-security-acl
+key: Java.P.Permission-java-security-acl
 category: java
 tags: ['java se', 'java.security.acl', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

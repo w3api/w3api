@@ -1,6 +1,6 @@
 ---
 title: OpensTree.getPackageName()
-permalink: Java/OpensTree/getPackageName
+permalink: /Java/OpensTree/getPackageName/
 date: 2021-01-11
 key: JavaJava.O.OpensTree
 category: java

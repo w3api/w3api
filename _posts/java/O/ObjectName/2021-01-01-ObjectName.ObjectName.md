@@ -1,6 +1,6 @@
 ---
 title: ObjectName.ObjectName()
-permalink: Java/ObjectName/ObjectName
+permalink: /Java/ObjectName/ObjectName/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

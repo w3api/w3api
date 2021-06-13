@@ -1,8 +1,8 @@
 ---
 title: ProcessingInstruction
-permalink: Java/ProcessingInstruction/
+permalink: /Java/ProcessingInstruction//
 date: 2021-01-11
-key: JavaJava.P.ProcessingInstruction
+key: Java.P.ProcessingInstruction
 category: java
 tags: ['java se']
 sidebar: 

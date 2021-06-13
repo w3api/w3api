@@ -1,8 +1,8 @@
 ---
 title: PrintQuality.HIGH
-permalink: Java/PrintQuality-javax-print-attribute-standard/HIGH
+permalink: /Java/PrintQuality-javax-print-attribute-standard/HIGH/
 date: 2021-01-11
-key: JavaJava.P.PrintQuality-javax-print-attribute-standard
+key: Java.P.PrintQuality-javax-print-attribute-standard
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObjectView.createComponent()
-permalink: Java/ObjectView/createComponent
+permalink: /Java/ObjectView/createComponent/
 date: 2021-01-11
 key: JavaJava.O.ObjectView
 category: java

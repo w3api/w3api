@@ -1,8 +1,8 @@
 ---
 title: PolicyTypeHelper
-permalink: Java/PolicyTypeHelper
+permalink: /Java/PolicyTypeHelper/
 date: 2021-01-11
-key: JavaJava.P.PolicyTypeHelper
+key: Java.P.PolicyTypeHelper
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

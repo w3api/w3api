@@ -1,6 +1,6 @@
 ---
 title: OBJ_ADAPTER
-permalink: Java/OBJ_ADAPTER
+permalink: /Java/OBJ_ADAPTER/
 date: 2021-01-11
 key: JavaJava.O.OBJ_ADAPTER
 category: java

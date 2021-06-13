@@ -1,6 +1,6 @@
 ---
 title: ObservableListBase.nextRemove()
-permalink: Java/ObservableListBase/nextRemove
+permalink: /Java/ObservableListBase/nextRemove/
 date: 2021-01-11
 key: JavaJava.O.ObservableListBase
 category: java

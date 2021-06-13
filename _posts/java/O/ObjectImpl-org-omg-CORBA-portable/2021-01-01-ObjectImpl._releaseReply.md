@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl._releaseReply()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/_releaseReply
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/_releaseReply/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

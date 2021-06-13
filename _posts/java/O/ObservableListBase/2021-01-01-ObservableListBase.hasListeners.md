@@ -1,6 +1,6 @@
 ---
 title: ObservableListBase.hasListeners()
-permalink: Java/ObservableListBase/hasListeners
+permalink: /Java/ObservableListBase/hasListeners/
 date: 2021-01-11
 key: JavaJava.O.ObservableListBase
 category: java

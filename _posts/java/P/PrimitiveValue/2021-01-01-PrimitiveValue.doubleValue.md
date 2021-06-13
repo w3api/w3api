@@ -1,8 +1,8 @@
 ---
 title: PrimitiveValue.doubleValue()
-permalink: Java/PrimitiveValue/doubleValue
+permalink: /Java/PrimitiveValue/doubleValue/
 date: 2021-01-11
-key: JavaJava.P.PrimitiveValue
+key: Java.P.PrimitiveValue
 category: java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 

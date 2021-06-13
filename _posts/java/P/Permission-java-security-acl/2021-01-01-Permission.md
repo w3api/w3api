@@ -1,8 +1,8 @@
 ---
 title: Permission
-permalink: Java/Permission-java-security-acl
+permalink: /Java/Permission-java-security-acl/
 date: 2021-01-11
-key: JavaJava.P.Permission-java-security-acl
+key: Java.P.Permission-java-security-acl
 category: java
 tags: ['java se', 'java.security.acl', 'java.base', 'interface java', 'Java 1.1']
 sidebar: 

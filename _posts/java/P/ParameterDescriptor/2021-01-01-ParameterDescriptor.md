@@ -1,8 +1,8 @@
 ---
 title: ParameterDescriptor
-permalink: Java/ParameterDescriptor
+permalink: /Java/ParameterDescriptor/
 date: 2021-01-11
-key: JavaJava.P.ParameterDescriptor
+key: Java.P.ParameterDescriptor
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 

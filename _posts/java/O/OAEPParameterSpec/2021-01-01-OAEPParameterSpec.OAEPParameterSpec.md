@@ -1,6 +1,6 @@
 ---
 title: OAEPParameterSpec.OAEPParameterSpec()
-permalink: Java/OAEPParameterSpec/OAEPParameterSpec
+permalink: /Java/OAEPParameterSpec/OAEPParameterSpec/
 date: 2021-01-11
 key: JavaJava.O.OAEPParameterSpec
 category: java

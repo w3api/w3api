@@ -1,8 +1,8 @@
 ---
 title: PropertyTree
-permalink: Java/PropertyTree
+permalink: /Java/PropertyTree/
 date: 2021-01-11
-key: JavaJava.P.PropertyTree
+key: Java.P.PropertyTree
 category: java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 9']
 sidebar: 

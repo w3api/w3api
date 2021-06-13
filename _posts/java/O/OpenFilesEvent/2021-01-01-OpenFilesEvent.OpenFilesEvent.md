@@ -1,6 +1,6 @@
 ---
 title: OpenFilesEvent.OpenFilesEvent()
-permalink: Java/OpenFilesEvent/OpenFilesEvent
+permalink: /Java/OpenFilesEvent/OpenFilesEvent/
 date: 2021-01-11
 key: JavaJava.O.OpenFilesEvent
 category: java

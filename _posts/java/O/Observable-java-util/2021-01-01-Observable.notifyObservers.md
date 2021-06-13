@@ -1,6 +1,6 @@
 ---
 title: Observable.notifyObservers()
-permalink: Java/Observable-java-util/notifyObservers
+permalink: /Java/Observable-java-util/notifyObservers/
 date: 2021-01-11
 key: JavaJava.O.Observable-java-util
 category: java

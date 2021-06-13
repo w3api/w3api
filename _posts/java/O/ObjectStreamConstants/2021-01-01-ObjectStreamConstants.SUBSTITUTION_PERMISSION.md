@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.SUBSTITUTION_PERMISSION
-permalink: Java/ObjectStreamConstants/SUBSTITUTION_PERMISSION
+permalink: /Java/ObjectStreamConstants/SUBSTITUTION_PERMISSION/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

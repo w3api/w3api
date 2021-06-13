@@ -1,8 +1,8 @@
 ---
 title: PKIXReason.valueOf()
-permalink: Java/PKIXReason/valueOf
+permalink: /Java/PKIXReason/valueOf/
 date: 2021-01-11
-key: JavaJava.P.PKIXReason
+key: Java.P.PKIXReason
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

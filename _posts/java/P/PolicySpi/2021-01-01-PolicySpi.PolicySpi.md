@@ -1,8 +1,8 @@
 ---
 title: PolicySpi.PolicySpi()
-permalink: Java/PolicySpi/PolicySpi
+permalink: /Java/PolicySpi/PolicySpi/
 date: 2021-01-11
-key: JavaJava.P.PolicySpi
+key: Java.P.PolicySpi
 category: java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 

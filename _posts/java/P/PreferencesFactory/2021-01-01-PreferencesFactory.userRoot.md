@@ -1,8 +1,8 @@
 ---
 title: PreferencesFactory.userRoot()
-permalink: Java/PreferencesFactory/userRoot
+permalink: /Java/PreferencesFactory/userRoot/
 date: 2021-01-11
-key: JavaJava.P.PreferencesFactory
+key: Java.P.PreferencesFactory
 category: java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'metodo java', 'Java 1.4']
 sidebar: 

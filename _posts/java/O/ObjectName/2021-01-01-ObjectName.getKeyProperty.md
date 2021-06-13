@@ -1,6 +1,6 @@
 ---
 title: ObjectName.getKeyProperty()
-permalink: Java/ObjectName/getKeyProperty
+permalink: /Java/ObjectName/getKeyProperty/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

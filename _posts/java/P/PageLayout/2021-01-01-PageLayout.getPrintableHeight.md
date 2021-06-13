@@ -1,8 +1,8 @@
 ---
 title: PageLayout.getPrintableHeight()
-permalink: Java/PageLayout/getPrintableHeight
+permalink: /Java/PageLayout/getPrintableHeight/
 date: 2021-01-11
-key: JavaJava.P.PageLayout
+key: Java.P.PageLayout
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

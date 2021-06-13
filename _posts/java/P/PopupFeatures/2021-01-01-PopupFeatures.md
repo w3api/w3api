@@ -1,8 +1,8 @@
 ---
 title: PopupFeatures
-permalink: Java/PopupFeatures
+permalink: /Java/PopupFeatures/
 date: 2021-01-11
-key: JavaJava.P.PopupFeatures
+key: Java.P.PopupFeatures
 category: java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'clase java', 'JavaFX 2.0']
 sidebar: 

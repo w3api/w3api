@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.now()
-permalink: Java/OffsetDateTime/now
+permalink: /Java/OffsetDateTime/now/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

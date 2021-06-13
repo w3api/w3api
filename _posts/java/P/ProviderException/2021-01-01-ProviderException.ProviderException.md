@@ -1,8 +1,8 @@
 ---
 title: ProviderException.ProviderException()
-permalink: Java/ProviderException/ProviderException
+permalink: /Java/ProviderException/ProviderException/
 date: 2021-01-11
-key: JavaJava.P.ProviderException
+key: Java.P.ProviderException
 category: java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

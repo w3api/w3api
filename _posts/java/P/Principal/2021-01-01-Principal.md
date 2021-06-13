@@ -1,8 +1,8 @@
 ---
 title: Principal
-permalink: Java/Principal/
+permalink: /Java/Principal//
 date: 2021-01-11
-key: JavaJava.P.Principal
+key: Java.P.Principal
 category: java
 tags: ['java se']
 sidebar: 

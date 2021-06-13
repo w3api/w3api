@@ -1,8 +1,8 @@
 ---
 title: ParameterModeHelper.type()
-permalink: Java/ParameterModeHelper/type
+permalink: /Java/ParameterModeHelper/type/
 date: 2021-01-11
-key: JavaJava.P.ParameterModeHelper
+key: Java.P.ParameterModeHelper
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: Preferences.MAX_VALUE_LENGTH
-permalink: Java/Preferences/MAX_VALUE_LENGTH
+permalink: /Java/Preferences/MAX_VALUE_LENGTH/
 date: 2021-01-11
-key: JavaJava.P.Preferences
+key: Java.P.Preferences
 category: java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'campo java', 'Java 1.4']
 sidebar: 

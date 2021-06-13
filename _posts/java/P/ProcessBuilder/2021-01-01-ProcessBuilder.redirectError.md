@@ -1,8 +1,8 @@
 ---
 title: ProcessBuilder.redirectError()
-permalink: Java/ProcessBuilder/redirectError
+permalink: /Java/ProcessBuilder/redirectError/
 date: 2021-01-11
-key: JavaJava.P.ProcessBuilder
+key: Java.P.ProcessBuilder
 category: java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

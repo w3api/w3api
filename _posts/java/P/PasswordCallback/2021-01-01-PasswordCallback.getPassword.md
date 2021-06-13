@@ -1,8 +1,8 @@
 ---
 title: PasswordCallback.getPassword()
-permalink: Java/PasswordCallback/getPassword
+permalink: /Java/PasswordCallback/getPassword/
 date: 2021-01-11
-key: JavaJava.P.PasswordCallback
+key: Java.P.PasswordCallback
 category: java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

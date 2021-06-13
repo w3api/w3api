@@ -1,8 +1,8 @@
 ---
 title: PrinterJob.getUserName()
-permalink: Java/PrinterJob-java-awt-print/getUserName
+permalink: /Java/PrinterJob-java-awt-print/getUserName/
 date: 2021-01-11
-key: JavaJava.P.PrinterJob-java-awt-print
+key: Java.P.PrinterJob-java-awt-print
 category: java
 tags: ['java se', 'java.awt.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

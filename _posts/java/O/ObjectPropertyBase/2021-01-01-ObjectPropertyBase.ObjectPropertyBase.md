@@ -1,6 +1,6 @@
 ---
 title: ObjectPropertyBase.ObjectPropertyBase()
-permalink: Java/ObjectPropertyBase/ObjectPropertyBase
+permalink: /Java/ObjectPropertyBase/ObjectPropertyBase/
 date: 2021-01-11
 key: JavaJava.O.ObjectPropertyBase
 category: java

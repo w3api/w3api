@@ -1,8 +1,8 @@
 ---
 title: ParallelTransition.setNode()
-permalink: Java/ParallelTransition/setNode
+permalink: /Java/ParallelTransition/setNode/
 date: 2021-01-11
-key: JavaJava.P.ParallelTransition
+key: Java.P.ParallelTransition
 category: java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

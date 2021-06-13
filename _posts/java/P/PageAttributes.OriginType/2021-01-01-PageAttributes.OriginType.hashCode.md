@@ -1,8 +1,8 @@
 ---
 title: PageAttributes.OriginType.hashCode()
-permalink: Java/PageAttributes/OriginType/hashCode
+permalink: /Java/PageAttributes/OriginType/hashCode/
 date: 2021-01-11
-key: JavaJava.P.PageAttributes.OriginType
+key: Java.P.PageAttributes.OriginType
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

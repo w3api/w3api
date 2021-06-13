@@ -1,6 +1,6 @@
 ---
 title: ObjLongConsumer.accept()
-permalink: Java/ObjLongConsumer/accept
+permalink: /Java/ObjLongConsumer/accept/
 date: 2021-01-11
 key: JavaJava.O.ObjLongConsumer
 category: java

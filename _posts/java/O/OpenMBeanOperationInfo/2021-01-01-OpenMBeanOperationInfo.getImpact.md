@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanOperationInfo.getImpact()
-permalink: Java/OpenMBeanOperationInfo/getImpact
+permalink: /Java/OpenMBeanOperationInfo/getImpact/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanOperationInfo
 category: java

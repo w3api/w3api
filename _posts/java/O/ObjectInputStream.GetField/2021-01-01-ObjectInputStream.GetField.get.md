@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.GetField.get()
-permalink: Java/ObjectInputStream/GetField/get
+permalink: /Java/ObjectInputStream/GetField/get/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream.GetField
 category: java

@@ -1,8 +1,8 @@
 ---
 title: Permission
-permalink: Java/Permission/
+permalink: /Java/Permission//
 date: 2021-01-11
-key: JavaJava.P.Permission
+key: Java.P.Permission
 category: java
 tags: ['java se']
 sidebar: 

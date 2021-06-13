@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.SUBCLASS_IMPLEMENTATION_PERMISSION
-permalink: Java/ObjectStreamConstants/SUBCLASS_IMPLEMENTATION_PERMISSION
+permalink: /Java/ObjectStreamConstants/SUBCLASS_IMPLEMENTATION_PERMISSION/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

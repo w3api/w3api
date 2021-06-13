@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.TC_RESET
-permalink: Java/ObjectStreamConstants/TC_RESET
+permalink: /Java/ObjectStreamConstants/TC_RESET/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

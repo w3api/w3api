@@ -2,7 +2,7 @@
 title: Locatable.location()
 permalink: Java/Locatable/location
 date: 2021-01-11
-key: JavaJava.L.Locatable
+key: Java.L.Locatable
 category: java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 

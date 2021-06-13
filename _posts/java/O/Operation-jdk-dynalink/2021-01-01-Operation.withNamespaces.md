@@ -1,6 +1,6 @@
 ---
 title: Operation.withNamespaces()
-permalink: Java/Operation-jdk-dynalink/withNamespaces
+permalink: /Java/Operation-jdk-dynalink/withNamespaces/
 date: 2021-01-11
 key: JavaJava.O.Operation-jdk-dynalink
 category: java

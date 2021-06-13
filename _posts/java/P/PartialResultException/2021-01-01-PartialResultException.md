@@ -1,8 +1,8 @@
 ---
 title: PartialResultException
-permalink: Java/PartialResultException
+permalink: /Java/PartialResultException/
 date: 2021-01-11
-key: JavaJava.P.PartialResultException
+key: Java.P.PartialResultException
 category: java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 

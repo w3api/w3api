@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl._release()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/_release
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/_release/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

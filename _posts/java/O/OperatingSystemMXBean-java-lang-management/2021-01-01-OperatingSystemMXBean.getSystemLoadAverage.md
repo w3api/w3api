@@ -1,6 +1,6 @@
 ---
 title: OperatingSystemMXBean.getSystemLoadAverage()
-permalink: Java/OperatingSystemMXBean-java-lang-management/getSystemLoadAverage
+permalink: /Java/OperatingSystemMXBean-java-lang-management/getSystemLoadAverage/
 date: 2021-01-11
 key: JavaJava.O.OperatingSystemMXBean-java-lang-management
 category: java

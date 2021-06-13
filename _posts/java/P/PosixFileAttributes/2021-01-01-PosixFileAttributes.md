@@ -1,8 +1,8 @@
 ---
 title: PosixFileAttributes
-permalink: Java/PosixFileAttributes
+permalink: /Java/PosixFileAttributes/
 date: 2021-01-11
-key: JavaJava.P.PosixFileAttributes
+key: Java.P.PosixFileAttributes
 category: java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 

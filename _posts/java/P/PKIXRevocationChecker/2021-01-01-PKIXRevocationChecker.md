@@ -1,8 +1,8 @@
 ---
 title: PKIXRevocationChecker
-permalink: Java/PKIXRevocationChecker
+permalink: /Java/PKIXRevocationChecker/
 date: 2021-01-11
-key: JavaJava.P.PKIXRevocationChecker
+key: Java.P.PKIXRevocationChecker
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 

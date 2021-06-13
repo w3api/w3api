@@ -1,6 +1,6 @@
 ---
 title: ObjectInstance.ObjectInstance()
-permalink: Java/ObjectInstance/ObjectInstance
+permalink: /Java/ObjectInstance/ObjectInstance/
 date: 2021-01-11
 key: JavaJava.O.ObjectInstance
 category: java

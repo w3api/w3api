@@ -1,6 +1,6 @@
 ---
 title: ObservableArray.addListener()
-permalink: Java/ObservableArray/addListener
+permalink: /Java/ObservableArray/addListener/
 date: 2021-01-11
 key: JavaJava.O.ObservableArray
 category: java

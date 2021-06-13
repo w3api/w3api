@@ -1,6 +1,6 @@
 ---
 title: OutputStream.OutputStream()
-permalink: Java/OutputStream-org-omg-CORBA_2_3-portable/OutputStream
+permalink: /Java/OutputStream-org-omg-CORBA_2_3-portable/OutputStream/
 date: 2021-01-11
 key: JavaJava.O.OutputStream-org-omg-CORBA_2_3-portable
 category: java

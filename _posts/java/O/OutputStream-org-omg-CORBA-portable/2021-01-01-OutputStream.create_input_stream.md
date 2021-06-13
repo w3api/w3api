@@ -1,6 +1,6 @@
 ---
 title: OutputStream.create_input_stream()
-permalink: Java/OutputStream-org-omg-CORBA-portable/create_input_stream
+permalink: /Java/OutputStream-org-omg-CORBA-portable/create_input_stream/
 date: 2021-01-11
 key: JavaJava.O.OutputStream-org-omg-CORBA-portable
 category: java

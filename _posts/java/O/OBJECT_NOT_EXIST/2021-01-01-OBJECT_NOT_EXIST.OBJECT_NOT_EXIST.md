@@ -1,6 +1,6 @@
 ---
 title: OBJECT_NOT_EXIST.OBJECT_NOT_EXIST()
-permalink: Java/OBJECT_NOT_EXIST/OBJECT_NOT_EXIST
+permalink: /Java/OBJECT_NOT_EXIST/OBJECT_NOT_EXIST/
 date: 2021-01-11
 key: JavaJava.O.OBJECT_NOT_EXIST
 category: java

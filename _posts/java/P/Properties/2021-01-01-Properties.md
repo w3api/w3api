@@ -1,8 +1,8 @@
 ---
 title: Properties
-permalink: Java/Properties
+permalink: /Java/Properties/
 date: 2021-01-11
-key: JavaJava.P.Properties
+key: Java.P.Properties
 category: java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 

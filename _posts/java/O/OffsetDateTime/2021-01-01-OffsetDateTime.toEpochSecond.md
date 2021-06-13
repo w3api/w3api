@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.toEpochSecond()
-permalink: Java/OffsetDateTime/toEpochSecond
+permalink: /Java/OffsetDateTime/toEpochSecond/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

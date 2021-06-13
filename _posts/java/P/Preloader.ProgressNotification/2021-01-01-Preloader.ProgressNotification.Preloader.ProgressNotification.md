@@ -1,8 +1,8 @@
 ---
 title: Preloader.ProgressNotification.Preloader.ProgressNotification()
-permalink: Java/Preloader/ProgressNotification/Preloader/ProgressNotification
+permalink: /Java/Preloader/ProgressNotification/Preloader/ProgressNotification/
 date: 2021-01-11
-key: JavaJava.P.Preloader.ProgressNotification
+key: Java.P.Preloader.ProgressNotification
 category: java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

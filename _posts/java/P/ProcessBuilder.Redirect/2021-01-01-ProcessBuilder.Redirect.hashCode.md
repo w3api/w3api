@@ -1,8 +1,8 @@
 ---
 title: ProcessBuilder.Redirect.hashCode()
-permalink: Java/ProcessBuilder/Redirect/hashCode
+permalink: /Java/ProcessBuilder/Redirect/hashCode/
 date: 2021-01-11
-key: JavaJava.P.ProcessBuilder.Redirect
+key: Java.P.ProcessBuilder.Redirect
 category: java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

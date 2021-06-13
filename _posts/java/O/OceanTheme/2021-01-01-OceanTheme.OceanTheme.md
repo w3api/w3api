@@ -1,6 +1,6 @@
 ---
 title: OceanTheme.OceanTheme()
-permalink: Java/OceanTheme/OceanTheme
+permalink: /Java/OceanTheme/OceanTheme/
 date: 2021-01-11
 key: JavaJava.O.OceanTheme
 category: java

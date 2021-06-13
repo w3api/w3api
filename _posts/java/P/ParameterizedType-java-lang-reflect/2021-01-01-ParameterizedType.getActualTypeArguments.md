@@ -1,8 +1,8 @@
 ---
 title: ParameterizedType.getActualTypeArguments()
-permalink: Java/ParameterizedType-java-lang-reflect/getActualTypeArguments
+permalink: /Java/ParameterizedType-java-lang-reflect/getActualTypeArguments/
 date: 2021-01-11
-key: JavaJava.P.ParameterizedType-java-lang-reflect
+key: Java.P.ParameterizedType-java-lang-reflect
 category: java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

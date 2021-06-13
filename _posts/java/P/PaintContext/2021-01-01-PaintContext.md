@@ -1,8 +1,8 @@
 ---
 title: PaintContext
-permalink: Java/PaintContext
+permalink: /Java/PaintContext/
 date: 2021-01-11
-key: JavaJava.P.PaintContext
+key: Java.P.PaintContext
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

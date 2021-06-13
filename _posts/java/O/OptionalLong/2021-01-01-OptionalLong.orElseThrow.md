@@ -1,6 +1,6 @@
 ---
 title: OptionalLong.orElseThrow()
-permalink: Java/OptionalLong/orElseThrow
+permalink: /Java/OptionalLong/orElseThrow/
 date: 2021-01-11
 key: JavaJava.O.OptionalLong
 category: java

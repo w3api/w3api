@@ -1,6 +1,6 @@
 ---
 title: ObjectExpression.isNotEqualTo()
-permalink: Java/ObjectExpression/isNotEqualTo
+permalink: /Java/ObjectExpression/isNotEqualTo/
 date: 2021-01-11
 key: JavaJava.O.ObjectExpression
 category: java

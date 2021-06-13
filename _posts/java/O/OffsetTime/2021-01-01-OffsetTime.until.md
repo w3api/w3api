@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.until()
-permalink: Java/OffsetTime/until
+permalink: /Java/OffsetTime/until/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

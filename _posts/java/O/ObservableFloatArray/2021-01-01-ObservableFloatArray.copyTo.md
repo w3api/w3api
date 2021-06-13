@@ -1,6 +1,6 @@
 ---
 title: ObservableFloatArray.copyTo()
-permalink: Java/ObservableFloatArray/copyTo
+permalink: /Java/ObservableFloatArray/copyTo/
 date: 2021-01-11
 key: JavaJava.O.ObservableFloatArray
 category: java

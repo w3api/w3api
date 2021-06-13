@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanConstructorInfoSupport.hashCode()
-permalink: Java/OpenMBeanConstructorInfoSupport/hashCode
+permalink: /Java/OpenMBeanConstructorInfoSupport/hashCode/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanConstructorInfoSupport
 category: java

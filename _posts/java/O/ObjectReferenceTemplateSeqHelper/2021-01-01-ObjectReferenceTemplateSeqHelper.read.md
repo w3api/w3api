@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceTemplateSeqHelper.read()
-permalink: Java/ObjectReferenceTemplateSeqHelper/read
+permalink: /Java/ObjectReferenceTemplateSeqHelper/read/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceTemplateSeqHelper
 category: java

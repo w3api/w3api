@@ -1,8 +1,8 @@
 ---
 title: PrincipalComparator
-permalink: Java/PrincipalComparator
+permalink: /Java/PrincipalComparator/
 date: 2021-01-11
-key: JavaJava.P.PrincipalComparator
+key: Java.P.PrincipalComparator
 category: java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'interface java', 'Java 1.0']
 sidebar: 

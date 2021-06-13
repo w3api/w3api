@@ -1,8 +1,8 @@
 ---
 title: PropertyEditor.isPaintable()
-permalink: Java/PropertyEditor/isPaintable
+permalink: /Java/PropertyEditor/isPaintable/
 date: 2021-01-11
-key: JavaJava.P.PropertyEditor
+key: Java.P.PropertyEditor
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.minusNanos()
-permalink: Java/OffsetTime/minusNanos
+permalink: /Java/OffsetTime/minusNanos/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

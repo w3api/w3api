@@ -1,6 +1,6 @@
 ---
 title: ObjectChangeListener
-permalink: Java/ObjectChangeListener
+permalink: /Java/ObjectChangeListener/
 date: 2021-01-11
 key: JavaJava.O.ObjectChangeListener
 category: java

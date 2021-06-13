@@ -1,6 +1,6 @@
 ---
 title: ObservableIntegerArray.toArray()
-permalink: Java/ObservableIntegerArray/toArray
+permalink: /Java/ObservableIntegerArray/toArray/
 date: 2021-01-11
 key: JavaJava.O.ObservableIntegerArray
 category: java

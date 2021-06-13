@@ -1,6 +1,6 @@
 ---
 title: ObjectFactoryBuilder
-permalink: Java/ObjectFactoryBuilder
+permalink: /Java/ObjectFactoryBuilder/
 date: 2021-01-11
 key: JavaJava.O.ObjectFactoryBuilder
 category: java

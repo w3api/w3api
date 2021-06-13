@@ -1,8 +1,8 @@
 ---
 title: PBEKeySpec.getKeyLength()
-permalink: Java/PBEKeySpec/getKeyLength
+permalink: /Java/PBEKeySpec/getKeyLength/
 date: 2021-01-11
-key: JavaJava.P.PBEKeySpec
+key: Java.P.PBEKeySpec
 category: java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

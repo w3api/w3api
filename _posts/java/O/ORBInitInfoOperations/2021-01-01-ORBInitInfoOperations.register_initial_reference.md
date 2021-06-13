@@ -1,6 +1,6 @@
 ---
 title: ORBInitInfoOperations.register_initial_reference()
-permalink: Java/ORBInitInfoOperations/register_initial_reference
+permalink: /Java/ORBInitInfoOperations/register_initial_reference/
 date: 2021-01-11
 key: JavaJava.O.ORBInitInfoOperations
 category: java

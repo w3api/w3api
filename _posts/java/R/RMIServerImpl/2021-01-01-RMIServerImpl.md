@@ -2,7 +2,7 @@
 title: RMIServerImpl
 permalink: Java/RMIServerImpl
 date: 2021-01-11
-key: JavaJava.R.RMIServerImpl
+key: Java.R.RMIServerImpl
 category: java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'clase java', 'Java 1.5']
 sidebar: 

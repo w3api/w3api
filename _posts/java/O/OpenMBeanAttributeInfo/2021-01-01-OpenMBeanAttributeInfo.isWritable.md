@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanAttributeInfo.isWritable()
-permalink: Java/OpenMBeanAttributeInfo/isWritable
+permalink: /Java/OpenMBeanAttributeInfo/isWritable/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanAttributeInfo
 category: java

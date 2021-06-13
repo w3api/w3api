@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.format()
-permalink: Java/OffsetDateTime/format
+permalink: /Java/OffsetDateTime/format/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

@@ -1,6 +1,6 @@
 ---
 title: OctetSeqHelper.insert()
-permalink: Java/OctetSeqHelper/insert
+permalink: /Java/OctetSeqHelper/insert/
 date: 2021-01-11
 key: JavaJava.O.OctetSeqHelper
 category: java

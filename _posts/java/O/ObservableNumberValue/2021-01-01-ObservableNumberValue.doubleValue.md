@@ -1,6 +1,6 @@
 ---
 title: ObservableNumberValue.doubleValue()
-permalink: Java/ObservableNumberValue/doubleValue
+permalink: /Java/ObservableNumberValue/doubleValue/
 date: 2021-01-11
 key: JavaJava.O.ObservableNumberValue
 category: java

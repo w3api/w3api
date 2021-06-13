@@ -1,8 +1,8 @@
 ---
 title: ParamTree
-permalink: Java/ParamTree
+permalink: /Java/ParamTree/
 date: 2021-01-11
-key: JavaJava.P.ParamTree
+key: Java.P.ParamTree
 category: java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', 'Java 1.8']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ProvidesTree.getImplementationNames()
-permalink: Java/ProvidesTree-com-sun-source-tree/getImplementationNames
+permalink: /Java/ProvidesTree-com-sun-source-tree/getImplementationNames/
 date: 2021-01-11
-key: JavaJava.P.ProvidesTree-com-sun-source-tree
+key: Java.P.ProvidesTree-com-sun-source-tree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 9']
 sidebar: 

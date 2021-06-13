@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.getLong()
-permalink: Java/OffsetDateTime/getLong
+permalink: /Java/OffsetDateTime/getLong/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

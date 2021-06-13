@@ -1,6 +1,6 @@
 ---
 title: ObjectNotActive.ObjectNotActive()
-permalink: Java/ObjectNotActive/ObjectNotActive
+permalink: /Java/ObjectNotActive/ObjectNotActive/
 date: 2021-01-11
 key: JavaJava.O.ObjectNotActive
 category: java

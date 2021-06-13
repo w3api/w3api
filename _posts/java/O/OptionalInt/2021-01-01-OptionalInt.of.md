@@ -1,6 +1,6 @@
 ---
 title: OptionalInt.of()
-permalink: Java/OptionalInt/of
+permalink: /Java/OptionalInt/of/
 date: 2021-01-11
 key: JavaJava.O.OptionalInt
 category: java

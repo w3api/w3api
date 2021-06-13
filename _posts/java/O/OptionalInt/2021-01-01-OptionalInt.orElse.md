@@ -1,6 +1,6 @@
 ---
 title: OptionalInt.orElse()
-permalink: Java/OptionalInt/orElse
+permalink: /Java/OptionalInt/orElse/
 date: 2021-01-11
 key: JavaJava.O.OptionalInt
 category: java

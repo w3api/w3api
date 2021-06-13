@@ -2,7 +2,7 @@
 title: LogicalMessage.setPayload()
 permalink: Java/LogicalMessage/setPayload
 date: 2021-01-11
-key: JavaJava.L.LogicalMessage
+key: Java.L.LogicalMessage
 category: java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'metodo java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 

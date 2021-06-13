@@ -1,8 +1,8 @@
 ---
 title: PrintJobAdapter.printJobRequiresAttention()
-permalink: Java/PrintJobAdapter/printJobRequiresAttention
+permalink: /Java/PrintJobAdapter/printJobRequiresAttention/
 date: 2021-01-11
-key: JavaJava.P.PrintJobAdapter
+key: Java.P.PrintJobAdapter
 category: java
 tags: ['java se', 'javax.print.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

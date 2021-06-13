@@ -1,8 +1,8 @@
 ---
 title: PathMatcher.matches()
-permalink: Java/PathMatcher/matches
+permalink: /Java/PathMatcher/matches/
 date: 2021-01-11
-key: JavaJava.P.PathMatcher
+key: Java.P.PathMatcher
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

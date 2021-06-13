@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl._invoke()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/_invoke
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/_invoke/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

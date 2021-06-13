@@ -1,8 +1,8 @@
 ---
 title: PathIterator.SEG_CLOSE
-permalink: Java/PathIterator/SEG_CLOSE
+permalink: /Java/PathIterator/SEG_CLOSE/
 date: 2021-01-11
-key: JavaJava.P.PathIterator
+key: Java.P.PathIterator
 category: java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

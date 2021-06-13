@@ -1,6 +1,6 @@
 ---
 title: ObservableFaceArray
-permalink: Java/ObservableFaceArray
+permalink: /Java/ObservableFaceArray/
 date: 2021-01-11
 key: JavaJava.O.ObservableFaceArray
 category: java

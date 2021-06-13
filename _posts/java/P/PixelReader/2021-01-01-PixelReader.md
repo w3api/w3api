@@ -1,8 +1,8 @@
 ---
 title: PixelReader
-permalink: Java/PixelReader
+permalink: /Java/PixelReader/
 date: 2021-01-11
-key: JavaJava.P.PixelReader
+key: Java.P.PixelReader
 category: java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'interface java', 'JavaFX 2.2']
 sidebar: 

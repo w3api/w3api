@@ -1,8 +1,8 @@
 ---
 title: PlatformLoggingMXBean
-permalink: Java/PlatformLoggingMXBean
+permalink: /Java/PlatformLoggingMXBean/
 date: 2021-01-11
-key: JavaJava.P.PlatformLoggingMXBean
+key: Java.P.PlatformLoggingMXBean
 category: java
 tags: ['java se', 'java.lang.management', 'java.management', 'interface java', 'Java 1.7']
 sidebar: 

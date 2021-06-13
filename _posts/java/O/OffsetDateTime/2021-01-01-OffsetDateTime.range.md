@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.range()
-permalink: Java/OffsetDateTime/range
+permalink: /Java/OffsetDateTime/range/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

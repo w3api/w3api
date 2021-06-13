@@ -1,6 +1,6 @@
 ---
 title: OrientationRequested.LANDSCAPE
-permalink: Java/OrientationRequested/LANDSCAPE
+permalink: /Java/OrientationRequested/LANDSCAPE/
 date: 2021-01-11
 key: JavaJava.O.OrientationRequested
 category: java

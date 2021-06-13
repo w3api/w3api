@@ -1,8 +1,8 @@
 ---
 title: PathElement.PathElement()
-permalink: Java/PathElement/PathElement
+permalink: /Java/PathElement/PathElement/
 date: 2021-01-11
-key: JavaJava.P.PathElement
+key: Java.P.PathElement
 category: java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

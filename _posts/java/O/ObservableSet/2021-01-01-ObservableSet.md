@@ -1,6 +1,6 @@
 ---
 title: ObservableSet
-permalink: Java/ObservableSet
+permalink: /Java/ObservableSet/
 date: 2021-01-11
 key: JavaJava.O.ObservableSet
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ObservableValueBase.ObservableValueBase()
-permalink: Java/ObservableValueBase/ObservableValueBase
+permalink: /Java/ObservableValueBase/ObservableValueBase/
 date: 2021-01-11
 key: JavaJava.O.ObservableValueBase
 category: java

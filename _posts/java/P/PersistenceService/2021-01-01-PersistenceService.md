@@ -1,8 +1,8 @@
 ---
 title: PersistenceService
-permalink: Java/PersistenceService
+permalink: /Java/PersistenceService/
 date: 2021-01-11
-key: JavaJava.P.PersistenceService
+key: Java.P.PersistenceService
 category: java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'interface java', 'Java 1.4.2']
 sidebar: 

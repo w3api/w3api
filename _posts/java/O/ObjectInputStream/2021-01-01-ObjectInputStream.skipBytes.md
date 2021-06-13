@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.skipBytes()
-permalink: Java/ObjectInputStream/skipBytes
+permalink: /Java/ObjectInputStream/skipBytes/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

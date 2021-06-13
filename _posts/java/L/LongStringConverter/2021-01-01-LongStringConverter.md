@@ -1,8 +1,8 @@
 ---
 title: LongStringConverter
-permalink: Java/LongStringConverter
+permalink: /Java/LongStringConverter/
 date: 2021-01-11
-key: JavaJava.L.LongStringConverter
+key: Java.L.LongStringConverter
 category: java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 

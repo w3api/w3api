@@ -2,7 +2,7 @@
 title: RC2ParameterSpec
 permalink: Java/RC2ParameterSpec
 date: 2021-01-11
-key: JavaJava.R.RC2ParameterSpec
+key: Java.R.RC2ParameterSpec
 category: java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

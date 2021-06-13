@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.readInt()
-permalink: Java/ObjectInputStream/readInt
+permalink: /Java/ObjectInputStream/readInt/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

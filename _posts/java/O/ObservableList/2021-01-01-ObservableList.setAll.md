@@ -1,6 +1,6 @@
 ---
 title: ObservableList.setAll()
-permalink: Java/ObservableList/setAll
+permalink: /Java/ObservableList/setAll/
 date: 2021-01-11
 key: JavaJava.O.ObservableList
 category: java

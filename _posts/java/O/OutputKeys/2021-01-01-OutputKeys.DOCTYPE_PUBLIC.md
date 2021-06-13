@@ -1,6 +1,6 @@
 ---
 title: OutputKeys.DOCTYPE_PUBLIC
-permalink: Java/OutputKeys/DOCTYPE_PUBLIC
+permalink: /Java/OutputKeys/DOCTYPE_PUBLIC/
 date: 2021-01-11
 key: JavaJava.O.OutputKeys
 category: java

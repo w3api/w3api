@@ -1,8 +1,8 @@
 ---
 title: PreDestroy
-permalink: Java/PreDestroy
+permalink: /Java/PreDestroy/
 date: 2021-01-11
-key: JavaJava.P.PreDestroy
+key: Java.P.PreDestroy
 category: java
 tags: ['java se', 'javax.annotation', 'java.xml.ws.annotation', 'anotacion java', 'Java 1.6', 'Common Annotations Java 1.0']
 sidebar: 

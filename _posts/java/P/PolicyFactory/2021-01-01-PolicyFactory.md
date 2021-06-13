@@ -1,8 +1,8 @@
 ---
 title: PolicyFactory
-permalink: Java/PolicyFactory
+permalink: /Java/PolicyFactory/
 date: 2021-01-11
-key: JavaJava.P.PolicyFactory
+key: Java.P.PolicyFactory
 category: java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

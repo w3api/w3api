@@ -1,6 +1,6 @@
 ---
 title: ObjectLiteralTree.getProperties()
-permalink: Java/ObjectLiteralTree/getProperties
+permalink: /Java/ObjectLiteralTree/getProperties/
 date: 2021-01-11
 key: JavaJava.O.ObjectLiteralTree
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PBEParameterSpec
-permalink: Java/PBEParameterSpec
+permalink: /Java/PBEParameterSpec/
 date: 2021-01-11
-key: JavaJava.P.PBEParameterSpec
+key: Java.P.PBEParameterSpec
 category: java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

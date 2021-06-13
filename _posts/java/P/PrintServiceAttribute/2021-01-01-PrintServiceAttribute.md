@@ -1,8 +1,8 @@
 ---
 title: PrintServiceAttribute
-permalink: Java/PrintServiceAttribute
+permalink: /Java/PrintServiceAttribute/
 date: 2021-01-11
-key: JavaJava.P.PrintServiceAttribute
+key: Java.P.PrintServiceAttribute
 category: java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

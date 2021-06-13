@@ -1,8 +1,8 @@
 ---
 title: LocalVariable
-permalink: Java/LocalVariable
+permalink: /Java/LocalVariable/
 date: 2021-01-11
-key: JavaJava.L.LocalVariable
+key: Java.L.LocalVariable
 category: java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 

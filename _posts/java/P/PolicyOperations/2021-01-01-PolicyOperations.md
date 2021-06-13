@@ -1,8 +1,8 @@
 ---
 title: PolicyOperations
-permalink: Java/PolicyOperations
+permalink: /Java/PolicyOperations/
 date: 2021-01-11
-key: JavaJava.P.PolicyOperations
+key: Java.P.PolicyOperations
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

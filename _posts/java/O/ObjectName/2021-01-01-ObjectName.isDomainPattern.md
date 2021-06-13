@@ -1,6 +1,6 @@
 ---
 title: ObjectName.isDomainPattern()
-permalink: Java/ObjectName/isDomainPattern
+permalink: /Java/ObjectName/isDomainPattern/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

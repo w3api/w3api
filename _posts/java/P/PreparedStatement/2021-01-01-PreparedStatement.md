@@ -1,8 +1,8 @@
 ---
 title: PreparedStatement
-permalink: Java/PreparedStatement
+permalink: /Java/PreparedStatement/
 date: 2021-01-11
-key: JavaJava.P.PreparedStatement
+key: Java.P.PreparedStatement
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'interface java', 'Java 1.1']
 sidebar: 

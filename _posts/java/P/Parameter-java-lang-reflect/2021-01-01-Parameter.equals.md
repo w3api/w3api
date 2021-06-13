@@ -1,8 +1,8 @@
 ---
 title: Parameter.equals()
-permalink: Java/Parameter-java-lang-reflect/equals
+permalink: /Java/Parameter-java-lang-reflect/equals/
 date: 2021-01-11
-key: JavaJava.P.Parameter-java-lang-reflect
+key: Java.P.Parameter-java-lang-reflect
 category: java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

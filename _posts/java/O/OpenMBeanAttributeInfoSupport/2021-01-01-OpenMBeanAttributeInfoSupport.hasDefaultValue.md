@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanAttributeInfoSupport.hasDefaultValue()
-permalink: Java/OpenMBeanAttributeInfoSupport/hasDefaultValue
+permalink: /Java/OpenMBeanAttributeInfoSupport/hasDefaultValue/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanAttributeInfoSupport
 category: java

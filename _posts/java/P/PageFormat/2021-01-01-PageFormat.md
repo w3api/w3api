@@ -1,8 +1,8 @@
 ---
 title: PageFormat
-permalink: Java/PageFormat
+permalink: /Java/PageFormat/
 date: 2021-01-11
-key: JavaJava.P.PageFormat
+key: Java.P.PageFormat
 category: java
 tags: ['java se', 'java.awt.print', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

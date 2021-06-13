@@ -1,6 +1,6 @@
 ---
 title: OrientationRequested
-permalink: Java/OrientationRequested
+permalink: /Java/OrientationRequested/
 date: 2021-01-11
 key: JavaJava.O.OrientationRequested
 category: java

@@ -1,8 +1,8 @@
 ---
 title: LookAndFeel
-permalink: Java/LookAndFeel
+permalink: /Java/LookAndFeel/
 date: 2021-01-11
-key: JavaJava.L.LookAndFeel
+key: Java.L.LookAndFeel
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 

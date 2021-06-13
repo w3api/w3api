@@ -1,8 +1,8 @@
 ---
 title: ProtocolException
-permalink: Java/ProtocolException/
+permalink: /Java/ProtocolException//
 date: 2021-01-11
-key: JavaJava.P.ProtocolException
+key: Java.P.ProtocolException
 category: java
 tags: ['java se']
 sidebar: 

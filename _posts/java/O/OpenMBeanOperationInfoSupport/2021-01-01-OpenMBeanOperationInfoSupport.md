@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanOperationInfoSupport
-permalink: Java/OpenMBeanOperationInfoSupport
+permalink: /Java/OpenMBeanOperationInfoSupport/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanOperationInfoSupport
 category: java

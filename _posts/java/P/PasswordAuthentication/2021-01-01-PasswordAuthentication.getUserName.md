@@ -1,8 +1,8 @@
 ---
 title: PasswordAuthentication.getUserName()
-permalink: Java/PasswordAuthentication/getUserName
+permalink: /Java/PasswordAuthentication/getUserName/
 date: 2021-01-11
-key: JavaJava.P.PasswordAuthentication
+key: Java.P.PasswordAuthentication
 category: java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

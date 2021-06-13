@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceFactoryHelper.write()
-permalink: Java/ObjectReferenceFactoryHelper/write
+permalink: /Java/ObjectReferenceFactoryHelper/write/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceFactoryHelper
 category: java

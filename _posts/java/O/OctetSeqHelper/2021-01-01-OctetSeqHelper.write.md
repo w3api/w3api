@@ -1,6 +1,6 @@
 ---
 title: OctetSeqHelper.write()
-permalink: Java/OctetSeqHelper/write
+permalink: /Java/OctetSeqHelper/write/
 date: 2021-01-11
 key: JavaJava.O.OctetSeqHelper
 category: java

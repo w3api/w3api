@@ -1,6 +1,6 @@
 ---
 title: ObservableArrayBase.fireChange()
-permalink: Java/ObservableArrayBase/fireChange
+permalink: /Java/ObservableArrayBase/fireChange/
 date: 2021-01-11
 key: JavaJava.O.ObservableArrayBase
 category: java

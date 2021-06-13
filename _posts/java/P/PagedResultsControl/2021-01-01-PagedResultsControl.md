@@ -1,8 +1,8 @@
 ---
 title: PagedResultsControl
-permalink: Java/PagedResultsControl
+permalink: /Java/PagedResultsControl/
 date: 2021-01-11
-key: JavaJava.P.PagedResultsControl
+key: Java.P.PagedResultsControl
 category: java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'clase java', 'Java 1.5']
 sidebar: 

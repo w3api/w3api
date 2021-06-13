@@ -1,6 +1,6 @@
 ---
 title: ObservableMap.addListener()
-permalink: Java/ObservableMap/addListener
+permalink: /Java/ObservableMap/addListener/
 date: 2021-01-11
 key: JavaJava.O.ObservableMap
 category: java

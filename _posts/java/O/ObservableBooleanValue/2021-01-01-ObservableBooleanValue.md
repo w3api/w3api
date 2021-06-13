@@ -1,6 +1,6 @@
 ---
 title: ObservableBooleanValue
-permalink: Java/ObservableBooleanValue
+permalink: /Java/ObservableBooleanValue/
 date: 2021-01-11
 key: JavaJava.O.ObservableBooleanValue
 category: java

@@ -1,8 +1,8 @@
 ---
 title: ProviderMismatchException.ProviderMismatchException()
-permalink: Java/ProviderMismatchException/ProviderMismatchException
+permalink: /Java/ProviderMismatchException/ProviderMismatchException/
 date: 2021-01-11
-key: JavaJava.P.ProviderMismatchException
+key: Java.P.ProviderMismatchException
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

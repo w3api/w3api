@@ -1,6 +1,6 @@
 ---
 title: ObjectName.getCanonicalKeyPropertyListString()
-permalink: Java/ObjectName/getCanonicalKeyPropertyListString
+permalink: /Java/ObjectName/getCanonicalKeyPropertyListString/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

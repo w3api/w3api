@@ -1,6 +1,6 @@
 ---
 title: ObjLongConsumer
-permalink: Java/ObjLongConsumer
+permalink: /Java/ObjLongConsumer/
 date: 2021-01-11
 key: JavaJava.O.ObjLongConsumer
 category: java

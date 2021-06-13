@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamClass.lookupAny()
-permalink: Java/ObjectStreamClass/lookupAny
+permalink: /Java/ObjectStreamClass/lookupAny/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamClass
 category: java

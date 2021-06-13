@@ -1,8 +1,8 @@
 ---
 title: PropertyEditorManager.PropertyEditorManager()
-permalink: Java/PropertyEditorManager/PropertyEditorManager
+permalink: /Java/PropertyEditorManager/PropertyEditorManager/
 date: 2021-01-11
-key: JavaJava.P.PropertyEditorManager
+key: Java.P.PropertyEditorManager
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PageOrientation.REVERSE_LANDSCAPE
-permalink: Java/PageOrientation/REVERSE_LANDSCAPE
+permalink: /Java/PageOrientation/REVERSE_LANDSCAPE/
 date: 2021-01-11
-key: JavaJava.P.PageOrientation
+key: Java.P.PageOrientation
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 

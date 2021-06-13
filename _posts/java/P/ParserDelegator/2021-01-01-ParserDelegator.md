@@ -1,8 +1,8 @@
 ---
 title: ParserDelegator
-permalink: Java/ParserDelegator
+permalink: /Java/ParserDelegator/
 date: 2021-01-11
-key: JavaJava.P.ParserDelegator
+key: Java.P.ParserDelegator
 category: java
 tags: ['java se', 'javax.swing.text.html.parser', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

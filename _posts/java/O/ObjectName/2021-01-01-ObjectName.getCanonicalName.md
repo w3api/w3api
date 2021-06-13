@@ -1,6 +1,6 @@
 ---
 title: ObjectName.getCanonicalName()
-permalink: Java/ObjectName/getCanonicalName
+permalink: /Java/ObjectName/getCanonicalName/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

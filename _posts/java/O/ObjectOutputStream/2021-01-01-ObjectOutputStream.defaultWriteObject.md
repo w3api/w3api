@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.defaultWriteObject()
-permalink: Java/ObjectOutputStream/defaultWriteObject
+permalink: /Java/ObjectOutputStream/defaultWriteObject/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

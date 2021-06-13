@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.hashCode()
-permalink: Java/OffsetTime/hashCode
+permalink: /Java/OffsetTime/hashCode/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

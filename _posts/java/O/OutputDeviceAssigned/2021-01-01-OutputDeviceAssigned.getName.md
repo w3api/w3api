@@ -1,6 +1,6 @@
 ---
 title: OutputDeviceAssigned.getName()
-permalink: Java/OutputDeviceAssigned/getName
+permalink: /Java/OutputDeviceAssigned/getName/
 date: 2021-01-11
 key: JavaJava.O.OutputDeviceAssigned
 category: java

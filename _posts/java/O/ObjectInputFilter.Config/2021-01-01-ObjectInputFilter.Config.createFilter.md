@@ -1,6 +1,6 @@
 ---
 title: ObjectInputFilter.Config.createFilter()
-permalink: Java/ObjectInputFilter/Config/createFilter
+permalink: /Java/ObjectInputFilter/Config/createFilter/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputFilter.Config
 category: java

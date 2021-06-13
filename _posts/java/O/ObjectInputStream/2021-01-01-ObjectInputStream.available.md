@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.available()
-permalink: Java/ObjectInputStream/available
+permalink: /Java/ObjectInputStream/available/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

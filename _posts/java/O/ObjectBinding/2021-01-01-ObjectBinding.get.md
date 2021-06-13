@@ -1,6 +1,6 @@
 ---
 title: ObjectBinding.get()
-permalink: Java/ObjectBinding/get
+permalink: /Java/ObjectBinding/get/
 date: 2021-01-11
 key: JavaJava.O.ObjectBinding
 category: java

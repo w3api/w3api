@@ -1,6 +1,6 @@
 ---
 title: Observable.addObserver()
-permalink: Java/Observable-java-util/addObserver
+permalink: /Java/Observable-java-util/addObserver/
 date: 2021-01-11
 key: JavaJava.O.Observable-java-util
 category: java

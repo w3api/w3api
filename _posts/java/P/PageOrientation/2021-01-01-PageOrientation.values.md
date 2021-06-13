@@ -1,8 +1,8 @@
 ---
 title: PageOrientation.values()
-permalink: Java/PageOrientation/values
+permalink: /Java/PageOrientation/values/
 date: 2021-01-11
-key: JavaJava.P.PageOrientation
+key: Java.P.PageOrientation
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

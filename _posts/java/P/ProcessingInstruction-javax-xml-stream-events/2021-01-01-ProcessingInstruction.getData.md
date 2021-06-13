@@ -1,8 +1,8 @@
 ---
 title: ProcessingInstruction.getData()
-permalink: Java/ProcessingInstruction-javax-xml-stream-events/getData
+permalink: /Java/ProcessingInstruction-javax-xml-stream-events/getData/
 date: 2021-01-11
-key: JavaJava.P.ProcessingInstruction-javax-xml-stream-events
+key: Java.P.ProcessingInstruction-javax-xml-stream-events
 category: java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 

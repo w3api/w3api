@@ -1,6 +1,6 @@
 ---
 title: ObjectExpression.isEqualTo()
-permalink: Java/ObjectExpression/isEqualTo
+permalink: /Java/ObjectExpression/isEqualTo/
 date: 2021-01-11
 key: JavaJava.O.ObjectExpression
 category: java

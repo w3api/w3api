@@ -1,6 +1,6 @@
 ---
 title: OutputStreamWriter.getEncoding()
-permalink: Java/OutputStreamWriter/getEncoding
+permalink: /Java/OutputStreamWriter/getEncoding/
 date: 2021-01-11
 key: JavaJava.O.OutputStreamWriter
 category: java

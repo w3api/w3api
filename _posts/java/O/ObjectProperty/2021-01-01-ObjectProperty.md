@@ -1,6 +1,6 @@
 ---
 title: ObjectProperty
-permalink: Java/ObjectProperty
+permalink: /Java/ObjectProperty/
 date: 2021-01-11
 key: JavaJava.O.ObjectProperty
 category: java

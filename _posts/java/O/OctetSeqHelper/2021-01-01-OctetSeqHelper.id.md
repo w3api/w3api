@@ -1,6 +1,6 @@
 ---
 title: OctetSeqHelper.id()
-permalink: Java/OctetSeqHelper/id
+permalink: /Java/OctetSeqHelper/id/
 date: 2021-01-11
 key: JavaJava.O.OctetSeqHelper
 category: java

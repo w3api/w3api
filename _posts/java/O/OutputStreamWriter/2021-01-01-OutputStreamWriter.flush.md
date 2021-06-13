@@ -1,6 +1,6 @@
 ---
 title: OutputStreamWriter.flush()
-permalink: Java/OutputStreamWriter/flush
+permalink: /Java/OutputStreamWriter/flush/
 date: 2021-01-11
 key: JavaJava.O.OutputStreamWriter
 category: java

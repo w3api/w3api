@@ -1,8 +1,8 @@
 ---
 title: Principal
-permalink: Java/Principal-org-omg-CORBA
+permalink: /Java/Principal-org-omg-CORBA/
 date: 2021-01-11
-key: JavaJava.P.Principal-org-omg-CORBA
+key: Java.P.Principal-org-omg-CORBA
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PrinterStateReason.OUTPUT_TRAY_MISSING
-permalink: Java/PrinterStateReason/OUTPUT_TRAY_MISSING
+permalink: /Java/PrinterStateReason/OUTPUT_TRAY_MISSING/
 date: 2021-01-11
-key: JavaJava.P.PrinterStateReason
+key: Java.P.PrinterStateReason
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

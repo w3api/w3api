@@ -1,6 +1,6 @@
 ---
 title: OrientationRequested.getCategory()
-permalink: Java/OrientationRequested/getCategory
+permalink: /Java/OrientationRequested/getCategory/
 date: 2021-01-11
 key: JavaJava.O.OrientationRequested
 category: java

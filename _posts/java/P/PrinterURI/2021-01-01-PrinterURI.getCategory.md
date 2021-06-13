@@ -1,8 +1,8 @@
 ---
 title: PrinterURI.getCategory()
-permalink: Java/PrinterURI/getCategory
+permalink: /Java/PrinterURI/getCategory/
 date: 2021-01-11
-key: JavaJava.P.PrinterURI
+key: Java.P.PrinterURI
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

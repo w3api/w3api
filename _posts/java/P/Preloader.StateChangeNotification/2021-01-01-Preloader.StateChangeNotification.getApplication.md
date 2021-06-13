@@ -1,8 +1,8 @@
 ---
 title: Preloader.StateChangeNotification.getApplication()
-permalink: Java/Preloader/StateChangeNotification/getApplication
+permalink: /Java/Preloader/StateChangeNotification/getApplication/
 date: 2021-01-11
-key: JavaJava.P.Preloader.StateChangeNotification
+key: Java.P.Preloader.StateChangeNotification
 category: java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.registerValidation()
-permalink: Java/ObjectInputStream/registerValidation
+permalink: /Java/ObjectInputStream/registerValidation/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

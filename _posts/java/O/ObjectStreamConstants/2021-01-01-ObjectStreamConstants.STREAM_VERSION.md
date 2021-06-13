@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.STREAM_VERSION
-permalink: Java/ObjectStreamConstants/STREAM_VERSION
+permalink: /Java/ObjectStreamConstants/STREAM_VERSION/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

@@ -1,8 +1,8 @@
 ---
 title: Preloader.handleApplicationNotification()
-permalink: Java/Preloader/handleApplicationNotification
+permalink: /Java/Preloader/handleApplicationNotification/
 date: 2021-01-11
-key: JavaJava.P.Preloader
+key: Java.P.Preloader
 category: java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObservableList.addListener()
-permalink: Java/ObservableList/addListener
+permalink: /Java/ObservableList/addListener/
 date: 2021-01-11
 key: JavaJava.O.ObservableList
 category: java

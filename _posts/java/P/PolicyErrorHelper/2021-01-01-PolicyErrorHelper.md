@@ -1,8 +1,8 @@
 ---
 title: PolicyErrorHelper
-permalink: Java/PolicyErrorHelper
+permalink: /Java/PolicyErrorHelper/
 date: 2021-01-11
-key: JavaJava.P.PolicyErrorHelper
+key: Java.P.PolicyErrorHelper
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

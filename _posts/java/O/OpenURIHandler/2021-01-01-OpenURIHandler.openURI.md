@@ -1,6 +1,6 @@
 ---
 title: OpenURIHandler.openURI()
-permalink: Java/OpenURIHandler/openURI
+permalink: /Java/OpenURIHandler/openURI/
 date: 2021-01-11
 key: JavaJava.O.OpenURIHandler
 category: java

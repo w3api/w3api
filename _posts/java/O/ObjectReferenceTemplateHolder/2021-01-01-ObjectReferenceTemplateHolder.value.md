@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceTemplateHolder.value
-permalink: Java/ObjectReferenceTemplateHolder/value
+permalink: /Java/ObjectReferenceTemplateHolder/value/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceTemplateHolder
 category: java

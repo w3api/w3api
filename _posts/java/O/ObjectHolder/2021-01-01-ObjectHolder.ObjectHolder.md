@@ -1,6 +1,6 @@
 ---
 title: ObjectHolder.ObjectHolder()
-permalink: Java/ObjectHolder/ObjectHolder
+permalink: /Java/ObjectHolder/ObjectHolder/
 date: 2021-01-11
 key: JavaJava.O.ObjectHolder
 category: java

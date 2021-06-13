@@ -1,8 +1,8 @@
 ---
 title: ParserFactory.makeParser()
-permalink: Java/ParserFactory/makeParser
+permalink: /Java/ParserFactory/makeParser/
 date: 2021-01-11
-key: JavaJava.P.ParserFactory
+key: Java.P.ParserFactory
 category: java
 tags: ['java se', 'org.xml.sax.helpers', 'java.xml', 'metodo java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 

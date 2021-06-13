@@ -1,8 +1,8 @@
 ---
 title: PagedResultsControl.OID
-permalink: Java/PagedResultsControl/OID
+permalink: /Java/PagedResultsControl/OID/
 date: 2021-01-11
-key: JavaJava.P.PagedResultsControl
+key: Java.P.PagedResultsControl
 category: java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'campo java', 'Java 1.5']
 sidebar: 

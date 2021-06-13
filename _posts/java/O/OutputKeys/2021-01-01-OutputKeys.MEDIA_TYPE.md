@@ -1,6 +1,6 @@
 ---
 title: OutputKeys.MEDIA_TYPE
-permalink: Java/OutputKeys/MEDIA_TYPE
+permalink: /Java/OutputKeys/MEDIA_TYPE/
 date: 2021-01-11
 key: JavaJava.O.OutputKeys
 category: java

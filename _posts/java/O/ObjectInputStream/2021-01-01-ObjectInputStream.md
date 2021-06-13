@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream
-permalink: Java/ObjectInputStream
+permalink: /Java/ObjectInputStream/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

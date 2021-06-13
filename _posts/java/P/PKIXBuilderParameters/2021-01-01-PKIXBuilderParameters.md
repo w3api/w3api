@@ -1,8 +1,8 @@
 ---
 title: PKIXBuilderParameters
-permalink: Java/PKIXBuilderParameters
+permalink: /Java/PKIXBuilderParameters/
 date: 2021-01-11
-key: JavaJava.P.PKIXBuilderParameters
+key: Java.P.PKIXBuilderParameters
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

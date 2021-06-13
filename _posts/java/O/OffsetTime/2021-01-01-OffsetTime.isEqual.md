@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.isEqual()
-permalink: Java/OffsetTime/isEqual
+permalink: /Java/OffsetTime/isEqual/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

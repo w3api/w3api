@@ -1,6 +1,6 @@
 ---
 title: ObjectNotActiveHelper.read()
-permalink: Java/ObjectNotActiveHelper/read
+permalink: /Java/ObjectNotActiveHelper/read/
 date: 2021-01-11
 key: JavaJava.O.ObjectNotActiveHelper
 category: java

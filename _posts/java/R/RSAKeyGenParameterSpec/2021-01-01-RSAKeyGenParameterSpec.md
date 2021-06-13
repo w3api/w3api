@@ -2,7 +2,7 @@
 title: RSAKeyGenParameterSpec
 permalink: Java/RSAKeyGenParameterSpec
 date: 2021-01-11
-key: JavaJava.R.RSAKeyGenParameterSpec
+key: Java.R.RSAKeyGenParameterSpec
 category: java
 tags: ['java se', 'java.security.spec', 'java.base', 'clase java', 'Java 1.3']
 sidebar: 

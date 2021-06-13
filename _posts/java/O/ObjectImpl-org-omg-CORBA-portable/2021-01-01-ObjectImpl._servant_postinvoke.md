@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl._servant_postinvoke()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/_servant_postinvoke
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/_servant_postinvoke/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PosixFileAttributes.owner()
-permalink: Java/PosixFileAttributes/owner
+permalink: /Java/PosixFileAttributes/owner/
 date: 2021-01-11
-key: JavaJava.P.PosixFileAttributes
+key: Java.P.PosixFileAttributes
 category: java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

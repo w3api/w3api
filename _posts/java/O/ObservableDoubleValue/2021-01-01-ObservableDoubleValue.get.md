@@ -1,6 +1,6 @@
 ---
 title: ObservableDoubleValue.get()
-permalink: Java/ObservableDoubleValue/get
+permalink: /Java/ObservableDoubleValue/get/
 date: 2021-01-11
 key: JavaJava.O.ObservableDoubleValue
 category: java

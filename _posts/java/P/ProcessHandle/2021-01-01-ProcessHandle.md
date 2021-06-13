@@ -1,8 +1,8 @@
 ---
 title: ProcessHandle
-permalink: Java/ProcessHandle
+permalink: /Java/ProcessHandle/
 date: 2021-01-11
-key: JavaJava.P.ProcessHandle
+key: Java.P.ProcessHandle
 category: java
 tags: ['java se', 'java.lang', 'java.base', 'interface java', 'Java 9']
 sidebar: 

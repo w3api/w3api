@@ -1,8 +1,8 @@
 ---
 title: PathIterator.next()
-permalink: Java/PathIterator/next
+permalink: /Java/PathIterator/next/
 date: 2021-01-11
-key: JavaJava.P.PathIterator
+key: Java.P.PathIterator
 category: java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

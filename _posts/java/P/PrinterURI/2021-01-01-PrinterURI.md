@@ -1,8 +1,8 @@
 ---
 title: PrinterURI
-permalink: Java/PrinterURI
+permalink: /Java/PrinterURI/
 date: 2021-01-11
-key: JavaJava.P.PrinterURI
+key: Java.P.PrinterURI
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

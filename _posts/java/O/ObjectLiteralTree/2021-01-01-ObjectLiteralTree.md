@@ -1,6 +1,6 @@
 ---
 title: ObjectLiteralTree
-permalink: Java/ObjectLiteralTree
+permalink: /Java/ObjectLiteralTree/
 date: 2021-01-11
 key: JavaJava.O.ObjectLiteralTree
 category: java

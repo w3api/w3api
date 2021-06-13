@@ -1,8 +1,8 @@
 ---
 title: PrinterJob.JobStatus.valueOf()
-permalink: Java/PrinterJob/JobStatus/valueOf
+permalink: /Java/PrinterJob/JobStatus/valueOf/
 date: 2021-01-11
-key: JavaJava.P.PrinterJob.JobStatus
+key: Java.P.PrinterJob.JobStatus
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

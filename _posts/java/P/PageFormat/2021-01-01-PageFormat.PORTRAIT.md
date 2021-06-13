@@ -1,8 +1,8 @@
 ---
 title: PageFormat.PORTRAIT
-permalink: Java/PageFormat/PORTRAIT
+permalink: /Java/PageFormat/PORTRAIT/
 date: 2021-01-11
-key: JavaJava.P.PageFormat
+key: Java.P.PageFormat
 category: java
 tags: ['java se', 'java.awt.print', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

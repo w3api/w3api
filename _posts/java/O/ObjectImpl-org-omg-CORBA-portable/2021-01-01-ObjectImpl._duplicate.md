@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl._duplicate()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/_duplicate
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/_duplicate/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

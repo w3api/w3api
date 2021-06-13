@@ -1,8 +1,8 @@
 ---
 title: ProgressMonitor.getNote()
-permalink: Java/ProgressMonitor/getNote
+permalink: /Java/ProgressMonitor/getNote/
 date: 2021-01-11
-key: JavaJava.P.ProgressMonitor
+key: Java.P.ProgressMonitor
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

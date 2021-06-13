@@ -1,8 +1,8 @@
 ---
 title: ParserDelegator.createDTD()
-permalink: Java/ParserDelegator/createDTD
+permalink: /Java/ParserDelegator/createDTD/
 date: 2021-01-11
-key: JavaJava.P.ParserDelegator
+key: Java.P.ParserDelegator
 category: java
 tags: ['java se', 'javax.swing.text.html.parser', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

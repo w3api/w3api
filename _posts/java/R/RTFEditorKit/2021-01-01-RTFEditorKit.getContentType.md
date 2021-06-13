@@ -2,7 +2,7 @@
 title: RTFEditorKit.getContentType()
 permalink: Java/RTFEditorKit/getContentType
 date: 2021-01-11
-key: JavaJava.R.RTFEditorKit
+key: Java.R.RTFEditorKit
 category: java
 tags: ['java se', 'javax.swing.text.rtf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

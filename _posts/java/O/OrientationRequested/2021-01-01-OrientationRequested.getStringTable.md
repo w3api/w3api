@@ -1,6 +1,6 @@
 ---
 title: OrientationRequested.getStringTable()
-permalink: Java/OrientationRequested/getStringTable
+permalink: /Java/OrientationRequested/getStringTable/
 date: 2021-01-11
 key: JavaJava.O.OrientationRequested
 category: java

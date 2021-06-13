@@ -1,6 +1,6 @@
 ---
 title: OpenURIEvent.getURI()
-permalink: Java/OpenURIEvent/getURI
+permalink: /Java/OpenURIEvent/getURI/
 date: 2021-01-11
 key: JavaJava.O.OpenURIEvent
 category: java

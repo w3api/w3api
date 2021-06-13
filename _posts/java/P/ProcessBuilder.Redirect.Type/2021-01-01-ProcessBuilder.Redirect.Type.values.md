@@ -1,8 +1,8 @@
 ---
 title: ProcessBuilder.Redirect.Type.values()
-permalink: Java/ProcessBuilder/Redirect/Type/values
+permalink: /Java/ProcessBuilder/Redirect/Type/values/
 date: 2021-01-11
-key: JavaJava.P.ProcessBuilder.Redirect.Type
+key: Java.P.ProcessBuilder.Redirect.Type
 category: java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

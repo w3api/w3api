@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.withYear()
-permalink: Java/OffsetDateTime/withYear
+permalink: /Java/OffsetDateTime/withYear/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ObservableArray.trimToSize()
-permalink: Java/ObservableArray/trimToSize
+permalink: /Java/ObservableArray/trimToSize/
 date: 2021-01-11
 key: JavaJava.O.ObservableArray
 category: java

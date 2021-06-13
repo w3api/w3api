@@ -1,8 +1,8 @@
 ---
 title: PrinterStateReason.INTERLOCK_OPEN
-permalink: Java/PrinterStateReason/INTERLOCK_OPEN
+permalink: /Java/PrinterStateReason/INTERLOCK_OPEN/
 date: 2021-01-11
-key: JavaJava.P.PrinterStateReason
+key: Java.P.PrinterStateReason
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

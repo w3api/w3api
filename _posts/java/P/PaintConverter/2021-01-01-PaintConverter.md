@@ -1,8 +1,8 @@
 ---
 title: PaintConverter
-permalink: Java/PaintConverter
+permalink: /Java/PaintConverter/
 date: 2021-01-11
-key: JavaJava.P.PaintConverter
+key: Java.P.PaintConverter
 category: java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 

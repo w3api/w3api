@@ -1,8 +1,8 @@
 ---
 title: ProcessBuilder.Redirect.INHERIT
-permalink: Java/ProcessBuilder/Redirect/INHERIT
+permalink: /Java/ProcessBuilder/Redirect/INHERIT/
 date: 2021-01-11
-key: JavaJava.P.ProcessBuilder.Redirect
+key: Java.P.ProcessBuilder.Redirect
 category: java
 tags: ['java se', 'java.lang', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 

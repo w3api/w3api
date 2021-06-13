@@ -1,6 +1,6 @@
 ---
 title: OptionalDataException.eof
-permalink: Java/OptionalDataException/eof
+permalink: /Java/OptionalDataException/eof/
 date: 2021-01-11
 key: JavaJava.O.OptionalDataException
 category: java

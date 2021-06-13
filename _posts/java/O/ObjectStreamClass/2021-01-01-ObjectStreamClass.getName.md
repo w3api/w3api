@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamClass.getName()
-permalink: Java/ObjectStreamClass/getName
+permalink: /Java/ObjectStreamClass/getName/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamClass
 category: java

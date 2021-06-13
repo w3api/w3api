@@ -1,6 +1,6 @@
 ---
 title: OverrunStyle.values()
-permalink: Java/OverrunStyle/values
+permalink: /Java/OverrunStyle/values/
 date: 2021-01-11
 key: JavaJava.O.OverrunStyle
 category: java

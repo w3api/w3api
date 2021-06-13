@@ -1,8 +1,8 @@
 ---
 title: PrintServiceLookup.lookupMultiDocPrintServices()
-permalink: Java/PrintServiceLookup/lookupMultiDocPrintServices
+permalink: /Java/PrintServiceLookup/lookupMultiDocPrintServices/
 date: 2021-01-11
-key: JavaJava.P.PrintServiceLookup
+key: Java.P.PrintServiceLookup
 category: java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ParsePosition.setErrorIndex()
-permalink: Java/ParsePosition/setErrorIndex
+permalink: /Java/ParsePosition/setErrorIndex/
 date: 2021-01-11
-key: JavaJava.P.ParsePosition
+key: Java.P.ParsePosition
 category: java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

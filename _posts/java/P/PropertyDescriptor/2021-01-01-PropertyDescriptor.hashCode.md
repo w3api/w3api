@@ -1,8 +1,8 @@
 ---
 title: PropertyDescriptor.hashCode()
-permalink: Java/PropertyDescriptor/hashCode
+permalink: /Java/PropertyDescriptor/hashCode/
 date: 2021-01-11
-key: JavaJava.P.PropertyDescriptor
+key: Java.P.PropertyDescriptor
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

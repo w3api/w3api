@@ -1,8 +1,8 @@
 ---
 title: PrinterJob
-permalink: Java/PrinterJob/
+permalink: /Java/PrinterJob//
 date: 2021-01-11
-key: JavaJava.P.PrinterJob
+key: Java.P.PrinterJob
 category: java
 tags: ['java se']
 sidebar: 

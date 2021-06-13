@@ -1,8 +1,8 @@
 ---
 title: POAManagerOperations.get_state()
-permalink: Java/POAManagerOperations/get_state
+permalink: /Java/POAManagerOperations/get_state/
 date: 2021-01-11
-key: JavaJava.P.POAManagerOperations
+key: Java.P.POAManagerOperations
 category: java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

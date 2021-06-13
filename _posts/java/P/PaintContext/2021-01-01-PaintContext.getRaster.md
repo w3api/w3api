@@ -1,8 +1,8 @@
 ---
 title: PaintContext.getRaster()
-permalink: Java/PaintContext/getRaster
+permalink: /Java/PaintContext/getRaster/
 date: 2021-01-11
-key: JavaJava.P.PaintContext
+key: Java.P.PaintContext
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

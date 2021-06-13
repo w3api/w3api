@@ -1,6 +1,6 @@
 ---
 title: ObjectOutput.close()
-permalink: Java/ObjectOutput/close
+permalink: /Java/ObjectOutput/close/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutput
 category: java

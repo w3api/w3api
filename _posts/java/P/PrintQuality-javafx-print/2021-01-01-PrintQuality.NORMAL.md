@@ -1,8 +1,8 @@
 ---
 title: PrintQuality.NORMAL
-permalink: Java/PrintQuality-javafx-print/NORMAL
+permalink: /Java/PrintQuality-javafx-print/NORMAL/
 date: 2021-01-11
-key: JavaJava.P.PrintQuality-javafx-print
+key: Java.P.PrintQuality-javafx-print
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 

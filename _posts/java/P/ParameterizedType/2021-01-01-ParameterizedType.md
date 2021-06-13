@@ -1,8 +1,8 @@
 ---
 title: ParameterizedType
-permalink: Java/ParameterizedType/
+permalink: /Java/ParameterizedType//
 date: 2021-01-11
-key: JavaJava.P.ParameterizedType
+key: Java.P.ParameterizedType
 category: java
 tags: ['java se']
 sidebar: 

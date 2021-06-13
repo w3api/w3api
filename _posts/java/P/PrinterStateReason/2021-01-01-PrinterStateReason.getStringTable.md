@@ -1,8 +1,8 @@
 ---
 title: PrinterStateReason.getStringTable()
-permalink: Java/PrinterStateReason/getStringTable
+permalink: /Java/PrinterStateReason/getStringTable/
 date: 2021-01-11
-key: JavaJava.P.PrinterStateReason
+key: Java.P.PrinterStateReason
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

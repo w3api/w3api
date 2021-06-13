@@ -1,6 +1,6 @@
 ---
 title: OptionPaneUI.containsCustomComponents()
-permalink: Java/OptionPaneUI/containsCustomComponents
+permalink: /Java/OptionPaneUI/containsCustomComponents/
 date: 2021-01-11
 key: JavaJava.O.OptionPaneUI
 category: java

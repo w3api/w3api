@@ -2,7 +2,7 @@
 title: LocalTime.withNano()
 permalink: Java/LocalTime/withNano
 date: 2021-01-11
-key: JavaJava.L.LocalTime
+key: Java.L.LocalTime
 category: java
 tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanInfo.getOperations()
-permalink: Java/OpenMBeanInfo/getOperations
+permalink: /Java/OpenMBeanInfo/getOperations/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanInfo
 category: java

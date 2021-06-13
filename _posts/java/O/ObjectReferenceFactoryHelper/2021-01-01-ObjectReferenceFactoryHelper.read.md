@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceFactoryHelper.read()
-permalink: Java/ObjectReferenceFactoryHelper/read
+permalink: /Java/ObjectReferenceFactoryHelper/read/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceFactoryHelper
 category: java

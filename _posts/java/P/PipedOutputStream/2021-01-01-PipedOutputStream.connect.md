@@ -1,8 +1,8 @@
 ---
 title: PipedOutputStream.connect()
-permalink: Java/PipedOutputStream/connect
+permalink: /Java/PipedOutputStream/connect/
 date: 2021-01-11
-key: JavaJava.P.PipedOutputStream
+key: Java.P.PipedOutputStream
 category: java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

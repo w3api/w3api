@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceTemplate.server_id()
-permalink: Java/ObjectReferenceTemplate/server_id
+permalink: /Java/ObjectReferenceTemplate/server_id/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceTemplate
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PopupMenu
-permalink: Java/PopupMenu
+permalink: /Java/PopupMenu/
 date: 2021-01-11
-key: JavaJava.P.PopupMenu
+key: Java.P.PopupMenu
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

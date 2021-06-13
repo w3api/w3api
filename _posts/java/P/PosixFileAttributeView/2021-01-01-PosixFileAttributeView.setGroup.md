@@ -1,8 +1,8 @@
 ---
 title: PosixFileAttributeView.setGroup()
-permalink: Java/PosixFileAttributeView/setGroup
+permalink: /Java/PosixFileAttributeView/setGroup/
 date: 2021-01-11
-key: JavaJava.P.PosixFileAttributeView
+key: Java.P.PosixFileAttributeView
 category: java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

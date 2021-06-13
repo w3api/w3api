@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.SC_SERIALIZABLE
-permalink: Java/ObjectStreamConstants/SC_SERIALIZABLE
+permalink: /Java/ObjectStreamConstants/SC_SERIALIZABLE/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

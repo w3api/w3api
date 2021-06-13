@@ -1,8 +1,8 @@
 ---
 title: PrinterAttributes.getDefaultPageOrientation()
-permalink: Java/PrinterAttributes/getDefaultPageOrientation
+permalink: /Java/PrinterAttributes/getDefaultPageOrientation/
 date: 2021-01-11
-key: JavaJava.P.PrinterAttributes
+key: Java.P.PrinterAttributes
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

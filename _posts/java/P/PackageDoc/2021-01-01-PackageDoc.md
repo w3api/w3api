@@ -1,8 +1,8 @@
 ---
 title: PackageDoc
-permalink: Java/PackageDoc
+permalink: /Java/PackageDoc/
 date: 2021-01-11
-key: JavaJava.P.PackageDoc
+key: Java.P.PackageDoc
 category: java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'interface java', 'Java 1.2']
 sidebar: 

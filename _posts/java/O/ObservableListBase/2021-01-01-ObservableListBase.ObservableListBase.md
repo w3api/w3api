@@ -1,6 +1,6 @@
 ---
 title: ObservableListBase.ObservableListBase()
-permalink: Java/ObservableListBase/ObservableListBase
+permalink: /Java/ObservableListBase/ObservableListBase/
 date: 2021-01-11
 key: JavaJava.O.ObservableListBase
 category: java

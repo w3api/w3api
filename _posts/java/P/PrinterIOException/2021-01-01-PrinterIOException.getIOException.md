@@ -1,8 +1,8 @@
 ---
 title: PrinterIOException.getIOException()
-permalink: Java/PrinterIOException/getIOException
+permalink: /Java/PrinterIOException/getIOException/
 date: 2021-01-11
-key: JavaJava.P.PrinterIOException
+key: Java.P.PrinterIOException
 category: java
 tags: ['java se', 'java.awt.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

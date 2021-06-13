@@ -1,6 +1,6 @@
 ---
 title: OceanTheme.addCustomEntriesToTable()
-permalink: Java/OceanTheme/addCustomEntriesToTable
+permalink: /Java/OceanTheme/addCustomEntriesToTable/
 date: 2021-01-11
 key: JavaJava.O.OceanTheme
 category: java

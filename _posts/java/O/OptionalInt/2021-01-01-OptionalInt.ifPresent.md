@@ -1,6 +1,6 @@
 ---
 title: OptionalInt.ifPresent()
-permalink: Java/OptionalInt/ifPresent
+permalink: /Java/OptionalInt/ifPresent/
 date: 2021-01-11
 key: JavaJava.O.OptionalInt
 category: java

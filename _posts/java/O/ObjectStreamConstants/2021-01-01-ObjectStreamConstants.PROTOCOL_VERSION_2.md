@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.PROTOCOL_VERSION_2
-permalink: Java/ObjectStreamConstants/PROTOCOL_VERSION_2
+permalink: /Java/ObjectStreamConstants/PROTOCOL_VERSION_2/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

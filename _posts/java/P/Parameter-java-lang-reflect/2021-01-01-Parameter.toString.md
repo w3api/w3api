@@ -1,8 +1,8 @@
 ---
 title: Parameter.toString()
-permalink: Java/Parameter-java-lang-reflect/toString
+permalink: /Java/Parameter-java-lang-reflect/toString/
 date: 2021-01-11
-key: JavaJava.P.Parameter-java-lang-reflect
+key: Java.P.Parameter-java-lang-reflect
 category: java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

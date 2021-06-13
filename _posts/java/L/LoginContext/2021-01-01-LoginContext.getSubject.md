@@ -2,7 +2,7 @@
 title: LoginContext.getSubject()
 permalink: Java/LoginContext/getSubject
 date: 2021-01-11
-key: JavaJava.L.LoginContext
+key: Java.L.LoginContext
 category: java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

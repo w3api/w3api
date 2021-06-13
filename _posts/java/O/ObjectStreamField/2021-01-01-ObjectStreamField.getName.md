@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamField.getName()
-permalink: Java/ObjectStreamField/getName
+permalink: /Java/ObjectStreamField/getName/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamField
 category: java

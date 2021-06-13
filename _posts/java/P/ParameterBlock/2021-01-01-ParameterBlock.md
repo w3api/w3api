@@ -1,8 +1,8 @@
 ---
 title: ParameterBlock
-permalink: Java/ParameterBlock
+permalink: /Java/ParameterBlock/
 date: 2021-01-11
-key: JavaJava.P.ParameterBlock
+key: Java.P.ParameterBlock
 category: java
 tags: ['java se', 'java.awt.image.renderable', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

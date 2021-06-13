@@ -1,6 +1,6 @@
 ---
 title: Operation.toString()
-permalink: Java/Operation-java-rmi-server/toString
+permalink: /Java/Operation-java-rmi-server/toString/
 date: 2021-01-11
 key: JavaJava.O.Operation-java-rmi-server
 category: java

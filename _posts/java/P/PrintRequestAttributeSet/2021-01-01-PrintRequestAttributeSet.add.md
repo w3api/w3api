@@ -1,8 +1,8 @@
 ---
 title: PrintRequestAttributeSet.add()
-permalink: Java/PrintRequestAttributeSet/add
+permalink: /Java/PrintRequestAttributeSet/add/
 date: 2021-01-11
-key: JavaJava.P.PrintRequestAttributeSet
+key: Java.P.PrintRequestAttributeSet
 category: java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObjectAlreadyActiveHelper.ObjectAlreadyActiveHelper()
-permalink: Java/ObjectAlreadyActiveHelper/ObjectAlreadyActiveHelper
+permalink: /Java/ObjectAlreadyActiveHelper/ObjectAlreadyActiveHelper/
 date: 2021-01-11
 key: JavaJava.O.ObjectAlreadyActiveHelper
 category: java

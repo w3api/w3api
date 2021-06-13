@@ -1,6 +1,6 @@
 ---
 title: OpenFilesHandler
-permalink: Java/OpenFilesHandler
+permalink: /Java/OpenFilesHandler/
 date: 2021-01-11
 key: JavaJava.O.OpenFilesHandler
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl.equals()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/equals
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/equals/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

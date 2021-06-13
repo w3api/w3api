@@ -1,6 +1,6 @@
 ---
 title: ObjectInputFilter.FilterInfo
-permalink: Java/ObjectInputFilter/FilterInfo
+permalink: /Java/ObjectInputFilter/FilterInfo/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputFilter.FilterInfo
 category: java

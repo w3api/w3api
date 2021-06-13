@@ -1,8 +1,8 @@
 ---
 title: PageRange
-permalink: Java/PageRange
+permalink: /Java/PageRange/
 date: 2021-01-11
-key: JavaJava.P.PageRange
+key: Java.P.PageRange
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 

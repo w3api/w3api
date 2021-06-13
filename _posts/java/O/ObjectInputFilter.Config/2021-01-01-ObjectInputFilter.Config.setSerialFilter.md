@@ -1,6 +1,6 @@
 ---
 title: ObjectInputFilter.Config.setSerialFilter()
-permalink: Java/ObjectInputFilter/Config/setSerialFilter
+permalink: /Java/ObjectInputFilter/Config/setSerialFilter/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputFilter.Config
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PaperSource.MAIN
-permalink: Java/PaperSource/MAIN
+permalink: /Java/PaperSource/MAIN/
 date: 2021-01-11
-key: JavaJava.P.PaperSource
+key: Java.P.PaperSource
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 

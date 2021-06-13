@@ -2,7 +2,7 @@
 title: RMIConnector.toString()
 permalink: Java/RMIConnector/toString
 date: 2021-01-11
-key: JavaJava.R.RMIConnector
+key: Java.R.RMIConnector
 category: java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'metodo java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PickResult.FACE_UNDEFINED
-permalink: Java/PickResult/FACE_UNDEFINED
+permalink: /Java/PickResult/FACE_UNDEFINED/
 date: 2021-01-11
-key: JavaJava.P.PickResult
+key: Java.P.PickResult
 category: java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceFactoryHolder.value
-permalink: Java/ObjectReferenceFactoryHolder/value
+permalink: /Java/ObjectReferenceFactoryHolder/value/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceFactoryHolder
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamException
-permalink: Java/ObjectStreamException
+permalink: /Java/ObjectStreamException/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamException
 category: java

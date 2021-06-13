@@ -1,6 +1,6 @@
 ---
 title: ORBIdHelper.type()
-permalink: Java/ORBIdHelper/type
+permalink: /Java/ORBIdHelper/type/
 date: 2021-01-11
 key: JavaJava.O.ORBIdHelper
 category: java

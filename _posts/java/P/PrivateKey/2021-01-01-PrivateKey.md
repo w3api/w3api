@@ -1,8 +1,8 @@
 ---
 title: PrivateKey
-permalink: Java/PrivateKey
+permalink: /Java/PrivateKey/
 date: 2021-01-11
-key: JavaJava.P.PrivateKey
+key: Java.P.PrivateKey
 category: java
 tags: ['java se', 'java.security', 'java.base', 'interface java', 'Java 1.1']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PrintColor.values()
-permalink: Java/PrintColor/values
+permalink: /Java/PrintColor/values/
 date: 2021-01-11
-key: JavaJava.P.PrintColor
+key: Java.P.PrintColor
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

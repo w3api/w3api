@@ -1,6 +1,6 @@
 ---
 title: OperatingSystemMXBean.getAvailableProcessors()
-permalink: Java/OperatingSystemMXBean-java-lang-management/getAvailableProcessors
+permalink: /Java/OperatingSystemMXBean-java-lang-management/getAvailableProcessors/
 date: 2021-01-11
 key: JavaJava.O.OperatingSystemMXBean-java-lang-management
 category: java

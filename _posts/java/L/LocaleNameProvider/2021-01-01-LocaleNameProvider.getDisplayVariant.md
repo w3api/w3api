@@ -2,7 +2,7 @@
 title: LocaleNameProvider.getDisplayVariant()
 permalink: Java/LocaleNameProvider/getDisplayVariant
 date: 2021-01-11
-key: JavaJava.L.LocaleNameProvider
+key: Java.L.LocaleNameProvider
 category: java
 tags: ['java se', 'java.util.spi', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObservableMap
-permalink: Java/ObservableMap
+permalink: /Java/ObservableMap/
 date: 2021-01-11
 key: JavaJava.O.ObservableMap
 category: java

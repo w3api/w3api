@@ -1,6 +1,6 @@
 ---
 title: ObservableArrayBase
-permalink: Java/ObservableArrayBase
+permalink: /Java/ObservableArrayBase/
 date: 2021-01-11
 key: JavaJava.O.ObservableArrayBase
 category: java

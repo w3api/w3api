@@ -1,8 +1,8 @@
 ---
 title: PaintConverter.getInstance()
-permalink: Java/PaintConverter/getInstance
+permalink: /Java/PaintConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.P.PaintConverter
+key: Java.P.PaintConverter
 category: java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 

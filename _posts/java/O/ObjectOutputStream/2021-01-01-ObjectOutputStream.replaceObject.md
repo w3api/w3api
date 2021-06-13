@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.replaceObject()
-permalink: Java/ObjectOutputStream/replaceObject
+permalink: /Java/ObjectOutputStream/replaceObject/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.atZoneSameInstant()
-permalink: Java/OffsetDateTime/atZoneSameInstant
+permalink: /Java/OffsetDateTime/atZoneSameInstant/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

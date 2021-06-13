@@ -1,8 +1,8 @@
 ---
 title: PlatformLoggingMXBean.getParentLoggerName()
-permalink: Java/PlatformLoggingMXBean/getParentLoggerName
+permalink: /Java/PlatformLoggingMXBean/getParentLoggerName/
 date: 2021-01-11
-key: JavaJava.P.PlatformLoggingMXBean
+key: Java.P.PlatformLoggingMXBean
 category: java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.7']
 sidebar: 

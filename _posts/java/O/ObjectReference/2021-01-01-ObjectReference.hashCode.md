@@ -1,6 +1,6 @@
 ---
 title: ObjectReference.hashCode()
-permalink: Java/ObjectReference/hashCode
+permalink: /Java/ObjectReference/hashCode/
 date: 2021-01-11
 key: JavaJava.O.ObjectReference
 category: java

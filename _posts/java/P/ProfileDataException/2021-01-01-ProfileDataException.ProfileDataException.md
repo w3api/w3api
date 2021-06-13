@@ -1,8 +1,8 @@
 ---
 title: ProfileDataException.ProfileDataException()
-permalink: Java/ProfileDataException/ProfileDataException
+permalink: /Java/ProfileDataException/ProfileDataException/
 date: 2021-01-11
-key: JavaJava.P.ProfileDataException
+key: Java.P.ProfileDataException
 category: java
 tags: ['java se', 'java.awt.color', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

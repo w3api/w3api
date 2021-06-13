@@ -1,6 +1,6 @@
 ---
 title: OverlappingFileLockException
-permalink: Java/OverlappingFileLockException
+permalink: /Java/OverlappingFileLockException/
 date: 2021-01-11
 key: JavaJava.O.OverlappingFileLockException
 category: java

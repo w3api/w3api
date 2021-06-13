@@ -1,6 +1,6 @@
 ---
 title: ObjectName.toString()
-permalink: Java/ObjectName/toString
+permalink: /Java/ObjectName/toString/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

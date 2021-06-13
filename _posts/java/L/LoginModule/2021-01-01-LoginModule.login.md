@@ -2,7 +2,7 @@
 title: LoginModule.login()
 permalink: Java/LoginModule/login
 date: 2021-01-11
-key: JavaJava.L.LoginModule
+key: Java.L.LoginModule
 category: java
 tags: ['java se', 'javax.security.auth.spi', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

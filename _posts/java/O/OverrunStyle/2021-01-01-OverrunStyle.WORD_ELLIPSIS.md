@@ -1,6 +1,6 @@
 ---
 title: OverrunStyle.WORD_ELLIPSIS
-permalink: Java/OverrunStyle/WORD_ELLIPSIS
+permalink: /Java/OverrunStyle/WORD_ELLIPSIS/
 date: 2021-01-11
 key: JavaJava.O.OverrunStyle
 category: java

@@ -1,6 +1,6 @@
 ---
 title: OptionalInt.ifPresentOrElse()
-permalink: Java/OptionalInt/ifPresentOrElse
+permalink: /Java/OptionalInt/ifPresentOrElse/
 date: 2021-01-11
 key: JavaJava.O.OptionalInt
 category: java

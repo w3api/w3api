@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanParameterInfo.isValue()
-permalink: Java/OpenMBeanParameterInfo/isValue
+permalink: /Java/OpenMBeanParameterInfo/isValue/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanParameterInfo
 category: java

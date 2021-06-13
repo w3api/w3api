@@ -1,8 +1,8 @@
 ---
 title: PropertyChangeEvent.toString()
-permalink: Java/PropertyChangeEvent/toString
+permalink: /Java/PropertyChangeEvent/toString/
 date: 2021-01-11
-key: JavaJava.P.PropertyChangeEvent
+key: Java.P.PropertyChangeEvent
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

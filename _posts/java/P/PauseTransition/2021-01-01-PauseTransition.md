@@ -1,8 +1,8 @@
 ---
 title: PauseTransition
-permalink: Java/PauseTransition
+permalink: /Java/PauseTransition/
 date: 2021-01-11
-key: JavaJava.P.PauseTransition
+key: Java.P.PauseTransition
 category: java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 

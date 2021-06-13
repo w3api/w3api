@@ -1,8 +1,8 @@
 ---
 title: PrinterJob.showPrintDialog()
-permalink: Java/PrinterJob-javafx-print/showPrintDialog
+permalink: /Java/PrinterJob-javafx-print/showPrintDialog/
 date: 2021-01-11
-key: JavaJava.P.PrinterJob-javafx-print
+key: Java.P.PrinterJob-javafx-print
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

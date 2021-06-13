@@ -1,8 +1,8 @@
 ---
 title: PKIXCertPathBuilderResult.PKIXCertPathBuilderResult()
-permalink: Java/PKIXCertPathBuilderResult/PKIXCertPathBuilderResult
+permalink: /Java/PKIXCertPathBuilderResult/PKIXCertPathBuilderResult/
 date: 2021-01-11
-key: JavaJava.P.PKIXCertPathBuilderResult
+key: Java.P.PKIXCertPathBuilderResult
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PolicyError
-permalink: Java/PolicyError
+permalink: /Java/PolicyError/
 date: 2021-01-11
-key: JavaJava.P.PolicyError
+key: Java.P.PolicyError
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

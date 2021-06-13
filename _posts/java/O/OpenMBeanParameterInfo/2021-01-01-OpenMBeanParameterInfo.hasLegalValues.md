@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanParameterInfo.hasLegalValues()
-permalink: Java/OpenMBeanParameterInfo/hasLegalValues
+permalink: /Java/OpenMBeanParameterInfo/hasLegalValues/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanParameterInfo
 category: java

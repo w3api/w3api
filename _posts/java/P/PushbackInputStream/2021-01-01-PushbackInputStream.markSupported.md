@@ -1,8 +1,8 @@
 ---
 title: PushbackInputStream.markSupported()
-permalink: Java/PushbackInputStream/markSupported
+permalink: /Java/PushbackInputStream/markSupported/
 date: 2021-01-11
-key: JavaJava.P.PushbackInputStream
+key: Java.P.PushbackInputStream
 category: java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

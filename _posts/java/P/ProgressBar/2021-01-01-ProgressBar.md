@@ -1,8 +1,8 @@
 ---
 title: ProgressBar
-permalink: Java/ProgressBar
+permalink: /Java/ProgressBar/
 date: 2021-01-11
-key: JavaJava.P.ProgressBar
+key: Java.P.ProgressBar
 category: java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'clase java', 'JavaFX 2.0']
 sidebar: 

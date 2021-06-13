@@ -1,8 +1,8 @@
 ---
 title: LogManager
-permalink: Java/LogManager
+permalink: /Java/LogManager/
 date: 2021-01-11
-key: JavaJava.L.LogManager
+key: Java.L.LogManager
 category: java
 tags: ['java se', 'java.util.logging', 'java.logging', 'clase java', 'Java 1.4']
 sidebar: 

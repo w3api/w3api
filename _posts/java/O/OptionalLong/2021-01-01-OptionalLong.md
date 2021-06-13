@@ -1,6 +1,6 @@
 ---
 title: OptionalLong
-permalink: Java/OptionalLong
+permalink: /Java/OptionalLong/
 date: 2021-01-11
 key: JavaJava.O.OptionalLong
 category: java

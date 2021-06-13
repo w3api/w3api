@@ -1,8 +1,8 @@
 ---
 title: ParsedValue.isLookup()
-permalink: Java/ParsedValue/isLookup
+permalink: /Java/ParsedValue/isLookup/
 date: 2021-01-11
-key: JavaJava.P.ParsedValue
+key: Java.P.ParsedValue
 category: java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

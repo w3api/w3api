@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.plusSeconds()
-permalink: Java/OffsetDateTime/plusSeconds
+permalink: /Java/OffsetDateTime/plusSeconds/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

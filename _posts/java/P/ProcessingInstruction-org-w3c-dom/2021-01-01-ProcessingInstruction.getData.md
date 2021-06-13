@@ -1,8 +1,8 @@
 ---
 title: ProcessingInstruction.getData()
-permalink: Java/ProcessingInstruction-org-w3c-dom/getData
+permalink: /Java/ProcessingInstruction-org-w3c-dom/getData/
 date: 2021-01-11
-key: JavaJava.P.ProcessingInstruction-org-w3c-dom
+key: Java.P.ProcessingInstruction-org-w3c-dom
 category: java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'metodo java', 'Java 1.0']
 sidebar: 

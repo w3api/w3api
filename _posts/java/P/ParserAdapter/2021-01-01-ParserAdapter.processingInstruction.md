@@ -1,8 +1,8 @@
 ---
 title: ParserAdapter.processingInstruction()
-permalink: Java/ParserAdapter/processingInstruction
+permalink: /Java/ParserAdapter/processingInstruction/
 date: 2021-01-11
-key: JavaJava.P.ParserAdapter
+key: Java.P.ParserAdapter
 category: java
 tags: ['java se', 'org.xml.sax.helpers', 'java.xml', 'metodo java', 'Java 1.4', 'SAX 2.0']
 sidebar: 

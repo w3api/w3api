@@ -1,6 +1,6 @@
 ---
 title: ObjectPropertyBase.toString()
-permalink: Java/ObjectPropertyBase/toString
+permalink: /Java/ObjectPropertyBase/toString/
 date: 2021-01-11
 key: JavaJava.O.ObjectPropertyBase
 category: java

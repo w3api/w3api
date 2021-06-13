@@ -1,6 +1,6 @@
 ---
 title: ObjectOutput.flush()
-permalink: Java/ObjectOutput/flush
+permalink: /Java/ObjectOutput/flush/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutput
 category: java

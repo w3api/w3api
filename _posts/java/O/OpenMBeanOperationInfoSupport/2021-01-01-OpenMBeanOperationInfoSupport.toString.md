@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanOperationInfoSupport.toString()
-permalink: Java/OpenMBeanOperationInfoSupport/toString
+permalink: /Java/OpenMBeanOperationInfoSupport/toString/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanOperationInfoSupport
 category: java

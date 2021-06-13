@@ -1,6 +1,6 @@
 ---
 title: ORBInitializerOperations.post_init()
-permalink: Java/ORBInitializerOperations/post_init
+permalink: /Java/ORBInitializerOperations/post_init/
 date: 2021-01-11
 key: JavaJava.O.ORBInitializerOperations
 category: java

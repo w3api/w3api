@@ -1,8 +1,8 @@
 ---
 title: PolicyHelper
-permalink: Java/PolicyHelper
+permalink: /Java/PolicyHelper/
 date: 2021-01-11
-key: JavaJava.P.PolicyHelper
+key: Java.P.PolicyHelper
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

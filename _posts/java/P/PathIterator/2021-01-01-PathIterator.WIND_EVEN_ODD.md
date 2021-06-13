@@ -1,8 +1,8 @@
 ---
 title: PathIterator.WIND_EVEN_ODD
-permalink: Java/PathIterator/WIND_EVEN_ODD
+permalink: /Java/PathIterator/WIND_EVEN_ODD/
 date: 2021-01-11
-key: JavaJava.P.PathIterator
+key: Java.P.PathIterator
 category: java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

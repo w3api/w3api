@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl.ObjectImpl()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/ObjectImpl
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/ObjectImpl/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

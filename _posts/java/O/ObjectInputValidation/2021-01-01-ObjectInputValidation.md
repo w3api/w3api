@@ -1,6 +1,6 @@
 ---
 title: ObjectInputValidation
-permalink: Java/ObjectInputValidation
+permalink: /Java/ObjectInputValidation/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputValidation
 category: java

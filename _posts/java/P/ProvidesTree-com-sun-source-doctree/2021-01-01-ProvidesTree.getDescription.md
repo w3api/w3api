@@ -1,8 +1,8 @@
 ---
 title: ProvidesTree.getDescription()
-permalink: Java/ProvidesTree-com-sun-source-doctree/getDescription
+permalink: /Java/ProvidesTree-com-sun-source-doctree/getDescription/
 date: 2021-01-11
-key: JavaJava.P.ProvidesTree-com-sun-source-doctree
+key: Java.P.ProvidesTree-com-sun-source-doctree
 category: java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 9']
 sidebar: 

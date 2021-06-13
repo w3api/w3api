@@ -1,8 +1,8 @@
 ---
 title: ProgressIndicatorSkin
-permalink: Java/ProgressIndicatorSkin
+permalink: /Java/ProgressIndicatorSkin/
 date: 2021-01-11
-key: JavaJava.P.ProgressIndicatorSkin
+key: Java.P.ProgressIndicatorSkin
 category: java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 

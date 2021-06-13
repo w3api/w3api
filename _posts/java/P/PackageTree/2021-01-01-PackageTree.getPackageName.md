@@ -1,8 +1,8 @@
 ---
 title: PackageTree.getPackageName()
-permalink: Java/PackageTree/getPackageName
+permalink: /Java/PackageTree/getPackageName/
 date: 2021-01-11
-key: JavaJava.P.PackageTree
+key: Java.P.PackageTree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 9']
 sidebar: 

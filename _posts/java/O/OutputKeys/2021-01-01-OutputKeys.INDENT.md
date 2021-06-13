@@ -1,6 +1,6 @@
 ---
 title: OutputKeys.INDENT
-permalink: Java/OutputKeys/INDENT
+permalink: /Java/OutputKeys/INDENT/
 date: 2021-01-11
 key: JavaJava.O.OutputKeys
 category: java

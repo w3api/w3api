@@ -1,8 +1,8 @@
 ---
 title: PixelInterleavedSampleModel
-permalink: Java/PixelInterleavedSampleModel
+permalink: /Java/PixelInterleavedSampleModel/
 date: 2021-01-11
-key: JavaJava.P.PixelInterleavedSampleModel
+key: Java.P.PixelInterleavedSampleModel
 category: java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

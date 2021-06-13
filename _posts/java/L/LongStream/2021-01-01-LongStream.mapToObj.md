@@ -2,7 +2,7 @@
 title: LongStream.mapToObj()
 permalink: Java/LongStream/mapToObj
 date: 2021-01-11
-key: JavaJava.L.LongStream
+key: Java.L.LongStream
 category: java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

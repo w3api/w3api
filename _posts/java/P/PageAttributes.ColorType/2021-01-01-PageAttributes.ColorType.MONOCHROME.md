@@ -1,8 +1,8 @@
 ---
 title: PageAttributes.ColorType.MONOCHROME
-permalink: Java/PageAttributes/ColorType/MONOCHROME
+permalink: /Java/PageAttributes/ColorType/MONOCHROME/
 date: 2021-01-11
-key: JavaJava.P.PageAttributes.ColorType
+key: Java.P.PageAttributes.ColorType
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 

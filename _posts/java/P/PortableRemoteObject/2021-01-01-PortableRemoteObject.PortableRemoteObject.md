@@ -1,8 +1,8 @@
 ---
 title: PortableRemoteObject.PortableRemoteObject()
-permalink: Java/PortableRemoteObject/PortableRemoteObject
+permalink: /Java/PortableRemoteObject/PortableRemoteObject/
 date: 2021-01-11
-key: JavaJava.P.PortableRemoteObject
+key: Java.P.PortableRemoteObject
 category: java
 tags: ['java se', 'javax.rmi', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

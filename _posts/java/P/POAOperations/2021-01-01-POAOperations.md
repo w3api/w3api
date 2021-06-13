@@ -1,8 +1,8 @@
 ---
 title: POAOperations
-permalink: Java/POAOperations
+permalink: /Java/POAOperations/
 date: 2021-01-11
-key: JavaJava.P.POAOperations
+key: Java.P.POAOperations
 category: java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

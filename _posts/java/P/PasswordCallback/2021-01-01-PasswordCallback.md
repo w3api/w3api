@@ -1,8 +1,8 @@
 ---
 title: PasswordCallback
-permalink: Java/PasswordCallback
+permalink: /Java/PasswordCallback/
 date: 2021-01-11
-key: JavaJava.P.PasswordCallback
+key: Java.P.PasswordCallback
 category: java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ProtectionDomain.implies()
-permalink: Java/ProtectionDomain/implies
+permalink: /Java/ProtectionDomain/implies/
 date: 2021-01-11
-key: JavaJava.P.ProtectionDomain
+key: Java.P.ProtectionDomain
 category: java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

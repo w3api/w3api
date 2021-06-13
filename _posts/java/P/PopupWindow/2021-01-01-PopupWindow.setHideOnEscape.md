@@ -1,8 +1,8 @@
 ---
 title: PopupWindow.setHideOnEscape()
-permalink: Java/PopupWindow/setHideOnEscape
+permalink: /Java/PopupWindow/setHideOnEscape/
 date: 2021-01-11
-key: JavaJava.P.PopupWindow
+key: Java.P.PopupWindow
 category: java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PixelWriter.setPixels()
-permalink: Java/PixelWriter/setPixels
+permalink: /Java/PixelWriter/setPixels/
 date: 2021-01-11
-key: JavaJava.P.PixelWriter
+key: Java.P.PixelWriter
 category: java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 

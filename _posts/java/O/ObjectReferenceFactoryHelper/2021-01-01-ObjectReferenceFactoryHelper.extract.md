@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceFactoryHelper.extract()
-permalink: Java/ObjectReferenceFactoryHelper/extract
+permalink: /Java/ObjectReferenceFactoryHelper/extract/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceFactoryHelper
 category: java

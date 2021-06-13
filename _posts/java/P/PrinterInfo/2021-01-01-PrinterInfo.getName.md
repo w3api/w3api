@@ -1,8 +1,8 @@
 ---
 title: PrinterInfo.getName()
-permalink: Java/PrinterInfo/getName
+permalink: /Java/PrinterInfo/getName/
 date: 2021-01-11
-key: JavaJava.P.PrinterInfo
+key: Java.P.PrinterInfo
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

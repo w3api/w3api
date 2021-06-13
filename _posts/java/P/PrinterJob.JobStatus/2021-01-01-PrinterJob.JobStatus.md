@@ -1,8 +1,8 @@
 ---
 title: PrinterJob.JobStatus
-permalink: Java/PrinterJob/JobStatus
+permalink: /Java/PrinterJob/JobStatus/
 date: 2021-01-11
-key: JavaJava.P.PrinterJob.JobStatus
+key: Java.P.PrinterJob.JobStatus
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'enumerado java', 'JavaFX 8.0']
 sidebar: 

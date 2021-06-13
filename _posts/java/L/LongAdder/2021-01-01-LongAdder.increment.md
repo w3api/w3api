@@ -1,8 +1,8 @@
 ---
 title: LongAdder.increment()
-permalink: Java/LongAdder/increment
+permalink: /Java/LongAdder/increment/
 date: 2021-01-11
-key: JavaJava.L.LongAdder
+key: Java.L.LongAdder
 category: java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

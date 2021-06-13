@@ -1,8 +1,8 @@
 ---
 title: PUBLIC_MEMBER
-permalink: Java/PUBLIC_MEMBER
+permalink: /Java/PUBLIC_MEMBER/
 date: 2021-01-11
-key: JavaJava.P.PUBLIC_MEMBER
+key: Java.P.PUBLIC_MEMBER
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

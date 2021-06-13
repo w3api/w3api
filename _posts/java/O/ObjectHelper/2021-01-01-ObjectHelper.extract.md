@@ -1,6 +1,6 @@
 ---
 title: ObjectHelper.extract()
-permalink: Java/ObjectHelper/extract
+permalink: /Java/ObjectHelper/extract/
 date: 2021-01-11
 key: JavaJava.O.ObjectHelper
 category: java

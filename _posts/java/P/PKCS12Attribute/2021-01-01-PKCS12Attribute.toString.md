@@ -1,8 +1,8 @@
 ---
 title: PKCS12Attribute.toString()
-permalink: Java/PKCS12Attribute/toString
+permalink: /Java/PKCS12Attribute/toString/
 date: 2021-01-11
-key: JavaJava.P.PKCS12Attribute
+key: Java.P.PKCS12Attribute
 category: java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

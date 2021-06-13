@@ -1,6 +1,6 @@
 ---
 title: OutputKeys.DOCTYPE_SYSTEM
-permalink: Java/OutputKeys/DOCTYPE_SYSTEM
+permalink: /Java/OutputKeys/DOCTYPE_SYSTEM/
 date: 2021-01-11
 key: JavaJava.O.OutputKeys
 category: java

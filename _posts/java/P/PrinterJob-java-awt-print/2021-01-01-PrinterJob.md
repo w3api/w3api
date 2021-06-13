@@ -1,8 +1,8 @@
 ---
 title: PrinterJob
-permalink: Java/PrinterJob-java-awt-print
+permalink: /Java/PrinterJob-java-awt-print/
 date: 2021-01-11
-key: JavaJava.P.PrinterJob-java-awt-print
+key: Java.P.PrinterJob-java-awt-print
 category: java
 tags: ['java se', 'java.awt.print', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

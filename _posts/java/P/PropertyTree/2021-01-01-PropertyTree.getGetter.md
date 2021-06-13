@@ -1,8 +1,8 @@
 ---
 title: PropertyTree.getGetter()
-permalink: Java/PropertyTree/getGetter
+permalink: /Java/PropertyTree/getGetter/
 date: 2021-01-11
-key: JavaJava.P.PropertyTree
+key: Java.P.PropertyTree
 category: java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.TC_MAX
-permalink: Java/ObjectStreamConstants/TC_MAX
+permalink: /Java/ObjectStreamConstants/TC_MAX/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

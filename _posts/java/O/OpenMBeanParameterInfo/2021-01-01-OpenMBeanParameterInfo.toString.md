@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanParameterInfo.toString()
-permalink: Java/OpenMBeanParameterInfo/toString
+permalink: /Java/OpenMBeanParameterInfo/toString/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanParameterInfo
 category: java

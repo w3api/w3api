@@ -1,8 +1,8 @@
 ---
 title: PropertyChangeEvent.setPropagationId()
-permalink: Java/PropertyChangeEvent/setPropagationId
+permalink: /Java/PropertyChangeEvent/setPropagationId/
 date: 2021-01-11
-key: JavaJava.P.PropertyChangeEvent
+key: Java.P.PropertyChangeEvent
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

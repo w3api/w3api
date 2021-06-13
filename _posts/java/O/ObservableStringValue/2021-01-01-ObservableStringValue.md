@@ -1,6 +1,6 @@
 ---
 title: ObservableStringValue
-permalink: Java/ObservableStringValue
+permalink: /Java/ObservableStringValue/
 date: 2021-01-11
 key: JavaJava.O.ObservableStringValue
 category: java

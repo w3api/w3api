@@ -1,8 +1,8 @@
 ---
 title: ProvidesTree
-permalink: Java/ProvidesTree/
+permalink: /Java/ProvidesTree//
 date: 2021-01-11
-key: JavaJava.P.ProvidesTree
+key: Java.P.ProvidesTree
 category: java
 tags: ['java se']
 sidebar: 

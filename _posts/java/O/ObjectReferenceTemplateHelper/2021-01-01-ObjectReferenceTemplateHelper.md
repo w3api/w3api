@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceTemplateHelper
-permalink: Java/ObjectReferenceTemplateHelper
+permalink: /Java/ObjectReferenceTemplateHelper/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceTemplateHelper
 category: java

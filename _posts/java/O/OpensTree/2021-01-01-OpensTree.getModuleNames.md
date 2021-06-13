@@ -1,6 +1,6 @@
 ---
 title: OpensTree.getModuleNames()
-permalink: Java/OpensTree/getModuleNames
+permalink: /Java/OpensTree/getModuleNames/
 date: 2021-01-11
 key: JavaJava.O.OpensTree
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PagedResultsResponseControl.getResultSize()
-permalink: Java/PagedResultsResponseControl/getResultSize
+permalink: /Java/PagedResultsResponseControl/getResultSize/
 date: 2021-01-11
-key: JavaJava.P.PagedResultsResponseControl
+key: Java.P.PagedResultsResponseControl
 category: java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'metodo java', 'Java 1.5']
 sidebar: 

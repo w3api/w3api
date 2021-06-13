@@ -1,6 +1,6 @@
 ---
 title: OptionalLong.of()
-permalink: Java/OptionalLong/of
+permalink: /Java/OptionalLong/of/
 date: 2021-01-11
 key: JavaJava.O.OptionalLong
 category: java

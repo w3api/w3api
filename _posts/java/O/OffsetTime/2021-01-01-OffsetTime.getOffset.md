@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.getOffset()
-permalink: Java/OffsetTime/getOffset
+permalink: /Java/OffsetTime/getOffset/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

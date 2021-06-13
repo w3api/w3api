@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.adjustInto()
-permalink: Java/OffsetDateTime/adjustInto
+permalink: /Java/OffsetDateTime/adjustInto/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

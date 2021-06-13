@@ -1,6 +1,6 @@
 ---
 title: OperatingSystemMXBean.getProcessCpuLoad()
-permalink: Java/OperatingSystemMXBean-com-sun-management/getProcessCpuLoad
+permalink: /Java/OperatingSystemMXBean-com-sun-management/getProcessCpuLoad/
 date: 2021-01-11
 key: JavaJava.O.OperatingSystemMXBean-com-sun-management
 category: java

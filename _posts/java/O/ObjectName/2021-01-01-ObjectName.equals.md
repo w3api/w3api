@@ -1,6 +1,6 @@
 ---
 title: ObjectName.equals()
-permalink: Java/ObjectName/equals
+permalink: /Java/ObjectName/equals/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

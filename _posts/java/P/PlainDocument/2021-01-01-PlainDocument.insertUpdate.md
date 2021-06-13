@@ -1,8 +1,8 @@
 ---
 title: PlainDocument.insertUpdate()
-permalink: Java/PlainDocument/insertUpdate
+permalink: /Java/PlainDocument/insertUpdate/
 date: 2021-01-11
-key: JavaJava.P.PlainDocument
+key: Java.P.PlainDocument
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

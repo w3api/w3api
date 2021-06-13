@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.readUnsignedByte()
-permalink: Java/ObjectInputStream/readUnsignedByte
+permalink: /Java/ObjectInputStream/readUnsignedByte/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

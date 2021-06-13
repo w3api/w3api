@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.PutField.write()
-permalink: Java/ObjectOutputStream/PutField/write
+permalink: /Java/ObjectOutputStream/PutField/write/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream.PutField
 category: java

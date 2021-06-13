@@ -1,6 +1,6 @@
 ---
 title: OptionalDouble.orElseThrow()
-permalink: Java/OptionalDouble/orElseThrow
+permalink: /Java/OptionalDouble/orElseThrow/
 date: 2021-01-11
 key: JavaJava.O.OptionalDouble
 category: java

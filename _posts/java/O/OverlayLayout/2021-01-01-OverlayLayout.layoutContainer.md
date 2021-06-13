@@ -1,6 +1,6 @@
 ---
 title: OverlayLayout.layoutContainer()
-permalink: Java/OverlayLayout/layoutContainer
+permalink: /Java/OverlayLayout/layoutContainer/
 date: 2021-01-11
 key: JavaJava.O.OverlayLayout
 category: java

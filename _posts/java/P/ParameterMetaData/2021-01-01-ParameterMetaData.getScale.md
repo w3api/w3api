@@ -1,8 +1,8 @@
 ---
 title: ParameterMetaData.getScale()
-permalink: Java/ParameterMetaData/getScale
+permalink: /Java/ParameterMetaData/getScale/
 date: 2021-01-11
-key: JavaJava.P.ParameterMetaData
+key: Java.P.ParameterMetaData
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.4']
 sidebar: 

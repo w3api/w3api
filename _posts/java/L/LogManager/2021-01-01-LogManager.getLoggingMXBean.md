@@ -1,8 +1,8 @@
 ---
 title: LogManager.getLoggingMXBean()
-permalink: Java/LogManager/getLoggingMXBean
+permalink: /Java/LogManager/getLoggingMXBean/
 date: 2021-01-11
-key: JavaJava.L.LogManager
+key: Java.L.LogManager
 category: java
 tags: ['java se', 'java.util.logging', 'java.logging', 'metodo java', 'Java 1.4']
 sidebar: 

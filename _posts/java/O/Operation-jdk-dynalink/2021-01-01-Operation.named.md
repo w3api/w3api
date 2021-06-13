@@ -1,6 +1,6 @@
 ---
 title: Operation.named()
-permalink: Java/Operation-jdk-dynalink/named
+permalink: /Java/Operation-jdk-dynalink/named/
 date: 2021-01-11
 key: JavaJava.O.Operation-jdk-dynalink
 category: java

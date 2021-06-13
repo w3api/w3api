@@ -1,6 +1,6 @@
 ---
 title: ORBInitInfoOperations.orb_id()
-permalink: Java/ORBInitInfoOperations/orb_id
+permalink: /Java/ORBInitInfoOperations/orb_id/
 date: 2021-01-11
 key: JavaJava.O.ORBInitInfoOperations
 category: java

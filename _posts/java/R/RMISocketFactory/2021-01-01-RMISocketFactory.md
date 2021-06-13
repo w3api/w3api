@@ -2,7 +2,7 @@
 title: RMISocketFactory
 permalink: Java/RMISocketFactory
 date: 2021-01-11
-key: JavaJava.R.RMISocketFactory
+key: Java.R.RMISocketFactory
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 

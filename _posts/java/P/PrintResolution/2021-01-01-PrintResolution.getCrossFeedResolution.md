@@ -1,8 +1,8 @@
 ---
 title: PrintResolution.getCrossFeedResolution()
-permalink: Java/PrintResolution/getCrossFeedResolution
+permalink: /Java/PrintResolution/getCrossFeedResolution/
 date: 2021-01-11
-key: JavaJava.P.PrintResolution
+key: Java.P.PrintResolution
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

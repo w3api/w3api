@@ -1,8 +1,8 @@
 ---
 title: PrimitiveIterator
-permalink: Java/PrimitiveIterator
+permalink: /Java/PrimitiveIterator/
 date: 2021-01-11
-key: JavaJava.P.PrimitiveIterator
+key: Java.P.PrimitiveIterator
 category: java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 

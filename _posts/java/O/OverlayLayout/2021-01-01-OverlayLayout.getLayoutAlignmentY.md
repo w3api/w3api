@@ -1,6 +1,6 @@
 ---
 title: OverlayLayout.getLayoutAlignmentY()
-permalink: Java/OverlayLayout/getLayoutAlignmentY
+permalink: /Java/OverlayLayout/getLayoutAlignmentY/
 date: 2021-01-11
 key: JavaJava.O.OverlayLayout
 category: java

@@ -1,6 +1,6 @@
 ---
 title: OperatingSystemMXBean
-permalink: Java/OperatingSystemMXBean-com-sun-management
+permalink: /Java/OperatingSystemMXBean-com-sun-management/
 date: 2021-01-11
 key: JavaJava.O.OperatingSystemMXBean-com-sun-management
 category: java

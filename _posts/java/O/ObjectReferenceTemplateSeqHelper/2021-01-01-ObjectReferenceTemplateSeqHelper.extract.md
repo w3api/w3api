@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceTemplateSeqHelper.extract()
-permalink: Java/ObjectReferenceTemplateSeqHelper/extract
+permalink: /Java/ObjectReferenceTemplateSeqHelper/extract/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceTemplateSeqHelper
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PrintService.removePrintServiceAttributeListener()
-permalink: Java/PrintService-javax-print/removePrintServiceAttributeListener
+permalink: /Java/PrintService-javax-print/removePrintServiceAttributeListener/
 date: 2021-01-11
-key: JavaJava.P.PrintService-javax-print
+key: Java.P.PrintService-javax-print
 category: java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

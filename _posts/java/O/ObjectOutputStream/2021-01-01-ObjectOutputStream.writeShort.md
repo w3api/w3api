@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.writeShort()
-permalink: Java/ObjectOutputStream/writeShort
+permalink: /Java/ObjectOutputStream/writeShort/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

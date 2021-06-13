@@ -1,8 +1,8 @@
 ---
 title: PrintColor.MONOCHROME
-permalink: Java/PrintColor/MONOCHROME
+permalink: /Java/PrintColor/MONOCHROME/
 date: 2021-01-11
-key: JavaJava.P.PrintColor
+key: Java.P.PrintColor
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 

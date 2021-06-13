@@ -1,8 +1,8 @@
 ---
 title: PermissionCollection
-permalink: Java/PermissionCollection
+permalink: /Java/PermissionCollection/
 date: 2021-01-11
-key: JavaJava.P.PermissionCollection
+key: Java.P.PermissionCollection
 category: java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 

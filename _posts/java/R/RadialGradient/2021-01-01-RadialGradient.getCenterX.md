@@ -2,7 +2,7 @@
 title: RadialGradient.getCenterX()
 permalink: Java/RadialGradient/getCenterX
 date: 2021-01-11
-key: JavaJava.R.RadialGradient
+key: Java.R.RadialGradient
 category: java
 tags: ['java se', 'javafx.scene.paint', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

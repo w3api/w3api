@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.withOffsetSameLocal()
-permalink: Java/OffsetDateTime/withOffsetSameLocal
+permalink: /Java/OffsetDateTime/withOffsetSameLocal/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

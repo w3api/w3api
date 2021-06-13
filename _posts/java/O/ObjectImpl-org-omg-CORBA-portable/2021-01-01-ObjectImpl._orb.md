@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl._orb()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/_orb
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/_orb/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

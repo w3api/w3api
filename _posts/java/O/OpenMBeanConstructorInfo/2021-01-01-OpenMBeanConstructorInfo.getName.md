@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanConstructorInfo.getName()
-permalink: Java/OpenMBeanConstructorInfo/getName
+permalink: /Java/OpenMBeanConstructorInfo/getName/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanConstructorInfo
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PosixFilePermission.values()
-permalink: Java/PosixFilePermission/values
+permalink: /Java/PosixFilePermission/values/
 date: 2021-01-11
-key: JavaJava.P.PosixFilePermission
+key: Java.P.PosixFilePermission
 category: java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PrinterGraphics
-permalink: Java/PrinterGraphics
+permalink: /Java/PrinterGraphics/
 date: 2021-01-11
-key: JavaJava.P.PrinterGraphics
+key: Java.P.PrinterGraphics
 category: java
 tags: ['java se', 'java.awt.print', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

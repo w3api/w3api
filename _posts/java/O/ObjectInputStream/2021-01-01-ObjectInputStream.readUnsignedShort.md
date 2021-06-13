@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.readUnsignedShort()
-permalink: Java/ObjectInputStream/readUnsignedShort
+permalink: /Java/ObjectInputStream/readUnsignedShort/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

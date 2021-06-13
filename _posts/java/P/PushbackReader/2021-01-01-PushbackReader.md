@@ -1,8 +1,8 @@
 ---
 title: PushbackReader
-permalink: Java/PushbackReader
+permalink: /Java/PushbackReader/
 date: 2021-01-11
-key: JavaJava.P.PushbackReader
+key: Java.P.PushbackReader
 category: java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

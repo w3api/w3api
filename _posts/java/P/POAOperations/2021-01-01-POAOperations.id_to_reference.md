@@ -1,8 +1,8 @@
 ---
 title: POAOperations.id_to_reference()
-permalink: Java/POAOperations/id_to_reference
+permalink: /Java/POAOperations/id_to_reference/
 date: 2021-01-11
-key: JavaJava.P.POAOperations
+key: Java.P.POAOperations
 category: java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

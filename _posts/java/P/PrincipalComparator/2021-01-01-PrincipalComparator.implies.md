@@ -1,8 +1,8 @@
 ---
 title: PrincipalComparator.implies()
-permalink: Java/PrincipalComparator/implies
+permalink: /Java/PrincipalComparator/implies/
 date: 2021-01-11
-key: JavaJava.P.PrincipalComparator
+key: Java.P.PrincipalComparator
 category: java
 tags: ['java se', 'com.sun.security.auth', 'jdk.security.auth', 'metodo java', 'Java 1.0']
 sidebar: 

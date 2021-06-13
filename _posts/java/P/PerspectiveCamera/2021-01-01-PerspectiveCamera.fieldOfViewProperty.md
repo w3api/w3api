@@ -1,8 +1,8 @@
 ---
 title: PerspectiveCamera.fieldOfViewProperty()
-permalink: Java/PerspectiveCamera/fieldOfViewProperty
+permalink: /Java/PerspectiveCamera/fieldOfViewProperty/
 date: 2021-01-11
-key: JavaJava.P.PerspectiveCamera
+key: Java.P.PerspectiveCamera
 category: java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

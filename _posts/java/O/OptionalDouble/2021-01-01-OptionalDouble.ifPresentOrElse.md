@@ -1,6 +1,6 @@
 ---
 title: OptionalDouble.ifPresentOrElse()
-permalink: Java/OptionalDouble/ifPresentOrElse
+permalink: /Java/OptionalDouble/ifPresentOrElse/
 date: 2021-01-11
 key: JavaJava.O.OptionalDouble
 category: java

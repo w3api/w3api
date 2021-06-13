@@ -1,8 +1,8 @@
 ---
 title: PagesPerMinute
-permalink: Java/PagesPerMinute
+permalink: /Java/PagesPerMinute/
 date: 2021-01-11
-key: JavaJava.P.PagesPerMinute
+key: Java.P.PagesPerMinute
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

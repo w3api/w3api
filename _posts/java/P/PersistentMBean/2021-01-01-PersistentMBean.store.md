@@ -1,8 +1,8 @@
 ---
 title: PersistentMBean.store()
-permalink: Java/PersistentMBean/store
+permalink: /Java/PersistentMBean/store/
 date: 2021-01-11
-key: JavaJava.P.PersistentMBean
+key: Java.P.PersistentMBean
 category: java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

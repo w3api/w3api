@@ -1,6 +1,6 @@
 ---
 title: OutputStream.write_boolean()
-permalink: Java/OutputStream-org-omg-CORBA-portable/write_boolean
+permalink: /Java/OutputStream-org-omg-CORBA-portable/write_boolean/
 date: 2021-01-11
 key: JavaJava.O.OutputStream-org-omg-CORBA-portable
 category: java

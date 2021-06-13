@@ -1,8 +1,8 @@
 ---
 title: PriorityQueue.PriorityQueue()
-permalink: Java/PriorityQueue/PriorityQueue
+permalink: /Java/PriorityQueue/PriorityQueue/
 date: 2021-01-11
-key: JavaJava.P.PriorityQueue
+key: Java.P.PriorityQueue
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

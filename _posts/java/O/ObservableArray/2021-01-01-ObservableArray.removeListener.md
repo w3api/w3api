@@ -1,6 +1,6 @@
 ---
 title: ObservableArray.removeListener()
-permalink: Java/ObservableArray/removeListener
+permalink: /Java/ObservableArray/removeListener/
 date: 2021-01-11
 key: JavaJava.O.ObservableArray
 category: java

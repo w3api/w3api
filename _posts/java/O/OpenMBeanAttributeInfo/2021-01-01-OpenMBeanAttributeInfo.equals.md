@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanAttributeInfo.equals()
-permalink: Java/OpenMBeanAttributeInfo/equals
+permalink: /Java/OpenMBeanAttributeInfo/equals/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanAttributeInfo
 category: java

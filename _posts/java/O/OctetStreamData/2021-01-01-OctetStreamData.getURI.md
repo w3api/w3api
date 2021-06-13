@@ -1,6 +1,6 @@
 ---
 title: OctetStreamData.getURI()
-permalink: Java/OctetStreamData/getURI
+permalink: /Java/OctetStreamData/getURI/
 date: 2021-01-11
 key: JavaJava.O.OctetStreamData
 category: java

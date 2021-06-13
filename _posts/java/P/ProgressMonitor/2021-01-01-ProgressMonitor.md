@@ -1,8 +1,8 @@
 ---
 title: ProgressMonitor
-permalink: Java/ProgressMonitor
+permalink: /Java/ProgressMonitor/
 date: 2021-01-11
-key: JavaJava.P.ProgressMonitor
+key: Java.P.ProgressMonitor
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 

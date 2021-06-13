@@ -1,8 +1,8 @@
 ---
 title: PrintService.print()
-permalink: Java/PrintService-javax-jnlp/print
+permalink: /Java/PrintService-javax-jnlp/print/
 date: 2021-01-11
-key: JavaJava.P.PrintService-javax-jnlp
+key: Java.P.PrintService-javax-jnlp
 category: java
 tags: ['java se', 'javax.jnlp', 'java.jnlp', 'metodo java', 'Java 1.4.2']
 sidebar: 

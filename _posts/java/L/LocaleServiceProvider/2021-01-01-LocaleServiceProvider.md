@@ -1,8 +1,8 @@
 ---
 title: LocaleServiceProvider
-permalink: Java/LocaleServiceProvider
+permalink: /Java/LocaleServiceProvider/
 date: 2021-01-11
-key: JavaJava.L.LocaleServiceProvider
+key: Java.L.LocaleServiceProvider
 category: java
 tags: ['java se', 'java.util.spi', 'java.base', 'clase java', 'Java 1.6']
 sidebar: 

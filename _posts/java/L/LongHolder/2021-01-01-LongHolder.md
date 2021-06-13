@@ -1,8 +1,8 @@
 ---
 title: LongHolder
-permalink: Java/LongHolder
+permalink: /Java/LongHolder/
 date: 2021-01-11
-key: JavaJava.L.LongHolder
+key: Java.L.LongHolder
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 

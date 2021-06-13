@@ -1,8 +1,8 @@
 ---
 title: ParseConversionEvent
-permalink: Java/ParseConversionEvent
+permalink: /Java/ParseConversionEvent/
 date: 2021-01-11
-key: JavaJava.P.ParseConversionEvent
+key: Java.P.ParseConversionEvent
 category: java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'interface java', 'Java 1.6', 'JAXB Java 1.0']
 sidebar: 

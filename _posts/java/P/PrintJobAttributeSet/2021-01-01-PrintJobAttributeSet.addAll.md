@@ -1,8 +1,8 @@
 ---
 title: PrintJobAttributeSet.addAll()
-permalink: Java/PrintJobAttributeSet/addAll
+permalink: /Java/PrintJobAttributeSet/addAll/
 date: 2021-01-11
-key: JavaJava.P.PrintJobAttributeSet
+key: Java.P.PrintJobAttributeSet
 category: java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

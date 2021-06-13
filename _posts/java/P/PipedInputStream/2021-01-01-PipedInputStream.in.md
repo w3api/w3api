@@ -1,8 +1,8 @@
 ---
 title: PipedInputStream.in
-permalink: Java/PipedInputStream/in
+permalink: /Java/PipedInputStream/in/
 date: 2021-01-11
-key: JavaJava.P.PipedInputStream
+key: Java.P.PipedInputStream
 category: java
 tags: ['java se', 'java.io', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 

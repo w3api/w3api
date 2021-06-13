@@ -2,7 +2,7 @@
 title: LongFunction.apply()
 permalink: Java/LongFunction/apply
 date: 2021-01-11
-key: JavaJava.L.LongFunction
+key: Java.L.LongFunction
 category: java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PageAttributes.setColor()
-permalink: Java/PageAttributes/setColor
+permalink: /Java/PageAttributes/setColor/
 date: 2021-01-11
-key: JavaJava.P.PageAttributes
+key: Java.P.PageAttributes
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

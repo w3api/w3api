@@ -1,6 +1,6 @@
 ---
 title: OutOfMemoryError.OutOfMemoryError()
-permalink: Java/OutOfMemoryError/OutOfMemoryError
+permalink: /Java/OutOfMemoryError/OutOfMemoryError/
 date: 2021-01-11
 key: JavaJava.O.OutOfMemoryError
 category: java

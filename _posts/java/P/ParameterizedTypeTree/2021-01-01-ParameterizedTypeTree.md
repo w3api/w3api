@@ -1,8 +1,8 @@
 ---
 title: ParameterizedTypeTree
-permalink: Java/ParameterizedTypeTree
+permalink: /Java/ParameterizedTypeTree/
 date: 2021-01-11
-key: JavaJava.P.ParameterizedTypeTree
+key: Java.P.ParameterizedTypeTree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: OptionPaneUI.selectInitialValue()
-permalink: Java/OptionPaneUI/selectInitialValue
+permalink: /Java/OptionPaneUI/selectInitialValue/
 date: 2021-01-11
 key: JavaJava.O.OptionPaneUI
 category: java

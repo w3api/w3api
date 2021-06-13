@@ -1,8 +1,8 @@
 ---
 title: PathSearchingVirtualMachine.baseDirectory()
-permalink: Java/PathSearchingVirtualMachine/baseDirectory
+permalink: /Java/PathSearchingVirtualMachine/baseDirectory/
 date: 2021-01-11
-key: JavaJava.P.PathSearchingVirtualMachine
+key: Java.P.PathSearchingVirtualMachine
 category: java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PKIXCertPathChecker
-permalink: Java/PKIXCertPathChecker
+permalink: /Java/PKIXCertPathChecker/
 date: 2021-01-11
-key: JavaJava.P.PKIXCertPathChecker
+key: Java.P.PKIXCertPathChecker
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

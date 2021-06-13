@@ -1,8 +1,8 @@
 ---
 title: Principal
-permalink: Java/Principal-java-security
+permalink: /Java/Principal-java-security/
 date: 2021-01-11
-key: JavaJava.P.Principal-java-security
+key: Java.P.Principal-java-security
 category: java
 tags: ['java se', 'java.security', 'java.base', 'interface java', 'Java 1.1']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RSAPrivateCrtKey.getCrtCoefficient()
 permalink: Java/RSAPrivateCrtKey/getCrtCoefficient
 date: 2021-01-11
-key: JavaJava.R.RSAPrivateCrtKey
+key: Java.R.RSAPrivateCrtKey
 category: java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

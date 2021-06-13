@@ -1,6 +1,6 @@
 ---
 title: ObservableFloatArray.addAll()
-permalink: Java/ObservableFloatArray/addAll
+permalink: /Java/ObservableFloatArray/addAll/
 date: 2021-01-11
 key: JavaJava.O.ObservableFloatArray
 category: java

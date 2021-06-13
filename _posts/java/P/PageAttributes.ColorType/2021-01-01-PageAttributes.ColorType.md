@@ -1,8 +1,8 @@
 ---
 title: PageAttributes.ColorType
-permalink: Java/PageAttributes/ColorType
+permalink: /Java/PageAttributes/ColorType/
 date: 2021-01-11
-key: JavaJava.P.PageAttributes.ColorType
+key: Java.P.PageAttributes.ColorType
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 

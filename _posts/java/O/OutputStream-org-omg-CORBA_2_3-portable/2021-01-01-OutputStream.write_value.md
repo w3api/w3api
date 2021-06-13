@@ -1,6 +1,6 @@
 ---
 title: OutputStream.write_value()
-permalink: Java/OutputStream-org-omg-CORBA_2_3-portable/write_value
+permalink: /Java/OutputStream-org-omg-CORBA_2_3-portable/write_value/
 date: 2021-01-11
 key: JavaJava.O.OutputStream-org-omg-CORBA_2_3-portable
 category: java

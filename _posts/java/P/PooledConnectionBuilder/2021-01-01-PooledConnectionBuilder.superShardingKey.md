@@ -1,8 +1,8 @@
 ---
 title: PooledConnectionBuilder.superShardingKey()
-permalink: Java/PooledConnectionBuilder/superShardingKey
+permalink: /Java/PooledConnectionBuilder/superShardingKey/
 date: 2021-01-11
-key: JavaJava.P.PooledConnectionBuilder
+key: Java.P.PooledConnectionBuilder
 category: java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 9']
 sidebar: 

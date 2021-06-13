@@ -1,6 +1,6 @@
 ---
 title: ObjectName.getInstance()
-permalink: Java/ObjectName/getInstance
+permalink: /Java/ObjectName/getInstance/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

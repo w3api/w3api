@@ -1,8 +1,8 @@
 ---
 title: PersistenceDelegate.mutatesTo()
-permalink: Java/PersistenceDelegate/mutatesTo
+permalink: /Java/PersistenceDelegate/mutatesTo/
 date: 2021-01-11
-key: JavaJava.P.PersistenceDelegate
+key: Java.P.PersistenceDelegate
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 

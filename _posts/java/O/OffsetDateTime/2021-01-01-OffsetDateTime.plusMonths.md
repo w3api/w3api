@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.plusMonths()
-permalink: Java/OffsetDateTime/plusMonths
+permalink: /Java/OffsetDateTime/plusMonths/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

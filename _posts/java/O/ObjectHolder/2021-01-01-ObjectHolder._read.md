@@ -1,6 +1,6 @@
 ---
 title: ObjectHolder._read()
-permalink: Java/ObjectHolder/_read
+permalink: /Java/ObjectHolder/_read/
 date: 2021-01-11
 key: JavaJava.O.ObjectHolder
 category: java

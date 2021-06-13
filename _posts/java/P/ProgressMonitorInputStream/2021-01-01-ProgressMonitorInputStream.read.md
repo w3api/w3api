@@ -1,8 +1,8 @@
 ---
 title: ProgressMonitorInputStream.read()
-permalink: Java/ProgressMonitorInputStream/read
+permalink: /Java/ProgressMonitorInputStream/read/
 date: 2021-01-11
-key: JavaJava.P.ProgressMonitorInputStream
+key: Java.P.ProgressMonitorInputStream
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

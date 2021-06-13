@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl._get_domain_managers()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/_get_domain_managers
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/_get_domain_managers/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

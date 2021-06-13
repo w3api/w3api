@@ -2,7 +2,7 @@
 title: RMIClassLoader.loadClass()
 permalink: Java/RMIClassLoader/loadClass
 date: 2021-01-11
-key: JavaJava.R.RMIClassLoader
+key: Java.R.RMIClassLoader
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 

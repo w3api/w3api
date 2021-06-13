@@ -1,8 +1,8 @@
 ---
 title: PKIXReason.PATH_TOO_LONG
-permalink: Java/PKIXReason/PATH_TOO_LONG
+permalink: /Java/PKIXReason/PATH_TOO_LONG/
 date: 2021-01-11
-key: JavaJava.P.PKIXReason
+key: Java.P.PKIXReason
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 

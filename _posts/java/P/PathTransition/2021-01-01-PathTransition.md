@@ -1,8 +1,8 @@
 ---
 title: PathTransition
-permalink: Java/PathTransition
+permalink: /Java/PathTransition/
 date: 2021-01-11
-key: JavaJava.P.PathTransition
+key: Java.P.PathTransition
 category: java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 

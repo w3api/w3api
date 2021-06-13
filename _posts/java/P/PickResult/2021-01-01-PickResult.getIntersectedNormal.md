@@ -1,8 +1,8 @@
 ---
 title: PickResult.getIntersectedNormal()
-permalink: Java/PickResult/getIntersectedNormal
+permalink: /Java/PickResult/getIntersectedNormal/
 date: 2021-01-11
-key: JavaJava.P.PickResult
+key: Java.P.PickResult
 category: java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

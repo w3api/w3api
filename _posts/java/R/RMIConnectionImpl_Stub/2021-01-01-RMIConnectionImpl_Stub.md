@@ -2,7 +2,7 @@
 title: RMIConnectionImpl_Stub
 permalink: Java/RMIConnectionImpl_Stub
 date: 2021-01-11
-key: JavaJava.R.RMIConnectionImpl_Stub
+key: Java.R.RMIConnectionImpl_Stub
 category: java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'clase java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PeerAddressChangeNotification.AddressChangeEvent.ADDR_ADDED
-permalink: Java/PeerAddressChangeNotification/AddressChangeEvent/ADDR_ADDED
+permalink: /Java/PeerAddressChangeNotification/AddressChangeEvent/ADDR_ADDED/
 date: 2021-01-11
-key: JavaJava.P.PeerAddressChangeNotification.AddressChangeEvent
+key: Java.P.PeerAddressChangeNotification.AddressChangeEvent
 category: java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'campo java', 'Java 1.7']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PhongMaterial.getSelfIlluminationMap()
-permalink: Java/PhongMaterial/getSelfIlluminationMap
+permalink: /Java/PhongMaterial/getSelfIlluminationMap/
 date: 2021-01-11
-key: JavaJava.P.PhongMaterial
+key: Java.P.PhongMaterial
 category: java
 tags: ['java se', 'javafx.scene.paint', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

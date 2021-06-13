@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl._is_local()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/_is_local
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/_is_local/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

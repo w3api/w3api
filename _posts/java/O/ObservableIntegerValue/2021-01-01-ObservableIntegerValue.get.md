@@ -1,6 +1,6 @@
 ---
 title: ObservableIntegerValue.get()
-permalink: Java/ObservableIntegerValue/get
+permalink: /Java/ObservableIntegerValue/get/
 date: 2021-01-11
 key: JavaJava.O.ObservableIntegerValue
 category: java

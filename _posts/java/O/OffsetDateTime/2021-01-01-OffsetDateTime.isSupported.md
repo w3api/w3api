@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.isSupported()
-permalink: Java/OffsetDateTime/isSupported
+permalink: /Java/OffsetDateTime/isSupported/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

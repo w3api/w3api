@@ -1,6 +1,6 @@
 ---
 title: ObjectInputFilter.FilterInfo.depth()
-permalink: Java/ObjectInputFilter/FilterInfo/depth
+permalink: /Java/ObjectInputFilter/FilterInfo/depth/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputFilter.FilterInfo
 category: java

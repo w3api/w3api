@@ -1,6 +1,6 @@
 ---
 title: ObservableObjectValue.get()
-permalink: Java/ObservableObjectValue/get
+permalink: /Java/ObservableObjectValue/get/
 date: 2021-01-11
 key: JavaJava.O.ObservableObjectValue
 category: java

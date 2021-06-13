@@ -2,7 +2,7 @@
 title: LocatableEvent
 permalink: Java/LocatableEvent
 date: 2021-01-11
-key: JavaJava.L.LocatableEvent
+key: Java.L.LocatableEvent
 category: java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 

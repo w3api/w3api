@@ -1,8 +1,8 @@
 ---
 title: Parameter.argument
-permalink: Java/Parameter-org-omg-Dynamic/argument
+permalink: /Java/Parameter-org-omg-Dynamic/argument/
 date: 2021-01-11
-key: JavaJava.P.Parameter-org-omg-Dynamic
+key: Java.P.Parameter-org-omg-Dynamic
 category: java
 tags: ['java se', 'org.omg.Dynamic', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

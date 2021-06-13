@@ -1,6 +1,6 @@
 ---
 title: OutputStream.write_long()
-permalink: Java/OutputStream-org-omg-CORBA-portable/write_long
+permalink: /Java/OutputStream-org-omg-CORBA-portable/write_long/
 date: 2021-01-11
 key: JavaJava.O.OutputStream-org-omg-CORBA-portable
 category: java

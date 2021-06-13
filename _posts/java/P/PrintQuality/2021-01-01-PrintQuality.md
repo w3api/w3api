@@ -1,8 +1,8 @@
 ---
 title: PrintQuality
-permalink: Java/PrintQuality/
+permalink: /Java/PrintQuality//
 date: 2021-01-11
-key: JavaJava.P.PrintQuality
+key: Java.P.PrintQuality
 category: java
 tags: ['java se']
 sidebar: 

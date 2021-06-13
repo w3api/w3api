@@ -1,8 +1,8 @@
 ---
 title: PrinterMakeAndModel.getCategory()
-permalink: Java/PrinterMakeAndModel/getCategory
+permalink: /Java/PrinterMakeAndModel/getCategory/
 date: 2021-01-11
-key: JavaJava.P.PrinterMakeAndModel
+key: Java.P.PrinterMakeAndModel
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

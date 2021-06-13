@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.getDayOfMonth()
-permalink: Java/OffsetDateTime/getDayOfMonth
+permalink: /Java/OffsetDateTime/getDayOfMonth/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

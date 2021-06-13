@@ -1,6 +1,6 @@
 ---
 title: ObjectReference.isCollected()
-permalink: Java/ObjectReference/isCollected
+permalink: /Java/ObjectReference/isCollected/
 date: 2021-01-11
 key: JavaJava.O.ObjectReference
 category: java

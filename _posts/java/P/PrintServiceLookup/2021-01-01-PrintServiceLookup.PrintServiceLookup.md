@@ -1,8 +1,8 @@
 ---
 title: PrintServiceLookup.PrintServiceLookup()
-permalink: Java/PrintServiceLookup/PrintServiceLookup
+permalink: /Java/PrintServiceLookup/PrintServiceLookup/
 date: 2021-01-11
-key: JavaJava.P.PrintServiceLookup
+key: Java.P.PrintServiceLookup
 category: java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

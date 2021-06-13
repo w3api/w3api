@@ -1,6 +1,6 @@
 ---
 title: ObservableList.remove()
-permalink: Java/ObservableList/remove
+permalink: /Java/ObservableList/remove/
 date: 2021-01-11
 key: JavaJava.O.ObservableList
 category: java

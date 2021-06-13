@@ -1,6 +1,6 @@
 ---
 title: ORBInitInfoOperations.allocate_slot_id()
-permalink: Java/ORBInitInfoOperations/allocate_slot_id
+permalink: /Java/ORBInitInfoOperations/allocate_slot_id/
 date: 2021-01-11
 key: JavaJava.O.ORBInitInfoOperations
 category: java

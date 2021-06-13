@@ -1,8 +1,8 @@
 ---
 title: PrintJobEvent.DATA_TRANSFER_COMPLETE
-permalink: Java/PrintJobEvent/DATA_TRANSFER_COMPLETE
+permalink: /Java/PrintJobEvent/DATA_TRANSFER_COMPLETE/
 date: 2021-01-11
-key: JavaJava.P.PrintJobEvent
+key: Java.P.PrintJobEvent
 category: java
 tags: ['java se', 'javax.print.event', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PrinterState.getName()
-permalink: Java/PrinterState/getName
+permalink: /Java/PrinterState/getName/
 date: 2021-01-11
-key: JavaJava.P.PrinterState
+key: Java.P.PrinterState
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

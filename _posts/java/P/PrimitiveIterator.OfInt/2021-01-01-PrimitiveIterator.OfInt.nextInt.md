@@ -1,8 +1,8 @@
 ---
 title: PrimitiveIterator.OfInt.nextInt()
-permalink: Java/PrimitiveIterator/OfInt/nextInt
+permalink: /Java/PrimitiveIterator/OfInt/nextInt/
 date: 2021-01-11
-key: JavaJava.P.PrimitiveIterator.OfInt
+key: Java.P.PrimitiveIterator.OfInt
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

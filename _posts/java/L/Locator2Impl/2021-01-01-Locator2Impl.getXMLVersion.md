@@ -1,8 +1,8 @@
 ---
 title: Locator2Impl.getXMLVersion()
-permalink: Java/Locator2Impl/getXMLVersion
+permalink: /Java/Locator2Impl/getXMLVersion/
 date: 2021-01-11
-key: JavaJava.L.Locator2Impl
+key: Java.L.Locator2Impl
 category: java
 tags: ['java se', 'org.xml.sax.ext', 'java.xml', 'metodo java', 'Java 1.5', 'SAX 2.0.2']
 sidebar: 

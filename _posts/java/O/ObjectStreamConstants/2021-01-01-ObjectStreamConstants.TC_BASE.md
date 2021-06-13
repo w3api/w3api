@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.TC_BASE
-permalink: Java/ObjectStreamConstants/TC_BASE
+permalink: /Java/ObjectStreamConstants/TC_BASE/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanParameterInfoSupport.getDefaultValue()
-permalink: Java/OpenMBeanParameterInfoSupport/getDefaultValue
+permalink: /Java/OpenMBeanParameterInfoSupport/getDefaultValue/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanParameterInfoSupport
 category: java

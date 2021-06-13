@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanAttributeInfo
-permalink: Java/OpenMBeanAttributeInfo
+permalink: /Java/OpenMBeanAttributeInfo/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanAttributeInfo
 category: java

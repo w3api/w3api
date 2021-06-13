@@ -2,7 +2,7 @@
 title: RSAPrivateKey.getPrivateExponent()
 permalink: Java/RSAPrivateKey/getPrivateExponent
 date: 2021-01-11
-key: JavaJava.R.RSAPrivateKey
+key: Java.R.RSAPrivateKey
 category: java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

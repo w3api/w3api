@@ -1,8 +1,8 @@
 ---
 title: ProtocolException.ProtocolException()
-permalink: Java/ProtocolException-java-net/ProtocolException
+permalink: /Java/ProtocolException-java-net/ProtocolException/
 date: 2021-01-11
-key: JavaJava.P.ProtocolException-java-net
+key: Java.P.ProtocolException-java-net
 category: java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

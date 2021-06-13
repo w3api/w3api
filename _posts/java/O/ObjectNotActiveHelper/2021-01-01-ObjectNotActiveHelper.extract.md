@@ -1,6 +1,6 @@
 ---
 title: ObjectNotActiveHelper.extract()
-permalink: Java/ObjectNotActiveHelper/extract
+permalink: /Java/ObjectNotActiveHelper/extract/
 date: 2021-01-11
 key: JavaJava.O.ObjectNotActiveHelper
 category: java

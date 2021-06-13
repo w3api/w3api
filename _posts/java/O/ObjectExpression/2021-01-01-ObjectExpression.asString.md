@@ -1,6 +1,6 @@
 ---
 title: ObjectExpression.asString()
-permalink: Java/ObjectExpression/asString
+permalink: /Java/ObjectExpression/asString/
 date: 2021-01-11
 key: JavaJava.O.ObjectExpression
 category: java

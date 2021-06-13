@@ -1,6 +1,6 @@
 ---
 title: OutputKeys.STANDALONE
-permalink: Java/OutputKeys/STANDALONE
+permalink: /Java/OutputKeys/STANDALONE/
 date: 2021-01-11
 key: JavaJava.O.OutputKeys
 category: java

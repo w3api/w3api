@@ -1,8 +1,8 @@
 ---
 title: PropertyChangeEvent
-permalink: Java/PropertyChangeEvent
+permalink: /Java/PropertyChangeEvent/
 date: 2021-01-11
-key: JavaJava.P.PropertyChangeEvent
+key: Java.P.PropertyChangeEvent
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 

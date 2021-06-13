@@ -1,6 +1,6 @@
 ---
 title: ObjectAlreadyActiveHelper.write()
-permalink: Java/ObjectAlreadyActiveHelper/write
+permalink: /Java/ObjectAlreadyActiveHelper/write/
 date: 2021-01-11
 key: JavaJava.O.ObjectAlreadyActiveHelper
 category: java

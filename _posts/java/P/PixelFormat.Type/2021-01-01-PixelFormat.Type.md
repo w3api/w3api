@@ -1,8 +1,8 @@
 ---
 title: PixelFormat.Type
-permalink: Java/PixelFormat/Type
+permalink: /Java/PixelFormat/Type/
 date: 2021-01-11
-key: JavaJava.P.PixelFormat.Type
+key: Java.P.PixelFormat.Type
 category: java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'enumerado java', 'JavaFX 2.2']
 sidebar: 

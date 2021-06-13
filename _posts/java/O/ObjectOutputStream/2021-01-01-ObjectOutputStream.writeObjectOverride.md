@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.writeObjectOverride()
-permalink: Java/ObjectOutputStream/writeObjectOverride
+permalink: /Java/ObjectOutputStream/writeObjectOverride/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

@@ -2,7 +2,7 @@
 title: RSAPublicKey
 permalink: Java/RSAPublicKey
 date: 2021-01-11
-key: JavaJava.R.RSAPublicKey
+key: Java.R.RSAPublicKey
 category: java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'interface java', 'Java 1.2']
 sidebar: 

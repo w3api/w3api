@@ -1,6 +1,6 @@
 ---
 title: ObjectAlreadyActiveHelper.type()
-permalink: Java/ObjectAlreadyActiveHelper/type
+permalink: /Java/ObjectAlreadyActiveHelper/type/
 date: 2021-01-11
 key: JavaJava.O.ObjectAlreadyActiveHelper
 category: java

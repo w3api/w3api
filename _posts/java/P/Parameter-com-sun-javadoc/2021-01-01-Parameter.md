@@ -1,8 +1,8 @@
 ---
 title: Parameter
-permalink: Java/Parameter-com-sun-javadoc
+permalink: /Java/Parameter-com-sun-javadoc/
 date: 2021-01-11
-key: JavaJava.P.Parameter-com-sun-javadoc
+key: Java.P.Parameter-com-sun-javadoc
 category: java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'interface java', 'Java 1.0']
 sidebar: 

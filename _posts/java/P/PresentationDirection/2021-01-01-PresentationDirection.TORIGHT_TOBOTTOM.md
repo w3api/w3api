@@ -1,8 +1,8 @@
 ---
 title: PresentationDirection.TORIGHT_TOBOTTOM
-permalink: Java/PresentationDirection/TORIGHT_TOBOTTOM
+permalink: /Java/PresentationDirection/TORIGHT_TOBOTTOM/
 date: 2021-01-11
-key: JavaJava.P.PresentationDirection
+key: Java.P.PresentationDirection
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

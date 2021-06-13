@@ -1,6 +1,6 @@
 ---
 title: ORBInitInfoOperations.codec_factory()
-permalink: Java/ORBInitInfoOperations/codec_factory
+permalink: /Java/ORBInitInfoOperations/codec_factory/
 date: 2021-01-11
 key: JavaJava.O.ORBInitInfoOperations
 category: java

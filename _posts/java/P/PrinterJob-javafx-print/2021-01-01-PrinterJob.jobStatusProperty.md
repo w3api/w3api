@@ -1,8 +1,8 @@
 ---
 title: PrinterJob.jobStatusProperty()
-permalink: Java/PrinterJob-javafx-print/jobStatusProperty
+permalink: /Java/PrinterJob-javafx-print/jobStatusProperty/
 date: 2021-01-11
-key: JavaJava.P.PrinterJob-javafx-print
+key: Java.P.PrinterJob-javafx-print
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

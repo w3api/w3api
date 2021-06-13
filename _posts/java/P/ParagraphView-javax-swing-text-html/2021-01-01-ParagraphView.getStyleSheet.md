@@ -1,8 +1,8 @@
 ---
 title: ParagraphView.getStyleSheet()
-permalink: Java/ParagraphView-javax-swing-text-html/getStyleSheet
+permalink: /Java/ParagraphView-javax-swing-text-html/getStyleSheet/
 date: 2021-01-11
-key: JavaJava.P.ParagraphView-javax-swing-text-html
+key: Java.P.ParagraphView-javax-swing-text-html
 category: java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanParameterInfo.hasMinValue()
-permalink: Java/OpenMBeanParameterInfo/hasMinValue
+permalink: /Java/OpenMBeanParameterInfo/hasMinValue/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanParameterInfo
 category: java

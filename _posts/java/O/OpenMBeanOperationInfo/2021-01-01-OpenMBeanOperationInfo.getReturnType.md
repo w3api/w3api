@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanOperationInfo.getReturnType()
-permalink: Java/OpenMBeanOperationInfo/getReturnType
+permalink: /Java/OpenMBeanOperationInfo/getReturnType/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanOperationInfo
 category: java

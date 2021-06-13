@@ -1,8 +1,8 @@
 ---
 title: ParserConfigurationException
-permalink: Java/ParserConfigurationException
+permalink: /Java/ParserConfigurationException/
 date: 2021-01-11
-key: JavaJava.P.ParserConfigurationException
+key: Java.P.ParserConfigurationException
 category: java
 tags: ['java se', 'javax.xml.parsers', 'java.xml', 'clase java', 'Java 1.4']
 sidebar: 

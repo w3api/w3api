@@ -1,8 +1,8 @@
 ---
 title: PrinterMessageFromOperator.getCategory()
-permalink: Java/PrinterMessageFromOperator/getCategory
+permalink: /Java/PrinterMessageFromOperator/getCategory/
 date: 2021-01-11
-key: JavaJava.P.PrinterMessageFromOperator
+key: Java.P.PrinterMessageFromOperator
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

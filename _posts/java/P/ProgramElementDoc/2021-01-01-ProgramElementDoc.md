@@ -1,8 +1,8 @@
 ---
 title: ProgramElementDoc
-permalink: Java/ProgramElementDoc
+permalink: /Java/ProgramElementDoc/
 date: 2021-01-11
-key: JavaJava.P.ProgramElementDoc
+key: Java.P.ProgramElementDoc
 category: java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'interface java', 'Java 1.0']
 sidebar: 

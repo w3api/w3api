@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl.toString()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/toString
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/toString/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PageAttributes
-permalink: Java/PageAttributes
+permalink: /Java/PageAttributes/
 date: 2021-01-11
-key: JavaJava.P.PageAttributes
+key: Java.P.PageAttributes
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 

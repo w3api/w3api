@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.withSecond()
-permalink: Java/OffsetDateTime/withSecond
+permalink: /Java/OffsetDateTime/withSecond/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

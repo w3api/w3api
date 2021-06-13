@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.writeUnshared()
-permalink: Java/ObjectOutputStream/writeUnshared
+permalink: /Java/ObjectOutputStream/writeUnshared/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

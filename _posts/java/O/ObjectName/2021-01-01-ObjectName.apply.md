@@ -1,6 +1,6 @@
 ---
 title: ObjectName.apply()
-permalink: Java/ObjectName/apply
+permalink: /Java/ObjectName/apply/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

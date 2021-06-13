@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.minusMinutes()
-permalink: Java/OffsetDateTime/minusMinutes
+permalink: /Java/OffsetDateTime/minusMinutes/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

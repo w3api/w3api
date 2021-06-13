@@ -1,6 +1,6 @@
 ---
 title: ObjectAlreadyActiveHelper.read()
-permalink: Java/ObjectAlreadyActiveHelper/read
+permalink: /Java/ObjectAlreadyActiveHelper/read/
 date: 2021-01-11
 key: JavaJava.O.ObjectAlreadyActiveHelper
 category: java

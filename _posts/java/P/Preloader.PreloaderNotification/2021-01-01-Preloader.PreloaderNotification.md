@@ -1,8 +1,8 @@
 ---
 title: Preloader.PreloaderNotification
-permalink: Java/Preloader/PreloaderNotification
+permalink: /Java/Preloader/PreloaderNotification/
 date: 2021-01-11
-key: JavaJava.P.Preloader.PreloaderNotification
+key: Java.P.Preloader.PreloaderNotification
 category: java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'interface java', 'JavaFX 2.0']
 sidebar: 

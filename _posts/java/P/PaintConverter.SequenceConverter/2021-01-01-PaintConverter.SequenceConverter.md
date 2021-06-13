@@ -1,8 +1,8 @@
 ---
 title: PaintConverter.SequenceConverter
-permalink: Java/PaintConverter/SequenceConverter
+permalink: /Java/PaintConverter/SequenceConverter/
 date: 2021-01-11
-key: JavaJava.P.PaintConverter.SequenceConverter
+key: Java.P.PaintConverter.SequenceConverter
 category: java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 1.0']
 sidebar: 

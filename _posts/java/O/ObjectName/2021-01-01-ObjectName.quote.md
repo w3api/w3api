@@ -1,6 +1,6 @@
 ---
 title: ObjectName.quote()
-permalink: Java/ObjectName/quote
+permalink: /Java/ObjectName/quote/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

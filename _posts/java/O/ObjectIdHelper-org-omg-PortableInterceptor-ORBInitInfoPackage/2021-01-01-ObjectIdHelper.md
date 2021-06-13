@@ -1,6 +1,6 @@
 ---
 title: ObjectIdHelper
-permalink: Java/ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage
+permalink: /Java/ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage/
 date: 2021-01-11
 key: JavaJava.O.ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage
 category: java

@@ -1,8 +1,8 @@
 ---
 title: LogRecord.setSequenceNumber()
-permalink: Java/LogRecord/setSequenceNumber
+permalink: /Java/LogRecord/setSequenceNumber/
 date: 2021-01-11
-key: JavaJava.L.LogRecord
+key: Java.L.LogRecord
 category: java
 tags: ['java se', 'java.util.logging', 'java.logging', 'metodo java', 'Java 1.4']
 sidebar: 

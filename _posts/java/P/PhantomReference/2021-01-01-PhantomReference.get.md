@@ -1,8 +1,8 @@
 ---
 title: PhantomReference.get()
-permalink: Java/PhantomReference/get
+permalink: /Java/PhantomReference/get/
 date: 2021-01-11
-key: JavaJava.P.PhantomReference
+key: Java.P.PhantomReference
 category: java
 tags: ['java se', 'java.lang.ref', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.getMinute()
-permalink: Java/OffsetDateTime/getMinute
+permalink: /Java/OffsetDateTime/getMinute/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

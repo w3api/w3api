@@ -1,8 +1,8 @@
 ---
 title: PreferenceChangeListener.preferenceChange()
-permalink: Java/PreferenceChangeListener/preferenceChange
+permalink: /Java/PreferenceChangeListener/preferenceChange/
 date: 2021-01-11
-key: JavaJava.P.PreferenceChangeListener
+key: Java.P.PreferenceChangeListener
 category: java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'metodo java', 'Java 1.4']
 sidebar: 

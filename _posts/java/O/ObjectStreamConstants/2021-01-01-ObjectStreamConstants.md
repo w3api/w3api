@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants
-permalink: Java/ObjectStreamConstants
+permalink: /Java/ObjectStreamConstants/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

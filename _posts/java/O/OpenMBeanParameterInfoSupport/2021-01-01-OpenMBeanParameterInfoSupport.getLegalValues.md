@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanParameterInfoSupport.getLegalValues()
-permalink: Java/OpenMBeanParameterInfoSupport/getLegalValues
+permalink: /Java/OpenMBeanParameterInfoSupport/getLegalValues/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanParameterInfoSupport
 category: java

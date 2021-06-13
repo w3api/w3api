@@ -1,8 +1,8 @@
 ---
 title: PageAttributes.ColorType.toString()
-permalink: Java/PageAttributes/ColorType/toString
+permalink: /Java/PageAttributes/ColorType/toString/
 date: 2021-01-11
-key: JavaJava.P.PageAttributes.ColorType
+key: Java.P.PageAttributes.ColorType
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

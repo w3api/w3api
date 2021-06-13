@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.getNano()
-permalink: Java/OffsetDateTime/getNano
+permalink: /Java/OffsetDateTime/getNano/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

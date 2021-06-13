@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.readDouble()
-permalink: Java/ObjectInputStream/readDouble
+permalink: /Java/ObjectInputStream/readDouble/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

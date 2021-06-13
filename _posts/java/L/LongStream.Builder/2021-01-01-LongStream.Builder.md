@@ -2,7 +2,7 @@
 title: LongStream.Builder
 permalink: Java/LongStream/Builder
 date: 2021-01-11
-key: JavaJava.L.LongStream.Builder
+key: Java.L.LongStream.Builder
 category: java
 tags: ['java se', 'java.util.stream', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 

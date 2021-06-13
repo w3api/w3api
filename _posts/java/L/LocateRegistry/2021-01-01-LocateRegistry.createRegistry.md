@@ -1,8 +1,8 @@
 ---
 title: LocateRegistry.createRegistry()
-permalink: Java/LocateRegistry/createRegistry
+permalink: /Java/LocateRegistry/createRegistry/
 date: 2021-01-11
-key: JavaJava.L.LocateRegistry
+key: Java.L.LocateRegistry
 category: java
 tags: ['java se', 'java.rmi.registry', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: OptionPaneUI
-permalink: Java/OptionPaneUI
+permalink: /Java/OptionPaneUI/
 date: 2021-01-11
 key: JavaJava.O.OptionPaneUI
 category: java

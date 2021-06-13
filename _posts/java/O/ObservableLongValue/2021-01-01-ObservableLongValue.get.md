@@ -1,6 +1,6 @@
 ---
 title: ObservableLongValue.get()
-permalink: Java/ObservableLongValue/get
+permalink: /Java/ObservableLongValue/get/
 date: 2021-01-11
 key: JavaJava.O.ObservableLongValue
 category: java

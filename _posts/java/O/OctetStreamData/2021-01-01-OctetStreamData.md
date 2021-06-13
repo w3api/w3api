@@ -1,6 +1,6 @@
 ---
 title: OctetStreamData
-permalink: Java/OctetStreamData
+permalink: /Java/OctetStreamData/
 date: 2021-01-11
 key: JavaJava.O.OctetStreamData
 category: java

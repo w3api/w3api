@@ -1,8 +1,8 @@
 ---
 title: PrintWriter
-permalink: Java/PrintWriter
+permalink: /Java/PrintWriter/
 date: 2021-01-11
-key: JavaJava.P.PrintWriter
+key: Java.P.PrintWriter
 category: java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

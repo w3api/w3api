@@ -1,8 +1,8 @@
 ---
 title: Preloader.ErrorNotification.getDetails()
-permalink: Java/Preloader/ErrorNotification/getDetails
+permalink: /Java/Preloader/ErrorNotification/getDetails/
 date: 2021-01-11
-key: JavaJava.P.Preloader.ErrorNotification
+key: Java.P.Preloader.ErrorNotification
 category: java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

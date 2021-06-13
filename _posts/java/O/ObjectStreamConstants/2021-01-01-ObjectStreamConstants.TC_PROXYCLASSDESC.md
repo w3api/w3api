@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.TC_PROXYCLASSDESC
-permalink: Java/ObjectStreamConstants/TC_PROXYCLASSDESC
+permalink: /Java/ObjectStreamConstants/TC_PROXYCLASSDESC/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ObjectInputFilter.FilterInfo.arrayLength()
-permalink: Java/ObjectInputFilter/FilterInfo/arrayLength
+permalink: /Java/ObjectInputFilter/FilterInfo/arrayLength/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputFilter.FilterInfo
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ObjectInput.close()
-permalink: Java/ObjectInput/close
+permalink: /Java/ObjectInput/close/
 date: 2021-01-11
 key: JavaJava.O.ObjectInput
 category: java

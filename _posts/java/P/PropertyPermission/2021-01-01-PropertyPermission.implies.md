@@ -1,8 +1,8 @@
 ---
 title: PropertyPermission.implies()
-permalink: Java/PropertyPermission/implies
+permalink: /Java/PropertyPermission/implies/
 date: 2021-01-11
-key: JavaJava.P.PropertyPermission
+key: Java.P.PropertyPermission
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

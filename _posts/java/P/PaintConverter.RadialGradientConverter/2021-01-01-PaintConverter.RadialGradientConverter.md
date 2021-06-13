@@ -1,8 +1,8 @@
 ---
 title: PaintConverter.RadialGradientConverter
-permalink: Java/PaintConverter/RadialGradientConverter
+permalink: /Java/PaintConverter/RadialGradientConverter/
 date: 2021-01-11
-key: JavaJava.P.PaintConverter.RadialGradientConverter
+key: Java.P.PaintConverter.RadialGradientConverter
 category: java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 1.0']
 sidebar: 

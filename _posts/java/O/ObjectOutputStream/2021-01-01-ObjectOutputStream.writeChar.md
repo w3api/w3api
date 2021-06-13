@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.writeChar()
-permalink: Java/ObjectOutputStream/writeChar
+permalink: /Java/ObjectOutputStream/writeChar/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

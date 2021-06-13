@@ -1,6 +1,6 @@
 ---
 title: OperatingSystemMXBean.getArch()
-permalink: Java/OperatingSystemMXBean-java-lang-management/getArch
+permalink: /Java/OperatingSystemMXBean-java-lang-management/getArch/
 date: 2021-01-11
 key: JavaJava.O.OperatingSystemMXBean-java-lang-management
 category: java

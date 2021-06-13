@@ -1,6 +1,6 @@
 ---
 title: ORBInitInfoOperations.add_server_request_interceptor()
-permalink: Java/ORBInitInfoOperations/add_server_request_interceptor
+permalink: /Java/ORBInitInfoOperations/add_server_request_interceptor/
 date: 2021-01-11
 key: JavaJava.O.ORBInitInfoOperations
 category: java

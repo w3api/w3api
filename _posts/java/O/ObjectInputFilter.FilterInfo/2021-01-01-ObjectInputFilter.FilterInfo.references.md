@@ -1,6 +1,6 @@
 ---
 title: ObjectInputFilter.FilterInfo.references()
-permalink: Java/ObjectInputFilter/FilterInfo/references
+permalink: /Java/ObjectInputFilter/FilterInfo/references/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputFilter.FilterInfo
 category: java

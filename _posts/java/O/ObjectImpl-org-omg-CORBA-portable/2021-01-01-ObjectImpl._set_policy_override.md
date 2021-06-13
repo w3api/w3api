@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl._set_policy_override()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/_set_policy_override
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/_set_policy_override/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

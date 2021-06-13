@@ -1,8 +1,8 @@
 ---
 title: PrinterIsAcceptingJobs
-permalink: Java/PrinterIsAcceptingJobs
+permalink: /Java/PrinterIsAcceptingJobs/
 date: 2021-01-11
-key: JavaJava.P.PrinterIsAcceptingJobs
+key: Java.P.PrinterIsAcceptingJobs
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

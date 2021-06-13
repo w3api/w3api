@@ -1,6 +1,6 @@
 ---
 title: OutputDeviceAssigned.OutputDeviceAssigned()
-permalink: Java/OutputDeviceAssigned/OutputDeviceAssigned
+permalink: /Java/OutputDeviceAssigned/OutputDeviceAssigned/
 date: 2021-01-11
 key: JavaJava.O.OutputDeviceAssigned
 category: java

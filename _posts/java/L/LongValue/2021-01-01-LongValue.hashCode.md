@@ -2,7 +2,7 @@
 title: LongValue.hashCode()
 permalink: Java/LongValue/hashCode
 date: 2021-01-11
-key: JavaJava.L.LongValue
+key: Java.L.LongValue
 category: java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 

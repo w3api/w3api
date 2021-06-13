@@ -2,7 +2,7 @@
 title: RC5ParameterSpec.getIV()
 permalink: Java/RC5ParameterSpec/getIV
 date: 2021-01-11
-key: JavaJava.R.RC5ParameterSpec
+key: Java.R.RC5ParameterSpec
 category: java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

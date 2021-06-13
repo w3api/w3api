@@ -1,8 +1,8 @@
 ---
 title: PointerInfo
-permalink: Java/PointerInfo
+permalink: /Java/PointerInfo/
 date: 2021-01-11
-key: JavaJava.P.PointerInfo
+key: Java.P.PointerInfo
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.5']
 sidebar: 

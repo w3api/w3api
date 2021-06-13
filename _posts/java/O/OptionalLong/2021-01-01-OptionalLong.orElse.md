@@ -1,6 +1,6 @@
 ---
 title: OptionalLong.orElse()
-permalink: Java/OptionalLong/orElse
+permalink: /Java/OptionalLong/orElse/
 date: 2021-01-11
 key: JavaJava.O.OptionalLong
 category: java

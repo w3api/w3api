@@ -1,6 +1,6 @@
 ---
 title: ObjIntConsumer
-permalink: Java/ObjIntConsumer
+permalink: /Java/ObjIntConsumer/
 date: 2021-01-11
 key: JavaJava.O.ObjIntConsumer
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.annotateProxyClass()
-permalink: Java/ObjectOutputStream/annotateProxyClass
+permalink: /Java/ObjectOutputStream/annotateProxyClass/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

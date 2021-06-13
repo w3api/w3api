@@ -1,8 +1,8 @@
 ---
 title: PrimitiveIterator.OfLong
-permalink: Java/PrimitiveIterator/OfLong
+permalink: /Java/PrimitiveIterator/OfLong/
 date: 2021-01-11
-key: JavaJava.P.PrimitiveIterator.OfLong
+key: Java.P.PrimitiveIterator.OfLong
 category: java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 

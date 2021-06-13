@@ -1,6 +1,6 @@
 ---
 title: ObjectPropertyBase.fireValueChangedEvent()
-permalink: Java/ObjectPropertyBase/fireValueChangedEvent
+permalink: /Java/ObjectPropertyBase/fireValueChangedEvent/
 date: 2021-01-11
 key: JavaJava.O.ObjectPropertyBase
 category: java

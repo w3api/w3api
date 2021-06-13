@@ -1,8 +1,8 @@
 ---
 title: PaperSource.getName()
-permalink: Java/PaperSource/getName
+permalink: /Java/PaperSource/getName/
 date: 2021-01-11
-key: JavaJava.P.PaperSource
+key: Java.P.PaperSource
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

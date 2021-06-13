@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.truncatedTo()
-permalink: Java/OffsetDateTime/truncatedTo
+permalink: /Java/OffsetDateTime/truncatedTo/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

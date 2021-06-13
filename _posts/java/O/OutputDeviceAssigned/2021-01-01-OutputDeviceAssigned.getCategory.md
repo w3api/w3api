@@ -1,6 +1,6 @@
 ---
 title: OutputDeviceAssigned.getCategory()
-permalink: Java/OutputDeviceAssigned/getCategory
+permalink: /Java/OutputDeviceAssigned/getCategory/
 date: 2021-01-11
 key: JavaJava.O.OutputDeviceAssigned
 category: java

@@ -1,8 +1,8 @@
 ---
 title: POAOperations.get_servant()
-permalink: Java/POAOperations/get_servant
+permalink: /Java/POAOperations/get_servant/
 date: 2021-01-11
-key: JavaJava.P.POAOperations
+key: Java.P.POAOperations
 category: java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

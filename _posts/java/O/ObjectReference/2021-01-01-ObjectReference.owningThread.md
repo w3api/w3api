@@ -1,6 +1,6 @@
 ---
 title: ObjectReference.owningThread()
-permalink: Java/ObjectReference/owningThread
+permalink: /Java/ObjectReference/owningThread/
 date: 2021-01-11
 key: JavaJava.O.ObjectReference
 category: java

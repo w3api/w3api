@@ -1,8 +1,8 @@
 ---
 title: PopupWindow.AnchorLocation.CONTENT_TOP_RIGHT
-permalink: Java/PopupWindow/AnchorLocation/CONTENT_TOP_RIGHT
+permalink: /Java/PopupWindow/AnchorLocation/CONTENT_TOP_RIGHT/
 date: 2021-01-11
-key: JavaJava.P.PopupWindow.AnchorLocation
+key: Java.P.PopupWindow.AnchorLocation
 category: java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 

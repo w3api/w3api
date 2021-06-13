@@ -1,6 +1,6 @@
 ---
 title: ObjectInputFilter.Status.values()
-permalink: Java/ObjectInputFilter/Status/values
+permalink: /Java/ObjectInputFilter/Status/values/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputFilter.Status
 category: java

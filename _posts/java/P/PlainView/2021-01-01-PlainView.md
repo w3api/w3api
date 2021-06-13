@@ -1,8 +1,8 @@
 ---
 title: PlainView
-permalink: Java/PlainView
+permalink: /Java/PlainView/
 date: 2021-01-11
-key: JavaJava.P.PlainView
+key: Java.P.PlainView
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

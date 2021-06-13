@@ -1,8 +1,8 @@
 ---
 title: PopupWindow.AnchorLocation.valueOf()
-permalink: Java/PopupWindow/AnchorLocation/valueOf
+permalink: /Java/PopupWindow/AnchorLocation/valueOf/
 date: 2021-01-11
-key: JavaJava.P.PopupWindow.AnchorLocation
+key: Java.P.PopupWindow.AnchorLocation
 category: java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

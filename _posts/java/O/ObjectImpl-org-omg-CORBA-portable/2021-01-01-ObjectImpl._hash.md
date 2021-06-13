@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl._hash()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/_hash
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/_hash/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

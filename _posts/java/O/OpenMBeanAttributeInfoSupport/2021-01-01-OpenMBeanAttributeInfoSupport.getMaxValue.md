@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanAttributeInfoSupport.getMaxValue()
-permalink: Java/OpenMBeanAttributeInfoSupport/getMaxValue
+permalink: /Java/OpenMBeanAttributeInfoSupport/getMaxValue/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanAttributeInfoSupport
 category: java

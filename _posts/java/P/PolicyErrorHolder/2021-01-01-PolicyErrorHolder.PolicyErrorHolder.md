@@ -1,8 +1,8 @@
 ---
 title: PolicyErrorHolder.PolicyErrorHolder()
-permalink: Java/PolicyErrorHolder/PolicyErrorHolder
+permalink: /Java/PolicyErrorHolder/PolicyErrorHolder/
 date: 2021-01-11
-key: JavaJava.P.PolicyErrorHolder
+key: Java.P.PolicyErrorHolder
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

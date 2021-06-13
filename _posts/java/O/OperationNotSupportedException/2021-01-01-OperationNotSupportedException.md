@@ -1,6 +1,6 @@
 ---
 title: OperationNotSupportedException
-permalink: Java/OperationNotSupportedException
+permalink: /Java/OperationNotSupportedException/
 date: 2021-01-11
 key: JavaJava.O.OperationNotSupportedException
 category: java

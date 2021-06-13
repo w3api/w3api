@@ -1,8 +1,8 @@
 ---
 title: PointLight.PointLight()
-permalink: Java/PointLight/PointLight
+permalink: /Java/PointLight/PointLight/
 date: 2021-01-11
-key: JavaJava.P.PointLight
+key: Java.P.PointLight
 category: java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

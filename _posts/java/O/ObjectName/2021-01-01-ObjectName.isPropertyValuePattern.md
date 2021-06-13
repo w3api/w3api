@@ -1,6 +1,6 @@
 ---
 title: ObjectName.isPropertyValuePattern()
-permalink: Java/ObjectName/isPropertyValuePattern
+permalink: /Java/ObjectName/isPropertyValuePattern/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

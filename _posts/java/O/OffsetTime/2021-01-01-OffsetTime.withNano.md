@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.withNano()
-permalink: Java/OffsetTime/withNano
+permalink: /Java/OffsetTime/withNano/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

@@ -1,8 +1,8 @@
 ---
 title: Predicate
-permalink: Java/Predicate/
+permalink: /Java/Predicate//
 date: 2021-01-11
-key: JavaJava.P.Predicate
+key: Java.P.Predicate
 category: java
 tags: ['java se']
 sidebar: 

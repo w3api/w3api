@@ -1,6 +1,6 @@
 ---
 title: OptionChecker.isSupportedOption()
-permalink: Java/OptionChecker/isSupportedOption
+permalink: /Java/OptionChecker/isSupportedOption/
 date: 2021-01-11
 key: JavaJava.O.OptionChecker
 category: java

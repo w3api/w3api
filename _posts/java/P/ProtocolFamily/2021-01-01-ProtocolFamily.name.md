@@ -1,8 +1,8 @@
 ---
 title: ProtocolFamily.name()
-permalink: Java/ProtocolFamily/name
+permalink: /Java/ProtocolFamily/name/
 date: 2021-01-11
-key: JavaJava.P.ProtocolFamily
+key: Java.P.ProtocolFamily
 category: java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

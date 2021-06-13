@@ -1,8 +1,8 @@
 ---
 title: PrintQuality.NORMAL
-permalink: Java/PrintQuality-javax-print-attribute-standard/NORMAL
+permalink: /Java/PrintQuality-javax-print-attribute-standard/NORMAL/
 date: 2021-01-11
-key: JavaJava.P.PrintQuality-javax-print-attribute-standard
+key: Java.P.PrintQuality-javax-print-attribute-standard
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

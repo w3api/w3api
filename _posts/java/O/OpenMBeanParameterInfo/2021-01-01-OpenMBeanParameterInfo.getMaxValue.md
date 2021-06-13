@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanParameterInfo.getMaxValue()
-permalink: Java/OpenMBeanParameterInfo/getMaxValue
+permalink: /Java/OpenMBeanParameterInfo/getMaxValue/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanParameterInfo
 category: java

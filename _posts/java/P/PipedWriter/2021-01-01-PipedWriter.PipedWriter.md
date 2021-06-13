@@ -1,8 +1,8 @@
 ---
 title: PipedWriter.PipedWriter()
-permalink: Java/PipedWriter/PipedWriter
+permalink: /Java/PipedWriter/PipedWriter/
 date: 2021-01-11
-key: JavaJava.P.PipedWriter
+key: Java.P.PipedWriter
 category: java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

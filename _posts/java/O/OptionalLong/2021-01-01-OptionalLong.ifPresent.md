@@ -1,6 +1,6 @@
 ---
 title: OptionalLong.ifPresent()
-permalink: Java/OptionalLong/ifPresent
+permalink: /Java/OptionalLong/ifPresent/
 date: 2021-01-11
 key: JavaJava.O.OptionalLong
 category: java

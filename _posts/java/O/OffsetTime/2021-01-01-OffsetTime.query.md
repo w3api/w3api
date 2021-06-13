@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.query()
-permalink: Java/OffsetTime/query
+permalink: /Java/OffsetTime/query/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PropertyChangeSupport
-permalink: Java/PropertyChangeSupport
+permalink: /Java/PropertyChangeSupport/
 date: 2021-01-11
-key: JavaJava.P.PropertyChangeSupport
+key: Java.P.PropertyChangeSupport
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 

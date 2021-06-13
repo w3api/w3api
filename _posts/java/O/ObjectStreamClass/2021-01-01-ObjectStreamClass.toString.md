@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamClass.toString()
-permalink: Java/ObjectStreamClass/toString
+permalink: /Java/ObjectStreamClass/toString/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamClass
 category: java

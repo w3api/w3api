@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.SERIAL_FILTER_PERMISSION
-permalink: Java/ObjectStreamConstants/SERIAL_FILTER_PERMISSION
+permalink: /Java/ObjectStreamConstants/SERIAL_FILTER_PERMISSION/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

@@ -1,6 +1,6 @@
 ---
 title: OutputKeys.METHOD
-permalink: Java/OutputKeys/METHOD
+permalink: /Java/OutputKeys/METHOD/
 date: 2021-01-11
 key: JavaJava.O.OutputKeys
 category: java

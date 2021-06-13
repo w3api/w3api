@@ -2,7 +2,7 @@
 title: LoggingMXBean.getLoggerLevel()
 permalink: Java/LoggingMXBean/getLoggerLevel
 date: 2021-01-11
-key: JavaJava.L.LoggingMXBean
+key: Java.L.LoggingMXBean
 category: java
 tags: ['java se', 'java.util.logging', 'java.logging', 'metodo java', 'Java 1.5']
 sidebar: 

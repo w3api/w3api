@@ -1,6 +1,6 @@
 ---
 title: ObjectBinding.unbind()
-permalink: Java/ObjectBinding/unbind
+permalink: /Java/ObjectBinding/unbind/
 date: 2021-01-11
 key: JavaJava.O.ObjectBinding
 category: java

@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.plusHours()
-permalink: Java/OffsetDateTime/plusHours
+permalink: /Java/OffsetDateTime/plusHours/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

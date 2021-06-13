@@ -1,8 +1,8 @@
 ---
 title: Pagination.getMaxPageIndicatorCount()
-permalink: Java/Pagination/getMaxPageIndicatorCount
+permalink: /Java/Pagination/getMaxPageIndicatorCount/
 date: 2021-01-11
-key: JavaJava.P.Pagination
+key: Java.P.Pagination
 category: java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.2']
 sidebar: 

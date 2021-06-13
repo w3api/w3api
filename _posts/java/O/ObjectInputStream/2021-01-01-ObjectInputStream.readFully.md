@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.readFully()
-permalink: Java/ObjectInputStream/readFully
+permalink: /Java/ObjectInputStream/readFully/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

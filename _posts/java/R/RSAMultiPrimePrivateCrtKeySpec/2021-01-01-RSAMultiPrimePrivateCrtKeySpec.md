@@ -2,7 +2,7 @@
 title: RSAMultiPrimePrivateCrtKeySpec
 permalink: Java/RSAMultiPrimePrivateCrtKeySpec
 date: 2021-01-11
-key: JavaJava.R.RSAMultiPrimePrivateCrtKeySpec
+key: Java.R.RSAMultiPrimePrivateCrtKeySpec
 category: java
 tags: ['java se', 'java.security.spec', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

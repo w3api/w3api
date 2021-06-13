@@ -1,8 +1,8 @@
 ---
 title: PosixFilePermission.GROUP_EXECUTE
-permalink: Java/PosixFilePermission/GROUP_EXECUTE
+permalink: /Java/PosixFilePermission/GROUP_EXECUTE/
 date: 2021-01-11
-key: JavaJava.P.PosixFilePermission
+key: Java.P.PosixFilePermission
 category: java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 

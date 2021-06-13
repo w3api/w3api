@@ -1,6 +1,6 @@
 ---
 title: OptionalDouble.orElse()
-permalink: Java/OptionalDouble/orElse
+permalink: /Java/OptionalDouble/orElse/
 date: 2021-01-11
 key: JavaJava.O.OptionalDouble
 category: java

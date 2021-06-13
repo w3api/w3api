@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceTemplateSeqHolder.ObjectReferenceTemplateSeqHolder()
-permalink: Java/ObjectReferenceTemplateSeqHolder/ObjectReferenceTemplateSeqHolder
+permalink: /Java/ObjectReferenceTemplateSeqHolder/ObjectReferenceTemplateSeqHolder/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceTemplateSeqHolder
 category: java

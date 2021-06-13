@@ -1,8 +1,8 @@
 ---
 title: Parameter.type()
-permalink: Java/Parameter-com-sun-javadoc/type
+permalink: /Java/Parameter-com-sun-javadoc/type/
 date: 2021-01-11
-key: JavaJava.P.Parameter-com-sun-javadoc
+key: Java.P.Parameter-com-sun-javadoc
 category: java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.0']
 sidebar: 

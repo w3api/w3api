@@ -1,8 +1,8 @@
 ---
 title: PerspectiveCamera
-permalink: Java/PerspectiveCamera
+permalink: /Java/PerspectiveCamera/
 date: 2021-01-11
-key: JavaJava.P.PerspectiveCamera
+key: Java.P.PerspectiveCamera
 category: java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 

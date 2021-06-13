@@ -2,7 +2,7 @@
 title: RMIFailureHandler
 permalink: Java/RMIFailureHandler
 date: 2021-01-11
-key: JavaJava.R.RMIFailureHandler
+key: Java.R.RMIFailureHandler
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'interface java', 'Java 1.1']
 sidebar: 

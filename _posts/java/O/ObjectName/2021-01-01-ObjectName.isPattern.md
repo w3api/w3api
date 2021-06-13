@@ -1,6 +1,6 @@
 ---
 title: ObjectName.isPattern()
-permalink: Java/ObjectName/isPattern
+permalink: /Java/ObjectName/isPattern/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

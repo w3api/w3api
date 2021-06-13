@@ -1,6 +1,6 @@
 ---
 title: ObjectOutput
-permalink: Java/ObjectOutput
+permalink: /Java/ObjectOutput/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutput
 category: java

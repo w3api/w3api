@@ -2,7 +2,7 @@
 title: LongConsumer.andThen()
 permalink: Java/LongConsumer/andThen
 date: 2021-01-11
-key: JavaJava.L.LongConsumer
+key: Java.L.LongConsumer
 category: java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

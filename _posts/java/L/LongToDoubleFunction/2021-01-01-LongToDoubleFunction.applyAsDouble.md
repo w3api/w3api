@@ -2,7 +2,7 @@
 title: LongToDoubleFunction.applyAsDouble()
 permalink: Java/LongToDoubleFunction/applyAsDouble
 date: 2021-01-11
-key: JavaJava.L.LongToDoubleFunction
+key: Java.L.LongToDoubleFunction
 category: java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

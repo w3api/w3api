@@ -1,6 +1,6 @@
 ---
 title: ObjDoubleConsumer.accept()
-permalink: Java/ObjDoubleConsumer/accept
+permalink: /Java/ObjDoubleConsumer/accept/
 date: 2021-01-11
 key: JavaJava.O.ObjDoubleConsumer
 category: java

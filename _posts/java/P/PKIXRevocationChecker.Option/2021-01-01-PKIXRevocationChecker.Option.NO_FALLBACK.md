@@ -1,8 +1,8 @@
 ---
 title: PKIXRevocationChecker.Option.NO_FALLBACK
-permalink: Java/PKIXRevocationChecker/Option/NO_FALLBACK
+permalink: /Java/PKIXRevocationChecker/Option/NO_FALLBACK/
 date: 2021-01-11
-key: JavaJava.P.PKIXRevocationChecker.Option
+key: Java.P.PKIXRevocationChecker.Option
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 

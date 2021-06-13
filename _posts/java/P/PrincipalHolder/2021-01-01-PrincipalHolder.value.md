@@ -1,8 +1,8 @@
 ---
 title: PrincipalHolder.value
-permalink: Java/PrincipalHolder/value
+permalink: /Java/PrincipalHolder/value/
 date: 2021-01-11
-key: JavaJava.P.PrincipalHolder
+key: Java.P.PrincipalHolder
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'JDKJava 1.2']
 sidebar: 

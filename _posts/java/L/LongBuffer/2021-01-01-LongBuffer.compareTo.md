@@ -1,8 +1,8 @@
 ---
 title: LongBuffer.compareTo()
-permalink: Java/LongBuffer/compareTo
+permalink: /Java/LongBuffer/compareTo/
 date: 2021-01-11
-key: JavaJava.L.LongBuffer
+key: Java.L.LongBuffer
 category: java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

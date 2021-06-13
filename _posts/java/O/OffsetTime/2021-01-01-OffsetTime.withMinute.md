@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.withMinute()
-permalink: Java/OffsetTime/withMinute
+permalink: /Java/OffsetTime/withMinute/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

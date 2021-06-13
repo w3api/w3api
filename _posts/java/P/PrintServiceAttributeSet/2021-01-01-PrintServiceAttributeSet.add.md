@@ -1,8 +1,8 @@
 ---
 title: PrintServiceAttributeSet.add()
-permalink: Java/PrintServiceAttributeSet/add
+permalink: /Java/PrintServiceAttributeSet/add/
 date: 2021-01-11
-key: JavaJava.P.PrintServiceAttributeSet
+key: Java.P.PrintServiceAttributeSet
 category: java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

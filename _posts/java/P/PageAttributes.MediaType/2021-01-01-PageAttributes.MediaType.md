@@ -1,8 +1,8 @@
 ---
 title: PageAttributes.MediaType
-permalink: Java/PageAttributes/MediaType
+permalink: /Java/PageAttributes/MediaType/
 date: 2021-01-11
-key: JavaJava.P.PageAttributes.MediaType
+key: Java.P.PageAttributes.MediaType
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: OceanTheme.getSecondary2()
-permalink: Java/OceanTheme/getSecondary2
+permalink: /Java/OceanTheme/getSecondary2/
 date: 2021-01-11
 key: JavaJava.O.OceanTheme
 category: java

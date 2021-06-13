@@ -1,8 +1,8 @@
 ---
 title: PopupFactory
-permalink: Java/PopupFactory
+permalink: /Java/PopupFactory/
 date: 2021-01-11
-key: JavaJava.P.PopupFactory
+key: Java.P.PopupFactory
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PromptData.getDefaultValue()
-permalink: Java/PromptData/getDefaultValue
+permalink: /Java/PromptData/getDefaultValue/
 date: 2021-01-11
-key: JavaJava.P.PromptData
+key: Java.P.PromptData
 category: java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'JavaFX 2.0']
 sidebar: 

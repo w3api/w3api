@@ -1,6 +1,6 @@
 ---
 title: ObjectBinding.ObjectBinding()
-permalink: Java/ObjectBinding/ObjectBinding
+permalink: /Java/ObjectBinding/ObjectBinding/
 date: 2021-01-11
 key: JavaJava.O.ObjectBinding
 category: java

@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanConstructorInfo.equals()
-permalink: Java/OpenMBeanConstructorInfo/equals
+permalink: /Java/OpenMBeanConstructorInfo/equals/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanConstructorInfo
 category: java

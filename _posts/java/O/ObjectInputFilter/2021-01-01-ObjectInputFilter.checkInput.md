@@ -1,6 +1,6 @@
 ---
 title: ObjectInputFilter.checkInput()
-permalink: Java/ObjectInputFilter/checkInput
+permalink: /Java/ObjectInputFilter/checkInput/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputFilter
 category: java

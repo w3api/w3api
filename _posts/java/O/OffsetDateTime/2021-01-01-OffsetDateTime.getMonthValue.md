@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.getMonthValue()
-permalink: Java/OffsetDateTime/getMonthValue
+permalink: /Java/OffsetDateTime/getMonthValue/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

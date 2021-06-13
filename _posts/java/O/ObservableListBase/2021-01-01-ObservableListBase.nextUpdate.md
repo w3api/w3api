@@ -1,6 +1,6 @@
 ---
 title: ObservableListBase.nextUpdate()
-permalink: Java/ObservableListBase/nextUpdate
+permalink: /Java/ObservableListBase/nextUpdate/
 date: 2021-01-11
 key: JavaJava.O.ObservableListBase
 category: java

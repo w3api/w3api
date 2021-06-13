@@ -2,7 +2,7 @@
 title: LocatorImpl.setLineNumber()
 permalink: Java/LocatorImpl/setLineNumber
 date: 2021-01-11
-key: JavaJava.L.LocatorImpl
+key: Java.L.LocatorImpl
 category: java
 tags: ['java se', 'org.xml.sax.helpers', 'java.xml', 'metodo java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 

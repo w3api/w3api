@@ -2,7 +2,7 @@
 title: RSAMultiPrimePrivateCrtKey.getPublicExponent()
 permalink: Java/RSAMultiPrimePrivateCrtKey/getPublicExponent
 date: 2021-01-11
-key: JavaJava.R.RSAMultiPrimePrivateCrtKey
+key: Java.R.RSAMultiPrimePrivateCrtKey
 category: java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

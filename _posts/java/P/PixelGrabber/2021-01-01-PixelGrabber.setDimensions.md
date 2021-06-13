@@ -1,8 +1,8 @@
 ---
 title: PixelGrabber.setDimensions()
-permalink: Java/PixelGrabber/setDimensions
+permalink: /Java/PixelGrabber/setDimensions/
 date: 2021-01-11
-key: JavaJava.P.PixelGrabber
+key: Java.P.PixelGrabber
 category: java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

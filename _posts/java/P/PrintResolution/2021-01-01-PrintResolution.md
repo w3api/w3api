@@ -1,8 +1,8 @@
 ---
 title: PrintResolution
-permalink: Java/PrintResolution
+permalink: /Java/PrintResolution/
 date: 2021-01-11
-key: JavaJava.P.PrintResolution
+key: Java.P.PrintResolution
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PaintEvent.getUpdateRect()
-permalink: Java/PaintEvent/getUpdateRect
+permalink: /Java/PaintEvent/getUpdateRect/
 date: 2021-01-11
-key: JavaJava.P.PaintEvent
+key: Java.P.PaintEvent
 category: java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

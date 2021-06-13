@@ -1,6 +1,6 @@
 ---
 title: ObjectFactory
-permalink: Java/ObjectFactory
+permalink: /Java/ObjectFactory/
 date: 2021-01-11
 key: JavaJava.O.ObjectFactory
 category: java

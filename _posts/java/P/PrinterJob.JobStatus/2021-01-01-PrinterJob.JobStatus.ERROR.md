@@ -1,8 +1,8 @@
 ---
 title: PrinterJob.JobStatus.ERROR
-permalink: Java/PrinterJob/JobStatus/ERROR
+permalink: /Java/PrinterJob/JobStatus/ERROR/
 date: 2021-01-11
-key: JavaJava.P.PrinterJob.JobStatus
+key: Java.P.PrinterJob.JobStatus
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 

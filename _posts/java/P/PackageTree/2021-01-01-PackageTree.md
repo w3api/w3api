@@ -1,8 +1,8 @@
 ---
 title: PackageTree
-permalink: Java/PackageTree
+permalink: /Java/PackageTree/
 date: 2021-01-11
-key: JavaJava.P.PackageTree
+key: Java.P.PackageTree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 9']
 sidebar: 

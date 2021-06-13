@@ -1,6 +1,6 @@
 ---
 title: ObjectHelper.read()
-permalink: Java/ObjectHelper/read
+permalink: /Java/ObjectHelper/read/
 date: 2021-01-11
 key: JavaJava.O.ObjectHelper
 category: java

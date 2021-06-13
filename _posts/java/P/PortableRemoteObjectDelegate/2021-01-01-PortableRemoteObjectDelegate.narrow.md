@@ -1,8 +1,8 @@
 ---
 title: PortableRemoteObjectDelegate.narrow()
-permalink: Java/PortableRemoteObjectDelegate/narrow
+permalink: /Java/PortableRemoteObjectDelegate/narrow/
 date: 2021-01-11
-key: JavaJava.P.PortableRemoteObjectDelegate
+key: Java.P.PortableRemoteObjectDelegate
 category: java
 tags: ['java se', 'javax.rmi.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

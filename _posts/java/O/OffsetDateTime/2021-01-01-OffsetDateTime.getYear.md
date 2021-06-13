@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.getYear()
-permalink: Java/OffsetDateTime/getYear
+permalink: /Java/OffsetDateTime/getYear/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

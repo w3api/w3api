@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceTemplateHelper.write()
-permalink: Java/ObjectReferenceTemplateHelper/write
+permalink: /Java/ObjectReferenceTemplateHelper/write/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceTemplateHelper
 category: java

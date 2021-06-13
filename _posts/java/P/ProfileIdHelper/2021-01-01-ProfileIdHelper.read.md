@@ -1,8 +1,8 @@
 ---
 title: ProfileIdHelper.read()
-permalink: Java/ProfileIdHelper/read
+permalink: /Java/ProfileIdHelper/read/
 date: 2021-01-11
-key: JavaJava.P.ProfileIdHelper
+key: Java.P.ProfileIdHelper
 category: java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PropertyChangeListener
-permalink: Java/PropertyChangeListener
+permalink: /Java/PropertyChangeListener/
 date: 2021-01-11
-key: JavaJava.P.PropertyChangeListener
+key: Java.P.PropertyChangeListener
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'interface java', 'Java 1.1']
 sidebar: 

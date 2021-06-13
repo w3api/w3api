@@ -1,8 +1,8 @@
 ---
 title: PropertyValueFactory.getProperty()
-permalink: Java/PropertyValueFactory/getProperty
+permalink: /Java/PropertyValueFactory/getProperty/
 date: 2021-01-11
-key: JavaJava.P.PropertyValueFactory
+key: Java.P.PropertyValueFactory
 category: java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 

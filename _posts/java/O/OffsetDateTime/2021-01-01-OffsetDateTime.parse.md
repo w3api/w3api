@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.parse()
-permalink: Java/OffsetDateTime/parse
+permalink: /Java/OffsetDateTime/parse/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

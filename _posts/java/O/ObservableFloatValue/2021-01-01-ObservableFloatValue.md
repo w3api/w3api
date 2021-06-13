@@ -1,6 +1,6 @@
 ---
 title: ObservableFloatValue
-permalink: Java/ObservableFloatValue
+permalink: /Java/ObservableFloatValue/
 date: 2021-01-11
 key: JavaJava.O.ObservableFloatValue
 category: java

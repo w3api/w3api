@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamField.isUnshared()
-permalink: Java/ObjectStreamField/isUnshared
+permalink: /Java/ObjectStreamField/isUnshared/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamField
 category: java

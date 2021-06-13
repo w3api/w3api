@@ -1,8 +1,8 @@
 ---
 title: PreparedStatement.setDate()
-permalink: Java/PreparedStatement/setDate
+permalink: /Java/PreparedStatement/setDate/
 date: 2021-01-11
-key: JavaJava.P.PreparedStatement
+key: Java.P.PreparedStatement
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 

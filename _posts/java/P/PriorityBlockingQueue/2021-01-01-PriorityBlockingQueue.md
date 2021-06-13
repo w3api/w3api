@@ -1,8 +1,8 @@
 ---
 title: PriorityBlockingQueue
-permalink: Java/PriorityBlockingQueue
+permalink: /Java/PriorityBlockingQueue/
 date: 2021-01-11
-key: JavaJava.P.PriorityBlockingQueue
+key: Java.P.PriorityBlockingQueue
 category: java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 

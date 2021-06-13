@@ -1,8 +1,8 @@
 ---
 title: ProgressIndicator.isIndeterminate()
-permalink: Java/ProgressIndicator/isIndeterminate
+permalink: /Java/ProgressIndicator/isIndeterminate/
 date: 2021-01-11
-key: JavaJava.P.ProgressIndicator
+key: Java.P.ProgressIndicator
 category: java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 

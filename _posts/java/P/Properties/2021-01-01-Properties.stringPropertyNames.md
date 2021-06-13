@@ -1,8 +1,8 @@
 ---
 title: Properties.stringPropertyNames()
-permalink: Java/Properties/stringPropertyNames
+permalink: /Java/Properties/stringPropertyNames/
 date: 2021-01-11
-key: JavaJava.P.Properties
+key: Java.P.Properties
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

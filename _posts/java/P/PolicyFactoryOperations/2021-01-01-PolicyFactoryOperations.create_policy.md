@@ -1,8 +1,8 @@
 ---
 title: PolicyFactoryOperations.create_policy()
-permalink: Java/PolicyFactoryOperations/create_policy
+permalink: /Java/PolicyFactoryOperations/create_policy/
 date: 2021-01-11
-key: JavaJava.P.PolicyFactoryOperations
+key: Java.P.PolicyFactoryOperations
 category: java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

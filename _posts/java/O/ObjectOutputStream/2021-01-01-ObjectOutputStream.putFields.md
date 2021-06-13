@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.putFields()
-permalink: Java/ObjectOutputStream/putFields
+permalink: /Java/ObjectOutputStream/putFields/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

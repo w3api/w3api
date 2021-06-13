@@ -1,8 +1,8 @@
 ---
 title: PrinterMoreInfoManufacturer.equals()
-permalink: Java/PrinterMoreInfoManufacturer/equals
+permalink: /Java/PrinterMoreInfoManufacturer/equals/
 date: 2021-01-11
-key: JavaJava.P.PrinterMoreInfoManufacturer
+key: Java.P.PrinterMoreInfoManufacturer
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PrintService.addPrintServiceAttributeListener()
-permalink: Java/PrintService-javax-print/addPrintServiceAttributeListener
+permalink: /Java/PrintService-javax-print/addPrintServiceAttributeListener/
 date: 2021-01-11
-key: JavaJava.P.PrintService-javax-print
+key: Java.P.PrintService-javax-print
 category: java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

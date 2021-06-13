@@ -1,8 +1,8 @@
 ---
 title: LongPredicate.negate()
-permalink: Java/LongPredicate/negate
+permalink: /Java/LongPredicate/negate/
 date: 2021-01-11
-key: JavaJava.L.LongPredicate
+key: Java.L.LongPredicate
 category: java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

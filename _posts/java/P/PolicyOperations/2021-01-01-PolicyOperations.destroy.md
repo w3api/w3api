@@ -1,8 +1,8 @@
 ---
 title: PolicyOperations.destroy()
-permalink: Java/PolicyOperations/destroy
+permalink: /Java/PolicyOperations/destroy/
 date: 2021-01-11
-key: JavaJava.P.PolicyOperations
+key: Java.P.PolicyOperations
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PrimitiveType
-permalink: Java/PrimitiveType/
+permalink: /Java/PrimitiveType//
 date: 2021-01-11
-key: JavaJava.P.PrimitiveType
+key: Java.P.PrimitiveType
 category: java
 tags: ['java se']
 sidebar: 

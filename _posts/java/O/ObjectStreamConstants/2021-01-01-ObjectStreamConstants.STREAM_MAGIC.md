@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.STREAM_MAGIC
-permalink: Java/ObjectStreamConstants/STREAM_MAGIC
+permalink: /Java/ObjectStreamConstants/STREAM_MAGIC/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

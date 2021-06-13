@@ -1,8 +1,8 @@
 ---
 title: Parameterizable
-permalink: Java/Parameterizable
+permalink: /Java/Parameterizable/
 date: 2021-01-11
-key: JavaJava.P.Parameterizable
+key: Java.P.Parameterizable
 category: java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'interface java', 'Java 1.7']
 sidebar: 

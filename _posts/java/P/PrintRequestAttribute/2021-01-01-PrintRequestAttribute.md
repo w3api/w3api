@@ -1,8 +1,8 @@
 ---
 title: PrintRequestAttribute
-permalink: Java/PrintRequestAttribute
+permalink: /Java/PrintRequestAttribute/
 date: 2021-01-11
-key: JavaJava.P.PrintRequestAttribute
+key: Java.P.PrintRequestAttribute
 category: java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

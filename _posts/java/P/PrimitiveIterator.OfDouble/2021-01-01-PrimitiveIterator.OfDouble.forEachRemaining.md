@@ -1,8 +1,8 @@
 ---
 title: PrimitiveIterator.OfDouble.forEachRemaining()
-permalink: Java/PrimitiveIterator/OfDouble/forEachRemaining
+permalink: /Java/PrimitiveIterator/OfDouble/forEachRemaining/
 date: 2021-01-11
-key: JavaJava.P.PrimitiveIterator.OfDouble
+key: Java.P.PrimitiveIterator.OfDouble
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

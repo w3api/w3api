@@ -1,8 +1,8 @@
 ---
 title: Principal.equals()
-permalink: Java/Principal-java-security/equals
+permalink: /Java/Principal-java-security/equals/
 date: 2021-01-11
-key: JavaJava.P.Principal-java-security
+key: Java.P.Principal-java-security
 category: java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

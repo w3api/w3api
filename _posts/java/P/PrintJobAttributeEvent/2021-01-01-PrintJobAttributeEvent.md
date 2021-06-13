@@ -1,8 +1,8 @@
 ---
 title: PrintJobAttributeEvent
-permalink: Java/PrintJobAttributeEvent
+permalink: /Java/PrintJobAttributeEvent/
 date: 2021-01-11
-key: JavaJava.P.PrintJobAttributeEvent
+key: Java.P.PrintJobAttributeEvent
 category: java
 tags: ['java se', 'javax.print.event', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

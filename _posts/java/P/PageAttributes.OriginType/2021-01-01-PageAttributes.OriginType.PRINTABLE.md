@@ -1,8 +1,8 @@
 ---
 title: PageAttributes.OriginType.PRINTABLE
-permalink: Java/PageAttributes/OriginType/PRINTABLE
+permalink: /Java/PageAttributes/OriginType/PRINTABLE/
 date: 2021-01-11
-key: JavaJava.P.PageAttributes.OriginType
+key: Java.P.PageAttributes.OriginType
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 

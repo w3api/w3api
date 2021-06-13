@@ -1,8 +1,8 @@
 ---
 title: PermissionCollection.isReadOnly()
-permalink: Java/PermissionCollection/isReadOnly
+permalink: /Java/PermissionCollection/isReadOnly/
 date: 2021-01-11
-key: JavaJava.P.PermissionCollection
+key: Java.P.PermissionCollection
 category: java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

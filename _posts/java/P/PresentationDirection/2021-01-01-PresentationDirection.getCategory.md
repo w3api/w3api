@@ -1,8 +1,8 @@
 ---
 title: PresentationDirection.getCategory()
-permalink: Java/PresentationDirection/getCategory
+permalink: /Java/PresentationDirection/getCategory/
 date: 2021-01-11
-key: JavaJava.P.PresentationDirection
+key: Java.P.PresentationDirection
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

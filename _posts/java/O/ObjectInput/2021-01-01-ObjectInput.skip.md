@@ -1,6 +1,6 @@
 ---
 title: ObjectInput.skip()
-permalink: Java/ObjectInput/skip
+permalink: /Java/ObjectInput/skip/
 date: 2021-01-11
 key: JavaJava.O.ObjectInput
 category: java

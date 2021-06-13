@@ -1,8 +1,8 @@
 ---
 title: PRIVATE_MEMBER.value
-permalink: Java/PRIVATE_MEMBER/value
+permalink: /Java/PRIVATE_MEMBER/value/
 date: 2021-01-11
-key: JavaJava.P.PRIVATE_MEMBER
+key: Java.P.PRIVATE_MEMBER
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

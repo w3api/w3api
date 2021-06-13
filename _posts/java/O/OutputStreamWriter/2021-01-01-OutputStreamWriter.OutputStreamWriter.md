@@ -1,6 +1,6 @@
 ---
 title: OutputStreamWriter.OutputStreamWriter()
-permalink: Java/OutputStreamWriter/OutputStreamWriter
+permalink: /Java/OutputStreamWriter/OutputStreamWriter/
 date: 2021-01-11
 key: JavaJava.O.OutputStreamWriter
 category: java

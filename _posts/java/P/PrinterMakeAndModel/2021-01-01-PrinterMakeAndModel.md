@@ -1,8 +1,8 @@
 ---
 title: PrinterMakeAndModel
-permalink: Java/PrinterMakeAndModel
+permalink: /Java/PrinterMakeAndModel/
 date: 2021-01-11
-key: JavaJava.P.PrinterMakeAndModel
+key: Java.P.PrinterMakeAndModel
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

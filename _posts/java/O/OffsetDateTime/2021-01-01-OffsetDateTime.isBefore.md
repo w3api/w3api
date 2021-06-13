@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.isBefore()
-permalink: Java/OffsetDateTime/isBefore
+permalink: /Java/OffsetDateTime/isBefore/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

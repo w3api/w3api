@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanOperationInfo.getName()
-permalink: Java/OpenMBeanOperationInfo/getName
+permalink: /Java/OpenMBeanOperationInfo/getName/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanOperationInfo
 category: java

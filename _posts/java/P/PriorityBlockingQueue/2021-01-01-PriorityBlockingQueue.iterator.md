@@ -1,8 +1,8 @@
 ---
 title: PriorityBlockingQueue.iterator()
-permalink: Java/PriorityBlockingQueue/iterator
+permalink: /Java/PriorityBlockingQueue/iterator/
 date: 2021-01-11
-key: JavaJava.P.PriorityBlockingQueue
+key: Java.P.PriorityBlockingQueue
 category: java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

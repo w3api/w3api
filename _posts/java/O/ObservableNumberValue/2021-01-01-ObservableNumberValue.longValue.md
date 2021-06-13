@@ -1,6 +1,6 @@
 ---
 title: ObservableNumberValue.longValue()
-permalink: Java/ObservableNumberValue/longValue
+permalink: /Java/ObservableNumberValue/longValue/
 date: 2021-01-11
 key: JavaJava.O.ObservableNumberValue
 category: java

@@ -1,6 +1,6 @@
 ---
 title: OptionalDataException.length
-permalink: Java/OptionalDataException/length
+permalink: /Java/OptionalDataException/length/
 date: 2021-01-11
 key: JavaJava.O.OptionalDataException
 category: java

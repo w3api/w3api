@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanInfo.getClassName()
-permalink: Java/OpenMBeanInfo/getClassName
+permalink: /Java/OpenMBeanInfo/getClassName/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanInfo
 category: java

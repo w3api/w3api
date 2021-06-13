@@ -2,7 +2,7 @@
 title: LockSupport
 permalink: Java/LockSupport
 date: 2021-01-11
-key: JavaJava.L.LockSupport
+key: Java.L.LockSupport
 category: java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 

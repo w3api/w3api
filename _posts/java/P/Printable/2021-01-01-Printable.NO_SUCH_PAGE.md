@@ -1,8 +1,8 @@
 ---
 title: Printable.NO_SUCH_PAGE
-permalink: Java/Printable/NO_SUCH_PAGE
+permalink: /Java/Printable/NO_SUCH_PAGE/
 date: 2021-01-11
-key: JavaJava.P.Printable
+key: Java.P.Printable
 category: java
 tags: ['java se', 'java.awt.print', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

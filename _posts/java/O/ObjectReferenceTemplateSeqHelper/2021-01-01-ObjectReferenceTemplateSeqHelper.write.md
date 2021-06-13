@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceTemplateSeqHelper.write()
-permalink: Java/ObjectReferenceTemplateSeqHelper/write
+permalink: /Java/ObjectReferenceTemplateSeqHelper/write/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceTemplateSeqHelper
 category: java

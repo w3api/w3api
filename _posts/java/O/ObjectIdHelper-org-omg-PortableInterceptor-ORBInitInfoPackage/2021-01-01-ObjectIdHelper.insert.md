@@ -1,6 +1,6 @@
 ---
 title: ObjectIdHelper.insert()
-permalink: Java/ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage/insert
+permalink: /Java/ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage/insert/
 date: 2021-01-11
 key: JavaJava.O.ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage
 category: java

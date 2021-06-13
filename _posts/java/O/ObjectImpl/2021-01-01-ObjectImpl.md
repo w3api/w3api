@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl
-permalink: Java/ObjectImpl/
+permalink: /Java/ObjectImpl//
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl
 category: java

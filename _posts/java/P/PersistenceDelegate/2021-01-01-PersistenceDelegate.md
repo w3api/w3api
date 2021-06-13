@@ -1,8 +1,8 @@
 ---
 title: PersistenceDelegate
-permalink: Java/PersistenceDelegate
+permalink: /Java/PersistenceDelegate/
 date: 2021-01-11
-key: JavaJava.P.PersistenceDelegate
+key: Java.P.PersistenceDelegate
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 

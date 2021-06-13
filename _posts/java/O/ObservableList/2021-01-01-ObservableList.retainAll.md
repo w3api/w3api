@@ -1,6 +1,6 @@
 ---
 title: ObservableList.retainAll()
-permalink: Java/ObservableList/retainAll
+permalink: /Java/ObservableList/retainAll/
 date: 2021-01-11
 key: JavaJava.O.ObservableList
 category: java

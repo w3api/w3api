@@ -1,8 +1,8 @@
 ---
 title: ProcessBuilder.Redirect.Type.APPEND
-permalink: Java/ProcessBuilder/Redirect/Type/APPEND
+permalink: /Java/ProcessBuilder/Redirect/Type/APPEND/
 date: 2021-01-11
-key: JavaJava.P.ProcessBuilder.Redirect.Type
+key: Java.P.ProcessBuilder.Redirect.Type
 category: java
 tags: ['java se', 'java.lang', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PolicyQualifierInfo
-permalink: Java/PolicyQualifierInfo
+permalink: /Java/PolicyQualifierInfo/
 date: 2021-01-11
-key: JavaJava.P.PolicyQualifierInfo
+key: Java.P.PolicyQualifierInfo
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: LongExpression.longExpression()
-permalink: Java/LongExpression/longExpression
+permalink: /Java/LongExpression/longExpression/
 date: 2021-01-11
-key: JavaJava.L.LongExpression
+key: Java.L.LongExpression
 category: java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

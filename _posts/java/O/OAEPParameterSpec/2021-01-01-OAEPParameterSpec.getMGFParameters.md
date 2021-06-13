@@ -1,6 +1,6 @@
 ---
 title: OAEPParameterSpec.getMGFParameters()
-permalink: Java/OAEPParameterSpec/getMGFParameters
+permalink: /Java/OAEPParameterSpec/getMGFParameters/
 date: 2021-01-11
 key: JavaJava.O.OAEPParameterSpec
 category: java

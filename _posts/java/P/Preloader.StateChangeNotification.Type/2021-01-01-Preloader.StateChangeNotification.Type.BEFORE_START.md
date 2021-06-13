@@ -1,8 +1,8 @@
 ---
 title: Preloader.StateChangeNotification.Type.BEFORE_START
-permalink: Java/Preloader/StateChangeNotification/Type/BEFORE_START
+permalink: /Java/Preloader/StateChangeNotification/Type/BEFORE_START/
 date: 2021-01-11
-key: JavaJava.P.Preloader.StateChangeNotification.Type
+key: Java.P.Preloader.StateChangeNotification.Type
 category: java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.defaultReadObject()
-permalink: Java/ObjectInputStream/defaultReadObject
+permalink: /Java/ObjectInputStream/defaultReadObject/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ObservableListBase.beginChange()
-permalink: Java/ObservableListBase/beginChange
+permalink: /Java/ObservableListBase/beginChange/
 date: 2021-01-11
 key: JavaJava.O.ObservableListBase
 category: java

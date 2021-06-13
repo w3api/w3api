@@ -1,8 +1,8 @@
 ---
 title: Pagination.STYLE_CLASS_BULLET
-permalink: Java/Pagination/STYLE_CLASS_BULLET
+permalink: /Java/Pagination/STYLE_CLASS_BULLET/
 date: 2021-01-11
-key: JavaJava.P.Pagination
+key: Java.P.Pagination
 category: java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 2.2']
 sidebar: 

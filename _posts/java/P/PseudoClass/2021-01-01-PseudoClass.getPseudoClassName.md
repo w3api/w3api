@@ -1,8 +1,8 @@
 ---
 title: PseudoClass.getPseudoClassName()
-permalink: Java/PseudoClass/getPseudoClassName
+permalink: /Java/PseudoClass/getPseudoClassName/
 date: 2021-01-11
-key: JavaJava.P.PseudoClass
+key: Java.P.PseudoClass
 category: java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

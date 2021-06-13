@@ -1,6 +1,6 @@
 ---
 title: OperationsException
-permalink: Java/OperationsException
+permalink: /Java/OperationsException/
 date: 2021-01-11
 key: JavaJava.O.OperationsException
 category: java

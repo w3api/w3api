@@ -2,7 +2,7 @@
 title: RMIJRMPServerImpl.makeClient()
 permalink: Java/RMIJRMPServerImpl/makeClient
 date: 2021-01-11
-key: JavaJava.R.RMIJRMPServerImpl
+key: Java.R.RMIJRMPServerImpl
 category: java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'metodo java', 'Java 1.5']
 sidebar: 

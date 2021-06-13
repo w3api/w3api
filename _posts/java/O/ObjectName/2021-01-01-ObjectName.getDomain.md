@@ -1,6 +1,6 @@
 ---
 title: ObjectName.getDomain()
-permalink: Java/ObjectName/getDomain
+permalink: /Java/ObjectName/getDomain/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

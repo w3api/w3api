@@ -1,8 +1,8 @@
 ---
 title: ParagraphView
-permalink: Java/ParagraphView/
+permalink: /Java/ParagraphView//
 date: 2021-01-11
-key: JavaJava.P.ParagraphView
+key: Java.P.ParagraphView
 category: java
 tags: ['java se']
 sidebar: 

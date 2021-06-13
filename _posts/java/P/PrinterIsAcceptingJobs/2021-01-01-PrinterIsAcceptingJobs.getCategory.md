@@ -1,8 +1,8 @@
 ---
 title: PrinterIsAcceptingJobs.getCategory()
-permalink: Java/PrinterIsAcceptingJobs/getCategory
+permalink: /Java/PrinterIsAcceptingJobs/getCategory/
 date: 2021-01-11
-key: JavaJava.P.PrinterIsAcceptingJobs
+key: Java.P.PrinterIsAcceptingJobs
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

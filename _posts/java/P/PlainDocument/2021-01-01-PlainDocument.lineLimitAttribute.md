@@ -1,8 +1,8 @@
 ---
 title: PlainDocument.lineLimitAttribute
-permalink: Java/PlainDocument/lineLimitAttribute
+permalink: /Java/PlainDocument/lineLimitAttribute/
 date: 2021-01-11
-key: JavaJava.P.PlainDocument
+key: Java.P.PlainDocument
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

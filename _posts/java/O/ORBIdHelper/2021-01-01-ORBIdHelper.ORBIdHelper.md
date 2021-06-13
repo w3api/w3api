@@ -1,6 +1,6 @@
 ---
 title: ORBIdHelper.ORBIdHelper()
-permalink: Java/ORBIdHelper/ORBIdHelper
+permalink: /Java/ORBIdHelper/ORBIdHelper/
 date: 2021-01-11
 key: JavaJava.O.ORBIdHelper
 category: java

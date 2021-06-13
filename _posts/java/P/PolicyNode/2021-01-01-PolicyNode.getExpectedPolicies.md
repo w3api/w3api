@@ -1,8 +1,8 @@
 ---
 title: PolicyNode.getExpectedPolicies()
-permalink: Java/PolicyNode/getExpectedPolicies
+permalink: /Java/PolicyNode/getExpectedPolicies/
 date: 2021-01-11
-key: JavaJava.P.PolicyNode
+key: Java.P.PolicyNode
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PopupControl.setMaxHeight()
-permalink: Java/PopupControl/setMaxHeight
+permalink: /Java/PopupControl/setMaxHeight/
 date: 2021-01-11
-key: JavaJava.P.PopupControl
+key: Java.P.PopupControl
 category: java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanOperationInfoSupport.hashCode()
-permalink: Java/OpenMBeanOperationInfoSupport/hashCode
+permalink: /Java/OpenMBeanOperationInfoSupport/hashCode/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanOperationInfoSupport
 category: java

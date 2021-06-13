@@ -1,6 +1,6 @@
 ---
 title: OptionChecker
-permalink: Java/OptionChecker
+permalink: /Java/OptionChecker/
 date: 2021-01-11
 key: JavaJava.O.OptionChecker
 category: java

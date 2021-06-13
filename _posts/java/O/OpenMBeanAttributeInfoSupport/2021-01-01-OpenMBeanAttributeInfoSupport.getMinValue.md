@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanAttributeInfoSupport.getMinValue()
-permalink: Java/OpenMBeanAttributeInfoSupport/getMinValue
+permalink: /Java/OpenMBeanAttributeInfoSupport/getMinValue/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanAttributeInfoSupport
 category: java

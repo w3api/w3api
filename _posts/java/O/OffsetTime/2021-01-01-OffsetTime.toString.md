@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.toString()
-permalink: Java/OffsetTime/toString
+permalink: /Java/OffsetTime/toString/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

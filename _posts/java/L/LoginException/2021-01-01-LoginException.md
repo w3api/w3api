@@ -2,7 +2,7 @@
 title: LoginException
 permalink: Java/LoginException
 date: 2021-01-11
-key: JavaJava.L.LoginException
+key: Java.L.LoginException
 category: java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

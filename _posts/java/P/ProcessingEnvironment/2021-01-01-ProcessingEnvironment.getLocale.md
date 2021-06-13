@@ -1,8 +1,8 @@
 ---
 title: ProcessingEnvironment.getLocale()
-permalink: Java/ProcessingEnvironment/getLocale
+permalink: /Java/ProcessingEnvironment/getLocale/
 date: 2021-01-11
-key: JavaJava.P.ProcessingEnvironment
+key: Java.P.ProcessingEnvironment
 category: java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

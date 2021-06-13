@@ -1,8 +1,8 @@
 ---
 title: ParallelCamera
-permalink: Java/ParallelCamera
+permalink: /Java/ParallelCamera/
 date: 2021-01-11
-key: JavaJava.P.ParallelCamera
+key: Java.P.ParallelCamera
 category: java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 

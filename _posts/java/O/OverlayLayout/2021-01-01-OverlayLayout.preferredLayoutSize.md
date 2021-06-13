@@ -1,6 +1,6 @@
 ---
 title: OverlayLayout.preferredLayoutSize()
-permalink: Java/OverlayLayout/preferredLayoutSize
+permalink: /Java/OverlayLayout/preferredLayoutSize/
 date: 2021-01-11
 key: JavaJava.O.OverlayLayout
 category: java

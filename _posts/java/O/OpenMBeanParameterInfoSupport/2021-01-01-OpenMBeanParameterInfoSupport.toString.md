@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanParameterInfoSupport.toString()
-permalink: Java/OpenMBeanParameterInfoSupport/toString
+permalink: /Java/OpenMBeanParameterInfoSupport/toString/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanParameterInfoSupport
 category: java

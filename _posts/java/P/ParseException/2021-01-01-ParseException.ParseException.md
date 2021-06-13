@@ -1,8 +1,8 @@
 ---
 title: ParseException.ParseException()
-permalink: Java/ParseException/ParseException
+permalink: /Java/ParseException/ParseException/
 date: 2021-01-11
-key: JavaJava.P.ParseException
+key: Java.P.ParseException
 category: java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

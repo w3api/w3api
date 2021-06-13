@@ -1,6 +1,6 @@
 ---
 title: ORBInitializerOperations
-permalink: Java/ORBInitializerOperations
+permalink: /Java/ORBInitializerOperations/
 date: 2021-01-11
 key: JavaJava.O.ORBInitializerOperations
 category: java

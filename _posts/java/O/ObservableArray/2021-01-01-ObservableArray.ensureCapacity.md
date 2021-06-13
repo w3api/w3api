@@ -1,6 +1,6 @@
 ---
 title: ObservableArray.ensureCapacity()
-permalink: Java/ObservableArray/ensureCapacity
+permalink: /Java/ObservableArray/ensureCapacity/
 date: 2021-01-11
 key: JavaJava.O.ObservableArray
 category: java

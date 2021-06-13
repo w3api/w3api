@@ -2,7 +2,7 @@
 title: RMIConnection
 permalink: Java/RMIConnection
 date: 2021-01-11
-key: JavaJava.R.RMIConnection
+key: Java.R.RMIConnection
 category: java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'interface java', 'Java 1.5']
 sidebar: 

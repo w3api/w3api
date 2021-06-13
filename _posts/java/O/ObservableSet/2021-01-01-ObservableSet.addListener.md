@@ -1,6 +1,6 @@
 ---
 title: ObservableSet.addListener()
-permalink: Java/ObservableSet/addListener
+permalink: /Java/ObservableSet/addListener/
 date: 2021-01-11
 key: JavaJava.O.ObservableSet
 category: java

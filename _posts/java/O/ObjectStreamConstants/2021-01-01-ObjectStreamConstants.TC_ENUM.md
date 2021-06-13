@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.TC_ENUM
-permalink: Java/ObjectStreamConstants/TC_ENUM
+permalink: /Java/ObjectStreamConstants/TC_ENUM/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

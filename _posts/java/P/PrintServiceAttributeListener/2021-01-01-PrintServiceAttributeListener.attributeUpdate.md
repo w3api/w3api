@@ -1,8 +1,8 @@
 ---
 title: PrintServiceAttributeListener.attributeUpdate()
-permalink: Java/PrintServiceAttributeListener/attributeUpdate
+permalink: /Java/PrintServiceAttributeListener/attributeUpdate/
 date: 2021-01-11
-key: JavaJava.P.PrintServiceAttributeListener
+key: Java.P.PrintServiceAttributeListener
 category: java
 tags: ['java se', 'javax.print.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

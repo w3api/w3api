@@ -1,6 +1,6 @@
 ---
 title: OceanTheme.getName()
-permalink: Java/OceanTheme/getName
+permalink: /Java/OceanTheme/getName/
 date: 2021-01-11
 key: JavaJava.O.OceanTheme
 category: java

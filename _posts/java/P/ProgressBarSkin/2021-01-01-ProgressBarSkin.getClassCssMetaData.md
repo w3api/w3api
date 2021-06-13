@@ -1,8 +1,8 @@
 ---
 title: ProgressBarSkin.getClassCssMetaData()
-permalink: Java/ProgressBarSkin/getClassCssMetaData
+permalink: /Java/ProgressBarSkin/getClassCssMetaData/
 date: 2021-01-11
-key: JavaJava.P.ProgressBarSkin
+key: Java.P.ProgressBarSkin
 category: java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 

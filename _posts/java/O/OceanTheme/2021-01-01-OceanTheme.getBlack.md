@@ -1,6 +1,6 @@
 ---
 title: OceanTheme.getBlack()
-permalink: Java/OceanTheme/getBlack
+permalink: /Java/OceanTheme/getBlack/
 date: 2021-01-11
 key: JavaJava.O.OceanTheme
 category: java

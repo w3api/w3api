@@ -1,8 +1,8 @@
 ---
 title: PropertyEditorSupport.PropertyEditorSupport()
-permalink: Java/PropertyEditorSupport/PropertyEditorSupport
+permalink: /Java/PropertyEditorSupport/PropertyEditorSupport/
 date: 2021-01-11
-key: JavaJava.P.PropertyEditorSupport
+key: Java.P.PropertyEditorSupport
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

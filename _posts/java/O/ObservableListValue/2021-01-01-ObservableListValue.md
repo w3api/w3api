@@ -1,6 +1,6 @@
 ---
 title: ObservableListValue
-permalink: Java/ObservableListValue
+permalink: /Java/ObservableListValue/
 date: 2021-01-11
 key: JavaJava.O.ObservableListValue
 category: java

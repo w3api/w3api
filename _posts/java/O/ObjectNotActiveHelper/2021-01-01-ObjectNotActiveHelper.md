@@ -1,6 +1,6 @@
 ---
 title: ObjectNotActiveHelper
-permalink: Java/ObjectNotActiveHelper
+permalink: /Java/ObjectNotActiveHelper/
 date: 2021-01-11
 key: JavaJava.O.ObjectNotActiveHelper
 category: java

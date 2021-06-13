@@ -2,7 +2,7 @@
 title: RMIServer.newClient()
 permalink: Java/RMIServer/newClient
 date: 2021-01-11
-key: JavaJava.R.RMIServer
+key: Java.R.RMIServer
 category: java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'metodo java', 'Java 1.5']
 sidebar: 

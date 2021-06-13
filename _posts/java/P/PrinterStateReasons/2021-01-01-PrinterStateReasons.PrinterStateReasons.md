@@ -1,8 +1,8 @@
 ---
 title: PrinterStateReasons.PrinterStateReasons()
-permalink: Java/PrinterStateReasons/PrinterStateReasons
+permalink: /Java/PrinterStateReasons/PrinterStateReasons/
 date: 2021-01-11
-key: JavaJava.P.PrinterStateReasons
+key: Java.P.PrinterStateReasons
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

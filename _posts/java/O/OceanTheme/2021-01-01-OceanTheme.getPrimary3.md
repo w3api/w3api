@@ -1,6 +1,6 @@
 ---
 title: OceanTheme.getPrimary3()
-permalink: Java/OceanTheme/getPrimary3
+permalink: /Java/OceanTheme/getPrimary3/
 date: 2021-01-11
 key: JavaJava.O.OceanTheme
 category: java

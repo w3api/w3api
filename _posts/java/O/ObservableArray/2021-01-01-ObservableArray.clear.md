@@ -1,6 +1,6 @@
 ---
 title: ObservableArray.clear()
-permalink: Java/ObservableArray/clear
+permalink: /Java/ObservableArray/clear/
 date: 2021-01-11
 key: JavaJava.O.ObservableArray
 category: java

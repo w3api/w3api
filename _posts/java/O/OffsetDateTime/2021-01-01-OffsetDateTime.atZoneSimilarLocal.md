@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.atZoneSimilarLocal()
-permalink: Java/OffsetDateTime/atZoneSimilarLocal
+permalink: /Java/OffsetDateTime/atZoneSimilarLocal/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

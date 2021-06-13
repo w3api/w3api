@@ -1,8 +1,8 @@
 ---
 title: ProtocolException.ProtocolException()
-permalink: Java/ProtocolException-javax-xml-ws/ProtocolException
+permalink: /Java/ProtocolException-javax-xml-ws/ProtocolException/
 date: 2021-01-11
-key: JavaJava.P.ProtocolException-javax-xml-ws
+key: Java.P.ProtocolException-javax-xml-ws
 category: java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'metodo java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObjectReference.referringObjects()
-permalink: Java/ObjectReference/referringObjects
+permalink: /Java/ObjectReference/referringObjects/
 date: 2021-01-11
 key: JavaJava.O.ObjectReference
 category: java

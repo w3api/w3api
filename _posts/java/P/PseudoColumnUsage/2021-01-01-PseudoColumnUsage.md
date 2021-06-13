@@ -1,8 +1,8 @@
 ---
 title: PseudoColumnUsage
-permalink: Java/PseudoColumnUsage
+permalink: /Java/PseudoColumnUsage/
 date: 2021-01-11
-key: JavaJava.P.PseudoColumnUsage
+key: Java.P.PseudoColumnUsage
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'enumerado java', 'Java 1.7']
 sidebar: 

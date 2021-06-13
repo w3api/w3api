@@ -1,6 +1,6 @@
 ---
 title: OctetSeqHelper.extract()
-permalink: Java/OctetSeqHelper/extract
+permalink: /Java/OctetSeqHelper/extract/
 date: 2021-01-11
 key: JavaJava.O.OctetSeqHelper
 category: java

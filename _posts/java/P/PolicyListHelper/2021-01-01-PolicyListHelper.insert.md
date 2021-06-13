@@ -1,8 +1,8 @@
 ---
 title: PolicyListHelper.insert()
-permalink: Java/PolicyListHelper/insert
+permalink: /Java/PolicyListHelper/insert/
 date: 2021-01-11
-key: JavaJava.P.PolicyListHelper
+key: Java.P.PolicyListHelper
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

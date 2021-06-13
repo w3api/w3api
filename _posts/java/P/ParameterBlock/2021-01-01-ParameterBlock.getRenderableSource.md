@@ -1,8 +1,8 @@
 ---
 title: ParameterBlock.getRenderableSource()
-permalink: Java/ParameterBlock/getRenderableSource
+permalink: /Java/ParameterBlock/getRenderableSource/
 date: 2021-01-11
-key: JavaJava.P.ParameterBlock
+key: Java.P.ParameterBlock
 category: java
 tags: ['java se', 'java.awt.image.renderable', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

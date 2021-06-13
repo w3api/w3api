@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.resolveProxyClass()
-permalink: Java/ObjectInputStream/resolveProxyClass
+permalink: /Java/ObjectInputStream/resolveProxyClass/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

@@ -1,8 +1,8 @@
 ---
 title: Permission.Permission()
-permalink: Java/Permission-java-security/Permission
+permalink: /Java/Permission-java-security/Permission/
 date: 2021-01-11
-key: JavaJava.P.Permission-java-security
+key: Java.P.Permission-java-security
 category: java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

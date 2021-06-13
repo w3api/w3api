@@ -1,8 +1,8 @@
 ---
 title: PasswordView
-permalink: Java/PasswordView
+permalink: /Java/PasswordView/
 date: 2021-01-11
-key: JavaJava.P.PasswordView
+key: Java.P.PasswordView
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObjectProperty.toString()
-permalink: Java/ObjectProperty/toString
+permalink: /Java/ObjectProperty/toString/
 date: 2021-01-11
 key: JavaJava.O.ObjectProperty
 category: java

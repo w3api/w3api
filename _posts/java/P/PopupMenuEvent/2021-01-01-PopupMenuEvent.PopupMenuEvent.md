@@ -1,8 +1,8 @@
 ---
 title: PopupMenuEvent.PopupMenuEvent()
-permalink: Java/PopupMenuEvent/PopupMenuEvent
+permalink: /Java/PopupMenuEvent/PopupMenuEvent/
 date: 2021-01-11
-key: JavaJava.P.PopupMenuEvent
+key: Java.P.PopupMenuEvent
 category: java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

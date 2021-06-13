@@ -1,6 +1,6 @@
 ---
 title: OptionalDouble.hashCode()
-permalink: Java/OptionalDouble/hashCode
+permalink: /Java/OptionalDouble/hashCode/
 date: 2021-01-11
 key: JavaJava.O.OptionalDouble
 category: java

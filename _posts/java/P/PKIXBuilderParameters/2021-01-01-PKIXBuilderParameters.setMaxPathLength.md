@@ -1,8 +1,8 @@
 ---
 title: PKIXBuilderParameters.setMaxPathLength()
-permalink: Java/PKIXBuilderParameters/setMaxPathLength
+permalink: /Java/PKIXBuilderParameters/setMaxPathLength/
 date: 2021-01-11
-key: JavaJava.P.PKIXBuilderParameters
+key: Java.P.PKIXBuilderParameters
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

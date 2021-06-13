@@ -1,6 +1,6 @@
 ---
 title: OperatingSystemMXBean.getFreeSwapSpaceSize()
-permalink: Java/OperatingSystemMXBean-com-sun-management/getFreeSwapSpaceSize
+permalink: /Java/OperatingSystemMXBean-com-sun-management/getFreeSwapSpaceSize/
 date: 2021-01-11
 key: JavaJava.O.OperatingSystemMXBean-com-sun-management
 category: java

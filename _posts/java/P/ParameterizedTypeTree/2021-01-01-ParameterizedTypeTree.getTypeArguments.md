@@ -1,8 +1,8 @@
 ---
 title: ParameterizedTypeTree.getTypeArguments()
-permalink: Java/ParameterizedTypeTree/getTypeArguments
+permalink: /Java/ParameterizedTypeTree/getTypeArguments/
 date: 2021-01-11
-key: JavaJava.P.ParameterizedTypeTree
+key: Java.P.ParameterizedTypeTree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

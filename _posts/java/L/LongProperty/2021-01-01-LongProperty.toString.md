@@ -2,7 +2,7 @@
 title: LongProperty.toString()
 permalink: Java/LongProperty/toString
 date: 2021-01-11
-key: JavaJava.L.LongProperty
+key: Java.L.LongProperty
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

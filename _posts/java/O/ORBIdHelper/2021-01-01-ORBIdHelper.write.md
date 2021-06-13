@@ -1,6 +1,6 @@
 ---
 title: ORBIdHelper.write()
-permalink: Java/ORBIdHelper/write
+permalink: /Java/ORBIdHelper/write/
 date: 2021-01-11
 key: JavaJava.O.ORBIdHelper
 category: java

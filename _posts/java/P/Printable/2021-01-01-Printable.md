@@ -1,8 +1,8 @@
 ---
 title: Printable
-permalink: Java/Printable
+permalink: /Java/Printable/
 date: 2021-01-11
-key: JavaJava.P.Printable
+key: Java.P.Printable
 category: java
 tags: ['java se', 'java.awt.print', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

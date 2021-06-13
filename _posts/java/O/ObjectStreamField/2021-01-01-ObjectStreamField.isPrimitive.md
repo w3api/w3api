@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamField.isPrimitive()
-permalink: Java/ObjectStreamField/isPrimitive
+permalink: /Java/ObjectStreamField/isPrimitive/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamField
 category: java

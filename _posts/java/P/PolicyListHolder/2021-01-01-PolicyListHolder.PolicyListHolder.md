@@ -1,8 +1,8 @@
 ---
 title: PolicyListHolder.PolicyListHolder()
-permalink: Java/PolicyListHolder/PolicyListHolder
+permalink: /Java/PolicyListHolder/PolicyListHolder/
 date: 2021-01-11
-key: JavaJava.P.PolicyListHolder
+key: Java.P.PolicyListHolder
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

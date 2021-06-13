@@ -1,8 +1,8 @@
 ---
 title: PrivateClassLoader
-permalink: Java/PrivateClassLoader
+permalink: /Java/PrivateClassLoader/
 date: 2021-01-11
-key: JavaJava.P.PrivateClassLoader
+key: Java.P.PrivateClassLoader
 category: java
 tags: ['java se', 'javax.management.loading', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 

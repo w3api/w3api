@@ -1,8 +1,8 @@
 ---
 title: PrivilegedActionException.getException()
-permalink: Java/PrivilegedActionException/getException
+permalink: /Java/PrivilegedActionException/getException/
 date: 2021-01-11
-key: JavaJava.P.PrivilegedActionException
+key: Java.P.PrivilegedActionException
 category: java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

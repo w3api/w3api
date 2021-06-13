@@ -1,8 +1,8 @@
 ---
 title: PlainView.drawLine()
-permalink: Java/PlainView/drawLine
+permalink: /Java/PlainView/drawLine/
 date: 2021-01-11
-key: JavaJava.P.PlainView
+key: Java.P.PlainView
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

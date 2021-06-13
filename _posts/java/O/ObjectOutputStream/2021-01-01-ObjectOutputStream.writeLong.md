@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.writeLong()
-permalink: Java/ObjectOutputStream/writeLong
+permalink: /Java/ObjectOutputStream/writeLong/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

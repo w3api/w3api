@@ -1,6 +1,6 @@
 ---
 title: ObjectExpression.isNull()
-permalink: Java/ObjectExpression/isNull
+permalink: /Java/ObjectExpression/isNull/
 date: 2021-01-11
 key: JavaJava.O.ObjectExpression
 category: java

@@ -1,6 +1,6 @@
 ---
 title: OptionalInt.empty()
-permalink: Java/OptionalInt/empty
+permalink: /Java/OptionalInt/empty/
 date: 2021-01-11
 key: JavaJava.O.OptionalInt
 category: java

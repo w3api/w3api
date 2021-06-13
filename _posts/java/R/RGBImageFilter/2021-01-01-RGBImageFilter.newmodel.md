@@ -2,7 +2,7 @@
 title: RGBImageFilter.newmodel
 permalink: Java/RGBImageFilter/newmodel
 date: 2021-01-11
-key: JavaJava.R.RGBImageFilter
+key: Java.R.RGBImageFilter
 category: java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

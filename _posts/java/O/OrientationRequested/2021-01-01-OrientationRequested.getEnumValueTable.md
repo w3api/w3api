@@ -1,6 +1,6 @@
 ---
 title: OrientationRequested.getEnumValueTable()
-permalink: Java/OrientationRequested/getEnumValueTable
+permalink: /Java/OrientationRequested/getEnumValueTable/
 date: 2021-01-11
 key: JavaJava.O.OrientationRequested
 category: java

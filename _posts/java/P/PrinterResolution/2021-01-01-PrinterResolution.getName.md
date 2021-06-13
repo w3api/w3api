@@ -1,8 +1,8 @@
 ---
 title: PrinterResolution.getName()
-permalink: Java/PrinterResolution/getName
+permalink: /Java/PrinterResolution/getName/
 date: 2021-01-11
-key: JavaJava.P.PrinterResolution
+key: Java.P.PrinterResolution
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

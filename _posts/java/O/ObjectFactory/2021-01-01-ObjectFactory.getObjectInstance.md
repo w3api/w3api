@@ -1,6 +1,6 @@
 ---
 title: ObjectFactory.getObjectInstance()
-permalink: Java/ObjectFactory/getObjectInstance
+permalink: /Java/ObjectFactory/getObjectInstance/
 date: 2021-01-11
 key: JavaJava.O.ObjectFactory
 category: java

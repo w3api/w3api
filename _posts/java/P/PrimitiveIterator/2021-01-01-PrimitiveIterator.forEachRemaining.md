@@ -1,8 +1,8 @@
 ---
 title: PrimitiveIterator.forEachRemaining()
-permalink: Java/PrimitiveIterator/forEachRemaining
+permalink: /Java/PrimitiveIterator/forEachRemaining/
 date: 2021-01-11
-key: JavaJava.P.PrimitiveIterator
+key: Java.P.PrimitiveIterator
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

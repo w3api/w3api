@@ -1,6 +1,6 @@
 ---
 title: OutputStream.write()
-permalink: Java/OutputStream-java-io/write
+permalink: /Java/OutputStream-java-io/write/
 date: 2021-01-11
 key: JavaJava.O.OutputStream-java-io
 category: java

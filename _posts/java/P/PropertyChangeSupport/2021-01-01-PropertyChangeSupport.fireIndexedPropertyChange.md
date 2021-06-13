@@ -1,8 +1,8 @@
 ---
 title: PropertyChangeSupport.fireIndexedPropertyChange()
-permalink: Java/PropertyChangeSupport/fireIndexedPropertyChange
+permalink: /Java/PropertyChangeSupport/fireIndexedPropertyChange/
 date: 2021-01-11
-key: JavaJava.P.PropertyChangeSupport
+key: Java.P.PropertyChangeSupport
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

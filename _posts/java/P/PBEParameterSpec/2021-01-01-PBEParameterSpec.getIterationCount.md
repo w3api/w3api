@@ -1,8 +1,8 @@
 ---
 title: PBEParameterSpec.getIterationCount()
-permalink: Java/PBEParameterSpec/getIterationCount
+permalink: /Java/PBEParameterSpec/getIterationCount/
 date: 2021-01-11
-key: JavaJava.P.PBEParameterSpec
+key: Java.P.PBEParameterSpec
 category: java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

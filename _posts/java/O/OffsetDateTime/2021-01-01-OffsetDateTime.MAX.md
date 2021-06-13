@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.MAX
-permalink: Java/OffsetDateTime/MAX
+permalink: /Java/OffsetDateTime/MAX/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

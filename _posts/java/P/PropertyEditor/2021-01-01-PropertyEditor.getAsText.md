@@ -1,8 +1,8 @@
 ---
 title: PropertyEditor.getAsText()
-permalink: Java/PropertyEditor/getAsText
+permalink: /Java/PropertyEditor/getAsText/
 date: 2021-01-11
-key: JavaJava.P.PropertyEditor
+key: Java.P.PropertyEditor
 category: java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

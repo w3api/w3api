@@ -1,8 +1,8 @@
 ---
 title: ProcessingEnvironment.getOptions()
-permalink: Java/ProcessingEnvironment/getOptions
+permalink: /Java/ProcessingEnvironment/getOptions/
 date: 2021-01-11
-key: JavaJava.P.ProcessingEnvironment
+key: Java.P.ProcessingEnvironment
 category: java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

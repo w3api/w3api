@@ -1,6 +1,6 @@
 ---
 title: OAEPParameterSpec.getDigestAlgorithm()
-permalink: Java/OAEPParameterSpec/getDigestAlgorithm
+permalink: /Java/OAEPParameterSpec/getDigestAlgorithm/
 date: 2021-01-11
 key: JavaJava.O.OAEPParameterSpec
 category: java

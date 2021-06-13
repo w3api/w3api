@@ -1,8 +1,8 @@
 ---
 title: PropertyResourceBundle
-permalink: Java/PropertyResourceBundle
+permalink: /Java/PropertyResourceBundle/
 date: 2021-01-11
-key: JavaJava.P.PropertyResourceBundle
+key: Java.P.PropertyResourceBundle
 category: java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 

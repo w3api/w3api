@@ -1,8 +1,8 @@
 ---
 title: PrivilegedAction.run()
-permalink: Java/PrivilegedAction/run
+permalink: /Java/PrivilegedAction/run/
 date: 2021-01-11
-key: JavaJava.P.PrivilegedAction
+key: Java.P.PrivilegedAction
 category: java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

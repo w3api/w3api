@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.TC_BLOCKDATA
-permalink: Java/ObjectStreamConstants/TC_BLOCKDATA
+permalink: /Java/ObjectStreamConstants/TC_BLOCKDATA/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

@@ -1,6 +1,6 @@
 ---
 title: ObjectBinding.getDependencies()
-permalink: Java/ObjectBinding/getDependencies
+permalink: /Java/ObjectBinding/getDependencies/
 date: 2021-01-11
 key: JavaJava.O.ObjectBinding
 category: java

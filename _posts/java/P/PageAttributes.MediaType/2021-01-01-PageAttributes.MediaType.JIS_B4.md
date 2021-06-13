@@ -1,8 +1,8 @@
 ---
 title: PageAttributes.MediaType.JIS_B4
-permalink: Java/PageAttributes/MediaType/JIS_B4
+permalink: /Java/PageAttributes/MediaType/JIS_B4/
 date: 2021-01-11
-key: JavaJava.P.PageAttributes.MediaType
+key: Java.P.PageAttributes.MediaType
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 

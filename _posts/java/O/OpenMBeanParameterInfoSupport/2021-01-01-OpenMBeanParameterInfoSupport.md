@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanParameterInfoSupport
-permalink: Java/OpenMBeanParameterInfoSupport
+permalink: /Java/OpenMBeanParameterInfoSupport/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanParameterInfoSupport
 category: java

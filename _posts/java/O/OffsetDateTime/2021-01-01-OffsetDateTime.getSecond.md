@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.getSecond()
-permalink: Java/OffsetDateTime/getSecond
+permalink: /Java/OffsetDateTime/getSecond/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

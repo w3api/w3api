@@ -1,6 +1,6 @@
 ---
 title: ORBInitializer
-permalink: Java/ORBInitializer
+permalink: /Java/ORBInitializer/
 date: 2021-01-11
 key: JavaJava.O.ORBInitializer
 category: java

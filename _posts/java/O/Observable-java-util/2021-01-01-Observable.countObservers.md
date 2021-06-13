@@ -1,6 +1,6 @@
 ---
 title: Observable.countObservers()
-permalink: Java/Observable-java-util/countObservers
+permalink: /Java/Observable-java-util/countObservers/
 date: 2021-01-11
 key: JavaJava.O.Observable-java-util
 category: java

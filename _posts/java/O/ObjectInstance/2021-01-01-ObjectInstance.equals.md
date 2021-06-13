@@ -1,6 +1,6 @@
 ---
 title: ObjectInstance.equals()
-permalink: Java/ObjectInstance/equals
+permalink: /Java/ObjectInstance/equals/
 date: 2021-01-11
 key: JavaJava.O.ObjectInstance
 category: java

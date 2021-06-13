@@ -1,6 +1,6 @@
 ---
 title: ObjectExpression
-permalink: Java/ObjectExpression
+permalink: /Java/ObjectExpression/
 date: 2021-01-11
 key: JavaJava.O.ObjectExpression
 category: java

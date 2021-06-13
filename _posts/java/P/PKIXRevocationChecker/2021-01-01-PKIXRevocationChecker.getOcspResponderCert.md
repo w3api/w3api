@@ -1,8 +1,8 @@
 ---
 title: PKIXRevocationChecker.getOcspResponderCert()
-permalink: Java/PKIXRevocationChecker/getOcspResponderCert
+permalink: /Java/PKIXRevocationChecker/getOcspResponderCert/
 date: 2021-01-11
-key: JavaJava.P.PKIXRevocationChecker
+key: Java.P.PKIXRevocationChecker
 category: java
 tags: ['java se', 'java.security.cert', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

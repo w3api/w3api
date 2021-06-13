@@ -1,8 +1,8 @@
 ---
 title: PrivateKey.serialVersionUID
-permalink: Java/PrivateKey/serialVersionUID
+permalink: /Java/PrivateKey/serialVersionUID/
 date: 2021-01-11
-key: JavaJava.P.PrivateKey
+key: Java.P.PrivateKey
 category: java
 tags: ['java se', 'java.security', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObjectCollectedException
-permalink: Java/ObjectCollectedException
+permalink: /Java/ObjectCollectedException/
 date: 2021-01-11
 key: JavaJava.O.ObjectCollectedException
 category: java

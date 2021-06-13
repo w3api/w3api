@@ -1,6 +1,6 @@
 ---
 title: OptionalInt.stream()
-permalink: Java/OptionalInt/stream
+permalink: /Java/OptionalInt/stream/
 date: 2021-01-11
 key: JavaJava.O.OptionalInt
 category: java

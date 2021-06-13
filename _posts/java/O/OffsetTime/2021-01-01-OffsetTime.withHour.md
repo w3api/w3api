@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.withHour()
-permalink: Java/OffsetTime/withHour
+permalink: /Java/OffsetTime/withHour/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

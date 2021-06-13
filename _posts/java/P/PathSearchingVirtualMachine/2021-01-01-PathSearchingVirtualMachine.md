@@ -1,8 +1,8 @@
 ---
 title: PathSearchingVirtualMachine
-permalink: Java/PathSearchingVirtualMachine
+permalink: /Java/PathSearchingVirtualMachine/
 date: 2021-01-11
-key: JavaJava.P.PathSearchingVirtualMachine
+key: Java.P.PathSearchingVirtualMachine
 category: java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 

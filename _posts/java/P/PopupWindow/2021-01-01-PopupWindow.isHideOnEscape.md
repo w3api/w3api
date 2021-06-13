@@ -1,8 +1,8 @@
 ---
 title: PopupWindow.isHideOnEscape()
-permalink: Java/PopupWindow/isHideOnEscape
+permalink: /Java/PopupWindow/isHideOnEscape/
 date: 2021-01-11
-key: JavaJava.P.PopupWindow
+key: Java.P.PopupWindow
 category: java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

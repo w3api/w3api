@@ -1,8 +1,8 @@
 ---
 title: PDLOverrideSupported.PDLOverrideSupported()
-permalink: Java/PDLOverrideSupported/PDLOverrideSupported
+permalink: /Java/PDLOverrideSupported/PDLOverrideSupported/
 date: 2021-01-11
-key: JavaJava.P.PDLOverrideSupported
+key: Java.P.PDLOverrideSupported
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

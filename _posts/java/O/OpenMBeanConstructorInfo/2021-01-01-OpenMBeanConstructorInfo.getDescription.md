@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanConstructorInfo.getDescription()
-permalink: Java/OpenMBeanConstructorInfo/getDescription
+permalink: /Java/OpenMBeanConstructorInfo/getDescription/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanConstructorInfo
 category: java

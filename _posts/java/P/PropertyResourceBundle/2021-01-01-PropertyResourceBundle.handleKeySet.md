@@ -1,8 +1,8 @@
 ---
 title: PropertyResourceBundle.handleKeySet()
-permalink: Java/PropertyResourceBundle/handleKeySet
+permalink: /Java/PropertyResourceBundle/handleKeySet/
 date: 2021-01-11
-key: JavaJava.P.PropertyResourceBundle
+key: Java.P.PropertyResourceBundle
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

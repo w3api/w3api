@@ -1,6 +1,6 @@
 ---
 title: OpenDataException.OpenDataException()
-permalink: Java/OpenDataException/OpenDataException
+permalink: /Java/OpenDataException/OpenDataException/
 date: 2021-01-11
 key: JavaJava.O.OpenDataException
 category: java

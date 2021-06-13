@@ -2,7 +2,7 @@
 title: RSAPrivateKeySpec.RSAPrivateKeySpec()
 permalink: Java/RSAPrivateKeySpec/RSAPrivateKeySpec
 date: 2021-01-11
-key: JavaJava.R.RSAPrivateKeySpec
+key: Java.R.RSAPrivateKeySpec
 category: java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.writeInt()
-permalink: Java/ObjectOutputStream/writeInt
+permalink: /Java/ObjectOutputStream/writeInt/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

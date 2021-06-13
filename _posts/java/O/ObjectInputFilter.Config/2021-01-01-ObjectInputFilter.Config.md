@@ -1,6 +1,6 @@
 ---
 title: ObjectInputFilter.Config
-permalink: Java/ObjectInputFilter/Config
+permalink: /Java/ObjectInputFilter/Config/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputFilter.Config
 category: java

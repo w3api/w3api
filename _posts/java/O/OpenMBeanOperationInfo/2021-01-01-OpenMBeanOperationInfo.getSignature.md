@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanOperationInfo.getSignature()
-permalink: Java/OpenMBeanOperationInfo/getSignature
+permalink: /Java/OpenMBeanOperationInfo/getSignature/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanOperationInfo
 category: java

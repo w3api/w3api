@@ -1,8 +1,8 @@
 ---
 title: PixelReader.getPixelFormat()
-permalink: Java/PixelReader/getPixelFormat
+permalink: /Java/PixelReader/getPixelFormat/
 date: 2021-01-11
-key: JavaJava.P.PixelReader
+key: Java.P.PixelReader
 category: java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 

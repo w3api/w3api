@@ -1,8 +1,8 @@
 ---
 title: PageRanges.PageRanges()
-permalink: Java/PageRanges/PageRanges
+permalink: /Java/PageRanges/PageRanges/
 date: 2021-01-11
-key: JavaJava.P.PageRanges
+key: Java.P.PageRanges
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

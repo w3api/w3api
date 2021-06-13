@@ -1,8 +1,8 @@
 ---
 title: Preloader.handleErrorNotification()
-permalink: Java/Preloader/handleErrorNotification
+permalink: /Java/Preloader/handleErrorNotification/
 date: 2021-01-11
-key: JavaJava.P.Preloader
+key: Java.P.Preloader
 category: java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

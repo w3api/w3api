@@ -1,6 +1,6 @@
 ---
 title: ObservableValueBase.fireValueChangedEvent()
-permalink: Java/ObservableValueBase/fireValueChangedEvent
+permalink: /Java/ObservableValueBase/fireValueChangedEvent/
 date: 2021-01-11
 key: JavaJava.O.ObservableValueBase
 category: java

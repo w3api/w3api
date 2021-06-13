@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.plusWeeks()
-permalink: Java/OffsetDateTime/plusWeeks
+permalink: /Java/OffsetDateTime/plusWeeks/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java

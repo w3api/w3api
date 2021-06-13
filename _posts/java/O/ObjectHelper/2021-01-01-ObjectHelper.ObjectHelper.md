@@ -1,6 +1,6 @@
 ---
 title: ObjectHelper.ObjectHelper()
-permalink: Java/ObjectHelper/ObjectHelper
+permalink: /Java/ObjectHelper/ObjectHelper/
 date: 2021-01-11
 key: JavaJava.O.ObjectHelper
 category: java

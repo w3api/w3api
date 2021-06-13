@@ -1,8 +1,8 @@
 ---
 title: Preferences.putByteArray()
-permalink: Java/Preferences/putByteArray
+permalink: /Java/Preferences/putByteArray/
 date: 2021-01-11
-key: JavaJava.P.Preferences
+key: Java.P.Preferences
 category: java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'metodo java', 'Java 1.4']
 sidebar: 

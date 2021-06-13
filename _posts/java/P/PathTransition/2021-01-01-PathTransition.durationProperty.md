@@ -1,8 +1,8 @@
 ---
 title: PathTransition.durationProperty()
-permalink: Java/PathTransition/durationProperty
+permalink: /Java/PathTransition/durationProperty/
 date: 2021-01-11
-key: JavaJava.P.PathTransition
+key: Java.P.PathTransition
 category: java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.compareTo()
-permalink: Java/OffsetTime/compareTo
+permalink: /Java/OffsetTime/compareTo/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

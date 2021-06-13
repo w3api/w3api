@@ -1,6 +1,6 @@
 ---
 title: Operation
-permalink: Java/Operation-java-rmi-server
+permalink: /Java/Operation-java-rmi-server/
 date: 2021-01-11
 key: JavaJava.O.Operation-java-rmi-server
 category: java

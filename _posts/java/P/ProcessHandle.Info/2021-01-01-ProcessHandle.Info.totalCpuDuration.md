@@ -1,8 +1,8 @@
 ---
 title: ProcessHandle.Info.totalCpuDuration()
-permalink: Java/ProcessHandle/Info/totalCpuDuration
+permalink: /Java/ProcessHandle/Info/totalCpuDuration/
 date: 2021-01-11
-key: JavaJava.P.ProcessHandle.Info
+key: Java.P.ProcessHandle.Info
 category: java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

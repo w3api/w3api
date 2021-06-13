@@ -1,6 +1,6 @@
 ---
 title: ORBInitializerOperations.pre_init()
-permalink: Java/ORBInitializerOperations/pre_init
+permalink: /Java/ORBInitializerOperations/pre_init/
 date: 2021-01-11
 key: JavaJava.O.ORBInitializerOperations
 category: java

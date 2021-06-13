@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.resolveClass()
-permalink: Java/ObjectInputStream/resolveClass
+permalink: /Java/ObjectInputStream/resolveClass/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

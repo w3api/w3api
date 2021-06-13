@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.from()
-permalink: Java/OffsetTime/from
+permalink: /Java/OffsetTime/from/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PagesPerMinuteColor.equals()
-permalink: Java/PagesPerMinuteColor/equals
+permalink: /Java/PagesPerMinuteColor/equals/
 date: 2021-01-11
-key: JavaJava.P.PagesPerMinuteColor
+key: Java.P.PagesPerMinuteColor
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

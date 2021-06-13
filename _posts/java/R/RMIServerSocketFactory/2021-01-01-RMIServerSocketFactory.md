@@ -2,7 +2,7 @@
 title: RMIServerSocketFactory
 permalink: Java/RMIServerSocketFactory
 date: 2021-01-11
-key: JavaJava.R.RMIServerSocketFactory
+key: Java.R.RMIServerSocketFactory
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'interface java', 'Java 1.2']
 sidebar: 

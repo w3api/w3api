@@ -1,8 +1,8 @@
 ---
 title: PrintQuality.values()
-permalink: Java/PrintQuality-javafx-print/values
+permalink: /Java/PrintQuality-javafx-print/values/
 date: 2021-01-11
-key: JavaJava.P.PrintQuality-javafx-print
+key: Java.P.PrintQuality-javafx-print
 category: java
 tags: ['java se', 'javafx.print', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 

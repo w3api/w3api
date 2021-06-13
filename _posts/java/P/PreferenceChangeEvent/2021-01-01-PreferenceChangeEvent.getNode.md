@@ -1,8 +1,8 @@
 ---
 title: PreferenceChangeEvent.getNode()
-permalink: Java/PreferenceChangeEvent/getNode
+permalink: /Java/PreferenceChangeEvent/getNode/
 date: 2021-01-11
-key: JavaJava.P.PreferenceChangeEvent
+key: Java.P.PreferenceChangeEvent
 category: java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'metodo java', 'Java 1.4']
 sidebar: 

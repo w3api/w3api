@@ -1,8 +1,8 @@
 ---
 title: ProxySelector.select()
-permalink: Java/ProxySelector/select
+permalink: /Java/ProxySelector/select/
 date: 2021-01-11
-key: JavaJava.P.ProxySelector
+key: Java.P.ProxySelector
 category: java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

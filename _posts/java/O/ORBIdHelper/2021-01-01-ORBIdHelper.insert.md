@@ -1,6 +1,6 @@
 ---
 title: ORBIdHelper.insert()
-permalink: Java/ORBIdHelper/insert
+permalink: /Java/ORBIdHelper/insert/
 date: 2021-01-11
 key: JavaJava.O.ORBIdHelper
 category: java

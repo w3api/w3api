@@ -1,6 +1,6 @@
 ---
 title: Operation.getOperation()
-permalink: Java/Operation-java-rmi-server/getOperation
+permalink: /Java/Operation-java-rmi-server/getOperation/
 date: 2021-01-11
 key: JavaJava.O.Operation-java-rmi-server
 category: java

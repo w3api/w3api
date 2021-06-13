@@ -2,7 +2,7 @@
 title: RMIClientSocketFactory
 permalink: Java/RMIClientSocketFactory
 date: 2021-01-11
-key: JavaJava.R.RMIClientSocketFactory
+key: Java.R.RMIClientSocketFactory
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'interface java', 'Java 1.2']
 sidebar: 

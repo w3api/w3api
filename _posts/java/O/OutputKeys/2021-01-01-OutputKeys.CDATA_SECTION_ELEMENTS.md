@@ -1,6 +1,6 @@
 ---
 title: OutputKeys.CDATA_SECTION_ELEMENTS
-permalink: Java/OutputKeys/CDATA_SECTION_ELEMENTS
+permalink: /Java/OutputKeys/CDATA_SECTION_ELEMENTS/
 date: 2021-01-11
 key: JavaJava.O.OutputKeys
 category: java

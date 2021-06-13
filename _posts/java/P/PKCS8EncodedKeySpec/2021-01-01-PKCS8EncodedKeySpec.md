@@ -1,8 +1,8 @@
 ---
 title: PKCS8EncodedKeySpec
-permalink: Java/PKCS8EncodedKeySpec
+permalink: /Java/PKCS8EncodedKeySpec/
 date: 2021-01-11
-key: JavaJava.P.PKCS8EncodedKeySpec
+key: Java.P.PKCS8EncodedKeySpec
 category: java
 tags: ['java se', 'java.security.spec', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 

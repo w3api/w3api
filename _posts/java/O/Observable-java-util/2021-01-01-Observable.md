@@ -1,6 +1,6 @@
 ---
 title: Observable
-permalink: Java/Observable-java-util
+permalink: /Java/Observable-java-util/
 date: 2021-01-11
 key: JavaJava.O.Observable-java-util
 category: java

@@ -1,8 +1,8 @@
 ---
 title: PrintGraphics.getPrintJob()
-permalink: Java/PrintGraphics/getPrintJob
+permalink: /Java/PrintGraphics/getPrintJob/
 date: 2021-01-11
-key: JavaJava.P.PrintGraphics
+key: Java.P.PrintGraphics
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

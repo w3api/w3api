@@ -2,7 +2,7 @@
 title: RTFEditorKit
 permalink: Java/RTFEditorKit
 date: 2021-01-11
-key: JavaJava.R.RTFEditorKit
+key: Java.R.RTFEditorKit
 category: java
 tags: ['java se', 'javax.swing.text.rtf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

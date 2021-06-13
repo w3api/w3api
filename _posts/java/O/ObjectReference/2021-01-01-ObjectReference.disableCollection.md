@@ -1,6 +1,6 @@
 ---
 title: ObjectReference.disableCollection()
-permalink: Java/ObjectReference/disableCollection
+permalink: /Java/ObjectReference/disableCollection/
 date: 2021-01-11
 key: JavaJava.O.ObjectReference
 category: java

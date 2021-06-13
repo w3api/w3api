@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceFactoryHelper
-permalink: Java/ObjectReferenceFactoryHelper
+permalink: /Java/ObjectReferenceFactoryHelper/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceFactoryHelper
 category: java

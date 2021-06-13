@@ -2,7 +2,7 @@
 title: RMIConnectorServer.RMI_SERVER_SOCKET_FACTORY_ATTRIBUTE
 permalink: Java/RMIConnectorServer/RMI_SERVER_SOCKET_FACTORY_ATTRIBUTE
 date: 2021-01-11
-key: JavaJava.R.RMIConnectorServer
+key: Java.R.RMIConnectorServer
 category: java
 tags: ['java se', 'javax.management.remote.rmi', 'java.management.rmi', 'campo java', 'Java 1.5']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: PasswordView.modelToView()
-permalink: Java/PasswordView/modelToView
+permalink: /Java/PasswordView/modelToView/
 date: 2021-01-11
-key: JavaJava.P.PasswordView
+key: Java.P.PasswordView
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

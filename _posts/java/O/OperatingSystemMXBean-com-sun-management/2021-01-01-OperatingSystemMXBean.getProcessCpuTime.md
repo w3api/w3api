@@ -1,6 +1,6 @@
 ---
 title: OperatingSystemMXBean.getProcessCpuTime()
-permalink: Java/OperatingSystemMXBean-com-sun-management/getProcessCpuTime
+permalink: /Java/OperatingSystemMXBean-com-sun-management/getProcessCpuTime/
 date: 2021-01-11
 key: JavaJava.O.OperatingSystemMXBean-com-sun-management
 category: java

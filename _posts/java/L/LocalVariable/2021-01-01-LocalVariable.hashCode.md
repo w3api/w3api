@@ -1,8 +1,8 @@
 ---
 title: LocalVariable.hashCode()
-permalink: Java/LocalVariable/hashCode
+permalink: /Java/LocalVariable/hashCode/
 date: 2021-01-11
-key: JavaJava.L.LocalVariable
+key: Java.L.LocalVariable
 category: java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 

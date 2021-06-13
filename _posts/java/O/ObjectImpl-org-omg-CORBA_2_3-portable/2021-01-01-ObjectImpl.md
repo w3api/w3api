@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl
-permalink: Java/ObjectImpl-org-omg-CORBA_2_3-portable
+permalink: /Java/ObjectImpl-org-omg-CORBA_2_3-portable/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA_2_3-portable
 category: java

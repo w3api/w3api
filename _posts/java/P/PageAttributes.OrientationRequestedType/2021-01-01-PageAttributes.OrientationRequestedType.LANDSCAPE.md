@@ -1,8 +1,8 @@
 ---
 title: PageAttributes.OrientationRequestedType.LANDSCAPE
-permalink: Java/PageAttributes/OrientationRequestedType/LANDSCAPE
+permalink: /Java/PageAttributes/OrientationRequestedType/LANDSCAPE/
 date: 2021-01-11
-key: JavaJava.P.PageAttributes.OrientationRequestedType
+key: Java.P.PageAttributes.OrientationRequestedType
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 

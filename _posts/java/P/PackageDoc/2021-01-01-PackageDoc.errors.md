@@ -1,8 +1,8 @@
 ---
 title: PackageDoc.errors()
-permalink: Java/PackageDoc/errors
+permalink: /Java/PackageDoc/errors/
 date: 2021-01-11
-key: JavaJava.P.PackageDoc
+key: Java.P.PackageDoc
 category: java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.2']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ObservableFloatArray.set()
-permalink: Java/ObservableFloatArray/set
+permalink: /Java/ObservableFloatArray/set/
 date: 2021-01-11
 key: JavaJava.O.ObservableFloatArray
 category: java

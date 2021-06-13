@@ -1,8 +1,8 @@
 ---
 title: PKCS8EncodedKeySpec.getFormat()
-permalink: Java/PKCS8EncodedKeySpec/getFormat
+permalink: /Java/PKCS8EncodedKeySpec/getFormat/
 date: 2021-01-11
-key: JavaJava.P.PKCS8EncodedKeySpec
+key: Java.P.PKCS8EncodedKeySpec
 category: java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

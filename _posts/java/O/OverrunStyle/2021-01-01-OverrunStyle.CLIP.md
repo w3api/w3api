@@ -1,6 +1,6 @@
 ---
 title: OverrunStyle.CLIP
-permalink: Java/OverrunStyle/CLIP
+permalink: /Java/OverrunStyle/CLIP/
 date: 2021-01-11
 key: JavaJava.O.OverrunStyle
 category: java

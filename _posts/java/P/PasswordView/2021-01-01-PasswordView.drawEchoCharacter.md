@@ -1,8 +1,8 @@
 ---
 title: PasswordView.drawEchoCharacter()
-permalink: Java/PasswordView/drawEchoCharacter
+permalink: /Java/PasswordView/drawEchoCharacter/
 date: 2021-01-11
-key: JavaJava.P.PasswordView
+key: Java.P.PasswordView
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

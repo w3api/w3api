@@ -1,8 +1,8 @@
 ---
 title: ProgramElementDoc.annotations()
-permalink: Java/ProgramElementDoc/annotations
+permalink: /Java/ProgramElementDoc/annotations/
 date: 2021-01-11
-key: JavaJava.P.ProgramElementDoc
+key: Java.P.ProgramElementDoc
 category: java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanInfoSupport.equals()
-permalink: Java/OpenMBeanInfoSupport/equals
+permalink: /Java/OpenMBeanInfoSupport/equals/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanInfoSupport
 category: java

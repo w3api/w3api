@@ -1,8 +1,8 @@
 ---
 title: PrinterMessageFromOperator
-permalink: Java/PrinterMessageFromOperator
+permalink: /Java/PrinterMessageFromOperator/
 date: 2021-01-11
-key: JavaJava.P.PrinterMessageFromOperator
+key: Java.P.PrinterMessageFromOperator
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

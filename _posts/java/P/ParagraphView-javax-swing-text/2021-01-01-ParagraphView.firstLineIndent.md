@@ -1,8 +1,8 @@
 ---
 title: ParagraphView.firstLineIndent
-permalink: Java/ParagraphView-javax-swing-text/firstLineIndent
+permalink: /Java/ParagraphView-javax-swing-text/firstLineIndent/
 date: 2021-01-11
-key: JavaJava.P.ParagraphView-javax-swing-text
+key: Java.P.ParagraphView-javax-swing-text
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

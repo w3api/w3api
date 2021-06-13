@@ -1,6 +1,6 @@
 ---
 title: OceanTheme.getControlTextColor()
-permalink: Java/OceanTheme/getControlTextColor
+permalink: /Java/OceanTheme/getControlTextColor/
 date: 2021-01-11
 key: JavaJava.O.OceanTheme
 category: java

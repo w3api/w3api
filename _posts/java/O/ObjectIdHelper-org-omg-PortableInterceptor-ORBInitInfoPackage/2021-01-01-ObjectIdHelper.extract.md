@@ -1,6 +1,6 @@
 ---
 title: ObjectIdHelper.extract()
-permalink: Java/ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage/extract
+permalink: /Java/ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage/extract/
 date: 2021-01-11
 key: JavaJava.O.ObjectIdHelper-org-omg-PortableInterceptor-ORBInitInfoPackage
 category: java

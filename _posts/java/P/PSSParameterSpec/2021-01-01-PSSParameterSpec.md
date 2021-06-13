@@ -1,8 +1,8 @@
 ---
 title: PSSParameterSpec
-permalink: Java/PSSParameterSpec
+permalink: /Java/PSSParameterSpec/
 date: 2021-01-11
-key: JavaJava.P.PSSParameterSpec
+key: Java.P.PSSParameterSpec
 category: java
 tags: ['java se', 'java.security.spec', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 

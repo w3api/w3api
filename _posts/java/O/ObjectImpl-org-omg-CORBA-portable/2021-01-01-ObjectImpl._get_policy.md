@@ -1,6 +1,6 @@
 ---
 title: ObjectImpl._get_policy()
-permalink: Java/ObjectImpl-org-omg-CORBA-portable/_get_policy
+permalink: /Java/ObjectImpl-org-omg-CORBA-portable/_get_policy/
 date: 2021-01-11
 key: JavaJava.O.ObjectImpl-org-omg-CORBA-portable
 category: java

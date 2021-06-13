@@ -1,6 +1,6 @@
 ---
 title: OffsetTime.MIN
-permalink: Java/OffsetTime/MIN
+permalink: /Java/OffsetTime/MIN/
 date: 2021-01-11
 key: JavaJava.O.OffsetTime
 category: java

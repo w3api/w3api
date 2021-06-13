@@ -1,8 +1,8 @@
 ---
 title: PopupWindow.AnchorLocation
-permalink: Java/PopupWindow/AnchorLocation
+permalink: /Java/PopupWindow/AnchorLocation/
 date: 2021-01-11
-key: JavaJava.P.PopupWindow.AnchorLocation
+key: Java.P.PopupWindow.AnchorLocation
 category: java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'enumerado java', 'JavaFX 8.0']
 sidebar: 

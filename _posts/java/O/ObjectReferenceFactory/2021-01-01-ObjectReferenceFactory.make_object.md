@@ -1,6 +1,6 @@
 ---
 title: ObjectReferenceFactory.make_object()
-permalink: Java/ObjectReferenceFactory/make_object
+permalink: /Java/ObjectReferenceFactory/make_object/
 date: 2021-01-11
 key: JavaJava.O.ObjectReferenceFactory
 category: java

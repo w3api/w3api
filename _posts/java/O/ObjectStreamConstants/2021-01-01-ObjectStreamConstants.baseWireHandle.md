@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.baseWireHandle
-permalink: Java/ObjectStreamConstants/baseWireHandle
+permalink: /Java/ObjectStreamConstants/baseWireHandle/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

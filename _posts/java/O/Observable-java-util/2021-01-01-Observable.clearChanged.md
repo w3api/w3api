@@ -1,6 +1,6 @@
 ---
 title: Observable.clearChanged()
-permalink: Java/Observable-java-util/clearChanged
+permalink: /Java/Observable-java-util/clearChanged/
 date: 2021-01-11
 key: JavaJava.O.Observable-java-util
 category: java

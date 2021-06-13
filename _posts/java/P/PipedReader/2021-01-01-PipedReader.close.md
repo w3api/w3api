@@ -1,8 +1,8 @@
 ---
 title: PipedReader.close()
-permalink: Java/PipedReader/close
+permalink: /Java/PipedReader/close/
 date: 2021-01-11
-key: JavaJava.P.PipedReader
+key: Java.P.PipedReader
 category: java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

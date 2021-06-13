@@ -1,8 +1,8 @@
 ---
 title: PrimitiveIterator.OfLong.next()
-permalink: Java/PrimitiveIterator/OfLong/next
+permalink: /Java/PrimitiveIterator/OfLong/next/
 date: 2021-01-11
-key: JavaJava.P.PrimitiveIterator.OfLong
+key: Java.P.PrimitiveIterator.OfLong
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

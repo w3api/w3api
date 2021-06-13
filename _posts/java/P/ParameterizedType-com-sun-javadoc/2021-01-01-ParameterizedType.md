@@ -1,8 +1,8 @@
 ---
 title: ParameterizedType
-permalink: Java/ParameterizedType-com-sun-javadoc
+permalink: /Java/ParameterizedType-com-sun-javadoc/
 date: 2021-01-11
-key: JavaJava.P.ParameterizedType-com-sun-javadoc
+key: Java.P.ParameterizedType-com-sun-javadoc
 category: java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'interface java', 'Java 1.5']
 sidebar: 

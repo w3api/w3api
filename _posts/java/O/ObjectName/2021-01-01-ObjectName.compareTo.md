@@ -1,6 +1,6 @@
 ---
 title: ObjectName.compareTo()
-permalink: Java/ObjectName/compareTo
+permalink: /Java/ObjectName/compareTo/
 date: 2021-01-11
 key: JavaJava.O.ObjectName
 category: java

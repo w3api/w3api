@@ -1,8 +1,8 @@
 ---
 title: PortUnreachableException.PortUnreachableException()
-permalink: Java/PortUnreachableException/PortUnreachableException
+permalink: /Java/PortUnreachableException/PortUnreachableException/
 date: 2021-01-11
-key: JavaJava.P.PortUnreachableException
+key: Java.P.PortUnreachableException
 category: java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

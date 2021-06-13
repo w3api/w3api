@@ -1,8 +1,8 @@
 ---
 title: PolicyHolder.value
-permalink: Java/PolicyHolder/value
+permalink: /Java/PolicyHolder/value/
 date: 2021-01-11
-key: JavaJava.P.PolicyHolder
+key: Java.P.PolicyHolder
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: OctetSeqHelper.type()
-permalink: Java/OctetSeqHelper/type
+permalink: /Java/OctetSeqHelper/type/
 date: 2021-01-11
 key: JavaJava.O.OctetSeqHelper
 category: java

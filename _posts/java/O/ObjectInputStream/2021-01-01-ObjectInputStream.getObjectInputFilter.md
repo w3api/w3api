@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.getObjectInputFilter()
-permalink: Java/ObjectInputStream/getObjectInputFilter
+permalink: /Java/ObjectInputStream/getObjectInputFilter/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream
 category: java

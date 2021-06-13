@@ -1,6 +1,6 @@
 ---
 title: OutputStream.flush()
-permalink: Java/OutputStream-java-io/flush
+permalink: /Java/OutputStream-java-io/flush/
 date: 2021-01-11
 key: JavaJava.O.OutputStream-java-io
 category: java

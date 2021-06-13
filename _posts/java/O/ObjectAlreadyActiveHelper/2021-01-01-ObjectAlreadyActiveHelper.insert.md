@@ -1,6 +1,6 @@
 ---
 title: ObjectAlreadyActiveHelper.insert()
-permalink: Java/ObjectAlreadyActiveHelper/insert
+permalink: /Java/ObjectAlreadyActiveHelper/insert/
 date: 2021-01-11
 key: JavaJava.O.ObjectAlreadyActiveHelper
 category: java

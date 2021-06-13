@@ -1,8 +1,8 @@
 ---
 title: ProgressBarTableCell.forTableColumn()
-permalink: Java/ProgressBarTableCell/forTableColumn
+permalink: /Java/ProgressBarTableCell/forTableColumn/
 date: 2021-01-11
-key: JavaJava.P.ProgressBarTableCell
+key: Java.P.ProgressBarTableCell
 category: java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'metodo java', 'JavaFX 2.2']
 sidebar: 

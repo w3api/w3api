@@ -1,8 +1,8 @@
 ---
 title: LogRecord.LogRecord()
-permalink: Java/LogRecord/LogRecord
+permalink: /Java/LogRecord/LogRecord/
 date: 2021-01-11
-key: JavaJava.L.LogRecord
+key: Java.L.LogRecord
 category: java
 tags: ['java se', 'java.util.logging', 'java.logging', 'metodo java', 'Java 1.4']
 sidebar: 

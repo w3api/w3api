@@ -2,7 +2,7 @@
 title: RMICustomMaxStreamFormat
 permalink: Java/RMICustomMaxStreamFormat
 date: 2021-01-11
-key: JavaJava.R.RMICustomMaxStreamFormat
+key: Java.R.RMICustomMaxStreamFormat
 category: java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

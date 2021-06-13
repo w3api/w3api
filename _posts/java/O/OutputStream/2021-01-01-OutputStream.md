@@ -1,6 +1,6 @@
 ---
 title: OutputStream
-permalink: Java/OutputStream/
+permalink: /Java/OutputStream//
 date: 2021-01-11
 key: JavaJava.O.OutputStream
 category: java

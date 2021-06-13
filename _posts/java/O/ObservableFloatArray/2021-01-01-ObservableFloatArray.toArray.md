@@ -1,6 +1,6 @@
 ---
 title: ObservableFloatArray.toArray()
-permalink: Java/ObservableFloatArray/toArray
+permalink: /Java/ObservableFloatArray/toArray/
 date: 2021-01-11
 key: JavaJava.O.ObservableFloatArray
 category: java

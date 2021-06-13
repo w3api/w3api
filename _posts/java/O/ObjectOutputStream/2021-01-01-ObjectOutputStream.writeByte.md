@@ -1,6 +1,6 @@
 ---
 title: ObjectOutputStream.writeByte()
-permalink: Java/ObjectOutputStream/writeByte
+permalink: /Java/ObjectOutputStream/writeByte/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutputStream
 category: java

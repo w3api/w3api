@@ -1,8 +1,8 @@
 ---
 title: Preloader.StateChangeNotification
-permalink: Java/Preloader/StateChangeNotification
+permalink: /Java/Preloader/StateChangeNotification/
 date: 2021-01-11
-key: JavaJava.P.Preloader.StateChangeNotification
+key: Java.P.Preloader.StateChangeNotification
 category: java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 

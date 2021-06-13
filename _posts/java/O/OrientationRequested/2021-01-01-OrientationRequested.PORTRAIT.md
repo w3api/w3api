@@ -1,6 +1,6 @@
 ---
 title: OrientationRequested.PORTRAIT
-permalink: Java/OrientationRequested/PORTRAIT
+permalink: /Java/OrientationRequested/PORTRAIT/
 date: 2021-01-11
 key: JavaJava.O.OrientationRequested
 category: java

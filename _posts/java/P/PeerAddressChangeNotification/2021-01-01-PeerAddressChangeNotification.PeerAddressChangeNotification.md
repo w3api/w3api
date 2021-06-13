@@ -1,8 +1,8 @@
 ---
 title: PeerAddressChangeNotification.PeerAddressChangeNotification()
-permalink: Java/PeerAddressChangeNotification/PeerAddressChangeNotification
+permalink: /Java/PeerAddressChangeNotification/PeerAddressChangeNotification/
 date: 2021-01-11
-key: JavaJava.P.PeerAddressChangeNotification
+key: Java.P.PeerAddressChangeNotification
 category: java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 

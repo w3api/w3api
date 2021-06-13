@@ -1,8 +1,8 @@
 ---
 title: LongSummaryStatistics.getCount()
-permalink: Java/LongSummaryStatistics/getCount
+permalink: /Java/LongSummaryStatistics/getCount/
 date: 2021-01-11
-key: JavaJava.L.LongSummaryStatistics
+key: Java.L.LongSummaryStatistics
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

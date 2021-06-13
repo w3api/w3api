@@ -1,8 +1,8 @@
 ---
 title: LongBinaryOperator.applyAsLong()
-permalink: Java/LongBinaryOperator/applyAsLong
+permalink: /Java/LongBinaryOperator/applyAsLong/
 date: 2021-01-11
-key: JavaJava.L.LongBinaryOperator
+key: Java.L.LongBinaryOperator
 category: java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

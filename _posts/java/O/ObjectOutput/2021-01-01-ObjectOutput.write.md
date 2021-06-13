@@ -1,6 +1,6 @@
 ---
 title: ObjectOutput.write()
-permalink: Java/ObjectOutput/write
+permalink: /Java/ObjectOutput/write/
 date: 2021-01-11
 key: JavaJava.O.ObjectOutput
 category: java

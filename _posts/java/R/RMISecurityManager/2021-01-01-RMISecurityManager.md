@@ -2,7 +2,7 @@
 title: RMISecurityManager
 permalink: Java/RMISecurityManager
 date: 2021-01-11
-key: JavaJava.R.RMISecurityManager
+key: Java.R.RMISecurityManager
 category: java
 tags: ['java se', 'java.rmi', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 

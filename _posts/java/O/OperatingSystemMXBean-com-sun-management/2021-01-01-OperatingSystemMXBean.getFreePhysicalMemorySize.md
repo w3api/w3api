@@ -1,6 +1,6 @@
 ---
 title: OperatingSystemMXBean.getFreePhysicalMemorySize()
-permalink: Java/OperatingSystemMXBean-com-sun-management/getFreePhysicalMemorySize
+permalink: /Java/OperatingSystemMXBean-com-sun-management/getFreePhysicalMemorySize/
 date: 2021-01-11
 key: JavaJava.O.OperatingSystemMXBean-com-sun-management
 category: java

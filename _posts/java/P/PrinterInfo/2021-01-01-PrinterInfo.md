@@ -1,8 +1,8 @@
 ---
 title: PrinterInfo
-permalink: Java/PrinterInfo
+permalink: /Java/PrinterInfo/
 date: 2021-01-11
-key: JavaJava.P.PrinterInfo
+key: Java.P.PrinterInfo
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

@@ -2,7 +2,7 @@
 title: LongBinding.LongBinding()
 permalink: Java/LongBinding/LongBinding
 date: 2021-01-11
-key: JavaJava.L.LongBinding
+key: Java.L.LongBinding
 category: java
 tags: ['java se', 'javafx.beans.binding', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

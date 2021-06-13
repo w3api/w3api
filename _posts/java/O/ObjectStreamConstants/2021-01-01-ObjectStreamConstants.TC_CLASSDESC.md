@@ -1,6 +1,6 @@
 ---
 title: ObjectStreamConstants.TC_CLASSDESC
-permalink: Java/ObjectStreamConstants/TC_CLASSDESC
+permalink: /Java/ObjectStreamConstants/TC_CLASSDESC/
 date: 2021-01-11
 key: JavaJava.O.ObjectStreamConstants
 category: java

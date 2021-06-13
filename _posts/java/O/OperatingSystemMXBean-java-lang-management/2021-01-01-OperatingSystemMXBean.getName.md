@@ -1,6 +1,6 @@
 ---
 title: OperatingSystemMXBean.getName()
-permalink: Java/OperatingSystemMXBean-java-lang-management/getName
+permalink: /Java/OperatingSystemMXBean-java-lang-management/getName/
 date: 2021-01-11
 key: JavaJava.O.OperatingSystemMXBean-java-lang-management
 category: java

@@ -1,6 +1,6 @@
 ---
 title: OpenMBeanConstructorInfoSupport
-permalink: Java/OpenMBeanConstructorInfoSupport
+permalink: /Java/OpenMBeanConstructorInfoSupport/
 date: 2021-01-11
 key: JavaJava.O.OpenMBeanConstructorInfoSupport
 category: java

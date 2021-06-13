@@ -1,8 +1,8 @@
 ---
 title: PaintConverter.ImagePatternConverter.getInstance()
-permalink: Java/PaintConverter/ImagePatternConverter/getInstance
+permalink: /Java/PaintConverter/ImagePatternConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.P.PaintConverter.ImagePatternConverter
+key: Java.P.PaintConverter.ImagePatternConverter
 category: java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 1.0']
 sidebar: 

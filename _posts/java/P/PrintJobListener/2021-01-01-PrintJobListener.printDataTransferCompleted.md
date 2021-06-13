@@ -1,8 +1,8 @@
 ---
 title: PrintJobListener.printDataTransferCompleted()
-permalink: Java/PrintJobListener/printDataTransferCompleted
+permalink: /Java/PrintJobListener/printDataTransferCompleted/
 date: 2021-01-11
-key: JavaJava.P.PrintJobListener
+key: Java.P.PrintJobListener
 category: java
 tags: ['java se', 'javax.print.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

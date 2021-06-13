@@ -1,8 +1,8 @@
 ---
 title: PrintWriter.clearError()
-permalink: Java/PrintWriter/clearError
+permalink: /Java/PrintWriter/clearError/
 date: 2021-01-11
-key: JavaJava.P.PrintWriter
+key: Java.P.PrintWriter
 category: java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

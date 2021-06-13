@@ -2,7 +2,7 @@
 title: RSAPublicKeySpec.getModulus()
 permalink: Java/RSAPublicKeySpec/getModulus
 date: 2021-01-11
-key: JavaJava.R.RSAPublicKeySpec
+key: Java.R.RSAPublicKeySpec
 category: java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

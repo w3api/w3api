@@ -1,8 +1,8 @@
 ---
 title: PreferencesEvent
-permalink: Java/PreferencesEvent
+permalink: /Java/PreferencesEvent/
 date: 2021-01-11
-key: JavaJava.P.PreferencesEvent
+key: Java.P.PreferencesEvent
 category: java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 

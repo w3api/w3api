@@ -1,6 +1,6 @@
 ---
 title: ObjectInputStream.GetField.defaulted()
-permalink: Java/ObjectInputStream/GetField/defaulted
+permalink: /Java/ObjectInputStream/GetField/defaulted/
 date: 2021-01-11
 key: JavaJava.O.ObjectInputStream.GetField
 category: java

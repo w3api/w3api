@@ -1,6 +1,6 @@
 ---
 title: ObjectReference.INVOKE_SINGLE_THREADED
-permalink: Java/ObjectReference/INVOKE_SINGLE_THREADED
+permalink: /Java/ObjectReference/INVOKE_SINGLE_THREADED/
 date: 2021-01-11
 key: JavaJava.O.ObjectReference
 category: java

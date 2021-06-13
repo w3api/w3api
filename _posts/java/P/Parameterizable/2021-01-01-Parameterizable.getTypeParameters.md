@@ -1,8 +1,8 @@
 ---
 title: Parameterizable.getTypeParameters()
-permalink: Java/Parameterizable/getTypeParameters
+permalink: /Java/Parameterizable/getTypeParameters/
 date: 2021-01-11
-key: JavaJava.P.Parameterizable
+key: Java.P.Parameterizable
 category: java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 1.7']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: ProgressBarUI.ProgressBarUI()
-permalink: Java/ProgressBarUI/ProgressBarUI
+permalink: /Java/ProgressBarUI/ProgressBarUI/
 date: 2021-01-11
-key: JavaJava.P.ProgressBarUI
+key: Java.P.ProgressBarUI
 category: java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

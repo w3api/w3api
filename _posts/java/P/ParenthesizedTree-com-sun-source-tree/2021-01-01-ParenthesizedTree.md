@@ -1,8 +1,8 @@
 ---
 title: ParenthesizedTree
-permalink: Java/ParenthesizedTree-com-sun-source-tree
+permalink: /Java/ParenthesizedTree-com-sun-source-tree/
 date: 2021-01-11
-key: JavaJava.P.ParenthesizedTree-com-sun-source-tree
+key: Java.P.ParenthesizedTree-com-sun-source-tree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 

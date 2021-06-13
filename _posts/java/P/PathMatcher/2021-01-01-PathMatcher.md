@@ -1,8 +1,8 @@
 ---
 title: PathMatcher
-permalink: Java/PathMatcher
+permalink: /Java/PathMatcher/
 date: 2021-01-11
-key: JavaJava.P.PathMatcher
+key: Java.P.PathMatcher
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 

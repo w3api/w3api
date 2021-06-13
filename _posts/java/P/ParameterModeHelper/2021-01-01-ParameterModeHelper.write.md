@@ -1,8 +1,8 @@
 ---
 title: ParameterModeHelper.write()
-permalink: Java/ParameterModeHelper/write
+permalink: /Java/ParameterModeHelper/write/
 date: 2021-01-11
-key: JavaJava.P.ParameterModeHelper
+key: Java.P.ParameterModeHelper
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

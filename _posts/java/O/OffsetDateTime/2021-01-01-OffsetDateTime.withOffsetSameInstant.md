@@ -1,6 +1,6 @@
 ---
 title: OffsetDateTime.withOffsetSameInstant()
-permalink: Java/OffsetDateTime/withOffsetSameInstant
+permalink: /Java/OffsetDateTime/withOffsetSameInstant/
 date: 2021-01-11
 key: JavaJava.O.OffsetDateTime
 category: java
