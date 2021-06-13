@@ -1,9 +1,9 @@
 ---
 title: AccessibleExtendedComponent
-permalink: Java/AccessibleExtendedComponent
+permalink: /Java/AccessibleExtendedComponent/
 date: 2021-01-11
-key: JavaJava.A.AccessibleExtendedComponent
-category: java
+key: Java.A.AccessibleExtendedComponent
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

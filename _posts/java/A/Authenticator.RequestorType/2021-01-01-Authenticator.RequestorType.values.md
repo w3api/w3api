@@ -1,9 +1,9 @@
 ---
 title: Authenticator.RequestorType.values()
-permalink: Java/Authenticator/RequestorType/values
+permalink: /Java/Authenticator/RequestorType/values/
 date: 2021-01-11
-key: JavaJava.A.Authenticator.RequestorType
-category: java
+key: Java.A.Authenticator.RequestorType
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

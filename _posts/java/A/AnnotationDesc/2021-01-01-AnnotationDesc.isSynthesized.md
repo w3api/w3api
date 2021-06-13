@@ -1,9 +1,9 @@
 ---
 title: AnnotationDesc.isSynthesized()
-permalink: Java/AnnotationDesc/isSynthesized
+permalink: /Java/AnnotationDesc/isSynthesized/
 date: 2021-01-11
-key: JavaJava.A.AnnotationDesc
-category: java
+key: Java.A.AnnotationDesc
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

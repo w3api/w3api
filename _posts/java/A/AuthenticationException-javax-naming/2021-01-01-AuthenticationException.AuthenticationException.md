@@ -1,9 +1,9 @@
 ---
 title: AuthenticationException.AuthenticationException()
-permalink: Java/AuthenticationException-javax-naming/AuthenticationException
+permalink: /Java/AuthenticationException-javax-naming/AuthenticationException/
 date: 2021-01-11
-key: JavaJava.A.AuthenticationException-javax-naming
-category: java
+key: Java.A.AuthenticationException-javax-naming
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

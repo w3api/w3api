@@ -1,9 +1,9 @@
 ---
 title: AccessibleTable.getAccessibleColumnDescription()
-permalink: Java/AccessibleTable/getAccessibleColumnDescription
+permalink: /Java/AccessibleTable/getAccessibleColumnDescription/
 date: 2021-01-11
-key: JavaJava.A.AccessibleTable
-category: java
+key: Java.A.AccessibleTable
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

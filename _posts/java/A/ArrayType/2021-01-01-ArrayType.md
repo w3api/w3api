@@ -1,9 +1,9 @@
 ---
 title: ArrayType
-permalink: Java/ArrayType/
+permalink: /Java/ArrayType//
 date: 2021-01-11
-key: JavaJava.A.ArrayType
-category: java
+key: Java.A.ArrayType
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

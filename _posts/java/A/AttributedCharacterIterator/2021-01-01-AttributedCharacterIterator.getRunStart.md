@@ -1,9 +1,9 @@
 ---
 title: AttributedCharacterIterator.getRunStart()
-permalink: Java/AttributedCharacterIterator/getRunStart
+permalink: /Java/AttributedCharacterIterator/getRunStart/
 date: 2021-01-11
-key: JavaJava.A.AttributedCharacterIterator
-category: java
+key: Java.A.AttributedCharacterIterator
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AudioClip
-permalink: Java/AudioClip/
+permalink: /Java/AudioClip//
 date: 2021-01-11
-key: JavaJava.A.AudioClip
-category: java
+key: Java.A.AudioClip
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

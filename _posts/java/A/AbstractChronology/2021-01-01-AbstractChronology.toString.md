@@ -1,9 +1,9 @@
 ---
 title: AbstractChronology.toString()
-permalink: Java/AbstractChronology/toString
+permalink: /Java/AbstractChronology/toString/
 date: 2021-01-11
-key: JavaJava.A.AbstractChronology
-category: java
+key: Java.A.AbstractChronology
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

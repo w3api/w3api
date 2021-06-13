@@ -1,9 +1,9 @@
 ---
 title: Attributes.map
-permalink: Java/Attributes-java-util-jar/map
+permalink: /Java/Attributes-java-util-jar/map/
 date: 2021-01-11
-key: JavaJava.A.Attributes-java-util-jar
-category: java
+key: Java.A.Attributes-java-util-jar
+category: Java
 tags: ['java se', 'java.util.jar', 'java.base', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Authenticator.RequestorType.PROXY
-permalink: Java/Authenticator/RequestorType/PROXY
+permalink: /Java/Authenticator/RequestorType/PROXY/
 date: 2021-01-11
-key: JavaJava.A.Authenticator.RequestorType
-category: java
+key: Java.A.Authenticator.RequestorType
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

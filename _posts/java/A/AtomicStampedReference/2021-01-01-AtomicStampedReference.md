@@ -1,9 +1,9 @@
 ---
 title: AtomicStampedReference
-permalink: Java/AtomicStampedReference
+permalink: /Java/AtomicStampedReference/
 date: 2021-01-11
-key: JavaJava.A.AtomicStampedReference
-category: java
+key: Java.A.AtomicStampedReference
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

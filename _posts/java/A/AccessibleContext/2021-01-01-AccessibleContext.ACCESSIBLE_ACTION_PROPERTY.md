@@ -1,9 +1,9 @@
 ---
 title: AccessibleContext.ACCESSIBLE_ACTION_PROPERTY
-permalink: Java/AccessibleContext/ACCESSIBLE_ACTION_PROPERTY
+permalink: /Java/AccessibleContext/ACCESSIBLE_ACTION_PROPERTY/
 date: 2021-01-11
-key: JavaJava.A.AccessibleContext
-category: java
+key: Java.A.AccessibleContext
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

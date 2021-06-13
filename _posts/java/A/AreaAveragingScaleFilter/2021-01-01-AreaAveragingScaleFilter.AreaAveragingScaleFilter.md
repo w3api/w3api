@@ -1,9 +1,9 @@
 ---
 title: AreaAveragingScaleFilter.AreaAveragingScaleFilter()
-permalink: Java/AreaAveragingScaleFilter/AreaAveragingScaleFilter
+permalink: /Java/AreaAveragingScaleFilter/AreaAveragingScaleFilter/
 date: 2021-01-11
-key: JavaJava.A.AreaAveragingScaleFilter
-category: java
+key: Java.A.AreaAveragingScaleFilter
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

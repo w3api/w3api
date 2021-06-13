@@ -1,9 +1,9 @@
 ---
 title: AppForegroundListener.appMovedToBackground()
-permalink: Java/AppForegroundListener/appMovedToBackground
+permalink: /Java/AppForegroundListener/appMovedToBackground/
 date: 2021-01-11
-key: JavaJava.A.AppForegroundListener
-category: java
+key: Java.A.AppForegroundListener
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

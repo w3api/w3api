@@ -1,9 +1,9 @@
 ---
 title: AWTEventListener.eventDispatched()
-permalink: Java/AWTEventListener/eventDispatched
+permalink: /Java/AWTEventListener/eventDispatched/
 date: 2021-01-11
-key: JavaJava.A.AWTEventListener
-category: java
+key: Java.A.AWTEventListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

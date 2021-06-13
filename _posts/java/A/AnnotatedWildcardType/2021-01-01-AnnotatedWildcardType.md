@@ -1,9 +1,9 @@
 ---
 title: AnnotatedWildcardType
-permalink: Java/AnnotatedWildcardType
+permalink: /Java/AnnotatedWildcardType/
 date: 2021-01-11
-key: JavaJava.A.AnnotatedWildcardType
-category: java
+key: Java.A.AnnotatedWildcardType
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

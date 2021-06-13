@@ -1,9 +1,9 @@
 ---
 title: AccessibleStreamable.getMimeTypes()
-permalink: Java/AccessibleStreamable/getMimeTypes
+permalink: /Java/AccessibleStreamable/getMimeTypes/
 date: 2021-01-11
-key: JavaJava.A.AccessibleStreamable
-category: java
+key: Java.A.AccessibleStreamable
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

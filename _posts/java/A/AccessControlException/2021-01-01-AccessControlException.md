@@ -1,9 +1,9 @@
 ---
 title: AccessControlException
-permalink: Java/AccessControlException
+permalink: /Java/AccessControlException/
 date: 2021-01-11
-key: JavaJava.A.AccessControlException
-category: java
+key: Java.A.AccessControlException
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BasicRadioButtonMenuItemUI
 permalink: /Java/BasicRadioButtonMenuItemUI/
 date: 2021-01-11
-key: JavaJava.B.BasicRadioButtonMenuItemUI
-category: java
+key: Java.B.BasicRadioButtonMenuItemUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

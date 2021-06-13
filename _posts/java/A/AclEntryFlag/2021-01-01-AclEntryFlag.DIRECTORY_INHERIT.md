@@ -1,9 +1,9 @@
 ---
 title: AclEntryFlag.DIRECTORY_INHERIT
-permalink: Java/AclEntryFlag/DIRECTORY_INHERIT
+permalink: /Java/AclEntryFlag/DIRECTORY_INHERIT/
 date: 2021-01-11
-key: JavaJava.A.AclEntryFlag
-category: java
+key: Java.A.AclEntryFlag
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

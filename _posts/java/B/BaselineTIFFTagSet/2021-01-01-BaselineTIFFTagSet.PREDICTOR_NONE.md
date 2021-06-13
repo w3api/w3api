@@ -2,8 +2,8 @@
 title: BaselineTIFFTagSet.PREDICTOR_NONE
 permalink: /Java/BaselineTIFFTagSet/PREDICTOR_NONE/
 date: 2021-01-11
-key: JavaJava.B.BaselineTIFFTagSet
-category: java
+key: Java.B.BaselineTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

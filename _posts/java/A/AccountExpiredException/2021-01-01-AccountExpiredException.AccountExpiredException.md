@@ -1,9 +1,9 @@
 ---
 title: AccountExpiredException.AccountExpiredException()
-permalink: Java/AccountExpiredException/AccountExpiredException
+permalink: /Java/AccountExpiredException/AccountExpiredException/
 date: 2021-01-11
-key: JavaJava.A.AccountExpiredException
-category: java
+key: Java.A.AccountExpiredException
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

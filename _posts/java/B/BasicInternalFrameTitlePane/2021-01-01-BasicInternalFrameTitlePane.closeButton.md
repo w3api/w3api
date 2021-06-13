@@ -2,8 +2,8 @@
 title: BasicInternalFrameTitlePane.closeButton
 permalink: /Java/BasicInternalFrameTitlePane/closeButton/
 date: 2021-01-11
-key: JavaJava.B.BasicInternalFrameTitlePane
-category: java
+key: Java.B.BasicInternalFrameTitlePane
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BaselineTIFFTagSet.SUBFILE_TYPE_SINGLE_PAGE
 permalink: /Java/BaselineTIFFTagSet/SUBFILE_TYPE_SINGLE_PAGE/
 date: 2021-01-11
-key: JavaJava.B.BaselineTIFFTagSet
-category: java
+key: Java.B.BaselineTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

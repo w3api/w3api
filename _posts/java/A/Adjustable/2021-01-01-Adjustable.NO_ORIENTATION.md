@@ -1,9 +1,9 @@
 ---
 title: Adjustable.NO_ORIENTATION
-permalink: Java/Adjustable/NO_ORIENTATION
+permalink: /Java/Adjustable/NO_ORIENTATION/
 date: 2021-01-11
-key: JavaJava.A.Adjustable
-category: java
+key: Java.A.Adjustable
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

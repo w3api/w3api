@@ -1,9 +1,9 @@
 ---
 title: Application
-permalink: Java/Application
+permalink: /Java/Application/
 date: 2021-01-11
-key: JavaJava.A.Application
-category: java
+key: Java.A.Application
+category: Java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Attributes.isEmpty()
-permalink: Java/Attributes-java-util-jar/isEmpty
+permalink: /Java/Attributes-java-util-jar/isEmpty/
 date: 2021-01-11
-key: JavaJava.A.Attributes-java-util-jar
-category: java
+key: Java.A.Attributes-java-util-jar
+category: Java
 tags: ['java se', 'java.util.jar', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

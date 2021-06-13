@@ -1,9 +1,9 @@
 ---
 title: AtomicMoveNotSupportedException
-permalink: Java/AtomicMoveNotSupportedException
+permalink: /Java/AtomicMoveNotSupportedException/
 date: 2021-01-11
-key: JavaJava.A.AtomicMoveNotSupportedException
-category: java
+key: Java.A.AtomicMoveNotSupportedException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

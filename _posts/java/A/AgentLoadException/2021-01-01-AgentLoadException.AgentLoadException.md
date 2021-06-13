@@ -1,9 +1,9 @@
 ---
 title: AgentLoadException.AgentLoadException()
-permalink: Java/AgentLoadException/AgentLoadException
+permalink: /Java/AgentLoadException/AgentLoadException/
 date: 2021-01-11
-key: JavaJava.A.AgentLoadException
-category: java
+key: Java.A.AgentLoadException
+category: Java
 tags: ['java se', 'com.sun.tools.attach', 'jdk.attach', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

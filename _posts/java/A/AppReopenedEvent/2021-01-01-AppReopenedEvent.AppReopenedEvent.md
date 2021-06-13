@@ -1,9 +1,9 @@
 ---
 title: AppReopenedEvent.AppReopenedEvent()
-permalink: Java/AppReopenedEvent/AppReopenedEvent
+permalink: /Java/AppReopenedEvent/AppReopenedEvent/
 date: 2021-01-11
-key: JavaJava.A.AppReopenedEvent
-category: java
+key: Java.A.AppReopenedEvent
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

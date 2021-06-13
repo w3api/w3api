@@ -1,9 +1,9 @@
 ---
 title: AccessibleHyperlink.isValid()
-permalink: Java/AccessibleHyperlink/isValid
+permalink: /Java/AccessibleHyperlink/isValid/
 date: 2021-01-11
-key: JavaJava.A.AccessibleHyperlink
-category: java
+key: Java.A.AccessibleHyperlink
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

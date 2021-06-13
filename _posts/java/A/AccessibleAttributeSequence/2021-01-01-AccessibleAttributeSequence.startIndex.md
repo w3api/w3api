@@ -1,9 +1,9 @@
 ---
 title: AccessibleAttributeSequence.startIndex
-permalink: Java/AccessibleAttributeSequence/startIndex
+permalink: /Java/AccessibleAttributeSequence/startIndex/
 date: 2021-01-11
-key: JavaJava.A.AccessibleAttributeSequence
-category: java
+key: Java.A.AccessibleAttributeSequence
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

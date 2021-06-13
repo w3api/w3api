@@ -1,9 +1,9 @@
 ---
 title: AsynchronousChannelProvider.openAsynchronousSocketChannel()
-permalink: Java/AsynchronousChannelProvider/openAsynchronousSocketChannel
+permalink: /Java/AsynchronousChannelProvider/openAsynchronousSocketChannel/
 date: 2021-01-11
-key: JavaJava.A.AsynchronousChannelProvider
-category: java
+key: Java.A.AsynchronousChannelProvider
+category: Java
 tags: ['java se', 'java.nio.channels.spi', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

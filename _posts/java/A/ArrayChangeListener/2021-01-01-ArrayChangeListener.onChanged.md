@@ -1,9 +1,9 @@
 ---
 title: ArrayChangeListener.onChanged()
-permalink: Java/ArrayChangeListener/onChanged
+permalink: /Java/ArrayChangeListener/onChanged/
 date: 2021-01-11
-key: JavaJava.A.ArrayChangeListener
-category: java
+key: Java.A.ArrayChangeListener
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

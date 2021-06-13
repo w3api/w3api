@@ -1,9 +1,9 @@
 ---
 title: AsynchronousByteChannel
-permalink: Java/AsynchronousByteChannel
+permalink: /Java/AsynchronousByteChannel/
 date: 2021-01-11
-key: JavaJava.A.AsynchronousByteChannel
-category: java
+key: Java.A.AsynchronousByteChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

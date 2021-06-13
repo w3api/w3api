@@ -1,9 +1,9 @@
 ---
 title: AlreadyBoundException
-permalink: Java/AlreadyBoundException/
+permalink: /Java/AlreadyBoundException//
 date: 2021-01-11
-key: JavaJava.A.AlreadyBoundException
-category: java
+key: Java.A.AlreadyBoundException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

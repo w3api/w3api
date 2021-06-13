@@ -1,9 +1,9 @@
 ---
 title: AboutEvent
-permalink: Java/AboutEvent
+permalink: /Java/AboutEvent/
 date: 2021-01-11
-key: JavaJava.A.AboutEvent
-category: java
+key: Java.A.AboutEvent
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

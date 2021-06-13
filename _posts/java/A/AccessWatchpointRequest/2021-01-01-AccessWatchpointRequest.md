@@ -1,9 +1,9 @@
 ---
 title: AccessWatchpointRequest
-permalink: Java/AccessWatchpointRequest
+permalink: /Java/AccessWatchpointRequest/
 date: 2021-01-11
-key: JavaJava.A.AccessWatchpointRequest
-category: java
+key: Java.A.AccessWatchpointRequest
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

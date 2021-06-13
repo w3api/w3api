@@ -1,9 +1,9 @@
 ---
 title: ArrayTypeTree.getType()
-permalink: Java/ArrayTypeTree/getType
+permalink: /Java/ArrayTypeTree/getType/
 date: 2021-01-11
-key: JavaJava.A.ArrayTypeTree
-category: java
+key: Java.A.ArrayTypeTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

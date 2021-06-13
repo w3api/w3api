@@ -1,9 +1,9 @@
 ---
 title: AnnotatedElement.getAnnotation()
-permalink: Java/AnnotatedElement/getAnnotation
+permalink: /Java/AnnotatedElement/getAnnotation/
 date: 2021-01-11
-key: JavaJava.A.AnnotatedElement
-category: java
+key: Java.A.AnnotatedElement
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

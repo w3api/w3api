@@ -2,8 +2,8 @@
 title: BasicBorders.RadioButtonBorder.BasicBorders.RadioButtonBorder()
 permalink: /Java/BasicBorders/RadioButtonBorder/BasicBorders/RadioButtonBorder/
 date: 2021-01-11
-key: JavaJava.B.BasicBorders.RadioButtonBorder
-category: java
+key: Java.B.BasicBorders.RadioButtonBorder
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

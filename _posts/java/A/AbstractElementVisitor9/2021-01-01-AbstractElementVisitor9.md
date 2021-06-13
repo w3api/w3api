@@ -1,9 +1,9 @@
 ---
 title: AbstractElementVisitor9
-permalink: Java/AbstractElementVisitor9
+permalink: /Java/AbstractElementVisitor9/
 date: 2021-01-11
-key: JavaJava.A.AbstractElementVisitor9
-category: java
+key: Java.A.AbstractElementVisitor9
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 9']
 sidebar: 
   nav: java

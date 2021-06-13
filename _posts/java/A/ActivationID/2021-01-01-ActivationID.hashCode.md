@@ -1,9 +1,9 @@
 ---
 title: ActivationID.hashCode()
-permalink: Java/ActivationID/hashCode
+permalink: /Java/ActivationID/hashCode/
 date: 2021-01-11
-key: JavaJava.A.ActivationID
-category: java
+key: Java.A.ActivationID
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BadLocationException
 permalink: /Java/BadLocationException/
 date: 2021-01-11
-key: JavaJava.B.BadLocationException
-category: java
+key: Java.B.BadLocationException
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

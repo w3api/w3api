@@ -1,9 +1,9 @@
 ---
 title: AccessibleRole.AccessibleRole()
-permalink: Java/AccessibleRole-javax-accessibility/AccessibleRole
+permalink: /Java/AccessibleRole-javax-accessibility/AccessibleRole/
 date: 2021-01-11
-key: JavaJava.A.AccessibleRole-javax-accessibility
-category: java
+key: Java.A.AccessibleRole-javax-accessibility
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

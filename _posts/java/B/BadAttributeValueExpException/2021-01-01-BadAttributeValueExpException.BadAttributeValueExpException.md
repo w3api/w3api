@@ -2,8 +2,8 @@
 title: BadAttributeValueExpException.BadAttributeValueExpException()
 permalink: /Java/BadAttributeValueExpException/BadAttributeValueExpException/
 date: 2021-01-11
-key: JavaJava.B.BadAttributeValueExpException
-category: java
+key: Java.B.BadAttributeValueExpException
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

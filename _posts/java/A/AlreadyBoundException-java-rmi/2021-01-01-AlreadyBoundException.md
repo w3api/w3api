@@ -1,9 +1,9 @@
 ---
 title: AlreadyBoundException
-permalink: Java/AlreadyBoundException-java-rmi
+permalink: /Java/AlreadyBoundException-java-rmi/
 date: 2021-01-11
-key: JavaJava.A.AlreadyBoundException-java-rmi
-category: java
+key: Java.A.AlreadyBoundException-java-rmi
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

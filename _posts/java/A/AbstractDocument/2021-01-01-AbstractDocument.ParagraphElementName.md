@@ -1,9 +1,9 @@
 ---
 title: AbstractDocument.ParagraphElementName
-permalink: Java/AbstractDocument/ParagraphElementName
+permalink: /Java/AbstractDocument/ParagraphElementName/
 date: 2021-01-11
-key: JavaJava.A.AbstractDocument
-category: java
+key: Java.A.AbstractDocument
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

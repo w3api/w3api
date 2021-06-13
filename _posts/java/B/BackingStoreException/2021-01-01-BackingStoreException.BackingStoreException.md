@@ -2,8 +2,8 @@
 title: BackingStoreException.BackingStoreException()
 permalink: /Java/BackingStoreException/BackingStoreException/
 date: 2021-01-11
-key: JavaJava.B.BackingStoreException
-category: java
+key: Java.B.BackingStoreException
+category: Java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

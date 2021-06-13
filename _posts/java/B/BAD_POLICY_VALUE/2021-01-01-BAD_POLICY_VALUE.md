@@ -2,8 +2,8 @@
 title: BAD_POLICY_VALUE
 permalink: /Java/BAD_POLICY_VALUE/
 date: 2021-01-11
-key: JavaJava.B.BAD_POLICY_VALUE
-category: java
+key: Java.B.BAD_POLICY_VALUE
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

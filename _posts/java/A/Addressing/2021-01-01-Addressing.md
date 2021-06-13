@@ -1,9 +1,9 @@
 ---
 title: Addressing
-permalink: Java/Addressing
+permalink: /Java/Addressing/
 date: 2021-01-11
-key: JavaJava.A.Addressing
-category: java
+key: Java.A.Addressing
+category: Java
 tags: ['java se', 'javax.xml.ws.soap', 'java.xml.ws', 'anotacion java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 
   nav: java

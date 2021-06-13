@@ -1,9 +1,9 @@
 ---
 title: Autoscroll.getAutoscrollInsets()
-permalink: Java/Autoscroll/getAutoscrollInsets
+permalink: /Java/Autoscroll/getAutoscrollInsets/
 date: 2021-01-11
-key: JavaJava.A.Autoscroll
-category: java
+key: Java.A.Autoscroll
+category: Java
 tags: ['java se', 'java.awt.dnd', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

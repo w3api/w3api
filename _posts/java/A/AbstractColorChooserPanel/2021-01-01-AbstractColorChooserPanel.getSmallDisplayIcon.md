@@ -1,9 +1,9 @@
 ---
 title: AbstractColorChooserPanel.getSmallDisplayIcon()
-permalink: Java/AbstractColorChooserPanel/getSmallDisplayIcon
+permalink: /Java/AbstractColorChooserPanel/getSmallDisplayIcon/
 date: 2021-01-11
-key: JavaJava.A.AbstractColorChooserPanel
-category: java
+key: Java.A.AbstractColorChooserPanel
+category: Java
 tags: ['java se', 'javax.swing.colorchooser', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

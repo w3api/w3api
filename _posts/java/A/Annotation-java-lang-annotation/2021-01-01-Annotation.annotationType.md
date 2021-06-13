@@ -1,9 +1,9 @@
 ---
 title: Annotation.annotationType()
-permalink: Java/Annotation-java-lang-annotation/annotationType
+permalink: /Java/Annotation-java-lang-annotation/annotationType/
 date: 2021-01-11
-key: JavaJava.A.Annotation-java-lang-annotation
-category: java
+key: Java.A.Annotation-java-lang-annotation
+category: Java
 tags: ['java se', 'java.lang.annotation', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

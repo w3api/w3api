@@ -1,9 +1,9 @@
 ---
 title: AccessibleExtendedText
-permalink: Java/AccessibleExtendedText
+permalink: /Java/AccessibleExtendedText/
 date: 2021-01-11
-key: JavaJava.A.AccessibleExtendedText
-category: java
+key: Java.A.AccessibleExtendedText
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

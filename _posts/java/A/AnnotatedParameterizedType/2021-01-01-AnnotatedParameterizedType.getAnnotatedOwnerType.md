@@ -1,9 +1,9 @@
 ---
 title: AnnotatedParameterizedType.getAnnotatedOwnerType()
-permalink: Java/AnnotatedParameterizedType/getAnnotatedOwnerType
+permalink: /Java/AnnotatedParameterizedType/getAnnotatedOwnerType/
 date: 2021-01-11
-key: JavaJava.A.AnnotatedParameterizedType
-category: java
+key: Java.A.AnnotatedParameterizedType
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

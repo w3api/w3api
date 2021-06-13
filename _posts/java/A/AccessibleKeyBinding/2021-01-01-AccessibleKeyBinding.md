@@ -1,9 +1,9 @@
 ---
 title: AccessibleKeyBinding
-permalink: Java/AccessibleKeyBinding
+permalink: /Java/AccessibleKeyBinding/
 date: 2021-01-11
-key: JavaJava.A.AccessibleKeyBinding
-category: java
+key: Java.A.AccessibleKeyBinding
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

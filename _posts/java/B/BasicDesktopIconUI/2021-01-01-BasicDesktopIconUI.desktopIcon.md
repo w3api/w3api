@@ -2,8 +2,8 @@
 title: BasicDesktopIconUI.desktopIcon
 permalink: /Java/BasicDesktopIconUI/desktopIcon/
 date: 2021-01-11
-key: JavaJava.B.BasicDesktopIconUI
-category: java
+key: Java.B.BasicDesktopIconUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

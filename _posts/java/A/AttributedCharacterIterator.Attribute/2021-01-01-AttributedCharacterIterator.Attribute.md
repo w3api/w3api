@@ -1,9 +1,9 @@
 ---
 title: AttributedCharacterIterator.Attribute
-permalink: Java/AttributedCharacterIterator/Attribute
+permalink: /Java/AttributedCharacterIterator/Attribute/
 date: 2021-01-11
-key: JavaJava.A.AttributedCharacterIterator.Attribute
-category: java
+key: Java.A.AttributedCharacterIterator.Attribute
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

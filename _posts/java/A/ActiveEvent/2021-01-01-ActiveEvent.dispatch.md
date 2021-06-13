@@ -1,9 +1,9 @@
 ---
 title: ActiveEvent.dispatch()
-permalink: Java/ActiveEvent/dispatch
+permalink: /Java/ActiveEvent/dispatch/
 date: 2021-01-11
-key: JavaJava.A.ActiveEvent
-category: java
+key: Java.A.ActiveEvent
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AdjustmentEvent.ADJUSTMENT_VALUE_CHANGED
-permalink: Java/AdjustmentEvent/ADJUSTMENT_VALUE_CHANGED
+permalink: /Java/AdjustmentEvent/ADJUSTMENT_VALUE_CHANGED/
 date: 2021-01-11
-key: JavaJava.A.AdjustmentEvent
-category: java
+key: Java.A.AdjustmentEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

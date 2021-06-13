@@ -1,9 +1,9 @@
 ---
 title: AbstractMultiResolutionImage.getWidth()
-permalink: Java/AbstractMultiResolutionImage/getWidth
+permalink: /Java/AbstractMultiResolutionImage/getWidth/
 date: 2021-01-11
-key: JavaJava.A.AbstractMultiResolutionImage
-category: java
+key: Java.A.AbstractMultiResolutionImage
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

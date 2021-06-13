@@ -1,9 +1,9 @@
 ---
 title: AbstractQueue.remove()
-permalink: Java/AbstractQueue/remove
+permalink: /Java/AbstractQueue/remove/
 date: 2021-01-11
-key: JavaJava.A.AbstractQueue
-category: java
+key: Java.A.AbstractQueue
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AnnotatedType.getAnnotatedOwnerType()
-permalink: Java/AnnotatedType-java-lang-reflect/getAnnotatedOwnerType
+permalink: /Java/AnnotatedType-java-lang-reflect/getAnnotatedOwnerType/
 date: 2021-01-11
-key: JavaJava.A.AnnotatedType-java-lang-reflect
-category: java
+key: Java.A.AnnotatedType-java-lang-reflect
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

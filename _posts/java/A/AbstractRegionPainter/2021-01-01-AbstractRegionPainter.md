@@ -1,9 +1,9 @@
 ---
 title: AbstractRegionPainter
-permalink: Java/AbstractRegionPainter
+permalink: /Java/AbstractRegionPainter/
 date: 2021-01-11
-key: JavaJava.A.AbstractRegionPainter
-category: java
+key: Java.A.AbstractRegionPainter
+category: Java
 tags: ['java se', 'javax.swing.plaf.nimbus', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

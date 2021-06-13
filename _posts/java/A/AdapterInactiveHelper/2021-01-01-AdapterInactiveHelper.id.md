@@ -1,9 +1,9 @@
 ---
 title: AdapterInactiveHelper.id()
-permalink: Java/AdapterInactiveHelper/id
+permalink: /Java/AdapterInactiveHelper/id/
 date: 2021-01-11
-key: JavaJava.A.AdapterInactiveHelper
-category: java
+key: Java.A.AdapterInactiveHelper
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAManagerPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

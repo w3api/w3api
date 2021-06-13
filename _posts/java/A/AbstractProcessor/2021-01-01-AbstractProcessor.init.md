@@ -1,9 +1,9 @@
 ---
 title: AbstractProcessor.init()
-permalink: Java/AbstractProcessor/init
+permalink: /Java/AbstractProcessor/init/
 date: 2021-01-11
-key: JavaJava.A.AbstractProcessor
-category: java
+key: Java.A.AbstractProcessor
+category: Java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

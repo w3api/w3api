@@ -1,9 +1,9 @@
 ---
 title: ArrayChangeListener
-permalink: Java/ArrayChangeListener
+permalink: /Java/ArrayChangeListener/
 date: 2021-01-11
-key: JavaJava.A.ArrayChangeListener
-category: java
+key: Java.A.ArrayChangeListener
+category: Java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'interface java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AddressHelper
-permalink: Java/AddressHelper
+permalink: /Java/AddressHelper/
 date: 2021-01-11
-key: JavaJava.A.AddressHelper
-category: java
+key: Java.A.AddressHelper
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextExtPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

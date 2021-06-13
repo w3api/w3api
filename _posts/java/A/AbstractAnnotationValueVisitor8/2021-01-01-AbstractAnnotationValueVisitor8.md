@@ -1,9 +1,9 @@
 ---
 title: AbstractAnnotationValueVisitor8
-permalink: Java/AbstractAnnotationValueVisitor8
+permalink: /Java/AbstractAnnotationValueVisitor8/
 date: 2021-01-11
-key: JavaJava.A.AbstractAnnotationValueVisitor8
-category: java
+key: Java.A.AbstractAnnotationValueVisitor8
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

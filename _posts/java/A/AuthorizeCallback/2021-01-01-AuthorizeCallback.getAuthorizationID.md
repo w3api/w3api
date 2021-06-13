@@ -1,9 +1,9 @@
 ---
 title: AuthorizeCallback.getAuthorizationID()
-permalink: Java/AuthorizeCallback/getAuthorizationID
+permalink: /Java/AuthorizeCallback/getAuthorizationID/
 date: 2021-01-11
-key: JavaJava.A.AuthorizeCallback
-category: java
+key: Java.A.AuthorizeCallback
+category: Java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

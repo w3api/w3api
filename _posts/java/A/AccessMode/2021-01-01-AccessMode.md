@@ -1,9 +1,9 @@
 ---
 title: AccessMode
-permalink: Java/AccessMode
+permalink: /Java/AccessMode/
 date: 2021-01-11
-key: JavaJava.A.AccessMode
-category: java
+key: Java.A.AccessMode
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'enumerado java', 'Java 1.7']
 sidebar: 
   nav: java

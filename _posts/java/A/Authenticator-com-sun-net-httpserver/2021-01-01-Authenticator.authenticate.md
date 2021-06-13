@@ -1,9 +1,9 @@
 ---
 title: Authenticator.authenticate()
-permalink: Java/Authenticator-com-sun-net-httpserver/authenticate
+permalink: /Java/Authenticator-com-sun-net-httpserver/authenticate/
 date: 2021-01-11
-key: JavaJava.A.Authenticator-com-sun-net-httpserver
-category: java
+key: Java.A.Authenticator-com-sun-net-httpserver
+category: Java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

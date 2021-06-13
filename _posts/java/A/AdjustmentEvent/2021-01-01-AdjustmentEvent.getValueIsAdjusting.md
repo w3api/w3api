@@ -1,9 +1,9 @@
 ---
 title: AdjustmentEvent.getValueIsAdjusting()
-permalink: Java/AdjustmentEvent/getValueIsAdjusting
+permalink: /Java/AdjustmentEvent/getValueIsAdjusting/
 date: 2021-01-11
-key: JavaJava.A.AdjustmentEvent
-category: java
+key: Java.A.AdjustmentEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

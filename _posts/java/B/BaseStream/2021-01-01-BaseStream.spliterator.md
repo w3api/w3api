@@ -2,8 +2,8 @@
 title: BaseStream.spliterator()
 permalink: /Java/BaseStream/spliterator/
 date: 2021-01-11
-key: JavaJava.B.BaseStream
-category: java
+key: Java.B.BaseStream
+category: Java
 tags: ['java se', 'java.util.stream', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

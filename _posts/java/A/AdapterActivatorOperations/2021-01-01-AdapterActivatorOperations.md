@@ -1,9 +1,9 @@
 ---
 title: AdapterActivatorOperations
-permalink: Java/AdapterActivatorOperations
+permalink: /Java/AdapterActivatorOperations/
 date: 2021-01-11
-key: JavaJava.A.AdapterActivatorOperations
-category: java
+key: Java.A.AdapterActivatorOperations
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

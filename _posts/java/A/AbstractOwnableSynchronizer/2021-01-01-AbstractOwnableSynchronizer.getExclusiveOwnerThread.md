@@ -1,9 +1,9 @@
 ---
 title: AbstractOwnableSynchronizer.getExclusiveOwnerThread()
-permalink: Java/AbstractOwnableSynchronizer/getExclusiveOwnerThread
+permalink: /Java/AbstractOwnableSynchronizer/getExclusiveOwnerThread/
 date: 2021-01-11
-key: JavaJava.A.AbstractOwnableSynchronizer
-category: java
+key: Java.A.AbstractOwnableSynchronizer
+category: Java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AbstractAction.isEnabled()
-permalink: Java/AbstractAction/isEnabled
+permalink: /Java/AbstractAction/isEnabled/
 date: 2021-01-11
-key: JavaJava.A.AbstractAction
-category: java
+key: Java.A.AbstractAction
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

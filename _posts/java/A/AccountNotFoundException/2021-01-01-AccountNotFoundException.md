@@ -1,9 +1,9 @@
 ---
 title: AccountNotFoundException
-permalink: Java/AccountNotFoundException
+permalink: /Java/AccountNotFoundException/
 date: 2021-01-11
-key: JavaJava.A.AccountNotFoundException
-category: java
+key: Java.A.AccountNotFoundException
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

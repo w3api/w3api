@@ -1,9 +1,9 @@
 ---
 title: AbstractBorder
-permalink: Java/AbstractBorder
+permalink: /Java/AbstractBorder/
 date: 2021-01-11
-key: JavaJava.A.AbstractBorder
-category: java
+key: Java.A.AbstractBorder
+category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

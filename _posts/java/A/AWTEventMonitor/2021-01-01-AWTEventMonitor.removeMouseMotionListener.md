@@ -1,9 +1,9 @@
 ---
 title: AWTEventMonitor.removeMouseMotionListener()
-permalink: Java/AWTEventMonitor/removeMouseMotionListener
+permalink: /Java/AWTEventMonitor/removeMouseMotionListener/
 date: 2021-01-11
-key: JavaJava.A.AWTEventMonitor
-category: java
+key: Java.A.AWTEventMonitor
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AbstractSequentialList.addAll()
-permalink: Java/AbstractSequentialList/addAll
+permalink: /Java/AbstractSequentialList/addAll/
 date: 2021-01-11
-key: JavaJava.A.AbstractSequentialList
-category: java
+key: Java.A.AbstractSequentialList
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

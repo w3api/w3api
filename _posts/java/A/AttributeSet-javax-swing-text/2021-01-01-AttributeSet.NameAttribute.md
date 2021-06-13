@@ -1,9 +1,9 @@
 ---
 title: AttributeSet.NameAttribute
-permalink: Java/AttributeSet-javax-swing-text/NameAttribute
+permalink: /Java/AttributeSet-javax-swing-text/NameAttribute/
 date: 2021-01-11
-key: JavaJava.A.AttributeSet-javax-swing-text
-category: java
+key: Java.A.AttributeSet-javax-swing-text
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AclEntryPermission.WRITE_ACL
-permalink: Java/AclEntryPermission/WRITE_ACL
+permalink: /Java/AclEntryPermission/WRITE_ACL/
 date: 2021-01-11
-key: JavaJava.A.AclEntryPermission
-category: java
+key: Java.A.AclEntryPermission
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

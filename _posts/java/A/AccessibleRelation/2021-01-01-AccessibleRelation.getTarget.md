@@ -1,9 +1,9 @@
 ---
 title: AccessibleRelation.getTarget()
-permalink: Java/AccessibleRelation/getTarget
+permalink: /Java/AccessibleRelation/getTarget/
 date: 2021-01-11
-key: JavaJava.A.AccessibleRelation
-category: java
+key: Java.A.AccessibleRelation
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

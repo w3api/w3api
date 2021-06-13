@@ -2,8 +2,8 @@
 title: BasicControl.criticality
 permalink: /Java/BasicControl/criticality/
 date: 2021-01-11
-key: JavaJava.B.BasicControl
-category: java
+key: Java.B.BasicControl
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

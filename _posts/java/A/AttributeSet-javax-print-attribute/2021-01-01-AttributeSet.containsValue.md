@@ -1,9 +1,9 @@
 ---
 title: AttributeSet.containsValue()
-permalink: Java/AttributeSet-javax-print-attribute/containsValue
+permalink: /Java/AttributeSet-javax-print-attribute/containsValue/
 date: 2021-01-11
-key: JavaJava.A.AttributeSet-javax-print-attribute
-category: java
+key: Java.A.AttributeSet-javax-print-attribute
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

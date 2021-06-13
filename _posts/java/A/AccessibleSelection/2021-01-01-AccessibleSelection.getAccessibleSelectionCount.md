@@ -1,9 +1,9 @@
 ---
 title: AccessibleSelection.getAccessibleSelectionCount()
-permalink: Java/AccessibleSelection/getAccessibleSelectionCount
+permalink: /Java/AccessibleSelection/getAccessibleSelectionCount/
 date: 2021-01-11
-key: JavaJava.A.AccessibleSelection
-category: java
+key: Java.A.AccessibleSelection
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

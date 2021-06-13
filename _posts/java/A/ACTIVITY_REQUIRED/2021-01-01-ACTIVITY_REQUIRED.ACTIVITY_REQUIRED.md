@@ -1,9 +1,9 @@
 ---
 title: ACTIVITY_REQUIRED.ACTIVITY_REQUIRED()
-permalink: Java/ACTIVITY_REQUIRED/ACTIVITY_REQUIRED
+permalink: /Java/ACTIVITY_REQUIRED/ACTIVITY_REQUIRED/
 date: 2021-01-11
-key: JavaJava.A.ACTIVITY_REQUIRED
-category: java
+key: Java.A.ACTIVITY_REQUIRED
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ActivationDataFlavor.ActivationDataFlavor()
-permalink: Java/ActivationDataFlavor/ActivationDataFlavor
+permalink: /Java/ActivationDataFlavor/ActivationDataFlavor/
 date: 2021-01-11
-key: JavaJava.A.ActivationDataFlavor
-category: java
+key: Java.A.ActivationDataFlavor
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AppHiddenListener
-permalink: Java/AppHiddenListener
+permalink: /Java/AppHiddenListener/
 date: 2021-01-11
-key: JavaJava.A.AppHiddenListener
-category: java
+key: Java.A.AppHiddenListener
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 
   nav: java

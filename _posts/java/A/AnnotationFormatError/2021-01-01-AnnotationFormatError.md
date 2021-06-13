@@ -1,9 +1,9 @@
 ---
 title: AnnotationFormatError
-permalink: Java/AnnotationFormatError
+permalink: /Java/AnnotationFormatError/
 date: 2021-01-11
-key: JavaJava.A.AnnotationFormatError
-category: java
+key: Java.A.AnnotationFormatError
+category: Java
 tags: ['java se', 'java.lang.annotation', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

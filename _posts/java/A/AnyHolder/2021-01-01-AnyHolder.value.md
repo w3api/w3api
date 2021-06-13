@@ -1,9 +1,9 @@
 ---
 title: AnyHolder.value
-permalink: Java/AnyHolder/value
+permalink: /Java/AnyHolder/value/
 date: 2021-01-11
-key: JavaJava.A.AnyHolder
-category: java
+key: Java.A.AnyHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

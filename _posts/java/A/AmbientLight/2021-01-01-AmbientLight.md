@@ -1,9 +1,9 @@
 ---
 title: AmbientLight
-permalink: Java/AmbientLight
+permalink: /Java/AmbientLight/
 date: 2021-01-11
-key: JavaJava.A.AmbientLight
-category: java
+key: Java.A.AmbientLight
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

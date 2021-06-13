@@ -1,9 +1,9 @@
 ---
 title: AssertionError.AssertionError()
-permalink: Java/AssertionError/AssertionError
+permalink: /Java/AssertionError/AssertionError/
 date: 2021-01-11
-key: JavaJava.A.AssertionError
-category: java
+key: Java.A.AssertionError
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

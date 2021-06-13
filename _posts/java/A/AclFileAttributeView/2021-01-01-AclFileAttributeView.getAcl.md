@@ -1,9 +1,9 @@
 ---
 title: AclFileAttributeView.getAcl()
-permalink: Java/AclFileAttributeView/getAcl
+permalink: /Java/AclFileAttributeView/getAcl/
 date: 2021-01-11
-key: JavaJava.A.AclFileAttributeView
-category: java
+key: Java.A.AclFileAttributeView
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AccessibleIcon
-permalink: Java/AccessibleIcon
+permalink: /Java/AccessibleIcon/
 date: 2021-01-11
-key: JavaJava.A.AccessibleIcon
-category: java
+key: Java.A.AccessibleIcon
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

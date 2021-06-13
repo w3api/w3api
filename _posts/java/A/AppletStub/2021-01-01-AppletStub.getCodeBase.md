@@ -1,9 +1,9 @@
 ---
 title: AppletStub.getCodeBase()
-permalink: Java/AppletStub/getCodeBase
+permalink: /Java/AppletStub/getCodeBase/
 date: 2021-01-11
-key: JavaJava.A.AppletStub
-category: java
+key: Java.A.AppletStub
+category: Java
 tags: ['java se', 'java.applet', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

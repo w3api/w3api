@@ -1,9 +1,9 @@
 ---
 title: ActionMapUIResource.ActionMapUIResource()
-permalink: Java/ActionMapUIResource/ActionMapUIResource
+permalink: /Java/ActionMapUIResource/ActionMapUIResource/
 date: 2021-01-11
-key: JavaJava.A.ActionMapUIResource
-category: java
+key: Java.A.ActionMapUIResource
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

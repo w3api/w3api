@@ -1,9 +1,9 @@
 ---
 title: AccessibleStateSet.clear()
-permalink: Java/AccessibleStateSet/clear
+permalink: /Java/AccessibleStateSet/clear/
 date: 2021-01-11
-key: JavaJava.A.AccessibleStateSet
-category: java
+key: Java.A.AccessibleStateSet
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

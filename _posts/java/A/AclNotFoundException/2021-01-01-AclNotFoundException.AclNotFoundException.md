@@ -1,9 +1,9 @@
 ---
 title: AclNotFoundException.AclNotFoundException()
-permalink: Java/AclNotFoundException/AclNotFoundException
+permalink: /Java/AclNotFoundException/AclNotFoundException/
 date: 2021-01-11
-key: JavaJava.A.AclNotFoundException
-category: java
+key: Java.A.AclNotFoundException
+category: Java
 tags: ['java se', 'java.security.acl', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AccessibleRole.LIST_VIEW
-permalink: Java/AccessibleRole-javafx-scene/LIST_VIEW
+permalink: /Java/AccessibleRole-javafx-scene/LIST_VIEW/
 date: 2021-01-11
-key: JavaJava.A.AccessibleRole-javafx-scene
-category: java
+key: Java.A.AccessibleRole-javafx-scene
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

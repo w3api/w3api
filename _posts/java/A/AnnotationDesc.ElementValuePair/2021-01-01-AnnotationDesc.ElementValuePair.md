@@ -1,9 +1,9 @@
 ---
 title: AnnotationDesc.ElementValuePair
-permalink: Java/AnnotationDesc/ElementValuePair
+permalink: /Java/AnnotationDesc/ElementValuePair/
 date: 2021-01-11
-key: JavaJava.A.AnnotationDesc.ElementValuePair
-category: java
+key: Java.A.AnnotationDesc.ElementValuePair
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

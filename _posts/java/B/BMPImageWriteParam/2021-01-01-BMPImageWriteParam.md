@@ -2,8 +2,8 @@
 title: BMPImageWriteParam
 permalink: /Java/BMPImageWriteParam/
 date: 2021-01-11
-key: JavaJava.B.BMPImageWriteParam
-category: java
+key: Java.B.BMPImageWriteParam
+category: Java
 tags: ['java se', 'javax.imageio.plugins.bmp', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

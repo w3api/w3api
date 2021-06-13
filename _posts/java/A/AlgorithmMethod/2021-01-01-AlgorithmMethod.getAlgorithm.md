@@ -1,9 +1,9 @@
 ---
 title: AlgorithmMethod.getAlgorithm()
-permalink: Java/AlgorithmMethod/getAlgorithm
+permalink: /Java/AlgorithmMethod/getAlgorithm/
 date: 2021-01-11
-key: JavaJava.A.AlgorithmMethod
-category: java
+key: Java.A.AlgorithmMethod
+category: Java
 tags: ['java se', 'javax.xml.crypto', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

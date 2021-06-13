@@ -1,9 +1,9 @@
 ---
 title: AttributeException
-permalink: Java/AttributeException
+permalink: /Java/AttributeException/
 date: 2021-01-11
-key: JavaJava.A.AttributeException
-category: java
+key: Java.A.AttributeException
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

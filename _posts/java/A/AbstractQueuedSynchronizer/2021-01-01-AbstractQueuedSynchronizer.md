@@ -1,9 +1,9 @@
 ---
 title: AbstractQueuedSynchronizer
-permalink: Java/AbstractQueuedSynchronizer
+permalink: /Java/AbstractQueuedSynchronizer/
 date: 2021-01-11
-key: JavaJava.A.AbstractQueuedSynchronizer
-category: java
+key: Java.A.AbstractQueuedSynchronizer
+category: Java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

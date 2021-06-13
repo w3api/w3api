@@ -1,9 +1,9 @@
 ---
 title: AccessibleHypertext.getLinkIndex()
-permalink: Java/AccessibleHypertext/getLinkIndex
+permalink: /Java/AccessibleHypertext/getLinkIndex/
 date: 2021-01-11
-key: JavaJava.A.AccessibleHypertext
-category: java
+key: Java.A.AccessibleHypertext
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

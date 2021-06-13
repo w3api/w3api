@@ -1,9 +1,9 @@
 ---
 title: AccessibleBundle
-permalink: Java/AccessibleBundle
+permalink: /Java/AccessibleBundle/
 date: 2021-01-11
-key: JavaJava.A.AccessibleBundle
-category: java
+key: Java.A.AccessibleBundle
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AccessibleEditableText.selectText()
-permalink: Java/AccessibleEditableText/selectText
+permalink: /Java/AccessibleEditableText/selectText/
 date: 2021-01-11
-key: JavaJava.A.AccessibleEditableText
-category: java
+key: Java.A.AccessibleEditableText
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

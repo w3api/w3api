@@ -1,9 +1,9 @@
 ---
 title: Annotation
-permalink: Java/Annotation-java-text
+permalink: /Java/Annotation-java-text/
 date: 2021-01-11
-key: JavaJava.A.Annotation-java-text
-category: java
+key: Java.A.Annotation-java-text
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

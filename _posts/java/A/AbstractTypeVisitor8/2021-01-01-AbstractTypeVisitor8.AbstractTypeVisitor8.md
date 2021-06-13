@@ -1,9 +1,9 @@
 ---
 title: AbstractTypeVisitor8.AbstractTypeVisitor8()
-permalink: Java/AbstractTypeVisitor8/AbstractTypeVisitor8
+permalink: /Java/AbstractTypeVisitor8/AbstractTypeVisitor8/
 date: 2021-01-11
-key: JavaJava.A.AbstractTypeVisitor8
-category: java
+key: Java.A.AbstractTypeVisitor8
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

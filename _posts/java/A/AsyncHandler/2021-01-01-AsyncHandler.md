@@ -1,9 +1,9 @@
 ---
 title: AsyncHandler
-permalink: Java/AsyncHandler
+permalink: /Java/AsyncHandler/
 date: 2021-01-11
-key: JavaJava.A.AsyncHandler
-category: java
+key: Java.A.AsyncHandler
+category: Java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'interface java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 
   nav: java

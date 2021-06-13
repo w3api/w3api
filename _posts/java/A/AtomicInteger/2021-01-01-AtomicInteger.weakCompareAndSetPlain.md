@@ -1,9 +1,9 @@
 ---
 title: AtomicInteger.weakCompareAndSetPlain()
-permalink: Java/AtomicInteger/weakCompareAndSetPlain
+permalink: /Java/AtomicInteger/weakCompareAndSetPlain/
 date: 2021-01-11
-key: JavaJava.A.AtomicInteger
-category: java
+key: Java.A.AtomicInteger
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

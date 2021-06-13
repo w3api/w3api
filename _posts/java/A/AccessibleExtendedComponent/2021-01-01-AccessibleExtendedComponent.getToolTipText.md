@@ -1,9 +1,9 @@
 ---
 title: AccessibleExtendedComponent.getToolTipText()
-permalink: Java/AccessibleExtendedComponent/getToolTipText
+permalink: /Java/AccessibleExtendedComponent/getToolTipText/
 date: 2021-01-11
-key: JavaJava.A.AccessibleExtendedComponent
-category: java
+key: Java.A.AccessibleExtendedComponent
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BasicOptionPaneUI.ButtonAreaLayout.padding
 permalink: /Java/BasicOptionPaneUI/ButtonAreaLayout/padding/
 date: 2021-01-11
-key: JavaJava.B.BasicOptionPaneUI.ButtonAreaLayout
-category: java
+key: Java.B.BasicOptionPaneUI.ButtonAreaLayout
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

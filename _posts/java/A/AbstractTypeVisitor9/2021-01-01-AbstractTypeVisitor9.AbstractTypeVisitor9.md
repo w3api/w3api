@@ -1,9 +1,9 @@
 ---
 title: AbstractTypeVisitor9.AbstractTypeVisitor9()
-permalink: Java/AbstractTypeVisitor9/AbstractTypeVisitor9
+permalink: /Java/AbstractTypeVisitor9/AbstractTypeVisitor9/
 date: 2021-01-11
-key: JavaJava.A.AbstractTypeVisitor9
-category: java
+key: Java.A.AbstractTypeVisitor9
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ACTIVITY_COMPLETED
-permalink: Java/ACTIVITY_COMPLETED
+permalink: /Java/ACTIVITY_COMPLETED/
 date: 2021-01-11
-key: JavaJava.A.ACTIVITY_COMPLETED
-category: java
+key: Java.A.ACTIVITY_COMPLETED
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BasicEditorPaneUI
 permalink: /Java/BasicEditorPaneUI/
 date: 2021-01-11
-key: JavaJava.B.BasicEditorPaneUI
-category: java
+key: Java.B.BasicEditorPaneUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

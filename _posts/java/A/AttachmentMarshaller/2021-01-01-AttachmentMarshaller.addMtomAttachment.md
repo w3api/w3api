@@ -1,9 +1,9 @@
 ---
 title: AttachmentMarshaller.addMtomAttachment()
-permalink: Java/AttachmentMarshaller/addMtomAttachment
+permalink: /Java/AttachmentMarshaller/addMtomAttachment/
 date: 2021-01-11
-key: JavaJava.A.AttachmentMarshaller
-category: java
+key: Java.A.AttachmentMarshaller
+category: Java
 tags: ['java se', 'javax.xml.bind.attachment', 'java.xml.bind', 'metodo java', 'Java 1.6', 'JAXB 2.0']
 sidebar: 
   nav: java

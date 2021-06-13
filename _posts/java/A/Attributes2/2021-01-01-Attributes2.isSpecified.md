@@ -1,9 +1,9 @@
 ---
 title: Attributes2.isSpecified()
-permalink: Java/Attributes2/isSpecified
+permalink: /Java/Attributes2/isSpecified/
 date: 2021-01-11
-key: JavaJava.A.Attributes2
-category: java
+key: Java.A.Attributes2
+category: Java
 tags: ['java se', 'org.xml.sax.ext', 'java.xml', 'metodo java', 'Java 1.5', 'SAX 2.0 (extensions Java 1.1 alpha)']
 sidebar: 
   nav: java

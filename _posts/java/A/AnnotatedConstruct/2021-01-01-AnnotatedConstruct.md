@@ -1,9 +1,9 @@
 ---
 title: AnnotatedConstruct
-permalink: Java/AnnotatedConstruct
+permalink: /Java/AnnotatedConstruct/
 date: 2021-01-11
-key: JavaJava.A.AnnotatedConstruct
-category: java
+key: Java.A.AnnotatedConstruct
+category: Java
 tags: ['java se', 'javax.lang.model', 'java.compiler', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

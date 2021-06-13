@@ -1,9 +1,9 @@
 ---
 title: AbstractSelector.AbstractSelector()
-permalink: Java/AbstractSelector/AbstractSelector
+permalink: /Java/AbstractSelector/AbstractSelector/
 date: 2021-01-11
-key: JavaJava.A.AbstractSelector
-category: java
+key: Java.A.AbstractSelector
+category: Java
 tags: ['java se', 'java.nio.channels.spi', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

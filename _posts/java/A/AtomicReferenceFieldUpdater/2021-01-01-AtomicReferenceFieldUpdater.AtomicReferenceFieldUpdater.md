@@ -1,9 +1,9 @@
 ---
 title: AtomicReferenceFieldUpdater.AtomicReferenceFieldUpdater()
-permalink: Java/AtomicReferenceFieldUpdater/AtomicReferenceFieldUpdater
+permalink: /Java/AtomicReferenceFieldUpdater/AtomicReferenceFieldUpdater/
 date: 2021-01-11
-key: JavaJava.A.AtomicReferenceFieldUpdater
-category: java
+key: Java.A.AtomicReferenceFieldUpdater
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

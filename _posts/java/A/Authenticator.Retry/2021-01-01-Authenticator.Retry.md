@@ -1,9 +1,9 @@
 ---
 title: Authenticator.Retry
-permalink: Java/Authenticator/Retry
+permalink: /Java/Authenticator/Retry/
 date: 2021-01-11
-key: JavaJava.A.Authenticator.Retry
-category: java
+key: Java.A.Authenticator.Retry
+category: Java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

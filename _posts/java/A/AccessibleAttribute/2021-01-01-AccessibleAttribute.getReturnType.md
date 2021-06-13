@@ -1,9 +1,9 @@
 ---
 title: AccessibleAttribute.getReturnType()
-permalink: Java/AccessibleAttribute/getReturnType
+permalink: /Java/AccessibleAttribute/getReturnType/
 date: 2021-01-11
-key: JavaJava.A.AccessibleAttribute
-category: java
+key: Java.A.AccessibleAttribute
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

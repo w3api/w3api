@@ -1,9 +1,9 @@
 ---
 title: AbstractButton.createActionPropertyChangeListener()
-permalink: Java/AbstractButton/createActionPropertyChangeListener
+permalink: /Java/AbstractButton/createActionPropertyChangeListener/
 date: 2021-01-11
-key: JavaJava.A.AbstractButton
-category: java
+key: Java.A.AbstractButton
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

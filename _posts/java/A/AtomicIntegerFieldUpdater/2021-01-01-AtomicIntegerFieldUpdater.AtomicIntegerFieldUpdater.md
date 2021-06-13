@@ -1,9 +1,9 @@
 ---
 title: AtomicIntegerFieldUpdater.AtomicIntegerFieldUpdater()
-permalink: Java/AtomicIntegerFieldUpdater/AtomicIntegerFieldUpdater
+permalink: /Java/AtomicIntegerFieldUpdater/AtomicIntegerFieldUpdater/
 date: 2021-01-11
-key: JavaJava.A.AtomicIntegerFieldUpdater
-category: java
+key: Java.A.AtomicIntegerFieldUpdater
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

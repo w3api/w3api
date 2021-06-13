@@ -1,9 +1,9 @@
 ---
 title: AbstractListModel.fireIntervalRemoved()
-permalink: Java/AbstractListModel/fireIntervalRemoved
+permalink: /Java/AbstractListModel/fireIntervalRemoved/
 date: 2021-01-11
-key: JavaJava.A.AbstractListModel
-category: java
+key: Java.A.AbstractListModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

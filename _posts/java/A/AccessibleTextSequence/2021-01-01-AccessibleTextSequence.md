@@ -1,9 +1,9 @@
 ---
 title: AccessibleTextSequence
-permalink: Java/AccessibleTextSequence
+permalink: /Java/AccessibleTextSequence/
 date: 2021-01-11
-key: JavaJava.A.AccessibleTextSequence
-category: java
+key: Java.A.AccessibleTextSequence
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

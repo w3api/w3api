@@ -1,9 +1,9 @@
 ---
 title: AreaChart.getCreateSymbols()
-permalink: Java/AreaChart/getCreateSymbols
+permalink: /Java/AreaChart/getCreateSymbols/
 date: 2021-01-11
-key: JavaJava.A.AreaChart
-category: java
+key: Java.A.AreaChart
+category: Java
 tags: ['java se', 'javafx.scene.chart', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

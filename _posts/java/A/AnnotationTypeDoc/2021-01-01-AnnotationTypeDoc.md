@@ -1,9 +1,9 @@
 ---
 title: AnnotationTypeDoc
-permalink: Java/AnnotationTypeDoc
+permalink: /Java/AnnotationTypeDoc/
 date: 2021-01-11
-key: JavaJava.A.AnnotationTypeDoc
-category: java
+key: Java.A.AnnotationTypeDoc
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

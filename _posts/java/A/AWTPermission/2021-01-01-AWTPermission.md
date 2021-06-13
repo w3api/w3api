@@ -1,9 +1,9 @@
 ---
 title: AWTPermission
-permalink: Java/AWTPermission
+permalink: /Java/AWTPermission/
 date: 2021-01-11
-key: JavaJava.A.AWTPermission
-category: java
+key: Java.A.AWTPermission
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

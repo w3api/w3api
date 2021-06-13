@@ -1,9 +1,9 @@
 ---
 title: AnnotatedType
-permalink: Java/AnnotatedType/
+permalink: /Java/AnnotatedType//
 date: 2021-01-11
-key: JavaJava.A.AnnotatedType
-category: java
+key: Java.A.AnnotatedType
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

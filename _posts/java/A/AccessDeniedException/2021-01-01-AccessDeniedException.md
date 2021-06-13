@@ -1,9 +1,9 @@
 ---
 title: AccessDeniedException
-permalink: Java/AccessDeniedException
+permalink: /Java/AccessDeniedException/
 date: 2021-01-11
-key: JavaJava.A.AccessDeniedException
-category: java
+key: Java.A.AccessDeniedException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Attributes.Name.CLASS_PATH
-permalink: Java/Attributes/Name/CLASS_PATH
+permalink: /Java/Attributes/Name/CLASS_PATH/
 date: 2021-01-11
-key: JavaJava.A.Attributes.Name
-category: java
+key: Java.A.Attributes.Name
+category: Java
 tags: ['java se', 'java.util.jar', 'java.base', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

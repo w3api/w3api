@@ -1,9 +1,9 @@
 ---
 title: AudioInputStream
-permalink: Java/AudioInputStream
+permalink: /Java/AudioInputStream/
 date: 2021-01-11
-key: JavaJava.A.AudioInputStream
-category: java
+key: Java.A.AudioInputStream
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

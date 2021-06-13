@@ -1,9 +1,9 @@
 ---
 title: AttributeException.getUnsupportedValues()
-permalink: Java/AttributeException/getUnsupportedValues
+permalink: /Java/AttributeException/getUnsupportedValues/
 date: 2021-01-11
-key: JavaJava.A.AttributeException
-category: java
+key: Java.A.AttributeException
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

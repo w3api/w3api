@@ -1,9 +1,9 @@
 ---
 title: Accessible
-permalink: Java/Accessible/
+permalink: /Java/Accessible//
 date: 2021-01-11
-key: JavaJava.A.Accessible
-category: java
+key: Java.A.Accessible
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

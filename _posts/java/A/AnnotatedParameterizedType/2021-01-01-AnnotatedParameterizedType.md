@@ -1,9 +1,9 @@
 ---
 title: AnnotatedParameterizedType
-permalink: Java/AnnotatedParameterizedType
+permalink: /Java/AnnotatedParameterizedType/
 date: 2021-01-11
-key: JavaJava.A.AnnotatedParameterizedType
-category: java
+key: Java.A.AnnotatedParameterizedType
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BackgroundRepeat.NO_REPEAT
 permalink: /Java/BackgroundRepeat/NO_REPEAT/
 date: 2021-01-11
-key: JavaJava.B.BackgroundRepeat
-category: java
+key: Java.B.BackgroundRepeat
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

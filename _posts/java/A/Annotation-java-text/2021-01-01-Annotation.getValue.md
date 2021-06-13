@@ -1,9 +1,9 @@
 ---
 title: Annotation.getValue()
-permalink: Java/Annotation-java-text/getValue
+permalink: /Java/Annotation-java-text/getValue/
 date: 2021-01-11
-key: JavaJava.A.Annotation-java-text
-category: java
+key: Java.A.Annotation-java-text
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

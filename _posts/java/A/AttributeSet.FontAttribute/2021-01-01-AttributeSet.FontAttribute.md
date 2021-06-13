@@ -1,9 +1,9 @@
 ---
 title: AttributeSet.FontAttribute
-permalink: Java/AttributeSet/FontAttribute
+permalink: /Java/AttributeSet/FontAttribute/
 date: 2021-01-11
-key: JavaJava.A.AttributeSet.FontAttribute
-category: java
+key: Java.A.AttributeSet.FontAttribute
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

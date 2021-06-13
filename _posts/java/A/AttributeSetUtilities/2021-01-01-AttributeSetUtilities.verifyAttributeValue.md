@@ -1,9 +1,9 @@
 ---
 title: AttributeSetUtilities.verifyAttributeValue()
-permalink: Java/AttributeSetUtilities/verifyAttributeValue
+permalink: /Java/AttributeSetUtilities/verifyAttributeValue/
 date: 2021-01-11
-key: JavaJava.A.AttributeSetUtilities
-category: java
+key: Java.A.AttributeSetUtilities
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

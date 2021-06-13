@@ -1,9 +1,9 @@
 ---
 title: AbstractWriter
-permalink: Java/AbstractWriter
+permalink: /Java/AbstractWriter/
 date: 2021-01-11
-key: JavaJava.A.AbstractWriter
-category: java
+key: Java.A.AbstractWriter
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

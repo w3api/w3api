@@ -1,9 +1,9 @@
 ---
 title: AudioClip.AudioClip()
-permalink: Java/AudioClip-javafx-scene-media/AudioClip
+permalink: /Java/AudioClip-javafx-scene-media/AudioClip/
 date: 2021-01-11
-key: JavaJava.A.AudioClip-javafx-scene-media
-category: java
+key: Java.A.AudioClip-javafx-scene-media
+category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Animation.Status.values()
-permalink: Java/Animation/Status/values
+permalink: /Java/Animation/Status/values/
 date: 2021-01-11
-key: JavaJava.A.Animation.Status
-category: java
+key: Java.A.Animation.Status
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

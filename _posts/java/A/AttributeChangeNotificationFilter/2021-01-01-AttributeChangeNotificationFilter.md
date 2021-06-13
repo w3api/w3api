@@ -1,9 +1,9 @@
 ---
 title: AttributeChangeNotificationFilter
-permalink: Java/AttributeChangeNotificationFilter
+permalink: /Java/AttributeChangeNotificationFilter/
 date: 2021-01-11
-key: JavaJava.A.AttributeChangeNotificationFilter
-category: java
+key: Java.A.AttributeChangeNotificationFilter
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

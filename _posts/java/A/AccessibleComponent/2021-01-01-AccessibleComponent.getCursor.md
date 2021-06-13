@@ -1,9 +1,9 @@
 ---
 title: AccessibleComponent.getCursor()
-permalink: Java/AccessibleComponent/getCursor
+permalink: /Java/AccessibleComponent/getCursor/
 date: 2021-01-11
-key: JavaJava.A.AccessibleComponent
-category: java
+key: Java.A.AccessibleComponent
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

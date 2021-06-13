@@ -1,9 +1,9 @@
 ---
 title: AtomicReferenceArray
-permalink: Java/AtomicReferenceArray
+permalink: /Java/AtomicReferenceArray/
 date: 2021-01-11
-key: JavaJava.A.AtomicReferenceArray
-category: java
+key: Java.A.AtomicReferenceArray
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

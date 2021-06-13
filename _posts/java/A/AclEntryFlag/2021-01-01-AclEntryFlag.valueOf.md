@@ -1,9 +1,9 @@
 ---
 title: AclEntryFlag.valueOf()
-permalink: Java/AclEntryFlag/valueOf
+permalink: /Java/AclEntryFlag/valueOf/
 date: 2021-01-11
-key: JavaJava.A.AclEntryFlag
-category: java
+key: Java.A.AclEntryFlag
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

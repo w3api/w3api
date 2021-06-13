@@ -1,9 +1,9 @@
 ---
 title: AtomicLongArray.compareAndExchange()
-permalink: Java/AtomicLongArray/compareAndExchange
+permalink: /Java/AtomicLongArray/compareAndExchange/
 date: 2021-01-11
-key: JavaJava.A.AtomicLongArray
-category: java
+key: Java.A.AtomicLongArray
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Accessible
-permalink: Java/Accessible-javax-accessibility
+permalink: /Java/Accessible-javax-accessibility/
 date: 2021-01-11
-key: JavaJava.A.Accessible-javax-accessibility
-category: java
+key: Java.A.Accessible-javax-accessibility
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AbstractDocument.getRootElements()
-permalink: Java/AbstractDocument/getRootElements
+permalink: /Java/AbstractDocument/getRootElements/
 date: 2021-01-11
-key: JavaJava.A.AbstractDocument
-category: java
+key: Java.A.AbstractDocument
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

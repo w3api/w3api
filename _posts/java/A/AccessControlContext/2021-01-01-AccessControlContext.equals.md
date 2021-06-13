@@ -1,9 +1,9 @@
 ---
 title: AccessControlContext.equals()
-permalink: Java/AccessControlContext/equals
+permalink: /Java/AccessControlContext/equals/
 date: 2021-01-11
-key: JavaJava.A.AccessControlContext
-category: java
+key: Java.A.AccessControlContext
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

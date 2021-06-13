@@ -1,9 +1,9 @@
 ---
 title: AbstractInterruptibleChannel
-permalink: Java/AbstractInterruptibleChannel
+permalink: /Java/AbstractInterruptibleChannel/
 date: 2021-01-11
-key: JavaJava.A.AbstractInterruptibleChannel
-category: java
+key: Java.A.AbstractInterruptibleChannel
+category: Java
 tags: ['java se', 'java.nio.channels.spi', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

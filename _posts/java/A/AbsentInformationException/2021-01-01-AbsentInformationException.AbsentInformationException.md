@@ -1,9 +1,9 @@
 ---
 title: AbsentInformationException.AbsentInformationException()
-permalink: Java/AbsentInformationException/AbsentInformationException
+permalink: /Java/AbsentInformationException/AbsentInformationException/
 date: 2021-01-11
-key: JavaJava.A.AbsentInformationException
-category: java
+key: Java.A.AbsentInformationException
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

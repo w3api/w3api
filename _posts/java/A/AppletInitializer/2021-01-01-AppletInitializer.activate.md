@@ -1,9 +1,9 @@
 ---
 title: AppletInitializer.activate()
-permalink: Java/AppletInitializer/activate
+permalink: /Java/AppletInitializer/activate/
 date: 2021-01-11
-key: JavaJava.A.AppletInitializer
-category: java
+key: Java.A.AppletInitializer
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

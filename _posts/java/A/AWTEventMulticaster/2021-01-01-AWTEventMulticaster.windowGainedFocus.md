@@ -1,9 +1,9 @@
 ---
 title: AWTEventMulticaster.windowGainedFocus()
-permalink: Java/AWTEventMulticaster/windowGainedFocus
+permalink: /Java/AWTEventMulticaster/windowGainedFocus/
 date: 2021-01-11
-key: JavaJava.A.AWTEventMulticaster
-category: java
+key: Java.A.AWTEventMulticaster
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

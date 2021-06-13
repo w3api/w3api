@@ -2,8 +2,8 @@
 title: BasicSpinnerUI
 permalink: /Java/BasicSpinnerUI/
 date: 2021-01-11
-key: JavaJava.B.BasicSpinnerUI
-category: java
+key: Java.B.BasicSpinnerUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

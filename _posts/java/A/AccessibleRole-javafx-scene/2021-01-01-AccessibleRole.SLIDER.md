@@ -1,9 +1,9 @@
 ---
 title: AccessibleRole.SLIDER
-permalink: Java/AccessibleRole-javafx-scene/SLIDER
+permalink: /Java/AccessibleRole-javafx-scene/SLIDER/
 date: 2021-01-11
-key: JavaJava.A.AccessibleRole-javafx-scene
-category: java
+key: Java.A.AccessibleRole-javafx-scene
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

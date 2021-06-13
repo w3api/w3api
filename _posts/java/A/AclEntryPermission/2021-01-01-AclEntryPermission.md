@@ -1,9 +1,9 @@
 ---
 title: AclEntryPermission
-permalink: Java/AclEntryPermission
+permalink: /Java/AclEntryPermission/
 date: 2021-01-11
-key: JavaJava.A.AclEntryPermission
-category: java
+key: Java.A.AclEntryPermission
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'enumerado java', 'Java 1.7']
 sidebar: 
   nav: java

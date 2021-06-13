@@ -1,9 +1,9 @@
 ---
 title: AdapterStateHelper
-permalink: Java/AdapterStateHelper
+permalink: /Java/AdapterStateHelper/
 date: 2021-01-11
-key: JavaJava.A.AdapterStateHelper
-category: java
+key: Java.A.AdapterStateHelper
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

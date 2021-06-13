@@ -1,9 +1,9 @@
 ---
 title: AttributeList.name2type()
-permalink: Java/AttributeList-javax-swing-text-html-parser/name2type
+permalink: /Java/AttributeList-javax-swing-text-html-parser/name2type/
 date: 2021-01-11
-key: JavaJava.A.AttributeList-javax-swing-text-html-parser
-category: java
+key: Java.A.AttributeList-javax-swing-text-html-parser
+category: Java
 tags: ['java se', 'javax.swing.text.html.parser', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

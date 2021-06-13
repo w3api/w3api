@@ -1,9 +1,9 @@
 ---
 title: AbstractUndoableEdit.redo()
-permalink: Java/AbstractUndoableEdit/redo
+permalink: /Java/AbstractUndoableEdit/redo/
 date: 2021-01-11
-key: JavaJava.A.AbstractUndoableEdit
-category: java
+key: Java.A.AbstractUndoableEdit
+category: Java
 tags: ['java se', 'javax.swing.undo', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

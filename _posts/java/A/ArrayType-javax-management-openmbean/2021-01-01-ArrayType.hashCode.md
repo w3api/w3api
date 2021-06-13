@@ -1,9 +1,9 @@
 ---
 title: ArrayType.hashCode()
-permalink: Java/ArrayType-javax-management-openmbean/hashCode
+permalink: /Java/ArrayType-javax-management-openmbean/hashCode/
 date: 2021-01-11
-key: JavaJava.A.ArrayType-javax-management-openmbean
-category: java
+key: Java.A.ArrayType-javax-management-openmbean
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AccessWatchpointEvent
-permalink: Java/AccessWatchpointEvent
+permalink: /Java/AccessWatchpointEvent/
 date: 2021-01-11
-key: JavaJava.A.AccessWatchpointEvent
-category: java
+key: Java.A.AccessWatchpointEvent
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AgentInitializationException
-permalink: Java/AgentInitializationException
+permalink: /Java/AgentInitializationException/
 date: 2021-01-11
-key: JavaJava.A.AgentInitializationException
-category: java
+key: Java.A.AgentInitializationException
+category: Java
 tags: ['java se', 'com.sun.tools.attach', 'jdk.attach', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

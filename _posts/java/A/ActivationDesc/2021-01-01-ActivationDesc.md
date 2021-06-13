@@ -1,9 +1,9 @@
 ---
 title: ActivationDesc
-permalink: Java/ActivationDesc
+permalink: /Java/ActivationDesc/
 date: 2021-01-11
-key: JavaJava.A.ActivationDesc
-category: java
+key: Java.A.ActivationDesc
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

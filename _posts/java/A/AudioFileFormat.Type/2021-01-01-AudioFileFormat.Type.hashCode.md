@@ -1,9 +1,9 @@
 ---
 title: AudioFileFormat.Type.hashCode()
-permalink: Java/AudioFileFormat/Type/hashCode
+permalink: /Java/AudioFileFormat/Type/hashCode/
 date: 2021-01-11
-key: JavaJava.A.AudioFileFormat.Type
-category: java
+key: Java.A.AudioFileFormat.Type
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

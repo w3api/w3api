@@ -1,9 +1,9 @@
 ---
 title: AccessibleAction.TOGGLE_POPUP
-permalink: Java/AccessibleAction-javax-accessibility/TOGGLE_POPUP
+permalink: /Java/AccessibleAction-javax-accessibility/TOGGLE_POPUP/
 date: 2021-01-11
-key: JavaJava.A.AccessibleAction-javax-accessibility
-category: java
+key: Java.A.AccessibleAction-javax-accessibility
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

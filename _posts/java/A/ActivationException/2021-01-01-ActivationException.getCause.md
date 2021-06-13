@@ -1,9 +1,9 @@
 ---
 title: ActivationException.getCause()
-permalink: Java/ActivationException/getCause
+permalink: /Java/ActivationException/getCause/
 date: 2021-01-11
-key: JavaJava.A.ActivationException
-category: java
+key: Java.A.ActivationException
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

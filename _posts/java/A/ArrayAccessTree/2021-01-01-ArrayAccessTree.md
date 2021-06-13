@@ -1,9 +1,9 @@
 ---
 title: ArrayAccessTree
-permalink: Java/ArrayAccessTree/
+permalink: /Java/ArrayAccessTree//
 date: 2021-01-11
-key: JavaJava.A.ArrayAccessTree
-category: java
+key: Java.A.ArrayAccessTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

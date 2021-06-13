@@ -1,9 +1,9 @@
 ---
 title: AccessController.doPrivileged()
-permalink: Java/AccessController/doPrivileged
+permalink: /Java/AccessController/doPrivileged/
 date: 2021-01-11
-key: JavaJava.A.AccessController
-category: java
+key: Java.A.AccessController
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

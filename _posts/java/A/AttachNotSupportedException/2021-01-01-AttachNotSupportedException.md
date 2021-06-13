@@ -1,9 +1,9 @@
 ---
 title: AttachNotSupportedException
-permalink: Java/AttachNotSupportedException
+permalink: /Java/AttachNotSupportedException/
 date: 2021-01-11
-key: JavaJava.A.AttachNotSupportedException
-category: java
+key: Java.A.AttachNotSupportedException
+category: Java
 tags: ['java se', 'com.sun.tools.attach', 'jdk.attach', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

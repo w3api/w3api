@@ -1,9 +1,9 @@
 ---
 title: AtomicLong
-permalink: Java/AtomicLong
+permalink: /Java/AtomicLong/
 date: 2021-01-11
-key: JavaJava.A.AtomicLong
-category: java
+key: Java.A.AtomicLong
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

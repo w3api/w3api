@@ -1,9 +1,9 @@
 ---
 title: AccountException.AccountException()
-permalink: Java/AccountException/AccountException
+permalink: /Java/AccountException/AccountException/
 date: 2021-01-11
-key: JavaJava.A.AccountException
-category: java
+key: Java.A.AccountException
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

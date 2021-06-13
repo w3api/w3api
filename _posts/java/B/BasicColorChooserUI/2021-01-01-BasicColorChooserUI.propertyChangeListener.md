@@ -2,8 +2,8 @@
 title: BasicColorChooserUI.propertyChangeListener
 permalink: /Java/BasicColorChooserUI/propertyChangeListener/
 date: 2021-01-11
-key: JavaJava.B.BasicColorChooserUI
-category: java
+key: Java.B.BasicColorChooserUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

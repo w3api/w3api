@@ -1,9 +1,9 @@
 ---
 title: AbstractExecutorService.newTaskFor()
-permalink: Java/AbstractExecutorService/newTaskFor
+permalink: /Java/AbstractExecutorService/newTaskFor/
 date: 2021-01-11
-key: JavaJava.A.AbstractExecutorService
-category: java
+key: Java.A.AbstractExecutorService
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

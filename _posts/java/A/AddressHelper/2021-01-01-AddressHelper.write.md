@@ -1,9 +1,9 @@
 ---
 title: AddressHelper.write()
-permalink: Java/AddressHelper/write
+permalink: /Java/AddressHelper/write/
 date: 2021-01-11
-key: JavaJava.A.AddressHelper
-category: java
+key: Java.A.AddressHelper
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextExtPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

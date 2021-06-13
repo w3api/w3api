@@ -1,9 +1,9 @@
 ---
 title: Animation.Status
-permalink: Java/Animation/Status
+permalink: /Java/Animation/Status/
 date: 2021-01-11
-key: JavaJava.A.Animation.Status
-category: java
+key: Java.A.Animation.Status
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'enumerado java', 'JavaFX 2.0']
 sidebar: 
   nav: java

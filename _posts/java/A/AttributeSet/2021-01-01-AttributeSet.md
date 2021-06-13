@@ -1,9 +1,9 @@
 ---
 title: AttributeSet
-permalink: Java/AttributeSet/
+permalink: /Java/AttributeSet//
 date: 2021-01-11
-key: JavaJava.A.AttributeSet
-category: java
+key: Java.A.AttributeSet
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

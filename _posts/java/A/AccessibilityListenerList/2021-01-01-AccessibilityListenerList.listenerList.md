@@ -1,9 +1,9 @@
 ---
 title: AccessibilityListenerList.listenerList
-permalink: Java/AccessibilityListenerList/listenerList
+permalink: /Java/AccessibilityListenerList/listenerList/
 date: 2021-01-11
-key: JavaJava.A.AccessibilityListenerList
-category: java
+key: Java.A.AccessibilityListenerList
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

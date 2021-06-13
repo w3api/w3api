@@ -1,9 +1,9 @@
 ---
 title: AttachingConnector
-permalink: Java/AttachingConnector
+permalink: /Java/AttachingConnector/
 date: 2021-01-11
-key: JavaJava.A.AttachingConnector
-category: java
+key: Java.A.AttachingConnector
+category: Java
 tags: ['java se', 'com.sun.jdi.connect', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Authenticator.Failure.getResponseCode()
-permalink: Java/Authenticator/Failure/getResponseCode
+permalink: /Java/Authenticator/Failure/getResponseCode/
 date: 2021-01-11
-key: JavaJava.A.Authenticator.Failure
-category: java
+key: Java.A.Authenticator.Failure
+category: Java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

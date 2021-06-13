@@ -1,9 +1,9 @@
 ---
 title: AbstractColorChooserPanel.TRANSPARENCY_ENABLED_PROPERTY
-permalink: Java/AbstractColorChooserPanel/TRANSPARENCY_ENABLED_PROPERTY
+permalink: /Java/AbstractColorChooserPanel/TRANSPARENCY_ENABLED_PROPERTY/
 date: 2021-01-11
-key: JavaJava.A.AbstractColorChooserPanel
-category: java
+key: Java.A.AbstractColorChooserPanel
+category: Java
 tags: ['java se', 'javax.swing.colorchooser', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

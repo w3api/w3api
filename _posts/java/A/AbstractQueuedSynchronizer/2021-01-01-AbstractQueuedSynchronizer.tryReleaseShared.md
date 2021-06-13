@@ -1,9 +1,9 @@
 ---
 title: AbstractQueuedSynchronizer.tryReleaseShared()
-permalink: Java/AbstractQueuedSynchronizer/tryReleaseShared
+permalink: /Java/AbstractQueuedSynchronizer/tryReleaseShared/
 date: 2021-01-11
-key: JavaJava.A.AbstractQueuedSynchronizer
-category: java
+key: Java.A.AbstractQueuedSynchronizer
+category: Java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

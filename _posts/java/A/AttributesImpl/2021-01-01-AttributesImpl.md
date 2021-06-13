@@ -1,9 +1,9 @@
 ---
 title: AttributesImpl
-permalink: Java/AttributesImpl
+permalink: /Java/AttributesImpl/
 date: 2021-01-11
-key: JavaJava.A.AttributesImpl
-category: java
+key: Java.A.AttributesImpl
+category: Java
 tags: ['java se', 'org.xml.sax.helpers', 'java.xml', 'clase java', 'Java 1.4', 'SAX 2.0']
 sidebar: 
   nav: java

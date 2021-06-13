@@ -1,9 +1,9 @@
 ---
 title: AnnotatedTypeVariable.getAnnotatedOwnerType()
-permalink: Java/AnnotatedTypeVariable/getAnnotatedOwnerType
+permalink: /Java/AnnotatedTypeVariable/getAnnotatedOwnerType/
 date: 2021-01-11
-key: JavaJava.A.AnnotatedTypeVariable
-category: java
+key: Java.A.AnnotatedTypeVariable
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

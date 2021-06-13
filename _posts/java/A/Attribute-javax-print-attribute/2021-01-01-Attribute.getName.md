@@ -1,9 +1,9 @@
 ---
 title: Attribute.getName()
-permalink: Java/Attribute-javax-print-attribute/getName
+permalink: /Java/Attribute-javax-print-attribute/getName/
 date: 2021-01-11
-key: JavaJava.A.Attribute-javax-print-attribute
-category: java
+key: Java.A.Attribute-javax-print-attribute
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

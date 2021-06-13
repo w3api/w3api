@@ -1,9 +1,9 @@
 ---
 title: AccessibleBundle.toDisplayString()
-permalink: Java/AccessibleBundle/toDisplayString
+permalink: /Java/AccessibleBundle/toDisplayString/
 date: 2021-01-11
-key: JavaJava.A.AccessibleBundle
-category: java
+key: Java.A.AccessibleBundle
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

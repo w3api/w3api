@@ -1,9 +1,9 @@
 ---
 title: AccessibleAction.values()
-permalink: Java/AccessibleAction-javafx-scene/values
+permalink: /Java/AccessibleAction-javafx-scene/values/
 date: 2021-01-11
-key: JavaJava.A.AccessibleAction-javafx-scene
-category: java
+key: Java.A.AccessibleAction-javafx-scene
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

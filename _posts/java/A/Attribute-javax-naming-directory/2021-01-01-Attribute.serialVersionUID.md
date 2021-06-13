@@ -1,9 +1,9 @@
 ---
 title: Attribute.serialVersionUID
-permalink: Java/Attribute-javax-naming-directory/serialVersionUID
+permalink: /Java/Attribute-javax-naming-directory/serialVersionUID/
 date: 2021-01-11
-key: JavaJava.A.Attribute-javax-naming-directory
-category: java
+key: Java.A.Attribute-javax-naming-directory
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

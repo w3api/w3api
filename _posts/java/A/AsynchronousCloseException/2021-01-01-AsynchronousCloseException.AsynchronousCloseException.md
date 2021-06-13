@@ -1,9 +1,9 @@
 ---
 title: AsynchronousCloseException.AsynchronousCloseException()
-permalink: Java/AsynchronousCloseException/AsynchronousCloseException
+permalink: /Java/AsynchronousCloseException/AsynchronousCloseException/
 date: 2021-01-11
-key: JavaJava.A.AsynchronousCloseException
-category: java
+key: Java.A.AsynchronousCloseException
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

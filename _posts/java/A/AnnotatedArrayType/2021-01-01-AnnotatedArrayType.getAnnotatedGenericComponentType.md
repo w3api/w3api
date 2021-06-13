@@ -1,9 +1,9 @@
 ---
 title: AnnotatedArrayType.getAnnotatedGenericComponentType()
-permalink: Java/AnnotatedArrayType/getAnnotatedGenericComponentType
+permalink: /Java/AnnotatedArrayType/getAnnotatedGenericComponentType/
 date: 2021-01-11
-key: JavaJava.A.AnnotatedArrayType
-category: java
+key: Java.A.AnnotatedArrayType
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

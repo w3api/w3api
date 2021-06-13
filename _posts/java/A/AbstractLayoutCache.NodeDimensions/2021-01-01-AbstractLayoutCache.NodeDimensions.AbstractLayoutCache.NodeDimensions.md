@@ -1,9 +1,9 @@
 ---
 title: AbstractLayoutCache.NodeDimensions.AbstractLayoutCache.NodeDimensions()
-permalink: Java/AbstractLayoutCache/NodeDimensions/AbstractLayoutCache/NodeDimensions
+permalink: /Java/AbstractLayoutCache/NodeDimensions/AbstractLayoutCache/NodeDimensions/
 date: 2021-01-11
-key: JavaJava.A.AbstractLayoutCache.NodeDimensions
-category: java
+key: Java.A.AbstractLayoutCache.NodeDimensions
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AnnotationValue
-permalink: Java/AnnotationValue-javax-lang-model-element
+permalink: /Java/AnnotationValue-javax-lang-model-element/
 date: 2021-01-11
-key: JavaJava.A.AnnotationValue-javax-lang-model-element
-category: java
+key: Java.A.AnnotationValue-javax-lang-model-element
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

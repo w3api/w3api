@@ -1,9 +1,9 @@
 ---
 title: AttributeListImpl.removeAttribute()
-permalink: Java/AttributeListImpl/removeAttribute
+permalink: /Java/AttributeListImpl/removeAttribute/
 date: 2021-01-11
-key: JavaJava.A.AttributeListImpl
-category: java
+key: Java.A.AttributeListImpl
+category: Java
 tags: ['java se', 'org.xml.sax.helpers', 'java.xml', 'metodo java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 
   nav: java

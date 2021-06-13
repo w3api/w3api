@@ -2,7 +2,7 @@
 title: BasicComboBoxUI
 permalink: /Java/BasicComboBoxUI/
 date: 2021-01-11
-key: JavaJava.B.BasicComboBoxUI
+key: Java.B.BasicComboBoxUI
 category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

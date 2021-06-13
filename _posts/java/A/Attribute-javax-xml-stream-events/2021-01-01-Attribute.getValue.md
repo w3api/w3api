@@ -1,9 +1,9 @@
 ---
 title: Attribute.getValue()
-permalink: Java/Attribute-javax-xml-stream-events/getValue
+permalink: /Java/Attribute-javax-xml-stream-events/getValue/
 date: 2021-01-11
-key: JavaJava.A.Attribute-javax-xml-stream-events
-category: java
+key: Java.A.Attribute-javax-xml-stream-events
+category: Java
 tags: ['java se', 'javax.xml.stream.events', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

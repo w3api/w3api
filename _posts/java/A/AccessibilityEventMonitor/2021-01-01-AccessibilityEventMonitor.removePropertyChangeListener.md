@@ -1,9 +1,9 @@
 ---
 title: AccessibilityEventMonitor.removePropertyChangeListener()
-permalink: Java/AccessibilityEventMonitor/removePropertyChangeListener
+permalink: /Java/AccessibilityEventMonitor/removePropertyChangeListener/
 date: 2021-01-11
-key: JavaJava.A.AccessibilityEventMonitor
-category: java
+key: Java.A.AccessibilityEventMonitor
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

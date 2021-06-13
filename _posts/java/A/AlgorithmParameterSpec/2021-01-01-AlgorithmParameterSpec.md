@@ -1,9 +1,9 @@
 ---
 title: AlgorithmParameterSpec
-permalink: Java/AlgorithmParameterSpec
+permalink: /Java/AlgorithmParameterSpec/
 date: 2021-01-11
-key: JavaJava.A.AlgorithmParameterSpec
-category: java
+key: Java.A.AlgorithmParameterSpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

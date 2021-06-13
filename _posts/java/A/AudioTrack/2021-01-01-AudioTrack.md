@@ -1,9 +1,9 @@
 ---
 title: AudioTrack
-permalink: Java/AudioTrack
+permalink: /Java/AudioTrack/
 date: 2021-01-11
-key: JavaJava.A.AudioTrack
-category: java
+key: Java.A.AudioTrack
+category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BandCombineOp
 permalink: /Java/BandCombineOp/
 date: 2021-01-11
-key: JavaJava.B.BandCombineOp
-category: java
+key: Java.B.BandCombineOp
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

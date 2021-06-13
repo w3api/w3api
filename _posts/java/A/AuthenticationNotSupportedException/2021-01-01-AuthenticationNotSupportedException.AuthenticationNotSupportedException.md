@@ -1,9 +1,9 @@
 ---
 title: AuthenticationNotSupportedException.AuthenticationNotSupportedException()
-permalink: Java/AuthenticationNotSupportedException/AuthenticationNotSupportedException
+permalink: /Java/AuthenticationNotSupportedException/AuthenticationNotSupportedException/
 date: 2021-01-11
-key: JavaJava.A.AuthenticationNotSupportedException
-category: java
+key: Java.A.AuthenticationNotSupportedException
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

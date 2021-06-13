@@ -1,9 +1,9 @@
 ---
 title: AWTEventMonitor.componentWithFocus
-permalink: Java/AWTEventMonitor/componentWithFocus
+permalink: /Java/AWTEventMonitor/componentWithFocus/
 date: 2021-01-11
-key: JavaJava.A.AWTEventMonitor
-category: java
+key: Java.A.AWTEventMonitor
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

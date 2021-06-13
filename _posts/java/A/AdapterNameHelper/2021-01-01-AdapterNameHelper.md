@@ -1,9 +1,9 @@
 ---
 title: AdapterNameHelper
-permalink: Java/AdapterNameHelper
+permalink: /Java/AdapterNameHelper/
 date: 2021-01-11
-key: JavaJava.A.AdapterNameHelper
-category: java
+key: Java.A.AdapterNameHelper
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

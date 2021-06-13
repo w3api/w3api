@@ -1,9 +1,9 @@
 ---
 title: ActivationGroup_Stub.newInstance()
-permalink: Java/ActivationGroup_Stub/newInstance
+permalink: /Java/ActivationGroup_Stub/newInstance/
 date: 2021-01-11
-key: JavaJava.A.ActivationGroup_Stub
-category: java
+key: Java.A.ActivationGroup_Stub
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AlphaComposite.createContext()
-permalink: Java/AlphaComposite/createContext
+permalink: /Java/AlphaComposite/createContext/
 date: 2021-01-11
-key: JavaJava.A.AlphaComposite
-category: java
+key: Java.A.AlphaComposite
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

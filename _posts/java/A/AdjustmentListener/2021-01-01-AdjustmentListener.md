@@ -1,9 +1,9 @@
 ---
 title: AdjustmentListener
-permalink: Java/AdjustmentListener
+permalink: /Java/AdjustmentListener/
 date: 2021-01-11
-key: JavaJava.A.AdjustmentListener
-category: java
+key: Java.A.AdjustmentListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

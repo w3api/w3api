@@ -1,9 +1,9 @@
 ---
 title: Attributes2Impl.Attributes2Impl()
-permalink: Java/Attributes2Impl/Attributes2Impl
+permalink: /Java/Attributes2Impl/Attributes2Impl/
 date: 2021-01-11
-key: JavaJava.A.Attributes2Impl
-category: java
+key: Java.A.Attributes2Impl
+category: Java
 tags: ['java se', 'org.xml.sax.ext', 'java.xml', 'metodo java', 'Java 1.5', 'SAX 2.0 (extensions Java 1.1 alpha)']
 sidebar: 
   nav: java

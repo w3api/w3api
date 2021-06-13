@@ -1,9 +1,9 @@
 ---
 title: AtomicMarkableReference.getReference()
-permalink: Java/AtomicMarkableReference/getReference
+permalink: /Java/AtomicMarkableReference/getReference/
 date: 2021-01-11
-key: JavaJava.A.AtomicMarkableReference
-category: java
+key: Java.A.AtomicMarkableReference
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

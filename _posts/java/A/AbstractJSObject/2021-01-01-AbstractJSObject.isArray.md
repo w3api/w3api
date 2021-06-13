@@ -1,9 +1,9 @@
 ---
 title: AbstractJSObject.isArray()
-permalink: Java/AbstractJSObject/isArray
+permalink: /Java/AbstractJSObject/isArray/
 date: 2021-01-11
-key: JavaJava.A.AbstractJSObject
-category: java
+key: Java.A.AbstractJSObject
+category: Java
 tags: ['java se', 'jdk.nashorn.api.scripting', 'jdk.scripting.nashorn', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

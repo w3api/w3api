@@ -1,9 +1,9 @@
 ---
 title: Authenticator.Result.Authenticator.Result()
-permalink: Java/Authenticator/Result/Authenticator/Result
+permalink: /Java/Authenticator/Result/Authenticator/Result/
 date: 2021-01-11
-key: JavaJava.A.Authenticator.Result
-category: java
+key: Java.A.Authenticator.Result
+category: Java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

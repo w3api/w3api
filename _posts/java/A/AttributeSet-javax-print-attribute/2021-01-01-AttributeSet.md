@@ -1,9 +1,9 @@
 ---
 title: AttributeSet
-permalink: Java/AttributeSet-javax-print-attribute
+permalink: /Java/AttributeSet-javax-print-attribute/
 date: 2021-01-11
-key: JavaJava.A.AttributeSet-javax-print-attribute
-category: java
+key: Java.A.AttributeSet-javax-print-attribute
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

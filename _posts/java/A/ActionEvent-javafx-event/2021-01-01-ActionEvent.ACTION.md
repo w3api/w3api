@@ -1,9 +1,9 @@
 ---
 title: ActionEvent.ACTION
-permalink: Java/ActionEvent-javafx-event/ACTION
+permalink: /Java/ActionEvent-javafx-event/ACTION/
 date: 2021-01-11
-key: JavaJava.A.ActionEvent-javafx-event
-category: java
+key: Java.A.ActionEvent-javafx-event
+category: Java
 tags: ['java se', 'javafx.event', 'javafx.base', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

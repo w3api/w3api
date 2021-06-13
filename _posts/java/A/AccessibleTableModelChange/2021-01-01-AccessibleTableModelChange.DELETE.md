@@ -1,9 +1,9 @@
 ---
 title: AccessibleTableModelChange.DELETE
-permalink: Java/AccessibleTableModelChange/DELETE
+permalink: /Java/AccessibleTableModelChange/DELETE/
 date: 2021-01-11
-key: JavaJava.A.AccessibleTableModelChange
-category: java
+key: Java.A.AccessibleTableModelChange
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

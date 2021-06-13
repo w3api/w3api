@@ -1,9 +1,9 @@
 ---
 title: AbstractTableModel.fireTableCellUpdated()
-permalink: Java/AbstractTableModel/fireTableCellUpdated
+permalink: /Java/AbstractTableModel/fireTableCellUpdated/
 date: 2021-01-11
-key: JavaJava.A.AbstractTableModel
-category: java
+key: Java.A.AbstractTableModel
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

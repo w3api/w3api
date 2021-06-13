@@ -1,9 +1,9 @@
 ---
 title: ApplicationException.ApplicationException()
-permalink: Java/ApplicationException/ApplicationException
+permalink: /Java/ApplicationException/ApplicationException/
 date: 2021-01-11
-key: JavaJava.A.ApplicationException
-category: java
+key: Java.A.ApplicationException
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

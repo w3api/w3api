@@ -1,9 +1,9 @@
 ---
 title: ArrayType
-permalink: Java/ArrayType-com-sun-jdi
+permalink: /Java/ArrayType-com-sun-jdi/
 date: 2021-01-11
-key: JavaJava.A.ArrayType-com-sun-jdi
-category: java
+key: Java.A.ArrayType-com-sun-jdi
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

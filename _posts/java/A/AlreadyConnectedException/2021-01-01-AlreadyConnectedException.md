@@ -1,9 +1,9 @@
 ---
 title: AlreadyConnectedException
-permalink: Java/AlreadyConnectedException
+permalink: /Java/AlreadyConnectedException/
 date: 2021-01-11
-key: JavaJava.A.AlreadyConnectedException
-category: java
+key: Java.A.AlreadyConnectedException
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

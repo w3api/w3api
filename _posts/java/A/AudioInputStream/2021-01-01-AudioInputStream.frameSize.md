@@ -1,9 +1,9 @@
 ---
 title: AudioInputStream.frameSize
-permalink: Java/AudioInputStream/frameSize
+permalink: /Java/AudioInputStream/frameSize/
 date: 2021-01-11
-key: JavaJava.A.AudioInputStream
-category: java
+key: Java.A.AudioInputStream
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AbstractMap.SimpleEntry.AbstractMap.SimpleEntry()
-permalink: Java/AbstractMap/SimpleEntry/AbstractMap/SimpleEntry
+permalink: /Java/AbstractMap/SimpleEntry/AbstractMap/SimpleEntry/
 date: 2021-01-11
-key: JavaJava.A.AbstractMap.SimpleEntry
-category: java
+key: Java.A.AbstractMap.SimpleEntry
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AsyncBoxView.getMaximumSpan()
-permalink: Java/AsyncBoxView/getMaximumSpan
+permalink: /Java/AsyncBoxView/getMaximumSpan/
 date: 2021-01-11
-key: JavaJava.A.AsyncBoxView
-category: java
+key: Java.A.AsyncBoxView
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

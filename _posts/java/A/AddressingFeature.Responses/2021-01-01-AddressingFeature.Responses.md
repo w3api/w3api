@@ -1,9 +1,9 @@
 ---
 title: AddressingFeature.Responses
-permalink: Java/AddressingFeature/Responses
+permalink: /Java/AddressingFeature/Responses/
 date: 2021-01-11
-key: JavaJava.A.AddressingFeature.Responses
-category: java
+key: Java.A.AddressingFeature.Responses
+category: Java
 tags: ['java se', 'javax.xml.ws.soap', 'java.xml.ws', 'enumerado java', 'Java 1.7', 'JAX-WS 2.2']
 sidebar: 
   nav: java

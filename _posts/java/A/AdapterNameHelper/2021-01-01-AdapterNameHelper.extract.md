@@ -1,9 +1,9 @@
 ---
 title: AdapterNameHelper.extract()
-permalink: Java/AdapterNameHelper/extract
+permalink: /Java/AdapterNameHelper/extract/
 date: 2021-01-11
-key: JavaJava.A.AdapterNameHelper
-category: java
+key: Java.A.AdapterNameHelper
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

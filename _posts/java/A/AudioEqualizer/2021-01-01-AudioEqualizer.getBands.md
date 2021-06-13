@@ -1,9 +1,9 @@
 ---
 title: AudioEqualizer.getBands()
-permalink: Java/AudioEqualizer/getBands
+permalink: /Java/AudioEqualizer/getBands/
 date: 2021-01-11
-key: JavaJava.A.AudioEqualizer
-category: java
+key: Java.A.AudioEqualizer
+category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

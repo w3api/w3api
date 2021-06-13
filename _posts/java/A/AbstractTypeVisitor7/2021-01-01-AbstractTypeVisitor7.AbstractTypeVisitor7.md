@@ -1,9 +1,9 @@
 ---
 title: AbstractTypeVisitor7.AbstractTypeVisitor7()
-permalink: Java/AbstractTypeVisitor7/AbstractTypeVisitor7
+permalink: /Java/AbstractTypeVisitor7/AbstractTypeVisitor7/
 date: 2021-01-11
-key: JavaJava.A.AbstractTypeVisitor7
-category: java
+key: Java.A.AbstractTypeVisitor7
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

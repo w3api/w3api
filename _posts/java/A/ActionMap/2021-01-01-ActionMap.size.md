@@ -1,9 +1,9 @@
 ---
 title: ActionMap.size()
-permalink: Java/ActionMap/size
+permalink: /Java/ActionMap/size/
 date: 2021-01-11
-key: JavaJava.A.ActionMap
-category: java
+key: Java.A.ActionMap
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

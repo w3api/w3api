@@ -1,9 +1,9 @@
 ---
 title: AdapterManagerIdHelper.extract()
-permalink: Java/AdapterManagerIdHelper/extract
+permalink: /Java/AdapterManagerIdHelper/extract/
 date: 2021-01-11
-key: JavaJava.A.AdapterManagerIdHelper
-category: java
+key: Java.A.AdapterManagerIdHelper
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

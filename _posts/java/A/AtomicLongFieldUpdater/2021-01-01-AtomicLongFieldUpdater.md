@@ -1,9 +1,9 @@
 ---
 title: AtomicLongFieldUpdater
-permalink: Java/AtomicLongFieldUpdater
+permalink: /Java/AtomicLongFieldUpdater/
 date: 2021-01-11
-key: JavaJava.A.AtomicLongFieldUpdater
-category: java
+key: Java.A.AtomicLongFieldUpdater
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

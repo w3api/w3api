@@ -1,9 +1,9 @@
 ---
 title: AccessibleValue.getMinimumAccessibleValue()
-permalink: Java/AccessibleValue/getMinimumAccessibleValue
+permalink: /Java/AccessibleValue/getMinimumAccessibleValue/
 date: 2021-01-11
-key: JavaJava.A.AccessibleValue
-category: java
+key: Java.A.AccessibleValue
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

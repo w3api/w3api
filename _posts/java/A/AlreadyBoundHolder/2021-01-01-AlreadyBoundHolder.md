@@ -1,9 +1,9 @@
 ---
 title: AlreadyBoundHolder
-permalink: Java/AlreadyBoundHolder
+permalink: /Java/AlreadyBoundHolder/
 date: 2021-01-11
-key: JavaJava.A.AlreadyBoundHolder
-category: java
+key: Java.A.AlreadyBoundHolder
+category: Java
 tags: ['java se', 'org.omg.CosNaming.NamingContextPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

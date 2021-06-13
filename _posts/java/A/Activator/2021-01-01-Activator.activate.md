@@ -1,9 +1,9 @@
 ---
 title: Activator.activate()
-permalink: Java/Activator/activate
+permalink: /Java/Activator/activate/
 date: 2021-01-11
-key: JavaJava.A.Activator
-category: java
+key: Java.A.Activator
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

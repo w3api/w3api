@@ -1,9 +1,9 @@
 ---
 title: ActivationGroupDesc.CommandEnvironment
-permalink: Java/ActivationGroupDesc/CommandEnvironment
+permalink: /Java/ActivationGroupDesc/CommandEnvironment/
 date: 2021-01-11
-key: JavaJava.A.ActivationGroupDesc.CommandEnvironment
-category: java
+key: Java.A.ActivationGroupDesc.CommandEnvironment
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

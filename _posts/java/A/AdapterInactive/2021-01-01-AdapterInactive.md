@@ -1,9 +1,9 @@
 ---
 title: AdapterInactive
-permalink: Java/AdapterInactive
+permalink: /Java/AdapterInactive/
 date: 2021-01-11
-key: JavaJava.A.AdapterInactive
-category: java
+key: Java.A.AdapterInactive
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAManagerPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AnnotationTree
-permalink: Java/AnnotationTree
+permalink: /Java/AnnotationTree/
 date: 2021-01-11
-key: JavaJava.A.AnnotationTree
-category: java
+key: Java.A.AnnotationTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

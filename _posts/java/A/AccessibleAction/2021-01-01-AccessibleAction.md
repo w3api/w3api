@@ -1,9 +1,9 @@
 ---
 title: AccessibleAction
-permalink: Java/AccessibleAction/
+permalink: /Java/AccessibleAction//
 date: 2021-01-11
-key: JavaJava.A.AccessibleAction
-category: java
+key: Java.A.AccessibleAction
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

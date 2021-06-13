@@ -1,9 +1,9 @@
 ---
 title: AbstractRelinkableCallSite
-permalink: Java/AbstractRelinkableCallSite
+permalink: /Java/AbstractRelinkableCallSite/
 date: 2021-01-11
-key: JavaJava.A.AbstractRelinkableCallSite
-category: java
+key: Java.A.AbstractRelinkableCallSite
+category: Java
 tags: ['java se', 'jdk.dynalink.support', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

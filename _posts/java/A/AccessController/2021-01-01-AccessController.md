@@ -1,9 +1,9 @@
 ---
 title: AccessController
-permalink: Java/AccessController
+permalink: /Java/AccessController/
 date: 2021-01-11
-key: JavaJava.A.AccessController
-category: java
+key: Java.A.AccessController
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

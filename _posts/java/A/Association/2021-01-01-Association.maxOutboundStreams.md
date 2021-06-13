@@ -1,9 +1,9 @@
 ---
 title: Association.maxOutboundStreams()
-permalink: Java/Association/maxOutboundStreams
+permalink: /Java/Association/maxOutboundStreams/
 date: 2021-01-11
-key: JavaJava.A.Association
-category: java
+key: Java.A.Association
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

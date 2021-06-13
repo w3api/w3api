@@ -1,9 +1,9 @@
 ---
 title: AbstractNotificationHandler
-permalink: Java/AbstractNotificationHandler
+permalink: /Java/AbstractNotificationHandler/
 date: 2021-01-11
-key: JavaJava.A.AbstractNotificationHandler
-category: java
+key: Java.A.AbstractNotificationHandler
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

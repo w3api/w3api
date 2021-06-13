@@ -1,9 +1,9 @@
 ---
 title: ArrayList.clear()
-permalink: Java/ArrayList/clear
+permalink: /Java/ArrayList/clear/
 date: 2021-01-11
-key: JavaJava.A.ArrayList
-category: java
+key: Java.A.ArrayList
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Authenticator
-permalink: Java/Authenticator/
+permalink: /Java/Authenticator//
 date: 2021-01-11
-key: JavaJava.A.Authenticator
-category: java
+key: Java.A.Authenticator
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

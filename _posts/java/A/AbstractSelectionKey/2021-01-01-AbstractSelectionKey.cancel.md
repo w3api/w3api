@@ -1,9 +1,9 @@
 ---
 title: AbstractSelectionKey.cancel()
-permalink: Java/AbstractSelectionKey/cancel
+permalink: /Java/AbstractSelectionKey/cancel/
 date: 2021-01-11
-key: JavaJava.A.AbstractSelectionKey
-category: java
+key: Java.A.AbstractSelectionKey
+category: Java
 tags: ['java se', 'java.nio.channels.spi', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

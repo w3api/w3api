@@ -1,9 +1,9 @@
 ---
 title: AsynchronousByteChannel.read()
-permalink: Java/AsynchronousByteChannel/read
+permalink: /Java/AsynchronousByteChannel/read/
 date: 2021-01-11
-key: JavaJava.A.AsynchronousByteChannel
-category: java
+key: Java.A.AsynchronousByteChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

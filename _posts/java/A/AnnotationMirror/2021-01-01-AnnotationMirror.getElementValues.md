@@ -1,9 +1,9 @@
 ---
 title: AnnotationMirror.getElementValues()
-permalink: Java/AnnotationMirror/getElementValues
+permalink: /Java/AnnotationMirror/getElementValues/
 date: 2021-01-11
-key: JavaJava.A.AnnotationMirror
-category: java
+key: Java.A.AnnotationMirror
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

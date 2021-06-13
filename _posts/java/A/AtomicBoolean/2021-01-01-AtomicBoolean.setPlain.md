@@ -1,9 +1,9 @@
 ---
 title: AtomicBoolean.setPlain()
-permalink: Java/AtomicBoolean/setPlain
+permalink: /Java/AtomicBoolean/setPlain/
 date: 2021-01-11
-key: JavaJava.A.AtomicBoolean
-category: java
+key: Java.A.AtomicBoolean
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

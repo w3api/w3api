@@ -1,9 +1,9 @@
 ---
 title: AccessControlContext
-permalink: Java/AccessControlContext
+permalink: /Java/AccessControlContext/
 date: 2021-01-11
-key: JavaJava.A.AccessControlContext
-category: java
+key: Java.A.AccessControlContext
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

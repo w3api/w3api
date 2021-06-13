@@ -1,9 +1,9 @@
 ---
 title: AccessibilityProvider.activate()
-permalink: Java/AccessibilityProvider/activate
+permalink: /Java/AccessibilityProvider/activate/
 date: 2021-01-11
-key: JavaJava.A.AccessibilityProvider
-category: java
+key: Java.A.AccessibilityProvider
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

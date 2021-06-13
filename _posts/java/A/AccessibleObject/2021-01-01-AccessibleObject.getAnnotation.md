@@ -1,9 +1,9 @@
 ---
 title: AccessibleObject.getAnnotation()
-permalink: Java/AccessibleObject/getAnnotation
+permalink: /Java/AccessibleObject/getAnnotation/
 date: 2021-01-11
-key: JavaJava.A.AccessibleObject
-category: java
+key: Java.A.AccessibleObject
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AccessibleRole
-permalink: Java/AccessibleRole/
+permalink: /Java/AccessibleRole//
 date: 2021-01-11
-key: JavaJava.A.AccessibleRole
-category: java
+key: Java.A.AccessibleRole
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

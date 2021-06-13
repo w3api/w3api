@@ -1,9 +1,9 @@
 ---
 title: AnnotationMirror
-permalink: Java/AnnotationMirror
+permalink: /Java/AnnotationMirror/
 date: 2021-01-11
-key: JavaJava.A.AnnotationMirror
-category: java
+key: Java.A.AnnotationMirror
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

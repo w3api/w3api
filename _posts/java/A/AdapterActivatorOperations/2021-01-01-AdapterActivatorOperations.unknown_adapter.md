@@ -1,9 +1,9 @@
 ---
 title: AdapterActivatorOperations.unknown_adapter()
-permalink: Java/AdapterActivatorOperations/unknown_adapter
+permalink: /Java/AdapterActivatorOperations/unknown_adapter/
 date: 2021-01-11
-key: JavaJava.A.AdapterActivatorOperations
-category: java
+key: Java.A.AdapterActivatorOperations
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

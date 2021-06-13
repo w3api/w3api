@@ -1,9 +1,9 @@
 ---
 title: AWTEventListenerProxy
-permalink: Java/AWTEventListenerProxy
+permalink: /Java/AWTEventListenerProxy/
 date: 2021-01-11
-key: JavaJava.A.AWTEventListenerProxy
-category: java
+key: Java.A.AWTEventListenerProxy
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AutoCloseable.close()
-permalink: Java/AutoCloseable/close
+permalink: /Java/AutoCloseable/close/
 date: 2021-01-11
-key: JavaJava.A.AutoCloseable
-category: java
+key: Java.A.AutoCloseable
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

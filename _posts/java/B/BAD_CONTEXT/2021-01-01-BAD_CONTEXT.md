@@ -2,8 +2,8 @@
 title: BAD_CONTEXT
 permalink: /Java/BAD_CONTEXT/
 date: 2021-01-11
-key: JavaJava.B.BAD_CONTEXT
-category: java
+key: Java.B.BAD_CONTEXT
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 
   nav: java

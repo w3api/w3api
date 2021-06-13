@@ -3,7 +3,7 @@ title: BaseRowSet.setUsername()
 permalink: /Java/BaseRowSet/setUsername/
 date: 2021-01-11
 key: Java.B.BaseRowSet
-category: java
+category: Java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

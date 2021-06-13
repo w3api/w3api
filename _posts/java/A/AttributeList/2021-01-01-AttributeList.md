@@ -1,9 +1,9 @@
 ---
 title: AttributeList
-permalink: Java/AttributeList/
+permalink: /Java/AttributeList//
 date: 2021-01-11
-key: JavaJava.A.AttributeList
-category: java
+key: Java.A.AttributeList
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

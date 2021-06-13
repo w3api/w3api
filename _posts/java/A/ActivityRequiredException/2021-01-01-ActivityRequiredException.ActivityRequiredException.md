@@ -1,9 +1,9 @@
 ---
 title: ActivityRequiredException.ActivityRequiredException()
-permalink: Java/ActivityRequiredException/ActivityRequiredException
+permalink: /Java/ActivityRequiredException/ActivityRequiredException/
 date: 2021-01-11
-key: JavaJava.A.ActivityRequiredException
-category: java
+key: Java.A.ActivityRequiredException
+category: Java
 tags: ['java se', 'javax.activity', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

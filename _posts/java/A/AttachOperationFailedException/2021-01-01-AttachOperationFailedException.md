@@ -1,9 +1,9 @@
 ---
 title: AttachOperationFailedException
-permalink: Java/AttachOperationFailedException
+permalink: /Java/AttachOperationFailedException/
 date: 2021-01-11
-key: JavaJava.A.AttachOperationFailedException
-category: java
+key: Java.A.AttachOperationFailedException
+category: Java
 tags: ['java se', 'com.sun.tools.attach', 'jdk.attach', 'clase java', 'Java 9']
 sidebar: 
   nav: java

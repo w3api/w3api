@@ -1,9 +1,9 @@
 ---
 title: AncestorEvent
-permalink: Java/AncestorEvent
+permalink: /Java/AncestorEvent/
 date: 2021-01-11
-key: JavaJava.A.AncestorEvent
-category: java
+key: Java.A.AncestorEvent
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

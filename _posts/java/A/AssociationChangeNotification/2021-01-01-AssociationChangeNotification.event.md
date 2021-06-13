@@ -1,9 +1,9 @@
 ---
 title: AssociationChangeNotification.event()
-permalink: Java/AssociationChangeNotification/event
+permalink: /Java/AssociationChangeNotification/event/
 date: 2021-01-11
-key: JavaJava.A.AssociationChangeNotification
-category: java
+key: Java.A.AssociationChangeNotification
+category: Java
 tags: ['java se', 'com.sun.nio.sctp', 'jdk.sctp', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

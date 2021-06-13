@@ -1,9 +1,9 @@
 ---
 title: Appendable
-permalink: Java/Appendable
+permalink: /Java/Appendable/
 date: 2021-01-11
-key: JavaJava.A.Appendable
-category: java
+key: Java.A.Appendable
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

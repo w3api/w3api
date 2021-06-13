@@ -1,9 +1,9 @@
 ---
 title: AttributeView.name()
-permalink: Java/AttributeView/name
+permalink: /Java/AttributeView/name/
 date: 2021-01-11
-key: JavaJava.A.AttributeView
-category: java
+key: Java.A.AttributeView
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

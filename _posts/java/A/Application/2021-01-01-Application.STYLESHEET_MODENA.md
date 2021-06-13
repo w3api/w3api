@@ -1,9 +1,9 @@
 ---
 title: Application.STYLESHEET_MODENA
-permalink: Java/Application/STYLESHEET_MODENA
+permalink: /Java/Application/STYLESHEET_MODENA/
 date: 2021-01-11
-key: JavaJava.A.Application
-category: java
+key: Java.A.Application
+category: Java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

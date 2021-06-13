@@ -1,9 +1,9 @@
 ---
 title: Attribute.size()
-permalink: Java/Attribute-javax-naming-directory/size
+permalink: /Java/Attribute-javax-naming-directory/size/
 date: 2021-01-11
-key: JavaJava.A.Attribute-javax-naming-directory
-category: java
+key: Java.A.Attribute-javax-naming-directory
+category: Java
 tags: ['java se', 'javax.naming.directory', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

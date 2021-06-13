@@ -1,9 +1,9 @@
 ---
 title: AncestorListener
-permalink: Java/AncestorListener
+permalink: /Java/AncestorListener/
 date: 2021-01-11
-key: JavaJava.A.AncestorListener
-category: java
+key: Java.A.AncestorListener
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

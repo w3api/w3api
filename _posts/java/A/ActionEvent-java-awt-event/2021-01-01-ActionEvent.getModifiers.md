@@ -1,9 +1,9 @@
 ---
 title: ActionEvent.getModifiers()
-permalink: Java/ActionEvent-java-awt-event/getModifiers
+permalink: /Java/ActionEvent-java-awt-event/getModifiers/
 date: 2021-01-11
-key: JavaJava.A.ActionEvent-java-awt-event
-category: java
+key: Java.A.ActionEvent-java-awt-event
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

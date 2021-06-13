@@ -1,9 +1,9 @@
 ---
 title: AdapterNonExistentHelper
-permalink: Java/AdapterNonExistentHelper
+permalink: /Java/AdapterNonExistentHelper/
 date: 2021-01-11
-key: JavaJava.A.AdapterNonExistentHelper
-category: java
+key: Java.A.AdapterNonExistentHelper
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

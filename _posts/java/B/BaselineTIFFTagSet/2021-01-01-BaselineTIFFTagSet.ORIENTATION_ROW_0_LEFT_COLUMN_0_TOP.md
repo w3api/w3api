@@ -2,8 +2,8 @@
 title: BaselineTIFFTagSet.ORIENTATION_ROW_0_LEFT_COLUMN_0_TOP
 permalink: /Java/BaselineTIFFTagSet/ORIENTATION_ROW_0_LEFT_COLUMN_0_TOP/
 date: 2021-01-11
-key: JavaJava.B.BaselineTIFFTagSet
-category: java
+key: Java.B.BaselineTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'campo java', 'Java 9']
 sidebar: 
   nav: java

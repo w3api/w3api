@@ -1,9 +1,9 @@
 ---
 title: AccessibleRole.HYPERLINK
-permalink: Java/AccessibleRole-javafx-scene/HYPERLINK
+permalink: /Java/AccessibleRole-javafx-scene/HYPERLINK/
 date: 2021-01-11
-key: JavaJava.A.AccessibleRole-javafx-scene
-category: java
+key: Java.A.AccessibleRole-javafx-scene
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

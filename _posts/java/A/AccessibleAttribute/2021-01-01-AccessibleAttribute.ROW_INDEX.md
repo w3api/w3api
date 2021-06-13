@@ -1,9 +1,9 @@
 ---
 title: AccessibleAttribute.ROW_INDEX
-permalink: Java/AccessibleAttribute/ROW_INDEX
+permalink: /Java/AccessibleAttribute/ROW_INDEX/
 date: 2021-01-11
-key: JavaJava.A.AccessibleAttribute
-category: java
+key: Java.A.AccessibleAttribute
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

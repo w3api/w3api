@@ -1,9 +1,9 @@
 ---
 title: AccessibleStreamable
-permalink: Java/AccessibleStreamable
+permalink: /Java/AccessibleStreamable/
 date: 2021-01-11
-key: JavaJava.A.AccessibleStreamable
-category: java
+key: Java.A.AccessibleStreamable
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

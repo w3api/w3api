@@ -1,9 +1,9 @@
 ---
 title: AccessibleContext
-permalink: Java/AccessibleContext
+permalink: /Java/AccessibleContext/
 date: 2021-01-11
-key: JavaJava.A.AccessibleContext
-category: java
+key: Java.A.AccessibleContext
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

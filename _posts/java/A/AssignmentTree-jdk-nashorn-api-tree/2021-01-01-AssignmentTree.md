@@ -1,9 +1,9 @@
 ---
 title: AssignmentTree
-permalink: Java/AssignmentTree-jdk-nashorn-api-tree
+permalink: /Java/AssignmentTree-jdk-nashorn-api-tree/
 date: 2021-01-11
-key: JavaJava.A.AssignmentTree-jdk-nashorn-api-tree
-category: java
+key: Java.A.AssignmentTree-jdk-nashorn-api-tree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 9']
 sidebar: 
   nav: java

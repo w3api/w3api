@@ -1,9 +1,9 @@
 ---
 title: AWTEventMonitor
-permalink: Java/AWTEventMonitor
+permalink: /Java/AWTEventMonitor/
 date: 2021-01-11
-key: JavaJava.A.AWTEventMonitor
-category: java
+key: Java.A.AWTEventMonitor
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

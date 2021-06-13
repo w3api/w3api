@@ -1,9 +1,9 @@
 ---
 title: AlgorithmParameterGenerator.getProvider()
-permalink: Java/AlgorithmParameterGenerator/getProvider
+permalink: /Java/AlgorithmParameterGenerator/getProvider/
 date: 2021-01-11
-key: JavaJava.A.AlgorithmParameterGenerator
-category: java
+key: Java.A.AlgorithmParameterGenerator
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

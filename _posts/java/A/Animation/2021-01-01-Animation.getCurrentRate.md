@@ -1,9 +1,9 @@
 ---
 title: Animation.getCurrentRate()
-permalink: Java/Animation/getCurrentRate
+permalink: /Java/Animation/getCurrentRate/
 date: 2021-01-11
-key: JavaJava.A.Animation
-category: java
+key: Java.A.Animation
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

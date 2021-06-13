@@ -1,9 +1,9 @@
 ---
 title: AnnotationValueVisitor.visitAnnotation()
-permalink: Java/AnnotationValueVisitor/visitAnnotation
+permalink: /Java/AnnotationValueVisitor/visitAnnotation/
 date: 2021-01-11
-key: JavaJava.A.AnnotationValueVisitor
-category: java
+key: Java.A.AnnotationValueVisitor
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

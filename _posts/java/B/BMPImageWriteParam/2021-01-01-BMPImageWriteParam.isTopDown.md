@@ -2,8 +2,8 @@
 title: BMPImageWriteParam.isTopDown()
 permalink: /Java/BMPImageWriteParam/isTopDown/
 date: 2021-01-11
-key: JavaJava.B.BMPImageWriteParam
-category: java
+key: Java.B.BMPImageWriteParam
+category: Java
 tags: ['java se', 'javax.imageio.plugins.bmp', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

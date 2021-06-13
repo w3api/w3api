@@ -1,9 +1,9 @@
 ---
 title: AppHiddenEvent
-permalink: Java/AppHiddenEvent
+permalink: /Java/AppHiddenEvent/
 date: 2021-01-11
-key: JavaJava.A.AppHiddenEvent
-category: java
+key: Java.A.AppHiddenEvent
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

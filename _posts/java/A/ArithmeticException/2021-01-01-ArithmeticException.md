@@ -1,9 +1,9 @@
 ---
 title: ArithmeticException
-permalink: Java/ArithmeticException
+permalink: /Java/ArithmeticException/
 date: 2021-01-11
-key: JavaJava.A.ArithmeticException
-category: java
+key: Java.A.ArithmeticException
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

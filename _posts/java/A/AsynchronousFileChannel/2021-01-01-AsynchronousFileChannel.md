@@ -1,9 +1,9 @@
 ---
 title: AsynchronousFileChannel
-permalink: Java/AsynchronousFileChannel
+permalink: /Java/AsynchronousFileChannel/
 date: 2021-01-11
-key: JavaJava.A.AsynchronousFileChannel
-category: java
+key: Java.A.AsynchronousFileChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

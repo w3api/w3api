@@ -1,9 +1,9 @@
 ---
 title: AccountLockedException.AccountLockedException()
-permalink: Java/AccountLockedException/AccountLockedException
+permalink: /Java/AccountLockedException/AccountLockedException/
 date: 2021-01-11
-key: JavaJava.A.AccountLockedException
-category: java
+key: Java.A.AccountLockedException
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

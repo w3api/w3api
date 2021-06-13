@@ -1,9 +1,9 @@
 ---
 title: AuthProvider.logout()
-permalink: Java/AuthProvider/logout
+permalink: /Java/AuthProvider/logout/
 date: 2021-01-11
-key: JavaJava.A.AuthProvider
-category: java
+key: Java.A.AuthProvider
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

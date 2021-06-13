@@ -1,9 +1,9 @@
 ---
 title: AnnotatedArrayType
-permalink: Java/AnnotatedArrayType
+permalink: /Java/AnnotatedArrayType/
 date: 2021-01-11
-key: JavaJava.A.AnnotatedArrayType
-category: java
+key: Java.A.AnnotatedArrayType
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

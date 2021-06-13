@@ -1,9 +1,9 @@
 ---
 title: AsynchronousChannel.close()
-permalink: Java/AsynchronousChannel/close
+permalink: /Java/AsynchronousChannel/close/
 date: 2021-01-11
-key: JavaJava.A.AsynchronousChannel
-category: java
+key: Java.A.AsynchronousChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

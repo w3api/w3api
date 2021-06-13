@@ -1,9 +1,9 @@
 ---
 title: ActivityCompletedException.ActivityCompletedException()
-permalink: Java/ActivityCompletedException/ActivityCompletedException
+permalink: /Java/ActivityCompletedException/ActivityCompletedException/
 date: 2021-01-11
-key: JavaJava.A.ActivityCompletedException
-category: java
+key: Java.A.ActivityCompletedException
+category: Java
 tags: ['java se', 'javax.activity', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

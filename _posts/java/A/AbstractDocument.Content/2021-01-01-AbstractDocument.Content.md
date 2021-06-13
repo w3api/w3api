@@ -1,9 +1,9 @@
 ---
 title: AbstractDocument.Content
-permalink: Java/AbstractDocument/Content
+permalink: /Java/AbstractDocument/Content/
 date: 2021-01-11
-key: JavaJava.A.AbstractDocument.Content
-category: java
+key: Java.A.AbstractDocument.Content
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

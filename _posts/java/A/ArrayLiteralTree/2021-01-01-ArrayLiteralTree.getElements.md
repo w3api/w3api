@@ -1,9 +1,9 @@
 ---
 title: ArrayLiteralTree.getElements()
-permalink: Java/ArrayLiteralTree/getElements
+permalink: /Java/ArrayLiteralTree/getElements/
 date: 2021-01-11
-key: JavaJava.A.ArrayLiteralTree
-category: java
+key: Java.A.ArrayLiteralTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

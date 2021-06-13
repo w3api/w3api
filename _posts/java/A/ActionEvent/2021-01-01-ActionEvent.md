@@ -1,9 +1,9 @@
 ---
 title: ActionEvent
-permalink: Java/ActionEvent/
+permalink: /Java/ActionEvent//
 date: 2021-01-11
-key: JavaJava.A.ActionEvent
-category: java
+key: Java.A.ActionEvent
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Accessible.isProtected()
-permalink: Java/Accessible-com-sun-jdi/isProtected
+permalink: /Java/Accessible-com-sun-jdi/isProtected/
 date: 2021-01-11
-key: JavaJava.A.Accessible-com-sun-jdi
-category: java
+key: Java.A.Accessible-com-sun-jdi
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

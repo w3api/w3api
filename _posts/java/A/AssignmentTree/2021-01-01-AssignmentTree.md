@@ -1,9 +1,9 @@
 ---
 title: AssignmentTree
-permalink: Java/AssignmentTree/
+permalink: /Java/AssignmentTree//
 date: 2021-01-11
-key: JavaJava.A.AssignmentTree
-category: java
+key: Java.A.AssignmentTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

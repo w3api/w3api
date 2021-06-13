@@ -1,9 +1,9 @@
 ---
 title: ActivationMonitor.inactiveObject()
-permalink: Java/ActivationMonitor/inactiveObject
+permalink: /Java/ActivationMonitor/inactiveObject/
 date: 2021-01-11
-key: JavaJava.A.ActivationMonitor
-category: java
+key: Java.A.ActivationMonitor
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

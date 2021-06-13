@@ -1,9 +1,9 @@
 ---
 title: AccessibleRelation.LABELED_BY
-permalink: Java/AccessibleRelation/LABELED_BY
+permalink: /Java/AccessibleRelation/LABELED_BY/
 date: 2021-01-11
-key: JavaJava.A.AccessibleRelation
-category: java
+key: Java.A.AccessibleRelation
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

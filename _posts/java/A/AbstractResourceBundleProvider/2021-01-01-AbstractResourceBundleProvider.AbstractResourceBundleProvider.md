@@ -1,9 +1,9 @@
 ---
 title: AbstractResourceBundleProvider.AbstractResourceBundleProvider()
-permalink: Java/AbstractResourceBundleProvider/AbstractResourceBundleProvider
+permalink: /Java/AbstractResourceBundleProvider/AbstractResourceBundleProvider/
 date: 2021-01-11
-key: JavaJava.A.AbstractResourceBundleProvider
-category: java
+key: Java.A.AbstractResourceBundleProvider
+category: Java
 tags: ['java se', 'java.util.spi', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

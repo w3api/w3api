@@ -1,9 +1,9 @@
 ---
 title: AttachProvider.AttachProvider()
-permalink: Java/AttachProvider/AttachProvider
+permalink: /Java/AttachProvider/AttachProvider/
 date: 2021-01-11
-key: JavaJava.A.AttachProvider
-category: java
+key: Java.A.AttachProvider
+category: Java
 tags: ['java se', 'com.sun.tools.attach.spi', 'jdk.attach', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

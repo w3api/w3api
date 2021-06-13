@@ -1,9 +1,9 @@
 ---
 title: AccessibleAction.SET_TEXT_SELECTION
-permalink: Java/AccessibleAction-javafx-scene/SET_TEXT_SELECTION
+permalink: /Java/AccessibleAction-javafx-scene/SET_TEXT_SELECTION/
 date: 2021-01-11
-key: JavaJava.A.AccessibleAction-javafx-scene
-category: java
+key: Java.A.AccessibleAction-javafx-scene
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

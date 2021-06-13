@@ -1,9 +1,9 @@
 ---
 title: Attribute
-permalink: Java/Attribute-javax-management
+permalink: /Java/Attribute-javax-management/
 date: 2021-01-11
-key: JavaJava.A.Attribute-javax-management
-category: java
+key: Java.A.Attribute-javax-management
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -2,7 +2,7 @@
 title: BasicInternalFrameTitlePane.moveAction
 permalink: /Java/BasicInternalFrameTitlePane/moveAction/
 date: 2021-01-11
-key: JavaJava.B.BasicInternalFrameTitlePane
+key: Java.B.BasicInternalFrameTitlePane
 category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

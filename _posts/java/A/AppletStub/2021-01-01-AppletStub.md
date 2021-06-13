@@ -1,9 +1,9 @@
 ---
 title: AppletStub
-permalink: Java/AppletStub
+permalink: /Java/AppletStub/
 date: 2021-01-11
-key: JavaJava.A.AppletStub
-category: java
+key: Java.A.AppletStub
+category: Java
 tags: ['java se', 'java.applet', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

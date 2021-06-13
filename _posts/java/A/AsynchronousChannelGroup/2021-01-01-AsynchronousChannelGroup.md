@@ -1,9 +1,9 @@
 ---
 title: AsynchronousChannelGroup
-permalink: Java/AsynchronousChannelGroup
+permalink: /Java/AsynchronousChannelGroup/
 date: 2021-01-11
-key: JavaJava.A.AsynchronousChannelGroup
-category: java
+key: Java.A.AsynchronousChannelGroup
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

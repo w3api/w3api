@@ -1,9 +1,9 @@
 ---
 title: AWTEventListener
-permalink: Java/AWTEventListener
+permalink: /Java/AWTEventListener/
 date: 2021-01-11
-key: JavaJava.A.AWTEventListener
-category: java
+key: Java.A.AWTEventListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

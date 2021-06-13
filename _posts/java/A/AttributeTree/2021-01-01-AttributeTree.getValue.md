@@ -1,9 +1,9 @@
 ---
 title: AttributeTree.getValue()
-permalink: Java/AttributeTree/getValue
+permalink: /Java/AttributeTree/getValue/
 date: 2021-01-11
-key: JavaJava.A.AttributeTree
-category: java
+key: Java.A.AttributeTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

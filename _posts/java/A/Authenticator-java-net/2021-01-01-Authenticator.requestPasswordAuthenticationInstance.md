@@ -1,9 +1,9 @@
 ---
 title: Authenticator.requestPasswordAuthenticationInstance()
-permalink: Java/Authenticator-java-net/requestPasswordAuthenticationInstance
+permalink: /Java/Authenticator-java-net/requestPasswordAuthenticationInstance/
 date: 2021-01-11
-key: JavaJava.A.Authenticator-java-net
-category: java
+key: Java.A.Authenticator-java-net
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

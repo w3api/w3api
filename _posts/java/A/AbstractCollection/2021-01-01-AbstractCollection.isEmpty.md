@@ -1,9 +1,9 @@
 ---
 title: AbstractCollection.isEmpty()
-permalink: Java/AbstractCollection/isEmpty
+permalink: /Java/AbstractCollection/isEmpty/
 date: 2021-01-11
-key: JavaJava.A.AbstractCollection
-category: java
+key: Java.A.AbstractCollection
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AgentInitializationException.returnValue()
-permalink: Java/AgentInitializationException/returnValue
+permalink: /Java/AgentInitializationException/returnValue/
 date: 2021-01-11
-key: JavaJava.A.AgentInitializationException
-category: java
+key: Java.A.AgentInitializationException
+category: Java
 tags: ['java se', 'com.sun.tools.attach', 'jdk.attach', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

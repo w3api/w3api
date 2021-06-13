@@ -1,9 +1,9 @@
 ---
 title: Animation
-permalink: Java/Animation
+permalink: /Java/Animation/
 date: 2021-01-11
-key: JavaJava.A.Animation
-category: java
+key: Java.A.Animation
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

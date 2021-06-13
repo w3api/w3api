@@ -1,9 +1,9 @@
 ---
 title: AbstractPreferences.lock
-permalink: Java/AbstractPreferences/lock
+permalink: /Java/AbstractPreferences/lock/
 date: 2021-01-11
-key: JavaJava.A.AbstractPreferences
-category: java
+key: Java.A.AbstractPreferences
+category: Java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

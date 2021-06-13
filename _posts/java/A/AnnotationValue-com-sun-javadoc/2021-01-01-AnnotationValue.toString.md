@@ -1,9 +1,9 @@
 ---
 title: AnnotationValue.toString()
-permalink: Java/AnnotationValue-com-sun-javadoc/toString
+permalink: /Java/AnnotationValue-com-sun-javadoc/toString/
 date: 2021-01-11
-key: JavaJava.A.AnnotationValue-com-sun-javadoc
-category: java
+key: Java.A.AnnotationValue-com-sun-javadoc
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

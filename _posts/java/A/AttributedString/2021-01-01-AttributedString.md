@@ -1,9 +1,9 @@
 ---
 title: AttributedString
-permalink: Java/AttributedString
+permalink: /Java/AttributedString/
 date: 2021-01-11
-key: JavaJava.A.AttributedString
-category: java
+key: Java.A.AttributedString
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

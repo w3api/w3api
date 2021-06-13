@@ -1,9 +1,9 @@
 ---
 title: AbstractTypeVisitor6.visit()
-permalink: Java/AbstractTypeVisitor6/visit
+permalink: /Java/AbstractTypeVisitor6/visit/
 date: 2021-01-11
-key: JavaJava.A.AbstractTypeVisitor6
-category: java
+key: Java.A.AbstractTypeVisitor6
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

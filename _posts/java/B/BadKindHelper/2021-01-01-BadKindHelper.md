@@ -2,8 +2,8 @@
 title: BadKindHelper
 permalink: /Java/BadKindHelper/
 date: 2021-01-11
-key: JavaJava.B.BadKindHelper
-category: java
+key: Java.B.BadKindHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA.TypeCodePackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

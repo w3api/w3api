@@ -1,9 +1,9 @@
 ---
 title: Authenticator.Success.getPrincipal()
-permalink: Java/Authenticator/Success/getPrincipal
+permalink: /Java/Authenticator/Success/getPrincipal/
 date: 2021-01-11
-key: JavaJava.A.Authenticator.Success
-category: java
+key: Java.A.Authenticator.Success
+category: Java
 tags: ['java se', 'com.sun.net.httpserver', 'jdk.httpserver', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

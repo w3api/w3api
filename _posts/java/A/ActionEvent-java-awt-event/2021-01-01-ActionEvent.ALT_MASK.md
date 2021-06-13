@@ -1,9 +1,9 @@
 ---
 title: ActionEvent.ALT_MASK
-permalink: Java/ActionEvent-java-awt-event/ALT_MASK
+permalink: /Java/ActionEvent-java-awt-event/ALT_MASK/
 date: 2021-01-11
-key: JavaJava.A.ActionEvent-java-awt-event
-category: java
+key: Java.A.ActionEvent-java-awt-event
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

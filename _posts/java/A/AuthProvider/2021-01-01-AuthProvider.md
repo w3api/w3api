@@ -1,9 +1,9 @@
 ---
 title: AuthProvider
-permalink: Java/AuthProvider
+permalink: /Java/AuthProvider/
 date: 2021-01-11
-key: JavaJava.A.AuthProvider
-category: java
+key: Java.A.AuthProvider
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

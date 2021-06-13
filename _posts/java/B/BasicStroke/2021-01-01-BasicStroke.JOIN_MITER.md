@@ -2,8 +2,8 @@
 title: BasicStroke.JOIN_MITER
 permalink: /Java/BasicStroke/JOIN_MITER/
 date: 2021-01-11
-key: JavaJava.B.BasicStroke
-category: java
+key: Java.B.BasicStroke
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

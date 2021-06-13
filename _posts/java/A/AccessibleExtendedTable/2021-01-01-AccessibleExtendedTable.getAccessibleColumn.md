@@ -1,9 +1,9 @@
 ---
 title: AccessibleExtendedTable.getAccessibleColumn()
-permalink: Java/AccessibleExtendedTable/getAccessibleColumn
+permalink: /Java/AccessibleExtendedTable/getAccessibleColumn/
 date: 2021-01-11
-key: JavaJava.A.AccessibleExtendedTable
-category: java
+key: Java.A.AccessibleExtendedTable
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

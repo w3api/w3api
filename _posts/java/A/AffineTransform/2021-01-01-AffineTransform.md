@@ -1,9 +1,9 @@
 ---
 title: AffineTransform
-permalink: Java/AffineTransform
+permalink: /Java/AffineTransform/
 date: 2021-01-11
-key: JavaJava.A.AffineTransform
-category: java
+key: Java.A.AffineTransform
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

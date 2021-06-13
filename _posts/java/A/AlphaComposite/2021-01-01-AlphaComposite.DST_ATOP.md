@@ -1,9 +1,9 @@
 ---
 title: AlphaComposite.DST_ATOP
-permalink: Java/AlphaComposite/DST_ATOP
+permalink: /Java/AlphaComposite/DST_ATOP/
 date: 2021-01-11
-key: JavaJava.A.AlphaComposite
-category: java
+key: Java.A.AlphaComposite
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

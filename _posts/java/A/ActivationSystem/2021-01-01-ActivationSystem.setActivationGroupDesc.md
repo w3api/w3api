@@ -1,9 +1,9 @@
 ---
 title: ActivationSystem.setActivationGroupDesc()
-permalink: Java/ActivationSystem/setActivationGroupDesc
+permalink: /Java/ActivationSystem/setActivationGroupDesc/
 date: 2021-01-11
-key: JavaJava.A.ActivationSystem
-category: java
+key: Java.A.ActivationSystem
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

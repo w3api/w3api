@@ -1,9 +1,9 @@
 ---
 title: AppletContext.setStream()
-permalink: Java/AppletContext/setStream
+permalink: /Java/AppletContext/setStream/
 date: 2021-01-11
-key: JavaJava.A.AppletContext
-category: java
+key: Java.A.AppletContext
+category: Java
 tags: ['java se', 'java.applet', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

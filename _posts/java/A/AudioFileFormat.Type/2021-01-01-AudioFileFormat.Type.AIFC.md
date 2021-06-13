@@ -1,9 +1,9 @@
 ---
 title: AudioFileFormat.Type.AIFC
-permalink: Java/AudioFileFormat/Type/AIFC
+permalink: /Java/AudioFileFormat/Type/AIFC/
 date: 2021-01-11
-key: JavaJava.A.AudioFileFormat.Type
-category: java
+key: Java.A.AudioFileFormat.Type
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

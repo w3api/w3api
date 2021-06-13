@@ -1,9 +1,9 @@
 ---
 title: AccessibleTableModelChange
-permalink: Java/AccessibleTableModelChange
+permalink: /Java/AccessibleTableModelChange/
 date: 2021-01-11
-key: JavaJava.A.AccessibleTableModelChange
-category: java
+key: Java.A.AccessibleTableModelChange
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

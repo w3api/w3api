@@ -1,9 +1,9 @@
 ---
 title: AlreadyBoundException.AlreadyBoundException()
-permalink: Java/AlreadyBoundException-java-nio-channels/AlreadyBoundException
+permalink: /Java/AlreadyBoundException-java-nio-channels/AlreadyBoundException/
 date: 2021-01-11
-key: JavaJava.A.AlreadyBoundException-java-nio-channels
-category: java
+key: Java.A.AlreadyBoundException-java-nio-channels
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

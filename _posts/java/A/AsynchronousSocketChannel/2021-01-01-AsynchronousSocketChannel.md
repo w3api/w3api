@@ -1,9 +1,9 @@
 ---
 title: AsynchronousSocketChannel
-permalink: Java/AsynchronousSocketChannel
+permalink: /Java/AsynchronousSocketChannel/
 date: 2021-01-11
-key: JavaJava.A.AsynchronousSocketChannel
-category: java
+key: Java.A.AsynchronousSocketChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

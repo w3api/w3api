@@ -1,9 +1,9 @@
 ---
 title: AbstractSpinnerModel
-permalink: Java/AbstractSpinnerModel
+permalink: /Java/AbstractSpinnerModel/
 date: 2021-01-11
-key: JavaJava.A.AbstractSpinnerModel
-category: java
+key: Java.A.AbstractSpinnerModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

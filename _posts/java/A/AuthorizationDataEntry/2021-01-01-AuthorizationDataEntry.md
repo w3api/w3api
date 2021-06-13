@@ -1,9 +1,9 @@
 ---
 title: AuthorizationDataEntry
-permalink: Java/AuthorizationDataEntry
+permalink: /Java/AuthorizationDataEntry/
 date: 2021-01-11
-key: JavaJava.A.AuthorizationDataEntry
-category: java
+key: Java.A.AuthorizationDataEntry
+category: Java
 tags: ['java se', 'com.sun.security.jgss', 'jdk.security.jgss', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

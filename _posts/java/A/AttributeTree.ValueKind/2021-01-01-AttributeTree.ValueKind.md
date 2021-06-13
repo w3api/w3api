@@ -1,9 +1,9 @@
 ---
 title: AttributeTree.ValueKind
-permalink: Java/AttributeTree/ValueKind
+permalink: /Java/AttributeTree/ValueKind/
 date: 2021-01-11
-key: JavaJava.A.AttributeTree.ValueKind
-category: java
+key: Java.A.AttributeTree.ValueKind
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'enumerado java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Attributes
-permalink: Java/Attributes/
+permalink: /Java/Attributes//
 date: 2021-01-11
-key: JavaJava.A.Attributes
-category: java
+key: Java.A.Attributes
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

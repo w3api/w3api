@@ -2,8 +2,8 @@
 title: BasicColorChooserUI.installListeners()
 permalink: /Java/BasicColorChooserUI/installListeners/
 date: 2021-01-11
-key: JavaJava.B.BasicColorChooserUI
-category: java
+key: Java.B.BasicColorChooserUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

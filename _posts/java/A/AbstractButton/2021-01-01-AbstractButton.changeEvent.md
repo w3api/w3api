@@ -1,9 +1,9 @@
 ---
 title: AbstractButton.changeEvent
-permalink: Java/AbstractButton/changeEvent
+permalink: /Java/AbstractButton/changeEvent/
 date: 2021-01-11
-key: JavaJava.A.AbstractButton
-category: java
+key: Java.A.AbstractButton
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

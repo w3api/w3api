@@ -1,9 +1,9 @@
 ---
 title: AtomicIntegerArray.getAndAdd()
-permalink: Java/AtomicIntegerArray/getAndAdd
+permalink: /Java/AtomicIntegerArray/getAndAdd/
 date: 2021-01-11
-key: JavaJava.A.AtomicIntegerArray
-category: java
+key: Java.A.AtomicIntegerArray
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

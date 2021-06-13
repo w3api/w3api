@@ -1,9 +1,9 @@
 ---
 title: Activatable.register()
-permalink: Java/Activatable/register
+permalink: /Java/Activatable/register/
 date: 2021-01-11
-key: JavaJava.A.Activatable
-category: java
+key: Java.A.Activatable
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

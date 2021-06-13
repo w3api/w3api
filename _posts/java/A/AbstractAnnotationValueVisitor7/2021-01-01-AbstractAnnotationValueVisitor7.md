@@ -1,9 +1,9 @@
 ---
 title: AbstractAnnotationValueVisitor7
-permalink: Java/AbstractAnnotationValueVisitor7
+permalink: /Java/AbstractAnnotationValueVisitor7/
 date: 2021-01-11
-key: JavaJava.A.AbstractAnnotationValueVisitor7
-category: java
+key: Java.A.AbstractAnnotationValueVisitor7
+category: Java
 tags: ['java se', 'javax.lang.model.util', 'java.compiler', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Attribute.getValue()
-permalink: Java/Attribute-javax-management/getValue
+permalink: /Java/Attribute-javax-management/getValue/
 date: 2021-01-11
-key: JavaJava.A.Attribute-javax-management
-category: java
+key: Java.A.Attribute-javax-management
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

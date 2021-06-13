@@ -1,9 +1,9 @@
 ---
 title: AclEntryFlag
-permalink: Java/AclEntryFlag
+permalink: /Java/AclEntryFlag/
 date: 2021-01-11
-key: JavaJava.A.AclEntryFlag
-category: java
+key: Java.A.AclEntryFlag
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'enumerado java', 'Java 1.7']
 sidebar: 
   nav: java

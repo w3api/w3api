@@ -1,9 +1,9 @@
 ---
 title: AdapterAlreadyExistsHelper.read()
-permalink: Java/AdapterAlreadyExistsHelper/read
+permalink: /Java/AdapterAlreadyExistsHelper/read/
 date: 2021-01-11
-key: JavaJava.A.AdapterAlreadyExistsHelper
-category: java
+key: Java.A.AdapterAlreadyExistsHelper
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

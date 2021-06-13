@@ -1,9 +1,9 @@
 ---
 title: AEADBadTagException
-permalink: Java/AEADBadTagException
+permalink: /Java/AEADBadTagException/
 date: 2021-01-11
-key: JavaJava.A.AEADBadTagException
-category: java
+key: Java.A.AEADBadTagException
+category: Java
 tags: ['java se', 'javax.crypto', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

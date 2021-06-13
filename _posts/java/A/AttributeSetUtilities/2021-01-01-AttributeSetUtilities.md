@@ -1,9 +1,9 @@
 ---
 title: AttributeSetUtilities
-permalink: Java/AttributeSetUtilities
+permalink: /Java/AttributeSetUtilities/
 date: 2021-01-11
-key: JavaJava.A.AttributeSetUtilities
-category: java
+key: Java.A.AttributeSetUtilities
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

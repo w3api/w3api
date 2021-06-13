@@ -1,9 +1,9 @@
 ---
 title: AlgorithmConstraints.permits()
-permalink: Java/AlgorithmConstraints/permits
+permalink: /Java/AlgorithmConstraints/permits/
 date: 2021-01-11
-key: JavaJava.A.AlgorithmConstraints
-category: java
+key: Java.A.AlgorithmConstraints
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

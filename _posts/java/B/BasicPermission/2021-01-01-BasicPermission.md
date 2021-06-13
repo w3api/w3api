@@ -2,8 +2,8 @@
 title: BasicPermission
 permalink: /Java/BasicPermission/
 date: 2021-01-11
-key: JavaJava.B.BasicPermission
-category: java
+key: Java.B.BasicPermission
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

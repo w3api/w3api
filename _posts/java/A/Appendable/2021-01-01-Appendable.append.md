@@ -1,9 +1,9 @@
 ---
 title: Appendable.append()
-permalink: Java/Appendable/append
+permalink: /Java/Appendable/append/
 date: 2021-01-11
-key: JavaJava.A.Appendable
-category: java
+key: Java.A.Appendable
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

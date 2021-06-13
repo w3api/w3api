@@ -1,9 +1,9 @@
 ---
 title: AppForegroundEvent.AppForegroundEvent()
-permalink: Java/AppForegroundEvent/AppForegroundEvent
+permalink: /Java/AppForegroundEvent/AppForegroundEvent/
 date: 2021-01-11
-key: JavaJava.A.AppForegroundEvent
-category: java
+key: Java.A.AppForegroundEvent
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

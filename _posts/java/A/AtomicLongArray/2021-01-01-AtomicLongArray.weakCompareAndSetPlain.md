@@ -1,9 +1,9 @@
 ---
 title: AtomicLongArray.weakCompareAndSetPlain()
-permalink: Java/AtomicLongArray/weakCompareAndSetPlain
+permalink: /Java/AtomicLongArray/weakCompareAndSetPlain/
 date: 2021-01-11
-key: JavaJava.A.AtomicLongArray
-category: java
+key: Java.A.AtomicLongArray
+category: Java
 tags: ['java se', 'java.util.concurrent.atomic', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

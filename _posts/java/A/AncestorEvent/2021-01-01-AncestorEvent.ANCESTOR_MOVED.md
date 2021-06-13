@@ -1,9 +1,9 @@
 ---
 title: AncestorEvent.ANCESTOR_MOVED
-permalink: Java/AncestorEvent/ANCESTOR_MOVED
+permalink: /Java/AncestorEvent/ANCESTOR_MOVED/
 date: 2021-01-11
-key: JavaJava.A.AncestorEvent
-category: java
+key: Java.A.AncestorEvent
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

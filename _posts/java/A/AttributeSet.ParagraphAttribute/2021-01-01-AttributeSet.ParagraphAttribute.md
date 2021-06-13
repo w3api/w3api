@@ -1,9 +1,9 @@
 ---
 title: AttributeSet.ParagraphAttribute
-permalink: Java/AttributeSet/ParagraphAttribute
+permalink: /Java/AttributeSet/ParagraphAttribute/
 date: 2021-01-11
-key: JavaJava.A.AttributeSet.ParagraphAttribute
-category: java
+key: Java.A.AttributeSet.ParagraphAttribute
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

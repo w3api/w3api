@@ -1,9 +1,9 @@
 ---
 title: AbstractMethodError
-permalink: Java/AbstractMethodError
+permalink: /Java/AbstractMethodError/
 date: 2021-01-11
-key: JavaJava.A.AbstractMethodError
-category: java
+key: Java.A.AbstractMethodError
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

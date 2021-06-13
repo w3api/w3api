@@ -1,9 +1,9 @@
 ---
 title: AttributeList.getName()
-permalink: Java/AttributeList-org-xml-sax/getName
+permalink: /Java/AttributeList-org-xml-sax/getName/
 date: 2021-01-11
-key: JavaJava.A.AttributeList-org-xml-sax
-category: java
+key: Java.A.AttributeList-org-xml-sax
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'metodo java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AccessibleRelationSet
-permalink: Java/AccessibleRelationSet
+permalink: /Java/AccessibleRelationSet/
 date: 2021-01-11
-key: JavaJava.A.AccessibleRelationSet
-category: java
+key: Java.A.AccessibleRelationSet
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

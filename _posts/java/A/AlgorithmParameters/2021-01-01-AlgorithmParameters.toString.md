@@ -1,9 +1,9 @@
 ---
 title: AlgorithmParameters.toString()
-permalink: Java/AlgorithmParameters/toString
+permalink: /Java/AlgorithmParameters/toString/
 date: 2021-01-11
-key: JavaJava.A.AlgorithmParameters
-category: java
+key: Java.A.AlgorithmParameters
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

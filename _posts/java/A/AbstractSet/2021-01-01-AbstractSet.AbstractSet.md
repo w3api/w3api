@@ -1,9 +1,9 @@
 ---
 title: AbstractSet.AbstractSet()
-permalink: Java/AbstractSet/AbstractSet
+permalink: /Java/AbstractSet/AbstractSet/
 date: 2021-01-11
-key: JavaJava.A.AbstractSet
-category: java
+key: Java.A.AbstractSet
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

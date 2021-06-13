@@ -1,9 +1,9 @@
 ---
 title: AbstractTableModel.fireTableRowsInserted()
-permalink: Java/AbstractTableModel/fireTableRowsInserted
+permalink: /Java/AbstractTableModel/fireTableRowsInserted/
 date: 2021-01-11
-key: JavaJava.A.AbstractTableModel
-category: java
+key: Java.A.AbstractTableModel
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

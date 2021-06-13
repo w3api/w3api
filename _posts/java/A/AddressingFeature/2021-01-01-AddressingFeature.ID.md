@@ -1,9 +1,9 @@
 ---
 title: AddressingFeature.ID
-permalink: Java/AddressingFeature/ID
+permalink: /Java/AddressingFeature/ID/
 date: 2021-01-11
-key: JavaJava.A.AddressingFeature
-category: java
+key: Java.A.AddressingFeature
+category: Java
 tags: ['java se', 'javax.xml.ws.soap', 'java.xml.ws', 'campo java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 
   nav: java

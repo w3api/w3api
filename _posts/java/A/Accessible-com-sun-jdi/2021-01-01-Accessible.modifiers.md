@@ -1,9 +1,9 @@
 ---
 title: Accessible.modifiers()
-permalink: Java/Accessible-com-sun-jdi/modifiers
+permalink: /Java/Accessible-com-sun-jdi/modifiers/
 date: 2021-01-11
-key: JavaJava.A.Accessible-com-sun-jdi
-category: java
+key: Java.A.Accessible-com-sun-jdi
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

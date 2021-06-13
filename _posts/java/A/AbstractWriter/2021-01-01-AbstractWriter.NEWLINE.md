@@ -1,9 +1,9 @@
 ---
 title: AbstractWriter.NEWLINE
-permalink: Java/AbstractWriter/NEWLINE
+permalink: /Java/AbstractWriter/NEWLINE/
 date: 2021-01-11
-key: JavaJava.A.AbstractWriter
-category: java
+key: Java.A.AbstractWriter
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

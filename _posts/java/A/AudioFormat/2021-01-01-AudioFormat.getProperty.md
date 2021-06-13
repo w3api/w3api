@@ -1,9 +1,9 @@
 ---
 title: AudioFormat.getProperty()
-permalink: Java/AudioFormat/getProperty
+permalink: /Java/AudioFormat/getProperty/
 date: 2021-01-11
-key: JavaJava.A.AudioFormat
-category: java
+key: Java.A.AudioFormat
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

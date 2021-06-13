@@ -1,9 +1,9 @@
 ---
 title: AccessibleAttributeSequence.AccessibleAttributeSequence()
-permalink: Java/AccessibleAttributeSequence/AccessibleAttributeSequence
+permalink: /Java/AccessibleAttributeSequence/AccessibleAttributeSequence/
 date: 2021-01-11
-key: JavaJava.A.AccessibleAttributeSequence
-category: java
+key: Java.A.AccessibleAttributeSequence
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

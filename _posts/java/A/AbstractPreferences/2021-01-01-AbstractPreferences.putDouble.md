@@ -1,9 +1,9 @@
 ---
 title: AbstractPreferences.putDouble()
-permalink: Java/AbstractPreferences/putDouble
+permalink: /Java/AbstractPreferences/putDouble/
 date: 2021-01-11
-key: JavaJava.A.AbstractPreferences
-category: java
+key: Java.A.AbstractPreferences
+category: Java
 tags: ['java se', 'java.util.prefs', 'java.prefs', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

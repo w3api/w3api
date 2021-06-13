@@ -1,9 +1,9 @@
 ---
 title: AbstractCellEditor.AbstractCellEditor()
-permalink: Java/AbstractCellEditor/AbstractCellEditor
+permalink: /Java/AbstractCellEditor/AbstractCellEditor/
 date: 2021-01-11
-key: JavaJava.A.AbstractCellEditor
-category: java
+key: Java.A.AbstractCellEditor
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

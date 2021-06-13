@@ -1,9 +1,9 @@
 ---
 title: AbstractDocument.AttributeContext
-permalink: Java/AbstractDocument/AttributeContext
+permalink: /Java/AbstractDocument/AttributeContext/
 date: 2021-01-11
-key: JavaJava.A.AbstractDocument.AttributeContext
-category: java
+key: Java.A.AbstractDocument.AttributeContext
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

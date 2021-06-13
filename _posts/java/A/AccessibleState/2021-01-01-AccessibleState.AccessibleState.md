@@ -1,9 +1,9 @@
 ---
 title: AccessibleState.AccessibleState()
-permalink: Java/AccessibleState/AccessibleState
+permalink: /Java/AccessibleState/AccessibleState/
 date: 2021-01-11
-key: JavaJava.A.AccessibleState
-category: java
+key: Java.A.AccessibleState
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

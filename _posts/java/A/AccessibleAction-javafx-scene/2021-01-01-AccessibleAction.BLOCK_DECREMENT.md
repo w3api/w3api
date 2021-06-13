@@ -1,9 +1,9 @@
 ---
 title: AccessibleAction.BLOCK_DECREMENT
-permalink: Java/AccessibleAction-javafx-scene/BLOCK_DECREMENT
+permalink: /Java/AccessibleAction-javafx-scene/BLOCK_DECREMENT/
 date: 2021-01-11
-key: JavaJava.A.AccessibleAction-javafx-scene
-category: java
+key: Java.A.AccessibleAction-javafx-scene
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

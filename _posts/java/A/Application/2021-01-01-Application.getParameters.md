@@ -1,9 +1,9 @@
 ---
 title: Application.getParameters()
-permalink: Java/Application/getParameters
+permalink: /Java/Application/getParameters/
 date: 2021-01-11
-key: JavaJava.A.Application
-category: java
+key: Java.A.Application
+category: Java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

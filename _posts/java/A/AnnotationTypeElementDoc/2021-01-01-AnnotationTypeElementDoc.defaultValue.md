@@ -1,9 +1,9 @@
 ---
 title: AnnotationTypeElementDoc.defaultValue()
-permalink: Java/AnnotationTypeElementDoc/defaultValue
+permalink: /Java/AnnotationTypeElementDoc/defaultValue/
 date: 2021-01-11
-key: JavaJava.A.AnnotationTypeElementDoc
-category: java
+key: Java.A.AnnotationTypeElementDoc
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

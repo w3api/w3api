@@ -1,9 +1,9 @@
 ---
 title: AudioFileWriter.AudioFileWriter()
-permalink: Java/AudioFileWriter/AudioFileWriter
+permalink: /Java/AudioFileWriter/AudioFileWriter/
 date: 2021-01-11
-key: JavaJava.A.AudioFileWriter
-category: java
+key: Java.A.AudioFileWriter
+category: Java
 tags: ['java se', 'javax.sound.sampled.spi', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

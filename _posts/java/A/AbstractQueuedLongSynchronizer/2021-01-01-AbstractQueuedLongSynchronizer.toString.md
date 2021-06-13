@@ -1,9 +1,9 @@
 ---
 title: AbstractQueuedLongSynchronizer.toString()
-permalink: Java/AbstractQueuedLongSynchronizer/toString
+permalink: /Java/AbstractQueuedLongSynchronizer/toString/
 date: 2021-01-11
-key: JavaJava.A.AbstractQueuedLongSynchronizer
-category: java
+key: Java.A.AbstractQueuedLongSynchronizer
+category: Java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

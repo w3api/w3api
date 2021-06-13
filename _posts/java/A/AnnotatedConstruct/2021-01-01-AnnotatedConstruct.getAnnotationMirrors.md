@@ -1,9 +1,9 @@
 ---
 title: AnnotatedConstruct.getAnnotationMirrors()
-permalink: Java/AnnotatedConstruct/getAnnotationMirrors
+permalink: /Java/AnnotatedConstruct/getAnnotationMirrors/
 date: 2021-01-11
-key: JavaJava.A.AnnotatedConstruct
-category: java
+key: Java.A.AnnotatedConstruct
+category: Java
 tags: ['java se', 'javax.lang.model', 'java.compiler', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ActivationSystem
-permalink: Java/ActivationSystem
+permalink: /Java/ActivationSystem/
 date: 2021-01-11
-key: JavaJava.A.ActivationSystem
-category: java
+key: Java.A.ActivationSystem
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

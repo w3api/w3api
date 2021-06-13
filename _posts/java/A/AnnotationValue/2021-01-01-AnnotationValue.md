@@ -1,9 +1,9 @@
 ---
 title: AnnotationValue
-permalink: Java/AnnotationValue/
+permalink: /Java/AnnotationValue//
 date: 2021-01-11
-key: JavaJava.A.AnnotationValue
-category: java
+key: Java.A.AnnotationValue
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AbstractListModel.listenerList
-permalink: Java/AbstractListModel/listenerList
+permalink: /Java/AbstractListModel/listenerList/
 date: 2021-01-11
-key: JavaJava.A.AbstractListModel
-category: java
+key: Java.A.AbstractListModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

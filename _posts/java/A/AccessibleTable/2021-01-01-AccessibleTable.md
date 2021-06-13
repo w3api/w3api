@@ -1,9 +1,9 @@
 ---
 title: AccessibleTable
-permalink: Java/AccessibleTable
+permalink: /Java/AccessibleTable/
 date: 2021-01-11
-key: JavaJava.A.AccessibleTable
-category: java
+key: Java.A.AccessibleTable
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: Background.EMPTY
 permalink: /Java/Background/EMPTY/
 date: 2021-01-11
-key: JavaJava.B.Background
-category: java
+key: Java.B.Background
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

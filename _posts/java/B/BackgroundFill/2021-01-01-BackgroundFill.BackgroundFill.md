@@ -2,8 +2,8 @@
 title: BackgroundFill.BackgroundFill()
 permalink: /Java/BackgroundFill/BackgroundFill/
 date: 2021-01-11
-key: JavaJava.B.BackgroundFill
-category: java
+key: Java.B.BackgroundFill
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

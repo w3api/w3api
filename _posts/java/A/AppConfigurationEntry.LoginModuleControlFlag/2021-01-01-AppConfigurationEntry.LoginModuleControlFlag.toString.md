@@ -1,9 +1,9 @@
 ---
 title: AppConfigurationEntry.LoginModuleControlFlag.toString()
-permalink: Java/AppConfigurationEntry/LoginModuleControlFlag/toString
+permalink: /Java/AppConfigurationEntry/LoginModuleControlFlag/toString/
 date: 2021-01-11
-key: JavaJava.A.AppConfigurationEntry.LoginModuleControlFlag
-category: java
+key: Java.A.AppConfigurationEntry.LoginModuleControlFlag
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AudioEqualizer
-permalink: Java/AudioEqualizer
+permalink: /Java/AudioEqualizer/
 date: 2021-01-11
-key: JavaJava.A.AudioEqualizer
-category: java
+key: Java.A.AudioEqualizer
+category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

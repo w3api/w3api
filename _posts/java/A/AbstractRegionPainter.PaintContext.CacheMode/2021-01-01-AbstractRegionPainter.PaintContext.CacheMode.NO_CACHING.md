@@ -1,9 +1,9 @@
 ---
 title: AbstractRegionPainter.PaintContext.CacheMode.NO_CACHING
-permalink: Java/AbstractRegionPainter/PaintContext/CacheMode/NO_CACHING
+permalink: /Java/AbstractRegionPainter/PaintContext/CacheMode/NO_CACHING/
 date: 2021-01-11
-key: JavaJava.A.AbstractRegionPainter.PaintContext.CacheMode
-category: java
+key: Java.A.AbstractRegionPainter.PaintContext.CacheMode
+category: Java
 tags: ['java se', 'javax.swing.plaf.nimbus', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

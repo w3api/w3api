@@ -1,9 +1,9 @@
 ---
 title: AudioSystem.getSourceLineInfo()
-permalink: Java/AudioSystem/getSourceLineInfo
+permalink: /Java/AudioSystem/getSourceLineInfo/
 date: 2021-01-11
-key: JavaJava.A.AudioSystem
-category: java
+key: Java.A.AudioSystem
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

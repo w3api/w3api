@@ -1,9 +1,9 @@
 ---
 title: AccessibleState.VERTICAL
-permalink: Java/AccessibleState/VERTICAL
+permalink: /Java/AccessibleState/VERTICAL/
 date: 2021-01-11
-key: JavaJava.A.AccessibleState
-category: java
+key: Java.A.AccessibleState
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

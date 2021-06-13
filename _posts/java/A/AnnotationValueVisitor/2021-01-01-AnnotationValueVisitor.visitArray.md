@@ -1,9 +1,9 @@
 ---
 title: AnnotationValueVisitor.visitArray()
-permalink: Java/AnnotationValueVisitor/visitArray
+permalink: /Java/AnnotationValueVisitor/visitArray/
 date: 2021-01-11
-key: JavaJava.A.AnnotationValueVisitor
-category: java
+key: Java.A.AnnotationValueVisitor
+category: Java
 tags: ['java se', 'javax.lang.model.element', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

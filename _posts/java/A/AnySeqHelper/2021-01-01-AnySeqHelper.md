@@ -1,9 +1,9 @@
 ---
 title: AnySeqHelper
-permalink: Java/AnySeqHelper/
+permalink: /Java/AnySeqHelper//
 date: 2021-01-11
-key: JavaJava.A.AnySeqHelper
-category: java
+key: Java.A.AnySeqHelper
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

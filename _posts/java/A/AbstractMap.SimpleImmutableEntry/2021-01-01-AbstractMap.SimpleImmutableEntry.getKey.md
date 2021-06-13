@@ -1,9 +1,9 @@
 ---
 title: AbstractMap.SimpleImmutableEntry.getKey()
-permalink: Java/AbstractMap/SimpleImmutableEntry/getKey
+permalink: /Java/AbstractMap/SimpleImmutableEntry/getKey/
 date: 2021-01-11
-key: JavaJava.A.AbstractMap.SimpleImmutableEntry
-category: java
+key: Java.A.AbstractMap.SimpleImmutableEntry
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

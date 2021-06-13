@@ -1,9 +1,9 @@
 ---
 title: AnnotatedWildcardType.getAnnotatedUpperBounds()
-permalink: Java/AnnotatedWildcardType/getAnnotatedUpperBounds
+permalink: /Java/AnnotatedWildcardType/getAnnotatedUpperBounds/
 date: 2021-01-11
-key: JavaJava.A.AnnotatedWildcardType
-category: java
+key: Java.A.AnnotatedWildcardType
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

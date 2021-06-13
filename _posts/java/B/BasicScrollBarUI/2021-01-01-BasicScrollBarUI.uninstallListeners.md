@@ -3,7 +3,7 @@ title: BasicScrollBarUI.uninstallListeners()
 permalink: /Java/BasicScrollBarUI/uninstallListeners/
 date: 2021-01-11
 key: Java.B.BasicScrollBarUI
-category: java
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

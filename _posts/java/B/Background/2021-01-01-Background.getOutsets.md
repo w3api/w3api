@@ -2,8 +2,8 @@
 title: Background.getOutsets()
 permalink: /Java/Background/getOutsets/
 date: 2021-01-11
-key: JavaJava.B.Background
-category: java
+key: Java.B.Background
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

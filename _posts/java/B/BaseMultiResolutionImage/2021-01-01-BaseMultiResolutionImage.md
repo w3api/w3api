@@ -2,8 +2,8 @@
 title: BaseMultiResolutionImage
 permalink: /Java/BaseMultiResolutionImage/
 date: 2021-01-11
-key: JavaJava.B.BaseMultiResolutionImage
-category: java
+key: Java.B.BaseMultiResolutionImage
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

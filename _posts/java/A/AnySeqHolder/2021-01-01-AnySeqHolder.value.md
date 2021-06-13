@@ -1,9 +1,9 @@
 ---
 title: AnySeqHolder.value
-permalink: Java/AnySeqHolder/value
+permalink: /Java/AnySeqHolder/value/
 date: 2021-01-11
-key: JavaJava.A.AnySeqHolder
-category: java
+key: Java.A.AnySeqHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

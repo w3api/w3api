@@ -1,9 +1,9 @@
 ---
 title: AnnotationTypeMismatchException
-permalink: Java/AnnotationTypeMismatchException
+permalink: /Java/AnnotationTypeMismatchException/
 date: 2021-01-11
-key: JavaJava.A.AnnotationTypeMismatchException
-category: java
+key: Java.A.AnnotationTypeMismatchException
+category: Java
 tags: ['java se', 'java.lang.annotation', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

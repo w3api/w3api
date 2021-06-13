@@ -2,8 +2,8 @@
 title: BasicTabbedPaneUI.assureRectsCreated()
 permalink: /Java/BasicTabbedPaneUI/assureRectsCreated/
 date: 2021-01-11
-key: JavaJava.B.BasicTabbedPaneUI
-category: java
+key: Java.B.BasicTabbedPaneUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

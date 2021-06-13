@@ -1,9 +1,9 @@
 ---
 title: AbstractScriptEngine.context
-permalink: Java/AbstractScriptEngine/context
+permalink: /Java/AbstractScriptEngine/context/
 date: 2021-01-11
-key: JavaJava.A.AbstractScriptEngine
-category: java
+key: Java.A.AbstractScriptEngine
+category: Java
 tags: ['java se', 'javax.script', 'java.scripting', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

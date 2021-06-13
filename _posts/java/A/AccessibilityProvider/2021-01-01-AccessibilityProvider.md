@@ -1,9 +1,9 @@
 ---
 title: AccessibilityProvider
-permalink: Java/AccessibilityProvider
+permalink: /Java/AccessibilityProvider/
 date: 2021-01-11
-key: JavaJava.A.AccessibilityProvider
-category: java
+key: Java.A.AccessibilityProvider
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

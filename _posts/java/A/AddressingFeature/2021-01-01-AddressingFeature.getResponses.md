@@ -1,9 +1,9 @@
 ---
 title: AddressingFeature.getResponses()
-permalink: Java/AddressingFeature/getResponses
+permalink: /Java/AddressingFeature/getResponses/
 date: 2021-01-11
-key: JavaJava.A.AddressingFeature
-category: java
+key: Java.A.AddressingFeature
+category: Java
 tags: ['java se', 'javax.xml.ws.soap', 'java.xml.ws', 'metodo java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 
   nav: java

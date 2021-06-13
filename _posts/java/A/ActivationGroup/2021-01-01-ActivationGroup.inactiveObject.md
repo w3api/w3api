@@ -1,9 +1,9 @@
 ---
 title: ActivationGroup.inactiveObject()
-permalink: Java/ActivationGroup/inactiveObject
+permalink: /Java/ActivationGroup/inactiveObject/
 date: 2021-01-11
-key: JavaJava.A.ActivationGroup
-category: java
+key: Java.A.ActivationGroup
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

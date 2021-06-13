@@ -1,9 +1,9 @@
 ---
 title: AbstractProcessor.processingEnv
-permalink: Java/AbstractProcessor/processingEnv
+permalink: /Java/AbstractProcessor/processingEnv/
 date: 2021-01-11
-key: JavaJava.A.AbstractProcessor
-category: java
+key: Java.A.AbstractProcessor
+category: Java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

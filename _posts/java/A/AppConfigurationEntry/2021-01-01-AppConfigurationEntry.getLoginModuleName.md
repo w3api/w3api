@@ -1,9 +1,9 @@
 ---
 title: AppConfigurationEntry.getLoginModuleName()
-permalink: Java/AppConfigurationEntry/getLoginModuleName
+permalink: /Java/AppConfigurationEntry/getLoginModuleName/
 date: 2021-01-11
-key: JavaJava.A.AppConfigurationEntry
-category: java
+key: Java.A.AppConfigurationEntry
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

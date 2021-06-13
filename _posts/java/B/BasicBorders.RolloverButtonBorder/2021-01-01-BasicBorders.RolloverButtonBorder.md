@@ -2,8 +2,8 @@
 title: BasicBorders.RolloverButtonBorder
 permalink: /Java/BasicBorders/RolloverButtonBorder/
 date: 2021-01-11
-key: JavaJava.B.BasicBorders.RolloverButtonBorder
-category: java
+key: Java.B.BasicBorders.RolloverButtonBorder
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

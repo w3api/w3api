@@ -1,9 +1,9 @@
 ---
 title: ActivationInstantiator
-permalink: Java/ActivationInstantiator
+permalink: /Java/ActivationInstantiator/
 date: 2021-01-11
-key: JavaJava.A.ActivationInstantiator
-category: java
+key: Java.A.ActivationInstantiator
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

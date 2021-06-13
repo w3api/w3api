@@ -1,9 +1,9 @@
 ---
 title: AcceptPendingException
-permalink: Java/AcceptPendingException
+permalink: /Java/AcceptPendingException/
 date: 2021-01-11
-key: JavaJava.A.AcceptPendingException
-category: java
+key: Java.A.AcceptPendingException
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

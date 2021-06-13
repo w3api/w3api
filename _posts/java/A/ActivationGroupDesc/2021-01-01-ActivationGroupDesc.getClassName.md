@@ -1,9 +1,9 @@
 ---
 title: ActivationGroupDesc.getClassName()
-permalink: Java/ActivationGroupDesc/getClassName
+permalink: /Java/ActivationGroupDesc/getClassName/
 date: 2021-01-11
-key: JavaJava.A.ActivationGroupDesc
-category: java
+key: Java.A.ActivationGroupDesc
+category: Java
 tags: ['java se', 'java.rmi.activation', 'java.rmi', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

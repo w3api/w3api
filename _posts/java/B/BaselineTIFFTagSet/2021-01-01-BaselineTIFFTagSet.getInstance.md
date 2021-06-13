@@ -2,8 +2,8 @@
 title: BaselineTIFFTagSet.getInstance()
 permalink: /Java/BaselineTIFFTagSet/getInstance/
 date: 2021-01-11
-key: JavaJava.B.BaselineTIFFTagSet
-category: java
+key: Java.B.BaselineTIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

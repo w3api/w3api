@@ -1,9 +1,9 @@
 ---
 title: AuthenticationException
-permalink: Java/AuthenticationException-javax-security-sasl
+permalink: /Java/AuthenticationException-javax-security-sasl/
 date: 2021-01-11
-key: JavaJava.A.AuthenticationException-javax-security-sasl
-category: java
+key: Java.A.AuthenticationException-javax-security-sasl
+category: Java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

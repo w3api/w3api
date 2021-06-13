@@ -1,9 +1,9 @@
 ---
 title: AttributedCharacterIterator.Attribute.INPUT_METHOD_SEGMENT
-permalink: Java/AttributedCharacterIterator/Attribute/INPUT_METHOD_SEGMENT
+permalink: /Java/AttributedCharacterIterator/Attribute/INPUT_METHOD_SEGMENT/
 date: 2021-01-11
-key: JavaJava.A.AttributedCharacterIterator.Attribute
-category: java
+key: Java.A.AttributedCharacterIterator.Attribute
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

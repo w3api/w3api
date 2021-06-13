@@ -1,9 +1,9 @@
 ---
 title: AttributeChangeNotificationFilter.isNotificationEnabled()
-permalink: Java/AttributeChangeNotificationFilter/isNotificationEnabled
+permalink: /Java/AttributeChangeNotificationFilter/isNotificationEnabled/
 date: 2021-01-11
-key: JavaJava.A.AttributeChangeNotificationFilter
-category: java
+key: Java.A.AttributeChangeNotificationFilter
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AudioFileReader.getAudioInputStream()
-permalink: Java/AudioFileReader/getAudioInputStream
+permalink: /Java/AudioFileReader/getAudioInputStream/
 date: 2021-01-11
-key: JavaJava.A.AudioFileReader
-category: java
+key: Java.A.AudioFileReader
+category: Java
 tags: ['java se', 'javax.sound.sampled.spi', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

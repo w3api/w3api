@@ -1,9 +1,9 @@
 ---
 title: AudioFileFormat.Type
-permalink: Java/AudioFileFormat/Type
+permalink: /Java/AudioFileFormat/Type/
 date: 2021-01-11
-key: JavaJava.A.AudioFileFormat.Type
-category: java
+key: Java.A.AudioFileFormat.Type
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

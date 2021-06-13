@@ -1,9 +1,9 @@
 ---
 title: AttachmentPart.setRawContent()
-permalink: Java/AttachmentPart/setRawContent
+permalink: /Java/AttachmentPart/setRawContent/
 date: 2021-01-11
-key: JavaJava.A.AttachmentPart
-category: java
+key: Java.A.AttachmentPart
+category: Java
 tags: ['java se', 'javax.xml.soap', 'java.xml.ws', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AuthPermission.AuthPermission()
-permalink: Java/AuthPermission/AuthPermission
+permalink: /Java/AuthPermission/AuthPermission/
 date: 2021-01-11
-key: JavaJava.A.AuthPermission
-category: java
+key: Java.A.AuthPermission
+category: Java
 tags: ['java se', 'javax.security.auth', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -2,8 +2,8 @@
 title: BAD_TYPECODE.BAD_TYPECODE()
 permalink: /Java/BAD_TYPECODE/BAD_TYPECODE/
 date: 2021-01-11
-key: JavaJava.B.BAD_TYPECODE
-category: java
+key: Java.B.BAD_TYPECODE
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

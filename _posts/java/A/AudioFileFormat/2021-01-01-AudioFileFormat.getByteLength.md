@@ -1,9 +1,9 @@
 ---
 title: AudioFileFormat.getByteLength()
-permalink: Java/AudioFileFormat/getByteLength
+permalink: /Java/AudioFileFormat/getByteLength/
 date: 2021-01-11
-key: JavaJava.A.AudioFileFormat
-category: java
+key: Java.A.AudioFileFormat
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

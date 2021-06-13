@@ -1,9 +1,9 @@
 ---
 title: AnchorPane.setRightAnchor()
-permalink: Java/AnchorPane/setRightAnchor
+permalink: /Java/AnchorPane/setRightAnchor/
 date: 2021-01-11
-key: JavaJava.A.AnchorPane
-category: java
+key: Java.A.AnchorPane
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

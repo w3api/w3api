@@ -2,8 +2,8 @@
 title: BAD_INV_ORDER
 permalink: /Java/BAD_INV_ORDER/
 date: 2021-01-11
-key: JavaJava.B.BAD_INV_ORDER
-category: java
+key: Java.B.BAD_INV_ORDER
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'JDKJava 1.2']
 sidebar: 
   nav: java

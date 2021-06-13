@@ -2,8 +2,8 @@
 title: BasicSeparatorUI
 permalink: /Java/BasicSeparatorUI/
 date: 2021-01-11
-key: JavaJava.B.BasicSeparatorUI
-category: java
+key: Java.B.BasicSeparatorUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

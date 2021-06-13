@@ -1,9 +1,9 @@
 ---
 title: AbstractLayoutCache.treeSelectionModel
-permalink: Java/AbstractLayoutCache/treeSelectionModel
+permalink: /Java/AbstractLayoutCache/treeSelectionModel/
 date: 2021-01-11
-key: JavaJava.A.AbstractLayoutCache
-category: java
+key: Java.A.AbstractLayoutCache
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

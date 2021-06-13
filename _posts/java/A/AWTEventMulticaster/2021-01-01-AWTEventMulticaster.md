@@ -1,9 +1,9 @@
 ---
 title: AWTEventMulticaster
-permalink: Java/AWTEventMulticaster
+permalink: /Java/AWTEventMulticaster/
 date: 2021-01-11
-key: JavaJava.A.AWTEventMulticaster
-category: java
+key: Java.A.AWTEventMulticaster
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

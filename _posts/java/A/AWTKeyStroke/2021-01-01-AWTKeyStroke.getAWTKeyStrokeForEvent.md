@@ -1,9 +1,9 @@
 ---
 title: AWTKeyStroke.getAWTKeyStrokeForEvent()
-permalink: Java/AWTKeyStroke/getAWTKeyStrokeForEvent
+permalink: /Java/AWTKeyStroke/getAWTKeyStrokeForEvent/
 date: 2021-01-11
-key: JavaJava.A.AWTKeyStroke
-category: java
+key: Java.A.AWTKeyStroke
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

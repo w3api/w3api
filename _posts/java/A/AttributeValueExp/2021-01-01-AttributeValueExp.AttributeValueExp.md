@@ -1,9 +1,9 @@
 ---
 title: AttributeValueExp.AttributeValueExp()
-permalink: Java/AttributeValueExp/AttributeValueExp
+permalink: /Java/AttributeValueExp/AttributeValueExp/
 date: 2021-01-11
-key: JavaJava.A.AttributeValueExp
-category: java
+key: Java.A.AttributeValueExp
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

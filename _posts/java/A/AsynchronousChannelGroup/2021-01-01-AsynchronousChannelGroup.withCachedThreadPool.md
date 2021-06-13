@@ -1,9 +1,9 @@
 ---
 title: AsynchronousChannelGroup.withCachedThreadPool()
-permalink: Java/AsynchronousChannelGroup/withCachedThreadPool
+permalink: /Java/AsynchronousChannelGroup/withCachedThreadPool/
 date: 2021-01-11
-key: JavaJava.A.AsynchronousChannelGroup
-category: java
+key: Java.A.AsynchronousChannelGroup
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

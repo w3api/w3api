@@ -1,9 +1,9 @@
 ---
 title: AdapterAlreadyExists
-permalink: Java/AdapterAlreadyExists
+permalink: /Java/AdapterAlreadyExists/
 date: 2021-01-11
-key: JavaJava.A.AdapterAlreadyExists
-category: java
+key: Java.A.AdapterAlreadyExists
+category: Java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

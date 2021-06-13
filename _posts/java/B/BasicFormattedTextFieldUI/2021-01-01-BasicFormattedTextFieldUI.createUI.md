@@ -2,8 +2,8 @@
 title: BasicFormattedTextFieldUI.createUI()
 permalink: /Java/BasicFormattedTextFieldUI/createUI/
 date: 2021-01-11
-key: JavaJava.B.BasicFormattedTextFieldUI
-category: java
+key: Java.B.BasicFormattedTextFieldUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.basic', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

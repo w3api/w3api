@@ -1,9 +1,9 @@
 ---
 title: AbstractLayoutCache
-permalink: Java/AbstractLayoutCache
+permalink: /Java/AbstractLayoutCache/
 date: 2021-01-11
-key: JavaJava.A.AbstractLayoutCache
-category: java
+key: Java.A.AbstractLayoutCache
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

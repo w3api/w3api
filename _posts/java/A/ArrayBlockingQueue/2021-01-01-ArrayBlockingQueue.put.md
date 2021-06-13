@@ -1,9 +1,9 @@
 ---
 title: ArrayBlockingQueue.put()
-permalink: Java/ArrayBlockingQueue/put
+permalink: /Java/ArrayBlockingQueue/put/
 date: 2021-01-11
-key: JavaJava.A.ArrayBlockingQueue
-category: java
+key: Java.A.ArrayBlockingQueue
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AclEntryType.ALLOW
-permalink: Java/AclEntryType/ALLOW
+permalink: /Java/AclEntryType/ALLOW/
 date: 2021-01-11
-key: JavaJava.A.AclEntryType
-category: java
+key: Java.A.AclEntryType
+category: Java
 tags: ['java se', 'java.nio.file.attribute', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

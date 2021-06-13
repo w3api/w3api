@@ -1,9 +1,9 @@
 ---
 title: AppForegroundListener
-permalink: Java/AppForegroundListener
+permalink: /Java/AppForegroundListener/
 date: 2021-01-11
-key: JavaJava.A.AppForegroundListener
-category: java
+key: Java.A.AppForegroundListener
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 
   nav: java

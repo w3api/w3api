@@ -1,9 +1,9 @@
 ---
 title: AbstractSpinnerModel.fireStateChanged()
-permalink: Java/AbstractSpinnerModel/fireStateChanged
+permalink: /Java/AbstractSpinnerModel/fireStateChanged/
 date: 2021-01-11
-key: JavaJava.A.AbstractSpinnerModel
-category: java
+key: Java.A.AbstractSpinnerModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

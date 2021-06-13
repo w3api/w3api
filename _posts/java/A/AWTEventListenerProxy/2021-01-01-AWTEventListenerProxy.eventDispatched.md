@@ -1,9 +1,9 @@
 ---
 title: AWTEventListenerProxy.eventDispatched()
-permalink: Java/AWTEventListenerProxy/eventDispatched
+permalink: /Java/AWTEventListenerProxy/eventDispatched/
 date: 2021-01-11
-key: JavaJava.A.AWTEventListenerProxy
-category: java
+key: Java.A.AWTEventListenerProxy
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: AbstractList.addAll()
-permalink: Java/AbstractList/addAll
+permalink: /Java/AbstractList/addAll/
 date: 2021-01-11
-key: JavaJava.A.AbstractList
-category: java
+key: Java.A.AbstractList
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Animation.Status.STOPPED
-permalink: Java/Animation/Status/STOPPED
+permalink: /Java/Animation/Status/STOPPED/
 date: 2021-01-11
-key: JavaJava.A.Animation.Status
-category: java
+key: Java.A.Animation.Status
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

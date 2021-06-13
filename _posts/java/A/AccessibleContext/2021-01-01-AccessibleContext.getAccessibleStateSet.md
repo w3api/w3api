@@ -1,9 +1,9 @@
 ---
 title: AccessibleContext.getAccessibleStateSet()
-permalink: Java/AccessibleContext/getAccessibleStateSet
+permalink: /Java/AccessibleContext/getAccessibleStateSet/
 date: 2021-01-11
-key: JavaJava.A.AccessibleContext
-category: java
+key: Java.A.AccessibleContext
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

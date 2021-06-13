@@ -1,9 +1,9 @@
 ---
 title: AccessibilityEventMonitor
-permalink: Java/AccessibilityEventMonitor
+permalink: /Java/AccessibilityEventMonitor/
 date: 2021-01-11
-key: JavaJava.A.AccessibilityEventMonitor
-category: java
+key: Java.A.AccessibilityEventMonitor
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

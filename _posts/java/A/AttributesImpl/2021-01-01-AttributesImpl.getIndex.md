@@ -1,9 +1,9 @@
 ---
 title: AttributesImpl.getIndex()
-permalink: Java/AttributesImpl/getIndex
+permalink: /Java/AttributesImpl/getIndex/
 date: 2021-01-11
-key: JavaJava.A.AttributesImpl
-category: java
+key: Java.A.AttributesImpl
+category: Java
 tags: ['java se', 'org.xml.sax.helpers', 'java.xml', 'metodo java', 'Java 1.4', 'SAX 2.0']
 sidebar: 
   nav: java

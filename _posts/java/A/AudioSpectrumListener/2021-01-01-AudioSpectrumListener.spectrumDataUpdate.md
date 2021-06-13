@@ -1,9 +1,9 @@
 ---
 title: AudioSpectrumListener.spectrumDataUpdate()
-permalink: Java/AudioSpectrumListener/spectrumDataUpdate
+permalink: /Java/AudioSpectrumListener/spectrumDataUpdate/
 date: 2021-01-11
-key: JavaJava.A.AudioSpectrumListener
-category: java
+key: Java.A.AudioSpectrumListener
+category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

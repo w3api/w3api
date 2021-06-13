@@ -1,9 +1,9 @@
 ---
 title: Application.Parameters.getRaw()
-permalink: Java/Application/Parameters/getRaw
+permalink: /Java/Application/Parameters/getRaw/
 date: 2021-01-11
-key: JavaJava.A.Application.Parameters
-category: java
+key: Java.A.Application.Parameters
+category: Java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

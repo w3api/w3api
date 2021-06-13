@@ -1,9 +1,9 @@
 ---
 title: ArrayType.getComponentType()
-permalink: Java/ArrayType-javax-lang-model-type/getComponentType
+permalink: /Java/ArrayType-javax-lang-model-type/getComponentType/
 date: 2021-01-11
-key: JavaJava.A.ArrayType-javax-lang-model-type
-category: java
+key: Java.A.ArrayType-javax-lang-model-type
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

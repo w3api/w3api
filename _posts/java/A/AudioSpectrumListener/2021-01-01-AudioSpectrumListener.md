@@ -1,9 +1,9 @@
 ---
 title: AudioSpectrumListener
-permalink: Java/AudioSpectrumListener
+permalink: /Java/AudioSpectrumListener/
 date: 2021-01-11
-key: JavaJava.A.AudioSpectrumListener
-category: java
+key: Java.A.AudioSpectrumListener
+category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'interface java', 'JavaFX 2.0']
 sidebar: 
   nav: java

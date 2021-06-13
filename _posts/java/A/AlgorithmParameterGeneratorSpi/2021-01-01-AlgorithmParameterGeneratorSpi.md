@@ -1,9 +1,9 @@
 ---
 title: AlgorithmParameterGeneratorSpi
-permalink: Java/AlgorithmParameterGeneratorSpi
+permalink: /Java/AlgorithmParameterGeneratorSpi/
 date: 2021-01-11
-key: JavaJava.A.AlgorithmParameterGeneratorSpi
-category: java
+key: Java.A.AlgorithmParameterGeneratorSpi
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

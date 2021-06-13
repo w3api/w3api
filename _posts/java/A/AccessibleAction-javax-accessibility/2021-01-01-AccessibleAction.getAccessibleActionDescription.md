@@ -1,9 +1,9 @@
 ---
 title: AccessibleAction.getAccessibleActionDescription()
-permalink: Java/AccessibleAction-javax-accessibility/getAccessibleActionDescription
+permalink: /Java/AccessibleAction-javax-accessibility/getAccessibleActionDescription/
 date: 2021-01-11
-key: JavaJava.A.AccessibleAction-javax-accessibility
-category: java
+key: Java.A.AccessibleAction-javax-accessibility
+category: Java
 tags: ['java se', 'javax.accessibility', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

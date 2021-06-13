@@ -1,9 +1,9 @@
 ---
 title: AbstractBorder.getBaselineResizeBehavior()
-permalink: Java/AbstractBorder/getBaselineResizeBehavior
+permalink: /Java/AbstractBorder/getBaselineResizeBehavior/
 date: 2021-01-11
-key: JavaJava.A.AbstractBorder
-category: java
+key: Java.A.AbstractBorder
+category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

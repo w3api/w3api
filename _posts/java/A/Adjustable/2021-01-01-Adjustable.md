@@ -1,9 +1,9 @@
 ---
 title: Adjustable
-permalink: Java/Adjustable
+permalink: /Java/Adjustable/
 date: 2021-01-11
-key: JavaJava.A.Adjustable
-category: java
+key: Java.A.Adjustable
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java
