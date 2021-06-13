@@ -1,9 +1,9 @@
 ---
 title: StyledEditorKit.ItalicAction.StyledEditorKit.ItalicAction()
-permalink: Java/StyledEditorKit/ItalicAction/StyledEditorKit/ItalicAction
+permalink: /Java/StyledEditorKit/ItalicAction/StyledEditorKit/ItalicAction/
 date: 2021-01-11
-key: JavaJava.S.StyledEditorKit.ItalicAction
-category: java
+key: Java.S.StyledEditorKit.ItalicAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

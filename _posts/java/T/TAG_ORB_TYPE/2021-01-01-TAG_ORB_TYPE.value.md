@@ -1,9 +1,9 @@
 ---
 title: TAG_ORB_TYPE.value
-permalink: Java/TAG_ORB_TYPE/value
+permalink: /Java/TAG_ORB_TYPE/value/
 date: 2021-01-11
-key: JavaJava.T.TAG_ORB_TYPE
-category: java
+key: Java.T.TAG_ORB_TYPE
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

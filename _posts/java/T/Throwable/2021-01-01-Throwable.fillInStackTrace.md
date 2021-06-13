@@ -1,9 +1,9 @@
 ---
 title: Throwable.fillInStackTrace()
-permalink: Java/Throwable/fillInStackTrace
+permalink: /Java/Throwable/fillInStackTrace/
 date: 2021-01-11
-key: JavaJava.T.Throwable
-category: java
+key: Java.T.Throwable
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

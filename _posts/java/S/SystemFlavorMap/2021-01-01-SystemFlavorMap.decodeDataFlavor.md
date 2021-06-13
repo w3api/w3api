@@ -1,9 +1,9 @@
 ---
 title: SystemFlavorMap.decodeDataFlavor()
-permalink: Java/SystemFlavorMap/decodeDataFlavor
+permalink: /Java/SystemFlavorMap/decodeDataFlavor/
 date: 2021-01-11
-key: JavaJava.S.SystemFlavorMap
-category: java
+key: Java.S.SystemFlavorMap
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

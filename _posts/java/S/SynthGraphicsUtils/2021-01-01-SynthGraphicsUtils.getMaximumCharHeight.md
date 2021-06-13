@@ -1,9 +1,9 @@
 ---
 title: SynthGraphicsUtils.getMaximumCharHeight()
-permalink: Java/SynthGraphicsUtils/getMaximumCharHeight
+permalink: /Java/SynthGraphicsUtils/getMaximumCharHeight/
 date: 2021-01-11
-key: JavaJava.S.SynthGraphicsUtils
-category: java
+key: Java.S.SynthGraphicsUtils
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

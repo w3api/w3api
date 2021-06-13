@@ -1,9 +1,9 @@
 ---
 title: SynthPopupMenuUI
-permalink: Java/SynthPopupMenuUI
+permalink: /Java/SynthPopupMenuUI/
 date: 2021-01-11
-key: JavaJava.S.SynthPopupMenuUI
-category: java
+key: Java.S.SynthPopupMenuUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

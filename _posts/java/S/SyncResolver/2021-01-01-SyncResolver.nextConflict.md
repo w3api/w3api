@@ -1,9 +1,9 @@
 ---
 title: SyncResolver.nextConflict()
-permalink: Java/SyncResolver/nextConflict
+permalink: /Java/SyncResolver/nextConflict/
 date: 2021-01-11
-key: JavaJava.S.SyncResolver
-category: java
+key: Java.S.SyncResolver
+category: Java
 tags: ['java se', 'javax.sql.rowset.spi', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

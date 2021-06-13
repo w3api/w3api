@@ -1,9 +1,9 @@
 ---
 title: StyleSheet.BoxPainter
-permalink: Java/StyleSheet/BoxPainter
+permalink: /Java/StyleSheet/BoxPainter/
 date: 2021-01-11
-key: JavaJava.S.StyleSheet.BoxPainter
-category: java
+key: Java.S.StyleSheet.BoxPainter
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

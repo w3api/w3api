@@ -1,9 +1,9 @@
 ---
 title: SupportedValuesAttribute
-permalink: Java/SupportedValuesAttribute
+permalink: /Java/SupportedValuesAttribute/
 date: 2021-01-11
-key: JavaJava.S.SupportedValuesAttribute
-category: java
+key: Java.S.SupportedValuesAttribute
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StyleConverter.StringStore.addString()
-permalink: Java/StyleConverter/StringStore/addString
+permalink: /Java/StyleConverter/StringStore/addString/
 date: 2021-01-11
-key: JavaJava.S.StyleConverter.StringStore
-category: java
+key: Java.S.StyleConverter.StringStore
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

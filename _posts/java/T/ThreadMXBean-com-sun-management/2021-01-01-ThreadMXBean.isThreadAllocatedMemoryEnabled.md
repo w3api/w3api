@@ -1,9 +1,9 @@
 ---
 title: ThreadMXBean.isThreadAllocatedMemoryEnabled()
-permalink: Java/ThreadMXBean-com-sun-management/isThreadAllocatedMemoryEnabled
+permalink: /Java/ThreadMXBean-com-sun-management/isThreadAllocatedMemoryEnabled/
 date: 2021-01-11
-key: JavaJava.T.ThreadMXBean-com-sun-management
-category: java
+key: Java.T.ThreadMXBean-com-sun-management
+category: Java
 tags: ['java se', 'com.sun.management', 'jdk.management', 'metodo java', '6u25']
 sidebar: 
   nav: java

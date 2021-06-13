@@ -1,9 +1,9 @@
 ---
 title: TreeTableRowSkin.indentProperty()
-permalink: Java/TreeTableRowSkin/indentProperty
+permalink: /Java/TreeTableRowSkin/indentProperty/
 date: 2021-01-11
-key: JavaJava.T.TreeTableRowSkin
-category: java
+key: Java.T.TreeTableRowSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

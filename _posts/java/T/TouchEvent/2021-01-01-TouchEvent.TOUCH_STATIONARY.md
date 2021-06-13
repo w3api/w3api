@@ -1,9 +1,9 @@
 ---
 title: TouchEvent.TOUCH_STATIONARY
-permalink: Java/TouchEvent/TOUCH_STATIONARY
+permalink: /Java/TouchEvent/TOUCH_STATIONARY/
 date: 2021-01-11
-key: JavaJava.T.TouchEvent
-category: java
+key: Java.T.TouchEvent
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'campo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

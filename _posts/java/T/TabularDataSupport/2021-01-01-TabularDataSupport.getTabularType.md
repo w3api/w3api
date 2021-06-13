@@ -1,9 +1,9 @@
 ---
 title: TabularDataSupport.getTabularType()
-permalink: Java/TabularDataSupport/getTabularType
+permalink: /Java/TabularDataSupport/getTabularType/
 date: 2021-01-11
-key: JavaJava.T.TabularDataSupport
-category: java
+key: Java.T.TabularDataSupport
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

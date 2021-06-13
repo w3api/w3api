@@ -1,9 +1,9 @@
 ---
 title: TextAlignment.valueOf()
-permalink: Java/TextAlignment/valueOf
+permalink: /Java/TextAlignment/valueOf/
 date: 2021-01-11
-key: JavaJava.T.TextAlignment
-category: java
+key: Java.T.TextAlignment
+category: Java
 tags: ['java se', 'javafx.scene.text', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

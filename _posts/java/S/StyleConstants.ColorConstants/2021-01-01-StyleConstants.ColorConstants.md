@@ -1,9 +1,9 @@
 ---
 title: StyleConstants.ColorConstants
-permalink: Java/StyleConstants/ColorConstants
+permalink: /Java/StyleConstants/ColorConstants/
 date: 2021-01-11
-key: JavaJava.S.StyleConstants.ColorConstants
-category: java
+key: Java.S.StyleConstants.ColorConstants
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

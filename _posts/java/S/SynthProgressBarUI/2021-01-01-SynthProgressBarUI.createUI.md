@@ -1,9 +1,9 @@
 ---
 title: SynthProgressBarUI.createUI()
-permalink: Java/SynthProgressBarUI/createUI
+permalink: /Java/SynthProgressBarUI/createUI/
 date: 2021-01-11
-key: JavaJava.S.SynthProgressBarUI
-category: java
+key: Java.S.SynthProgressBarUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

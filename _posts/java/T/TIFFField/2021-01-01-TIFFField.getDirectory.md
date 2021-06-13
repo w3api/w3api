@@ -1,9 +1,9 @@
 ---
 title: TIFFField.getDirectory()
-permalink: Java/TIFFField/getDirectory
+permalink: /Java/TIFFField/getDirectory/
 date: 2021-01-11
-key: JavaJava.T.TIFFField
-category: java
+key: Java.T.TIFFField
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

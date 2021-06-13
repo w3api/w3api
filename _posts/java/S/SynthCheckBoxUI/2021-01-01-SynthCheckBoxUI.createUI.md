@@ -1,9 +1,9 @@
 ---
 title: SynthCheckBoxUI.createUI()
-permalink: Java/SynthCheckBoxUI/createUI
+permalink: /Java/SynthCheckBoxUI/createUI/
 date: 2021-01-11
-key: JavaJava.S.SynthCheckBoxUI
-category: java
+key: Java.S.SynthCheckBoxUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

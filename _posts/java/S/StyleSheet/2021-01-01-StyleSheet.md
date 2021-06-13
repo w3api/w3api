@@ -1,9 +1,9 @@
 ---
 title: StyleSheet
-permalink: Java/StyleSheet/
+permalink: /Java/StyleSheet//
 date: 2021-01-11
-key: JavaJava.S.StyleSheet
-category: java
+key: Java.S.StyleSheet
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Transformer.setOutputProperty()
-permalink: Java/Transformer/setOutputProperty
+permalink: /Java/Transformer/setOutputProperty/
 date: 2021-01-11
-key: JavaJava.T.Transformer
-category: java
+key: Java.T.Transformer
+category: Java
 tags: ['java se', 'javax.xml.transform', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

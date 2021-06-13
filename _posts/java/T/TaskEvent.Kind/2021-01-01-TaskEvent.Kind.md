@@ -1,9 +1,9 @@
 ---
 title: TaskEvent.Kind
-permalink: Java/TaskEvent/Kind
+permalink: /Java/TaskEvent/Kind/
 date: 2021-01-11
-key: JavaJava.T.TaskEvent.Kind
-category: java
+key: Java.T.TaskEvent.Kind
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'enumerado java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SyncResolver.UPDATE_ROW_CONFLICT
-permalink: Java/SyncResolver/UPDATE_ROW_CONFLICT
+permalink: /Java/SyncResolver/UPDATE_ROW_CONFLICT/
 date: 2021-01-11
-key: JavaJava.S.SyncResolver
-category: java
+key: Java.S.SyncResolver
+category: Java
 tags: ['java se', 'javax.sql.rowset.spi', 'java.sql.rowset', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

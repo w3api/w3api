@@ -1,9 +1,9 @@
 ---
 title: TimeZoneNameProvider
-permalink: Java/TimeZoneNameProvider
+permalink: /Java/TimeZoneNameProvider/
 date: 2021-01-11
-key: JavaJava.T.TimeZoneNameProvider
-category: java
+key: Java.T.TimeZoneNameProvider
+category: Java
 tags: ['java se', 'java.util.spi', 'java.base', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

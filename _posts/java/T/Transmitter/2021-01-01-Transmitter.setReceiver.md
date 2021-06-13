@@ -1,9 +1,9 @@
 ---
 title: Transmitter.setReceiver()
-permalink: Java/Transmitter/setReceiver
+permalink: /Java/Transmitter/setReceiver/
 date: 2021-01-11
-key: JavaJava.T.Transmitter
-category: java
+key: Java.T.Transmitter
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

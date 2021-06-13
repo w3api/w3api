@@ -1,9 +1,9 @@
 ---
 title: TableColumn.SortType.DESCENDING
-permalink: Java/TableColumn/SortType/DESCENDING
+permalink: /Java/TableColumn/SortType/DESCENDING/
 date: 2021-01-11
-key: JavaJava.T.TableColumn.SortType
-category: java
+key: Java.T.TableColumn.SortType
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

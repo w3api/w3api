@@ -1,9 +1,9 @@
 ---
 title: SynthRootPaneUI.propertyChange()
-permalink: Java/SynthRootPaneUI/propertyChange
+permalink: /Java/SynthRootPaneUI/propertyChange/
 date: 2021-01-11
-key: JavaJava.S.SynthRootPaneUI
-category: java
+key: Java.S.SynthRootPaneUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ThrottledMeter.create()
-permalink: Java/ThrottledMeter/create
+permalink: /Java/ThrottledMeter/create/
 date: 2021-01-11
-key: JavaJava.T.ThrottledMeter
-category: java
+key: Java.T.ThrottledMeter
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 
   nav: java

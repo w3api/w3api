@@ -1,9 +1,9 @@
 ---
 title: ThreadPoolExecutor.DiscardOldestPolicy
-permalink: Java/ThreadPoolExecutor/DiscardOldestPolicy
+permalink: /Java/ThreadPoolExecutor/DiscardOldestPolicy/
 date: 2021-01-11
-key: JavaJava.T.ThreadPoolExecutor.DiscardOldestPolicy
-category: java
+key: Java.T.ThreadPoolExecutor.DiscardOldestPolicy
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

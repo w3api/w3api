@@ -1,9 +1,9 @@
 ---
 title: SyncProvider.GRADE_CHECK_ALL_AT_COMMIT
-permalink: Java/SyncProvider/GRADE_CHECK_ALL_AT_COMMIT
+permalink: /Java/SyncProvider/GRADE_CHECK_ALL_AT_COMMIT/
 date: 2021-01-11
-key: JavaJava.S.SyncProvider
-category: java
+key: Java.S.SyncProvider
+category: Java
 tags: ['java se', 'javax.sql.rowset.spi', 'java.sql.rowset', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Templates
-permalink: Java/Templates
+permalink: /Java/Templates/
 date: 2021-01-11
-key: JavaJava.T.Templates
-category: java
+key: Java.T.Templates
+category: Java
 tags: ['java se', 'javax.xml.transform', 'java.xml', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

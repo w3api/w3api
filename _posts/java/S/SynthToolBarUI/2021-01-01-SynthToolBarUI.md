@@ -1,9 +1,9 @@
 ---
 title: SynthToolBarUI
-permalink: Java/SynthToolBarUI
+permalink: /Java/SynthToolBarUI/
 date: 2021-01-11
-key: JavaJava.S.SynthToolBarUI
-category: java
+key: Java.S.SynthToolBarUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

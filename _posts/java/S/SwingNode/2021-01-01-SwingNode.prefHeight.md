@@ -1,9 +1,9 @@
 ---
 title: SwingNode.prefHeight()
-permalink: Java/SwingNode/prefHeight
+permalink: /Java/SwingNode/prefHeight/
 date: 2021-01-11
-key: JavaJava.S.SwingNode
-category: java
+key: Java.S.SwingNode
+category: Java
 tags: ['java se', 'javafx.embed.swing', 'javafx.swing', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

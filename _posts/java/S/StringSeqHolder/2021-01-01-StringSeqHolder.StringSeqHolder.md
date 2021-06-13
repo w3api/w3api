@@ -1,9 +1,9 @@
 ---
 title: StringSeqHolder.StringSeqHolder()
-permalink: Java/StringSeqHolder/StringSeqHolder
+permalink: /Java/StringSeqHolder/StringSeqHolder/
 date: 2021-01-11
-key: JavaJava.S.StringSeqHolder
-category: java
+key: Java.S.StringSeqHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

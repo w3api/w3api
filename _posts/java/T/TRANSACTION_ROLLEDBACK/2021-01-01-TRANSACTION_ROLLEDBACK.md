@@ -1,9 +1,9 @@
 ---
 title: TRANSACTION_ROLLEDBACK
-permalink: Java/TRANSACTION_ROLLEDBACK
+permalink: /Java/TRANSACTION_ROLLEDBACK/
 date: 2021-01-11
-key: JavaJava.T.TRANSACTION_ROLLEDBACK
-category: java
+key: Java.T.TRANSACTION_ROLLEDBACK
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

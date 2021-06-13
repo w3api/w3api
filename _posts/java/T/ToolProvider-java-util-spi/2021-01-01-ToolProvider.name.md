@@ -1,9 +1,9 @@
 ---
 title: ToolProvider.name()
-permalink: Java/ToolProvider-java-util-spi/name
+permalink: /Java/ToolProvider-java-util-spi/name/
 date: 2021-01-11
-key: JavaJava.T.ToolProvider-java-util-spi
-category: java
+key: Java.T.ToolProvider-java-util-spi
+category: Java
 tags: ['java se', 'java.util.spi', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

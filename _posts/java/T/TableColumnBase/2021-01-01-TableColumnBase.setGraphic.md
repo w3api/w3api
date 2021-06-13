@@ -1,9 +1,9 @@
 ---
 title: TableColumnBase.setGraphic()
-permalink: Java/TableColumnBase/setGraphic
+permalink: /Java/TableColumnBase/setGraphic/
 date: 2021-01-11
-key: JavaJava.T.TableColumnBase
-category: java
+key: Java.T.TableColumnBase
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

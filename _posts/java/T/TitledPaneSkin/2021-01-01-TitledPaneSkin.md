@@ -1,9 +1,9 @@
 ---
 title: TitledPaneSkin
-permalink: Java/TitledPaneSkin
+permalink: /Java/TitledPaneSkin/
 date: 2021-01-11
-key: JavaJava.T.TitledPaneSkin
-category: java
+key: Java.T.TitledPaneSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

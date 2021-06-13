@@ -1,9 +1,9 @@
 ---
 title: TableColumn.DEFAULT_CELL_FACTORY
-permalink: Java/TableColumn-javafx-scene-control/DEFAULT_CELL_FACTORY
+permalink: /Java/TableColumn-javafx-scene-control/DEFAULT_CELL_FACTORY/
 date: 2021-01-11
-key: JavaJava.T.TableColumn-javafx-scene-control
-category: java
+key: Java.T.TableColumn-javafx-scene-control
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

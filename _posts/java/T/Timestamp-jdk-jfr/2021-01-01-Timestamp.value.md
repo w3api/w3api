@@ -1,9 +1,9 @@
 ---
 title: Timestamp.value
-permalink: Java/Timestamp-jdk-jfr/value
+permalink: /Java/Timestamp-jdk-jfr/value/
 date: 2021-01-11
-key: JavaJava.T.Timestamp-jdk-jfr
-category: java
+key: Java.T.Timestamp-jdk-jfr
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'elemento java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SwingConstants
-permalink: Java/SwingConstants
+permalink: /Java/SwingConstants/
 date: 2021-01-11
-key: JavaJava.S.SwingConstants
-category: java
+key: Java.S.SwingConstants
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

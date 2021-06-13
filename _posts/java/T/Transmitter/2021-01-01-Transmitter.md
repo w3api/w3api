@@ -1,9 +1,9 @@
 ---
 title: Transmitter
-permalink: Java/Transmitter
+permalink: /Java/Transmitter/
 date: 2021-01-11
-key: JavaJava.T.Transmitter
-category: java
+key: Java.T.Transmitter
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

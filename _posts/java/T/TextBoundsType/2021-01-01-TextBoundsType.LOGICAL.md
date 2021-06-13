@@ -1,9 +1,9 @@
 ---
 title: TextBoundsType.LOGICAL
-permalink: Java/TextBoundsType/LOGICAL
+permalink: /Java/TextBoundsType/LOGICAL/
 date: 2021-01-11
-key: JavaJava.T.TextBoundsType
-category: java
+key: Java.T.TextBoundsType
+category: Java
 tags: ['java se', 'javafx.scene.text', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

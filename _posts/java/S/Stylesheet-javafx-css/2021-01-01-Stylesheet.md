@@ -1,9 +1,9 @@
 ---
 title: Stylesheet
-permalink: Java/Stylesheet-javafx-css
+permalink: /Java/Stylesheet-javafx-css/
 date: 2021-01-11
-key: JavaJava.S.Stylesheet-javafx-css
-category: java
+key: Java.S.Stylesheet-javafx-css
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 
   nav: java

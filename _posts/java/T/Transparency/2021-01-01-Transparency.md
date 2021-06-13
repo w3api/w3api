@@ -1,9 +1,9 @@
 ---
 title: Transparency
-permalink: Java/Transparency
+permalink: /Java/Transparency/
 date: 2021-01-11
-key: JavaJava.T.Transparency
-category: java
+key: Java.T.Transparency
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

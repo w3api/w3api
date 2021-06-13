@@ -1,9 +1,9 @@
 ---
 title: TreeTableRow
-permalink: Java/TreeTableRow
+permalink: /Java/TreeTableRow/
 date: 2021-01-11
-key: JavaJava.T.TreeTableRow
-category: java
+key: Java.T.TreeTableRow
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

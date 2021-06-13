@@ -1,9 +1,9 @@
 ---
 title: SynthToolTipUI.createUI()
-permalink: Java/SynthToolTipUI/createUI
+permalink: /Java/SynthToolTipUI/createUI/
 date: 2021-01-11
-key: JavaJava.S.SynthToolTipUI
-category: java
+key: Java.S.SynthToolTipUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

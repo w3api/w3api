@@ -1,9 +1,9 @@
 ---
 title: TabularData.values()
-permalink: Java/TabularData/values
+permalink: /Java/TabularData/values/
 date: 2021-01-11
-key: JavaJava.T.TabularData
-category: java
+key: Java.T.TabularData
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TitledPane.animatedProperty()
-permalink: Java/TitledPane/animatedProperty
+permalink: /Java/TitledPane/animatedProperty/
 date: 2021-01-11
-key: JavaJava.T.TitledPane
-category: java
+key: Java.T.TitledPane
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

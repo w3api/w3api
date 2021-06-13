@@ -1,9 +1,9 @@
 ---
 title: SubjectDomainCombiner.SubjectDomainCombiner()
-permalink: Java/SubjectDomainCombiner/SubjectDomainCombiner
+permalink: /Java/SubjectDomainCombiner/SubjectDomainCombiner/
 date: 2021-01-11
-key: JavaJava.S.SubjectDomainCombiner
-category: java
+key: Java.S.SubjectDomainCombiner
+category: Java
 tags: ['java se', 'javax.security.auth', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

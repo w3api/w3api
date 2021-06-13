@@ -1,9 +1,9 @@
 ---
 title: Timestamp.Timestamp()
-permalink: Java/Timestamp-java-security/Timestamp
+permalink: /Java/Timestamp-java-security/Timestamp/
 date: 2021-01-11
-key: JavaJava.T.Timestamp-java-security
-category: java
+key: Java.T.Timestamp-java-security
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

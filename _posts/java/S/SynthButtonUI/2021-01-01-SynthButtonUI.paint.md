@@ -1,9 +1,9 @@
 ---
 title: SynthButtonUI.paint()
-permalink: Java/SynthButtonUI/paint
+permalink: /Java/SynthButtonUI/paint/
 date: 2021-01-11
-key: JavaJava.S.SynthButtonUI
-category: java
+key: Java.S.SynthButtonUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

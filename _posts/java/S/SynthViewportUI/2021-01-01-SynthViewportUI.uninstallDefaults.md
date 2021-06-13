@@ -1,9 +1,9 @@
 ---
 title: SynthViewportUI.uninstallDefaults()
-permalink: Java/SynthViewportUI/uninstallDefaults
+permalink: /Java/SynthViewportUI/uninstallDefaults/
 date: 2021-01-11
-key: JavaJava.S.SynthViewportUI
-category: java
+key: Java.S.SynthViewportUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

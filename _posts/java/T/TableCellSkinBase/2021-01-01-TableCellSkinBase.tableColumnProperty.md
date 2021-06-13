@@ -1,9 +1,9 @@
 ---
 title: TableCellSkinBase.tableColumnProperty()
-permalink: Java/TableCellSkinBase/tableColumnProperty
+permalink: /Java/TableCellSkinBase/tableColumnProperty/
 date: 2021-01-11
-key: JavaJava.T.TableCellSkinBase
-category: java
+key: Java.T.TableCellSkinBase
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

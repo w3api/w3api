@@ -1,9 +1,9 @@
 ---
 title: TextFieldTreeCell
-permalink: Java/TextFieldTreeCell
+permalink: /Java/TextFieldTreeCell/
 date: 2021-01-11
-key: JavaJava.T.TextFieldTreeCell
-category: java
+key: Java.T.TextFieldTreeCell
+category: Java
 tags: ['java se', 'javafx.scene.control.cell', 'javafx.controls', 'clase java', 'JavaFX 2.2']
 sidebar: 
   nav: java

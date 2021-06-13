@@ -1,9 +1,9 @@
 ---
 title: TimeZoneNameProvider.getGenericDisplayName()
-permalink: Java/TimeZoneNameProvider/getGenericDisplayName
+permalink: /Java/TimeZoneNameProvider/getGenericDisplayName/
 date: 2021-01-11
-key: JavaJava.T.TimeZoneNameProvider
-category: java
+key: Java.T.TimeZoneNameProvider
+category: Java
 tags: ['java se', 'java.util.spi', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TemporalField
-permalink: Java/TemporalField
+permalink: /Java/TemporalField/
 date: 2021-01-11
-key: JavaJava.T.TemporalField
-category: java
+key: Java.T.TemporalField
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

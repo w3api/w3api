@@ -1,9 +1,9 @@
 ---
 title: TileObserver.tileUpdate()
-permalink: Java/TileObserver/tileUpdate
+permalink: /Java/TileObserver/tileUpdate/
 date: 2021-01-11
-key: JavaJava.T.TileObserver
-category: java
+key: Java.T.TileObserver
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

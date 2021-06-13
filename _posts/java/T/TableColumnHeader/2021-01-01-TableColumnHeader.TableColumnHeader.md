@@ -1,9 +1,9 @@
 ---
 title: TableColumnHeader.TableColumnHeader()
-permalink: Java/TableColumnHeader/TableColumnHeader
+permalink: /Java/TableColumnHeader/TableColumnHeader/
 date: 2021-01-11
-key: JavaJava.T.TableColumnHeader
-category: java
+key: Java.T.TableColumnHeader
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

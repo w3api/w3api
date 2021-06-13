@@ -1,9 +1,9 @@
 ---
 title: ThaiBuddhistEra.BEFORE_BE
-permalink: Java/ThaiBuddhistEra/BEFORE_BE
+permalink: /Java/ThaiBuddhistEra/BEFORE_BE/
 date: 2021-01-11
-key: JavaJava.T.ThaiBuddhistEra
-category: java
+key: Java.T.ThaiBuddhistEra
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

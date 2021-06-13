@@ -1,9 +1,9 @@
 ---
 title: TransportTimeoutException
-permalink: Java/TransportTimeoutException
+permalink: /Java/TransportTimeoutException/
 date: 2021-01-11
-key: JavaJava.T.TransportTimeoutException
-category: java
+key: Java.T.TransportTimeoutException
+category: Java
 tags: ['java se', 'com.sun.jdi.connect', 'jdk.jdi', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TimeStringConverter.TimeStringConverter()
-permalink: Java/TimeStringConverter/TimeStringConverter
+permalink: /Java/TimeStringConverter/TimeStringConverter/
 date: 2021-01-11
-key: JavaJava.T.TimeStringConverter
-category: java
+key: Java.T.TimeStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

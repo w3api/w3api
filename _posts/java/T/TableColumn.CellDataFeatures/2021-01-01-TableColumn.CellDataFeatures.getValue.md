@@ -1,9 +1,9 @@
 ---
 title: TableColumn.CellDataFeatures.getValue()
-permalink: Java/TableColumn/CellDataFeatures/getValue
+permalink: /Java/TableColumn/CellDataFeatures/getValue/
 date: 2021-01-11
-key: JavaJava.T.TableColumn.CellDataFeatures
-category: java
+key: Java.T.TableColumn.CellDataFeatures
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

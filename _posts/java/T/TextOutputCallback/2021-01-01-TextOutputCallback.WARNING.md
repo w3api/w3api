@@ -1,9 +1,9 @@
 ---
 title: TextOutputCallback.WARNING
-permalink: Java/TextOutputCallback/WARNING
+permalink: /Java/TextOutputCallback/WARNING/
 date: 2021-01-11
-key: JavaJava.T.TextOutputCallback
-category: java
+key: Java.T.TextOutputCallback
+category: Java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SwingEventMonitor.addCellEditorListener()
-permalink: Java/SwingEventMonitor/addCellEditorListener
+permalink: /Java/SwingEventMonitor/addCellEditorListener/
 date: 2021-01-11
-key: JavaJava.S.SwingEventMonitor
-category: java
+key: Java.S.SwingEventMonitor
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StyleableProperty.applyStyle()
-permalink: Java/StyleableProperty/applyStyle
+permalink: /Java/StyleableProperty/applyStyle/
 date: 2021-01-11
-key: JavaJava.S.StyleableProperty
-category: java
+key: Java.S.StyleableProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

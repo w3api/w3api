@@ -1,9 +1,9 @@
 ---
 title: SynthStyle.uninstallDefaults()
-permalink: Java/SynthStyle/uninstallDefaults
+permalink: /Java/SynthStyle/uninstallDefaults/
 date: 2021-01-11
-key: JavaJava.S.SynthStyle
-category: java
+key: Java.S.SynthStyle
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

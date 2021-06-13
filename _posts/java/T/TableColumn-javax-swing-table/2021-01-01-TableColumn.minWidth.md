@@ -1,9 +1,9 @@
 ---
 title: TableColumn.minWidth
-permalink: Java/TableColumn-javax-swing-table/minWidth
+permalink: /Java/TableColumn-javax-swing-table/minWidth/
 date: 2021-01-11
-key: JavaJava.T.TableColumn-javax-swing-table
-category: java
+key: Java.T.TableColumn-javax-swing-table
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

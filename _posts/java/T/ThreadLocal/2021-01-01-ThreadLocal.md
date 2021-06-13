@@ -1,9 +1,9 @@
 ---
 title: ThreadLocal
-permalink: Java/ThreadLocal
+permalink: /Java/ThreadLocal/
 date: 2021-01-11
-key: JavaJava.T.ThreadLocal
-category: java
+key: Java.T.ThreadLocal
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TargetedNotification.getNotification()
-permalink: Java/TargetedNotification/getNotification
+permalink: /Java/TargetedNotification/getNotification/
 date: 2021-01-11
-key: JavaJava.T.TargetedNotification
-category: java
+key: Java.T.TargetedNotification
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

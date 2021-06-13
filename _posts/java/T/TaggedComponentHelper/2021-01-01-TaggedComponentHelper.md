@@ -1,9 +1,9 @@
 ---
 title: TaggedComponentHelper
-permalink: Java/TaggedComponentHelper
+permalink: /Java/TaggedComponentHelper/
 date: 2021-01-11
-key: JavaJava.T.TaggedComponentHelper
-category: java
+key: Java.T.TaggedComponentHelper
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

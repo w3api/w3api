@@ -1,9 +1,9 @@
 ---
 title: ThaiBuddhistChronology.isLeapYear()
-permalink: Java/ThaiBuddhistChronology/isLeapYear
+permalink: /Java/ThaiBuddhistChronology/isLeapYear/
 date: 2021-01-11
-key: JavaJava.T.ThaiBuddhistChronology
-category: java
+key: Java.T.ThaiBuddhistChronology
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

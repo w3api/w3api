@@ -1,9 +1,9 @@
 ---
 title: ThreadReference.frame()
-permalink: Java/ThreadReference/frame
+permalink: /Java/ThreadReference/frame/
 date: 2021-01-11
-key: JavaJava.T.ThreadReference
-category: java
+key: Java.T.ThreadReference
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

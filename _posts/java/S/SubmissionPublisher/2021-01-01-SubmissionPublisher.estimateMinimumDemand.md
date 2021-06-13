@@ -1,9 +1,9 @@
 ---
 title: SubmissionPublisher.estimateMinimumDemand()
-permalink: Java/SubmissionPublisher/estimateMinimumDemand
+permalink: /Java/SubmissionPublisher/estimateMinimumDemand/
 date: 2021-01-11
-key: JavaJava.S.SubmissionPublisher
-category: java
+key: Java.S.SubmissionPublisher
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

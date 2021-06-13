@@ -1,9 +1,9 @@
 ---
 title: StringReader
-permalink: Java/StringReader
+permalink: /Java/StringReader/
 date: 2021-01-11
-key: JavaJava.S.StringReader
-category: java
+key: Java.S.StringReader
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

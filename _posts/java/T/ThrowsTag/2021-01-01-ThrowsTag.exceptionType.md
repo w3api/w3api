@@ -1,9 +1,9 @@
 ---
 title: ThrowsTag.exceptionType()
-permalink: Java/ThrowsTag/exceptionType
+permalink: /Java/ThrowsTag/exceptionType/
 date: 2021-01-11
-key: JavaJava.T.ThrowsTag
-category: java
+key: Java.T.ThrowsTag
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

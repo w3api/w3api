@@ -1,9 +1,9 @@
 ---
 title: SynthMenuItemUI.createUI()
-permalink: Java/SynthMenuItemUI/createUI
+permalink: /Java/SynthMenuItemUI/createUI/
 date: 2021-01-11
-key: JavaJava.S.SynthMenuItemUI
-category: java
+key: Java.S.SynthMenuItemUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

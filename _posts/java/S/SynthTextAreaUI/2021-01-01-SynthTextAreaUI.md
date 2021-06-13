@@ -1,9 +1,9 @@
 ---
 title: SynthTextAreaUI
-permalink: Java/SynthTextAreaUI
+permalink: /Java/SynthTextAreaUI/
 date: 2021-01-11
-key: JavaJava.S.SynthTextAreaUI
-category: java
+key: Java.S.SynthTextAreaUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

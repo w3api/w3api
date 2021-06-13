@@ -1,9 +1,9 @@
 ---
 title: StyleableIntegerProperty
-permalink: Java/StyleableIntegerProperty
+permalink: /Java/StyleableIntegerProperty/
 date: 2021-01-11
-key: JavaJava.S.StyleableIntegerProperty
-category: java
+key: Java.S.StyleableIntegerProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

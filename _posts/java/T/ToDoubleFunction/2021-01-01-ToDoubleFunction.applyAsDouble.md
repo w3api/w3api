@@ -1,9 +1,9 @@
 ---
 title: ToDoubleFunction.applyAsDouble()
-permalink: Java/ToDoubleFunction/applyAsDouble
+permalink: /Java/ToDoubleFunction/applyAsDouble/
 date: 2021-01-11
-key: JavaJava.T.ToDoubleFunction
-category: java
+key: Java.T.ToDoubleFunction
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

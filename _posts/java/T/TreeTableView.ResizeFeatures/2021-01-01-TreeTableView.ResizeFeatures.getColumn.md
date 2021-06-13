@@ -1,9 +1,9 @@
 ---
 title: TreeTableView.ResizeFeatures.getColumn()
-permalink: Java/TreeTableView/ResizeFeatures/getColumn
+permalink: /Java/TreeTableView/ResizeFeatures/getColumn/
 date: 2021-01-11
-key: JavaJava.T.TreeTableView.ResizeFeatures
-category: java
+key: Java.T.TreeTableView.ResizeFeatures
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

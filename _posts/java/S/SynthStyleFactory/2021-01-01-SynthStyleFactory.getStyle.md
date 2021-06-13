@@ -1,9 +1,9 @@
 ---
 title: SynthStyleFactory.getStyle()
-permalink: Java/SynthStyleFactory/getStyle
+permalink: /Java/SynthStyleFactory/getStyle/
 date: 2021-01-11
-key: JavaJava.S.SynthStyleFactory
-category: java
+key: Java.S.SynthStyleFactory
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ToggleGroup.getToggles()
-permalink: Java/ToggleGroup/getToggles
+permalink: /Java/ToggleGroup/getToggles/
 date: 2021-01-11
-key: JavaJava.T.ToggleGroup
-category: java
+key: Java.T.ToggleGroup
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

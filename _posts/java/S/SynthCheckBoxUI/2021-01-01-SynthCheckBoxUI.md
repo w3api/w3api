@@ -1,9 +1,9 @@
 ---
 title: SynthCheckBoxUI
-permalink: Java/SynthCheckBoxUI
+permalink: /Java/SynthCheckBoxUI/
 date: 2021-01-11
-key: JavaJava.S.SynthCheckBoxUI
-category: java
+key: Java.S.SynthCheckBoxUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

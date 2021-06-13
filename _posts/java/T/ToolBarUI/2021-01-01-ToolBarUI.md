@@ -1,9 +1,9 @@
 ---
 title: ToolBarUI
-permalink: Java/ToolBarUI
+permalink: /Java/ToolBarUI/
 date: 2021-01-11
-key: JavaJava.T.ToolBarUI
-category: java
+key: Java.T.ToolBarUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

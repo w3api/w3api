@@ -1,9 +1,9 @@
 ---
 title: TAG_RMI_CUSTOM_MAX_STREAM_FORMAT.value
-permalink: Java/TAG_RMI_CUSTOM_MAX_STREAM_FORMAT/value
+permalink: /Java/TAG_RMI_CUSTOM_MAX_STREAM_FORMAT/value/
 date: 2021-01-11
-key: JavaJava.T.TAG_RMI_CUSTOM_MAX_STREAM_FORMAT
-category: java
+key: Java.T.TAG_RMI_CUSTOM_MAX_STREAM_FORMAT
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

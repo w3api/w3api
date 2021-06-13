@@ -1,9 +1,9 @@
 ---
 title: TreeTableRow.disclosureNodeProperty()
-permalink: Java/TreeTableRow/disclosureNodeProperty
+permalink: /Java/TreeTableRow/disclosureNodeProperty/
 date: 2021-01-11
-key: JavaJava.T.TreeTableRow
-category: java
+key: Java.T.TreeTableRow
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

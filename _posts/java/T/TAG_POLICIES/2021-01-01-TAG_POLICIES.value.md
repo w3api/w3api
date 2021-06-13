@@ -1,9 +1,9 @@
 ---
 title: TAG_POLICIES.value
-permalink: Java/TAG_POLICIES/value
+permalink: /Java/TAG_POLICIES/value/
 date: 2021-01-11
-key: JavaJava.T.TAG_POLICIES
-category: java
+key: Java.T.TAG_POLICIES
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

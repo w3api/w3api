@@ -1,9 +1,9 @@
 ---
 title: TransformerConfigurationException
-permalink: Java/TransformerConfigurationException
+permalink: /Java/TransformerConfigurationException/
 date: 2021-01-11
-key: JavaJava.T.TransformerConfigurationException
-category: java
+key: Java.T.TransformerConfigurationException
+category: Java
 tags: ['java se', 'javax.xml.transform', 'java.xml', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

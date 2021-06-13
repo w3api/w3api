@@ -1,9 +1,9 @@
 ---
 title: StringRefAddr.StringRefAddr()
-permalink: Java/StringRefAddr/StringRefAddr
+permalink: /Java/StringRefAddr/StringRefAddr/
 date: 2021-01-11
-key: JavaJava.S.StringRefAddr
-category: java
+key: Java.S.StringRefAddr
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

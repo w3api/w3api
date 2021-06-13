@@ -1,9 +1,9 @@
 ---
 title: ThreadGroup
-permalink: Java/ThreadGroup
+permalink: /Java/ThreadGroup/
 date: 2021-01-11
-key: JavaJava.T.ThreadGroup
-category: java
+key: Java.T.ThreadGroup
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ThreadMXBean
-permalink: Java/ThreadMXBean-com-sun-management
+permalink: /Java/ThreadMXBean-com-sun-management/
 date: 2021-01-11
-key: JavaJava.T.ThreadMXBean-com-sun-management
-category: java
+key: Java.T.ThreadMXBean-com-sun-management
+category: Java
 tags: ['java se', 'com.sun.management', 'jdk.management', 'interface java', '6u25']
 sidebar: 
   nav: java

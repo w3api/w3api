@@ -1,9 +1,9 @@
 ---
 title: TouchEvent.isMetaDown()
-permalink: Java/TouchEvent/isMetaDown
+permalink: /Java/TouchEvent/isMetaDown/
 date: 2021-01-11
-key: JavaJava.T.TouchEvent
-category: java
+key: Java.T.TouchEvent
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

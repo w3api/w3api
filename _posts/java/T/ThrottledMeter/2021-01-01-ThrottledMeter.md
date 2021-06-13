@@ -1,9 +1,9 @@
 ---
 title: ThrottledMeter
-permalink: Java/ThrottledMeter
+permalink: /Java/ThrottledMeter/
 date: 2021-01-11
-key: JavaJava.T.ThrottledMeter
-category: java
+key: Java.T.ThrottledMeter
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'clase java', '8u40']
 sidebar: 
   nav: java

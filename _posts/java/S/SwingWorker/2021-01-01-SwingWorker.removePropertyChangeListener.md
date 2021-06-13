@@ -1,9 +1,9 @@
 ---
 title: SwingWorker.removePropertyChangeListener()
-permalink: Java/SwingWorker/removePropertyChangeListener
+permalink: /Java/SwingWorker/removePropertyChangeListener/
 date: 2021-01-11
-key: JavaJava.S.SwingWorker
-category: java
+key: Java.S.SwingWorker
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

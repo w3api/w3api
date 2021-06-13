@@ -1,9 +1,9 @@
 ---
 title: TemplatesHandler
-permalink: Java/TemplatesHandler
+permalink: /Java/TemplatesHandler/
 date: 2021-01-11
-key: JavaJava.T.TemplatesHandler
-category: java
+key: Java.T.TemplatesHandler
+category: Java
 tags: ['java se', 'javax.xml.transform.sax', 'java.xml', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

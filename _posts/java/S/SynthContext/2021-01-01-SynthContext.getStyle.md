@@ -1,9 +1,9 @@
 ---
 title: SynthContext.getStyle()
-permalink: Java/SynthContext/getStyle
+permalink: /Java/SynthContext/getStyle/
 date: 2021-01-11
-key: JavaJava.S.SynthContext
-category: java
+key: Java.S.SynthContext
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

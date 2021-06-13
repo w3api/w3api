@@ -1,9 +1,9 @@
 ---
 title: SyncProviderException
-permalink: Java/SyncProviderException
+permalink: /Java/SyncProviderException/
 date: 2021-01-11
-key: JavaJava.S.SyncProviderException
-category: java
+key: Java.S.SyncProviderException
+category: Java
 tags: ['java se', 'javax.sql.rowset.spi', 'java.sql.rowset', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

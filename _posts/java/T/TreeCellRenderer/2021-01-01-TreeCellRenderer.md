@@ -1,9 +1,9 @@
 ---
 title: TreeCellRenderer
-permalink: Java/TreeCellRenderer
+permalink: /Java/TreeCellRenderer/
 date: 2021-01-11
-key: JavaJava.T.TreeCellRenderer
-category: java
+key: Java.T.TreeCellRenderer
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

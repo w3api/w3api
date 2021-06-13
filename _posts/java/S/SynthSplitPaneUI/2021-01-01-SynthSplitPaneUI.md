@@ -1,9 +1,9 @@
 ---
 title: SynthSplitPaneUI
-permalink: Java/SynthSplitPaneUI
+permalink: /Java/SynthSplitPaneUI/
 date: 2021-01-11
-key: JavaJava.S.SynthSplitPaneUI
-category: java
+key: Java.S.SynthSplitPaneUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

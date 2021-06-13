@@ -1,9 +1,9 @@
 ---
 title: TransferHandler.TransferSupport
-permalink: Java/TransferHandler/TransferSupport
+permalink: /Java/TransferHandler/TransferSupport/
 date: 2021-01-11
-key: JavaJava.T.TransferHandler.TransferSupport
-category: java
+key: Java.T.TransferHandler.TransferSupport
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

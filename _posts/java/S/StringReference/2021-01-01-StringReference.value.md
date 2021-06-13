@@ -1,9 +1,9 @@
 ---
 title: StringReference.value()
-permalink: Java/StringReference/value
+permalink: /Java/StringReference/value/
 date: 2021-01-11
-key: JavaJava.S.StringReference
-category: java
+key: Java.S.StringReference
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

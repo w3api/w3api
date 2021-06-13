@@ -1,9 +1,9 @@
 ---
 title: SynthInternalFrameUI.SynthInternalFrameUI()
-permalink: Java/SynthInternalFrameUI/SynthInternalFrameUI
+permalink: /Java/SynthInternalFrameUI/SynthInternalFrameUI/
 date: 2021-01-11
-key: JavaJava.S.SynthInternalFrameUI
-category: java
+key: Java.S.SynthInternalFrameUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

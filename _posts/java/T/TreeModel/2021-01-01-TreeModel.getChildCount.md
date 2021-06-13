@@ -1,9 +1,9 @@
 ---
 title: TreeModel.getChildCount()
-permalink: Java/TreeModel/getChildCount
+permalink: /Java/TreeModel/getChildCount/
 date: 2021-01-11
-key: JavaJava.T.TreeModel
-category: java
+key: Java.T.TreeModel
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TableHeaderRow
-permalink: Java/TableHeaderRow
+permalink: /Java/TableHeaderRow/
 date: 2021-01-11
-key: JavaJava.T.TableHeaderRow
-category: java
+key: Java.T.TableHeaderRow
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

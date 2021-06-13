@@ -1,9 +1,9 @@
 ---
 title: TranslateTransition.getFromY()
-permalink: Java/TranslateTransition/getFromY
+permalink: /Java/TranslateTransition/getFromY/
 date: 2021-01-11
-key: JavaJava.T.TranslateTransition
-category: java
+key: Java.T.TranslateTransition
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TerminalFactory.toString()
-permalink: Java/TerminalFactory/toString
+permalink: /Java/TerminalFactory/toString/
 date: 2021-01-11
-key: JavaJava.T.TerminalFactory
-category: java
+key: Java.T.TerminalFactory
+category: Java
 tags: ['java se', 'javax.smartcardio', 'java.smartcardio', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

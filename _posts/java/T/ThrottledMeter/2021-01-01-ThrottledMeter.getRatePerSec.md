@@ -1,9 +1,9 @@
 ---
 title: ThrottledMeter.getRatePerSec()
-permalink: Java/ThrottledMeter/getRatePerSec
+permalink: /Java/ThrottledMeter/getRatePerSec/
 date: 2021-01-11
-key: JavaJava.T.ThrottledMeter
-category: java
+key: Java.T.ThrottledMeter
+category: Java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 
   nav: java

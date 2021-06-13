@@ -1,9 +1,9 @@
 ---
 title: SystemSleepEvent
-permalink: Java/SystemSleepEvent
+permalink: /Java/SystemSleepEvent/
 date: 2021-01-11
-key: JavaJava.S.SystemSleepEvent
-category: java
+key: Java.S.SystemSleepEvent
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

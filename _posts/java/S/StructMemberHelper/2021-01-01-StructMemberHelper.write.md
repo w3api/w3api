@@ -1,9 +1,9 @@
 ---
 title: StructMemberHelper.write()
-permalink: Java/StructMemberHelper/write
+permalink: /Java/StructMemberHelper/write/
 date: 2021-01-11
-key: JavaJava.S.StructMemberHelper
-category: java
+key: Java.S.StructMemberHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SystemResourcePressureMXBean
-permalink: Java/SystemResourcePressureMXBean
+permalink: /Java/SystemResourcePressureMXBean/
 date: 2021-01-11
-key: JavaJava.S.SystemResourcePressureMXBean
-category: java
+key: Java.S.SystemResourcePressureMXBean
+category: Java
 tags: ['java se', 'jdk.management.cmm', 'jdk.management.cmm', 'interface java', '8u40']
 sidebar: 
   nav: java

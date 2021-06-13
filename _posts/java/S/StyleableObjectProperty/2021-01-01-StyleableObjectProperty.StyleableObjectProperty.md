@@ -1,9 +1,9 @@
 ---
 title: StyleableObjectProperty.StyleableObjectProperty()
-permalink: Java/StyleableObjectProperty/StyleableObjectProperty
+permalink: /Java/StyleableObjectProperty/StyleableObjectProperty/
 date: 2021-01-11
-key: JavaJava.S.StyleableObjectProperty
-category: java
+key: Java.S.StyleableObjectProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

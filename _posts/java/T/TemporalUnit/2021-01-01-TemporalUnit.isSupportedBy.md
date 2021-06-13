@@ -1,9 +1,9 @@
 ---
 title: TemporalUnit.isSupportedBy()
-permalink: Java/TemporalUnit/isSupportedBy
+permalink: /Java/TemporalUnit/isSupportedBy/
 date: 2021-01-11
-key: JavaJava.T.TemporalUnit
-category: java
+key: Java.T.TemporalUnit
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

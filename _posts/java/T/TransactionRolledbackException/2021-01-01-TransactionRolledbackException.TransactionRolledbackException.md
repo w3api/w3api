@@ -1,9 +1,9 @@
 ---
 title: TransactionRolledbackException.TransactionRolledbackException()
-permalink: Java/TransactionRolledbackException/TransactionRolledbackException
+permalink: /Java/TransactionRolledbackException/TransactionRolledbackException/
 date: 2021-01-11
-key: JavaJava.T.TransactionRolledbackException
-category: java
+key: Java.T.TransactionRolledbackException
+category: Java
 tags: ['java se', 'javax.transaction', 'java.transaction', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

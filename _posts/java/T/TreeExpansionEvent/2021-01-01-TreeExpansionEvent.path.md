@@ -1,9 +1,9 @@
 ---
 title: TreeExpansionEvent.path
-permalink: Java/TreeExpansionEvent/path
+permalink: /Java/TreeExpansionEvent/path/
 date: 2021-01-11
-key: JavaJava.T.TreeExpansionEvent
-category: java
+key: Java.T.TreeExpansionEvent
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

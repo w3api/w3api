@@ -1,9 +1,9 @@
 ---
 title: TemporalAmount.getUnits()
-permalink: Java/TemporalAmount/getUnits
+permalink: /Java/TemporalAmount/getUnits/
 date: 2021-01-11
-key: JavaJava.T.TemporalAmount
-category: java
+key: Java.T.TemporalAmount
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

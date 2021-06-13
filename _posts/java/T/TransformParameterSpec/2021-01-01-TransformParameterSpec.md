@@ -1,9 +1,9 @@
 ---
 title: TransformParameterSpec
-permalink: Java/TransformParameterSpec
+permalink: /Java/TransformParameterSpec/
 date: 2021-01-11
-key: JavaJava.T.TransformParameterSpec
-category: java
+key: Java.T.TransformParameterSpec
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

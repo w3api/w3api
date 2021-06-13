@@ -1,9 +1,9 @@
 ---
 title: TargetDataLine
-permalink: Java/TargetDataLine
+permalink: /Java/TargetDataLine/
 date: 2021-01-11
-key: JavaJava.T.TargetDataLine
-category: java
+key: Java.T.TargetDataLine
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TextInputControlSkin.TextUnit.WORD
-permalink: Java/TextInputControlSkin/TextUnit/WORD
+permalink: /Java/TextInputControlSkin/TextUnit/WORD/
 date: 2021-01-11
-key: JavaJava.T.TextInputControlSkin.TextUnit
-category: java
+key: Java.T.TextInputControlSkin.TextUnit
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

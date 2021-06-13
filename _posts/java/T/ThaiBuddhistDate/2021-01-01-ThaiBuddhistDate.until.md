@@ -1,9 +1,9 @@
 ---
 title: ThaiBuddhistDate.until()
-permalink: Java/ThaiBuddhistDate/until
+permalink: /Java/ThaiBuddhistDate/until/
 date: 2021-01-11
-key: JavaJava.T.ThaiBuddhistDate
-category: java
+key: Java.T.ThaiBuddhistDate
+category: Java
 tags: ['java se', 'java.time.chrono', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

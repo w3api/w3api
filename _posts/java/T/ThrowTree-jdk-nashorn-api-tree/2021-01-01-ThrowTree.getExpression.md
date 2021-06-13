@@ -1,9 +1,9 @@
 ---
 title: ThrowTree.getExpression()
-permalink: Java/ThrowTree-jdk-nashorn-api-tree/getExpression
+permalink: /Java/ThrowTree-jdk-nashorn-api-tree/getExpression/
 date: 2021-01-11
-key: JavaJava.T.ThrowTree-jdk-nashorn-api-tree
-category: java
+key: Java.T.ThrowTree-jdk-nashorn-api-tree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

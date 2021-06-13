@@ -1,9 +1,9 @@
 ---
 title: TableView
-permalink: Java/TableView-javax-swing-text
+permalink: /Java/TableView-javax-swing-text/
 date: 2021-01-11
-key: JavaJava.T.TableView-javax-swing-text
-category: java
+key: Java.T.TableView-javax-swing-text
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

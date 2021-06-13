@@ -1,9 +1,9 @@
 ---
 title: SynthTreeUI
-permalink: Java/SynthTreeUI
+permalink: /Java/SynthTreeUI/
 date: 2021-01-11
-key: JavaJava.S.SynthTreeUI
-category: java
+key: Java.S.SynthTreeUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

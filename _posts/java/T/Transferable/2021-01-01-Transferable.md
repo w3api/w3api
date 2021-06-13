@@ -1,9 +1,9 @@
 ---
 title: Transferable
-permalink: Java/Transferable
+permalink: /Java/Transferable/
 date: 2021-01-11
-key: JavaJava.T.Transferable
-category: java
+key: Java.T.Transferable
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

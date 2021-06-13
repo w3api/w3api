@@ -1,9 +1,9 @@
 ---
 title: TextField
-permalink: Java/TextField/
+permalink: /Java/TextField//
 date: 2021-01-11
-key: JavaJava.T.TextField
-category: java
+key: Java.T.TextField
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

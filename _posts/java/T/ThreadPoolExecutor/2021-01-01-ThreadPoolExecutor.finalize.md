@@ -1,9 +1,9 @@
 ---
 title: ThreadPoolExecutor.finalize()
-permalink: Java/ThreadPoolExecutor/finalize
+permalink: /Java/ThreadPoolExecutor/finalize/
 date: 2021-01-11
-key: JavaJava.T.ThreadPoolExecutor
-category: java
+key: Java.T.ThreadPoolExecutor
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

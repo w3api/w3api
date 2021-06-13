@@ -1,9 +1,9 @@
 ---
 title: TimeoutException
-permalink: Java/TimeoutException
+permalink: /Java/TimeoutException/
 date: 2021-01-11
-key: JavaJava.T.TimeoutException
-category: java
+key: Java.T.TimeoutException
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

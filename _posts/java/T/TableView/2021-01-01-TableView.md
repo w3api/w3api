@@ -1,9 +1,9 @@
 ---
 title: TableView
-permalink: Java/TableView/
+permalink: /Java/TableView//
 date: 2021-01-11
-key: JavaJava.T.TableView
-category: java
+key: Java.T.TableView
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

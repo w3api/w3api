@@ -1,9 +1,9 @@
 ---
 title: SynthPasswordFieldUI.create()
-permalink: Java/SynthPasswordFieldUI/create
+permalink: /Java/SynthPasswordFieldUI/create/
 date: 2021-01-11
-key: JavaJava.S.SynthPasswordFieldUI
-category: java
+key: Java.S.SynthPasswordFieldUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

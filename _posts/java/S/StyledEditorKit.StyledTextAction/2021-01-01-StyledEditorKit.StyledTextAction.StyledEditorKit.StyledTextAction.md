@@ -1,9 +1,9 @@
 ---
 title: StyledEditorKit.StyledTextAction.StyledEditorKit.StyledTextAction()
-permalink: Java/StyledEditorKit/StyledTextAction/StyledEditorKit/StyledTextAction
+permalink: /Java/StyledEditorKit/StyledTextAction/StyledEditorKit/StyledTextAction/
 date: 2021-01-11
-key: JavaJava.S.StyledEditorKit.StyledTextAction
-category: java
+key: Java.S.StyledEditorKit.StyledTextAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

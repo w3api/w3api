@@ -1,9 +1,9 @@
 ---
 title: StyledEditorKit.ForegroundAction
-permalink: Java/StyledEditorKit/ForegroundAction
+permalink: /Java/StyledEditorKit/ForegroundAction/
 date: 2021-01-11
-key: JavaJava.S.StyledEditorKit.ForegroundAction
-category: java
+key: Java.S.StyledEditorKit.ForegroundAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

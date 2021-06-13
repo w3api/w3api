@@ -1,9 +1,9 @@
 ---
 title: ThreadGroupReference
-permalink: Java/ThreadGroupReference
+permalink: /Java/ThreadGroupReference/
 date: 2021-01-11
-key: JavaJava.T.ThreadGroupReference
-category: java
+key: Java.T.ThreadGroupReference
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

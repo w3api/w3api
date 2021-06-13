@@ -1,9 +1,9 @@
 ---
 title: TransportService.attach()
-permalink: Java/TransportService/attach
+permalink: /Java/TransportService/attach/
 date: 2021-01-11
-key: JavaJava.T.TransportService
-category: java
+key: Java.T.TransportService
+category: Java
 tags: ['java se', 'com.sun.jdi.connect.spi', 'jdk.jdi', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

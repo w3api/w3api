@@ -1,9 +1,9 @@
 ---
 title: Transferable.getTransferData()
-permalink: Java/Transferable/getTransferData
+permalink: /Java/Transferable/getTransferData/
 date: 2021-01-11
-key: JavaJava.T.Transferable
-category: java
+key: Java.T.Transferable
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

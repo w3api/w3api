@@ -1,9 +1,9 @@
 ---
 title: TreeTableView.getPlaceholder()
-permalink: Java/TreeTableView/getPlaceholder
+permalink: /Java/TreeTableView/getPlaceholder/
 date: 2021-01-11
-key: JavaJava.T.TreeTableView
-category: java
+key: Java.T.TreeTableView
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SwingNode.prefWidth()
-permalink: Java/SwingNode/prefWidth
+permalink: /Java/SwingNode/prefWidth/
 date: 2021-01-11
-key: JavaJava.S.SwingNode
-category: java
+key: Java.S.SwingNode
+category: Java
 tags: ['java se', 'javafx.embed.swing', 'javafx.swing', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

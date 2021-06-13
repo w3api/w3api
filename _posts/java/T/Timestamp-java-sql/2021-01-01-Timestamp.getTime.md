@@ -1,9 +1,9 @@
 ---
 title: Timestamp.getTime()
-permalink: Java/Timestamp-java-sql/getTime
+permalink: /Java/Timestamp-java-sql/getTime/
 date: 2021-01-11
-key: JavaJava.T.Timestamp-java-sql
-category: java
+key: Java.T.Timestamp-java-sql
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

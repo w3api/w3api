@@ -1,9 +1,9 @@
 ---
 title: TransferQueue
-permalink: Java/TransferQueue
+permalink: /Java/TransferQueue/
 date: 2021-01-11
-key: JavaJava.T.TransferQueue
-category: java
+key: Java.T.TransferQueue
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

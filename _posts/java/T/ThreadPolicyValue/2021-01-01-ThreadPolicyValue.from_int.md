@@ -1,9 +1,9 @@
 ---
 title: ThreadPolicyValue.from_int()
-permalink: Java/ThreadPolicyValue/from_int
+permalink: /Java/ThreadPolicyValue/from_int/
 date: 2021-01-11
-key: JavaJava.T.ThreadPolicyValue
-category: java
+key: Java.T.ThreadPolicyValue
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

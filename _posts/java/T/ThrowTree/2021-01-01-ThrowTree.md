@@ -1,9 +1,9 @@
 ---
 title: ThrowTree
-permalink: Java/ThrowTree/
+permalink: /Java/ThrowTree//
 date: 2021-01-11
-key: JavaJava.T.ThrowTree
-category: java
+key: Java.T.ThrowTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

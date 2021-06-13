@@ -1,9 +1,9 @@
 ---
 title: TransferHandler.COPY_OR_MOVE
-permalink: Java/TransferHandler/COPY_OR_MOVE
+permalink: /Java/TransferHandler/COPY_OR_MOVE/
 date: 2021-01-11
-key: JavaJava.T.TransferHandler
-category: java
+key: Java.T.TransferHandler
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

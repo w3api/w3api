@@ -1,9 +1,9 @@
 ---
 title: TAG_CODE_SETS
-permalink: Java/TAG_CODE_SETS
+permalink: /Java/TAG_CODE_SETS/
 date: 2021-01-11
-key: JavaJava.T.TAG_CODE_SETS
-category: java
+key: Java.T.TAG_CODE_SETS
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

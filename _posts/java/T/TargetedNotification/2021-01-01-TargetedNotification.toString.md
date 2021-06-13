@@ -1,9 +1,9 @@
 ---
 title: TargetedNotification.toString()
-permalink: Java/TargetedNotification/toString
+permalink: /Java/TargetedNotification/toString/
 date: 2021-01-11
-key: JavaJava.T.TargetedNotification
-category: java
+key: Java.T.TargetedNotification
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

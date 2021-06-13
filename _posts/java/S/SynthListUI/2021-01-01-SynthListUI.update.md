@@ -1,9 +1,9 @@
 ---
 title: SynthListUI.update()
-permalink: Java/SynthListUI/update
+permalink: /Java/SynthListUI/update/
 date: 2021-01-11
-key: JavaJava.S.SynthListUI
-category: java
+key: Java.S.SynthListUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

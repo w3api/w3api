@@ -1,9 +1,9 @@
 ---
 title: SysexMessage
-permalink: Java/SysexMessage
+permalink: /Java/SysexMessage/
 date: 2021-01-11
-key: JavaJava.S.SysexMessage
-category: java
+key: Java.S.SysexMessage
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

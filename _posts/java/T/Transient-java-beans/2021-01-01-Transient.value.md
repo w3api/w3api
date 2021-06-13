@@ -1,9 +1,9 @@
 ---
 title: Transient.value
-permalink: Java/Transient-java-beans/value
+permalink: /Java/Transient-java-beans/value/
 date: 2021-01-11
-key: JavaJava.T.Transient-java-beans
-category: java
+key: Java.T.Transient-java-beans
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'elemento java', 'Java 1.7']
 sidebar: 
   nav: java

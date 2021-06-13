@@ -1,9 +1,9 @@
 ---
 title: StyleSheet.ListPainter.paint()
-permalink: Java/StyleSheet/ListPainter/paint
+permalink: /Java/StyleSheet/ListPainter/paint/
 date: 2021-01-11
-key: JavaJava.S.StyleSheet.ListPainter
-category: java
+key: Java.S.StyleSheet.ListPainter
+category: Java
 tags: ['java se', 'javax.swing.text.html', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

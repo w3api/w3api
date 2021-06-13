@@ -1,9 +1,9 @@
 ---
 title: TextAction.augmentList()
-permalink: Java/TextAction/augmentList
+permalink: /Java/TextAction/augmentList/
 date: 2021-01-11
-key: JavaJava.T.TextAction
-category: java
+key: Java.T.TextAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

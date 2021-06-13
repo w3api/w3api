@@ -1,9 +1,9 @@
 ---
 title: SwingContainer.delegate
-permalink: Java/SwingContainer/delegate
+permalink: /Java/SwingContainer/delegate/
 date: 2021-01-11
-key: JavaJava.S.SwingContainer
-category: java
+key: Java.S.SwingContainer
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'elemento java', 'Java 9']
 sidebar: 
   nav: java

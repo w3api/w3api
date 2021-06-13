@@ -1,9 +1,9 @@
 ---
 title: TextField.getPreferredSize()
-permalink: Java/TextField-java-awt/getPreferredSize
+permalink: /Java/TextField-java-awt/getPreferredSize/
 date: 2021-01-11
-key: JavaJava.T.TextField-java-awt
-category: java
+key: Java.T.TextField-java-awt
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StyledEditorKit.FontFamilyAction
-permalink: Java/StyledEditorKit/FontFamilyAction
+permalink: /Java/StyledEditorKit/FontFamilyAction/
 date: 2021-01-11
-key: JavaJava.S.StyledEditorKit.FontFamilyAction
-category: java
+key: Java.S.StyledEditorKit.FontFamilyAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

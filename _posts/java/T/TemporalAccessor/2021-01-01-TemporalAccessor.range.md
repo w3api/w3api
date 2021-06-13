@@ -1,9 +1,9 @@
 ---
 title: TemporalAccessor.range()
-permalink: Java/TemporalAccessor/range
+permalink: /Java/TemporalAccessor/range/
 date: 2021-01-11
-key: JavaJava.T.TemporalAccessor
-category: java
+key: Java.T.TemporalAccessor
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

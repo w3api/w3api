@@ -1,9 +1,9 @@
 ---
 title: SystemSleepEvent.SystemSleepEvent()
-permalink: Java/SystemSleepEvent/SystemSleepEvent
+permalink: /Java/SystemSleepEvent/SystemSleepEvent/
 date: 2021-01-11
-key: JavaJava.S.SystemSleepEvent
-category: java
+key: Java.S.SystemSleepEvent
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

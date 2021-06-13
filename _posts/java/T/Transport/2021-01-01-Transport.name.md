@@ -1,9 +1,9 @@
 ---
 title: Transport.name()
-permalink: Java/Transport/name
+permalink: /Java/Transport/name/
 date: 2021-01-11
-key: JavaJava.T.Transport
-category: java
+key: Java.T.Transport
+category: Java
 tags: ['java se', 'com.sun.jdi.connect', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

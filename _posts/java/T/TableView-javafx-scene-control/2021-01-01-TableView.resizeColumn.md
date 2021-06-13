@@ -1,9 +1,9 @@
 ---
 title: TableView.resizeColumn()
-permalink: Java/TableView-javafx-scene-control/resizeColumn
+permalink: /Java/TableView-javafx-scene-control/resizeColumn/
 date: 2021-01-11
-key: JavaJava.T.TableView-javafx-scene-control
-category: java
+key: Java.T.TableView-javafx-scene-control
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

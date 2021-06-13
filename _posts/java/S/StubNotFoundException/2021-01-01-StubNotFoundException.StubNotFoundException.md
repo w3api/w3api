@@ -1,9 +1,9 @@
 ---
 title: StubNotFoundException.StubNotFoundException()
-permalink: Java/StubNotFoundException/StubNotFoundException
+permalink: /Java/StubNotFoundException/StubNotFoundException/
 date: 2021-01-11
-key: JavaJava.S.StubNotFoundException
-category: java
+key: Java.S.StubNotFoundException
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

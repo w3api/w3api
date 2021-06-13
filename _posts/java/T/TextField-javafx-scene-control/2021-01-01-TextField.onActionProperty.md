@@ -1,9 +1,9 @@
 ---
 title: TextField.onActionProperty()
-permalink: Java/TextField-javafx-scene-control/onActionProperty
+permalink: /Java/TextField-javafx-scene-control/onActionProperty/
 date: 2021-01-11
-key: JavaJava.T.TextField-javafx-scene-control
-category: java
+key: Java.T.TextField-javafx-scene-control
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

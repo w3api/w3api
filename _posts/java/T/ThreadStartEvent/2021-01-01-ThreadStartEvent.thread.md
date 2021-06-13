@@ -1,9 +1,9 @@
 ---
 title: ThreadStartEvent.thread()
-permalink: Java/ThreadStartEvent/thread
+permalink: /Java/ThreadStartEvent/thread/
 date: 2021-01-11
-key: JavaJava.T.ThreadStartEvent
-category: java
+key: Java.T.ThreadStartEvent
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

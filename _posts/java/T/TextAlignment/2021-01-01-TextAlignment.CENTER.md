@@ -1,9 +1,9 @@
 ---
 title: TextAlignment.CENTER
-permalink: Java/TextAlignment/CENTER
+permalink: /Java/TextAlignment/CENTER/
 date: 2021-01-11
-key: JavaJava.T.TextAlignment
-category: java
+key: Java.T.TextAlignment
+category: Java
 tags: ['java se', 'javafx.scene.text', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

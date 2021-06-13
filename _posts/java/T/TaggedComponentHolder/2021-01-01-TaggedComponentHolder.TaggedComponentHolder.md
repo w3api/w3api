@@ -1,9 +1,9 @@
 ---
 title: TaggedComponentHolder.TaggedComponentHolder()
-permalink: Java/TaggedComponentHolder/TaggedComponentHolder
+permalink: /Java/TaggedComponentHolder/TaggedComponentHolder/
 date: 2021-01-11
-key: JavaJava.T.TaggedComponentHolder
-category: java
+key: Java.T.TaggedComponentHolder
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

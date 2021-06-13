@@ -1,9 +1,9 @@
 ---
 title: TransformerHandler.getTransformer()
-permalink: Java/TransformerHandler/getTransformer
+permalink: /Java/TransformerHandler/getTransformer/
 date: 2021-01-11
-key: JavaJava.T.TransformerHandler
-category: java
+key: Java.T.TransformerHandler
+category: Java
 tags: ['java se', 'javax.xml.transform.sax', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

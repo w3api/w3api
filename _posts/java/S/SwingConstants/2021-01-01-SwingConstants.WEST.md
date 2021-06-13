@@ -1,9 +1,9 @@
 ---
 title: SwingConstants.WEST
-permalink: Java/SwingConstants/WEST
+permalink: /Java/SwingConstants/WEST/
 date: 2021-01-11
-key: JavaJava.S.SwingConstants
-category: java
+key: Java.S.SwingConstants
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

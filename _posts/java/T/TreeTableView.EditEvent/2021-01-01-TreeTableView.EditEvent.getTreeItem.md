@@ -1,9 +1,9 @@
 ---
 title: TreeTableView.EditEvent.getTreeItem()
-permalink: Java/TreeTableView/EditEvent/getTreeItem
+permalink: /Java/TreeTableView/EditEvent/getTreeItem/
 date: 2021-01-11
-key: JavaJava.T.TreeTableView.EditEvent
-category: java
+key: Java.T.TreeTableView.EditEvent
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TreeTableColumn.CellEditEvent.ANY
-permalink: Java/TreeTableColumn/CellEditEvent/ANY
+permalink: /Java/TreeTableColumn/CellEditEvent/ANY/
 date: 2021-01-11
-key: JavaJava.T.TreeTableColumn.CellEditEvent
-category: java
+key: Java.T.TreeTableColumn.CellEditEvent
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

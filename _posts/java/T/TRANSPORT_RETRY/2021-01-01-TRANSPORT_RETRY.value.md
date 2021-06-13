@@ -1,9 +1,9 @@
 ---
 title: TRANSPORT_RETRY.value
-permalink: Java/TRANSPORT_RETRY/value
+permalink: /Java/TRANSPORT_RETRY/value/
 date: 2021-01-11
-key: JavaJava.T.TRANSPORT_RETRY
-category: java
+key: Java.T.TRANSPORT_RETRY
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

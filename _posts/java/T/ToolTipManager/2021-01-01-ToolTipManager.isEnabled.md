@@ -1,9 +1,9 @@
 ---
 title: ToolTipManager.isEnabled()
-permalink: Java/ToolTipManager/isEnabled
+permalink: /Java/ToolTipManager/isEnabled/
 date: 2021-01-11
-key: JavaJava.T.ToolTipManager
-category: java
+key: Java.T.ToolTipManager
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TreeSelectionModel.SINGLE_TREE_SELECTION
-permalink: Java/TreeSelectionModel/SINGLE_TREE_SELECTION
+permalink: /Java/TreeSelectionModel/SINGLE_TREE_SELECTION/
 date: 2021-01-11
-key: JavaJava.T.TreeSelectionModel
-category: java
+key: Java.T.TreeSelectionModel
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

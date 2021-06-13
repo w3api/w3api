@@ -1,9 +1,9 @@
 ---
 title: TouchPoint.State.valueOf()
-permalink: Java/TouchPoint/State/valueOf
+permalink: /Java/TouchPoint/State/valueOf/
 date: 2021-01-11
-key: JavaJava.T.TouchPoint.State
-category: java
+key: Java.T.TouchPoint.State
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

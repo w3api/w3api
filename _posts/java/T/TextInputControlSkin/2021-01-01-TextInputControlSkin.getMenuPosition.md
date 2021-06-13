@@ -1,9 +1,9 @@
 ---
 title: TextInputControlSkin.getMenuPosition()
-permalink: Java/TextInputControlSkin/getMenuPosition
+permalink: /Java/TextInputControlSkin/getMenuPosition/
 date: 2021-01-11
-key: JavaJava.T.TextInputControlSkin
-category: java
+key: Java.T.TextInputControlSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

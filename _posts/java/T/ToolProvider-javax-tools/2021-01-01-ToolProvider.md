@@ -1,9 +1,9 @@
 ---
 title: ToolProvider
-permalink: Java/ToolProvider-javax-tools
+permalink: /Java/ToolProvider-javax-tools/
 date: 2021-01-11
-key: JavaJava.T.ToolProvider-javax-tools
-category: java
+key: Java.T.ToolProvider-javax-tools
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

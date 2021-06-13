@@ -1,9 +1,9 @@
 ---
 title: StyledEditorKit.AlignmentAction.actionPerformed()
-permalink: Java/StyledEditorKit/AlignmentAction/actionPerformed
+permalink: /Java/StyledEditorKit/AlignmentAction/actionPerformed/
 date: 2021-01-11
-key: JavaJava.S.StyledEditorKit.AlignmentAction
-category: java
+key: Java.S.StyledEditorKit.AlignmentAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

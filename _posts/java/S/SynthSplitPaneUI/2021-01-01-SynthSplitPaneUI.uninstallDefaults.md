@@ -1,9 +1,9 @@
 ---
 title: SynthSplitPaneUI.uninstallDefaults()
-permalink: Java/SynthSplitPaneUI/uninstallDefaults
+permalink: /Java/SynthSplitPaneUI/uninstallDefaults/
 date: 2021-01-11
-key: JavaJava.S.SynthSplitPaneUI
-category: java
+key: Java.S.SynthSplitPaneUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

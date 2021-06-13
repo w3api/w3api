@@ -1,9 +1,9 @@
 ---
 title: SynthPasswordFieldUI
-permalink: Java/SynthPasswordFieldUI
+permalink: /Java/SynthPasswordFieldUI/
 date: 2021-01-11
-key: JavaJava.S.SynthPasswordFieldUI
-category: java
+key: Java.S.SynthPasswordFieldUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

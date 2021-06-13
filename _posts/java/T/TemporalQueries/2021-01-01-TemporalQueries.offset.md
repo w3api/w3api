@@ -1,9 +1,9 @@
 ---
 title: TemporalQueries.offset()
-permalink: Java/TemporalQueries/offset
+permalink: /Java/TemporalQueries/offset/
 date: 2021-01-11
-key: JavaJava.T.TemporalQueries
-category: java
+key: Java.T.TemporalQueries
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

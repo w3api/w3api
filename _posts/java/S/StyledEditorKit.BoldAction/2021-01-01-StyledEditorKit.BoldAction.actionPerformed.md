@@ -1,9 +1,9 @@
 ---
 title: StyledEditorKit.BoldAction.actionPerformed()
-permalink: Java/StyledEditorKit/BoldAction/actionPerformed
+permalink: /Java/StyledEditorKit/BoldAction/actionPerformed/
 date: 2021-01-11
-key: JavaJava.S.StyledEditorKit.BoldAction
-category: java
+key: Java.S.StyledEditorKit.BoldAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

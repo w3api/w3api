@@ -1,9 +1,9 @@
 ---
 title: SwipeEvent.copyFor()
-permalink: Java/SwipeEvent/copyFor
+permalink: /Java/SwipeEvent/copyFor/
 date: 2021-01-11
-key: JavaJava.S.SwipeEvent
-category: java
+key: Java.S.SwipeEvent
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

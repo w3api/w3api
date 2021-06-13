@@ -1,9 +1,9 @@
 ---
 title: TransferMode.values()
-permalink: Java/TransferMode/values
+permalink: /Java/TransferMode/values/
 date: 2021-01-11
-key: JavaJava.T.TransferMode
-category: java
+key: Java.T.TransferMode
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

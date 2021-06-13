@@ -1,9 +1,9 @@
 ---
 title: ToolBarSkin.getClassCssMetaData()
-permalink: Java/ToolBarSkin/getClassCssMetaData
+permalink: /Java/ToolBarSkin/getClassCssMetaData/
 date: 2021-01-11
-key: JavaJava.T.ToolBarSkin
-category: java
+key: Java.T.ToolBarSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

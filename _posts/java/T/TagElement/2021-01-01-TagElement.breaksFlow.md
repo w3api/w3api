@@ -1,9 +1,9 @@
 ---
 title: TagElement.breaksFlow()
-permalink: Java/TagElement/breaksFlow
+permalink: /Java/TagElement/breaksFlow/
 date: 2021-01-11
-key: JavaJava.T.TagElement
-category: java
+key: Java.T.TagElement
+category: Java
 tags: ['java se', 'javax.swing.text.html.parser', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

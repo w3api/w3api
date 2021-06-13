@@ -1,9 +1,9 @@
 ---
 title: TableRowSkin
-permalink: Java/TableRowSkin
+permalink: /Java/TableRowSkin/
 date: 2021-01-11
-key: JavaJava.T.TableRowSkin
-category: java
+key: Java.T.TableRowSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

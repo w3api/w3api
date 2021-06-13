@@ -1,9 +1,9 @@
 ---
 title: StrokeLineCap.values()
-permalink: Java/StrokeLineCap/values
+permalink: /Java/StrokeLineCap/values/
 date: 2021-01-11
-key: JavaJava.S.StrokeLineCap
-category: java
+key: Java.S.StrokeLineCap
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

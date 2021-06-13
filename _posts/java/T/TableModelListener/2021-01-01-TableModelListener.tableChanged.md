@@ -1,9 +1,9 @@
 ---
 title: TableModelListener.tableChanged()
-permalink: Java/TableModelListener/tableChanged
+permalink: /Java/TableModelListener/tableChanged/
 date: 2021-01-11
-key: JavaJava.T.TableModelListener
-category: java
+key: Java.T.TableModelListener
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

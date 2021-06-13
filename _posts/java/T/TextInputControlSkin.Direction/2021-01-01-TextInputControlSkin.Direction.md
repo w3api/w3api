@@ -1,9 +1,9 @@
 ---
 title: TextInputControlSkin.Direction
-permalink: Java/TextInputControlSkin/Direction
+permalink: /Java/TextInputControlSkin/Direction/
 date: 2021-01-11
-key: JavaJava.T.TextInputControlSkin.Direction
-category: java
+key: Java.T.TextInputControlSkin.Direction
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'enumerado java', 'Java 1.0']
 sidebar: 
   nav: java

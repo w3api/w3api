@@ -1,9 +1,9 @@
 ---
 title: TreeScanner.visitMethod()
-permalink: Java/TreeScanner/visitMethod
+permalink: /Java/TreeScanner/visitMethod/
 date: 2021-01-11
-key: JavaJava.T.TreeScanner
-category: java
+key: Java.T.TreeScanner
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

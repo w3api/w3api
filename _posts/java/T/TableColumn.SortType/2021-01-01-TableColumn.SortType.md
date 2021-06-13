@@ -1,9 +1,9 @@
 ---
 title: TableColumn.SortType
-permalink: Java/TableColumn/SortType
+permalink: /Java/TableColumn/SortType/
 date: 2021-01-11
-key: JavaJava.T.TableColumn.SortType
-category: java
+key: Java.T.TableColumn.SortType
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'enumerado java', 'JavaFX 2.0']
 sidebar: 
   nav: java

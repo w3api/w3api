@@ -1,9 +1,9 @@
 ---
 title: TabularType
-permalink: Java/TabularType
+permalink: /Java/TabularType/
 date: 2021-01-11
-key: JavaJava.T.TabularType
-category: java
+key: Java.T.TabularType
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

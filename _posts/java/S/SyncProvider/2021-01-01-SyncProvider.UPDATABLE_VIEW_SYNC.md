@@ -1,9 +1,9 @@
 ---
 title: SyncProvider.UPDATABLE_VIEW_SYNC
-permalink: Java/SyncProvider/UPDATABLE_VIEW_SYNC
+permalink: /Java/SyncProvider/UPDATABLE_VIEW_SYNC/
 date: 2021-01-11
-key: JavaJava.S.SyncProvider
-category: java
+key: Java.S.SyncProvider
+category: Java
 tags: ['java se', 'javax.sql.rowset.spi', 'java.sql.rowset', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

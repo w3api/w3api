@@ -1,9 +1,9 @@
 ---
 title: SummaryTree
-permalink: Java/SummaryTree
+permalink: /Java/SummaryTree/
 date: 2021-01-11
-key: JavaJava.S.SummaryTree
-category: java
+key: Java.S.SummaryTree
+category: Java
 tags: ['java se', 'com.sun.source.doctree', 'jdk.compiler', 'interface java', '10']
 sidebar: 
   nav: java

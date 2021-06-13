@@ -1,9 +1,9 @@
 ---
 title: TreeTableColumn.DEFAULT_CELL_FACTORY
-permalink: Java/TreeTableColumn/DEFAULT_CELL_FACTORY
+permalink: /Java/TreeTableColumn/DEFAULT_CELL_FACTORY/
 date: 2021-01-11
-key: JavaJava.T.TreeTableColumn
-category: java
+key: Java.T.TreeTableColumn
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SynthTextFieldUI.propertyChange()
-permalink: Java/SynthTextFieldUI/propertyChange
+permalink: /Java/SynthTextFieldUI/propertyChange/
 date: 2021-01-11
-key: JavaJava.S.SynthTextFieldUI
-category: java
+key: Java.S.SynthTextFieldUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

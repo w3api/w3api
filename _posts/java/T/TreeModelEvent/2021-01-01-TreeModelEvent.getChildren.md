@@ -1,9 +1,9 @@
 ---
 title: TreeModelEvent.getChildren()
-permalink: Java/TreeModelEvent/getChildren
+permalink: /Java/TreeModelEvent/getChildren/
 date: 2021-01-11
-key: JavaJava.T.TreeModelEvent
-category: java
+key: Java.T.TreeModelEvent
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

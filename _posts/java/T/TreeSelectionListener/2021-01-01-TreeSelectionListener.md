@@ -1,9 +1,9 @@
 ---
 title: TreeSelectionListener
-permalink: Java/TreeSelectionListener
+permalink: /Java/TreeSelectionListener/
 date: 2021-01-11
-key: JavaJava.T.TreeSelectionListener
-category: java
+key: Java.T.TreeSelectionListener
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

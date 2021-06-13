@@ -1,9 +1,9 @@
 ---
 title: SyncFactory.ROWSET_SYNC_PROVIDER_VERSION
-permalink: Java/SyncFactory/ROWSET_SYNC_PROVIDER_VERSION
+permalink: /Java/SyncFactory/ROWSET_SYNC_PROVIDER_VERSION/
 date: 2021-01-11
-key: JavaJava.S.SyncFactory
-category: java
+key: Java.S.SyncFactory
+category: Java
 tags: ['java se', 'javax.sql.rowset.spi', 'java.sql.rowset', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

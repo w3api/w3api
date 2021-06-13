@@ -1,9 +1,9 @@
 ---
 title: StyleableBooleanProperty.StyleableBooleanProperty()
-permalink: Java/StyleableBooleanProperty/StyleableBooleanProperty
+permalink: /Java/StyleableBooleanProperty/StyleableBooleanProperty/
 date: 2021-01-11
-key: JavaJava.S.StyleableBooleanProperty
-category: java
+key: Java.S.StyleableBooleanProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

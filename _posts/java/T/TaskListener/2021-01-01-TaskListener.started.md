@@ -1,9 +1,9 @@
 ---
 title: TaskListener.started()
-permalink: Java/TaskListener/started
+permalink: /Java/TaskListener/started/
 date: 2021-01-11
-key: JavaJava.T.TaskListener
-category: java
+key: Java.T.TaskListener
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

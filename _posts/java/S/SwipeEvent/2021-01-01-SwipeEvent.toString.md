@@ -1,9 +1,9 @@
 ---
 title: SwipeEvent.toString()
-permalink: Java/SwipeEvent/toString
+permalink: /Java/SwipeEvent/toString/
 date: 2021-01-11
-key: JavaJava.S.SwipeEvent
-category: java
+key: Java.S.SwipeEvent
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

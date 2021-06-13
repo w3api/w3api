@@ -1,9 +1,9 @@
 ---
 title: SynthListUI
-permalink: Java/SynthListUI
+permalink: /Java/SynthListUI/
 date: 2021-01-11
-key: JavaJava.S.SynthListUI
-category: java
+key: Java.S.SynthListUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

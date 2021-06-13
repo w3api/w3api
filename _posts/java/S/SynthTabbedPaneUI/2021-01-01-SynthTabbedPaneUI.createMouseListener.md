@@ -1,9 +1,9 @@
 ---
 title: SynthTabbedPaneUI.createMouseListener()
-permalink: Java/SynthTabbedPaneUI/createMouseListener
+permalink: /Java/SynthTabbedPaneUI/createMouseListener/
 date: 2021-01-11
-key: JavaJava.S.SynthTabbedPaneUI
-category: java
+key: Java.S.SynthTabbedPaneUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

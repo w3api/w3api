@@ -1,9 +1,9 @@
 ---
 title: StrokeLineJoin
-permalink: Java/StrokeLineJoin
+permalink: /Java/StrokeLineJoin/
 date: 2021-01-11
-key: JavaJava.S.StrokeLineJoin
-category: java
+key: Java.S.StrokeLineJoin
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'enumerado java', 'JavaFX 2.0']
 sidebar: 
   nav: java

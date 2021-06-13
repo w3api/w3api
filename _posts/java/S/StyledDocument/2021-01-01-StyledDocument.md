@@ -1,9 +1,9 @@
 ---
 title: StyledDocument
-permalink: Java/StyledDocument
+permalink: /Java/StyledDocument/
 date: 2021-01-11
-key: JavaJava.S.StyledDocument
-category: java
+key: Java.S.StyledDocument
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

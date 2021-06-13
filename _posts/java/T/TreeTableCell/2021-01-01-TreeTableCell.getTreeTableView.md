@@ -1,9 +1,9 @@
 ---
 title: TreeTableCell.getTreeTableView()
-permalink: Java/TreeTableCell/getTreeTableView
+permalink: /Java/TreeTableCell/getTreeTableView/
 date: 2021-01-11
-key: JavaJava.T.TreeTableCell
-category: java
+key: Java.T.TreeTableCell
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

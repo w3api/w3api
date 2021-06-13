@@ -1,9 +1,9 @@
 ---
 title: Transient
-permalink: Java/Transient/
+permalink: /Java/Transient//
 date: 2021-01-11
-key: JavaJava.T.Transient
-category: java
+key: Java.T.Transient
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

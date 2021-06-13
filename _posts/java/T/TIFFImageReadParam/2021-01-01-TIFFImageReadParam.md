@@ -1,9 +1,9 @@
 ---
 title: TIFFImageReadParam
-permalink: Java/TIFFImageReadParam
+permalink: /Java/TIFFImageReadParam/
 date: 2021-01-11
-key: JavaJava.T.TIFFImageReadParam
-category: java
+key: Java.T.TIFFImageReadParam
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

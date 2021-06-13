@@ -1,9 +1,9 @@
 ---
 title: TransportService.Capabilities.supportsMultipleConnections()
-permalink: Java/TransportService/Capabilities/supportsMultipleConnections
+permalink: /Java/TransportService/Capabilities/supportsMultipleConnections/
 date: 2021-01-11
-key: JavaJava.T.TransportService.Capabilities
-category: java
+key: Java.T.TransportService.Capabilities
+category: Java
 tags: ['java se', 'com.sun.jdi.connect.spi', 'jdk.jdi', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

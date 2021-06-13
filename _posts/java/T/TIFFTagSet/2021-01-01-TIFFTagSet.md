@@ -1,9 +1,9 @@
 ---
 title: TIFFTagSet
-permalink: Java/TIFFTagSet
+permalink: /Java/TIFFTagSet/
 date: 2021-01-11
-key: JavaJava.T.TIFFTagSet
-category: java
+key: Java.T.TIFFTagSet
+category: Java
 tags: ['java se', 'javax.imageio.plugins.tiff', 'java.desktop', 'clase java', 'Java 9']
 sidebar: 
   nav: java

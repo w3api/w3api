@@ -1,9 +1,9 @@
 ---
 title: Stylesheet.setOrigin()
-permalink: Java/Stylesheet-javafx-css/setOrigin
+permalink: /Java/Stylesheet-javafx-css/setOrigin/
 date: 2021-01-11
-key: JavaJava.S.Stylesheet-javafx-css
-category: java
+key: Java.S.Stylesheet-javafx-css
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

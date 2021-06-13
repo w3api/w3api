@@ -1,9 +1,9 @@
 ---
 title: ToolTipUI
-permalink: Java/ToolTipUI
+permalink: /Java/ToolTipUI/
 date: 2021-01-11
-key: JavaJava.T.ToolTipUI
-category: java
+key: Java.T.ToolTipUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

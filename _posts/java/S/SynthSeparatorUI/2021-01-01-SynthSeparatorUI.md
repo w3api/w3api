@@ -1,9 +1,9 @@
 ---
 title: SynthSeparatorUI
-permalink: Java/SynthSeparatorUI
+permalink: /Java/SynthSeparatorUI/
 date: 2021-01-11
-key: JavaJava.S.SynthSeparatorUI
-category: java
+key: Java.S.SynthSeparatorUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

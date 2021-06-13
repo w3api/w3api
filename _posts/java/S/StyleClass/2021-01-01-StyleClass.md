@@ -1,9 +1,9 @@
 ---
 title: StyleClass
-permalink: Java/StyleClass
+permalink: /Java/StyleClass/
 date: 2021-01-11
-key: JavaJava.S.StyleClass
-category: java
+key: Java.S.StyleClass
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 
   nav: java

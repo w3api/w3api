@@ -1,9 +1,9 @@
 ---
 title: TreeScanner.visitWhileLoop()
-permalink: Java/TreeScanner/visitWhileLoop
+permalink: /Java/TreeScanner/visitWhileLoop/
 date: 2021-01-11
-key: JavaJava.T.TreeScanner
-category: java
+key: Java.T.TreeScanner
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

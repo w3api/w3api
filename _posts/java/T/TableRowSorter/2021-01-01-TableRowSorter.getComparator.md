@@ -1,9 +1,9 @@
 ---
 title: TableRowSorter.getComparator()
-permalink: Java/TableRowSorter/getComparator
+permalink: /Java/TableRowSorter/getComparator/
 date: 2021-01-11
-key: JavaJava.T.TableRowSorter
-category: java
+key: Java.T.TableRowSorter
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

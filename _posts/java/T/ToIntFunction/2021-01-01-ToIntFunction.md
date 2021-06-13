@@ -1,9 +1,9 @@
 ---
 title: ToIntFunction
-permalink: Java/ToIntFunction
+permalink: /Java/ToIntFunction/
 date: 2021-01-11
-key: JavaJava.T.ToIntFunction
-category: java
+key: Java.T.ToIntFunction
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

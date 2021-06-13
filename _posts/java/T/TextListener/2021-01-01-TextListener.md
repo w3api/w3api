@@ -1,9 +1,9 @@
 ---
 title: TextListener
-permalink: Java/TextListener
+permalink: /Java/TextListener/
 date: 2021-01-11
-key: JavaJava.T.TextListener
-category: java
+key: Java.T.TextListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

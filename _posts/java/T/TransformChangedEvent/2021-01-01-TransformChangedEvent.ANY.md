@@ -1,9 +1,9 @@
 ---
 title: TransformChangedEvent.ANY
-permalink: Java/TransformChangedEvent/ANY
+permalink: /Java/TransformChangedEvent/ANY/
 date: 2021-01-11
-key: JavaJava.T.TransformChangedEvent
-category: java
+key: Java.T.TransformChangedEvent
+category: Java
 tags: ['java se', 'javafx.scene.transform', 'javafx.graphics', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ToIntBiFunction.applyAsInt()
-permalink: Java/ToIntBiFunction/applyAsInt
+permalink: /Java/ToIntBiFunction/applyAsInt/
 date: 2021-01-11
-key: JavaJava.T.ToIntBiFunction
-category: java
+key: Java.T.ToIntBiFunction
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

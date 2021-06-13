@@ -1,9 +1,9 @@
 ---
 title: SynthPainter.paintDesktopIconBackground()
-permalink: Java/SynthPainter/paintDesktopIconBackground
+permalink: /Java/SynthPainter/paintDesktopIconBackground/
 date: 2021-01-11
-key: JavaJava.S.SynthPainter
-category: java
+key: Java.S.SynthPainter
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

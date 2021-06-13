@@ -1,9 +1,9 @@
 ---
 title: StyleConverter.getPaintConverter()
-permalink: Java/StyleConverter/getPaintConverter
+permalink: /Java/StyleConverter/getPaintConverter/
 date: 2021-01-11
-key: JavaJava.S.StyleConverter
-category: java
+key: Java.S.StyleConverter
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Transform
-permalink: Java/Transform/
+permalink: /Java/Transform//
 date: 2021-01-11
-key: JavaJava.T.Transform
-category: java
+key: Java.T.Transform
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

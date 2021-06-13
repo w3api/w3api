@@ -1,9 +1,9 @@
 ---
 title: TargetedNotification.getListenerID()
-permalink: Java/TargetedNotification/getListenerID
+permalink: /Java/TargetedNotification/getListenerID/
 date: 2021-01-11
-key: JavaJava.T.TargetedNotification
-category: java
+key: Java.T.TargetedNotification
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

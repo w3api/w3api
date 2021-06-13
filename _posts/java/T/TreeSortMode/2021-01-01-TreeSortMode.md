@@ -1,9 +1,9 @@
 ---
 title: TreeSortMode
-permalink: Java/TreeSortMode
+permalink: /Java/TreeSortMode/
 date: 2021-01-11
-key: JavaJava.T.TreeSortMode
-category: java
+key: Java.T.TreeSortMode
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'enumerado java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SubjectDelegationPermission
-permalink: Java/SubjectDelegationPermission
+permalink: /Java/SubjectDelegationPermission/
 date: 2021-01-11
-key: JavaJava.S.SubjectDelegationPermission
-category: java
+key: Java.S.SubjectDelegationPermission
+category: Java
 tags: ['java se', 'javax.management.remote', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

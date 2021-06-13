@@ -1,9 +1,9 @@
 ---
 title: TableModelEvent.HEADER_ROW
-permalink: Java/TableModelEvent/HEADER_ROW
+permalink: /Java/TableModelEvent/HEADER_ROW/
 date: 2021-01-11
-key: JavaJava.T.TableModelEvent
-category: java
+key: Java.T.TableModelEvent
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

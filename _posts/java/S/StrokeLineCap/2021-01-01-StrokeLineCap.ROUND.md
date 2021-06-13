@@ -1,9 +1,9 @@
 ---
 title: StrokeLineCap.ROUND
-permalink: Java/StrokeLineCap/ROUND
+permalink: /Java/StrokeLineCap/ROUND/
 date: 2021-01-11
-key: JavaJava.S.StrokeLineCap
-category: java
+key: Java.S.StrokeLineCap
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SynthRadioButtonMenuItemUI.createUI()
-permalink: Java/SynthRadioButtonMenuItemUI/createUI
+permalink: /Java/SynthRadioButtonMenuItemUI/createUI/
 date: 2021-01-11
-key: JavaJava.S.SynthRadioButtonMenuItemUI
-category: java
+key: Java.S.SynthRadioButtonMenuItemUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

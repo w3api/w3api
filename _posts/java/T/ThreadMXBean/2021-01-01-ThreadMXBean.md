@@ -1,9 +1,9 @@
 ---
 title: ThreadMXBean
-permalink: Java/ThreadMXBean/
+permalink: /Java/ThreadMXBean//
 date: 2021-01-11
-key: JavaJava.T.ThreadMXBean
-category: java
+key: Java.T.ThreadMXBean
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

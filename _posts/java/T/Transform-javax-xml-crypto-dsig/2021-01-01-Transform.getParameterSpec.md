@@ -1,9 +1,9 @@
 ---
 title: Transform.getParameterSpec()
-permalink: Java/Transform-javax-xml-crypto-dsig/getParameterSpec
+permalink: /Java/Transform-javax-xml-crypto-dsig/getParameterSpec/
 date: 2021-01-11
-key: JavaJava.T.Transform-javax-xml-crypto-dsig
-category: java
+key: Java.T.Transform-javax-xml-crypto-dsig
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

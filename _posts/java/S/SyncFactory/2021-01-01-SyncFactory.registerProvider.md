@@ -1,9 +1,9 @@
 ---
 title: SyncFactory.registerProvider()
-permalink: Java/SyncFactory/registerProvider
+permalink: /Java/SyncFactory/registerProvider/
 date: 2021-01-11
-key: JavaJava.S.SyncFactory
-category: java
+key: Java.S.SyncFactory
+category: Java
 tags: ['java se', 'javax.sql.rowset.spi', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

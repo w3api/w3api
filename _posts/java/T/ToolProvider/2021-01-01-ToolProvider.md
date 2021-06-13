@@ -1,9 +1,9 @@
 ---
 title: ToolProvider
-permalink: Java/ToolProvider/
+permalink: /Java/ToolProvider//
 date: 2021-01-11
-key: JavaJava.T.ToolProvider
-category: java
+key: Java.T.ToolProvider
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

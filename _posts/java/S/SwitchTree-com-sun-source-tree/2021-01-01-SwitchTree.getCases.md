@@ -1,9 +1,9 @@
 ---
 title: SwitchTree.getCases()
-permalink: Java/SwitchTree-com-sun-source-tree/getCases
+permalink: /Java/SwitchTree-com-sun-source-tree/getCases/
 date: 2021-01-11
-key: JavaJava.S.SwitchTree-com-sun-source-tree
-category: java
+key: Java.S.SwitchTree-com-sun-source-tree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

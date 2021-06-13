@@ -1,9 +1,9 @@
 ---
 title: ToggleGroup.selectedToggleProperty()
-permalink: Java/ToggleGroup/selectedToggleProperty
+permalink: /Java/ToggleGroup/selectedToggleProperty/
 date: 2021-01-11
-key: JavaJava.T.ToggleGroup
-category: java
+key: Java.T.ToggleGroup
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

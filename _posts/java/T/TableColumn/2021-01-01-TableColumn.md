@@ -1,9 +1,9 @@
 ---
 title: TableColumn
-permalink: Java/TableColumn/
+permalink: /Java/TableColumn//
 date: 2021-01-11
-key: JavaJava.T.TableColumn
-category: java
+key: Java.T.TableColumn
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

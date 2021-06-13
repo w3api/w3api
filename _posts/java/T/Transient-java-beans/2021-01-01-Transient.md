@@ -1,9 +1,9 @@
 ---
 title: Transient
-permalink: Java/Transient-java-beans
+permalink: /Java/Transient-java-beans/
 date: 2021-01-11
-key: JavaJava.T.Transient-java-beans
-category: java
+key: Java.T.Transient-java-beans
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'anotacion java', 'Java 1.7']
 sidebar: 
   nav: java

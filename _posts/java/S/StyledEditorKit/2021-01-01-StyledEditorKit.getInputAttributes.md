@@ -1,9 +1,9 @@
 ---
 title: StyledEditorKit.getInputAttributes()
-permalink: Java/StyledEditorKit/getInputAttributes
+permalink: /Java/StyledEditorKit/getInputAttributes/
 date: 2021-01-11
-key: JavaJava.S.StyledEditorKit
-category: java
+key: Java.S.StyledEditorKit
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

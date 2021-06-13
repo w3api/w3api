@@ -1,9 +1,9 @@
 ---
 title: TaskEvent.Kind.valueOf()
-permalink: Java/TaskEvent/Kind/valueOf
+permalink: /Java/TaskEvent/Kind/valueOf/
 date: 2021-01-11
-key: JavaJava.T.TaskEvent.Kind
-category: java
+key: Java.T.TaskEvent.Kind
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

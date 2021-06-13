@@ -1,9 +1,9 @@
 ---
 title: ToolTipManager.heavyWeightPopupEnabled
-permalink: Java/ToolTipManager/heavyWeightPopupEnabled
+permalink: /Java/ToolTipManager/heavyWeightPopupEnabled/
 date: 2021-01-11
-key: JavaJava.T.ToolTipManager
-category: java
+key: Java.T.ToolTipManager
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

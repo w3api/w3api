@@ -1,9 +1,9 @@
 ---
 title: TreeModelListener.treeStructureChanged()
-permalink: Java/TreeModelListener/treeStructureChanged
+permalink: /Java/TreeModelListener/treeStructureChanged/
 date: 2021-01-11
-key: JavaJava.T.TreeModelListener
-category: java
+key: Java.T.TreeModelListener
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

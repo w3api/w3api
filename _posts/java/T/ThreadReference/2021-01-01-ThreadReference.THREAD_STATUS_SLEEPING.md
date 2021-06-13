@@ -1,9 +1,9 @@
 ---
 title: ThreadReference.THREAD_STATUS_SLEEPING
-permalink: Java/ThreadReference/THREAD_STATUS_SLEEPING
+permalink: /Java/ThreadReference/THREAD_STATUS_SLEEPING/
 date: 2021-01-11
-key: JavaJava.T.ThreadReference
-category: java
+key: Java.T.ThreadReference
+category: Java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'campo java', 'Java 1.3']
 sidebar: 
   nav: java

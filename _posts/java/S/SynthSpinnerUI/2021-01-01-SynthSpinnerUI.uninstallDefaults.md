@@ -1,9 +1,9 @@
 ---
 title: SynthSpinnerUI.uninstallDefaults()
-permalink: Java/SynthSpinnerUI/uninstallDefaults
+permalink: /Java/SynthSpinnerUI/uninstallDefaults/
 date: 2021-01-11
-key: JavaJava.S.SynthSpinnerUI
-category: java
+key: Java.S.SynthSpinnerUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

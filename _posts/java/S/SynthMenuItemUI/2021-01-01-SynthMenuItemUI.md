@@ -1,9 +1,9 @@
 ---
 title: SynthMenuItemUI
-permalink: Java/SynthMenuItemUI
+permalink: /Java/SynthMenuItemUI/
 date: 2021-01-11
-key: JavaJava.S.SynthMenuItemUI
-category: java
+key: Java.S.SynthMenuItemUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

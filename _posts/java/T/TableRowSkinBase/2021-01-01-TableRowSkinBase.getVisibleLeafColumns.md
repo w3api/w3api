@@ -1,9 +1,9 @@
 ---
 title: TableRowSkinBase.getVisibleLeafColumns()
-permalink: Java/TableRowSkinBase/getVisibleLeafColumns
+permalink: /Java/TableRowSkinBase/getVisibleLeafColumns/
 date: 2021-01-11
-key: JavaJava.T.TableRowSkinBase
-category: java
+key: Java.T.TableRowSkinBase
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

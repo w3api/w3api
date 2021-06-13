@@ -1,9 +1,9 @@
 ---
 title: SwingFXUtils
-permalink: Java/SwingFXUtils
+permalink: /Java/SwingFXUtils/
 date: 2021-01-11
-key: JavaJava.S.SwingFXUtils
-category: java
+key: Java.S.SwingFXUtils
+category: Java
 tags: ['java se', 'javafx.embed.swing', 'javafx.swing', 'clase java', 'JavaFX 2.2']
 sidebar: 
   nav: java

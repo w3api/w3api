@@ -1,9 +1,9 @@
 ---
 title: Transform.BASE64
-permalink: Java/Transform-javax-xml-crypto-dsig/BASE64
+permalink: /Java/Transform-javax-xml-crypto-dsig/BASE64/
 date: 2021-01-11
-key: JavaJava.T.Transform-javax-xml-crypto-dsig
-category: java
+key: Java.T.Transform-javax-xml-crypto-dsig
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

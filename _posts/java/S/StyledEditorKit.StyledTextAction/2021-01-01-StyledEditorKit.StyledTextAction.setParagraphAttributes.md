@@ -1,9 +1,9 @@
 ---
 title: StyledEditorKit.StyledTextAction.setParagraphAttributes()
-permalink: Java/StyledEditorKit/StyledTextAction/setParagraphAttributes
+permalink: /Java/StyledEditorKit/StyledTextAction/setParagraphAttributes/
 date: 2021-01-11
-key: JavaJava.S.StyledEditorKit.StyledTextAction
-category: java
+key: Java.S.StyledEditorKit.StyledTextAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

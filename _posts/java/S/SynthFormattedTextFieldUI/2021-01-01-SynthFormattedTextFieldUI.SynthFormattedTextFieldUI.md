@@ -1,9 +1,9 @@
 ---
 title: SynthFormattedTextFieldUI.SynthFormattedTextFieldUI()
-permalink: Java/SynthFormattedTextFieldUI/SynthFormattedTextFieldUI
+permalink: /Java/SynthFormattedTextFieldUI/SynthFormattedTextFieldUI/
 date: 2021-01-11
-key: JavaJava.S.SynthFormattedTextFieldUI
-category: java
+key: Java.S.SynthFormattedTextFieldUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

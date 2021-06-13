@@ -1,9 +1,9 @@
 ---
 title: TextLayout.getBaseline()
-permalink: Java/TextLayout/getBaseline
+permalink: /Java/TextLayout/getBaseline/
 date: 2021-01-11
-key: JavaJava.T.TextLayout
-category: java
+key: Java.T.TextLayout
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

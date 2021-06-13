@@ -1,9 +1,9 @@
 ---
 title: ThreadInfo.getThreadState()
-permalink: Java/ThreadInfo/getThreadState
+permalink: /Java/ThreadInfo/getThreadState/
 date: 2021-01-11
-key: JavaJava.T.ThreadInfo
-category: java
+key: Java.T.ThreadInfo
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

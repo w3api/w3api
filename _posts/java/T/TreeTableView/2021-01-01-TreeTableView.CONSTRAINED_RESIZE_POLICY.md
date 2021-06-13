@@ -1,9 +1,9 @@
 ---
 title: TreeTableView.CONSTRAINED_RESIZE_POLICY
-permalink: Java/TreeTableView/CONSTRAINED_RESIZE_POLICY
+permalink: /Java/TreeTableView/CONSTRAINED_RESIZE_POLICY/
 date: 2021-01-11
-key: JavaJava.T.TreeTableView
-category: java
+key: Java.T.TreeTableView
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

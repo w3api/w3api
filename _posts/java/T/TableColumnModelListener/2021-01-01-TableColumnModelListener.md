@@ -1,9 +1,9 @@
 ---
 title: TableColumnModelListener
-permalink: Java/TableColumnModelListener
+permalink: /Java/TableColumnModelListener/
 date: 2021-01-11
-key: JavaJava.T.TableColumnModelListener
-category: java
+key: Java.T.TableColumnModelListener
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

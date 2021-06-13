@@ -1,9 +1,9 @@
 ---
 title: SystemColor
-permalink: Java/SystemColor
+permalink: /Java/SystemColor/
 date: 2021-01-11
-key: JavaJava.S.SystemColor
-category: java
+key: Java.S.SystemColor
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

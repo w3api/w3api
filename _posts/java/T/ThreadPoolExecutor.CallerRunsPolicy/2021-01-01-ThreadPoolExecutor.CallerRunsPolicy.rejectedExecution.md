@@ -1,9 +1,9 @@
 ---
 title: ThreadPoolExecutor.CallerRunsPolicy.rejectedExecution()
-permalink: Java/ThreadPoolExecutor/CallerRunsPolicy/rejectedExecution
+permalink: /Java/ThreadPoolExecutor/CallerRunsPolicy/rejectedExecution/
 date: 2021-01-11
-key: JavaJava.T.ThreadPoolExecutor.CallerRunsPolicy
-category: java
+key: Java.T.ThreadPoolExecutor.CallerRunsPolicy
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ThreadPoolExecutor.AbortPolicy.rejectedExecution()
-permalink: Java/ThreadPoolExecutor/AbortPolicy/rejectedExecution
+permalink: /Java/ThreadPoolExecutor/AbortPolicy/rejectedExecution/
 date: 2021-01-11
-key: JavaJava.T.ThreadPoolExecutor.AbortPolicy
-category: java
+key: Java.T.ThreadPoolExecutor.AbortPolicy
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

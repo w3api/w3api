@@ -1,9 +1,9 @@
 ---
 title: TreeModelListener.treeNodesRemoved()
-permalink: Java/TreeModelListener/treeNodesRemoved
+permalink: /Java/TreeModelListener/treeNodesRemoved/
 date: 2021-01-11
-key: JavaJava.T.TreeModelListener
-category: java
+key: Java.T.TreeModelListener
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

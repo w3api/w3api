@@ -1,9 +1,9 @@
 ---
 title: TreeCellEditor
-permalink: Java/TreeCellEditor
+permalink: /Java/TreeCellEditor/
 date: 2021-01-11
-key: JavaJava.T.TreeCellEditor
-category: java
+key: Java.T.TreeCellEditor
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TemporalAdjuster.adjustInto()
-permalink: Java/TemporalAdjuster/adjustInto
+permalink: /Java/TemporalAdjuster/adjustInto/
 date: 2021-01-11
-key: JavaJava.T.TemporalAdjuster
-category: java
+key: Java.T.TemporalAdjuster
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

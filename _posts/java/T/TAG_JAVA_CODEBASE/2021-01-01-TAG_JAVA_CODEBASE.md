@@ -1,9 +1,9 @@
 ---
 title: TAG_JAVA_CODEBASE
-permalink: Java/TAG_JAVA_CODEBASE
+permalink: /Java/TAG_JAVA_CODEBASE/
 date: 2021-01-11
-key: JavaJava.T.TAG_JAVA_CODEBASE
-category: java
+key: Java.T.TAG_JAVA_CODEBASE
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

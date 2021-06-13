@@ -1,9 +1,9 @@
 ---
 title: Transition.setInterpolator()
-permalink: Java/Transition/setInterpolator
+permalink: /Java/Transition/setInterpolator/
 date: 2021-01-11
-key: JavaJava.T.Transition
-category: java
+key: Java.T.Transition
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

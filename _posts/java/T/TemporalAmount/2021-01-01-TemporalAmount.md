@@ -1,9 +1,9 @@
 ---
 title: TemporalAmount
-permalink: Java/TemporalAmount
+permalink: /Java/TemporalAmount/
 date: 2021-01-11
-key: JavaJava.T.TemporalAmount
-category: java
+key: Java.T.TemporalAmount
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

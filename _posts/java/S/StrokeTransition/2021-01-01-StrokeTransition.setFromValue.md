@@ -1,9 +1,9 @@
 ---
 title: StrokeTransition.setFromValue()
-permalink: Java/StrokeTransition/setFromValue
+permalink: /Java/StrokeTransition/setFromValue/
 date: 2021-01-11
-key: JavaJava.S.StrokeTransition
-category: java
+key: Java.S.StrokeTransition
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ThreadDeathEvent
-permalink: Java/ThreadDeathEvent
+permalink: /Java/ThreadDeathEvent/
 date: 2021-01-11
-key: JavaJava.T.ThreadDeathEvent
-category: java
+key: Java.T.ThreadDeathEvent
+category: Java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

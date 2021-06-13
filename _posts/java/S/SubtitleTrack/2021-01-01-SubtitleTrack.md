@@ -1,9 +1,9 @@
 ---
 title: SubtitleTrack
-permalink: Java/SubtitleTrack
+permalink: /Java/SubtitleTrack/
 date: 2021-01-11
-key: JavaJava.S.SubtitleTrack
-category: java
+key: Java.S.SubtitleTrack
+category: Java
 tags: ['java se', 'javafx.scene.media', 'javafx.media', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

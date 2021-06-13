@@ -1,9 +1,9 @@
 ---
 title: TextEvent.paramString()
-permalink: Java/TextEvent/paramString
+permalink: /Java/TextEvent/paramString/
 date: 2021-01-11
-key: JavaJava.T.TextEvent
-category: java
+key: Java.T.TextEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

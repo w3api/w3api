@@ -1,9 +1,9 @@
 ---
 title: SystemColor.controlLtHighlight
-permalink: Java/SystemColor/controlLtHighlight
+permalink: /Java/SystemColor/controlLtHighlight/
 date: 2021-01-11
-key: JavaJava.S.SystemColor
-category: java
+key: Java.S.SystemColor
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TransferHandler.TransferSupport.getTransferable()
-permalink: Java/TransferHandler/TransferSupport/getTransferable
+permalink: /Java/TransferHandler/TransferSupport/getTransferable/
 date: 2021-01-11
-key: JavaJava.T.TransferHandler.TransferSupport
-category: java
+key: Java.T.TransferHandler.TransferSupport
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

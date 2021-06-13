@@ -1,9 +1,9 @@
 ---
 title: StyleablePropertyFactory.createStyleableColorProperty()
-permalink: Java/StyleablePropertyFactory/createStyleableColorProperty
+permalink: /Java/StyleablePropertyFactory/createStyleableColorProperty/
 date: 2021-01-11
-key: JavaJava.S.StyleablePropertyFactory
-category: java
+key: Java.S.StyleablePropertyFactory
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

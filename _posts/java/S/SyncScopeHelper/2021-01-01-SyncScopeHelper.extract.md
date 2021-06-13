@@ -1,9 +1,9 @@
 ---
 title: SyncScopeHelper.extract()
-permalink: Java/SyncScopeHelper/extract
+permalink: /Java/SyncScopeHelper/extract/
 date: 2021-01-11
-key: JavaJava.S.SyncScopeHelper
-category: java
+key: Java.S.SyncScopeHelper
+category: Java
 tags: ['java se', 'org.omg.Messaging', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

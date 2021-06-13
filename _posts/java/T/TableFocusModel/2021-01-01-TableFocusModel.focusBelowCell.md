@@ -1,9 +1,9 @@
 ---
 title: TableFocusModel.focusBelowCell()
-permalink: Java/TableFocusModel/focusBelowCell
+permalink: /Java/TableFocusModel/focusBelowCell/
 date: 2021-01-11
-key: JavaJava.T.TableFocusModel
-category: java
+key: Java.T.TableFocusModel
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

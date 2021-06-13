@@ -1,9 +1,9 @@
 ---
 title: TransformationList.getSourceIndexFor()
-permalink: Java/TransformationList/getSourceIndexFor
+permalink: /Java/TransformationList/getSourceIndexFor/
 date: 2021-01-11
-key: JavaJava.T.TransformationList
-category: java
+key: Java.T.TransformationList
+category: Java
 tags: ['java se', 'javafx.collections.transformation', 'javafx.base', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

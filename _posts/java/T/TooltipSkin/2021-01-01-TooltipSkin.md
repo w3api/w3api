@@ -1,9 +1,9 @@
 ---
 title: TooltipSkin
-permalink: Java/TooltipSkin
+permalink: /Java/TooltipSkin/
 date: 2021-01-11
-key: JavaJava.T.TooltipSkin
-category: java
+key: Java.T.TooltipSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

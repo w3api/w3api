@@ -1,9 +1,9 @@
 ---
 title: SynthDesktopPaneUI.update()
-permalink: Java/SynthDesktopPaneUI/update
+permalink: /Java/SynthDesktopPaneUI/update/
 date: 2021-01-11
-key: JavaJava.S.SynthDesktopPaneUI
-category: java
+key: Java.S.SynthDesktopPaneUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TextBoundsType.valueOf()
-permalink: Java/TextBoundsType/valueOf
+permalink: /Java/TextBoundsType/valueOf/
 date: 2021-01-11
-key: JavaJava.T.TextBoundsType
-category: java
+key: Java.T.TextBoundsType
+category: Java
 tags: ['java se', 'javafx.scene.text', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StyleConstants.Subscript
-permalink: Java/StyleConstants/Subscript
+permalink: /Java/StyleConstants/Subscript/
 date: 2021-01-11
-key: JavaJava.S.StyleConstants
-category: java
+key: Java.S.StyleConstants
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

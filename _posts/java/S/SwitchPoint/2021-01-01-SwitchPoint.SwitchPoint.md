@@ -1,9 +1,9 @@
 ---
 title: SwitchPoint.SwitchPoint()
-permalink: Java/SwitchPoint/SwitchPoint
+permalink: /Java/SwitchPoint/SwitchPoint/
 date: 2021-01-11
-key: JavaJava.S.SwitchPoint
-category: java
+key: Java.S.SwitchPoint
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

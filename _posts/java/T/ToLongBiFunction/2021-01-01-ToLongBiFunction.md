@@ -1,9 +1,9 @@
 ---
 title: ToLongBiFunction
-permalink: Java/ToLongBiFunction
+permalink: /Java/ToLongBiFunction/
 date: 2021-01-11
-key: JavaJava.T.ToLongBiFunction
-category: java
+key: Java.T.ToLongBiFunction
+category: Java
 tags: ['java se', 'java.util.function', 'java.base', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TaggedProfile.TaggedProfile()
-permalink: Java/TaggedProfile/TaggedProfile
+permalink: /Java/TaggedProfile/TaggedProfile/
 date: 2021-01-11
-key: JavaJava.T.TaggedProfile
-category: java
+key: Java.T.TaggedProfile
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

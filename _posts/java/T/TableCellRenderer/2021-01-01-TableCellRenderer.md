@@ -1,9 +1,9 @@
 ---
 title: TableCellRenderer
-permalink: Java/TableCellRenderer
+permalink: /Java/TableCellRenderer/
 date: 2021-01-11
-key: JavaJava.T.TableCellRenderer
-category: java
+key: Java.T.TableCellRenderer
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

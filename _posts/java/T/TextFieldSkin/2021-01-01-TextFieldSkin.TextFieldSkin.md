@@ -1,9 +1,9 @@
 ---
 title: TextFieldSkin.TextFieldSkin()
-permalink: Java/TextFieldSkin/TextFieldSkin
+permalink: /Java/TextFieldSkin/TextFieldSkin/
 date: 2021-01-11
-key: JavaJava.T.TextFieldSkin
-category: java
+key: Java.T.TextFieldSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

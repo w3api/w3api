@@ -1,9 +1,9 @@
 ---
 title: TimerTask.run()
-permalink: Java/TimerTask/run
+permalink: /Java/TimerTask/run/
 date: 2021-01-11
-key: JavaJava.T.TimerTask
-category: java
+key: Java.T.TimerTask
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

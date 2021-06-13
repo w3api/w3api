@@ -1,9 +1,9 @@
 ---
 title: SwingEventMonitor
-permalink: Java/SwingEventMonitor
+permalink: /Java/SwingEventMonitor/
 date: 2021-01-11
-key: JavaJava.S.SwingEventMonitor
-category: java
+key: Java.S.SwingEventMonitor
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

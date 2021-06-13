@@ -1,9 +1,9 @@
 ---
 title: TreeTableColumn.SortType.DESCENDING
-permalink: Java/TreeTableColumn/SortType/DESCENDING
+permalink: /Java/TreeTableColumn/SortType/DESCENDING/
 date: 2021-01-11
-key: JavaJava.T.TreeTableColumn.SortType
-category: java
+key: Java.T.TreeTableColumn.SortType
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

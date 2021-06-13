@@ -1,9 +1,9 @@
 ---
 title: TAG_POLICIES
-permalink: Java/TAG_POLICIES
+permalink: /Java/TAG_POLICIES/
 date: 2021-01-11
-key: JavaJava.T.TAG_POLICIES
-category: java
+key: Java.T.TAG_POLICIES
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

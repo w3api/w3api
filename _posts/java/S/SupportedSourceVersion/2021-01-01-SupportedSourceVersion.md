@@ -1,9 +1,9 @@
 ---
 title: SupportedSourceVersion
-permalink: Java/SupportedSourceVersion
+permalink: /Java/SupportedSourceVersion/
 date: 2021-01-11
-key: JavaJava.S.SupportedSourceVersion
-category: java
+key: Java.S.SupportedSourceVersion
+category: Java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'anotacion java', 'Java 1.6']
 sidebar: 
   nav: java

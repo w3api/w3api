@@ -1,9 +1,9 @@
 ---
 title: TreeExpansionListener
-permalink: Java/TreeExpansionListener
+permalink: /Java/TreeExpansionListener/
 date: 2021-01-11
-key: JavaJava.T.TreeExpansionListener
-category: java
+key: Java.T.TreeExpansionListener
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

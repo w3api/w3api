@@ -1,9 +1,9 @@
 ---
 title: SwingWorker.StateValue
-permalink: Java/SwingWorker/StateValue
+permalink: /Java/SwingWorker/StateValue/
 date: 2021-01-11
-key: JavaJava.S.SwingWorker.StateValue
-category: java
+key: Java.S.SwingWorker.StateValue
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'enumerado java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: SynthTextPaneUI.SynthTextPaneUI()
-permalink: Java/SynthTextPaneUI/SynthTextPaneUI
+permalink: /Java/SynthTextPaneUI/SynthTextPaneUI/
 date: 2021-01-11
-key: JavaJava.S.SynthTextPaneUI
-category: java
+key: Java.S.SynthTextPaneUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

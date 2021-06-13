@@ -1,9 +1,9 @@
 ---
 title: Transform.row()
-permalink: Java/Transform-javafx-scene-transform/row
+permalink: /Java/Transform-javafx-scene-transform/row/
 date: 2021-01-11
-key: JavaJava.T.Transform-javafx-scene-transform
-category: java
+key: Java.T.Transform-javafx-scene-transform
+category: Java
 tags: ['java se', 'javafx.scene.transform', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

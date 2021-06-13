@@ -1,9 +1,9 @@
 ---
 title: ThreadMXBean.dumpAllThreads()
-permalink: Java/ThreadMXBean-java-lang-management/dumpAllThreads
+permalink: /Java/ThreadMXBean-java-lang-management/dumpAllThreads/
 date: 2021-01-11
-key: JavaJava.T.ThreadMXBean-java-lang-management
-category: java
+key: Java.T.ThreadMXBean-java-lang-management
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

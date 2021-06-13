@@ -1,9 +1,9 @@
 ---
 title: TabularData
-permalink: Java/TabularData
+permalink: /Java/TabularData/
 date: 2021-01-11
-key: JavaJava.T.TabularData
-category: java
+key: Java.T.TabularData
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ThreadMXBean.setThreadContentionMonitoringEnabled()
-permalink: Java/ThreadMXBean-java-lang-management/setThreadContentionMonitoringEnabled
+permalink: /Java/ThreadMXBean-java-lang-management/setThreadContentionMonitoringEnabled/
 date: 2021-01-11
-key: JavaJava.T.ThreadMXBean-java-lang-management
-category: java
+key: Java.T.ThreadMXBean-java-lang-management
+category: Java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StyleOrigin.valueOf()
-permalink: Java/StyleOrigin/valueOf
+permalink: /Java/StyleOrigin/valueOf/
 date: 2021-01-11
-key: JavaJava.S.StyleOrigin
-category: java
+key: Java.S.StyleOrigin
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

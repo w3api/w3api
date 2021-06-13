@@ -1,9 +1,9 @@
 ---
 title: TableColumnBase.prefWidthProperty()
-permalink: Java/TableColumnBase/prefWidthProperty
+permalink: /Java/TableColumnBase/prefWidthProperty/
 date: 2021-01-11
-key: JavaJava.T.TableColumnBase
-category: java
+key: Java.T.TableColumnBase
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

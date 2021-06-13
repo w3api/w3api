@@ -1,9 +1,9 @@
 ---
 title: SynthDesktopIconUI.SynthDesktopIconUI()
-permalink: Java/SynthDesktopIconUI/SynthDesktopIconUI
+permalink: /Java/SynthDesktopIconUI/SynthDesktopIconUI/
 date: 2021-01-11
-key: JavaJava.S.SynthDesktopIconUI
-category: java
+key: Java.S.SynthDesktopIconUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

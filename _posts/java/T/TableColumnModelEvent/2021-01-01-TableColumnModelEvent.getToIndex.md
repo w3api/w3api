@@ -1,9 +1,9 @@
 ---
 title: TableColumnModelEvent.getToIndex()
-permalink: Java/TableColumnModelEvent/getToIndex
+permalink: /Java/TableColumnModelEvent/getToIndex/
 date: 2021-01-11
-key: JavaJava.T.TableColumnModelEvent
-category: java
+key: Java.T.TableColumnModelEvent
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

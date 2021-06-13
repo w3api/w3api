@@ -1,9 +1,9 @@
 ---
 title: SyncProvider.setDataSourceLock()
-permalink: Java/SyncProvider/setDataSourceLock
+permalink: /Java/SyncProvider/setDataSourceLock/
 date: 2021-01-11
-key: JavaJava.S.SyncProvider
-category: java
+key: Java.S.SyncProvider
+category: Java
 tags: ['java se', 'javax.sql.rowset.spi', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

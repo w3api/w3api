@@ -1,9 +1,9 @@
 ---
 title: TaggedProfileHelper.read()
-permalink: Java/TaggedProfileHelper/read
+permalink: /Java/TaggedProfileHelper/read/
 date: 2021-01-11
-key: JavaJava.T.TaggedProfileHelper
-category: java
+key: Java.T.TaggedProfileHelper
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

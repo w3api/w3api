@@ -1,9 +1,9 @@
 ---
 title: TransformService.getProvider()
-permalink: Java/TransformService/getProvider
+permalink: /Java/TransformService/getProvider/
 date: 2021-01-11
-key: JavaJava.T.TransformService
-category: java
+key: Java.T.TransformService
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

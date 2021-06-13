@@ -1,9 +1,9 @@
 ---
 title: TextMeasurer
-permalink: Java/TextMeasurer
+permalink: /Java/TextMeasurer/
 date: 2021-01-11
-key: JavaJava.T.TextMeasurer
-category: java
+key: Java.T.TextMeasurer
+category: Java
 tags: ['java se', 'java.awt.font', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

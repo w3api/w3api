@@ -1,9 +1,9 @@
 ---
 title: Styleable.getTypeSelector()
-permalink: Java/Styleable/getTypeSelector
+permalink: /Java/Styleable/getTypeSelector/
 date: 2021-01-11
-key: JavaJava.S.Styleable
-category: java
+key: Java.S.Styleable
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

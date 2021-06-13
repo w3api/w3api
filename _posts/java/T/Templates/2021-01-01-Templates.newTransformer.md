@@ -1,9 +1,9 @@
 ---
 title: Templates.newTransformer()
-permalink: Java/Templates/newTransformer
+permalink: /Java/Templates/newTransformer/
 date: 2021-01-11
-key: JavaJava.T.Templates
-category: java
+key: Java.T.Templates
+category: Java
 tags: ['java se', 'javax.xml.transform', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

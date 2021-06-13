@@ -1,9 +1,9 @@
 ---
 title: TouchPoint.State.PRESSED
-permalink: Java/TouchPoint/State/PRESSED
+permalink: /Java/TouchPoint/State/PRESSED/
 date: 2021-01-11
-key: JavaJava.T.TouchPoint.State
-category: java
+key: Java.T.TouchPoint.State
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'campo java', 'JavaFX 2.2']
 sidebar: 
   nav: java

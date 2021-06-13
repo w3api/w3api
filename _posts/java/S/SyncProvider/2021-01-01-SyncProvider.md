@@ -1,9 +1,9 @@
 ---
 title: SyncProvider
-permalink: Java/SyncProvider
+permalink: /Java/SyncProvider/
 date: 2021-01-11
-key: JavaJava.S.SyncProvider
-category: java
+key: Java.S.SyncProvider
+category: Java
 tags: ['java se', 'javax.sql.rowset.spi', 'java.sql.rowset', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

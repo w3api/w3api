@@ -1,9 +1,9 @@
 ---
 title: TextInputControl.insertText()
-permalink: Java/TextInputControl/insertText
+permalink: /Java/TextInputControl/insertText/
 date: 2021-01-11
-key: JavaJava.T.TextInputControl
-category: java
+key: Java.T.TextInputControl
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

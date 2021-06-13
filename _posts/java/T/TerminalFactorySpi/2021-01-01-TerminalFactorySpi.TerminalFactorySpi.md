@@ -1,9 +1,9 @@
 ---
 title: TerminalFactorySpi.TerminalFactorySpi()
-permalink: Java/TerminalFactorySpi/TerminalFactorySpi
+permalink: /Java/TerminalFactorySpi/TerminalFactorySpi/
 date: 2021-01-11
-key: JavaJava.T.TerminalFactorySpi
-category: java
+key: Java.T.TerminalFactorySpi
+category: Java
 tags: ['java se', 'javax.smartcardio', 'java.smartcardio', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

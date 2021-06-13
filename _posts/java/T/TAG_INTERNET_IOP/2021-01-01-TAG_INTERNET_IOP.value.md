@@ -1,9 +1,9 @@
 ---
 title: TAG_INTERNET_IOP.value
-permalink: Java/TAG_INTERNET_IOP/value
+permalink: /Java/TAG_INTERNET_IOP/value/
 date: 2021-01-11
-key: JavaJava.T.TAG_INTERNET_IOP
-category: java
+key: Java.T.TAG_INTERNET_IOP
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

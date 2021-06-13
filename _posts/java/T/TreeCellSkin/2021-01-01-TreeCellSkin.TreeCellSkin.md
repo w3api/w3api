@@ -1,9 +1,9 @@
 ---
 title: TreeCellSkin.TreeCellSkin()
-permalink: Java/TreeCellSkin/TreeCellSkin
+permalink: /Java/TreeCellSkin/TreeCellSkin/
 date: 2021-01-11
-key: JavaJava.T.TreeCellSkin
-category: java
+key: Java.T.TreeCellSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

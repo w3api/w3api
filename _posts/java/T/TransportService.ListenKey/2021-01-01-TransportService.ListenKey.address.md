@@ -1,9 +1,9 @@
 ---
 title: TransportService.ListenKey.address()
-permalink: Java/TransportService/ListenKey/address
+permalink: /Java/TransportService/ListenKey/address/
 date: 2021-01-11
-key: JavaJava.T.TransportService.ListenKey
-category: java
+key: Java.T.TransportService.ListenKey
+category: Java
 tags: ['java se', 'com.sun.jdi.connect.spi', 'jdk.jdi', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ThreadFactory.newThread()
-permalink: Java/ThreadFactory/newThread
+permalink: /Java/ThreadFactory/newThread/
 date: 2021-01-11
-key: JavaJava.T.ThreadFactory
-category: java
+key: Java.T.ThreadFactory
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

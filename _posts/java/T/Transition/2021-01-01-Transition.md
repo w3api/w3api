@@ -1,9 +1,9 @@
 ---
 title: Transition
-permalink: Java/Transition
+permalink: /Java/Transition/
 date: 2021-01-11
-key: JavaJava.T.Transition
-category: java
+key: Java.T.Transition
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

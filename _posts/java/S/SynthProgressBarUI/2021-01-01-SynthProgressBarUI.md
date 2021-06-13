@@ -1,9 +1,9 @@
 ---
 title: SynthProgressBarUI
-permalink: Java/SynthProgressBarUI
+permalink: /Java/SynthProgressBarUI/
 date: 2021-01-11
-key: JavaJava.S.SynthProgressBarUI
-category: java
+key: Java.S.SynthProgressBarUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

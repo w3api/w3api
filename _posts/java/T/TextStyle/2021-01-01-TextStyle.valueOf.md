@@ -1,9 +1,9 @@
 ---
 title: TextStyle.valueOf()
-permalink: Java/TextStyle/valueOf
+permalink: /Java/TextStyle/valueOf/
 date: 2021-01-11
-key: JavaJava.T.TextStyle
-category: java
+key: Java.T.TextStyle
+category: Java
 tags: ['java se', 'java.time.format', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

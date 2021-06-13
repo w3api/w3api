@@ -1,9 +1,9 @@
 ---
 title: StringSelection.getTransferData()
-permalink: Java/StringSelection/getTransferData
+permalink: /Java/StringSelection/getTransferData/
 date: 2021-01-11
-key: JavaJava.S.StringSelection
-category: java
+key: Java.S.StringSelection
+category: Java
 tags: ['java se', 'java.awt.datatransfer', 'java.datatransfer', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

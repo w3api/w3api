@@ -1,9 +1,9 @@
 ---
 title: TRANSACTION_MODE
-permalink: Java/TRANSACTION_MODE
+permalink: /Java/TRANSACTION_MODE/
 date: 2021-01-11
-key: JavaJava.T.TRANSACTION_MODE
-category: java
+key: Java.T.TRANSACTION_MODE
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

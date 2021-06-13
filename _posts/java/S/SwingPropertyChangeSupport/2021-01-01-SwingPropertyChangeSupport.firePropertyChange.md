@@ -1,9 +1,9 @@
 ---
 title: SwingPropertyChangeSupport.firePropertyChange()
-permalink: Java/SwingPropertyChangeSupport/firePropertyChange
+permalink: /Java/SwingPropertyChangeSupport/firePropertyChange/
 date: 2021-01-11
-key: JavaJava.S.SwingPropertyChangeSupport
-category: java
+key: Java.S.SwingPropertyChangeSupport
+category: Java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

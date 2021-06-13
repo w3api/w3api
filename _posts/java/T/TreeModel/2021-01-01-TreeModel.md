@@ -1,9 +1,9 @@
 ---
 title: TreeModel
-permalink: Java/TreeModel
+permalink: /Java/TreeModel/
 date: 2021-01-11
-key: JavaJava.T.TreeModel
-category: java
+key: Java.T.TreeModel
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

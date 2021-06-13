@@ -1,9 +1,9 @@
 ---
 title: StyleConstants.ParagraphConstants
-permalink: Java/StyleConstants/ParagraphConstants
+permalink: /Java/StyleConstants/ParagraphConstants/
 date: 2021-01-11
-key: JavaJava.S.StyleConstants.ParagraphConstants
-category: java
+key: Java.S.StyleConstants.ParagraphConstants
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

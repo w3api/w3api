@@ -1,9 +1,9 @@
 ---
 title: SynthSliderUI.update()
-permalink: Java/SynthSliderUI/update
+permalink: /Java/SynthSliderUI/update/
 date: 2021-01-11
-key: JavaJava.S.SynthSliderUI
-category: java
+key: Java.S.SynthSliderUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

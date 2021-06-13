@@ -1,9 +1,9 @@
 ---
 title: Synthesizer.remapInstrument()
-permalink: Java/Synthesizer/remapInstrument
+permalink: /Java/Synthesizer/remapInstrument/
 date: 2021-01-11
-key: JavaJava.S.Synthesizer
-category: java
+key: Java.S.Synthesizer
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

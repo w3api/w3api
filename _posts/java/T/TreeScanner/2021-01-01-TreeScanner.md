@@ -1,9 +1,9 @@
 ---
 title: TreeScanner
-permalink: Java/TreeScanner
+permalink: /Java/TreeScanner/
 date: 2021-01-11
-key: JavaJava.T.TreeScanner
-category: java
+key: Java.T.TreeScanner
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

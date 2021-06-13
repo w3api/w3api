@@ -1,9 +1,9 @@
 ---
 title: SynthScrollBarUI.update()
-permalink: Java/SynthScrollBarUI/update
+permalink: /Java/SynthScrollBarUI/update/
 date: 2021-01-11
-key: JavaJava.S.SynthScrollBarUI
-category: java
+key: Java.S.SynthScrollBarUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

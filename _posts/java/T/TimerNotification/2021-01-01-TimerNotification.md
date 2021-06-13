@@ -1,9 +1,9 @@
 ---
 title: TimerNotification
-permalink: Java/TimerNotification
+permalink: /Java/TimerNotification/
 date: 2021-01-11
-key: JavaJava.T.TimerNotification
-category: java
+key: Java.T.TimerNotification
+category: Java
 tags: ['java se', 'javax.management.timer', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

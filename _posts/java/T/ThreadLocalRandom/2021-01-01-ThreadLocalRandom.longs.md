@@ -1,9 +1,9 @@
 ---
 title: ThreadLocalRandom.longs()
-permalink: Java/ThreadLocalRandom/longs
+permalink: /Java/ThreadLocalRandom/longs/
 date: 2021-01-11
-key: JavaJava.T.ThreadLocalRandom
-category: java
+key: Java.T.ThreadLocalRandom
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

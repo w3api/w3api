@@ -1,9 +1,9 @@
 ---
 title: ThreadPolicyValue
-permalink: Java/ThreadPolicyValue
+permalink: /Java/ThreadPolicyValue/
 date: 2021-01-11
-key: JavaJava.T.ThreadPolicyValue
-category: java
+key: Java.T.ThreadPolicyValue
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

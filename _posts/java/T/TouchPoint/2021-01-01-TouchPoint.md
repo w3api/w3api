@@ -1,9 +1,9 @@
 ---
 title: TouchPoint
-permalink: Java/TouchPoint
+permalink: /Java/TouchPoint/
 date: 2021-01-11
-key: JavaJava.T.TouchPoint
-category: java
+key: Java.T.TouchPoint
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'clase java', 'JavaFX 2.2']
 sidebar: 
   nav: java

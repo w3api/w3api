@@ -1,9 +1,9 @@
 ---
 title: SynthColorChooserUI.SynthColorChooserUI()
-permalink: Java/SynthColorChooserUI/SynthColorChooserUI
+permalink: /Java/SynthColorChooserUI/SynthColorChooserUI/
 date: 2021-01-11
-key: JavaJava.S.SynthColorChooserUI
-category: java
+key: Java.S.SynthColorChooserUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

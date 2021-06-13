@@ -1,9 +1,9 @@
 ---
 title: SwingUtilities.windowForComponent()
-permalink: Java/SwingUtilities/windowForComponent
+permalink: /Java/SwingUtilities/windowForComponent/
 date: 2021-01-11
-key: JavaJava.S.SwingUtilities
-category: java
+key: Java.S.SwingUtilities
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

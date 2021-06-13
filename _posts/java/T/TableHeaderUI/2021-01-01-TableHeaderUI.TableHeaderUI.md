@@ -1,9 +1,9 @@
 ---
 title: TableHeaderUI.TableHeaderUI()
-permalink: Java/TableHeaderUI/TableHeaderUI
+permalink: /Java/TableHeaderUI/TableHeaderUI/
 date: 2021-01-11
-key: JavaJava.T.TableHeaderUI
-category: java
+key: Java.T.TableHeaderUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

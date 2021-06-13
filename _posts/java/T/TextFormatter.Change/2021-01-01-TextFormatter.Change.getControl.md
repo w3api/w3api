@@ -1,9 +1,9 @@
 ---
 title: TextFormatter.Change.getControl()
-permalink: Java/TextFormatter/Change/getControl
+permalink: /Java/TextFormatter/Change/getControl/
 date: 2021-01-11
-key: JavaJava.T.TextFormatter.Change
-category: java
+key: Java.T.TextFormatter.Change
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

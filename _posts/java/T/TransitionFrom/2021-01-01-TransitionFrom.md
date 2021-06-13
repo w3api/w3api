@@ -1,9 +1,9 @@
 ---
 title: TransitionFrom
-permalink: Java/TransitionFrom
+permalink: /Java/TransitionFrom/
 date: 2021-01-11
-key: JavaJava.T.TransitionFrom
-category: java
+key: Java.T.TransitionFrom
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'anotacion java', 'Java 9']
 sidebar: 
   nav: java

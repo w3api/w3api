@@ -1,9 +1,9 @@
 ---
 title: TAG_MULTIPLE_COMPONENTS
-permalink: Java/TAG_MULTIPLE_COMPONENTS
+permalink: /Java/TAG_MULTIPLE_COMPONENTS/
 date: 2021-01-11
-key: JavaJava.T.TAG_MULTIPLE_COMPONENTS
-category: java
+key: Java.T.TAG_MULTIPLE_COMPONENTS
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

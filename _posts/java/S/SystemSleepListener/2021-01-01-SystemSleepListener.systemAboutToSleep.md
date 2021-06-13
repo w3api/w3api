@@ -1,9 +1,9 @@
 ---
 title: SystemSleepListener.systemAboutToSleep()
-permalink: Java/SystemSleepListener/systemAboutToSleep
+permalink: /Java/SystemSleepListener/systemAboutToSleep/
 date: 2021-01-11
-key: JavaJava.S.SystemSleepListener
-category: java
+key: Java.S.SystemSleepListener
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

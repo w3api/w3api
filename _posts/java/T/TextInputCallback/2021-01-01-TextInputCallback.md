@@ -1,9 +1,9 @@
 ---
 title: TextInputCallback
-permalink: Java/TextInputCallback
+permalink: /Java/TextInputCallback/
 date: 2021-01-11
-key: JavaJava.T.TextInputCallback
-category: java
+key: Java.T.TextInputCallback
+category: Java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: StyleableFloatProperty
-permalink: Java/StyleableFloatProperty
+permalink: /Java/StyleableFloatProperty/
 date: 2021-01-11
-key: JavaJava.S.StyleableFloatProperty
-category: java
+key: Java.S.StyleableFloatProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

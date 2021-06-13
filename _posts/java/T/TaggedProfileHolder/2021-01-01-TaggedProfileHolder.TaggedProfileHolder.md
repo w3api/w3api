@@ -1,9 +1,9 @@
 ---
 title: TaggedProfileHolder.TaggedProfileHolder()
-permalink: Java/TaggedProfileHolder/TaggedProfileHolder
+permalink: /Java/TaggedProfileHolder/TaggedProfileHolder/
 date: 2021-01-11
-key: JavaJava.T.TaggedProfileHolder
-category: java
+key: Java.T.TaggedProfileHolder
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

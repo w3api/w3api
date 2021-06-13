@@ -1,9 +1,9 @@
 ---
 title: TransactionService.value
-permalink: Java/TransactionService/value
+permalink: /Java/TransactionService/value/
 date: 2021-01-11
-key: JavaJava.T.TransactionService
-category: java
+key: Java.T.TransactionService
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

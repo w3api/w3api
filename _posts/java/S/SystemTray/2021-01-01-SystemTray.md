@@ -1,9 +1,9 @@
 ---
 title: SystemTray
-permalink: Java/SystemTray
+permalink: /Java/SystemTray/
 date: 2021-01-11
-key: JavaJava.S.SystemTray
-category: java
+key: Java.S.SystemTray
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

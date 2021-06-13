@@ -1,9 +1,9 @@
 ---
 title: TreeTableRowSkin
-permalink: Java/TreeTableRowSkin
+permalink: /Java/TreeTableRowSkin/
 date: 2021-01-11
-key: JavaJava.T.TreeTableRowSkin
-category: java
+key: Java.T.TreeTableRowSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

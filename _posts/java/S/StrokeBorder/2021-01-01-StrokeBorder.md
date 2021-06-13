@@ -1,9 +1,9 @@
 ---
 title: StrokeBorder
-permalink: Java/StrokeBorder
+permalink: /Java/StrokeBorder/
 date: 2021-01-11
-key: JavaJava.S.StrokeBorder
-category: java
+key: Java.S.StrokeBorder
+category: Java
 tags: ['java se', 'javax.swing.border', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

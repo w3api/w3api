@@ -1,9 +1,9 @@
 ---
 title: TransformerFactoryConfigurationError
-permalink: Java/TransformerFactoryConfigurationError
+permalink: /Java/TransformerFactoryConfigurationError/
 date: 2021-01-11
-key: JavaJava.T.TransformerFactoryConfigurationError
-category: java
+key: Java.T.TransformerFactoryConfigurationError
+category: Java
 tags: ['java se', 'javax.xml.transform', 'java.xml', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

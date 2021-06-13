@@ -1,9 +1,9 @@
 ---
 title: SynchronousQueue
-permalink: Java/SynchronousQueue
+permalink: /Java/SynchronousQueue/
 date: 2021-01-11
-key: JavaJava.S.SynchronousQueue
-category: java
+key: Java.S.SynchronousQueue
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

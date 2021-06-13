@@ -1,9 +1,9 @@
 ---
 title: Threshold.value
-permalink: Java/Threshold/value
+permalink: /Java/Threshold/value/
 date: 2021-01-11
-key: JavaJava.T.Threshold
-category: java
+key: Java.T.Threshold
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'elemento java', 'Java 9']
 sidebar: 
   nav: java

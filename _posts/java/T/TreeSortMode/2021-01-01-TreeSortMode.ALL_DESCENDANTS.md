@@ -1,9 +1,9 @@
 ---
 title: TreeSortMode.ALL_DESCENDANTS
-permalink: Java/TreeSortMode/ALL_DESCENDANTS
+permalink: /Java/TreeSortMode/ALL_DESCENDANTS/
 date: 2021-01-11
-key: JavaJava.T.TreeSortMode
-category: java
+key: Java.T.TreeSortMode
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

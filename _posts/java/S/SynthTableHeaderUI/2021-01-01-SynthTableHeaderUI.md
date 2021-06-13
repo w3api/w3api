@@ -1,9 +1,9 @@
 ---
 title: SynthTableHeaderUI
-permalink: Java/SynthTableHeaderUI
+permalink: /Java/SynthTableHeaderUI/
 date: 2021-01-11
-key: JavaJava.S.SynthTableHeaderUI
-category: java
+key: Java.S.SynthTableHeaderUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

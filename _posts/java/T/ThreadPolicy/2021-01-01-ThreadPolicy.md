@@ -1,9 +1,9 @@
 ---
 title: ThreadPolicy
-permalink: Java/ThreadPolicy
+permalink: /Java/ThreadPolicy/
 date: 2021-01-11
-key: JavaJava.T.ThreadPolicy
-category: java
+key: Java.T.ThreadPolicy
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

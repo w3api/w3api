@@ -1,9 +1,9 @@
 ---
 title: Throwable
-permalink: Java/Throwable
+permalink: /Java/Throwable/
 date: 2021-01-11
-key: JavaJava.T.Throwable
-category: java
+key: Java.T.Throwable
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

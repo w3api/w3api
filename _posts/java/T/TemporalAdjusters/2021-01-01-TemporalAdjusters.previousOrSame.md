@@ -1,9 +1,9 @@
 ---
 title: TemporalAdjusters.previousOrSame()
-permalink: Java/TemporalAdjusters/previousOrSame
+permalink: /Java/TemporalAdjusters/previousOrSame/
 date: 2021-01-11
-key: JavaJava.T.TemporalAdjusters
-category: java
+key: Java.T.TemporalAdjusters
+category: Java
 tags: ['java se', 'java.time.temporal', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

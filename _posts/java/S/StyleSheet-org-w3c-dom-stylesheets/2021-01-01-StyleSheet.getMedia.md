@@ -1,9 +1,9 @@
 ---
 title: StyleSheet.getMedia()
-permalink: Java/StyleSheet-org-w3c-dom-stylesheets/getMedia
+permalink: /Java/StyleSheet-org-w3c-dom-stylesheets/getMedia/
 date: 2021-01-11
-key: JavaJava.S.StyleSheet-org-w3c-dom-stylesheets
-category: java
+key: Java.S.StyleSheet-org-w3c-dom-stylesheets
+category: Java
 tags: ['java se', 'org.w3c.dom.stylesheets', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

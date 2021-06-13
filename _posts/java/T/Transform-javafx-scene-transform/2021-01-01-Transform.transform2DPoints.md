@@ -1,9 +1,9 @@
 ---
 title: Transform.transform2DPoints()
-permalink: Java/Transform-javafx-scene-transform/transform2DPoints
+permalink: /Java/Transform-javafx-scene-transform/transform2DPoints/
 date: 2021-01-11
-key: JavaJava.T.Transform-javafx-scene-transform
-category: java
+key: Java.T.Transform-javafx-scene-transform
+category: Java
 tags: ['java se', 'javafx.scene.transform', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

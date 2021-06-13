@@ -1,9 +1,9 @@
 ---
 title: TextAreaSkin.TextAreaSkin()
-permalink: Java/TextAreaSkin/TextAreaSkin
+permalink: /Java/TextAreaSkin/TextAreaSkin/
 date: 2021-01-11
-key: JavaJava.T.TextAreaSkin
-category: java
+key: Java.T.TextAreaSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

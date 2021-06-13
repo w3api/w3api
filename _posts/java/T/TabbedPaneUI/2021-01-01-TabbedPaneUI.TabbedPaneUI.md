@@ -1,9 +1,9 @@
 ---
 title: TabbedPaneUI.TabbedPaneUI()
-permalink: Java/TabbedPaneUI/TabbedPaneUI
+permalink: /Java/TabbedPaneUI/TabbedPaneUI/
 date: 2021-01-11
-key: JavaJava.T.TabbedPaneUI
-category: java
+key: Java.T.TabbedPaneUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

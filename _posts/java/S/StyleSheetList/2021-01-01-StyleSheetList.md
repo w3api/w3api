@@ -1,9 +1,9 @@
 ---
 title: StyleSheetList
-permalink: Java/StyleSheetList
+permalink: /Java/StyleSheetList/
 date: 2021-01-11
-key: JavaJava.S.StyleSheetList
-category: java
+key: Java.S.StyleSheetList
+category: Java
 tags: ['java se', 'org.w3c.dom.stylesheets', 'jdk.xml.dom', 'interface java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

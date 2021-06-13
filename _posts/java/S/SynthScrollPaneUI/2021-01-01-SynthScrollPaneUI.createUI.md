@@ -1,9 +1,9 @@
 ---
 title: SynthScrollPaneUI.createUI()
-permalink: Java/SynthScrollPaneUI/createUI
+permalink: /Java/SynthScrollPaneUI/createUI/
 date: 2021-01-11
-key: JavaJava.S.SynthScrollPaneUI
-category: java
+key: Java.S.SynthScrollPaneUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

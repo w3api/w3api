@@ -1,9 +1,9 @@
 ---
 title: SynthLabelUI.paint()
-permalink: Java/SynthLabelUI/paint
+permalink: /Java/SynthLabelUI/paint/
 date: 2021-01-11
-key: JavaJava.S.SynthLabelUI
-category: java
+key: Java.S.SynthLabelUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

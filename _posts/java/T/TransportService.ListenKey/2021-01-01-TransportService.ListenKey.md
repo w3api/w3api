@@ -1,9 +1,9 @@
 ---
 title: TransportService.ListenKey
-permalink: Java/TransportService/ListenKey
+permalink: /Java/TransportService/ListenKey/
 date: 2021-01-11
-key: JavaJava.T.TransportService.ListenKey
-category: java
+key: Java.T.TransportService.ListenKey
+category: Java
 tags: ['java se', 'com.sun.jdi.connect.spi', 'jdk.jdi', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

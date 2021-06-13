@@ -1,9 +1,9 @@
 ---
 title: Timestamp
-permalink: Java/Timestamp/
+permalink: /Java/Timestamp//
 date: 2021-01-11
-key: JavaJava.T.Timestamp
-category: java
+key: Java.T.Timestamp
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

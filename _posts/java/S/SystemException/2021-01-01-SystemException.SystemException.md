@@ -1,9 +1,9 @@
 ---
 title: SystemException.SystemException()
-permalink: Java/SystemException/SystemException
+permalink: /Java/SystemException/SystemException/
 date: 2021-01-11
-key: JavaJava.S.SystemException
-category: java
+key: Java.S.SystemException
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

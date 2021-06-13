@@ -1,9 +1,9 @@
 ---
 title: SynthComboBoxUI.createUI()
-permalink: Java/SynthComboBoxUI/createUI
+permalink: /Java/SynthComboBoxUI/createUI/
 date: 2021-01-11
-key: JavaJava.S.SynthComboBoxUI
-category: java
+key: Java.S.SynthComboBoxUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

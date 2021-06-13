@@ -1,9 +1,9 @@
 ---
 title: ToggleButtonSkin
-permalink: Java/ToggleButtonSkin
+permalink: /Java/ToggleButtonSkin/
 date: 2021-01-11
-key: JavaJava.T.ToggleButtonSkin
-category: java
+key: Java.T.ToggleButtonSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

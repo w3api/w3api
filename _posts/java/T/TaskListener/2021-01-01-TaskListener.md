@@ -1,9 +1,9 @@
 ---
 title: TaskListener
-permalink: Java/TaskListener
+permalink: /Java/TaskListener/
 date: 2021-01-11
-key: JavaJava.T.TaskListener
-category: java
+key: Java.T.TaskListener
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

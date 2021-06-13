@@ -1,9 +1,9 @@
 ---
 title: Transition.interpolatorProperty()
-permalink: Java/Transition/interpolatorProperty
+permalink: /Java/Transition/interpolatorProperty/
 date: 2021-01-11
-key: JavaJava.T.Transition
-category: java
+key: Java.T.Transition
+category: Java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

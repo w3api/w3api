@@ -1,9 +1,9 @@
 ---
 title: SystemEventListener
-permalink: Java/SystemEventListener
+permalink: /Java/SystemEventListener/
 date: 2021-01-11
-key: JavaJava.S.SystemEventListener
-category: java
+key: Java.S.SystemEventListener
+category: Java
 tags: ['java se', 'java.awt.desktop', 'java.desktop', 'interface java', 'Java 9']
 sidebar: 
   nav: java

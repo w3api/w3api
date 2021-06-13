@@ -1,9 +1,9 @@
 ---
 title: SynthToggleButtonUI
-permalink: Java/SynthToggleButtonUI
+permalink: /Java/SynthToggleButtonUI/
 date: 2021-01-11
-key: JavaJava.S.SynthToggleButtonUI
-category: java
+key: Java.S.SynthToggleButtonUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

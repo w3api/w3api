@@ -1,9 +1,9 @@
 ---
 title: TableRowSorter.setModel()
-permalink: Java/TableRowSorter/setModel
+permalink: /Java/TableRowSorter/setModel/
 date: 2021-01-11
-key: JavaJava.T.TableRowSorter
-category: java
+key: Java.T.TableRowSorter
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

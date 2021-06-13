@@ -1,9 +1,9 @@
 ---
 title: SwingEventMonitor.listenerList
-permalink: Java/SwingEventMonitor/listenerList
+permalink: /Java/SwingEventMonitor/listenerList/
 date: 2021-01-11
-key: JavaJava.S.SwingEventMonitor
-category: java
+key: Java.S.SwingEventMonitor
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

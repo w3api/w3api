@@ -1,9 +1,9 @@
 ---
 title: SystemResourcePressureMXBean.getMemoryPressure()
-permalink: Java/SystemResourcePressureMXBean/getMemoryPressure
+permalink: /Java/SystemResourcePressureMXBean/getMemoryPressure/
 date: 2021-01-11
-key: JavaJava.S.SystemResourcePressureMXBean
-category: java
+key: Java.S.SystemResourcePressureMXBean
+category: Java
 tags: ['java se', 'jdk.management.cmm', 'jdk.management.cmm', 'metodo java', '8u40']
 sidebar: 
   nav: java

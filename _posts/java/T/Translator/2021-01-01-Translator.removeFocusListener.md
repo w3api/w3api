@@ -1,9 +1,9 @@
 ---
 title: Translator.removeFocusListener()
-permalink: Java/Translator/removeFocusListener
+permalink: /Java/Translator/removeFocusListener/
 date: 2021-01-11
-key: JavaJava.T.Translator
-category: java
+key: Java.T.Translator
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

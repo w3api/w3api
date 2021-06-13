@@ -1,9 +1,9 @@
 ---
 title: ThreadPolicyValue.SINGLE_THREAD_MODEL
-permalink: Java/ThreadPolicyValue/SINGLE_THREAD_MODEL
+permalink: /Java/ThreadPolicyValue/SINGLE_THREAD_MODEL/
 date: 2021-01-11
-key: JavaJava.T.ThreadPolicyValue
-category: java
+key: Java.T.ThreadPolicyValue
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

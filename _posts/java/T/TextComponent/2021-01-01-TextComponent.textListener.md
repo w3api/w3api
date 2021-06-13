@@ -1,9 +1,9 @@
 ---
 title: TextComponent.textListener
-permalink: Java/TextComponent/textListener
+permalink: /Java/TextComponent/textListener/
 date: 2021-01-11
-key: JavaJava.T.TextComponent
-category: java
+key: Java.T.TextComponent
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

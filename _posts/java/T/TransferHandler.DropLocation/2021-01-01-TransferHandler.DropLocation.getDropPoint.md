@@ -1,9 +1,9 @@
 ---
 title: TransferHandler.DropLocation.getDropPoint()
-permalink: Java/TransferHandler/DropLocation/getDropPoint
+permalink: /Java/TransferHandler/DropLocation/getDropPoint/
 date: 2021-01-11
-key: JavaJava.T.TransferHandler.DropLocation
-category: java
+key: Java.T.TransferHandler.DropLocation
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

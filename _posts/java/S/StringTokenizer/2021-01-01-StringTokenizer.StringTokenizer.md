@@ -1,9 +1,9 @@
 ---
 title: StringTokenizer.StringTokenizer()
-permalink: Java/StringTokenizer/StringTokenizer
+permalink: /Java/StringTokenizer/StringTokenizer/
 date: 2021-01-11
-key: JavaJava.S.StringTokenizer
-category: java
+key: Java.S.StringTokenizer
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

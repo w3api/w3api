@@ -1,9 +1,9 @@
 ---
 title: TabularType.getRowType()
-permalink: Java/TabularType/getRowType
+permalink: /Java/TabularType/getRowType/
 date: 2021-01-11
-key: JavaJava.T.TabularType
-category: java
+key: Java.T.TabularType
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

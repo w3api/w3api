@@ -1,9 +1,9 @@
 ---
 title: SynthTextAreaUI.paintBackground()
-permalink: Java/SynthTextAreaUI/paintBackground
+permalink: /Java/SynthTextAreaUI/paintBackground/
 date: 2021-01-11
-key: JavaJava.S.SynthTextAreaUI
-category: java
+key: Java.S.SynthTextAreaUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

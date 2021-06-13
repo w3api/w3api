@@ -1,9 +1,9 @@
 ---
 title: StyleClass.getStyleClassName()
-permalink: Java/StyleClass/getStyleClassName
+permalink: /Java/StyleClass/getStyleClassName/
 date: 2021-01-11
-key: JavaJava.S.StyleClass
-category: java
+key: Java.S.StyleClass
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

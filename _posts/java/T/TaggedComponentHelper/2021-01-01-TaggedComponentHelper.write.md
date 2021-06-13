@@ -1,9 +1,9 @@
 ---
 title: TaggedComponentHelper.write()
-permalink: Java/TaggedComponentHelper/write
+permalink: /Java/TaggedComponentHelper/write/
 date: 2021-01-11
-key: JavaJava.T.TaggedComponentHelper
-category: java
+key: Java.T.TaggedComponentHelper
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

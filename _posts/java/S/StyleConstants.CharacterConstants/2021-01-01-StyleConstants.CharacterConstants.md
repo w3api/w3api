@@ -1,9 +1,9 @@
 ---
 title: StyleConstants.CharacterConstants
-permalink: Java/StyleConstants/CharacterConstants
+permalink: /Java/StyleConstants/CharacterConstants/
 date: 2021-01-11
-key: JavaJava.S.StyleConstants.CharacterConstants
-category: java
+key: Java.S.StyleConstants.CharacterConstants
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

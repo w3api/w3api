@@ -1,9 +1,9 @@
 ---
 title: StyledEditorKit.FontSizeAction.StyledEditorKit.FontSizeAction()
-permalink: Java/StyledEditorKit/FontSizeAction/StyledEditorKit/FontSizeAction
+permalink: /Java/StyledEditorKit/FontSizeAction/StyledEditorKit/FontSizeAction/
 date: 2021-01-11
-key: JavaJava.S.StyledEditorKit.FontSizeAction
-category: java
+key: Java.S.StyledEditorKit.FontSizeAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

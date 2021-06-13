@@ -1,9 +1,9 @@
 ---
 title: StyleableStringProperty
-permalink: Java/StyleableStringProperty
+permalink: /Java/StyleableStringProperty/
 date: 2021-01-11
-key: JavaJava.S.StyleableStringProperty
-category: java
+key: Java.S.StyleableStringProperty
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'clase java', 'JavaFX 8.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: TaskEvent
-permalink: Java/TaskEvent
+permalink: /Java/TaskEvent/
 date: 2021-01-11
-key: JavaJava.T.TaskEvent
-category: java
+key: Java.T.TaskEvent
+category: Java
 tags: ['java se', 'com.sun.source.util', 'jdk.compiler', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

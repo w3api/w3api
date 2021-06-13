@@ -1,9 +1,9 @@
 ---
 title: ThreadStartRequest.addThreadFilter()
-permalink: Java/ThreadStartRequest/addThreadFilter
+permalink: /Java/ThreadStartRequest/addThreadFilter/
 date: 2021-01-11
-key: JavaJava.T.ThreadStartRequest
-category: java
+key: Java.T.ThreadStartRequest
+category: Java
 tags: ['java se', 'com.sun.jdi.request', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

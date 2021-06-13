@@ -1,9 +1,9 @@
 ---
 title: StyleOrigin
-permalink: Java/StyleOrigin
+permalink: /Java/StyleOrigin/
 date: 2021-01-11
-key: JavaJava.S.StyleOrigin
-category: java
+key: Java.S.StyleOrigin
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'enumerado java', 'JavaFX 8.0']
 sidebar: 
   nav: java

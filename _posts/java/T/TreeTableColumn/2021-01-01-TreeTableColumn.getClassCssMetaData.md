@@ -1,9 +1,9 @@
 ---
 title: TreeTableColumn.getClassCssMetaData()
-permalink: Java/TreeTableColumn/getClassCssMetaData
+permalink: /Java/TreeTableColumn/getClassCssMetaData/
 date: 2021-01-11
-key: JavaJava.T.TreeTableColumn
-category: java
+key: Java.T.TreeTableColumn
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

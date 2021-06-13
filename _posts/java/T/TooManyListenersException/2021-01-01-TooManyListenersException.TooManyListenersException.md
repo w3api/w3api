@@ -1,9 +1,9 @@
 ---
 title: TooManyListenersException.TooManyListenersException()
-permalink: Java/TooManyListenersException/TooManyListenersException
+permalink: /Java/TooManyListenersException/TooManyListenersException/
 date: 2021-01-11
-key: JavaJava.T.TooManyListenersException
-category: java
+key: Java.T.TooManyListenersException
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

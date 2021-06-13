@@ -1,9 +1,9 @@
 ---
 title: TextCallbackHandler
-permalink: Java/TextCallbackHandler
+permalink: /Java/TextCallbackHandler/
 date: 2021-01-11
-key: JavaJava.T.TextCallbackHandler
-category: java
+key: Java.T.TextCallbackHandler
+category: Java
 tags: ['java se', 'com.sun.security.auth.callback', 'jdk.security.auth', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

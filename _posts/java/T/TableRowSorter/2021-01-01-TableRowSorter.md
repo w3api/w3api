@@ -1,9 +1,9 @@
 ---
 title: TableRowSorter
-permalink: Java/TableRowSorter
+permalink: /Java/TableRowSorter/
 date: 2021-01-11
-key: JavaJava.T.TableRowSorter
-category: java
+key: Java.T.TableRowSorter
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

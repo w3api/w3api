@@ -1,9 +1,9 @@
 ---
 title: TexturePaint.getImage()
-permalink: Java/TexturePaint/getImage
+permalink: /Java/TexturePaint/getImage/
 date: 2021-01-11
-key: JavaJava.T.TexturePaint
-category: java
+key: Java.T.TexturePaint
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

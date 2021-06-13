@@ -1,9 +1,9 @@
 ---
 title: SynthMenuUI.update()
-permalink: Java/SynthMenuUI/update
+permalink: /Java/SynthMenuUI/update/
 date: 2021-01-11
-key: JavaJava.S.SynthMenuUI
-category: java
+key: Java.S.SynthMenuUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

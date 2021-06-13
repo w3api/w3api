@@ -1,9 +1,9 @@
 ---
 title: SynthToggleButtonUI.createUI()
-permalink: Java/SynthToggleButtonUI/createUI
+permalink: /Java/SynthToggleButtonUI/createUI/
 date: 2021-01-11
-key: JavaJava.S.SynthToggleButtonUI
-category: java
+key: Java.S.SynthToggleButtonUI
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

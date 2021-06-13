@@ -1,9 +1,9 @@
 ---
 title: ThreadPoolExecutor.DiscardPolicy.rejectedExecution()
-permalink: Java/ThreadPoolExecutor/DiscardPolicy/rejectedExecution
+permalink: /Java/ThreadPoolExecutor/DiscardPolicy/rejectedExecution/
 date: 2021-01-11
-key: JavaJava.T.ThreadPoolExecutor.DiscardPolicy
-category: java
+key: Java.T.ThreadPoolExecutor.DiscardPolicy
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

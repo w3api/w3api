@@ -1,9 +1,9 @@
 ---
 title: TextSyntax.TextSyntax()
-permalink: Java/TextSyntax/TextSyntax
+permalink: /Java/TextSyntax/TextSyntax/
 date: 2021-01-11
-key: JavaJava.T.TextSyntax
-category: java
+key: Java.T.TextSyntax
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

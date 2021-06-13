@@ -1,9 +1,9 @@
 ---
 title: TimerMBean.removeNotification()
-permalink: Java/TimerMBean/removeNotification
+permalink: /Java/TimerMBean/removeNotification/
 date: 2021-01-11
-key: JavaJava.T.TimerMBean
-category: java
+key: Java.T.TimerMBean
+category: Java
 tags: ['java se', 'javax.management.timer', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

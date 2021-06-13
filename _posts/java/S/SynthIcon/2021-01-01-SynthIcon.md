@@ -1,9 +1,9 @@
 ---
 title: SynthIcon
-permalink: Java/SynthIcon
+permalink: /Java/SynthIcon/
 date: 2021-01-11
-key: JavaJava.S.SynthIcon
-category: java
+key: Java.S.SynthIcon
+category: Java
 tags: ['java se', 'javax.swing.plaf.synth', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

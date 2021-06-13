@@ -1,9 +1,9 @@
 ---
 title: TransactionRequiredException.TransactionRequiredException()
-permalink: Java/TransactionRequiredException/TransactionRequiredException
+permalink: /Java/TransactionRequiredException/TransactionRequiredException/
 date: 2021-01-11
-key: JavaJava.T.TransactionRequiredException
-category: java
+key: Java.T.TransactionRequiredException
+category: Java
 tags: ['java se', 'javax.transaction', 'java.transaction', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Styleable
-permalink: Java/Styleable
+permalink: /Java/Styleable/
 date: 2021-01-11
-key: JavaJava.S.Styleable
-category: java
+key: Java.S.Styleable
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'interface java', 'JavaFX 8.0']
 sidebar: 
   nav: java

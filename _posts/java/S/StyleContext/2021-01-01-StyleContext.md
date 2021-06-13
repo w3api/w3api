@@ -1,9 +1,9 @@
 ---
 title: StyleContext
-permalink: Java/StyleContext
+permalink: /Java/StyleContext/
 date: 2021-01-11
-key: JavaJava.S.StyleContext
-category: java
+key: Java.S.StyleContext
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

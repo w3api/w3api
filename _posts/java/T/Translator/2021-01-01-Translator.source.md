@@ -1,9 +1,9 @@
 ---
 title: Translator.source
-permalink: Java/Translator/source
+permalink: /Java/Translator/source/
 date: 2021-01-11
-key: JavaJava.T.Translator
-category: java
+key: Java.T.Translator
+category: Java
 tags: ['java se', 'com.sun.java.accessibility.util', 'jdk.accessibility', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

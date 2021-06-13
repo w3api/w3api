@@ -1,9 +1,9 @@
 ---
 title: StubDelegate.writeObject()
-permalink: Java/StubDelegate/writeObject
+permalink: /Java/StubDelegate/writeObject/
 date: 2021-01-11
-key: JavaJava.S.StubDelegate
-category: java
+key: Java.S.StubDelegate
+category: Java
 tags: ['java se', 'javax.rmi.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

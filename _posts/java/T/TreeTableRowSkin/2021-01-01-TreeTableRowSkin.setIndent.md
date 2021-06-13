@@ -1,9 +1,9 @@
 ---
 title: TreeTableRowSkin.setIndent()
-permalink: Java/TreeTableRowSkin/setIndent
+permalink: /Java/TreeTableRowSkin/setIndent/
 date: 2021-01-11
-key: JavaJava.T.TreeTableRowSkin
-category: java
+key: Java.T.TreeTableRowSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

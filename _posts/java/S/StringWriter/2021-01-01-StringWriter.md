@@ -1,9 +1,9 @@
 ---
 title: StringWriter
-permalink: Java/StringWriter
+permalink: /Java/StringWriter/
 date: 2021-01-11
-key: JavaJava.S.StringWriter
-category: java
+key: Java.S.StringWriter
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Transparency.TRANSLUCENT
-permalink: Java/Transparency/TRANSLUCENT
+permalink: /Java/Transparency/TRANSLUCENT/
 date: 2021-01-11
-key: JavaJava.T.Transparency
-category: java
+key: Java.T.Transparency
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

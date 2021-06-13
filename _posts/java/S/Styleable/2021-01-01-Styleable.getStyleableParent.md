@@ -1,9 +1,9 @@
 ---
 title: Styleable.getStyleableParent()
-permalink: Java/Styleable/getStyleableParent
+permalink: /Java/Styleable/getStyleableParent/
 date: 2021-01-11
-key: JavaJava.S.Styleable
-category: java
+key: Java.S.Styleable
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

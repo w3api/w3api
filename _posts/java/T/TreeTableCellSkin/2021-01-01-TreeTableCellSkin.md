@@ -1,9 +1,9 @@
 ---
 title: TreeTableCellSkin
-permalink: Java/TreeTableCellSkin
+permalink: /Java/TreeTableCellSkin/
 date: 2021-01-11
-key: JavaJava.T.TreeTableCellSkin
-category: java
+key: Java.T.TreeTableCellSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

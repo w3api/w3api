@@ -1,9 +1,9 @@
 ---
 title: TouchPoint.getTarget()
-permalink: Java/TouchPoint/getTarget
+permalink: /Java/TouchPoint/getTarget/
 date: 2021-01-11
-key: JavaJava.T.TouchPoint
-category: java
+key: Java.T.TouchPoint
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.2']
 sidebar: 
   nav: java
