@@ -1,9 +1,9 @@
 ---
 title: DOMSource
-permalink: Java/DOMSource
+permalink: /Java/DOMSource/
 date: 2021-01-11
-key: JavaJava.D.DOMSource
-category: java
+key: Java.D.DOMSource
+category: Java
 tags: ['java se', 'javax.xml.transform.dom', 'java.xml', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DateTimeParseException
-permalink: Java/DateTimeParseException
+permalink: /Java/DateTimeParseException/
 date: 2021-01-11
-key: JavaJava.D.DateTimeParseException
-category: java
+key: Java.D.DateTimeParseException
+category: Java
 tags: ['java se', 'java.time.format', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

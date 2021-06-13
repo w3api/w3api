@@ -1,9 +1,9 @@
 ---
 title: ComponentEvent.ComponentEvent()
-permalink: Java/ComponentEvent/ComponentEvent
+permalink: /Java/ComponentEvent/ComponentEvent/
 date: 2021-01-11
-key: JavaJava.C.ComponentEvent
-category: java
+key: Java.C.ComponentEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

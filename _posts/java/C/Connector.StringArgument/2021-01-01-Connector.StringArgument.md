@@ -1,9 +1,9 @@
 ---
 title: Connector.StringArgument
-permalink: Java/Connector/StringArgument
+permalink: /Java/Connector/StringArgument/
 date: 2021-01-11
-key: JavaJava.C.Connector.StringArgument
-category: java
+key: Java.C.Connector.StringArgument
+category: Java
 tags: ['java se', 'com.sun.jdi.connect', 'jdk.jdi', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

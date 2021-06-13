@@ -1,9 +1,9 @@
 ---
 title: CryptoPrimitive.values()
-permalink: Java/CryptoPrimitive/values
+permalink: /Java/CryptoPrimitive/values/
 date: 2021-01-11
-key: JavaJava.C.CryptoPrimitive
-category: java
+key: Java.C.CryptoPrimitive
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

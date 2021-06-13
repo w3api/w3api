@@ -1,9 +1,9 @@
 ---
 title: ContentSignerParameters
-permalink: Java/ContentSignerParameters
+permalink: /Java/ContentSignerParameters/
 date: 2021-01-11
-key: JavaJava.C.ContentSignerParameters
-category: java
+key: Java.C.ContentSignerParameters
+category: Java
 tags: ['java se', 'com.sun.jarsigner', 'jdk.jartool', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

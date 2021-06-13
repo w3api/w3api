@@ -1,9 +1,9 @@
 ---
 title: DefaultTreeCellEditor
-permalink: Java/DefaultTreeCellEditor
+permalink: /Java/DefaultTreeCellEditor/
 date: 2021-01-11
-key: JavaJava.D.DefaultTreeCellEditor
-category: java
+key: Java.D.DefaultTreeCellEditor
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

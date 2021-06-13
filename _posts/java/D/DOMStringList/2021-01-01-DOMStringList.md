@@ -1,9 +1,9 @@
 ---
 title: DOMStringList
-permalink: Java/DOMStringList
+permalink: /Java/DOMStringList/
 date: 2021-01-11
-key: JavaJava.D.DOMStringList
-category: java
+key: Java.D.DOMStringList
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'interface java', 'Java 1.5', 'DOM Level 3']
 sidebar: 
   nav: java

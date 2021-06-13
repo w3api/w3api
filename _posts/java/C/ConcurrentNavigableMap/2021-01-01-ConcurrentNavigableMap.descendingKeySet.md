@@ -1,9 +1,9 @@
 ---
 title: ConcurrentNavigableMap.descendingKeySet()
-permalink: Java/ConcurrentNavigableMap/descendingKeySet
+permalink: /Java/ConcurrentNavigableMap/descendingKeySet/
 date: 2021-01-11
-key: JavaJava.C.ConcurrentNavigableMap
-category: java
+key: Java.C.ConcurrentNavigableMap
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

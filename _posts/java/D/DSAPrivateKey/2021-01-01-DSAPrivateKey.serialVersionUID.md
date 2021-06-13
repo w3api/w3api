@@ -1,9 +1,9 @@
 ---
 title: DSAPrivateKey.serialVersionUID
-permalink: Java/DSAPrivateKey/serialVersionUID
+permalink: /Java/DSAPrivateKey/serialVersionUID/
 date: 2021-01-11
-key: JavaJava.D.DSAPrivateKey
-category: java
+key: Java.D.DSAPrivateKey
+category: Java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DateFormatProvider.getDateTimeInstance()
-permalink: Java/DateFormatProvider/getDateTimeInstance
+permalink: /Java/DateFormatProvider/getDateTimeInstance/
 date: 2021-01-11
-key: JavaJava.D.DateFormatProvider
-category: java
+key: Java.D.DateFormatProvider
+category: Java
 tags: ['java se', 'java.text.spi', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

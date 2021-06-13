@@ -1,9 +1,9 @@
 ---
 title: DataBuffer.TYPE_INT
-permalink: Java/DataBuffer/TYPE_INT
+permalink: /Java/DataBuffer/TYPE_INT/
 date: 2021-01-11
-key: JavaJava.D.DataBuffer
-category: java
+key: Java.D.DataBuffer
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

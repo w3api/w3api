@@ -1,9 +1,9 @@
 ---
 title: DataInputStream.read_wchar_array()
-permalink: Java/DataInputStream-org-omg-CORBA/read_wchar_array
+permalink: /Java/DataInputStream-org-omg-CORBA/read_wchar_array/
 date: 2021-01-11
-key: JavaJava.D.DataInputStream-org-omg-CORBA
-category: java
+key: Java.D.DataInputStream-org-omg-CORBA
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

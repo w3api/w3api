@@ -1,9 +1,9 @@
 ---
 title: DOMImplementationCSS.createCSSStyleSheet()
-permalink: Java/DOMImplementationCSS/createCSSStyleSheet
+permalink: /Java/DOMImplementationCSS/createCSSStyleSheet/
 date: 2021-01-11
-key: JavaJava.D.DOMImplementationCSS
-category: java
+key: Java.D.DOMImplementationCSS
+category: Java
 tags: ['java se', 'org.w3c.dom.css', 'jdk.xml.dom', 'metodo java', 'Java 1.4', 'DOM Level 2']
 sidebar: 
   nav: java

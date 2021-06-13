@@ -1,9 +1,9 @@
 ---
 title: CookieStore
-permalink: Java/CookieStore
+permalink: /Java/CookieStore/
 date: 2021-01-11
-key: JavaJava.C.CookieStore
-category: java
+key: Java.C.CookieStore
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

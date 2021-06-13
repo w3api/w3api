@@ -1,9 +1,9 @@
 ---
 title: DOMException.NAMESPACE_ERR
-permalink: Java/DOMException/NAMESPACE_ERR
+permalink: /Java/DOMException/NAMESPACE_ERR/
 date: 2021-01-11
-key: JavaJava.D.DOMException
-category: java
+key: Java.D.DOMException
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

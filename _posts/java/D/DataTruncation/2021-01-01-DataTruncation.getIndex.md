@@ -1,9 +1,9 @@
 ---
 title: DataTruncation.getIndex()
-permalink: Java/DataTruncation/getIndex
+permalink: /Java/DataTruncation/getIndex/
 date: 2021-01-11
-key: JavaJava.D.DataTruncation
-category: java
+key: Java.D.DataTruncation
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

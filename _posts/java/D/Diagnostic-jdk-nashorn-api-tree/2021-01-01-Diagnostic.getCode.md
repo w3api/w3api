@@ -1,9 +1,9 @@
 ---
 title: Diagnostic.getCode()
-permalink: Java/Diagnostic-jdk-nashorn-api-tree/getCode
+permalink: /Java/Diagnostic-jdk-nashorn-api-tree/getCode/
 date: 2021-01-11
-key: JavaJava.D.Diagnostic-jdk-nashorn-api-tree
-category: java
+key: Java.D.Diagnostic-jdk-nashorn-api-tree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

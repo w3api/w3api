@@ -1,9 +1,9 @@
 ---
 title: CounterMonitor
-permalink: Java/CounterMonitor
+permalink: /Java/CounterMonitor/
 date: 2021-01-11
-key: JavaJava.C.CounterMonitor
-category: java
+key: Java.C.CounterMonitor
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

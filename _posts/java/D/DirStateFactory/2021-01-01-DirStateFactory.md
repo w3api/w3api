@@ -1,9 +1,9 @@
 ---
 title: DirStateFactory
-permalink: Java/DirStateFactory
+permalink: /Java/DirStateFactory/
 date: 2021-01-11
-key: JavaJava.D.DirStateFactory
-category: java
+key: Java.D.DirStateFactory
+category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'interface java', 'Java 1.3']
 sidebar: 
   nav: java

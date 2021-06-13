@@ -1,9 +1,9 @@
 ---
 title: DocErrorReporter.printError()
-permalink: Java/DocErrorReporter/printError
+permalink: /Java/DocErrorReporter/printError/
 date: 2021-01-11
-key: JavaJava.D.DocErrorReporter
-category: java
+key: Java.D.DocErrorReporter
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

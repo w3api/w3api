@@ -1,9 +1,9 @@
 ---
 title: DoWhileLoopTree.getCondition()
-permalink: Java/DoWhileLoopTree-com-sun-source-tree/getCondition
+permalink: /Java/DoWhileLoopTree-com-sun-source-tree/getCondition/
 date: 2021-01-11
-key: JavaJava.D.DoWhileLoopTree-com-sun-source-tree
-category: java
+key: Java.D.DoWhileLoopTree-com-sun-source-tree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

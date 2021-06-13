@@ -1,9 +1,9 @@
 ---
 title: DeclaredType.getTypeArguments()
-permalink: Java/DeclaredType/getTypeArguments
+permalink: /Java/DeclaredType/getTypeArguments/
 date: 2021-01-11
-key: JavaJava.D.DeclaredType
-category: java
+key: Java.D.DeclaredType
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

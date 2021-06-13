@@ -1,9 +1,9 @@
 ---
 title: DateFormatSymbolsProvider
-permalink: Java/DateFormatSymbolsProvider
+permalink: /Java/DateFormatSymbolsProvider/
 date: 2021-01-11
-key: JavaJava.D.DateFormatSymbolsProvider
-category: java
+key: Java.D.DateFormatSymbolsProvider
+category: Java
 tags: ['java se', 'java.text.spi', 'java.base', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

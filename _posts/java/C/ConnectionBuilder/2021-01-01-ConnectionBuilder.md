@@ -1,9 +1,9 @@
 ---
 title: ConnectionBuilder
-permalink: Java/ConnectionBuilder
+permalink: /Java/ConnectionBuilder/
 date: 2021-01-11
-key: JavaJava.C.ConnectionBuilder
-category: java
+key: Java.C.ConnectionBuilder
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'interface java', 'Java 9']
 sidebar: 
   nav: java

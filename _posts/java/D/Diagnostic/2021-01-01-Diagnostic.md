@@ -1,9 +1,9 @@
 ---
 title: Diagnostic
-permalink: Java/Diagnostic/
+permalink: /Java/Diagnostic//
 date: 2021-01-11
-key: JavaJava.D.Diagnostic
-category: java
+key: Java.D.Diagnostic
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

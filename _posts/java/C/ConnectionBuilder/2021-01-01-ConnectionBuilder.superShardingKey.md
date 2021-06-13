@@ -1,9 +1,9 @@
 ---
 title: ConnectionBuilder.superShardingKey()
-permalink: Java/ConnectionBuilder/superShardingKey
+permalink: /Java/ConnectionBuilder/superShardingKey/
 date: 2021-01-11
-key: JavaJava.C.ConnectionBuilder
-category: java
+key: Java.C.ConnectionBuilder
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

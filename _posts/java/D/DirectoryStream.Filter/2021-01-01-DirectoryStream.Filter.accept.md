@@ -1,9 +1,9 @@
 ---
 title: DirectoryStream.Filter.accept()
-permalink: Java/DirectoryStream/Filter/accept
+permalink: /Java/DirectoryStream/Filter/accept/
 date: 2021-01-11
-key: JavaJava.D.DirectoryStream.Filter
-category: java
+key: Java.D.DirectoryStream.Filter
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

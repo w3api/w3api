@@ -1,9 +1,9 @@
 ---
 title: DataFormatException
-permalink: Java/DataFormatException
+permalink: /Java/DataFormatException/
 date: 2021-01-11
-key: JavaJava.D.DataFormatException
-category: java
+key: Java.D.DataFormatException
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

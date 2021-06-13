@@ -1,9 +1,9 @@
 ---
 title: CompoundControl.Type.CompoundControl.Type()
-permalink: Java/CompoundControl/Type/CompoundControl/Type
+permalink: /Java/CompoundControl/Type/CompoundControl/Type/
 date: 2021-01-11
-key: JavaJava.C.CompoundControl.Type
-category: java
+key: Java.C.CompoundControl.Type
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DatagramSocket.isBound()
-permalink: Java/DatagramSocket/isBound
+permalink: /Java/DatagramSocket/isBound/
 date: 2021-01-11
-key: JavaJava.D.DatagramSocket
-category: java
+key: Java.D.DatagramSocket
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

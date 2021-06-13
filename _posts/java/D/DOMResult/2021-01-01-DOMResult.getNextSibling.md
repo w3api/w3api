@@ -1,9 +1,9 @@
 ---
 title: DOMResult.getNextSibling()
-permalink: Java/DOMResult/getNextSibling
+permalink: /Java/DOMResult/getNextSibling/
 date: 2021-01-11
-key: JavaJava.D.DOMResult
-category: java
+key: Java.D.DOMResult
+category: Java
 tags: ['java se', 'javax.xml.transform.dom', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

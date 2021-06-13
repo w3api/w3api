@@ -1,9 +1,9 @@
 ---
 title: Connection.TRANSACTION_SERIALIZABLE
-permalink: Java/Connection-java-sql/TRANSACTION_SERIALIZABLE
+permalink: /Java/Connection-java-sql/TRANSACTION_SERIALIZABLE/
 date: 2021-01-11
-key: JavaJava.C.Connection-java-sql
-category: java
+key: Java.C.Connection-java-sql
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DirectColorModel.getAlpha()
-permalink: Java/DirectColorModel/getAlpha
+permalink: /Java/DirectColorModel/getAlpha/
 date: 2021-01-11
-key: JavaJava.D.DirectColorModel
-category: java
+key: Java.D.DirectColorModel
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

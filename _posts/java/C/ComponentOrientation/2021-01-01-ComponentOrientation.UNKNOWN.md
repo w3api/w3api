@@ -1,9 +1,9 @@
 ---
 title: ComponentOrientation.UNKNOWN
-permalink: Java/ComponentOrientation/UNKNOWN
+permalink: /Java/ComponentOrientation/UNKNOWN/
 date: 2021-01-11
-key: JavaJava.C.ComponentOrientation
-category: java
+key: Java.C.ComponentOrientation
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ContainerListener.componentAdded()
-permalink: Java/ContainerListener/componentAdded
+permalink: /Java/ContainerListener/componentAdded/
 date: 2021-01-11
-key: JavaJava.C.ContainerListener
-category: java
+key: Java.C.ContainerListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

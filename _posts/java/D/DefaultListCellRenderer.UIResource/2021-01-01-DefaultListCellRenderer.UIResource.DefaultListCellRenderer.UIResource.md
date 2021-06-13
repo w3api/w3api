@@ -1,9 +1,9 @@
 ---
 title: DefaultListCellRenderer.UIResource.DefaultListCellRenderer.UIResource()
-permalink: Java/DefaultListCellRenderer/UIResource/DefaultListCellRenderer/UIResource
+permalink: /Java/DefaultListCellRenderer/UIResource/DefaultListCellRenderer/UIResource/
 date: 2021-01-11
-key: JavaJava.D.DefaultListCellRenderer.UIResource
-category: java
+key: Java.D.DefaultListCellRenderer.UIResource
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DefaultListCellRenderer.invalidate()
-permalink: Java/DefaultListCellRenderer/invalidate
+permalink: /Java/DefaultListCellRenderer/invalidate/
 date: 2021-01-11
-key: JavaJava.D.DefaultListCellRenderer
-category: java
+key: Java.D.DefaultListCellRenderer
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

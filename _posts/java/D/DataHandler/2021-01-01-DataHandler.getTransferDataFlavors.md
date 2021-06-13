@@ -1,9 +1,9 @@
 ---
 title: DataHandler.getTransferDataFlavors()
-permalink: Java/DataHandler/getTransferDataFlavors
+permalink: /Java/DataHandler/getTransferDataFlavors/
 date: 2021-01-11
-key: JavaJava.D.DataHandler
-category: java
+key: Java.D.DataHandler
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

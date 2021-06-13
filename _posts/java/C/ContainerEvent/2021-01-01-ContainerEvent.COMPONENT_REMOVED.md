@@ -1,9 +1,9 @@
 ---
 title: ContainerEvent.COMPONENT_REMOVED
-permalink: Java/ContainerEvent/COMPONENT_REMOVED
+permalink: /Java/ContainerEvent/COMPONENT_REMOVED/
 date: 2021-01-11
-key: JavaJava.C.ContainerEvent
-category: java
+key: Java.C.ContainerEvent
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

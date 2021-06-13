@@ -1,9 +1,9 @@
 ---
 title: DOMLocator
-permalink: Java/DOMLocator-javax-xml-transform-dom
+permalink: /Java/DOMLocator-javax-xml-transform-dom/
 date: 2021-01-11
-key: JavaJava.D.DOMLocator-javax-xml-transform-dom
-category: java
+key: Java.D.DOMLocator-javax-xml-transform-dom
+category: Java
 tags: ['java se', 'javax.xml.transform.dom', 'java.xml', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

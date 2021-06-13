@@ -1,9 +1,9 @@
 ---
 title: DOMErrorHandler
-permalink: Java/DOMErrorHandler
+permalink: /Java/DOMErrorHandler/
 date: 2021-01-11
-key: JavaJava.D.DOMErrorHandler
-category: java
+key: Java.D.DOMErrorHandler
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'interface java', 'Java 1.5', 'DOM Level 3']
 sidebar: 
   nav: java

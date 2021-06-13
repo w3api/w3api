@@ -1,9 +1,9 @@
 ---
 title: ContentHandler.ignorableWhitespace()
-permalink: Java/ContentHandler-org-xml-sax/ignorableWhitespace
+permalink: /Java/ContentHandler-org-xml-sax/ignorableWhitespace/
 date: 2021-01-11
-key: JavaJava.C.ContentHandler-org-xml-sax
-category: java
+key: Java.C.ContentHandler-org-xml-sax
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'metodo java', 'Java 1.4', 'SAX 2.0']
 sidebar: 
   nav: java

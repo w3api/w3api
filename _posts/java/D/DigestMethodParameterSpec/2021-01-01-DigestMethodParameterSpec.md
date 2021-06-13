@@ -1,9 +1,9 @@
 ---
 title: DigestMethodParameterSpec
-permalink: Java/DigestMethodParameterSpec
+permalink: /Java/DigestMethodParameterSpec/
 date: 2021-01-11
-key: JavaJava.D.DigestMethodParameterSpec
-category: java
+key: Java.D.DigestMethodParameterSpec
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.spec', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

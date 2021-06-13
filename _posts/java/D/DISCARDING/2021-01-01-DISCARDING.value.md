@@ -1,9 +1,9 @@
 ---
 title: DISCARDING.value
-permalink: Java/DISCARDING/value
+permalink: /Java/DISCARDING/value/
 date: 2021-01-11
-key: JavaJava.D.DISCARDING
-category: java
+key: Java.D.DISCARDING
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

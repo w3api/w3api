@@ -1,9 +1,9 @@
 ---
 title: DSAKeyPairGenerator
-permalink: Java/DSAKeyPairGenerator
+permalink: /Java/DSAKeyPairGenerator/
 date: 2021-01-11
-key: JavaJava.D.DSAKeyPairGenerator
-category: java
+key: Java.D.DSAKeyPairGenerator
+category: Java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

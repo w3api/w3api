@@ -1,9 +1,9 @@
 ---
 title: Declaration.equals()
-permalink: Java/Declaration/equals
+permalink: /Java/Declaration/equals/
 date: 2021-01-11
-key: JavaJava.D.Declaration
-category: java
+key: Java.D.Declaration
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

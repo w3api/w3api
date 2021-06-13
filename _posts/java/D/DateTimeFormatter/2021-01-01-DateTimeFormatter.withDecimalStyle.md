@@ -1,9 +1,9 @@
 ---
 title: DateTimeFormatter.withDecimalStyle()
-permalink: Java/DateTimeFormatter/withDecimalStyle
+permalink: /Java/DateTimeFormatter/withDecimalStyle/
 date: 2021-01-11
-key: JavaJava.D.DateTimeFormatter
-category: java
+key: Java.D.DateTimeFormatter
+category: Java
 tags: ['java se', 'java.time.format', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

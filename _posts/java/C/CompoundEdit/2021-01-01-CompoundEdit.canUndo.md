@@ -1,9 +1,9 @@
 ---
 title: CompoundEdit.canUndo()
-permalink: Java/CompoundEdit/canUndo
+permalink: /Java/CompoundEdit/canUndo/
 date: 2021-01-11
-key: JavaJava.C.CompoundEdit
-category: java
+key: Java.C.CompoundEdit
+category: Java
 tags: ['java se', 'javax.swing.undo', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

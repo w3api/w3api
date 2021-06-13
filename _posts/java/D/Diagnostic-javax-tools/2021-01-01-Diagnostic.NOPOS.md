@@ -1,9 +1,9 @@
 ---
 title: Diagnostic.NOPOS
-permalink: Java/Diagnostic-javax-tools/NOPOS
+permalink: /Java/Diagnostic-javax-tools/NOPOS/
 date: 2021-01-11
-key: JavaJava.D.Diagnostic-javax-tools
-category: java
+key: Java.D.Diagnostic-javax-tools
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

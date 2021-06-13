@@ -1,9 +1,9 @@
 ---
 title: ConcurrentSkipListSet.iterator()
-permalink: Java/ConcurrentSkipListSet/iterator
+permalink: /Java/ConcurrentSkipListSet/iterator/
 date: 2021-01-11
-key: JavaJava.C.ConcurrentSkipListSet
-category: java
+key: Java.C.ConcurrentSkipListSet
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

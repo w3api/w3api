@@ -1,9 +1,9 @@
 ---
 title: ConvolveOp.EDGE_ZERO_FILL
-permalink: Java/ConvolveOp/EDGE_ZERO_FILL
+permalink: /Java/ConvolveOp/EDGE_ZERO_FILL/
 date: 2021-01-11
-key: JavaJava.C.ConvolveOp
-category: java
+key: Java.C.ConvolveOp
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

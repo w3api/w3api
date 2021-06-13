@@ -1,9 +1,9 @@
 ---
 title: CycleMethod
-permalink: Java/CycleMethod
+permalink: /Java/CycleMethod/
 date: 2021-01-11
-key: JavaJava.C.CycleMethod
-category: java
+key: Java.C.CycleMethod
+category: Java
 tags: ['java se', 'javafx.scene.paint', 'javafx.graphics', 'enumerado java', 'JavaFX 2.0']
 sidebar: 
   nav: java

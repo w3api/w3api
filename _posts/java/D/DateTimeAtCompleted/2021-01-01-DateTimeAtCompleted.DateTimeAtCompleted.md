@@ -1,9 +1,9 @@
 ---
 title: DateTimeAtCompleted.DateTimeAtCompleted()
-permalink: Java/DateTimeAtCompleted/DateTimeAtCompleted
+permalink: /Java/DateTimeAtCompleted/DateTimeAtCompleted/
 date: 2021-01-11
-key: JavaJava.D.DateTimeAtCompleted
-category: java
+key: Java.D.DateTimeAtCompleted
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

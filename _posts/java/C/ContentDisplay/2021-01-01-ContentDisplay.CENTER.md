@@ -1,9 +1,9 @@
 ---
 title: ContentDisplay.CENTER
-permalink: Java/ContentDisplay/CENTER
+permalink: /Java/ContentDisplay/CENTER/
 date: 2021-01-11
-key: JavaJava.C.ContentDisplay
-category: java
+key: Java.C.ContentDisplay
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

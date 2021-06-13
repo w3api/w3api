@@ -1,9 +1,9 @@
 ---
 title: DefaultCaret.isSelectionVisible()
-permalink: Java/DefaultCaret/isSelectionVisible
+permalink: /Java/DefaultCaret/isSelectionVisible/
 date: 2021-01-11
-key: JavaJava.D.DefaultCaret
-category: java
+key: Java.D.DefaultCaret
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

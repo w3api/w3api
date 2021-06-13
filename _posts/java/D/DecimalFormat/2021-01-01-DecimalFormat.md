@@ -1,9 +1,9 @@
 ---
 title: DecimalFormat
-permalink: Java/DecimalFormat
+permalink: /Java/DecimalFormat/
 date: 2021-01-11
-key: JavaJava.D.DecimalFormat
-category: java
+key: Java.D.DecimalFormat
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

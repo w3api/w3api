@@ -1,9 +1,9 @@
 ---
 title: CompoundName.toString()
-permalink: Java/CompoundName/toString
+permalink: /Java/CompoundName/toString/
 date: 2021-01-11
-key: JavaJava.C.CompoundName
-category: java
+key: Java.C.CompoundName
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

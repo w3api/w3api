@@ -1,9 +1,9 @@
 ---
 title: Compression.getEnumValueTable()
-permalink: Java/Compression/getEnumValueTable
+permalink: /Java/Compression/getEnumValueTable/
 date: 2021-01-11
-key: JavaJava.C.Compression
-category: java
+key: Java.C.Compression
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

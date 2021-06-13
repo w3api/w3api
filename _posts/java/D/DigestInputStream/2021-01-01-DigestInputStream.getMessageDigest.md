@@ -1,9 +1,9 @@
 ---
 title: DigestInputStream.getMessageDigest()
-permalink: Java/DigestInputStream/getMessageDigest
+permalink: /Java/DigestInputStream/getMessageDigest/
 date: 2021-01-11
-key: JavaJava.D.DigestInputStream
-category: java
+key: Java.D.DigestInputStream
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

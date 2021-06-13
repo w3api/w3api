@@ -1,9 +1,9 @@
 ---
 title: DatatypeConstants.Field
-permalink: Java/DatatypeConstants/Field
+permalink: /Java/DatatypeConstants/Field/
 date: 2021-01-11
-key: JavaJava.D.DatatypeConstants.Field
-category: java
+key: Java.D.DatatypeConstants.Field
+category: Java
 tags: ['java se', 'javax.xml.datatype', 'java.xml', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DefaultEditorKit.InsertTabAction.DefaultEditorKit.InsertTabAction()
-permalink: Java/DefaultEditorKit/InsertTabAction/DefaultEditorKit/InsertTabAction
+permalink: /Java/DefaultEditorKit/InsertTabAction/DefaultEditorKit/InsertTabAction/
 date: 2021-01-11
-key: JavaJava.D.DefaultEditorKit.InsertTabAction
-category: java
+key: Java.D.DefaultEditorKit.InsertTabAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

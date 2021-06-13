@@ -1,9 +1,9 @@
 ---
 title: DialogTypeSelection
-permalink: Java/DialogTypeSelection
+permalink: /Java/DialogTypeSelection/
 date: 2021-01-11
-key: JavaJava.D.DialogTypeSelection
-category: java
+key: Java.D.DialogTypeSelection
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

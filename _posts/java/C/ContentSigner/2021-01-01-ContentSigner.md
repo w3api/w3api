@@ -1,9 +1,9 @@
 ---
 title: ContentSigner
-permalink: Java/ContentSigner
+permalink: /Java/ContentSigner/
 date: 2021-01-11
-key: JavaJava.C.ContentSigner
-category: java
+key: Java.C.ContentSigner
+category: Java
 tags: ['java se', 'com.sun.jarsigner', 'jdk.jartool', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

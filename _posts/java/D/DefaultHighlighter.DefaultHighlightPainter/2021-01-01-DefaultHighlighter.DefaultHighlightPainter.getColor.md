@@ -1,9 +1,9 @@
 ---
 title: DefaultHighlighter.DefaultHighlightPainter.getColor()
-permalink: Java/DefaultHighlighter/DefaultHighlightPainter/getColor
+permalink: /Java/DefaultHighlighter/DefaultHighlightPainter/getColor/
 date: 2021-01-11
-key: JavaJava.D.DefaultHighlighter.DefaultHighlightPainter
-category: java
+key: Java.D.DefaultHighlighter.DefaultHighlightPainter
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

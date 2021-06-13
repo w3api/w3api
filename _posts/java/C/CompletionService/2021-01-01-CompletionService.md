@@ -1,9 +1,9 @@
 ---
 title: CompletionService
-permalink: Java/CompletionService
+permalink: /Java/CompletionService/
 date: 2021-01-11
-key: JavaJava.C.CompletionService
-category: java
+key: Java.C.CompletionService
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

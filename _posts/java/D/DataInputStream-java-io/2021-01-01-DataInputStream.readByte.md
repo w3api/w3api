@@ -1,9 +1,9 @@
 ---
 title: DataInputStream.readByte()
-permalink: Java/DataInputStream-java-io/readByte
+permalink: /Java/DataInputStream-java-io/readByte/
 date: 2021-01-11
-key: JavaJava.D.DataInputStream-java-io
-category: java
+key: Java.D.DataInputStream-java-io
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

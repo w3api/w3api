@@ -1,9 +1,9 @@
 ---
 title: CompositeType
-permalink: Java/CompositeType
+permalink: /Java/CompositeType/
 date: 2021-01-11
-key: JavaJava.C.CompositeType
-category: java
+key: Java.C.CompositeType
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

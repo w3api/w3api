@@ -1,9 +1,9 @@
 ---
 title: CurrentHelper
-permalink: Java/CurrentHelper/
+permalink: /Java/CurrentHelper//
 date: 2021-01-11
-key: JavaJava.C.CurrentHelper
-category: java
+key: Java.C.CurrentHelper
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

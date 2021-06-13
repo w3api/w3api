@@ -1,9 +1,9 @@
 ---
 title: DocFlavor.CHAR_ARRAY.DocFlavor.CHAR_ARRAY()
-permalink: Java/DocFlavor/CHAR_ARRAY/DocFlavor/CHAR_ARRAY
+permalink: /Java/DocFlavor/CHAR_ARRAY/DocFlavor/CHAR_ARRAY/
 date: 2021-01-11
-key: JavaJava.D.DocFlavor.CHAR_ARRAY
-category: java
+key: Java.D.DocFlavor.CHAR_ARRAY
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

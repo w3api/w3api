@@ -1,9 +1,9 @@
 ---
 title: DigestOutputStream.write()
-permalink: Java/DigestOutputStream/write
+permalink: /Java/DigestOutputStream/write/
 date: 2021-01-11
-key: JavaJava.D.DigestOutputStream
-category: java
+key: Java.D.DigestOutputStream
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

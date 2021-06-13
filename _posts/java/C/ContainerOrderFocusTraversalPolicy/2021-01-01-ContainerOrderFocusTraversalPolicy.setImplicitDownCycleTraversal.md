@@ -1,9 +1,9 @@
 ---
 title: ContainerOrderFocusTraversalPolicy.setImplicitDownCycleTraversal()
-permalink: Java/ContainerOrderFocusTraversalPolicy/setImplicitDownCycleTraversal
+permalink: /Java/ContainerOrderFocusTraversalPolicy/setImplicitDownCycleTraversal/
 date: 2021-01-11
-key: JavaJava.C.ContainerOrderFocusTraversalPolicy
-category: java
+key: Java.C.ContainerOrderFocusTraversalPolicy
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

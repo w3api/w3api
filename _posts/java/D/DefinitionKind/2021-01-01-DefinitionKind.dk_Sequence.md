@@ -1,9 +1,9 @@
 ---
 title: DefinitionKind.dk_Sequence
-permalink: Java/DefinitionKind/dk_Sequence
+permalink: /Java/DefinitionKind/dk_Sequence/
 date: 2021-01-11
-key: JavaJava.D.DefinitionKind
-category: java
+key: Java.D.DefinitionKind
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CornerRadii.getBottomRightVerticalRadius()
-permalink: Java/CornerRadii/getBottomRightVerticalRadius
+permalink: /Java/CornerRadii/getBottomRightVerticalRadius/
 date: 2021-01-11
-key: JavaJava.C.CornerRadii
-category: java
+key: Java.C.CornerRadii
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

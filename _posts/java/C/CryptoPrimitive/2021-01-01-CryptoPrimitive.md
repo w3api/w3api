@@ -1,9 +1,9 @@
 ---
 title: CryptoPrimitive
-permalink: Java/CryptoPrimitive
+permalink: /Java/CryptoPrimitive/
 date: 2021-01-11
-key: JavaJava.C.CryptoPrimitive
-category: java
+key: Java.C.CryptoPrimitive
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'enumerado java', 'Java 1.7']
 sidebar: 
   nav: java

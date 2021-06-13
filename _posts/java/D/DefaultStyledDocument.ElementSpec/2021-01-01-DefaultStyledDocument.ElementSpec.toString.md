@@ -1,9 +1,9 @@
 ---
 title: DefaultStyledDocument.ElementSpec.toString()
-permalink: Java/DefaultStyledDocument/ElementSpec/toString
+permalink: /Java/DefaultStyledDocument/ElementSpec/toString/
 date: 2021-01-11
-key: JavaJava.D.DefaultStyledDocument.ElementSpec
-category: java
+key: Java.D.DefaultStyledDocument.ElementSpec
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Diagnostic.Kind.WARNING
-permalink: Java/Diagnostic/Kind-javax-tools/WARNING
+permalink: /Java/Diagnostic/Kind-javax-tools/WARNING/
 date: 2021-01-11
-key: JavaJava.D.Diagnostic.Kind-javax-tools
-category: java
+key: Java.D.Diagnostic.Kind-javax-tools
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

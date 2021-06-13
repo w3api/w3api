@@ -1,9 +1,9 @@
 ---
 title: DefaultEditorKit.DefaultKeyTypedAction
-permalink: Java/DefaultEditorKit/DefaultKeyTypedAction
+permalink: /Java/DefaultEditorKit/DefaultKeyTypedAction/
 date: 2021-01-11
-key: JavaJava.D.DefaultEditorKit.DefaultKeyTypedAction
-category: java
+key: Java.D.DefaultEditorKit.DefaultKeyTypedAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

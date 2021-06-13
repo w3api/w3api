@@ -1,9 +1,9 @@
 ---
 title: DecimalFormat.applyLocalizedPattern()
-permalink: Java/DecimalFormat/applyLocalizedPattern
+permalink: /Java/DecimalFormat/applyLocalizedPattern/
 date: 2021-01-11
-key: JavaJava.D.DecimalFormat
-category: java
+key: Java.D.DecimalFormat
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

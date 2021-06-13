@@ -1,9 +1,9 @@
 ---
 title: DateTimeFormatter.ISO_OFFSET_TIME
-permalink: Java/DateTimeFormatter/ISO_OFFSET_TIME
+permalink: /Java/DateTimeFormatter/ISO_OFFSET_TIME/
 date: 2021-01-11
-key: JavaJava.D.DateTimeFormatter
-category: java
+key: Java.D.DateTimeFormatter
+category: Java
 tags: ['java se', 'java.time.format', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

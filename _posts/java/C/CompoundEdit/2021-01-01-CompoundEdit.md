@@ -1,9 +1,9 @@
 ---
 title: CompoundEdit
-permalink: Java/CompoundEdit
+permalink: /Java/CompoundEdit/
 date: 2021-01-11
-key: JavaJava.C.CompoundEdit
-category: java
+key: Java.C.CompoundEdit
+category: Java
 tags: ['java se', 'javax.swing.undo', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

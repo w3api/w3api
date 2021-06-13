@@ -1,9 +1,9 @@
 ---
 title: CredentialException.CredentialException()
-permalink: Java/CredentialException/CredentialException
+permalink: /Java/CredentialException/CredentialException/
 date: 2021-01-11
-key: JavaJava.C.CredentialException
-category: java
+key: Java.C.CredentialException
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

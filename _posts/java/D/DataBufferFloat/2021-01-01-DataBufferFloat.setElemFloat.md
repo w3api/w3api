@@ -1,9 +1,9 @@
 ---
 title: DataBufferFloat.setElemFloat()
-permalink: Java/DataBufferFloat/setElemFloat
+permalink: /Java/DataBufferFloat/setElemFloat/
 date: 2021-01-11
-key: JavaJava.D.DataBufferFloat
-category: java
+key: Java.D.DataBufferFloat
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

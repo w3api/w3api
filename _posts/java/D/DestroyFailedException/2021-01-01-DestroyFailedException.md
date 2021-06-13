@@ -1,9 +1,9 @@
 ---
 title: DestroyFailedException
-permalink: Java/DestroyFailedException
+permalink: /Java/DestroyFailedException/
 date: 2021-01-11
-key: JavaJava.D.DestroyFailedException
-category: java
+key: Java.D.DestroyFailedException
+category: Java
 tags: ['java se', 'javax.security.auth', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

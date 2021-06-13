@@ -1,9 +1,9 @@
 ---
 title: ComponentInputMapUIResource
-permalink: Java/ComponentInputMapUIResource
+permalink: /Java/ComponentInputMapUIResource/
 date: 2021-01-11
-key: JavaJava.C.ComponentInputMapUIResource
-category: java
+key: Java.C.ComponentInputMapUIResource
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

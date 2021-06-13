@@ -1,9 +1,9 @@
 ---
 title: CompositeName.get()
-permalink: Java/CompositeName/get
+permalink: /Java/CompositeName/get/
 date: 2021-01-11
-key: JavaJava.C.CompositeName
-category: java
+key: Java.C.CompositeName
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

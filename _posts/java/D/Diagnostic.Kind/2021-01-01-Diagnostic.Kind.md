@@ -1,9 +1,9 @@
 ---
 title: Diagnostic.Kind
-permalink: Java/Diagnostic/Kind/
+permalink: /Java/Diagnostic/Kind//
 date: 2021-01-11
-key: JavaJava.D.Diagnostic.Kind
-category: java
+key: Java.D.Diagnostic.Kind
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

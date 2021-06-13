@@ -1,9 +1,9 @@
 ---
 title: DocFlavor.URL.GIF
-permalink: Java/DocFlavor/URL/GIF
+permalink: /Java/DocFlavor/URL/GIF/
 date: 2021-01-11
-key: JavaJava.D.DocFlavor.URL
-category: java
+key: Java.D.DocFlavor.URL
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

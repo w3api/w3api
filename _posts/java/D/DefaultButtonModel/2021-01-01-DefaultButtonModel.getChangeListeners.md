@@ -1,9 +1,9 @@
 ---
 title: DefaultButtonModel.getChangeListeners()
-permalink: Java/DefaultButtonModel/getChangeListeners
+permalink: /Java/DefaultButtonModel/getChangeListeners/
 date: 2021-01-11
-key: JavaJava.D.DefaultButtonModel
-category: java
+key: Java.D.DefaultButtonModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

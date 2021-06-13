@@ -1,9 +1,9 @@
 ---
 title: CompositeDataInvocationHandler.getCompositeData()
-permalink: Java/CompositeDataInvocationHandler/getCompositeData
+permalink: /Java/CompositeDataInvocationHandler/getCompositeData/
 date: 2021-01-11
-key: JavaJava.C.CompositeDataInvocationHandler
-category: java
+key: Java.C.CompositeDataInvocationHandler
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DSAPrivateKey
-permalink: Java/DSAPrivateKey
+permalink: /Java/DSAPrivateKey/
 date: 2021-01-11
-key: JavaJava.D.DSAPrivateKey
-category: java
+key: Java.D.DSAPrivateKey
+category: Java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DOMLocator.getOriginatingNode()
-permalink: Java/DOMLocator-javax-xml-transform-dom/getOriginatingNode
+permalink: /Java/DOMLocator-javax-xml-transform-dom/getOriginatingNode/
 date: 2021-01-11
-key: JavaJava.D.DOMLocator-javax-xml-transform-dom
-category: java
+key: Java.D.DOMLocator-javax-xml-transform-dom
+category: Java
 tags: ['java se', 'javax.xml.transform.dom', 'java.xml', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

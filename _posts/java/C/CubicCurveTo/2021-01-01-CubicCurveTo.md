@@ -1,9 +1,9 @@
 ---
 title: CubicCurveTo
-permalink: Java/CubicCurveTo
+permalink: /Java/CubicCurveTo/
 date: 2021-01-11
-key: JavaJava.C.CubicCurveTo
-category: java
+key: Java.C.CubicCurveTo
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

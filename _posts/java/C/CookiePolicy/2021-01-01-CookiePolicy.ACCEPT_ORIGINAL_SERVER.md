@@ -1,9 +1,9 @@
 ---
 title: CookiePolicy.ACCEPT_ORIGINAL_SERVER
-permalink: Java/CookiePolicy/ACCEPT_ORIGINAL_SERVER
+permalink: /Java/CookiePolicy/ACCEPT_ORIGINAL_SERVER/
 date: 2021-01-11
-key: JavaJava.C.CookiePolicy
-category: java
+key: Java.C.CookiePolicy
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

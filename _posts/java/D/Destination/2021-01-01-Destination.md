@@ -1,9 +1,9 @@
 ---
 title: Destination
-permalink: Java/Destination
+permalink: /Java/Destination/
 date: 2021-01-11
-key: JavaJava.D.Destination
-category: java
+key: Java.D.Destination
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

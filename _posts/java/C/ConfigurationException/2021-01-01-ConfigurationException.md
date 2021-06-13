@@ -1,9 +1,9 @@
 ---
 title: ConfigurationException
-permalink: Java/ConfigurationException
+permalink: /Java/ConfigurationException/
 date: 2021-01-11
-key: JavaJava.C.ConfigurationException
-category: java
+key: Java.C.ConfigurationException
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

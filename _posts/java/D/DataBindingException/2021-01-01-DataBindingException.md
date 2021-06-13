@@ -1,9 +1,9 @@
 ---
 title: DataBindingException
-permalink: Java/DataBindingException
+permalink: /Java/DataBindingException/
 date: 2021-01-11
-key: JavaJava.D.DataBindingException
-category: java
+key: Java.D.DataBindingException
+category: Java
 tags: ['java se', 'javax.xml.bind', 'java.xml.bind', 'clase java', 'Java 1.6', 'JAXB 2.1']
 sidebar: 
   nav: java

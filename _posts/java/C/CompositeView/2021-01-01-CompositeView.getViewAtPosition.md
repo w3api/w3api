@@ -1,9 +1,9 @@
 ---
 title: CompositeView.getViewAtPosition()
-permalink: Java/CompositeView/getViewAtPosition
+permalink: /Java/CompositeView/getViewAtPosition/
 date: 2021-01-11
-key: JavaJava.C.CompositeView
-category: java
+key: Java.C.CompositeView
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

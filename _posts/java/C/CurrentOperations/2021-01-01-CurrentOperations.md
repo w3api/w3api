@@ -1,9 +1,9 @@
 ---
 title: CurrentOperations
-permalink: Java/CurrentOperations/
+permalink: /Java/CurrentOperations//
 date: 2021-01-11
-key: JavaJava.C.CurrentOperations
-category: java
+key: Java.C.CurrentOperations
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

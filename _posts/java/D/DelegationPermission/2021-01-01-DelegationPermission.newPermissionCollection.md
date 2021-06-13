@@ -1,9 +1,9 @@
 ---
 title: DelegationPermission.newPermissionCollection()
-permalink: Java/DelegationPermission/newPermissionCollection
+permalink: /Java/DelegationPermission/newPermissionCollection/
 date: 2021-01-11
-key: JavaJava.D.DelegationPermission
-category: java
+key: Java.D.DelegationPermission
+category: Java
 tags: ['java se', 'javax.security.auth.kerberos', 'java.security.jgss', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CompletionStatus._COMPLETED_MAYBE
-permalink: Java/CompletionStatus/_COMPLETED_MAYBE
+permalink: /Java/CompletionStatus/_COMPLETED_MAYBE/
 date: 2021-01-11
-key: JavaJava.C.CompletionStatus
-category: java
+key: Java.C.CompletionStatus
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

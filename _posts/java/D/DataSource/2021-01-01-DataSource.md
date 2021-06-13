@@ -1,9 +1,9 @@
 ---
 title: DataSource
-permalink: Java/DataSource/
+permalink: /Java/DataSource//
 date: 2021-01-11
-key: JavaJava.D.DataSource
-category: java
+key: Java.D.DataSource
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ComponentListener.componentResized()
-permalink: Java/ComponentListener/componentResized
+permalink: /Java/ComponentListener/componentResized/
 date: 2021-01-11
-key: JavaJava.C.ComponentListener
-category: java
+key: Java.C.ComponentListener
+category: Java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

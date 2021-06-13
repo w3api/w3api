@@ -1,9 +1,9 @@
 ---
 title: CompositeDataInvocationHandler
-permalink: Java/CompositeDataInvocationHandler
+permalink: /Java/CompositeDataInvocationHandler/
 date: 2021-01-11
-key: JavaJava.C.CompositeDataInvocationHandler
-category: java
+key: Java.C.CompositeDataInvocationHandler
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ConditionalFeature.INPUT_TOUCH
-permalink: Java/ConditionalFeature/INPUT_TOUCH
+permalink: /Java/ConditionalFeature/INPUT_TOUCH/
 date: 2021-01-11
-key: JavaJava.C.ConditionalFeature
-category: java
+key: Java.C.ConditionalFeature
+category: Java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

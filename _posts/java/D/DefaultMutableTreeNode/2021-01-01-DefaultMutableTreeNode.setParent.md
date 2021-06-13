@@ -1,9 +1,9 @@
 ---
 title: DefaultMutableTreeNode.setParent()
-permalink: Java/DefaultMutableTreeNode/setParent
+permalink: /Java/DefaultMutableTreeNode/setParent/
 date: 2021-01-11
-key: JavaJava.D.DefaultMutableTreeNode
-category: java
+key: Java.D.DefaultMutableTreeNode
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

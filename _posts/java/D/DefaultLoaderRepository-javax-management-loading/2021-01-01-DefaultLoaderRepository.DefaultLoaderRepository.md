@@ -1,9 +1,9 @@
 ---
 title: DefaultLoaderRepository.DefaultLoaderRepository()
-permalink: Java/DefaultLoaderRepository-javax-management-loading/DefaultLoaderRepository
+permalink: /Java/DefaultLoaderRepository-javax-management-loading/DefaultLoaderRepository/
 date: 2021-01-11
-key: JavaJava.D.DefaultLoaderRepository-javax-management-loading
-category: java
+key: Java.D.DefaultLoaderRepository-javax-management-loading
+category: Java
 tags: ['java se', 'javax.management.loading', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

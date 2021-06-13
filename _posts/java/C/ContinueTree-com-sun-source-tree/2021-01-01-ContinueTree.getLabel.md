@@ -1,9 +1,9 @@
 ---
 title: ContinueTree.getLabel()
-permalink: Java/ContinueTree-com-sun-source-tree/getLabel
+permalink: /Java/ContinueTree-com-sun-source-tree/getLabel/
 date: 2021-01-11
-key: JavaJava.C.ContinueTree-com-sun-source-tree
-category: java
+key: Java.C.ContinueTree-com-sun-source-tree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

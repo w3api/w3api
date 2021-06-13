@@ -1,9 +1,9 @@
 ---
 title: Connection
-permalink: Java/Connection-java-sql
+permalink: /Java/Connection-java-sql/
 date: 2021-01-11
-key: JavaJava.C.Connection-java-sql
-category: java
+key: Java.C.Connection-java-sql
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

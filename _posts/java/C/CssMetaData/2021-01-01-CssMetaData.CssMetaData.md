@@ -1,9 +1,9 @@
 ---
 title: CssMetaData.CssMetaData()
-permalink: Java/CssMetaData/CssMetaData
+permalink: /Java/CssMetaData/CssMetaData/
 date: 2021-01-11
-key: JavaJava.C.CssMetaData
-category: java
+key: Java.C.CssMetaData
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

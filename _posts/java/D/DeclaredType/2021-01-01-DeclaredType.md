@@ -1,9 +1,9 @@
 ---
 title: DeclaredType
-permalink: Java/DeclaredType
+permalink: /Java/DeclaredType/
 date: 2021-01-11
-key: JavaJava.D.DeclaredType
-category: java
+key: Java.D.DeclaredType
+category: Java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

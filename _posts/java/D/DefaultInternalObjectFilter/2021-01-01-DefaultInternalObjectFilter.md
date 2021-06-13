@@ -1,9 +1,9 @@
 ---
 title: DefaultInternalObjectFilter
-permalink: Java/DefaultInternalObjectFilter
+permalink: /Java/DefaultInternalObjectFilter/
 date: 2021-01-11
-key: JavaJava.D.DefaultInternalObjectFilter
-category: java
+key: Java.D.DefaultInternalObjectFilter
+category: Java
 tags: ['java se', 'jdk.dynalink.linker.support', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

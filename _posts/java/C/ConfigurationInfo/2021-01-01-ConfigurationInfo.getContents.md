@@ -1,9 +1,9 @@
 ---
 title: ConfigurationInfo.getContents()
-permalink: Java/ConfigurationInfo/getContents
+permalink: /Java/ConfigurationInfo/getContents/
 date: 2021-01-11
-key: JavaJava.C.ConfigurationInfo
-category: java
+key: Java.C.ConfigurationInfo
+category: Java
 tags: ['java se', 'jdk.management.jfr', 'jdk.management.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DirStateFactory.Result
-permalink: Java/DirStateFactory/Result
+permalink: /Java/DirStateFactory/Result/
 date: 2021-01-11
-key: JavaJava.D.DirStateFactory.Result
-category: java
+key: Java.D.DirStateFactory.Result
+category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ConcurrentSkipListMap.equals()
-permalink: Java/ConcurrentSkipListMap/equals
+permalink: /Java/ConcurrentSkipListMap/equals/
 date: 2021-01-11
-key: JavaJava.C.ConcurrentSkipListMap
-category: java
+key: Java.C.ConcurrentSkipListMap
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

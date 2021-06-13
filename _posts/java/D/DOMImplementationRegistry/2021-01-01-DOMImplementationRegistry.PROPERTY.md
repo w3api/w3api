@@ -1,9 +1,9 @@
 ---
 title: DOMImplementationRegistry.PROPERTY
-permalink: Java/DOMImplementationRegistry/PROPERTY
+permalink: /Java/DOMImplementationRegistry/PROPERTY/
 date: 2021-01-11
-key: JavaJava.D.DOMImplementationRegistry
-category: java
+key: Java.D.DOMImplementationRegistry
+category: Java
 tags: ['java se', 'org.w3c.dom.bootstrap', 'java.xml', 'campo java', 'Java 1.5', 'DOM Level 3']
 sidebar: 
   nav: java

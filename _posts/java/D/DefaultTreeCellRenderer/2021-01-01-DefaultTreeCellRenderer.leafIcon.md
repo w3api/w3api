@@ -1,9 +1,9 @@
 ---
 title: DefaultTreeCellRenderer.leafIcon
-permalink: Java/DefaultTreeCellRenderer/leafIcon
+permalink: /Java/DefaultTreeCellRenderer/leafIcon/
 date: 2021-01-11
-key: JavaJava.D.DefaultTreeCellRenderer
-category: java
+key: Java.D.DefaultTreeCellRenderer
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

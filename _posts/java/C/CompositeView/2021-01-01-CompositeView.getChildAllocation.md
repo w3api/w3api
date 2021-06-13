@@ -1,9 +1,9 @@
 ---
 title: CompositeView.getChildAllocation()
-permalink: Java/CompositeView/getChildAllocation
+permalink: /Java/CompositeView/getChildAllocation/
 date: 2021-01-11
-key: JavaJava.C.CompositeView
-category: java
+key: Java.C.CompositeView
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

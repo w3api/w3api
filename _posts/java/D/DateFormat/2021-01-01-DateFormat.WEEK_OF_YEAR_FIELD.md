@@ -1,9 +1,9 @@
 ---
 title: DateFormat.WEEK_OF_YEAR_FIELD
-permalink: Java/DateFormat/WEEK_OF_YEAR_FIELD
+permalink: /Java/DateFormat/WEEK_OF_YEAR_FIELD/
 date: 2021-01-11
-key: JavaJava.D.DateFormat
-category: java
+key: Java.D.DateFormat
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

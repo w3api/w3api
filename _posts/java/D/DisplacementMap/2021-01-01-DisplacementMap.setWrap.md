@@ -1,9 +1,9 @@
 ---
 title: DisplacementMap.setWrap()
-permalink: Java/DisplacementMap/setWrap
+permalink: /Java/DisplacementMap/setWrap/
 date: 2021-01-11
-key: JavaJava.D.DisplacementMap
-category: java
+key: Java.D.DisplacementMap
+category: Java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

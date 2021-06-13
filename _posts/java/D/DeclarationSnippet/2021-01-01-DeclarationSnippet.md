@@ -1,9 +1,9 @@
 ---
 title: DeclarationSnippet
-permalink: Java/DeclarationSnippet
+permalink: /Java/DeclarationSnippet/
 date: 2021-01-11
-key: JavaJava.D.DeclarationSnippet
-category: java
+key: Java.D.DeclarationSnippet
+category: Java
 tags: ['java se', 'jdk.jshell', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

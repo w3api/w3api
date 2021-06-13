@@ -1,9 +1,9 @@
 ---
 title: CompletionHandler
-permalink: Java/CompletionHandler
+permalink: /Java/CompletionHandler/
 date: 2021-01-11
-key: JavaJava.C.CompletionHandler
-category: java
+key: Java.C.CompletionHandler
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

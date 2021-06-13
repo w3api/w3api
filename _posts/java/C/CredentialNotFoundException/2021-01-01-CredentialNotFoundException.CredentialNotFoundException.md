@@ -1,9 +1,9 @@
 ---
 title: CredentialNotFoundException.CredentialNotFoundException()
-permalink: Java/CredentialNotFoundException/CredentialNotFoundException
+permalink: /Java/CredentialNotFoundException/CredentialNotFoundException/
 date: 2021-01-11
-key: JavaJava.C.CredentialNotFoundException
-category: java
+key: Java.C.CredentialNotFoundException
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

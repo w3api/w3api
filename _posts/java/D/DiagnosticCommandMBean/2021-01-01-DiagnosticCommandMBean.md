@@ -1,9 +1,9 @@
 ---
 title: DiagnosticCommandMBean
-permalink: Java/DiagnosticCommandMBean
+permalink: /Java/DiagnosticCommandMBean/
 date: 2021-01-11
-key: JavaJava.D.DiagnosticCommandMBean
-category: java
+key: Java.D.DiagnosticCommandMBean
+category: Java
 tags: ['java se', 'com.sun.management', 'jdk.management', 'interface java', 'Java 1.8']
 sidebar: 
   nav: java

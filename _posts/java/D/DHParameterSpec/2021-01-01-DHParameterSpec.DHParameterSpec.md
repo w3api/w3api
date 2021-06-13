@@ -1,9 +1,9 @@
 ---
 title: DHParameterSpec.DHParameterSpec()
-permalink: Java/DHParameterSpec/DHParameterSpec
+permalink: /Java/DHParameterSpec/DHParameterSpec/
 date: 2021-01-11
-key: JavaJava.D.DHParameterSpec
-category: java
+key: Java.D.DHParameterSpec
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

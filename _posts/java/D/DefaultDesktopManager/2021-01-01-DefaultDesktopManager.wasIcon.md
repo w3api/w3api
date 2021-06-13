@@ -1,9 +1,9 @@
 ---
 title: DefaultDesktopManager.wasIcon()
-permalink: Java/DefaultDesktopManager/wasIcon
+permalink: /Java/DefaultDesktopManager/wasIcon/
 date: 2021-01-11
-key: JavaJava.D.DefaultDesktopManager
-category: java
+key: Java.D.DefaultDesktopManager
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

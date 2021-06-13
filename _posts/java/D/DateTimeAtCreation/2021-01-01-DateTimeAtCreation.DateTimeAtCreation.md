@@ -1,9 +1,9 @@
 ---
 title: DateTimeAtCreation.DateTimeAtCreation()
-permalink: Java/DateTimeAtCreation/DateTimeAtCreation
+permalink: /Java/DateTimeAtCreation/DateTimeAtCreation/
 date: 2021-01-11
-key: JavaJava.D.DateTimeAtCreation
-category: java
+key: Java.D.DateTimeAtCreation
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

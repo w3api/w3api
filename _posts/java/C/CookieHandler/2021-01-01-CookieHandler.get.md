@@ -1,9 +1,9 @@
 ---
 title: CookieHandler.get()
-permalink: Java/CookieHandler/get
+permalink: /Java/CookieHandler/get/
 date: 2021-01-11
-key: JavaJava.C.CookieHandler
-category: java
+key: Java.C.CookieHandler
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

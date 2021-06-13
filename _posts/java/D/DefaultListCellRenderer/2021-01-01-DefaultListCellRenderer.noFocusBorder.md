@@ -1,9 +1,9 @@
 ---
 title: DefaultListCellRenderer.noFocusBorder
-permalink: Java/DefaultListCellRenderer/noFocusBorder
+permalink: /Java/DefaultListCellRenderer/noFocusBorder/
 date: 2021-01-11
-key: JavaJava.D.DefaultListCellRenderer
-category: java
+key: Java.D.DefaultListCellRenderer
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

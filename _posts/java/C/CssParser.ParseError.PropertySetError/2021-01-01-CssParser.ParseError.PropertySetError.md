@@ -1,9 +1,9 @@
 ---
 title: CssParser.ParseError.PropertySetError
-permalink: Java/CssParser/ParseError/PropertySetError
+permalink: /Java/CssParser/ParseError/PropertySetError/
 date: 2021-01-11
-key: JavaJava.C.CssParser.ParseError.PropertySetError
-category: java
+key: Java.C.CssParser.ParseError.PropertySetError
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

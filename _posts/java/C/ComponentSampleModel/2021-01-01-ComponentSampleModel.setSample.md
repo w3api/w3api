@@ -1,9 +1,9 @@
 ---
 title: ComponentSampleModel.setSample()
-permalink: Java/ComponentSampleModel/setSample
+permalink: /Java/ComponentSampleModel/setSample/
 date: 2021-01-11
-key: JavaJava.C.ComponentSampleModel
-category: java
+key: Java.C.ComponentSampleModel
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

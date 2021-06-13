@@ -1,9 +1,9 @@
 ---
 title: DialogTypeSelection.NATIVE
-permalink: Java/DialogTypeSelection/NATIVE
+permalink: /Java/DialogTypeSelection/NATIVE/
 date: 2021-01-11
-key: JavaJava.D.DialogTypeSelection
-category: java
+key: Java.D.DialogTypeSelection
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

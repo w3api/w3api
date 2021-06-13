@@ -1,9 +1,9 @@
 ---
 title: DatatypeConstants.Field.getId()
-permalink: Java/DatatypeConstants/Field/getId
+permalink: /Java/DatatypeConstants/Field/getId/
 date: 2021-01-11
-key: JavaJava.D.DatatypeConstants.Field
-category: java
+key: Java.D.DatatypeConstants.Field
+category: Java
 tags: ['java se', 'javax.xml.datatype', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

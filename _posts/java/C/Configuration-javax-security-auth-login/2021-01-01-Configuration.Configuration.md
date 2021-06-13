@@ -1,9 +1,9 @@
 ---
 title: Configuration.Configuration()
-permalink: Java/Configuration-javax-security-auth-login/Configuration
+permalink: /Java/Configuration-javax-security-auth-login/Configuration/
 date: 2021-01-11
-key: JavaJava.C.Configuration-javax-security-auth-login
-category: java
+key: Java.C.Configuration-javax-security-auth-login
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

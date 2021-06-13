@@ -1,9 +1,9 @@
 ---
 title: DESKeySpec.DES_KEY_LEN
-permalink: Java/DESKeySpec/DES_KEY_LEN
+permalink: /Java/DESKeySpec/DES_KEY_LEN/
 date: 2021-01-11
-key: JavaJava.D.DESKeySpec
-category: java
+key: Java.D.DESKeySpec
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

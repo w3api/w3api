@@ -1,9 +1,9 @@
 ---
 title: DOMImplementation.createDocumentType()
-permalink: Java/DOMImplementation/createDocumentType
+permalink: /Java/DOMImplementation/createDocumentType/
 date: 2021-01-11
-key: JavaJava.D.DOMImplementation
-category: java
+key: Java.D.DOMImplementation
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

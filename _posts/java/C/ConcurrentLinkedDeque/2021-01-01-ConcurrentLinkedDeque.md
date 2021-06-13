@@ -1,9 +1,9 @@
 ---
 title: ConcurrentLinkedDeque
-permalink: Java/ConcurrentLinkedDeque
+permalink: /Java/ConcurrentLinkedDeque/
 date: 2021-01-11
-key: JavaJava.C.ConcurrentLinkedDeque
-category: java
+key: Java.C.ConcurrentLinkedDeque
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

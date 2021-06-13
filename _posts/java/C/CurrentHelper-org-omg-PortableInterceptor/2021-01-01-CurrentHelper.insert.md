@@ -1,9 +1,9 @@
 ---
 title: CurrentHelper.insert()
-permalink: Java/CurrentHelper-org-omg-PortableInterceptor/insert
+permalink: /Java/CurrentHelper-org-omg-PortableInterceptor/insert/
 date: 2021-01-11
-key: JavaJava.C.CurrentHelper-org-omg-PortableInterceptor
-category: java
+key: Java.C.CurrentHelper-org-omg-PortableInterceptor
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

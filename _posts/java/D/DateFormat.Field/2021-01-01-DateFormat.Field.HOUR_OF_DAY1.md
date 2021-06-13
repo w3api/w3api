@@ -1,9 +1,9 @@
 ---
 title: DateFormat.Field.HOUR_OF_DAY1
-permalink: Java/DateFormat/Field/HOUR_OF_DAY1
+permalink: /Java/DateFormat/Field/HOUR_OF_DAY1/
 date: 2021-01-11
-key: JavaJava.D.DateFormat.Field
-category: java
+key: Java.D.DateFormat.Field
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

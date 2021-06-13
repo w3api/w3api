@@ -1,9 +1,9 @@
 ---
 title: ConditionalFeature
-permalink: Java/ConditionalFeature
+permalink: /Java/ConditionalFeature/
 date: 2021-01-11
-key: JavaJava.C.ConditionalFeature
-category: java
+key: Java.C.ConditionalFeature
+category: Java
 tags: ['java se', 'javafx.application', 'javafx.graphics', 'enumerado java', 'JavaFX 2.0']
 sidebar: 
   nav: java

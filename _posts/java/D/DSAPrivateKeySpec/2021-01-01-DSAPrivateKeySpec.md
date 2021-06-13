@@ -1,9 +1,9 @@
 ---
 title: DSAPrivateKeySpec
-permalink: Java/DSAPrivateKeySpec
+permalink: /Java/DSAPrivateKeySpec/
 date: 2021-01-11
-key: JavaJava.D.DSAPrivateKeySpec
-category: java
+key: Java.D.DSAPrivateKeySpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

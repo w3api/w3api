@@ -1,9 +1,9 @@
 ---
 title: DateTimeFormatterBuilder
-permalink: Java/DateTimeFormatterBuilder
+permalink: /Java/DateTimeFormatterBuilder/
 date: 2021-01-11
-key: JavaJava.D.DateTimeFormatterBuilder
-category: java
+key: Java.D.DateTimeFormatterBuilder
+category: Java
 tags: ['java se', 'java.time.format', 'java.base', 'clase java', 'Java 1.8']
 sidebar: 
   nav: java

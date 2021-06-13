@@ -1,9 +1,9 @@
 ---
 title: DefaultMetalTheme
-permalink: Java/DefaultMetalTheme
+permalink: /Java/DefaultMetalTheme/
 date: 2021-01-11
-key: JavaJava.D.DefaultMetalTheme
-category: java
+key: Java.D.DefaultMetalTheme
+category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

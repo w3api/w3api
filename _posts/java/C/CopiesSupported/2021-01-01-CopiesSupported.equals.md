@@ -1,9 +1,9 @@
 ---
 title: CopiesSupported.equals()
-permalink: Java/CopiesSupported/equals
+permalink: /Java/CopiesSupported/equals/
 date: 2021-01-11
-key: JavaJava.C.CopiesSupported
-category: java
+key: Java.C.CopiesSupported
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

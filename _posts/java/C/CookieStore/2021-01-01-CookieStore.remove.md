@@ -1,9 +1,9 @@
 ---
 title: CookieStore.remove()
-permalink: Java/CookieStore/remove
+permalink: /Java/CookieStore/remove/
 date: 2021-01-11
-key: JavaJava.C.CookieStore
-category: java
+key: Java.C.CookieStore
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DirectiveTree
-permalink: Java/DirectiveTree
+permalink: /Java/DirectiveTree/
 date: 2021-01-11
-key: JavaJava.D.DirectiveTree
-category: java
+key: Java.D.DirectiveTree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

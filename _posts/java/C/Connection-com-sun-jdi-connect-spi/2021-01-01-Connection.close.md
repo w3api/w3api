@@ -1,9 +1,9 @@
 ---
 title: Connection.close()
-permalink: Java/Connection-com-sun-jdi-connect-spi/close
+permalink: /Java/Connection-com-sun-jdi-connect-spi/close/
 date: 2021-01-11
-key: JavaJava.C.Connection-com-sun-jdi-connect-spi
-category: java
+key: Java.C.Connection-com-sun-jdi-connect-spi
+category: Java
 tags: ['java se', 'com.sun.jdi.connect.spi', 'jdk.jdi', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

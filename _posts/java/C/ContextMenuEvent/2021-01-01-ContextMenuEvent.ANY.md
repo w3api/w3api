@@ -1,9 +1,9 @@
 ---
 title: ContextMenuEvent.ANY
-permalink: Java/ContextMenuEvent/ANY
+permalink: /Java/ContextMenuEvent/ANY/
 date: 2021-01-11
-key: JavaJava.C.ContextMenuEvent
-category: java
+key: Java.C.ContextMenuEvent
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'campo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

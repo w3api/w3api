@@ -1,9 +1,9 @@
 ---
 title: CompletionStatusHelper.extract()
-permalink: Java/CompletionStatusHelper/extract
+permalink: /Java/CompletionStatusHelper/extract/
 date: 2021-01-11
-key: JavaJava.C.CompletionStatusHelper
-category: java
+key: Java.C.CompletionStatusHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

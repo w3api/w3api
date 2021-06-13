@@ -1,9 +1,9 @@
 ---
 title: DeclHandler.attributeDecl()
-permalink: Java/DeclHandler/attributeDecl
+permalink: /Java/DeclHandler/attributeDecl/
 date: 2021-01-11
-key: JavaJava.D.DeclHandler
-category: java
+key: Java.D.DeclHandler
+category: Java
 tags: ['java se', 'org.xml.sax.ext', 'java.xml', 'metodo java', 'Java 1.4', 'SAX 2.0 (extensions Java 1.0)']
 sidebar: 
   nav: java

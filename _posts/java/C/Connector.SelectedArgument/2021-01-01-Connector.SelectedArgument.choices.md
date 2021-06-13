@@ -1,9 +1,9 @@
 ---
 title: Connector.SelectedArgument.choices()
-permalink: Java/Connector/SelectedArgument/choices
+permalink: /Java/Connector/SelectedArgument/choices/
 date: 2021-01-11
-key: JavaJava.C.Connector.SelectedArgument
-category: java
+key: Java.C.Connector.SelectedArgument
+category: Java
 tags: ['java se', 'com.sun.jdi.connect', 'jdk.jdi', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

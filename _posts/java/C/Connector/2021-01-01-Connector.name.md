@@ -1,9 +1,9 @@
 ---
 title: Connector.name()
-permalink: Java/Connector/name
+permalink: /Java/Connector/name/
 date: 2021-01-11
-key: JavaJava.C.Connector
-category: java
+key: Java.C.Connector
+category: Java
 tags: ['java se', 'com.sun.jdi.connect', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

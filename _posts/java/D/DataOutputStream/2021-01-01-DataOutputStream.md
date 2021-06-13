@@ -1,9 +1,9 @@
 ---
 title: DataOutputStream
-permalink: Java/DataOutputStream/
+permalink: /Java/DataOutputStream//
 date: 2021-01-11
-key: JavaJava.D.DataOutputStream
-category: java
+key: Java.D.DataOutputStream
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

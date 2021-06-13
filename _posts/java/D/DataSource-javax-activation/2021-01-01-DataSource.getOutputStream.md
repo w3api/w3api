@@ -1,9 +1,9 @@
 ---
 title: DataSource.getOutputStream()
-permalink: Java/DataSource-javax-activation/getOutputStream
+permalink: /Java/DataSource-javax-activation/getOutputStream/
 date: 2021-01-11
-key: JavaJava.D.DataSource-javax-activation
-category: java
+key: Java.D.DataSource-javax-activation
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

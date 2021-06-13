@@ -1,9 +1,9 @@
 ---
 title: DesktopManager
-permalink: Java/DesktopManager
+permalink: /Java/DesktopManager/
 date: 2021-01-11
-key: JavaJava.D.DesktopManager
-category: java
+key: Java.D.DesktopManager
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CredentialExpiredException.CredentialExpiredException()
-permalink: Java/CredentialExpiredException/CredentialExpiredException
+permalink: /Java/CredentialExpiredException/CredentialExpiredException/
 date: 2021-01-11
-key: JavaJava.C.CredentialExpiredException
-category: java
+key: Java.C.CredentialExpiredException
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

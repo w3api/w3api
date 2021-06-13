@@ -1,9 +1,9 @@
 ---
 title: Compression.DEFLATE
-permalink: Java/Compression/DEFLATE
+permalink: /Java/Compression/DEFLATE/
 date: 2021-01-11
-key: JavaJava.C.Compression
-category: java
+key: Java.C.Compression
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

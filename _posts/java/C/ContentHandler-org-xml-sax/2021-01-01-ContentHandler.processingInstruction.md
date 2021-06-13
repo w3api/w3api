@@ -1,9 +1,9 @@
 ---
 title: ContentHandler.processingInstruction()
-permalink: Java/ContentHandler-org-xml-sax/processingInstruction
+permalink: /Java/ContentHandler-org-xml-sax/processingInstruction/
 date: 2021-01-11
-key: JavaJava.C.ContentHandler-org-xml-sax
-category: java
+key: Java.C.ContentHandler-org-xml-sax
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'metodo java', 'Java 1.4', 'SAX 2.0']
 sidebar: 
   nav: java

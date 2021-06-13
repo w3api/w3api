@@ -1,9 +1,9 @@
 ---
 title: CubicCurve2D.Float.getX2()
-permalink: Java/CubicCurve2D/Float/getX2
+permalink: /Java/CubicCurve2D/Float/getX2/
 date: 2021-01-11
-key: JavaJava.C.CubicCurve2D.Float
-category: java
+key: Java.C.CubicCurve2D.Float
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

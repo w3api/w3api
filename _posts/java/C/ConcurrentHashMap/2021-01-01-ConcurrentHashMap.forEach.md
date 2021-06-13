@@ -1,9 +1,9 @@
 ---
 title: ConcurrentHashMap.forEach()
-permalink: Java/ConcurrentHashMap/forEach
+permalink: /Java/ConcurrentHashMap/forEach/
 date: 2021-01-11
-key: JavaJava.C.ConcurrentHashMap
-category: java
+key: Java.C.ConcurrentHashMap
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

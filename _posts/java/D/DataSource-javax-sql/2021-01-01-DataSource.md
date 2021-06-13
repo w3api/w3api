@@ -1,9 +1,9 @@
 ---
 title: DataSource
-permalink: Java/DataSource-javax-sql
+permalink: /Java/DataSource-javax-sql/
 date: 2021-01-11
-key: JavaJava.D.DataSource-javax-sql
-category: java
+key: Java.D.DataSource-javax-sql
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

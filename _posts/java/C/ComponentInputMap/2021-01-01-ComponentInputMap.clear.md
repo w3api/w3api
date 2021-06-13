@@ -1,9 +1,9 @@
 ---
 title: ComponentInputMap.clear()
-permalink: Java/ComponentInputMap/clear
+permalink: /Java/ComponentInputMap/clear/
 date: 2021-01-11
-key: JavaJava.C.ComponentInputMap
-category: java
+key: Java.C.ComponentInputMap
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

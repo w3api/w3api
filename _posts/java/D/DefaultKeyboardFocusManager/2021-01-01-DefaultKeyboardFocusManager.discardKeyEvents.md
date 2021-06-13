@@ -1,9 +1,9 @@
 ---
 title: DefaultKeyboardFocusManager.discardKeyEvents()
-permalink: Java/DefaultKeyboardFocusManager/discardKeyEvents
+permalink: /Java/DefaultKeyboardFocusManager/discardKeyEvents/
 date: 2021-01-11
-key: JavaJava.D.DefaultKeyboardFocusManager
-category: java
+key: Java.D.DefaultKeyboardFocusManager
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

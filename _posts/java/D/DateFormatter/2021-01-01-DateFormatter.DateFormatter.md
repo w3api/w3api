@@ -1,9 +1,9 @@
 ---
 title: DateFormatter.DateFormatter()
-permalink: Java/DateFormatter/DateFormatter
+permalink: /Java/DateFormatter/DateFormatter/
 date: 2021-01-11
-key: JavaJava.D.DateFormatter
-category: java
+key: Java.D.DateFormatter
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

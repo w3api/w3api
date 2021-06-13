@@ -1,9 +1,9 @@
 ---
 title: DataContentHandlerFactory
-permalink: Java/DataContentHandlerFactory
+permalink: /Java/DataContentHandlerFactory/
 date: 2021-01-11
-key: JavaJava.D.DataContentHandlerFactory
-category: java
+key: Java.D.DataContentHandlerFactory
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

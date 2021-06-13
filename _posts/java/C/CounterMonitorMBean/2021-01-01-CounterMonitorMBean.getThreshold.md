@@ -1,9 +1,9 @@
 ---
 title: CounterMonitorMBean.getThreshold()
-permalink: Java/CounterMonitorMBean/getThreshold
+permalink: /Java/CounterMonitorMBean/getThreshold/
 date: 2021-01-11
-key: JavaJava.C.CounterMonitorMBean
-category: java
+key: Java.C.CounterMonitorMBean
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

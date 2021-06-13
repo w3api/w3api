@@ -1,9 +1,9 @@
 ---
 title: CompositeTypeBasedGuardingDynamicLinker.CompositeTypeBasedGuardingDynamicLinker()
-permalink: Java/CompositeTypeBasedGuardingDynamicLinker/CompositeTypeBasedGuardingDynamicLinker
+permalink: /Java/CompositeTypeBasedGuardingDynamicLinker/CompositeTypeBasedGuardingDynamicLinker/
 date: 2021-01-11
-key: JavaJava.C.CompositeTypeBasedGuardingDynamicLinker
-category: java
+key: Java.C.CompositeTypeBasedGuardingDynamicLinker
+category: Java
 tags: ['java se', 'jdk.dynalink.linker.support', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

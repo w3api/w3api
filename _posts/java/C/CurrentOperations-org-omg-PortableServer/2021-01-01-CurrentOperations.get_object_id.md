@@ -1,9 +1,9 @@
 ---
 title: CurrentOperations.get_object_id()
-permalink: Java/CurrentOperations-org-omg-PortableServer/get_object_id
+permalink: /Java/CurrentOperations-org-omg-PortableServer/get_object_id/
 date: 2021-01-11
-key: JavaJava.C.CurrentOperations-org-omg-PortableServer
-category: java
+key: Java.C.CurrentOperations-org-omg-PortableServer
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

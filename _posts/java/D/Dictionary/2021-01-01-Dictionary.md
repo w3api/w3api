@@ -1,9 +1,9 @@
 ---
 title: Dictionary
-permalink: Java/Dictionary
+permalink: /Java/Dictionary/
 date: 2021-01-11
-key: JavaJava.D.Dictionary
-category: java
+key: Java.D.Dictionary
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

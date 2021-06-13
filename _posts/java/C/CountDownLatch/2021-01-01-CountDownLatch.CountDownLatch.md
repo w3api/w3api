@@ -1,9 +1,9 @@
 ---
 title: CountDownLatch.CountDownLatch()
-permalink: Java/CountDownLatch/CountDownLatch
+permalink: /Java/CountDownLatch/CountDownLatch/
 date: 2021-01-11
-key: JavaJava.C.CountDownLatch
-category: java
+key: Java.C.CountDownLatch
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

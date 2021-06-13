@@ -1,9 +1,9 @@
 ---
 title: DayOfWeek.FRIDAY
-permalink: Java/DayOfWeek/FRIDAY
+permalink: /Java/DayOfWeek/FRIDAY/
 date: 2021-01-11
-key: JavaJava.D.DayOfWeek
-category: java
+key: Java.D.DayOfWeek
+category: Java
 tags: ['java se', 'java.time', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ConstructorDoc
-permalink: Java/ConstructorDoc
+permalink: /Java/ConstructorDoc/
 date: 2021-01-11
-key: JavaJava.C.ConstructorDoc
-category: java
+key: Java.C.ConstructorDoc
+category: Java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DefaultRowSorter.ModelWrapper.getValueAt()
-permalink: Java/DefaultRowSorter/ModelWrapper/getValueAt
+permalink: /Java/DefaultRowSorter/ModelWrapper/getValueAt/
 date: 2021-01-11
-key: JavaJava.D.DefaultRowSorter.ModelWrapper
-category: java
+key: Java.D.DefaultRowSorter.ModelWrapper
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

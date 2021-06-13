@@ -1,9 +1,9 @@
 ---
 title: ComponentUI.installUI()
-permalink: Java/ComponentUI/installUI
+permalink: /Java/ComponentUI/installUI/
 date: 2021-01-11
-key: JavaJava.C.ComponentUI
-category: java
+key: Java.C.ComponentUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

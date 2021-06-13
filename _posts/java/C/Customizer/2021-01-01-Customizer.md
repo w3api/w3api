@@ -1,9 +1,9 @@
 ---
 title: Customizer
-permalink: Java/Customizer
+permalink: /Java/Customizer/
 date: 2021-01-11
-key: JavaJava.C.Customizer
-category: java
+key: Java.C.Customizer
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'interface java', 'Java 1.1']
 sidebar: 
   nav: java

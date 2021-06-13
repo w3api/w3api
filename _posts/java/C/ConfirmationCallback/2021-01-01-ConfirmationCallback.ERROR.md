@@ -1,9 +1,9 @@
 ---
 title: ConfirmationCallback.ERROR
-permalink: Java/ConfirmationCallback/ERROR
+permalink: /Java/ConfirmationCallback/ERROR/
 date: 2021-01-11
-key: JavaJava.C.ConfirmationCallback
-category: java
+key: Java.C.ConfirmationCallback
+category: Java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

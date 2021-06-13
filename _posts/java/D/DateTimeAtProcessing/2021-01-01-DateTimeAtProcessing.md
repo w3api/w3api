@@ -1,9 +1,9 @@
 ---
 title: DateTimeAtProcessing
-permalink: Java/DateTimeAtProcessing
+permalink: /Java/DateTimeAtProcessing/
 date: 2021-01-11
-key: JavaJava.D.DateTimeAtProcessing
-category: java
+key: Java.D.DateTimeAtProcessing
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

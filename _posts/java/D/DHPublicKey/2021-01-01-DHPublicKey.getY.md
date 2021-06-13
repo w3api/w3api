@@ -1,9 +1,9 @@
 ---
 title: DHPublicKey.getY()
-permalink: Java/DHPublicKey/getY
+permalink: /Java/DHPublicKey/getY/
 date: 2021-01-11
-key: JavaJava.D.DHPublicKey
-category: java
+key: Java.D.DHPublicKey
+category: Java
 tags: ['java se', 'javax.crypto.interfaces', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

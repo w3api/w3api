@@ -1,9 +1,9 @@
 ---
 title: ConstantCallSite.ConstantCallSite()
-permalink: Java/ConstantCallSite/ConstantCallSite
+permalink: /Java/ConstantCallSite/ConstantCallSite/
 date: 2021-01-11
-key: JavaJava.C.ConstantCallSite
-category: java
+key: Java.C.ConstantCallSite
+category: Java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

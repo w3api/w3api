@@ -1,9 +1,9 @@
 ---
 title: CurrentHelper
-permalink: Java/CurrentHelper-org-omg-PortableInterceptor
+permalink: /Java/CurrentHelper-org-omg-PortableInterceptor/
 date: 2021-01-11
-key: JavaJava.C.CurrentHelper-org-omg-PortableInterceptor
-category: java
+key: Java.C.CurrentHelper-org-omg-PortableInterceptor
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

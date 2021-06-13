@@ -1,9 +1,9 @@
 ---
 title: ComponentColorModel.ComponentColorModel()
-permalink: Java/ComponentColorModel/ComponentColorModel
+permalink: /Java/ComponentColorModel/ComponentColorModel/
 date: 2021-01-11
-key: JavaJava.C.ComponentColorModel
-category: java
+key: Java.C.ComponentColorModel
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

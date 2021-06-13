@@ -1,9 +1,9 @@
 ---
 title: CycleMethod.REPEAT
-permalink: Java/CycleMethod/REPEAT
+permalink: /Java/CycleMethod/REPEAT/
 date: 2021-01-11
-key: JavaJava.C.CycleMethod
-category: java
+key: Java.C.CycleMethod
+category: Java
 tags: ['java se', 'javafx.scene.paint', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

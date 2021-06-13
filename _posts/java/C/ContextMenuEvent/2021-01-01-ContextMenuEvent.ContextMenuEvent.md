@@ -1,9 +1,9 @@
 ---
 title: ContextMenuEvent.ContextMenuEvent()
-permalink: Java/ContextMenuEvent/ContextMenuEvent
+permalink: /Java/ContextMenuEvent/ContextMenuEvent/
 date: 2021-01-11
-key: JavaJava.C.ContextMenuEvent
-category: java
+key: Java.C.ContextMenuEvent
+category: Java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

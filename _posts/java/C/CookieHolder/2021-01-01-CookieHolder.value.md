@@ -1,9 +1,9 @@
 ---
 title: CookieHolder.value
-permalink: Java/CookieHolder/value
+permalink: /Java/CookieHolder/value/
 date: 2021-01-11
-key: JavaJava.C.CookieHolder
-category: java
+key: Java.C.CookieHolder
+category: Java
 tags: ['java se', 'org.omg.PortableServer.ServantLocatorPackage', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

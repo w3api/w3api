@@ -1,9 +1,9 @@
 ---
 title: DataSource.getLoginTimeout()
-permalink: Java/DataSource-javax-sql/getLoginTimeout
+permalink: /Java/DataSource-javax-sql/getLoginTimeout/
 date: 2021-01-11
-key: JavaJava.D.DataSource-javax-sql
-category: java
+key: Java.D.DataSource-javax-sql
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

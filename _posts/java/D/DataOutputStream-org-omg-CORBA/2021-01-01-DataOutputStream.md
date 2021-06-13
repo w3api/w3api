@@ -1,9 +1,9 @@
 ---
 title: DataOutputStream
-permalink: Java/DataOutputStream-org-omg-CORBA
+permalink: /Java/DataOutputStream-org-omg-CORBA/
 date: 2021-01-11
-key: JavaJava.D.DataOutputStream-org-omg-CORBA
-category: java
+key: Java.D.DataOutputStream-org-omg-CORBA
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DHGenParameterSpec.DHGenParameterSpec()
-permalink: Java/DHGenParameterSpec/DHGenParameterSpec
+permalink: /Java/DHGenParameterSpec/DHGenParameterSpec/
 date: 2021-01-11
-key: JavaJava.D.DHGenParameterSpec
-category: java
+key: Java.D.DHGenParameterSpec
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

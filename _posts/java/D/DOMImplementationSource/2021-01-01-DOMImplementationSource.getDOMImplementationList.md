@@ -1,9 +1,9 @@
 ---
 title: DOMImplementationSource.getDOMImplementationList()
-permalink: Java/DOMImplementationSource/getDOMImplementationList
+permalink: /Java/DOMImplementationSource/getDOMImplementationList/
 date: 2021-01-11
-key: JavaJava.D.DOMImplementationSource
-category: java
+key: Java.D.DOMImplementationSource
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'metodo java', 'Java 1.5', 'DOM Level 3']
 sidebar: 
   nav: java

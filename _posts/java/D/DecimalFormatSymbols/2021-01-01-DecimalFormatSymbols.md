@@ -1,9 +1,9 @@
 ---
 title: DecimalFormatSymbols
-permalink: Java/DecimalFormatSymbols
+permalink: /Java/DecimalFormatSymbols/
 date: 2021-01-11
-key: JavaJava.D.DecimalFormatSymbols
-category: java
+key: Java.D.DecimalFormatSymbols
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

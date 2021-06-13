@@ -1,9 +1,9 @@
 ---
 title: DelayQueue
-permalink: Java/DelayQueue
+permalink: /Java/DelayQueue/
 date: 2021-01-11
-key: JavaJava.D.DelayQueue
-category: java
+key: Java.D.DelayQueue
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

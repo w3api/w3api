@@ -1,9 +1,9 @@
 ---
 title: ConfigFile
-permalink: Java/ConfigFile
+permalink: /Java/ConfigFile/
 date: 2021-01-11
-key: JavaJava.C.ConfigFile
-category: java
+key: Java.C.ConfigFile
+category: Java
 tags: ['java se', 'com.sun.security.auth.login', 'jdk.security.auth', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

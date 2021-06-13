@@ -1,9 +1,9 @@
 ---
 title: ContextMenuSkin.ContextMenuSkin()
-permalink: Java/ContextMenuSkin/ContextMenuSkin
+permalink: /Java/ContextMenuSkin/ContextMenuSkin/
 date: 2021-01-11
-key: JavaJava.C.ContextMenuSkin
-category: java
+key: Java.C.ContextMenuSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ConditionalExpressionTree
-permalink: Java/ConditionalExpressionTree/
+permalink: /Java/ConditionalExpressionTree//
 date: 2021-01-11
-key: JavaJava.C.ConditionalExpressionTree
-category: java
+key: Java.C.ConditionalExpressionTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

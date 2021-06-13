@@ -1,9 +1,9 @@
 ---
 title: CompoundAssignmentTree
-permalink: Java/CompoundAssignmentTree/
+permalink: /Java/CompoundAssignmentTree//
 date: 2021-01-11
-key: JavaJava.C.CompoundAssignmentTree
-category: java
+key: Java.C.CompoundAssignmentTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

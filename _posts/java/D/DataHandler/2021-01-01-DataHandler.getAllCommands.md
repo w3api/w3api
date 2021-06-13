@@ -1,9 +1,9 @@
 ---
 title: DataHandler.getAllCommands()
-permalink: Java/DataHandler/getAllCommands
+permalink: /Java/DataHandler/getAllCommands/
 date: 2021-01-11
-key: JavaJava.D.DataHandler
-category: java
+key: Java.D.DataHandler
+category: Java
 tags: ['java se', 'javax.activation', 'java.activation', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

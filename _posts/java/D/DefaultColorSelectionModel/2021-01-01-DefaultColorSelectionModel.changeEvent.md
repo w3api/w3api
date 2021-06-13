@@ -1,9 +1,9 @@
 ---
 title: DefaultColorSelectionModel.changeEvent
-permalink: Java/DefaultColorSelectionModel/changeEvent
+permalink: /Java/DefaultColorSelectionModel/changeEvent/
 date: 2021-01-11
-key: JavaJava.D.DefaultColorSelectionModel
-category: java
+key: Java.D.DefaultColorSelectionModel
+category: Java
 tags: ['java se', 'javax.swing.colorchooser', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

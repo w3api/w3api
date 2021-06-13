@@ -1,9 +1,9 @@
 ---
 title: DataAmount.value
-permalink: Java/DataAmount/value
+permalink: /Java/DataAmount/value/
 date: 2021-01-11
-key: JavaJava.D.DataAmount
-category: java
+key: Java.D.DataAmount
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'elemento java', 'Java 9']
 sidebar: 
   nav: java

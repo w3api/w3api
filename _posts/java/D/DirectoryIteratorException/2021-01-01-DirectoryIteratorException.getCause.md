@@ -1,9 +1,9 @@
 ---
 title: DirectoryIteratorException.getCause()
-permalink: Java/DirectoryIteratorException/getCause
+permalink: /Java/DirectoryIteratorException/getCause/
 date: 2021-01-11
-key: JavaJava.D.DirectoryIteratorException
-category: java
+key: Java.D.DirectoryIteratorException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

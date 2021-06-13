@@ -1,9 +1,9 @@
 ---
 title: CustomMarshal.unmarshal()
-permalink: Java/CustomMarshal/unmarshal
+permalink: /Java/CustomMarshal/unmarshal/
 date: 2021-01-11
-key: JavaJava.C.CustomMarshal
-category: java
+key: Java.C.CustomMarshal
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

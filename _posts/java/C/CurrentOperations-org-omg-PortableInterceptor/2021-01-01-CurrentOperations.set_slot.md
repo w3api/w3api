@@ -1,9 +1,9 @@
 ---
 title: CurrentOperations.set_slot()
-permalink: Java/CurrentOperations-org-omg-PortableInterceptor/set_slot
+permalink: /Java/CurrentOperations-org-omg-PortableInterceptor/set_slot/
 date: 2021-01-11
-key: JavaJava.C.CurrentOperations-org-omg-PortableInterceptor
-category: java
+key: Java.C.CurrentOperations-org-omg-PortableInterceptor
+category: Java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DebugGraphics
-permalink: Java/DebugGraphics
+permalink: /Java/DebugGraphics/
 date: 2021-01-11
-key: JavaJava.D.DebugGraphics
-category: java
+key: Java.D.DebugGraphics
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

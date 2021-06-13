@@ -1,9 +1,9 @@
 ---
 title: DesignMode
-permalink: Java/DesignMode
+permalink: /Java/DesignMode/
 date: 2021-01-11
-key: JavaJava.D.DesignMode
-category: java
+key: Java.D.DesignMode
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 
   nav: java

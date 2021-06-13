@@ -1,9 +1,9 @@
 ---
 title: DeriveSizeConverter.getInstance()
-permalink: Java/DeriveSizeConverter/getInstance
+permalink: /Java/DeriveSizeConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.D.DeriveSizeConverter
-category: java
+key: Java.D.DeriveSizeConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

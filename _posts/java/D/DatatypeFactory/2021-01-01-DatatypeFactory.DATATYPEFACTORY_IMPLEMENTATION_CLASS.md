@@ -1,9 +1,9 @@
 ---
 title: DatatypeFactory.DATATYPEFACTORY_IMPLEMENTATION_CLASS
-permalink: Java/DatatypeFactory/DATATYPEFACTORY_IMPLEMENTATION_CLASS
+permalink: /Java/DatatypeFactory/DATATYPEFACTORY_IMPLEMENTATION_CLASS/
 date: 2021-01-11
-key: JavaJava.D.DatatypeFactory
-category: java
+key: Java.D.DatatypeFactory
+category: Java
 tags: ['java se', 'javax.xml.datatype', 'java.xml', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

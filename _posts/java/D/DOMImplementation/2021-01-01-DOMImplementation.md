@@ -1,9 +1,9 @@
 ---
 title: DOMImplementation
-permalink: Java/DOMImplementation
+permalink: /Java/DOMImplementation/
 date: 2021-01-11
-key: JavaJava.D.DOMImplementation
-category: java
+key: Java.D.DOMImplementation
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DefaultEditorKit.CutAction
-permalink: Java/DefaultEditorKit/CutAction
+permalink: /Java/DefaultEditorKit/CutAction/
 date: 2021-01-11
-key: JavaJava.D.DefaultEditorKit.CutAction
-category: java
+key: Java.D.DefaultEditorKit.CutAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

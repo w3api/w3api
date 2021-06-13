@@ -1,9 +1,9 @@
 ---
 title: Container.findComponentAt()
-permalink: Java/Container/findComponentAt
+permalink: /Java/Container/findComponentAt/
 date: 2021-01-11
-key: JavaJava.C.Container
-category: java
+key: Java.C.Container
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

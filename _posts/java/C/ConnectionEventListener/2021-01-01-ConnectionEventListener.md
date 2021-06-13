@@ -1,9 +1,9 @@
 ---
 title: ConnectionEventListener
-permalink: Java/ConnectionEventListener
+permalink: /Java/ConnectionEventListener/
 date: 2021-01-11
-key: JavaJava.C.ConnectionEventListener
-category: java
+key: Java.C.ConnectionEventListener
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

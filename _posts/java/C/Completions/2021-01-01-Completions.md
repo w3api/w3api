@@ -1,9 +1,9 @@
 ---
 title: Completions
-permalink: Java/Completions
+permalink: /Java/Completions/
 date: 2021-01-11
-key: JavaJava.C.Completions
-category: java
+key: Java.C.Completions
+category: Java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

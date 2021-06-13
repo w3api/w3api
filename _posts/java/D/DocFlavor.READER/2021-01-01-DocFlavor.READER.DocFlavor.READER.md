@@ -1,9 +1,9 @@
 ---
 title: DocFlavor.READER.DocFlavor.READER()
-permalink: Java/DocFlavor/READER/DocFlavor/READER
+permalink: /Java/DocFlavor/READER/DocFlavor/READER/
 date: 2021-01-11
-key: JavaJava.D.DocFlavor.READER
-category: java
+key: Java.D.DocFlavor.READER
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CompositeView
-permalink: Java/CompositeView
+permalink: /Java/CompositeView/
 date: 2021-01-11
-key: JavaJava.C.CompositeView
-category: java
+key: Java.C.CompositeView
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

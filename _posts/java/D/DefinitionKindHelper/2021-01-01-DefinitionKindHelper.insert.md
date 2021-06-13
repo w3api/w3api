@@ -1,9 +1,9 @@
 ---
 title: DefinitionKindHelper.insert()
-permalink: Java/DefinitionKindHelper/insert
+permalink: /Java/DefinitionKindHelper/insert/
 date: 2021-01-11
-key: JavaJava.D.DefinitionKindHelper
-category: java
+key: Java.D.DefinitionKindHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

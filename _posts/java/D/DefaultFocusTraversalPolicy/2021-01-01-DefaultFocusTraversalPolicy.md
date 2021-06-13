@@ -1,9 +1,9 @@
 ---
 title: DefaultFocusTraversalPolicy
-permalink: Java/DefaultFocusTraversalPolicy
+permalink: /Java/DefaultFocusTraversalPolicy/
 date: 2021-01-11
-key: JavaJava.D.DefaultFocusTraversalPolicy
-category: java
+key: Java.D.DefaultFocusTraversalPolicy
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

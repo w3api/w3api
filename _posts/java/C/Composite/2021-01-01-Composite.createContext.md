@@ -1,9 +1,9 @@
 ---
 title: Composite.createContext()
-permalink: Java/Composite/createContext
+permalink: /Java/Composite/createContext/
 date: 2021-01-11
-key: JavaJava.C.Composite
-category: java
+key: Java.C.Composite
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

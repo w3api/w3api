@@ -1,9 +1,9 @@
 ---
 title: CountedCompleter.compute()
-permalink: Java/CountedCompleter/compute
+permalink: /Java/CountedCompleter/compute/
 date: 2021-01-11
-key: JavaJava.C.CountedCompleter
-category: java
+key: Java.C.CountedCompleter
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

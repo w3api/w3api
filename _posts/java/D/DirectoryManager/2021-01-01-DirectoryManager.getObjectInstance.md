@@ -1,9 +1,9 @@
 ---
 title: DirectoryManager.getObjectInstance()
-permalink: Java/DirectoryManager/getObjectInstance
+permalink: /Java/DirectoryManager/getObjectInstance/
 date: 2021-01-11
-key: JavaJava.D.DirectoryManager
-category: java
+key: Java.D.DirectoryManager
+category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

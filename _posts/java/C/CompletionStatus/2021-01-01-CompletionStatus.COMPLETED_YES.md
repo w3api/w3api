@@ -1,9 +1,9 @@
 ---
 title: CompletionStatus.COMPLETED_YES
-permalink: Java/CompletionStatus/COMPLETED_YES
+permalink: /Java/CompletionStatus/COMPLETED_YES/
 date: 2021-01-11
-key: JavaJava.C.CompletionStatus
-category: java
+key: Java.C.CompletionStatus
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

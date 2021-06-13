@@ -1,9 +1,9 @@
 ---
 title: DesktopIconUI.DesktopIconUI()
-permalink: Java/DesktopIconUI/DesktopIconUI
+permalink: /Java/DesktopIconUI/DesktopIconUI/
 date: 2021-01-11
-key: JavaJava.D.DesktopIconUI
-category: java
+key: Java.D.DesktopIconUI
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

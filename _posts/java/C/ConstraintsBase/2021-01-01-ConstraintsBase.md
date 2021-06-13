@@ -1,9 +1,9 @@
 ---
 title: ConstraintsBase
-permalink: Java/ConstraintsBase
+permalink: /Java/ConstraintsBase/
 date: 2021-01-11
-key: JavaJava.C.ConstraintsBase
-category: java
+key: Java.C.ConstraintsBase
+category: Java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CssParser
-permalink: Java/CssParser
+permalink: /Java/CssParser/
 date: 2021-01-11
-key: JavaJava.C.CssParser
-category: java
+key: Java.C.CssParser
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 
   nav: java

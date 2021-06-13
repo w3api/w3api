@@ -1,9 +1,9 @@
 ---
 title: ContextList.ContextList()
-permalink: Java/ContextList/ContextList
+permalink: /Java/ContextList/ContextList/
 date: 2021-01-11
-key: JavaJava.C.ContextList
-category: java
+key: Java.C.ContextList
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'JDKJava 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DirectExecutionControl
-permalink: Java/DirectExecutionControl
+permalink: /Java/DirectExecutionControl/
 date: 2021-01-11
-key: JavaJava.D.DirectExecutionControl
-category: java
+key: Java.D.DirectExecutionControl
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'clase java', 'Java 9']
 sidebar: 
   nav: java

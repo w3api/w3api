@@ -1,9 +1,9 @@
 ---
 title: DecimalFormatSymbolsProvider
-permalink: Java/DecimalFormatSymbolsProvider
+permalink: /Java/DecimalFormatSymbolsProvider/
 date: 2021-01-11
-key: JavaJava.D.DecimalFormatSymbolsProvider
-category: java
+key: Java.D.DecimalFormatSymbolsProvider
+category: Java
 tags: ['java se', 'java.text.spi', 'java.base', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

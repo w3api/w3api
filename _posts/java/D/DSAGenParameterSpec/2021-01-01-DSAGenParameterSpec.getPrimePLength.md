@@ -1,9 +1,9 @@
 ---
 title: DSAGenParameterSpec.getPrimePLength()
-permalink: Java/DSAGenParameterSpec/getPrimePLength
+permalink: /Java/DSAGenParameterSpec/getPrimePLength/
 date: 2021-01-11
-key: JavaJava.D.DSAGenParameterSpec
-category: java
+key: Java.D.DSAGenParameterSpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

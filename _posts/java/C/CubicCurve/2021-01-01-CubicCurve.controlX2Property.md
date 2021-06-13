@@ -1,9 +1,9 @@
 ---
 title: CubicCurve.controlX2Property()
-permalink: Java/CubicCurve/controlX2Property
+permalink: /Java/CubicCurve/controlX2Property/
 date: 2021-01-11
-key: JavaJava.C.CubicCurve
-category: java
+key: Java.C.CubicCurve
+category: Java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

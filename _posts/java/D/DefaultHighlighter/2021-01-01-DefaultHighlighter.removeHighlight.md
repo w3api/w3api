@@ -1,9 +1,9 @@
 ---
 title: DefaultHighlighter.removeHighlight()
-permalink: Java/DefaultHighlighter/removeHighlight
+permalink: /Java/DefaultHighlighter/removeHighlight/
 date: 2021-01-11
-key: JavaJava.D.DefaultHighlighter
-category: java
+key: Java.D.DefaultHighlighter
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

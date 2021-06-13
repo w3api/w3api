@@ -1,9 +1,9 @@
 ---
 title: DepthTest.DISABLE
-permalink: Java/DepthTest/DISABLE
+permalink: /Java/DepthTest/DISABLE/
 date: 2021-01-11
-key: JavaJava.D.DepthTest
-category: java
+key: Java.D.DepthTest
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'campo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

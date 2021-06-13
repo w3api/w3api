@@ -1,9 +1,9 @@
 ---
 title: DateTimeException.DateTimeException()
-permalink: Java/DateTimeException/DateTimeException
+permalink: /Java/DateTimeException/DateTimeException/
 date: 2021-01-11
-key: JavaJava.D.DateTimeException
-category: java
+key: Java.D.DateTimeException
+category: Java
 tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

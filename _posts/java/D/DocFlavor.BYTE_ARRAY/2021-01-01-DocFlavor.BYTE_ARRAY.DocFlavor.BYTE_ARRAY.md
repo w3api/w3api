@@ -1,9 +1,9 @@
 ---
 title: DocFlavor.BYTE_ARRAY.DocFlavor.BYTE_ARRAY()
-permalink: Java/DocFlavor/BYTE_ARRAY/DocFlavor/BYTE_ARRAY
+permalink: /Java/DocFlavor/BYTE_ARRAY/DocFlavor/BYTE_ARRAY/
 date: 2021-01-11
-key: JavaJava.D.DocFlavor.BYTE_ARRAY
-category: java
+key: Java.D.DocFlavor.BYTE_ARRAY
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

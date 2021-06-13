@@ -1,9 +1,9 @@
 ---
 title: CropImageFilter
-permalink: Java/CropImageFilter
+permalink: /Java/CropImageFilter/
 date: 2021-01-11
-key: JavaJava.C.CropImageFilter
-category: java
+key: Java.C.CropImageFilter
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

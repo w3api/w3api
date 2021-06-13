@@ -1,9 +1,9 @@
 ---
 title: Configuration
-permalink: Java/Configuration/
+permalink: /Java/Configuration//
 date: 2021-01-11
-key: JavaJava.C.Configuration
-category: java
+key: Java.C.Configuration
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

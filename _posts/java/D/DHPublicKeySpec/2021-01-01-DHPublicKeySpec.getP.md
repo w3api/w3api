@@ -1,9 +1,9 @@
 ---
 title: DHPublicKeySpec.getP()
-permalink: Java/DHPublicKeySpec/getP
+permalink: /Java/DHPublicKeySpec/getP/
 date: 2021-01-11
-key: JavaJava.D.DHPublicKeySpec
-category: java
+key: Java.D.DHPublicKeySpec
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

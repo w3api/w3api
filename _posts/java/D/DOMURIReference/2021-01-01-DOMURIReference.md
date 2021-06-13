@@ -1,9 +1,9 @@
 ---
 title: DOMURIReference
-permalink: Java/DOMURIReference
+permalink: /Java/DOMURIReference/
 date: 2021-01-11
-key: JavaJava.D.DOMURIReference
-category: java
+key: Java.D.DOMURIReference
+category: Java
 tags: ['java se', 'javax.xml.crypto.dom', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

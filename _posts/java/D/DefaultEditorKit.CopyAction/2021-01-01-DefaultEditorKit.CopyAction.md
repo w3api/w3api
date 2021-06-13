@@ -1,9 +1,9 @@
 ---
 title: DefaultEditorKit.CopyAction
-permalink: Java/DefaultEditorKit/CopyAction
+permalink: /Java/DefaultEditorKit/CopyAction/
 date: 2021-01-11
-key: JavaJava.D.DefaultEditorKit.CopyAction
-category: java
+key: Java.D.DefaultEditorKit.CopyAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

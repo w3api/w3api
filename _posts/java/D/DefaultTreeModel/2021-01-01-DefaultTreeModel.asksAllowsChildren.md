@@ -1,9 +1,9 @@
 ---
 title: DefaultTreeModel.asksAllowsChildren
-permalink: Java/DefaultTreeModel/asksAllowsChildren
+permalink: /Java/DefaultTreeModel/asksAllowsChildren/
 date: 2021-01-11
-key: JavaJava.D.DefaultTreeModel
-category: java
+key: Java.D.DefaultTreeModel
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

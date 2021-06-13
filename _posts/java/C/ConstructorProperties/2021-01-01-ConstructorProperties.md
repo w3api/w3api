@@ -1,9 +1,9 @@
 ---
 title: ConstructorProperties
-permalink: Java/ConstructorProperties
+permalink: /Java/ConstructorProperties/
 date: 2021-01-11
-key: JavaJava.C.ConstructorProperties
-category: java
+key: Java.C.ConstructorProperties
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'anotacion java', 'Java 1.6']
 sidebar: 
   nav: java

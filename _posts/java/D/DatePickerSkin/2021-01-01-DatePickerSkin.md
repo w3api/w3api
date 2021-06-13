@@ -1,9 +1,9 @@
 ---
 title: DatePickerSkin
-permalink: Java/DatePickerSkin
+permalink: /Java/DatePickerSkin/
 date: 2021-01-11
-key: JavaJava.D.DatePickerSkin
-category: java
+key: Java.D.DatePickerSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

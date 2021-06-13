@@ -1,9 +1,9 @@
 ---
 title: ConcurrentHashMap.KeySetView.containsAll()
-permalink: Java/ConcurrentHashMap/KeySetView/containsAll
+permalink: /Java/ConcurrentHashMap/KeySetView/containsAll/
 date: 2021-01-11
-key: JavaJava.C.ConcurrentHashMap.KeySetView
-category: java
+key: Java.C.ConcurrentHashMap.KeySetView
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

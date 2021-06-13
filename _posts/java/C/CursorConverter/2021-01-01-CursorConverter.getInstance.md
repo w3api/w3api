@@ -1,9 +1,9 @@
 ---
 title: CursorConverter.getInstance()
-permalink: Java/CursorConverter/getInstance
+permalink: /Java/CursorConverter/getInstance/
 date: 2021-01-11
-key: JavaJava.C.CursorConverter
-category: java
+key: Java.C.CursorConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

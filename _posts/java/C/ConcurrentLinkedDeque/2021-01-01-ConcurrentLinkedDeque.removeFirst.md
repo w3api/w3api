@@ -1,9 +1,9 @@
 ---
 title: ConcurrentLinkedDeque.removeFirst()
-permalink: Java/ConcurrentLinkedDeque/removeFirst
+permalink: /Java/ConcurrentLinkedDeque/removeFirst/
 date: 2021-01-11
-key: JavaJava.C.ConcurrentLinkedDeque
-category: java
+key: Java.C.ConcurrentLinkedDeque
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

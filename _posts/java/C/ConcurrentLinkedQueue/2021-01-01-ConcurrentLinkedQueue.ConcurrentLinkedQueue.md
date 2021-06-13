@@ -1,9 +1,9 @@
 ---
 title: ConcurrentLinkedQueue.ConcurrentLinkedQueue()
-permalink: Java/ConcurrentLinkedQueue/ConcurrentLinkedQueue
+permalink: /Java/ConcurrentLinkedQueue/ConcurrentLinkedQueue/
 date: 2021-01-11
-key: JavaJava.C.ConcurrentLinkedQueue
-category: java
+key: Java.C.ConcurrentLinkedQueue
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

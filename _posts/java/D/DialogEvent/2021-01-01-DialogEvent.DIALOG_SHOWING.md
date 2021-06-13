@@ -1,9 +1,9 @@
 ---
 title: DialogEvent.DIALOG_SHOWING
-permalink: Java/DialogEvent/DIALOG_SHOWING
+permalink: /Java/DialogEvent/DIALOG_SHOWING/
 date: 2021-01-11
-key: JavaJava.D.DialogEvent
-category: java
+key: Java.D.DialogEvent
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'campo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

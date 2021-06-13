@@ -1,9 +1,9 @@
 ---
 title: DefaultEditorKit.InsertBreakAction.DefaultEditorKit.InsertBreakAction()
-permalink: Java/DefaultEditorKit/InsertBreakAction/DefaultEditorKit/InsertBreakAction
+permalink: /Java/DefaultEditorKit/InsertBreakAction/DefaultEditorKit/InsertBreakAction/
 date: 2021-01-11
-key: JavaJava.D.DefaultEditorKit.InsertBreakAction
-category: java
+key: Java.D.DefaultEditorKit.InsertBreakAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

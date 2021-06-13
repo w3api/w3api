@@ -1,9 +1,9 @@
 ---
 title: Diagnostic.NOPOS
-permalink: Java/Diagnostic-jdk-nashorn-api-tree/NOPOS
+permalink: /Java/Diagnostic-jdk-nashorn-api-tree/NOPOS/
 date: 2021-01-11
-key: JavaJava.D.Diagnostic-jdk-nashorn-api-tree
-category: java
+key: Java.D.Diagnostic-jdk-nashorn-api-tree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'campo java', 'Java 9']
 sidebar: 
   nav: java

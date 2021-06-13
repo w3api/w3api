@@ -1,9 +1,9 @@
 ---
 title: CurrencyStringConverter.CurrencyStringConverter()
-permalink: Java/CurrencyStringConverter/CurrencyStringConverter
+permalink: /Java/CurrencyStringConverter/CurrencyStringConverter/
 date: 2021-01-11
-key: JavaJava.C.CurrencyStringConverter
-category: java
+key: Java.C.CurrencyStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

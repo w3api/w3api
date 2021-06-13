@@ -1,9 +1,9 @@
 ---
 title: DefaultDesktopManager.dragFrame()
-permalink: Java/DefaultDesktopManager/dragFrame
+permalink: /Java/DefaultDesktopManager/dragFrame/
 date: 2021-01-11
-key: JavaJava.D.DefaultDesktopManager
-category: java
+key: Java.D.DefaultDesktopManager
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

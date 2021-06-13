@@ -1,9 +1,9 @@
 ---
 title: CompletionService.take()
-permalink: Java/CompletionService/take
+permalink: /Java/CompletionService/take/
 date: 2021-01-11
-key: JavaJava.C.CompletionService
-category: java
+key: Java.C.CompletionService
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DateTimeStringConverter.getDateFormat()
-permalink: Java/DateTimeStringConverter/getDateFormat
+permalink: /Java/DateTimeStringConverter/getDateFormat/
 date: 2021-01-11
-key: JavaJava.D.DateTimeStringConverter
-category: java
+key: Java.D.DateTimeStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

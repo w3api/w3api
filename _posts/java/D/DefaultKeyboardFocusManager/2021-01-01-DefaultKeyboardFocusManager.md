@@ -1,9 +1,9 @@
 ---
 title: DefaultKeyboardFocusManager
-permalink: Java/DefaultKeyboardFocusManager
+permalink: /Java/DefaultKeyboardFocusManager/
 date: 2021-01-11
-key: JavaJava.D.DefaultKeyboardFocusManager
-category: java
+key: Java.D.DefaultKeyboardFocusManager
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

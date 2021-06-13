@@ -1,9 +1,9 @@
 ---
 title: DOMLocator
-permalink: Java/DOMLocator-org-w3c-dom
+permalink: /Java/DOMLocator-org-w3c-dom/
 date: 2021-01-11
-key: JavaJava.D.DOMLocator-org-w3c-dom
-category: java
+key: Java.D.DOMLocator-org-w3c-dom
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'interface java', 'Java 1.5', 'DOM Level 3']
 sidebar: 
   nav: java

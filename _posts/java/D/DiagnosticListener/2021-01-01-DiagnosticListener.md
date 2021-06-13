@@ -1,9 +1,9 @@
 ---
 title: DiagnosticListener
-permalink: Java/DiagnosticListener/
+permalink: /Java/DiagnosticListener//
 date: 2021-01-11
-key: JavaJava.D.DiagnosticListener
-category: java
+key: Java.D.DiagnosticListener
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

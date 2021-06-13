@@ -1,9 +1,9 @@
 ---
 title: DesignMode.isDesignTime()
-permalink: Java/DesignMode/isDesignTime
+permalink: /Java/DesignMode/isDesignTime/
 date: 2021-01-11
-key: JavaJava.D.DesignMode
-category: java
+key: Java.D.DesignMode
+category: Java
 tags: ['java se', 'java.beans', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

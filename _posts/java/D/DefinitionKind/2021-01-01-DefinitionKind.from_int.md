@@ -1,9 +1,9 @@
 ---
 title: DefinitionKind.from_int()
-permalink: Java/DefinitionKind/from_int
+permalink: /Java/DefinitionKind/from_int/
 date: 2021-01-11
-key: JavaJava.D.DefinitionKind
-category: java
+key: Java.D.DefinitionKind
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

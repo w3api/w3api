@@ -1,9 +1,9 @@
 ---
 title: DiagnosticListener.report()
-permalink: Java/DiagnosticListener-jdk-nashorn-api-tree/report
+permalink: /Java/DiagnosticListener-jdk-nashorn-api-tree/report/
 date: 2021-01-11
-key: JavaJava.D.DiagnosticListener-jdk-nashorn-api-tree
-category: java
+key: Java.D.DiagnosticListener-jdk-nashorn-api-tree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DimensionUIResource
-permalink: Java/DimensionUIResource
+permalink: /Java/DimensionUIResource/
 date: 2021-01-11
-key: JavaJava.D.DimensionUIResource
-category: java
+key: Java.D.DimensionUIResource
+category: Java
 tags: ['java se', 'javax.swing.plaf', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

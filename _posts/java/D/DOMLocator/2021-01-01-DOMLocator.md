@@ -1,9 +1,9 @@
 ---
 title: DOMLocator
-permalink: Java/DOMLocator/
+permalink: /Java/DOMLocator//
 date: 2021-01-11
-key: JavaJava.D.DOMLocator
-category: java
+key: Java.D.DOMLocator
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DTDConstants.NMTOKEN
-permalink: Java/DTDConstants/NMTOKEN
+permalink: /Java/DTDConstants/NMTOKEN/
 date: 2021-01-11
-key: JavaJava.D.DTDConstants
-category: java
+key: Java.D.DTDConstants
+category: Java
 tags: ['java se', 'javax.swing.text.html.parser', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

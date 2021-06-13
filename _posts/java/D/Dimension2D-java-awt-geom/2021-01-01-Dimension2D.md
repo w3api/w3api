@@ -1,9 +1,9 @@
 ---
 title: Dimension2D
-permalink: Java/Dimension2D-java-awt-geom
+permalink: /Java/Dimension2D-java-awt-geom/
 date: 2021-01-11
-key: JavaJava.D.Dimension2D-java-awt-geom
-category: java
+key: Java.D.Dimension2D-java-awt-geom
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

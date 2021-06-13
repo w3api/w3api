@@ -1,9 +1,9 @@
 ---
 title: DHPrivateKeySpec
-permalink: Java/DHPrivateKeySpec
+permalink: /Java/DHPrivateKeySpec/
 date: 2021-01-11
-key: JavaJava.D.DHPrivateKeySpec
-category: java
+key: Java.D.DHPrivateKeySpec
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DefaultStringConverter
-permalink: Java/DefaultStringConverter
+permalink: /Java/DefaultStringConverter/
 date: 2021-01-11
-key: JavaJava.D.DefaultStringConverter
-category: java
+key: Java.D.DefaultStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

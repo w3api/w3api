@@ -1,9 +1,9 @@
 ---
 title: Component.BaselineResizeBehavior
-permalink: Java/Component/BaselineResizeBehavior
+permalink: /Java/Component/BaselineResizeBehavior/
 date: 2021-01-11
-key: JavaJava.C.Component.BaselineResizeBehavior
-category: java
+key: Java.C.Component.BaselineResizeBehavior
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'enumerado java', 'Java 1.6']
 sidebar: 
   nav: java

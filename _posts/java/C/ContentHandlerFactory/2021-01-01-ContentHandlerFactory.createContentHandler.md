@@ -1,9 +1,9 @@
 ---
 title: ContentHandlerFactory.createContentHandler()
-permalink: Java/ContentHandlerFactory/createContentHandler
+permalink: /Java/ContentHandlerFactory/createContentHandler/
 date: 2021-01-11
-key: JavaJava.C.ContentHandlerFactory
-category: java
+key: Java.C.ContentHandlerFactory
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

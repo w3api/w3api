@@ -1,9 +1,9 @@
 ---
 title: DialogPane.createDetailsButton()
-permalink: Java/DialogPane/createDetailsButton
+permalink: /Java/DialogPane/createDetailsButton/
 date: 2021-01-11
-key: JavaJava.D.DialogPane
-category: java
+key: Java.D.DialogPane
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

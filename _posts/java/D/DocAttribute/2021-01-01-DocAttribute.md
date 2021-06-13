@@ -1,9 +1,9 @@
 ---
 title: DocAttribute
-permalink: Java/DocAttribute
+permalink: /Java/DocAttribute/
 date: 2021-01-11
-key: JavaJava.D.DocAttribute
-category: java
+key: Java.D.DocAttribute
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

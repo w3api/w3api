@@ -1,9 +1,9 @@
 ---
 title: Constructor.getParameterCount()
-permalink: Java/Constructor/getParameterCount
+permalink: /Java/Constructor/getParameterCount/
 date: 2021-01-11
-key: JavaJava.C.Constructor
-category: java
+key: Java.C.Constructor
+category: Java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

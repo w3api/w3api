@@ -1,9 +1,9 @@
 ---
 title: DOMSignContext.setParent()
-permalink: Java/DOMSignContext/setParent
+permalink: /Java/DOMSignContext/setParent/
 date: 2021-01-11
-key: JavaJava.D.DOMSignContext
-category: java
+key: Java.D.DOMSignContext
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig.dom', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DescriptorRead
-permalink: Java/DescriptorRead
+permalink: /Java/DescriptorRead/
 date: 2021-01-11
-key: JavaJava.D.DescriptorRead
-category: java
+key: Java.D.DescriptorRead
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

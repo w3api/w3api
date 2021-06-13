@@ -1,9 +1,9 @@
 ---
 title: DisplacementMap
-permalink: Java/DisplacementMap
+permalink: /Java/DisplacementMap/
 date: 2021-01-11
-key: JavaJava.D.DisplacementMap
-category: java
+key: Java.D.DisplacementMap
+category: Java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 
   nav: java

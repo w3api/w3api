@@ -1,9 +1,9 @@
 ---
 title: DefaultRowSorter.setSortable()
-permalink: Java/DefaultRowSorter/setSortable
+permalink: /Java/DefaultRowSorter/setSortable/
 date: 2021-01-11
-key: JavaJava.D.DefaultRowSorter
-category: java
+key: Java.D.DefaultRowSorter
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CompositeDataSupport.getAll()
-permalink: Java/CompositeDataSupport/getAll
+permalink: /Java/CompositeDataSupport/getAll/
 date: 2021-01-11
-key: JavaJava.C.CompositeDataSupport
-category: java
+key: Java.C.CompositeDataSupport
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ConstructorParameters
-permalink: Java/ConstructorParameters
+permalink: /Java/ConstructorParameters/
 date: 2021-01-11
-key: JavaJava.C.ConstructorParameters
-category: java
+key: Java.C.ConstructorParameters
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'anotacion java', 'Java 9']
 sidebar: 
   nav: java

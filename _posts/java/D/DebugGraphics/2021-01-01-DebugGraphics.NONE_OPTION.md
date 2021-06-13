@@ -1,9 +1,9 @@
 ---
 title: DebugGraphics.NONE_OPTION
-permalink: Java/DebugGraphics/NONE_OPTION
+permalink: /Java/DebugGraphics/NONE_OPTION/
 date: 2021-01-11
-key: JavaJava.D.DebugGraphics
-category: java
+key: Java.D.DebugGraphics
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CompletionStatusHelper.id()
-permalink: Java/CompletionStatusHelper/id
+permalink: /Java/CompletionStatusHelper/id/
 date: 2021-01-11
-key: JavaJava.C.CompletionStatusHelper
-category: java
+key: Java.C.CompletionStatusHelper
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

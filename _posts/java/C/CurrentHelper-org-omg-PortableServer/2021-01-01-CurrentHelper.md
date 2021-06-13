@@ -1,9 +1,9 @@
 ---
 title: CurrentHelper
-permalink: Java/CurrentHelper-org-omg-PortableServer
+permalink: /Java/CurrentHelper-org-omg-PortableServer/
 date: 2021-01-11
-key: JavaJava.C.CurrentHelper-org-omg-PortableServer
-category: java
+key: Java.C.CurrentHelper-org-omg-PortableServer
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

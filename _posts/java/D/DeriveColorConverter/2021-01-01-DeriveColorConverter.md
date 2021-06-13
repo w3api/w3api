@@ -1,9 +1,9 @@
 ---
 title: DeriveColorConverter
-permalink: Java/DeriveColorConverter
+permalink: /Java/DeriveColorConverter/
 date: 2021-01-11
-key: JavaJava.D.DeriveColorConverter
-category: java
+key: Java.D.DeriveColorConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

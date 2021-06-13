@@ -1,9 +1,9 @@
 ---
 title: DHPrivateKey.serialVersionUID
-permalink: Java/DHPrivateKey/serialVersionUID
+permalink: /Java/DHPrivateKey/serialVersionUID/
 date: 2021-01-11
-key: JavaJava.D.DHPrivateKey
-category: java
+key: Java.D.DHPrivateKey
+category: Java
 tags: ['java se', 'javax.crypto.interfaces', 'java.base', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

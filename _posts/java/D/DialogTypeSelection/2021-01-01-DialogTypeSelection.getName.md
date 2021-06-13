@@ -1,9 +1,9 @@
 ---
 title: DialogTypeSelection.getName()
-permalink: Java/DialogTypeSelection/getName
+permalink: /Java/DialogTypeSelection/getName/
 date: 2021-01-11
-key: JavaJava.D.DialogTypeSelection
-category: java
+key: Java.D.DialogTypeSelection
+category: Java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'metodo java', 'Java 1.7']
 sidebar: 
   nav: java

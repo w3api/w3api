@@ -1,9 +1,9 @@
 ---
 title: ConditionalLoopTree.getCondition()
-permalink: Java/ConditionalLoopTree/getCondition
+permalink: /Java/ConditionalLoopTree/getCondition/
 date: 2021-01-11
-key: JavaJava.C.ConditionalLoopTree
-category: java
+key: Java.C.ConditionalLoopTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

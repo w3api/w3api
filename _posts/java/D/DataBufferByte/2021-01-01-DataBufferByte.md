@@ -1,9 +1,9 @@
 ---
 title: DataBufferByte
-permalink: Java/DataBufferByte
+permalink: /Java/DataBufferByte/
 date: 2021-01-11
-key: JavaJava.D.DataBufferByte
-category: java
+key: Java.D.DataBufferByte
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

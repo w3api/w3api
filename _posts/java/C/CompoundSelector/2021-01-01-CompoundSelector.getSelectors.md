@@ -1,9 +1,9 @@
 ---
 title: CompoundSelector.getSelectors()
-permalink: Java/CompoundSelector/getSelectors
+permalink: /Java/CompoundSelector/getSelectors/
 date: 2021-01-11
-key: JavaJava.C.CompoundSelector
-category: java
+key: Java.C.CompoundSelector
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

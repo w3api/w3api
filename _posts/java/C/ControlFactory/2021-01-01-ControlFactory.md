@@ -1,9 +1,9 @@
 ---
 title: ControlFactory
-permalink: Java/ControlFactory
+permalink: /Java/ControlFactory/
 date: 2021-01-11
-key: JavaJava.C.ControlFactory
-category: java
+key: Java.C.ControlFactory
+category: Java
 tags: ['java se', 'javax.naming.ldap', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

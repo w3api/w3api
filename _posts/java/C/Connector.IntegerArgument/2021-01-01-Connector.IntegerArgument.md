@@ -1,9 +1,9 @@
 ---
 title: Connector.IntegerArgument
-permalink: Java/Connector/IntegerArgument
+permalink: /Java/Connector/IntegerArgument/
 date: 2021-01-11
-key: JavaJava.C.Connector.IntegerArgument
-category: java
+key: Java.C.Connector.IntegerArgument
+category: Java
 tags: ['java se', 'com.sun.jdi.connect', 'jdk.jdi', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

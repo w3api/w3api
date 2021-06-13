@@ -1,9 +1,9 @@
 ---
 title: DoWhileLoopTree
-permalink: Java/DoWhileLoopTree/
+permalink: /Java/DoWhileLoopTree//
 date: 2021-01-11
-key: JavaJava.D.DoWhileLoopTree
-category: java
+key: Java.D.DoWhileLoopTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

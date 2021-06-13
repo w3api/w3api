@@ -1,9 +1,9 @@
 ---
 title: CursorConverter
-permalink: Java/CursorConverter
+permalink: /Java/CursorConverter/
 date: 2021-01-11
-key: JavaJava.C.CursorConverter
-category: java
+key: Java.C.CursorConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 9']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Dimension2D.equals()
-permalink: Java/Dimension2D-javafx-geometry/equals
+permalink: /Java/Dimension2D-javafx-geometry/equals/
 date: 2021-01-11
-key: JavaJava.D.Dimension2D-javafx-geometry
-category: java
+key: Java.D.Dimension2D-javafx-geometry
+category: Java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

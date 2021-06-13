@@ -1,9 +1,9 @@
 ---
 title: DataInputStream
-permalink: Java/DataInputStream/
+permalink: /Java/DataInputStream//
 date: 2021-01-11
-key: JavaJava.D.DataInputStream
-category: java
+key: Java.D.DataInputStream
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

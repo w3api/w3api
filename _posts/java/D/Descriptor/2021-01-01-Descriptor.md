@@ -1,9 +1,9 @@
 ---
 title: Descriptor
-permalink: Java/Descriptor
+permalink: /Java/Descriptor/
 date: 2021-01-11
-key: JavaJava.D.Descriptor
-category: java
+key: Java.D.Descriptor
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

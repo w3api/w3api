@@ -1,9 +1,9 @@
 ---
 title: DateTimeStringConverter
-permalink: Java/DateTimeStringConverter
+permalink: /Java/DateTimeStringConverter/
 date: 2021-01-11
-key: JavaJava.D.DateTimeStringConverter
-category: java
+key: Java.D.DateTimeStringConverter
+category: Java
 tags: ['java se', 'javafx.util.converter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 
   nav: java

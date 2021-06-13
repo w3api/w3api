@@ -1,9 +1,9 @@
 ---
 title: DecimalStyle.getNegativeSign()
-permalink: Java/DecimalStyle/getNegativeSign
+permalink: /Java/DecimalStyle/getNegativeSign/
 date: 2021-01-11
-key: JavaJava.D.DecimalStyle
-category: java
+key: Java.D.DecimalStyle
+category: Java
 tags: ['java se', 'java.time.format', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

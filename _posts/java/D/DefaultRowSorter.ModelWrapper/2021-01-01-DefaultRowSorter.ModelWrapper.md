@@ -1,9 +1,9 @@
 ---
 title: DefaultRowSorter.ModelWrapper
-permalink: Java/DefaultRowSorter/ModelWrapper
+permalink: /Java/DefaultRowSorter/ModelWrapper/
 date: 2021-01-11
-key: JavaJava.D.DefaultRowSorter.ModelWrapper
-category: java
+key: Java.D.DefaultRowSorter.ModelWrapper
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

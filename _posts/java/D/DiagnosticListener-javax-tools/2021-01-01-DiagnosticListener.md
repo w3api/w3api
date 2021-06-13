@@ -1,9 +1,9 @@
 ---
 title: DiagnosticListener
-permalink: Java/DiagnosticListener-javax-tools
+permalink: /Java/DiagnosticListener-javax-tools/
 date: 2021-01-11
-key: JavaJava.D.DiagnosticListener-javax-tools
-category: java
+key: Java.D.DiagnosticListener-javax-tools
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

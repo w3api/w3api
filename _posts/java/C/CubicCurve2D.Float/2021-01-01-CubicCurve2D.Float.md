@@ -1,9 +1,9 @@
 ---
 title: CubicCurve2D.Float
-permalink: Java/CubicCurve2D/Float
+permalink: /Java/CubicCurve2D/Float/
 date: 2021-01-11
-key: JavaJava.C.CubicCurve2D.Float
-category: java
+key: Java.C.CubicCurve2D.Float
+category: Java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

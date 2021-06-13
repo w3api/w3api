@@ -1,9 +1,9 @@
 ---
 title: DigestException
-permalink: Java/DigestException
+permalink: /Java/DigestException/
 date: 2021-01-11
-key: JavaJava.D.DigestException
-category: java
+key: Java.D.DigestException
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

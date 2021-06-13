@@ -1,9 +1,9 @@
 ---
 title: DOMImplementationRegistry.getDOMImplementationList()
-permalink: Java/DOMImplementationRegistry/getDOMImplementationList
+permalink: /Java/DOMImplementationRegistry/getDOMImplementationList/
 date: 2021-01-11
-key: JavaJava.D.DOMImplementationRegistry
-category: java
+key: Java.D.DOMImplementationRegistry
+category: Java
 tags: ['java se', 'org.w3c.dom.bootstrap', 'java.xml', 'metodo java', 'Java 1.5', 'DOM Level 3']
 sidebar: 
   nav: java

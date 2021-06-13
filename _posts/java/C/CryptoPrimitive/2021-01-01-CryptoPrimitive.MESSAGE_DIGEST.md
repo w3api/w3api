@@ -1,9 +1,9 @@
 ---
 title: CryptoPrimitive.MESSAGE_DIGEST
-permalink: Java/CryptoPrimitive/MESSAGE_DIGEST
+permalink: /Java/CryptoPrimitive/MESSAGE_DIGEST/
 date: 2021-01-11
-key: JavaJava.C.CryptoPrimitive
-category: java
+key: Java.C.CryptoPrimitive
+category: Java
 tags: ['java se', 'java.security', 'java.base', 'campo java', 'Java 1.7']
 sidebar: 
   nav: java

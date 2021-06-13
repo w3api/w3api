@@ -1,9 +1,9 @@
 ---
 title: Component.BaselineResizeBehavior.CONSTANT_DESCENT
-permalink: Java/Component/BaselineResizeBehavior/CONSTANT_DESCENT
+permalink: /Java/Component/BaselineResizeBehavior/CONSTANT_DESCENT/
 date: 2021-01-11
-key: JavaJava.C.Component.BaselineResizeBehavior
-category: java
+key: Java.C.Component.BaselineResizeBehavior
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: ConversionComparator.Comparison.TYPE_2_BETTER
-permalink: Java/ConversionComparator/Comparison/TYPE_2_BETTER
+permalink: /Java/ConversionComparator/Comparison/TYPE_2_BETTER/
 date: 2021-01-11
-key: JavaJava.C.ConversionComparator.Comparison
-category: java
+key: Java.C.ConversionComparator.Comparison
+category: Java
 tags: ['java se', 'jdk.dynalink.linker', 'jdk.dynalink', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

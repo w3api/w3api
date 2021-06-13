@@ -1,9 +1,9 @@
 ---
 title: ConditionalExpressionTree
-permalink: Java/ConditionalExpressionTree-jdk-nashorn-api-tree
+permalink: /Java/ConditionalExpressionTree-jdk-nashorn-api-tree/
 date: 2021-01-11
-key: JavaJava.C.ConditionalExpressionTree-jdk-nashorn-api-tree
-category: java
+key: Java.C.ConditionalExpressionTree-jdk-nashorn-api-tree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 9']
 sidebar: 
   nav: java

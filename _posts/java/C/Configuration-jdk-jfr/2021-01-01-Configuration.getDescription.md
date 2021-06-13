@@ -1,9 +1,9 @@
 ---
 title: Configuration.getDescription()
-permalink: Java/Configuration-jdk-jfr/getDescription
+permalink: /Java/Configuration-jdk-jfr/getDescription/
 date: 2021-01-11
-key: JavaJava.C.Configuration-jdk-jfr
-category: java
+key: Java.C.Configuration-jdk-jfr
+category: Java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

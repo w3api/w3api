@@ -1,9 +1,9 @@
 ---
 title: ContinueTree
-permalink: Java/ContinueTree/
+permalink: /Java/ContinueTree//
 date: 2021-01-11
-key: JavaJava.C.ContinueTree
-category: java
+key: Java.C.ContinueTree
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CustomValue
-permalink: Java/CustomValue
+permalink: /Java/CustomValue/
 date: 2021-01-11
-key: JavaJava.C.CustomValue
-category: java
+key: Java.C.CustomValue
+category: Java
 tags: ['java se', 'org.omg.CORBA.portable', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

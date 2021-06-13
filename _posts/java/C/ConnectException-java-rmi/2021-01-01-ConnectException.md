@@ -1,9 +1,9 @@
 ---
 title: ConnectException
-permalink: Java/ConnectException-java-rmi
+permalink: /Java/ConnectException-java-rmi/
 date: 2021-01-11
-key: JavaJava.C.ConnectException-java-rmi
-category: java
+key: Java.C.ConnectException-java-rmi
+category: Java
 tags: ['java se', 'java.rmi', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

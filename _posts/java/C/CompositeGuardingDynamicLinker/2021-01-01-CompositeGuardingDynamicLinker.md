@@ -1,9 +1,9 @@
 ---
 title: CompositeGuardingDynamicLinker
-permalink: Java/CompositeGuardingDynamicLinker
+permalink: /Java/CompositeGuardingDynamicLinker/
 date: 2021-01-11
-key: JavaJava.C.CompositeGuardingDynamicLinker
-category: java
+key: Java.C.CompositeGuardingDynamicLinker
+category: Java
 tags: ['java se', 'jdk.dynalink.linker.support', 'jdk.dynalink', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

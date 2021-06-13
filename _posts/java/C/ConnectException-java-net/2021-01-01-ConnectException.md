@@ -1,9 +1,9 @@
 ---
 title: ConnectException
-permalink: Java/ConnectException-java-net
+permalink: /Java/ConnectException-java-net/
 date: 2021-01-11
-key: JavaJava.C.ConnectException-java-net
-category: java
+key: Java.C.ConnectException-java-net
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

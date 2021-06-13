@@ -1,9 +1,9 @@
 ---
 title: DefaultHandler.resolveEntity()
-permalink: Java/DefaultHandler/resolveEntity
+permalink: /Java/DefaultHandler/resolveEntity/
 date: 2021-01-11
-key: JavaJava.D.DefaultHandler
-category: java
+key: Java.D.DefaultHandler
+category: Java
 tags: ['java se', 'org.xml.sax.helpers', 'java.xml', 'metodo java', 'Java 1.4', 'SAX 2.0']
 sidebar: 
   nav: java

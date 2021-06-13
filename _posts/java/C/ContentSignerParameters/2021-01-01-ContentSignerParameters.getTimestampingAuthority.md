@@ -1,9 +1,9 @@
 ---
 title: ContentSignerParameters.getTimestampingAuthority()
-permalink: Java/ContentSignerParameters/getTimestampingAuthority
+permalink: /Java/ContentSignerParameters/getTimestampingAuthority/
 date: 2021-01-11
-key: JavaJava.C.ContentSignerParameters
-category: java
+key: Java.C.ContentSignerParameters
+category: Java
 tags: ['java se', 'com.sun.jarsigner', 'jdk.jartool', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

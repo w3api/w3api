@@ -1,9 +1,9 @@
 ---
 title: DatabaseMetaData.getIndexInfo()
-permalink: Java/DatabaseMetaData/getIndexInfo
+permalink: /Java/DatabaseMetaData/getIndexInfo/
 date: 2021-01-11
-key: JavaJava.D.DatabaseMetaData
-category: java
+key: Java.D.DatabaseMetaData
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

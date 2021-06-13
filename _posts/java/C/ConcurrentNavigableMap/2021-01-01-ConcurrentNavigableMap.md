@@ -1,9 +1,9 @@
 ---
 title: ConcurrentNavigableMap
-permalink: Java/ConcurrentNavigableMap
+permalink: /Java/ConcurrentNavigableMap/
 date: 2021-01-11
-key: JavaJava.C.ConcurrentNavigableMap
-category: java
+key: Java.C.ConcurrentNavigableMap
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

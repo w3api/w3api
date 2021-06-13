@@ -1,9 +1,9 @@
 ---
 title: DefaultTableColumnModel
-permalink: Java/DefaultTableColumnModel
+permalink: /Java/DefaultTableColumnModel/
 date: 2021-01-11
-key: JavaJava.D.DefaultTableColumnModel
-category: java
+key: Java.D.DefaultTableColumnModel
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

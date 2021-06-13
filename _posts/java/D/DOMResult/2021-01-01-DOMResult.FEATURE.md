@@ -1,9 +1,9 @@
 ---
 title: DOMResult.FEATURE
-permalink: Java/DOMResult/FEATURE
+permalink: /Java/DOMResult/FEATURE/
 date: 2021-01-11
-key: JavaJava.D.DOMResult
-category: java
+key: Java.D.DOMResult
+category: Java
 tags: ['java se', 'javax.xml.transform.dom', 'java.xml', 'campo java', 'Java 1.4']
 sidebar: 
   nav: java

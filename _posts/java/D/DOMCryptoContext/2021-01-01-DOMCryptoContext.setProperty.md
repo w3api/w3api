@@ -1,9 +1,9 @@
 ---
 title: DOMCryptoContext.setProperty()
-permalink: Java/DOMCryptoContext/setProperty
+permalink: /Java/DOMCryptoContext/setProperty/
 date: 2021-01-11
-key: JavaJava.D.DOMCryptoContext
-category: java
+key: Java.D.DOMCryptoContext
+category: Java
 tags: ['java se', 'javax.xml.crypto.dom', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

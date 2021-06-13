@@ -1,9 +1,9 @@
 ---
 title: CompositeData
-permalink: Java/CompositeData
+permalink: /Java/CompositeData/
 date: 2021-01-11
-key: JavaJava.C.CompositeData
-category: java
+key: Java.C.CompositeData
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 
   nav: java

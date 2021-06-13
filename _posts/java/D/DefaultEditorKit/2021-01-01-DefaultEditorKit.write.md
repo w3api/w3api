@@ -1,9 +1,9 @@
 ---
 title: DefaultEditorKit.write()
-permalink: Java/DefaultEditorKit/write
+permalink: /Java/DefaultEditorKit/write/
 date: 2021-01-11
-key: JavaJava.D.DefaultEditorKit
-category: java
+key: Java.D.DefaultEditorKit
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

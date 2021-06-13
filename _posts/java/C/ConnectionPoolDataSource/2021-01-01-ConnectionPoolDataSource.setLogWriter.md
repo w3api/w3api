@@ -1,9 +1,9 @@
 ---
 title: ConnectionPoolDataSource.setLogWriter()
-permalink: Java/ConnectionPoolDataSource/setLogWriter
+permalink: /Java/ConnectionPoolDataSource/setLogWriter/
 date: 2021-01-11
-key: JavaJava.C.ConnectionPoolDataSource
-category: java
+key: Java.C.ConnectionPoolDataSource
+category: Java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

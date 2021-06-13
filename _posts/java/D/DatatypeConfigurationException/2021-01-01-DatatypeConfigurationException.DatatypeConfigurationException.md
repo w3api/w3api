@@ -1,9 +1,9 @@
 ---
 title: DatatypeConfigurationException.DatatypeConfigurationException()
-permalink: Java/DatatypeConfigurationException/DatatypeConfigurationException
+permalink: /Java/DatatypeConfigurationException/DatatypeConfigurationException/
 date: 2021-01-11
-key: JavaJava.D.DatatypeConfigurationException
-category: java
+key: Java.D.DatatypeConfigurationException
+category: Java
 tags: ['java se', 'javax.xml.datatype', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

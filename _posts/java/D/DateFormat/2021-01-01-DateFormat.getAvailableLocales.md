@@ -1,9 +1,9 @@
 ---
 title: DateFormat.getAvailableLocales()
-permalink: Java/DateFormat/getAvailableLocales
+permalink: /Java/DateFormat/getAvailableLocales/
 date: 2021-01-11
-key: JavaJava.D.DateFormat
-category: java
+key: Java.D.DateFormat
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

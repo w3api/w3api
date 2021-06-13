@@ -1,9 +1,9 @@
 ---
 title: CompoundControl
-permalink: Java/CompoundControl
+permalink: /Java/CompoundControl/
 date: 2021-01-11
-key: JavaJava.C.CompoundControl
-category: java
+key: Java.C.CompoundControl
+category: Java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'clase java', 'Java 1.3']
 sidebar: 
   nav: java

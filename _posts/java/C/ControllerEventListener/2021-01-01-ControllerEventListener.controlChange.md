@@ -1,9 +1,9 @@
 ---
 title: ControllerEventListener.controlChange()
-permalink: Java/ControllerEventListener/controlChange
+permalink: /Java/ControllerEventListener/controlChange/
 date: 2021-01-11
-key: JavaJava.C.ControllerEventListener
-category: java
+key: Java.C.ControllerEventListener
+category: Java
 tags: ['java se', 'javax.sound.midi', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

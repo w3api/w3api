@@ -1,9 +1,9 @@
 ---
 title: DefaultListCellRenderer
-permalink: Java/DefaultListCellRenderer
+permalink: /Java/DefaultListCellRenderer/
 date: 2021-01-11
-key: JavaJava.D.DefaultListCellRenderer
-category: java
+key: Java.D.DefaultListCellRenderer
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

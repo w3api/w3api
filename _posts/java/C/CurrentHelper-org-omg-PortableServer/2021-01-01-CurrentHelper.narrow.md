@@ -1,9 +1,9 @@
 ---
 title: CurrentHelper.narrow()
-permalink: Java/CurrentHelper-org-omg-PortableServer/narrow
+permalink: /Java/CurrentHelper-org-omg-PortableServer/narrow/
 date: 2021-01-11
-key: JavaJava.C.CurrentHelper-org-omg-PortableServer
-category: java
+key: Java.C.CurrentHelper-org-omg-PortableServer
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

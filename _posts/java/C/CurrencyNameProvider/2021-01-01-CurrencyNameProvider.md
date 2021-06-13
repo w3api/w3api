@@ -1,9 +1,9 @@
 ---
 title: CurrencyNameProvider
-permalink: Java/CurrencyNameProvider
+permalink: /Java/CurrencyNameProvider/
 date: 2021-01-11
-key: JavaJava.C.CurrencyNameProvider
-category: java
+key: Java.C.CurrencyNameProvider
+category: Java
 tags: ['java se', 'java.util.spi', 'java.base', 'clase java', 'Java 1.6']
 sidebar: 
   nav: java

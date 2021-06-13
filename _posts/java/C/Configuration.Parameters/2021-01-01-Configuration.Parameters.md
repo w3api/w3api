@@ -1,9 +1,9 @@
 ---
 title: Configuration.Parameters
-permalink: Java/Configuration/Parameters
+permalink: /Java/Configuration/Parameters/
 date: 2021-01-11
-key: JavaJava.C.Configuration.Parameters
-category: java
+key: Java.C.Configuration.Parameters
+category: Java
 tags: ['java se', 'javax.security.auth.login', 'java.base', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

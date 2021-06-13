@@ -1,9 +1,9 @@
 ---
 title: CssMetaData.getProperty()
-permalink: Java/CssMetaData/getProperty
+permalink: /Java/CssMetaData/getProperty/
 date: 2021-01-11
-key: JavaJava.C.CssMetaData
-category: java
+key: Java.C.CssMetaData
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

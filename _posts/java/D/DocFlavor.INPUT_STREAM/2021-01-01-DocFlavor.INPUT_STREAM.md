@@ -1,9 +1,9 @@
 ---
 title: DocFlavor.INPUT_STREAM
-permalink: Java/DocFlavor/INPUT_STREAM
+permalink: /Java/DocFlavor/INPUT_STREAM/
 date: 2021-01-11
-key: JavaJava.D.DocFlavor.INPUT_STREAM
-category: java
+key: Java.D.DocFlavor.INPUT_STREAM
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CopyOnWriteArrayList
-permalink: Java/CopyOnWriteArrayList
+permalink: /Java/CopyOnWriteArrayList/
 date: 2021-01-11
-key: JavaJava.C.CopyOnWriteArrayList
-category: java
+key: Java.C.CopyOnWriteArrayList
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DOMImplementationLS.createLSOutput()
-permalink: Java/DOMImplementationLS/createLSOutput
+permalink: /Java/DOMImplementationLS/createLSOutput/
 date: 2021-01-11
-key: JavaJava.D.DOMImplementationLS
-category: java
+key: Java.D.DOMImplementationLS
+category: Java
 tags: ['java se', 'org.w3c.dom.ls', 'java.xml', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

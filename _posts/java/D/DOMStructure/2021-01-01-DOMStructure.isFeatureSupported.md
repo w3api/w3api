@@ -1,9 +1,9 @@
 ---
 title: DOMStructure.isFeatureSupported()
-permalink: Java/DOMStructure/isFeatureSupported
+permalink: /Java/DOMStructure/isFeatureSupported/
 date: 2021-01-11
-key: JavaJava.D.DOMStructure
-category: java
+key: Java.D.DOMStructure
+category: Java
 tags: ['java se', 'javax.xml.crypto.dom', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

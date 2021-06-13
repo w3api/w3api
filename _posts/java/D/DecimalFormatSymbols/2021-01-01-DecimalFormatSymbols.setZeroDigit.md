@@ -1,9 +1,9 @@
 ---
 title: DecimalFormatSymbols.setZeroDigit()
-permalink: Java/DecimalFormatSymbols/setZeroDigit
+permalink: /Java/DecimalFormatSymbols/setZeroDigit/
 date: 2021-01-11
-key: JavaJava.D.DecimalFormatSymbols
-category: java
+key: Java.D.DecimalFormatSymbols
+category: Java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

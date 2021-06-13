@@ -1,9 +1,9 @@
 ---
 title: DefaultStyledDocument.ElementSpec
-permalink: Java/DefaultStyledDocument/ElementSpec
+permalink: /Java/DefaultStyledDocument/ElementSpec/
 date: 2021-01-11
-key: JavaJava.D.DefaultStyledDocument.ElementSpec
-category: java
+key: Java.D.DefaultStyledDocument.ElementSpec
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

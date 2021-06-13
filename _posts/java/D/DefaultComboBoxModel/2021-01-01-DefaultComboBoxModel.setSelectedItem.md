@@ -1,9 +1,9 @@
 ---
 title: DefaultComboBoxModel.setSelectedItem()
-permalink: Java/DefaultComboBoxModel/setSelectedItem
+permalink: /Java/DefaultComboBoxModel/setSelectedItem/
 date: 2021-01-11
-key: JavaJava.D.DefaultComboBoxModel
-category: java
+key: Java.D.DefaultComboBoxModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

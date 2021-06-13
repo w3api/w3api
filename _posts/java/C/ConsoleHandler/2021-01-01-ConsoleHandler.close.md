@@ -1,9 +1,9 @@
 ---
 title: ConsoleHandler.close()
-permalink: Java/ConsoleHandler/close
+permalink: /Java/ConsoleHandler/close/
 date: 2021-01-11
-key: JavaJava.C.ConsoleHandler
-category: java
+key: Java.C.ConsoleHandler
+category: Java
 tags: ['java se', 'java.util.logging', 'java.logging', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DatatypeConstants
-permalink: Java/DatatypeConstants
+permalink: /Java/DatatypeConstants/
 date: 2021-01-11
-key: JavaJava.D.DatatypeConstants
-category: java
+key: Java.D.DatatypeConstants
+category: Java
 tags: ['java se', 'javax.xml.datatype', 'java.xml', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

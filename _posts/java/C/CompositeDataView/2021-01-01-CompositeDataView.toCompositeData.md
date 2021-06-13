@@ -1,9 +1,9 @@
 ---
 title: CompositeDataView.toCompositeData()
-permalink: Java/CompositeDataView/toCompositeData
+permalink: /Java/CompositeDataView/toCompositeData/
 date: 2021-01-11
-key: JavaJava.C.CompositeDataView
-category: java
+key: Java.C.CompositeDataView
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

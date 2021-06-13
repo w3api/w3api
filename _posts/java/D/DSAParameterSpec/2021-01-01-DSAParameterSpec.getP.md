@@ -1,9 +1,9 @@
 ---
 title: DSAParameterSpec.getP()
-permalink: Java/DSAParameterSpec/getP
+permalink: /Java/DSAParameterSpec/getP/
 date: 2021-01-11
-key: JavaJava.D.DSAParameterSpec
-category: java
+key: Java.D.DSAParameterSpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

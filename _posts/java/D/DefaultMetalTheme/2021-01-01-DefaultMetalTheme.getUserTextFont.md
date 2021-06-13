@@ -1,9 +1,9 @@
 ---
 title: DefaultMetalTheme.getUserTextFont()
-permalink: Java/DefaultMetalTheme/getUserTextFont
+permalink: /Java/DefaultMetalTheme/getUserTextFont/
 date: 2021-01-11
-key: JavaJava.D.DefaultMetalTheme
-category: java
+key: Java.D.DefaultMetalTheme
+category: Java
 tags: ['java se', 'javax.swing.plaf.metal', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

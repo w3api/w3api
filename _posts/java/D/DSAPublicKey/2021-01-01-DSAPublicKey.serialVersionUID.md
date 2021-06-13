@@ -1,9 +1,9 @@
 ---
 title: DSAPublicKey.serialVersionUID
-permalink: Java/DSAPublicKey/serialVersionUID
+permalink: /Java/DSAPublicKey/serialVersionUID/
 date: 2021-01-11
-key: JavaJava.D.DSAPublicKey
-category: java
+key: Java.D.DSAPublicKey
+category: Java
 tags: ['java se', 'java.security.interfaces', 'java.base', 'campo java', 'Java 1.1']
 sidebar: 
   nav: java

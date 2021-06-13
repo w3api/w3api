@@ -1,9 +1,9 @@
 ---
 title: DTDHandler
-permalink: Java/DTDHandler
+permalink: /Java/DTDHandler/
 date: 2021-01-11
-key: JavaJava.D.DTDHandler
-category: java
+key: Java.D.DTDHandler
+category: Java
 tags: ['java se', 'org.xml.sax', 'java.xml', 'interface java', 'Java 1.4', 'SAX Java 1.0']
 sidebar: 
   nav: java

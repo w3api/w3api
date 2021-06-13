@@ -1,9 +1,9 @@
 ---
 title: DayOfWeek.values()
-permalink: Java/DayOfWeek/values
+permalink: /Java/DayOfWeek/values/
 date: 2021-01-11
-key: JavaJava.D.DayOfWeek
-category: java
+key: Java.D.DayOfWeek
+category: Java
 tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

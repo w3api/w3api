@@ -1,9 +1,9 @@
 ---
 title: DatagramSocketImpl.DatagramSocketImpl()
-permalink: Java/DatagramSocketImpl/DatagramSocketImpl
+permalink: /Java/DatagramSocketImpl/DatagramSocketImpl/
 date: 2021-01-11
-key: JavaJava.D.DatagramSocketImpl
-category: java
+key: Java.D.DatagramSocketImpl
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

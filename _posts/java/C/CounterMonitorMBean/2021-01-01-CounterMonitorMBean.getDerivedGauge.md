@@ -1,9 +1,9 @@
 ---
 title: CounterMonitorMBean.getDerivedGauge()
-permalink: Java/CounterMonitorMBean/getDerivedGauge
+permalink: /Java/CounterMonitorMBean/getDerivedGauge/
 date: 2021-01-11
-key: JavaJava.C.CounterMonitorMBean
-category: java
+key: Java.C.CounterMonitorMBean
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

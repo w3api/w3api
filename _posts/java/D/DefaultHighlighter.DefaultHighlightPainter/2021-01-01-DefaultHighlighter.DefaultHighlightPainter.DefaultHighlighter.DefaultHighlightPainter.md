@@ -1,9 +1,9 @@
 ---
 title: DefaultHighlighter.DefaultHighlightPainter.DefaultHighlighter.DefaultHighlightPainter()
-permalink: Java/DefaultHighlighter/DefaultHighlightPainter/DefaultHighlighter/DefaultHighlightPainter
+permalink: /Java/DefaultHighlighter/DefaultHighlightPainter/DefaultHighlighter/DefaultHighlightPainter/
 date: 2021-01-11
-key: JavaJava.D.DefaultHighlighter.DefaultHighlightPainter
-category: java
+key: Java.D.DefaultHighlighter.DefaultHighlightPainter
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

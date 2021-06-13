@@ -1,9 +1,9 @@
 ---
 title: Connector.BooleanArgument.stringValueOf()
-permalink: Java/Connector/BooleanArgument/stringValueOf
+permalink: /Java/Connector/BooleanArgument/stringValueOf/
 date: 2021-01-11
-key: JavaJava.C.Connector.BooleanArgument
-category: java
+key: Java.C.Connector.BooleanArgument
+category: Java
 tags: ['java se', 'com.sun.jdi.connect', 'jdk.jdi', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: Dimension.getHeight()
-permalink: Java/Dimension/getHeight
+permalink: /Java/Dimension/getHeight/
 date: 2021-01-11
-key: JavaJava.D.Dimension
-category: java
+key: Java.D.Dimension
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

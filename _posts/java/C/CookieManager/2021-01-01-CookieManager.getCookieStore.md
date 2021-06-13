@@ -1,9 +1,9 @@
 ---
 title: CookieManager.getCookieStore()
-permalink: Java/CookieManager/getCookieStore
+permalink: /Java/CookieManager/getCookieStore/
 date: 2021-01-11
-key: JavaJava.C.CookieManager
-category: java
+key: Java.C.CookieManager
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

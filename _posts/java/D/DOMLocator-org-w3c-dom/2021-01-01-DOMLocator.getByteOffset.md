@@ -1,9 +1,9 @@
 ---
 title: DOMLocator.getByteOffset()
-permalink: Java/DOMLocator-org-w3c-dom/getByteOffset
+permalink: /Java/DOMLocator-org-w3c-dom/getByteOffset/
 date: 2021-01-11
-key: JavaJava.D.DOMLocator-org-w3c-dom
-category: java
+key: Java.D.DOMLocator-org-w3c-dom
+category: Java
 tags: ['java se', 'org.w3c.dom', 'java.xml', 'metodo java', 'Java 1.5', 'DOM Level 3']
 sidebar: 
   nav: java

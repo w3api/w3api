@@ -1,9 +1,9 @@
 ---
 title: DefaultCellEditor.clickCountToStart
-permalink: Java/DefaultCellEditor/clickCountToStart
+permalink: /Java/DefaultCellEditor/clickCountToStart/
 date: 2021-01-11
-key: JavaJava.D.DefaultCellEditor
-category: java
+key: Java.D.DefaultCellEditor
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

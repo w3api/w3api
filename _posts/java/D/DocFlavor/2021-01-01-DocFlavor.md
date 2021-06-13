@@ -1,9 +1,9 @@
 ---
 title: DocFlavor
-permalink: Java/DocFlavor
+permalink: /Java/DocFlavor/
 date: 2021-01-11
-key: JavaJava.D.DocFlavor
-category: java
+key: Java.D.DocFlavor
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DefaultColorSelectionModel.addChangeListener()
-permalink: Java/DefaultColorSelectionModel/addChangeListener
+permalink: /Java/DefaultColorSelectionModel/addChangeListener/
 date: 2021-01-11
-key: JavaJava.D.DefaultColorSelectionModel
-category: java
+key: Java.D.DefaultColorSelectionModel
+category: Java
 tags: ['java se', 'javax.swing.colorchooser', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

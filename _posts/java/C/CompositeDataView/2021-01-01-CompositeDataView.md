@@ -1,9 +1,9 @@
 ---
 title: CompositeDataView
-permalink: Java/CompositeDataView
+permalink: /Java/CompositeDataView/
 date: 2021-01-11
-key: JavaJava.C.CompositeDataView
-category: java
+key: Java.C.CompositeDataView
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

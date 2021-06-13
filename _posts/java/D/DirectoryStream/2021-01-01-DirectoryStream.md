@@ -1,9 +1,9 @@
 ---
 title: DirectoryStream
-permalink: Java/DirectoryStream
+permalink: /Java/DirectoryStream/
 date: 2021-01-11
-key: JavaJava.D.DirectoryStream
-category: java
+key: Java.D.DirectoryStream
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 
   nav: java

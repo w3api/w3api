@@ -1,9 +1,9 @@
 ---
 title: DefaultListSelectionModel.listenerList
-permalink: Java/DefaultListSelectionModel/listenerList
+permalink: /Java/DefaultListSelectionModel/listenerList/
 date: 2021-01-11
-key: JavaJava.D.DefaultListSelectionModel
-category: java
+key: Java.D.DefaultListSelectionModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

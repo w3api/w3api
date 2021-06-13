@@ -1,9 +1,9 @@
 ---
 title: DatePicker.DatePicker()
-permalink: Java/DatePicker/DatePicker
+permalink: /Java/DatePicker/DatePicker/
 date: 2021-01-11
-key: JavaJava.D.DatePicker
-category: java
+key: Java.D.DatePicker
+category: Java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'metodo java', 'JavaFX 8.0']
 sidebar: 
   nav: java

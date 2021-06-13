@@ -1,9 +1,9 @@
 ---
 title: CurrentOperations
-permalink: Java/CurrentOperations-org-omg-PortableServer
+permalink: /Java/CurrentOperations-org-omg-PortableServer/
 date: 2021-01-11
-key: JavaJava.C.CurrentOperations-org-omg-PortableServer
-category: java
+key: Java.C.CurrentOperations-org-omg-PortableServer
+category: Java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 
   nav: java

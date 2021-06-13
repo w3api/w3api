@@ -1,9 +1,9 @@
 ---
 title: DataBufferInt.getData()
-permalink: Java/DataBufferInt/getData
+permalink: /Java/DataBufferInt/getData/
 date: 2021-01-11
-key: JavaJava.D.DataBufferInt
-category: java
+key: Java.D.DataBufferInt
+category: Java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

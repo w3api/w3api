@@ -1,9 +1,9 @@
 ---
 title: DeflaterInputStream.skip()
-permalink: Java/DeflaterInputStream/skip
+permalink: /Java/DeflaterInputStream/skip/
 date: 2021-01-11
-key: JavaJava.D.DeflaterInputStream
-category: java
+key: Java.D.DeflaterInputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DSAPrivateKeySpec.getG()
-permalink: Java/DSAPrivateKeySpec/getG
+permalink: /Java/DSAPrivateKeySpec/getG/
 date: 2021-01-11
-key: JavaJava.D.DSAPrivateKeySpec
-category: java
+key: Java.D.DSAPrivateKeySpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

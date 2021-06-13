@@ -1,9 +1,9 @@
 ---
 title: DefaultListSelectionModel
-permalink: Java/DefaultListSelectionModel
+permalink: /Java/DefaultListSelectionModel/
 date: 2021-01-11
-key: JavaJava.D.DefaultListSelectionModel
-category: java
+key: Java.D.DefaultListSelectionModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java

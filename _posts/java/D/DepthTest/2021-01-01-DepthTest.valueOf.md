@@ -1,9 +1,9 @@
 ---
 title: DepthTest.valueOf()
-permalink: Java/DepthTest/valueOf
+permalink: /Java/DepthTest/valueOf/
 date: 2021-01-11
-key: JavaJava.D.DepthTest
-category: java
+key: Java.D.DepthTest
+category: Java
 tags: ['java se', 'javafx.scene', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 
   nav: java

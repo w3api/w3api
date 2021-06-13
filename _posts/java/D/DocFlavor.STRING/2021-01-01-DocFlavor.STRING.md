@@ -1,9 +1,9 @@
 ---
 title: DocFlavor.STRING
-permalink: Java/DocFlavor/STRING
+permalink: /Java/DocFlavor/STRING/
 date: 2021-01-11
-key: JavaJava.D.DocFlavor.STRING
-category: java
+key: Java.D.DocFlavor.STRING
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

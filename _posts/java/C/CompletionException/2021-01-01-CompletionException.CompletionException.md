@@ -1,9 +1,9 @@
 ---
 title: CompletionException.CompletionException()
-permalink: Java/CompletionException/CompletionException
+permalink: /Java/CompletionException/CompletionException/
 date: 2021-01-11
-key: JavaJava.C.CompletionException
-category: java
+key: Java.C.CompletionException
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

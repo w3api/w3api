@@ -1,9 +1,9 @@
 ---
 title: DirectoryIteratorException
-permalink: Java/DirectoryIteratorException
+permalink: /Java/DirectoryIteratorException/
 date: 2021-01-11
-key: JavaJava.D.DirectoryIteratorException
-category: java
+key: Java.D.DirectoryIteratorException
+category: Java
 tags: ['java se', 'java.nio.file', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 
   nav: java

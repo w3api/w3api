@@ -1,9 +1,9 @@
 ---
 title: DefaultProperty
-permalink: Java/DefaultProperty
+permalink: /Java/DefaultProperty/
 date: 2021-01-11
-key: JavaJava.D.DefaultProperty
-category: java
+key: Java.D.DefaultProperty
+category: Java
 tags: ['java se', 'javafx.beans', 'javafx.base', 'anotacion java', 'JavaFX 2.0']
 sidebar: 
   nav: java

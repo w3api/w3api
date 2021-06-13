@@ -1,9 +1,9 @@
 ---
 title: DeflaterOutputStream.finish()
-permalink: Java/DeflaterOutputStream/finish
+permalink: /Java/DeflaterOutputStream/finish/
 date: 2021-01-11
-key: JavaJava.D.DeflaterOutputStream
-category: java
+key: Java.D.DeflaterOutputStream
+category: Java
 tags: ['java se', 'java.util.zip', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DefaultFormatter
-permalink: Java/DefaultFormatter
+permalink: /Java/DefaultFormatter/
 date: 2021-01-11
-key: JavaJava.D.DefaultFormatter
-category: java
+key: Java.D.DefaultFormatter
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

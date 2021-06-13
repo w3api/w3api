@@ -1,9 +1,9 @@
 ---
 title: DefaultTreeSelectionModel.listSelectionModel
-permalink: Java/DefaultTreeSelectionModel/listSelectionModel
+permalink: /Java/DefaultTreeSelectionModel/listSelectionModel/
 date: 2021-01-11
-key: JavaJava.D.DefaultTreeSelectionModel
-category: java
+key: Java.D.DefaultTreeSelectionModel
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

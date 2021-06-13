@@ -1,9 +1,9 @@
 ---
 title: DOMURIReference.getHere()
-permalink: Java/DOMURIReference/getHere
+permalink: /Java/DOMURIReference/getHere/
 date: 2021-01-11
-key: JavaJava.D.DOMURIReference
-category: java
+key: Java.D.DOMURIReference
+category: Java
 tags: ['java se', 'javax.xml.crypto.dom', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

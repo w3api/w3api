@@ -1,9 +1,9 @@
 ---
 title: ConfirmationCallback
-permalink: Java/ConfirmationCallback
+permalink: /Java/ConfirmationCallback/
 date: 2021-01-11
-key: JavaJava.C.ConfirmationCallback
-category: java
+key: Java.C.ConfirmationCallback
+category: Java
 tags: ['java se', 'javax.security.auth.callback', 'java.base', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

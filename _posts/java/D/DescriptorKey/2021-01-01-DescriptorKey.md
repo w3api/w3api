@@ -1,9 +1,9 @@
 ---
 title: DescriptorKey
-permalink: Java/DescriptorKey
+permalink: /Java/DescriptorKey/
 date: 2021-01-11
-key: JavaJava.D.DescriptorKey
-category: java
+key: Java.D.DescriptorKey
+category: Java
 tags: ['java se', 'javax.management', 'java.management', 'anotacion java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DatatypeConstants.LESSER
-permalink: Java/DatatypeConstants/LESSER
+permalink: /Java/DatatypeConstants/LESSER/
 date: 2021-01-11
-key: JavaJava.D.DatatypeConstants
-category: java
+key: Java.D.DatatypeConstants
+category: Java
 tags: ['java se', 'javax.xml.datatype', 'java.xml', 'campo java', 'Java 1.5']
 sidebar: 
   nav: java

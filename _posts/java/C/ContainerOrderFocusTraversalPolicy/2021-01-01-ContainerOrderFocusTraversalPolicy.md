@@ -1,9 +1,9 @@
 ---
 title: ContainerOrderFocusTraversalPolicy
-permalink: Java/ContainerOrderFocusTraversalPolicy
+permalink: /Java/ContainerOrderFocusTraversalPolicy/
 date: 2021-01-11
-key: JavaJava.C.ContainerOrderFocusTraversalPolicy
-category: java
+key: Java.C.ContainerOrderFocusTraversalPolicy
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.4']
 sidebar: 
   nav: java

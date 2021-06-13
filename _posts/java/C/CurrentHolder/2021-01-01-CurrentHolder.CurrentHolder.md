@@ -1,9 +1,9 @@
 ---
 title: CurrentHolder.CurrentHolder()
-permalink: Java/CurrentHolder/CurrentHolder
+permalink: /Java/CurrentHolder/CurrentHolder/
 date: 2021-01-11
-key: JavaJava.C.CurrentHolder
-category: java
+key: Java.C.CurrentHolder
+category: Java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

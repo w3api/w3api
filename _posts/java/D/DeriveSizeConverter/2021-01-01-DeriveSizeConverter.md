@@ -1,9 +1,9 @@
 ---
 title: DeriveSizeConverter
-permalink: Java/DeriveSizeConverter
+permalink: /Java/DeriveSizeConverter/
 date: 2021-01-11
-key: JavaJava.D.DeriveSizeConverter
-category: java
+key: Java.D.DeriveSizeConverter
+category: Java
 tags: ['java se', 'javafx.css.converter', 'javafx.graphics', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

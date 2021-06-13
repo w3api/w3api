@@ -1,9 +1,9 @@
 ---
 title: Deprecated.since
-permalink: Java/Deprecated/since
+permalink: /Java/Deprecated/since/
 date: 2021-01-11
-key: JavaJava.D.Deprecated
-category: java
+key: Java.D.Deprecated
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'elemento java', 'Java 1.5']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DigestMethod
-permalink: Java/DigestMethod
+permalink: /Java/DigestMethod/
 date: 2021-01-11
-key: JavaJava.D.DigestMethod
-category: java
+key: Java.D.DigestMethod
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'interface java', 'Java 1.6']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DateTimeSyntax
-permalink: Java/DateTimeSyntax
+permalink: /Java/DateTimeSyntax/
 date: 2021-01-11
-key: JavaJava.D.DateTimeSyntax
-category: java
+key: Java.D.DateTimeSyntax
+category: Java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

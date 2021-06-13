@@ -1,9 +1,9 @@
 ---
 title: DateCellSkin
-permalink: Java/DateCellSkin
+permalink: /Java/DateCellSkin/
 date: 2021-01-11
-key: JavaJava.D.DateCellSkin
-category: java
+key: Java.D.DateCellSkin
+category: Java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'clase java', 'Java 9']
 sidebar: 
   nav: java

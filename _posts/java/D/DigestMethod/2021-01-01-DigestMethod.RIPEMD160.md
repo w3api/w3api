@@ -1,9 +1,9 @@
 ---
 title: DigestMethod.RIPEMD160
-permalink: Java/DigestMethod/RIPEMD160
+permalink: /Java/DigestMethod/RIPEMD160/
 date: 2021-01-11
-key: JavaJava.D.DigestMethod
-category: java
+key: Java.D.DigestMethod
+category: Java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'campo java', 'Java 1.6']
 sidebar: 
   nav: java

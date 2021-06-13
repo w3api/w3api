@@ -1,9 +1,9 @@
 ---
 title: DefaultButtonModel.ROLLOVER
-permalink: Java/DefaultButtonModel/ROLLOVER
+permalink: /Java/DefaultButtonModel/ROLLOVER/
 date: 2021-01-11
-key: JavaJava.D.DefaultButtonModel
-category: java
+key: Java.D.DefaultButtonModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 
   nav: java

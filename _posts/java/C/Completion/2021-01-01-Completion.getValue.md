@@ -1,9 +1,9 @@
 ---
 title: Completion.getValue()
-permalink: Java/Completion/getValue
+permalink: /Java/Completion/getValue/
 date: 2021-01-11
-key: JavaJava.C.Completion
-category: java
+key: Java.C.Completion
+category: Java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

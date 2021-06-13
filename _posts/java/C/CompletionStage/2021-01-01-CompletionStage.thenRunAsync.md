@@ -1,9 +1,9 @@
 ---
 title: CompletionStage.thenRunAsync()
-permalink: Java/CompletionStage/thenRunAsync
+permalink: /Java/CompletionStage/thenRunAsync/
 date: 2021-01-11
-key: JavaJava.C.CompletionStage
-category: java
+key: Java.C.CompletionStage
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

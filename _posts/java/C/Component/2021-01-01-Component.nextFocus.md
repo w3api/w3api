@@ -1,9 +1,9 @@
 ---
 title: Component.nextFocus()
-permalink: Java/Component/nextFocus
+permalink: /Java/Component/nextFocus/
 date: 2021-01-11
-key: JavaJava.C.Component
-category: java
+key: Java.C.Component
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

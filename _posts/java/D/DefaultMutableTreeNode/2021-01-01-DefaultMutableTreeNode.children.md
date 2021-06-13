@@ -1,9 +1,9 @@
 ---
 title: DefaultMutableTreeNode.children
-permalink: Java/DefaultMutableTreeNode/children
+permalink: /Java/DefaultMutableTreeNode/children/
 date: 2021-01-11
-key: JavaJava.D.DefaultMutableTreeNode
-category: java
+key: Java.D.DefaultMutableTreeNode
+category: Java
 tags: ['java se', 'javax.swing.tree', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DatagramSocketImplFactory.createDatagramSocketImpl()
-permalink: Java/DatagramSocketImplFactory/createDatagramSocketImpl
+permalink: /Java/DatagramSocketImplFactory/createDatagramSocketImpl/
 date: 2021-01-11
-key: JavaJava.D.DatagramSocketImplFactory
-category: java
+key: Java.D.DatagramSocketImplFactory
+category: Java
 tags: ['java se', 'java.net', 'java.base', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

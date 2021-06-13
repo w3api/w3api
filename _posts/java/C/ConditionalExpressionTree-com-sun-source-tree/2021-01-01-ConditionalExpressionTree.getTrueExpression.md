@@ -1,9 +1,9 @@
 ---
 title: ConditionalExpressionTree.getTrueExpression()
-permalink: Java/ConditionalExpressionTree-com-sun-source-tree/getTrueExpression
+permalink: /Java/ConditionalExpressionTree-com-sun-source-tree/getTrueExpression/
 date: 2021-01-11
-key: JavaJava.C.ConditionalExpressionTree-com-sun-source-tree
-category: java
+key: Java.C.ConditionalExpressionTree-com-sun-source-tree
+category: Java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

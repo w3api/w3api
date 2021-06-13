@@ -1,9 +1,9 @@
 ---
 title: Dimension2D
-permalink: Java/Dimension2D/
+permalink: /Java/Dimension2D//
 date: 2021-01-11
-key: JavaJava.D.Dimension2D
-category: java
+key: Java.D.Dimension2D
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

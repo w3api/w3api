@@ -1,9 +1,9 @@
 ---
 title: DatagramChannel.socket()
-permalink: Java/DatagramChannel/socket
+permalink: /Java/DatagramChannel/socket/
 date: 2021-01-11
-key: JavaJava.D.DatagramChannel
-category: java
+key: Java.D.DatagramChannel
+category: Java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

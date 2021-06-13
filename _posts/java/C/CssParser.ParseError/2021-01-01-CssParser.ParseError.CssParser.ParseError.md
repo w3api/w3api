@@ -1,9 +1,9 @@
 ---
 title: CssParser.ParseError.CssParser.ParseError()
-permalink: Java/CssParser/ParseError/CssParser/ParseError
+permalink: /Java/CssParser/ParseError/CssParser/ParseError/
 date: 2021-01-11
-key: JavaJava.C.CssParser.ParseError
-category: java
+key: Java.C.CssParser.ParseError
+category: Java
 tags: ['java se', 'javafx.css', 'javafx.graphics', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

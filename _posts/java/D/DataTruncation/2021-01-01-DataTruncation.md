@@ -1,9 +1,9 @@
 ---
 title: DataTruncation
-permalink: Java/DataTruncation
+permalink: /Java/DataTruncation/
 date: 2021-01-11
-key: JavaJava.D.DataTruncation
-category: java
+key: Java.D.DataTruncation
+category: Java
 tags: ['java se', 'java.sql', 'java.sql', 'clase java', 'Java 1.1']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CompositeType.isValue()
-permalink: Java/CompositeType/isValue
+permalink: /Java/CompositeType/isValue/
 date: 2021-01-11
-key: JavaJava.C.CompositeType
-category: java
+key: Java.C.CompositeType
+category: Java
 tags: ['java se', 'javax.management.openmbean', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

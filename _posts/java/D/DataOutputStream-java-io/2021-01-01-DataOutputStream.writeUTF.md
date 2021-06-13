@@ -1,9 +1,9 @@
 ---
 title: DataOutputStream.writeUTF()
-permalink: Java/DataOutputStream-java-io/writeUTF
+permalink: /Java/DataOutputStream-java-io/writeUTF/
 date: 2021-01-11
-key: JavaJava.D.DataOutputStream-java-io
-category: java
+key: Java.D.DataOutputStream-java-io
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: CounterMonitor.setModulus()
-permalink: Java/CounterMonitor/setModulus
+permalink: /Java/CounterMonitor/setModulus/
 date: 2021-01-11
-key: JavaJava.C.CounterMonitor
-category: java
+key: Java.C.CounterMonitor
+category: Java
 tags: ['java se', 'javax.management.monitor', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

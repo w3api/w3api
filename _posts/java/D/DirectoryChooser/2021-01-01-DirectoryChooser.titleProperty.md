@@ -1,9 +1,9 @@
 ---
 title: DirectoryChooser.titleProperty()
-permalink: Java/DirectoryChooser/titleProperty
+permalink: /Java/DirectoryChooser/titleProperty/
 date: 2021-01-11
-key: JavaJava.D.DirectoryChooser
-category: java
+key: Java.D.DirectoryChooser
+category: Java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'metodo java', 'JavaFX 2.1']
 sidebar: 
   nav: java

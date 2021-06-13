@@ -1,9 +1,9 @@
 ---
 title: ContentHandler
-permalink: Java/ContentHandler/
+permalink: /Java/ContentHandler//
 date: 2021-01-11
-key: JavaJava.C.ContentHandler
-category: java
+key: Java.C.ContentHandler
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

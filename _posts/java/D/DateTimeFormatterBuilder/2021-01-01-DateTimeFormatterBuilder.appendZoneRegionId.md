@@ -1,9 +1,9 @@
 ---
 title: DateTimeFormatterBuilder.appendZoneRegionId()
-permalink: Java/DateTimeFormatterBuilder/appendZoneRegionId
+permalink: /Java/DateTimeFormatterBuilder/appendZoneRegionId/
 date: 2021-01-11
-key: JavaJava.D.DateTimeFormatterBuilder
-category: java
+key: Java.D.DateTimeFormatterBuilder
+category: Java
 tags: ['java se', 'java.time.format', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DesktopManager.openFrame()
-permalink: Java/DesktopManager/openFrame
+permalink: /Java/DesktopManager/openFrame/
 date: 2021-01-11
-key: JavaJava.D.DesktopManager
-category: java
+key: Java.D.DesktopManager
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

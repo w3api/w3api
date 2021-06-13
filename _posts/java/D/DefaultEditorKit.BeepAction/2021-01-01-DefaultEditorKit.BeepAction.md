@@ -1,9 +1,9 @@
 ---
 title: DefaultEditorKit.BeepAction
-permalink: Java/DefaultEditorKit/BeepAction
+permalink: /Java/DefaultEditorKit/BeepAction/
 date: 2021-01-11
-key: JavaJava.D.DefaultEditorKit.BeepAction
-category: java
+key: Java.D.DefaultEditorKit.BeepAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

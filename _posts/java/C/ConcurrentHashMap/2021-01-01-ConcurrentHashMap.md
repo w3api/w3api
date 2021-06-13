@@ -1,9 +1,9 @@
 ---
 title: ConcurrentHashMap
-permalink: Java/ConcurrentHashMap
+permalink: /Java/ConcurrentHashMap/
 date: 2021-01-11
-key: JavaJava.C.ConcurrentHashMap
-category: java
+key: Java.C.ConcurrentHashMap
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 
   nav: java

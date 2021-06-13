@@ -1,9 +1,9 @@
 ---
 title: Configuration.findModule()
-permalink: Java/Configuration-java-lang-module/findModule
+permalink: /Java/Configuration-java-lang-module/findModule/
 date: 2021-01-11
-key: JavaJava.C.Configuration-java-lang-module
-category: java
+key: Java.C.Configuration-java-lang-module
+category: Java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

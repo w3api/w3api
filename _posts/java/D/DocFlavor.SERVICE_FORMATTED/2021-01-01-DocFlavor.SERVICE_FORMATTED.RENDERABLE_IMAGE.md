@@ -1,9 +1,9 @@
 ---
 title: DocFlavor.SERVICE_FORMATTED.RENDERABLE_IMAGE
-permalink: Java/DocFlavor/SERVICE_FORMATTED/RENDERABLE_IMAGE
+permalink: /Java/DocFlavor/SERVICE_FORMATTED/RENDERABLE_IMAGE/
 date: 2021-01-11
-key: JavaJava.D.DocFlavor.SERVICE_FORMATTED
-category: java
+key: Java.D.DocFlavor.SERVICE_FORMATTED
+category: Java
 tags: ['java se', 'javax.print', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

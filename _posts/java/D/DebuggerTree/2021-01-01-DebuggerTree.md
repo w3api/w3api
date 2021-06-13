@@ -1,9 +1,9 @@
 ---
 title: DebuggerTree
-permalink: Java/DebuggerTree
+permalink: /Java/DebuggerTree/
 date: 2021-01-11
-key: JavaJava.D.DebuggerTree
-category: java
+key: Java.D.DebuggerTree
+category: Java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'interface java', 'Java 9']
 sidebar: 
   nav: java

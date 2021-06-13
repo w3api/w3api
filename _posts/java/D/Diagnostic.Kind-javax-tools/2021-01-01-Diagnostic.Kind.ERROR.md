@@ -1,9 +1,9 @@
 ---
 title: Diagnostic.Kind.ERROR
-permalink: Java/Diagnostic/Kind-javax-tools/ERROR
+permalink: /Java/Diagnostic/Kind-javax-tools/ERROR/
 date: 2021-01-11
-key: JavaJava.D.Diagnostic.Kind-javax-tools
-category: java
+key: Java.D.Diagnostic.Kind-javax-tools
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

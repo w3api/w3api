@@ -1,9 +1,9 @@
 ---
 title: DirStateFactory.getStateToBind()
-permalink: Java/DirStateFactory/getStateToBind
+permalink: /Java/DirStateFactory/getStateToBind/
 date: 2021-01-11
-key: JavaJava.D.DirStateFactory
-category: java
+key: Java.D.DirStateFactory
+category: Java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

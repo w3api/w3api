@@ -1,9 +1,9 @@
 ---
 title: DelayQueue.peek()
-permalink: Java/DelayQueue/peek
+permalink: /Java/DelayQueue/peek/
 date: 2021-01-11
-key: JavaJava.D.DelayQueue
-category: java
+key: Java.D.DelayQueue
+category: Java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 
   nav: java

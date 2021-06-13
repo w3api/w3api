@@ -1,9 +1,9 @@
 ---
 title: DefaultTableColumnModel.getTotalColumnWidth()
-permalink: Java/DefaultTableColumnModel/getTotalColumnWidth
+permalink: /Java/DefaultTableColumnModel/getTotalColumnWidth/
 date: 2021-01-11
-key: JavaJava.D.DefaultTableColumnModel
-category: java
+key: Java.D.DefaultTableColumnModel
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DataOutput.writeLong()
-permalink: Java/DataOutput/writeLong
+permalink: /Java/DataOutput/writeLong/
 date: 2021-01-11
-key: JavaJava.D.DataOutput
-category: java
+key: Java.D.DataOutput
+category: Java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

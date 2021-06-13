@@ -1,9 +1,9 @@
 ---
 title: Dictionary.put()
-permalink: Java/Dictionary/put
+permalink: /Java/Dictionary/put/
 date: 2021-01-11
-key: JavaJava.D.Dictionary
-category: java
+key: Java.D.Dictionary
+category: Java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

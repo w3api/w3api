@@ -1,9 +1,9 @@
 ---
 title: ContextNotEmptyException.ContextNotEmptyException()
-permalink: Java/ContextNotEmptyException/ContextNotEmptyException
+permalink: /Java/ContextNotEmptyException/ContextNotEmptyException/
 date: 2021-01-11
-key: JavaJava.C.ContextNotEmptyException
-category: java
+key: Java.C.ContextNotEmptyException
+category: Java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 
   nav: java

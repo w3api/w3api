@@ -1,9 +1,9 @@
 ---
 title: DirectExecutionControl.invoke()
-permalink: Java/DirectExecutionControl/invoke
+permalink: /Java/DirectExecutionControl/invoke/
 date: 2021-01-11
-key: JavaJava.D.DirectExecutionControl
-category: java
+key: Java.D.DirectExecutionControl
+category: Java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 
   nav: java

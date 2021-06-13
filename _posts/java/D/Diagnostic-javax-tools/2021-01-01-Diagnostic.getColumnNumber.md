@@ -1,9 +1,9 @@
 ---
 title: Diagnostic.getColumnNumber()
-permalink: Java/Diagnostic-javax-tools/getColumnNumber
+permalink: /Java/Diagnostic-javax-tools/getColumnNumber/
 date: 2021-01-11
-key: JavaJava.D.Diagnostic-javax-tools
-category: java
+key: Java.D.Diagnostic-javax-tools
+category: Java
 tags: ['java se', 'javax.tools', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

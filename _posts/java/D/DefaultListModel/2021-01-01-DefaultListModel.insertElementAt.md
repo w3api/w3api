@@ -1,9 +1,9 @@
 ---
 title: DefaultListModel.insertElementAt()
-permalink: Java/DefaultListModel/insertElementAt
+permalink: /Java/DefaultListModel/insertElementAt/
 date: 2021-01-11
-key: JavaJava.D.DefaultListModel
-category: java
+key: Java.D.DefaultListModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

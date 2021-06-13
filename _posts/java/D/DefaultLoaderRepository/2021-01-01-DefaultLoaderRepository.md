@@ -1,9 +1,9 @@
 ---
 title: DefaultLoaderRepository
-permalink: Java/DefaultLoaderRepository/
+permalink: /Java/DefaultLoaderRepository//
 date: 2021-01-11
-key: JavaJava.D.DefaultLoaderRepository
-category: java
+key: Java.D.DefaultLoaderRepository
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

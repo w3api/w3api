@@ -1,9 +1,9 @@
 ---
 title: DefaultTableModel.isCellEditable()
-permalink: Java/DefaultTableModel/isCellEditable
+permalink: /Java/DefaultTableModel/isCellEditable/
 date: 2021-01-11
-key: JavaJava.D.DefaultTableModel
-category: java
+key: Java.D.DefaultTableModel
+category: Java
 tags: ['java se', 'javax.swing.table', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

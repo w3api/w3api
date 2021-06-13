@@ -1,9 +1,9 @@
 ---
 title: ComponentOrientation.LEFT_TO_RIGHT
-permalink: Java/ComponentOrientation/LEFT_TO_RIGHT
+permalink: /Java/ComponentOrientation/LEFT_TO_RIGHT/
 date: 2021-01-11
-key: JavaJava.C.ComponentOrientation
-category: java
+key: Java.C.ComponentOrientation
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 
   nav: java

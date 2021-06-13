@@ -1,9 +1,9 @@
 ---
 title: Dimension
-permalink: Java/Dimension
+permalink: /Java/Dimension/
 date: 2021-01-11
-key: JavaJava.D.Dimension
-category: java
+key: Java.D.Dimension
+category: Java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

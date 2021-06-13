@@ -1,9 +1,9 @@
 ---
 title: Deprecated
-permalink: Java/Deprecated
+permalink: /Java/Deprecated/
 date: 2021-01-11
-key: JavaJava.D.Deprecated
-category: java
+key: Java.D.Deprecated
+category: Java
 tags: ['java se', 'java.lang', 'java.base', 'anotacion java', 'Java 1.5']
 sidebar: 
   nav: java

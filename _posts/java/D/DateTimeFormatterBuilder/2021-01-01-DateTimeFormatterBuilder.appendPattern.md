@@ -1,9 +1,9 @@
 ---
 title: DateTimeFormatterBuilder.appendPattern()
-permalink: Java/DateTimeFormatterBuilder/appendPattern
+permalink: /Java/DateTimeFormatterBuilder/appendPattern/
 date: 2021-01-11
-key: JavaJava.D.DateTimeFormatterBuilder
-category: java
+key: Java.D.DateTimeFormatterBuilder
+category: Java
 tags: ['java se', 'java.time.format', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 
   nav: java

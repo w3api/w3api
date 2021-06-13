@@ -1,9 +1,9 @@
 ---
 title: DefaultSingleSelectionModel.addChangeListener()
-permalink: Java/DefaultSingleSelectionModel/addChangeListener
+permalink: /Java/DefaultSingleSelectionModel/addChangeListener/
 date: 2021-01-11
-key: JavaJava.D.DefaultSingleSelectionModel
-category: java
+key: Java.D.DefaultSingleSelectionModel
+category: Java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 
   nav: java

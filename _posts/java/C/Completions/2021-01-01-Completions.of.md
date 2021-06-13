@@ -1,9 +1,9 @@
 ---
 title: Completions.of()
-permalink: Java/Completions/of
+permalink: /Java/Completions/of/
 date: 2021-01-11
-key: JavaJava.C.Completions
-category: java
+key: Java.C.Completions
+category: Java
 tags: ['java se', 'javax.annotation.processing', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 
   nav: java

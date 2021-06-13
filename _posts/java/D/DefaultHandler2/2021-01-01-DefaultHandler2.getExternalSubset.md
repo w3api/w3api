@@ -1,9 +1,9 @@
 ---
 title: DefaultHandler2.getExternalSubset()
-permalink: Java/DefaultHandler2/getExternalSubset
+permalink: /Java/DefaultHandler2/getExternalSubset/
 date: 2021-01-11
-key: JavaJava.D.DefaultHandler2
-category: java
+key: Java.D.DefaultHandler2
+category: Java
 tags: ['java se', 'org.xml.sax.ext', 'java.xml', 'metodo java', 'Java 1.5', 'SAX 2.0 (extensions Java 1.1 alpha)']
 sidebar: 
   nav: java

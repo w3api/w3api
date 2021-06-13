@@ -1,9 +1,9 @@
 ---
 title: DefaultEditorKit.InsertContentAction
-permalink: Java/DefaultEditorKit/InsertContentAction
+permalink: /Java/DefaultEditorKit/InsertContentAction/
 date: 2021-01-11
-key: JavaJava.D.DefaultEditorKit.InsertContentAction
-category: java
+key: Java.D.DefaultEditorKit.InsertContentAction
+category: Java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 
   nav: java

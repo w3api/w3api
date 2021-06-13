@@ -1,9 +1,9 @@
 ---
 title: ComponentIdHelper.read()
-permalink: Java/ComponentIdHelper/read
+permalink: /Java/ComponentIdHelper/read/
 date: 2021-01-11
-key: JavaJava.C.ComponentIdHelper
-category: java
+key: Java.C.ComponentIdHelper
+category: Java
 tags: ['java se', 'org.omg.IOP', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 
   nav: java

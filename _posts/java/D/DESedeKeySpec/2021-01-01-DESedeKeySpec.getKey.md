@@ -1,9 +1,9 @@
 ---
 title: DESedeKeySpec.getKey()
-permalink: Java/DESedeKeySpec/getKey
+permalink: /Java/DESedeKeySpec/getKey/
 date: 2021-01-11
-key: JavaJava.D.DESedeKeySpec
-category: java
+key: Java.D.DESedeKeySpec
+category: Java
 tags: ['java se', 'javax.crypto.spec', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 
   nav: java

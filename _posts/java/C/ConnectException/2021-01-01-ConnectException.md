@@ -1,9 +1,9 @@
 ---
 title: ConnectException
-permalink: Java/ConnectException/
+permalink: /Java/ConnectException//
 date: 2021-01-11
-key: JavaJava.C.ConnectException
-category: java
+key: Java.C.ConnectException
+category: Java
 tags: ['java se']
 sidebar: 
   nav: java

@@ -1,9 +1,9 @@
 ---
 title: DHPublicKey
-permalink: Java/DHPublicKey
+permalink: /Java/DHPublicKey/
 date: 2021-01-11
-key: JavaJava.D.DHPublicKey
-category: java
+key: Java.D.DHPublicKey
+category: Java
 tags: ['java se', 'javax.crypto.interfaces', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 
   nav: java

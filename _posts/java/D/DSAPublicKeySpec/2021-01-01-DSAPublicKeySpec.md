@@ -1,9 +1,9 @@
 ---
 title: DSAPublicKeySpec
-permalink: Java/DSAPublicKeySpec
+permalink: /Java/DSAPublicKeySpec/
 date: 2021-01-11
-key: JavaJava.D.DSAPublicKeySpec
-category: java
+key: Java.D.DSAPublicKeySpec
+category: Java
 tags: ['java se', 'java.security.spec', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 
   nav: java
