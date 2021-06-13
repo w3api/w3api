@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.set_elements()
-permalink: Java/_DynSequenceStub/set_elements
+permalink: /Java/_DynSequenceStub/set_elements/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

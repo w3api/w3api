@@ -2,7 +2,7 @@
 title: RequestInfo
 permalink: Java/RequestInfo
 date: 2021-01-11
-key: JavaJava.R.RequestInfo
+key: Java.R.RequestInfo
 category: java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

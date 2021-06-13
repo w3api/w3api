@@ -2,7 +2,7 @@
 title: ReadOnlyJavaBeanStringPropertyBuilder.getter()
 permalink: Java/ReadOnlyJavaBeanStringPropertyBuilder/getter
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyJavaBeanStringPropertyBuilder
+key: Java.R.ReadOnlyJavaBeanStringPropertyBuilder
 category: java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

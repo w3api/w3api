@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.current_component()
-permalink: Java/_DynUnionStub/current_component
+permalink: /Java/_DynUnionStub/current_component/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

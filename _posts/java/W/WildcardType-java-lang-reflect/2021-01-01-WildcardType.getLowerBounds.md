@@ -1,8 +1,8 @@
 ---
 title: WildcardType.getLowerBounds()
-permalink: Java/WildcardType-java-lang-reflect/getLowerBounds
+permalink: /Java/WildcardType-java-lang-reflect/getLowerBounds/
 date: 2021-01-11
-key: JavaJava.W.WildcardType-java-lang-reflect
+key: Java.W.WildcardType-java-lang-reflect
 category: java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

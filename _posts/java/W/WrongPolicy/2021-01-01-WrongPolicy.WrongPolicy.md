@@ -1,8 +1,8 @@
 ---
 title: WrongPolicy.WrongPolicy()
-permalink: Java/WrongPolicy/WrongPolicy
+permalink: /Java/WrongPolicy/WrongPolicy/
 date: 2021-01-11
-key: JavaJava.W.WrongPolicy
+key: Java.W.WrongPolicy
 category: java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

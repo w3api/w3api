@@ -1,8 +1,8 @@
 ---
 title: Uint8ClampedArray.entries()
-permalink: Javascript/Uint8ClampedArray/entries
+permalink: /Javascript/Uint8ClampedArray/entries/
 date: 2021-01-11
-key: JavascriptJavascript.U.Uint8ClampedArray
+key: Javascript.U.Uint8ClampedArray
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

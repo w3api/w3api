@@ -2,7 +2,7 @@
 title: RelationService.getRoleInfos()
 permalink: Java/RelationService/getRoleInfos
 date: 2021-01-11
-key: JavaJava.R.RelationService
+key: Java.R.RelationService
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

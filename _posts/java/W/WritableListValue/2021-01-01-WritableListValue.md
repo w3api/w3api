@@ -1,8 +1,8 @@
 ---
 title: WritableListValue
-permalink: Java/WritableListValue
+permalink: /Java/WritableListValue/
 date: 2021-01-11
-key: JavaJava.W.WritableListValue
+key: Java.W.WritableListValue
 category: java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'interface java', 'JavaFX 2.1']
 sidebar: 

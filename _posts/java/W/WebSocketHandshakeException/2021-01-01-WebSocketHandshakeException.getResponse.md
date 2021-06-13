@@ -1,8 +1,8 @@
 ---
 title: WebSocketHandshakeException.getResponse()
-permalink: Java/WebSocketHandshakeException/getResponse
+permalink: /Java/WebSocketHandshakeException/getResponse/
 date: 2021-01-11
-key: JavaJava.W.WebSocketHandshakeException
+key: Java.W.WebSocketHandshakeException
 category: java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 9']
 sidebar: 

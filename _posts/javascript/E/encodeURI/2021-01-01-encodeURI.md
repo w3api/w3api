@@ -1,8 +1,8 @@
 ---
 title: encodeURI
-permalink: Javascript/encodeURI
+permalink: /Javascript/encodeURI/
 date: 2021-01-11
-key: JavascriptJavascript.E.encodeURI
+key: Javascript.E.encodeURI
 category: javascript
 tags: ['funcion javascript']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: SyntaxError.stack
-permalink: Javascript/SyntaxError/stack
+permalink: /Javascript/SyntaxError/stack/
 date: 2021-01-11
-key: JavascriptJavascript.S.SyntaxError
+key: Javascript.S.SyntaxError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

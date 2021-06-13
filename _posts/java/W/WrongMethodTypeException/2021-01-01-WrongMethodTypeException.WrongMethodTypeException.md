@@ -1,8 +1,8 @@
 ---
 title: WrongMethodTypeException.WrongMethodTypeException()
-permalink: Java/WrongMethodTypeException/WrongMethodTypeException
+permalink: /Java/WrongMethodTypeException/WrongMethodTypeException/
 date: 2021-01-11
-key: JavaJava.W.WrongMethodTypeException
+key: Java.W.WrongMethodTypeException
 category: java
 tags: ['java se', 'java.lang.invoke', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

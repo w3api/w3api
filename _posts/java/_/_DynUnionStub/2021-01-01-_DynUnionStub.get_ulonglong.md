@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.get_ulonglong()
-permalink: Java/_DynUnionStub/get_ulonglong
+permalink: /Java/_DynUnionStub/get_ulonglong/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

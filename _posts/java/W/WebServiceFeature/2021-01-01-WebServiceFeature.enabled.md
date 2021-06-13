@@ -1,8 +1,8 @@
 ---
 title: WebServiceFeature.enabled
-permalink: Java/WebServiceFeature/enabled
+permalink: /Java/WebServiceFeature/enabled/
 date: 2021-01-11
-key: JavaJava.W.WebServiceFeature
+key: Java.W.WebServiceFeature
 category: java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'campo java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 

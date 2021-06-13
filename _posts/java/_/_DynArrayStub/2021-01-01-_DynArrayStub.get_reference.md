@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.get_reference()
-permalink: Java/_DynArrayStub/get_reference
+permalink: /Java/_DynArrayStub/get_reference/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

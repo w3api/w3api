@@ -2,7 +2,7 @@
 title: ReadOnlyFloatPropertyBase.fireValueChangedEvent()
 permalink: Java/ReadOnlyFloatPropertyBase/fireValueChangedEvent
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyFloatPropertyBase
+key: Java.R.ReadOnlyFloatPropertyBase
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

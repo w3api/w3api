@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.insert_float()
-permalink: Java/_DynUnionStub/insert_float
+permalink: /Java/_DynUnionStub/insert_float/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

@@ -2,7 +2,7 @@
 title: RowSetFactory
 permalink: Java/RowSetFactory
 date: 2021-01-11
-key: JavaJava.R.RowSetFactory
+key: Java.R.RowSetFactory
 category: java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'interface java', 'Java 1.7']
 sidebar: 

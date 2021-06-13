@@ -2,7 +2,7 @@
 title: ResourceContext.getMeter()
 permalink: Java/ResourceContext/getMeter
 date: 2021-01-11
-key: JavaJava.R.ResourceContext
+key: Java.R.ResourceContext
 category: java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 

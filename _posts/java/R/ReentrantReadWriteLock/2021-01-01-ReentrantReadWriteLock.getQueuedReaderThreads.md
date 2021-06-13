@@ -2,7 +2,7 @@
 title: ReentrantReadWriteLock.getQueuedReaderThreads()
 permalink: Java/ReentrantReadWriteLock/getQueuedReaderThreads
 date: 2021-01-11
-key: JavaJava.R.ReentrantReadWriteLock
+key: Java.R.ReentrantReadWriteLock
 category: java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

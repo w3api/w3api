@@ -2,7 +2,7 @@
 title: RecordedStackTrace.isTruncated()
 permalink: Java/RecordedStackTrace/isTruncated
 date: 2021-01-11
-key: JavaJava.R.RecordedStackTrace
+key: Java.R.RecordedStackTrace
 category: java
 tags: ['java se', 'jdk.jfr.consumer', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 

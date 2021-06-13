@@ -1,6 +1,6 @@
 ---
 title: _DynAnyStub.get_dyn_any()
-permalink: Java/_DynAnyStub/get_dyn_any
+permalink: /Java/_DynAnyStub/get_dyn_any/
 date: 2021-01-11
 key: JavaJava._._DynAnyStub
 category: java

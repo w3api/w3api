@@ -1,8 +1,8 @@
 ---
 title: BigUint64Array.BigUint64Array()
-permalink: Javascript/BigUint64Array/BigUint64Array
+permalink: /Javascript/BigUint64Array/BigUint64Array/
 date: 2021-01-11
-key: JavascriptJavascript.B.BigUint64Array
+key: Javascript.B.BigUint64Array
 category: javascript
 tags: ['constructor javascript']
 sidebar: 

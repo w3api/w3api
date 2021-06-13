@@ -1,8 +1,8 @@
 ---
 title: Uint8ClampedArray.Uint8ClampedArray()
-permalink: Javascript/Uint8ClampedArray/Uint8ClampedArray
+permalink: /Javascript/Uint8ClampedArray/Uint8ClampedArray/
 date: 2021-01-11
-key: JavascriptJavascript.U.Uint8ClampedArray
+key: Javascript.U.Uint8ClampedArray
 category: javascript
 tags: ['constructor javascript']
 sidebar: 

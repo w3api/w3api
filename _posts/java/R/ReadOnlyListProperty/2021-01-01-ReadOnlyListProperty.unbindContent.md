@@ -2,7 +2,7 @@
 title: ReadOnlyListProperty.unbindContent()
 permalink: Java/ReadOnlyListProperty/unbindContent
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyListProperty
+key: Java.R.ReadOnlyListProperty
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

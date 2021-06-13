@@ -1,8 +1,8 @@
 ---
 title: WatchService.close()
-permalink: Java/WatchService/close
+permalink: /Java/WatchService/close/
 date: 2021-01-11
-key: JavaJava.W.WatchService
+key: Java.W.WatchService
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

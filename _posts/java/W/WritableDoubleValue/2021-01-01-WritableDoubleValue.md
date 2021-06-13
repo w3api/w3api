@@ -1,8 +1,8 @@
 ---
 title: WritableDoubleValue
-permalink: Java/WritableDoubleValue
+permalink: /Java/WritableDoubleValue/
 date: 2021-01-11
-key: JavaJava.W.WritableDoubleValue
+key: Java.W.WritableDoubleValue
 category: java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: WebSocket.sendPong()
-permalink: Java/WebSocket/sendPong
+permalink: /Java/WebSocket/sendPong/
 date: 2021-01-11
-key: JavaJava.W.WebSocket
+key: Java.W.WebSocket
 category: java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 9']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.CompileError
-permalink: Javascript/WebAssembly/CompileError
+permalink: /Javascript/WebAssembly/CompileError/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.CompileError
+key: Javascript.W.WebAssembly.CompileError
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

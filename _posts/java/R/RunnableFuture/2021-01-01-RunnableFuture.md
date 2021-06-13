@@ -2,7 +2,7 @@
 title: RunnableFuture
 permalink: Java/RunnableFuture
 date: 2021-01-11
-key: JavaJava.R.RunnableFuture
+key: Java.R.RunnableFuture
 category: java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'interface java', 'Java 1.6']
 sidebar: 

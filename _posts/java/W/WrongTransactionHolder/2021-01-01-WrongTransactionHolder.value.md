@@ -1,8 +1,8 @@
 ---
 title: WrongTransactionHolder.value
-permalink: Java/WrongTransactionHolder/value
+permalink: /Java/WrongTransactionHolder/value/
 date: 2021-01-11
-key: JavaJava.W.WrongTransactionHolder
+key: Java.W.WrongTransactionHolder
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

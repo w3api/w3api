@@ -2,7 +2,7 @@
 title: ReferenceType.constantPoolCount()
 permalink: Java/ReferenceType-com-sun-jdi/constantPoolCount
 date: 2021-01-11
-key: JavaJava.R.ReferenceType-com-sun-jdi
+key: Java.R.ReferenceType-com-sun-jdi
 category: java
 tags: ['java se', 'com.sun.jdi', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 

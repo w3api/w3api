@@ -1,6 +1,6 @@
 ---
 title: _BindingIteratorStub.next_n()
-permalink: Java/_BindingIteratorStub/next_n
+permalink: /Java/_BindingIteratorStub/next_n/
 date: 2021-01-11
 key: JavaJava._._BindingIteratorStub
 category: java

@@ -2,7 +2,7 @@
 title: ResourceBundleProvider
 permalink: Java/ResourceBundleProvider
 date: 2021-01-11
-key: JavaJava.R.ResourceBundleProvider
+key: Java.R.ResourceBundleProvider
 category: java
 tags: ['java se', 'java.util.spi', 'java.base', 'interface java', 'Java 9']
 sidebar: 

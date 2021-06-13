@@ -1,6 +1,6 @@
 ---
 title: _DynEnumStub.insert_ulong()
-permalink: Java/_DynEnumStub/insert_ulong
+permalink: /Java/_DynEnumStub/insert_ulong/
 date: 2021-01-11
 key: JavaJava._._DynEnumStub
 category: java

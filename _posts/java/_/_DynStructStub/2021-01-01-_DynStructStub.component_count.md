@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.component_count()
-permalink: Java/_DynStructStub/component_count
+permalink: /Java/_DynStructStub/component_count/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

@@ -1,8 +1,8 @@
 ---
 title: WebResult.targetNamespace
-permalink: Java/WebResult/targetNamespace
+permalink: /Java/WebResult/targetNamespace/
 date: 2021-01-11
-key: JavaJava.W.WebResult
+key: Java.W.WebResult
 category: java
 tags: ['java se', 'javax.jws', 'java.xml.ws', 'elemento java', 'Java 1.6']
 sidebar: 

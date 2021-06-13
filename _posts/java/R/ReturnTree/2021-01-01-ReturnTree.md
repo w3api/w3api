@@ -2,7 +2,7 @@
 title: ReturnTree
 permalink: Java/ReturnTree/
 date: 2021-01-11
-key: JavaJava.R.ReturnTree
+key: Java.R.ReturnTree
 category: java
 tags: ['java se']
 sidebar: 

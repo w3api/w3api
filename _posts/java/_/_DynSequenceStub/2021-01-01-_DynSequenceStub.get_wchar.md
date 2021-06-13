@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.get_wchar()
-permalink: Java/_DynSequenceStub/get_wchar
+permalink: /Java/_DynSequenceStub/get_wchar/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

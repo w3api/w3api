@@ -1,8 +1,8 @@
 ---
 title: WritableRenderedImage.setData()
-permalink: Java/WritableRenderedImage/setData
+permalink: /Java/WritableRenderedImage/setData/
 date: 2021-01-11
-key: JavaJava.W.WritableRenderedImage
+key: Java.W.WritableRenderedImage
 category: java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.insert_wstring()
-permalink: Java/_DynArrayStub/insert_wstring
+permalink: /Java/_DynArrayStub/insert_wstring/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

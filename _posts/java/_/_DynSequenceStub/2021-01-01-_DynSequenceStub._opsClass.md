@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub._opsClass
-permalink: Java/_DynSequenceStub/_opsClass
+permalink: /Java/_DynSequenceStub/_opsClass/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

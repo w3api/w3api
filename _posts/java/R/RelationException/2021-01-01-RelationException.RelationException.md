@@ -2,7 +2,7 @@
 title: RelationException.RelationException()
 permalink: Java/RelationException/RelationException
 date: 2021-01-11
-key: JavaJava.R.RelationException
+key: Java.R.RelationException
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

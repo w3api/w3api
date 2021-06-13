@@ -2,7 +2,7 @@
 title: RowFilter.Entry
 permalink: Java/RowFilter/Entry
 date: 2021-01-11
-key: JavaJava.R.RowFilter.Entry
+key: Java.R.RowFilter.Entry
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 

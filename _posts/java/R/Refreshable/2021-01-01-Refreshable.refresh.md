@@ -2,7 +2,7 @@
 title: Refreshable.refresh()
 permalink: Java/Refreshable/refresh
 date: 2021-01-11
-key: JavaJava.R.Refreshable
+key: Java.R.Refreshable
 category: java
 tags: ['java se', 'javax.security.auth', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RelationNotification
 permalink: Java/RelationNotification
 date: 2021-01-11
-key: JavaJava.R.RelationNotification
+key: Java.R.RelationNotification
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

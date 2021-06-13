@@ -1,6 +1,6 @@
 ---
 title: _ServantActivatorStub.incarnate()
-permalink: Java/_ServantActivatorStub/incarnate
+permalink: /Java/_ServantActivatorStub/incarnate/
 date: 2021-01-11
 key: JavaJava._._ServantActivatorStub
 category: java

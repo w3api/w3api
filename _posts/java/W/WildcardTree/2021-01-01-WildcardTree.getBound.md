@@ -1,8 +1,8 @@
 ---
 title: WildcardTree.getBound()
-permalink: Java/WildcardTree/getBound
+permalink: /Java/WildcardTree/getBound/
 date: 2021-01-11
-key: JavaJava.W.WildcardTree
+key: Java.W.WildcardTree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

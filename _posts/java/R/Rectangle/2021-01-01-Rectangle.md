@@ -2,7 +2,7 @@
 title: Rectangle
 permalink: Java/Rectangle/
 date: 2021-01-11
-key: JavaJava.R.Rectangle
+key: Java.R.Rectangle
 category: java
 tags: ['java se']
 sidebar: 

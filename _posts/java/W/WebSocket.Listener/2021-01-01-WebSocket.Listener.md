@@ -1,8 +1,8 @@
 ---
 title: WebSocket.Listener
-permalink: Java/WebSocket/Listener
+permalink: /Java/WebSocket/Listener/
 date: 2021-01-11
-key: JavaJava.W.WebSocket.Listener
+key: Java.W.WebSocket.Listener
 category: java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'interface java', 'Java 9']
 sidebar: 

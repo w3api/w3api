@@ -1,8 +1,8 @@
 ---
 title: SyntaxError.fileName
-permalink: Javascript/SyntaxError/fileName
+permalink: /Javascript/SyntaxError/fileName/
 date: 2021-01-11
-key: JavascriptJavascript.S.SyntaxError
+key: Javascript.S.SyntaxError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

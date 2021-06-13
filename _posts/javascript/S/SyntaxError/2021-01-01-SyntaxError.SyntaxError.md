@@ -1,8 +1,8 @@
 ---
 title: SyntaxError.SyntaxError()
-permalink: Javascript/SyntaxError/SyntaxError
+permalink: /Javascript/SyntaxError/SyntaxError/
 date: 2021-01-11
-key: JavascriptJavascript.S.SyntaxError
+key: Javascript.S.SyntaxError
 category: javascript
 tags: ['constructor javascript']
 sidebar: 

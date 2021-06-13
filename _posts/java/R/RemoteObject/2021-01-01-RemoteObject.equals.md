@@ -2,7 +2,7 @@
 title: RemoteObject.equals()
 permalink: Java/RemoteObject/equals
 date: 2021-01-11
-key: JavaJava.R.RemoteObject
+key: Java.R.RemoteObject
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 

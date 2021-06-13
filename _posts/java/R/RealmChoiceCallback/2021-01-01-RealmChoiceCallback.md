@@ -2,7 +2,7 @@
 title: RealmChoiceCallback
 permalink: Java/RealmChoiceCallback
 date: 2021-01-11
-key: JavaJava.R.RealmChoiceCallback
+key: Java.R.RealmChoiceCallback
 category: java
 tags: ['java se', 'javax.security.sasl', 'java.security.sasl', 'clase java', 'Java 1.5']
 sidebar: 

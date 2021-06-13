@@ -2,7 +2,7 @@
 title: RowFilter.Entry.getIdentifier()
 permalink: Java/RowFilter/Entry/getIdentifier
 date: 2021-01-11
-key: JavaJava.R.RowFilter.Entry
+key: Java.R.RowFilter.Entry
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.get_short()
-permalink: Java/_DynUnionStub/get_short
+permalink: /Java/_DynUnionStub/get_short/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

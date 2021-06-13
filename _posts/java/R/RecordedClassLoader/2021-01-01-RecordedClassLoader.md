@@ -2,7 +2,7 @@
 title: RecordedClassLoader
 permalink: Java/RecordedClassLoader
 date: 2021-01-11
-key: JavaJava.R.RecordedClassLoader
+key: Java.R.RecordedClassLoader
 category: java
 tags: ['java se', 'jdk.jfr.consumer', 'jdk.jfr', 'clase java', 'Java 9']
 sidebar: 

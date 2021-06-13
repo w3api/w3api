@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.get_long()
-permalink: Java/_DynFixedStub/get_long
+permalink: /Java/_DynFixedStub/get_long/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

@@ -1,8 +1,8 @@
 ---
 title: WildcardType.getExtendsBound()
-permalink: Java/WildcardType-javax-lang-model-type/getExtendsBound
+permalink: /Java/WildcardType-javax-lang-model-type/getExtendsBound/
 date: 2021-01-11
-key: JavaJava.W.WildcardType-javax-lang-model-type
+key: Java.W.WildcardType-javax-lang-model-type
 category: java
 tags: ['java se', 'javax.lang.model.type', 'java.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

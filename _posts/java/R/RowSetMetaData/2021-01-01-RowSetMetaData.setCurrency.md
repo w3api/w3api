@@ -2,7 +2,7 @@
 title: RowSetMetaData.setCurrency()
 permalink: Java/RowSetMetaData/setCurrency
 date: 2021-01-11
-key: JavaJava.R.RowSetMetaData
+key: Java.R.RowSetMetaData
 category: java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 1.4']
 sidebar: 

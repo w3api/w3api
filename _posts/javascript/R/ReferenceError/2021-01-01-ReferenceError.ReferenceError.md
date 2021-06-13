@@ -1,8 +1,8 @@
 ---
 title: ReferenceError.ReferenceError()
-permalink: Javascript/ReferenceError/ReferenceError
+permalink: /Javascript/ReferenceError/ReferenceError/
 date: 2021-01-11
-key: JavascriptJavascript.R.ReferenceError
+key: Javascript.R.ReferenceError
 category: javascript
 tags: ['constructor javascript']
 sidebar: 

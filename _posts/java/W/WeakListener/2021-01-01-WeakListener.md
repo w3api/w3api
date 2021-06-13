@@ -1,8 +1,8 @@
 ---
 title: WeakListener
-permalink: Java/WeakListener
+permalink: /Java/WeakListener/
 date: 2021-01-11
-key: JavaJava.W.WeakListener
+key: Java.W.WeakListener
 category: java
 tags: ['java se', 'javafx.beans', 'javafx.base', 'interface java', 'JavaFX 2.1']
 sidebar: 

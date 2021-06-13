@@ -2,7 +2,7 @@
 title: ReadOnlyJavaBeanDoublePropertyBuilder.getter()
 permalink: Java/ReadOnlyJavaBeanDoublePropertyBuilder/getter
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyJavaBeanDoublePropertyBuilder
+key: Java.R.ReadOnlyJavaBeanDoublePropertyBuilder
 category: java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

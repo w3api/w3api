@@ -1,6 +1,6 @@
 ---
 title: _NamingContextExtStub.list()
-permalink: Java/_NamingContextExtStub/list
+permalink: /Java/_NamingContextExtStub/list/
 date: 2021-01-11
 key: JavaJava._._NamingContextExtStub
 category: java

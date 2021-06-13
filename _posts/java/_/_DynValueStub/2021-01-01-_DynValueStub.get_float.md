@@ -1,6 +1,6 @@
 ---
 title: _DynValueStub.get_float()
-permalink: Java/_DynValueStub/get_float
+permalink: /Java/_DynValueStub/get_float/
 date: 2021-01-11
 key: JavaJava._._DynValueStub
 category: java

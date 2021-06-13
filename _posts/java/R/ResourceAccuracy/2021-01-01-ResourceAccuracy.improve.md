@@ -2,7 +2,7 @@
 title: ResourceAccuracy.improve()
 permalink: Java/ResourceAccuracy/improve
 date: 2021-01-11
-key: JavaJava.R.ResourceAccuracy
+key: Java.R.ResourceAccuracy
 category: java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 

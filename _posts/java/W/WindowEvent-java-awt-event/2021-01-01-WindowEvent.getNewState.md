@@ -1,8 +1,8 @@
 ---
 title: WindowEvent.getNewState()
-permalink: Java/WindowEvent-java-awt-event/getNewState
+permalink: /Java/WindowEvent-java-awt-event/getNewState/
 date: 2021-01-11
-key: JavaJava.W.WindowEvent-java-awt-event
+key: Java.W.WindowEvent-java-awt-event
 category: java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

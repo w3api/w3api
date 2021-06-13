@@ -1,8 +1,8 @@
 ---
 title: WhileLoopTree
-permalink: Java/WhileLoopTree/
+permalink: /Java/WhileLoopTree//
 date: 2021-01-11
-key: JavaJava.W.WhileLoopTree
+key: Java.W.WhileLoopTree
 category: java
 tags: ['java se']
 sidebar: 

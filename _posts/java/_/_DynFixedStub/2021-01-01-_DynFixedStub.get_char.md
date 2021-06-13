@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.get_char()
-permalink: Java/_DynFixedStub/get_char
+permalink: /Java/_DynFixedStub/get_char/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

@@ -2,7 +2,7 @@
 title: RecordingState.CLOSED
 permalink: Java/RecordingState/CLOSED
 date: 2021-01-11
-key: JavaJava.R.RecordingState
+key: Java.R.RecordingState
 category: java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'campo java', 'Java 9']
 sidebar: 

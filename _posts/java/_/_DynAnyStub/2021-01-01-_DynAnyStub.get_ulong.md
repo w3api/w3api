@@ -1,6 +1,6 @@
 ---
 title: _DynAnyStub.get_ulong()
-permalink: Java/_DynAnyStub/get_ulong
+permalink: /Java/_DynAnyStub/get_ulong/
 date: 2021-01-11
 key: JavaJava._._DynAnyStub
 category: java

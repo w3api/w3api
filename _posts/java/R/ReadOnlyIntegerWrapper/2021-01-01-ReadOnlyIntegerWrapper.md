@@ -2,7 +2,7 @@
 title: ReadOnlyIntegerWrapper
 permalink: Java/ReadOnlyIntegerWrapper
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyIntegerWrapper
+key: Java.R.ReadOnlyIntegerWrapper
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 

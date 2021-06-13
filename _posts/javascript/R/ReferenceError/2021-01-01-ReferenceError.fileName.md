@@ -1,8 +1,8 @@
 ---
 title: ReferenceError.fileName
-permalink: Javascript/ReferenceError/fileName
+permalink: /Javascript/ReferenceError/fileName/
 date: 2021-01-11
-key: JavascriptJavascript.R.ReferenceError
+key: Javascript.R.ReferenceError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

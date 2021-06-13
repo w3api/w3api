@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.get_any()
-permalink: Java/_DynStructStub/get_any
+permalink: /Java/_DynStructStub/get_any/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

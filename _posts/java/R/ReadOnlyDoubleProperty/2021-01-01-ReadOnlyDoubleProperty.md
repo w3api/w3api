@@ -2,7 +2,7 @@
 title: ReadOnlyDoubleProperty
 permalink: Java/ReadOnlyDoubleProperty
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyDoubleProperty
+key: Java.R.ReadOnlyDoubleProperty
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 

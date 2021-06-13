@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.rewind()
-permalink: Java/_DynFixedStub/rewind
+permalink: /Java/_DynFixedStub/rewind/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

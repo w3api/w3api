@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.Memory
-permalink: Javascript/WebAssembly/Memory
+permalink: /Javascript/WebAssembly/Memory/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.Memory
+key: Javascript.W.WebAssembly.Memory
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: WebAssembly
-permalink: Javascript/WebAssembly
+permalink: /Javascript/WebAssembly/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly
+key: Javascript.W.WebAssembly
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

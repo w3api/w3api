@@ -1,8 +1,8 @@
 ---
 title: WrongAdapterHelper.WrongAdapterHelper()
-permalink: Java/WrongAdapterHelper/WrongAdapterHelper
+permalink: /Java/WrongAdapterHelper/WrongAdapterHelper/
 date: 2021-01-11
-key: JavaJava.W.WrongAdapterHelper
+key: Java.W.WrongAdapterHelper
 category: java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

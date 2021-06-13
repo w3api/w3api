@@ -2,7 +2,7 @@
 title: RuleBasedCollator.hashCode()
 permalink: Java/RuleBasedCollator/hashCode
 date: 2021-01-11
-key: JavaJava.R.RuleBasedCollator
+key: Java.R.RuleBasedCollator
 category: java
 tags: ['java se', 'java.text', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

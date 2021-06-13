@@ -1,8 +1,8 @@
 ---
 title: WeakMapChangeListener.WeakMapChangeListener()
-permalink: Java/WeakMapChangeListener/WeakMapChangeListener
+permalink: /Java/WeakMapChangeListener/WeakMapChangeListener/
 date: 2021-01-11
-key: JavaJava.W.WeakMapChangeListener
+key: Java.W.WeakMapChangeListener
 category: java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

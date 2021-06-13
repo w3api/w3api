@@ -2,7 +2,7 @@
 title: ReadOnlyJavaBeanFloatPropertyBuilder.bean()
 permalink: Java/ReadOnlyJavaBeanFloatPropertyBuilder/bean
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyJavaBeanFloatPropertyBuilder
+key: Java.R.ReadOnlyJavaBeanFloatPropertyBuilder
 category: java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

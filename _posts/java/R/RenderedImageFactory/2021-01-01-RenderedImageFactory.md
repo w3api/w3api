@@ -2,7 +2,7 @@
 title: RenderedImageFactory
 permalink: Java/RenderedImageFactory
 date: 2021-01-11
-key: JavaJava.R.RenderedImageFactory
+key: Java.R.RenderedImageFactory
 category: java
 tags: ['java se', 'java.awt.image.renderable', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

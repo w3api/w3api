@@ -1,6 +1,6 @@
 ---
 title: _DynValueStub.get_reference()
-permalink: Java/_DynValueStub/get_reference
+permalink: /Java/_DynValueStub/get_reference/
 date: 2021-01-11
 key: JavaJava._._DynValueStub
 category: java

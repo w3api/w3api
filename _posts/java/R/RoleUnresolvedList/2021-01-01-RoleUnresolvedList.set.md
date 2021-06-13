@@ -2,7 +2,7 @@
 title: RoleUnresolvedList.set()
 permalink: Java/RoleUnresolvedList/set
 date: 2021-01-11
-key: JavaJava.R.RoleUnresolvedList
+key: Java.R.RoleUnresolvedList
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

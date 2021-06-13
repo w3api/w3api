@@ -1,8 +1,8 @@
 ---
 title: WindowListener
-permalink: Java/WindowListener
+permalink: /Java/WindowListener/
 date: 2021-01-11
-key: JavaJava.W.WindowListener
+key: Java.W.WindowListener
 category: java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'interface java', 'Java 1.1']
 sidebar: 

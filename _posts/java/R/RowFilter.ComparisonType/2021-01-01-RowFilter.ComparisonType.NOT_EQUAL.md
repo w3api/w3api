@@ -2,7 +2,7 @@
 title: RowFilter.ComparisonType.NOT_EQUAL
 permalink: Java/RowFilter/ComparisonType/NOT_EQUAL
 date: 2021-01-11
-key: JavaJava.R.RowFilter.ComparisonType
+key: Java.R.RowFilter.ComparisonType
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'campo java', 'Java 1.6']
 sidebar: 

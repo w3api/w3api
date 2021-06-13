@@ -2,7 +2,7 @@
 title: RoleInfoNotFoundException.RoleInfoNotFoundException()
 permalink: Java/RoleInfoNotFoundException/RoleInfoNotFoundException
 date: 2021-01-11
-key: JavaJava.R.RoleInfoNotFoundException
+key: Java.R.RoleInfoNotFoundException
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

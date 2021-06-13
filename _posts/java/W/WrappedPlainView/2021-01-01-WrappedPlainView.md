@@ -1,8 +1,8 @@
 ---
 title: WrappedPlainView
-permalink: Java/WrappedPlainView
+permalink: /Java/WrappedPlainView/
 date: 2021-01-11
-key: JavaJava.W.WrappedPlainView
+key: Java.W.WrappedPlainView
 category: java
 tags: ['java se', 'javax.swing.text', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

@@ -2,7 +2,7 @@
 title: Reference.reachabilityFence()
 permalink: Java/Reference-java-lang-ref/reachabilityFence
 date: 2021-01-11
-key: JavaJava.R.Reference-java-lang-ref
+key: Java.R.Reference-java-lang-ref
 category: java
 tags: ['java se', 'java.lang.ref', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

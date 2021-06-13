@@ -2,7 +2,7 @@
 title: RandomAccess
 permalink: Java/RandomAccess
 date: 2021-01-11
-key: JavaJava.R.RandomAccess
+key: Java.R.RandomAccess
 category: java
 tags: ['java se', 'java.util', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 

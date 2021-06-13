@@ -2,7 +2,7 @@
 title: RowIdLifetime.ROWID_VALID_SESSION
 permalink: Java/RowIdLifetime/ROWID_VALID_SESSION
 date: 2021-01-11
-key: JavaJava.R.RowIdLifetime
+key: Java.R.RowIdLifetime
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.6']
 sidebar: 

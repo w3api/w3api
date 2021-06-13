@@ -1,8 +1,8 @@
 ---
 title: WorkerStateEvent.WorkerStateEvent()
-permalink: Java/WorkerStateEvent/WorkerStateEvent
+permalink: /Java/WorkerStateEvent/WorkerStateEvent/
 date: 2021-01-11
-key: JavaJava.W.WorkerStateEvent
+key: Java.W.WorkerStateEvent
 category: java
 tags: ['java se', 'javafx.concurrent', 'javafx.graphics', 'metodo java', 'JavaFX 2.1']
 sidebar: 

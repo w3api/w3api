@@ -2,7 +2,7 @@
 title: RespectBindingFeature
 permalink: Java/RespectBindingFeature
 date: 2021-01-11
-key: JavaJava.R.RespectBindingFeature
+key: Java.R.RespectBindingFeature
 category: java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'clase java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 

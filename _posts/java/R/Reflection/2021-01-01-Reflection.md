@@ -2,7 +2,7 @@
 title: Reflection
 permalink: Java/Reflection
 date: 2021-01-11
-key: JavaJava.R.Reflection
+key: Java.R.Reflection
 category: java
 tags: ['java se', 'javafx.scene.effect', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 

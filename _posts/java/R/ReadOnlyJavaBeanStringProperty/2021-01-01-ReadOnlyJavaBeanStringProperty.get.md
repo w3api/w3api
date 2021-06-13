@@ -2,7 +2,7 @@
 title: ReadOnlyJavaBeanStringProperty.get()
 permalink: Java/ReadOnlyJavaBeanStringProperty/get
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyJavaBeanStringProperty
+key: Java.R.ReadOnlyJavaBeanStringProperty
 category: java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

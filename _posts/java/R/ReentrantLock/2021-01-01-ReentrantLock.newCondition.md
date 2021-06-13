@@ -2,7 +2,7 @@
 title: ReentrantLock.newCondition()
 permalink: Java/ReentrantLock/newCondition
 date: 2021-01-11
-key: JavaJava.R.ReentrantLock
+key: Java.R.ReentrantLock
 category: java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.5']
 sidebar: 

@@ -2,7 +2,7 @@
 title: ReferenceUriSchemesSupported
 permalink: Java/ReferenceUriSchemesSupported
 date: 2021-01-11
-key: JavaJava.R.ReferenceUriSchemesSupported
+key: Java.R.ReferenceUriSchemesSupported
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

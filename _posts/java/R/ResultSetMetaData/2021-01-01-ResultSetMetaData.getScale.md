@@ -2,7 +2,7 @@
 title: ResultSetMetaData.getScale()
 permalink: Java/ResultSetMetaData/getScale
 date: 2021-01-11
-key: JavaJava.R.ResultSetMetaData
+key: Java.R.ResultSetMetaData
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 

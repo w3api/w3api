@@ -1,8 +1,8 @@
 ---
 title: WebServiceProvider.wsdlLocation
-permalink: Java/WebServiceProvider/wsdlLocation
+permalink: /Java/WebServiceProvider/wsdlLocation/
 date: 2021-01-11
-key: JavaJava.W.WebServiceProvider
+key: Java.W.WebServiceProvider
 category: java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'elemento java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 

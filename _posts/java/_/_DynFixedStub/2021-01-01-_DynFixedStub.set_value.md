@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.set_value()
-permalink: Java/_DynFixedStub/set_value
+permalink: /Java/_DynFixedStub/set_value/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

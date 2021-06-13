@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub._DynSequenceStub()
-permalink: Java/_DynSequenceStub/_DynSequenceStub
+permalink: /Java/_DynSequenceStub/_DynSequenceStub/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

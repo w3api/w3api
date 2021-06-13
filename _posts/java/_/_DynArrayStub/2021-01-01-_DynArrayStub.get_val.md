@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.get_val()
-permalink: Java/_DynArrayStub/get_val
+permalink: /Java/_DynArrayStub/get_val/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

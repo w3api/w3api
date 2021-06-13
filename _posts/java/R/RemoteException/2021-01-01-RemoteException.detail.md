@@ -2,7 +2,7 @@
 title: RemoteException.detail
 permalink: Java/RemoteException/detail
 date: 2021-01-11
-key: JavaJava.R.RemoteException
+key: Java.R.RemoteException
 category: java
 tags: ['java se', 'java.rmi', 'java.rmi', 'campo java', 'Java 1.1']
 sidebar: 

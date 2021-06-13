@@ -2,7 +2,7 @@
 title: ResolutionSyntax.lessThanOrEquals()
 permalink: Java/ResolutionSyntax/lessThanOrEquals
 date: 2021-01-11
-key: JavaJava.R.ResolutionSyntax
+key: Java.R.ResolutionSyntax
 category: java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -2,7 +2,7 @@
 title: ResourceBundleControlProvider.getControl()
 permalink: Java/ResourceBundleControlProvider/getControl
 date: 2021-01-11
-key: JavaJava.R.ResourceBundleControlProvider
+key: Java.R.ResourceBundleControlProvider
 category: java
 tags: ['java se', 'java.util.spi', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

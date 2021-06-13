@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.insert_typecode()
-permalink: Java/_DynSequenceStub/insert_typecode
+permalink: /Java/_DynSequenceStub/insert_typecode/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

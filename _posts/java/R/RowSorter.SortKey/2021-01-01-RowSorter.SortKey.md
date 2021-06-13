@@ -2,7 +2,7 @@
 title: RowSorter.SortKey
 permalink: Java/RowSorter/SortKey
 date: 2021-01-11
-key: JavaJava.R.RowSorter.SortKey
+key: Java.R.RowSorter.SortKey
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 

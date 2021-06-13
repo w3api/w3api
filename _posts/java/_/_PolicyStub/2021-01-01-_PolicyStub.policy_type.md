@@ -1,6 +1,6 @@
 ---
 title: _PolicyStub.policy_type()
-permalink: Java/_PolicyStub/policy_type
+permalink: /Java/_PolicyStub/policy_type/
 date: 2021-01-11
 key: JavaJava._._PolicyStub
 category: java

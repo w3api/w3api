@@ -2,7 +2,7 @@
 title: ResourceAccuracy.valueOf()
 permalink: Java/ResourceAccuracy/valueOf
 date: 2021-01-11
-key: JavaJava.R.ResourceAccuracy
+key: Java.R.ResourceAccuracy
 category: java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 

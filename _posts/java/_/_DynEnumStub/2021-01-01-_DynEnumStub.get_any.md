@@ -1,6 +1,6 @@
 ---
 title: _DynEnumStub.get_any()
-permalink: Java/_DynEnumStub/get_any
+permalink: /Java/_DynEnumStub/get_any/
 date: 2021-01-11
 key: JavaJava._._DynEnumStub
 category: java

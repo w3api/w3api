@@ -1,6 +1,6 @@
 ---
 title: _IDLTypeStub._IDLTypeStub()
-permalink: Java/_IDLTypeStub/_IDLTypeStub
+permalink: /Java/_IDLTypeStub/_IDLTypeStub/
 date: 2021-01-11
 key: JavaJava._._IDLTypeStub
 category: java

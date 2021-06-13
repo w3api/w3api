@@ -1,6 +1,6 @@
 ---
 title: _NamingContextImplBase._NamingContextImplBase()
-permalink: Java/_NamingContextImplBase/_NamingContextImplBase
+permalink: /Java/_NamingContextImplBase/_NamingContextImplBase/
 date: 2021-01-11
 key: JavaJava._._NamingContextImplBase
 category: java

@@ -1,8 +1,8 @@
 ---
 title: BigUint64Array.forEach()
-permalink: Javascript/BigUint64Array/forEach
+permalink: /Javascript/BigUint64Array/forEach/
 date: 2021-01-11
-key: JavascriptJavascript.B.BigUint64Array
+key: Javascript.B.BigUint64Array
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

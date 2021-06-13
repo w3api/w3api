@@ -2,7 +2,7 @@
 title: RenderingHints.values()
 permalink: Java/RenderingHints/values
 date: 2021-01-11
-key: JavaJava.R.RenderingHints
+key: Java.R.RenderingHints
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

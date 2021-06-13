@@ -2,7 +2,7 @@
 title: RangeException
 permalink: Java/RangeException
 date: 2021-01-11
-key: JavaJava.R.RangeException
+key: Java.R.RangeException
 category: java
 tags: ['java se', 'org.w3c.dom.ranges', 'java.xml', 'clase java', 'Java 9', 'DOM Level 2']
 sidebar: 

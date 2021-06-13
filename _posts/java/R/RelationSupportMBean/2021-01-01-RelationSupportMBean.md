@@ -2,7 +2,7 @@
 title: RelationSupportMBean
 permalink: Java/RelationSupportMBean
 date: 2021-01-11
-key: JavaJava.R.RelationSupportMBean
+key: Java.R.RelationSupportMBean
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'interface java', 'Java 1.5']
 sidebar: 

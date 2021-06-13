@@ -1,8 +1,8 @@
 ---
 title: WrongPolicyHelper
-permalink: Java/WrongPolicyHelper
+permalink: /Java/WrongPolicyHelper/
 date: 2021-01-11
-key: JavaJava.W.WrongPolicyHelper
+key: Java.W.WrongPolicyHelper
 category: java
 tags: ['java se', 'org.omg.PortableServer.POAPackage', 'java.corba', 'clase java', 'Java 1.0']
 sidebar: 

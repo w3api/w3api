@@ -2,7 +2,7 @@
 title: RetentionPolicy.RUNTIME
 permalink: Java/RetentionPolicy/RUNTIME
 date: 2021-01-11
-key: JavaJava.R.RetentionPolicy
+key: Java.R.RetentionPolicy
 category: java
 tags: ['java se', 'java.lang.annotation', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 

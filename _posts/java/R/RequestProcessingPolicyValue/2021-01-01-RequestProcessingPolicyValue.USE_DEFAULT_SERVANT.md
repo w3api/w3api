@@ -2,7 +2,7 @@
 title: RequestProcessingPolicyValue.USE_DEFAULT_SERVANT
 permalink: Java/RequestProcessingPolicyValue/USE_DEFAULT_SERVANT
 date: 2021-01-11
-key: JavaJava.R.RequestProcessingPolicyValue
+key: Java.R.RequestProcessingPolicyValue
 category: java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

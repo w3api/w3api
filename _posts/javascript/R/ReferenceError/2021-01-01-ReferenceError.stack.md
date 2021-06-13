@@ -1,8 +1,8 @@
 ---
 title: ReferenceError.stack
-permalink: Javascript/ReferenceError/stack
+permalink: /Javascript/ReferenceError/stack/
 date: 2021-01-11
-key: JavascriptJavascript.R.ReferenceError
+key: Javascript.R.ReferenceError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

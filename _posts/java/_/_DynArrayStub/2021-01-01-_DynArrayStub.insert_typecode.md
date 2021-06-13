@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.insert_typecode()
-permalink: Java/_DynArrayStub/insert_typecode
+permalink: /Java/_DynArrayStub/insert_typecode/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

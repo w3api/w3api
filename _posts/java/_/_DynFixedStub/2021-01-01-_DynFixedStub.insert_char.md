@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.insert_char()
-permalink: Java/_DynFixedStub/insert_char
+permalink: /Java/_DynFixedStub/insert_char/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

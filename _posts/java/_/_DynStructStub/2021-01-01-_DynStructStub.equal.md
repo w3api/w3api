@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.equal()
-permalink: Java/_DynStructStub/equal
+permalink: /Java/_DynStructStub/equal/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

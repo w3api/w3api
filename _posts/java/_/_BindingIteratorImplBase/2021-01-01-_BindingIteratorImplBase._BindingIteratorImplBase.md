@@ -1,6 +1,6 @@
 ---
 title: _BindingIteratorImplBase._BindingIteratorImplBase()
-permalink: Java/_BindingIteratorImplBase/_BindingIteratorImplBase
+permalink: /Java/_BindingIteratorImplBase/_BindingIteratorImplBase/
 date: 2021-01-11
 key: JavaJava._._BindingIteratorImplBase
 category: java

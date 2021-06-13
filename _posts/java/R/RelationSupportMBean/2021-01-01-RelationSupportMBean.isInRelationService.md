@@ -2,7 +2,7 @@
 title: RelationSupportMBean.isInRelationService()
 permalink: Java/RelationSupportMBean/isInRelationService
 date: 2021-01-11
-key: JavaJava.R.RelationSupportMBean
+key: Java.R.RelationSupportMBean
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

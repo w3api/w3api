@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.get_typecode()
-permalink: Java/_DynStructStub/get_typecode
+permalink: /Java/_DynStructStub/get_typecode/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

@@ -2,7 +2,7 @@
 title: RequestingUserName
 permalink: Java/RequestingUserName
 date: 2021-01-11
-key: JavaJava.R.RequestingUserName
+key: Java.R.RequestingUserName
 category: java
 tags: ['java se', 'javax.print.attribute.standard', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

@@ -2,7 +2,7 @@
 title: ReadOnlyStringProperty.ReadOnlyStringProperty()
 permalink: Java/ReadOnlyStringProperty/ReadOnlyStringProperty
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyStringProperty
+key: Java.R.ReadOnlyStringProperty
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

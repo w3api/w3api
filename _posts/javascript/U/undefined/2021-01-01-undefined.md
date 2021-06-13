@@ -1,8 +1,8 @@
 ---
 title: undefined
-permalink: Javascript/undefined
+permalink: /Javascript/undefined/
 date: 2021-01-11
-key: JavascriptJavascript.U.undefined
+key: Javascript.U.undefined
 category: javascript
 tags: ['funcion javascript']
 sidebar: 

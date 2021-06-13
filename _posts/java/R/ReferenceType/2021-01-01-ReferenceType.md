@@ -2,7 +2,7 @@
 title: ReferenceType
 permalink: Java/ReferenceType/
 date: 2021-01-11
-key: JavaJava.R.ReferenceType
+key: Java.R.ReferenceType
 category: java
 tags: ['java se']
 sidebar: 

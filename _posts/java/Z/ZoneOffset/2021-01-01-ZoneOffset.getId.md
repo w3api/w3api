@@ -1,6 +1,6 @@
 ---
 title: ZoneOffset.getId()
-permalink: Java/ZoneOffset/getId
+permalink: /Java/ZoneOffset/getId/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffset
 category: java

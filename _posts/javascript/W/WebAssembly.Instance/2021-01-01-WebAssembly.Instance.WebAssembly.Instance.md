@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.Instance.WebAssembly.Instance()
-permalink: Javascript/WebAssembly/Instance/WebAssembly/Instance
+permalink: /Javascript/WebAssembly/Instance/WebAssembly/Instance/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.Instance
+key: Javascript.W.WebAssembly.Instance
 category: javascript
 tags: ['constructor javascript']
 sidebar: 

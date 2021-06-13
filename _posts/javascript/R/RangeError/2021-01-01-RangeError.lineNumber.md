@@ -1,8 +1,8 @@
 ---
 title: RangeError.lineNumber
-permalink: Javascript/RangeError/lineNumber
+permalink: /Javascript/RangeError/lineNumber/
 date: 2021-01-11
-key: JavascriptJavascript.R.RangeError
+key: Javascript.R.RangeError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

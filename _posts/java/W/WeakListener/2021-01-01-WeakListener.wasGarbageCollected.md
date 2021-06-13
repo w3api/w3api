@@ -1,8 +1,8 @@
 ---
 title: WeakListener.wasGarbageCollected()
-permalink: Java/WeakListener/wasGarbageCollected
+permalink: /Java/WeakListener/wasGarbageCollected/
 date: 2021-01-11
-key: JavaJava.W.WeakListener
+key: Java.W.WeakListener
 category: java
 tags: ['java se', 'javafx.beans', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

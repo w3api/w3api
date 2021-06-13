@@ -1,8 +1,8 @@
 ---
 title: WatchService
-permalink: Java/WatchService
+permalink: /Java/WatchService/
 date: 2021-01-11
-key: JavaJava.W.WatchService
+key: Java.W.WatchService
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 

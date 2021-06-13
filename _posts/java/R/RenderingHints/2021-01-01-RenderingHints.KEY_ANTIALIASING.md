@@ -2,7 +2,7 @@
 title: RenderingHints.KEY_ANTIALIASING
 permalink: Java/RenderingHints/KEY_ANTIALIASING
 date: 2021-01-11
-key: JavaJava.R.RenderingHints
+key: Java.R.RenderingHints
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

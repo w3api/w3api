@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.component_count()
-permalink: Java/_DynUnionStub/component_count
+permalink: /Java/_DynUnionStub/component_count/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

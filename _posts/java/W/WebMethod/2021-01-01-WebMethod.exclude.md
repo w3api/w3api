@@ -1,8 +1,8 @@
 ---
 title: WebMethod.exclude
-permalink: Java/WebMethod/exclude
+permalink: /Java/WebMethod/exclude/
 date: 2021-01-11
-key: JavaJava.W.WebMethod
+key: Java.W.WebMethod
 category: java
 tags: ['java se', 'javax.jws', 'java.xml.ws', 'elemento java', 'Java 1.6']
 sidebar: 

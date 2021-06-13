@@ -1,6 +1,6 @@
 ---
 title: ZoneOffsetTransition.hashCode()
-permalink: Java/ZoneOffsetTransition/hashCode
+permalink: /Java/ZoneOffsetTransition/hashCode/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffsetTransition
 category: java

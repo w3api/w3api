@@ -2,7 +2,7 @@
 title: RuntimeOperationsException.getTargetException()
 permalink: Java/RuntimeOperationsException/getTargetException
 date: 2021-01-11
-key: JavaJava.R.RuntimeOperationsException
+key: Java.R.RuntimeOperationsException
 category: java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

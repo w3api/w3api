@@ -2,7 +2,7 @@
 title: ReadOnlyFileSystemException.ReadOnlyFileSystemException()
 permalink: Java/ReadOnlyFileSystemException/ReadOnlyFileSystemException
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyFileSystemException
+key: Java.R.ReadOnlyFileSystemException
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

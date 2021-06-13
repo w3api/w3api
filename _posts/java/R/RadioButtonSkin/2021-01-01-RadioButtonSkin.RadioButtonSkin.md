@@ -2,7 +2,7 @@
 title: RadioButtonSkin.RadioButtonSkin()
 permalink: Java/RadioButtonSkin/RadioButtonSkin
 date: 2021-01-11
-key: JavaJava.R.RadioButtonSkin
+key: Java.R.RadioButtonSkin
 category: java
 tags: ['java se', 'javafx.scene.control.skin', 'javafx.controls', 'metodo java', 'Java 9']
 sidebar: 

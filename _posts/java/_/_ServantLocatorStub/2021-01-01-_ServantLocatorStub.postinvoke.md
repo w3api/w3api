@@ -1,6 +1,6 @@
 ---
 title: _ServantLocatorStub.postinvoke()
-permalink: Java/_ServantLocatorStub/postinvoke
+permalink: /Java/_ServantLocatorStub/postinvoke/
 date: 2021-01-11
 key: JavaJava._._ServantLocatorStub
 category: java

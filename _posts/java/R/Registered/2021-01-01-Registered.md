@@ -2,7 +2,7 @@
 title: Registered
 permalink: Java/Registered
 date: 2021-01-11
-key: JavaJava.R.Registered
+key: Java.R.Registered
 category: java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'anotacion java', 'Java 9']
 sidebar: 

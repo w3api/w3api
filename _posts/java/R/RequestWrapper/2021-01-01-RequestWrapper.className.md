@@ -2,7 +2,7 @@
 title: RequestWrapper.className
 permalink: Java/RequestWrapper/className
 date: 2021-01-11
-key: JavaJava.R.RequestWrapper
+key: Java.R.RequestWrapper
 category: java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'elemento java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ZipException.ZipException()
-permalink: Java/ZipException/ZipException
+permalink: /Java/ZipException/ZipException/
 date: 2021-01-11
 key: JavaJava.Z.ZipException
 category: java

@@ -1,6 +1,6 @@
 ---
 title: _DynEnumStub.seek()
-permalink: Java/_DynEnumStub/seek
+permalink: /Java/_DynEnumStub/seek/
 date: 2021-01-11
 key: JavaJava._._DynEnumStub
 category: java

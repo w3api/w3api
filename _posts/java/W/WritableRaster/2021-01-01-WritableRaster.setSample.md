@@ -1,8 +1,8 @@
 ---
 title: WritableRaster.setSample()
-permalink: Java/WritableRaster/setSample
+permalink: /Java/WritableRaster/setSample/
 date: 2021-01-11
-key: JavaJava.W.WritableRaster
+key: Java.W.WritableRaster
 category: java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ZoneOffset.equals()
-permalink: Java/ZoneOffset/equals
+permalink: /Java/ZoneOffset/equals/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffset
 category: java

@@ -2,7 +2,7 @@
 title: ReadOnlySetWrapper.ReadOnlySetWrapper()
 permalink: Java/ReadOnlySetWrapper/ReadOnlySetWrapper
 date: 2021-01-11
-key: JavaJava.R.ReadOnlySetWrapper
+key: Java.R.ReadOnlySetWrapper
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

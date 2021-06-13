@@ -2,7 +2,7 @@
 title: RenderedImage
 permalink: Java/RenderedImage
 date: 2021-01-11
-key: JavaJava.R.RenderedImage
+key: Java.R.RenderedImage
 category: java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

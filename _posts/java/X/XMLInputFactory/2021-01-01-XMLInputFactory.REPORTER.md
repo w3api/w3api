@@ -2,7 +2,7 @@
 title: XMLInputFactory.REPORTER
 permalink: Java/XMLInputFactory/REPORTER
 date: 2021-01-11
-key: JavaJava.X.XMLInputFactory
+key: Java.X.XMLInputFactory
 category: java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'campo java', 'Java 1.6']
 sidebar: 

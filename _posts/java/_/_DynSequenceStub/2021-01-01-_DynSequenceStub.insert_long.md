@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.insert_long()
-permalink: Java/_DynSequenceStub/insert_long
+permalink: /Java/_DynSequenceStub/insert_long/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

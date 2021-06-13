@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.to_any()
-permalink: Java/_DynSequenceStub/to_any
+permalink: /Java/_DynSequenceStub/to_any/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

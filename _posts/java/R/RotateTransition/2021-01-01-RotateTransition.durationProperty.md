@@ -2,7 +2,7 @@
 title: RotateTransition.durationProperty()
 permalink: Java/RotateTransition/durationProperty
 date: 2021-01-11
-key: JavaJava.R.RotateTransition
+key: Java.R.RotateTransition
 category: java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RepaintManager.toString()
 permalink: Java/RepaintManager/toString
 date: 2021-01-11
-key: JavaJava.R.RepaintManager
+key: Java.R.RepaintManager
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

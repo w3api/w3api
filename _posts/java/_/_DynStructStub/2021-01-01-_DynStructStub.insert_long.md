@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.insert_long()
-permalink: Java/_DynStructStub/insert_long
+permalink: /Java/_DynStructStub/insert_long/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

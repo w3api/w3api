@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.compileStreaming()
-permalink: Javascript/WebAssembly/compileStreaming
+permalink: /Javascript/WebAssembly/compileStreaming/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly
+key: Javascript.W.WebAssembly
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

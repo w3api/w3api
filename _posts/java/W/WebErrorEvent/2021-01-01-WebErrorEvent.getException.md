@@ -1,8 +1,8 @@
 ---
 title: WebErrorEvent.getException()
-permalink: Java/WebErrorEvent/getException
+permalink: /Java/WebErrorEvent/getException/
 date: 2021-01-11
-key: JavaJava.W.WebErrorEvent
+key: Java.W.WebErrorEvent
 category: java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'JavaFX 8.0']
 sidebar: 

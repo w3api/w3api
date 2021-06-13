@@ -1,8 +1,8 @@
 ---
 title: BigInt64Array.join()
-permalink: Javascript/BigInt64Array/join
+permalink: /Javascript/BigInt64Array/join/
 date: 2021-01-11
-key: JavascriptJavascript.B.BigInt64Array
+key: Javascript.B.BigInt64Array
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

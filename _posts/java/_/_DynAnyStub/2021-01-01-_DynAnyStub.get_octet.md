@@ -1,6 +1,6 @@
 ---
 title: _DynAnyStub.get_octet()
-permalink: Java/_DynAnyStub/get_octet
+permalink: /Java/_DynAnyStub/get_octet/
 date: 2021-01-11
 key: JavaJava._._DynAnyStub
 category: java

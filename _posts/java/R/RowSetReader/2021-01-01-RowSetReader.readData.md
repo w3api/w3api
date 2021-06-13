@@ -2,7 +2,7 @@
 title: RowSetReader.readData()
 permalink: Java/RowSetReader/readData
 date: 2021-01-11
-key: JavaJava.R.RowSetReader
+key: Java.R.RowSetReader
 category: java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 1.4']
 sidebar: 

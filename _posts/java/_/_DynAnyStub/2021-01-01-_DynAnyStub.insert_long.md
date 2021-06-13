@@ -1,6 +1,6 @@
 ---
 title: _DynAnyStub.insert_long()
-permalink: Java/_DynAnyStub/insert_long
+permalink: /Java/_DynAnyStub/insert_long/
 date: 2021-01-11
 key: JavaJava._._DynAnyStub
 category: java

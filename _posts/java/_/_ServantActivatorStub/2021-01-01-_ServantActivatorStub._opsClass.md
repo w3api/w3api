@@ -1,6 +1,6 @@
 ---
 title: _ServantActivatorStub._opsClass
-permalink: Java/_ServantActivatorStub/_opsClass
+permalink: /Java/_ServantActivatorStub/_opsClass/
 date: 2021-01-11
 key: JavaJava._._ServantActivatorStub
 category: java

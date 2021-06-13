@@ -1,8 +1,8 @@
 ---
 title: YearMonth.now()
-permalink: Java/YearMonth/now
+permalink: /Java/YearMonth/now/
 date: 2021-01-11
-key: JavaJava.Y.YearMonth
+key: Java.Y.YearMonth
 category: java
 tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

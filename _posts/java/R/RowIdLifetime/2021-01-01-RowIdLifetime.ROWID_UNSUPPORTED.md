@@ -2,7 +2,7 @@
 title: RowIdLifetime.ROWID_UNSUPPORTED
 permalink: Java/RowIdLifetime/ROWID_UNSUPPORTED
 date: 2021-01-11
-key: JavaJava.R.RowIdLifetime
+key: Java.R.RowIdLifetime
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.6']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _ServantLocatorStub._ServantLocatorStub()
-permalink: Java/_ServantLocatorStub/_ServantLocatorStub
+permalink: /Java/_ServantLocatorStub/_ServantLocatorStub/
 date: 2021-01-11
 key: JavaJava._._ServantLocatorStub
 category: java

@@ -2,7 +2,7 @@
 title: ReferralException
 permalink: Java/ReferralException
 date: 2021-01-11
-key: JavaJava.R.ReferralException
+key: Java.R.ReferralException
 category: java
 tags: ['java se', 'javax.naming', 'java.naming', 'clase java', 'Java 1.3']
 sidebar: 

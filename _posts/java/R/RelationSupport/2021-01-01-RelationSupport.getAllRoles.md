@@ -2,7 +2,7 @@
 title: RelationSupport.getAllRoles()
 permalink: Java/RelationSupport/getAllRoles
 date: 2021-01-11
-key: JavaJava.R.RelationSupport
+key: Java.R.RelationSupport
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

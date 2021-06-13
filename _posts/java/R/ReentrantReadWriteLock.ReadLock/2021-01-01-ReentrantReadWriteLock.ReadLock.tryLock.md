@@ -2,7 +2,7 @@
 title: ReentrantReadWriteLock.ReadLock.tryLock()
 permalink: Java/ReentrantReadWriteLock/ReadLock/tryLock
 date: 2021-01-11
-key: JavaJava.R.ReentrantReadWriteLock.ReadLock
+key: Java.R.ReentrantReadWriteLock.ReadLock
 category: java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

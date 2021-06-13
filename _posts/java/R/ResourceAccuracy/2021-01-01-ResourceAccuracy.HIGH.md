@@ -2,7 +2,7 @@
 title: ResourceAccuracy.HIGH
 permalink: Java/ResourceAccuracy/HIGH
 date: 2021-01-11
-key: JavaJava.R.ResourceAccuracy
+key: Java.R.ResourceAccuracy
 category: java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'campo java', '8u40']
 sidebar: 

@@ -2,7 +2,7 @@
 title: ResponseAPDU.getSW1()
 permalink: Java/ResponseAPDU/getSW1
 date: 2021-01-11
-key: JavaJava.R.ResponseAPDU
+key: Java.R.ResponseAPDU
 category: java
 tags: ['java se', 'javax.smartcardio', 'java.smartcardio', 'metodo java', 'Java 1.6']
 sidebar: 

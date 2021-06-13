@@ -1,8 +1,8 @@
 ---
 title: WebEngine.executeScript()
-permalink: Java/WebEngine/executeScript
+permalink: /Java/WebEngine/executeScript/
 date: 2021-01-11
-key: JavaJava.W.WebEngine
+key: Java.W.WebEngine
 category: java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'JavaFX 2.0']
 sidebar: 

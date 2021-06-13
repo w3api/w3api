@@ -2,7 +2,7 @@
 title: ResultSetMetaData
 permalink: Java/ResultSetMetaData
 date: 2021-01-11
-key: JavaJava.R.ResultSetMetaData
+key: Java.R.ResultSetMetaData
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'interface java', 'Java 1.1']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RemoteObject
 permalink: Java/RemoteObject
 date: 2021-01-11
-key: JavaJava.R.RemoteObject
+key: Java.R.RemoteObject
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 

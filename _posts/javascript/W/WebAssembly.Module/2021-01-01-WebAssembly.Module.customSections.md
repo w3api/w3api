@@ -1,22 +1,22 @@
 ---
-title: WebAssembly.Module.imports()
-permalink: Javascript/WebAssembly/Module/imports()
+title: WebAssembly.Module.customSections
+permalink: /Javascript/WebAssembly/Module/customSections/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.Module
+key: Javascript.W.WebAssembly.Module
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 
   nav: javascript
 ---
 
-{% include w3api/datos.html clase=site.data.Javascript.W.WebAssembly.Module.propiedades valor="imports()" %}
+{% include w3api/datos.html clase=site.data.Javascript.W.WebAssembly.Module.propiedades valor="customSections()" %}
 
 ## Descripción
 {{_dato.description }}
 
 ## Sintaxis
 ~~~javascript
-WebAssembly.Module.imports()
+WebAssembly.Module.customSections()
 ~~~
 
 ## Objeto Padre

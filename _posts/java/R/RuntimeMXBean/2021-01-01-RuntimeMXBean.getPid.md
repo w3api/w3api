@@ -2,7 +2,7 @@
 title: RuntimeMXBean.getPid()
 permalink: Java/RuntimeMXBean/getPid
 date: 2021-01-11
-key: JavaJava.R.RuntimeMXBean
+key: Java.R.RuntimeMXBean
 category: java
 tags: ['java se', 'java.lang.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

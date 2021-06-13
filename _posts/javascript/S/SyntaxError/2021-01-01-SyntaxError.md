@@ -1,8 +1,8 @@
 ---
 title: SyntaxError
-permalink: Javascript/SyntaxError
+permalink: /Javascript/SyntaxError/
 date: 2021-01-11
-key: JavascriptJavascript.S.SyntaxError
+key: Javascript.S.SyntaxError
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.get_dyn_any()
-permalink: Java/_DynFixedStub/get_dyn_any
+permalink: /Java/_DynFixedStub/get_dyn_any/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

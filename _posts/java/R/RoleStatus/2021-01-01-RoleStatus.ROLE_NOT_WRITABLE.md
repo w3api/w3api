@@ -2,7 +2,7 @@
 title: RoleStatus.ROLE_NOT_WRITABLE
 permalink: Java/RoleStatus/ROLE_NOT_WRITABLE
 date: 2021-01-11
-key: JavaJava.R.RoleStatus
+key: Java.R.RoleStatus
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 

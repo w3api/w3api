@@ -1,6 +1,6 @@
 ---
 title: _DynEnumStub.get_ushort()
-permalink: Java/_DynEnumStub/get_ushort
+permalink: /Java/_DynEnumStub/get_ushort/
 date: 2021-01-11
 key: JavaJava._._DynEnumStub
 category: java

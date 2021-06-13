@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.instantiateStreaming()
-permalink: Javascript/WebAssembly/instantiateStreaming
+permalink: /Javascript/WebAssembly/instantiateStreaming/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly
+key: Javascript.W.WebAssembly
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: WriteAbortedException.WriteAbortedException()
-permalink: Java/WriteAbortedException/WriteAbortedException
+permalink: /Java/WriteAbortedException/WriteAbortedException/
 date: 2021-01-11
-key: JavaJava.W.WriteAbortedException
+key: Java.W.WriteAbortedException
 category: java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

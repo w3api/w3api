@@ -1,6 +1,6 @@
 ---
 title: _DynValueStub.current_member_name()
-permalink: Java/_DynValueStub/current_member_name
+permalink: /Java/_DynValueStub/current_member_name/
 date: 2021-01-11
 key: JavaJava._._DynValueStub
 category: java

@@ -2,7 +2,7 @@
 title: RoleResult
 permalink: Java/RoleResult
 date: 2021-01-11
-key: JavaJava.R.RoleResult
+key: Java.R.RoleResult
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

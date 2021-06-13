@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.seek()
-permalink: Java/_DynSequenceStub/seek
+permalink: /Java/_DynSequenceStub/seek/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

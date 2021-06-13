@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.assign()
-permalink: Java/_DynSequenceStub/assign
+permalink: /Java/_DynSequenceStub/assign/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

@@ -1,8 +1,8 @@
 ---
 title: SyntaxError.columnNumber
-permalink: Javascript/SyntaxError/columnNumber
+permalink: /Javascript/SyntaxError/columnNumber/
 date: 2021-01-11
-key: JavascriptJavascript.S.SyntaxError
+key: Javascript.S.SyntaxError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

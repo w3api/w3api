@@ -1,8 +1,8 @@
 ---
 title: WritableBooleanValue.setValue()
-permalink: Java/WritableBooleanValue/setValue
+permalink: /Java/WritableBooleanValue/setValue/
 date: 2021-01-11
-key: JavaJava.W.WritableBooleanValue
+key: Java.W.WritableBooleanValue
 category: java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

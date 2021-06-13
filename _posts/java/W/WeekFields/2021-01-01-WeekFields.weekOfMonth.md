@@ -1,8 +1,8 @@
 ---
 title: WeekFields.weekOfMonth()
-permalink: Java/WeekFields/weekOfMonth
+permalink: /Java/WeekFields/weekOfMonth/
 date: 2021-01-11
-key: JavaJava.W.WeekFields
+key: Java.W.WeekFields
 category: java
 tags: ['java se', 'java.time.temporal', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

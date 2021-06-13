@@ -2,7 +2,7 @@
 title: RemoteExecutionControl.redefine()
 permalink: Java/RemoteExecutionControl/redefine
 date: 2021-01-11
-key: JavaJava.R.RemoteExecutionControl
+key: Java.R.RemoteExecutionControl
 category: java
 tags: ['java se', 'jdk.jshell.execution', 'jdk.jshell', 'metodo java', 'Java 9']
 sidebar: 

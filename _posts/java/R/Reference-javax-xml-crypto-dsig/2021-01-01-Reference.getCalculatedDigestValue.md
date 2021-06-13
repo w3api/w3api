@@ -2,7 +2,7 @@
 title: Reference.getCalculatedDigestValue()
 permalink: Java/Reference-javax-xml-crypto-dsig/getCalculatedDigestValue
 date: 2021-01-11
-key: JavaJava.R.Reference-javax-xml-crypto-dsig
+key: Java.R.Reference-javax-xml-crypto-dsig
 category: java
 tags: ['java se', 'javax.xml.crypto.dsig', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 

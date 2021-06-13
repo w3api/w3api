@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.to_any()
-permalink: Java/_DynArrayStub/to_any
+permalink: /Java/_DynArrayStub/to_any/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

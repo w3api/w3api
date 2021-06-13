@@ -2,7 +2,7 @@
 title: ResourceType.DATAGRAM_READ
 permalink: Java/ResourceType/DATAGRAM_READ
 date: 2021-01-11
-key: JavaJava.R.ResourceType
+key: Java.R.ResourceType
 category: java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'campo java', '8u40']
 sidebar: 

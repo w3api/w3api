@@ -1,6 +1,6 @@
 ---
 title: _DynAnyFactoryStub.create_dyn_any_from_type_code()
-permalink: Java/_DynAnyFactoryStub/create_dyn_any_from_type_code
+permalink: /Java/_DynAnyFactoryStub/create_dyn_any_from_type_code/
 date: 2021-01-11
 key: JavaJava._._DynAnyFactoryStub
 category: java

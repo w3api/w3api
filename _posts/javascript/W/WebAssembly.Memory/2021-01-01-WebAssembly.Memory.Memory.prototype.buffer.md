@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.Memory.Memory.prototype.buffer
-permalink: Javascript/WebAssembly/Memory/Memory.prototype.buffer
+permalink: /Javascript/WebAssembly/Memory/Memory.prototype.buffer/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.Memory
+key: Javascript.W.WebAssembly.Memory
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

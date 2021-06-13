@@ -2,7 +2,7 @@
 title: RegExpLiteralTree.getPattern()
 permalink: Java/RegExpLiteralTree/getPattern
 date: 2021-01-11
-key: JavaJava.R.RegExpLiteralTree
+key: Java.R.RegExpLiteralTree
 category: java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 

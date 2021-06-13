@@ -1,8 +1,8 @@
 ---
 title: Generator.next()
-permalink: Javascript/Generator/next
+permalink: /Javascript/Generator/next/
 date: 2021-01-11
-key: JavascriptJavascript.G.Generator
+key: Javascript.G.Generator
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

@@ -2,7 +2,7 @@
 title: Resources
 permalink: Java/Resources
 date: 2021-01-11
-key: JavaJava.R.Resources
+key: Java.R.Resources
 category: java
 tags: ['java se', 'javax.annotation', 'java.xml.ws.annotation', 'anotacion java', 'Java 1.6', 'Common Annotations Java 1.0']
 sidebar: 

@@ -2,7 +2,7 @@
 title: Rectangle
 permalink: Java/Rectangle-javafx-scene-shape
 date: 2021-01-11
-key: JavaJava.R.Rectangle-javafx-scene-shape
+key: Java.R.Rectangle-javafx-scene-shape
 category: java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 

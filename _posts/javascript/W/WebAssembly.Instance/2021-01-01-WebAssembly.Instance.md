@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.Instance
-permalink: Javascript/WebAssembly/Instance
+permalink: /Javascript/WebAssembly/Instance/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.Instance
+key: Javascript.W.WebAssembly.Instance
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

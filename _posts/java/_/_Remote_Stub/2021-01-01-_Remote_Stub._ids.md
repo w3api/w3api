@@ -1,6 +1,6 @@
 ---
 title: _Remote_Stub._ids()
-permalink: Java/_Remote_Stub/_ids
+permalink: /Java/_Remote_Stub/_ids/
 date: 2021-01-11
 key: JavaJava._._Remote_Stub
 category: java

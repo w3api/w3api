@@ -1,6 +1,6 @@
 ---
 title: ZoneOffset.UTC
-permalink: Java/ZoneOffset/UTC
+permalink: /Java/ZoneOffset/UTC/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffset
 category: java

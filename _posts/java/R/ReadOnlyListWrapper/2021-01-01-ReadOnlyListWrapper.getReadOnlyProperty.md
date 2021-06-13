@@ -2,7 +2,7 @@
 title: ReadOnlyListWrapper.getReadOnlyProperty()
 permalink: Java/ReadOnlyListWrapper/getReadOnlyProperty
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyListWrapper
+key: Java.R.ReadOnlyListWrapper
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

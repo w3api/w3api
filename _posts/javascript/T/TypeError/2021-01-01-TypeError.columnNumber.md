@@ -1,8 +1,8 @@
 ---
 title: TypeError.columnNumber
-permalink: Javascript/TypeError/columnNumber
+permalink: /Javascript/TypeError/columnNumber/
 date: 2021-01-11
-key: JavascriptJavascript.T.TypeError
+key: Javascript.T.TypeError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

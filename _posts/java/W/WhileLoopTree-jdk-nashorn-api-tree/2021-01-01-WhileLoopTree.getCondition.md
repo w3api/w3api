@@ -1,8 +1,8 @@
 ---
 title: WhileLoopTree.getCondition()
-permalink: Java/WhileLoopTree-jdk-nashorn-api-tree/getCondition
+permalink: /Java/WhileLoopTree-jdk-nashorn-api-tree/getCondition/
 date: 2021-01-11
-key: JavaJava.W.WhileLoopTree-jdk-nashorn-api-tree
+key: Java.W.WhileLoopTree-jdk-nashorn-api-tree
 category: java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 

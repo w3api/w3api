@@ -2,7 +2,7 @@
 title: RequestProcessingPolicyOperations
 permalink: Java/RequestProcessingPolicyOperations
 date: 2021-01-11
-key: JavaJava.R.RequestProcessingPolicyOperations
+key: Java.R.RequestProcessingPolicyOperations
 category: java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RuntimeErrorException.getTargetError()
 permalink: Java/RuntimeErrorException/getTargetError
 date: 2021-01-11
-key: JavaJava.R.RuntimeErrorException
+key: Java.R.RuntimeErrorException
 category: java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

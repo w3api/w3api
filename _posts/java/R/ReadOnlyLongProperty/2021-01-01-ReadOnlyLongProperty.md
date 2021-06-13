@@ -2,7 +2,7 @@
 title: ReadOnlyLongProperty
 permalink: Java/ReadOnlyLongProperty
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyLongProperty
+key: Java.R.ReadOnlyLongProperty
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 

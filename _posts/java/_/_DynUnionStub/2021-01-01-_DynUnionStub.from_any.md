@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.from_any()
-permalink: Java/_DynUnionStub/from_any
+permalink: /Java/_DynUnionStub/from_any/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

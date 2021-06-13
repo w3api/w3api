@@ -1,6 +1,6 @@
 ---
 title: _DynValueStub.from_any()
-permalink: Java/_DynValueStub/from_any
+permalink: /Java/_DynValueStub/from_any/
 date: 2021-01-11
 key: JavaJava._._DynValueStub
 category: java

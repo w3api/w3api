@@ -2,7 +2,7 @@
 title: Recording.getName()
 permalink: Java/Recording/getName
 date: 2021-01-11
-key: JavaJava.R.Recording
+key: Java.R.Recording
 category: java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 

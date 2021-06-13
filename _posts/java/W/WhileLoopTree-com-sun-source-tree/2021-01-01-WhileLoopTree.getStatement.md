@@ -1,8 +1,8 @@
 ---
 title: WhileLoopTree.getStatement()
-permalink: Java/WhileLoopTree-com-sun-source-tree/getStatement
+permalink: /Java/WhileLoopTree-com-sun-source-tree/getStatement/
 date: 2021-01-11
-key: JavaJava.W.WhileLoopTree-com-sun-source-tree
+key: Java.W.WhileLoopTree-com-sun-source-tree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'metodo java', 'Java 1.6']
 sidebar: 

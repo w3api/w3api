@@ -2,7 +2,7 @@
 title: Rectangle.x
 permalink: Java/Rectangle-java-awt/x
 date: 2021-01-11
-key: JavaJava.R.Rectangle-java-awt
+key: Java.R.Rectangle-java-awt
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

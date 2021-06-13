@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.Table.Table.prototype.length
-permalink: Javascript/WebAssembly/Table/Table.prototype.length
+permalink: /Javascript/WebAssembly/Table/Table.prototype.length/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.Table
+key: Javascript.W.WebAssembly.Table
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

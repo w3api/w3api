@@ -1,6 +1,6 @@
 ---
 title: _NamingContextExtStub.destroy()
-permalink: Java/_NamingContextExtStub/destroy
+permalink: /Java/_NamingContextExtStub/destroy/
 date: 2021-01-11
 key: JavaJava._._NamingContextExtStub
 category: java

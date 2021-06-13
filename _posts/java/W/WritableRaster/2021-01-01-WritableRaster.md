@@ -1,8 +1,8 @@
 ---
 title: WritableRaster
-permalink: Java/WritableRaster
+permalink: /Java/WritableRaster/
 date: 2021-01-11
-key: JavaJava.W.WritableRaster
+key: Java.W.WritableRaster
 category: java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

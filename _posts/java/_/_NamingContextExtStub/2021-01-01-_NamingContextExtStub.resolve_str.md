@@ -1,6 +1,6 @@
 ---
 title: _NamingContextExtStub.resolve_str()
-permalink: Java/_NamingContextExtStub/resolve_str
+permalink: /Java/_NamingContextExtStub/resolve_str/
 date: 2021-01-11
 key: JavaJava._._NamingContextExtStub
 category: java

@@ -1,8 +1,8 @@
 ---
 title: WindowStateListener.windowStateChanged()
-permalink: Java/WindowStateListener/windowStateChanged
+permalink: /Java/WindowStateListener/windowStateChanged/
 date: 2021-01-11
-key: JavaJava.W.WindowStateListener
+key: Java.W.WindowStateListener
 category: java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 

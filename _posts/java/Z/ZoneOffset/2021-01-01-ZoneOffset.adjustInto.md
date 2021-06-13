@@ -1,6 +1,6 @@
 ---
 title: ZoneOffset.adjustInto()
-permalink: Java/ZoneOffset/adjustInto
+permalink: /Java/ZoneOffset/adjustInto/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffset
 category: java

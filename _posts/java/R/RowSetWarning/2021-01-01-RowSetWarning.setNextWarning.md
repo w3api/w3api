@@ -2,7 +2,7 @@
 title: RowSetWarning.setNextWarning()
 permalink: Java/RowSetWarning/setNextWarning
 date: 2021-01-11
-key: JavaJava.R.RowSetWarning
+key: Java.R.RowSetWarning
 category: java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'metodo java', 'Java 1.5']
 sidebar: 

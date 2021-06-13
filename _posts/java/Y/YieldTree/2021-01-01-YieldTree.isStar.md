@@ -1,8 +1,8 @@
 ---
 title: YieldTree.isStar()
-permalink: Java/YieldTree/isStar
+permalink: /Java/YieldTree/isStar/
 date: 2021-01-11
-key: JavaJava.Y.YieldTree
+key: Java.Y.YieldTree
 category: java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 

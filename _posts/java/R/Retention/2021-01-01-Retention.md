@@ -2,7 +2,7 @@
 title: Retention
 permalink: Java/Retention
 date: 2021-01-11
-key: JavaJava.R.Retention
+key: Java.R.Retention
 category: java
 tags: ['java se', 'java.lang.annotation', 'java.base', 'anotacion java', 'Java 1.5']
 sidebar: 

@@ -2,7 +2,7 @@
 title: ReadOnlyJavaBeanBooleanProperty
 permalink: Java/ReadOnlyJavaBeanBooleanProperty
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyJavaBeanBooleanProperty
+key: Java.R.ReadOnlyJavaBeanBooleanProperty
 category: java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'clase java', 'JavaFX 2.1']
 sidebar: 

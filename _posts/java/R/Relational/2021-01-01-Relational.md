@@ -2,7 +2,7 @@
 title: Relational
 permalink: Java/Relational
 date: 2021-01-11
-key: JavaJava.R.Relational
+key: Java.R.Relational
 category: java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'anotacion java', 'Java 9']
 sidebar: 

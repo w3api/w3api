@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.equal()
-permalink: Java/_DynFixedStub/equal
+permalink: /Java/_DynFixedStub/equal/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

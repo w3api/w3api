@@ -1,8 +1,8 @@
 ---
 title: EvalError.fileName
-permalink: Javascript/EvalError/fileName
+permalink: /Javascript/EvalError/fileName/
 date: 2021-01-11
-key: JavascriptJavascript.E.EvalError
+key: Javascript.E.EvalError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

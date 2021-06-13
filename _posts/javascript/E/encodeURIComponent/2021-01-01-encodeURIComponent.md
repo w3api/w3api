@@ -1,8 +1,8 @@
 ---
 title: encodeURIComponent
-permalink: Javascript/encodeURIComponent
+permalink: /Javascript/encodeURIComponent/
 date: 2021-01-11
-key: JavascriptJavascript.E.encodeURIComponent
+key: Javascript.E.encodeURIComponent
 category: javascript
 tags: ['funcion javascript']
 sidebar: 

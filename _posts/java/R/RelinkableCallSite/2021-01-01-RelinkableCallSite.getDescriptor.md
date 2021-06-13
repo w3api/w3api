@@ -2,7 +2,7 @@
 title: RelinkableCallSite.getDescriptor()
 permalink: Java/RelinkableCallSite/getDescriptor
 date: 2021-01-11
-key: JavaJava.R.RelinkableCallSite
+key: Java.R.RelinkableCallSite
 category: java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'metodo java', 'Java 1.0']
 sidebar: 

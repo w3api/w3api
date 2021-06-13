@@ -2,7 +2,7 @@
 title: RowSorterListener.sorterChanged()
 permalink: Java/RowSorterListener/sorterChanged
 date: 2021-01-11
-key: JavaJava.R.RowSorterListener
+key: Java.R.RowSorterListener
 category: java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'metodo java', 'Java 1.6']
 sidebar: 

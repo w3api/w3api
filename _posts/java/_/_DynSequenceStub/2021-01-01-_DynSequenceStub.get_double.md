@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.get_double()
-permalink: Java/_DynSequenceStub/get_double
+permalink: /Java/_DynSequenceStub/get_double/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.current_component()
-permalink: Java/_DynArrayStub/current_component
+permalink: /Java/_DynArrayStub/current_component/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

@@ -2,7 +2,7 @@
 title: ResourceAccuracy
 permalink: Java/ResourceAccuracy
 date: 2021-01-11
-key: JavaJava.R.ResourceAccuracy
+key: Java.R.ResourceAccuracy
 category: java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'enumerado java', '8u40']
 sidebar: 

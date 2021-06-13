@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.Memory.grow()
-permalink: Javascript/WebAssembly/Memory/grow
+permalink: /Javascript/WebAssembly/Memory/grow/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.Memory
+key: Javascript.W.WebAssembly.Memory
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

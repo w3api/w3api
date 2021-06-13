@@ -2,7 +2,7 @@
 title: ReflectPermission.ReflectPermission()
 permalink: Java/ReflectPermission/ReflectPermission
 date: 2021-01-11
-key: JavaJava.R.ReflectPermission
+key: Java.R.ReflectPermission
 category: java
 tags: ['java se', 'java.lang.reflect', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

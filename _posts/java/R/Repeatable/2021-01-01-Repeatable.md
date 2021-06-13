@@ -2,7 +2,7 @@
 title: Repeatable
 permalink: Java/Repeatable
 date: 2021-01-11
-key: JavaJava.R.Repeatable
+key: Java.R.Repeatable
 category: java
 tags: ['java se', 'java.lang.annotation', 'java.base', 'anotacion java', 'Java 1.8']
 sidebar: 

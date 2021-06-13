@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.Table.get()
-permalink: Javascript/WebAssembly/Table/get
+permalink: /Javascript/WebAssembly/Table/get/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.Table
+key: Javascript.W.WebAssembly.Table
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

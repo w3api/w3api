@@ -1,6 +1,6 @@
 ---
 title: _DynAnyStub.rewind()
-permalink: Java/_DynAnyStub/rewind
+permalink: /Java/_DynAnyStub/rewind/
 date: 2021-01-11
 key: JavaJava._._DynAnyStub
 category: java

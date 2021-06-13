@@ -1,8 +1,8 @@
 ---
 title: GeneratorFunction
-permalink: Javascript/GeneratorFunction
+permalink: /Javascript/GeneratorFunction/
 date: 2021-01-11
-key: JavascriptJavascript.G.GeneratorFunction
+key: Javascript.G.GeneratorFunction
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

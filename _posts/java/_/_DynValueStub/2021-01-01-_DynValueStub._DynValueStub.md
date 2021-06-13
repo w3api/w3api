@@ -1,6 +1,6 @@
 ---
 title: _DynValueStub._DynValueStub()
-permalink: Java/_DynValueStub/_DynValueStub
+permalink: /Java/_DynValueStub/_DynValueStub/
 date: 2021-01-11
 key: JavaJava._._DynValueStub
 category: java

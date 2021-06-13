@@ -1,8 +1,8 @@
 ---
 title: WindowEvent.toString()
-permalink: Java/WindowEvent-javafx-stage/toString
+permalink: /Java/WindowEvent-javafx-stage/toString/
 date: 2021-01-11
-key: JavaJava.W.WindowEvent-javafx-stage
+key: Java.W.WindowEvent-javafx-stage
 category: java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

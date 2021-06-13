@@ -2,7 +2,7 @@
 title: ReentrantReadWriteLock.WriteLock.isHeldByCurrentThread()
 permalink: Java/ReentrantReadWriteLock/WriteLock/isHeldByCurrentThread
 date: 2021-01-11
-key: JavaJava.R.ReentrantReadWriteLock.WriteLock
+key: Java.R.ReentrantReadWriteLock.WriteLock
 category: java
 tags: ['java se', 'java.util.concurrent.locks', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

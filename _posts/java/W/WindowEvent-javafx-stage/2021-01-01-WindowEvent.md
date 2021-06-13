@@ -1,8 +1,8 @@
 ---
 title: WindowEvent
-permalink: Java/WindowEvent-javafx-stage
+permalink: /Java/WindowEvent-javafx-stage/
 date: 2021-01-11
-key: JavaJava.W.WindowEvent-javafx-stage
+key: Java.W.WindowEvent-javafx-stage
 category: java
 tags: ['java se', 'javafx.stage', 'javafx.graphics', 'clase java', 'JavaFX 2.0']
 sidebar: 

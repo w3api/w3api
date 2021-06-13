@@ -1,8 +1,8 @@
 ---
 title: TypeError.TypeError()
-permalink: Javascript/TypeError/TypeError
+permalink: /Javascript/TypeError/TypeError/
 date: 2021-01-11
-key: JavascriptJavascript.T.TypeError
+key: Javascript.T.TypeError
 category: javascript
 tags: ['constructor javascript']
 sidebar: 

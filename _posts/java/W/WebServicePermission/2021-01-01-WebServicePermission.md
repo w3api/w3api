@@ -1,8 +1,8 @@
 ---
 title: WebServicePermission
-permalink: Java/WebServicePermission
+permalink: /Java/WebServicePermission/
 date: 2021-01-11
-key: JavaJava.W.WebServicePermission
+key: Java.W.WebServicePermission
 category: java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'clase java', 'Java 1.6']
 sidebar: 

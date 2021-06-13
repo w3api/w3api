@@ -1,8 +1,8 @@
 ---
 title: WindowConstants
-permalink: Java/WindowConstants
+permalink: /Java/WindowConstants/
 date: 2021-01-11
-key: JavaJava.W.WindowConstants
+key: Java.W.WindowConstants
 category: java
 tags: ['java se', 'javax.swing', 'java.desktop', 'interface java', 'Java 1.2']
 sidebar: 

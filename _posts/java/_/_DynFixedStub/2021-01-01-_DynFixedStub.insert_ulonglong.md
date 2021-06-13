@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.insert_ulonglong()
-permalink: Java/_DynFixedStub/insert_ulonglong
+permalink: /Java/_DynFixedStub/insert_ulonglong/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

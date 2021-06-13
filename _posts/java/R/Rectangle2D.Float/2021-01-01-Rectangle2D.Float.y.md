@@ -2,7 +2,7 @@
 title: Rectangle2D.Float.y
 permalink: Java/Rectangle2D/Float/y
 date: 2021-01-11
-key: JavaJava.R.Rectangle2D.Float
+key: Java.R.Rectangle2D.Float
 category: java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: WebEndpoint.name
-permalink: Java/WebEndpoint/name
+permalink: /Java/WebEndpoint/name/
 date: 2021-01-11
-key: JavaJava.W.WebEndpoint
+key: Java.W.WebEndpoint
 category: java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'elemento java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 

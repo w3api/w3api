@@ -2,7 +2,7 @@
 title: Rectangle2D.getMinY()
 permalink: Java/Rectangle2D-javafx-geometry/getMinY
 date: 2021-01-11
-key: JavaJava.R.Rectangle2D-javafx-geometry
+key: Java.R.Rectangle2D-javafx-geometry
 category: java
 tags: ['java se', 'javafx.geometry', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

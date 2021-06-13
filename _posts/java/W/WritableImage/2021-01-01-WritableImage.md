@@ -1,8 +1,8 @@
 ---
 title: WritableImage
-permalink: Java/WritableImage
+permalink: /Java/WritableImage/
 date: 2021-01-11
-key: JavaJava.W.WritableImage
+key: Java.W.WritableImage
 category: java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'clase java', 'JavaFX 2.2']
 sidebar: 

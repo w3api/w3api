@@ -2,7 +2,7 @@
 title: RoleStatus.MORE_THAN_MAX_ROLE_DEGREE
 permalink: Java/RoleStatus/MORE_THAN_MAX_ROLE_DEGREE
 date: 2021-01-11
-key: JavaJava.R.RoleStatus
+key: Java.R.RoleStatus
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 

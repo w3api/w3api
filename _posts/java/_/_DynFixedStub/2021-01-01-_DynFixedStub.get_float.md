@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.get_float()
-permalink: Java/_DynFixedStub/get_float
+permalink: /Java/_DynFixedStub/get_float/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

@@ -1,6 +1,6 @@
 ---
 title: _DynAnyStub.copy()
-permalink: Java/_DynAnyStub/copy
+permalink: /Java/_DynAnyStub/copy/
 date: 2021-01-11
 key: JavaJava._._DynAnyStub
 category: java

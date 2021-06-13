@@ -2,7 +2,7 @@
 title: ReadOnlyMapPropertyBase.fireValueChangedEvent()
 permalink: Java/ReadOnlyMapPropertyBase/fireValueChangedEvent
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyMapPropertyBase
+key: Java.R.ReadOnlyMapPropertyBase
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

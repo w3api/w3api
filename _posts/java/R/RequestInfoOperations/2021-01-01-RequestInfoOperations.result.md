@@ -2,7 +2,7 @@
 title: RequestInfoOperations.result()
 permalink: Java/RequestInfoOperations/result
 date: 2021-01-11
-key: JavaJava.R.RequestInfoOperations
+key: Java.R.RequestInfoOperations
 category: java
 tags: ['java se', 'org.omg.PortableInterceptor', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

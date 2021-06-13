@@ -2,7 +2,7 @@
 title: RowSetMetaData.setScale()
 permalink: Java/RowSetMetaData/setScale
 date: 2021-01-11
-key: JavaJava.R.RowSetMetaData
+key: Java.R.RowSetMetaData
 category: java
 tags: ['java se', 'javax.sql', 'java.sql', 'metodo java', 'Java 1.4']
 sidebar: 

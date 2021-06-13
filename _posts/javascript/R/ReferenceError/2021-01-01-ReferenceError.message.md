@@ -1,8 +1,8 @@
 ---
 title: ReferenceError.message
-permalink: Javascript/ReferenceError/message
+permalink: /Javascript/ReferenceError/message/
 date: 2021-01-11
-key: JavascriptJavascript.R.ReferenceError
+key: Javascript.R.ReferenceError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

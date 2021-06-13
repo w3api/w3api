@@ -1,6 +1,6 @@
 ---
 title: _DynAnyFactoryStub.create_dyn_any()
-permalink: Java/_DynAnyFactoryStub/create_dyn_any
+permalink: /Java/_DynAnyFactoryStub/create_dyn_any/
 date: 2021-01-11
 key: JavaJava._._DynAnyFactoryStub
 category: java

@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub._DynFixedStub()
-permalink: Java/_DynFixedStub/_DynFixedStub
+permalink: /Java/_DynFixedStub/_DynFixedStub/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

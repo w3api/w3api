@@ -1,8 +1,8 @@
 ---
 title: Uint8ClampedArray.reduce()
-permalink: Javascript/Uint8ClampedArray/reduce
+permalink: /Javascript/Uint8ClampedArray/reduce/
 date: 2021-01-11
-key: JavascriptJavascript.U.Uint8ClampedArray
+key: Javascript.U.Uint8ClampedArray
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

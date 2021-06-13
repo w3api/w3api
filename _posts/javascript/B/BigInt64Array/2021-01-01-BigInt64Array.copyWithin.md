@@ -1,8 +1,8 @@
 ---
 title: BigInt64Array.copyWithin()
-permalink: Javascript/BigInt64Array/copyWithin
+permalink: /Javascript/BigInt64Array/copyWithin/
 date: 2021-01-11
-key: JavascriptJavascript.B.BigInt64Array
+key: Javascript.B.BigInt64Array
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

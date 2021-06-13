@@ -1,6 +1,6 @@
 ---
 title: _NamingContextExtStub.rebind()
-permalink: Java/_NamingContextExtStub/rebind
+permalink: /Java/_NamingContextExtStub/rebind/
 date: 2021-01-11
 key: JavaJava._._NamingContextExtStub
 category: java

@@ -2,7 +2,7 @@
 title: RunTimeOperations
 permalink: Java/RunTimeOperations
 date: 2021-01-11
-key: JavaJava.R.RunTimeOperations
+key: Java.R.RunTimeOperations
 category: java
 tags: ['java se', 'org.omg.SendingContext', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

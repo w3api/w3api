@@ -2,7 +2,7 @@
 title: Reference.remove()
 permalink: Java/Reference-javax-naming/remove
 date: 2021-01-11
-key: JavaJava.R.Reference-javax-naming
+key: Java.R.Reference-javax-naming
 category: java
 tags: ['java se', 'javax.naming', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 

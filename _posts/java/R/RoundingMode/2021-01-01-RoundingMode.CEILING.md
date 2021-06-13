@@ -2,7 +2,7 @@
 title: RoundingMode.CEILING
 permalink: Java/RoundingMode/CEILING
 date: 2021-01-11
-key: JavaJava.R.RoundingMode
+key: Java.R.RoundingMode
 category: java
 tags: ['java se', 'java.math', 'java.base', 'campo java', 'Java 1.5']
 sidebar: 

@@ -2,7 +2,7 @@
 title: ResourceRequest
 permalink: Java/ResourceRequest
 date: 2021-01-11
-key: JavaJava.R.ResourceRequest
+key: Java.R.ResourceRequest
 category: java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'interface java', '8u40']
 sidebar: 

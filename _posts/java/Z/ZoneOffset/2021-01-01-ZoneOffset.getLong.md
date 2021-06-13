@@ -1,6 +1,6 @@
 ---
 title: ZoneOffset.getLong()
-permalink: Java/ZoneOffset/getLong
+permalink: /Java/ZoneOffset/getLong/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffset
 category: java

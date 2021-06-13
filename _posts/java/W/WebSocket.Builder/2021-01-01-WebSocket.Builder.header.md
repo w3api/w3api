@@ -1,8 +1,8 @@
 ---
 title: WebSocket.Builder.header()
-permalink: Java/WebSocket/Builder/header
+permalink: /Java/WebSocket/Builder/header/
 date: 2021-01-11
-key: JavaJava.W.WebSocket.Builder
+key: Java.W.WebSocket.Builder
 category: java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'metodo java', 'Java 9']
 sidebar: 

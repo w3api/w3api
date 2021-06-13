@@ -1,6 +1,6 @@
 ---
 title: _NamingContextExtStub.to_name()
-permalink: Java/_NamingContextExtStub/to_name
+permalink: /Java/_NamingContextExtStub/to_name/
 date: 2021-01-11
 key: JavaJava._._NamingContextExtStub
 category: java

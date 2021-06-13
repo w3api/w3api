@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.copy()
-permalink: Java/_DynSequenceStub/copy
+permalink: /Java/_DynSequenceStub/copy/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

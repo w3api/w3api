@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.component_count()
-permalink: Java/_DynFixedStub/component_count
+permalink: /Java/_DynFixedStub/component_count/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

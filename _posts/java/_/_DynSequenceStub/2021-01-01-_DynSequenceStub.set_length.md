@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.set_length()
-permalink: Java/_DynSequenceStub/set_length
+permalink: /Java/_DynSequenceStub/set_length/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

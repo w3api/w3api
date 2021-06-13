@@ -2,7 +2,7 @@
 title: RenderingHints.VALUE_RESOLUTION_VARIANT_SIZE_FIT
 permalink: Java/RenderingHints/VALUE_RESOLUTION_VARIANT_SIZE_FIT
 date: 2021-01-11
-key: JavaJava.R.RenderingHints
+key: Java.R.RenderingHints
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

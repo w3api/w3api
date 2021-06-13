@@ -2,7 +2,7 @@
 title: RowSorterEvent
 permalink: Java/RowSorterEvent
 date: 2021-01-11
-key: JavaJava.R.RowSorterEvent
+key: Java.R.RowSorterEvent
 category: java
 tags: ['java se', 'javax.swing.event', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 

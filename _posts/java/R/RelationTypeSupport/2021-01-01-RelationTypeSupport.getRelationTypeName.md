@@ -2,7 +2,7 @@
 title: RelationTypeSupport.getRelationTypeName()
 permalink: Java/RelationTypeSupport/getRelationTypeName
 date: 2021-01-11
-key: JavaJava.R.RelationTypeSupport
+key: Java.R.RelationTypeSupport
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

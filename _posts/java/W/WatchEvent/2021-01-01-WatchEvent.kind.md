@@ -1,8 +1,8 @@
 ---
 title: WatchEvent.kind()
-permalink: Java/WatchEvent/kind
+permalink: /Java/WatchEvent/kind/
 date: 2021-01-11
-key: JavaJava.W.WatchEvent
+key: Java.W.WatchEvent
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RenderableImage.HINTS_OBSERVED
 permalink: Java/RenderableImage/HINTS_OBSERVED
 date: 2021-01-11
-key: JavaJava.R.RenderableImage
+key: Java.R.RenderableImage
 category: java
 tags: ['java se', 'java.awt.image.renderable', 'java.desktop', 'campo java', 'Java 1.0']
 sidebar: 

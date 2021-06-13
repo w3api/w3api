@@ -2,7 +2,7 @@
 title: ResultSet.CONCUR_READ_ONLY
 permalink: Java/ResultSet/CONCUR_READ_ONLY
 date: 2021-01-11
-key: JavaJava.R.ResultSet
+key: Java.R.ResultSet
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.1']
 sidebar: 

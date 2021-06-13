@@ -1,6 +1,6 @@
 ---
 title: _NamingContextStub.unbind()
-permalink: Java/_NamingContextStub/unbind
+permalink: /Java/_NamingContextStub/unbind/
 date: 2021-01-11
 key: JavaJava._._NamingContextStub
 category: java

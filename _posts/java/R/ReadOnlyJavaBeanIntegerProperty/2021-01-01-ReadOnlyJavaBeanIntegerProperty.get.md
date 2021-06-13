@@ -2,7 +2,7 @@
 title: ReadOnlyJavaBeanIntegerProperty.get()
 permalink: Java/ReadOnlyJavaBeanIntegerProperty/get
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyJavaBeanIntegerProperty
+key: Java.R.ReadOnlyJavaBeanIntegerProperty
 category: java
 tags: ['java se', 'javafx.beans.property.adapter', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

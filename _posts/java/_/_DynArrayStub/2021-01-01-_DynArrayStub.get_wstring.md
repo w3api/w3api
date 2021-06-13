@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.get_wstring()
-permalink: Java/_DynArrayStub/get_wstring
+permalink: /Java/_DynArrayStub/get_wstring/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

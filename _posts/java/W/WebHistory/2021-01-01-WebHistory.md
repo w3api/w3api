@@ -1,8 +1,8 @@
 ---
 title: WebHistory
-permalink: Java/WebHistory
+permalink: /Java/WebHistory/
 date: 2021-01-11
-key: JavaJava.W.WebHistory
+key: Java.W.WebHistory
 category: java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'clase java', 'JavaFX 2.2']
 sidebar: 

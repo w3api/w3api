@@ -2,7 +2,7 @@
 title: ReadOnlyIntegerPropertyBase.fireValueChangedEvent()
 permalink: Java/ReadOnlyIntegerPropertyBase/fireValueChangedEvent
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyIntegerPropertyBase
+key: Java.R.ReadOnlyIntegerPropertyBase
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

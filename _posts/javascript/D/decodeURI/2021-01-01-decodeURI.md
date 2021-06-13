@@ -1,8 +1,8 @@
 ---
 title: decodeURI
-permalink: Javascript/decodeURI
+permalink: /Javascript/decodeURI/
 date: 2021-01-11
-key: JavascriptJavascript.D.decodeURI
+key: Javascript.D.decodeURI
 category: javascript
 tags: ['funcion javascript']
 sidebar: 

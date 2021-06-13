@@ -1,8 +1,8 @@
 ---
 title: WritableLongValue.setValue()
-permalink: Java/WritableLongValue/setValue
+permalink: /Java/WritableLongValue/setValue/
 date: 2021-01-11
-key: JavaJava.W.WritableLongValue
+key: Java.W.WritableLongValue
 category: java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

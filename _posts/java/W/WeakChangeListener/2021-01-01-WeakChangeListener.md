@@ -1,8 +1,8 @@
 ---
 title: WeakChangeListener
-permalink: Java/WeakChangeListener
+permalink: /Java/WeakChangeListener/
 date: 2021-01-11
-key: JavaJava.W.WeakChangeListener
+key: Java.W.WeakChangeListener
 category: java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 

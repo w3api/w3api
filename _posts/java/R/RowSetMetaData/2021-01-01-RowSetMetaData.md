@@ -2,7 +2,7 @@
 title: RowSetMetaData
 permalink: Java/RowSetMetaData
 date: 2021-01-11
-key: JavaJava.R.RowSetMetaData
+key: Java.R.RowSetMetaData
 category: java
 tags: ['java se', 'javax.sql', 'java.sql', 'interface java', 'Java 1.4']
 sidebar: 

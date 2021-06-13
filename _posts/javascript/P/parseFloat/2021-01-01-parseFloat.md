@@ -1,8 +1,8 @@
 ---
 title: parseFloat
-permalink: Javascript/parseFloat
+permalink: /Javascript/parseFloat/
 date: 2021-01-11
-key: JavascriptJavascript.P.parseFloat
+key: Javascript.P.parseFloat
 category: javascript
 tags: ['funcion javascript']
 sidebar: 

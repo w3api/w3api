@@ -1,6 +1,6 @@
 ---
 title: ZoneOffset.range()
-permalink: Java/ZoneOffset/range
+permalink: /Java/ZoneOffset/range/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffset
 category: java

@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.get_octet()
-permalink: Java/_DynSequenceStub/get_octet
+permalink: /Java/_DynSequenceStub/get_octet/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

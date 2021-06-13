@@ -1,8 +1,8 @@
 ---
 title: WritePendingException
-permalink: Java/WritePendingException
+permalink: /Java/WritePendingException/
 date: 2021-01-11
-key: JavaJava.W.WritePendingException
+key: Java.W.WritePendingException
 category: java
 tags: ['java se', 'java.nio.channels', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RemoteServer.setLog()
 permalink: Java/RemoteServer/setLog
 date: 2021-01-11
-key: JavaJava.R.RemoteServer
+key: Java.R.RemoteServer
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 

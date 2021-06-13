@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.insert_double()
-permalink: Java/_DynStructStub/insert_double
+permalink: /Java/_DynStructStub/insert_double/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

@@ -1,8 +1,8 @@
 ---
 title: WritableIntegerValue
-permalink: Java/WritableIntegerValue
+permalink: /Java/WritableIntegerValue/
 date: 2021-01-11
-key: JavaJava.W.WritableIntegerValue
+key: Java.W.WritableIntegerValue
 category: java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 

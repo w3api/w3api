@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.get_ushort()
-permalink: Java/_DynStructStub/get_ushort
+permalink: /Java/_DynStructStub/get_ushort/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

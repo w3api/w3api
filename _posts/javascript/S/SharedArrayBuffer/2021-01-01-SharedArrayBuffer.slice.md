@@ -1,8 +1,8 @@
 ---
 title: SharedArrayBuffer.slice()
-permalink: Javascript/SharedArrayBuffer/slice
+permalink: /Javascript/SharedArrayBuffer/slice/
 date: 2021-01-11
-key: JavascriptJavascript.S.SharedArrayBuffer
+key: Javascript.S.SharedArrayBuffer
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

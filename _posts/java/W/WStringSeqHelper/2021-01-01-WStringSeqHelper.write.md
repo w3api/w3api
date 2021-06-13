@@ -1,8 +1,8 @@
 ---
 title: WStringSeqHelper.write()
-permalink: Java/WStringSeqHelper/write
+permalink: /Java/WStringSeqHelper/write/
 date: 2021-01-11
-key: JavaJava.W.WStringSeqHelper
+key: Java.W.WStringSeqHelper
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RoleStatus
 permalink: Java/RoleStatus
 date: 2021-01-11
-key: JavaJava.R.RoleStatus
+key: Java.R.RoleStatus
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

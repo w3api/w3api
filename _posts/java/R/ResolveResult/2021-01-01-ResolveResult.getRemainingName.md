@@ -2,7 +2,7 @@
 title: ResolveResult.getRemainingName()
 permalink: Java/ResolveResult/getRemainingName
 date: 2021-01-11
-key: JavaJava.R.ResolveResult
+key: Java.R.ResolveResult
 category: java
 tags: ['java se', 'javax.naming.spi', 'java.naming', 'metodo java', 'Java 1.3']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.get_float()
-permalink: Java/_DynStructStub/get_float
+permalink: /Java/_DynStructStub/get_float/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

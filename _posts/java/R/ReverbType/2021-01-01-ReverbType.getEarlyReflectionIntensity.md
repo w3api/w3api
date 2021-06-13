@@ -2,7 +2,7 @@
 title: ReverbType.getEarlyReflectionIntensity()
 permalink: Java/ReverbType/getEarlyReflectionIntensity
 date: 2021-01-11
-key: JavaJava.R.ReverbType
+key: Java.R.ReverbType
 category: java
 tags: ['java se', 'javax.sound.sampled', 'java.desktop', 'metodo java', 'Java 1.3']
 sidebar: 

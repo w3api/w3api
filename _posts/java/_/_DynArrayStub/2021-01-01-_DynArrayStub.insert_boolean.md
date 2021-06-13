@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.insert_boolean()
-permalink: Java/_DynArrayStub/insert_boolean
+permalink: /Java/_DynArrayStub/insert_boolean/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

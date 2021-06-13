@@ -2,7 +2,7 @@
 title: Rectangle2D.Double.Rectangle2D.Double()
 permalink: Java/Rectangle2D/Double/Rectangle2D/Double
 date: 2021-01-11
-key: JavaJava.R.Rectangle2D.Double
+key: Java.R.Rectangle2D.Double
 category: java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

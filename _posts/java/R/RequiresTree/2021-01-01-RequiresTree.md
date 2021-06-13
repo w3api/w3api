@@ -2,7 +2,7 @@
 title: RequiresTree
 permalink: Java/RequiresTree
 date: 2021-01-11
-key: JavaJava.R.RequiresTree
+key: Java.R.RequiresTree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 9']
 sidebar: 

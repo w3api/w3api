@@ -1,8 +1,8 @@
 ---
 title: WritableLongValue
-permalink: Java/WritableLongValue
+permalink: /Java/WritableLongValue/
 date: 2021-01-11
-key: JavaJava.W.WritableLongValue
+key: Java.W.WritableLongValue
 category: java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 

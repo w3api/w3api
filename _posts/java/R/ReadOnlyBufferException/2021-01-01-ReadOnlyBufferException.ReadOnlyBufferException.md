@@ -2,7 +2,7 @@
 title: ReadOnlyBufferException.ReadOnlyBufferException()
 permalink: Java/ReadOnlyBufferException/ReadOnlyBufferException
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyBufferException
+key: Java.R.ReadOnlyBufferException
 category: java
 tags: ['java se', 'java.nio', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.next()
-permalink: Java/_DynUnionStub/next
+permalink: /Java/_DynUnionStub/next/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

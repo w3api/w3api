@@ -1,6 +1,6 @@
 ---
 title: ZoneOffset.MIN
-permalink: Java/ZoneOffset/MIN
+permalink: /Java/ZoneOffset/MIN/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffset
 category: java

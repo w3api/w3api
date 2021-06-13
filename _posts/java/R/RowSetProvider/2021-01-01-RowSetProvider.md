@@ -2,7 +2,7 @@
 title: RowSetProvider
 permalink: Java/RowSetProvider
 date: 2021-01-11
-key: JavaJava.R.RowSetProvider
+key: Java.R.RowSetProvider
 category: java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'clase java', 'Java 1.7']
 sidebar: 

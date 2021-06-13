@@ -2,7 +2,7 @@
 title: RetrievalMethod.getTransforms()
 permalink: Java/RetrievalMethod/getTransforms
 date: 2021-01-11
-key: JavaJava.R.RetrievalMethod
+key: Java.R.RetrievalMethod
 category: java
 tags: ['java se', 'javax.xml.crypto.dsig.keyinfo', 'java.xml.crypto', 'metodo java', 'Java 1.6']
 sidebar: 

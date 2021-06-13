@@ -1,8 +1,8 @@
 ---
 title: WebHistory.setMaxSize()
-permalink: Java/WebHistory/setMaxSize
+permalink: /Java/WebHistory/setMaxSize/
 date: 2021-01-11
-key: JavaJava.W.WebHistory
+key: Java.W.WebHistory
 category: java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'metodo java', 'JavaFX 2.2']
 sidebar: 

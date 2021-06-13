@@ -1,8 +1,8 @@
 ---
 title: SharedArrayBuffer
-permalink: Javascript/SharedArrayBuffer
+permalink: /Javascript/SharedArrayBuffer/
 date: 2021-01-11
-key: JavascriptJavascript.S.SharedArrayBuffer
+key: Javascript.S.SharedArrayBuffer
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

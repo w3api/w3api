@@ -2,7 +2,7 @@
 title: RelationServiceMBean.checkRoleReading()
 permalink: Java/RelationServiceMBean/checkRoleReading
 date: 2021-01-11
-key: JavaJava.R.RelationServiceMBean
+key: Java.R.RelationServiceMBean
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

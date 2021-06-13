@@ -2,7 +2,7 @@
 title: ResolvedModule
 permalink: Java/ResolvedModule
 date: 2021-01-11
-key: JavaJava.R.ResolvedModule
+key: Java.R.ResolvedModule
 category: java
 tags: ['java se', 'java.lang.module', 'java.base', 'clase java', 'Java 9']
 sidebar: 

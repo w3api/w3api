@@ -1,6 +1,6 @@
 ---
 title: _DynAnyStub.seek()
-permalink: Java/_DynAnyStub/seek
+permalink: /Java/_DynAnyStub/seek/
 date: 2021-01-11
 key: JavaJava._._DynAnyStub
 category: java

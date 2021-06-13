@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.insert_double()
-permalink: Java/_DynUnionStub/insert_double
+permalink: /Java/_DynUnionStub/insert_double/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

@@ -2,7 +2,7 @@
 title: RuntimeMBeanException
 permalink: Java/RuntimeMBeanException
 date: 2021-01-11
-key: JavaJava.R.RuntimeMBeanException
+key: Java.R.RuntimeMBeanException
 category: java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

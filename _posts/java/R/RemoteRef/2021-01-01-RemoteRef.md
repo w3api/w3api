@@ -2,7 +2,7 @@
 title: RemoteRef
 permalink: Java/RemoteRef
 date: 2021-01-11
-key: JavaJava.R.RemoteRef
+key: Java.R.RemoteRef
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'interface java', 'Java 1.1']
 sidebar: 

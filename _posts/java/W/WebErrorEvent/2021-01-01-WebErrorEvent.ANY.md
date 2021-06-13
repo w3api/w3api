@@ -1,8 +1,8 @@
 ---
 title: WebErrorEvent.ANY
-permalink: Java/WebErrorEvent/ANY
+permalink: /Java/WebErrorEvent/ANY/
 date: 2021-01-11
-key: JavaJava.W.WebErrorEvent
+key: Java.W.WebErrorEvent
 category: java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'campo java', 'JavaFX 8.0']
 sidebar: 

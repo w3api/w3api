@@ -1,8 +1,8 @@
 ---
 title: BigInt64Array.byteOffset
-permalink: Javascript/BigInt64Array/byteOffset
+permalink: /Javascript/BigInt64Array/byteOffset/
 date: 2021-01-11
-key: JavascriptJavascript.B.BigInt64Array
+key: Javascript.B.BigInt64Array
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

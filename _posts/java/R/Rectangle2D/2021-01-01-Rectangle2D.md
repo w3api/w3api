@@ -2,7 +2,7 @@
 title: Rectangle2D
 permalink: Java/Rectangle2D/
 date: 2021-01-11
-key: JavaJava.R.Rectangle2D
+key: Java.R.Rectangle2D
 category: java
 tags: ['java se']
 sidebar: 

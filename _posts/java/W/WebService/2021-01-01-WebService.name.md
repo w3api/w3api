@@ -1,8 +1,8 @@
 ---
 title: WebService.name
-permalink: Java/WebService/name
+permalink: /Java/WebService/name/
 date: 2021-01-11
-key: JavaJava.W.WebService
+key: Java.W.WebService
 category: java
 tags: ['java se', 'javax.jws', 'java.xml.ws', 'elemento java', 'Java 1.6']
 sidebar: 

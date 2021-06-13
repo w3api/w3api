@@ -2,7 +2,7 @@
 title: RadioButton
 permalink: Java/RadioButton
 date: 2021-01-11
-key: JavaJava.R.RadioButton
+key: Java.R.RadioButton
 category: java
 tags: ['java se', 'javafx.scene.control', 'javafx.controls', 'clase java', 'JavaFX 2.0']
 sidebar: 

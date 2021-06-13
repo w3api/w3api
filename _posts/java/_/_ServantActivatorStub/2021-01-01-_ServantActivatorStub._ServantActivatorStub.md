@@ -1,6 +1,6 @@
 ---
 title: _ServantActivatorStub._ServantActivatorStub()
-permalink: Java/_ServantActivatorStub/_ServantActivatorStub
+permalink: /Java/_ServantActivatorStub/_ServantActivatorStub/
 date: 2021-01-11
 key: JavaJava._._ServantActivatorStub
 category: java

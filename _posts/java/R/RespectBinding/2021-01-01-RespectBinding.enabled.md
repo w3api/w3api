@@ -2,7 +2,7 @@
 title: RespectBinding.enabled
 permalink: Java/RespectBinding/enabled
 date: 2021-01-11
-key: JavaJava.R.RespectBinding
+key: Java.R.RespectBinding
 category: java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'elemento java', 'Java 1.6', 'JAX-WS 2.1']
 sidebar: 

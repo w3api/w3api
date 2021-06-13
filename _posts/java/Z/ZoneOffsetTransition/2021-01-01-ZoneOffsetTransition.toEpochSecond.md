@@ -1,6 +1,6 @@
 ---
 title: ZoneOffsetTransition.toEpochSecond()
-permalink: Java/ZoneOffsetTransition/toEpochSecond
+permalink: /Java/ZoneOffsetTransition/toEpochSecond/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffsetTransition
 category: java

@@ -1,8 +1,8 @@
 ---
 title: RangeError
-permalink: Javascript/RangeError
+permalink: /Javascript/RangeError/
 date: 2021-01-11
-key: JavascriptJavascript.R.RangeError
+key: Javascript.R.RangeError
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

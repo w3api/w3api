@@ -1,8 +1,8 @@
 ---
 title: WeakListChangeListener.WeakListChangeListener()
-permalink: Java/WeakListChangeListener/WeakListChangeListener
+permalink: /Java/WeakListChangeListener/WeakListChangeListener/
 date: 2021-01-11
-key: JavaJava.W.WeakListChangeListener
+key: Java.W.WeakListChangeListener
 category: java
 tags: ['java se', 'javafx.collections', 'javafx.base', 'metodo java', 'JavaFX 2.1']
 sidebar: 

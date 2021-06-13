@@ -1,6 +1,6 @@
 ---
 title: _DynAnyStub.get_longlong()
-permalink: Java/_DynAnyStub/get_longlong
+permalink: /Java/_DynAnyStub/get_longlong/
 date: 2021-01-11
 key: JavaJava._._DynAnyStub
 category: java

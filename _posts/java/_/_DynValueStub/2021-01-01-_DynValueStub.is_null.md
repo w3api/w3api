@@ -1,6 +1,6 @@
 ---
 title: _DynValueStub.is_null()
-permalink: Java/_DynValueStub/is_null
+permalink: /Java/_DynValueStub/is_null/
 date: 2021-01-11
 key: JavaJava._._DynValueStub
 category: java

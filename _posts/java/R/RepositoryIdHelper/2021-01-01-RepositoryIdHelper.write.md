@@ -2,7 +2,7 @@
 title: RepositoryIdHelper.write()
 permalink: Java/RepositoryIdHelper/write
 date: 2021-01-11
-key: JavaJava.R.RepositoryIdHelper
+key: Java.R.RepositoryIdHelper
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

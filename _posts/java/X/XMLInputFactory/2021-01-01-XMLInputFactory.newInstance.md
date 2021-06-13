@@ -2,7 +2,7 @@
 title: XMLInputFactory.newInstance()
 permalink: Java/XMLInputFactory/newInstance
 date: 2021-01-11
-key: JavaJava.X.XMLInputFactory
+key: Java.X.XMLInputFactory
 category: java
 tags: ['java se', 'javax.xml.stream', 'java.xml', 'metodo java', 'Java 1.6']
 sidebar: 

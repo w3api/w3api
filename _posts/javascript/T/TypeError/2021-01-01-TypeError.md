@@ -1,8 +1,8 @@
 ---
 title: TypeError
-permalink: Javascript/TypeError
+permalink: /Javascript/TypeError/
 date: 2021-01-11
-key: JavascriptJavascript.T.TypeError
+key: Javascript.T.TypeError
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

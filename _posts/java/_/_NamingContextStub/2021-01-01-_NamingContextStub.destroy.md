@@ -1,6 +1,6 @@
 ---
 title: _NamingContextStub.destroy()
-permalink: Java/_NamingContextStub/destroy
+permalink: /Java/_NamingContextStub/destroy/
 date: 2021-01-11
 key: JavaJava._._NamingContextStub
 category: java

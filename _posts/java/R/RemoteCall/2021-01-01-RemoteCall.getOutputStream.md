@@ -2,7 +2,7 @@
 title: RemoteCall.getOutputStream()
 permalink: Java/RemoteCall/getOutputStream
 date: 2021-01-11
-key: JavaJava.R.RemoteCall
+key: Java.R.RemoteCall
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'metodo java', 'Java 1.1']
 sidebar: 

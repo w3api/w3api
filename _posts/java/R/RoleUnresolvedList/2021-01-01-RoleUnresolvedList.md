@@ -2,7 +2,7 @@
 title: RoleUnresolvedList
 permalink: Java/RoleUnresolvedList
 date: 2021-01-11
-key: JavaJava.R.RoleUnresolvedList
+key: Java.R.RoleUnresolvedList
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

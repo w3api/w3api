@@ -2,7 +2,7 @@
 title: Rectangle2D.OUT_RIGHT
 permalink: Java/Rectangle2D-java-awt-geom/OUT_RIGHT
 date: 2021-01-11
-key: JavaJava.R.Rectangle2D-java-awt-geom
+key: Java.R.Rectangle2D-java-awt-geom
 category: java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 

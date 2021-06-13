@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.discriminator_kind()
-permalink: Java/_DynUnionStub/discriminator_kind
+permalink: /Java/_DynUnionStub/discriminator_kind/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

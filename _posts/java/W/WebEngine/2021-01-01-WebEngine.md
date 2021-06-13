@@ -1,8 +1,8 @@
 ---
 title: WebEngine
-permalink: Java/WebEngine
+permalink: /Java/WebEngine/
 date: 2021-01-11
-key: JavaJava.W.WebEngine
+key: Java.W.WebEngine
 category: java
 tags: ['java se', 'javafx.scene.web', 'javafx.web', 'clase java', 'JavaFX 2.0']
 sidebar: 

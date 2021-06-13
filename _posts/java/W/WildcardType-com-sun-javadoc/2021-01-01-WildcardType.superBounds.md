@@ -1,8 +1,8 @@
 ---
 title: WildcardType.superBounds()
-permalink: Java/WildcardType-com-sun-javadoc/superBounds
+permalink: /Java/WildcardType-com-sun-javadoc/superBounds/
 date: 2021-01-11
-key: JavaJava.W.WildcardType-com-sun-javadoc
+key: Java.W.WildcardType-com-sun-javadoc
 category: java
 tags: ['java se', 'com.sun.javadoc', 'jdk.javadoc', 'metodo java', 'Java 1.5']
 sidebar: 

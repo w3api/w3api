@@ -1,8 +1,8 @@
 ---
 title: WritableFloatValue.setValue()
-permalink: Java/WritableFloatValue/setValue
+permalink: /Java/WritableFloatValue/setValue/
 date: 2021-01-11
-key: JavaJava.W.WritableFloatValue
+key: Java.W.WritableFloatValue
 category: java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

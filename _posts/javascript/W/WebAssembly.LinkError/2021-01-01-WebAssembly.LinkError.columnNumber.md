@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.LinkError.columnNumber
-permalink: Javascript/WebAssembly/LinkError/columnNumber
+permalink: /Javascript/WebAssembly/LinkError/columnNumber/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.LinkError
+key: Javascript.W.WebAssembly.LinkError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

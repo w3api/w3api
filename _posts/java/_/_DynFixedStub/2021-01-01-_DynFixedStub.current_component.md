@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.current_component()
-permalink: Java/_DynFixedStub/current_component
+permalink: /Java/_DynFixedStub/current_component/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.insert_float()
-permalink: Java/_DynSequenceStub/insert_float
+permalink: /Java/_DynSequenceStub/insert_float/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

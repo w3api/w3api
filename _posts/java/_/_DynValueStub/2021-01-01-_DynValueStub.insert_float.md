@@ -1,6 +1,6 @@
 ---
 title: _DynValueStub.insert_float()
-permalink: Java/_DynValueStub/insert_float
+permalink: /Java/_DynValueStub/insert_float/
 date: 2021-01-11
 key: JavaJava._._DynValueStub
 category: java

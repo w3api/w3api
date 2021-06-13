@@ -1,8 +1,8 @@
 ---
 title: SharedArrayBuffer.SharedArrayBuffer()
-permalink: Javascript/SharedArrayBuffer/SharedArrayBuffer
+permalink: /Javascript/SharedArrayBuffer/SharedArrayBuffer/
 date: 2021-01-11
-key: JavascriptJavascript.S.SharedArrayBuffer
+key: Javascript.S.SharedArrayBuffer
 category: javascript
 tags: ['constructor javascript']
 sidebar: 

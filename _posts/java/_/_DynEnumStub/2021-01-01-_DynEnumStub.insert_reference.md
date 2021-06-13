@@ -1,6 +1,6 @@
 ---
 title: _DynEnumStub.insert_reference()
-permalink: Java/_DynEnumStub/insert_reference
+permalink: /Java/_DynEnumStub/insert_reference/
 date: 2021-01-11
 key: JavaJava._._DynEnumStub
 category: java

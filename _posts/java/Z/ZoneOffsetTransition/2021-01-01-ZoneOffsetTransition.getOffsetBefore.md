@@ -1,6 +1,6 @@
 ---
 title: ZoneOffsetTransition.getOffsetBefore()
-permalink: Java/ZoneOffsetTransition/getOffsetBefore
+permalink: /Java/ZoneOffsetTransition/getOffsetBefore/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffsetTransition
 category: java

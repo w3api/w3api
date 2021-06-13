@@ -1,8 +1,8 @@
 ---
 title: WeakHashMap.containsKey()
-permalink: Java/WeakHashMap/containsKey
+permalink: /Java/WeakHashMap/containsKey/
 date: 2021-01-11
-key: JavaJava.W.WeakHashMap
+key: Java.W.WeakHashMap
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

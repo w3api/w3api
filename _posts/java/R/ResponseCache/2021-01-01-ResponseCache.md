@@ -2,7 +2,7 @@
 title: ResponseCache
 permalink: Java/ResponseCache
 date: 2021-01-11
-key: JavaJava.R.ResponseCache
+key: Java.R.ResponseCache
 category: java
 tags: ['java se', 'java.net', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 

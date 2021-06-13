@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.seek()
-permalink: Java/_DynFixedStub/seek
+permalink: /Java/_DynFixedStub/seek/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

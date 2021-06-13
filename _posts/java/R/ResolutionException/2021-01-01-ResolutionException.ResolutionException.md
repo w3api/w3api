@@ -2,7 +2,7 @@
 title: ResolutionException.ResolutionException()
 permalink: Java/ResolutionException/ResolutionException
 date: 2021-01-11
-key: JavaJava.R.ResolutionException
+key: Java.R.ResolutionException
 category: java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

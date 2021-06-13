@@ -1,6 +1,6 @@
 ---
 title: _ServantActivatorStub.etherealize()
-permalink: Java/_ServantActivatorStub/etherealize
+permalink: /Java/_ServantActivatorStub/etherealize/
 date: 2021-01-11
 key: JavaJava._._ServantActivatorStub
 category: java

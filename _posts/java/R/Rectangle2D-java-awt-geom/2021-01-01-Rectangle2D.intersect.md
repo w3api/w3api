@@ -2,7 +2,7 @@
 title: Rectangle2D.intersect()
 permalink: Java/Rectangle2D-java-awt-geom/intersect
 date: 2021-01-11
-key: JavaJava.R.Rectangle2D-java-awt-geom
+key: Java.R.Rectangle2D-java-awt-geom
 category: java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

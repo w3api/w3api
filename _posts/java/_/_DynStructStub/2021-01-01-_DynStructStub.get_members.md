@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.get_members()
-permalink: Java/_DynStructStub/get_members
+permalink: /Java/_DynStructStub/get_members/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

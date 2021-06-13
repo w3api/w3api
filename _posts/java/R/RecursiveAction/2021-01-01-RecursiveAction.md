@@ -2,7 +2,7 @@
 title: RecursiveAction
 permalink: Java/RecursiveAction
 date: 2021-01-11
-key: JavaJava.R.RecursiveAction
+key: Java.R.RecursiveAction
 category: java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.7']
 sidebar: 

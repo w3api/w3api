@@ -2,7 +2,7 @@
 title: ResourceBundle.containsKey()
 permalink: Java/ResourceBundle/containsKey
 date: 2021-01-11
-key: JavaJava.R.ResourceBundle
+key: Java.R.ResourceBundle
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.1']
 sidebar: 

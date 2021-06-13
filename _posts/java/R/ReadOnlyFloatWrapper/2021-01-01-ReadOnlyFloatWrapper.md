@@ -2,7 +2,7 @@
 title: ReadOnlyFloatWrapper
 permalink: Java/ReadOnlyFloatWrapper
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyFloatWrapper
+key: Java.R.ReadOnlyFloatWrapper
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 

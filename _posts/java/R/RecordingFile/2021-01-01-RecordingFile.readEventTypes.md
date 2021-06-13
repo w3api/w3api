@@ -2,7 +2,7 @@
 title: RecordingFile.readEventTypes()
 permalink: Java/RecordingFile/readEventTypes
 date: 2021-01-11
-key: JavaJava.R.RecordingFile
+key: Java.R.RecordingFile
 category: java
 tags: ['java se', 'jdk.jfr.consumer', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RowSetFactory.createJdbcRowSet()
 permalink: Java/RowSetFactory/createJdbcRowSet
 date: 2021-01-11
-key: JavaJava.R.RowSetFactory
+key: Java.R.RowSetFactory
 category: java
 tags: ['java se', 'javax.sql.rowset', 'java.sql.rowset', 'metodo java', 'Java 1.7']
 sidebar: 

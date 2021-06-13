@@ -2,7 +2,7 @@
 title: RoleStatus.NO_ROLE_WITH_NAME
 permalink: Java/RoleStatus/NO_ROLE_WITH_NAME
 date: 2021-01-11
-key: JavaJava.R.RoleStatus
+key: Java.R.RoleStatus
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'campo java', 'Java 1.5']
 sidebar: 

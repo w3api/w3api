@@ -1,8 +1,8 @@
 ---
 title: WatchpointEvent.valueCurrent()
-permalink: Java/WatchpointEvent/valueCurrent
+permalink: /Java/WatchpointEvent/valueCurrent/
 date: 2021-01-11
-key: JavaJava.W.WatchpointEvent
+key: Java.W.WatchpointEvent
 category: java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'metodo java', 'Java 1.3']
 sidebar: 

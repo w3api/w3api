@@ -1,8 +1,8 @@
 ---
 title: WhileLoopTree.getStatement()
-permalink: Java/WhileLoopTree-jdk-nashorn-api-tree/getStatement
+permalink: /Java/WhileLoopTree-jdk-nashorn-api-tree/getStatement/
 date: 2021-01-11
-key: JavaJava.W.WhileLoopTree-jdk-nashorn-api-tree
+key: Java.W.WhileLoopTree-jdk-nashorn-api-tree
 category: java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 

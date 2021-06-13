@@ -2,7 +2,7 @@
 title: ResolutionSyntax
 permalink: Java/ResolutionSyntax
 date: 2021-01-11
-key: JavaJava.R.ResolutionSyntax
+key: Java.R.ResolutionSyntax
 category: java
 tags: ['java se', 'javax.print.attribute', 'java.desktop', 'clase java', 'Java 1.0']
 sidebar: 

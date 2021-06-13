@@ -2,7 +2,7 @@
 title: ReadableByteChannel
 permalink: Java/ReadableByteChannel
 date: 2021-01-11
-key: JavaJava.R.ReadableByteChannel
+key: Java.R.ReadableByteChannel
 category: java
 tags: ['java se', 'java.nio.channels', 'java.base', 'interface java', 'Java 1.4']
 sidebar: 

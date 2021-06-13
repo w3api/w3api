@@ -1,6 +1,6 @@
 ---
 title: _DynEnumStub.type()
-permalink: Java/_DynEnumStub/type
+permalink: /Java/_DynEnumStub/type/
 date: 2021-01-11
 key: JavaJava._._DynEnumStub
 category: java

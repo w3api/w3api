@@ -2,7 +2,7 @@
 title: ResourceMeter.getValue()
 permalink: Java/ResourceMeter/getValue
 date: 2021-01-11
-key: JavaJava.R.ResourceMeter
+key: Java.R.ResourceMeter
 category: java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 

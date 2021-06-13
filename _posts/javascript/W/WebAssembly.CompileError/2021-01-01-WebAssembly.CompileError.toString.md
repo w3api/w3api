@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.CompileError.toString()
-permalink: Javascript/WebAssembly/CompileError/toString
+permalink: /Javascript/WebAssembly/CompileError/toString/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.CompileError
+key: Javascript.W.WebAssembly.CompileError
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

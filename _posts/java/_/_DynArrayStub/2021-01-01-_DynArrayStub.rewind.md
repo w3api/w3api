@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.rewind()
-permalink: Java/_DynArrayStub/rewind
+permalink: /Java/_DynArrayStub/rewind/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

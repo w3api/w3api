@@ -2,7 +2,7 @@
 title: ResourceMeter
 permalink: Java/ResourceMeter
 date: 2021-01-11
-key: JavaJava.R.ResourceMeter
+key: Java.R.ResourceMeter
 category: java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'interface java', '8u40']
 sidebar: 

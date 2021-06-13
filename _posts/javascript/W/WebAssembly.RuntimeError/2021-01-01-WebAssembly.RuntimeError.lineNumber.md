@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.RuntimeError.lineNumber
-permalink: Javascript/WebAssembly/RuntimeError/lineNumber
+permalink: /Javascript/WebAssembly/RuntimeError/lineNumber/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.RuntimeError
+key: Javascript.W.WebAssembly.RuntimeError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

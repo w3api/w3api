@@ -2,7 +2,7 @@
 title: RemoteStub
 permalink: Java/RemoteStub
 date: 2021-01-11
-key: JavaJava.R.RemoteStub
+key: Java.R.RemoteStub
 category: java
 tags: ['java se', 'java.rmi.server', 'java.rmi', 'clase java', 'Java 1.1']
 sidebar: 

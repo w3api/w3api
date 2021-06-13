@@ -2,7 +2,7 @@
 title: RuntimePermission
 permalink: Java/RuntimePermission
 date: 2021-01-11
-key: JavaJava.R.RuntimePermission
+key: Java.R.RuntimePermission
 category: java
 tags: ['java se', 'java.lang', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RotateEvent.ROTATE
 permalink: Java/RotateEvent/ROTATE
 date: 2021-01-11
-key: JavaJava.R.RotateEvent
+key: Java.R.RotateEvent
 category: java
 tags: ['java se', 'javafx.scene.input', 'javafx.graphics', 'campo java', 'JavaFX 2.2']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.set_to_no_active_member()
-permalink: Java/_DynUnionStub/set_to_no_active_member
+permalink: /Java/_DynUnionStub/set_to_no_active_member/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

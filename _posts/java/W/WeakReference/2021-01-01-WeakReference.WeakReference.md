@@ -1,8 +1,8 @@
 ---
 title: WeakReference.WeakReference()
-permalink: Java/WeakReference/WeakReference
+permalink: /Java/WeakReference/WeakReference/
 date: 2021-01-11
-key: JavaJava.W.WeakReference
+key: Java.W.WeakReference
 category: java
 tags: ['java se', 'java.lang.ref', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

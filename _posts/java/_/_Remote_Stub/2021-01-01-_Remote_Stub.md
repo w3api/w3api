@@ -1,6 +1,6 @@
 ---
 title: _Remote_Stub
-permalink: Java/_Remote_Stub
+permalink: /Java/_Remote_Stub/
 date: 2021-01-11
 key: JavaJava._._Remote_Stub
 category: java

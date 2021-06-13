@@ -1,8 +1,8 @@
 ---
 title: Generator
-permalink: Javascript/Generator
+permalink: /Javascript/Generator/
 date: 2021-01-11
-key: JavascriptJavascript.G.Generator
+key: Javascript.G.Generator
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

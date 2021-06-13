@@ -2,7 +2,7 @@
 title: Rectangle2D.Float.getBounds2D()
 permalink: Java/Rectangle2D/Float/getBounds2D
 date: 2021-01-11
-key: JavaJava.R.Rectangle2D.Float
+key: Java.R.Rectangle2D.Float
 category: java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

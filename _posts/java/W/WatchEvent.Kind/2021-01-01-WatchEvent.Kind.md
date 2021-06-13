@@ -1,8 +1,8 @@
 ---
 title: WatchEvent.Kind
-permalink: Java/WatchEvent/Kind
+permalink: /Java/WatchEvent/Kind/
 date: 2021-01-11
-key: JavaJava.W.WatchEvent.Kind
+key: Java.W.WatchEvent.Kind
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 

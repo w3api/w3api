@@ -1,6 +1,6 @@
 ---
 title: _DynAnyStub.insert_string()
-permalink: Java/_DynAnyStub/insert_string
+permalink: /Java/_DynAnyStub/insert_string/
 date: 2021-01-11
 key: JavaJava._._DynAnyStub
 category: java

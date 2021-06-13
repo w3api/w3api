@@ -1,8 +1,8 @@
 ---
 title: YearMonth.get()
-permalink: Java/YearMonth/get
+permalink: /Java/YearMonth/get/
 date: 2021-01-11
-key: JavaJava.Y.YearMonth
+key: Java.Y.YearMonth
 category: java
 tags: ['java se', 'java.time', 'java.base', 'metodo java', 'Java 1.8']
 sidebar: 

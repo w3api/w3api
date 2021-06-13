@@ -1,6 +1,6 @@
 ---
 title: _NamingContextExtStub.bind()
-permalink: Java/_NamingContextExtStub/bind
+permalink: /Java/_NamingContextExtStub/bind/
 date: 2021-01-11
 key: JavaJava._._NamingContextExtStub
 category: java

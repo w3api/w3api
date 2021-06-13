@@ -2,7 +2,7 @@
 title: RecursiveTask.RecursiveTask()
 permalink: Java/RecursiveTask/RecursiveTask
 date: 2021-01-11
-key: JavaJava.R.RecursiveTask
+key: Java.R.RecursiveTask
 category: java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RuntimeErrorException
 permalink: Java/RuntimeErrorException
 date: 2021-01-11
-key: JavaJava.R.RuntimeErrorException
+key: Java.R.RuntimeErrorException
 category: java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

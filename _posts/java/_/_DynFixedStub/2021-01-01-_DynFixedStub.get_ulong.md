@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.get_ulong()
-permalink: Java/_DynFixedStub/get_ulong
+permalink: /Java/_DynFixedStub/get_ulong/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

@@ -1,8 +1,8 @@
 ---
 title: WritableRenderedImage
-permalink: Java/WritableRenderedImage
+permalink: /Java/WritableRenderedImage/
 date: 2021-01-11
-key: JavaJava.W.WritableRenderedImage
+key: Java.W.WritableRenderedImage
 category: java
 tags: ['java se', 'java.awt.image', 'java.desktop', 'interface java', 'Java 1.0']
 sidebar: 

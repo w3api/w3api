@@ -1,8 +1,8 @@
 ---
 title: WebSocketHandshakeException
-permalink: Java/WebSocketHandshakeException
+permalink: /Java/WebSocketHandshakeException/
 date: 2021-01-11
-key: JavaJava.W.WebSocketHandshakeException
+key: Java.W.WebSocketHandshakeException
 category: java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'clase java', 'Java 9']
 sidebar: 

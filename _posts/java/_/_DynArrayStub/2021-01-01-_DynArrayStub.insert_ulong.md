@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.insert_ulong()
-permalink: Java/_DynArrayStub/insert_ulong
+permalink: /Java/_DynArrayStub/insert_ulong/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

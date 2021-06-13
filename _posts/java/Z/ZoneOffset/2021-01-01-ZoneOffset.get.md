@@ -1,6 +1,6 @@
 ---
 title: ZoneOffset.get()
-permalink: Java/ZoneOffset/get
+permalink: /Java/ZoneOffset/get/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffset
 category: java

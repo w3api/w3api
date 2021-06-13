@@ -2,7 +2,7 @@
 title: Referenceable
 permalink: Java/Referenceable
 date: 2021-01-11
-key: JavaJava.R.Referenceable
+key: Java.R.Referenceable
 category: java
 tags: ['java se', 'javax.naming', 'java.naming', 'interface java', 'Java 1.3']
 sidebar: 

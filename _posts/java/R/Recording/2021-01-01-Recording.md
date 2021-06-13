@@ -2,7 +2,7 @@
 title: Recording
 permalink: Java/Recording
 date: 2021-01-11
-key: JavaJava.R.Recording
+key: Java.R.Recording
 category: java
 tags: ['java se', 'jdk.jfr', 'jdk.jfr', 'clase java', 'Java 9']
 sidebar: 

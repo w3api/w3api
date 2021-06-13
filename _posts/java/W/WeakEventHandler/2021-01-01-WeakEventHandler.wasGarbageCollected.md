@@ -1,8 +1,8 @@
 ---
 title: WeakEventHandler.wasGarbageCollected()
-permalink: Java/WeakEventHandler/wasGarbageCollected
+permalink: /Java/WeakEventHandler/wasGarbageCollected/
 date: 2021-01-11
-key: JavaJava.W.WeakEventHandler
+key: Java.W.WeakEventHandler
 category: java
 tags: ['java se', 'javafx.event', 'javafx.base', 'metodo java', 'JavaFX 8.0']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: BigInt64Array
-permalink: Javascript/BigInt64Array
+permalink: /Javascript/BigInt64Array/
 date: 2021-01-11
-key: JavascriptJavascript.B.BigInt64Array
+key: Javascript.B.BigInt64Array
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

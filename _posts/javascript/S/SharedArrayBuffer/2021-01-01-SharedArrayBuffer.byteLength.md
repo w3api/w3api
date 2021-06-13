@@ -1,8 +1,8 @@
 ---
 title: SharedArrayBuffer.byteLength
-permalink: Javascript/SharedArrayBuffer/byteLength
+permalink: /Javascript/SharedArrayBuffer/byteLength/
 date: 2021-01-11
-key: JavascriptJavascript.S.SharedArrayBuffer
+key: Javascript.S.SharedArrayBuffer
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _DynEnumStub.copy()
-permalink: Java/_DynEnumStub/copy
+permalink: /Java/_DynEnumStub/copy/
 date: 2021-01-11
 key: JavaJava._._DynEnumStub
 category: java

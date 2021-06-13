@@ -2,7 +2,7 @@
 title: RowSetListener
 permalink: Java/RowSetListener
 date: 2021-01-11
-key: JavaJava.R.RowSetListener
+key: Java.R.RowSetListener
 category: java
 tags: ['java se', 'javax.sql', 'java.sql', 'interface java', 'Java 1.4']
 sidebar: 

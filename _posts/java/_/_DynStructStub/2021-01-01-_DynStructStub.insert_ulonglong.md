@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.insert_ulonglong()
-permalink: Java/_DynStructStub/insert_ulonglong
+permalink: /Java/_DynStructStub/insert_ulonglong/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

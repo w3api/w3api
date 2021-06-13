@@ -2,7 +2,7 @@
 title: RecordedThreadGroup
 permalink: Java/RecordedThreadGroup
 date: 2021-01-11
-key: JavaJava.R.RecordedThreadGroup
+key: Java.R.RecordedThreadGroup
 category: java
 tags: ['java se', 'jdk.jfr.consumer', 'jdk.jfr', 'clase java', 'Java 9']
 sidebar: 

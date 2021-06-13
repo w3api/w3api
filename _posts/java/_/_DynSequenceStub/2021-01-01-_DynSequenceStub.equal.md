@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.equal()
-permalink: Java/_DynSequenceStub/equal
+permalink: /Java/_DynSequenceStub/equal/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

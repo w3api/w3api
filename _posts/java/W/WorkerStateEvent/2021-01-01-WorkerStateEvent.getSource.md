@@ -1,8 +1,8 @@
 ---
 title: WorkerStateEvent.getSource()
-permalink: Java/WorkerStateEvent/getSource
+permalink: /Java/WorkerStateEvent/getSource/
 date: 2021-01-11
-key: JavaJava.W.WorkerStateEvent
+key: Java.W.WorkerStateEvent
 category: java
 tags: ['java se', 'javafx.concurrent', 'javafx.graphics', 'metodo java', 'JavaFX 2.1']
 sidebar: 

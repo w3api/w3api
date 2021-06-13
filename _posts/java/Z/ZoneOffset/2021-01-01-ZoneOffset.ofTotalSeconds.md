@@ -1,6 +1,6 @@
 ---
 title: ZoneOffset.ofTotalSeconds()
-permalink: Java/ZoneOffset/ofTotalSeconds
+permalink: /Java/ZoneOffset/ofTotalSeconds/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffset
 category: java

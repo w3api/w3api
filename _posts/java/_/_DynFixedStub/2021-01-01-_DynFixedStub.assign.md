@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.assign()
-permalink: Java/_DynFixedStub/assign
+permalink: /Java/_DynFixedStub/assign/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

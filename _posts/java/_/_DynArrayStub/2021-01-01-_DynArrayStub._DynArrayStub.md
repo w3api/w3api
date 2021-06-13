@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub._DynArrayStub()
-permalink: Java/_DynArrayStub/_DynArrayStub
+permalink: /Java/_DynArrayStub/_DynArrayStub/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

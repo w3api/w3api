@@ -2,7 +2,7 @@
 title: RadialGradientPaint
 permalink: Java/RadialGradientPaint
 date: 2021-01-11
-key: JavaJava.R.RadialGradientPaint
+key: Java.R.RadialGradientPaint
 category: java
 tags: ['java se', 'java.awt', 'java.desktop', 'clase java', 'Java 1.6']
 sidebar: 

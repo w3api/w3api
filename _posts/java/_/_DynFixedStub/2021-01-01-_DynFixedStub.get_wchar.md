@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.get_wchar()
-permalink: Java/_DynFixedStub/get_wchar
+permalink: /Java/_DynFixedStub/get_wchar/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

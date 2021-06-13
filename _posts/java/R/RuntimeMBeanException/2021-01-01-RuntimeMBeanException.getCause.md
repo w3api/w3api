@@ -2,7 +2,7 @@
 title: RuntimeMBeanException.getCause()
 permalink: Java/RuntimeMBeanException/getCause
 date: 2021-01-11
-key: JavaJava.R.RuntimeMBeanException
+key: Java.R.RuntimeMBeanException
 category: java
 tags: ['java se', 'javax.management', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

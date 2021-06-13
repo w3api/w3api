@@ -2,7 +2,7 @@
 title: RelinkableCallSite
 permalink: Java/RelinkableCallSite
 date: 2021-01-11
-key: JavaJava.R.RelinkableCallSite
+key: Java.R.RelinkableCallSite
 category: java
 tags: ['java se', 'jdk.dynalink', 'jdk.dynalink', 'interface java', 'Java 1.0']
 sidebar: 

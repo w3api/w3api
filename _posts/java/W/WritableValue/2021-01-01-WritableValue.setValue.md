@@ -1,8 +1,8 @@
 ---
 title: WritableValue.setValue()
-permalink: Java/WritableValue/setValue
+permalink: /Java/WritableValue/setValue/
 date: 2021-01-11
-key: JavaJava.W.WritableValue
+key: Java.W.WritableValue
 category: java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

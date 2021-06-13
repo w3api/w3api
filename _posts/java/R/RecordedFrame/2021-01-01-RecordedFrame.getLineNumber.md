@@ -2,7 +2,7 @@
 title: RecordedFrame.getLineNumber()
 permalink: Java/RecordedFrame/getLineNumber
 date: 2021-01-11
-key: JavaJava.R.RecordedFrame
+key: Java.R.RecordedFrame
 category: java
 tags: ['java se', 'jdk.jfr.consumer', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 

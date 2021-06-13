@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.copy()
-permalink: Java/_DynArrayStub/copy
+permalink: /Java/_DynArrayStub/copy/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

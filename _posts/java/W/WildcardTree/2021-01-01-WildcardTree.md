@@ -1,8 +1,8 @@
 ---
 title: WildcardTree
-permalink: Java/WildcardTree
+permalink: /Java/WildcardTree/
 date: 2021-01-11
-key: JavaJava.W.WildcardTree
+key: Java.W.WildcardTree
 category: java
 tags: ['java se', 'com.sun.source.tree', 'jdk.compiler', 'interface java', 'Java 1.6']
 sidebar: 

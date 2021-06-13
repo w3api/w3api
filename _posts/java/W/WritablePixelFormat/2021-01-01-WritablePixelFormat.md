@@ -1,8 +1,8 @@
 ---
 title: WritablePixelFormat
-permalink: Java/WritablePixelFormat
+permalink: /Java/WritablePixelFormat/
 date: 2021-01-11
-key: JavaJava.W.WritablePixelFormat
+key: Java.W.WritablePixelFormat
 category: java
 tags: ['java se', 'javafx.scene.image', 'javafx.graphics', 'clase java', 'JavaFX 2.2']
 sidebar: 

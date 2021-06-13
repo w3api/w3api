@@ -1,8 +1,8 @@
 ---
 title: WCharSeqHelper.read()
-permalink: Java/WCharSeqHelper/read
+permalink: /Java/WCharSeqHelper/read/
 date: 2021-01-11
-key: JavaJava.W.WCharSeqHelper
+key: Java.W.WCharSeqHelper
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

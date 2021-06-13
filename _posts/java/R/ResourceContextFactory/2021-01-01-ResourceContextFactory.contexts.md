@@ -2,7 +2,7 @@
 title: ResourceContextFactory.contexts()
 permalink: Java/ResourceContextFactory/contexts
 date: 2021-01-11
-key: JavaJava.R.ResourceContextFactory
+key: Java.R.ResourceContextFactory
 category: java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'metodo java', '8u40']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: ZoneOffsetTransition.equals()
-permalink: Java/ZoneOffsetTransition/equals
+permalink: /Java/ZoneOffsetTransition/equals/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffsetTransition
 category: java

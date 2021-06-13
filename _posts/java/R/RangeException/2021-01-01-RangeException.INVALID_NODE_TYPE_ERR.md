@@ -2,7 +2,7 @@
 title: RangeException.INVALID_NODE_TYPE_ERR
 permalink: Java/RangeException/INVALID_NODE_TYPE_ERR
 date: 2021-01-11
-key: JavaJava.R.RangeException
+key: Java.R.RangeException
 category: java
 tags: ['java se', 'org.w3c.dom.ranges', 'java.xml', 'campo java', 'Java 9', 'DOM Level 2']
 sidebar: 

@@ -2,7 +2,7 @@
 title: ResourceBundle.Control.getControl()
 permalink: Java/ResourceBundle/Control/getControl
 date: 2021-01-11
-key: JavaJava.R.ResourceBundle.Control
+key: Java.R.ResourceBundle.Control
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 

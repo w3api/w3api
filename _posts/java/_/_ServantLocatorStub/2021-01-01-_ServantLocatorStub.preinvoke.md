@@ -1,6 +1,6 @@
 ---
 title: _ServantLocatorStub.preinvoke()
-permalink: Java/_ServantLocatorStub/preinvoke
+permalink: /Java/_ServantLocatorStub/preinvoke/
 date: 2021-01-11
 key: JavaJava._._ServantLocatorStub
 category: java

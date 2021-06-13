@@ -1,6 +1,6 @@
 ---
 title: _DynAnyFactoryStub._DynAnyFactoryStub()
-permalink: Java/_DynAnyFactoryStub/_DynAnyFactoryStub
+permalink: /Java/_DynAnyFactoryStub/_DynAnyFactoryStub/
 date: 2021-01-11
 key: JavaJava._._DynAnyFactoryStub
 category: java

@@ -1,8 +1,8 @@
 ---
 title: WindowAdapter
-permalink: Java/WindowAdapter
+permalink: /Java/WindowAdapter/
 date: 2021-01-11
-key: JavaJava.W.WindowAdapter
+key: Java.W.WindowAdapter
 category: java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'clase java', 'Java 1.1']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: Watchable
-permalink: Java/Watchable
+permalink: /Java/Watchable/
 date: 2021-01-11
-key: JavaJava.W.Watchable
+key: Java.W.Watchable
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'interface java', 'Java 1.7']
 sidebar: 

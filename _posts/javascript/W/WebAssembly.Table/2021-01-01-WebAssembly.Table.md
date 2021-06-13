@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.Table
-permalink: Javascript/WebAssembly/Table
+permalink: /Javascript/WebAssembly/Table/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.Table
+key: Javascript.W.WebAssembly.Table
 category: javascript
 tags: ['objeto javascript']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.insert_double()
-permalink: Java/_DynArrayStub/insert_double
+permalink: /Java/_DynArrayStub/insert_double/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

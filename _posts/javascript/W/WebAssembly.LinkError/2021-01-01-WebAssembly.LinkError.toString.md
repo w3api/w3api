@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.LinkError.toString()
-permalink: Javascript/WebAssembly/LinkError/toString
+permalink: /Javascript/WebAssembly/LinkError/toString/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.LinkError
+key: Javascript.W.WebAssembly.LinkError
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

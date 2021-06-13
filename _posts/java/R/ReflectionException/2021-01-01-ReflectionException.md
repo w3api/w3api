@@ -2,7 +2,7 @@
 title: ReflectionException
 permalink: Java/ReflectionException
 date: 2021-01-11
-key: JavaJava.R.ReflectionException
+key: Java.R.ReflectionException
 category: java
 tags: ['java se', 'javax.management', 'java.management', 'clase java', 'Java 1.5']
 sidebar: 

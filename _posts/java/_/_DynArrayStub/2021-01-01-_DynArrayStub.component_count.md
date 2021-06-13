@@ -1,6 +1,6 @@
 ---
 title: _DynArrayStub.component_count()
-permalink: Java/_DynArrayStub/component_count
+permalink: /Java/_DynArrayStub/component_count/
 date: 2021-01-11
 key: JavaJava._._DynArrayStub
 category: java

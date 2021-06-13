@@ -2,7 +2,7 @@
 title: ReadPendingException.ReadPendingException()
 permalink: Java/ReadPendingException/ReadPendingException
 date: 2021-01-11
-key: JavaJava.R.ReadPendingException
+key: Java.R.ReadPendingException
 category: java
 tags: ['java se', 'java.nio.channels', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

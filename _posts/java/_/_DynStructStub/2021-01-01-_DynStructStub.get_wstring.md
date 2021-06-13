@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.get_wstring()
-permalink: Java/_DynStructStub/get_wstring
+permalink: /Java/_DynStructStub/get_wstring/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

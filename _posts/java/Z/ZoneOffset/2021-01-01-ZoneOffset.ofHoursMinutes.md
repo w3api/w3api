@@ -1,6 +1,6 @@
 ---
 title: ZoneOffset.ofHoursMinutes()
-permalink: Java/ZoneOffset/ofHoursMinutes
+permalink: /Java/ZoneOffset/ofHoursMinutes/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffset
 category: java

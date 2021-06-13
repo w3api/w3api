@@ -1,8 +1,8 @@
 ---
 title: WebServiceException
-permalink: Java/WebServiceException
+permalink: /Java/WebServiceException/
 date: 2021-01-11
-key: JavaJava.W.WebServiceException
+key: Java.W.WebServiceException
 category: java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'clase java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 

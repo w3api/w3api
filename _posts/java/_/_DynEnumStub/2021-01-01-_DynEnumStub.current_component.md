@@ -1,6 +1,6 @@
 ---
 title: _DynEnumStub.current_component()
-permalink: Java/_DynEnumStub/current_component
+permalink: /Java/_DynEnumStub/current_component/
 date: 2021-01-11
 key: JavaJava._._DynEnumStub
 category: java

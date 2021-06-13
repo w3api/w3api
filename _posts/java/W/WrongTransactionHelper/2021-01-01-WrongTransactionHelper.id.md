@@ -1,8 +1,8 @@
 ---
 title: WrongTransactionHelper.id()
-permalink: Java/WrongTransactionHelper/id
+permalink: /Java/WrongTransactionHelper/id/
 date: 2021-01-11
-key: JavaJava.W.WrongTransactionHelper
+key: Java.W.WrongTransactionHelper
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'metodo java', 'Java 1.0']
 sidebar: 

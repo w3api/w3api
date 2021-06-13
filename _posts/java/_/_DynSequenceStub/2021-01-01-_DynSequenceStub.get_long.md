@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.get_long()
-permalink: Java/_DynSequenceStub/get_long
+permalink: /Java/_DynSequenceStub/get_long/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

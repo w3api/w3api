@@ -1,8 +1,8 @@
 ---
 title: RangeError.fileName
-permalink: Javascript/RangeError/fileName
+permalink: /Javascript/RangeError/fileName/
 date: 2021-01-11
-key: JavascriptJavascript.R.RangeError
+key: Javascript.R.RangeError
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

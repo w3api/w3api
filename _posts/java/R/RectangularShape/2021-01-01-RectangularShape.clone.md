@@ -2,7 +2,7 @@
 title: RectangularShape.clone()
 permalink: Java/RectangularShape/clone
 date: 2021-01-11
-key: JavaJava.R.RectangularShape
+key: Java.R.RectangularShape
 category: java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'metodo java', 'Java 1.2']
 sidebar: 

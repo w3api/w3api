@@ -1,6 +1,6 @@
 ---
 title: _NamingContextStub.bind_new_context()
-permalink: Java/_NamingContextStub/bind_new_context
+permalink: /Java/_NamingContextStub/bind_new_context/
 date: 2021-01-11
 key: JavaJava._._NamingContextStub
 category: java

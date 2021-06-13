@@ -1,8 +1,8 @@
 ---
 title: WeakEventHandler
-permalink: Java/WeakEventHandler
+permalink: /Java/WeakEventHandler/
 date: 2021-01-11
-key: JavaJava.W.WeakEventHandler
+key: Java.W.WeakEventHandler
 category: java
 tags: ['java se', 'javafx.event', 'javafx.base', 'clase java', 'JavaFX 8.0']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RoundRectangle2D.Double.arcwidth
 permalink: Java/RoundRectangle2D/Double/arcwidth
 date: 2021-01-11
-key: JavaJava.R.RoundRectangle2D.Double
+key: Java.R.RoundRectangle2D.Double
 category: java
 tags: ['java se', 'java.awt.geom', 'java.desktop', 'campo java', 'Java 1.2']
 sidebar: 

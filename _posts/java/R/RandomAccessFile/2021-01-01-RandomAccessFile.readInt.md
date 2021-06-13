@@ -2,7 +2,7 @@
 title: RandomAccessFile.readInt()
 permalink: Java/RandomAccessFile/readInt
 date: 2021-01-11
-key: JavaJava.R.RandomAccessFile
+key: Java.R.RandomAccessFile
 category: java
 tags: ['java se', 'java.io', 'java.base', 'metodo java', 'Java 1.0']
 sidebar: 

@@ -2,7 +2,7 @@
 title: ResourceRequestDeniedException
 permalink: Java/ResourceRequestDeniedException
 date: 2021-01-11
-key: JavaJava.R.ResourceRequestDeniedException
+key: Java.R.ResourceRequestDeniedException
 category: java
 tags: ['java se', 'jdk.management.resource', 'jdk.management.resource', 'clase java', '8u40']
 sidebar: 

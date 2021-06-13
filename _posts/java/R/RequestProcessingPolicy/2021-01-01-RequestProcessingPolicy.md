@@ -2,7 +2,7 @@
 title: RequestProcessingPolicy
 permalink: Java/RequestProcessingPolicy
 date: 2021-01-11
-key: JavaJava.R.RequestProcessingPolicy
+key: Java.R.RequestProcessingPolicy
 category: java
 tags: ['java se', 'org.omg.PortableServer', 'java.corba', 'interface java', 'Java 1.0']
 sidebar: 

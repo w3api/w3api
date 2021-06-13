@@ -2,7 +2,7 @@
 title: ReferenceQueue
 permalink: Java/ReferenceQueue
 date: 2021-01-11
-key: JavaJava.R.ReferenceQueue
+key: Java.R.ReferenceQueue
 category: java
 tags: ['java se', 'java.lang.ref', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: WindowFocusListener.windowGainedFocus()
-permalink: Java/WindowFocusListener/windowGainedFocus
+permalink: /Java/WindowFocusListener/windowGainedFocus/
 date: 2021-01-11
-key: JavaJava.W.WindowFocusListener
+key: Java.W.WindowFocusListener
 category: java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.4']
 sidebar: 

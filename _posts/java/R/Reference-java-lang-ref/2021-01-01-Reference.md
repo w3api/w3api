@@ -2,7 +2,7 @@
 title: Reference
 permalink: Java/Reference-java-lang-ref
 date: 2021-01-11
-key: JavaJava.R.Reference-java-lang-ref
+key: Java.R.Reference-java-lang-ref
 category: java
 tags: ['java se', 'java.lang.ref', 'java.base', 'clase java', 'Java 1.2']
 sidebar: 

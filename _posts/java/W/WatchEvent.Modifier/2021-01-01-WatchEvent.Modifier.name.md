@@ -1,8 +1,8 @@
 ---
 title: WatchEvent.Modifier.name()
-permalink: Java/WatchEvent/Modifier/name
+permalink: /Java/WatchEvent/Modifier/name/
 date: 2021-01-11
-key: JavaJava.W.WatchEvent.Modifier
+key: Java.W.WatchEvent.Modifier
 category: java
 tags: ['java se', 'java.nio.file', 'java.base', 'metodo java', 'Java 1.7']
 sidebar: 

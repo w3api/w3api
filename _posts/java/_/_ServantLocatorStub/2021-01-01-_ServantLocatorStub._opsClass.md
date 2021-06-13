@@ -1,6 +1,6 @@
 ---
 title: _ServantLocatorStub._opsClass
-permalink: Java/_ServantLocatorStub/_opsClass
+permalink: /Java/_ServantLocatorStub/_opsClass/
 date: 2021-01-11
 key: JavaJava._._ServantLocatorStub
 category: java

@@ -2,7 +2,7 @@
 title: ReadOnlyDoublePropertyBase.ReadOnlyDoublePropertyBase()
 permalink: Java/ReadOnlyDoublePropertyBase/ReadOnlyDoublePropertyBase
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyDoublePropertyBase
+key: Java.R.ReadOnlyDoublePropertyBase
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

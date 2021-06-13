@@ -1,6 +1,6 @@
 ---
 title: ZoneOffset.toString()
-permalink: Java/ZoneOffset/toString
+permalink: /Java/ZoneOffset/toString/
 date: 2021-01-11
 key: JavaJava.Z.ZoneOffset
 category: java

@@ -1,8 +1,8 @@
 ---
 title: WorkerStateEvent.ANY
-permalink: Java/WorkerStateEvent/ANY
+permalink: /Java/WorkerStateEvent/ANY/
 date: 2021-01-11
-key: JavaJava.W.WorkerStateEvent
+key: Java.W.WorkerStateEvent
 category: java
 tags: ['java se', 'javafx.concurrent', 'javafx.graphics', 'campo java', 'JavaFX 2.1']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _DynAnyStub
-permalink: Java/_DynAnyStub
+permalink: /Java/_DynAnyStub/
 date: 2021-01-11
 key: JavaJava._._DynAnyStub
 category: java

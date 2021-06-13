@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.destroy()
-permalink: Java/_DynStructStub/destroy
+permalink: /Java/_DynStructStub/destroy/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

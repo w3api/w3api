@@ -1,8 +1,8 @@
 ---
 title: WebSocket.MessagePart
-permalink: Java/WebSocket/MessagePart
+permalink: /Java/WebSocket/MessagePart/
 date: 2021-01-11
-key: JavaJava.W.WebSocket.MessagePart
+key: Java.W.WebSocket.MessagePart
 category: java
 tags: ['java se', 'jdk.incubator.http', 'jdk.incubator.httpclient', 'enumerado java', 'Java 9']
 sidebar: 

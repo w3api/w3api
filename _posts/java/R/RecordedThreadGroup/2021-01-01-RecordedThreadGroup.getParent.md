@@ -2,7 +2,7 @@
 title: RecordedThreadGroup.getParent()
 permalink: Java/RecordedThreadGroup/getParent
 date: 2021-01-11
-key: JavaJava.R.RecordedThreadGroup
+key: Java.R.RecordedThreadGroup
 category: java
 tags: ['java se', 'jdk.jfr.consumer', 'jdk.jfr', 'metodo java', 'Java 9']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RowIdLifetime.values()
 permalink: Java/RowIdLifetime/values
 date: 2021-01-11
-key: JavaJava.R.RowIdLifetime
+key: Java.R.RowIdLifetime
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.6']
 sidebar: 

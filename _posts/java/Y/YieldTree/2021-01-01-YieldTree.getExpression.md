@@ -1,8 +1,8 @@
 ---
 title: YieldTree.getExpression()
-permalink: Java/YieldTree/getExpression
+permalink: /Java/YieldTree/getExpression/
 date: 2021-01-11
-key: JavaJava.Y.YieldTree
+key: Java.Y.YieldTree
 category: java
 tags: ['java se', 'jdk.nashorn.api.tree', 'jdk.scripting.nashorn', 'metodo java', 'Java 9']
 sidebar: 

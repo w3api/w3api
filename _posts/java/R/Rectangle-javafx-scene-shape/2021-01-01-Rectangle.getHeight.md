@@ -2,7 +2,7 @@
 title: Rectangle.getHeight()
 permalink: Java/Rectangle-javafx-scene-shape/getHeight
 date: 2021-01-11
-key: JavaJava.R.Rectangle-javafx-scene-shape
+key: Java.R.Rectangle-javafx-scene-shape
 category: java
 tags: ['java se', 'javafx.scene.shape', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

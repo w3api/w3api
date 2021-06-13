@@ -1,8 +1,8 @@
 ---
 title: WebAssembly.RuntimeError.toString()
-permalink: Javascript/WebAssembly/RuntimeError/toString
+permalink: /Javascript/WebAssembly/RuntimeError/toString/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.RuntimeError
+key: Javascript.W.WebAssembly.RuntimeError
 category: javascript
 tags: ['metodo javascript']
 sidebar: 

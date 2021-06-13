@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.next()
-permalink: Java/_DynStructStub/next
+permalink: /Java/_DynStructStub/next/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

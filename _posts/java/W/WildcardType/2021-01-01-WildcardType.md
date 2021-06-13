@@ -1,8 +1,8 @@
 ---
 title: WildcardType
-permalink: Java/WildcardType/
+permalink: /Java/WildcardType//
 date: 2021-01-11
-key: JavaJava.W.WildcardType
+key: Java.W.WildcardType
 category: java
 tags: ['java se']
 sidebar: 

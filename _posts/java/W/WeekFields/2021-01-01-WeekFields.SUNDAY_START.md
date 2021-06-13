@@ -1,8 +1,8 @@
 ---
 title: WeekFields.SUNDAY_START
-permalink: Java/WeekFields/SUNDAY_START
+permalink: /Java/WeekFields/SUNDAY_START/
 date: 2021-01-11
-key: JavaJava.W.WeekFields
+key: Java.W.WeekFields
 category: java
 tags: ['java se', 'java.time.temporal', 'java.base', 'campo java', 'Java 1.8']
 sidebar: 

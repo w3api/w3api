@@ -1,6 +1,6 @@
 ---
 title: _DynValueStub.insert_typecode()
-permalink: Java/_DynValueStub/insert_typecode
+permalink: /Java/_DynValueStub/insert_typecode/
 date: 2021-01-11
 key: JavaJava._._DynValueStub
 category: java

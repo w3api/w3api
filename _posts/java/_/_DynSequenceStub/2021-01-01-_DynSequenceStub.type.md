@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.type()
-permalink: Java/_DynSequenceStub/type
+permalink: /Java/_DynSequenceStub/type/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

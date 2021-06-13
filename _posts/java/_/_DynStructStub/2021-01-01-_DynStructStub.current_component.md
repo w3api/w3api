@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.current_component()
-permalink: Java/_DynStructStub/current_component
+permalink: /Java/_DynStructStub/current_component/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

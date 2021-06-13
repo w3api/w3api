@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.copy()
-permalink: Java/_DynUnionStub/copy
+permalink: /Java/_DynUnionStub/copy/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

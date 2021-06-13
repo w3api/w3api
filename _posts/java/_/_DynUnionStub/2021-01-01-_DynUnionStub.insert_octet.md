@@ -1,6 +1,6 @@
 ---
 title: _DynUnionStub.insert_octet()
-permalink: Java/_DynUnionStub/insert_octet
+permalink: /Java/_DynUnionStub/insert_octet/
 date: 2021-01-11
 key: JavaJava._._DynUnionStub
 category: java

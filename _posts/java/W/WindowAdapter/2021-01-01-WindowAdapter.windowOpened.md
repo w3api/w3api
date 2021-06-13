@@ -1,8 +1,8 @@
 ---
 title: WindowAdapter.windowOpened()
-permalink: Java/WindowAdapter/windowOpened
+permalink: /Java/WindowAdapter/windowOpened/
 date: 2021-01-11
-key: JavaJava.W.WindowAdapter
+key: Java.W.WindowAdapter
 category: java
 tags: ['java se', 'java.awt.event', 'java.desktop', 'metodo java', 'Java 1.1']
 sidebar: 

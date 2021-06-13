@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.insert_val()
-permalink: Java/_DynStructStub/insert_val
+permalink: /Java/_DynStructStub/insert_val/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

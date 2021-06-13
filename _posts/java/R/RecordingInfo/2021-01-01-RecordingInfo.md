@@ -2,7 +2,7 @@
 title: RecordingInfo
 permalink: Java/RecordingInfo
 date: 2021-01-11
-key: JavaJava.R.RecordingInfo
+key: Java.R.RecordingInfo
 category: java
 tags: ['java se', 'jdk.management.jfr', 'jdk.management.jfr', 'clase java', 'Java 9']
 sidebar: 

@@ -1,8 +1,8 @@
 ---
 title: WatchpointEvent
-permalink: Java/WatchpointEvent
+permalink: /Java/WatchpointEvent/
 date: 2021-01-11
-key: JavaJava.W.WatchpointEvent
+key: Java.W.WatchpointEvent
 category: java
 tags: ['java se', 'com.sun.jdi.event', 'jdk.jdi', 'interface java', 'Java 1.3']
 sidebar: 

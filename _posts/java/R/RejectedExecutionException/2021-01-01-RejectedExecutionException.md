@@ -2,7 +2,7 @@
 title: RejectedExecutionException
 permalink: Java/RejectedExecutionException
 date: 2021-01-11
-key: JavaJava.R.RejectedExecutionException
+key: Java.R.RejectedExecutionException
 category: java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'clase java', 'Java 1.5']
 sidebar: 

@@ -2,7 +2,7 @@
 title: ResolvedModule.reference()
 permalink: Java/ResolvedModule/reference
 date: 2021-01-11
-key: JavaJava.R.ResolvedModule
+key: Java.R.ResolvedModule
 category: java
 tags: ['java se', 'java.lang.module', 'java.base', 'metodo java', 'Java 9']
 sidebar: 

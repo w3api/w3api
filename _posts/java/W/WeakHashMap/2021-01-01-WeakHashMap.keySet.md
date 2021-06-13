@@ -1,8 +1,8 @@
 ---
 title: WeakHashMap.keySet()
-permalink: Java/WeakHashMap/keySet
+permalink: /Java/WeakHashMap/keySet/
 date: 2021-01-11
-key: JavaJava.W.WeakHashMap
+key: Java.W.WeakHashMap
 category: java
 tags: ['java se', 'java.util', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

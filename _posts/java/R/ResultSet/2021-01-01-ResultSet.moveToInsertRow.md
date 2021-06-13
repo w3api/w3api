@@ -2,7 +2,7 @@
 title: ResultSet.moveToInsertRow()
 permalink: Java/ResultSet/moveToInsertRow
 date: 2021-01-11
-key: JavaJava.R.ResultSet
+key: Java.R.ResultSet
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'metodo java', 'Java 1.1']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _BindingIteratorStub.destroy()
-permalink: Java/_BindingIteratorStub/destroy
+permalink: /Java/_BindingIteratorStub/destroy/
 date: 2021-01-11
 key: JavaJava._._BindingIteratorStub
 category: java

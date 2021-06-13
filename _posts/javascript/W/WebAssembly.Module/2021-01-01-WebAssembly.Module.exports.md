@@ -1,8 +1,8 @@
 ---
-title: WebAssembly.Module.exports()
-permalink: Javascript/WebAssembly/Module/exports()
+title: WebAssembly.Module.exports
+permalink: /Javascript/WebAssembly/Module/exports/
 date: 2021-01-11
-key: JavascriptJavascript.W.WebAssembly.Module
+key: Javascript.W.WebAssembly.Module
 category: javascript
 tags: ['propiedad javascript']
 sidebar: 

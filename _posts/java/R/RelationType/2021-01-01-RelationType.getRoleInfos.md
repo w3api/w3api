@@ -2,7 +2,7 @@
 title: RelationType.getRoleInfos()
 permalink: Java/RelationType/getRoleInfos
 date: 2021-01-11
-key: JavaJava.R.RelationType
+key: Java.R.RelationType
 category: java
 tags: ['java se', 'javax.management.relation', 'java.management', 'metodo java', 'Java 1.5']
 sidebar: 

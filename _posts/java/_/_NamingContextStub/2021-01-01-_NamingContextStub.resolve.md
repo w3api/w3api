@@ -1,6 +1,6 @@
 ---
 title: _NamingContextStub.resolve()
-permalink: Java/_NamingContextStub/resolve
+permalink: /Java/_NamingContextStub/resolve/
 date: 2021-01-11
 key: JavaJava._._NamingContextStub
 category: java

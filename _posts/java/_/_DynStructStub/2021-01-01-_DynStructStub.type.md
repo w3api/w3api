@@ -1,6 +1,6 @@
 ---
 title: _DynStructStub.type()
-permalink: Java/_DynStructStub/type
+permalink: /Java/_DynStructStub/type/
 date: 2021-01-11
 key: JavaJava._._DynStructStub
 category: java

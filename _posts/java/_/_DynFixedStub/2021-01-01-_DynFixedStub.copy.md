@@ -1,6 +1,6 @@
 ---
 title: _DynFixedStub.copy()
-permalink: Java/_DynFixedStub/copy
+permalink: /Java/_DynFixedStub/copy/
 date: 2021-01-11
 key: JavaJava._._DynFixedStub
 category: java

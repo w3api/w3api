@@ -1,8 +1,8 @@
 ---
 title: WritableDoubleValue.get()
-permalink: Java/WritableDoubleValue/get
+permalink: /Java/WritableDoubleValue/get/
 date: 2021-01-11
-key: JavaJava.W.WritableDoubleValue
+key: Java.W.WritableDoubleValue
 category: java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

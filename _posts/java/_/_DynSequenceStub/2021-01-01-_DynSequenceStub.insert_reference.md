@@ -1,6 +1,6 @@
 ---
 title: _DynSequenceStub.insert_reference()
-permalink: Java/_DynSequenceStub/insert_reference
+permalink: /Java/_DynSequenceStub/insert_reference/
 date: 2021-01-11
 key: JavaJava._._DynSequenceStub
 category: java

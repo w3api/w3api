@@ -1,8 +1,8 @@
 ---
 title: WritableBooleanValue
-permalink: Java/WritableBooleanValue
+permalink: /Java/WritableBooleanValue/
 date: 2021-01-11
-key: JavaJava.W.WritableBooleanValue
+key: Java.W.WritableBooleanValue
 category: java
 tags: ['java se', 'javafx.beans.value', 'javafx.base', 'interface java', 'JavaFX 2.0']
 sidebar: 

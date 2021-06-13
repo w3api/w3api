@@ -2,7 +2,7 @@
 title: RotateTransition.nodeProperty()
 permalink: Java/RotateTransition/nodeProperty
 date: 2021-01-11
-key: JavaJava.R.RotateTransition
+key: Java.R.RotateTransition
 category: java
 tags: ['java se', 'javafx.animation', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

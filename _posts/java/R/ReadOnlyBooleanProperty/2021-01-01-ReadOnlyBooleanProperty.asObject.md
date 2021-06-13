@@ -2,7 +2,7 @@
 title: ReadOnlyBooleanProperty.asObject()
 permalink: Java/ReadOnlyBooleanProperty/asObject
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyBooleanProperty
+key: Java.R.ReadOnlyBooleanProperty
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'metodo java', 'JavaFX 2.0']
 sidebar: 

@@ -1,6 +1,6 @@
 ---
 title: _DynAnyStub.insert_double()
-permalink: Java/_DynAnyStub/insert_double
+permalink: /Java/_DynAnyStub/insert_double/
 date: 2021-01-11
 key: JavaJava._._DynAnyStub
 category: java

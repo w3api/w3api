@@ -2,7 +2,7 @@
 title: RowConstraints.setMinHeight()
 permalink: Java/RowConstraints/setMinHeight
 date: 2021-01-11
-key: JavaJava.R.RowConstraints
+key: Java.R.RowConstraints
 category: java
 tags: ['java se', 'javafx.scene.layout', 'javafx.graphics', 'metodo java', 'JavaFX 2.0']
 sidebar: 

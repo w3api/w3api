@@ -1,8 +1,8 @@
 ---
 title: WCharSeqHolder.value
-permalink: Java/WCharSeqHolder/value
+permalink: /Java/WCharSeqHolder/value/
 date: 2021-01-11
-key: JavaJava.W.WCharSeqHolder
+key: Java.W.WCharSeqHolder
 category: java
 tags: ['java se', 'org.omg.CORBA', 'java.corba', 'campo java', 'Java 1.0']
 sidebar: 

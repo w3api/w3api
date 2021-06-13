@@ -2,7 +2,7 @@
 title: ReferenceQueue.remove()
 permalink: Java/ReferenceQueue/remove
 date: 2021-01-11
-key: JavaJava.R.ReferenceQueue
+key: Java.R.ReferenceQueue
 category: java
 tags: ['java se', 'java.lang.ref', 'java.base', 'metodo java', 'Java 1.2']
 sidebar: 

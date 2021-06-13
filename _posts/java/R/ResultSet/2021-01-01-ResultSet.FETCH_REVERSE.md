@@ -2,7 +2,7 @@
 title: ResultSet.FETCH_REVERSE
 permalink: Java/ResultSet/FETCH_REVERSE
 date: 2021-01-11
-key: JavaJava.R.ResultSet
+key: Java.R.ResultSet
 category: java
 tags: ['java se', 'java.sql', 'java.sql', 'campo java', 'Java 1.1']
 sidebar: 

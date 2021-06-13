@@ -2,7 +2,7 @@
 title: ReadOnlyObjectProperty
 permalink: Java/ReadOnlyObjectProperty
 date: 2021-01-11
-key: JavaJava.R.ReadOnlyObjectProperty
+key: Java.R.ReadOnlyObjectProperty
 category: java
 tags: ['java se', 'javafx.beans.property', 'javafx.base', 'clase java', 'JavaFX 2.0']
 sidebar: 

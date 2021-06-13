@@ -1,8 +1,8 @@
 ---
 title: WindowEvent
-permalink: Java/WindowEvent/
+permalink: /Java/WindowEvent//
 date: 2021-01-11
-key: JavaJava.W.WindowEvent
+key: Java.W.WindowEvent
 category: java
 tags: ['java se']
 sidebar: 

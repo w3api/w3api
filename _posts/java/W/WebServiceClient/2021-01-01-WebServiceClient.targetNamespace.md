@@ -1,8 +1,8 @@
 ---
 title: WebServiceClient.targetNamespace
-permalink: Java/WebServiceClient/targetNamespace
+permalink: /Java/WebServiceClient/targetNamespace/
 date: 2021-01-11
-key: JavaJava.W.WebServiceClient
+key: Java.W.WebServiceClient
 category: java
 tags: ['java se', 'javax.xml.ws', 'java.xml.ws', 'elemento java', 'Java 1.6', 'JAX-WS 2.0']
 sidebar: 

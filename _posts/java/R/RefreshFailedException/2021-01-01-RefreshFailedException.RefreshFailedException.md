@@ -2,7 +2,7 @@
 title: RefreshFailedException.RefreshFailedException()
 permalink: Java/RefreshFailedException/RefreshFailedException
 date: 2021-01-11
-key: JavaJava.R.RefreshFailedException
+key: Java.R.RefreshFailedException
 category: java
 tags: ['java se', 'javax.security.auth', 'java.base', 'metodo java', 'Java 1.4']
 sidebar: 

@@ -2,7 +2,7 @@
 title: RunnableScheduledFuture.isPeriodic()
 permalink: Java/RunnableScheduledFuture/isPeriodic
 date: 2021-01-11
-key: JavaJava.R.RunnableScheduledFuture
+key: Java.R.RunnableScheduledFuture
 category: java
 tags: ['java se', 'java.util.concurrent', 'java.base', 'metodo java', 'Java 1.6']
 sidebar: 
